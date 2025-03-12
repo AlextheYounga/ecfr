@@ -1,5 +1,7 @@
 ##### § 206.3 Definitions. #####
 
+Link to an amendment published at 88 FR 12828, Mar. 1, 2023.
+
 As used in this part, the following terms shall have the meaning indicated.
 
 *Bona fide tenant* means a tenant of the property who is not a mortgagor, borrower, a spouse or child of a mortgagor or borrower, or any other member of a mortgagor's or borrower's family.

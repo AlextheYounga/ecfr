@@ -1,0 +1,3 @@
+##### § 180.340 If I disclose unfavorable information required under § 180.335, will I be prevented from participating in the transaction? #####
+
+As a primary tier participant, your disclosure of unfavorable information about yourself or a principal under § 180.335 will not necessarily cause a Federal agency to deny your participation in the covered transaction. The agency will consider the information when it determines whether to enter into the covered transaction. The agency will also consider any additional information or explanation that you elect to submit with the disclosed information.

@@ -1,1 +1,1 @@
-##### 227.7103 Noncommercial items or processes. #####
+##### 227.7103 Other than commercial products, commercial services, or commercial processes. #####

@@ -1,8 +1,8 @@
 ##### 227.7203-5 Government rights. #####
 
-The standard license rights in computer software that a licensor grants to the Government are unlimited rights, government purpose rights, or restricted rights. The standard license in computer software documentation conveys unlimited rights. Those rights are defined in the clause at 252.227-7014, Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation . In unusual situations, the standard rights may not satisfy the Government's needs or the Government may be willing to accept lesser rights in return for other consideration. In those cases, a special license may be negotiated. However, the licensor is not obligated to provide the Government greater rights and the contracting officer is not required to accept lesser rights than the rights provided in the standard grant of license. The situations under which a particular grant of license applies are enumerated in paragraphs (a) through (d) of this section.
+The standard license rights in computer software that a licensor grants to the Government are unlimited rights, government purpose rights, or restricted rights. The standard license in computer software documentation conveys unlimited rights. Those rights are defined in the clause at 252.227-7014, Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation. In unusual situations, the standard rights may not satisfy the Government's needs or the Government may be willing to accept lesser rights in return for other consideration. In those cases, a special license may be negotiated. However, the licensor is not obligated to provide the Government greater rights and the contracting officer is not required to accept lesser rights than the rights provided in the standard grant of license. The situations under which a particular grant of license applies are enumerated in paragraphs (a) through (d) of this section.
 
-(a) *Unlimited rights.* The Government obtains an unlimited rights license in -
+(a) *Unlimited rights.* The Government obtains an unlimited rights license in—
 
 (1) Computer software developed exclusively with Government funds;
 
@@ -14,7 +14,7 @@ The standard license rights in computer software that a licensor grants to the G
 
 (5) Computer software or computer software documentation obtained with unlimited rights under another Government contract or as a result of negotiations; or
 
-(6) Computer software or computer software documentation furnished to the Government, under a Government contract or subcontract with -
+(6) Computer software or computer software documentation furnished to the Government, under a Government contract or subcontract with—
 
 (i) Restricted rights in computer software, limited rights in technical data, or government purpose license rights and the restrictive conditions have expired; or
 
@@ -26,7 +26,7 @@ The standard license rights in computer software that a licensor grants to the G
 
 (3) The government purpose rights period commences upon execution of the contract, subcontract, letter contract (or similar contractual instrument), contract modification, or option exercise that required development of the computer software. Upon expiration of the government purpose rights period, the Government has unlimited rights in the software including the right to authorize others to use data for commercial purposes.
 
-(4) During the government purpose rights period, the Government may not use, or authorize other persons to use, computer software marked with government purpose rights legends for commercial purposes. The Government shall not release or disclose, or authorize others to release or disclose, computer software in which it has government purpose rights to any person unless -
+(4) During the government purpose rights period, the Government may not use, or authorize other persons to use, computer software marked with government purpose rights legends for commercial purposes. The Government shall not release or disclose, or authorize others to release or disclose, computer software in which it has government purpose rights to any person unless—
 
 (i) Prior to release or disclosure, the intended recipient is subject to the use and non-disclosure agreement at 227.7103-7; or
 

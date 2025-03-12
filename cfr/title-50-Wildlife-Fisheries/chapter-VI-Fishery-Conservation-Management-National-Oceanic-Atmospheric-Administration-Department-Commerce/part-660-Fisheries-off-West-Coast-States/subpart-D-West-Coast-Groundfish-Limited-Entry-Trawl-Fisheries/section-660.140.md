@@ -8,7 +8,7 @@
 
 (3) The Shorebased IFQ Program may be restricted or closed as a result of projected overages within the Shorebased IFQ Program, the MS Coop Program, or the C/P Coop Program. As determined necessary by the Regional Administrator, area restrictions, season closures, or other measures will be used to prevent the trawl sector in aggregate or the individual trawl sectors (Shorebased IFQ, MS Coop, or C/P Coop) from exceeding an ACL, OY, ACT or formal allocation specified in the PCGFMP or regulation at § 660.55, subpart C, or §§ 660.140, 660.150, or 660.160, subpart D.
 
-(b) *Participation requirements and responsibilities* - (1) *IFQ vessels.* (i) Vessels must be registered to a groundfish limited entry permit, endorsed for trawl gear with no C/P endorsement.
+(b) *Participation requirements and responsibilities*—(1) *IFQ vessels.* (i) Vessels must be registered to a groundfish limited entry permit, endorsed for trawl gear with no C/P endorsement.
 
 (ii) To start a fishing trip in the Shorebased IFQ Program, a vessel and its owner(s) (as described on the USCG documentation or state registration document) must be registered to the same vessel account established by NMFS with no deficit (negative balance) for any species/species group.
 
@@ -70,13 +70,13 @@
 
 (iii) For IFQ species listed in the trawl/non-trawl allocation table, specified at § 660.55(c), subpart C, allocations are determined by applying the trawl column percent to the fishery harvest guideline minus any set-asides for the mothership and C/P sectors for that species.
 
-(iv) The remaining IFQ species (canary rockfish, bocaccio, cowcod, yelloweye rockfish, darkblotched rockfish, POP, widow rockfish, minor shelf rockfish N of 40°10′ N lat., and minor shelf rockfish S of 40°10′ N lat., and minor slope rockfish S of 40°10′ N lat.) are allocated through the biennial specifications and management measures process minus any set-asides for the mothership and C/P sectors for that species.
+(iv) The remaining IFQ species (bocaccio, canary rockfish, cowcod, darkblotched rockfish, lingcod S of 40°10′ N lat., minor shelf rockfish N of 40°10′ N lat., minor shelf rockfish S of 40°10′ N lat., and minor slope rockfish S of 40°10′ N lat., POP, widow rockfish, and yelloweye rockfish) are allocated through the biennial specifications and management measures process minus any set-asides for the mothership and C/P sectors for that species.
 
 (v) For Pacific halibut N. of 40°10′ N. lat., the Shorebased IFQ Program allocation is specified at 660.55(m).
 
 (vi) For each IFQ species, NMFS will determine annual sub-allocations to individual QS accounts by multiplying the percent of QS or IBQ registered to the account by the amount of each respective IFQ species allocated to the Shorebased IFQ Program for that year. For each IFQ species, NMFS will deposit QP or IBQ pounds in the respective QS account in the amount of each sub-allocation determined.
 
-(vii) *Reallocations* - (A) *Reallocation with changes in management areas.*
+(vii) *Reallocations*—(A) *Reallocation with changes in management areas.*
 
 (*1*) *Area subdivision.* If at any time after the initial allocation, an IFQ species is geographically subdivided, those holding QS or IBQ for the IFQ species being subdivided will receive an amount of QS or IBQ for each newly created area that is equivalent to the amount they held for the area before it was subdivided.
 
@@ -90,7 +90,7 @@
 
 (B) *Reallocation with subdivision of a species group.* If at any time after the initial allocation an IFQ species which is a species group is subdivided, each species or species group resulting from the subdivision will be an IFQ species. QS owners for the species group being subdivided will receive an amount of QS for each newly created IFQ species that is equivalent to the amount they held for the species group before it was subdivided. For example, if a person holds one percent of a species group before the subdivision, that person will hold one percent of the QS for each IFQ species resulting from the subdivision.
 
-(d) *QS permits and QS accounts* - (1) *General.* In order to obtain QS and/or IBQ, a person must apply for a QS permit. NMFS will determine if the applicant is eligible to own QS and/or IBQ in accordance with paragraph (d)(2) of this section. If eligible, NMFS will issue a QS permit, and will establish a QS account to track QS and IBQ balances for all IFQ species identified at § 660.140(c)(1). NMFS will issue initial allocations of QS and IBQ in accordance with paragraph (d)(8) of this section. Transfers of QS and IBQ, and of QP or IBQ pounds, are subject to provisions at paragraph (d)(3) of this section. QS permit owners can monitor the status of their QS and IBQ, and associated QP and IBQ pounds, throughout the year in their QS account.
+(d) *QS permits and QS accounts*—(1) *General.* In order to obtain QS and/or IBQ, a person must apply for a QS permit. NMFS will determine if the applicant is eligible to own QS and/or IBQ in accordance with paragraph (d)(2) of this section. If eligible, NMFS will issue a QS permit, and will establish a QS account to track QS and IBQ balances for all IFQ species identified at § 660.140(c)(1). NMFS will issue initial allocations of QS and IBQ in accordance with paragraph (d)(8) of this section. Transfers of QS and IBQ, and of QP or IBQ pounds, are subject to provisions at paragraph (d)(3) of this section. QS permit owners can monitor the status of their QS and IBQ, and associated QP and IBQ pounds, throughout the year in their QS account.
 
 (i) *Annual QS adjustments.* On or about January 1 each year, QS permit owners will be notified, via the IFQ Web site and their QS account, of any adjustments to their QS and/or IBQ allocations, for each of the IFQ species. Updated QS and/or IBQ values, if applicable, will reflect the results of: any recalculation of initial allocation formulas resulting from changes in provisional OYs used in the allocation formulas or appeals, any redistribution of QS and IBQ (e.g., resulting from permanent revocation of applicable permits, subject to accumulation limits), and any transfers of QS and/or IBQ made during the prior year.
 
@@ -122,7 +122,7 @@
 
 (D) *Shorebased trawl allocations.* For the trawl fishery, NMFS will issue QP based on the following shorebased trawl allocations:
 
-Table 1 to Paragraph (d)(1)(ii)(D) - Shorebased Trawl Allocations for 2023 and 2024
+Table 1 to Paragraph (d)(1)(ii)(D)—Shorebased Trawl Allocations for 2023 and 2024
 
 |           IFQ species           |        Area         |2023 Shorebased trawl allocation  <br/>(mt)|2024 Shorebased trawl allocation  <br/>(mt)|
 |---------------------------------|---------------------|-------------------------------------------|-------------------------------------------|
@@ -159,7 +159,7 @@ Table 1 to Paragraph (d)(1)(ii)(D) - Shorebased Trawl Allocations for 2023 and 2
 
 <sup>a</sup> Managed through an international process. These allocation will be updated when announced.
 
-(2) *Eligibility and registration* - (i) *Eligibility.* Only the following persons are eligible to own QS permits:
+(2) *Eligibility and registration*—(i) *Eligibility.* Only the following persons are eligible to own QS permits:
 
 (A) A United States citizen, that is eligible to own and control a U.S. fishing vessel with a fishery endorsement pursuant to 46 U.S.C. 12113 (general fishery endorsement requirements and 75 percent citizenship requirement for entities);
 
@@ -177,7 +177,7 @@ Table 1 to Paragraph (d)(1)(ii)(D) - Shorebased Trawl Allocations for 2023 and 2
 
 (C) *Appeals.* If NMFS does not accept the QS permit application, the applicant may appeal the IAD consistent with the general permit appeals process defined at § 660.25(g).
 
-(3) *Renewal, change of permit ownership, and transfers* - (i) *Renewal.* (A) QS permits expire at the end of each calendar year, and must be renewed between October 1 and November 30 of each year in order to remain in effect the following year. A complete QS permit renewal package must be received by NMFS no later than November 30 to be accepted by NMFS. A QS permit owner may submit a paper renewal package after January 1 of the following year as described in paragraph (d)(3)(i)(C) of this section.
+(3) *Renewal, change of permit ownership, and transfers*—(i) *Renewal.* (A) QS permits expire at the end of each calendar year, and must be renewed between October 1 and November 30 of each year in order to remain in effect the following year. A complete QS permit renewal package must be received by NMFS no later than November 30 to be accepted by NMFS. A QS permit owner may submit a paper renewal package after January 1 of the following year as described in paragraph (d)(3)(i)(C) of this section.
 
 (B) Notification to renew QS permits will be sent by SFD by September 15 each year to the QS permit owner's most recent address in the SFD record. The QS permit owner shall provide SFD with notice of any address change within 15 days of the change.
 
@@ -189,7 +189,7 @@ Table 1 to Paragraph (d)(1)(ii)(D) - Shorebased Trawl Allocations for 2023 and 2
 
 (F) *IAD and appeals.* QS permit renewals are subject to the permit appeals process specified at § 660.25(g), subpart C.
 
-(ii) *Change of permit ownership and transfer restrictions* - (A) *Change in QS permit ownership.* Ownership of a QS permit cannot be registered to another individual or entity. The QS permit owner cannot change or add additional individuals or entities as owners of the permit (*i.e.*, cannot change the legal name of the permit owner(s) as given on the permit). Any change in ownership of the QS permit requires the new owner(s) to apply for a QS permit, and is subject to accumulation limits and approval by NMFS.
+(ii) *Change of permit ownership and transfer restrictions*—(A) *Change in QS permit ownership.* Ownership of a QS permit cannot be registered to another individual or entity. The QS permit owner cannot change or add additional individuals or entities as owners of the permit (*i.e.*, cannot change the legal name of the permit owner(s) as given on the permit). Any change in ownership of the QS permit requires the new owner(s) to apply for a QS permit, and is subject to accumulation limits and approval by NMFS.
 
 (B) *Transfers of QS or IBQ or QP or IBQ pounds.* (*1*) *General.* Transfers of QS or IBQ from one QS account to another QS account and transfers of QP or IBQ pounds from a QS account to a vessel account must be accomplished via the online QS account. During the year there may be situations where NMFS deems it necessary to prohibit transfers (*i.e.*, account reconciliation, system maintenance, or for emergency fishery management reasons). To make a transfer, a QS permit owner must initiate a transfer request by logging onto the online QS account. Following the instructions provided on the Web site, the QS permit owner must enter pertinent information regarding the transfer request including, but not limited to: IFQ species, amount of QS, IBQ, QP, or IBQ pounds to be transferred for each IFQ species; name and any other identifier of the eligible transferee (e.g., QS permit number, vessel account number); and the value of the transferred QS, IBQ, QP, or IBQ pounds for each IFQ species. The online system will verify whether all information has been entered and whether the transfer complies with ownership limits or vessel limits, as applicable. If the information is not accepted, an electronic message will record as much in the transferor's QS account explaining the reason(s). If the information is accepted, the online system will record the pending transfer in both the transferor's QS account and the transferee's QS account or vessel account. The transferee must approve the transfer by electronic signature in order for the transfer to be completed. If the transferee accepts the transfer, the online system will record the transfer and confirm the transaction in both the transferor's QS account and the transferee's QS account or vessel account through a transaction confirmation notice. Once the transferee accepts the transaction, the transaction is final and permanent.
 
@@ -197,13 +197,13 @@ Table 1 to Paragraph (d)(1)(ii)(D) - Shorebased Trawl Allocations for 2023 and 2
 
 (*3*) *Transfer of QP or IBQ pounds from a QS account to a vessel account.* QP or IBQ pounds must be transferred in whole pounds (*i.e.,* no fraction of a QP can be transferred). QP or IBQ pounds must be transferred to a vessel account in order to be used. Transfers of QP or IBQ pounds from a QS account to a vessel account are subject to annual vessel accumulation limits and NMFS' approval. Once QP or IBQ pounds are transferred from a QS account to a vessel account (accepted by the transferee/vessel owner), they cannot be transferred back to a QS account and may only be transferred to another vessel account. QP or IBQ pounds may not be transferred from one QS account to another QS account. All QP or IBQ pounds from a QS account must be transferred to one or more vessel accounts by December 31 each year in order to be fished. All QP or IBQ pounds expire at the end of the post-season transfer period of the year after which they were issued. If, in any year, the Regional Administrator makes a decision to reapportion Pacific whiting from the tribal to the non-tribal fishery or NMFS releases additional QP consistent with § 660.60(c) and paragraph (d)(1)(ii) of this section, NMFS will credit QS accounts with additional QP proportionally, based on the QS percent for a particular QS permit owner and the increase in the shorebased trawl allocation specified at paragraph (d)(1)(ii)(D) of this section.
 
-(C) *Effective date* - (*1*) Transfer of QS or IBQ between QS accounts is effective on the date approved by NMFS.
+(C) *Effective date*—(*1*) Transfer of QS or IBQ between QS accounts is effective on the date approved by NMFS.
 
 (*2*) Transfer of QP or IBQ pounds from a QS account to a vessel account is effective on the date approved by NMFS.
 
 (D) *IAD and appeals.* Transfers are subject to the permit appeals process specified at § 660.25 (g), subpart C.
 
-(4) *Accumulation limits* - (i) *QS and IBQ control limits.* QS and IBQ control limits are accumulation limits and are the amount of QS and IBQ that a person, individually or collectively, may own or control. QS and IBQ control limits are expressed as a percentage of the Shorebased IFQ Program's allocation.
+(4) *Accumulation limits*—(i) *QS and IBQ control limits.* QS and IBQ control limits are accumulation limits and are the amount of QS and IBQ that a person, individually or collectively, may own or control. QS and IBQ control limits are expressed as a percentage of the Shorebased IFQ Program's allocation.
 
 (A) *Control limits for individual species.* No person may own or control, or have a controlling influence over, by any means whatsoever an amount of QS or IBQ for any individual species that exceeds the Shorebased IFQ Program accumulation limits.
 
@@ -253,7 +253,7 @@ Accumulation Limits
 |  Yellowtail rockfish N. of 40°10′ N. lat.  |                        5                        |
 |       Non-whiting groundfish species       |                       2.7                       |
 
-(ii) *Ownership - individual and collective rule.* The QS or IBQ that counts toward a person's accumulation limit will include:
+(ii) *Ownership—individual and collective rule.* The QS or IBQ that counts toward a person's accumulation limit will include:
 
 (A) The QS or IBQ owned by that person, and
 
@@ -313,7 +313,7 @@ Accumulation Limits
 
 (7) [Reserved]
 
-(8) *Application requirements and initial issuance for QS permit and QS/IBQ* - (i) *Additional definitions.* The following definitions are applicable to paragraph (d)(8) of this section and apply to terms used for the purposes of application requirements and initial issuance of QS permits and QS/IBQ:
+(8) *Application requirements and initial issuance for QS permit and QS/IBQ*—(i) *Additional definitions.* The following definitions are applicable to paragraph (d)(8) of this section and apply to terms used for the purposes of application requirements and initial issuance of QS permits and QS/IBQ:
 
 (A) *Nonwhiting trip* means a fishing trip where less than 50 percent by weight of all fish reported on the state landing receipt is whiting.
 
@@ -351,7 +351,7 @@ Accumulation Limits
 
 (G) Seventh, for limited entry trawl permits transferred after November 8, 2008, or if transferred earlier, not registered with NMFS by November 30, 2008, for which NMFS determines the owners of such permits would exceed the accumulation limits specified at paragraph (d)(4) of this section based on the previous steps, NMFS will redistribute the excess QS or IBQ to other qualified QS permit owners within the accumulation limits.
 
-(iv) *Allocation formula for specific QS and IBQ amounts* - (A) *Allocation formula rules.* Unless otherwise specified, the following rules will be applied to data for the purpose of calculating an initial allocation of QS and IBQ:
+(iv) *Allocation formula for specific QS and IBQ amounts*—(A) *Allocation formula rules.* Unless otherwise specified, the following rules will be applied to data for the purpose of calculating an initial allocation of QS and IBQ:
 
 (*1*) For limited entry trawl permit owners, a permit will be assigned catch history or relative history based on the landing history of the vessel(s) associated with the permit at the time the landings were made.
 
@@ -592,7 +592,7 @@ Pacific Halibut
 
 (B) *Reassignment of Pacific whiting landings history for shoreside processors.* For shoreside processors, the landing history may be reassigned from the Pacific whiting shoreside first receive identified in the relevant PacFIN database to a shoreside processor that was in fact the first processor of the fish. In order for an applicant to request that landing history be reassigned, an authorized representative for the Pacific whiting shoreside first receiver identified on the state landing receipt must submit, by the application deadline date specified in paragraph (d)(8)(vii)(B) of this section for initial issuance of QS, a written request that the whiting landings history from the qualifying years be conveyed to a shoreside processor. The letter must be signed and dated by the authorized representative of the Pacific whiting shoreside first receiver named on the state landing receipt and signed and dated by the authorized representative of the shoreside processor to which the Pacific whiting landing history is requested to be reassigned. The letter must identify the dates of the landings history and the associated amounts that are requested to be reassigned, and include the legal name of the shoreside processor to which the Pacific whiting landing history is requested to be reassigned, their date of birth or tax identification number, business address, business phone number, fax number, and e-mail address. If any document exists that demonstrates that the shoreside processor to which the Pacific whiting landing history is requested to be reassigned was in fact the first processor of the fish, such documentation must be provided to NMFS. NMFS will review the information submitted and will make a determination as part of the IAD.
 
-(vii) *Submission of the application and application deadline* - (A) *Submission of the application.* Submission of the complete, certified application includes, but is not limited to, the following:
+(vii) *Submission of the application and application deadline*—(A) *Submission of the application.* Submission of the complete, certified application includes, but is not limited to, the following:
 
 (*1*) The applicant is required to sign and date the application and have the document notarized by a licensed Notary Public.
 
@@ -614,7 +614,7 @@ Pacific Halibut
 
 (x) *Appeals.* For QS permits and QS/IBQ issued under this section, the appeals process and timelines are specified at § 660.25(g), subpart C. For the initial issuance of QS/IBQ and the QS permits, the bases for appeal are described in paragraph (d)(8)(vi) of this section. An additional basis for appeal for whiting QS based on shoreside processing is an allegation that the shoreside processor or Pacific whiting shoreside first receiver to which a QS permit and whiting QS have been assigned was not in fact the first processor of the fish included in the qualifying landings history. The appellant must submit credible information supporting the allegation that they were in fact the first shoreside processor for the fish in question. Items not subject to appeal include, but are not limited to, the accuracy of permit landings data or Pacific whiting shoreside first receiver landings data in the relevant PacFIN dataset on July 1, 2010.
 
-(9) *Reallocation of widow rockfish QS* - (i) *Additional definitions.* The following definitions are applicable to paragraph (d)(9) of this section and apply only to terms used for the purposes of reallocation of widow rockfish QS:
+(9) *Reallocation of widow rockfish QS*—(i) *Additional definitions.* The following definitions are applicable to paragraph (d)(9) of this section and apply only to terms used for the purposes of reallocation of widow rockfish QS:
 
 (A) *Nonwhiting trip* means a fishing trip where less than 50 percent by weight of all fish reported on the state landing receipt is whiting.
 
@@ -636,7 +636,7 @@ Pacific Halibut
 
 (D) Fourth, NMFS will reduce the total widow rockfish QS reallocated to QS permit owners by 10 percent as a set aside for AMP.
 
-(iv) *Reallocation formula for specific widow rockfish QS amounts* - (A) *Reallocation formula rules.* The following rules will be applied to data for the purpose of calculating the initial reallocation of widow rockfish QS:
+(iv) *Reallocation formula for specific widow rockfish QS amounts*—(A) *Reallocation formula rules.* The following rules will be applied to data for the purpose of calculating the initial reallocation of widow rockfish QS:
 
 (*1*) Limited entry trawl permits will be assigned catch history or relative history based on the landing history of the vessel(s) associated with the permit at the time the landings were made.
 
@@ -694,7 +694,7 @@ Pacific Halibut
 
 (B) [Reserved]
 
-(vii) *Submission of the application and application deadline* - (A) *Submission of the application.* Submission of the complete, certified application includes, but is not limited to, the following:
+(vii) *Submission of the application and application deadline*—(A) *Submission of the application.* Submission of the complete, certified application includes, but is not limited to, the following:
 
 (*1*) The applicant is required to sign and date the application and declare that the contents are true, correct and complete.
 
@@ -710,17 +710,17 @@ Pacific Halibut
 
 (ix) *Appeals.* For reallocated widow rockfish QS issued under this section, the appeals process and timelines are specified at § 660.25(g), subpart C. For the reallocation of widow rockfish QS, the bases for appeal are described in paragraph (d)(9)(vi) of this section. Items not subject to appeal include, but are not limited to, the accuracy of permit landings data in the relevant PacFIN dataset on July 27, 2016.
 
-(e) *Vessel accounts* - (1) *General.* In order to participate in the Shorebased IFQ Program, a vessel must be registered to an eligible limited entry trawl permit. A vessel account will be established on request for an owner of a vessel registered to an eligible limited entry trawl permit in order to track QP and IBQ pounds. QP or IBQ pounds will have the same species/species groups and area designations as the QS or IBQ from which it was issued. Annually, QS or IBQ (expressed as a percent) are converted to QP or IBQ pounds (expressed as a weight) in a QS account. QP or IBQ pounds may be transferred from a QS account to a vessel account or from one vessel account to another vessel account. QP or IBQ pounds are required to cover catch (landings and discards) by limited entry trawl vessels of all IFQ species/species groups, except for:
+(e) *Vessel accounts*—(1) *General.* In order to participate in the Shorebased IFQ Program, a vessel must be registered to an eligible limited entry trawl permit. A vessel account will be established on request for an owner of a vessel registered to an eligible limited entry trawl permit in order to track QP and IBQ pounds. QP or IBQ pounds will have the same species/species groups and area designations as the QS or IBQ from which it was issued. Annually, QS or IBQ (expressed as a percent) are converted to QP or IBQ pounds (expressed as a weight) in a QS account. QP or IBQ pounds may be transferred from a QS account to a vessel account or from one vessel account to another vessel account. QP or IBQ pounds are required to cover catch (landings and discards) by limited entry trawl vessels of all IFQ species/species groups, except for:
 
 (i) *Gear exception.* Vessels registered to a limited entry trawl permit using the following gears would not be required to cover groundfish catch with QP or Pacific halibut catch with IBQ pounds: Non-groundfish trawl, gear types defined in the coastal pelagic species FMP, gear types defined in the highly migratory species FMP, salmon troll, crab pot, and limited entry fixed gear when the vessel also has a limited entry permit endorsed for fixed gear and has declared that it is fishing in the limited entry fixed gear fishery. Vessels using gears falling under this exception are subject to the open access fishery restrictions and limits when declared in to an open access fishery.
 
 (ii) *Species exception.* QP are not required for the following species: Longspine thornyheads south of 34°27′ N. lat., minor nearshore rockfish (north and south), black rockfish (coastwide), California scorpionfish, cabezon, kelp greenling, shortbelly rockfish, and “other fish” (as defined at § 660.11, subpart C, under the definition of “groundfish”). For these species, trip limits remain in place as specified in the trip limit tables at Table 1 (North) and Table 1 (South) of this subpart.
 
-(2) *Eligibility and registration* - (i) *Eligibility.* To establish a registered vessel account, a person must own a vessel and that vessel must be registered to a groundfish limited entry permit endorsed for trawl gear.
+(2) *Eligibility and registration*—(i) *Eligibility.* To establish a registered vessel account, a person must own a vessel and that vessel must be registered to a groundfish limited entry permit endorsed for trawl gear.
 
 (ii) *Registration.* A vessel account must be registered with the NMFS SFD Permits Office. A vessel account may be established at any time during the year. An eligible vessel owner must submit a request in writing to NMFS to establish a vessel account. The request must include the vessel name; USCG vessel registration number (as given on USCG Form 1270) or state registration number, if no USCG documentation; all vessel owner names (as given on USCG Form 1270, or on state registration, as applicable); and business contact information, including: Address, phone number, fax number, and email. Requests for a vessel account must also include the following information: A complete economic data collection form as required under § 660.113(b), (c) and (d), and a complete Trawl Identification of Ownership Interest Form as required under paragraph (e)(4)(ii) of this section. The request for a vessel account will be considered incomplete until the required information is submitted. Any change specified at paragraph (e)(3)(ii) of this section, including a change in the legal name of the vessel owner(s), will require the new owner to register with NMFS for a vessel account. A participant must have access to a computer with Internet access and must set up online access to their vessel account to participate. The computer must have Internet browser software installed (e.g., Internet Explorer, Netscape, Mozilla Firefox); as well as the Adobe Flash Player software version 9.0 or greater. NMFS will mail vessel account owners instructions to set up online access to their vessel account. NMFS will use the vessel account to send messages to vessel owners in the Shorebased IFQ Program; it is important for vessel owners to monitor their online vessel account and all associated messages.
 
-(3) *Renewal, change of account ownership, and transfer of QP or IBQ pounds* - (i) *Renewal.* (A) Vessel accounts expire at the end of each calendar year, and must be renewed between October 1 and November 30 of each year in order to ensure the vessel account is active on January 1 of the following year. A complete vessel account renewal package must be received by SFD no later than November 30 to be accepted by NMFS.
+(3) *Renewal, change of account ownership, and transfer of QP or IBQ pounds*—(i) *Renewal.* (A) Vessel accounts expire at the end of each calendar year, and must be renewed between October 1 and November 30 of each year in order to ensure the vessel account is active on January 1 of the following year. A complete vessel account renewal package must be received by SFD no later than November 30 to be accepted by NMFS.
 
 (B) Notification to renew vessel accounts will be issued by SFD by September 15 each year to the vessel account owner's most recent address in the SFD record. The vessel account owner shall provide SFD with notice of any address change within 15 days of the change.
 
@@ -734,11 +734,11 @@ Pacific Halibut
 
 (ii) *Change in vessel account ownership.* Vessel accounts are non-transferable and ownership of a vessel account cannot change (*i.e.*, cannot change the legal name of the owner(s) as given on the vessel account). If the ownership of a vessel changes (as given on a USCG or state vessel registration documentation), then a new vessel account must be opened by the new owner in order for the vessel to participate in the Shorebased IFQ Program.
 
-(iii) *Transfer of QP or IBQ pounds* - (A) *General.* QP or IBQ pounds may only be transferred from a QS account to a vessel account or between vessel accounts. QP or IBQ pounds cannot be transferred from a vessel account to a QS account. Transfers of QP or IBQ pounds are subject to annual vessel accumulation limits. QP or IBQ pounds must be transferred in whole pounds (*i.e.,* no fraction of a QP or IBQ pound can be transferred). During the year there may be situations where NMFS deems it necessary to prohibit transfers (*i.e.,* account reconciliation, system maintenance, or for emergency fishery management reasons).
+(iii) *Transfer of QP or IBQ pounds*—(A) *General.* QP or IBQ pounds may only be transferred from a QS account to a vessel account or between vessel accounts. QP or IBQ pounds cannot be transferred from a vessel account to a QS account. Transfers of QP or IBQ pounds are subject to annual vessel accumulation limits. QP or IBQ pounds must be transferred in whole pounds (*i.e.,* no fraction of a QP or IBQ pound can be transferred). During the year there may be situations where NMFS deems it necessary to prohibit transfers (*i.e.,* account reconciliation, system maintenance, or for emergency fishery management reasons).
 
 (B) *Transfer procedures.* QP or IBQ pound transfers from one vessel account to another vessel account must be accomplished via the online vessel account. To make a transfer, a vessel account owner must initiate a transfer request by logging onto the online vessel account. Following the instructions provided on the website, the vessel account owner must enter pertinent information regarding the transfer request including, but not limited to: IFQ species, amount of QP or IBQ pounds to be transferred for each IFQ species (in whole pound increments); name and any other identifier of the eligible transferee (*e.g.,* USCG documentation number or state registration number, as applicable) of the eligible vessel account receiving the transfer; and the value of the transferred QP or IBQ pounds. The online system will verify whether all information has been entered and whether the transfer complies with vessel limits, as applicable. If the information is not accepted, an electronic message will record as much in the transferor's vessel account explaining the reason(s). If the information is accepted, the online system will record the pending transfer in both the transferor's and the transferee's vessel accounts. The transferee must approve the transfer by electronic signature. If the transferee accepts the transfer, the online system will record the transfer and confirm the transaction in both accounts through a transaction confirmation notice. Once the transferee accepts the transaction, the transaction is final and permanent. QP or IBQ pounds may be transferred between vessel accounts at any time during January 1 through December 31 each year unless otherwise notified by NMFS. Unused QP from the previous fishing year (base year) may be transferred for the purpose of covering end-of-the-year vessel account deficits through the end of the post-season transfer period described at paragraph (e)(5)(iv) of this section.
 
-(4) *Accumulation limits* - (i) *Vessel limits.* For each IFQ species or species group specified in this paragraph, vessel accounts may not have QP or IBQ pounds in excess of the annual QP vessel limit in any year, except as allowed by paragraph (e)(5)(iii) of this section. The annual QP vessel limit is calculated as all QPs transferred in minus all QPs transferred out of the vessel account.
+(4) *Accumulation limits*—(i) *Vessel limits.* For each IFQ species or species group specified in this paragraph, vessel accounts may not have QP or IBQ pounds in excess of the annual QP vessel limit in any year, except as allowed by paragraph (e)(5)(iii) of this section. The annual QP vessel limit is calculated as all QPs transferred in minus all QPs transferred out of the vessel account.
 
 |             Species category             |Annual QP  <br/>vessel limit  <br/>(in percent)|
 |------------------------------------------|-----------------------------------------------|
@@ -812,7 +812,7 @@ Pacific Halibut
 
 (8) *Cost recovery.* The fish seller, as defined at § 660.111, is subject to the cost recovery program specified at § 660.115.
 
-(f) *First receiver site license* - (1) *General.* The first receiver site license authorizes the holder to receive, purchase, or take custody, control, or possession of an IFQ landing at a specific physical site onshore directly from a vessel. Each buyer of groundfish from a vessel making an IFQ landing must have a first receiver site license for each physical location where the IFQ landing is offloaded.
+(f) *First receiver site license*—(1) *General.* The first receiver site license authorizes the holder to receive, purchase, or take custody, control, or possession of an IFQ landing at a specific physical site onshore directly from a vessel. Each buyer of groundfish from a vessel making an IFQ landing must have a first receiver site license for each physical location where the IFQ landing is offloaded.
 
 (2) *Issuance.* (i) First receiver site licenses will only be issued to a person registered to a valid license issued by the state of Washington, Oregon, or California, and that authorizes the person to receive fish from a catcher vessel.
 
@@ -900,11 +900,11 @@ Pacific Halibut
 
 (10) *Cost recovery.* The first receiver site license holder is considered the fish buyer as defined at § 660.111, and must comply with the cost recovery program specified at § 660.115.
 
-(g) *Retention and disposition requirements* - (1) *General.* Shorebased IFQ Program vessels may discard IFQ species/species groups, provided such discards are accounted for and deducted from QP in the vessel account. With the exception of vessels on a declared Pacific whiting IFQ trip and engaged in maximized retention, and vessels fishing under a valid EM Authorization in accordance with § 660.604 of subpart J, prohibited and protected species (except short-tailed albatross as directed by § 660.21(c)(1)(v)) must be discarded at sea; Pacific halibut must be discarded as soon as practicable and the discard mortality must be accounted for and deducted from IBQ pounds in the vessel account. Non-IFQ species and non-groundfish species may be discarded at sea, unless otherwise required by EM Program requirements at § 660.604 of subpart J. The sorting of catch, the weighing and discarding of any IBQ and IFQ species, and the retention of IFQ species must be monitored by the observer or EM system.
+(g) *Retention and disposition requirements*—(1) *General.* Shorebased IFQ Program vessels may discard IFQ species/species groups, provided such discards are accounted for and deducted from QP in the vessel account. With the exception of vessels on a declared Pacific whiting IFQ trip and engaged in maximized retention, and vessels fishing under a valid EM Authorization in accordance with § 660.604 of subpart J, prohibited and protected species (except short-tailed albatross as directed by § 660.21(c)(1)(v)) must be discarded at sea; Pacific halibut must be discarded as soon as practicable and the discard mortality must be accounted for and deducted from IBQ pounds in the vessel account. Non-IFQ species and non-groundfish species may be discarded at sea, unless otherwise required by EM Program requirements at § 660.604 of subpart J. The sorting of catch, the weighing and discarding of any IBQ and IFQ species, and the retention of IFQ species must be monitored by the observer or EM system.
 
 (2) *Maximized retention for Pacific whiting IFQ trips.* Vessels on Pacific whiting IFQ trips may engage in maximized retention. Maximized retention allows for the discard minor operational amounts of catch at sea if the observer has accounted for the discard. Vessels engaged in maximized retention must retain prohibited species until landing. Protected species may be retained until landing except as provided under paragraph (g)(3) of this section. Pacific halibut must be accounted for and deducted from IBQ pounds in the vessel account.
 
-(3) *Disposition of prohibited species and protected species in maximized retention landings* - (i) *Prohibited species handling and disposition.* To ensure compliance with fishery regulations at 50 CFR part 300, subparts E and F, and part 600, subpart H; with the Pacific Salmon Fishery Management Plan; and with the Pacific Halibut Catch Share Plan; the handling and disposition of all prohibited species in maximized retention landings are the responsibility of the first receiver and must be consistent with the following requirements:
+(3) *Disposition of prohibited species and protected species in maximized retention landings*—(i) *Prohibited species handling and disposition.* To ensure compliance with fishery regulations at 50 CFR part 300, subparts E and F, and part 600, subpart H; with the Pacific Salmon Fishery Management Plan; and with the Pacific Halibut Catch Share Plan; the handling and disposition of all prohibited species in maximized retention landings are the responsibility of the first receiver and must be consistent with the following requirements:
 
 (A) Any prohibited species landed at first receivers must not be transferred, processed, or mixed with another landing until the catch monitor has: recorded the number and weight of salmon by species; inspected all prohibited species for tags or marks; and, collected biological data, specimens, and genetic samples.
 
@@ -920,11 +920,11 @@ Pacific Halibut
 
 (B) *Seabirds, marine mammals, and sea turtles.* Short-tailed albatross must be reported as soon as possible and directions for surrendering must be followed as directed by § 660.21(c)(1)(v). Marine mammals and sea turtles must be reported to NMFS as soon as possible (206-526-6550) and directions for surrendering or disposal must be followed. Whole body specimens must be labeled with the vessel name, electronic fish ticket number, and date of landing. Whole body specimens must be kept frozen or on ice until arrangements for surrendering or disposing are completed. Unless directed otherwise, after reporting is completed, seabirds, marine mammals, and sea turtles may be disposed by incinerating, rendering, composting, or returning the carcasses to sea.
 
-(h) *Observer requirements* - (1) *Observer coverage requirements* - (i) *Coverage.* The following observer coverage pertains to certified observers obtained from an observer provider permitted by NMFS.
+(h) *Observer requirements*—(1) *Observer coverage requirements*—(i) *Coverage.* The following observer coverage pertains to certified observers obtained from an observer provider permitted by NMFS.
 
 (A) Any vessel participating in the Shorebased IFQ Program:
 
-(*1*) Must carry a certified observer on any fishing trip from the time the vessel leaves port and until the completion of landing (until all catch from that fishing trip has been offloaded - see landing at §§ 660.11 and 660.60(h)(2)).
+(*1*) Must carry a certified observer on any fishing trip from the time the vessel leaves port and until the completion of landing (until all catch from that fishing trip has been offloaded—see landing at §§ 660.11 and 660.60(h)(2)).
 
 (*2*) Must carry an observer at any time the vessel is underway in port, including transit between delivery points when fish is offloaded at more than one IFQ first receiver.
 
@@ -998,7 +998,7 @@ Pacific Halibut
 
 (D) Computer skills that enable the candidate to work competently with standard database software and computer hardware.
 
-(ii) *Hiring an observer candidate* - (A) The observer provider must provide the candidate a copy of NMFS-provided pamphlets, information and other literature describing observer duties, for example, the West Coast Groundfish Observer Program's sampling manual. Observer job information is available from the Observer Program Office's web site at *http://www.nwfsc.noaa.gov/research/divisions/fram/observer/index.cfm.*
+(ii) *Hiring an observer candidate*—(A) The observer provider must provide the candidate a copy of NMFS-provided pamphlets, information and other literature describing observer duties, for example, the West Coast Groundfish Observer Program's sampling manual. Observer job information is available from the Observer Program Office's web site at *http://www.nwfsc.noaa.gov/research/divisions/fram/observer/index.cfm.*
 
 (B) *Observer contracts.* The observer provider must have a written contract or a written contract addendum signed by the observer and observer provider prior to the observer's deployment with the following clauses:
 
@@ -1148,11 +1148,11 @@ Pacific Halibut
 
 (xvi) *Refusal to deploy an observer.* Observer providers may refuse to deploy an observer on a requesting vessel if the observer provider has determined that the requesting vessel is inadequate or unsafe pursuant to those described at § 600.746 or U.S. Coast Guard and other applicable rules, regulations, statutes, or guidelines pertaining to safe operation of the vessel.
 
-(6) *Observer certification and responsibilities* - (i) *Applicability.* Observer certification authorizes an individual to fulfill duties as specified in writing by the Observer Program Office while under the employ of an observer provider and according to certification requirements as designated under paragraph (h)(6)(iii) of this section.
+(6) *Observer certification and responsibilities*—(i) *Applicability.* Observer certification authorizes an individual to fulfill duties as specified in writing by the Observer Program Office while under the employ of an observer provider and according to certification requirements as designated under paragraph (h)(6)(iii) of this section.
 
 (ii) *Observer certification official.* The Regional Administrator will designate a NMFS observer certification official who will make decisions for the Observer Program Office on whether to issue or deny observer certification.
 
-(iii) *Certification requirements* - (A) *Initial certification.* NMFS may certify individuals who, in addition to any other relevant considerations:
+(iii) *Certification requirements*—(A) *Initial certification.* NMFS may certify individuals who, in addition to any other relevant considerations:
 
 (*1*) Are employed by an permitted observer provider at the time of the of the certification is issued;
 
@@ -1224,7 +1224,7 @@ Pacific Halibut
 
 (C) Not disclose collected data and observations made on board the vessel to any person except the owner or operator of the observed vessel, an authorized officer, or NMFS.
 
-(ix) *Suspension and decertification* - (A) *Suspension and decertification review official.* The Regional Administrator (or a designee) will designate an observer suspension and decertification review official(s), who will have the authority to review observer certifications and issue IAD of observer certification suspension and/or decertification.
+(ix) *Suspension and decertification*—(A) *Suspension and decertification review official.* The Regional Administrator (or a designee) will designate an observer suspension and decertification review official(s), who will have the authority to review observer certifications and issue IAD of observer certification suspension and/or decertification.
 
 (B) *Causes for suspension or decertification.* In addition to any other supported basis connected to an observer's job performance, the suspension and decertification official may initiate suspension or decertification proceedings against an observer:
 
@@ -1246,7 +1246,7 @@ Pacific Halibut
 
 (D) *Appeals.* A certified observer who receives an IAD that suspends or revokes his or her observer certification may appeal the determination within 30 calendar days after the date on the IAD to the Office of Administrative Appeals pursuant to § 660.19.
 
-(i) *Catch monitor requirements for IFQ first receivers* - (1) *Catch monitor coverage requirements.* A catch monitor is required be present at each IFQ first receiver whenever an IFQ landing is received, unless the first receiver has been granted a written waiver from the catch monitor requirements by NMFS.
+(i) *Catch monitor requirements for IFQ first receivers*—(1) *Catch monitor coverage requirements.* A catch monitor is required be present at each IFQ first receiver whenever an IFQ landing is received, unless the first receiver has been granted a written waiver from the catch monitor requirements by NMFS.
 
 (2) *Procurement of catch monitor services.* Owners or managers of each IFQ first receiver must arrange for catch monitor services from a catch monitor provider prior to accepting IFQ landings.
 
@@ -1278,9 +1278,9 @@ Pacific Halibut
 
 (7) *Reasonable assistance.* Each IFQ first receiver must provide reasonable assistance to the catch monitors to enable each catch monitor to carry out his or her duties. Reasonable assistance includes, but is not limited to: informing the monitor when bycatch species will be weighed, and providing a secure place to store equipment and gear.
 
-(j) *Catch weighing requirements* - (1) *Catch monitoring plan.* All IFQ first receivers must operate under a NMFS-accepted catch monitoring plan for each specific physical location where IFQ landings will be received, purchased, or taken custody, control, or possession of.
+(j) *Catch weighing requirements*—(1) *Catch monitoring plan.* All IFQ first receivers must operate under a NMFS-accepted catch monitoring plan for each specific physical location where IFQ landings will be received, purchased, or taken custody, control, or possession of.
 
-(2) *Sorting and weighing IFQ landings* - (i) *Approved scales.* The IFQ first receiver must ensure that all IFQ species received from a vessel making an IFQ landing are weighed on a scale(s) that meets the requirements specified at § 660.15(c).
+(2) *Sorting and weighing IFQ landings*—(i) *Approved scales.* The IFQ first receiver must ensure that all IFQ species received from a vessel making an IFQ landing are weighed on a scale(s) that meets the requirements specified at § 660.15(c).
 
 (ii) *Printed record.* All scales identified in the catch monitoring plan accepted by NMFS during the first receiver site license application process, must produce a printed record as specified at § 660.15(c).
 
@@ -1370,7 +1370,7 @@ Pacific Halibut
 
 (2) [Reserved]
 
-(l) *Adaptive management program* - (1) *General.* The adaptive management program (AMP) is a set-aside of 10 percent of the non-whiting QS to address the following objectives:
+(l) *Adaptive management program*—(1) *General.* The adaptive management program (AMP) is a set-aside of 10 percent of the non-whiting QS to address the following objectives:
 
 (i) Community stability;
 

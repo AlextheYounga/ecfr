@@ -118,11 +118,11 @@
 
 (*26*) Open access sheephead trap or pot gear (declaration code 65);
 
-(*27*) Open access non-bottom contact hook and line gear for groundfish (*e.g.,* troll, jig gear, rod & reel gear) (declaration code 35);
+(*27*) Open access non-bottom contact hook and line gear for groundfish (e.g., troll, jig gear, rod & reel gear) (outside the non-trawl RCA only) (declaration code 35);
 
-(*28*) Open access non-bottom contact stationary vertical jig gear (declaration code 36);
+(*28*) Open access non-bottom contact stationary vertical jig gear (allowed inside or outside the non-trawl RCA) (declaration code 36);
 
-(*29*) Open access non-bottom contact troll gear (declaration code 37);
+(*29*) Open access non-bottom contact troll gear (allowed inside or outside the non-trawl RCA) (declaration code 37);
 
 (*30*) Open access HMS line gear (declaration code 66);
 
@@ -136,7 +136,7 @@
 
 (*35*) Tribal trawl gear (declaration code 50);
 
-(*36*) Open access set net or gillnet gear - California (declaration 68); or
+(*36*) Open access set net or gillnet gear—California (declaration 68); or
 
 (*37*) Gear testing, Trawl Rationalization fishery (declaration code 70).
 
@@ -144,4 +144,4 @@
 
 (v) Upon receipt of a declaration report, NMFS will provide a confirmation code or receipt to confirm that a valid declaration report was received for the vessel. Vessel owners or operators are responsible for retaining the confirmation code or receipt to verify that a valid declaration report was filed.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78374, Dec. 15, 2010; 76 FR 74733, Dec. 1, 2011; 81 FR 84425, Nov. 23, 2016; 83 FR 62275, Dec. 3, 2018; 83 FR 66637, Dec. 27, 2018; 84 FR 31158, June 28, 2019; 84 FR 32098, July 5, 2019; 85 FR 35600, June 11, 2020; 86 FR 10867, Feb. 23, 2021; 87 FR 59713, 59728, Oct. 3, 2022; 87 FR 74328, Dec. 5, 2022]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78374, Dec. 15, 2010; 76 FR 74733, Dec. 1, 2011; 81 FR 84425, Nov. 23, 2016; 83 FR 62275, Dec. 3, 2018; 83 FR 66637, Dec. 27, 2018; 84 FR 31158, June 28, 2019; 84 FR 32098, July 5, 2019; 85 FR 35600, June 11, 2020; 86 FR 10867, Feb. 23, 2021; 87 FR 59713, 59728, Oct. 3, 2022; 87 FR 74328, Dec. 5, 2022; 88 FR 12867, Mar. 1, 2023]

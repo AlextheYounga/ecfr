@@ -1,8 +1,8 @@
 ##### 227.7203-6 Contract clauses. #####
 
-(a)(1) Use the clause at 252.227-7014, Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation, in solicitations and contracts when the successful offeror(s) will be required to deliver computer software or computer software documentation. Do not use the clause when the only deliverable items are technical data (other than computer software documentation), commercial computer software or commercial computer software documentation, commercial items (see 227.7102-3), special works (see 227.7205), or contracts under the Small Business Innovation Research Program (see 227.7104). Except as provided in 227.7107-2, do not use the clause in architect-engineer and construction contracts.
+(a)(1) Use the clause at 252.227-7014, Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation, in solicitations and contracts when the successful offeror(s) will be required to deliver computer software or computer software documentation. Do not use the clause when the only deliverable items are technical data (other than computer software documentation), commercial computer software or commercial computer software documentation, commercial products, commercial services (see 227.7102-3), special works (see 227.7205), or contracts under the Small Business Innovation Research Program (see 227.7104). Except as provided in 227.7107-2, do not use the clause in architect-engineer and construction contracts.
 
-(2) Use the clause at 252.227-7014 with its Alternate I in research contracts when the contracting officer determines, in consultation with counsel, that public dissemination by the contractor would be -
+(2) Use the clause at 252.227-7014 with its Alternate I in research contracts when the contracting officer determines, in consultation with counsel, that public dissemination by the contractor would be—
 
 (i) In the interest of the Government; and
 
@@ -10,7 +10,7 @@
 
 (b) Use the clause at 252.227-7016, Rights in Bid or Proposal Information, in solicitations and contracts that include the clause at 252.227-7014.
 
-(c) Use the clause at 252.227-7019, Validation of Asserted Restrictions - Computer Software, in solicitations and contracts that include the clause at 252.227-7014. The clause provides procedures for the validation of asserted restrictions on the Government's rights to use, release, or disclose computer software.
+(c) Use the clause at 252.227-7019, Validation of Asserted Restrictions—Computer Software, in solicitations and contracts that include the clause at 252.227-7014. The clause provides procedures for the validation of asserted restrictions on the Government's rights to use, release, or disclose computer software.
 
 (d) Use the provision at 252.227-7025, Limitations on the Use or Disclosure of Government-Furnished Information Marked with Restrictive Legends, in solicitations and contracts when it is anticipated that the Government will provide the contractor (other than a litigation support contractor covered by 252.204-7014), for performance of its contract, computer software or computer software documentation marked with another contractor's restrictive legend(s).
 

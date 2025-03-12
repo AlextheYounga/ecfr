@@ -2106,7 +2106,7 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (218) 32°43.49′ N. lat., 117°18.12′ W. long.; and
 
-(219) 32°33.00′ N lat., 117°16.39′ W long.;
+(219) 32°33.33′ N lat., 117°16.45′ W long.
 
 (p) The 40 fm (73 m) depth contour around the northern Channel Islands off the state of California is defined by straight lines connecting all of the following points in the order stated:
 
@@ -2352,4 +2352,4 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (6) 32°30.00′ N lat., 119°12.98′ W long.
 
-[69 FR 77042, Dec. 23, 2004, as amended at 70 FR 16149, Mar. 30, 2005; 71 FR 8498, Feb. 17, 2006; 71 FR 78665, Dec. 29, 2006; 72 FR 13045, Mar. 20, 2007; 74 FR 9893, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 27530, May 11, 2011; 77 FR 55155, Sept. 7, 2012; 82 FR 9640, Feb. 7, 2017; 83 FR 63991, Dec. 12, 2018; 84 FR 63974, Nov. 19, 2019; 85 FR 79893, Dec. 11, 2020; 87 FR 77015, Dec. 16, 2022]
+[69 FR 77042, Dec. 23, 2004, as amended at 70 FR 16149, Mar. 30, 2005; 71 FR 8498, Feb. 17, 2006; 71 FR 78665, Dec. 29, 2006; 72 FR 13045, Mar. 20, 2007; 74 FR 9893, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 27530, May 11, 2011; 77 FR 55155, Sept. 7, 2012; 82 FR 9640, Feb. 7, 2017; 83 FR 63991, Dec. 12, 2018; 84 FR 63974, Nov. 19, 2019; 85 FR 79893, Dec. 11, 2020; 87 FR 77015, Dec. 16, 2022; 88 FR 12867, Mar. 1, 2023]

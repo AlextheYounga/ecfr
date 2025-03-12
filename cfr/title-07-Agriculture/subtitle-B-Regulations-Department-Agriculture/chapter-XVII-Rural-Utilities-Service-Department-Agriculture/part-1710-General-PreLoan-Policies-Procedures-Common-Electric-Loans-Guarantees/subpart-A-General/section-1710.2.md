@@ -1,5 +1,7 @@
 ##### § 1710.2 Definitions and rules of construction. #####
 
+Link to an amendment published at 88 FR 12809, Mar. 1, 2023.
+
 (a) *Definitions.* For the purpose of this part, the following terms shall have the following meanings:
 
 *Administrator* means the Administrator of RUS or his or her designee.
@@ -122,7 +124,7 @@
 
 *Rollover maturity date* means the last day of an interest rate term.
 
-*Rural area* means -
+*Rural area* means—
 
 (i) Any area of the United States, its territories and insular possessions (including any area within the Federated States of Micronesia, the Marshall Islands, and the Republic of Palau) other than a city, town, or unincorporated area that has a population of greater than 20,000 inhabitants;
 

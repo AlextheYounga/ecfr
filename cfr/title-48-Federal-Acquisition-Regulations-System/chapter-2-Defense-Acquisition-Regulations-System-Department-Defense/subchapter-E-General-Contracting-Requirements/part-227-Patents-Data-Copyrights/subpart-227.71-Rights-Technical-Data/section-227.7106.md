@@ -1,8 +1,8 @@
 ##### 227.7106 Contracts for special works. #####
 
-(a) Use the clause at 252.227-7020, Rights in Special Works, in solicitations and contracts where the Government has a specific need to control the distribution of works first produced, created, or generated in the performance of a contract and required to be delivered under that contract, including controlling distribution by obtaining an assignment of copyright, or a specific need to obtain indemnity for liabilities that may arise out of the creation, delivery, use, modification, reproduction, release, performance, display, or disclosure of such works. Use the clause -
+(a) Use the clause at 252.227-7020, Rights in Special Works, in solicitations and contracts where the Government has a specific need to control the distribution of works first produced, created, or generated in the performance of a contract and required to be delivered under that contract, including controlling distribution by obtaining an assignment of copyright, or a specific need to obtain indemnity for liabilities that may arise out of the creation, delivery, use, modification, reproduction, release, performance, display, or disclosure of such works. Use the clause—
 
-(1) In lieu of the clause at 252.227-7013, Rights in Technical Data - Other Than Commercial Products and Commercial Services , when the Government must own or control copyright in all works first produced, created, or generated and required to be delivered under a contract; or
+(1) In lieu of the clause at 252.227-7013, Rights in Technical Data—Other Than Commercial Products and Commercial Services, when the Government must own or control copyright in all works first produced, created, or generated and required to be delivered under a contract; or
 
 (2) In addition to the clause at 252.227-7013 when the Government must own or control copyright in a portion of a work first produced, created, or generated and required to be delivered under a contract. The specific portion in which the Government must own or control copyright must be identified in a special contract requirement.
 

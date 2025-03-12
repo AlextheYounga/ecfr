@@ -1,34 +1,33 @@
 ##### § 920.302 Grade, size, pack, and container regulations. #####
 
-Link to an amendment published at 88 FR 5723, Jan. 30, 2023.
-
 (a) No handler shall ship any kiwifruit unless such kiwifruit meet the following requirements:
 
 (1) *Grade requirements.* Fresh shipments of kiwifruit shall be at least KAC No. 1 quality.
 
-(2) *Size Requirements.* Such kiwifruit shall be at least a minimum Size 45. Size 45 is defined as a maximum of 55 pieces of fruit in an 8-pound sample.
+(2) *Size requirements.* Such kiwifruit, except for varieties of the *Actinidia chinensis* species, shall be at least a minimum Size 45, defined as a maximum of 55 pieces of fruit in an 8-pound sample. Varieties of the *Actinidia chinensis* species shall be at least a minimum Size 49, defined as a maximum of 64 pieces of fruit in an 8-pound sample.
 
 (3) *Maturity requirements.* Such kiwifruit shall have a minimum of 6.2 percent soluble solids at the time of inspection.
 
-(4) *Pack Requirements.* (i) Kiwifruit packed in containers with cell compartments, cardboard fillers, or molded trays shall be of proper size for the cells, fillers, or molds in which they are packed. Such fruit shall be fairly uniform in size.
+(4) *Pack requirements.* (i) Kiwifruit packed in containers with cell compartments, cardboard fillers, or molded trays shall be of proper size for the cells, fillers, or molds in which they are packed. Such fruit, except for varieties of the *Actinidia chinensis* species, shall be fairly uniform in size.
 
 (ii) (A) Kiwifruit packed in any container shall be subject to the size designation, maximum number of fruit per 8-pound sample, and the size variation tolerance specified as follows:
 
-Size Designation and Size Variation Chart
-
-|Column 1 size designation|Column 2 maximum number of fruit per 8-pound sample|Column 3 size variation tolerance (diameter)|
-|-------------------------|---------------------------------------------------|--------------------------------------------|
-|      18 or larger       |                        25                         |            1/2-inch (12.7 mm).             |
-|           20            |                        27                         |            1/2-inch (12.7 mm).             |
-|           23            |                        30                         |            1/2-inch (12.7 mm).             |
-|           25            |                        32                         |            1/2-inch (12.7 mm).             |
-|          27/28          |                        35                         |            1/2-inch (12.7 mm).             |
-|           30            |                        39                         |            1/2-inch (12.7 mm).             |
-|           33            |                        43                         |             3/8-inch (9.5 mm).             |
-|           36            |                        46                         |             3/8-inch (9.5 mm).             |
-|           39            |                        49                         |             3/8-inch (9.5 mm).             |
-|           42            |                        53                         |             3/8-inch (9.5 mm).             |
-|      45 or smaller      |                        55                         |             1/4-inch (6.4 mm).             |
+|                           Size designation                           |Maximum number of fruit per  <br/>8-pound sample|Size variation tolerance  <br/>(diameter) <sup>1</sup>|
+|----------------------------------------------------------------------|------------------------------------------------|------------------------------------------------------|
+|                             18 or larger                             |                       25                       |                 1/2-inch (12.7 mm).                  |
+|                                  20                                  |                       27                       |                 1/2-inch (12.7 mm).                  |
+|                                  23                                  |                       30                       |                 1/2-inch (12.7 mm).                  |
+|                                  25                                  |                       32                       |                 1/2-inch (12.7 mm).                  |
+|                                27/28                                 |                       35                       |                 1/2-inch (12.7 mm).                  |
+|                                  30                                  |                       39                       |                 1/2-inch (12.7 mm).                  |
+|                                  33                                  |                       43                       |                  3/8-inch (9.5 mm).                  |
+|                                  36                                  |                       46                       |                  3/8-inch (9.5 mm).                  |
+|                                  39                                  |                       49                       |                  3/8-inch (9.5 mm).                  |
+|                                  42                                  |                       53                       |                  3/8-inch (9.5 mm).                  |
+|                                  45                                  |                       55                       |                  1/4-inch (6.4 mm).                  |
+|                           <sup>2</sup> 49                            |                       64                       |                   Not applicable.                    |
+|<sup>1</sup> Not applicable to Actinidia chinensis species varieties. |                                                |                                                      |
+|<sup>2</sup> Applicable only to Actinidia chinensis species varieties.|                                                |                                                      |
 
 (B) The average weight of all sample units in a lot must weigh at least 8 pounds, but no sample unit may be more than 4 ounces less than 8 pounds.
 

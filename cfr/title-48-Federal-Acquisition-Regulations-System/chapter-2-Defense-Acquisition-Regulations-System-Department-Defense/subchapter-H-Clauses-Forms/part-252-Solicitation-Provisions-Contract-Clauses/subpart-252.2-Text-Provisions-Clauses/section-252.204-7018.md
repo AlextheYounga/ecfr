@@ -4,9 +4,9 @@ As prescribed in 204.2105(c), use the following clause:
 
 Prohibition on the Acquisition of Covered Defense Telecommunications Equipment or Services (JAN 2023)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
-*Covered defense telecommunications equipment or services* means -
+*Covered defense telecommunications equipment or services* means—
 
 (1) Telecommunications equipment produced by Huawei Technologies Company or ZTE Corporation, or any subsidiary or affiliate of such entities;
 
@@ -14,23 +14,23 @@ Prohibition on the Acquisition of Covered Defense Telecommunications Equipment o
 
 (3) Telecommunications equipment or services produced or provided by an entity that the Secretary of Defense reasonably believes to be an entity owned or controlled by, or otherwise connected to, the government of a covered foreign country.
 
-*Covered foreign country* means -
+*Covered foreign country* means—
 
 (1) The People's Republic of China; or
 
 (2) The Russian Federation.
 
-*Covered missions* means -
+*Covered missions* means—
 
 (1) The nuclear deterrence mission of DoD, including with respect to nuclear command, control, and communications, integrated tactical warning and attack assessment, and continuity of Government; or
 
 (2) The homeland defense mission of DoD, including with respect to ballistic missile defense.
 
-“Critical technology” means -
+“Critical technology” means—
 
 (1) Defense articles or defense services included on the United States Munitions List set forth in the International Traffic in Arms Regulations under subchapter M of chapter I of title 22, Code of Federal Regulations;
 
-(2) Items included on the Commerce Control List set forth in Supplement No. 1 to part 774 of the Export Administration Regulations under subchapter C of chapter VII of title 15, Code of Federal Regulations, and controlled -
+(2) Items included on the Commerce Control List set forth in Supplement No. 1 to part 774 of the Export Administration Regulations under subchapter C of chapter VII of title 15, Code of Federal Regulations, and controlled—
 
 (i) Pursuant to multilateral regimes, including for reasons relating to national security, chemical and biological weapons proliferation, nuclear nonproliferation, or missile technology; or
 
@@ -58,6 +58,6 @@ Prohibition on the Acquisition of Covered Defense Telecommunications Equipment o
 
 (ii) Within 30 business days of submitting the information in paragraph (d)(2)(i) of this clause: Any further available information about mitigation actions undertaken or recommended. In addition, the Contractor shall describe the efforts it undertook to prevent use or submission of a covered defense telecommunications equipment or services, and any additional efforts that will be incorporated to prevent future use or submission of covered telecommunications equipment or services.
 
-(e) *Subcontracts.* The Contractor shall insert the substance of this clause, including this paragraph (e), in all subcontracts and other contractual instruments, including subcontracts for the acquisition of commercial products or commercial services .
+(e) *Subcontracts.* The Contractor shall insert the substance of this clause, including this paragraph (e), in all subcontracts and other contractual instruments, including subcontracts for the acquisition of commercial products or commercial services.
 
 (End of clause)[84 FR 72237, Dec. 31, 2019, as amended at 86 FR 3835, Jan. 15, 2021; 88 FR 6589, Jan. 31, 2023]

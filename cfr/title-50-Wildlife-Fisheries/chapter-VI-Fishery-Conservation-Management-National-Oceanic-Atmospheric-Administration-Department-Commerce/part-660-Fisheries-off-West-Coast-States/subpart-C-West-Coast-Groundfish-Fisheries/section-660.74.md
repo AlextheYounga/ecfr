@@ -2494,7 +2494,7 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (6) 33°23.79′ N lat., 118°01.32′ W long.;
 
-(7) 33°25.79′ N lat., 118°02.25′ W long.;
+(7) 33°25.79′ N lat., 118°02.25′ W long.; and
 
 (8) 33°26.76′ N. lat., 118°00.77′ W. long.
 
@@ -2506,7 +2506,7 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (3) 32°37.05′ N. lat., 117°42.02′ W. long.;
 
-(4) 32°36.07′ N lat., 117°44.29′ W long.;
+(4) 32°37.14′ N lat., 117°44.94′ W long.;
 
 (5) 32°47.03′ N. lat., 117°50.97′ W. long.;
 
@@ -2978,4 +2978,4 @@ Boundaries for some GCAs are defined by straight lines connecting a series of la
 
 (231) 32°35.61′ N. lat., 117°30.15′ W. long.
 
-[69 FR 77069, Dec. 23, 2004; 70 FR 13119, Mar. 18, 2005, as amended at 70 FR 16149, Mar. 30, 2005; 71 FR 78687, Dec. 29, 2006; 72 FR 13045, Mar. 20, 2007; 72 FR 53167, Sept. 18, 2007; 74 FR 9911, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 27531, May 11, 2011; 76 FR 54714, Sept. 2, 2011; 78 FR 589, Jan. 3, 2013; 80 FR 12573, Mar. 10, 2015; 84 FR 63974, Nov. 19, 2019; 87 FR 77020, Dec. 16, 2022]
+[69 FR 77069, Dec. 23, 2004; 70 FR 13119, Mar. 18, 2005, as amended at 70 FR 16149, Mar. 30, 2005; 71 FR 78687, Dec. 29, 2006; 72 FR 13045, Mar. 20, 2007; 72 FR 53167, Sept. 18, 2007; 74 FR 9911, Mar. 6, 2009. Redesignated at 75 FR 60995, Oct. 1, 2010; 76 FR 27531, May 11, 2011; 76 FR 54714, Sept. 2, 2011; 78 FR 589, Jan. 3, 2013; 80 FR 12573, Mar. 10, 2015; 84 FR 63974, Nov. 19, 2019; 87 FR 77020, Dec. 16, 2022; 88 FR 12867, Mar. 1, 2023]

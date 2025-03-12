@@ -1,5 +1,7 @@
 ##### § 206.21 Interest rate. #####
 
+Link to an amendment published at 88 FR 12828, Mar. 1, 2023.
+
 (a) *Fixed interest rate.* A fixed interest rate is agreed upon by the borrower and mortgagee.
 
 (b) *Adjustable interest rate.* An initial expected average mortgage interest rate, which defines the mortgagee's margin, is agreed upon by the borrower and mortgagee as of the date of loan closing, or as of the date of rate lock-in, if the expected average mortgage interest rate was locked in prior to closing. The interest rate shall be adjusted in one of two ways depending on the option selected by the borrower, in accordance with paragraphs (b)(1) and (b)(2) of this section. Whenever an interest rate is adjusted, the new interest rate applies to the entire loan balance. The difference between the initial interest rate and the index figure applicable when the firm commitment is issued shall equal the margin used to determine interest rate adjustments. If the expected average mortgage interest rate is locked in prior to closing, the difference between the expected average mortgage interest rate and the value of the appropriate index at the time of rate lock-in shall equal the margin used to determine interest rate adjustments.

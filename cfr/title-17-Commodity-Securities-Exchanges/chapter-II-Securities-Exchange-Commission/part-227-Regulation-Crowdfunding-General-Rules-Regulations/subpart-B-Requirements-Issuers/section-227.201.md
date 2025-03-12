@@ -162,8 +162,6 @@ I, [identify the certifying individual], certify that:
 
 (aa) [Reserved]
 
-(bb) Between March 1, 2021, and August 28, 2022, an issuer may comply with the requirements of paragraph (t)(1) of this section instead of paragraph (t)(2) of this section for an offering or offerings that, together with all other amounts sold under section 4(a)(6) of the Securities Act (15 U.S.C. 77d(a)(6)) within the preceding 12-month period, have, in the aggregate, a target offering amount of more than $107,000, but not more than $250,000, and financial statements of the issuer that have either been reviewed or audited by a public accountant that is independent of the issuer are unavailable at the time of filing. Such issuer must prominently provide a statement that financial information certified by the principal executive officer of the issuer has been provided instead of financial statements reviewed by a public accountant that is independent of the issuer.
-
 *Instruction to § 227.201.* If disclosure provided pursuant to any paragraph of this section also satisfies the requirements of one or more other paragraphs of this section, it is not necessary to repeat the disclosure. Instead of repeating information, an issuer may include a cross-reference to disclosure contained elsewhere in the offering statement or report, including to information in the financial statements.
 
-[80 FR 71537, Nov. 16, 2015, as amended at 82 FR 17552, Apr. 12, 2017; 85 FR 27131, May 7, 2020; 85 FR 54490, Sept. 2, 2020; 86 FR 3590, 3591, Jan. 14, 2021; 87 FR 57398, Sept. 20, 2022]Effective Date Note:At 86 FR 3591, Jan. 14, 2021, § 227.201 was further amended by adding paragraph (bb) effective Jan. 14, 2021 through Mar. 1, 2023.
+[80 FR 71537, Nov. 16, 2015, as amended at 82 FR 17552, Apr. 12, 2017; 85 FR 27131, May 7, 2020; 85 FR 54490, Sept. 2, 2020; 86 FR 3590, 3591, Jan. 14, 2021; 87 FR 57398, Sept. 20, 2022]

@@ -2,7 +2,7 @@
 
 (a) Use the clause at 252.227-7013, Rights in Technical Data-Noncommercial Items, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial items, when the successful offeror(s) will be required to deliver to the Government technical data pertaining to noncommercial items, or pertaining to commercial items for which the Government will have paid for any portion of the development costs (in which case the clause at 252.227-7013 will govern the technical data pertaining to any portion of a commercial item that was developed in any part at Government expense, and the clause at 252.227-7015 will govern the technical data pertaining to any portion of a commercial item that was developed exclusively at private expense). Do not use the clause when the only deliverable items are computer software or computer software documentation (see 227.72), commercial items developed exclusively at private expense (see 227.7102-4), existing works (see 227.7105), special works (see 227.7106), or when contracting under the Small Business Innovation Research Program (see 227.7104). Except as provided in 227.7107-2, do not use the clause in architect-engineer and construction contracts.
 
-(b)(1) Use the clause at 252.227-7013 with its Alternate I in research solicitations and contracts, including research solicitations and contracts using FAR part 12 procedures for the acquisition ofcommercial products and commercial services, when the contracting officer determines, in consultation with counsel, that public dissemination by the contractor would be -
+(b)(1) Use the clause at 252.227-7013 with its Alternate I in research solicitations and contracts, including research solicitations and contracts using FAR part 12 procedures for the acquisition of commercial products and commercial services, when the contracting officer determines, in consultation with counsel, that public dissemination by the contractor would be—
 
 (i) In the interest of the government; and
 
@@ -18,7 +18,7 @@
 
 (1) 252.227-7016, Rights in Bid or Proposal Information;
 
-(2) 252.227-7030, Technical Data - Withholding of Payment; and
+(2) 252.227-7030, Technical Data—Withholding of Payment; and
 
 (3) 252.227-7037, Validation of Restrictive Markings on Technical Data (paragraph (e) of the clause contains information that must be included in a challenge).
 

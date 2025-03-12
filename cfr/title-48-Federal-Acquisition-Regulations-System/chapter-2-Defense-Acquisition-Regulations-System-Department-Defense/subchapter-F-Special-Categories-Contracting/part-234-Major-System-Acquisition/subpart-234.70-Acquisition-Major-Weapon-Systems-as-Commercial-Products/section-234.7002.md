@@ -22,11 +22,11 @@
 
 (i) The component or spare part is intended for -
 
-(A) A major weapon system that is being acquired, or has been acquired, under procedures established for the acquisition of commercial productsin accordance with paragraph (a) of this section; or
+(A) A major weapon system that is being acquired, or has been acquired, under procedures established for the acquisition of commercial products in accordance with paragraph (a) of this section; or
 
 (B) A subsystem of a major weapon system that is being acquired, or has been acquired, under procedures established for the acquisition of commercial items in accordance with paragraph (b) of this section; or
 
-(ii) The contracting officer determines in writing that the component or spare part is a commercial products.
+(ii) The contracting officer determines in writing that the component or spare part is a commercial product.
 
 (2) This paragraph (c) shall apply only to components and spare parts that are acquired by DoD through a prime contract or a modification to a prime contract, or through a subcontract under a prime contract or modification to a prime contract on which the prime contractor adds no, or negligible, value.
 

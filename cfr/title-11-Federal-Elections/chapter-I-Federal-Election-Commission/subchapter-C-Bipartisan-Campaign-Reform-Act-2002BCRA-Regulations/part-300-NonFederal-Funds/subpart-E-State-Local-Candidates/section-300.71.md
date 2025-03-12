@@ -1,0 +1,3 @@
+##### § 300.71 Federal funds required for certain public communications (52 U.S.C. 30125(f)(1)). #####
+
+No individual described in 11 CFR 300.70 shall spend any funds for a public communication that refers to a clearly identified candidate for Federal office (regardless of whether a candidate for State or local office is also mentioned or identified), and that promotes or supports any candidate for that Federal office, or attacks or opposes any candidate for that Federal office (regardless of whether the communication expressly advocates a vote for or against a candidate) unless the funds consist of Federal funds that are subject to the limitations, prohibitions, and reporting requirements of the Act. *See* definition of *public communication* at 11 CFR 100.26

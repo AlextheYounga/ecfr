@@ -1,7 +1,5 @@
 ##### § 110.11 Communications; advertising; disclaimers (52 U.S.C. 30120). #####
 
-Link to an amendment published at 87 FR 77479, Dec. 19, 2022.
-
 (a) *Scope.* The following communications must include disclaimers, as specified in this section:
 
 (1) All public communications, as defined in 11 CFR 100.26, made by a political committee; electronic mail of more than 500 substantially similar communications when sent by a political committee; and all Internet websites of political committees available to the general public.
@@ -20,7 +18,7 @@ Link to an amendment published at 87 FR 77479, Dec. 19, 2022.
 
 (3) If the communication, including any solicitation, is not authorized by a candidate, authorized committee of a candidate, or an agent of either of the foregoing, the disclaimer must clearly state the full name and permanent street address, telephone number, or World Wide Web address of the person who paid for the communication, and that the communication is not authorized by any candidate or candidate's committee.
 
-(c) *Disclaimer specifications* - (1) *Specifications for all disclaimers.* A disclaimer required by paragraph (a) of this section must be presented in a clear and conspicuous manner, to give the reader, observer, or listener adequate notice of the identity of the person or political committee that paid for and, where required, that authorized the communication. A disclaimer is not clear and conspicuous if it is difficult to read or hear, or if the placement is easily overlooked.
+(c) *Disclaimer specifications*—(1) *Specifications for all disclaimers.* A disclaimer required by paragraph (a) of this section must be presented in a clear and conspicuous manner, to give the reader, observer, or listener adequate notice of the identity of the person or political committee that paid for and, where required, that authorized the communication. A disclaimer is not clear and conspicuous if it is difficult to read or hear, or if the placement is easily overlooked.
 
 (2) *Specific requirements for printed communications.* In addition to the general requirement of paragraphs (b) and (c)(1) of this section, a disclaimer required by paragraph (a) of this section that appears on any printed public communication must comply with all of the following:
 
@@ -72,6 +70,22 @@ Link to an amendment published at 87 FR 77479, Dec. 19, 2022.
 
 (C) The statement must appear with a reasonable degree of color contrast between the background and the disclaimer statement. A disclaimer satisfies the color contrast requirement of this paragraph (c)(4)(iii)(C) if it is printed in black text on a white background or if the degree of color contrast between the background and the text of the disclaimer is no less than the color contrast between the background and the largest type size used in the communication.
 
+(5) *Specific requirements for internet public communications.* (i) For purposes of this section, *internet public communication* means any public communication over the internet that is placed for a fee on another person's website, digital device, application, or advertising platform.
+
+(ii) An internet public communication must include a disclaimer that complies with the requirements of paragraphs (b) and (c)(1) of this section. The disclaimer requirement under this paragraph applies to any person that pays to place an internet public communication, regardless of whether that person originally created, produced, or distributed the communication.
+
+(iii) In addition to the requirements of paragraphs (b) and (c)(1) of this section, a disclaimer required by paragraph (a) of this section that appears on an internet public communication must comply with the following:
+
+(A) Except as provided by paragraph (g) of this section, an internet public communication with text or graphic components must include the written disclaimer required by this paragraph, such that the disclaimer can be viewed without taking any action.
+
+(B) The disclaimer must be of sufficient type size to be clearly readable by the recipient of the communication. A disclaimer that appears in letters at least as large as the majority of other text in the communication satisfies this requirement.
+
+(C) The disclaimer must be displayed with a reasonable degree of color contrast between the background and the disclaimer's text. A disclaimer satisfies this requirement if it is displayed in black text on a white background, or if the degree of color contrast is no less than the color contrast between the background and the largest text used in the communication.
+
+(D) If the disclaimer is displayed within a video, the disclaimer must be visible for at least 4 seconds and appear without the recipient of the communication taking any action.
+
+(E) An internet public communication with an audio component but without video, graphic, or text components must include a disclaimer that satisfies the requirements of paragraphs (b) and (c)(1) of this section within the audio component.
+
 (d) *Coordinated party expenditures and independent expenditures by political party committees.* (1)(i) For a communication paid for by a political party committee pursuant to 52 U.S.C. 30116(d), the disclaimer required by paragraph (a) of this section must identify the political party committee that makes the expenditure as the person who paid for the communication, regardless of whether the political party committee was acting in its own capacity or as the designated agent of another political party committee.
 
 (ii) A communication made by a political party committee pursuant to 52 U.S.C. 30116(d) and distributed prior to the date the party's candidate is nominated shall satisfy the requirements of this section if it clearly states who paid for the communication.
@@ -92,8 +106,18 @@ Link to an amendment published at 87 FR 77479, Dec. 19, 2022.
 
 (2) For purposes of this section, whenever a separate segregated fund or its connected organization solicits contributions to the fund from those persons it may solicit under the applicable provisions of 11 CFR part 114, or makes a communication to those persons, such communication shall not be considered a type of public communication and need not contain the disclaimer required by paragraphs (a) through (c) of this section.
 
-(g) *Comparable rate for campaign purposes.* (1) No person who sells space in a newspaper or magazine to a candidate, an authorized committee of a candidate, or an agent of the candidate, for use in connection with the candidate's campaign for nomination or for election, shall charge an amount for the space which exceeds the comparable rate for the space for non-campaign purposes.
+(g) *Adapted disclaimers*—(1) *Definitions.* For purposes of this section:
+
+(i) *Adapted disclaimer* means a clear statement that the internet public communication is paid for, and that identifies the person or persons who paid for the internet public communication using their full name or a commonly understood abbreviation or acronym by which the person or persons are known, which is accompanied by: an indicator and a mechanism. An adapted disclaimer must satisfy the requirements of paragraph (c)(1) and paragraphs (c)(5)(ii) and (iii) of this section.
+
+(ii) *Indicator* means any visible or audible element associated with an internet public communication that is presented in a clear and conspicuous manner and gives notice to persons reading, observing, or listening to the internet public communication that they may read, observe, or listen to a disclaimer satisfying the requirements of paragraphs (b) and (c)(1) of this section through a mechanism. An indicator may take any form including, but not limited to, words, images, sounds, symbols, and icons.
+
+(iii) *Mechanism* means any use of technology that enables the person reading, observing, or listening to an internet public communication to read, observe, or listen to a disclaimer satisfying the requirements of paragraphs (b) and (c)(1) of this section after no more than one action by the recipient of the internet public communication. A mechanism may take any form including, but not limited to, hover-over text, pop-up screens, scrolling text, rotating panels, and hyperlinks to a landing page.
+
+(2) When a disclaimer described by paragraphs (b) and (c)(1) of this section cannot be provided or would occupy more than 25 percent of the communication due to character or space constraints intrinsic to the advertising product or medium, an adapted disclaimer may be used within the communication instead.
+
+(h) *Comparable rate for campaign purposes.* (1) No person who sells space in a newspaper or magazine to a candidate, an authorized committee of a candidate, or an agent of the candidate, for use in connection with the candidate's campaign for nomination or for election, shall charge an amount for the space which exceeds the comparable rate for the space for non-campaign purposes.
 
 (2) For purposed of this section, comparable rate means the rate charged to a national or general rate advertiser, and shall include discount privileges usually and normally available to a national or general rate advertiser.
 
-[67 FR 76975, Dec. 13, 2002, as amended at 71 FR 18613, Apr. 12, 2006; 79 FR 77847, Dec. 29, 2014]
+[67 FR 76975, Dec. 13, 2002, as amended at 71 FR 18613, Apr. 12, 2006; 79 FR 77847, Dec. 29, 2014; 87 FR 77479, Dec. 19, 2022]

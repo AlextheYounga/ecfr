@@ -1,5 +1,7 @@
 ##### § 203.49 Eligibility of adjustable rate mortgages. #####
 
+Link to an amendment published at 88 FR 12828, Mar. 1, 2023.
+
 A mortgage containing the provisions for periodic adjustments by the mortgagee in the effective rate of interest charged shall be eligible for insurance under this subpart subject to compliance with the additional requirements of this section. This section shall apply only to mortgage loans described under sections 203(b), 203(h) and 203(k) of the National Housing Act.
 
 (a) *Types of mortgages insurable.* The types of adjustable rate mortgages that are insurable are those for which the interest rate may be adjusted annually by the mortgagee, beginning after one, three, five, seven, or ten years from the date of the mortgagor's first debt service payment.

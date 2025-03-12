@@ -1,5 +1,7 @@
 ##### § 60-1.3 Definitions. #####
 
+Link to an amendment published at 88 FR 12861, Mar. 1, 2023.
+
 *Administering agency* means any department, agency and establishment in the executive branch of the Government, including any wholly owned Government corporation, which administers a program involving federally assisted construction contracts.
 
 *Administrative law judge* means an administrative law judge appointed as provided in 5 U.S.C. 3105 and subpart B of part 930 of Title 5 of the Code of Federal Regulations (see 37 FR 16787) and qualified to preside at hearings under 5 U.S.C. 557.

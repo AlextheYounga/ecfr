@@ -1,1 +1,1 @@
-##### 227.7203 Noncommercial computer software and noncommercial computer software documentation. #####
+##### 227.7203 Other than commercial computer software and other than commercial computer software documentation. #####
