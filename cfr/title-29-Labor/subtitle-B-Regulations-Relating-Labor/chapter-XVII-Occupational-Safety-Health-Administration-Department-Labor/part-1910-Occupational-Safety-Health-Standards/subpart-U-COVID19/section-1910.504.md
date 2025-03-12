@@ -1,6 +1,6 @@
 ##### § 1910.504 Mini Respiratory Protection Program. #####
 
-(a) *Scope and application.* This section applies only to respirator use in accordance with §§ 1910.501(i)(4) and 1910.502(f)(4).
+(a) *Scope and application.* This section applies only to respirator use in accordance with § 1910.502(f)(4).
 
 (b) *Definitions.* The following definitions apply to this section:
 
@@ -84,4 +84,4 @@ The reuse of single-use respirators (*e.g.,* filtering facepiece respirators) is
 
 (e) *Effective date.* This section is effective as of June 21, 2021.
 
-[86 FR 32620, June 21, 2021, as amended at 86 FR 61554, Nov. 5, 2021]
+[86 FR 32620, June 21, 2021, as amended at 87 FR 3929, Jan. 26, 2022]

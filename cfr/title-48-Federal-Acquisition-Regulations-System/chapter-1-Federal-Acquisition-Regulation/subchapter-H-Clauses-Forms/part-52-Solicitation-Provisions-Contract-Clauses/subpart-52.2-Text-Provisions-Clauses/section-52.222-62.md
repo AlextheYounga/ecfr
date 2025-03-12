@@ -1,5 +1,7 @@
 ##### 52.222-62 Paid Sick Leave Under Executive Order 13706. #####
 
+Link to an amendment published at 87 FR 4124, Jan. 26, 2022.
+
 As prescribed at 22.2110, insert the following clause:
 
 Paid Sick Leave Under Executive Order 13706 (JAN 2017)

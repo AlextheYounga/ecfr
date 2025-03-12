@@ -1,5 +1,7 @@
 ##### 22.1905 Enforcement of Executive Order Minimum Wage Requirements. #####
 
+Link to an amendment published at 87 FR 4123, Jan. 26, 2022.
+
 (a) *Authority.* (1) Section 5 of the E.O. grants the authority for investigating potential violations of, and obtaining compliance with, the E.O. to the Secretary of Labor. The Secretary of Labor, in promulgating the implementing regulations required by Section 4 of the E.O., has assigned this authority to the Administrator. Contracting agencies do not have authority to conduct compliance investigations under 29 CFR part 10 as implemented in this subpart. This does not limit the contracting officer's authority to otherwise enforce the terms and conditions of the contract.
 
 (2) Contracting officers shall withhold payment at the direction of the Administrator.

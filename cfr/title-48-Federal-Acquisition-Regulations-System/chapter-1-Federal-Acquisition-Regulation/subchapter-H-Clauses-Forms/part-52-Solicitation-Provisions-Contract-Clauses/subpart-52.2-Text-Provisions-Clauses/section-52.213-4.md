@@ -1,5 +1,7 @@
 ##### 52.213-4 Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products and Commercial Services). #####
 
+Link to an amendment published at 87 FR 4123, Jan. 26, 2022.
+
 As prescribed in 13.302-5(d), insert the following clause:
 
 Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (JAN 2022)

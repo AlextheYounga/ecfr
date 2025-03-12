@@ -18,7 +18,7 @@
 
 (4) *Guidelines for Environmental Infection Control.* Guidelines for Environmental Infection Control in Health-Care Facilities, updated July 2019, IBR approved for § 1910.502(j).
 
-(5) *Isolation Guidance.* COVID-19: Isolation If You Are Sick; Separate yourself from others if you have COVID-19, updated February 18, 2021, IBR approved for §§ 1910.501(h) and 1910.502(l).
+(5) *Isolation Guidance.* COVID-19: Isolation If You Are Sick; Separate yourself from others if you have COVID-19, updated February 18, 2021, IBR approved for § 1910.502(l).
 
 (6) *Return to Work Healthcare Guidance.* COVID-19: Return to Work Criteria for Healthcare Personnel with SARS-CoV-2 Infection (Interim Guidance), updated February 16, 2021, IBR approved for § 1910.502(l).
 
@@ -36,4 +36,4 @@
 
 (3) ANSI/ISEA Z87.1-2020, American National Standard for Occupational and Educational Personal Eye and Face Protection Devices, ANSI-approved March 11, 2020, IBR approved for § 1910.502(b).
 
-[86 FR 32620, June 21, 2021, as amended at 86 FR 61554, Nov. 5, 2021]
+[86 FR 32620, June 21, 2021, as amended at 87 FR 3929, Jan. 26, 2022]

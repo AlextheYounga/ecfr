@@ -1,5 +1,7 @@
 ##### 22.1901 Definitions. #####
 
+Link to an amendment published at 87 FR 4122, Jan. 26, 2022.
+
 As used in this subpart -
 
 *Seasonal recreational equipment rental* means any equipment rental in connection with seasonal recreational services.
