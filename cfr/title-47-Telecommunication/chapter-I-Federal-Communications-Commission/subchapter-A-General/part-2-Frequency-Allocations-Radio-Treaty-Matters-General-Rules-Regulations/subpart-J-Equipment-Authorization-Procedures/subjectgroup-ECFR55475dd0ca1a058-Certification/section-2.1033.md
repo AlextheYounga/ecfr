@@ -1,7 +1,5 @@
 ##### § 2.1033 Application for certification. #####
 
-Link to an amendment published at 86 FR 23625, May 4, 2021.
-
 (a) An application for certification shall be filed on FCC Form 731 with all questions answered. Items that do not apply shall be so noted.
 
 (b) Applications for equipment operating under Parts 11, 15 and 18 of the rules shall be accompanied by a technical report containing the following information:
@@ -84,10 +82,10 @@ Link to an amendment published at 86 FR 23625, May 4, 2021.
 
 (21) Contain at least one drawing or photograph showing the test set-up for each of the required types of tests applicable to the device for which certification is requested. These drawings or photographs must show enough detail to confirm other information contained in the test report. Any photographs used must be focused originals without glare or dark spots and must clearly show the test configuration used.
 
-(d) Applications for certification of equipment operating under part 20 of this chapter, that a manufacturer is seeking to certify as hearing aid compatible, as set forth in § 20.19 of this chapter, shall include a statement indicating compliance with the test requirements of § 20.19 of this chapter and indicating the appropriate M-rating and T-rating for the equipment. The manufacturer of the equipment shall be responsible for maintaining the test results.
+(d) Applications for certification of equipment operating under part 20 of this chapter, that a manufacturer is seeking to certify as hearing aid-compatible, as set forth in § 20.19 of this chapter, shall include a statement indicating compliance with the test requirements of § 20.19 of this chapter. The manufacturer of the equipment shall be responsible for maintaining the test results.
 
 (e) A single application may be filed for a composite system that incorporates devices subject to certification under multiple rule parts, however, the appropriate fee must be included for each device. Separate applications must be filed if different FCC Identifiers will be used for each device.
 
 (f) Radio frequency devices operating under the provisions of this part are subject to the radio frequency radiation exposure requirements specified in §§ 1.1307(b), 1.1310, 2.1091, and 2.1093 of this chapter, as appropriate. Applications for equipment authorization of RF sources under this section must contain a statement confirming compliance with these requirements. Technical information showing the basis for this statement must be submitted to the Commission upon request.
 
-[63 FR 36599, July 7, 1998, as amended at 63 FR 42278, Aug. 7, 1998; 64 FR 22561, Apr. 27, 1999; 67 FR 42734, June 25, 2002; 68 FR 54175, Sept. 16, 2003; 68 FR 68545, Dec. 9, 2003; 69 FR 5709, Feb. 6, 2004; 70 FR 23039, May 4, 2005; 77 FR 41928, July 17, 2012; 78 FR 59850, Sept. 30, 2013; 79 FR 24578, May 1, 2014; 79 FR 32410, June 4, 2014; 79 FR 48536, Aug. 15, 2014; 79 FR 71325, Dec. 2, 2014; 80 FR 33446, June 12, 2015; 81 FR 66832, Sept. 29, 2016; 83 FR 30367, June 28, 2018; 85 FR 18146, Apr. 1, 2020]
+[63 FR 36599, July 7, 1998, as amended at 63 FR 42278, Aug. 7, 1998; 64 FR 22561, Apr. 27, 1999; 67 FR 42734, June 25, 2002; 68 FR 54175, Sept. 16, 2003; 68 FR 68545, Dec. 9, 2003; 69 FR 5709, Feb. 6, 2004; 70 FR 23039, May 4, 2005; 77 FR 41928, July 17, 2012; 78 FR 59850, Sept. 30, 2013; 79 FR 24578, May 1, 2014; 79 FR 32410, June 4, 2014; 79 FR 48536, Aug. 15, 2014; 79 FR 71325, Dec. 2, 2014; 80 FR 33446, June 12, 2015; 81 FR 66832, Sept. 29, 2016; 83 FR 30367, June 28, 2018; 85 FR 18146, Apr. 1, 2020; 86 FR 23625, May 4, 2021]

@@ -1,5 +1,7 @@
 ##### § 100.119 Newport-Bermuda Regatta, Narragansett Bay, Newport, RI. #####
 
+Link to an amendment published at 86 FR 29693, June 3, 2021.
+
 (a) *Regulated area.* The regulated area includes all waters of Narragansett Bay, Newport, RI, within the following points (NAD 83):
 
 | Latitude  | Longitude  |
