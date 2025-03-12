@@ -1,0 +1,5 @@
+##### 4.1704 Contracting officer responsibilities. #####
+
+(a) For other than indefinite-delivery contracts, the contracting officer shall ensure that 52.204-14, Service Reporting Requirement, is included in solicitations, contracts, and orders as prescribed at 4.1705. For indefinite-delivery contracts, the contracting officer who awarded the contract shall ensure that 52.204-15, Service Contract Reporting Requirements for Indefinite-Delivery Contracts, is included in solicitations and contracts as prescribed at 4.1705. The contracting officer at the order level shall verify the clause's inclusion in the contract.
+
+(b) If the contractor fails to submit a report in a timely manner, the contracting officer shall exercise appropriate contractual remedies. In addition, the contracting officer shall make the contractor's failure to comply with the reporting requirements a part of the contractor's performance information under subpart 42.15.

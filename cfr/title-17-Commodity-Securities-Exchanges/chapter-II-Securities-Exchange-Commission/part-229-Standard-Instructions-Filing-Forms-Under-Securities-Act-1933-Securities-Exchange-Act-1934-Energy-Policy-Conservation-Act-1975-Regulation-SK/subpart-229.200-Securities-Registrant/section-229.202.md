@@ -96,7 +96,7 @@ C. A brief outline of all taxes, including withholding provisions, to which Unit
 
 D. A brief description of pertinent provisions of any reciprocal tax treaty between such foreign country and the United States regarding withholding or, if there is no such treaty, so state.
 
-3. Section 305(a)(2) of the Trust Indenture Act of 1939, U.S.C. 77aaa *et seq.,* as amended (“Trust Indenture Act”), shall not be deemed to require the inclusion in a registration statement, prospectus, or annual report on Form 10-K of any information not required by this Item or Item 601(b)(4)(vi) of this chapter.
+3. Section 305(a)(2) of the Trust Indenture Act of 1939, 15 U.S.C. 77aaa *et seq.,*  as amended (“Trust Indenture Act”), shall not be deemed to require the inclusion in a registration statement, prospectus, or annual report on Form 10-K of any information not required by this Item or Item 601(b)(4)(vi) of this chapter.
 
 4. Where convertible securities or stock purchase warrants are being registered that are subject to redemption or call, the description of the conversion terms of the securities or material terms of the warrants shall disclose:
 
@@ -116,4 +116,4 @@ Note to § 229.202:
 
 If the securities being described have been accepted for listing on an exchange, the exchange may be identified. The document should not, however, convey the impression that the registrant may apply successfully for listing of the securities on an exchange or that, in the case of an underwritten offering, the underwriters may request the registrant to apply for such listing, unless there is reasonable assurance that the securities to be offered will be acceptable to a securities exchange for listing.
 
-[47 FR 11401, Mar. 16, 1982, as amended at 47 FR 54768, Dec. 6, 1982; 51 FR 42056, Nov. 20, 1986; 70 FR 1593, Jan. 7, 2005; 84 FR 12717, Apr. 2, 2019]
+[47 FR 11401, Mar. 16, 1982, as amended at 47 FR 54768, Dec. 6, 1982; 51 FR 42056, Nov. 20, 1986; 70 FR 1593, Jan. 7, 2005; 84 FR 12717, Apr. 2, 2019; 84 FR 39967, Aug. 13, 2019]

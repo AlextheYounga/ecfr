@@ -1,0 +1,3 @@
+##### 4.705 Specific retention periods. #####
+
+The contractor shall retain the records identified in 4.705-1 through 4.705-3 for the periods designated, provided retention is required under 4.702. Records are identified in this subpart in terms of their purpose or use and not by specific name or form number. Although the descriptive identifications may not conform to normal contractor usage or filing practices, these identifications apply to all contractor records that come within the description.

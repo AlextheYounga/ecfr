@@ -26,4 +26,4 @@
 
 (f) Proper certification will not prevent the head of an agency from imposing remedies in accordance with section 22.1504(a)(4) if it is later discovered that the contractor has furnished an end product or component that has in fact been mined, produced, or manufactured, wholly or in part, using forced or indentured child labor.
 
-[66 FR 5347, Jan. 18, 2001]Editorial Note:For Federal Register citations affecting § 22.1503, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+[66 FR 5347, Jan. 18, 2001]Editorial Note:For Federal Register citations affecting § 22.1503, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

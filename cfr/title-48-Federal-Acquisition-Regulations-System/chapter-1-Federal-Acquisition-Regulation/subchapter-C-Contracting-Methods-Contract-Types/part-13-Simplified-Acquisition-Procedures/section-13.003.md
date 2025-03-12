@@ -62,4 +62,4 @@
 
 (4) Use innovative approaches, to the maximum extent practicable, in awarding contracts using simplified acquisition procedures.
 
-[62 FR 64917, Dec. 9, 1997]Editorial Note:For Federal Register citations affecting § 13.003, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+[62 FR 64917, Dec. 9, 1997]Editorial Note:For Federal Register citations affecting § 13.003, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,0 +1,3 @@
+##### 4.1700 Scope of subpart. #####
+
+This subpart implements section 743(a) of Division C of the Consolidated Appropriations Act, 2010 (Pub. L. 111-117), which requires agencies to report annually to the Office of Management and Budget (OMB) on activities performed by service contractors. Section 743(a) applies to executive agencies, other than the Department of Defense (DoD), covered by the Federal Activities Inventory Reform Act (Pub. L. 105-270) (FAIR Act). The information reported in the inventory will be publicly accessible.

@@ -1,5 +1,6 @@
-##### 13.201 General.
-to delegate micro-purchase authority (see 1.603-3). #####
+##### 13.201 General. #####
+
+(a) Agency heads are encouraged to delegate micro-purchase authority (see 1.603-3).
 
 (b) The Governmentwide commercial purchase card shall be the preferred method to purchase and to pay for micro-purchases (see 2.101).
 
@@ -22,5 +23,7 @@ to delegate micro-purchase authority (see 1.603-3). #####
 (h) When using the Governmentwide commercial purchase card as a method of payment, purchases at or below the micro-purchase threshold are exempt from verification in the System for Award Management as to whether the contractor has a delinquent debt subject to collection under the Treasury Offset Program (TOP).
 
 (i) Do not purchase any hardware, software, or services developed or provided by Kaspersky Lab that the Government will use on or after October 1, 2018. (See 4.2002.)
+
+(j) On or after August 13, 2019, do not procure or obtain, or extend or renew a contract to procure or obtain, any equipment, system, or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system, unless an exception applies or a waiver is granted. (See subpart 4.21.)
 
 [62 FR 64917, Dec. 9, 1997]Editorial Note:For Federal Register citations affecting section 13.201, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

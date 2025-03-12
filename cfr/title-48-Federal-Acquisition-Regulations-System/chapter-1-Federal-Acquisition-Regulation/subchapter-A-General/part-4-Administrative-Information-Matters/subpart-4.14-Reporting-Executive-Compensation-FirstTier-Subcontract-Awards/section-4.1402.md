@@ -1,0 +1,11 @@
+##### 4.1402 Procedures. #####
+
+(a) Agencies shall ensure that contractors comply with the reporting requirements of 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards. Agencies shall review contractor reports on a quarterly basis to ensure the information is consistent with contract information. The agency is not required to address data for which the agency would not normally have supporting information, such as the compensation information required of contractors and first-tier subcontractors. However, the agency shall inform the contractor of any inconsistencies with the contract information and require that the contractor correct the report, or provide a reasonable explanation as to why it believes the information is correct. Agencies may review the reports at *http://www.fsrs.gov.*
+
+(b) When contracting officers report the contract action to the Federal Procurement Data System (FPDS) in accordance with FAR subpart 4.6, certain data will then pre-populate from FPDS, to assist contractors in completing and submitting their reports. If data originating from FPDS is found by the contractor to be in error when the contractor completes the subcontract report, the contractor should notify the Government contracting officer, who is responsible for correcting the data in FPDS. Contracts reported using the generic entity identifier allowed at FAR 4.605(c)(2) will interfere with the contractor's ability to comply with this reporting requirement, because the data will not pre-populate from FPDS.
+
+(c) If the contractor fails to comply with the reporting requirements, the contracting officer shall exercise appropriate contractual remedies. In addition, the contracting officer shall make the contractor's failure to comply with the reporting requirements a part of the contractor's performance information under Subpart 42.15.
+
+(d) There is a reporting exception in 52.204-10(g) for contractors and subcontractors who had gross income in the previous tax year under $300,000.
+
+[75 FR 39419, July 8, 2010, as amended at 77 FR 44058, July 26, 2012; 77 FR 69718, Nov. 20, 2012; 81 FR 67738, Sept. 30, 2016]

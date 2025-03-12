@@ -1,0 +1,3 @@
+##### § 218.232 Permissible methods of taking. #####
+
+Under a Letter or Letters of Authorization (LOA) issued pursuant to §§ 216.106 of this chapter and 218.237, the Holder of the LOA (hereinafter “Navy”) may incidentally, but not intentionally, take marine mammals within the area described in § 218.230 by Level B harassment associated with SURTASS LFA sonar training and testing provided the activity is in compliance with all terms, conditions, and requirements of the regulations in this subpart and the applicable LOA.

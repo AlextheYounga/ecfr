@@ -44,17 +44,19 @@
 
 (5) Insert the clause at 52.204-21, Basic Safeguarding of Covered Contractor Information Systems, in solicitations and contracts (except for acquisitions of COTS items), as prescribed in 4.1903.
 
-(6) Insert the provision at 52.207-6, Solicitation of Offers from Small Business Concerns and Small Business Teaming Arrangements or Joint Ventures (Multiple-Award Contracts), as prescribed at 7.107-6.
+(6) Insert the provision at 52.204-24, Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment, as prescribed in 4.2105(a).
 
-(7) Insert the provision at 52.209-7, Information Regarding Responsibility Matters, as prescribed in 9.104-7(b).
+(7) Insert the provision at 52.207-6, Solicitation of Offers from Small Business Concerns and Small Business Teaming Arrangements or Joint Ventures (Multiple-Award Contracts), as prescribed at 7.107-6.
 
-(8) Insert the provision at 52.209-12, Certification Regarding Tax Matters, as prescribed at 9.104-7(e).
+(8) Insert the provision at 52.209-7, Information Regarding Responsibility Matters, as prescribed in 9.104-7(b).
 
-(9) Insert the provision at 52.222-56, Certification Regarding Trafficking in Persons Compliance Plan, in solicitations as prescribed at 22.1705(b).
+(9) Insert the provision at 52.209-12, Certification Regarding Tax Matters, as prescribed at 9.104-7(e).
 
-(10) Insert the clause at 52.225-19, Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic or Consular Mission outside the United States, as prescribed in 25.301-4.
+(10) Insert the provision at 52.222-56, Certification Regarding Trafficking in Persons Compliance Plan, in solicitations as prescribed at 22.1705(b).
 
-(11) Insert the clause at 52.232-40, Providing Accelerated Payments to Small Business Subcontractors, as prescribed in 32.009-2.
+(11) Insert the clause at 52.225-19, Contractor Personnel in a Designated Operational Area or Supporting a Diplomatic or Consular Mission outside the United States, as prescribed in 25.301-4.
+
+(12) Insert the clause at 52.232-40, Providing Accelerated Payments to Small Business Subcontractors, as prescribed in 32.009-2.
 
 (e) *Discretionary use of FAR provisions and clauses.* The contracting officer may include in solicitations and contracts by addendum other FAR provisions and clauses when their use is consistent with the limitations contained in 12.302. For example:
 

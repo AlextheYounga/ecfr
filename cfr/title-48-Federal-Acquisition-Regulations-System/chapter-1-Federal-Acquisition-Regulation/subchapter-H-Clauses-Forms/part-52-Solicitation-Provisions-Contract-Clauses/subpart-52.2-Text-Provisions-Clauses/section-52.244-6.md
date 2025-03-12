@@ -2,7 +2,7 @@
 
 As prescribed in 44.403, insert the following clause:
 
-Subcontracts for Commercial Items (JAN 2019)
+Subcontracts for Commercial Items (AUG 2019)
 
 (a) *Definitions.* As used in this clause -
 
@@ -24,37 +24,39 @@ Subcontracts for Commercial Items (JAN 2019)
 
 (v) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (JUL 2018) (Section 1634 of Pub. L. 115-91).
 
-(vi) 52.219-8, Utilization of Small Business Concerns (OCT 2018) (15 U.S.C. 637(d)(2) and (3)), if the subcontract offers further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds $700,000 ($1.5 million for construction of any public facility), the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
+(vi) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (AUG 2019) (Section 889(a)(1)(A) of Pub. L. 115-232).
 
-(vii) 52.222-21**,** Prohibition of Segregated Facilities (APR 2015).
+(vii) 52.219-8, Utilization of Small Business Concerns (OCT 2018) (15 U.S.C. 637(d)(2) and (3)), if the subcontract offers further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds $700,000 ($1.5 million for construction of any public facility), the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
 
-(viii) 52.222-26, Equal Opportunity (SEP 2016) (E.O. 11246).
+(viii) 52.222-21**,** Prohibition of Segregated Facilities (APR 2015).
 
-(ix) 52.222-35, Equal Opportunity for Veterans (Oct 2015)(38 U.S.C. 4212(a));
+(ix) 52.222-26, Equal Opportunity (SEP 2016) (E.O. 11246).
 
-(x) 52.222-36, Equal Opportunity for Workers with Disabilities (July 2014) (29 U.S.C. 793).
+(x) 52.222-35, Equal Opportunity for Veterans (Oct 2015)(38 U.S.C. 4212(a));
 
-(xi) 52.222-37, Employment Reports on Veterans (FEB 2016) (38 U.S.C. 4212).
+(xi) 52.222-36, Equal Opportunity for Workers with Disabilities (July 2014) (29 U.S.C. 793).
 
-(xii) 52.222-40, Notification of Employee Rights Under the National Labor Relations Act (DEC 2010) (E.O. 13496), if flow down is required in accordance with paragraph (f) of FAR clause 52.222-40.
+(xii) 52.222-37, Employment Reports on Veterans (FEB 2016) (38 U.S.C. 4212).
 
-(xiii)(A) 52.222-50, Combating Trafficking in Persons (JAN 2019) (22 U.S.C. chapter 78 and E.O. 13627).
+(xiii) 52.222-40, Notification of Employee Rights Under the National Labor Relations Act (DEC 2010) (E.O. 13496), if flow down is required in accordance with paragraph (f) of FAR clause 52.222-40.
+
+(xiv)(A) 52.222-50, Combating Trafficking in Persons (JAN 2019) (22 U.S.C. chapter 78 and E.O. 13627).
 
 (B) Alternate I (Mar 2015) of 52.222-50 (22 U.S.C. chapter 78 and E.O. 13627).
 
-(xiv) 52.222-55, Minimum Wages under Executive Order 13658 (DEC 2015), if flowdown is required in accordance with paragraph (k) of FAR clause 52.222-55.
+(xv) 52.222-55, Minimum Wages under Executive Order 13658 (DEC 2015), if flowdown is required in accordance with paragraph (k) of FAR clause 52.222-55.
 
-(xv) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706), if flow down is required in accordance with paragraph (m) of FAR clause 52.222-62.
+(xvi) 52.222-62, Paid Sick Leave Under Executive Order 13706 (JAN 2017) (E.O. 13706), if flow down is required in accordance with paragraph (m) of FAR clause 52.222-62.
 
-(xvi)(A) 52.224-3, Privacy Training (JAN 2017) (5 U.S.C. 552a) if flow down is required in accordance with 52.224-3(f).
+(xvii)(A) 52.224-3, Privacy Training (JAN 2017) (5 U.S.C. 552a) if flow down is required in accordance with 52.224-3(f).
 
 (B) Alternate I (JAN 2017) of 52.224-3, if flow down is required in accordance with 52.224-3(f) and the agency specifies that only its agency-provided training is acceptable).
 
-(xvii) 52.225-26, Contractors Performing Private Security Functions Outside the United States (OCT 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
+(xviii) 52.225-26, Contractors Performing Private Security Functions Outside the United States (OCT 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
 
-(xviii) 52.232-40, Providing Accelerated Payments to Small Business Subcontractors (DEC 2013), if flow down is required in accordance with paragraph (c) of FAR clause 52.232-40.
+(xix) 52.232-40, Providing Accelerated Payments to Small Business Subcontractors (DEC 2013), if flow down is required in accordance with paragraph (c) of FAR clause 52.232-40.
 
-(xix) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. App. 1241 and 10 U.S.C. 2631), if flow down is required in accordance with paragraph (d) of FAR clause 52.247-64.
+(xx) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. App. 1241 and 10 U.S.C. 2631), if flow down is required in accordance with paragraph (d) of FAR clause 52.247-64.
 
 (2) While not required, the Contractor may flow down to subcontracts for commercial items a minimal number of additional clauses necessary to satisfy its contractual obligations.
 

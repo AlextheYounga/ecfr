@@ -2,7 +2,7 @@
 
 (a) Without regard to the protest venue, contracting officers shall consider all protests and seek legal advice, whether protests are submitted before or after award and whether filed directly with the agency, the Government Accountability Office (GAO), or the U.S. Court of Federal Claims. (*See* 19.302 for protests of small business status, 19.305 for protests of disadvantaged business status, 19.306 for protests of HUBZone small business status, and 19.307 for protests of service-disabled veteran-owned small business status, and 19.308 for protests of the status of an economically disadvantaged women-owned small business concern or of a women-owned small business concern eligible under the Women-Owned Small Business Program.)
 
-(b) If, in connection with a protest, the head of an agency determines that a solicitation, proposed award, or award does not comply with the requirements of law or regulation, the head of the agency may -
+(b) If, in connection with a protest, the head of an agency determines that a solicitation, proposed award, or award does not comply with the requirements of law or regulation, the head of the agency may—
 
 (1) Take any action that could have been recommended by the Comptroller General had the protest been filed with the Government Accountability Office;
 
@@ -18,7 +18,7 @@
 
 (c) In accordance with 31 U.S.C. 1558, with respect to any protest filed with the GAO, if the funds available to the agency for a contract at the time a protest is filed in connection with a solicitation for, proposed award of, or award of such a contract would otherwise expire, such funds shall remain available for obligation for 100 days after the date on which the final ruling is made on the protest. A ruling is considered final on the date on which the time allowed for filing an appeal or request for reconsideration has expired, or the date on which a decision is rendered on such appeal or request, whichever is later.
 
-(d) *Protest likely after award.* The contracting officer may stay performance of a contract within the time period contained in 33.104(c)(1) if the contracting officer makes a written determination that -
+(d) *Protest likely after award.* The contracting officer may stay performance of a contract within the time period contained in 33.104(c)(1) if the contracting officer makes a written determination that—
 
 (1) A protest is likely to be filed; and
 
@@ -28,4 +28,4 @@
 
 (f) No person may file a protest at GAO for a procurement integrity violation unless that person reported to the contracting officer the information constituting evidence of the violation within 14 days after the person first discovered the possible violation (41 U.S.C. 2106).
 
-[50 FR 2270, Jan. 15, 1985]Editorial Note:For Federal Register citations affecting § 33.102, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+[50 FR 2270, Jan. 15, 1985]Editorial Note:For Federal Register citations affecting § 33.102, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

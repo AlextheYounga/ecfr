@@ -40,4 +40,4 @@ When using funds other than those appropriated under the American Recovery and R
 
 (B) Unmanufactured construction material from a designated country other than Bahrain, Mexico, or Oman.
 
-[64 FR 72419, Dec. 27, 1999]Editorial Note:For Federal Register citations affecting § 25.1102, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+[64 FR 72419, Dec. 27, 1999]Editorial Note:For Federal Register citations affecting § 25.1102, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
