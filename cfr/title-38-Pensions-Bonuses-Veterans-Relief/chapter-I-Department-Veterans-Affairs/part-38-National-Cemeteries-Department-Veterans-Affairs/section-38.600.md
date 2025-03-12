@@ -1,6 +1,6 @@
 ##### § 38.600 Definitions. #####
 
-Link to an amendment published at 86 FR 43097, Aug. 6, 2021.
+Link to an amendment published at 86 FR 43097, Aug. 6, 2021.Link to a correction published at 86 FR 47387, Aug. 25, 2021.
 
 (a)(1) *Applicant defined - burial headstones and markers.* An applicant for a headstone or marker that will mark the gravesite or burial site of an eligible deceased individual may be:
 

@@ -1,7 +1,5 @@
 ##### § 117.317 Okeechobee Waterway. #####
 
-Link to an amendment published at 86 FR 39963, July 26, 2021.
-
 (a) *Exempt vessels.* This term means public vessels of the United States and tugs with tows.
 
 (b) *Evans Crary (SR A1A) bridge, mile 3.4 at Stuart.* The draw shall open on signal; except that from December 1 through May 1, from 7 a.m. to 6 p.m., Monday through Friday, except federal holidays, the draw need open only on the hour and half-hour. On Saturdays, Sundays, and federal holidays, December 1 through May 1, from 8 a.m. to 6 p.m., the draw need open only on the hour, 20 minutes after the hour, and 40 minutes after the hour. Exempt vessels shall be passed at any time.
@@ -18,7 +16,21 @@ Link to an amendment published at 86 FR 39963, July 26, 2021.
 
 (d) *Roosevelt (US1) bridge, mile 7.4 at Stuart.* The draw shall open on signal; except Monday through Friday, except Federal holidays, from 7 a.m. to 6 p.m. the draw need open only on the hour and half hour. However, the draw need not open between 7:30 a.m. and 9 a.m. and 4 p.m. and 5:30 p.m. except at 8:15 a.m. and 4:45 p.m. On Saturdays, Sundays, and federal holidays from 8 a.m. to 6 p.m. the draw need open only on the hour, 20 minutes after the hour, and 40 minutes after the hour. When the adjacent railway bridge is in the closed position at the time of a scheduled opening the draw need not open, but it must then open immediately upon opening of the railroad bridge to pass all accumulated vessels. Exempt vessels shall be passed at any time.
 
-(e) *Seaboard System Railroad bridge, mile 28.2 at Indiantown.* The draw shall open on signal; except that, from 10 p.m. to 6 a.m. the draw shall open on signal if at least three hours notice is given.
+(e) *Seaboard System Railroad bridge, mile 28.2 at Indiantown.* The draw of the CSX Railroad Bridge, mile 28.2 at Indiantown, FL, shall operate as follows:
+
+(1) The swing bridge is not tendered locally, but will be monitored and operated by a remote operator.
+
+(2) Marine radio communication shall be maintained, by the remote operator, with mariners near the bridge for the safety of navigation. Visual monitoring of the waterway shall be maintained with the use of cameras. Detection sensors shall be installed for the detection of vessels entering the radius of the swing span of the bridge while in operation.
+
+(3) From 7 a.m. to 7 p.m., the bridge will be maintained in the open to navigation position and will display green lights to indicate that the span is fully open.
+
+(4) When a train approaches, the remote operator shall monitor for vessels in the vicinity of the bridge. Provided the sensors do not detect a vessel entering the swing radius of the bridge, the operator shall initiate the closing sequence, which includes the sounding of a horn. The span will remain in the closed position for the entire time the track circuit is occupied displaying red lights.
+
+(5) After the train has cleared the track circuit, the span shall open and green lights will be displayed.
+
+(6) From 7 p.m. to 7 a.m., the bridge will be in the closed to navigation position and will open if at least a three hour advance notice is requested via marine radio channel 9 VHF or telephone (813) 677-3974.
+
+(7) The bridge shall not be operated from the remote location in the following events: Failure or obstruction of the detection sensors, remote actuation systems, cameras, or marine radio communications, or when directed by the Coast Guard. In these situations, a bridge operator must be on-site and locally operate the bridge.
 
 (f) Florida East Coast Railroad bridge, mile 38.0, at Port Mayaca.
 

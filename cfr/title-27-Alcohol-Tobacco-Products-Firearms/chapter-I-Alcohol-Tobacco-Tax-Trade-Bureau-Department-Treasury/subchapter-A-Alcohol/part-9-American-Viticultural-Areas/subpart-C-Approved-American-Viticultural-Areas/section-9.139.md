@@ -1,5 +1,7 @@
 ##### § 9.139 Santa Lucia Highlands. #####
 
+Link to an amendment published at 86 FR 47379, Aug. 25, 2021.
+
 (a) *Name.* The name of the viticultural area described in this section is “Santa Lucia Highlands.”
 
 (b) *Approved maps.* The appropriate maps for determining the boundaries of the “Santa Lucia Highlands” viticultural area are 7 U.S.G.S. Quadrangle 7.5 minute series topographic maps. They are titled:
