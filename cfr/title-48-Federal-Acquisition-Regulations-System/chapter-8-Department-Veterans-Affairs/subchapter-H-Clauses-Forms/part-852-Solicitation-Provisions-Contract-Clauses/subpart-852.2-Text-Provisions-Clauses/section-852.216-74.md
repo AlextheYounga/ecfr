@@ -1,10 +1,8 @@
 ##### 852.216-74 Economic price adjustment - medicaid labor rates. #####
 
-Link to an amendment published at 84 FR 46455, Sept. 4, 2019.
-
 As prescribed in 816.203-4(e)(4), insert the following clause:
 
-Economic Price Adjustment - Medicaid Labor Rates (DATE)
+Economic Price Adjustment - Medicaid Labor Rates (MAR 2018)
 
 This clause does not apply to rates for non-Medicaid nursing homes.
 
@@ -28,4 +26,4 @@ This clause does not apply to rates for non-Medicaid nursing homes.
 
 (d) The Contracting Officer, precluding certified cost and pricing data may examine the Contractor's books, records, and other supporting data relevant to the cost of labor (including fringe benefits) and material during all reasonable times until the end of 3 years after the date of final payment under this contract or the time periods specified in Subpart 4.7 of the Federal Acquisition Regulation (FAR), whichever is earlier.
 
-(End of clause)[83 FR 7408, Feb. 21, 2018]
+(End of clause)[83 FR 7408, Feb. 21, 2018, as amended at 84 FR 46455, Sept. 4, 2019]

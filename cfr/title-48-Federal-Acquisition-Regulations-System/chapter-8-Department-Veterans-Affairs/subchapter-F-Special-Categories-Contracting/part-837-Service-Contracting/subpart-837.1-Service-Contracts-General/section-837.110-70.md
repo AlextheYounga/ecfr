@@ -1,5 +1,7 @@
-##### 837.110-70 Services provided to eligible beneficiaries. #####
+##### 837.110-70 VA solicitation provisions and contract clauses. #####
 
-Link to an amendment published at 84 FR 46453, Sept. 4, 2019.
+(a) Contracting officers shall include the clause at 852.237-74, Non-Discrimination in Service Delivery, in all solicitations and contracts covering services provided to eligible beneficiaries.
 
-Contracting officers shall include the clause at 852.271-70, Nondiscrimination in services provided to beneficiaries, in all solicitations and contracts covering services provided to eligible beneficiaries.
+(b) The contracting officer shall insert the clause at 852.237-75, Key Personnel, in solicitations and contracts when the contracting officer will require the contractor to designate contractor key personnel.
+
+[84 FR 46453, Sept. 4, 2019]

@@ -1,10 +1,8 @@
 ##### 852.216-72 Proportional economic price adjustment of contract price(s) based on a price index. #####
 
-Link to an amendment published at 84 FR 46454, Sept. 4, 2019.
-
 As prescribed in 816.203-4(e)(2), insert the following clause:
 
-Proportional Economic Price Adjustment of Contract Price(s) Based on a Price Index (DATE)
+Proportional Economic Price Adjustment of Contract Price(S) Based on a Price Index (MAR 2018)
 
 (a) To the extent that contract cost increases are provided for by this economic price adjustment clause, the Contractor warrants that the prices in this contract for any option periods do not include any amount to protect against such contingent cost increases.
 
@@ -86,4 +84,4 @@ Although the new unit price for the first contract adjustment period of the firs
 
 (j) Any dispute arising under this clause shall subject to the “Disputes” clause of the contract.
 
-(End of clause)[83 FR 7406, Feb. 21, 2018]
+(End of clause)[83 FR 7406, Feb. 21, 2018, as amended at 84 FR 46454, Sept. 4, 2019]

@@ -1,6 +1,6 @@
 ##### § 210.2-01 Qualifications of accountants. #####
 
-Link to an amendment published at 84 FR 32060, July 5, 2019.Preliminary Note to § 210.2-01
+Preliminary Note to § 210.2-01
 
 1. Section 210.2-01 is designed to ensure that auditors are qualified and independent of their audit clients both in fact and in appearance. Accordingly, the rule sets forth restrictions on financial, employment, and business relationships between an accountant and an audit client and restrictions on an accountant providing certain non-audit services to an audit client.
 
@@ -44,15 +44,21 @@ Link to an amendment published at 84 FR 32060, July 5, 2019.Preliminary Note to 
 
 (ii) *Other financial interests in audit client.* An accountant is not independent when the accounting firm, any covered person in the firm, or any of his or her immediate family members has:
 
-(A) *Loans/debtor-creditor relationship.* Any loan (including any margin loan) to or from an audit client, or an audit client's officers, directors, or record or beneficial owners of more than ten percent of the audit client's equity securities, except for the following loans obtained from a financial institution under its normal lending procedures, terms, and requirements:
+(A) *Loans/debtor-creditor relationship.* (*1*) Any loan (including any margin loan) to or from an audit client, or an audit client's officers, directors, or beneficial owners (known through reasonable inquiry) of the audit client's equity securities where such beneficial owner has significant influence over the audit client, except for the following loans obtained from a financial institution under its normal lending procedures, terms, and requirements:
 
-(*1*) Automobile loans and leases collateralized by the automobile;
+(*i*) Automobile loans and leases collateralized by the automobile;
 
-(*2*) Loans fully collateralized by the cash surrender value of an insurance policy;
+(*ii*) Loans fully collateralized by the cash surrender value of an insurance policy;
 
-(*3*) Loans fully collateralized by cash deposits at the same financial institution; and
+(*iii*) Loans fully collateralized by cash deposits at the same financial institution; and
 
-(*4*) A mortgage loan collateralized by the borrower's primary residence provided the loan was not obtained while the covered person in the firm was a covered person.
+(*iv*) A mortgage loan collateralized by the borrower's primary residence provided the loan was not obtained while the covered person in the firm was a covered person.
+
+(*2*) For purposes of paragraph (c)(1)(ii)(A) of this section:
+
+(*i*) The term *audit client* for a fund under audit excludes any other fund that otherwise would be considered an *affiliate of the audit client;*
+
+(*ii*) The term *fund* means: An investment company or an entity that would be an investment company but for the exclusions provided by Section 3(c) of the Investment Company Act of 1940 (15 U.S.C. 80a-3(c)); or a commodity pool as defined in Section 1a(10) of the U.S. Commodity Exchange Act, as amended [(7 U.S.C. 1-1a(10)], that is not an investment company or an entity that would be an investment company but for the exclusions provided by Section 3(c) of the Investment Company Act of 1940 (15 U.S.C. 80a-3(c)).
 
 (B) *Savings and checking accounts.* Any savings, checking, or similar account at a bank, savings and loan, or similar institution that is an audit client, if the account has a balance that exceeds the amount insured by the Federal Deposit Insurance Corporation or any similar insurer, except that an accounting firm account may have an uninsured balance provided that the likelihood of the bank, savings and loan, or similar institution experiencing financial difficulties is remote.
 
@@ -368,4 +374,4 @@ Link to an amendment published at 84 FR 32060, July 5, 2019.Preliminary Note to 
 
 (17) *Audit committee* means a committee (or equivalent body) as defined in section 3(a)(58) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(58)).
 
-[37 FR 14594, July 21, 1972, as amended at 48 FR 9521, Mar. 7, 1983; 65 FR 76082, Dec. 5, 2000; 68 FR 6044, Feb. 5, 2003; 70 FR 1593, Jan. 7, 2005; 83 FR 50198, Oct. 4, 2018]
+[37 FR 14594, July 21, 1972, as amended at 48 FR 9521, Mar. 7, 1983; 65 FR 76082, Dec. 5, 2000; 68 FR 6044, Feb. 5, 2003; 70 FR 1593, Jan. 7, 2005; 83 FR 50198, Oct. 4, 2018; 84 FR 32060, July 5, 2019]

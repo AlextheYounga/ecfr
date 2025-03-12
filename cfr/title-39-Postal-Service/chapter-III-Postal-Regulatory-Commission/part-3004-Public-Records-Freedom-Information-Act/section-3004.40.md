@@ -1,5 +1,7 @@
 ##### § 3004.40 Hard copy requests for records and for expedited processing. #####
 
+Link to an amendment published at 84 FR 53056, Oct. 4, 2019.
+
 (a) A hard copy request for records must:
 
 (1) Be in writing;

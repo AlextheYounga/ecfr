@@ -1,5 +1,7 @@
 ##### § 3002.11 Office of Secretary and Administration. #####
 
+Link to an amendment published at 84 FR 53056, Oct. 4, 2019.
+
 (a) The incumbent head of the office utilizes the title of “Secretary”.
 
 (b) The Office of Secretary and Administration is responsible for the Commission's budget and accounting. In this role, the Office of Secretary and Administration develops, implements, and administers the Commission's financial management system and accounting activities including those relating to the budget and the payroll; is responsible for the Commission's strategic planning; and serves as the point of contact for all Commission contracts and audits.

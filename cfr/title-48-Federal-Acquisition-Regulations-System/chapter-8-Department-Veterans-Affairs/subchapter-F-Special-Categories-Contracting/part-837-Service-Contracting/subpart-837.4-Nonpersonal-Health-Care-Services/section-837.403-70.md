@@ -1,0 +1,11 @@
+##### 837.403-70 VA contract clauses. #####
+
+(a) The contracting officer shall insert the clause at 852.237-70, Indemnification and Medical Liability Insurance, in lieu of FAR clause 52.237-7, in solicitations and contracts for nonpersonal health care services, including contracts awarded under the authority of 38 U.S.C. 7409, 38 U.S.C. 8151-8153, and part 873. The contracting officer may include the clause in bilateral purchase orders for nonpersonal health care services awarded under the procedures in FAR part 13 and part 813.
+
+(b) The contracting officer shall insert the clause at 852.237-71, Nonsmoking Policy for Children's Services, in solicitations, contracts, and orders that involve health or daycare services that are provided to children under the age of 18 on a routine or regular basis pursuant to the Nonsmoking Policy for Children's Services (20 U.S.C. 6081-6084).
+
+(c) The contracting officer shall insert the clause at 852.237-72, Crime Control Act—Reporting of Child Abuse, in solicitations, contracts, and orders that require performance on Federal land or in a federally operated (or contracted) facility and involve the professions/activities performed by persons specified in the Crime Control Act of 1990 (42 U.S.C. 13031) including, but not limited to, teachers, social workers, physicians, nurses, dentists, health care practitioners, optometrists, psychologists, emergency medical technicians, alcohol or drug treatment personnel, child care workers and administrators, emergency medical technicians and ambulance drivers.
+
+(d) The contracting officer shall insert the clause at 852.237-73, Crime Control Act—Requirement for Background Checks, in solicitations, contracts, and orders that involve providing child care services to children under the age of 18, including social services, health and mental health care, child- (day) care, education (whether or not directly involved in teaching), and rehabilitative programs covered under the Crime Control Act of 1990 (42 U.S.C. 13041).
+
+[84 FR 46453, Sept. 4, 2019]

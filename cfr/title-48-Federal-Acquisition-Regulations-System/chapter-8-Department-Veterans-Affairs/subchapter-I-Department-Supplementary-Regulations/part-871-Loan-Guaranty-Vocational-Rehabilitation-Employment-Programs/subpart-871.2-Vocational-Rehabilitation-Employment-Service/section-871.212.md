@@ -1,15 +1,15 @@
 ##### 871.212 Contract clauses. #####
 
-Link to an amendment published at 84 FR 46457, Sept. 4, 2019.
+(a) Contracting officers shall use the following clauses, as appropriate, in solicitations and contracts for vocational rehabilitation and employment services as they pertain to training and rehabilitation services and contracts for counseling services:
 
-Contracting officers must use the following clauses, as appropriate, in solicitations and contracts for vocational rehabilitation and employment services as they pertain to training and rehabilitation services and contracts for counseling services:
+(1) 852.271-72, Time Spent by Counselee in Counseling Process.
 
-(a) 852-271-70 Nondiscrimination in services provided to beneficiaries.
+(2) 852.271-73, Use and Publication of Counseling Results.
 
-(b) 852.271-72 Time spent by counselee in counseling process.
+(3) 852.271-74, Inspection.
 
-(c) 852.271-73 Use and publication of counseling results.
+(4) 852.271-75, Extension of Contract Period.
 
-(d) 852.271-74 Inspection.
+(b) See 837.110-70(a) for clause 852.237-74, Non-Discrimination in Service Delivery.
 
-(e) 852.271-75 Extension of contract period.
+[84 FR 46457, Sept. 4, 2019]

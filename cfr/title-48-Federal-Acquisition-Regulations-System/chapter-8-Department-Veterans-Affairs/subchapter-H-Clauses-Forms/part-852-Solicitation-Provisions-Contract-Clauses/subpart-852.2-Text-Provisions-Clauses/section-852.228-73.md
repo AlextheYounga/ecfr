@@ -1,10 +1,8 @@
 ##### 852.228-73 Indemnification of contractor - hazardous research projects. #####
 
-Link to an amendment published at 84 FR 46455, Sept. 4, 2019.
-
 As prescribed in 828.7003, insert the following clause:
 
-Indemnification of Contractor - Hazardous Research Projects (DATE)
+Indemnification of Contractor - Hazardous Research Projects (MAR 2018)
 
 (a) This contract involves work with a risk of an unusually hazardous nature as specifically defined in the contract. The government shall indemnify the Contractor, including subcontractors of any tier, against losses or liability specified in paragraphs (b) and (c) of this clause if -
 
@@ -34,4 +32,4 @@ Indemnification of Contractor - Hazardous Research Projects (DATE)
 
 (2) The Government may elect to control or assist in the defense of any suit or claim for which indemnification is provided in the contract.
 
-(End of clause)[83 FR 7410, Feb. 21, 2018
+(End of clause)[83 FR 7410, Feb. 21, 2018, as amended at 84 FR 46455, Sept. 4, 2019]

@@ -1,10 +1,8 @@
 ##### 852.216-73 Economic price adjustment - state nursing home care for veterans. #####
 
-Link to an amendment published at 84 FR 46455, Sept. 4, 2019.
-
 As prescribed in 816.203-4(e)(3), insert the following clause:
 
-Economic Price Adjustment - State Nursing Home Care for Veterans (DATE)
+Economic Price Adjustment - State Nursing Home Care for Veterans (MAR 2018)
 
 This clause does not apply to rates for non-Medicaid nursing homes.
 
@@ -30,4 +28,4 @@ This clause does not apply to rates for non-Medicaid nursing homes.
 
 (4) No adjustments are made until the Contracting Officer receives from the SMA an authenticated copy of the new rates signed and dated at the top right of the document by the authorized nursing home official. Within ten days after this occurs, the Contracting Officer will execute an approval signature and date at the approximate locations of the nursing home official's signature, the action of which will serve as the effective date of the adjusted rate. A copy of the fully executed document will be sent to the nursing home official for record keeping purposes.
 
-(End of clause)[83 FR 7408, Feb. 21, 2018]
+(End of clause)[83 FR 7408, Feb. 21, 2018, as amended at 84 FR 46455, Sept. 4, 2019]

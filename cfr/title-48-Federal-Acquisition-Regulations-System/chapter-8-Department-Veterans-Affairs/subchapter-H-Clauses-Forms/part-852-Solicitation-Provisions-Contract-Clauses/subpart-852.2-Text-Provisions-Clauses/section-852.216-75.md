@@ -1,10 +1,8 @@
 ##### 852.216-75 Economic price adjustment clause - fuel surcharge. #####
 
-Link to an amendment published at 84 FR 46455, Sept. 4, 2019.
-
 As prescribed in 816.203-4(e)(5), insert the following clause:
 
-Economic Price Adjustment Clause - Fuel Surcharge (DATE)
+Economic Price Adjustment - Fuel Surcharge (MAR 2018)
 
 (a) To the extent that contract fuel cost increases are provided for by this economic price adjustment clause, the Contractor warrants that the prices in this contract for any option periods do not include any amount to protect against such contingent fuel cost increases.
 
@@ -34,4 +32,4 @@ The Base Fuel Cost, for the purpose of price adjustments under this clause, shal
 
 (j) Any dispute arising under this clause shall be determined in accordance with and subject to the “Disputes” clause of the contract.
 
-(End of clause)[83 FR 7409, Feb. 21, 2018]
+(End of clause)[83 FR 7409, Feb. 21, 2018, as amended at 84 FR 46455, Sept. 4, 2019]

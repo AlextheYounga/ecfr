@@ -1,6 +1,6 @@
 ##### § 251.10 Miscellaneous provisions. #####
 
-(a) *Records* - (1) *Commodities.* State agencies, subdistributing agencies (as defined in § 250.3 of this chapter), and eligible recipient agencies must maintain records to document the receipt, disposal, and inventory of commodities received under this part that they, in turn, distribute to eligible recipient agencies. Such records must be maintained in accordance with the requirements set forth in § 250.16 of this chapter. Eligible recipient agencies must sign a receipt for program commodities which they receive under this part for distribution to households or for use in preparing meals, and records of all such receipts must be maintained.
+(a) *Records*—(1) *Commodities.* State agencies, subdistributing agencies (as defined in § 250.3 of this chapter), and eligible recipient agencies must maintain records to document the receipt, disposal, and inventory of commodities received under this part that they, in turn, distribute to eligible recipient agencies. Such records must be maintained in accordance with the requirements set forth in § 250.16 of this chapter. Eligible recipient agencies must sign a receipt for program commodities which they receive under this part for distribution to households or for use in preparing meals, and records of all such receipts must be maintained.
 
 (2) *Administrative funds.* In addition to maintaining financial records in accordance with 2 CFR part 200, subpart D, and USDA implementing regulations at 2 CFR part 400, State agencies must maintain records to document the amount of funds received under this part and paid to eligible recipient agencies for allowable administrative costs incurred by such eligible recipient agencies. State agencies must also ensure that eligible recipient agencies maintain such records.
 
@@ -12,7 +12,7 @@
 
 (c) *Nondiscrimination.* There shall be no discrimination in the distribution of foods for home consumption or availability of meals prepared from commodities donated under this part because of race, color, national origin, sex, age, or handicap.
 
-(d) *Reports* - (1) *Submission of Form FNS-667.* Designated State agencies must identify funds obligated and disbursed to cover the costs associated with the program at the State and local level. State and local costs must be identified separately. The data must be identified on Form FNS-667, Report of Administrative Costs (TEFAP) and submitted to the appropriate FNS Regional Office on a quarterly basis. The quarterly report must be submitted no later than 30 calendar days after the end of the quarter to which it pertains. The final report must be submitted no later than 90 calendar days after the end of the fiscal year to which it pertains.
+(d) *Reports*—(1) *Submission of Form FNS-667.* Designated State agencies must identify funds obligated and disbursed to cover the costs associated with the program at the State and local level. State and local costs must be identified separately. The data must be identified on Form FNS-667, Report of Administrative Costs (TEFAP) and submitted to the appropriate FNS Regional Office on a quarterly basis. The quarterly report must be submitted no later than 30 calendar days after the end of the quarter to which it pertains. The final report must be submitted no later than 90 calendar days after the end of the fiscal year to which it pertains.
 
 (2) *Reports of excessive inventory.* Each State agency must complete and submit to the FNS Regional Office reports to ensure that excessive inventories of donated foods are not maintained, in accordance with the requirements of § 250.17(a) of this chapter.
 
@@ -50,4 +50,42 @@
 
 (i) *Recruitment activities related to the Supplemental Nutrition Assistance Program (SNAP).* Any entity that receives donated foods identified in this section must adhere to regulations set forth under § 277.4(b)(6) of this chapter.
 
-(Approved by the Office of Management and Budget under control number 0584-0313)[51 FR 12823, Apr. 16, 1986. Redesignated and amended at 52 FR 17934, May 13, 1987; 53 FR 15357, Apr. 29, 1988; 59 FR 16975, Apr. 11, 1994; 62 FR 53731, Oct. 16, 1997; 64 FR 72907, Dec. 29, 1999; 72 FR 24184, May 2, 2007; 81 FR 23115, Apr. 19, 2016; 81 FR 92556, Dec. 20, 2016]
+(j) *Projects to harvest, process, package, or transport donated commodities*—(1) *Definition of project.* These projects, also known as Farm to Food Bank Projects, are defined as the harvesting, processing, packaging, or transportation of unharvested, unprocessed, or unpackaged commodities donated by agricultural producers, processors, or distributors for use by emergency feeding organizations under section 203D of the Emergency Food Assistance Act of 1983.
+
+(2) *Availability and allocation of funds.* Funds for the costs of carrying out a Farm to Food Bank Project will be allocated to States as follows:
+
+(i) Funds made available to the Department for Farm to Food Bank Projects will be distributed to States that have submitted an approved State plan describing a plan of operation for a Farm to Food Bank Project.
+
+(ii) Funds for Farm to Food Bank Projects will be distributed each fiscal year to State agencies with an approved State plan for a project in that fiscal year using the funding formula defined in § 251.3(h).
+
+(iii) Funds will be available to State agencies for one year from the date of allocation.
+
+(3) *Purpose and use of funds.* State agencies may only use funds made available under this paragraph (j) for the costs of carrying out a Farm to Food Bank Project.
+
+(i) Farm to Food Bank Projects must have a purpose of:
+
+(A) Reducing food waste at the agricultural production, processing, or distribution level through the donation of food;
+
+(B) Providing food to individuals in need; and
+
+(C) Building relationships between agricultural producers, processors, and distributors and emergency feeding organizations through the donation of food.
+
+(ii) Project funds may only be used for costs associated with harvesting, processing, packaging, or transportation of unharvested, unprocessed, or unpackaged commodities donated by agricultural producers, processors, or distributors for use by emergency feeding organizations.
+
+(iii) Project funds cannot be used to purchase foods or for agricultural production activities such as purchasing seeds or planting crops.
+
+(4) *Matching of funds*—(i) *State matching requirement.* The State must provide a cash or in-kind contribution at least equal to the amount of funding received under this paragrpah (j) for a Farm to Food Bank Project.
+
+(ii) *Allowable contributions.* States shall meet the match requirement in paragraph (a)(4) of this section by providing allowable contributions as described at § 251.9(c); contributions must only be for costs which would otherwise be allowable as a Farm to Food Bank Project cost.
+
+(iii) *Emergency feeding organization contributions.* Cash or in-kind contributions from emergency feeding organizations that partner with the State agency to administer the Farm to Food Bank Project are allowable.
+
+(iv) *Food donations.* Donations of foods, including the value of foods donated as a part of a Farm to Food Bank Project, cannot count toward the match requirement in paragraph (j)(4) of this section.
+
+(5) *Reallocation of funds.* If, during the course of the fiscal year, the Department determines that a State will not expend all of the funds allocated to the State for a fiscal year under this paragraph (j), the Department shall reallocate the unexpended funds to other States that have an approved State Plan describing a plan of operation for a Farm to Food Bank Project during that fiscal year or the subsequent fiscal year.
+
+(6) *Reporting requirements.* Each State agency to which Farm to Food Bank Project funds are allocated for a fiscal year must submit a report describing use of the funds. The data must be identified on Form SF-425, Federal Financial Report, and submitted to the appropriate FNS Regional Office on a semiannual basis. The report must be submitted no later than 30 calendar days after the end of the period to which it pertains. The final report must be submitted no later than 90 calendar days after the end of the fiscal year to which it pertains.
+
+(7) *Cooperative agreements.* State agencies that carry out a Farm to Food Bank Project may enter into cooperative agreements with State agencies of other States to maximize the use of commodities donated under the project.
+
+(Approved by the Office of Management and Budget under control number 0584-0313)[51 FR 12823, Apr. 16, 1986. Redesignated and amended at 52 FR 17934, May 13, 1987; 53 FR 15357, Apr. 29, 1988; 59 FR 16975, Apr. 11, 1994; 62 FR 53731, Oct. 16, 1997; 64 FR 72907, Dec. 29, 1999; 72 FR 24184, May 2, 2007; 81 FR 23115, Apr. 19, 2016; 81 FR 92556, Dec. 20, 2016; 84 FR 53002, Oct. 4, 2019]

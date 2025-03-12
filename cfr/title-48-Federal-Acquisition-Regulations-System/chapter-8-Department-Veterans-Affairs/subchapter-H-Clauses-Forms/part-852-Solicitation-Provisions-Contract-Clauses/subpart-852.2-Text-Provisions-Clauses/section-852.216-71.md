@@ -1,10 +1,8 @@
 ##### 852.216-71 Economic price adjustment of contract price(s) based on a price index. #####
 
-Link to an amendment published at 84 FR 46454, Sept. 4, 2019.
-
 As prescribed in 816.203-4(e)(1), insert the following clause:
 
-Economic Price Adjustment of Contract Price(s) Based on a Price Index (DATE)
+Economic Price Adjustment of Contract Price(s) Based on a Price Index (MAR 2018)
 
 (a) To the extent that contract cost increases are provided for by this economic price adjustment clause, the Contractor warrants that the prices in this contract for the base period and any option periods do not include any amount to protect against such contingent cost increases.
 
@@ -62,4 +60,4 @@ Economic Price Adjustment of Contract Price(s) Based on a Price Index (DATE)
 
 (i) Any dispute arising under this clause shall be resolved subject to the “Disputes” clause of the contract.
 
-(End of clause)[83 FR 7405, Feb. 21, 2018]
+(End of clause)[83 FR 7405, Feb. 21, 2018, as amended at 84 FR 46454, Sept. 4, 2019]

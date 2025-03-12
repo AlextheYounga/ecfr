@@ -1,5 +1,7 @@
 ##### § 3004.44 Appeals. #####
 
+Link to an amendment published at 84 FR 53057, Oct. 4, 2019.
+
 (a) The Commission may review any decision of the Secretary or Assistant Secretary on its own initiative.
 
 (b) A requester who seeks to appeal any adverse determination must file an appeal with the Commission within 1 year of the date of the Commission's response.

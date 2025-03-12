@@ -122,7 +122,7 @@
 
 (iii) Disqualification is to be imposed only in one-year increments, up to the maximum five years.
 
-(3) Once a disqualification becomes final, the name, address, and other identifying information of the participant or other person shall be entered into the Ineligible Tracking System (ITS) maintained by FCIC in accordance with 7 CFR part 400, subpart U, and this information along with a list of the programs that the person is disqualified from shall be promptly reported to the General Services Administration for listing in the Excluded Parties List System (EPLS) in accordance with 7 CFR part 3017, subpart E.
+(3) Once a disqualification becomes final, the name, address, and other identifying information of the participant or other person shall be entered into the Ineligible Tracking System (ITS) maintained by FCIC in accordance with 7 CFR part 400, subpart U, and this information along with a list of the programs that the person is disqualified from shall be promptly reported to the General Services Administration for listing in the System for Award Management (SAM) in accordance with 2 CFR part 417.
 
 (i) It is a participant's responsibility to periodically review the ITS and EPLS to determine those participants and other persons who have been disqualified.
 
@@ -174,4 +174,4 @@
 
 (h) Imposition of disqualification or a civil fine under this section is in addition to any other administrative or legal remedies available under this section or other applicable law including, but not limited to, debarment and suspension.
 
-[73 FR 76888, Dec. 18, 2008]
+[73 FR 76888, Dec. 18, 2008, as amended at 84 FR 52997, Oct. 4, 2019]
