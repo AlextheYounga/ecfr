@@ -52,8 +52,8 @@
 
 (c) *IRB records.* An IRB shall maintain records in accordance with part 56 of this chapter.
 
-(d) *Retention period.* An investigator or sponsor shall maintain the records required by this subpart during the investigation and for a period of 2 years after the latter of the following two dates: The date on which the investigation is terminated or completed, or the date that the records are no longer required for purposes of supporting a premarket approval application or a notice of completion of a product development protocol.
+(d) *Retention period.* An investigator or sponsor shall maintain the records required by this subpart during the investigation and for a period of 2 years after the latter of the following two dates: The date on which the investigation is terminated or completed, or the date that the records are no longer required for purposes of supporting a premarket approval application, a notice of completion of a product development protocol, a humanitarian device exemption application, a premarket notification submission, or a request for De Novo classification.
 
 (e) *Records custody.* An investigator or sponsor may withdraw from the responsibility to maintain records for the period required in paragraph (d) of this section and transfer custody of the records to any other person who will accept responsibility for them under this part, including the requirements of § 812.145. Notice of a transfer shall be given to FDA not later than 10 working days after transfer occurs.
 
-[45 FR 3751, Jan. 18, 1980, as amended at 45 FR 58843, Sept. 5, 1980; 46 FR 8957, Jan. 27, 1981; 61 FR 57280, Nov. 5, 1996; 63 FR 5253, Feb. 2, 1998]
+[45 FR 3751, Jan. 18, 1980, as amended at 45 FR 58843, Sept. 5, 1980; 46 FR 8957, Jan. 27, 1981; 61 FR 57280, Nov. 5, 1996; 63 FR 5253, Feb. 2, 1998; 83 FR 7387, Feb. 21, 2018]

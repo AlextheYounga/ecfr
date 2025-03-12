@@ -46,4 +46,6 @@
 
 (s) *Unanticipated adverse device effect* means any serious adverse effect on health or safety or any life-threatening problem or death caused by, or associated with, a device, if that effect, problem, or death was not previously identified in nature, severity, or degree of incidence in the investigational plan or application (including a supplementary plan or application), or any other unanticipated serious problem associated with a device that relates to the rights, safety, or welfare of subjects.
 
-[45 FR 3751, Jan. 18, 1980, as amended at 46 FR 8956, Jan. 27, 1981; 48 FR 15622, Apr. 12, 1983; 81 FR 70340, Oct. 12, 2016]
+(t) *Independent ethics committee (IEC)* means an independent review panel that is responsible for ensuring the protection of the rights, safety, and well-being of subjects involved in a clinical investigation and is adequately constituted to ensure that protection. An institutional review board (IRB), as defined in paragraph (f) of this section and subject to the requirements of part 56 of this chapter, is one type of IEC.
+
+[45 FR 3751, Jan. 18, 1980, as amended at 46 FR 8956, Jan. 27, 1981; 48 FR 15622, Apr. 12, 1983; 81 FR 70340, Oct. 12, 2016; 83 FR 7385, Feb. 21, 2018]

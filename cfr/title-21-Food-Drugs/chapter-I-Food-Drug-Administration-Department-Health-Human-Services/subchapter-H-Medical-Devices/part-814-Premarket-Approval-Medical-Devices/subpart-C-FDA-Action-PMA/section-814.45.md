@@ -10,7 +10,7 @@
 
 (4) A nonclinical laboratory study that is described in the PMA and that is essential to show that the device is safe for use under the conditions prescribed, recommended, or suggested in its proposed labeling, was not conducted in compliance with the good laboratory practice regulations in part 58 and no reason for the noncompliance is provided or, if it is, the differences between the practices used in conducting the study and the good laboratory practice regulations do not support the validity of the study; or
 
-(5) Any clinical investigation involving human subjects described in the PMA, subject to the institutional review board regulations in part 56 or informed consent regulations in part 50, was not conducted in compliance with those regulations such that the rights or safety of human subjects were not adequately protected.
+(5) Any clinical investigation involving human subjects described in the PMA, subject to the institutional review board regulations in part 56 of this chapter or informed consent regulations in part 50 of this chapter or GCP referenced in § 814.15(a) and described in § 812.28(a) of this chapter, was not conducted in compliance with those regulations such that the rights or safety of human subjects were not adequately protected or the supporting data were determined to be otherwise unreliable.
 
 (b) FDA will issue any order denying approval of the PMA in accordance with § 814.17. The order will inform the applicant of the deficiencies in the PMA, including each applicable ground for denial under section 515(d)(2) of the act and the regulations under this part, and, where practical, will identify measures required to place the PMA in approvable form. The order will include a notice of an opportunity to request review under section 515(d)(4) of the act.
 
@@ -28,4 +28,4 @@
 
 (3) Petitions for review under section 515(d)(3) of the act by filing a petition in the form of a petition for reconsideration under § 10.33.
 
-[51 FR 26364, July 22, 1986, as amended at 63 FR 4572, Jan. 30, 1998; 73 FR 34859, June 19, 2008; 76 FR 31470, June 1, 2011; 79 FR 68115, Nov. 14, 2014]
+[51 FR 26364, July 22, 1986, as amended at 63 FR 4572, Jan. 30, 1998; 73 FR 34859, June 19, 2008; 76 FR 31470, June 1, 2011; 79 FR 68115, Nov. 14, 2014; 83 FR 7387, Feb. 21, 2018]
