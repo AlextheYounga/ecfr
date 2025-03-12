@@ -1,5 +1,7 @@
 ##### § 240.13h-l Large trader reporting. #####
 
+Link to an amendment published at 83 FR 58427, Nov. 19, 2018.
+
 (a) *Definitions.* For purposes of this section:
 
 (1) The term *large trader* means any person that:

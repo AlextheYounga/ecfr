@@ -1,5 +1,7 @@
 ##### § 242.606 Disclosure of order routing information. #####
 
+Link to an amendment published at 83 FR 58427, Nov. 19, 2018.
+
 (a) *Quarterly report on order routing.* (1) Every broker or dealer shall make publicly available for each calendar quarter a report on its routing of non-directed orders in NMS securities during that quarter. For NMS stocks, such report shall be divided into three separate sections for securities that are listed on the New York Stock Exchange, Inc., securities that are qualified for inclusion in The Nasdaq Stock Market, Inc., and securities that are listed on the American Stock Exchange LLC or any other national securities exchange. Such report also shall include a separate section for NMS securities that are option contracts. Each of the four sections in a report shall include the following information:
 
 (i) The percentage of total customer orders for the section that were non-directed orders, and the percentages of total non-directed orders for the section that were market orders, limit orders, and other orders;

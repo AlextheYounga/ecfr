@@ -1,6 +1,6 @@
 ##### § 242.605 Disclosure of order execution information. #####
 
-Preliminary Note:
+Link to an amendment published at 83 FR 58427, Nov. 19, 2018.Preliminary Note:
 
 Section 242.605 requires market centers to make available standardized, monthly reports of statistical information concerning their order executions. This information is presented in accordance with uniform standards that are based on broad assumptions about order execution and routing practices. The information will provide a starting point to promote visibility and competition on the part of market centers and broker-dealers, particularly on the factors of execution price and speed. The disclosures required by this section do not encompass all of the factors that may be important to investors in evaluating the order routing services of a broker-dealer. In addition, any particular market center's statistics will encompass varying types of orders routed by different broker-dealers on behalf of customers with a wide range of objectives. Accordingly, the statistical information required by this section alone does not create a reliable basis to address whether any particular broker-dealer failed to obtain the most favorable terms reasonably available under the circumstances for customer orders.
 

@@ -1,0 +1,5 @@
+##### § 982.69 Verification of reports. #####
+
+For the purpose of checking and verifying reports submitted by handlers, the Secretary and the Board, through its duly authorized agents, shall have access to each handler's premises at any time during reasonable business hours and shall be permitted to inspect any hazelnuts held by such handler and all records of the handler with respect to hazelnuts held or disposed of by such handler and all records of the handler with respect to promotion and advertising activities conducted pursuant to § 982.58. Each handler shall furnish all labor necessary to facilitate such inspections as the Secretary or the Board may make of such handler's holdings of any hazelnuts. Each handler shall store hazelnuts in such manner as to facilitate inspection, and shall maintain adequate storage records which will permit accurate identification of all such hazelnuts held.
+
+[24 FR 6185, Aug. 1, 1959. Redesignated at 26 FR 12751, Dec. 30, 1961, as amended at 37 FR 589, Jan. 14, 1972; 51 FR 29550, Aug. 19, 1986]

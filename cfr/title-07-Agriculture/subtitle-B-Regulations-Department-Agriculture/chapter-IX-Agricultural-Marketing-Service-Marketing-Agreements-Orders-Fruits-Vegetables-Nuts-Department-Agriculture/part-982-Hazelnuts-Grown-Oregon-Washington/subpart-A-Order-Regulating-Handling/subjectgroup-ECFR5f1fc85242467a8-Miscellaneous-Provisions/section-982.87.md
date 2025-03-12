@@ -1,0 +1,5 @@
+##### § 982.87 Effect of termination or amendment. #####
+
+(a) Unless otherwise expressly provided by the Secretary, the termination of this subpart or of any regulation issued pursuant to this subpart, or the issuance of any amendment to either thereof, shall not (1) affect or waive any right, duty, obligation, or liability which shall have arisen or which may thereafter arise in connection with any provision of this subpart or any regulation issued under this subpart, or (2) release or extinguish any violation of this subpart or of any regulation issued under this subpart, or (3) affect or impair any right or remedies of the Secretary or of any other person, with respect to any such violation.
+
+(b) All rules and regulations in this part which are in effect immediately prior to this amendment of this subpart and not inconsistent with such amendment shall continue in effect until otherwise prescribed pursuant to this subpart.

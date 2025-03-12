@@ -1,0 +1,17 @@
+##### § 982.54 Deferment of restricted obligation. #####
+
+(a) *Bonding.* Compliance by any handler with the requirements of § 982.50 when restricted hazelnuts may be withheld shall be temporarily deferred to any date requested by the handler, but not later than 60 days prior to the end of the marketing year. Such deferment shall be conditioned upon the voluntary execution and delivery by the handler to the Board of a written undertaking before beginning to handle merchantable hazelnuts during the marketing year. Such written undertaking shall be secured by a bond or bonds with a surety or sureties acceptable to the Board that on or prior to such date the handler will have fully satisfied the restricted obligation required by § 982.50, subject to any adjustment pursuant to § 982.51.
+
+(b) *Bonding requirement.* Such bond or bonds shall, at all times during their effective period, be in such amounts that the aggregate thereof shall be no less than the total bonding value of the handler's deferred restricted obligation. The bonding value shall be the deferred restricted obligation poundage multiplied by the applicable bonding rate. The cost of such bond or bonds shall be borne by the handler filing same.
+
+(c) *Bonding rate.* Said bonding rate shall be an amount per pound as established by the Board. Such bonding rate shall be based on the estimated value of restricted credits for the current marketing year. Until bonding rates for a marketing year are fixed, the rates in effect for the preceding marketing year shall continue in effect. The Board should make any necessary adjustments once such new rates are fixed.
+
+(d) *Restricted credit purchases.* Any sums collected through default of a handler on the handler's bond shall be used by the Board to purchase restricted credits from handlers, who have such restricted credits in excess of their needs, and are willing to part with them. The Board shall at all times purchase the lowest priced restricted credits offered, and the purchases shall be made from the various handlers as nearly as practicable in proportion to the quantity of their respective offerings of the restricted credits to be purchased.
+
+(e) *Unexpended sums.* Any unexpended sums which have been collected by the Board through default of a handler on the handler's bond, remaining in the possession of the Board at the end of a marketing year, shall be used to reimburse the Board for its expenses, including administrative and other costs incurred in the collection of such sums, and in the purchase of restricted credits as provided in paragraph (d) of this section.
+
+(f) *Transfer of restricted credit purchases.* Restricted credits purchased as provided for in this section shall be turned over to those handlers who have defaulted on their bonds for liquidation of their restricted obligation. The quantity delivered to each handler shall be that quantity represented by sums collected through default.
+
+(g) *Collection upon bonds.* Collection upon any defaulted bond shall be deemed a satisfaction of the restricted obligation represented by the collection.
+
+[40 FR 53228, Nov. 17, 1975, as amended at 46 FR 26039, May 11, 1981; 51 FR 29549, Aug. 19, 1986; 61 FR 17560, Apr. 22, 1996]

@@ -1,5 +1,7 @@
 ##### § 242.602 Dissemination of quotations in NMS securities. #####
 
+Link to an amendment published at 83 FR 58427, Nov. 19, 2018.
+
 (a) *Dissemination requirements for national securities exchanges and national securities associations.* (1) Every national securities exchange and national securities association shall establish and maintain procedures and mechanisms for collecting bids, offers, quotation sizes, and aggregate quotation sizes from responsible brokers or dealers who are members of such exchange or association, processing such bids, offers, and sizes, and making such bids, offers, and sizes available to vendors, as follows:
 
 (i) Each national securities exchange shall at all times such exchange is open for trading, collect, process, and make available to vendors the best bid, the best offer, and aggregate quotation sizes for each subject security listed or admitted to unlisted trading privileges which is communicated on any national securities exchange by any responsible broker or dealer, but shall not include:

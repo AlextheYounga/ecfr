@@ -12,4 +12,6 @@
 
 (4) You have been approved to pay premiums directly to the *Administrator.*
 
-[73 FR 50184, Aug. 26, 2008, as amended at 78 FR 64879, Oct. 30, 2013; 83 FR 32193, July 12, 2018]
+(5) You are a *TEI.*
+
+[73 FR 50184, Aug. 26, 2008, as amended at 78 FR 64879, Oct. 30, 2013; 83 FR 32193, July 12, 2018; 83 FR 58179, Nov. 19, 2018]

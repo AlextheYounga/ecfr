@@ -1,0 +1,3 @@
+##### § 982.70 Confidential information. #####
+
+All reports and records furnished or submitted by handlers to the Board, which include data or information constituting a trade secret or disclosing of the trade position, financial condition, or business operations of the particular handler from whom received, shall be kept in the custody and under the control of one or more employees of the Board, and shall be disclosed to no person except the Secretary.

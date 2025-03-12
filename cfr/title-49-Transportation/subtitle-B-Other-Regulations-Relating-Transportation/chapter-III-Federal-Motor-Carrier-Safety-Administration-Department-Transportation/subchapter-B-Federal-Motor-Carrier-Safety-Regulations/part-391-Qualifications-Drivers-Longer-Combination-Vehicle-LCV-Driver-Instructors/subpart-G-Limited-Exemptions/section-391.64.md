@@ -2,7 +2,7 @@
 
 Link to an amendment published at 83 FR 47521, Sept. 19, 2018.
 
-(a) The provisions of § 391.41(b)(3) do not apply to a driver who was a participant in good standing on March 31, 1996, in a waiver study program concerning the operation of commercial motor vehicles by insulin-controlled diabetic drivers; *provided:*
+(a) Until November 19, 2019, the provisions of § 391.41(b)(3) do not apply to a driver who was a participant in good standing on March 31, 1996, in a waiver study program concerning the operation of commercial motor vehicles by insulin-controlled diabetic drivers; *provided:*
 
 (1) The driver is physically examined every year, including an examination by a board-certified/eligible endocrinologist attesting to the fact that the driver is:
 
@@ -26,6 +26,8 @@ Link to an amendment published at 83 FR 47521, Sept. 19, 2018.
 
 (v) Provide a copy of the annual medical certification to the employer for retention in the driver's qualification file and retain a copy of the certification on his/her person while driving for presentation to a duly authorized Federal, State or local enforcement official.
 
+(3) On November 19, 2019, the provisions of paragraph (a) of this section are removed, and any medical examiner's certificate issued under § 391.43 of this part on the basis that the driver is qualified by operation of the provisions of 49 CFR 391.64(a), related to insulin-controlled diabetic drivers, is void.
+
 (b) The provisions of § 391.41(b)(10) do not apply to a driver who was a participant in good standing on March 31, 1996, in a waiver study program concerning the operation of commercial motor vehicles by drivers with visual impairment in one eye; *provided:*
 
 (1) The driver is physically examined every year, including an examination by an ophthalmologist or optometrist attesting to the fact that the driver:
@@ -38,4 +40,4 @@ Link to an amendment published at 83 FR 47521, Sept. 19, 2018.
 
 (3) The driver provides a copy of the annual medical certification to the employer for retention in the driver's qualification file and retains a copy of the certification on his/her person while driving for presentation to a duly authorized federal, state or local enforcement official.
 
-[61 FR 13346, Mar. 26, 1996]
+[61 FR 13346, Mar. 26, 1996, as amended at 83 FR 47521, Sept. 19, 2018]

@@ -1,14 +1,18 @@
 ##### § 300.61 Definitions. #####
 
-Link to an amendment published at 83 FR 52766, Oct. 18, 2018.
-
 In addition to the terms defined in § 300.2 and those in the Act and the Convention, the terms used in this subpart have the following meanings. If a term is defined differently in § 300.2, the Act, or the Convention, the definition in this section shall apply.
 
 *Alaska Native tribe* means, for purposes of the subsistence fishery for Pacific halibut in waters in and off Alaska, a Federally recognized Alaska Native tribe that has customary and traditional use of halibut and that is listed in § 300.65(g)(2) of this part.
 
 *Annual combined catch limit,* for purposes of commercial and sport fishing in Commission regulatory areas 2C and 3A, means the annual total allowable halibut removals (halibut harvest plus wastage) by persons fishing IFQ and by charter vessel anglers.
 
-*Annual commercial catch limit,* for purposes of commercial fishing in Commission regulatory areas 2C and 3A, means the annual commercial allocation minus an area-specific estimate of commercial halibut wastage.
+*Annual commercial catch limit,* for purposes of commercial fishing in:
+
+(1) Commission regulatory areas 2C and 3A, means the annual commercial allocation minus an area-specific estimate of commercial halibut wastage.
+
+(2) Commission regulatory areas 3B and 4A, means the annual total allowable halibut removals by persons fishing IFQ.
+
+(3) Commission regulatory areas 4B, 4C, 4D, and 4E, means the annual total allowable halibut removals by persons fishing IFQ and CDQ.
 
 *Annual guided sport catch limit,* for purposes of sport fishing in Commission regulatory areas 2C and 3A, means the annual guided sport allocation minus an area-specific estimate of guided sport halibut wastage.
 
@@ -118,4 +122,4 @@ In addition to the terms defined in § 300.2 and those in the Act and the Conven
 
 *Valid,* with respect to a charter halibut permit for purposes of §§ 300.66 and 300.67, means the charter halibut permit that is currently in effect.
 
-[61 FR 35550, July 5, 1996]Editorial Note:For Federal Register citations affecting § 300.61, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[61 FR 35550, July 5, 1996]Editorial Note:For Federal Register citations affecting § 300.61, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

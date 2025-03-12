@@ -1,7 +1,5 @@
 ##### § 391.41 Physical qualifications for drivers. #####
 
-Link to an amendment published at 83 FR 47520, Sept. 19, 2018.
-
 (a)(1)(i) A person subject to this part must not operate a commercial motor vehicle unless he or she is medically certified as physically qualified to do so, and, except as provided in paragraph (a)(2) of this section, when on-duty has on his or her person the original, or a copy, of a current medical examiner's certificate that he or she is physically qualified to drive a commercial motor vehicle. NOTE: Effective December 29, 1991, the FMCSA Administrator determined that the new Licencia Federal de Conductor issued by the United Mexican States is recognized as proof of medical fitness to drive a CMV. The United States and Canada entered into a Reciprocity Agreement, effective March 30, 1999, recognizing that a Canadian commercial driver's license is proof of medical fitness to drive a CMV. Therefore, Canadian and Mexican CMV drivers are not required to have in their possession a medical examiner's certificate if the driver has been issued, and possesses, a valid commercial driver license issued by the United Mexican States, or a Canadian Province or Territory and whose license and medical status, including any waiver or exemption, can be electronically verified. Drivers from any of the countries who have received a medical authorization that deviates from the mutually accepted compatible medical standards of the resident country are not qualified to drive a CMV in the other countries. For example, Canadian drivers who do not meet the medical fitness provisions of the Canadian National Safety Code for Motor Carriers, but are issued a waiver by one of the Canadian Provinces or Territories, are not qualified to drive a CMV in the United States. In addition, U.S. drivers who received a medical variance from FMCSA are not qualified to drive a CMV in Canada.
 
 (ii) A person who qualifies for the medical examiner's certificate by virtue of having obtained a medical variance from FMCSA, in the form of an exemption letter or a skill performance evaluation certificate, must have on his or her person a copy of the variance documentation when on-duty.
@@ -32,7 +30,7 @@ Link to an amendment published at 83 FR 47520, Sept. 19, 2018.
 
 (ii) An arm, foot, or leg which interferes with the ability to perform normal tasks associated with operating a commercial motor vehicle; or any other significant limb defect or limitation which interferes with the ability to perform normal tasks associated with operating a commercial motor vehicle; or has been granted a skill performance evaluation certificate pursuant to § 391.49.
 
-(3) Has no established medical history or clinical diagnosis of diabetes mellitus currently requiring insulin for control;
+(3) Has no established medical history or clinical diagnosis of diabetes mellitus currently treated with insulin for control, unless the person meets the requirements in § 391.46;
 
 (4) Has no current clinical diagnosis of myocardial infarction, angina pectoris, coronary insufficiency, thrombosis, or any other cardiovascular disease of a variety known to be accompanied by syncope, dyspnea, collapse, or congestive cardiac failure.
 
@@ -56,4 +54,4 @@ Link to an amendment published at 83 FR 47520, Sept. 19, 2018.
 
 (13) Has no current clinical diagnosis of alcoholism.
 
-[35 FR 6460, Apr. 22, 1970]Editorial Note:For Federal Register citations affecting § 391.41, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[35 FR 6460, Apr. 22, 1970]Editorial Note:For Federal Register citations affecting § 391.41, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

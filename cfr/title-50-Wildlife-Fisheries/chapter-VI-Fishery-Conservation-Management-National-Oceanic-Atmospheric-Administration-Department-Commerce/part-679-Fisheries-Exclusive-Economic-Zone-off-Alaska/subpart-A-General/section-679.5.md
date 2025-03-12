@@ -1,7 +1,5 @@
 ##### § 679.5 Recordkeeping and reporting (R&R). #####
 
-Link to an amendment published at 83 FR 52766, Oct. 18, 2018.
-
 (a) *General R&R requirements.* R&R requirements include, but are not limited to, paper and electronic documentation, logbooks, forms, reports, receipts, computer printouts, and requests for inspection described in this section and in § 679.28.
 
 (1) *Groundfish logbooks and forms.* (i) The Regional Administrator will prescribe and provide groundfish logbooks required under this section. All groundfish forms required under this section are available from the Alaska Region website at *http://alaskafisheries.noaa.gov* or may be requested by calling the Sustainable Fisheries Division at 907-586-7228 or faxing 907-586-7465. The forms may be completed online, printed, and mailed or faxed to NMFS at the address or fax number shown on the form. The forms also may be completed online, saved as a file, and submitted to NMFS as an attachment to an e-mail to the e-mail address shown on the form.
@@ -1304,6 +1302,8 @@ CR Crab Regional Designations
 
 (9) *Recreational Quota Entity Program annual report.* An annual report on RQE activities must be submitted to NMFS by the RQE as required at § 679.5(v).
 
+(10) A report on annual IFQ regulatory areas 4B, 4C, and 4D Halibut IFQ transfer activities must be submitted to NMFS and the Council by a CDQ group as required at § 679.5(w).
+
 (m) *CDQ Vessel Registration* - (1) *Registration.* The representative for a CDQ group must register each vessel that is to receive the exemption from the LLP license requirements at § 679.4(k)(2)(vi) through the CDQ vessel registration system available on the NMFS Alaska Region Web site (*http://alaskafisheries.noaa.gov*). The CDQ group representative must log into the CDQ vessel registration system and provide the information required on the computer screen. NMFS will add each vessel successfully registered to the CDQ vessel registration list on the NMFS Alaska Region Web site at *http://alaskafisheries.noaa.gov.*
 
 (2) *Responsibility.* The CDQ group representative must successfully complete vessel registration through the CDQ vessel registration system before the vessel may be used to conduct groundfish CDQ fishing under § 679.32(c)(3)(iii) without an LLP license. By using the CDQ group's NMFS ID and password and submitting the vessel registration request, the CDQ group representative certifies that all information is true, correct, and complete.
@@ -1748,4 +1748,18 @@ Substituting the value for *GFroundweight* into the following equation:
 
 (iii) A description of the number of charter halibut permits and number of angler endorsements purchased and held by the RQE.
 
-[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(w) *Report on Area 4 halibut IFQ transfers to CDQ groups* - (1) *Applicability.* A CDQ group that receives IFQ regulatory area 4 halibut IFQ by transfer must submit a timely and complete report on the CDQ group's annual halibut IFQ transfer activities for each calendar year that it receives IFQ regulatory area 4 halibut IFQ by transfer. A CDQ group is not required to submit a report for any calendar year in which it did not receive any IFQ regulatory area 4 halibut IFQ by transfer.
+
+(2) *Time limits and submittal.* A CDQ group must submit a complete report by January 31 of the year following a fishing year during which the CDQ group receives IFQ regulatory area 4B, 4C, or 4D halibut IFQ by transfer. The complete report must be submitted to the North Pacific Fishery Management Council, 605 West 4th Ave., Suite 306, Anchorage, AK 99501-2252, and to NMFS-Alaska Regional Administrator, P.O. Box 21668, Juneau, AK, 99802-1668.
+
+(3) *Complete report.* A complete report contains all report requirements described in paragraphs (w)(4)(i) through (w)(4)(iii) of this section.
+
+(4) *Report requirements.* A CDQ group must report the following information:
+
+(i) The annual amount, IFQ regulatory area, and vessel category of IFQ regulatory area 4B, 4C, and 4D halibut IFQ transferred to the CDQ group;
+
+(ii) The criteria used to select IFQ holders to transfer IFQ regulatory area 4B, 4C, and 4D halibut IFQ to the CDQ group; and
+
+(iii) The criteria used to determine the person(s) eligible to harvest IFQ regulatory area 4B, 4C, and 4D halibut IFQ received by transfer.
+
+[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

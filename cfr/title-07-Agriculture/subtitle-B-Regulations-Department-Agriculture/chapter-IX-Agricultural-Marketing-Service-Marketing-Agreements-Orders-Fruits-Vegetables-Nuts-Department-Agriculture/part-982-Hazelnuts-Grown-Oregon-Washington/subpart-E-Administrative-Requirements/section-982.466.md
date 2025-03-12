@@ -1,0 +1,5 @@
+##### § 982.466 Reports of inshell hazelnuts handled, shelled and withheld. #####
+
+Each handler shall report to the Board monthly on F/H Form 1 and F/H Forms 1a through 1e, as applicable, the quantities of inshell hazelnuts handled or withheld for restricted use and all product shelled and certified since the last report. All reports shall be submitted to include transactions through the end of each month, or other reporting periods established by the Board, and are due in the Board office on the tenth day following the end of the reporting period. The quantities of inshell hazelnuts handled shall be reported by size. The respective quantities of merchantable or ungraded hazelnuts withheld as restricted product shall be reported separately, and with respect to hazelnuts certified for shelling, or certified kernels withheld, the kernel weight and inshell equivalent weight shall be reported separately by size.
+
+[54 FR 46721, Nov. 7, 1989]

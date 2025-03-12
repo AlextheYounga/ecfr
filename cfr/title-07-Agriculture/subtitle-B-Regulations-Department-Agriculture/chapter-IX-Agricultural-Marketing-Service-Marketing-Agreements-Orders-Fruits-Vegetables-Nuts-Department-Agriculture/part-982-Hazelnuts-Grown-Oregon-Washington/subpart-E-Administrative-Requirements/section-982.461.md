@@ -1,0 +1,5 @@
+##### § 982.461 Late payment and interest charges. #####
+
+The Board shall impose a late payment charge on any handler failing to pay his assessment within 30 days of the billing date shown on the handler's assessment statement received from the Board. Such amount shall be shown on the statement as the “Assessment Due”. The late payment charge shall be 5 percent of the unpaid balance of that amount. In the event the handler fails to pay the delinquent amount, including the late payment charge, within 60 days following the billing date, an additional 1 percent interest charge shall be applied monthly thereafter to the unpaid balance, including any accumulated interest. Any amount paid by a handler as assessments, including any charges imposed pursuant to this paragraph, shall be credited when the payment is received in the Board's office.
+
+[38 FR 5151, Feb. 26, 1973]

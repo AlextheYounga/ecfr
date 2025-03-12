@@ -1,5 +1,7 @@
 ##### § 242.1000 Definitions. #####
 
+Link to an amendment published at 83 FR 58429, Nov. 19, 2018.
+
 For purposes of Regulation SCI (§§ 242.1000 through 242.1007), the following definitions shall apply:
 
 *Critical SCI systems* means any SCI systems of, or operated by or on behalf of, an SCI entity that:

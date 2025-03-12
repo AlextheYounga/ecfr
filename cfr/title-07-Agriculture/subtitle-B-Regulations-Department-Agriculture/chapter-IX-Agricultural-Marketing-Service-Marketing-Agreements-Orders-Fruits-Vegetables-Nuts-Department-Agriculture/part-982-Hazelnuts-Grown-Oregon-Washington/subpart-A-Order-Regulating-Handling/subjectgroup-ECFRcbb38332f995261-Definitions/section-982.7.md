@@ -1,0 +1,3 @@
+##### § 982.7 To handle. #####
+
+*To handle* means to sell, consign, transport or ship (except as a common carrier of hazelnuts owned by another person), or in any other way to put hazelnuts, inshell or shelled, into the channels of trade either within the area of production or from such area to points outside thereof: *Provided,* That sales or deliveries by growers to handlers within the area of production or authorized disposition of restricted hazelnuts and substandard hazelnuts shall not be considered as handling.

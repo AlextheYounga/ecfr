@@ -1,22 +1,22 @@
 ##### § 679.42 Limitations on use of QS and IFQ. #####
 
-Link to an amendment published at 83 FR 52767, Oct. 18, 2018.
+(a) *IFQ regulatory area and vessel category.* (1) The QS or IFQ specified for one IFQ regulatory area must not be used in a different IFQ regulatory area, except for the following:
 
-(a) *IFQ regulatory area and vessel category.* (1) The QS or IFQ specified for one IFQ regulatory area must not be used in a different IFQ regulatory area, except all or part of the QS and IFQ specified for regulatory area 4C may be harvested in either Area 4C or Area 4D.
+(i) All or part of the QS and IFQ specified for regulatory area 4C may be harvested in either Area 4C or Area 4D.
 
-(i) Notwithstanding § 679.4(d)(1), § 679.7(f)(4) and (f)(11), § 679.40(b)(1), (c)(3), and (e), from July 22, 2005 to November 15, 2005, all or part of the QS and IFQ specified for regulatory area 4C may be harvested in either Area 4C or Area 4D.
+(ii) All or part of the halibut CDQ specified for regulatory area 4D may be harvested in either Area 4D or Area 4E.
 
-(ii) For the year 2006 and subsequent annual IFQ fishing seasons, all or part of the QS and IFQ specified for regulatory area 4C may be harvested in either Area 4C or Area 4D.
+(iii) If a CDQ group is authorized to receive a transfer of halibut IFQ assigned to vessel categories B, C, or D in IFQ regulatory area 4D as specified in § 679.41(o) of this part, all or part of the halibut IFQ specified for regulatory area 4D that is held by or transferred to a CDQ group may be harvested in either Area 4D or Area 4E.
 
 (2) The QS or IFQ assigned to one vessel category must not be used to harvest IFQ species on a vessel of a different vessel category, except:
 
-(i) As provided in paragraph (k) of this section (processing fish other than IFQ halibut and IFQ sablefish);
+(i) As provided in § 679.41(i)(1) of this part (CDQ compensation QS exemption);
 
-(ii) As provided in § 679.41(i)(1) of this part (CDQ compensation QS exemption);
+(ii) IFQ derived from QS held by a CQE may be used to harvest IFQ species from a vessel of any length, with the exception of IFQ derived from QS in IFQ regulatory areas 3A and 4B that are assigned to vessel category D.
 
-(iii) IFQ derived from QS held by a CQE may be used to harvest IFQ species from a vessel of any length, with the exception of IFQ derived from QS in IFQ regulatory areas 3A and 4B that are assigned to vessel category D.
+(iii) In IFQ regulatory areas 3B, 4B, and 4C, category D QS and associated IFQ authorizes an IFQ permit holder to harvest IFQ halibut on a vessel less than or equal to 60 ft (18.3 m) LOA.
 
-(iv) In IFQ regulatory areas 3B, 4B, and 4C, category D QS and associated IFQ authorizes an IFQ permit holder to harvest IFQ halibut on a vessel less than or equal to 60 ft (18.3 m) LOA.
+(iv) Halibut IFQ assigned to vessel category B, C, or D held by a CDQ group may not be used on a vessel over 51 feet LOA, irrespective of the vessel category assigned to the IFQ.
 
 (v) In IFQ regulatory areas 2C and 3A, RFQ held by an RQE may be harvested aboard charter vessels as defined at 50 CFR 300.61 of any size, regardless of the QS category from which that RFQ originated.
 
@@ -178,13 +178,13 @@ Link to an amendment published at 83 FR 52767, Oct. 18, 2018.
 
 (4) Holding or to hold blocks of QS. For purposes of this section, “holding” or “to hold” blocks of QS means being registered by NMFS as the person who received QS by initial assignment or approved transfer.
 
-(h) *Vessel limitations* - (1) *Halibut.* No vessel may be used, during any fishing year, to harvest more than one-half percent of the combined total catch limits of halibut for IFQ regulatory areas 2C, 3A, 3B, 4A, 4B, 4C, 4D, and 4E, except that:
+(h) *Vessel limitations* - (1) *Halibut.* No vessel may be used, during any fishing year, to harvest more IFQ halibut than one-half percent of the combined total catch limits of halibut for IFQ regulatory areas 2C, 3A, 3B, 4A, 4B, 4C, 4D, and 4E, except that:
 
 (i) In IFQ regulatory area 2C, no vessel may be used to harvest more than 1 percent of the halibut catch limit for this area.
 
 (ii) No vessel may be used, during any fishing year, to harvest more than 50,000 lb (22.7 mt) of IFQ halibut derived from QS held by a CQE, and no vessel used to harvest IFQ halibut derived from QS held by a CQE may be used to harvest more IFQ halibut than the vessel use caps specified in paragraphs (h)(1) introductory text and (h)(1)(i) of this section.
 
-(2) *Sablefish.* No vessel may be used, during any fishing year, to harvest more than one percent of the combined fixed gear TAC of sablefish for the GOA and BSAI IFQ regulatory areas, except that:
+(2) *Sablefish.* No vessel may be used, during any fishing year, to harvest more IFQ sablefish than one percent of the combined fixed gear TAC of sablefish for the GOA and BSAI IFQ regulatory areas, except that:
 
 (i) In the IFQ regulatory area east of 140 degrees W. long., no vessel may be used to harvest more than 1 percent of the fixed gear TAC of sablefish for this area.
 
@@ -380,4 +380,4 @@ Link to an amendment published at 83 FR 52767, Oct. 18, 2018.
 
 (ii) Comply with Vessel Monitoring System (VMS) requirements specified in paragraph (k)(2) of this section.
 
-[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.42, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.42, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

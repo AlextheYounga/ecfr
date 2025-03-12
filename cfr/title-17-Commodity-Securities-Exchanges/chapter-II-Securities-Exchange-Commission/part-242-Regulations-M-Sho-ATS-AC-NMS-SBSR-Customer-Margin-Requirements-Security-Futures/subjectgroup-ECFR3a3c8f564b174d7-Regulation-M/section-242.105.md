@@ -1,5 +1,7 @@
 ##### § 242.105 Short selling in connection with a public offering. #####
 
+Link to an amendment published at 83 FR 58427, Nov. 19, 2018.
+
 (a) *Unlawful activity.* In connection with an offering of equity securities for cash pursuant to a registration statement or a notification on Form 1-A (§ 239.90 of this chapter) or Form 1-E (§ 239.200 of this chapter) filed under the Securities Act of 1933 (“offered securities”), it shall be unlawful for any person to sell short (as defined in § 242.200(a)) the security that is the subject of the offering and purchase the offered securities from an underwriter or broker or dealer participating in the offering if such short sale was effected during the period (“Rule 105 restricted period”) that is the shorter of the period:
 
 (1) Beginning five business days before the pricing of the offered securities and ending with such pricing; or

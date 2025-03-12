@@ -20,9 +20,9 @@
 
 (i) A decrease in your self plus one enrollment;
 
-(ii) A decrease in your self and family enrollment to a self plus one enrollment, when you have only one remaining eligible family member; or
+(ii) A decrease in your self and family enrollment to a self plus one enrollment, when you have only one remaining eligible *family member* or *TEI family member;* or
 
-(iii) A decrease in your self and family enrollment to a self only enrollment, when you have no remaining eligible family members.
+(iii) A decrease in your self and family enrollment to a self only enrollment, when you have no remaining eligible *family members* or *TEI family members.*
 
 (d)(1) Except as provided in paragraph (d)(2) of this section, your change in enrollment is effective the first day of the first pay period following the one in which you make the change.
 
@@ -30,4 +30,4 @@
 
 (e) You may not change from one dental or vision plan or option to another, except as stated in § 894.507(b).
 
-[73 FR 50184, Aug. 26, 2008, as amended at 75 FR 20514, Apr. 20, 2010]
+[73 FR 50184, Aug. 26, 2008, as amended at 75 FR 20514, Apr. 20, 2010; 83 FR 58180, Nov. 19, 2018]

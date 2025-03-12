@@ -1,6 +1,4 @@
-##### § 25.981 Fuel tank ignition prevention. #####
-
-Link to an amendment published at 83 FR 47556, September 20, 2018.
+##### § 25.981 Fuel tank explosion prevention. #####
 
 (a) No ignition source may be present at each point in the fuel tank or fuel tank system where catastrophic failure could occur due to ignition of fuel or vapors. This must be shown by:
 
@@ -8,7 +6,7 @@ Link to an amendment published at 83 FR 47556, September 20, 2018.
 
 (2) Demonstrating that no temperature at each place inside each fuel tank where fuel ignition is possible will exceed the temperature determined under paragraph (a)(1) of this section. This must be verified under all probable operating, failure, and malfunction conditions of each component whose operation, failure, or malfunction could increase the temperature inside the tank.
 
-(3) Demonstrating that an ignition source could not result from each single failure, from each single failure in combination with each latent failure condition not shown to be extremely remote, and from all combinations of failures not shown to be extremely improbable. The effects of manufacturing variability, aging, wear, corrosion, and likely damage must be considered.
+(3) Except for ignition sources due to lightning addressed by § 25.954, demonstrating that an ignition source could not result from each single failure, from each single failure in combination with each latent failure condition not shown to be extremely remote, and from all combinations of failures not shown to be extremely improbable, taking into account the effects of manufacturing variability, aging, wear, corrosion, and likely damage.
 
 (b) Except as provided in paragraphs (b)(2) and (c) of this section, no fuel tank Fleet Average Flammability Exposure on an airplane may exceed three percent of the Flammability Exposure Evaluation Time (FEET) as defined in Appendix N of this part, or that of a fuel tank within the wing of the airplane model being evaluated, whichever is greater. If the wing is not a conventional unheated aluminum wing, the analysis must be based on an assumed Equivalent Conventional Unheated Aluminum Wing Tank.
 
@@ -26,6 +24,6 @@ Link to an amendment published at 83 FR 47556, September 20, 2018.
 
 (c) Paragraph (b) of this section does not apply to a fuel tank if means are provided to mitigate the effects of an ignition of fuel vapors within that fuel tank such that no damage caused by an ignition will prevent continued safe flight and landing.
 
-(d) Critical design configuration control limitations (CDCCL), inspections, or other procedures must be established, as necessary, to prevent development of ignition sources within the fuel tank system pursuant to paragraph (a) of this section, to prevent increasing the flammability exposure of the tanks above that permitted under paragraph (b) of this section, and to prevent degradation of the performance and reliability of any means provided according to paragraphs (a) or (c) of this section. These CDCCL, inspections, and procedures must be included in the Airworthiness Limitations section of the instructions for continued airworthiness required by § 25.1529. Visible means of identifying critical features of the design must be placed in areas of the airplane where foreseeable maintenance actions, repairs, or alterations may compromise the critical design configuration control limitations (e.g., color-coding of wire to identify separation limitation). These visible means must also be identified as CDCCL.
+(d) To protect design features that prevent catastrophic ignition sources within the fuel tank or fuel tank system according to paragraph (a) of this section, and to prevent increasing the flammability exposure of the tanks above that permitted in paragraph (b) of this section, the type design must include critical design configuration control limitations (CDCCLs) identifying those features and providing instructions on how to protect them. To ensure the continued effectiveness of those features, and prevent degradation of the performance and reliability of any means provided according to paragraphs (a), (b), or (c) of this section, the type design must also include necessary inspection and test procedures, intervals between repetitive inspections and tests, and mandatory replacement times for those features. The applicant must include information required by this paragraph in the Airworthiness Limitations section of the Instructions for Continued Airworthiness required by § 25.1529. The type design must also include visible means of identifying critical features of the design in areas of the airplane where foreseeable maintenance actions, repairs, or alterations may compromise the CDCCLs.
 
-[Doc. No. 1999-6411, 66 FR 23129, May 7, 2001, as amended by Doc. No. FAA-2005-22997, 73 FR 42494, July 21, 2008]
+[Doc. No. 1999-6411, 66 FR 23129, May 7, 2001, as amended by Doc. No. FAA-2005-22997, 73 FR 42494, July 21, 2008; Doc. No. FAA- 2014-1027, Amdt. No. 25-146, 83 FR 47556, Sept. 20, 2018]

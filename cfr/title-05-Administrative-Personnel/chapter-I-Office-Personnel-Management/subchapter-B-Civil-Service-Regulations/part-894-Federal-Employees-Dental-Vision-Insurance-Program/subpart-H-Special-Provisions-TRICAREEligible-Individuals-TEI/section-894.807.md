@@ -1,0 +1,3 @@
+##### § 894.807 Can an active duty member enroll or be covered under a FEDVIP vision plan? #####
+
+No, a uniformed services member on active duty is not a *TEI-V* and may not enroll or be covered under a FEDVIP vision plan. However, an active duty member is a sponsor, therefore their *TEI family members* may be eligible to enroll in a vision plan. *See* definition of *TEI* for FEDVIP vision benefits (*TEI-V*) in § 894.101.

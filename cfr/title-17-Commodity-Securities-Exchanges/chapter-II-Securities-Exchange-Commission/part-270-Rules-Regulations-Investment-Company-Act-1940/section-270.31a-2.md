@@ -1,12 +1,10 @@
 ##### § 270.31a-2 Records to be preserved by registered investment companies, certain majority-owned subsidiaries thereof, and other persons having transactions with registered investment companies. #####
 
-Link to an amendment published at 81 FR 82138, Nov. 18, 2016.
-
 (a) Every registered investment company shall:
 
 (1) Preserve permanently, the first two years in an easily accessible place, all books and records required to be made pursuant to paragraphs (1) through (4) of § 270.31a-1(b);
 
-(2) Preserve for a period not less than six years from the end of the fiscal year in which any transactions occurred, the first two years in an easily accessible place, all books and records required to be made pursuant to paragraphs (5) through (12) or § 270.31a-1(b) and all vouchers, memoranda, correspondence, checkbooks, bank statements, cancelled checks, cash reconciliations, cancelled stock certificates, and all schedules evidencing and supporting each computation of net asset value of the investment company shares, and other documents required to be maintained by § 270.31a-1(a) and not enumerated in § 270.31a-1(b);
+(2) Preserve for a period not less than six years from the end of the fiscal year in which any transactions occurred, the first two years in an easily accessible place, all books and records required to be made pursuant to paragraphs (b)(5) through (12) of § 270.31a-1 and all vouchers, memoranda, correspondence, checkbooks, bank statements, cancelled checks, cash reconciliations, cancelled stock certificates, and all schedules evidencing and supporting each computation of net asset value of the investment company shares, including schedules evidencing and supporting each computation of an adjustment to net asset value of the investment company shares based on swing pricing policies and procedures established and implemented pursuant to § 270.22c-1(a)(3), and other documents required to be maintained by § 270.31a-1(a) and not enumerated in § 270.31a-1(b).
 
 (3) Preserve for a period not less than 6 years from the end of the fiscal year last used, the first 2 years in an easily accessible place, any advertisement, pamphlet, circular, form letter or other sales literature addressed to or intended for distribution to prospective investors;
 
@@ -54,4 +52,4 @@ Link to an amendment published at 81 FR 82138, Nov. 18, 2016.
 
 (4) Notwithstanding the provisions of paragraphs (a) through (e) of this section, any record, book or other document may be destroyed in accordance with a plan previously submitted to and approved by the Commission. A plan shall be deemed to have been approved by the Commission if notice to the contrary has not been received within 90 days after submission of the plan to the Commission.
 
-[27 FR 11994, Dec. 5, 1962, as amended at 38 FR 7797, Mar. 26, 1973; 51 FR 42209, Nov. 24, 1986; 53 FR 3880, Feb. 10, 1988; 66 FR 3759, Jan. 16, 2001; 66 FR 29228, May 30, 2001; 69 FR 46390, Aug. 2, 2004]
+[27 FR 11994, Dec. 5, 1962, as amended at 38 FR 7797, Mar. 26, 1973; 51 FR 42209, Nov. 24, 1986; 53 FR 3880, Feb. 10, 1988; 66 FR 3759, Jan. 16, 2001; 66 FR 29228, May 30, 2001; 69 FR 46390, Aug. 2, 2004; 81 FR 82138, Nov. 18, 2016]

@@ -1,0 +1,7 @@
+##### § 982.57 Exemptions. #####
+
+(a) *General.* The Board, with the approval of the Secretary, may establish such rules, regulations, and safeguards that exempt from any or all requirements pursuant to this part such quantities of hazelnuts or types of shipments as do not interfere with the volume and quality control objectives of this part, and shall require such reports, certifications, or other conditions as are necessary to ensure that such hazelnuts are handled or used only as authorized.
+
+(b) *Sales by growers direct to consumers.* Any hazelnut grower may sell hazelnuts of such grower's own production free of the regulatory and assessment provisions of this part if such grower sells such hazelnuts in the area of production directly to end users at such grower's ranch or orchard or at roadside stands and farmers' markets. The Board, with the approval of the Secretary, may establish such rules, regulations, and safeguards and require such reports, certifications, and other conditions, as are necessary to ensure that such hazelnuts are disposed of only as authorized. Mail order sales are not exempt sales under this part.
+
+[51 FR 29549, Aug. 19, 1986, as amended at 61 FR 17560, Apr. 22, 1996]

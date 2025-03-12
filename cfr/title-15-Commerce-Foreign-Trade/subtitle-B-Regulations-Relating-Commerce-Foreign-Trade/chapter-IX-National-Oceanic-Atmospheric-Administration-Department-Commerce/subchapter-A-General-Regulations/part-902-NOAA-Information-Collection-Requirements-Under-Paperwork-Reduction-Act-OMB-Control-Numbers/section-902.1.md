@@ -1,7 +1,5 @@
 ##### § 902.1 OMB control numbers assigned pursuant to the Paperwork Reduction Act. #####
 
-Link to an amendment published at 83 FR 52766, Oct. 18, 2018.
-
 (a) *Purpose.* This part collects and displays the control numbers assigned to information collection requirements of the National Oceanic and Atmospheric Administration (NOAA) by the Office of Management and Budget (OMB) pursuant to the Paperwork Reduction Act (PRA). NOAA intends that this part comply with the requirements of section 3507(c)(B)(i) of the PRA, which requires that agencies inventory and display a current control number assigned by the Director of OMB for each agency information collection requirement.
 
 (b) *Display.*
@@ -433,6 +431,7 @@ Link to an amendment published at 83 FR 52766, Oct. 18, 2018.
 |                                            679.5(t)                                             |                                          \-0665                                          |
 |                                            679.5(u)                                             |                                     \-0206 and -0711                                     |
 |                                            679.5(v)                                             |                                          \-0272                                          |
+|                                            679.5(w)                                             |                                          \-0272                                          |
 |                                              679.6                                              |                                          \-0206                                          |
 |                                              679.7                                              |\-0206, -0269, -0272, -0316, -0318, -0330, -0334, -0393, -0445, -0513, -0514, -0545, -0565|
 |                                         679.7(a)(7)(i)                                          |                                          \-0206                                          |

@@ -1,7 +1,5 @@
 ##### § 210.6-03 Special rules of general application to registered investment companies and business development companies. #####
 
-Link to an amendment published at 81 FR 82137, Nov. 18, 2016.
-
 The financial statements filed for persons to which §§ 210.6-01 to 210.6-10 are applicable shall be prepared in accordance with the following special rules in addition to the general rules in §§ 210.1-01 to 210.4-10 (Articles 1, 2, 3, and 4). Where the requirements of a special rule differ from those prescribed in a general rule, the requirements of the special rule shall be met.
 
 (a) *Content of financial statements.* The financial statements shall be prepared in accordance with the requirements of this part (Regulation S-X) notwithstanding any provision of the articles of incorporation, trust indenture or other governing legal instruments specifying certain accounting procedures inconsistent with those required in §§ 210.6-01 to 210.6-10.
@@ -80,4 +78,12 @@ Note to paragraphs (h)(2)(i) and (ii): The information required by paragraphs (h
 
 (l) *Inapplicable captions.* Attention is directed to the provisions of §§ 210.4-02 and 210.4-03 which permit the omission of separate captions in financial statements as to which the items and conditions are not present, or the amounts involved not significant. However, amounts involving directors, officers, and affiliates shall nevertheless be separately set forth except as otherwise specifically permitted under a particular caption.
 
-[81 FR 82010, Nov. 18, 2016, as amended at 83 FR 50202, Oct. 4, 2018]
+(m) *Swing pricing.* For a registered investment company that has adopted swing pricing policies and procedures, state in a note to the company's financial statements:
+
+(1) The general methods used in determining whether the company's net asset value per share will swing;
+
+(2) Whether the company's net asset value per share has swung during the year; and
+
+(3) A general description of the effects of swing pricing.
+
+[81 FR 82010, Nov. 18, 2016, as amended at 81 FR 82137, Nov. 18, 2016; 83 FR 50202, Oct. 4, 2018]

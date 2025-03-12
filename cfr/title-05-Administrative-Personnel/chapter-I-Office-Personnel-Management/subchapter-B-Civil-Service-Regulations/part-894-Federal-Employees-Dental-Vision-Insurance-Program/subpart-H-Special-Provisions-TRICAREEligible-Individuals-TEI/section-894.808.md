@@ -1,0 +1,3 @@
+##### § 894.808 I am a TEI family member. Can I enroll myself in FEDVIP? #####
+
+Generally, you are not eligible to enroll yourself as a *TEI family member.* Only an *enrollee* designated at subpart C of this part may enroll in FEDVIP and select a plan, option, and *type of enrollment* (self only, self plus one, or self and family) that may cover *TEI family members.* There is only one FEDVIP dental enrollment and one FEDVIP vision enrollment associated with a *sponsor* and either the *sponsor* or a *TEI certifying family member* may be the *enrollee,* who may enroll, and cover *TEI family members* under the enrollment, in accordance with § 894.309.

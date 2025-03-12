@@ -1,5 +1,7 @@
 ##### § 242.201 Circuit breaker. #####
 
+Link to an amendment published at 83 FR 58427, Nov. 19, 2018.
+
 (a) *Definitions.* For the purposes of this section:
 
 (1) The term *covered security* shall mean any NMS stock as defined in § 242.600(b)(47).

@@ -1,0 +1,5 @@
+##### § 982.467 Report of receipts and dispositions of hazelnuts grown outside the United States. #####
+
+Each handler who receives hazelnuts grown outside the United States shall report to the Board monthly on *F/H Form 1f* the receipt and disposition of such hazelnuts. All reports submitted shall include transactions through the end of each month, or other reporting periods established by the Board, and are due in the Board office on the tenth day following the end of the reporting period. The report shall include the quantity of such hazelnuts received, the country of origin for such hazelnuts, inspection certificate number, whether such hazelnuts are inshell or kernels, the disposition outlet, and shipment date of such hazelnuts. With each report, the handler shall submit copies of the applicable inspection certificates.
+
+[67 FR 5445, Feb. 6, 2002]

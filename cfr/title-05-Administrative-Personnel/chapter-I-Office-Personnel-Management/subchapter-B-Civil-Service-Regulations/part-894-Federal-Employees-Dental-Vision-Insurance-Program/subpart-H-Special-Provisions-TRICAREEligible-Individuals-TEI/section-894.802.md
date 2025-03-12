@@ -1,0 +1,3 @@
+##### § 894.802 Am I a TEI for a FEDVIP dental plan (TEI-D) if I am eligible to enroll or be covered under the TRICARE Retiree Dental Program? #####
+
+A *TRICARE-eligible individual for FEDVIP dental benefits (TEI-D)* means an individual who is eligible to be enrolled and/or who may be covered under the TRICARE Retiree Dental Program (TRDP) pursuant to 10 U.S.C. 1076c(b) as set forth in 32 CFR 199.3 and 199.22. Individuals covered under any of the following programs are excluded and are *not TEI-D:* TRICARE Young Adult provisions of 10 U.S.C. 1110b; Transitional Assistance Management Program (TAMP), 10 U.S.C. 1145(a)); Continued Health Care Benefit Program (CHCBP); 10 U.S.C. 1078a; or Foreign Military (including NATO) sponsor/family coverage.

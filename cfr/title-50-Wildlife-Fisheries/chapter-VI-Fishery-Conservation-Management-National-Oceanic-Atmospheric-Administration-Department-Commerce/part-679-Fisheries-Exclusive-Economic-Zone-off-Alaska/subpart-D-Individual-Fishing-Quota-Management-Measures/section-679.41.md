@@ -1,7 +1,5 @@
 ##### § 679.41 Transfer of quota shares and IFQ. #####
 
-Link to an amendment published at 83 FR 52766, Oct. 18, 2018.
-
 (a) *General.* (1) Except as provided in paragraph (a)(2) of this section, transfer of QS or IFQ means any transaction requiring QS, or the use thereof in the form of IFQ, to pass from one person to another, permanently or for a fixed period of time.
 
 (2) Transactions requiring IFQ permits to be issued in the name of a hired master employed by an individual or a corporation are not transfers of QS or IFQ.
@@ -60,7 +58,23 @@ Link to an amendment published at 83 FR 52766, Oct. 18, 2018.
 
 (12) The person applying to receive QS assigned to vessel category B, C, or D is not a corporation, partnership, association, or other non-individual entity, except as specified in paragraph (g)(3) of this section.
 
-(d) *Eligibility to receive QS or IFQ by transfer* - (1) *Application for Eligibility.* All persons applying to receive QS or IFQ must submit an Application for Eligibility to Receive QS/IFQ (Application for Eligibility) containing accurate information to the Regional Administrator. An Application for Eligibility to Receive QS/IFQ (Application for Eligibility) is not required for a CQE if a complete application to become a CQE, as described in paragraph (l)(3) of this section, has been approved by the Regional Administrator on behalf of an eligible community. An Application for Eligibility to Receive QS/IFQ (Application for Eligibility) is not required for the RQE if a complete application to become an RQE, as described in paragraph (n)(2) of this section, has been approved by the Regional Administrator. The Regional Administrator will not approve a transfer of IFQ or QS to a person until the Application for Eligibility for that person is approved by the Regional Administrator. The Regional Administrator will provide an Application for Eligibility form to any person on request.
+(13) If the person applying to receive halibut IFQ assigned to vessel categories B, C, or D in IFQ regulatory areas 4B, 4C, or 4D is a CDQ group, the following determinations are required:
+
+(i) The CDQ group applying to receive halibut IFQ for an IFQ regulatory area receives an annual allocation of halibut CDQ for that IFQ regulatory area pursuant to § 679.31(b)(1);
+
+(ii) The QS holder applying to transfer halibut IFQ to a CDQ group has not transferred any halibut IFQ assigned to vessel categories B, C, or D for that IFQ regulatory area to a CDQ group during the last two consecutive fishing years;
+
+(iii) If the IFQ to be transferred to a CDQ group results from QS that was transferred to the QS holder after December 14, 2015, the QS holder applying to transfer halibut IFQ to a CDQ group has held the underlying QS for that IFQ for a minimum of 3 years from the date NMFS approved the transfer;
+
+(iv) If the IFQ to be transferred to a CDQ group is assigned to vessel categories B, C, or D in IFQ regulatory area 4B, the QS holder applying to transfer that halibut IFQ to a CDQ group holds fewer than 76,355 halibut QS units in IFQ regulatory area 4B; and
+
+(v) The CDQ group applying to receive halibut IFQ has submitted a complete report if required to do so by § 679.5(w).
+
+(d) *Eligibility to receive QS or IFQ by transfer* - (1) *Application for Eligibility.* All persons, except as provided in paragraphs (d)(1)(i) and (d)(1)(ii) of this section, applying to receive QS or IFQ must submit an Application for Eligibility to Receive QS/IFQ (Application for Eligibility) containing accurate information to the Regional Administrator. The Regional Administrator will not approve a transfer of IFQ or QS to a person until the Application for Eligibility for that person is approved by the Regional Administrator. The Regional Administrator shall provide an Application for Eligibility form to any person on request.
+
+(i) An Application for Eligibility is not required for a CQE if a complete application to become a CQE, as described in paragraph (l)(3) of this section, has been approved by the Regional Administrator on behalf of an eligible community.
+
+(ii) An Application for Eligibility is not required for a CDQ group.
 
 (2) *Type of eligibility.* A person must indicate on the Application for Eligibility whether the eligibility sought is as:
 
@@ -128,7 +142,7 @@ Link to an amendment published at 83 FR 52766, Oct. 18, 2018.
 
 (2) The Regional Administrator approves the Application for Transfer from the person who received the QS or IFQ with restrictions to a person who meets the requirements of this section.
 
-(g) *Transfer restrictions.* (1) Except as provided in paragraph (f), (g)(2), (l), or (n) of this section, only persons who are IFQ crew members, or who were initially issued QS assigned to vessel categories B, C, or D, and meet the eligibility requirements in this section, may receive by transfer QS assigned to vessel categories B, C, or D, or the IFQ resulting from it.
+(g) *Transfer restrictions.* (1) Except as provided in paragraph (f), paragraph (g)(2), paragraph (l), paragraph (n) or paragraph (o) of this section, only persons who are IFQ crew members, or who were initially issued QS assigned to vessel categories B, C, or D, and meet the eligibility requirements in this section, may receive by transfer QS assigned to vessel categories B, C, or D, or the IFQ resulting from it.
 
 (2) Except as provided in paragraph (g)(3) of this section, only persons who are IFQ crew members, and meet the other requirements in this section, may receive by transfer QS assigned to vessel categories B, C, or D, or the IFQ resulting from it, in IFQ regulatory area 2C for halibut or in the IFQ regulatory area east of 140° W. long. for sablefish.
 
@@ -194,7 +208,7 @@ Link to an amendment published at 83 FR 52766, Oct. 18, 2018.
 
 (h) *Transfer of IFQ.* (1) Pursuant to paragraph (a) of this section, an Application for Transfer must be approved by the Regional Administrator before a person may use any IFQ that results from a direct transfer to harvest halibut or sablefish. After approving the Application for Transfer, the Regional Administrator will change any IFQ accounts affected by the approved transfer and issue all necessary IFQ permits.
 
-(2) IFQ resulting from category B, C, or D QS may not be transferred separately from its originating QS, except as provided in paragraph (k) of this section.
+(2) IFQ resulting from categories B, C, or D QS may not be transferred separately from its originating QS, except as provided in paragraph (d), paragraph (f), paragraph (k), paragraph (l), paragraph (m), or paragraph (o) of this section.
 
 (i) *Transfer across catcher vessel categories* - (1) *CDQ compensation.* Persons issued CDQ compensation QS in a catcher vessel category, pursuant to § 679.41(j), and in an IFQ regulatory area in which they do not hold QS other than CDQ compensation QS, may use that CDQ compensation QS on any catcher vessel. This exemption from catcher vessel categories ends upon the first transfer of the CDQ compensation QS. CDQ compensation QS being transferred will be permanently assigned to a specific catcher vessel category as designated by the person receiving the transfer.
 
@@ -340,4 +354,12 @@ QN = (QC × QSPN × RATE)/(SUMCDQ − [RATE × SUMTAC]) ([1 − RATE] × TACAVE)
 
 (5) *Disapproval.* If an application is disapproved, that determination may be appealed under the provisions established at 15 CFR part 906.
 
-[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.41, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(o) *Transfer of IFQ to CDQ groups.* (1) A QS holder who holds fewer than 76,355 units of halibut QS in IFQ regulatory area 4B may transfer halibut IFQ assigned to vessel categories B, C, or D in IFQ regulatory area 4B to a CDQ group that receives an allocation of IFQ regulatory area 4B halibut CDQ if the annual commercial halibut catch limit, as defined in § 300.61 of this title, for Area 4B is less than 1 million pounds in that calendar year.
+
+(2) A QS holder in IFQ regulatory areas 4C or 4D may transfer halibut IFQ assigned to vessel categories B, C, or D in IFQ regulatory areas 4C or 4D to a CDQ group that receives an allocation of halibut CDQ in that IFQ regulatory area if the annual commercial halibut catch limit, as defined in § 300.61 of this title, for Area 4CDE is less than 1.5 million pounds in that calendar year.
+
+(3) A QS holder must meet the requirements in paragraph (c)(13) of this section to transfer halibut IFQ assigned to vessel categories B, C, or D in IFQ regulatory areas 4B, 4C, or 4D to a CDQ group.
+
+(4) A CDQ group that receives halibut IFQ by transfer may not transfer that halibut IFQ to any other person.
+
+[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.41, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,0 +1,3 @@
+##### § 894.810 If I enroll for self plus one, may I decide which TEI family member to cover? #####
+
+Generally, yes, as specified in § 894.202. However, if you are an *enrollee* and you do not elect a *type of enrollment* that covers a *TEI family member,* that *TEI family member* will not have FEDVIP coverage or benefits. A *TEI family member* who is not a *TEI certifying family member* may not self-certify and enroll himself or herself as a *TEI family member* in a FEDVIP plan. Note however, that a *TEI family member* may seek reconsideration of an erroneous enrollment under § 894.104, and the *Administrator* and OPM retain authority to correct enrollments under § 894.105.

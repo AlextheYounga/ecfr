@@ -1,7 +1,5 @@
 ##### § 210.6-02 Definition of certain terms. #####
 
-Link to an amendment published at 81 FR 82137, Nov. 18, 2016.
-
 The following terms shall have the meaning indicated in this rule unless the context otherwise requires. (Also see § 210.1-02 of this part.)
 
 (a) *Affiliate.* The term *affiliate* means an *affiliated person* as defined in section 2(a)(3) of the Investment Company Act of 1940 unless otherwise indicated. The term *control* has the meaning in section 2(a)(9) of that Act.
@@ -15,3 +13,7 @@ The following terms shall have the meaning indicated in this rule unless the con
 (2) For other companies, the term *qualified assets* means cash and investments which such companies do maintain or are required, by applicable governing legal instruments, to maintain in respect of outstanding face-amount certificates.
 
 (3) Loans to certificate holders may be included as qualified assets in an amount not in excess of certificate reserves carried on the books of account in respect of each individual certificate upon which the loans were made.
+
+(e) *Swing pricing.* The term *swing pricing* shall have the meaning given in § 270.22c-1(a)(3)(v)(C) of this chapter.
+
+[47 FR 56838, Dec. 21, 1982, as amended at 81 FR 82137, Nov. 18, 2016]

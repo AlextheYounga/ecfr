@@ -1,8 +1,6 @@
 ##### § 420.3 Reporting. #####
 
-Link to an amendment published at 83 FR 52768, Oct. 18, 2018.
-
-(a) A reporting entity must file a large position report if it meets the reporting requirement as defined in § 420.2. Treasury will provide notice of the large position thresholds by issuing a press release and subsequently publishing the notice in the Federal Register. Such notice will identify the Treasury security issue(s) to be reported (including, where applicable, identifying the related STRIPS principal component); the date or dates for which the large position information must be reported; and the large position thresholds for that issue. A reporting entity is responsible for taking reasonable actions to be aware of such a notice.
+(a) A reporting entity must file a large position report if it meets the reporting requirement as defined in § 420.2. Treasury will provide notice of the large position thresholds by issuing a public announcement and subsequently publishing the notice in the Federal Register. Such notice will identify the Treasury security issue(s) to be reported (including, where applicable, identifying the related STRIPS principal component); the date or dates for which the large position information must be reported; and the large position thresholds for that issue. A reporting entity is responsible for taking reasonable actions to be aware of such a notice.
 
 (b) A reporting entity shall select one entity from among its aggregating entities (*i.e.,* the designated filing entity) as the entity designated to compile and file a report on behalf of the reporting entity. The designated filing entity shall be responsible for filing any large position reports in response to a notice issued by Treasury and for maintaining the additional records prescribed in § 420.4.
 
@@ -82,10 +80,10 @@ Link to an amendment published at 83 FR 52768, Oct. 18, 2018.
 
 By signing below, I certify that the information contained in this report with regard to the designated filing entity is accurate and complete. Further, after reasonable inquiry and to the best of my knowledge and belief, I certify that: (i) The information contained in this report with regard to any other aggregating entities is accurate and complete; and (ii) the reporting entity, including all aggregating entities, is in compliance with the requirements of 17 CFR part 420.
 
-(h) The report must be filed before noon Eastern Time on the fourth business day following issuance of the press release.
+(h) The report must be filed before noon Eastern Time on the fourth business day following issuance of a public announcement.
 
-(i) A report to be filed pursuant to paragraph (c) of this section will be considered filed when received by the Federal Reserve Bank of New York. The report may be filed by facsimile or delivered hard copy. The Federal Reserve Bank of New York may in its discretion also authorize other means of reporting.
+(i) A report to be filed pursuant to paragraph (c) of this section will be considered filed when received by Treasury or the Federal Reserve Bank of New York according to the instructions provided in the public announcement.
 
-(j) A reporting entity that has filed a report pursuant to paragraph (c) of this section shall, at the request of Treasury or the Federal Reserve Bank of New York, timely provide any supplemental information pertaining to such report.
+(j) A reporting entity that has filed a report pursuant to paragraph (c) of this section shall, at the request of Treasury, or the Federal Reserve Bank of New York at the direction of Treasury, timely provide any supplemental information pertaining to such report.
 
-(Approved by the Office of Management and Budget under control number 1535-0089)
+(Approved by the Office of Management and Budget under control number 1535-0089)[79 FR 73414, Dec. 10, 2014, as amended at 83 FR 52768, Oct. 18, 2018]
