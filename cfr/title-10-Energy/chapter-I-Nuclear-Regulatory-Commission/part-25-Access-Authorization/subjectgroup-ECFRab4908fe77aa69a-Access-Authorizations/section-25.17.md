@@ -1,6 +1,6 @@
 ##### § 25.17 Approval for processing applicants for access authorization. #####
 
-Link to an amendment published at 86 FR 43401, Aug. 9, 2021.
+Link to an amendment published at 86 FR 43401, Aug. 9, 2021.Link to a correction of the above amendment published at 86 FR 47209, Aug. 24, 2021.
 
 (a) Access authorizations must be requested for licensee employees or other persons (e.g., 10 CFR part 2, subpart I) who need access to classified information in connection with activities under 10 CFR parts 50, 52, 54, 60, 63, 70, 72, or 76.
 

@@ -1,6 +1,6 @@
 ##### § 35.57 Training for experienced Radiation Safety Officer, teletherapy or medical physicist, authorized medical physicist, authorized user, nuclear pharmacist, and authorized nuclear pharmacist. #####
 
-Link to an amendment published at 86 FR 43402, Aug. 9, 2021.
+Link to an amendment published at 86 FR 43402, Aug. 9, 2021.Link to a correction of the above amendment published at 86 FR 47209, Aug. 24, 2021.
 
 (a)(1) An individual identified on a Commission or an Agreement State license or a permit issued by a Commission or an Agreement State broad scope licensee or master material license permit or by a master material license permittee of broad scope as a Radiation Safety Officer, a teletherapy or medical physicist, an authorized medical physicist, a nuclear pharmacist or an authorized nuclear pharmacist on or before January 14, 2019 need not comply with the training requirements of § 35.50, § 35.51, or § 35.55, respectively, except the Radiation Safety Officers and authorized medical physicists identified in this paragraph must meet the training requirements in § 35.50(d) or § 35.51(c), as appropriate, for any material or uses for which they were not authorized prior to this date.
 
