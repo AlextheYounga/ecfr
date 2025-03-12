@@ -1,5 +1,7 @@
 ##### § 42.300 Procedure; pendency. #####
 
+Link to an amendment published at 83 FR 51359, October 11, 2018.
+
 (a) A covered business method patent review is a trial subject to the procedures set forth in subpart A of this part and is also subject to the post-grant review procedures set forth in subpart C except for §§ 42.200, 42.201, 42.202, and 42.204.
 
 (b) A claim in an unexpired patent that will not expire before a final written decision is issued shall be given its broadest reasonable construction in light of the specification of the patent in which it appears. A party may a request a district court-type claim construction approach to be applied if a party certifies that the involved patent will expire within 18 months from the entry of the Notice of Filing Date Accorded to Petition. The request, accompanied by a party's certification, must be made in the form of a motion under § 42.20, within 30 days from the filing of the petition.

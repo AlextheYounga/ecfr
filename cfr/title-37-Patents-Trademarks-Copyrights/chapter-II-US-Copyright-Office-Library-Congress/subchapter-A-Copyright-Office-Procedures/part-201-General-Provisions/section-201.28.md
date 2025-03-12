@@ -1,5 +1,7 @@
 ##### § 201.28 Statements of Account for digital audio recording devices or media. #####
 
+Link to an amendment published at 83 FR 51841, October 15, 2018.
+
 (a) *General.* This section prescribes rules pertaining to the filing of Statements of Account and royalty fees in the Copyright Office as required by 17 U.S.C. 1003(c) and 1004, in order to import and distribute, or manufacture and distribute, in the United States any digital audio recording device or digital audio recording medium.
 
 (b) *Definitions.* For purposes of this section, the following definitions apply:

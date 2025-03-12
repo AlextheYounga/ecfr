@@ -1,0 +1,3 @@
+##### 831.7000 Scope of subpart. #####
+
+This subpart contains general cost principles and procedures for the determination and allowance of costs or negotiation of prices under cost reimbursement or fixed-price contracts for providing vocational rehabilitation, education, and training to eligible Veterans under 38 U.S.C. chapter 31, (referred to as a “chapter 31 program”). This subpart applies to contracts with educational institutions as well as to contracts with commercial and non-profit organizations.

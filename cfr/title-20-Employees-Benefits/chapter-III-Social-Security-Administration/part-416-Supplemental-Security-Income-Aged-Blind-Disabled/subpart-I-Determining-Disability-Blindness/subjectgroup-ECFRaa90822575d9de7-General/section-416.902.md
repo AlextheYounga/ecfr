@@ -1,6 +1,6 @@
 ##### § 416.902 Definitions for this subpart. #####
 
-As used in the subpart -
+As used in the subpart—
 
 (a) *Acceptable medical source* means a medical source who is a:
 
@@ -18,7 +18,7 @@ As used in the subpart -
 
 (5) Qualified speech-language pathologist for speech or language impairments only. For this source, *qualified* means that the speech-language pathologist must be licensed by the State professional licensing agency, or be fully certified by the State education agency in the State in which he or she practices, or hold a Certificate of Clinical Competence in Speech-Language Pathology from the American Speech-Language-Hearing Association;
 
-(6) Licensed audiologist for impairments of for impairments of hearing loss, auditory processing disorders, and balance disorders within the licensed scope of practice only (with respect to claims filed (see § 416.325) on or after March 27, 2017);
+(6) Licensed audiologist for impairments of hearing loss, auditory processing disorders, and balance disorders within the licensed scope of practice only (with respect to claims filed (see § 416.325) on or after March 27, 2017);
 
 (7) Licensed Advanced Practice Registered Nurse, or other licensed advanced practice nurse with another title, for impairments within his or her licensed scope of practice (only with respect to claims filed (see § 416.325) on or after March 27, 2017); or
 
@@ -64,4 +64,4 @@ As used in the subpart -
 
 (q) *You, your,**me, my* and *I* mean, as appropriate, the person who applies for benefits, the person for whom an application is filed, or the person who is receiving benefits based on disability or blindness.
 
-[82 FR 5873, Jan. 18, 2017]
+[82 FR 5873, Jan. 18, 2017, as amended at 83 FR 51836, Oct. 15, 2018]

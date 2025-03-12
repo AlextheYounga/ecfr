@@ -1,0 +1,5 @@
+##### § 4231.4 Preservation of accrued benefits. #####
+
+(a) *General.* Section 4231(b)(2) of ERISA and § 4231.3(a)(1) require that no participant's or beneficiary's accrued benefit may be lower immediately after the effective date of the merger or transfer than the benefit immediately before the merger or transfer. Except as provided in paragraph (b) of this section, a plan that assumes an obligation to pay benefits for a group of participants satisfies this requirement only if the plan contains a provision preserving all accrued benefits. The determination of what is an accrued benefit must be made in accordance with section 411 of the Code and the regulations thereunder.
+
+(b) *Waiver.* PBGC may waive the requirement of paragraph (a) of this section, § 4231.3(a)(1), and section 4231(b)(2) of ERISA to the extent the accrued benefit is suspended under section 305(e)(9) of ERISA contemporaneously with the merger or transfer. If waived, the plan provision described under paragraph (a) of this section may exclude accrued benefits only to the extent those benefits are suspended under section 305(e)(9) of ERISA contemporaneously with the merger or transfer.
