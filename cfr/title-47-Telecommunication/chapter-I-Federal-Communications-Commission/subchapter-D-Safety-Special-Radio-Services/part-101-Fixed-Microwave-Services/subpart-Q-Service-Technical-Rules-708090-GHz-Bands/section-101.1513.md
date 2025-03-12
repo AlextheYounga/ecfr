@@ -1,6 +1,4 @@
-##### § 101.1513 License term and renewal expectancy. #####
-
-Link to an amendment published at 82 FR 41549, Sept. 1, 2017.
+##### § 101.1513 License term. #####
 
 The license term is ten years, beginning on the date of the initial authorization (nationwide license) grant. Registering links will not change the overall renewal period of the license.
 

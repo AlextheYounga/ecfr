@@ -54,6 +54,12 @@
 
 (11) A “Chapter 4 noise level” means a noise level at or below the maximum noise level prescribed in Chapter 4, Paragraph 4.4, Maximum Noise Levels, of the International Civil Aviation Organization (ICAO) Annex 16, Volume I, Amendment 7, effective March 21, 2002. [Incorporated by reference, see § 36.6].
 
+(12) A “Stage 5 noise level” means a noise level at or below the Stage 5 noise limit prescribed in section B36.5(e) of appendix B to this part.
+
+(13) A “Stage 5 airplane” means an airplane that has been shown under this part not to exceed the Stage 5 noise limit prescribed in section B36.5(e) of appendix B to this part.
+
+(14) A “Chapter 14 noise level” means a noise level at or below the Chapter 14 maximum noise level prescribed in Chapter 14 of the ICAO Annex 16, Volume 1, Seventh Edition, Amendment 11-B (Incorporated by reference, see § 36.6).
+
 (g) For the purpose of showing compliance with this part for transport category large airplanes and jet airplanes regardless of category, each airplane may not be identified as complying with more than one stage or configuration simultaneously.
 
 (h) For the purpose of showing compliance with this part, for helicopters in the primary, normal, transport, and restricted categories, the following terms have the specified meanings:
@@ -92,4 +98,4 @@ VCON is defined as the maximum authorized speed for any nacelle angle in VTOL/Co
 
 *VTOL mode RPM* means highest range of RPM that occur for takeoff, approach, hover, and conversion conditions.
 
-[Doc. No. 13243, Amdt. 36-4, 40 FR 1034, Jan. 6, 1975]Editorial Note:For Federal Register citations affecting § 36.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[Doc. No. 13243, Amdt. 36-4, 40 FR 1034, Jan. 6, 1975]Editorial Note:For Federal Register citations affecting § 36.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

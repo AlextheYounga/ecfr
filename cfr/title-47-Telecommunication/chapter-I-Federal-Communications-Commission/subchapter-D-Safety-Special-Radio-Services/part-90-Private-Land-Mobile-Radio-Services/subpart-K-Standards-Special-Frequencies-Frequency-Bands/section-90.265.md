@@ -1,7 +1,5 @@
 ##### § 90.265 Assignment and use of frequencies in the bands allocated for Federal use. #####
 
-Link to an amendment published at 82 FR 41549, Sept. 1, 2017.
-
 (a) The following center frequencies are available for assignment to fixed stations in the Public Safety Pool or the Industrial/Business Pool, subject to the provisions of this section:
 
 Hydro Channels (MHz)
@@ -44,13 +42,21 @@ Frequencies (MHz)
 
 169.445
 
-169.475
-
 169.505
 
-170.245
+169.545
 
-170.275
+169.575
+
+169.605
+
+169.995
+
+170.025
+
+170.055
+
+170.245
 
 170.305
 
@@ -66,7 +72,7 @@ Frequencies (MHz)
 
 171.905
 
-(1) On center frequencies 169.475 MHz, 170.275 MHz, 171.075 MHz, and 171.875 MHz, the emission bandwidth shall not exceed 200 kHz. On the other center frequencies listed in this paragraph (b), the emission bandwidth shall not exceed 54 kHz.
+(1) On center frequencies 169.575 MHz, 170.025 MHz, 171.075 MHz, and 171.875 MHz, the emission bandwidth shall not exceed 200 kHz. On the other center frequencies listed in this paragraph (b), the emission bandwidth shall not exceed 54 kHz.
 
 (2) The output power shall not exceed 50 milliwatts.
 
@@ -133,4 +139,4 @@ Forest Firefighting and Conservation Channels (MHz)
 
 (2) [Reserved]
 
-(Secs. 4(i) and 303(r), Communications Act of 1934, as amended, §§ 0.131 and 0.331 of the Commission's Rules and 5 U.S.C. 553 (b)(3)(B) and (d)(3))[49 FR 20506, May 15, 1984, as amended at 62 FR 18929, Apr. 17, 1997; 70 FR 21661, Apr. 27, 2005; 80 FR 71731, Nov. 17, 2015]
+(Secs. 4(i) and 303(r), Communications Act of 1934, as amended, §§ 0.131 and 0.331 of the Commission's Rules and 5 U.S.C. 553 (b)(3)(B) and (d)(3))[49 FR 20506, May 15, 1984, as amended at 62 FR 18929, Apr. 17, 1997; 70 FR 21661, Apr. 27, 2005; 80 FR 71731, Nov. 17, 2015; 82 FR 41562, Sept. 1, 2017]

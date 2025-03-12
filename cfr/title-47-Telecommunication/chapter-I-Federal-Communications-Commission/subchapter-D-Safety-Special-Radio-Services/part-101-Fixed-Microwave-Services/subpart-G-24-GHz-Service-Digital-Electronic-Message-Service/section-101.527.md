@@ -1,10 +1,8 @@
 ##### § 101.527 Construction requirements for 24 GHz operations. #####
 
-Link to an amendment published at 82 FR 41549, Sept. 1, 2017.
+(a) Each licensee must make a showing of “substantial service” within ten years of its license grant. “Substantial service” is a service which is sound, favorable, and substantially above a level of mediocre service which just might minimally warrant renewal during its past license term. Until January 1, 2023, “substantial service” assessment will be made at renewal pursuant to the provisions and procedures set forth in § 1.949 of this chapter.
 
-(a) Each licensee must make a showing of “substantial service” within ten years of its license grant. A “substantial service” assessment will be made at renewal pursuant to the provisions and procedures set forth in § 1.949 of this chapter. “Substantial service” is a service which is sound, favorable, and substantially above a level of mediocre service which just might minimally warrant renewal during its past license term.
-
-(b) Each licensee must, at a minimum file:
+(b) Until January 1, 2023, each licensee must, at a minimum file:
 
 (1) A report, maps and other supporting documents describing its current service in terms of geographic coverage and population served to the Commission. The report must also contain a description of the licensees' investments in its operations. The report must be labeled as an attachment to the renewal application; and
 
@@ -14,4 +12,4 @@ Link to an amendment published at 82 FR 41549, Sept. 1, 2017.
 
 (d) The frequencies associated with incumbent authorizations, licensed on a SMSA basis, that have cancelled automatically or otherwise been recovered by the Commission will automatically revert to the applicable EA licensee.
 
-[65 FR 59360, Oct. 5, 2000]
+[65 FR 59360, Oct. 5, 2000, as amended at 82 FR 41549, Sept. 1, 2017]

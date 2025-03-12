@@ -1,5 +1,7 @@
 ##### § 91.858 Special flight authorizations for non-revenue Stage 2 operations. #####
 
+Link to an amendment published at 82 FR 46132, Oct. 4, 2017.
+
 (a) After December 31, 1999, any operator of a Stage 2 airplane over 75,000 pounds may operate that airplane in nonrevenue service in the contiguous United States only for the following purposes:
 
 (1) Sell, lease, or scrap the airplane;

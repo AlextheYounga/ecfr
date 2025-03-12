@@ -230,7 +230,7 @@ The criteria specified in paragraphs (c) and (d) of this section are optional fo
 
 (ii) *Eligible hospital/CAH clinical decision support* - (A) *Objective.* Implement clinical decision support (CDS) interventions focused on improving performance on high-priority health conditions.
 
-(B) *Measures* - (*1*) Implement five clinical decision support interventions related to four or more clinical quality measures at a relevant point in patient care for the entire EHR reporting period. Absent four clinical quality measures related to an eligible hospital or CAH's patient population, the clinical decision support interventions must be related to high-priority health conditions; and
+(B) *Measures.* (*1*) Implement five clinical decision support interventions related to four or more clinical quality measures at a relevant point in patient care for the entire EHR reporting period. Absent four clinical quality measures related to an eligible hospital or CAH's patient population, the clinical decision support interventions must be related to high-priority health conditions; and
 
 (*2*) The eligible hospital or CAH has enabled and implemented the functionality for drug-drug and drug-allergy interaction checks for the entire EHR reporting period.
 
@@ -510,4 +510,4 @@ The criteria specified in paragraphs (c) and (d) of this section are optional fo
 
 (*iii*) Operates in a jurisdiction where no public health agency has declared readiness to receive electronic reportable laboratory results from an eligible hospital or CAH as of 6 months prior to the start of the EHR reporting period.
 
-[81 FR 79884, Nov. 14, 2016, as amended at 82 FR 38517, August 14, 2017]
+[81 FR 79884, Nov. 14, 2016, as amended at 82 FR 38517, August 14, 2017; 82 FR 46143, Oct. 4, 2017]

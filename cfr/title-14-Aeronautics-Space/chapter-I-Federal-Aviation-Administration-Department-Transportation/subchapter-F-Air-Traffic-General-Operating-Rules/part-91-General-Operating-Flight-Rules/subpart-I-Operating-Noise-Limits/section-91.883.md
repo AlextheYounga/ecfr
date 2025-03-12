@@ -1,5 +1,7 @@
 ##### § 91.883 Special flight authorizations for jet airplanes weighing 75,000 pounds or less. #####
 
+Link to an amendment published at 82 FR 46132, Oct. 4, 2017.
+
 (a) After December 31, 2015, an operator of a jet airplane weighing 75,000 pounds or less that does not comply with Stage 3 noise levels may, when granted a special flight authorization by the FAA, operate that airplane in the contiguous United States only for one of the following purposes:
 
 (1) To sell, lease, or use the airplane outside the 48 contiguous States;

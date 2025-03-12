@@ -1,30 +1,18 @@
 ##### § 1.934 Defective applications and dismissal. #####
 
-Link to an amendment published at 82 FR 41545, Sept. 1, 2017.
-
 (a) *Dismissal of applications.* The Commission may dismiss any application in the Wireless Radio Services at the request of the applicant; if the application is mutually exclusive with another application that is selected or granted in accordance with the rules in this part; for failure to prosecute or if the application is found to be defective; if the requested spectrum is not available; or if the application is untimely filed. Such dismissal may be “without prejudice,” meaning that the Commission may accept from the applicant another application for the same purpose at a later time, provided that the application is otherwise timely. Dismissal “with prejudice” means that the Commission will not accept another application from the applicant for the same purpose for a period of one year. Unless otherwise provided in this part, a dismissed application will not be returned to the applicant.
 
 (1) *Dismissal at request of applicant.* Any applicant may request that its application be withdrawn or dismissed. A request for the withdrawal of an application after it has been listed on Public Notice as tentatively accepted for filing is considered to be a request for dismissal of that application without prejudice.
 
 (i) If the applicant requests dismissal of its application with prejudice, the Commission will dismiss that application with prejudice.
 
-(ii) If the applicant requests dismissal of its application without prejudice, the Commission will dismiss that application without prejudice, unless:
-
-(A) It has been designated for comparative hearing; or
-
-(B) It is an application for which the applicant submitted the winning bid in a competitive bidding process.
+(ii) If the applicant requests dismissal of its application without prejudice, the Commission will dismiss that application without prejudice, unless it is an application for which the applicant submitted the winning bid in a competitive bidding process.
 
 (2) If an applicant who is a winning bidder for a license in a competitive bidding process requests dismissal of its short-form or long-form application, the Commission will dismiss that application with prejudice. The applicant will also be subject to default payments under Subpart Q of this part.
 
-(3) An applicant who requests dismissal of its application after that application has been designated for comparative hearing may submit a written petition requesting that the dismissal be without prejudice. Such petition must demonstrate good cause and be served upon all parties of record. The Commission may grant such petition and dismiss the application without prejudice or deny the petition and dismiss the application with prejudice.
+(b) *Dismissal of mutually exclusive applications not granted.* The Commission may dismiss mutually exclusive applications for which the applicant did not submit the winning bid in a competitive bidding process.
 
-(b) *Dismissal of mutually exclusive applications not granted.* The Commission may dismiss mutually exclusive applications:
-
-(1) For which the applicant did not submit the winning bid in a competitive bidding process; or
-
-(2) That receive comparative consideration in a hearing but are not granted by order of the presiding officer.
-
-(c) *Dismissal for failure to prosecute.* The Commission may dismiss applications for failure of the applicant to prosecute or for failure of the applicant to respond substantially within a specified time period to official correspondence or requests for additional information. Such dismissal will generally be without prejudice if the failure to prosecute or respond occurred prior to designation of the application for comparative hearing, but may be with prejudice in cases of non-compliance with § 1.945 of this part. Dismissal will generally be with prejudice if the failure to prosecute or respond occurred after designation of the application for comparative hearing. The Commission may dismiss applications with prejudice for failure of the applicant to comply with requirements related to a competitive bidding process.
+(c) *Dismissal for failure to prosecute.* The Commission may dismiss applications for failure of the applicant to prosecute or for failure of the applicant to respond substantially within a specified time period to official correspondence or requests for additional information. Such dismissal may be with prejudice in cases of non-compliance with § 1.945. The Commission may dismiss applications with prejudice for failure of the applicant to comply with requirements related to a competitive bidding process.
 
 (d) *Dismissal as defective.* The Commission may dismiss without prejudice an application that it finds to be defective. An application is defective if:
 
@@ -50,4 +38,4 @@ Link to an amendment published at 82 FR 41545, Sept. 1, 2017.
 
 (g) *Dismissal for failure to pursue environmental review.* The Commission may dismiss license applications (FCC Form 601) associated with proposed antenna structure(s) subject to § 17.4(c) of this chapter, if pending more than 60 days and awaiting submission of an Environmental Assessment or other environmental information from the applicant, unless the applicant has provided an affirmative statement reflecting active pursuit during the previous 60 days of environmental review for the proposed antenna structure(s). To avoid potential dismissal of its license application, the license applicant must provide updates every 60 days unless or until the applicant has submitted the material requested by the Bureau.
 
-[63 FR 68930, Dec. 14, 1998, as amended at 66 FR 47895, Sept. 14, 2001; 71 FR 66461, Nov. 15, 2006; 77 FR 3952, Jan. 26, 2012]
+[63 FR 68930, Dec. 14, 1998, as amended at 66 FR 47895, Sept. 14, 2001; 71 FR 66461, Nov. 15, 2006; 77 FR 3952, Jan. 26, 2012; 82 FR 41545, Sept. 1, 2017]

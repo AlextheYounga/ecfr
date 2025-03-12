@@ -1,7 +1,5 @@
 ##### § 90.631 Trunked systems loading, construction and authorization requirements. #####
 
-Link to an amendment published at 82 FR 41548, Sept. 1, 2017.
-
 (a) Non-SMR trunked systems will be authorized on the basis of a loading criteria of one hundred (100) mobile stations per channel. For purposes of determining compliance with trunked system loading requirements under this subpart, the term “mobile station” includes vehicular and portable mobile units and control stations.
 
 (b) Each applicant for a non-SMR trunked system must certify that a minimum of seventy (70) mobiles for each channel authorized will be placed into operation within five (5) years of the initial license grant.
@@ -12,10 +10,10 @@ Link to an amendment published at 82 FR 41548, Sept. 1, 2017.
 
 (e) Except as provided in § 90.629, licensees of trunked facilities must complete construction within one year.
 
-(f) If a station is not placed in permanent operation, in accordance with the technical parameters of the station authorization, within one year, except as provided in § 90.629, its license cancels automatically. For purposes of this section, a base station is not considered to be placed in operation unless at least two associated mobile stations, or one control station and one mobile station, are also placed in operation. An SMR licensee with facilities that have discontinued operations for 90 continuous days is presumed to have permanently discontinued operations, unless the licensee notifies the Commission otherwise, using FCC Form 601, prior to the end of the 90 day period and provides a date on which operation will resume, which date must not be in excess of 30 additional days.
+(f) If a station is not placed in permanent operation, in accordance with the technical parameters of the station authorization, within one year, except as provided in § 90.629, its license cancels automatically. For purposes of this section, a base station is not considered to be placed in operation unless at least two associated mobile stations, or one control station and one mobile station, are also placed in operation.
 
 (g) Wide area systems may be authorized to persons eligible for licensing under subparts B or C of this part upon an appropriate showing of need. Remote or satellite stations of wide area systems in the Public Safety, Special Emergency, Telephone Maintenance, and Power Radio Services may be authorized on a primary basis if such stations are the first to be authorized in their area of operation on the frequency or group of frequencies. Remote or satellite stations of wide area systems in all other services will be authorized only on a secondary, non-interference basis to cochannel licensees. To determine system loading, the total number of mobile units and control stations operating in the wide-area system shall be counted with respect to the total number of base station frequencies assigned to the system.
 
 (h) Regional, statewide, or ribbon configuration systems may be authorized to persons eligible for licensing under subparts B or C of this part upon an appropriate showing of need. In a ribbon, regional or statewide system, a mobile station will be counted for channel loading purposes only for the base station facility in the geographic area in which it primarily operates. If this cannot be determined, it will be counted fractionally over the number of base station facilities with which it communicates regularly.
 
-[47 FR 41032, Sept. 16, 1982]Editorial Note:For Federal Register citations affecting § 90.631, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[47 FR 41032, Sept. 16, 1982]Editorial Note:For Federal Register citations affecting § 90.631, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

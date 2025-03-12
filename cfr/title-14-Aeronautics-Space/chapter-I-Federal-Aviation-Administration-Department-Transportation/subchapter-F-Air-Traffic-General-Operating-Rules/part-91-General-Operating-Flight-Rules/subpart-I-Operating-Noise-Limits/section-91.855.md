@@ -1,5 +1,7 @@
 ##### § 91.855 Entry and nonaddition rule. #####
 
+Link to an amendment published at 82 FR 46132, Oct. 4, 2017.
+
 No person may operate any airplane subject to § 91.801(c) of this subpart to or from an airport in the contiguous United States unless one or more of the following apply:
 
 (a) The airplane complies with Stage 3 or Stage 4 noise levels.

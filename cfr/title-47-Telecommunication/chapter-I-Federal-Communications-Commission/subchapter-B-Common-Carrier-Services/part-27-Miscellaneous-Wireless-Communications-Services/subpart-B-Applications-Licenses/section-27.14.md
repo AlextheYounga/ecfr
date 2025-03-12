@@ -1,30 +1,12 @@
-##### § 27.14 Construction requirements; Criteria for renewal. #####
-
-Link to an amendment published at 82 FR 41548, Sept. 1, 2017.
+##### § 27.14 Construction requirements. #####
 
 (a) AWS and WCS licensees, with the exception of WCS licensees holding authorizations for the 600 MHz band, Block A in the 698-704 MHz and 728-734 MHz bands, Block B in the 704-710 MHz and 734-740 MHz bands, Block E in the 722-728 MHz band, Block C, C1 or C2 in the 746-757 MHz and 776-787 MHz bands, Block A in the 2305-2310 MHz and 2350-2355 MHz bands, Block B in the 2310-2315 MHz and 2355-2360 MHz bands, Block C in the 2315-2320 MHz band, and Block D in the 2345-2350 MHz band, and with the exception of licensees holding AWS authorizations in the 1915-1920 MHz and 1995-2000 MHz bands, the 2000-2020 MHz and 2180-2200 MHz bands, or 1695-1710 MHz, 1755-1780 MHz and 2155-2180 MHz bands, must, as a performance requirement, make a showing of “substantial service” in their license area within the prescribed license term set forth in § 27.13. “Substantial service” is defined as service which is sound, favorable and substantially above a level of mediocre service which just might minimally warrant renewal. Failure by any licensee to meet this requirement will result in forfeiture of the license and the licensee will be ineligible to regain it.
 
-(b) A renewal applicant involved in a comparative renewal proceeding shall receive a preference, commonly referred to as a renewal expectancy, which is the most important comparative factor to be considered in the proceeding, if its past record for the relevant license period demonstrates that:
-
-(1) The renewal applicant has provided “substantial” service during its past license term; and
-
-(2) The renewal applicant has substantially complied with applicable FCC rules, policies and the Communications Act of 1934, as amended.
-
-(c) In order to establish its right to a renewal expectancy, a WCS renewal applicant involved in a comparative renewal proceeding must submit a showing explaining why it should receive a renewal expectancy. At a minimum, this showing must include:
-
-(1) A description of its current service in terms of geographic coverage and population served;
-
-(2) An explanation of its record of expansion, including a timetable of new construction to meet changes in demand for service;
-
-(3) A description of its investments in its WCS system; and
-
-(4) Copies of all FCC orders finding the licensee to have violated the Communications Act or any FCC rule or policy; and a list of any pending proceedings that relate to any matter described in this paragraph.
-
-(d) In making its showing of entitlement to a renewal expectancy, a renewal applicant may claim credit for any system modification applications that were pending on the date it filed its renewal application. Such credit will not be allowed if the modification application is dismissed or denied.
+(b)-(d) [Reserved]
 
 (e) Comparative renewal proceedings do not apply to WCS licensees holding authorizations for Block A in the 698-704 MHz and 728-734 MHz bands, Block B in the 704-710 MHz and 734-740 MHz bands, Block C in the 710-716 MHz and 740-746 MHz bands, Block D in the 716-722 MHz band, Block E in the 722-728 MHz band, or Block C, C1 or C2 in the 746-757 MHz and 776-787 MHz bands. Each of these licensees must file a renewal application in accordance with the provisions set forth in § 1.949, and must make a showing of substantial service, independent of its performance requirements, as a condition for renewal at the end of each license term.
 
-(f) Comparative renewal proceedings do not apply to WCS licensees holding authorizations for the 600 MHz band, 698-746 MHz, 747-762 MHz, and 777-792 MHz bands or licensees holding AWS authorizations for the 1915-1920 MHz and 1995-2000 MHz bands or the 2000-2020 MHz and 2180-2200 MHz bands, or the 1695-1710 MHz, or the 1755-1780 MHz and 2155-2180 MHz bands. These licensees must file a renewal application in accordance with the provisions set forth in § 1.949 of this chapter.
+(f) [Reserved]
 
 (g) WCS licensees holding EA authorizations for Block A in the 698-704 MHz and 728-734 MHz bands, cellular market authorizations for Block B in the 704-710 MHz and 734-740 MHz bands, or EA authorizations for Block E in the 722-728 MHz band, if the results of the first auction in which licenses for such authorizations are offered satisfy the reserve price for the applicable block, shall provide signal coverage and offer service over at least 35 percent of the geographic area of each of their license authorizations no later than June 13, 2013 (or within four years of initial license grant if the initial authorization in a market is granted after June 13, 2009), and shall provide such service over at least 70 percent of the geographic area of each of these authorizations by the end of the license term. In applying these geographic benchmarks, licensees are not required to include land owned or administered by government as a part of the relevant service area. Licensees may count covered government land for purposes of meeting their geographic construction benchmark, but are required to add the covered government land to the total geographic area used for measurement purposes. Licensees are required to include those populated lands held by tribal governments and those held by the Federal Government in trust or for the benefit of a recognized tribe.
 
@@ -212,4 +194,4 @@ Link to an amendment published at 82 FR 41548, Sept. 1, 2017.
 
 (v) Any other factors associated with the level of service to the public.
 
-[62 FR 9658, Mar. 3, 1997]Editorial Note:For Federal Register citations affecting § 27.14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[62 FR 9658, Mar. 3, 1997]Editorial Note:For Federal Register citations affecting § 27.14, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 82 FR 41548, Sept. 1, 2017, § 27.14 was amended by removing paragraphs (e), (q)(7), (r)(6), (s)(6), and (t)(6). These amendments will not be effective until approval has been given by the Office of Management and Budget.

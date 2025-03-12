@@ -1,7 +1,5 @@
 ##### § 101.1415 Partitioning and disaggregation. #####
 
-Link to an amendment published at 82 FR 41549, Sept. 1, 2017.
-
 (a) MVDDS licensees are permitted to partition licensed geographic areas along county borders (Parishes in Louisiana or Territories in Alaska). Disaggregation will not be permitted by MVDDS licensees in the 12.2-12.7 GHz band. “Partitioning” is the assignment of geographic portions of a license along geopolitical or other boundaries. “Disaggregation” is the assignment of discrete portions or “blocks” of spectrum licensed to a geographic licensee or qualifying entity.
 
 (b) *Eligibility.* (1) Parties seeking approval for partitioning shall request from the Commission an authorization for partial assignment of a license pursuant to § 1.948 of this chapter.
@@ -18,4 +16,4 @@ Link to an amendment published at 82 FR 41549, Sept. 1, 2017.
 
 (e) *License term.* The MVDDS license term is ten years, beginning on the date of the initial authorization grant. The license term for a partitioned license area shall be the remainder of the original licensee's license term as provided for in § 101.1413.
 
-(f) *Construction requirements.* Applications requesting approval for partitioning must include a certification by each party stating that one or both parties will satisfy the construction requirement set forth in § 101.1413. Failure by a party to meet its respective construction requirement will result in the automatic cancellation of its license without further Commission action.
+[69 FR 31746, June 7, 2004, as amended at 82 FR 41549, Sept. 1, 2017]

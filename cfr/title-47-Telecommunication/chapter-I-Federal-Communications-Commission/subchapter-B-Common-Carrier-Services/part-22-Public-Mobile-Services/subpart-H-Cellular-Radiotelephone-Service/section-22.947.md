@@ -1,7 +1,5 @@
 ##### § 22.947 Discontinuance of service. #####
 
-Link to an amendment published at 82 FR 41547, Sept. 1, 2017.
-
 (a) *Termination of authorization.* (1) Except with respect to CMA672-A (*see* paragraph (a)(2) of this section), a licensee's Cellular Geographic Service Area (CGSA) authorization will automatically terminate, without specific Commission action, if the licensee permanently discontinues service. A new-system licensee is not subject to this provision until after expiration of the construction period specified in § 22.946.
 
 (2) The licensee's authorization for CMA672-A (Chambers, TX) will automatically terminate, without specific Commission action, if the licensee permanently discontinues service after meeting its interim construction requirement as specified in § 22.961(b)(1).
@@ -10,4 +8,4 @@ Link to an amendment published at 82 FR 41547, Sept. 1, 2017.
 
 (c) *Filing requirements.* A licensee that permanently discontinues service as defined in this section must notify the Commission of the discontinuance within 10 days by filing, via the ULS, FCC Form 601 requesting license cancellation. An authorization will automatically terminate, without specific Commission action, if service is permanently discontinued as defined in this section, even if a licensee fails to file the required form requesting license cancellation.
 
-[82 FR 17583, Apr. 12, 2017]Effective Date Note:At 82 FR 17583, Apr. 12, 2017, § 22.947 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[82 FR 17583, Apr. 12, 2017]Effective Date Note 1.:At 82 FR 17583, Apr. 12, 2017, § 22.947 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.Effective Date Note 2.:At 82 FR 41547, Sept. 1, 2017, § 22.947 was removed but will not become effective until approval has been given by the Office of Management and Budget.

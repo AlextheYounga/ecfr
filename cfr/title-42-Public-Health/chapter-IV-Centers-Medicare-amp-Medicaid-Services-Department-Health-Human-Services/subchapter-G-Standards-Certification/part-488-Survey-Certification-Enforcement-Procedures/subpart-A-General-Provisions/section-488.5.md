@@ -76,6 +76,8 @@
 
 (20) A statement acknowledging that, as a condition for CMS's approval of an accreditation program, the organization will agree to permit its surveyors to serve as witnesses in a legal proceeding if CMS takes an adverse action against a provider or supplier on the basis of the organization's accreditation survey findings, and will cooperate with CMS to make surveyors and other staff available when needed.
 
+(21) A statement acknowledging that the organization agrees to make all Medicare cited deficiencies, both standard and condition level, immediate jeopardy situations, and dates of correction, for final accreditation survey reports publicly available on the organization's Web site within 90 days after the survey report is made available to those facilities for the most recent 3 years, on an ongoing basis in a manner specified by CMS. This acknowledgement includes all initial, triennial, full, follow-up, focused, and complaint surveys.
+
 (b) *Additional information needed.* If CMS determines that additional information is necessary to make a determination for approval or denial of the organization's initial application or re-application for CMS's approval of an accreditation program, CMS will notify the organization and afford it an opportunity to provide the additional information.
 
 (c)(1) *Withdrawing an application.* An accrediting organization may withdraw its initial application for CMS's-approval of its accreditation program at any time before CMS publishes the final notice described in paragraph (e)(2) of this section.
@@ -102,4 +104,4 @@
 
 (ii) *Disapproval.* If CMS does not approve the accrediting organization's accreditation program, the final notice describes, except in the case of a skilled nursing facility accreditation program, how the organization fails to provide reasonable assurance. In the case of an application for a skilled nursing facility accreditation program, disapproval may be based on the program's failure to provide reasonable assurance, or on CMS's decision to exercise its discretion in accordance with section 1865(a)(1)(B) of the Act. The final notice specifies the effective date of the decision.
 
-[80 FR 29835, May 22, 2015, as amended at 82 FR 38516, Aug. 14, 2017]
+[80 FR 29835, May 22, 2015, as amended at 82 FR 38516, Aug. 14, 2017; 82 FR 46143, Oct. 4, 2017]

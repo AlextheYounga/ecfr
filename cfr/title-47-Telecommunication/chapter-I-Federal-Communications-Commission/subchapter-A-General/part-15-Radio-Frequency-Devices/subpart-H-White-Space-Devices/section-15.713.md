@@ -1,7 +1,5 @@
 ##### § 15.713 White space database. #####
 
-Link to an amendment published at 82 FR 41559, Sept. 1, 2017.
-
 (a) *Purpose.* The white space database serves the following functions:
 
 (1) To determine and provide to a white space device, upon request, the available channels at the white space device's location in the TV bands, the 600 MHz guard bands, the 600 MHz duplex gap, the 600 MHz service band, and channel 37. Available channels are determined based on the interference protection requirements in § 15.712. A database must provide fixed and Mode II personal portable white space devices with channel availability information that includes scheduled changes in channel availability over the course of the 48 hour period beginning at the time the white space devices make a re-check contact. In making lists of available channels available to a white space device, the white space database shall ensure that all communications and interactions between the white space database and the white space device include adequate security measures such that unauthorized parties cannot access or alter the white space database or the list of available channels sent to white space devices or otherwise affect the database system or white space devices in performing their intended functions or in providing adequate interference protections to authorized services operating in the TV bands. In addition, a white space database must also verify that the FCC identifier (FCC ID) of a device seeking access to its services is valid; under this requirement the white space database must also verify that the FCC ID of a Mode I device provided by a fixed or Mode II device is valid. A list of devices with valid FCC IDs and the FCC IDs of those devices is to be obtained from the Commission's Equipment Authorization System.
@@ -200,23 +198,7 @@ Link to an amendment published at 82 FR 41559, Sept. 1, 2017.
 
 (viii) The stations call sign.
 
-(9) Unlicensed wireless microphones at venues of events and productions/shows that use large numbers of wireless microphones that cannot be accommodated in the two reserved channels and other channels that are not available for use by white space devices at that location. Prior to June 23, 2017, but no later than release of the Channel Reassignment Public Notice upon completion of the broadcast television spectrum incentive auction, as defined in § 73.3700(a) of this chapter, sites of large events and productions/shows with significant unlicensed wireless microphone use at well-defined times and locations may be registered in the database. Entities responsible for eligible event venues registering their site with a TV bands data base are required to first make use of the two reserved channels and other channels that are not available for use by white space devices at that location. As a benchmark, at least 6-8 wireless microphones should be operating in each channel used at such venues (both licensed and unlicensed wireless microphones used at the event may be counted to comply with this benchmark). Multiple registrations that specify more than one point in the facility may be entered for very large sites. Sites of eligible event venues using unlicensed wireless microphones must be registered with the Commission at least 30 days in advance and the Commission will provide this information to the data base managers. Parties responsible for eligible event venues filing registration requests must certify that they are making use of all TV channels not available to white space devices and on which wireless microphones can practicably be used, including channels 7-51 (except channel 37). The Commission will make requests for registration of sites that use unlicensed wireless microphones public and will provide an opportunity for public comment or objections. Registrations will be valid for one year, after which they may be renewed. The Commission will take actions against parties that file inaccurate or incomplete information, such as denial of registration in the database, removal of information from the database pursuant to paragraph (i) of this section, or other sanctions as appropriate to ensure compliance with the rules. Registrations must include the following information:
-
-(i) Name of the individual or business that owns the unlicensed wireless microphones;
-
-(ii) An address for the contact person;
-
-(iii) An email address for the contact person (optional);
-
-(iv) A phone number for the contact person;
-
-(v) Coordinates where the device(s) are used (latitude and longitude in NAD 83, accurate to ±50 m);
-
-(vi) Channels used by the wireless microphones operated at the site and the number of wireless microphones used in each channel. As a benchmark, least 6-8 wireless microphones must be used in each channel. Registration requests that do not meet this criteria will not be registered in the TV bands data bases;
-
-(vii) Specific months, weeks, days of the week and times when the device(s) are used (on dates when microphones are not used the site will not be protected); and
-
-(viii) The name of the venue.
+(9) [Reserved]
 
 (10) 600 MHz service in areas where the part 27 600 MHz band licensee has commenced operations, as defined in § 27.4 of this chapter:
 
@@ -260,4 +242,4 @@ Link to an amendment published at 82 FR 41559, Sept. 1, 2017.
 
 (3) A white space database must not provide lists of available channels to uncertified white space devices for purposes of operation (it is acceptable for a white space database to distribute lists of available channels by means other than contact with white space devices to provide list of channels for operation). To implement this provision, a white space database administrator shall obtain a list of certified white space devices from the FCC Equipment Authorization System.
 
-[80 FR 73070, Nov. 23, 2015, as amended at 81 FR 4974, Jan. 29, 2016]Effective Date Note: At 81 FR 4974, Jan. 29, 2016, § 15.713(b)(2)(iv) and (j)(10) introductory text were revised. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[80 FR 73070, Nov. 23, 2015, as amended at 81 FR 4974, Jan. 29, 2016; 82 FR 41559, Sept. 1, 2017]Effective Date Note: At 81 FR 4974, Jan. 29, 2016, § 15.713(b)(2)(iv) and (j)(10) introductory text were revised. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

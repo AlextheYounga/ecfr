@@ -1,10 +1,8 @@
 ##### § 15.711 Interference avoidance methods. #####
 
-Link to an amendment published at 82 FR 41559, Sept. 1, 2017.
-
 Except as provided in § 15.717 of this part, channel availability for a white space device is determined based on the geo-location and database access method described in paragraphs (a) through (e) of this section.
 
-(a) *Geo-location required.* White space devices shall rely on a geo-location capability and database access mechanism to protect the following authorized service in accordance with the interference protection requirements of § 15.712: Digital television stations, digital and analog Class A, low power, translator and booster stations; translator receive operations; fixed broadcast auxiliary service links; private land mobile service/commercial radio service (PLMRS/CMRS) operations; offshore radiotelephone service; low power auxiliary services authorized pursuant to §§ 74.801 through 74.882 of this chapter, including licensed wireless microphones; MVPD receive sites; wireless medical telemetry service (WMTS); radio astronomy service (RAS); 600 MHz service band licensees where they have commenced operations, as defined in § 27.4 of this chapter; and unlicensed wireless microphones used by venues of large events and productions/shows as provided under § 15.713(j)(9). In addition, protection shall be provided in border areas near Canada and Mexico in accordance with § 15.712(g).
+(a) *Geolocation required.* White space devices shall rely on a geolocation capability and database access mechanism to protect the following authorized service in accordance with the interference protection requirements of § 15.712: Digital television stations, digital and analog Class A, low power, translator and booster stations; translator receive operations; fixed broadcast auxiliary service links; private land mobile service/commercial radio service (PLMRS/CMRS) operations; offshore radiotelephone service; low power auxiliary services authorized pursuant to §§ 74.801 through 74.882 of this chapter, including licensed wireless microphones; MVPD receive sites; wireless medical telemetry service (WMTS); radio astronomy service (RAS); and 600 MHz service band licensees where they have commenced operations, as defined in § 27.4 of this chapter. In addition, protection shall be provided in border areas near Canada and Mexico in accordance with § 15.712(g).
 
 (b) *Geo-location requirement* - (1) *Accuracy.* Fixed white space devices that incorporate a geo-location capability and Mode II devices shall determine their location and their geo-location uncertainty (in meters), with a confidence level of 95%.
 
@@ -64,4 +62,4 @@ Except as provided in § 15.717 of this part, channel availability for a white s
 
 (4) Applications for certification of white space devices shall include a high level operational description of the technologies and measures that are incorporated in the device to comply with the security requirements of this section. In addition, applications for certification of fixed and Mode II white space devices shall identify at least one of the white space databases operated by a designated white space database administrator that the device will access for channel availability and affirm that the device will conform to the communications security methods used by that database.
 
-[80 FR 73070, Nov. 23, 2015, as amended at 81 FR 4974, Jan. 29, 2016]
+[80 FR 73070, Nov. 23, 2015, as amended at 81 FR 4974, Jan. 29, 2016; 82 FR 41559, Sept. 1, 2017]

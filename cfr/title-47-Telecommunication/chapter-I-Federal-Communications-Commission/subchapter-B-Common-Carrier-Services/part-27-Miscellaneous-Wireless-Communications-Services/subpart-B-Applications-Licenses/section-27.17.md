@@ -1,7 +1,5 @@
 ##### § 27.17 Discontinuance of service in the 600 MHz band and the 1695-1710 MHz, 1755-1780 MHz, 1915-1920 MHz, 1995-2000 MHz, 2000-2020 MHz, 2155-2180 MHz, and 2180-2200 MHz bands. #####
 
-Link to an amendment published at 82 FR 41548, Sept. 1, 2017.
-
 (a) *Termination of authorization.* A 600 MHz band authorization and an AWS authorization in the 1695-1710 MHz, 1755-1780 MHz, 1915-1920 MHz, 1995-2000 MHz, 2000-2020 MHz, 2155-2180 MHz, and 2180-2200 MHz bands will automatically terminate, without specific Commission action, if the licensee permanently discontinues service either during the initial license term or during any subsequent license term, as follows:
 
 (1) After the interim buildout deadline as specified in § 27.14(r), (s), or (t) as applicable (where the licensee meets the Interim Buildout Requirement), or after the accelerated Final Buildout Requirement (where the licensee failed to meet the Interim Buildout Requirement).
@@ -12,4 +10,4 @@ Link to an amendment published at 82 FR 41548, Sept. 1, 2017.
 
 (c) *Filing requirements.* A licensee that holds a 600 MHz band authorization or an AWS authorization in the 1695-1710 MHz, 1755-1780 MHz, 1915-1920 MHz, 1995-2000 MHz, 2000-2020 MHz, 2155-2180 MHz, and 2180-2200 MHz bands, that permanently discontinues service as defined in this section must notify the Commission of the discontinuance within 10 days by filing FCC Form 601 or 605 requesting license cancellation. An authorization will automatically terminate, without specific Commission action, if service is permanently discontinued as defined in this section, even if a licensee fails to file the required form requesting license cancellation.
 
-[79 FR 32412, June 4, 2014, as amended at 79 FR 48538, Aug. 15, 2014]
+[79 FR 32412, June 4, 2014, as amended at 79 FR 48538, Aug. 15, 2014]Effective Date Note:At 82 FR 41548, Sept. 1, 2017, § 27.17 was removed but will not be effective until approval is given by the Office of Management and Budget.

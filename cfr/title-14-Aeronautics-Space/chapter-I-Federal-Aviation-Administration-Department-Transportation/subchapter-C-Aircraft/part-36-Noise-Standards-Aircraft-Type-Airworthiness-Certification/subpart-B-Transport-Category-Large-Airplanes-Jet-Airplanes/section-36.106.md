@@ -1,0 +1,5 @@
+##### § 36.106 Flight Manual statement of Chapter 14 noise level equivalency. #####
+
+For each airplane that meets the requirements for Stage 5 certification, the Airplane Flight Manual or operations manual must include the following statement: “The following noise levels comply with part 36, appendix B, Stage 5 maximum noise level requirements and were obtained by analysis of approved data from noise tests conducted under the provisions of part 36, Amendment [insert part 36 amendment number to which the airplane was certificated]. The noise measurement and evaluation procedures used to obtain these noise levels are considered by the FAA to be equivalent to the Chapter 14 noise levels required by the International Civil Aviation Organization (ICAO) in Annex 16, Volume 1, Aircraft Noise, Seventh Edition, July 2014, Amendment 11-B, applicable January 1, 2015.”
+
+[FAA Doc. No. FAA-2015-3782, Amdt. No. 36-31, 82 FR 46129, Oct. 4, 2017]

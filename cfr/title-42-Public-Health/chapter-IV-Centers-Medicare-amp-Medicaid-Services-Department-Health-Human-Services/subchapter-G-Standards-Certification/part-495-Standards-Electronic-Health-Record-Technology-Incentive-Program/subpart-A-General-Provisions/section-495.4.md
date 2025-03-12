@@ -410,4 +410,4 @@ In this part, unless otherwise indicated -
 
 *Qualified EHR* has the same definition as this term is defined at 45 CFR 170.102.
 
-[75 FR 44565, July 28, 2010, as amended at 77 FR 54148, Sept. 4, 2012; 78 FR 75200, Dec. 10, 2013; 80 FR 62940, Oct. 16, 2015; 80 FR 71386, Nov. 16, 2015; 81 FR 34909, June 1, 2016; 81 FR 77555, Nov. 4, 2016; 81 FR 79882, Nov. 14, 2016; 82 FR 38516, Aug. 14, 2017]
+[75 FR 44565, July 28, 2010, as amended at 77 FR 54148, Sept. 4, 2012; 78 FR 75200, Dec. 10, 2013; 80 FR 62940, Oct. 16, 2015; 80 FR 71386, Nov. 16, 2015; 81 FR 34909, June 1, 2016; 81 FR 77555, Nov. 4, 2016; 81 FR 79882, Nov. 14, 2016; 82 FR 38516, Aug. 14, 2017; 82 FR 46143, Oct. 4, 2017]
