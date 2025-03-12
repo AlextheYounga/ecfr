@@ -1,7 +1,5 @@
 ##### § 61.113 Private pilot privileges and limitations: Pilot in command. #####
 
-Link to an amendment published at 82 FR 3165, Jan. 11, 2017.
-
 (a) Except as provided in paragraphs (b) through (h) of this section, no person who holds a private pilot certificate may act as pilot in command of an aircraft that is carrying passengers or property for compensation or hire; nor may that person, for compensation or hire, act as pilot in command of an aircraft.
 
 (b) A private pilot may, for compensation or hire, act as pilot in command of an aircraft in connection with any business or employment if:
@@ -32,4 +30,22 @@ Link to an amendment published at 82 FR 3165, Jan. 11, 2017.
 
 (3) The person is familiar with the processes and procedures applicable to the conduct of production flight testing, to include operations conducted under a special flight permit and any associated operating limitations.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997, as amended by Amdt. 61-110, 69 FR 44869, July 27, 2004; Amdt. 61-115, 72 FR 6910, Feb. 13, 2007; Amdt. 61-125, 75 FR 5220, Feb. 1, 2010]
+(i) A private pilot may act as pilot in command of an aircraft without holding a medical certificate issued under part 67 of this chapter provided the pilot holds a valid U.S. driver's license, meets the requirements of § 61.23(c)(3), and complies with this section and all of the following conditions and limitations:
+
+(1) The aircraft is authorized to carry not more than 6 occupants, has a maximum takeoff weight of not more than 6,000 pounds, and is operated with no more than five passengers on board; and
+
+(2) The flight, including each portion of the flight, is not carried out -
+
+(i) At an altitude that is more than 18,000 feet above mean sea level;
+
+(ii) Outside the United States unless authorized by the country in which the flight is conducted; or
+
+(iii) At an indicated airspeed exceeding 250 knots; and
+
+(3) The pilot has available in his or her logbook -
+
+(i) The completed medical examination checklist required under § 68.7 of this chapter; and
+
+(ii) The certificate of course completion required under § 61.23(c)(3).
+
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997, as amended by Amdt. 61-110, 69 FR 44869, July 27, 2004; Amdt. 61-115, 72 FR 6910, Feb. 13, 2007; Amdt. 61-125, 75 FR 5220, Feb. 1, 2010; Docket FAA-2016-9157, Amdt. 61-140, 82 FR 3165, Jan. 11, 2017]

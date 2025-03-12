@@ -1,7 +1,5 @@
 ##### § 61.3 Requirement for certificates, ratings, and authorizations. #####
 
-Link to an amendment published at 82 FR 3164, Jan. 11, 2017.
-
 (a) *Required pilot certificate for operating a civil aircraft of the United States.* No person may serve as a required pilot flight crewmember of a civil aircraft of the United States, unless that person:
 
 (1) Has in the person's physical possession or readily accessible in the aircraft when exercising the privileges of that pilot certificate or authorization -
@@ -58,15 +56,19 @@ Link to an amendment published at 82 FR 3164, Jan. 11, 2017.
 
 (vii) Is holding a pilot certificate or a flight instructor certificate with a glider category rating, and is piloting or providing training in a glider, as appropriate;
 
-(viii) Except as provided in paragraph (c)(2)(vii) of this section, is exercising the privileges of a flight instructor certificate, provided the person is not acting as pilot in command or as a required pilot flight crewmember;
+(viii) Is exercising the privileges of a flight instructor certificate, provided the person is not acting as pilot in command or as a required pilot flight crewmember;
 
 (ix) Is exercising the privileges of a ground instructor certificate;
 
-(x) Is operating an aircraft within a foreign country using a pilot license issued by that country and possesses evidence of current medical qualification for that license; or
+(x) Is operating an aircraft within a foreign country using a pilot license issued by that country and possesses evidence of current medical qualification for that license;
 
-(xi) Is operating an aircraft with a U.S. pilot certificate, issued on the basis of a foreign pilot license, issued under § 61.75, and holds a medical certificate issued by the foreign country that issued the foreign pilot license, which is in that person's physical possession or readily accessible in the aircraft when exercising the privileges of that airman certificate.
+(xi) Is operating an aircraft with a U.S. pilot certificate, issued on the basis of a foreign pilot license, issued under § 61.75, and holds a medical certificate issued by the foreign country that issued the foreign pilot license, which is in that person's physical possession or readily accessible in the aircraft when exercising the privileges of that airman certificate;
 
-(xii) Is a pilot of the U.S. Armed Forces, has an up-to-date U.S. military medical examination, and holds military pilot flight status.
+(xii) Is a pilot of the U.S. Armed Forces, has an up-to-date U.S. military medical examination, and holds military pilot flight status;
+
+(xiii) Is exercising the privileges of a student, recreational or private pilot certificate for operations conducted under the conditions and limitations set forth in § 61.113(i) and holds a U.S. driver's license; or
+
+(xiv) Is exercising the privileges of a flight instructor certificate and acting as pilot in command for operations conducted under the conditions and limitations set forth in § 61.113(i) and holds a U.S. driver's license.
 
 (d) *Flight instructor certificate.* (1) A person who holds a flight instructor certificate issued under this part must have that certificate, or other documentation acceptable to the Administrator, in that person's physical possession or readily accessible in the aircraft when exercising the privileges of that flight instructor certificate.
 
@@ -184,7 +186,7 @@ Link to an amendment published at 82 FR 3164, Jan. 11, 2017.
 
 (k) *Special purpose pilot authorization.* Any person that is required to hold a special purpose pilot authorization, issued in accordance with § 61.77 of this part, must have that authorization and the person's foreign pilot license in that person's physical possession or have it readily accessible in the aircraft when exercising the privileges of that authorization.
 
-(l) *Inspection of certificate.* Each person who holds an airman certificate, medical certificate, authorization, or license required by this part must present it and their photo identification as described in paragraph (a)(2) of this section for inspection upon a request from:
+(l) *Inspection of certificate.* Each person who holds an airman certificate, medical certificate, documents establishing alternative medical qualification under part 68 of this chapter, authorization, or license required by this part must present it and their photo identification as described in paragraph (a)(2) of this section for inspection upon a request from:
 
 (1) The Administrator;
 
@@ -194,4 +196,4 @@ Link to an amendment published at 82 FR 3164, Jan. 11, 2017.
 
 (4) An authorized representative of the Transportation Security Administration.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40894, July 30, 1997; Amdt. 61-111, 67 FR 65861, Oct. 28, 2002; Amdt. 61-110, 69 FR 44864, July 27, 2004; Amdt. 61-123, 74 FR 34234, July 15, 2009; Amdt. 61-124, 74 FR 42546, Aug. 21, 2009; Amdt. 61-124A, 74 FR 53644, Oct. 20, 2009; Amdt. 61-131, 78 FR 56828, Sept. 16, 2013; Amdt. 61-134, 80 FR 33400, June 12, 2015; Docket FAA-2010-1127, Amdt. 61-135, 81 FR 1306, Jan. 12, 2016]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40894, July 30, 1997; Amdt. 61-111, 67 FR 65861, Oct. 28, 2002; Amdt. 61-110, 69 FR 44864, July 27, 2004; Amdt. 61-123, 74 FR 34234, July 15, 2009; Amdt. 61-124, 74 FR 42546, Aug. 21, 2009; Amdt. 61-124A, 74 FR 53644, Oct. 20, 2009; Amdt. 61-131, 78 FR 56828, Sept. 16, 2013; Amdt. 61-134, 80 FR 33400, June 12, 2015; Docket FAA-2010-1127, Amdt. 61-135, 81 FR 1306, Jan. 12, 2016; Docket FAA-2016-9157, Amdt. 61-140, 82 FR 3164, Jan. 11, 2017]

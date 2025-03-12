@@ -1,14 +1,12 @@
 ##### § 61.101 Recreational pilot privileges and limitations. #####
 
-Link to an amendment published at 82 FR 3165, Jan. 11, 2017.
-
 (a) A person who holds a recreational pilot certificate may:
 
 (1) Carry no more than one passenger; and
 
 (2) Not pay less than the pro rata share of the operating expenses of a flight with a passenger, provided the expenses involve only fuel, oil, airport expenses, or aircraft rental fees.
 
-(b) A person who holds a recreational pilot certificate may act as pilot in command of an aircraft on a flight within 50 nautical miles from the departure airport, provided that person has -
+(b) A person who holds a recreational pilot certificate may act as pilot in command of an aircraft on a flight within 50 nautical miles from the departure airport, provided that person has—
 
 (1) Received ground and flight training for takeoff, departure, arrival, and landing procedures at the departure airport;
 
@@ -18,7 +16,7 @@ Link to an amendment published at 82 FR 3165, Jan. 11, 2017.
 
 (4) Received from an authorized instructor a logbook endorsement, which is carried in the person's possession in the aircraft, that permits flight within 50 nautical miles from the departure airport.
 
-(c) A person who holds a recreational pilot certificate may act as pilot in command of an aircraft on a flight that exceeds 50 nautical miles from the departure airport, provided that person has -
+(c) A person who holds a recreational pilot certificate may act as pilot in command of an aircraft on a flight that exceeds 50 nautical miles from the departure airport, provided that person has—
 
 (1) Received ground and flight training from an authorized instructor on the cross-country training requirements of subpart E of this part that apply to the aircraft rating held;
 
@@ -26,7 +24,7 @@ Link to an amendment published at 82 FR 3165, Jan. 11, 2017.
 
 (3) Received from an authorized instructor a logbook endorsement, which is carried on the person's possession in the aircraft, that certifies the person has received and been found proficient in the cross-country training requirements of subpart E of this part that apply to the aircraft rating held.
 
-(d) A person who holds a recreational pilot certificate may act as pilot in command of an aircraft in Class B, C, and D airspace, at an airport located in Class B, C, or D airspace, and to, from, through, or at an airport having an operational control tower, provided that person has -
+(d) A person who holds a recreational pilot certificate may act as pilot in command of an aircraft in Class B, C, and D airspace, at an airport located in Class B, C, or D airspace, and to, from, through, or at an airport having an operational control tower, provided that person has—
 
 (1) Received and logged ground and flight training from an authorized instructor on the following aeronautical knowledge areas and areas of operation, as appropriate to the aircraft rating held:
 
@@ -40,9 +38,9 @@ Link to an amendment published at 82 FR 3165, Jan. 11, 2017.
 
 (3) Received from an authorized instructor a logbook endorsement, which is carried on the person's possession or readily accessible in the aircraft, that certifies the person has received and been found proficient in those aeronautical knowledge areas and areas of operation specified in paragraph (d)(1) of this section.
 
-(e) Except as provided in paragraphs (d) and (i) of this section, a recreational pilot may not act as pilot in command of an aircraft -
+(e) Except as provided in paragraphs (d) and (i) of this section, a recreational pilot may not act as pilot in command of an aircraft—
 
-(1) That is certificated -
+(1) That is certificated—
 
 (i) For more than four occupants;
 
@@ -104,4 +102,6 @@ Link to an amendment published at 82 FR 3165, Jan. 11, 2017.
 
 (3) Has found that the recreational pilot is competent to make solo flights in accordance with the logbook endorsement.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997, as amended by Amdt. 61-110, 69 FR 44868, July 27, 2004; Amdt. 61-124, 74 FR 42558, Aug. 21, 2009]
+(k) A recreational pilot may act as pilot in command of an aircraft without holding a medical certificate issued under part 67 of this chapter provided the pilot holds a valid U.S. driver's license, meets the requirements of § 61.23(c)(3), and the operation is conducted consistent with this section and the conditions of § 61.113(i). Where the requirements of this section conflict with § 61.113(i), a recreational pilot must comply with this section.
+
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997, as amended by Amdt. 61-110, 69 FR 44868, July 27, 2004; Amdt. 61-124, 74 FR 42558, Aug. 21, 2009; Docket FAA-2016-9157, Amdt. 61-140, 82 FR 3165, Jan. 11, 2017]

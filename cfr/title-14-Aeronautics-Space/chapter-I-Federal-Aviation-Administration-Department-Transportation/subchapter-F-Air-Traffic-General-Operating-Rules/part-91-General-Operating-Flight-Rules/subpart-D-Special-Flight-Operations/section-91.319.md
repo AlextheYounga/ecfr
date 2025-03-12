@@ -1,14 +1,12 @@
 ##### § 91.319 Aircraft having experimental certificates: Operating limitations. #####
 
-Link to an amendment published at 82 FR 3167, Jan. 11, 2017.
-
-(a) No person may operate an aircraft that has an experimental certificate -
+(a) No person may operate an aircraft that has an experimental certificate—
 
 (1) For other than the purpose for which the certificate was issued; or
 
 (2) Carrying persons or property for compensation or hire.
 
-(b) No person may operate an aircraft that has an experimental certificate outside of an area assigned by the Administrator until it is shown that -
+(b) No person may operate an aircraft that has an experimental certificate outside of an area assigned by the Administrator until it is shown that—
 
 (1) The aircraft is controllable throughout its normal range of speeds and throughout all the maneuvers to be executed; and
 
@@ -16,7 +14,7 @@ Link to an amendment published at 82 FR 3167, Jan. 11, 2017.
 
 (c) Unless otherwise authorized by the Administrator in special operating limitations, no person may operate an aircraft that has an experimental certificate over a densely populated area or in a congested airway. The Administrator may issue special operating limitations for particular aircraft to permit takeoffs and landings to be conducted over a densely populated area or in a congested airway, in accordance with terms and conditions specified in the authorization in the interest of safety in air commerce.
 
-(d) Each person operating an aircraft that has an experimental certificate shall -
+(d) Each person operating an aircraft that has an experimental certificate shall—
 
 (1) Advise each person carried of the experimental nature of the aircraft;
 
@@ -24,7 +22,7 @@ Link to an amendment published at 82 FR 3167, Jan. 11, 2017.
 
 (3) Notify the control tower of the experimental nature of the aircraft when operating the aircraft into or out of airports with operating control towers.
 
-(e) No person may operate an aircraft that is issued an experimental certificate under § 21.191(i) of this chapter for compensation or hire, except a person may operate an aircraft issued an experimental certificate under § 21.191(i)(1) for compensation or hire to -
+(e) No person may operate an aircraft that is issued an experimental certificate under § 21.191(i) of this chapter for compensation or hire, except a person may operate an aircraft issued an experimental certificate under § 21.191(i)(1) for compensation or hire to—
 
 (1) Tow a glider that is a light-sport aircraft or unpowered ultralight vehicle in accordance with § 91.309; or
 
@@ -32,7 +30,7 @@ Link to an amendment published at 82 FR 3167, Jan. 11, 2017.
 
 (f) No person may lease an aircraft that is issued an experimental certificate under § 21.191(i) of this chapter, except in accordance with paragraph (e)(1) of this section.
 
-(g) No person may operate an aircraft issued an experimental certificate under § 21.191(i)(1) of this chapter to tow a glider that is a light-sport aircraft or unpowered ultralight vehicle for compensation or hire or to conduct flight training for compensation or hire in an aircraft which that persons provides unless within the preceding 100 hours of time in service the aircraft has -
+(g) No person may operate an aircraft issued an experimental certificate under § 21.191(i)(1) of this chapter to tow a glider that is a light-sport aircraft or unpowered ultralight vehicle for compensation or hire or to conduct flight training for compensation or hire in an aircraft which that persons provides unless within the preceding 100 hours of time in service the aircraft has—
 
 (1) Been inspected by a certificated repairman (light-sport aircraft) with a maintenance rating, an appropriately rated mechanic, or an appropriately rated repair station in accordance with inspection procedures developed by the aircraft manufacturer or a person acceptable to the FAA; or
 
@@ -46,4 +44,6 @@ Link to an amendment published at 82 FR 3167, Jan. 11, 2017.
 
 (i) The Administrator may prescribe additional limitations that the Administrator considers necessary, including limitations on the persons that may be carried in the aircraft.
 
-(Approved by the Office of Management and Budget under control number 2120-0005)[Doc. No. 18334, 54 FR 34308, Aug. 18, 1989, as amended by Amdt. 91-282, 69 FR 44881, July 27, 2004]
+(j) No person may operate an aircraft that has an experimental certificate under § 61.113(i) of this chapter unless the aircraft is carrying not more than 6 occupants.
+
+(Approved by the Office of Management and Budget under control number 2120-0005)[Doc. No. 18334, 54 FR 34308, Aug. 18, 1989, as amended by Amdt. 91-282, 69 FR 44881, July 27, 2004; Docket FAA-2016-9157, Amdt. 91-347, 82 FR 3167, Jan. 11, 2017]

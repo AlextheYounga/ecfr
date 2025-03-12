@@ -1,7 +1,5 @@
 ##### § 61.89 General limitations. #####
 
-Link to an amendment published at 82 FR 3165, Jan. 11, 2017.
-
 (a) A student pilot may not act as pilot in command of an aircraft:
 
 (1) That is carrying a passenger;
@@ -22,7 +20,7 @@ Link to an amendment published at 82 FR 3165, Jan. 11, 2017.
 
 (b) A student pilot may not act as a required pilot flight crewmember on any aircraft for which more than one pilot is required by the type certificate of the aircraft or regulations under which the flight is conducted, except when receiving flight training from an authorized instructor on board an airship, and no person other than a required flight crewmember is carried on the aircraft.
 
-(c) A student pilot seeking a sport pilot certificate must comply with the provisions of paragraphs (a) and (b) of this section and may not act as pilot in command -
+(c) A student pilot seeking a sport pilot certificate must comply with the provisions of paragraphs (a) and (b) of this section and may not act as pilot in command—
 
 (1) Of an aircraft other than a light-sport aircraft;
 
@@ -34,4 +32,6 @@ Link to an amendment published at 82 FR 3165, Jan. 11, 2017.
 
 (5) Of a light-sport aircraft without having received the applicable ground training, flight training, and instructor endorsements specified in § 61.327 (a) and (b).
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997, as amended by Amdt. 61-110, 69 FR 44867, July 27, 2004; Amdt. 61-125, 75 FR 5220, Feb. 1, 2010]
+(d) The holder of a student pilot certificate may act as pilot in command of an aircraft without holding a medical certificate issued under part 67 of this chapter provided the student pilot holds a valid U.S. driver's license, meets the requirements of § 61.23(c)(3), and the operation is conducted consistent with the requirements of paragraphs (a) and (b) of this section and the conditions of § 61.113(i). Where the requirements of paragraphs (a) and (b) of this section conflict with § 61.113(i), a student pilot must comply with paragraphs (a) and (b) of this section.
+
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997, as amended by Amdt. 61-110, 69 FR 44867, July 27, 2004; Amdt. 61-125, 75 FR 5220, Feb. 1, 2010; Docket FAA-2016-9157, Amdt. 61-140, 82 FR 3165, Jan. 11, 2017]

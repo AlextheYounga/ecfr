@@ -1,0 +1,3 @@
+##### § 217.232 Permissible methods of taking. #####
+
+Under LOAs issued pursuant to § 216.106 of this chapter and § 217.236, the Holder of the LOA (hereinafter “Corps”) may incidentally, but not intentionally, take marine mammals within the area described in § 217.230(b), provided the activity is in compliance with all terms, conditions, and requirements of the regulations in this subpart and the appropriate LOA.
