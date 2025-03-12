@@ -10,7 +10,7 @@
 
 (ii) Identifiable and documentable; and
 
-(iii) Separate and distinct from such contributions of any other partner, stockholder or member of the farming operation;
+(iii) Separate and distinct from the contributions of any other partner, stockholder or member of the farming operation;
 
 (3) The collective contribution of the partners, stockholders and members is significant and commensurate;
 
@@ -26,15 +26,9 @@
 
 (2) The partners, stockholders, or members are collectively receiving, directly or indirectly, total payments equal to or less than one payment limitation.
 
-(d) For a farming operation conducted by a legal entity in which the capital, land, or equipment is contributed by the legal entity, such capital, land, or equipment:
+(d) For a farming operation conducted by a legal entity in which the capital, land, or equipment is contributed by the legal entity, the capital, land, or equipment:
 
-(1) To meet the requirements of paragraph (a)(1) of this section, must be contributed directly by the legal entity and must not be acquired as a loan made to, guaranteed, co-signed, or secured by:
-
-(i) Any person, legal entity, or joint operation that has an interest in such farming operation, including the legal entity's members;
-
-(ii) Such legal entity by any person, legal entity, or other joint operation that has an interest in such farming operation; or
-
-(iii) Any person, legal entity, or joint operation in whose farming operation such legal entity has an interest, and
+(1) To meet the requirements of paragraph (a)(1) of this section, must be contributed directly by the legal entity and must not be acquired as a loan made to, guaranteed, co-signed, or secured by any person, legal entity, or joint operation that has an interest in the farming operation, as defined in this part; and
 
 (2) To meet the requirements of paragraphs (a)(4) and (a)(5) of this section, and if acquired as a result of a loan made to, guaranteed, co-signed, or secured by the persons, legal entities, or joint operations as defined, the loan must:
 
@@ -42,4 +36,4 @@
 
 (ii) Have a repayment schedule considered reasonable and customary for the area.
 
-[73 FR 79273, Dec. 29, 2008, as amended at 75 FR 900, Jan. 7, 2010]
+[73 FR 79273, Dec. 29, 2008, as amended at 75 FR 900, Jan. 7, 2010; 85 FR 52039, Aug. 24, 2020]

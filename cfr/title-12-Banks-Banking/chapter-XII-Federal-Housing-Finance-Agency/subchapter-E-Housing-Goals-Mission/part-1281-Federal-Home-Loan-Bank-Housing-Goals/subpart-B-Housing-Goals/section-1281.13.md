@@ -1,12 +1,10 @@
 ##### § 1281.13 Special counting requirements. #####
 
-Link to an amendment published at 85 FR 38052, June 25, 2020.Link to a correction published at 85 FR 44159, July 22, 2020.
-
 (a) *General.* FHFA shall determine whether a Bank shall receive full, partial, or no credit toward achievement of any of the housing goals for a transaction that otherwise qualifies under this part.
 
-(b) *Not counted.* The following transactions or activities shall not be counted for purposes of the housing goals and shall not be included in the numerator or the denominator in calculating a Bank's performance under the housing goals, even if the transaction or activity would otherwise be counted under paragraph (c) of this section:
+(b) *Not counted.* The following transactions or activities shall not be counted for purposes of the housing goals, meaning that in calculating the applicable percentage target level, they shall be excluded from both the numerator (*i.e.,* AMA mortgages acquired during the calendar year that are for very low-income families, low-income families, or families in low-income areas) and the denominator (*i.e.,* total AMA mortgages acquired during the calendar year), even if the transaction or activity would otherwise be counted under paragraph (c) of this section:
 
-(1) Purchases of non-conventional single-family mortgages;
+(1) Purchases of participation interests in AMA mortgages from another Bank, except as provided in paragraph (e) of this section;
 
 (2) Commitments to buy mortgages at a later date or time;
 
@@ -20,7 +18,7 @@ Link to an amendment published at 85 FR 38052, June 25, 2020.Link to a correctio
 
 (7) Single-family refinancing mortgages that result from conversion of balloon notes to fully amortizing notes, if a Bank already owns, or has an interest in, the balloon note at the time conversion occurs;
 
-(8) Purchases of subordinate lien mortgages (second mortgages);
+(8) Purchases of subordinate lien mortgages;
 
 (9) Purchases of mortgages that were previously counted by a Bank under any current or previous housing goal within the five years immediately preceding the current performance year;
 
@@ -36,8 +34,10 @@ Link to an amendment published at 85 FR 38052, June 25, 2020.Link to a correctio
 
 (3) *Purchase of refinancing mortgages.* The purchase of a refinancing mortgage by a Bank shall be treated as a mortgage purchase for purposes of the housing goals only if the refinancing is an arms-length transaction that is borrower-driven.
 
-(d) *HOEPA mortgages and mortgages with unacceptable terms or conditions.* The purchase by a Bank of HOEPA mortgages and mortgages with unacceptable terms or conditions, as defined in § 1281.1, shall be treated as mortgage purchases for purposes of the housing goals and shall be included in the denominator for each applicable housing goal, but such mortgages shall not be counted in the numerator for any housing goal.
+(4) *Non-conventional mortgages.* The purchase of a non-conventional single-family mortgage shall be treated as a mortgage purchase for purposes of the housing goals only if the mortgage was acquired from a community-based AMA user.
 
-(e) *FHFA review of transactions.* FHFA may determine whether and how any transaction or class of transactions shall be counted for purposes of the housing goals. FHFA will notify each Bank in writing of any determination regarding the treatment of any transaction or class of transactions under the housing goals.
+(d) *FHFA review of transactions.* FHFA may determine whether and how any transaction or class of transactions shall be counted for purposes of the housing goals. FHFA will notify each Bank in writing of any determination regarding the treatment of any transaction or class of transactions under the housing goals.
 
-Editorial Note:At 85 FR 38052, June 25, 2020, § 1281.13 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+(e) *Mortgage participation transactions.* Where two or more Banks acquire a participation interest in the same mortgage simultaneously, the mortgage will be counted on a *pro rata* basis for the prospective mortgage purchase housing goal for each Bank with a participation interest.
+
+[75 FR 81105, Dec. 27, 2010, as amended at 85 FR 38052, June 25, 2020]

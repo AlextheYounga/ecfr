@@ -10,15 +10,9 @@ A trust will be considered to be actively engaged in farming with respect to a f
 
 (d) The trust makes contributions to the farming operation that are at risk for a loss, with the level of risk being commensurate with the legal entity's claimed share of the farming operation;
 
-(e) For a farming operation conducted by a trust in which the capital, land, or equipment is contributed by the trust, such capital, land, or equipment:
+(e) For a farming operation conducted by a trust in which the capital, land, or equipment is contributed by the trust, the capital, land, or equipment:
 
-(1) To meet the requirements of paragraph (a) of this section, must be contributed directly by the trust and must not be acquired as a loan made to, guaranteed, co-signed, or secured by:
-
-(i) Any person, legal entity, or joint operation that has an interest in such farming operation, including the trust's income beneficiaries;
-
-(ii) Such joint operation by any person, legal entity, or other joint operation that has an interest in such farming operation; or
-
-(iii) Any person, legal entity, or joint operation in whose farming operation such trust has an interest, and
+(1) To meet the requirements of paragraph (a) of this section, must be contributed directly by the trust and must not be acquired as a loan made to, guaranteed, co-signed, or secured by any person, legal entity, or joint operation that has an interest in the farming operation, as defined in this part; and
 
 (2) To meet the requirements of paragraphs (c) and (d) of this section and if land, capital or equipment is acquired as a result of a loan made to, guaranteed, co-signed, or secured by the persons, legal entities, or joint operations as defined, the loan must:
 
@@ -30,4 +24,4 @@ A trust will be considered to be actively engaged in farming with respect to a f
 
 (g) The trust has provided a copy of the trust agreement to the county committee unless the trust is a revocable trust.
 
-[73 FR 79273, Dec. 29, 2008, as amended at 75 FR 900, Jan. 7, 2010]
+[73 FR 79273, Dec. 29, 2008, as amended at 75 FR 900, Jan. 7, 2010; 85 FR 52039, Aug. 24, 2020]

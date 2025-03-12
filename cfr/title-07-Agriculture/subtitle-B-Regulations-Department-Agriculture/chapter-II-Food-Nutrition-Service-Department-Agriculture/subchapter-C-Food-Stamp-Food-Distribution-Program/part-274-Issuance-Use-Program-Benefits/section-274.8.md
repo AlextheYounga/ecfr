@@ -1,5 +1,7 @@
 ##### § 274.8 Functional and technical EBT system requirements. #####
 
+Link to an amendment published at 85 FR 52033, Aug. 24, 2020.
+
 (a) *Functional requirements.* The State agency shall ensure that the EBT system is capable of performing the following functional requirements prior to implementation:
 
 (1) *Authorizing household benefits.* (i) Issuing and replacing EBT cards to eligible households;

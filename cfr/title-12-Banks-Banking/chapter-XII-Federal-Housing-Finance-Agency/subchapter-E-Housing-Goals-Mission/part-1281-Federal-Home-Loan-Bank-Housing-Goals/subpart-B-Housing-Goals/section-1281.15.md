@@ -1,8 +1,6 @@
 ##### § 1281.15 Housing plans. #####
 
-Link to an amendment published at 85 FR 38052, June 25, 2020.
-
-(a) *Housing plan requirement.* If the Director determines that a Bank has failed to meet any housing goal and that the achievement of the housing goal was feasible, the Director may require the Bank to submit a housing plan for approval by the Director.
+(a) *Housing plan requirement.* For any year after 2023, if the Director determines that a Bank has failed to meet any housing goal and that the achievement of the housing goal was feasible, the Director may require the Bank to submit a housing plan for approval by the Director.
 
 (b) *Nature of plan.* If the Director requires a housing plan, the housing plan shall:
 
@@ -10,9 +8,11 @@ Link to an amendment published at 85 FR 38052, June 25, 2020.
 
 (2) Be sufficiently specific to enable the Director to monitor compliance periodically;
 
-(3) Describe the specific actions that the Bank will take to achieve the housing goal for the next calendar year; and
+(3) Describe the specific actions that the Bank will take to achieve the housing goal for the next calendar year;
 
-(4) Address any additional matters relevant to the plan as required, in writing, by the Director.
+(4) Address any additional matters relevant to the housing plan as required, in writing, by the Director; and
+
+(5) Address any alternative target levels for which the Bank has submitted a request under § 1281.11(c)(1).
 
 (c) *Deadline for submission.* The Bank shall submit the housing plan to the Director within 45 days after issuance of a notice requiring the Bank to submit a housing plan. The Director may extend the deadline for submission of a plan, in writing and for a time certain, to the extent the Director determines an extension is necessary.
 
@@ -25,3 +25,5 @@ Link to an amendment published at 85 FR 38052, June 25, 2020.
 (e) *Resubmission.* If the Director disapproves an initial housing plan submitted by a Bank, the Bank shall submit an amended plan acceptable to the Director not later than 15 days after the Director's disapproval of the initial plan; the Director may extend the deadline if the Director determines an extension is in the public interest. If the amended plan is not acceptable to the Director, the Director may afford the Bank 15 days to submit a new plan.
 
 (f) *Enforcement of housing plan.* If the Director finds that a Bank has failed to meet any housing goal, and that the achievement of the housing goal was feasible, and has required the Bank to submit a housing plan under this section, the Director may issue a cease and desist order, or impose civil money penalties, if the Bank refuses to submit such a plan, fails to submit an acceptable plan, or fails to comply with the approved plan. In taking such action, the Director shall follow procedures consistent with those provided in 12 U.S.C. 4581 through 4588 with respect to actions to enforce the housing goals.
+
+[75 FR 81105, Dec. 27, 2010, as amended at 85 FR 38052, June 25, 2020]

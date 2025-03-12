@@ -4,6 +4,8 @@
 
 (b) An adult family member who elects to be considered actively engaged in farming under this section must:
 
-(1) Have a share of the profits or losses from the farming operation commensurate with such person's contributions to the operation and
+(1) Have a share of the profits or losses from the farming operation commensurate with the person's contributions to the operation and
 
-(2) Make contributions to the farming operation that are at risk for a loss, with the level of risk being commensurate with such person's claimed share of the farming operation.
+(2) Make contributions to the farming operation that are at risk for a loss, with the level of risk being commensurate with the person's claimed share of the farming operation.
+
+[73 FR 79273, Dec. 29, 2008, as amended at 85 FR 52039, Aug. 24, 2020]

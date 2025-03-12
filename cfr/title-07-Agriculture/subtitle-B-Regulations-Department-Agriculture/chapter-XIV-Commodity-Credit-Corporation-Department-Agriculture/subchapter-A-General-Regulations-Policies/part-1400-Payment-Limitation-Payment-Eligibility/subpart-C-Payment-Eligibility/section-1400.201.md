@@ -1,6 +1,6 @@
 ##### § 1400.201 General provisions for determining whether a person or legal entity is actively engaged in farming. #####
 
-(a) To be considered eligible to receive payments with respect to a particular farming operation, a person or legal entity must be actively engaged in farming with respect to such operation.
+(a) To be considered eligible to receive payments with respect to a particular farming operation, a person or legal entity must be actively engaged in farming with respect to the operation.
 
 (b) Actively engaged in farming means, except as otherwise provided in this part, that the person or legal entity:
 
@@ -28,6 +28,8 @@
 
 (2) The normal and customary farming practices of the area;
 
-(3) The total amount of labor and management necessary for such a farming operation in the area; and
+(3) The total amount of labor and management necessary for the farming operation in the area; and
 
 (4) Whether the person or legal entity receives compensation for the labor and management activities.
+
+[73 FR 79273, Dec. 29, 2008, as amended at 85 FR 52039, Aug. 24, 2020]

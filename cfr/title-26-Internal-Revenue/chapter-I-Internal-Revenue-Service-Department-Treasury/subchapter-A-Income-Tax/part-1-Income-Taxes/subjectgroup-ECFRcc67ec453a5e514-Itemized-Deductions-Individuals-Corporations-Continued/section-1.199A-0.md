@@ -1,7 +1,5 @@
 ##### § 1.199A-0 Table of contents. #####
 
-Link to an amendment published at 85 FR 38065, June 25, 2020.
-
 This section lists the section headings that appear in §§ 1.199A-1 through 1.199A-6.
 
 § 1.199A-1 Operational rules.
@@ -258,6 +256,18 @@ This section lists the section headings that appear in §§ 1.199A-1 through 1.1
 
 (iv) Previously disallowed losses
 
+(A) In general.
+
+(B) Partial allowance.
+
+(C) Attributes of disallowed loss determined in year loss is incurred.
+
+(*1*) In general.
+
+(*2*) Specified service trades or businesses.
+
+(D) Examples.
+
 (v) Net operating losses.
 
 (vi) Other deductions.
@@ -286,7 +296,41 @@ This section lists the section headings that appear in §§ 1.199A-1 through 1.1
 
 (ii) Special rules.
 
-(d) [Reserved]
+(d) Section 199A dividends paid by a regulated investment company.
+
+(1) In general.
+
+(2) Definition of section 199A dividend.
+
+(i) In general.
+
+(ii) Reduction in the case of excess reported amounts.
+
+(iii) Allocation of excess reported amount.
+
+(A) In general.
+
+(B) Special rule for noncalendar-year RICs.
+
+(3) Definitions.
+
+(i) Reported section 199A dividend amount.
+
+(ii) Excess reported amount.
+
+(iii) Aggregate reported amount.
+
+(iv) Post-December reported amount.
+
+(v) Qualified REIT dividend income.
+
+(4) Treatment of section 199A dividends by shareholders.
+
+(i) In general.
+
+(ii) Holding period.
+
+(5) Example.
 
 (e) Applicability date.
 
@@ -297,6 +341,10 @@ This section lists the section headings that appear in §§ 1.199A-1 through 1.1
 (i) Anti-abuse rules.
 
 (ii) Non-calendar year RPE.
+
+(iii) Previously disallowed losses.
+
+(iv) Section 199A dividends.
 
 § 1.199A-4 Aggregation.
 
@@ -478,11 +526,11 @@ This section lists the section headings that appear in §§ 1.199A-1 through 1.1
 
 (ii) Allocation among trust or estate and beneficiaries.
 
-(iii) [Reserved]
+(iii) Separate shares.
 
 (iv) Threshold amount.
 
-(v) [Reserved]
+(v) Charitable remainder trusts.
 
 (vi) Electing small business trusts.
 
@@ -500,4 +548,8 @@ This section lists the section headings that appear in §§ 1.199A-1 through 1.1
 
 (ii) Non-calendar year RPE.
 
-[T.D. 9847, 84 FR 2988, Feb. 8, 2019; T.D. 9847, 84 FR 15954, Apr. 17, 2019]Editorial Note:At 84 FR 15954, Apr. 17, 2019, § 1.199A-0 was amended be adding an entry for § 1.199A-2(b)(2)(iv), however, this paragraph already exists and the amendment could not be incorporated due to inaccurate amendatory instruction.
+(iii) Separate shares.
+
+(iv) Charitable remainder trusts.
+
+[T.D. 9847, 84 FR 2988, Feb. 8, 2019; T.D. 9847, 84 FR 15954, Apr. 17, 2019; T.D. 9899, 85 FR 38065, June 25, 2020]Editorial Note:At 84 FR 15954, Apr. 17, 2019, § 1.199A-0 was amended be adding an entry for § 1.199A-2(b)(2)(iv), however, this paragraph already exists and the amendment could not be incorporated due to inaccurate amendatory instruction.

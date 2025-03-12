@@ -1,7 +1,5 @@
 ##### § 173.319 Cryogenic liquids in tank cars. #####
 
-Link to an amendment published at 85 FR 45029, July 24, 2020.
-
 (a) *General requirements.* (1) A tank car containing a flammable cryogenic liquid may not be shipped unless it was loaded by, or with the consent of, the owner of the tank car.
 
 (2) The amount of flammable cryogenic liquid loaded into a tank car must be determined, either by direct measurement or by calculation based on weight, to verify that the tank has not been filled to a level in excess of the limits specified in paragraph (d)(2) of this section. The weight of any flammable cryogenic liquid loaded, except hydrogen, must be checked by use of scales after disconnecting the loading line.
@@ -30,21 +28,24 @@ Link to an amendment published at 85 FR 45029, July 24, 2020.
 
 (1) For purposes of this section, “filling density” is defined as the percent ratio of the weight of lading in the tank to the weight of water that the tank will hold at the design service temperature (one pound of water = 27.737 cubic inches at 60 °F., or one gallon of water = 231 cubic inches at 60 °F. and weighs 8.32828 pounds).
 
-(2) *Ethylene, and hydrogen (minimum 95 percent parahydrogen), cryogenic liquids* must be loaded and shipped in accordance with the following table:
+(2) *Ethylene, hydrogen (minimum 95 percent parahydrogen), and methane, cryogenic liquids* must be loaded and shipped in accordance with the following table:
 
-Pressure Control Valve Setting or Relief Valve Setting
+|                                               Maximum start-to-discharge pressure  <br/>(psig)                                               |Maximum permitted filling density  <br/>(percent by weight)|            |            |                 |             |
+|----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|------------|------------|-----------------|-------------|
+|                                                                   Ethylene                                                                   |                         Ethylene                          |  Ethylene  |  Hydrogen  |     Methane     |             |
+|                                                                      17                                                                      |                                                           |            |            |      6.60       |             |
+|                                                                      45                                                                      |                           52.8                            |            |            |                 |             |
+|                                                                      75                                                                      |                                                           |    51.1    |    51.1    |                 |    37.3.    |
+|                                               Maximum pressure when offered for transportation                                               |                          10 psig                          |  20 psig   |  20 psig   |                 |  15 psig.   |
+|                                                          Design service temperature                                                          |                       Minus 260 °F                        |Minus 260 °F|Minus 155 °F|  Minus 423 °F   |Minus 260 °F.|
+|                                            Specification (see § 180.507(b)(3) of this subchapter)                                            |                     113D60W, 113C60W                      |  113C120W  |  113D120W  |113A175W, 113A60W| 113C120W9.  |
+|                                  Note: For DOT 113 cryogenic tank cars, delimiters indicate the following:                                   |                                                           |            |            |                 |             |
+|                                                    A—authorized for minus 423 °F loading;                                                    |                                                           |            |            |                 |             |
+|                                                    C—authorized for minus 260 °F loading;                                                    |                                                           |            |            |                 |             |
+|                                                    D—authorized for minus 155 °F loading.                                                    |                                                           |            |            |                 |             |
+|The specification suffix “9” indicates the tank car is equipped with (minimum) 9/16 inch TC 128B normalized steel outer jacket and tank heads.|                                                           |            |            |                 |             |
 
-|   Maximum start-to-discharge pressure  <br/>(psig)   |Maximum permitted filling density  <br/>(percent by weight)|            |            |                  |
-|------------------------------------------------------|-----------------------------------------------------------|------------|------------|------------------|
-|                       Ethylene                       |                         Ethylene                          |  Ethylene  |  Hydrogen  |                  |
-|                          17                          |                                                           |            |            |      6.60.       |
-|                          45                          |                           52.8                            |            |            |                  |
-|                          75                          |                                                           |    51.1    |    51.1    |                  |
-|   Maximum pressure when offered for transportation   |                          10 psig                          |  20 psig   |  20 psig   |                  |
-|              Design service temperature              |                       Minus 260 °F                        |Minus 260 °F|Minus 155 °F|  Minus 423 °F.   |
-|Specification (see § 180.507(b)(3) of this subchapter)|                     113D60W, 113C60W                      |  113C120W  |  113D120W  |113A175W, 113A60W.|
-
-(e) *Special requirements for class DOT 113 tank cars* - (1) A class DOT-113 tank car need not be periodically pressure tested; however, each shipment must be monitored to determine the average daily pressure rise in the tank car. If the average daily pressure rise during any shipment exceeds 0.2 Bar (3 psig) per day, the tank must be tested for thermal integrity prior to any subsequent shipment.
+(e) *Special requirements for class DOT 113 tank cars.* (1) A class DOT-113 tank car need not be periodically pressure tested; however, each shipment must be monitored to determine the average daily pressure rise in the tank car. If the average daily pressure rise during any shipment exceeds 0.2 Bar (3 psig) per day, the tank must be tested for thermal integrity prior to any subsequent shipment.
 
 (2) *Thermal integrity test.* When required by paragraph (e)(1) of this section, either of the following thermal integrity tests may be used:
 
@@ -66,4 +67,4 @@ Pressure Control Valve Setting or Relief Valve Setting
 
 (5) Pressure relief valves and alternate pressure relief valves must be tested every five years. The start-to-discharge pressure and vapor tight pressure requirements for the pressure relief valves must be as specified in § 179.401-1 of this subchapter. The alternate pressure relief device values specified in § 179.401-1 of this subchapter for a DOT-113C120W tank car apply to a DOT-113D120W tank car.
 
-(49 U.S.C. 1803, 1804, 1808; 49 CFR 1.53, app. A to part 1)[Amdt. 173-166, 48 FR 27698, June 16, 1983, as amended by Amdt. 173-245, Sept. 21, 1995; 65 FR 58630, Sept. 29, 2000; 66 FR 45184, 45379, 45383, Aug. 28, 2001; 70 FR 34076, June 13, 2005; 81 FR 3681, Jan. 21, 2016]
+(49 U.S.C. 1803, 1804, 1808; 49 CFR 1.53, app. A to part 1)[Amdt. 173-166, 48 FR 27698, June 16, 1983, as amended by Amdt. 173-245, Sept. 21, 1995; 65 FR 58630, Sept. 29, 2000; 66 FR 45184, 45379, 45383, Aug. 28, 2001; 70 FR 34076, June 13, 2005; 81 FR 3681, Jan. 21, 2016; 85 FR 45029, July 24, 2020]

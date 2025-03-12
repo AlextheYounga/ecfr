@@ -1,5 +1,7 @@
 ##### § 271.5 Coupons as obligations of the United States, crimes and offenses. #####
 
+Link to an amendment published at 85 FR 52032, Aug. 24, 2020.
+
 (a) *Coupons as obligations.* Pursuant to section 15(d) of the Food and Nutrition Act of 2008, coupons are an obligation of the United States within the meaning of 18 United States Code (U.S.C.) 8. The provisions of Title 18 of the United States Code, “Crimes and Criminal Procedure,” relative to counterfeiting, misuse and alteration of obligations of the United States are applicable to coupons.
 
 (b) *Penalties.* Any unauthorized issuance, redemption, use, transfer, acquisition, alteration, or possession of coupons, ATP cards, or other program access device may subject an individual, partnership, corporation, or other legal entity to prosecution under sections 15 (b) and (c) of the Food and Nutrition Act of 2008 or under any other applicable Federal, State or local law, regulation or ordinance.

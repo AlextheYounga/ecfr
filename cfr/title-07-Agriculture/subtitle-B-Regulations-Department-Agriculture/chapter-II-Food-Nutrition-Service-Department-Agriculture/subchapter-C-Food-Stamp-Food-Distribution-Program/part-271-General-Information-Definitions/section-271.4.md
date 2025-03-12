@@ -1,5 +1,7 @@
 ##### § 271.4 Delegations to State agencies for administration. #####
 
+Link to an amendment published at 85 FR 52032, Aug. 24, 2020.
+
 (a) *General delegation.* The State agency shall be responsible for the administration of the program within the State, including, but not limited to:
 
 (1) Certification of applicant households;

@@ -80,6 +80,6 @@
 
 (4) The State must report, in accordance with § 302.15 of this part and instructions issued by the Secretary, the total amount of annual $35 fees imposed under this section for each Federal fiscal year as program income, regardless of which method or methods are used under paragraph (3) of this section.
 
-(5) State funds used to pay the annual $35 fee shall not be considered administrative costs of the State for the operation of the title IV-D plan, and all annual $25 fees imposed during a Federal fiscal year must be considered income to the program, in accordance with § 304.50 of this chapter.
+(5) State funds used to pay the annual $35 fee shall not be considered administrative costs of the State for the operation of the title IV-D plan, and all annual $35 fees imposed during a Federal fiscal year must be considered income to the program, in accordance with § 304.50 of this chapter.
 
 (Approved by the Office of Management and Budget under control numbers 0960-0253, 0960-0385, 0960-0402, and 0970-0107)[49 FR 36772, Sept. 19, 1984, as amended at 50 FR 19648, May 9, 1985; 51 FR 37731, Oct. 24, 1986; 56 FR 8003, Feb. 26, 1991; 61 FR 67240, Dec. 20, 1996; 73 FR 74919, Dec. 9, 2008; 81 FR 93561, Dec. 20, 2016; 85 FR 35207, June 9, 2020]

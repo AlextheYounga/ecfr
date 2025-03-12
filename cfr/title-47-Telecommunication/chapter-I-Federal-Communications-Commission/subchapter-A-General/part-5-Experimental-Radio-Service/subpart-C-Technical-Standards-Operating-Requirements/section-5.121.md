@@ -1,8 +1,8 @@
 ##### § 5.121 Station record requirements. #####
 
-Link to an amendment published at 84 FR 25690, June 4, 2019.
+(a)(1) For conventional, program, medical testing, compliance testing experimental radio stations, the current original authorization or a clearly legible photocopy for each station shall be retained as a permanent part of the station records but need not be posted. Station records are required to be kept for a period of at least one year after license expiration.
 
-(a) For conventional, program, medical testing, and compliance testing experimental radio stations, the current original authorization or a clearly legible photocopy for each station shall be retained as a permanent part of the station records, but need not be posted. Station records are required to be kept for a period of at least one year after license expiration.
+(2) For Spectrum Horizons experimental radio stations, the licensee is solely responsible for retaining the current authorization as a permanent part of the station records but need not be posted. Station records are required to be kept for a period of at least one year after license expiration.
 
 (b) For Broadcast experimental radio stations, the license must be available at the transmitter site. The licensee of each experimental broadcast station must maintain and retain for a period of two years, adequate records of the operation, including:
 
@@ -10,4 +10,4 @@ Link to an amendment published at 84 FR 25690, June 4, 2019.
 
 (2) Information concerning any specific data requested by the FCC.
 
-[78 FR 25162, Apr. 29, 2013]
+[78 FR 25162, Apr. 29, 2013, as amended at 84 FR 25690, June 4, 2019]

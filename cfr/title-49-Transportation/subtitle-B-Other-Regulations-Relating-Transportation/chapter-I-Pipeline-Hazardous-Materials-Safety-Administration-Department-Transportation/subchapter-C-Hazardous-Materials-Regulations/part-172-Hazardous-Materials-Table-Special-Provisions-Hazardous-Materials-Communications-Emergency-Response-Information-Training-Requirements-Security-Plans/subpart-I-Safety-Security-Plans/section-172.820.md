@@ -1,24 +1,24 @@
 ##### § 172.820 Additional planning requirements for transportation by rail. #####
 
-Link to an amendment published at 85 FR 45029, July 24, 2020.
-
 (a) *General.* Each rail carrier transporting in commerce one or more of the following materials is subject to the additional safety and security planning requirements of this section:
 
-(1) More than 2,268 kg (5,000 lbs) in a single carload of a Division 1.1, 1.2 or 1.3 explosive;
+(1) More than 2,268 kg (5,000 lbs.) in a single carload of a Division 1.1, 1.2 or 1.3 explosive;
 
 (2) A quantity of a material poisonous by inhalation in a single bulk packaging;
 
-(3) A highway route-controlled quantity of a Class 7 (radioactive) material, as defined in § 173.403 of this subchapter; or
+(3) A highway route-controlled quantity of a Class 7 (radioactive) material, as defined in § 173.403 of this subchapter;
 
-(4) A high-hazard flammable train (HHFT) as defined in § 171.8 of this subchapter.
+(4) A high-hazard flammable train (HHFT) as defined in § 171.8 of this subchapter; or
+
+(5) A quantity of UN1972 (Methane, refrigerated liquid or Natural gas, refrigerated liquid) when transported in a rail tank car.
 
 (b) Not later than 90 days after the end of each calendar year, a rail carrier must compile commodity data for the previous calendar year for the materials listed in paragraph (a) of this section. The following stipulations apply to data collected:
 
 (1) Commodity data must be collected by route, a line segment or series of line segments as aggregated by the rail carrier. Within the rail carrier selected route, the commodity data must identify the geographic location of the route and the total number of shipments by UN identification number for the materials specified in paragraph (a) of this section.
 
-(i) A rail carrier subject to additional planning requirements of this section based on paragraph (a)(4) of this section, must complete the initial process by March 31, 2016, using data for the six month period from July 1, 2015 to December 31, 2015; or
+(i) A rail carrier subject to additional planning requirements of this section based on paragraph (a)(5) of this section that has yet to transport UN 1972, must factor in planned shipments of UN 1972 to the commodity data for use in the paragraph (c) route analysis prior to initial transport of the material.
 
-(ii) A rail carrier subject to additional planning requirements of this section based on paragraph (a)(4) of this section, must complete the initial process by March 31, 2016, using data for all of 2015, provided the rail carrier indicates in their initial analysis that it has chosen this option.
+(ii) [Reserved]
 
 (2) A carrier may compile commodity data, by UN number, for all Class 7 materials transported (instead of only highway route controlled quantities of Class 7 materials) and for all Division 6.1 materials transported (instead of only Division 6.1 poison inhalation hazard materials).
 
@@ -72,4 +72,4 @@ Link to an amendment published at 85 FR 45029, July 24, 2020.
 
 (j) *Compliance and enforcement.* If the carrier's route selection documentation and underlying analyses are found to be deficient, the carrier may be required to revise the analyses or make changes in route selection. If DOT finds that a chosen route is not the safest and most secure practicable route available, the FRA Associate Administrator for Safety, in consultation with TSA, may require the use of an alternative route. Prior to making such a determination, FRA and TSA will consult with the Surface Transportation Board (STB) regarding whether the contemplated alternative route(s) would be economically practicable.
 
-[73 FR 20771, Apr. 16, 2008, as amended at 73 FR 72193, Dec. 26, 2008; 76 FR 56314, Sept. 13, 2011; 80 FR 26746, May 8, 2015]
+[73 FR 20771, Apr. 16, 2008, as amended at 73 FR 72193, Dec. 26, 2008; 76 FR 56314, Sept. 13, 2011; 80 FR 26746, May 8, 2015; 85 FR 45029, July 24, 2020]

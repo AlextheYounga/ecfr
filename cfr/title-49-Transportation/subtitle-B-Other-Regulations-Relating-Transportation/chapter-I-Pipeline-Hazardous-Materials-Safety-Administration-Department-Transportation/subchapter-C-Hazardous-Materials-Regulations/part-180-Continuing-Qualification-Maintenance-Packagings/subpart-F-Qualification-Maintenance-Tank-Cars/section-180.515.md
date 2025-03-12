@@ -1,11 +1,11 @@
 ##### § 180.515 Markings. #####
 
-Link to an amendment published at 85 FR 45030, July 24, 2020.
-
 (a) When a tank car passes the required inspection and test with acceptable results, the tank car facility must mark the date of the inspection and test and due date of the next inspection and test qualified on the tank car in accordance with the applicable provisions of Appendix C of the AAR Specifications for Tank Cars (IBR, see § 171.7 of this subchapter). When a tank car facility performs multiple inspections and tests at the same time, one date may be used to satisfy the requirements of this section. One date also may be shown when multiple inspections and tests have the same due date. Dates displayed on the “consolidated stencil” (see the applicable provisions of Appendix C of the AAR Specifications for Tank Cars) take precedence over dates modified, and not stenciled, pursuant to interval adjustments for service equipment, linings, and granted alternative inspection intervals.
 
 (b) Converted DOT 105, 109, 112, 114, or 120 class tank cars must have the new specification and conversion date permanently marked in letters and figures at least 0.95 cm (0.375 inch) high on the outside of the manway nozzle or the edge of the manway nozzle flange on the left side of the car. The marking may have the last numeral of the specification number omitted (e.g., “DOT 111A100W” instead of “DOT 111A100W1”).
 
 (c) When qualified within six months of installation and protected from deterioration, the test date marking of a reclosing pressure relief device is the installation date on the tank car.
 
-[Amdt. 180-8, 60 FR 49079, Sept. 21, 1995, as amended by Amdt. 179-50, 61 FR 33256, June 26, 1996; 63 FR 52851, Oct. 1, 1998; 66 FR 45391, Aug. 28, 2001; 68 FR 75765, Dec. 31, 2003; 77 FR 37991, June 25, 2012]
+(d) The specification marking for DOT 113 tank cars built in accordance with the DOT 113C120W9 specification must display the last numeral of the specification number (*i.e.,* “DOT 113C120W9”).
+
+[Amdt. 180-8, 60 FR 49079, Sept. 21, 1995, as amended by Amdt. 179-50, 61 FR 33256, June 26, 1996; 63 FR 52851, Oct. 1, 1998; 66 FR 45391, Aug. 28, 2001; 68 FR 75765, Dec. 31, 2003; 77 FR 37991, June 25, 2012; 85 FR 45030, July 24, 2020]
