@@ -1,0 +1,27 @@
+##### § 62.16712 Compliance schedule and increments of progress. #####
+
+Planning, awarding of contracts, installing, and starting up MSW landfill air emission collection and control equipment that is capable of meeting the emission standards of § 62.16714 must be completed within 30 months after the date an NMOC emission rate report shows NMOC emissions equal or exceed 34 megagrams per year; or within 30 months after the date of the most recent NMOC emission rate report that shows NMOC emissions equal or exceed 34 megagrams per year, if Tier 4 surface emissions monitoring (SEM) shows a surface emission concentration of 500 parts per million methane or greater. Legacy controlled landfills who have not yet reached increment 5 (full compliance) must demonstrate compliance with any remaining increments of progress on this schedule. However, they must use the date of their first report submitted under 40 CFR part 60, subpart WWW, 40 CFR part 62, subpart GGG or a state plan implementing 40 CFR part 60, subpart Cc showing NMOC emissions at or above 50 megagrams. The owner or operator must follow the requirements in paragraphs (a) through (d) of this section.
+
+(a) *Increments of progress.* The owner or operator of a designated facility that has a design capacity equal to or greater than 2.5 million megagrams and 2.5 million cubic meters and a NMOC emission rate greater than or equal to 34 megagrams per year must achieve the increments of progress specified in paragraphs (a)(1) through (5) of this section to install air pollution control devices to meet the emission standards specified in § 62.16714(b) and (c) of this subpart. Refer to § 62.16730 for a definition of each increment of progress.
+
+(1) *Submit control plan.* Submit a final control plan (collection and control system design plan) according to the requirements of § 62.16724(d).
+
+(2) *Award contract(s).* Award contract(s) to initiate on-site construction or initiate on-site installation of emission collection and/or control equipment.
+
+(3) *Initiate on-site construction.* Initiate on-site construction or initiate on-site installation of emission collection and/or control equipment as described in the EPA-approved final control plan.
+
+(4) *Complete on-site construction.* Complete on-site construction and installation of emission collection and/or control equipment.
+
+(5) *Achieve final compliance.* Complete construction in accordance with the design specified in the EPA-approved final control plan and connect the landfill gas collection system and air pollution control equipment such that they are fully operating. The initial performance test must be conducted within 180 days after the date the facility is required to achieve final compliance. For a legacy controlled landfill, the initial or most recent performance test conducted to comply with 40 CFR part 60, subpart WWW, subpart GGG of this part, or a state plan implementing 40 CFR part 60, subpart Cc is sufficient for compliance with this part. The test report does not have to be resubmitted.
+
+(b) *Compliance date.* For each designated facility that has a design capacity equal to or greater than 2.5 million megagrams and 2.5 million cubic meters and a NMOC emission rate greater than or equal to 34 megagrams per year (50 megagrams per year for closed landfill subcategory), planning, awarding of contracts, and installation of municipal solid waste landfill air emission collection and control equipment capable of meeting the standards in § 62.16714(b) and (c) must be accomplished within 30 months after the date the initial emission rate report (or the annual emission rate report) first shows that the NMOC emission rate equals or exceeds 34 megagrams per year (50 megagrams per year for closed landfill subcategory), except as provided in § 62.16712(d).
+
+(c) *Compliance schedules.* The owner or operator of a designated facility that has a design capacity equal to or greater than 2.5 million megagrams and 2.5 million cubic meters and a NMOC emission rate greater than or equal to 34 megagrams per year (50 megagrams per year for closed landfill subcategory) must achieve the increments of progress specified in paragraphs (a)(1) through (5) of this section according to the schedule specified in paragraph (c)(1), (2), or (d) of this section.
+
+(1) *Achieving Increments of Progress.* The owner or operator of a designated facility must achieve the increments of progress according to the schedule in table 1 of this subpart. Once this subpart becomes effective, any designated facility to which this subpart applies will remain subject to the schedule in table 1 if a subsequently approved state or tribal plan contains a less stringent schedule, (*i.e.,* a schedule that provides more time to comply with increments 1, 4 and/or 5 than does this Federal plan).
+
+(2) *Tier 4.* The owner or operator of a designated facility that is using the Tier 4 procedures specified in § 62.16718(a)(6) must achieve the increments of progress according to the schedule in table 1 of this subpart.
+
+(d) *Alternative dates.* For designated facilities that are subject to the schedule requirements of paragraph (c)(1) of this section, the owner or operator (or the state or tribal air pollution control authority) may submit to the appropriate EPA Regional Office for approval alternative dates for achieving increments 2 and 3.
+
+[86 FR 27770, May 21, 2021, as amended at 87 FR 8203, Feb. 14, 2022]

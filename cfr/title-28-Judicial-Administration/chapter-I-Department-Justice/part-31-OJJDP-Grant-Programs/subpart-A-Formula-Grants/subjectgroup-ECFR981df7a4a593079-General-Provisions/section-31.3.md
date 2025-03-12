@@ -1,3 +1,1 @@
-##### § 31.3 Formula grant plan and applications. #####
-
-Formula Grant Applications for each Fiscal Year should be submitted to OJJDP by August 1st (60 days prior to the beginning of the fiscal year) or within 60 days after the States are officially notified of the fiscal year formula grant allocations. Beginning with FY 1995 and each subsequent fiscal year, all Formula Grant Applications are due no later than March 31 of the fiscal year for which the funds are allocated.
+##### § 31.3 [Reserved] #####

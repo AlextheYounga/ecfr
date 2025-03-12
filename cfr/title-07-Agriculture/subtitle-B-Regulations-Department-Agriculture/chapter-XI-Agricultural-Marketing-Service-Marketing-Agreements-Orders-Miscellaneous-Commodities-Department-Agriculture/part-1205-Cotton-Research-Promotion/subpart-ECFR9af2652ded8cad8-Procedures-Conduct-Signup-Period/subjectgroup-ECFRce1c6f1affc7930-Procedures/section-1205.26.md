@@ -1,14 +1,12 @@
 ##### § 1205.26 Eligibility. #####
 
-Link to an amendment published at 86 FR 20257, Apr. 19, 2021.
-
 Only persons who meet the eligibility requirements in this subpart may participate in the sign-up period. No person is entitled to sign up more than once.
 
 (a) Except as set forth in paragraphs (b) and (c) of this section, the following persons are eligible to request the conduct of a continuance referendum:
 
-(1) any person who was engaged in the production of Upland cotton during calendar year 2014; and
+(1) Any person who was engaged in the production of Upland cotton during calendar year 2020; and
 
-(2) any person who was an importer of Upland cotton and imported Upland cotton in excess of the value of $2.00 per line item entry during calendar year 2014.
+(2) Any person who was an importer of Upland cotton during calendar year 2020.
 
 (b) A general partnership is not eligible to request a continuance referendum, however, the individual partners of an eligible general partnership are each entitled to submit a request.
 
@@ -22,4 +20,4 @@ Only persons who meet the eligibility requirements in this subpart may participa
 
 (g) Participation in the sign-up by proxy or power of attorney is not authorized.
 
-[62 FR 1660, Jan. 13, 1997, as amended at 67 FR 21169, Apr. 30, 2002; 72 FR 51160, Sept. 6, 2007; 80 FR 36233, June 24, 2015]
+[62 FR 1660, Jan. 13, 1997, as amended at 67 FR 21169, Apr. 30, 2002; 72 FR 51160, Sept. 6, 2007; 80 FR 36233, June 24, 2015; 86 FR 20257, Apr. 19, 2021]

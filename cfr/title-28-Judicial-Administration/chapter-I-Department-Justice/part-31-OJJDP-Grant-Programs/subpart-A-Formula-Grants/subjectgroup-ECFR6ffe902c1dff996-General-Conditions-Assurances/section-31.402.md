@@ -1,0 +1,3 @@
+##### § 31.402 Application on file. #####
+
+Any Federal funds awarded pursuant to an application must be distributed and expended pursuant to and in accordance with the programs contained in the applicant State's current approved application. Any departures therefrom, other than to the extent permitted by current program and fiscal regulations and guidelines, must be submitted for advance approval by the Administrator of OJJDP.

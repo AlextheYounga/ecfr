@@ -1,0 +1,3 @@
+##### § 1910.505 Severability. #####
+
+Each section of this subpart U, and each provision within those sections, is separate and severable from the other sections and provisions. If any provision of this subpart is held to be invalid or unenforceable on its face, or as applied to any person, entity, or circumstance, or is stayed or enjoined, that provision shall be construed so as to continue to give the maximum effect to the provision permitted by law, unless such holding shall be one of utter invalidity or unenforceability, in which event the provision shall be severable from this subpart and shall not affect the remainder of the subpart.
