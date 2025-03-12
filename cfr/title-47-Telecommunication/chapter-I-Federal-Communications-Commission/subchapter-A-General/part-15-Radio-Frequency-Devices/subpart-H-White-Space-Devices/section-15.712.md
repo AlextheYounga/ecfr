@@ -1,6 +1,6 @@
 ##### § 15.712 Interference protection requirements. #####
 
-Link to an amendment published at 86 FR 2293, Jan. 12, 2021.
+Link to an amendment published at 86 FR 2293, Jan. 12, 2021.Link to a correction of the above amendment published at 86 FR 8558, Feb. 8, 2021.
 
 The separation distances in this section apply to fixed and personal/portable white space devices with a location accuracy of ±50 meters. These distances must be increased by the amount that the location uncertainty of a white space device exceeds ±50 meters.
 

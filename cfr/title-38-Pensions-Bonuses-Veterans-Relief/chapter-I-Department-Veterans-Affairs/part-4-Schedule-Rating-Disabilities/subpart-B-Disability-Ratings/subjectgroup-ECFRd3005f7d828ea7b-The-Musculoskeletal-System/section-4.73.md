@@ -1,8 +1,12 @@
 ##### § 4.73 Schedule of ratings - muscle injuries. #####
 
-Link to an amendment published at 85 FR 76464, Nov. 30, 2020.Note:
+Note (1):
 
 When evaluating any claim involving muscle injuries resulting in loss of use of any extremity or loss of use of both buttocks (diagnostic code 5317, Muscle Group XVII), refer to § 3.350 of this chapter to determine whether the veteran may be entitled to special monthly compensation.
+
+Note (2):
+
+Ratings of slight, moderate, moderately severe, or severe for diagnostic codes 5301 through 5323 will be determined based upon the criteria contained in § 4.56.
 
 The Shoulder Girdle and Arm
 
@@ -168,5 +172,10 @@ Miscellaneous
 |                                                                                                                                                                                                5328 Muscle, neoplasm of, benign, postoperative. Rate on impairment of function, i.e., limitation of motion, or scars, diagnostic code 7805, etc                                                                                                                                                                                                |      |
 |                                                                                                                                                                                                                                 5329 Sarcoma, soft tissue (of muscle, fat, or fibrous connective tissue) - 100                                                                                                                                                                                                                                 |      |
 |Note: A rating of 100 percent shall continue beyond the cessation of any surgery, radiation treatment, antineoplastic chemotherapy or other therapeutic procedures. Six months after discontinuance of such treatment, the appropriate disability rating shall be determined by mandatory VA examination. Any change in evaluation based upon that or any subsequent examination shall be subject to the provisions of § 3.105(e) of this chapter. If there has been no local recurrence or metastasis, rate on residual impairment of function.|      |
+|                                                                                                                                                                                                                                                       5330 Rhabdomyolysis, residuals of:                                                                                                                                                                                                                                                       |      |
+|                                                                                                                                                                                                                                Rate each affected muscle group separately and combine in accordance with § 4.25                                                                                                                                                                                                                                |      |
+|                                                                                                                                                                                                                         Note: Separately evaluate any chronic renal complications within the appropriate body system.                                                                                                                                                                                                                          |      |
+|                                                                                                                                                                                                                                                           5331 Compartment syndrome:                                                                                                                                                                                                                                                           |      |
+|                                                                                                                                                                                                                                Rate each affected muscle group separately and combine in accordance with § 4.25                                                                                                                                                                                                                                |      |
 
-(Authority: 38 U.S.C. 1155)[62 FR 30239, June 3, 1997]
+(Authority: 38 U.S.C. 1155)[62 FR 30239, June 3, 1997, as amemded 85 FR 76464, Nov. 30, 2020]

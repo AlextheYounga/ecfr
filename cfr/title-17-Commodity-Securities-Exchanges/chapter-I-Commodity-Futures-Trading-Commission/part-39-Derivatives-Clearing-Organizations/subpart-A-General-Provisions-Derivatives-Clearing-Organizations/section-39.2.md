@@ -1,7 +1,5 @@
 ##### § 39.2 Definitions. #####
 
-Link to an amendment published at 86 FR 965, Jan. 7, 2021.
-
 For the purposes of this part:
 
 *Activity with a more complex risk profile* includes:
@@ -20,13 +18,25 @@ For the purposes of this part:
 
 *Enterprise risk management* means an enterprise-wide strategic business process intended to identify potential events that may affect the enterprise and to manage the probability or impact of those events on the enterprise as a whole, such that the overall risk remains within the enterprise's risk appetite and provides reasonable assurance that the derivatives clearing organization can continue to achieve its objectives.
 
+*Exempt derivatives clearing organization* means a derivatives clearing organization that the Commission has exempted from registration under section 5b(a) of the Act, pursuant to section 5b(h) of the Act and § 39.6.
+
 *Fully collateralized position* means a contract cleared by a derivatives clearing organization that requires the derivatives clearing organization to hold, at all times, funds in the form of the required payment sufficient to cover the maximum possible loss that a party or counterparty could incur upon liquidation or expiration of the contract.
 
-*Good regulatory standing* means, with respect to a derivatives clearing organization that is organized outside of the United States, and is licensed, registered, or otherwise authorized to act as a clearing organization in its home country, that either there has been no finding by the home country regulator of material non-observance of the relevant home country legal requirements, or there has been a finding by the home country regulator of material non-observance of the relevant home country legal requirements but any such finding has been or is being resolved to the satisfaction of the home country regulator by means of corrective action taken by the derivatives clearing organization.
+*Good regulatory standing* means, with respect to a derivatives clearing organization that is organized outside of the United States, and is licensed, registered, or otherwise authorized to act as a clearing organization in its home country, that:
+
+(1) In the case of an exempt derivatives clearing organization, either there has been no finding by the home country regulator of material non-observance of the Principles for Financial Market Infrastructures or other relevant home country legal requirements, or there has been a finding by the home country regulator of material non-observance of the Principles for Financial Market Infrastructures or other relevant home country legal requirements but any such finding has been or is being resolved to the satisfaction of the home country regulator by means of corrective action taken by the derivatives clearing organization; or
+
+(2) In the case of a derivatives clearing organization registered subject to compliance with subpart D of this part, either there has been no finding by the home country regulator of material non-observance of the relevant home country legal requirements, or there has been a finding by the home country regulator of material non-observance of the relevant home country legal requirements but any such finding has been or is being resolved to the satisfaction of the home country regulator by means of corrective action taken by the derivatives clearing organization.
+
+*Home country* means, with respect to a derivatives clearing organization that is organized outside of the United States, the jurisdiction in which the derivatives clearing organization is organized.
+
+*Home country regulator* means, with respect to a derivatives clearing organization that is organized outside of the United States, an appropriate government authority which licenses, regulates, supervises, or oversees the derivatives clearing organization's clearing activities in the home country.
 
 *House account or house origin* means a clearing member account which is not subject to section 4d(a) or 4d(f) of the Act.
 
 *Key personnel* means derivatives clearing organization personnel who play a significant role in the operations of the derivatives clearing organization, the provision of clearing and settlement services, risk management, or oversight of compliance with the Act and Commission regulations in this chapter, and orders promulgated thereunder. Key personnel include, but are not limited to, those persons who are or perform the functions of any of the following: Chief executive officer; president; chief compliance officer; chief operating officer; chief risk officer; chief financial officer; chief technology officer; chief information security officer; and emergency contacts or persons who are responsible for business continuity or disaster recovery planning or program execution.
+
+*Principles for Financial Market Infrastructures* means the Principles for Financial Market Infrastructures jointly published by the Committee on Payment and Settlement Systems and the Technical Committee of the International Organization of Securities Commissions in April 2012.
 
 *Stress test* means a test that compares the impact of potential extreme price moves, changes in option volatility, and/or changes in other inputs that affect the value of a position, to the financial resources of a derivatives clearing organization, clearing member, or large trader, to determine the adequacy of the financial resources of such entities.
 
@@ -38,7 +48,7 @@ For the purposes of this part:
 
 (3) Has become subject to the provisions of subpart C of this part, pursuant to § 39.31.
 
-*Substantial risk to the U.S. financial system* means, with respect to a derivatives clearing organization organized outside of the United States, that -
+*Substantial risk to the U.S. financial system* means, with respect to a derivatives clearing organization organized outside of the United States, that—
 
 (1) The derivatives clearing organization holds 20% or more of the required initial margin of U.S. clearing members for swaps across all registered and exempt derivatives clearing organizations; and
 
@@ -50,4 +60,4 @@ For the purposes of this part:
 
 *U.S. branch or agency of a foreign banking organization* means the U.S. branch or agency of a foreign banking organization as defined in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
 
-[85 FR 4850, Jan. 27, 2020, as amended at 85 FR 67186, Oct. 21, 2020]
+[85 FR 4850, Jan. 27, 2020, as amended at 85 FR 67186, Oct. 21, 2020; 86 FR 965, Jan. 7, 2021]

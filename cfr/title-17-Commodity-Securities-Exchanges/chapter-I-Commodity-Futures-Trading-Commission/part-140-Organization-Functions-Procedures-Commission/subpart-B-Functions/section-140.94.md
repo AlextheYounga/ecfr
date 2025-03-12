@@ -1,7 +1,5 @@
 ##### § 140.94 Delegation of authority to the Director of the Division of Swap Dealer and Intermediary Oversight and the Director of the Division of Clearing and Risk. #####
 
-Link to an amendment published at 86 FR 968, Jan. 7, 2021.
-
 (a) The Commission hereby delegates, until such time as the Commission orders otherwise, the following functions to the Director of the Division of Swap Dealer and Intermediary Oversight and to such members of the Commission's staff acting under his or her direction as he or she may designate from time to time:
 
 (1) All functions reserved to the Commission in § 5.7 of this chapter;
@@ -24,27 +22,35 @@ Link to an amendment published at 86 FR 968, Jan. 7, 2021.
 
 (3) All functions reserved to the Commission in § 39.5(b)(2), (b)(3)(ix), (c)(1), and (d)(3) of this chapter;
 
-(4) All functions reserved to the Commission in § 39.10(c)(4)(iv) of this chapter;
+(4) All functions reserved to the Commission in § 39.6 of this chapter, except for the authority to:
 
-(5) All functions reserved to the Commission in § 39.11(b)(1)(v), (b)(2)(ii), (c)(1) and (3), and (f)(1), and (2) of this chapter;
+(i) Grant an exemption under § 39.6(a) of this chapter;
 
-(6) All functions reserved to the Commission in § 39.12(a)(5)(iii) of this chapter;
+(ii) Prescribe conditions to an exemption under § 39.6(b) of this chapter;
 
-(7) All functions reserved to the Commission in § 39.13(g)(8)(ii), (h)(1)(i)(C), (h)(1)(ii), (h)(3)(i) and (ii), and (h)(5)(i)(C) of this chapter;
+(iii) Modify or terminate an exemption under § 39.6(f)(4) of this chapter; and
 
-(8) The authority to request additional information in support of a rule submission under §§ 39.13(i)(2) and 39.15(b)(2)(iii) of this chapter;
+(iv) Terminate an exemption under § 39.6(g)(3) of this chapter.
 
-(9) All functions reserved to the Commission in § 39.19(c)(2), (c)(3)(iv), and (c)(5) of this chapter;
+(5) All functions reserved to the Commission in § 39.10(c)(4)(iv) of this chapter;
 
-(10) All functions reserved to the Commission in § 39.20(a)(5) of this chapter;
+(6) All functions reserved to the Commission in § 39.11(b)(1)(v), (b)(2)(ii), (c)(1) and (3), and (f)(1), and (2) of this chapter;
 
-(11) All functions reserved to the Commission in § 39.21(c) of this chapter;
+(7) All functions reserved to the Commission in § 39.12(a)(5)(iii) of this chapter;
 
-(12) All functions reserved to the Commission in § 39.31 of this chapter; and
+(8) All functions reserved to the Commission in § 39.13(g)(8)(ii), (h)(1)(i)(C), (h)(1)(ii), (h)(3)(i) and (ii), and (h)(5)(i)(C) of this chapter;
 
-(13) The authority to approve the requests described in §§ 39.34(d) and 39.39(f) of this chapter.
+(9) The authority to request additional information in support of a rule submission under §§ 39.13(i)(2) and 39.15(b)(2)(iii) of this chapter;
 
-(14) [Reserved]
+(10) All functions reserved to the Commission in § 39.19(c)(2), (c)(3)(iv), and (c)(5) of this chapter;
+
+(11) All functions reserved to the Commission in § 39.20(a)(5) of this chapter;
+
+(12) All functions reserved to the Commission in § 39.21(c) of this chapter;
+
+(13) All functions reserved to the Commission in § 39.31 of this chapter; and
+
+(14) The authority to approve the requests described in §§ 39.34(d) and 39.39(f) of this chapter.
 
 (15) All functions reserved to the Commission in § 39.51 of this chapter, except for the authority to:
 
@@ -58,4 +64,4 @@ Link to an amendment published at 86 FR 968, Jan. 7, 2021.
 
 (e) Nothing in this section may prohibit the Commission, at its election, from exercising the authority delegated to the Director of the Division of Swap Dealers and Intermediary Oversight under paragraph (a) or to the Director of the Division of Clearing and Risk under paragraph (c) of this section.
 
-[78 FR 22420, Apr. 16, 2013, as amended at 78 FR 72514, Dec. 2, 2013; 85 FR 4900, Jan. 27, 2020; 85 FR 67189, Oct. 21, 2020]
+[78 FR 22420, Apr. 16, 2013, as amended at 78 FR 72514, Dec. 2, 2013; 85 FR 4900, Jan. 27, 2020; 85 FR 67189, Oct. 21, 2020; 86 FR 968, Jan. 7, 2021]

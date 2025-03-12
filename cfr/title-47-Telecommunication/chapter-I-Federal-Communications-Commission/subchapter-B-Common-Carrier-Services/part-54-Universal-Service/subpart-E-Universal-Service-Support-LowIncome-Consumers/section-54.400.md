@@ -1,7 +1,5 @@
 ##### 54.400 Terms and definitions. #####
 
-Link to an amendment published at 86 FR 1021, Jan. 7, 2021.
-
 As used in this subpart, the following terms shall be defined as follows:
 
 (a) *Qualifying low-income consumer.* A “qualifying low-income consumer” is a consumer who meets the qualifications for Lifeline, as specified in § 54.409.
@@ -12,7 +10,7 @@ As used in this subpart, the following terms shall be defined as follows:
 
 (d) *Toll limitation service.* “Toll limitation service” denotes either toll blocking service or toll control service for eligible telecommunications carriers that are incapable of providing both services. For eligible telecommunications carriers that are capable of providing both services, “toll limitation service” denotes both toll blocking service and toll control service.
 
-(e) *Eligible resident of Tribal lands.* An “eligible resident of Tribal lands” is a “qualifying low-income consumer,” as defined in paragraph (a) of this section, living on Tribal lands. For purposes of this subpart, “Tribal lands” include any federally recognized Indian tribe's reservation, pueblo, or colony, including former reservations in Oklahoma; Alaska Native regions established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688); Indian allotments; Hawaiian Home Lands - areas held in trust for Native Hawaiians by the state of Hawaii, pursuant to the Hawaiian Homes Commission Act, 1920 July 9, 1921, 42 Stat. 108, *et. seq.,* as amended; and any land designated as such by the Commission for purposes of this subpart pursuant to the designation process in § 54.412.
+(e) *Eligible resident of Tribal lands.* An “eligible resident of Tribal lands” is a “qualifying low-income consumer,” as defined in paragraph (a) of this section, living on Tribal lands. For purposes of this subpart, “Tribal lands” include any federally recognized Indian tribe's reservation, pueblo, or colony, including former reservations in Oklahoma; Alaska Native regions established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688); Indian allotments; Hawaiian Home Lands—areas held in trust for Native Hawaiians by the state of Hawaii, pursuant to the Hawaiian Homes Commission Act, 1920 July 9, 1921, 42 Stat. 108, *et. seq.,* as amended; and any land designated as such by the Commission for purposes of this subpart pursuant to the designation process in § 54.412.
 
 (f) *Income.* “Income” means gross income as defined under section 61 of the Internal Revenue Code, 26 U.S.C. 61, for all members of the household. This means all income actually received by all members of the household from whatever source derived, unless specifically excluded by the Internal Revenue Code, Part III of Title 26, 26 U.S.C. 101 *et seq.*
 
@@ -30,10 +28,10 @@ As used in this subpart, the following terms shall be defined as follows:
 
 (m) *Voice telephony service.* “Voice telephony service” is defined as voice grade access to the public switched network or its functional equivalent; minutes of use for local service provided at no additional charge to end users; access to the emergency services provided by local government or other public safety organizations, such as 911 and enhanced 911, to the extent the local government in an eligible carrier's service area has implemented 911 or enhanced 911 systems; and toll limitation services to qualifying low-income consumers as provided in subpart E of this part.
 
-(n) *Supported services.* Voice Telephony services and broadband Internet access services are supported services for the Lifeline program.
+(n) *Supported service.* Voice telephony service is the supported service for the Lifeline program.
 
 (o) *National Lifeline Eligibility Verifier.* The “National Lifeline Eligibility Verifier” or “National Verifier” is an electronic and manual system with associated functions, processes, policies and procedures, to facilitate the determination of consumer eligibility for the Lifeline program, as directed by the Commission.
 
 (p) *Enrollment representatives.* An employee, agent, contractor, or subcontractor, acting on behalf of an eligible telecommunications carrier or third-party entity, who directly or indirectly provides information to the Universal Service Administrative Company or a state entity administering the Lifeline Program for the purpose of eligibility verification, enrollment, recertification, subscriber personal information updates, benefit transfers, or de-enrollment.
 
-[77 FR 12966, Mar. 2, 2012, as amended at 80 FR 40935, July 14, 2015; 81 FR 33089, May 24, 2016; 84 FR 71327, Dec. 27, 2019]
+[77 FR 12966, Mar. 2, 2012, as amended at 80 FR 40935, July 14, 2015; 81 FR 33089, May 24, 2016; 84 FR 71327, Dec. 27, 2019; 86 FR 1021, Jan.7, 2021]

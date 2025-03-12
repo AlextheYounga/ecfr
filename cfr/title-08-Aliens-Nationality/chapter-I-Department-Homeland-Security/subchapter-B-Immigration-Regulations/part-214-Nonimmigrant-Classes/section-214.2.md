@@ -1,6 +1,6 @@
 ##### § 214.2 Special requirements for admission, extension, and maintenance of status. #####
 
-Link to an amendment published at 86 FR 1732, Jan. 8, 2021.
+Link to an amendment published at 86 FR 1732, Jan. 8, 2021.This amendment was delayed until Dec. 31, 2021, at 86 FR 8543, Feb. 8, 2021.
 
 The general requirements in § 214.1 are modified for the following nonimmigrant classes:
 

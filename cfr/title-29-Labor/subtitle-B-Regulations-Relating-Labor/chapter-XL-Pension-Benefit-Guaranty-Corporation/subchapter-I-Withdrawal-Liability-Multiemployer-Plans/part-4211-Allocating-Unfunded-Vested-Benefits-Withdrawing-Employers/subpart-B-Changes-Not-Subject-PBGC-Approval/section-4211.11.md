@@ -1,7 +1,7 @@
-##### § 4211.11 Changes not subject to PBGC approval. #####
+##### § 4211.11 Plan sponsor adoption of modifications and simplified methods. #####
 
-Link to an amendment published at 86 FR 1271, Jan. 8, 2021.
+(a) *General rule.* A plan sponsor, other than the sponsor of a plan that primarily covers employees in the building and construction industry, may adopt by amendment, without the approval of PBGC, any of the statutory allocation methods and any of the modifications and simplified methods set forth in §§ 4211.12 through 4211.16.
 
-(a) *General rule.* A plan, other than a plan that primarily covers employees in the building and construction industry, may adopt, by amendment, any of the statutory allocation methods and any of the modifications set forth in §§ 4211.12 and 4211.13, without the approval of the PBGC.
+(b) *Building and construction industry plans.* The plan sponsor of a plan that primarily covers employees in the building and construction industry may adopt by amendment, without the approval of PBGC, any of the modifications to the presumptive rule and simplified methods set forth in § 4211.12 and §§ 4211.14 through 4211.16.
 
-(b) *Building and construction industry plans.* A plan that primarily covers employees in the building and construction industry may adopt, by amendment, any of the modifications to the presumptive rule set forth in § 4211.12 without the approval of the PBGC.
+[86 FR 1271, Jan. 8, 2021]
