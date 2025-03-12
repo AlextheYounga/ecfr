@@ -16,7 +16,7 @@
 
 (7) *Self-extinguishing lamp* means a high-intensity mercury vapor discharge lamp that is intended to comply with the requirements of paragraph (d)(1) of this section as applicable.
 
-(8) *Reference ballast* is an inductive reactor designed to have the operating characteristics as listed in Section 7 in the American National Standard Specifications for High-Intensity Discharge Lamp Reference Ballasts (ANSI C82.5-1977)1/\> or its equivalent.
+(8) *Reference ballast* is an inductive reactor designed to have the operating characteristics as listed in Section 7 in the American National Standard Specifications for High-Intensity Discharge Lamp Reference Ballasts (ANSI C82.5-1977)1 or its equivalent.
 
 1 Copies are available from American National Standards Institute, 1430 Broadway, New York, NY 10018.
 
@@ -28,7 +28,7 @@
 
 (2) In lieu of permanently affixing or inscribing tags or labels on the product as required by §§ 1010.2(b) and 1010.3(a) of this chapter, the manufacturer of any high-intensity mercury vapor discharge lamp may permanently affix or inscribe such required tags or labels on the lamp packaging uniquely associated with the applicable lamp.
 
-(d) *Requirements for self-extinguishing lamps* - (1) *Maximum cumulative operating time.* (i) Each self-extinguishing lamp manufactured after March 7, 1980 shall cease operation within a cumulative operating time not to exceed 15 minutes following complete breakage or removal of the outer envelope (with the exception of fragments extending 50 millimeters or less from the base shell); and
+(d) *Requirements for self-extinguishing lamps*—(1) *Maximum cumulative operating time.* (i) Each self-extinguishing lamp manufactured after March 7, 1980 shall cease operation within a cumulative operating time not to exceed 15 minutes following complete breakage or removal of the outer envelope (with the exception of fragments extending 50 millimeters or less from the base shell); and
 
 (ii) Each self-extinguishing lamp manufactured after September 7, 1981, shall cease operation within a cumulative operating time not to exceed 15 minutes following breakage or removal of at least 3 square centimeters of contiguous surface of the outer envelope.
 
@@ -40,7 +40,7 @@
 
 (ii) The words “This lamp should self-extinguish within 15 minutes after the outer envelope is broken or punctured. If such damage occurs, TURN OFF AND REMOVE LAMP to avoid possible injury from hazardous shortwave ultraviolet radiation.”
 
-(e) *Requirements for lamps that are not self-extinguishing lamps* - (1) *Lamp labeling.* Any high-intensity mercury vapor discharge lamp that does not comply with paragraph (d)(1) of this section shall be clearly and legibly marked with the letter “R” on the outer envelope and on another part of the lamp in such a manner that it is visible after the outer envelope of the lamp is broken or removed.
+(e) *Requirements for lamps that are not self-extinguishing lamps*—(1) *Lamp labeling.* Any high-intensity mercury vapor discharge lamp that does not comply with paragraph (d)(1) of this section shall be clearly and legibly marked with the letter “R” on the outer envelope and on another part of the lamp in such a manner that it is visible after the outer envelope of the lamp is broken or removed.
 
 (2) *Lamp packaging.* Lamp packaging for each high-intensity mercury vapor discharge lamp that does not comply with paragraph (d)(1) of this section shall clearly and prominently display:
 

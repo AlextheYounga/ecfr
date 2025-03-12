@@ -28,29 +28,29 @@
 
 (4) *Aperture stop* means an opening serving to limit the size and to define the shape of the area over which radiation is measured.
 
-(5) *Class I laser product* means any laser product that does not permit access during the operation to levels of laser radiation in excess of the accessible emission limits contained in table I of paragraph (d) of this section.1/\>
+(5) *Class I laser product* means any laser product that does not permit access during the operation to levels of laser radiation in excess of the accessible emission limits contained in table I of paragraph (d) of this section.1
 
 1 Class I levels of laser radiation are not considered to be hazardous.
 
-(6) *Class IIa laser product* means any laser product that permits human access during operation to levels of visible laser radiation in excess of the accessible emission limits contained in table I, but does not permit human access during operation to levels of laser radiation in excess of the accessible emission limits contained in table II-A of paragraph (d) of this section.2/\>
+(6) *Class IIa laser product* means any laser product that permits human access during operation to levels of visible laser radiation in excess of the accessible emission limits contained in table I, but does not permit human access during operation to levels of laser radiation in excess of the accessible emission limits contained in table II-A of paragraph (d) of this section.2
 
 2 Class IIa levels of laser radiation are not considered to be hazardous if viewed for any period of time less than or equal to 1 × 103 seconds but are considered to be a chronic viewing hazard for any period of time greater than 1 × 103 seconds.
 
-(7) *Class II laser product* means any laser product that permits human access during operation to levels of visible laser radiation in excess of the accessible emission limits contained in table II-A, but does not permit human access during operation to levels of laser radiation in excess of the accessible emission limits contained in table II of paragraph (d) of this section.3/\>
+(7) *Class II laser product* means any laser product that permits human access during operation to levels of visible laser radiation in excess of the accessible emission limits contained in table II-A, but does not permit human access during operation to levels of laser radiation in excess of the accessible emission limits contained in table II of paragraph (d) of this section.3
 
 3 Class II levels of laser radiation are considered to be a chronic viewing hazard.
 
-(8) *Class IIIa laser product* means any laser product that permits human access during operation to levels of visible laser radiation in excess of the accessible emission limits contained in table II, but does not permit human access during operation to levels of laser radiation in excess of the accessible emission limits contained in table III-A of paragraph (d) of this section.4/\>
+(8) *Class IIIa laser product* means any laser product that permits human access during operation to levels of visible laser radiation in excess of the accessible emission limits contained in table II, but does not permit human access during operation to levels of laser radiation in excess of the accessible emission limits contained in table III-A of paragraph (d) of this section.4
 
 4 Class IIIa levels of laser radiation are considered to be, depending upon the irradiance, either an acute intrabeam viewing hazard or chronic viewing hazard, and an acute viewing hazard if viewed directly with optical instruments.
 
-(9) *Class IIIb laser product* means any laser product that permits human access during operation to levels of laser radiation in excess of the accessible emission limits of table III-A, but does not permit human access during operation to levels of laser radiation in excess of the accessible emission limits contained in table III-B of paragraph (d) of this section.5/\>
+(9) *Class IIIb laser product* means any laser product that permits human access during operation to levels of laser radiation in excess of the accessible emission limits of table III-A, but does not permit human access during operation to levels of laser radiation in excess of the accessible emission limits contained in table III-B of paragraph (d) of this section.5
 
 5 Class IIIb levels of laser radiation are considered to be an acute hazard to the skin and eyes from direct radiation.
 
 (10) *Class III laser product* means any Class IIIa or Class IIIb laser product.
 
-(11) *Class IV laser product* means any laser that permits human access during operation to levels of laser radiation in excess of the accessible emission limits contained in table III-B of paragraph (d) of this section.6/\>
+(11) *Class IV laser product* means any laser that permits human access during operation to levels of laser radiation in excess of the accessible emission limits contained in table III-B of paragraph (d) of this section.6
 
 6 Class IV levels of laser radiation are considered to be an acute hazard to the skin and eyes from direct and scattered radiation.
 
