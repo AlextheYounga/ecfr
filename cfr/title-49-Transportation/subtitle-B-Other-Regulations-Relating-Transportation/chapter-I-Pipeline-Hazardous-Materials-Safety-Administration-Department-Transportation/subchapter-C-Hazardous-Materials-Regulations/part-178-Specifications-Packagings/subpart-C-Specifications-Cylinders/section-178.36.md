@@ -1,7 +1,5 @@
 ##### § 178.36 Specification 3A and 3AX seamless steel cylinders. #####
 
-Link to an amendment published at 85 FR 85420, Dec. 28, 2020.
-
 (a) *Type size and service pressure.* In addition to the requirements of § 178.35, cylinders must conform to the following:
 
 (1) A DOT-3A cylinder is a seamless steel cylinder with a water capacity (nominal) not over 1,000 pounds and a service pressure of at least 150 psig.
@@ -16,7 +14,7 @@ S = Mc/I
 
 (iii) To calculate the maximum longitudinal tensile stress due to hydrostatic test pressure, the following formula must be used:
 
-S = A1 P/A2where:S = tensile stress - p.s.i.;M = bending moment-inch pounds - (wl2)/8;w = weight per inch of cylinder filled with water;l = length of cylinder-inches;c = radius (D)/(2) of cylinder-inches;I = moment of inertia - 0.04909 (D4−d4) inches fourth;D = outside diameter-inches;d = inside diameter-inches;A1 = internal area in cross section of cylinder-square inches;A2 = area of metal in cross section of cylinder-square inches;P = hydrostatic test pressure-psig.
+S = A1 P/A2where:S = tensile stress—p.s.i.;M = bending moment-inch pounds—(wl2)/8;w = weight per inch of cylinder filled with water;l = length of cylinder-inches;c = radius (D)/(2) of cylinder-inches;I = moment of inertia—0.04909 (D4−d4) inches fourth;D = outside diameter-inches;d = inside diameter-inches;A1 = internal area in cross section of cylinder-square inches;A2 = area of metal in cross section of cylinder-square inches;P = hydrostatic test pressure-psig.
 
 (b) *Steel.* Open-hearth or electric steel of uniform quality must be used. Content percent may not exceed the following: Carbon, 0.55; phosphorous, 0.045; sulphur, 0.050.
 
@@ -46,15 +44,15 @@ S = [P(1.3D2 + 0.4d2)]/(D2−d2)Where:S = wall stress in psi;P = minimum test pr
 
 (3) Straight threads having at least 6 engaged threads are authorized. Straight threads must have a tight fit and calculated shear strength of at least 10 times the test pressure of the cylinder. Gaskets, adequate to prevent leakage, are required.
 
-(i) *Hydrostatic test.* Each cylinder must successfully withstand a hydrostatic test, as follows:
+(i) *Pressure testing.* Each cylinder must successfully withstand a pressure test as follows:
 
-(1) The test must be by water-jacket, or other suitable methods, operated so as to obtain accurate data. The pressure gauge must permit reading to an accuracy of 1 percent. The expansion gauge must permit reading of total expansion to an accuracy of either 1 percent or 0.1 cubic centimeter.
+(1) The test must be by water-jacket or direct expansion method as prescribed in CGA C-1 (IBR; see § 171.7 of this subchapter). The testing equipment must be calibrated as prescribed in CGA C-1. All testing equipment and pressure indicating devices must be accurate within the parameters defined in CGA C-1.
 
-(2) Pressure must be maintained for at least 30 seconds and sufficiently longer to ensure complete expansion. Any internal pressure applied after heat-treatment and previous to the official test may not exceed 90 percent of the test pressure. If, due to failure of the test apparatus the test pressure cannot be maintained the test may be repeated at a pressure increased by 10 percent or 100 psig, whichever is the lower.
+(2) Each cylinder must be tested to a minimum of5/3 times service pressure.
 
-(3) Permanent, volumetric expansion may not exceed 10 percent of the total volumetric expansion at test pressure.
+(3) The minimum test pressure must be maintained for at least 30 seconds and sufficiently longer to ensure complete expansion. Any internal pressure applied after heat-treatment and previous to the official test may not exceed 90 percent of the test pressure. If, due to failure of the test apparatus or operator error, the test pressure cannot be maintained, the test may be repeated in accordance with CGA C-1, section 5.7.2.
 
-(4) Each cylinder must be tested to at least5/3 times service pressure.
+(4) Permanent, volumetric expansion may not exceed 10 percent of the total volumetric expansion at test pressure.
 
 (j) *Flattening test.* A flattening test must be performed on one cylinder taken at random out of each lot of 200 or less, by placing the cylinder between wedge shaped knife edges having a 60° included angle, rounded to1/2-inch radius. The longitudinal axis of the cylinder must be at a 90-degree angle to knife edges during the test. For lots of 30 or less, flattening tests are authorized to be made on a ring at least 8 inches long cut from each cylinder and subjected to same heat treatment as the finished cylinder.
 
@@ -100,4 +98,4 @@ S = [P(1.3D2 + 0.4d2)]/(D2−d2)Where:S = wall stress in psi;P = minimum test pr
 
 (n) *Rejected cylinders.* Reheat treatment is authorized for rejected cylinders. Subsequent thereto, cylinders must pass all prescribed tests to be acceptable. Repair by welding or spinning is not authorized. Spun cylinders rejected under the provisions of paragraph (m) of this section may be removed from the spun cylinder category by drilling to remove defective material, tapping and plugging.
 
-[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 62 FR 51561, Oct. 1, 1997; 66 FR 45185, 45386, Aug. 28, 2001; 67 FR 51652, Aug. 8, 2002; 68 FR 75748, Dec. 31, 2003; 73 FR 57006, Oct. 1, 2008]
+[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 62 FR 51561, Oct. 1, 1997; 66 FR 45185, 45386, Aug. 28, 2001; 67 FR 51652, Aug. 8, 2002; 68 FR 75748, Dec. 31, 2003; 73 FR 57006, Oct. 1, 2008; 85 FR 85420, Dec. 28, 2020]

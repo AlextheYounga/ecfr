@@ -1,7 +1,5 @@
 ##### § 178.59 Specification 8 steel cylinders with porous fillings for acetylene. #####
 
-Link to an amendment published at 85 FR 85427, Dec. 28, 2020.
-
 (a) *Type and service pressure.* A DOT 8 cylinder is a seamless cylinder with a service pressure of 250 psig. The following steel is authorized:
 
 (1) A longitudinal seam if forge lap welded;
@@ -26,15 +24,21 @@ Link to an amendment published at 85 FR 85427, Dec. 28, 2020.
 
 (2) Length may not be less than as specified for American Standard pipe threads; tapped to gauge; clean cut, even, and without checks.
 
-(h) *Hydrostatic test.* Each cylinder must successfully withstand a hydrostatic test as follows:
+(h) *Pressure testing.* Each cylinder must successfully withstand a pressure test as follows:
 
-(1) The test must be by water-jacket, or other suitable method, operated so as to obtain accurate data. The pressure gauge must permit reading to an accuracy of 1 percent. The expansion gauge must permit reading of total expansion to an accuracy of either 1 percent or 0.1 cubic centimeter.
+(1) *Lot testing.* (i) At least one (1) cylinder selected at random out of each lot of 200 or fewer must be tested by water-jacket or direct expansion method as prescribed in CGA C-1 (IBR; see § 171.7 of this subchapter). The testing equipment must be calibrated as prescribed in CGA C-1. All testing equipment and pressure indicating devices must be accurate within the parameters defined in CGA C-1.
 
-(2) Pressure must be maintained for at least 30 seconds and sufficiently longer to ensure complete expansion. Any internal pressure applied after heat-treatment and previous to the official test may not exceed 90 percent of the test pressure.
+(ii) The selected cylinder must be tested to a minimum of 750 psig.
 
-(3) Permanent volumetric expansion may not exceed 10 percent of total volumetric expansion at test pressure.
+(iii) The minimum test pressure must be maintained at least 30 seconds and sufficiently longer to ensure complete expansion. Any internal pressure applied after heat-treatment and prior to the official test may not exceed 90 percent of the test pressure. If, due to failure of the test apparatus or operator error, the test pressure cannot be maintained, the test may be repeated in accordance with CGA C-1, section 5.7.2.
 
-(4) One cylinder out of each lot of 200 or less must be hydrostatically tested to at least 750 psig. Cylinders not so tested must be examined under pressure of between 500 and 600 psig and show no defect. If hydrostatically tested cylinder fails, each cylinder in the lot may be hydrostatically tested and those passing are acceptable.
+(iv) Permanent volumetric expansion may not exceed 10 percent of the total volumetric expansion at test pressure.
+
+(v) If the selected cylinder passes the volumetric expansion test, each remaining cylinder in the lot must be pressure tested in accordance with paragraph (h)(2) of this section. If the selected cylinder fails, each cylinder in the lot must be tested by water-jacket or direct expansion method as prescribed in CGA C-1 at 750 psig. Each cylinder with a permanent expansion that does not exceed 10% is acceptable.
+
+(2) *Pressure testing.* (i) If the selected cylinder passes the water-jacket or direct expansion test, the remaining cylinders in each lot must be pressure tested by the proof pressure, water-jacket or direct expansion test method as prescribed in CGA C-1. The minimum test pressure must be maintained for the specific timeframe and the testing equipment must be calibrated as prescribed in CGA C-1. Further, all testing equipment and pressure indicating devices must be accurate within the parameters defined in CGA C-1.
+
+(ii) Each cylinder must be tested between 500 and 600 psig and show no defect. If, due to failure of the test apparatus or operator error, the test pressure cannot be maintained, the test may be repeated in accordance with CGA C-1 section 5.7.2 or 7.1.2, as appropriate. Determination of expansion properties is not required.
 
 (i) *Leakage test.* Cylinders with bottoms closed in by spinning must be subjected to a leakage test by setting the interior air or gas pressure to not less than the service pressure. Cylinders which leak must be rejected.
 
@@ -103,7 +107,7 @@ Link to an amendment published at 85 FR 85427, Dec. 28, 2020.
 
 (m) *Tare weight.* The tare weight is the combined weight of the cylinder proper, porous filling, valve, and solvent, without removable cap.
 
-(n) *Duties of inspector.* In addition to the requirements of § 178.35, the inspector is required to -
+(n) *Duties of inspector.* In addition to the requirements of § 178.35, the inspector is required to—
 
 (1) Certify chemical analyses of steel used, signed by manufacturer thereof; also verify by, check analyses of samples taken from each heat or from 1 out of each lot of 200 or less, plates, shells, or tubes used.
 
@@ -119,4 +123,4 @@ Link to an amendment published at 85 FR 85427, Dec. 28, 2020.
 
 (3) Cylinders, not completed, when delivered must each be marked for identification of each lot of 200 or less.
 
-[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 66 FR 45386, Aug. 28, 2001; 67 FR 61016, Sept. 27, 2002; 67 FR 51654, Aug. 8, 2002; 68 FR 75748, 75749, Dec. 31, 2003]
+[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 66 FR 45386, Aug. 28, 2001; 67 FR 61016, Sept. 27, 2002; 67 FR 51654, Aug. 8, 2002; 68 FR 75748, 75749, Dec. 31, 2003; 85 FR 85427, Dec. 28, 2020]

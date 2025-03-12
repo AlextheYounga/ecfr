@@ -1,14 +1,12 @@
 ##### § 171.7 Reference material. #####
 
-Link to an amendment published at 85 FR 85415, Dec. 28, 2020.
-
 (a) *Matter incorporated by reference* - (1) *General.* Certain material is incorporated by reference into subchapters A, B, and C with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, PHMSA must publish a document in the Federal Register and the material must be available to the public. Matters referenced by footnote are included as part of the regulations of this subchapter.
 
 (2) *Accessibility of materials.* All incorporated matter is available for inspection at:
 
 (i) The Office of Hazardous Materials Safety, Office of Hazardous Materials Standards, East Building, PHH-10, 1200 New Jersey Avenue SE., Washington, DC 20590-0001. For information on the availability of this material at PHH-10, call 1-800-467-4922, or go to: *http://www.phmsa.dot.gov;* and
 
-(ii) The National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+(ii) The National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fedreg.legal@nara.gov,* or go to *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (b) *Air Transport Association of America,* 1301 Pennsylvania Avenue NW., Washington, DC 20004-1707.
 
@@ -232,41 +230,41 @@ The requirement for a 6% knuckle radius on torispherical heads are excepted.
 
 (n) *Compressed Gas Association (CGA),* 1235 Jefferson Davis Highway, Arlington, VA 22202.
 
-(1) CGA Pamphlet C-3, Standards for Welding on Thin-Walled Steel Cylinders, 1994, into § 178.47; 178.50; 178.51; 178.53; 178.55; 178.56; 178.57; 178.58; 178.59; 178.60; 178.61; 178.65; 178.68; 180.211.
+(1) CGA C-1 - 2016, Methods for Pressure Testing Compressed Gas Cylinders, Eleventh edition, copyright 2016, into §§ 178.36, 178.37, 178.38, 178.39, 178.42, 178.44, 178.45, 178.46, 178.47; 178.50; 178.51; 178.53; 178.55; 178.56; 178.57; 178.58; 178.59; 178.60; 178.61; 178.65; 178.68; 180.205, 180.209.
 
-(2) CGA C-5, Cylinder Service Life - Seamless Steel High Pressure Cylinders, 1991 (reaffirmed 1995), into § 173.302a.
+(2) CGA C-3 - 2005 (Reaffirmed 2011), Standards for Welding on Thin-Walled Steel Cylinders, Seventh edition, copyright 2005, into §§ 178.47; 178.50; 178.51; 178.53; 178.55; 178.56; 178.57; 178.58; 178.59; 178.60; 178.61; 178.65; 178.68; 180.211.
 
-(3) CGA Pamphlet C-6, Standards for Visual Inspection of Steel Compressed Gas Cylinders, 1993, into § 172.102, § 173.3, 173.198, 180.205, 180.209, 180.211, 180.411, 180.519.
+(3) CGA C-5, Cylinder Service Life - Seamless Steel High Pressure Cylinders, 1991 (reaffirmed 1995), into § 173.302a.
 
-(4) CGA C-6.1 - 2013, Standards for Visual Inspection of High Pressure Aluminum Compressed Gas Cylinders, Sixth Edition, copyright 2013 (corrected 4/14/2015), into §§ 180.205; 180.209.
+(4) CGA C-6 - 2013, Standards for Visual Inspection of Steel Compressed Gas Cylinders, Eleventh edition, copyright 2013, into §§ 172.102, 173.3, 173.198, 180.205, 180.209, 180.211, 180.411, 180.519.
 
-(5) CGA Pamphlet C-6.2, Guidelines for Visual Inspection and Requalification of Fiber Reinforced High Pressure Cylinders, 1996, Third Edition, into § 180.205.
+(5) CGA C-6.1 - 2013, Standards for Visual Inspection of High Pressure Aluminum Compressed Gas Cylinders, Sixth Edition, copyright 2013 (corrected 4/14/2015), into §§ 180.205; 180.209.
 
-(6) CGA C-6.3 - 2013, Standard for Visual Inspection of Low Pressure Aluminum Alloy Compressed Gas Cylinders, Third Edition, copyright 2013, into §§ 180.205; 180.209.
+(6) CGA Pamphlet C-6.2, Guidelines for Visual Inspection and Requalification of Fiber Reinforced High Pressure Cylinders, 1996, Third Edition, into § 180.205.
 
-(7) CGA C-7-2014, Guide to Classification and Labeling of Compressed Gases, Tenth Edition, copyright 2014, into § 172.400a.
+(7) CGA C-6.3 - 2013, Standard for Visual Inspection of Low Pressure Aluminum Alloy Compressed Gas Cylinders, Third Edition, copyright 2013, into §§ 180.205; 180.209.
 
-(8) CGA Pamphlet C-8, Standard for Requalification of DOT-3HT Cylinder Design, 1985, into § 180.205; 180.209.
+(8) CGA C-7-2014, Guide to Classification and Labeling of Compressed Gases, Tenth Edition, copyright 2014, into § 172.400a.
 
-(9) CGA C-11 - 2013, Practices for Inspection of Compressed Gas Cylinders at Time of Manufacture, Fifth Edition, copyright 2013, into § 178.35.
+(9) CGA Pamphlet C-8, Standard for Requalification of DOT-3HT Cylinder Design, 1985, into § 180.205; 180.209.
 
-(10) CGA Pamphlet C-12, Qualification Procedure for Acetylene Cylinder Design, 1994, into § 173.301; 173.303; 178.59; 178.60.
+(10) CGA C-11 - 2013, Practices for Inspection of Compressed Gas Cylinders at Time of Manufacture, Fifth Edition, copyright 2013, into § 178.35.
 
-(11) CGA Pamphlet C-13, Guidelines for Periodic Visual Inspection and Requalification of Acetylene Cylinders, 2000, Fourth Edition, into § 173.303; 180.205; 180.209.
+(11) CGA Pamphlet C-12, Qualification Procedure for Acetylene Cylinder Design, 1994, into § 173.301; 173.303; 178.59; 178.60.
 
-(12) CGA Pamphlet C-14, Procedures for Fire Testing of DOT Cylinder Pressure Relief Device Systems, 1979, into § 173.301; 173.323.
+(12) CGA Pamphlet C-13, Guidelines for Periodic Visual Inspection and Requalification of Acetylene Cylinders, 2000, Fourth Edition, into § 173.303; 180.205; 180.209.
 
-(13) CGA G-1.6-2011, Standard for Mobile Acetylene Trailer Systems, Seventh Edition, copyright 2011, into § 173.301.
+(13) CGA C-14 - 2005 (Reaffirmed 2010), Procedures for Fire Testing of DOT Cylinder Pressure Relief Device Systems, Fourth edition, copyright 2005, into §§ 173.301; 173.323.
 
-(14) CGA Pamphlet G-2.2, Guideline Method for Determining Minimum of 0.2% Water in Anhydrous Ammonia, 1985, Second Edition, Reaffirmed 1997, into § 173.315.
+(14) CGA G-1.6-2011, Standard for Mobile Acetylene Trailer Systems, Seventh Edition, copyright 2011, into § 173.301.
 
-(15) CGA Pamphlet G-4.1, Cleaning Equipment for Oxygen Service, 1985, into § 178.338-15.
+(15) CGA Pamphlet G-2.2, Guideline Method for Determining Minimum of 0.2% Water in Anhydrous Ammonia, 1985, Second Edition, Reaffirmed 1997, into § 173.315.
 
-(16) CGA Pamphlet P-20, Standard for the Classification of Toxic Gas Mixtures, 1995, into § 173.115.
+(16) CGA Pamphlet G-4.1, Cleaning Equipment for Oxygen Service, 1985, into § 178.338-15.
 
 (17) CGA Pamphlet P-20, Standard for the Classification of Toxic Gas Mixtures, 2003, Third Edition, into § 173.115.
 
-(18) CGA S-1.1, Pressure Relief Device Standards - Part 1 - Cylinders for Compressed Gases, (with the exception of paragraph 9.1.1.1), Twelfth Edition, 2005, into § 173.301, 173.304a 178.75.
+(18) CGA S-1.1 - 2011, Pressure Relief Device Standards - Part 1 - Cylinders for Compressed Gases, Fourteenth edition, copyright 2011, into §§ 173.301; 173.304a; 178.75.
 
 (19) CGA Pamphlet S-1.2, Safety Relief Device Standards Part 2 - Cargo and Portable Tanks for Compressed Gases, 1980, into § 173.315; 173.318; 178.276; 178.277.
 
@@ -622,4 +620,4 @@ Table 1 to 49 CFR 171.7 - Materials Not Incorporated by Reference
 |                                       Truck Trailer Manufacturers Association, 1020 Princess Street, Alexandria, Virginia 22314, telephone (703) 549-3010, http://www.ttmanet.org:                                       |                                           |
 |                                        TTMA RP No. 96-01, TTMA RP No. 96-01, Structural Integrity of DOT 406, DOT 407, and DOT 412 Cylindrical Cargo Tanks, January 2001 Edition                                         |                 178.345-3                 |
 
-[78 FR 1027, Jan. 7, 2013, as amended at 78 FR 15321, Mar. 11, 2013; 78 FR 65468, Oct. 31, 2013; 79 FR 15043, Mar. 18, 2014; 79 FR 40609, July 11, 2014; 80 FR 1114, Jan. 8, 2015; 80 FR 26746, May 8, 2015; 80 FR 79449, Dec. 21, 2015; 81 FR 25617, Apr. 29, 2016; 81 FR 35513, June 2, 2016; 82 FR 15833, Mar. 30, 2017; 83 FR 55806, Nov. 7, 2018; 84 FR 6952, Feb. 28, 2019; 85 FR 27852, May 11, 2020; 85 FR 78029, Dec. 3, 2020; 85 FR 75704, Nov. 25, 2020]
+[78 FR 1027, Jan. 7, 2013, as amended at 78 FR 15321, Mar. 11, 2013; 78 FR 65468, Oct. 31, 2013; 79 FR 15043, Mar. 18, 2014; 79 FR 40609, July 11, 2014; 80 FR 1114, Jan. 8, 2015; 80 FR 26746, May 8, 2015; 80 FR 79449, Dec. 21, 2015; 81 FR 25617, Apr. 29, 2016; 81 FR 35513, June 2, 2016; 82 FR 15833, Mar. 30, 2017; 83 FR 55806, Nov. 7, 2018; 84 FR 6952, Feb. 28, 2019; 85 FR 27852, May 11, 2020; 85 FR 78029, Dec. 3, 2020; 85 FR 75704, Nov. 25, 2020; 85 FR 85415, Dec. 28, 2020]

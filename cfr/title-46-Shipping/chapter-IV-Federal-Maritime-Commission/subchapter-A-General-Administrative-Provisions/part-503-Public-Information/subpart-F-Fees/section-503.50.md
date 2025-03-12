@@ -1,7 +1,5 @@
 ##### § 503.50 Fees for services. #####
 
-Link to an amendment published at 85 FR 72578, Nov. 13, 2020.
-
 (a) *Definitions.* The following definitions apply to the terms when used in this subpart:
 
 (1) *Search* means all time spent looking for material that is responsive to a request, including page-by-page or line-by-line identification of material within documents. Search for material will be done in the most efficient and least expensive manner so as to minimize costs for both the agency and the requester. Search is distinguished, moreover, from *review* of material in order to determine whether the material is exempt from disclosure. Searches may be done manually or by computer using existing programming.
@@ -66,25 +64,24 @@ Link to an amendment published at 85 FR 72578, Nov. 13, 2020.
 
 (c) *Charges for search, review, duplication and certification.* (1) Records search (including electronic search) will be performed by Commission personnel at the following rates:
 
-(i) Search will be performed by clerical/administrative personnel at a rate of
-$52 per hour and by professional/executive personnel at a rate of $81 per hour.
+(i) Search will be performed by clerical/administrative personnel at a rate of $39 per hour and by professional/executive personnel at a rate of $77 per hour.
 
-(ii) Unless an exception provided in paragraph (b)(2) of this section applies, the minimum charge for record search is $31.
+(ii) Unless an exception provided in paragraph (b)(2) of this section applies, the minimum charge for record search is $39.
 
-(2) Charges for review of records to determine whether they are exempt from disclosure under § 503.33 must be assessed to recover full costs at the rate of $105 per hour. Charges for review will be assessed only for initial review to determine the applicability of a specific exemptions to a particular record. No charge will be assessed for review at the administrative appeal level.
+(2) Charges for review of records to determine whether they are exempt from disclosure under § 503.33 must be assessed to recover full costs at the rate of $108 per hour. Charges for review will be assessed only for initial review to determine the applicability of a specific exemptions to a particular record. No charge will be assessed for review at the administrative appeal level.
 
 (3) Charges for duplication of records and documents will be assessed as follows, limited to size 81/2″ × 14″ or smaller:
 
 (i) If performed by requesting party at the rate of ten cents per page (one side).
 
-(ii) By Commission personnel, at the rate of ten cents per page (one side) plus $52 per hour.
+(ii) By Commission personnel, at the rate of ten cents per page (one side) plus $39 per hour.
 
-(iii) Unless an exception provided in paragraph (b)(2) of this section applies, the minimum charge for copying is $6.
+(iii) Unless an exception provided in paragraph (b)(2) of this section applies, the minimum charge for copying is $7.
 
 (iv) No charge will be made by the Commission for notices, decisions, orders, etc., required by law to be served on a party to any proceeding or matter before the Commission. No charge will be made for single copies of such Commission issuances individually requested in person or by mail.
 
-(4) The certification and validation (with Federal Maritime Commission seal) of documents filed with or issued by the Commission will be available at $124 for each certification.
+(4) The certification and validation (with Federal Maritime Commission seal) of documents filed with or issued by the Commission will be available at $111 for each certification.
 
-(d) Applications for admission to practice before the Commission for persons not attorneys at law must be accompanied by a fee of $208 pursuant to § 502.27 of this chapter.
+(d) Applications for admission to practice before the Commission for persons not attorneys at law must be accompanied by a fee of $206 pursuant to § 502.27 of this chapter.
 
-[49 FR 44401, Nov. 6, 1984, as amended at 52 FR 13683, Apr. 24, 1987; 59 FR 59170, Nov. 16, 1994; 63 FR 50535, Sept. 22, 1998; 67 FR 39859, June 11, 2002; 70 FR 10329, Mar. 3, 2005. Redesignated at 79 FR 24351, Apr. 30, 2014; 81 FR 59144, Aug. 29, 2016; 83 FR 50294, Oct. 5, 2018]
+[49 FR 44401, Nov. 6, 1984, as amended at 52 FR 13683, Apr. 24, 1987; 59 FR 59170, Nov. 16, 1994; 63 FR 50535, Sept. 22, 1998; 67 FR 39859, June 11, 2002; 70 FR 10329, Mar. 3, 2005. Redesignated at 79 FR 24351, Apr. 30, 2014; as amended at 81 FR 59144, Aug. 29, 2016; 83 FR 50294, Oct. 5, 2018; 85 FR 72578, Nov. 13, 2020]

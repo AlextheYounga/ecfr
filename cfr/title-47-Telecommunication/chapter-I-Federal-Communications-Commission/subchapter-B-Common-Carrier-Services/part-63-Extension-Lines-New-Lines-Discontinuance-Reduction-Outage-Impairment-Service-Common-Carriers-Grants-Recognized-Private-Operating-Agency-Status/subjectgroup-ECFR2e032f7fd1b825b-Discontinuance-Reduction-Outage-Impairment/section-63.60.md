@@ -1,7 +1,5 @@
 ##### § 63.60 Definitions. #####
 
-Link to an amendment published at 85 FR 84265, Dec. 28, 2020.
-
 For the purposes of this part, the following definitions shall apply:
 
 (a) For the purposes of §§ 63.60 through 63.90, the term “carrier,” when used to refer either to all telecommunications carriers or more specifically to non-dominant telecommunications carriers, shall include interconnected VoIP providers.
@@ -30,6 +28,6 @@ For the purposes of this part, the following definitions shall apply:
 
 (h) *You.* In this section, “You” refers to applicants and licensees.
 
-(i) The term “technology transition” means any change in service that would result in the replacement of a wireline TDM-based voice service with a service using a different technology or medium for transmission to the end user, whether Internet Protocol (IP), wireless, or another type; except that retirement of copper, as defined in § 51.332(a) of this chapter, that does not result in a discontinuance, reduction, or impairment of service requiring Commission authorization pursuant to this part shall not constitute a “technology transition” for purposes of this part.
+(i) The term “technology transition” means any change in service that would result in the replacement of a wireline TDM-based voice service with a service using a different technology or medium for transmission to the end user, whether internet Protocol (IP), wireless, or another type; except that retirement of copper, as defined in § 51.325(a)(3) of this chapter, that does not result in a discontinuance, reduction, or impairment of service requiring Commission authorization pursuant to this part shall not constitute a “technology transition” for purposes of this part.
 
-[28 FR 13229, Dec. 5, 1963, as amended at 45 FR 6585, Jan. 29, 1980; 51 FR 31305, Sept. 2, 1986; 69 FR 29902, May 26, 2004; 74 FR 39563, Aug. 7, 2009; 81 FR 62656, Sept. 12, 2016; 82 FR 48777, Oct. 20, 2017; 82 FR 61478, Dec. 28, 2017]
+[28 FR 13229, Dec. 5, 1963, as amended at 45 FR 6585, Jan. 29, 1980; 51 FR 31305, Sept. 2, 1986; 69 FR 29902, May 26, 2004; 74 FR 39563, Aug. 7, 2009; 81 FR 62656, Sept. 12, 2016; 82 FR 48777, Oct. 20, 2017; 82 FR 61478, Dec. 28, 2017; 85 FR 84265, Dec. 28, 2020]

@@ -1,7 +1,5 @@
 ##### § 178.65 Specification 39 non-reusable (non-refillable) cylinders. #####
 
-Link to an amendment published at 85 FR 85430, Dec. 28, 2020.
-
 (a) *Type, size, service pressure, and test pressure.* A DOT 39 cylinder is a seamless, welded, or brazed cylinder with a service pressure not to exceed 80 percent of the test pressure. Spherical pressure vessels are authorized and covered by references to cylinders in this specification.
 
 (1) *Size limitation.* Maximum water capacity may not exceed: (i) 55 pounds (1,526 cubic inches) for a service pressure of 500 p.s.i.g. or less, and (ii) 10 pounds (277 cubic inches) for a service pressure in excess of 500 p.s.i.g.
@@ -80,13 +78,15 @@ S = PD / 4tWhere:S = Wall stress, in psi;P = Test pressure i psig;D = Outside di
 
 (4) Material used for welded openings and attachments must be of weldable quality and compatible with the material of the cylinder.
 
-(f) *Pressure tests.* (1) Each cylinder must be tested at an internal pressure of at least the test pressure and must be held at that pressure for at least 30 seconds.
+(f) *Pressure testing.* (1) Each cylinder must be proof pressure tested as prescribed in CGA C-1 (IBR, see § 171.7 of this subchapter). The minimum test pressure must be maintained for the specific timeframe and the testing equipment must be calibrated as prescribed in CGA C-1. All testing equipment and pressure indicating devices must be accurate within the parameters defined in CGA C-1.
 
 (i) The leakage test must be conducted by submersion under water or by some other method that will be equally sensitive.
 
-(ii) If the cylinder leaks, evidences visible distortion, or any other defect, while under test, it must be rejected (see paragraph (h) of this section).
+(ii) If the cylinder leaks, evidences visible distortion or evidences any other defect while under test, it must be rejected (see paragraph (h) of this section).
 
-(2) One cylinder taken from the beginning of each lot, and one from each 1,000 or less successively produced within the lot thereafter, must be hydrostatically tested to destruction. The entire lot must be rejected (see paragraph (h) of this section) if:
+(iii) If, due to failure of the test apparatus or operator error, the test pressure cannot be maintained, the test may be repeated in accordance with CGA, C-1 section 7.1.2.
+
+(2) One cylinder taken from the beginning of each lot, and one from each 1,000 or less successively produced within the lot thereafter, must be hydrostatically tested to destruction. The testing equipment must be calibrated as prescribed in CGA C-1. All testing equipment and pressure indicating devices must be accurate within the parameters defined in CGA C-1. The entire lot must be rejected (see paragraph (h) of this section) if:
 
 (i) A failure occurs at a gage pressure less than 2.0 times the test pressure;
 
@@ -148,4 +148,4 @@ DOT-39 NRC 250/500 M1001.
 
 (4) No person may mark any cylinder with the specification identification “DOT-39” unless it was manufactured in compliance with the requirements of this section and its manufacturer has a registration number (M\*\*\*\*) from the Associate Administrator.
 
-[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 65 FR 58631, Sept. 29, 2000; 66 FR 45389, Aug. 28, 2001; 67 FR 51654, Aug. 8, 2002; 68 FR 75748, 75749, Dec. 31, 2003]
+[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 65 FR 58631, Sept. 29, 2000; 66 FR 45389, Aug. 28, 2001; 67 FR 51654, Aug. 8, 2002; 68 FR 75748, 75749, Dec. 31, 2003; 85 FR 85430, Dec. 28, 2020]

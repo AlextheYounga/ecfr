@@ -1,7 +1,5 @@
 ##### § 178.42 Specification 3E seamless steel cylinders. #####
 
-Link to an amendment published at 85 FR 85421, Dec. 28, 2020.
-
 (a) *Type, size, and service pressure.* A DOT 3E cylinder is a seamless steel cylinder with an outside diameter not greater than 2 inches nominal, a length less than 2 feet and a service pressure of 1,800 psig.
 
 (b) *Steel.* Open-hearth or electric steel of uniform quality must be used. Content percent may not exceed the following: Carbon, 0.55; phosphorus, 0.045; sulphur, 0.050.
@@ -18,13 +16,13 @@ Link to an amendment published at 85 FR 85421, Dec. 28, 2020.
 
 (3) Straight threads having at least 4 engaged threads are authorized. Straight threads must have a tight fit and a calculated shear strength of at least 10 times the test pressure of the cylinder. Gaskets, adequate to prevent leakage, are required.
 
-(f) *Hydrostatic test.* Cylinders must be tested as follows:
+(f) *Pressure testing.* Cylinders must be tested as follows:
 
-(1) One cylinder out of each lot of 500 or less must be subjected to a hydrostatic pressure of 6,000 psig or higher.
+(1) One cylinder out of each lot of 500 or fewer must be subjected to a hydrostatic test pressure of 6,000 psig or higher.
 
-(2) The cylinder referred to in paragraph (f)(1) of this section must burst at a pressure higher than 6,000 psig without fragmenting or otherwise showing lack of ductility, or must hold a pressure of 12,000 psig for 30 seconds without bursting. In which case, it must be subjected to a flattening test without cracking to six times wall thickness between knife edges, wedge shaped 60 degree angle, rounded out to a1/2 inch radius. The inspector's report must be suitably changed to show results of latter alternate and flattening test.
+(2) The cylinder referred to in paragraph (f)(1) of this section must burst at a pressure higher than 6,000 psig without fragmenting or otherwise showing lack of ductility, or must hold a pressure of 12,000 psig for 30 seconds without bursting. In which case, it must be subjected to a flattening test without cracking to six times wall thickness between knife edges, wedge shaped 60 degree angle, rounded out to a1/2 inch radius. The inspector's report must be suitably changed to show results of latter alternate and flattening test. The testing equipment must be calibrated as prescribed in CGA C-1 (IBR, see § 171.7 of this subchapter). All testing equipment and pressure indicating devices must be accurate within the parameters defined in CGA C-1.
 
-(3) Other cylinders must be examined under pressure of at least 3,000 psig and not to exceed 4,500 psig and show no defect. Cylinders tested at a pressure in excess of 3,600 psig must burst at a pressure higher than 7,500 psig when tested as specified in paragraph (f)(2) of this section. The pressure must be maintained for at least 30 seconds and sufficiently longer to ensure complete examination.
+(3) The remaining cylinders of the lot must be pressure tested by the proof pressure water-jacket or direct expansion test method as prescribed in CGA C-1. Cylinders must be examined under pressure of at least 3,000 psig and not to exceed 4,500 psig and show no defect. Cylinders tested at a pressure in excess of 3,600 psig must burst at a pressure higher than 7,500 psig when tested as specified in paragraph (f)(2) of this section. The pressure must be maintained for at least 30 seconds and sufficiently longer to ensure complete examination. The testing equipment must be calibrated as prescribed in CGA C-1. All testing equipment and pressure indicating devices must be accurate within the parameters defined in CGA C-1. If, due to failure of the test apparatus or operator error, the test pressure cannot be maintained, the test may be repeated in accordance with CGA C-1 5.7.2 or 7.1.2, as appropriate. Determination of expansion properties is not required.
 
 (g) *Leakage test.* All spun cylinders and plugged cylinders must be tested for leakage by gas or air pressure after the bottom has been cleaned and is free from all moisture subject to the following conditions and limitations:
 
@@ -40,4 +38,4 @@ Link to an amendment published at 85 FR 85421, Dec. 28, 2020.
 
 (i) *Marking.* Markings required by § 178.35 must be stamped plainly and permanently on the shoulder, top head, neck or sidewall of each cylinder.
 
-[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended by 66 FR 45386, Aug. 28, 2001]
+[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended by 66 FR 45386, Aug. 28, 2001; 85 FR 85421, Dec. 28, 2020]

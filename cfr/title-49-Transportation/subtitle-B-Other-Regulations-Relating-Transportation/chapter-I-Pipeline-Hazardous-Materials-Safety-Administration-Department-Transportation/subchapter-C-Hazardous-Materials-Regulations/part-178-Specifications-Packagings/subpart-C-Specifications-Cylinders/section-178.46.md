@@ -1,7 +1,5 @@
 ##### § 178.46 Specification 3AL seamless aluminum cylinders. #####
 
-Link to an amendment published at 85 FR 85421, Dec. 28, 2020.
-
 (a) *Size and service pressure.* A DOT 3AL cylinder is a seamless aluminum cylinder with a maximum water capacity of 1000 pounds and minimum service pressure of 150 psig.
 
 (b) *Authorized material and identification of material.* The material of construction must meet the following conditions:
@@ -14,29 +12,19 @@ Link to an amendment published at 85 FR 85421, Dec. 28, 2020.
 
 (4) The material must be of uniform quality. Only the following heat treatable aluminum alloys in table 1 and 2 are permitted as follows:
 
-Table 1 - Heat or Cast Analysis for Aluminum; Similar to “Aluminum Association”<sup>1</sup> Alloy 6061
+|                                                                                    Si  <br/>min/max                                                                                     | Fe  <br/>max  |Cu  <br/>min/max|Mn  <br/>max|Mg  <br/>min/max|Cr  <br/>min/max|Zn  <br/>max|Ti  <br/>max|Pb  <br/>max|Bi  <br/>max|Other| A1 |    |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|----------------|------------|----------------|----------------|------------|------------|------------|------------|-----|----|----|
+|                                                                                     each  <br/>max                                                                                      |total  <br/>max|                |            |                |                |            |            |            |            |     |    |    |
+|                                                                                         0.4/0.8                                                                                         |      0.7      |    0.15/0.4    |    0.15    |    0.8/1.2     |   0.04/0.35    |    0.25    |    0.15    |   0.005    |   0.005    |0.05 |0.15|Bal.|
+|                            <sup>1</sup> The “Aluminum Association” refers to “Aluminum Standards and Data 1993”, published by the Aluminum Association Inc.                             |               |                |            |                |                |            |            |            |            |     |    |    |
+|<sup>2</sup> Except for “Pb” and “Bi”, the chemical composition corresponds with that of Table 1 of ASTM B 221 (IBR, see § 171.7 of this subchapter) for Aluminum Association alloy 6061.|               |                |            |                |                |            |            |            |            |     |    |    |
 
-[CHEMICAL ANALYSIS IN WEIGHT PERCENT<sup>2</sup>]
-
-|Si  <br/>min/max| Fe  <br/>max  |Cu  <br/>min/max|Mn  <br/>max|Mg  <br/>min/max|Cr  <br/>min/max|Zn  <br/>max|Ti  <br/>max|Pb  <br/>max|Bi  <br/>max|Other| A1 |    |
-|----------------|---------------|----------------|------------|----------------|----------------|------------|------------|------------|------------|-----|----|----|
-| each  <br/>max |total  <br/>max|                |            |                |                |            |            |            |            |     |    |    |
-|    0.4/0.8     |      0.7      |    0.15/0.4    |    0.15    |    0.8/1.2     |   0.04/0.35    |    0.25    |    0.15    |   0.005    |   0.005    |0.05 |0.15|Bal.|
-
-<sup>1</sup> The “Aluminum Association” refers to “Aluminum Standards and Data 1993”, published by the Aluminum Association Inc.
-
-<sup>2</sup> Except for “Pb” and “Bi”, the chemical composition corresponds with that of Table 1 of ASTM B 221 (IBR, see § 171.7 of this subchapter) for Aluminum Association alloy 6061.
-
-Table 2 - Mechanical Property Limits
-
-| Alloy and temper |Tensile strength - PSI|Elongation - percent minimum for 2″ or 4D<sup>1</sup> size specimen|              |
-|------------------|----------------------|-------------------------------------------------------------------|--------------|
-|Ultimate - minimum|   Yield - minimum    |                                                                   |              |
-|     6061-T6      |        38,000        |                              35,000                               |<sup>2</sup>14|
-
-<sup>1</sup> “D” represents specimen diameters. When the cylinder wall is greater than3/16 inch thick, a retest without reheat treatment using the 4D size specimen is authorized if the test using the 2 inch size specimen fails to meet elongation requirements.
-
-<sup>2</sup> When cylinder wall is not over3/16-inch thick, 10 percent elongation is authorized when using a 24t × 6t size test specimen.
+|                                                                                                                          Alloy and temper                                                                                                                          |Tensile strength—PSI|Elongation—percent minimum for 2″ or 4D <sup>1</sup> size specimen|               |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|------------------------------------------------------------------|---------------|
+|                                                                                                                          Ultimate—minimum                                                                                                                          |   Yield—minimum    |                                                                  |               |
+|                                                                                                                              6061-T6                                                                                                                               |       38,000       |                              35,000                              |<sup>2</sup> 14|
+|<sup>1</sup> “D” represents specimen diameters. When the cylinder wall is greater than 3/16 inch thick, a retest without reheat treatment using the 4D size specimen is authorized if the test using the 2 inch size specimen fails to meet elongation requirements.|                    |                                                                  |               |
+|                                                             <sup>2</sup> When cylinder wall is not over 3/16-inch thick, 10 percent elongation is authorized when using a 24t × 6t size test specimen.                                                             |                    |                                                                  |               |
 
 (5) All starting stock must be 100 percent ultrasonically inspected, along the length at right angles to the central axis from two positions at 90° to one another. The equipment and continuous scanning procedure must be capable of detecting and rejecting internal defects such as cracks which have an ultrasonic response greater than that of a calibration block with a5/64-inch diameter flat bottomed hole.
 
@@ -48,7 +36,7 @@ Table 2 - Mechanical Property Limits
 
 (1) Cylinder shells must be manufactured by the backward extrusion method and have a cleanliness level adequate to ensure proper inspection. No fissure or other defect is acceptable that is likely to weaken the finished cylinder below the design strength requirements. A reasonably smooth and uniform surface finish is required. If not originally free from such defects, the surface may be machined or otherwise conditioned to eliminate these defects.
 
-(2) Thickness of the cylinder base may not be less than the prescribed minimum wall thickness of the cylindrical shell. The cylinder base must have a basic torispherical, hemispherical, or ellipsoidal interior base configuration where the dish radius is no greater than 1.2 times the inside diameter of the shell. The knuckle radius may not be less than 12 percent of the inside diameter of the shell. The interior base contour may deviate from the true torispherical, hemispherical or ellipsoidal configuration provided that -
+(2) Thickness of the cylinder base may not be less than the prescribed minimum wall thickness of the cylindrical shell. The cylinder base must have a basic torispherical, hemispherical, or ellipsoidal interior base configuration where the dish radius is no greater than 1.2 times the inside diameter of the shell. The knuckle radius may not be less than 12 percent of the inside diameter of the shell. The interior base contour may deviate from the true torispherical, hemispherical or ellipsoidal configuration provided that—
 
 (i) Any areas of deviation are accompanied by an increase in base thickness;
 
@@ -116,27 +104,25 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = Wall stress in psi;P = Prescribed 
 
 (f) *Heat treatment.* Prior to any test, all cylinders must be subjected to a solution heat treatment and aging treatment appropriate for the aluminum alloy used.
 
-(g) *Hydrostatic test.* Each cylinder must be subjected to an internal test pressure using the water jacket equipment and method or other suitable equipment and method and comply with the following requirements:
+(g) *Pressure testing.* Each cylinder must successfully withstand a pressure test as follows:
 
-(1) The testing apparatus must be operated in a manner so as to obtain accurate data. The pressure gauge used must permit reading to an accuracy of one percent. The expansion gauge must permit reading the total expansion to an accuracy of either one percent or 0.1 cubic centimeter.
+(1) The test must be by water-jacket or direct expansion method as prescribed in CGA C-1 (IBR; see § 171.7 of this subchapter). The testing equipment must be calibrated as prescribed in CGA C-1. All testing equipment and pressure indicating devices must be accurate within the parameters defined in CGA C-1.
 
-(2) The test pressure must be maintained for a sufficient period of time to assure complete expansion of the cylinder. In no case may the pressure be held less than 30 seconds. If, due to failure of the test apparatus, the required test pressure cannot be maintained, the test may be repeated at a pressure increased by 10 percent or 100 psig, whichever is lower. If the test apparatus again fails to maintain the test pressure, the cylinder being tested must be rejected. Any internal pressure applied to the cylinder before any official test may not exceed 90 percent of the test pressure.
-
-(3) The minimum test pressure is the greatest of the following:
+(2) The minimum test pressure must be the greater of the following:
 
 (i) 450 psig regardless of service pressure;
 
-(ii) Two times the service pressure for cylinders having service pressure less than 500 psig; or
+(ii) Two (2) times the service pressure for cylinders having service pressure less than 500 psig; or
 
-(iii) Five-thirds times the service pressure for cylinders having a service pressure of at least 500 psig.
+(iii)5/3 times the service pressure for cylinders having a service pressure of 500 psig or greater.
+
+(3) The minimum test pressure must be maintained at least 30 seconds and sufficiently longer to ensure complete expansion. Any internal pressure applied after heat treatment and prior to the official test may not exceed 90 percent of the test pressure. If, due to failure of the test apparatus or operator error, the test pressure cannot be maintained, the test may be repeated in accordance with CGA C-1, section 5.7.2, however, if a second failure to maintain the test pressure occurs the cylinder being tested must be rejected.
 
 (4) Permanent volumetric expansion may not exceed 10 percent of total volumetric expansion at test pressure.
 
 (h) *Flattening test.* One cylinder taken at random out of each lot must be subjected to a flattening test as follows:
 
 (1) The test must be between knife edges, wedge shaped, having a 60° included angle, and rounded in accordance with the following table. The longitudinal axis of the cylinder must be at an angle 90° to the knife edges during the test. The flattening test table is as follows:
-
-Table 3 - Flattening Test Table
 
 |Cylinder wall thickness in inches|Radius in inches|
 |---------------------------------|----------------|
@@ -208,4 +194,4 @@ Table 3 - Flattening Test Table
 
 (m) *Inspector's report.* In addition to the information required by § 178.35, the record of chemical analyses must also include the alloy designation, and applicable information on iron, titanium, zinc, magnesium and any other applicable element used in the construction of the cylinder.
 
-[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 66 FR 45386, Aug. 28, 2001; 67 FR 51652, Aug. 8, 2002; 68 FR 75749, Dec. 31, 2003; 77 FR 60943, Oct. 5, 2012]
+[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 66 FR 45386, Aug. 28, 2001; 67 FR 51652, Aug. 8, 2002; 68 FR 75749, Dec. 31, 2003; 77 FR 60943, Oct. 5, 2012; 85 FR 85421, Dec. 28, 2020]

@@ -1,7 +1,5 @@
 ##### § 173.306 Limited quantities of compressed gases. #####
 
-Link to an amendment published at 85 FR 85419, Dec. 28, 2020.
-
 (a) Limited quantities of compressed gases for which exceptions are permitted as noted by reference to this section in § 172.101 of this subchapter are excepted from labeling, except when offered for transportation or transported by air, and, unless required as a condition of the exception, specification packaging requirements of this subchapter when packaged in accordance with the following paragraphs. For transportation by aircraft, the package must conform to the applicable requirements of § 173.27 and only packages of hazardous materials authorized aboard passenger-carrying aircraft may be transported as a limited quantity. In addition, shipments are not subject to subpart F (Placarding) of part 172 of this subchapter, to part 174 of this subchapter except § 174.24, and to part 177 of this subchapter except § 177.817. Except as otherwise provided in this section, each package may not exceed 30 kg (66 lbs.) gross weight.
 
 (1) When in containers of not more than 4 fluid ounces capacity (7.22 cubic inches or less) except cigarette lighters. Additional exceptions for certain compressed gases in limited quantities and the ORM-D hazard class are provided in paragraph (i) of this section.
@@ -208,19 +206,21 @@ Authorized Aerosol Containers for Foodstuffs and Soaps
 
 (5) Accumulators not conforming to the provisions of paragraphs (f)(1) through (f)(4) of this section may only be transported subject to the approval of the Associate Administrator.
 
-(g) *Water pump system tank.* Water pump system tanks charged with compressed air or limited quantities of nitrogen to not over 40 psig for single-trip shipment to installation sites are excepted from labeling (transportation by air not authorized) and the specification packaging requirements of this subchapter when shipped under the following conditions. In addition, shipments are not subject to subpart F of this subchapter, to part 174 of this subchapter except § 174.24 and part 177 except § 177.817.
+(g) *Water pump system tank.* Water pump system tanks pre-charged at time of manufacture with compressed air or limited quantities of nitrogen or helium to not over 275.79 kPa gauge pressure (40 psig) for single-trip shipment to installation sites are excepted from labeling, and the specification packaging requirements of this subchapter when shipped under the following conditions. In addition, shipments of these tanks are not subject to the placarding requirements of subpart F of part 172 of this subchapter, and not subject to parts 174 (except § 174.24) and 177 (except § 177.817) of this subchapter.
 
-(1) The tank must be of steel, welded with heads concave to pressure, having a rated water capacity not exceeding 120 gallons and with outside diameter not exceeding 24 inches. Safety relief devices not required.
+(1) The tank must be of steel or composite construction, with heads concave to pressure, having a rated water capacity not exceeding 455 L (120 gallons) and with an outside diameter not exceeding 61 cm (24 inches). These tanks may be operated in ambient air temperatures of up to 49 °C (120 °F) with a maximum working pressure not less than 75 psig and not greater than 150 psig. Safety relief devices are not required.
 
-(2) The tank must be pneumatically tested to 100 psig. Test pressure must be permanently marked on the tank.
+(2) Each tank must be pneumatically tested to the manufacturer's specified maximum working pressure. The test pressure must be permanently marked on the tank. In any case, the pneumatic test must not be conducted to a pressure exceeding 150 psig.
 
-(3) The stress at prescribed pressure must not exceed 20,000 psi using formula:
+(3) The stress at prescribed pressure for steel tanks must not exceed 20,000 psig (or 25,000 psig for deep-draw steel), using the formula:
 
-S = Pd / 2twhere:S = wall stress in psi:P = prescribed pressure for the tank of at least 3 times charged pressure at 70 °F or 100 psig, whichever is greater;d = inside diameter in inches;t = minimum wall thickness, in inches.
+S = Pd/2tWhere:S = wall stress in psi;P = prescribed pressure for the tank is at least the manufacturer's rated maximum working pressure or three (3) times the pre-charged pressure at 21.1 °C (70 °F), whichever is greater;d = inside diameter in inches; andt = minimum wall thickness, in inches.
 
-(4) The burst pressure must be at least 6 times the charge pressure at 70 °F.
+(4) For steel and composite tanks, the burst pressure must be at least six (6) times the pre-charge pressure at 21.1 °C (70 °F) or three (3) times the manufacturer's specified maximum working pressure, whichever is greater.
 
-(5) Each tank must be overpacked in a strong outer packaging in accordance with § 173.301(h).
+(5) Each tank must be over-packed in a strong outer packaging in conformance with § 173.301(h).
+
+(6) Transportation is limited to motor vehicle, railcar, and vessel. Transportation by aircraft is not authorized.
 
 (h) *Lighter refills.* (1) Lighter refills (see § 171.8 of this subchapter) must not contain an ignition element but must contain a release device. Lighter refills offered for transportation under this section may not exceed 4 fluid ounces capacity (7.22 cubic inches) or contain more than 65 grams of a Division 2.1 fuel. For transportation by highway or rail, lighter refills must be tightly packed and secured against shifting in strong outer packagings. For transportation by aircraft or vessel, lighter refills must be tightly packed and secured against shifting in any rigid specification outer packaging authorized in subpart L of part 178 of this subchapter at the Packing Group II performance level.
 

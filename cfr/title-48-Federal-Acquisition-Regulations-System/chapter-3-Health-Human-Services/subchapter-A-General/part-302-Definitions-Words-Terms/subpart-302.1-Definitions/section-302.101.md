@@ -8,6 +8,8 @@
 
 (2) The contractor meets the contract or order's technical requirements by the specified delivery date(s) or within the period of performance; and
 
-(3) The contractor performs within cost ceiling stated in the contract or order. CORs must meet the training and certification requirements specified in 301.604.
+(3) The contractor performs within cost ceiling stated in the contract or order. CORs must meet the training and certification requirements specified in PGI Part 301.604.
 
 (c) *Head of the Contracting Activity (HCA)* is an official having overall responsibility for managing a contracting activity, *i.e.* the organization within an OPDIV or STAFFDIV or other HHS organization which has been delegated broad authority regarding the conduct of acquisition functions.
+
+[80 FR 72151, Nov. 18, 2015, as amended at 85 FR 72911, Nov. 16, 2020]

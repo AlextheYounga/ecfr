@@ -1,7 +1,5 @@
 ##### § 178.39 Specification 3BN seamless nickel cylinders. #####
 
-Link to an amendment published at 85 FR 85420, Dec. 28, 2020.
-
 (a) *Type, size and service pressure.* A DOT 3BN cylinder is a seamless nickel cylinder with a water capacity (nominal) not over 125 pounds water capacity (nominal) and a service pressure at least 150 to not over 500 psig.
 
 (b) *Nickel.* The percentage of nickel plus cobalt must be at least 99.0 percent.
@@ -26,15 +24,15 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = wall stress in psi;P = minimum tes
 
 (3) Straight threads having at least 6 engaged threads are authorized. Straight threads must have a tight fit and a calculated shear strength of at least 10 times the test pressure of the cylinder. Gaskets, adequate to prevent leakage, are required.
 
-(i) *Hydrostatic test.* Each cylinder must successfully withstand a hydrostatic test, as follows:
+(i) *Pressure testing.* Each cylinder must successfully withstand a pressure test as follows:
 
-(1) The test must be by water-jacket, or other suitable method, operated so as to obtain accurate data. The pressure gauge must permit reading to an accuracy of 1 percent. The expansion gauge must permit reading of total expansion to an accuracy either of 1 percent or 0.1 cubic centimeter.
+(1) The test must be by water-jacket or direct expansion method as prescribed in CGA C-1 (IBR; see § 171.7 of this subchapter). The testing equipment must be calibrated as prescribed in CGA C-1. All testing equipment and pressure indicating devices must be accurate within the parameters defined in CGA C-1.
 
-(2) Pressure must be maintained for at least 30 seconds and sufficiently longer to ensure complete expansion. Any internal pressure applied after heat-treatment and previous to the official test may not exceed 90 percent of the test pressure. If, due to failure of the test apparatus, the test pressure cannot be maintained, the test may be repeated at a pressure increased by 10 percent or 100 psig, whichever is the lower.
+(2) Each cylinder must be tested to a minimum of at least two (2) times its service pressure.
 
-(3) Permanent volumetric expansion may not exceed 10 percent of total volumetric expansion at test pressure.
+(3) The minimum test pressure must be maintained at least 30 seconds and sufficiently longer to ensure complete expansion. Any internal pressure applied after heat-treatment and previous to the official test may not exceed 90 percent of the test pressure. If, due to failure of the test apparatus or operator error, the test pressure cannot be maintained, the test may be repeated in accordance with CGA C-1, section 5.7.2.
 
-(4) Each cylinder must be tested to at least 2 times service pressure.
+(4) Permanent volumetric expansion may not exceed 10 percent of total volumetric expansion at test pressure.
 
 (j) *Flattening test.* A flattening test must be performed on one cylinder taken at random out of each lot of 200 or less, by placing the cylinder between wedge shaped knife edges having a 60° included angle, rounded to1/2-inch radius. The longitudinal axis of the cylinder must be at a 90-degree angle to knife edges during the test. For lots of 30 or less, flattening tests are authorized to be made on a ring at least 8 inches long cut from each cylinder and subjected to same heat treatment as the finished cylinder.
 
@@ -70,4 +68,4 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = wall stress in psi;P = minimum tes
 
 (m) *Rejected cylinders.* Reheat treatment is authorized for rejected cylinders. Subsequent thereto, cylinders must pass all prescribed tests to be acceptable. Repair by welding is not authorized.
 
-[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended by 66 FR 45185, 45386, 45388, Aug. 28, 2001; 67 FR 51652, Aug. 8, 2002; 68 FR 75748, Dec. 31, 2003]
+[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended by 66 FR 45185, 45386, 45388, Aug. 28, 2001; 67 FR 51652, Aug. 8, 2002; 68 FR 75748, Dec. 31, 2003; 85 FR 85420, Dec. 28, 2020]

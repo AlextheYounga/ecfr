@@ -1,12 +1,8 @@
 ##### § 178.58 Specification 4DA welded steel cylinders for aircraft use. #####
 
-Link to an amendment published at 85 FR 85427, Dec. 28, 2020.
-
 (a) *Type, size, and service pressure.* A DOT 4DA is a welded steel sphere (two seamless hemispheres) or a circumferentially welded cylinder (two seamless drawn shells) with a water capacity not over 100 pounds and a service pressure of at least 500 but not over 900 psig.
 
 (b) *Steel.* Open-hearth or electric steel of uniform quality must be used. A heat of steel made under table 1 in this paragraph (b), check chemical analysis of which is slightly out of the specified range, is acceptable, if satisfactory in all other respects, provided the tolerances shown in table 2 in this paragraph (b) are not exceeded except as approved by the Associate Administrator. The following chemical analyses are authorized:
-
-Table 1 - Authorized Materials
 
 |   4130   | Percent  |
 |----------|----------|
@@ -18,23 +14,20 @@ Table 1 - Authorized Materials
 | Chromium |0.80/1.10.|
 |Molybdenum|0.15/0.25.|
 
-Table 2 - Check Analysis Tolerances
-
-|       Element        |Limit or maximum specified (percent)|Tolerance (percent) over the maximum limit or under the minimum limit|   |
-|----------------------|------------------------------------|---------------------------------------------------------------------|---|
-| Under minimum limit  |         Over maximum limit         |                                                                     |   |
-|        Carbon        |       Over 0.15 to 0.40 incl       |                                 .03                                 |.04|
-|      Manganese       |            To 0.60 incl            |                                 .03                                 |.03|
-|Phosphorus<sup>1</sup>|             All ranges             |                                                                     |.01|
-|       Sulphur        |             All ranges             |                                                                     |.01|
-|       Silicon        |            To 0.30 incl            |                                 .02                                 |.03|
-|                      |       Over 0.30 to 1.00 incl       |                                 .05                                 |.05|
-|       Chromium       |            To 0.90 incl            |                                 .03                                 |.03|
-|                      |       Over 0.90 to 2.10 incl       |                                 .05                                 |.05|
-|      Molybdenum      |            To 0.20 incl            |                                 .01                                 |.01|
-|                      |      Over 0.20 to 0.40, incl       |                                 .02                                 |.02|
-
-<sup>1</sup> Rephosphorized steels not subject to check analysis for phosphorus.
+|                                    Element                                     |Limit or maximum specified (percent)|Tolerance (percent) over the maximum limit or under the minimum limit|   |
+|--------------------------------------------------------------------------------|------------------------------------|---------------------------------------------------------------------|---|
+|                              Under minimum limit                               |         Over maximum limit         |                                                                     |   |
+|                                     Carbon                                     |       Over 0.15 to 0.40 incl       |                                 .03                                 |.04|
+|                                   Manganese                                    |            To 0.60 incl            |                                 .03                                 |.03|
+|                             Phosphorus<sup>1</sup>                             |             All ranges             |                                                                     |.01|
+|                                    Sulphur                                     |             All ranges             |                                                                     |.01|
+|                                    Silicon                                     |            To 0.30 incl            |                                 .02                                 |.03|
+|                                                                                |       Over 0.30 to 1.00 incl       |                                 .05                                 |.05|
+|                                    Chromium                                    |            To 0.90 incl            |                                 .03                                 |.03|
+|                                                                                |       Over 0.90 to 2.10 incl       |                                 .05                                 |.05|
+|                                   Molybdenum                                   |            To 0.20 incl            |                                 .01                                 |.01|
+|                                                                                |      Over 0.20 to 0.40, incl       |                                 .02                                 |.02|
+|<sup>1</sup> Rephosphorized steels not subject to check analysis for phosphorus.|                                    |                                                                     |   |
 
 (c) *Identification of material.* Materials must be identified by any suitable method except that plates and billets for hot-drawn containers must be marked with the heat number.
 
@@ -80,15 +73,15 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = wall stress in pounds psi;P = test
 
 (iii) Straight threads, having at least 4 engaged threads, to have tight fit and calculated shear strength at least 10 times the test pressure of the container; gaskets required, adequate to prevent leakage.
 
-(i) *Hydrostatic test.* Each cylinder must successfully withstand a hydrostatic test as follows:
+(i) *Pressure testing.* Each cylinder must successfully withstand a pressure test as follows:
 
-(1) The test must be by water-jacket, or other suitable method, operated so as to obtain accurate data. The pressure gauge must permit reading to an accuracy of 1 percent. The expansion gauge must permit reading of total expansion to accuracy either of 1 percent or 0.1 cubic centimeter.
+(1) The test must be by water-jacket or direct expansion method as prescribed in CGA C-1 (IBR; see § 171.7 of this subchapter). The testing equipment must be calibrated as prescribed in CGA C-1. All testing equipment and pressure indicating devices must be accurate within the parameters defined in CGA C-1.
 
-(2) Pressure must be maintained for at least 30 seconds and sufficiently longer to ensure complete expansion. Any internal pressure applied after heat-treatment and previous to the official test may not exceed 90 percent of the test pressure. If, due to failure of the test apparatus, the test pressure cannot be maintained, the test may be repeated at a pressure increased by 10 percent or 100 psig, whichever is the lower.
+(2) Each cylinder must be tested to a minimum of two (2) times service pressure.
 
-(3) Permanent volumetric expansion may not exceed 10 percent of total volumetric expansion at test pressure.
+(3) The minimum test pressure must be maintained at least 30 seconds and sufficiently longer to ensure complete expansion. Any internal pressure applied after heat-treatment and prior to the official test may not exceed 90 percent of the test pressure. If, due to failure of the test apparatus or operator error, the test pressure cannot be maintained, the test may be repeated in accordance with CGA C-1, section 5.7.2.
 
-(4) Each container must be tested to at least 2 times service pressure.
+(4) Permanent volumetric expansion may not exceed 10 percent of the total volumetric expansion at test pressure.
 
 (j) *Burst test.* One container taken at random out of 200 or less must be hydrostatically tested to destruction. The rupture pressure must be included as part of the inspector's report.
 
@@ -146,4 +139,4 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = wall stress in pounds psi;P = test
 
 (p) *Marking.* Markings on each container must be stamped plainly and permanently on a permanent attachment or on a metal nameplate permanently secured to the container by means other than soft solder.
 
-[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 66 FR 45386, 45388, Aug. 28, 2001; 67 FR 51654, Aug. 8, 2002; 67 FR 61015, Sept. 27, 2002; 68 FR 75748, Dec. 31, 2003]
+[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 66 FR 45386, 45388, Aug. 28, 2001; 67 FR 51654, Aug. 8, 2002; 67 FR 61015, Sept. 27, 2002; 68 FR 75748, Dec. 31, 2003; 85 FR 85427, Dec. 28, 2020]

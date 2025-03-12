@@ -1,8 +1,6 @@
 ##### § 173.309 Fire extinguishers. #####
 
-Link to an amendment published at 85 FR 85419, Dec. 28, 2020.
-
-This section applies to portable fire extinguishers for manual handling and operation, fire extinguishers for installation in aircraft, and large fire extinguishers. *Large fire extinguishers* include fire extinguishers mounted on wheels for manual handling; fire extinguishing equipment or machinery mounted on wheels or wheeled platforms or units transported similar to (small) trailers; and fire extinguishers composed of a non-rollable pressure drum and equipment, and handled, for example, by fork lift or crane when loaded or unloaded.
+This section applies to portable fire extinguishers for manual handling and operation, fire extinguishers for installation in aircraft, fire extinguishers for installation as part of a fire suppression system, and large fire extinguishers. Fire extinguishers for installation as part of a fire suppression system include cylinders charged with either a compressed gas and an extinguishing agent or a gas which comprises the sole fire extinguishing agent in the system. A fire extinguisher does not include cylinders pressurized with a gas for purposes of expelling a separately stored extinguishing agent in the fire suppression system. Large fire extinguishers include fire extinguishers mounted on wheels for manual handling; fire extinguishing equipment or machinery mounted on wheels or wheeled platforms or units transported similar to (small) trailers; and fire extinguishers composed of a non-rollable pressure drum and equipment, and handled, for example, by fork lift or crane when loaded or unloaded. Cylinders filled with a compressed gas whose purpose is to expel a separately stored extinguishing agent may not be transported under this section when offered for transportation or transported apart from a suppression system.
 
 (a) Specification 3A, 3AA, 3E, 3AL, 4B, 4BA, 4B240ET or 4BW (§§ 178.36, 178.37, 178.42, 178.46, 178.50, 178.51, 178.55 and 178.61 of this subchapter) cylinders are authorized for manufacture and use as fire extinguishers under the following conditions:
 
@@ -56,4 +54,4 @@ This section applies to portable fire extinguishers for manual handling and oper
 
 (3) Other equipment mounted on the fire extinguisher is protected to prevent accidental activation.
 
-[78 FR 1116, Jan. 7, 2013, as amended at 80 FR 1162, Jan. 8, 2015; 80 FR 72927, Nov. 23, 2015]
+[78 FR 1116, Jan. 7, 2013, as amended at 80 FR 1162, Jan. 8, 2015; 80 FR 72927, Nov. 23, 2015; 85 FR 85419, Dec. 28, 2020]

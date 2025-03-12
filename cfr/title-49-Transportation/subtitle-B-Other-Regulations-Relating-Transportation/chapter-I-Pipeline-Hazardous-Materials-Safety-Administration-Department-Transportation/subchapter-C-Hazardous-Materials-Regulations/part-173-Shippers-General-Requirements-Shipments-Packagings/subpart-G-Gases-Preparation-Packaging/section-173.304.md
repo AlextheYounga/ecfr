@@ -1,7 +1,5 @@
 ##### § 173.304 Filling of cylinders with liquefied compressed gases. #####
 
-Link to an amendment published at 85 FR 85416, Dec. 28, 2020.
-
 (a) *General requirements.* Except as provided in § 171.23(a)(3) of this subchapter, a cylinder filled with a liquefied compressed gas (except gas in solution) must be offered for transportation in accordance with the requirements of this section and the general requirements in § 173.301 of this subpart. In addition, a DOT specification cylinder must meet the requirement in §§ 173.301a, 173.304a, and 173.305 of this subpart, as applicable. UN pressure receptacles must be shipped in accordance with the requirements in §§ 173.301b and 173.304b of this subpart, as applicable.
 
 (1) A DOT 3AL cylinder may not be used for any material with a primary or subsidiary hazard of Class 8.
@@ -26,11 +24,13 @@ Link to an amendment published at 85 FR 85416, Dec. 28, 2020.
 
 (2) Cylinders must be equipped with a pressure relief device in accordance with § 173.301(f) and, for DOT 39 cylinders offered for transportation after October 1, 2008, for the other DOT specification cylinders with the first requalification due after October 1, 2008, or for the UN pressure receptacles prior to initial use:
 
-(i) The rated burst pressure of a rupture disc for DOT 3A, 3AA, 3AL, 3E and 39 cylinders, and UN pressure receptacles ISO 9809-1, ISO 9809-2, ISO 9809-3 and ISO 7866 cylinders must be 100% of the cylinder minimum test pressure with a tolerance of plus zero to minus 10%; and
+(i) The rated burst pressure of a rupture disc for DOT 3A, 3AA, 3AL, and 3E cylinders, and UN pressure receptacles ISO 9809-1, ISO 9809-2, ISO 9809-3, and ISO 7866 cylinders must be 100% of the cylinder minimum test pressure with a tolerance of plus zero to minus 10%;
 
-(ii) The rated burst pressure of a rupture disc for a DOT 3HT cylinder must be 90% of the cylinder minimum test pressure with a tolerance of plus zero to minus 10%.
+(ii) The rated burst pressure of a rupture disc for a DOT 3HT cylinder must be 90% of the cylinder minimum test pressure with a tolerance of plus zero to minus 10%; and
 
-(3) The cylinder must be placed in a rigid outer packaging that -
+(iii) The rated burst pressure of a rupture disc for a DOT 39 cylinder must be not more than 80 percent of cylinder burst pressure but not less than 105 percent of cylinder test pressure. Cylinders filled and offered for transportation in accordance with the requirements of the section before January 27, 2021 may continue to be used for the life of the packaging.
+
+(3) The cylinder must be placed in a rigid outer packaging that—
 
 (i) Conforms to the requirements of either part 178, subparts L and M, of this subchapter at the Packing Group I or II performance level, or the performance criteria in Air Transport Association (ATA) Specification No. 300 for a Category I Shipping Container;
 
@@ -44,4 +44,4 @@ Link to an amendment published at 85 FR 85416, Dec. 28, 2020.
 
 (6) A cylinder of compressed oxygen that has been furnished by an aircraft operator to a passenger in accordance with 14 CFR 121.574, 125.219, or 135.91 is excepted from the outer packaging requirements of paragraph (f)(3) of this section.
 
-[67 FR 51647, Aug. 8, 2002, as amended at 68 FR 24661, May 8, 2003; 71 FR 33883, June 12, 2006; 72 FR 55098, Sept. 28, 2007; 74 FR 53188, Oct. 16, 2009; 76 FR 56317, Sept. 13, 2011; 78 FR 60754, Oct. 2, 2013; 81 FR 3676, Jan. 21, 2016; 85 FR 75714, Nov. 25, 2020]
+[67 FR 51647, Aug. 8, 2002, as amended at 68 FR 24661, May 8, 2003; 71 FR 33883, June 12, 2006; 72 FR 55098, Sept. 28, 2007; 74 FR 53188, Oct. 16, 2009; 76 FR 56317, Sept. 13, 2011; 78 FR 60754, Oct. 2, 2013; 81 FR 3676, Jan. 21, 2016; 85 FR 75714, Nov. 25, 2020; 85 FR 85416, Dec. 28, 2020]

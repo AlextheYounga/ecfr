@@ -1,7 +1,5 @@
 ##### § 173.3 Packaging and exceptions. #####
 
-Link to an amendment published at 85 FR 85416, Dec. 28, 2020.
-
 (a) The packaging of hazardous materials for transportation by air, highway, rail, or water must be as specified in this part. Methods of manufacture, packing, and storage of hazardous materials, that affect safety in transportation, must be open to inspection by a duly authorized representative of the initial carrier or of the Department. Methods of manufacture and related functions necessary for completion of a DOT specification or U.N. standard packaging must be open to inspection by a representative of the Department.
 
 (b) The regulations setting forth packaging requirements for a specific material apply to all modes of transportation unless otherwise stated, or unless exceptions from packaging requirements are authorized.
@@ -28,9 +26,9 @@ Link to an amendment published at 85 FR 85416, Dec. 28, 2020.
 
 (d) *Salvage cylinders.* Cylinders of hazardous materials that are damaged or leaking may be overpacked in a non-DOT specification full opening hinged head or fully removable head steel salvage cylinder under the following conditions:
 
-(1) Only a cylinder containing a Division 2.1, 2.2, 2.3, 3, 6.1, or a Class 8 material may be overpacked in a salvage cylinder. A cylinder containing acetylene may not be overpacked in a salvage cylinder.
+(1) Except for Class 1, Division 6.2, Class 7, or acetylene material, a cylinder containing a hazardous material may be overpacked in a salvage cylinder.
 
-(2) Each salvage cylinder -
+(2) Each salvage cylinder—
 
 (i) Must be designed, constructed and marked in accordance with Section VIII, Division I of the ASME Code (IBR, *see* § 171.7 of this subchapter) with a minimum design margin of 4 to 1. Salvage cylinders may not be equipped with a pressure relief device. Damaged cylinders must be securely positioned in the salvage cylinder to prevent excessive shifting. The overpack requirements of § 173.25 do not apply to salvage cylinders used in accordance with this section.
 
@@ -104,4 +102,4 @@ Link to an amendment published at 85 FR 85416, Dec. 28, 2020.
 
 (6) The overpack requirements of § 173.25 do not apply to large salvage packagings used in accordance with this paragraph.
 
-[Amdt. 173-224, 55 FR 52607, Dec. 21, 1990, as amended at 56 FR 66265, Dec. 20, 1991; Amdt. 173-234, 58 FR 51531, Oct. 1, 1993; Amdt. 173-261, 62 FR 24719, May 6, 1997; 66 FR 45380, Aug. 28, 2001; 68 FR 48569, Aug. 14, 2003; 69 FR 76154, Dec. 20, 2004; 70 FR 3307, Jan. 24, 2005; 68 FR 61941, Oct. 30, 2003; 70 FR 34397, June 14, 2005; 70 FR 56098, Sept. 23, 2005; 75 FR 27213, May 14, 2010; 76 FR 43528, July 20, 2011; 80 FR 1151, Jan. 8, 2015; 83 FR 55807, Nov. 7, 2018; 85 FR 83382, Dec. 21, 2020]
+[Amdt. 173-224, 55 FR 52607, Dec. 21, 1990]Editorial Note:For Federal Register citations affecting § 173.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

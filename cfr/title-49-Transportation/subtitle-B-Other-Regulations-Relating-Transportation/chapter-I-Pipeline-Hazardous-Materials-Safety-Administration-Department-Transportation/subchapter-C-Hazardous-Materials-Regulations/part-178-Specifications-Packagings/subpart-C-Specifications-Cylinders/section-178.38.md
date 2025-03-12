@@ -1,7 +1,5 @@
 ##### § 178.38 Specification 3B seamless steel cylinders. #####
 
-Link to an amendment published at 85 FR 85420, Dec. 28, 2020.
-
 (a) *Type, size, and service pressure.* A DOT 3B cylinder is seamless steel cylinder with a water capacity (nominal) of not over 1,000 pounds and a service pressure of at least 150 to not over 500 psig.
 
 (b) *Steel.* Open-hearth or electric steel of uniform quality must be used. Content percent may not exceed the following: carbon, 0.55; phosphorus, 0.045; sulphur, 0.050.
@@ -30,19 +28,19 @@ S = [P(1.3D2 + 0.4d2)]/(D2−d2)Where:S = wall stress in psi;P = at least two ti
 
 (3) Straight threads having at least 4 engaged threads are authorized. Straight threads must have a tight fit, and calculated shear strength at least 10 times the test pressure of the cylinder. Gaskets, adequate to prevent leakage, are required.
 
-(i) *Hydrostatic test.* Cylinders must successfully withstand a hydrostatic test, as follows:
+(i) *Pressure testing.* Each cylinder must successfully withstand a pressure test as follows:
 
-(1) The test must be by water-jacket, or other suitable method, operated so as to obtain accurate data. The pressure gauge must permit reading to an accuracy of 1 percent. The expansion gauge must permit reading of total expansion to an accuracy either of 1 percent or 0.1 cubic centimeter.
+(1) The test must be by water-jacket or direct expansion method as defined in CGA C-1 (IBR; see § 171.7 of this subchapter). The testing equipment must be calibrated as prescribed in CGA C-1. All testing equipment and pressure indicating devices must be accurate within the parameters defined in CGA C-1.
 
-(2) Pressure must be maintained for at least 30 seconds and sufficiently longer to insure complete expansion. Any internal pressure applied after heat-treatment and previous to the official test may not exceed 90 percent of the test pressure. If, due to failure of the test apparatus, the test pressure cannot be maintained, the test may be repeated at a pressure increased by 10 percent or 100 psig, whichever is the lower.
+(2) Cylinders must be tested as follows:
 
-(3) Permanent volumetric expansion may not exceed 10 percent of total volumetric expansion at test pressure.
+(i) Each cylinder to at least two (2) times its service pressure; or
 
-(4) Cylinders must be tested as follows:
+(ii) One (1) cylinder out of each lot of 200 or fewer to at least three (3) times its service pressure. When one (1) cylinder out of each lot of 200 or less is tested to at least 3 times service pressure, the balance of the lot must be pressure tested by the proof pressure, water-jacket or direct expansion test method as prescribed in CGA C-1. The cylinders must be subjected to at least 2 times service pressure and show no defect. If, due to failure of the test apparatus or operator error, the test pressure cannot be maintained, the test may be repeated in accordance with CGA C-1 5.7.2 or 7.1.2, as appropriate. Determination of expansion properties is not required.
 
-(i) Each cylinder; to at least 2 times service pressure; or
+(3) When each cylinder is tested to the minimum test pressure, the minimum test pressure must be maintained at least 30 seconds and sufficiently longer to ensure complete expansion. Any internal pressure applied after heat-treatment and previous to the official test may not exceed 90 percent of the test pressure. If, due to failure of the test apparatus or operator error, the test pressure cannot be maintained, the test may be repeated in accordance with CGA C-1, section 5.7.2.
 
-(ii) 1 cylinder out of each lot of 200 or less; to at least 3 times service pressure. Others must be examined under pressure of 2 times service pressure and show no defect.
+(4) Permanent volumetric expansion may not exceed 10 percent of total volumetric expansion at test pressure.
 
 (j) *Flattening test.* A flattening test must be performed on one cylinder taken at random out of each lot of 200 or less, by placing the cylinder between wedge shaped knife edges having a 60° included angle, rounded to1/2-inch radius. The longitudinal axis of the cylinder must be at a 90-degree angle to knife edges during the test. For lots of 30 or less, flattening tests are authorized to be made on a ring at least 8 inches long cut from each cylinder and subjected to same heat treatment as the finished cylinder.
 
@@ -102,4 +100,4 @@ S = [P(1.3D2 + 0.4d2)]/(D2−d2)Where:S = wall stress in psi;P = at least two ti
 
 (6) Stamping must be adjacent to the top head.
 
-[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended by 66 FR 45185, 45386, Aug. 28, 2001; 67 FR 51652, Aug. 8, 2002; 68 FR 75748, Dec. 31, 2003]
+[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended by 66 FR 45185, 45386, Aug. 28, 2001; 67 FR 51652, Aug. 8, 2002; 68 FR 75748, Dec. 31, 2003; 85 FR 85420, Dec. 28, 2020]

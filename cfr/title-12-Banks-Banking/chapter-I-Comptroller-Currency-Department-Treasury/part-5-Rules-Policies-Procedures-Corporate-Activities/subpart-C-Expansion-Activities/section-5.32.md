@@ -6,7 +6,7 @@
 
 (c) *Licensing requirements.* A national bank must submit an application to, and obtain approval from, the OCC prior to participating in a reorganization described in paragraph (b) of this section.
 
-(d) *Procedures* - (1) *General.* An application filed in accordance with this section is deemed approved on the 30th day after the OCC receives the application, unless the OCC notifies the bank otherwise. Approval is subject to the condition that the bank provide the OCC with 60 days' prior notice of any significant deviation from the bank's business plan or any significant deviation from the proposed changes to the bank's business plan described in the bank's plan of reorganization.
+(d) *Procedures*—(1) *General.* An application filed in accordance with this section is deemed approved on the 30th day after the OCC receives the application, unless the OCC notifies the bank otherwise. Approval is subject to the condition that the bank provide the OCC with 60 days' prior notice of any significant deviation from the bank's business plan or any significant deviation from the proposed changes to the bank's business plan described in the bank's plan of reorganization.
 
 (2) *Reorganization plan.* The application must include a reorganization plan that:
 
@@ -36,7 +36,7 @@
 
 (g) *Expiration of approval.* Approval expires if a national bank has not completed the reorganization within one year of the date of approval.
 
-(h) *Adequacy of disclosure.* (1) A filermust inform shareholders of all material aspects of a reorganization and comply with applicable requirements of the Federal securities laws, including the OCC's securities regulations at 12 CFR part 11.
+(h) *Adequacy of disclosure.* (1) A filer must inform shareholders of all material aspects of a reorganization and comply with applicable requirements of the Federal securities laws, including the OCC's securities regulations at 12 CFR part 11.
 
 (2) Any filer not subject to the registration provisions of the Securities Exchange Act of 1934 must submit the proxy materials or information statements it uses in connection with the reorganization to the appropriate OCC licensing office no later than when the materials are sent to the shareholders.
 

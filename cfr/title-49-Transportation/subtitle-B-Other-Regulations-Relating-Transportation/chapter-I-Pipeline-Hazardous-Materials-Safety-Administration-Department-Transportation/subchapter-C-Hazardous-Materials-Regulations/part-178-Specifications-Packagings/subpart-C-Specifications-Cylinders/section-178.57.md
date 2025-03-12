@@ -1,7 +1,5 @@
 ##### § 178.57 Specification 4L welded insulated cylinders. #####
 
-Link to an amendment published at 85 FR 85427, Dec. 28, 2020.
-
 (a) *Type, size, service pressure, and design service temperature.* A DOT 4L cylinder is a fusion welded insulated cylinder with a water capacity (nominal) not over 1,000 pounds water capacity and a service pressure of at least 40 but not greater than 500 psig conforming to the following requirements:
 
 (1) For liquefied hydrogen service, the cylinders must be designed to stand on end, with the axis of the cylindrical portion vertical.
@@ -77,7 +75,15 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)where:S = wall stress in pounds psi;P = mini
 
 (iii) Straight threads must have at least 4 engaged threads, tight fit and calculated shear strength at least 10 times the test pressure of the cylinder. Gaskets, which prevent leakage and are inert to the hazardous material, are required.
 
-(i) *Pressure test.* Each cylinder, before insulating and jacketing, must be examined under a pressure of at least 2 times the service pressure maintained for at least 30 seconds without evidence of leakage, visible distortion or other defect. The pressure gauge must permit reading to an accuracy of 1 percent.
+(i) *Pressure testing.* Each cylinder, before insulating and jacketing, must successfully withstand a pressure test as follows:
+
+(1) The cylinder must be tested by the proof pressure, water-jacket, or direct expansion test method as prescribed in CGA C-1 (IBR; see § 171.7 of this subchapter). The testing equipment must be calibrated as prescribed in CGA C-1. All testing equipment and pressure indicating devices must be accurate within the parameters defined in CGA C-1.
+
+(2) Each cylinder must be tested to a minimum of two (2) times service pressure.
+
+(3) The minimum test pressure must be maintained at least 30 seconds. Any internal pressure applied after heat-treatment and prior to the official test may not exceed 90 percent of the test pressure. If, due to failure of the test apparatus or operator error, the test pressure cannot be maintained, the test may be repeated in accordance with CGA C-1 5.7.2 or 7.1.2. Determination of expansion properties is not required.
+
+(4) There must be no evidence of leakage, visible distortion or other defect.
 
 (j) *Physical test.* A physical test must be conducted to determine yield strength, tensile strength, and elongation as follows:
 
@@ -113,7 +119,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)where:S = wall stress in pounds psi;P = mini
 
 (3) *Alternate guided-bend test.* This test may be used and must be as specified in CGA Pamphlet C-3. The specimen must be bent until the elongation at the outer surface, adjacent to the root of the weld, between the lightly scribed gage lines a to b, is at least 20 percent, except that this percentage may be reduced for steels having a tensile strength in excess of 100,000 psig, as provided in paragraph (c) of this section.
 
-(4) *Impact tests.* One set of three impact test specimens (for each test) must be prepared and tested for determining the impact properties of the deposited weld metal -
+(4) *Impact tests.* One set of three impact test specimens (for each test) must be prepared and tested for determining the impact properties of the deposited weld metal—
 
 (i) As part of the qualification of the welding procedure.
 
@@ -150,24 +156,19 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)where:S = wall stress in pounds psi;P = mini
 
 (1) *Inner containment vessel (cylinder).* Electric furnace steel of uniform quality must be used. Chemical analysis must conform to ASTM A 240/A 240M (IBR, see § 171.7 of this subchapter), Type 304 stainless steel. Chemical analysis must conform to ASTM A240, Type 304 Stainless Steel. A heat of steel made under table 1 and table 2 in this paragraph (o)(1) is acceptable, even though its check chemical analysis is slightly out of the specified range, if it is satisfactory in all other respects, provided the tolerances shown in table 3 in this paragraph (o)(1) are not exceeded. The following chemical analyses and physical properties are authorized:
 
-Table 1 - Authorized Materials
-
-|   Designation    |Chemical analysis, limits in percent|
-|------------------|------------------------------------|
-|Carbon<sup>1</sup>|             0.08 max.              |
-|    Manganese     |             2.00 max.              |
-|    Phosphorus    |             0.045 max.             |
-|     Sulphur      |             0.030 max.             |
-|     Silicon      |             1.00 max.              |
-|      Nickel      |            8.00-10.50.             |
-|     Chromium     |            18.00-20.00.            |
-|    Molybdenum    |               None.                |
-|     Titanium     |               None.                |
-|    Columbium     |               None.                |
-
-<sup>1</sup> The carbon analysis must be reported to the nearest hundredth of one percent.
-
-Table 2 - Physical Properties
+|                                       Designation                                        |Chemical analysis, limits in percent|
+|------------------------------------------------------------------------------------------|------------------------------------|
+|                                   Carbon <sup>1</sup>                                    |             0.08 max.              |
+|                                        Manganese                                         |             2.00 max.              |
+|                                        Phosphorus                                        |             0.045 max.             |
+|                                         Sulphur                                          |             0.030 max.             |
+|                                         Silicon                                          |             1.00 max.              |
+|                                          Nickel                                          |            8.00-10.50.             |
+|                                         Chromium                                         |            18.00-20.00.            |
+|                                        Molybdenum                                        |               None.                |
+|                                         Titanium                                         |               None.                |
+|                                        Columbium                                         |               None.                |
+|<sup>1</sup> The carbon analysis must be reported to the nearest hundredth of one percent.|                                    |
 
 |                                                            |Physical properties (annealed)|
 |------------------------------------------------------------|------------------------------|
@@ -176,23 +177,20 @@ Table 2 - Physical Properties
 |          Elongation in 2 inches (minimum) percent          |             30.0             |
 |Elongation other permissible gauge lengths (minimum) percent|             15.0             |
 
-Table 3 - Check Analysis Tolerances
-
-|       Elements       |Limit or specified range (percent)|Tolerance over the maximum limit or under the minimum limit|
-|----------------------|----------------------------------|-----------------------------------------------------------|
-|        Carbon        |          To 0.030, incl          |                           0.005                           |
-|                      |     Over 0.30 to 0.20, incl      |                           0.01                            |
-|      Manganese       |           To 1.00 incl           |                            .03                            |
-|                      |     Over 1.00 to 3.00, incl      |                           0.04                            |
-|Phosphorus<sup>1</sup>|          To 0.040, incl          |                           0.005                           |
-|                      |     Over 0.040 to 0.020 incl     |                           0.010                           |
-|       Sulphur        |           To .40 incl            |                           0.005                           |
-|       Silicon        |          To 1.00, incl           |                           0.05                            |
-|        Nickel        |     Over 5.00 to 10.00, incl     |                           0.10                            |
-|                      |    Over 10.00 to 20.00, incl     |                           0.15                            |
-|       Chromium       |    Over 15.00 to 20.00, incl     |                           0.20                            |
-
-<sup>1</sup> Rephosphorized steels not subject to check analysis for phosphorus.
+|                                    Elements                                    |Limit or specified range (percent)|Tolerance over the maximum limit or under the minimum limit|
+|--------------------------------------------------------------------------------|----------------------------------|-----------------------------------------------------------|
+|                                     Carbon                                     |          To 0.030, incl          |                           0.005                           |
+|                                                                                |     Over 0.30 to 0.20, incl      |                           0.01                            |
+|                                   Manganese                                    |           To 1.00 incl           |                            .03                            |
+|                                                                                |     Over 1.00 to 3.00, incl      |                           0.04                            |
+|                            Phosphorus <sup>1</sup>                             |          To 0.040, incl          |                           0.005                           |
+|                                                                                |     Over 0.040 to 0.020 incl     |                           0.010                           |
+|                                    Sulphur                                     |           To .40 incl            |                           0.005                           |
+|                                    Silicon                                     |          To 1.00, incl           |                           0.05                            |
+|                                     Nickel                                     |     Over 5.00 to 10.00, incl     |                           0.10                            |
+|                                                                                |    Over 10.00 to 20.00, incl     |                           0.15                            |
+|                                    Chromium                                    |    Over 15.00 to 20.00, incl     |                           0.20                            |
+|<sup>1</sup> Rephosphorized steels not subject to check analysis for phosphorus.|                                  |                                                           |
 
 (2) *Outer jacket.* (i) Nonflammable cryogenic liquids. Cylinders intended for use in the transportation of nonflammable cryogenic liquid must have an outer jacket made of steel or aluminum.
 
@@ -220,4 +218,4 @@ Table 3 - Check Analysis Tolerances
 
 (3) The impact test results, on a lot basis.
 
-[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 66 FR 45386, Aug. 28, 2001; 67 FR 51653, Aug. 8, 2002; 68 FR 75748, Dec. 31, 2003]
+[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 66 FR 45386, Aug. 28, 2001; 67 FR 51653, Aug. 8, 2002; 68 FR 75748, Dec. 31, 2003; 85 FR 85427, Dec. 28, 2020]

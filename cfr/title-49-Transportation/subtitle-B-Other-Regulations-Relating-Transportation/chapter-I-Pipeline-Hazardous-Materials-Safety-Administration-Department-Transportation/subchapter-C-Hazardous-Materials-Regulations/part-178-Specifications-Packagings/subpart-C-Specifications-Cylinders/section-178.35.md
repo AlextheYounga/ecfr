@@ -1,10 +1,8 @@
 ##### § 178.35 General requirements for specification cylinders. #####
 
-Link to an amendment published at 85 FR 85419, Dec. 28, 2020.
-
 (a) *Compliance.* Compliance with the requirements of this subpart is required in all details.
 
-(b) *Inspections and analyses.* Chemical analyses and tests required by this subchapter must be made within the United States, unless otherwise approved in writing by the Associate Administrator, in accordance with subpart I of part 107 of this chapter. Inspections and verification must be performed by -
+(b) *Inspections and analyses.* Chemical analyses and tests required by this subchapter must be made within the United States, unless otherwise approved in writing by the Associate Administrator, in accordance with subpart I of part 107 of this chapter. Inspections and verification must be performed by—
 
 (1) An independent inspection agency approved in writing by the Associate Administrator, in accordance with subpart I of part 107 of this chapter; or
 
@@ -62,6 +60,14 @@ DOT-3A1800-1234-XYAB 5-95Where:DOT-3A = specification number1800 = service press
 
 (7) *Marking exceptions.* A DOT 8 or 8AL cylinder is not required to be marked with the service pressure.
 
+(8) *Tare weight or mass weight, and water capacity marking.* DOT-specification 4B, 4BA, 4BW, and 4E cylinders used in liquefied compressed gas service manufactured after December 28, 2022, must be marked with the tare weight or mass weight. Additionally, the cylinder must be permanently marked with the water capacity. The owner of the cylinder must ensure it is marked with the following information, as applicable:
+
+(i) *Tare weight.* The tare weight for a cylinder 25 pounds or less at the time of manufacture, with a lower tolerance of 3 percent and an upper tolerance of 1 percent; or for a cylinder exceeding 25 pounds at the time of manufacture, with a lower tolerance of 2 percent and an upper tolerance of 1 percent. The tare weight marking must be the actual weight of the fully assembled cylinder, including the valve(s) and other permanently affixed appurtenances. Removable protective cap(s) or cover(s) must not be included in the cylinder tare weight. Tare weight shall be abbreviated “TW”; or
+
+(ii) *Mass weight.* The mass weight for a cylinder 25 pounds or less at the time of manufacture, with a lower tolerance of 3 percent and an upper tolerance of 1 percent; or the mass weight marking for a cylinder exceeding 25 pounds at the time of manufacture, with a lower tolerance of 2 percent and an upper tolerance of 1 percent. The mass weight marking must be the actual weight of the fully assembled cylinder, excluding valve(s) and removable protective cap(s) or cover(s). Mass weight shall be abbreviated “MW”; and
+
+(iii) *Water capacity.* The water capacity for a cylinder 25 pounds water capacity or less, with a tolerance of minus 1 percent and no upper tolerance; or for a cylinder exceeding 25 pounds water capacity, with a tolerance of minus 0.5 percent and no upper tolerance. The marked water capacity of the cylinder must be the capacity of the cylinder at the time of manufacture. Water capacity shall be abbreviated “WC”.
+
 (g) *Manufacturer's reports.* At or before the time of delivery to the purchaser, the cylinder manufacturer must have all completed certification documents listed in CGA C-11. The manufacturer of the cylinders must retain the reports required by this subpart for 15 years from the original test date of the cylinder.
 
-[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 66 FR 45185, Aug. 28, 2001; 67 FR 51652, Aug. 8, 2002; 68 FR 75748, Dec. 31, 2003; 76 FR 43531, July 20, 2011; 83 FR 55810, Nov. 7, 2018; 85 FR 75716, Nov. 25, 2020]
+[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 66 FR 45185, Aug. 28, 2001; 67 FR 51652, Aug. 8, 2002; 68 FR 75748, Dec. 31, 2003; 76 FR 43531, July 20, 2011; 83 FR 55810, Nov. 7, 2018; 85 FR 75716, Nov. 25, 2020; 85 FR 85419, Dec. 28, 2020]

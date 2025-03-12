@@ -1,0 +1,3 @@
+##### § 778.101 Purpose. #####
+
+The purpose of this part is to establish the requirements for a State to participate in the Pilot Program for eliminating duplication of environmental reviews (“Pilot Program”), authorized under 23 U.S.C. 330. The Pilot Program allows States to conduct environmental reviews and make approvals for projects under State environmental laws and regulations instead of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 *et seq.*).

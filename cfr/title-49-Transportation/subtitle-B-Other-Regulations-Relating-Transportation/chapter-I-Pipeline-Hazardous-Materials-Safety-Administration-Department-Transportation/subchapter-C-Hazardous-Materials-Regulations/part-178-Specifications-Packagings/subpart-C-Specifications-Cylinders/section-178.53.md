@@ -1,12 +1,8 @@
 ##### § 178.53 Specification 4D welded steel cylinders for aircraft use. #####
 
-Link to an amendment published at 85 FR 85426, Dec. 28, 2020.
-
 (a) *Type, size, and service pressure.* A DOT 4D cylinder is a welded steel sphere (two seamless hemispheres) or circumferentially welded cylinder (two seamless drawn shells) with a water capacity not over 100 pounds and a service pressure of at least 300 but not over 500 psig. Cylinders closed in by spinning process are not authorized.
 
 (b) *Steel.* Open-hearth or electric steel of uniform and weldable quality must be used. Content may not exceed the following: Carbon, 0.25; phosphorus, 0.045; sulphur, 0.050, except that the following steels commercially known as 4130X and Type 304, 316, 321, and 347 stainless steels may be used with proper welding procedure. A heat of steel made under table 1 in this paragraph (b), check chemical analysis of which is slightly out of the specified range, is acceptable, if satisfactory in all other respects, provided the tolerances shown in table 2 in this paragraph (b) are not exceeded, except as approved by the Associate Administrator. The following chemical analyses are authorized:
-
-Table 1 - 4130X Steel
 
 |  4130X   | Percent  |
 |----------|----------|
@@ -20,51 +16,44 @@ Table 1 - 4130X Steel
 |Zirconium |  None.   |
 |  Nickel  |  None.   |
 
-Table 2 - Authorized Stainless Steels
+|                                                                       | Stainless steels  |                   |                   |              |
+|-----------------------------------------------------------------------|-------------------|-------------------|-------------------|--------------|
+|                          304  <br/>(percent)                          |316  <br/>(percent)|321  <br/>(percent)|347  <br/>(percent)|              |
+|                             Carbon (max)                              |       0.08        |       0.08        |       0.08        |     0.08     |
+|                            Manganese (max)                            |       2.00        |       2.00        |       2.00        |     2.00     |
+|                           Phosphorus (max)                            |       .030        |       .045        |       .030        |     .030     |
+|                             Sulphur (max)                             |       .030        |       .030        |       .030        |     .030     |
+|                             Silicon (max)                             |        .75        |       1.00        |        .75        |     .75      |
+|                                Nickel                                 |     8.0/11.0      |     10.0/14.0     |     9.0/13.0      |   9.0/13.0   |
+|                               Chromium                                |     18.0/20.0     |     16.0/18.0     |     17.0/20.0     |  17.0/20.0   |
+|                              Molybdenum                               |                   |      2.0/3.0      |                   |              |
+|                               Titanium                                |                   |                   |  (<sup>1</sup>)   |              |
+|                               Columbium                               |                   |                   |                   |(<sup>2</sup>)|
+|<sup>1</sup> Titanium may not be less than 5C and not more than 0.60%. |                   |                   |                   |              |
+|<sup>2</sup> Columbium may not be less than 10C and not more than 1.0%.|                   |                   |                   |              |
 
-|                   | Stainless steels  |                   |                   |              |
-|-------------------|-------------------|-------------------|-------------------|--------------|
-|304  <br/>(percent)|316  <br/>(percent)|321  <br/>(percent)|347  <br/>(percent)|              |
-|   Carbon (max)    |       0.08        |       0.08        |       0.08        |     0.08     |
-|  Manganese (max)  |       2.00        |       2.00        |       2.00        |     2.00     |
-| Phosphorus (max)  |       .030        |       .045        |       .030        |     .030     |
-|   Sulphur (max)   |       .030        |       .030        |       .030        |     .030     |
-|   Silicon (max)   |        .75        |       1.00        |        .75        |     .75      |
-|      Nickel       |     8.0/11.0      |     10.0/14.0     |     9.0/13.0      |   9.0/13.0   |
-|     Chromium      |     18.0/20.0     |     16.0/18.0     |     17.0/20.0     |  17.0/20.0   |
-|    Molybdenum     |                   |      2.0/3.0      |                   |              |
-|     Titanium      |                   |                   |  (<sup>1</sup>)   |              |
-|     Columbium     |                   |                   |                   |(<sup>2</sup>)|
-
-<sup>1</sup> Titanium may not be less than 5C and not more than 0.60%.
-
-<sup>2</sup> Columbium may not be less than 10C and not more than 1.0%.
-
-Table 3 - Check Analysis Tolerances
-
-|       Element        |Limit or maximum specified  <br/>(percent)|Tolerance (percent) over the maximum limit or under the minimum limit|    |
-|----------------------|------------------------------------------|---------------------------------------------------------------------|----|
-| Under minimum limit  |            Over maximum limit            |                                                                     |    |
-|        Carbon        |               To 0.15 incl               |                                0.01                                 |0.01|
-|                      |          Over 0.15 to 0.40 incl          |                                 .03                                 |.04 |
-|      Manganese       |               To 0.60 incl               |                                 .03                                 |.03 |
-|                      |          Over 1.15 to 2.50 incl          |                                 .05                                 |.05 |
-|Phosphorus<sup>1</sup>|                All ranges                |                                                                     |.01 |
-|       Sulphur        |                All ranges                |                                                                     |.01 |
-|       Silicon        |               To 0.30 incl               |                                 .02                                 |.03 |
-|                      |          Over 0.30 to 1.00 incl          |                                 .05                                 |.05 |
-|        Nickel        |         Over 5.30 to 10.00 incl          |                                 .10                                 |.10 |
-|                      |         Over 10.00 to 14.00 incl         |                                 .15                                 |.15 |
-|       Chromium       |               To 0.90 incl               |                                 .03                                 |.03 |
-|                      |          Over 0.90 to 2.10 incl          |                                 .05                                 |.05 |
-|                      |         Over 15.00 to 20.00 incl         |                                 .20                                 |.20 |
-|      Molybdenum      |               To 0.20 incl               |                                 .01                                 |.01 |
-|                      |          Over 0.20 to 0.40 incl          |                                 .02                                 |.02 |
-|                      |          Over 1.75 to 3.0 incl           |                                 .10                                 |.10 |
-|       Titanium       |                All ranges                |                                 .05                                 |.05 |
-|      Columbium       |                All ranges                |                                 .05                                 |.05 |
-
-<sup>1</sup> Rephosphorized steels not subject to check analysis for phosphorus.
+|                                    Element                                     |Limit or maximum specified  <br/>(percent)|Tolerance (percent) over the maximum limit or under the minimum limit|    |
+|--------------------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------|----|
+|                              Under minimum limit                               |            Over maximum limit            |                                                                     |    |
+|                                     Carbon                                     |               To 0.15 incl               |                                0.01                                 |0.01|
+|                                                                                |          Over 0.15 to 0.40 incl          |                                 .03                                 |.04 |
+|                                   Manganese                                    |               To 0.60 incl               |                                 .03                                 |.03 |
+|                                                                                |          Over 1.15 to 2.50 incl          |                                 .05                                 |.05 |
+|                            Phosphorus <sup>1</sup>                             |                All ranges                |                                                                     |.01 |
+|                                    Sulphur                                     |                All ranges                |                                                                     |.01 |
+|                                    Silicon                                     |               To 0.30 incl               |                                 .02                                 |.03 |
+|                                                                                |          Over 0.30 to 1.00 incl          |                                 .05                                 |.05 |
+|                                     Nickel                                     |         Over 5.30 to 10.00 incl          |                                 .10                                 |.10 |
+|                                                                                |         Over 10.00 to 14.00 incl         |                                 .15                                 |.15 |
+|                                    Chromium                                    |               To 0.90 incl               |                                 .03                                 |.03 |
+|                                                                                |          Over 0.90 to 2.10 incl          |                                 .05                                 |.05 |
+|                                                                                |         Over 15.00 to 20.00 incl         |                                 .20                                 |.20 |
+|                                   Molybdenum                                   |               To 0.20 incl               |                                 .01                                 |.01 |
+|                                                                                |          Over 0.20 to 0.40 incl          |                                 .02                                 |.02 |
+|                                                                                |          Over 1.75 to 3.0 incl           |                                 .10                                 |.10 |
+|                                    Titanium                                    |                All ranges                |                                 .05                                 |.05 |
+|                                   Columbium                                    |                All ranges                |                                 .05                                 |.05 |
+|<sup>1</sup> Rephosphorized steels not subject to check analysis for phosphorus.|                                          |                                                                     |    |
 
 (c) *Identification of material.* Material must be identified by any suitable method except that plates and billets for hotdrawn cylinders must be marked with the heat number.
 
@@ -94,19 +83,27 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − dT12)Where:S = wall stress in psi;P = test pres
 
 (2) Closure of a fitting, boss, or pad must be adequate to prevent leakage.
 
-(h) *Hydrostatic test.* Each cylinder must successfully withstand a hydrostatic test, as follows:
+(h) *Pressure testing.* Each cylinder must successfully withstand a pressure test as follows:
 
-(1) The test must be by water-jacket, or other suitable method, operated so as to obtain accurate data. A pressure gauge must permit a reading to an accuracy of 1 percent. An expansion gauge must permit reading of total expansion to an accuracy of either 1 percent or 0.1 cubic centimeter.
+(1) *Lot testing.* (i) At least one cylinder selected at random out of each lot of 200 or fewer must be tested by water-jacket or direct expansion as prescribed in CGA C-1 (IBR; see § 171.7 of this subchapter). The testing equipment must be calibrated as prescribed in CGA C-1. All testing equipment and pressure indicating devices must be accurate within the parameters defined in CGA C-1.
 
-(2) Pressure must be maintained for at least 30 seconds and sufficiently longer to ensure complete expansion. Any internal pressure applied after heat-treatment and previous to the official test may not exceed 90 percent of the test pressure. If, due to failure of the test apparatus, the test pressure cannot be maintained, the test may be repeated at a pressure increased by 10 percent or 100 psig, whichever is the lower.
+(ii) The selected cylinder must be tested to a minimum of three (3) times service pressure.
 
-(3) Permanent volumetric expansion may not exceed 10 percent of the total volumetric expansion at test pressure.
+(iii) The minimum test pressure must be maintained be maintained at least 30 seconds and sufficiently longer to ensure complete expansion. Any internal pressure applied after heat-treatment and prior to the official test may not exceed 90 percent of the test pressure. If, due to failure of the test apparatus or operator error, the test pressure cannot be maintained, the test may be repeated in accordance with CGA C-1, section 5.7.2.
 
-(4) Containers must be tested as follows:
+(iv) Permanent volumetric expansion may not exceed 10 percent of the total volumetric expansion at test pressure.
 
-(i) Each container to at least 2 times service pressure; or
+(2) *Pressure testing.* (i) The remaining cylinders in each lot must be tested by the proof pressure water-jacket or direct expansion test method as prescribed in CGA C-1. The minimum test pressure must be maintained for the specific timeframe and the testing equipment must be calibrated as prescribed in CGA C-1. Further, all testing equipment and pressure indicating devices must be accurate within the parameters defined in CGA C-1. Determination of expansion properties is not required.
 
-(ii) One container out of each lot of 200 or less to at least 3 times service pressure. Others must be examined under pressure of 2 times service pressure and show no defects.
+(ii) Each cylinder must be tested to a minimum of two (2) times service pressure and show no defect. If, due to failure of the test apparatus or operator error, the test pressure cannot be maintained, the test may be repeated in accordance with CGA C-1 5.7.2 or 7.1.2, as appropriate.
+
+(3) *Alternative volumetric expansion testing.* As an alternative to the testing prescribed in paragraphs (h)(1) and (2) of this section, every cylinder may be volumetrically expansion tested by the water jacket or direct expansion test method. The testing equipment must be calibrated as prescribed in CGA C-1. All testing equipment and pressure indicating devices must be accurate within the parameters defined in CGA C-1.
+
+(i) Each cylinder must be tested to a minimum of at least two (2) times its service pressure.
+
+(ii) The minimum test pressure must be maintained at least 30 seconds and sufficiently longer to ensure complete expansion. Any internal pressure applied after heat-treatment and previous to the official test may not exceed 90 percent of the test pressure. If, due to failure of the test apparatus or operator error, the test pressure cannot be maintained, the test may be repeated in accordance with CGA C-1, section 5.7.2.
+
+(iii) Permanent volumetric expansion may not exceed 10 percent of total volumetric expansion at test pressure.
 
 (i) *Flattening test for spheres and cylinders.* Spheres and cylinders must be subjected to a flattening test as follows:
 
@@ -156,4 +153,4 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − dT12)Where:S = wall stress in psi;P = test pres
 
 (m) *Marking.* Marking on each container by stamping plainly and permanently are only authorized where the metal is at least 0.09 inch thick, or on a metal nameplate permanently secured to the container by means other than soft solder, or by means that would not reduce the wall thickness.
 
-[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 66 FR 45386, 45388, Aug. 28, 2001; 67 FR 51653, Aug. 8, 2002; 68 FR 75748, Dec. 31, 2003]
+[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 66 FR 45386, 45388, Aug. 28, 2001; 67 FR 51653, Aug. 8, 2002; 68 FR 75748, Dec. 31, 2003; 85 FR 85426, Dec. 28, 2020]

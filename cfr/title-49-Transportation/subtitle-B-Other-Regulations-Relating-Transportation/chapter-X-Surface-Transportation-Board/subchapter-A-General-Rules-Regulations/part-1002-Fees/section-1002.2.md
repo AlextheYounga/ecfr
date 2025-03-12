@@ -1,8 +1,6 @@
 ##### § 1002.2 Filing fees. #####
 
-Link to an amendment published at 85 FR 83832, Dec. 23, 2020.
-
-(a) *Manner of payment.* (1) Except as specified in this section, all filing fees will be payable at the time and place the application, petition, notice, tariff, contract summary, or other document is tendered for filing..
+(a) *Manner of payment.* (1) Except as specified in this section, all filing fees will be payable at the time and place the application, petition, notice, tariff, contract summary, or other document is tendered for filing.
 
 (2) Filing fees for all e-filings must be paid via the Board's electronic payment system found on the Board's website. Filing fees for other filings may be paid via the electronic payment system, but will also be accepted payable to the Surface Transportation Board, either by check payable in United States currency drawn upon funds deposited in a United States or foreign bank or other financial institution, or by money order payable in United States currency.
 
@@ -20,17 +18,23 @@ Link to an amendment published at 85 FR 83832, Dec. 23, 2020.
 
 (e) *Waiver or reduction of filing fees.* It is the general policy of the Board not to waive or reduce filing fees except as described below:
 
-(1) Filing fees are waived for an application or other proceeding which is filed by a federal government agency, or a state or local government entity. For purposes of this section the phrases “federal government agency” or “government entity” do not include a quasi-governmental corporation or government subsidized transportation company.
+(1) Except as noted in this paragraph (e)(1), filing fees are waived for an application, petition, notice, tariff, contract summary, or other document that is filed by a federal government agency or a state or local government entity. A fee waiver is not available under this paragraph for a quasi-governmental entity or government-subsidized transportation company. A fee waiver is also not available to any state or local government entity that is acting in the capacity of a carrier or shipper or that owns or proposes to own a carrier and is before the agency in its proprietary role.
+
+(i) *When to request.* At the time that a filing is submitted to the Board, the fee waiver applicant may request a waiver of the fee prescribed in this part. Such request should be addressed to the Chief, Section of Administration, Office of Proceedings, Surface Transportation Board.
+
+(ii) *Board action.* The Board will either stamp the relevant filing with the notation “Filing Fee Waived,” or the fee waiver applicant will be notified of the decision to grant or deny the request for waiver by the Chief, Section of Administration, Office of Proceedings.
 
 (2) In extraordinary situations the Board will accept requests for waivers or fee reductions in accordance with the following procedure:
 
-(i) *When to request.* At the time that a filing is submitted to the Board the applicant may request a waiver or reduction of the fee prescribed in this part. Such request should be addressed to the Chief, Section of Administration, Office of Proceedings, Surface Transportation Board.
+(i) *When to request.* At the time that a filing is submitted to the Board, the fee waiver applicant may request a waiver or reduction of the fee prescribed in this part. Such request should be addressed to the Chief, Section of Administration, Office of Proceedings.
 
-(ii) *Basis.* The applicant must show the waiver or reduction of the fee is in the best interest of the public, or that payment of the fee would impose an undue hardship upon the requestor.
+(ii) *Basis.* The fee waiver applicant must show the waiver or reduction of the fee is in the best interest of the public, or that payment of the fee would impose an undue hardship on the fee waiver applicant.
 
-(iii) *Board action.* The Chief, Section of Administration, Office of Proceedings, Surface Transportation Board will notify the applicant of the decision to grant or deny the request for waiver or reduction.
+(iii) *Board action.* The Chief, Section of Administration, Office of Proceedings will notify the fee waiver applicant of the decision to grant or deny the request for waiver or reduction.
 
-(f) Schedule of filing fees.
+(3) *Review.* No third-party appeals of fee waiver or reduction decisions are permitted.
+
+(f) *Schedule of filing fees.*
 
 |                                                                                                                                                            Type of proceeding                                                                                                                                                            |              Fee              |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|

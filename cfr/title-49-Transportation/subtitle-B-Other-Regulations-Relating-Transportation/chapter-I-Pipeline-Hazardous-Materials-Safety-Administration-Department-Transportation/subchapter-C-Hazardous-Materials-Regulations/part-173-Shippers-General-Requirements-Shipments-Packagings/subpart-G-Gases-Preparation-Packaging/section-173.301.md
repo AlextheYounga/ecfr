@@ -1,7 +1,5 @@
 ##### § 173.301 General requirements for shipment of compressed gases and other hazardous materials in cylinders, UN pressure receptacles and spherical pressure vessels. #####
 
-Link to an amendment published at 85 FR 85416, Dec. 28, 2020.
-
 (a) *General qualifications for use of cylinders.* Unless otherwise stated, as used in this section, the term “cylinder” includes a UN pressure receptacle. As used in this subpart, filled or charged means an introduction or presence of a hazardous material in a cylinder. A cylinder filled with a Class 2 hazardous material (gas) and offered for transportation must meet the requirements in this section and §§ 173.301a through 173.305, as applicable.
 
 (1) Compressed gases must be in UN pressure receptacles built in accordance with the UN standards or in metal cylinders and containers built in accordance with the DOT and ICC specifications and part 178 of this subchapter in effect at the time of manufacture or CRC, BTC, CTC or TC specification, and requalified and marked as prescribed in subpart C in part 180 of this subchapter, if applicable. The DOT, ICC, CRC, BTC, CTC and TC specifications authorized for use are as follows:
@@ -53,19 +51,25 @@ Packagings<sup>1</sup>
 
 (b) *Cylinder markings.* Required markings on a cylinder must be legible and must meet the applicable requirements of subpart C of part 180 of this subchapter. Additional information may be marked on the cylinder provided it does not affect the required markings prescribed in the applicable cylinder specification.
 
-(c) *Toxic gases and mixtures.* Cylinders containing toxic gases and toxic gas mixtures meeting the criteria of Division 2.3 Hazard Zone A or B must conform to the requirements of § 173.40 and CGA S-1.1 (compliance with paragraph 9.1.1.1 is not required) (IBR; see § 171.7 of this subchapter) and CGA S-7 (IBR; see § 171.7 of this subchapter). A DOT 39 cylinder, UN non-refillable cylinder, or a UN composite cylinder certified to ISO-11119-3 may not be used for a toxic gas or toxic gas mixture meeting the criteria for Division 2.3, Hazard Zone A or B.
+(c) *Toxic gases and mixtures.* Cylinders containing toxic gases and toxic gas mixtures meeting the criteria of Division 2.3 Hazard Zone A or B must conform to the requirements of § 173.40 and CGA S-1.1 (compliance with paragraph 9.1.1 is not required) (IBR; see § 171.7 of this subchapter) and CGA S-7 (IBR; see § 171.7 of this subchapter). A DOT 39 cylinder, UN non-refillable cylinder, or a UN composite cylinder certified to ISO-11119-3 may not be used for a toxic gas or toxic gas mixture meeting the criteria for Division 2.3, Hazard Zone A or B.
 
 (d) *Gases capable of combining chemically.* A filled cylinder may not contain any gas or material capable of combining chemically with the cylinder's contents or with the cylinder's material of construction, so as to endanger the cylinder's serviceability.
 
 (e) *Ownership of cylinder.* A cylinder filled with a hazardous material may not be offered for transportation unless it was filled by the owner of the cylinder or with the owner's consent.
 
-(f) *Pressure relief device systems.* (1) Except as provided in paragraphs (f)(5) through (f)(7) and (j) of this section, and § 171.23(a) of this subchapter, a cylinder filled with a gas and offered for transportation must be equipped with one or more pressure relief devices sized and selected as to type, location, and quantity, and tested in accordance with CGA S-1.1 (compliance with paragraph 9.1.1.1 is not required) and CGA Pamphlet S-7 (IBR, see § 171.7 of this subchapter). The pressure relief device must be capable of preventing rupture of the normally filled cylinder when subjected to a fire test conducted in accordance with CGA C-14 (IBR, see § 171.7 of this subchapter), or, in the case of an acetylene cylinder, CGA C-12 (IBR, see § 171.7 of this subchapter).
+(f) *Pressure relief device systems.* (1) Except as provided in paragraphs (f)(5) through (f)(7) and (j) of this section, and § 171.23(a) of this subchapter, a cylinder filled with a gas and offered for transportation must be equipped with one or more pressure relief devices sized and selected as to type, location, and quantity, and tested in accordance with CGA S-1.1 (compliance with paragraph 9.1.1 is not required) and CGA Pamphlet S-7 (IBR, see § 171.7 of this subchapter). The pressure relief device must be capable of preventing rupture of the normally filled cylinder when subjected to a fire test conducted in accordance with CGA C-14 (IBR, see § 171.7 of this subchapter), or, in the case of an acetylene cylinder, CGA C-12 (IBR, see § 171.7 of this subchapter).
 
 (2) A pressure relief device, when installed, must be in communication with the vapor space of a cylinder containing a Division 2.1 (flammable gas) material. This requirement does not apply to DOT Specification 39 cylinders of 1.2L (75 cubic inches) or less in volume filled with a Liquefied petroleum gas, Methyl acetylene and Propadiene mixtures, stabilized, Propylene, Propane or Butane.
 
 (3) For a specification 3, 3A, 3AA, 3AL, 3AX, 3AAX, 3B, 3BN, or 3T cylinder filled with gases in other than Division 2.2 (except oxygen and oxidizing gases transported by aircraft, see §§ 173.302(f) and 173.304(f)), the burst pressure of a CG-1, CG-4, or CG-5 pressure relief device must be at test pressure with a tolerance of plus zero to minus 10 percent. An additional 5 percent tolerance is allowed when a combined rupture disk is placed inside a holder. This requirement does not apply if a CG-2, CG-3, or CG-9 thermally activated relief device or a CG-7 reclosing pressure valve is used on the cylinder.
 
-(4) A pressure relief device is required on a DOT 39 cylinder regardless of cylinder size or filled pressure. A DOT 39 cylinder used for liquefied Division 2.1 materials must be equipped with a metal pressure relief device. Fusible pressure relief devices are not authorized on a DOT 39 cylinder containing a liquefied gas.
+(4)(i) A pressure relief device is required on a DOT 39 cylinder regardless of cylinder size or filled pressure.
+
+(ii) A DOT 39 cylinder used for liquefied Division 2.1 materials must be equipped with a metal pressure relief device.
+
+(iii) Fusible pressure relief devices are not authorized on a DOT 39 cylinder containing a liquefied gas.
+
+(iv) A pressure relief device for oxidizing gases transported by air in a DOT 39 cylinder must meet the requirements of § 173.302(f)(2)(iii) of this subpart for permanent gases and § 173.304(f)(2)(iii) for liquefied compressed gases.
 
 (5) A pressure relief device is not required on -
 

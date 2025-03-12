@@ -1,7 +1,5 @@
 ##### § 171.23 Requirements for specific materials and packagings transported under the ICAO Technical Instructions, IMDG Code, Transport Canada TDG Regulations, or the IAEA Regulations. #####
 
-Link to an amendment published at 85 FR 85416, Dec. 28, 2020.
-
 All shipments offered for transportation or transported in the United States under the ICAO Technical Instructions, IMDG Code, Transport Canada TDG Regulations, or the IAEA Regulations (IBR, see § 171.7) must conform to the requirements of this section, as applicable.
 
 (a) *Conditions and requirements for cylinders and pressure receptacles* - (1) *Applicability.* Except as provided in this paragraph (a), a filled cylinder (pressure receptacle) manufactured to other than a DOT specification or a UN standard in accordance with part 178 of this subchapter, a DOT exemption or special permit cylinder, a TC, CTC, CRC, or BTC cylinder authorized under § 171.12, or a cylinder used as a fire extinguisher in conformance with § 173.309(a) of this subchapter, may not be transported to, from, or within the United States.
@@ -34,7 +32,7 @@ All shipments offered for transportation or transported in the United States und
 
 (5) *Filling of cylinders for export or for use on board a vessel.* A cylinder not manufactured, inspected, tested and marked in accordance with part 178 of this subchapter, or a cylinder manufactured to other than a UN standard, DOT specification, exemption or special permit, or other than a TC, CTC, BTC, or CRC specification, may be filled with a gas in the United States and offered for transportation and transported for export or alternatively, for use on board a vessel, if the following conditions are met:
 
-(i) The cylinder has been requalified and marked with the month and year of requalification in accordance with subpart C of part 180 of this subchapter, or has been requalified as authorized by the Associate Administrator;
+(i) The cylinder has been requalified and marked in accordance with subpart C of part 180 of this subchapter, or has been requalified as authorized by the Associate Administrator;
 
 (ii) In addition to other requirements of this subchapter, the maximum filling density, service pressure, and pressure relief device for each cylinder conform to the requirements of this part for the gas involved; and
 
@@ -112,4 +110,4 @@ All shipments offered for transportation or transported in the United States und
 
 (12) *Self-reactive materials.* Self-reactive materials not identified by technical name in the Self-reactive Materials Table in § 173.224(b) of this subchapter must be approved by the Associate Administrator in accordance with § 173.124(a)(2)(iii) of this subchapter.
 
-[72 FR 25172, May 3, 2007, as amended at 72 FR 55684, Oct. 1, 2007; 73 FR 57004, Oct. 1, 2008; 76 FR 3345, Jan. 19, 2011; 76 FR 56311, Sept. 13, 2011; 78 FR 60751, Oct. 2, 2013; 78 FR 65468, Oct. 31, 2013; 80 FR 1116, Jan. 8, 2015; 80 FR 72920, Nov. 23, 2015; 81 FR 35513, June 2, 2016; 82 FR 15837, Mar. 30, 2017; 85 FR 75705, Nov. 25, 2020]
+[72 FR 25172, May 3, 2007, as amended at 72 FR 55684, Oct. 1, 2007; 73 FR 57004, Oct. 1, 2008; 76 FR 3345, Jan. 19, 2011; 76 FR 56311, Sept. 13, 2011; 78 FR 60751, Oct. 2, 2013; 78 FR 65468, Oct. 31, 2013; 80 FR 1116, Jan. 8, 2015; 80 FR 72920, Nov. 23, 2015; 81 FR 35513, June 2, 2016; 82 FR 15837, Mar. 30, 2017; 85 FR 75705, Nov. 25, 2020; 85 FR 85416, Dec. 28, 2020]

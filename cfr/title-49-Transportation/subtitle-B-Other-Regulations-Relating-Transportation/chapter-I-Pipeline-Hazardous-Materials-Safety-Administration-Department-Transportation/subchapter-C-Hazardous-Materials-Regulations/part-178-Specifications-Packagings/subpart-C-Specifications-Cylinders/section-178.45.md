@@ -1,12 +1,8 @@
 ##### § 178.45 Specification 3T seamless steel cylinder. #####
 
-Link to an amendment published at 85 FR 85421, Dec. 28, 2020.
-
 (a) *Type, size, and service pressure.* A DOT 3T cylinder is a seamless steel cylinder with a minimum water capacity of 1,000 pounds and a minimum service pressure of 1,800 psig. Each cylinder must have integrally formed heads concave to pressure at both ends. The inside head shape must be hemispherical, ellipsoidal in which the major axis is two times the minor axis, or a dished shape falling within these two limits. Permanent closures formed by spinning are prohibited.
 
 (b) *Material, steel.* Only open hearth, basic oxygen, or electric furnace process steel of uniform quality is authorized. The steel analysis must conform to the following:
-
-Analysis Tolerances
 
 |    Element     |Ladle analysis|Check Analysis|    |
 |----------------|--------------|--------------|----|
@@ -49,7 +45,7 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = Wall stress in psi;P = Minimum tes
 
 (ii) The following formula must be used to calculate the maximum tensile stress due to bending:
 
-S = Mc / IWhere:S = Tensile stress in psi;M = Bending moment in inch-pounds (wl2/8);I = Moment of inertia - 0.04909 (D4−d4) in inches fourth;c = Radius (D/2) of cylinder in inches;w = Weight per inch of cylinder filled with water;l = Length of cylinder in inches;D = Outside diameter in inches;d = Inside diameter in inches.
+S = Mc / IWhere:S = Tensile stress in psi;M = Bending moment in inch-pounds (wl2/8);I = Moment of inertia—0.04909 (D4−d4) in inches fourth;c = Radius (D/2) of cylinder in inches;w = Weight per inch of cylinder filled with water;l = Length of cylinder in inches;D = Outside diameter in inches;d = Inside diameter in inches.
 
 (iii) The following formula must be used to calculate the maximum longitudinal tensile stress due to hydrostatic test pressure:
 
@@ -81,19 +77,15 @@ S = A1 P / A2Where:S = Tensile stress in psi;A1 = Internal area in cross section
 
 (iv) Straight threads conforming with National Gas Straight thread (NGS) standards are authorized. These threads must be in compliance with the requirements of NBS Handbook H-28.
 
-(g) *Hydrostatic test.* Each cylinder must be tested at an internal pressure by the water jacket method or other suitable method, conforming to the following requirements:
+(g) *Pressure testing.* Each cylinder must successfully withstand a pressure test as follows:
 
-(1) The testing apparatus must be operated in a manner that will obtain accurate data. Any pressure gauge used must permit reading to an accuracy of one percent. Any expansion gauge used must permit reading of the total expansion to an accuracy of one percent.
+(1) The test must be by water-jacket or direct expansion method as prescribed in CGA C-1 (IBR; see § 171.7 of this subchapter). The testing equipment must be calibrated as prescribed in CGA C-1. All testing equipment and pressure indicating devices must be accurate within the parameters defined in CGA C-1.
 
-(2) Any internal pressure applied to the cylinder after heat treatment and before the official test may not exceed 90 percent of the test pressure.
+(2) Each cylinder must be tested to minimum of5/3 times service pressure.
 
-(3) The pressure must be maintained sufficiently long to assure complete expansion of the cylinder. In no case may the pressure be held less than 30 seconds.
+(3) The minimum test pressure must be maintained at least 30 seconds and sufficiently longer to ensure complete expansion. Any internal pressure applied after heat-treatment and prior to the official test may not exceed 90 percent of the test pressure. If, due to failure of the test apparatus or operator error, the test pressure cannot be maintained, the test may be repeated in accordance with CGA C-1, section 5.7.2.
 
-(4) If, due to failure of the test apparatus, the required test pressure cannot be maintained, the test must be repeated at a pressure increased by 10 percent or 100 psig, whichever is lower or, the cylinder must be reheat treated.
-
-(5) Permanent volumetric expansion of the cylinder may not exceed 10 percent of its total volumetric expansion at the required test pressure.
-
-(6) Each cylinder must be tested to at least5/3 times its service pressure.
+(4) Permanent volumetric expansion may not exceed 10 percent of total volumetric expansion at test pressure.
 
 (h) *Ultrasonic examination.* After the hydrostatic test, the cylindrical section of each vessel must be examined in accordance with ASTM E 213 for shear wave and E 114 for straight beam (IBR, Standard *see* § 171.7 of this subchapter). The equipment used must be calibrated to detect a notch equal to five percent of the design minimum wall thickness. Any discontinuity indication greater than that produced by the five percent notch must be cause for rejection of the cylinder, unless the discontinuity is repaired within the requirements of this specification.
 
@@ -151,4 +143,4 @@ S = A1 P / A2Where:S = Tensile stress in psi;A1 = Internal area in cross section
 
 (n) *Inspector's report.* In addition to the requirements of § 178.35, the inspector's report for the physical test report, must indicate the average value for three specimens and the minimum value for one specimen for each lot number.
 
-[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 66 FR 45385, 43588, Aug. 28, 2001; 67 FR 51652, Aug. 8, 2002; 68 FR 48571, Aug. 14, 2003; 68 FR 75748, 75749, Dec. 31, 2003]
+[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 66 FR 45385, 43588, Aug. 28, 2001; 67 FR 51652, Aug. 8, 2002; 68 FR 48571, Aug. 14, 2003; 68 FR 75748, 75749, Dec. 31, 2003; 85 FR 85421, Dec. 28, 2020]

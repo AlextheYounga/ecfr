@@ -1,7 +1,5 @@
 ##### § 178.56 Specification 4AA480 welded steel cylinders. #####
 
-Link to an amendment published at 85 FR 85427, Dec. 28, 2020.
-
 (a) *Type, size, and service pressure.* A DOT 4AA480 cylinder is a welded steel cylinder having a water capacity (nominal) not over 1,000 pounds water capacity and a service pressure of 480 psig. Closures welded by spinning process not permitted.
 
 (b) *Steel.* The limiting chemical composition of steel authorized by this specification must be as shown in table I of appendix A to this part.
@@ -48,19 +46,21 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = wall stress in psi;P = minimum tes
 
 (3) Closure of a fitting, boss or pad must be adequate to prevent leakage.
 
-(i) *Hydrostatic test.* Each cylinder must successfully withstand a hydrostatic test as follows:
+(i) *Pressure testing.* Each cylinder must successfully withstand a pressure test as follows:
 
-(1) The test must be by water jacket, or other suitable method, operated so as to obtain accurate data. The pressure gauge must permit reading to an accuracy of 1 percent. The expansion gauge must permit reading of total expansion to an accuracy of either 1 percent or 0.1 cubic centimeter.
+(1) *Lot testing.* (i) At least one (1) cylinder selected at random out of each lot of 200 or fewer must be tested by water-jacket or direct expansion method as prescribed in CGA C-1 (IBR; see § 171.7 of this subchapter). The testing equipment must be calibrated as prescribed in CGA C-1. All testing equipment and pressure indicating devices must be accurate within the parameters defined in CGA C-1.
 
-(2) Pressure must be maintained for at least 30 seconds or sufficiently longer to assure complete expansion. Any internal pressure applied after heat-treatment and before the official test may not exceed 90 percent of the test pressure. If, due to failure of test apparatus, the test pressure cannot be maintained, the test may be repeated at a pressure increased by 10 percent or 100 psig, whichever is lower.
+(ii) The selected cylinder must be tested to a minimum of two (2) times service pressure.
 
-(3) Permanent volumetric expansion may not exceed 10 percent of the total volumetric expansion at test pressure.
+(iii) The minimum test pressure must be maintained at least 30 seconds and sufficiently longer to ensure complete expansion. Any internal pressure applied after heat-treatment and prior to the official test may not exceed 90 percent of the test pressure. If, due to failure of the test apparatus or operator error, the test pressure cannot be maintained, the test may be repeated in accordance with CGA C-1, section 5.7.2.
 
-(4) Cylinders must be tested as follows:
+(iv) Permanent volumetric expansion may not exceed 10 percent of the total volumetric expansion at test pressure.
 
-(i) At least one cylinder selected at random out of each lot of 200 or less must be tested as described in paragraphs (i)(1), (i)(2), and (i)(3) of this section, to at least two times service pressure. If a selected cylinder fails, then two additional specimens must be selected at random from the same lot and subjected to the prescribed test. If either of these fails the test, then each cylinder in that lot must be so tested; and
+(v) If the selected cylinder fails, then two (2) additional specimens must be selected at random from the same lot and subjected to the prescribed testing. If either of these fails the test, then each cylinder in that lot must be tested as prescribed in paragraph (i)(l) of this section.
 
-(ii) Each cylinder not tested as prescribed in paragraph (i)(4)(i) of this section must be examined under pressure of at least two times service pressure and must show no defect. A cylinder showing a defect must be rejected unless it may be requalified under paragraph (m) of this section.
+(2) *Pressure testing.* (i) The remaining cylinders in each lot must be tested by the proof pressure, water-jacket, or direct expansion test method as prescribed in CGA C-1. The minimum test pressure must be maintained for the specific timeframe and the testing equipment must be calibrated as prescribed in CGA C-1. Further, all testing equipment and pressure indicating devices must be accurate within the parameters defined in CGA C-1.
+
+(ii) Each cylinder must be tested to a minimum of two (2) times service pressure and show no defect. A cylinder showing a defect must be rejected unless it may be requalified under paragraph (m) of this section. If, due to failure of the test apparatus or operator error, the test pressure cannot be maintained, the test may be repeated in accordance with CGA C-1 5.7.2 or 7.1.2, as appropriate. Determination of expansion properties is not required.
 
 (j) *Physical test.* A physical test must be conducted to determine yield strength, tensile strength, elongation, and reduction of area of material, as follows:
 
@@ -108,4 +108,4 @@ S = [P(1.3D2 + 0.4d2)] / (D2 − d2)Where:S = wall stress in psi;P = minimum tes
 
 (4) Variations in location of markings authorized only when necessitated by lack of space.
 
-[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 66 FR 45386, Aug. 28, 2001; 67 FR 51653, Aug. 8, 2002; 68 FR 75748, 75749, Dec. 31, 2003]
+[Amdt. 178-114, 61 FR 25942, May 23, 1996, as amended at 66 FR 45386, Aug. 28, 2001; 67 FR 51653, Aug. 8, 2002; 68 FR 75748, 75749, Dec. 31, 2003; 85 FR 85427, Dec. 28, 2020]

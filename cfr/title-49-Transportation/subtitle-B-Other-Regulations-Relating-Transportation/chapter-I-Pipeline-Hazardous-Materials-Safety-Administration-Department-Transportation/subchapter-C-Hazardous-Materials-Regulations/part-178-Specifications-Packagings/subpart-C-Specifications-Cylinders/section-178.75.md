@@ -1,7 +1,5 @@
 ##### § 178.75 Specifications for MEGCs. #####
 
-Link to an amendment published at 85 FR 85432, Dec. 28, 2020.
-
 (a) *General.* Each MEGC must meet the requirements of this section. In a MEGC that meets the definition of a “container” within the terms of the International Convention for Safe Containers (CSC) must meet the requirements of the CSC as amended and 49 CFR parts 450 through 453, and must have a CSC approval plate.
 
 (b) *Alternate Arrangements.* The technical requirements applicable to MEGCs may be varied when the level of safety is determined to be equivalent to or exceed the requirements of this subchapter. Such an alternate arrangement must be approved in writing by the Associate Administrator. MEGCs approved to an Alternate Arrangement must be marked as required by paragraph (j) of this section.
@@ -72,7 +70,9 @@ Link to an amendment published at 85 FR 85432, Dec. 28, 2020.
 
 (3) For MEGC filling and discharge openings:
 
-(i) Two valves in series must be placed in an accessible position on each discharge and filling pipe. One of the valves may be a backflow prevention valve. (ii) The filling and discharge devices may be equipped to a manifold.
+(i) Two valves in series must be placed in an accessible position on each discharge and filling pipe. One of the valves may be a backflow prevention valve.
+
+(ii) The filling and discharge devices may be equipped to a manifold.
 
 (iii) For sections of piping which can be closed at both ends and where a liquid product can be trapped, a pressure-relief valve must be provided to prevent excessive pressure build-up.
 
@@ -90,7 +90,7 @@ Link to an amendment published at 85 FR 85432, Dec. 28, 2020.
 
 (f) *Pressure relief devices.* Each pressure receptacle must be equipped with one or more pressure relief devices as specified in § 173.301(f) of this subchapter. When pressure relief devices are installed, each pressure receptacle or group of pressure receptacles of a MEGC that can be isolated must be equipped with one or more pressure relief devices. Pressure relief devices must be of a type that will resist dynamic forces including liquid surge and must be designed to prevent the entry of foreign matter, the leakage of gas and the development of any dangerous excess pressure.
 
-(1) The size of the pressure relief devices: CGA S-1.1 (IBR, see § 171.7 of this subchapter) must be used to determine the relief capacity of individual pressure receptacles.
+(1) The size of the pressure relief devices: CGA S-1.1, excluding paragraph 9.1.1, (IBR, see § 171.7 of this subchapter) must be used to determine the relief capacity of individual pressure receptacles.
 
 (2) Connections to pressure-relief devices: Connections to pressure relief devices must be of sufficient size to enable the required discharge to pass unrestricted to the pressure relief device. A shut-off valve installed between the pressure receptacle and the pressure relief device is prohibited, except where duplicate devices are provided for maintenance or other reasons, and the shut-off valves serving the devices actually in use are locked open, or the shut-off valves are interlocked so that at least one of the duplicate devices is always operable and capable of meeting the requirements of paragraph (f)(1) of this section. No obstruction is permitted in an opening leading to or leaving from a vent or pressure-relief device that might restrict or cut-off the flow from the pressure receptacle to that device. The opening through all piping and fittings must have at least the same flow area as the inlet of the pressure relief device to which it is connected. The nominal size of the discharge piping must be at least as large as that of the pressure relief device.
 
@@ -126,10 +126,10 @@ Link to an amendment published at 85 FR 85432, Dec. 28, 2020.
 
 (j) *Marking.* (1) Each MEGC must be equipped with a corrosion resistant metal plate permanently attached to the MEGC in a conspicuous place readily accessible for inspection. The pressure receptacles must be marked according to this section. Affixing the metal plate to a pressure receptacle is prohibited. At a minimum, the following information must be marked on the plate by stamping or by any other equivalent method:
 
-Country of manufactureUN![](/graphics/er12jn06.002.gif)Approval CountryApproval NumberAlternate Arrangements (see § 178.75(b))MEGC Manufacturer's name or markMEGC's serial numberApproval agency (Authorized body for the design approval)Year of manufactureTest pressure: \_\_\_ bar gaugeDesign temperature range \_\_\_ °C to \_\_\_ °CNumber of pressure receptacles \_\_\_Total water capacity \_\_\_ litersInitial pressure test date and identification of the Approval AgencyDate and type of most recent periodic testsYear \_\_\_ Month\_\_\_ Type \_\_\_(e.g. 2004-05, AE/UE, where “AE” represents acoustic emission and “UE” represents ultrasonic examination)
+Country of manufactureUN![](/graphics/er12jn06.002.gif)Approval CountryApproval NumberAlternate Arrangements (see § 178.75(b))MEGC Manufacturer's name or markMEGC's serial numberApproval agency (Authorized body for the design approval)Year of manufactureTest pressure: \_\_\_\_\_\_ bar gaugeDesign temperature range \_\_\_\_\_\_ °C to \_\_\_\_\_\_ °CNumber of pressure receptacles \_\_\_\_\_\_Total water capacity \_\_\_\_\_\_ litersInitial pressure test date and identification of the Approval AgencyDate and type of most recent periodic testsYear \_\_\_\_\_\_ Month\_\_\_\_\_\_ Type \_\_\_\_\_\_(e.g. 2004-05, AE/UE, where “AE” represents acoustic emission and “UE” represents ultrasonic examination)
 
 Stamp of the approval agency who performed or witnessed the most recent test
 
 (2) The following information must be marked on a metal plate firmly secured to the MEGC:
 
-Name of the operatorMaximum permissible load mass \_\_\_ kgWorking pressure at 15 °C: \_\_\_ bar gaugeMaximum permissible gross mass (MPGM) \_\_\_ kgUnladen (tare) mass \_\_\_ kg[71 FR 33892, June 12, 2006, as amended at 73 FR 4719, Jan. 28, 2008; 77 FR 60943, Oct. 5, 2012; 80 FR 1168, Jan. 8, 2015; 82 FR 15896, Mar. 30, 2017; 85 FR 27901, May 11, 2020]
+Name of the operatorMaximum permissible load mass \_\_\_\_\_\_ kgWorking pressure at 15 °C: \_\_\_\_\_\_ bar gaugeMaximum permissible gross mass (MPGM) \_\_\_\_\_\_ kgUnladen (tare) mass \_\_\_\_\_\_ kg[71 FR 33892, June 12, 2006, as amended at 73 FR 4719, Jan. 28, 2008; 77 FR 60943, Oct. 5, 2012; 80 FR 1168, Jan. 8, 2015; 82 FR 15896, Mar. 30, 2017; 85 FR 27901, May 11, 2020; 85 FR 85432, Dec. 27, 2020]

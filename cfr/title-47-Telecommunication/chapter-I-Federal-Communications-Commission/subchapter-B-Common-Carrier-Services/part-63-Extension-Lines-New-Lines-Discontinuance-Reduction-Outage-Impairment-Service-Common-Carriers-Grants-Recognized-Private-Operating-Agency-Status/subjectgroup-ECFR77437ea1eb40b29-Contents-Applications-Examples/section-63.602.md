@@ -1,12 +1,10 @@
 ##### § 63.602 Additional contents of applications to discontinue, reduce, or impair an existing retail service as part of a technology transition. #####
 
-Link to an amendment published at 85 FR 84266, Dec. 28, 2020.
-
 (a) The application shall include:
 
 (1) The contents specified in § 63.505 of this part;
 
-(2) A statement identifying the application as involving a technology transition, as defined in § 63.60(h) of this part;
+(2) A statement identifying the application as involving a technology transition, as defined in § 63.60(i);
 
 (3) Information regarding the price of the service for which discontinuance authority is sought and the price of the proposed replacement service; and
 
@@ -34,4 +32,4 @@ For purposes of this section, “substantially similar” means that the network
 
 (3) Offers interoperability with key applications and functionalities.
 
-[81 FR 62656, Sept. 12, 2016]
+[81 FR 62656, Sept. 12, 2016, as amended at 85 FR 84266, Dec. 28, 2020]
