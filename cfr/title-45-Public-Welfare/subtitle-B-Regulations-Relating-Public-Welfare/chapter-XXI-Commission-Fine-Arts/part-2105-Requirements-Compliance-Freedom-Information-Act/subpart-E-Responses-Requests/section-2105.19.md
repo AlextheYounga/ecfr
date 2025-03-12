@@ -1,0 +1,5 @@
+##### § 2105.19 How will the Agency respond to requests? #####
+
+(a) When the Agency informs you of its decision to comply with a request by granting, partially granting, or denying the request, it will do so in writing and in accordance with the deadlines in subpart D of this part. The Agency's written response will include a statement about the services offered by its FOIA Public Liaison. The Agency's written response will also include a statement about the services offered by the Office of Government Information Services (OGIS).
+
+(b) If the Agency determines that your request will take longer than 10 workdays to process, the Agency immediately will send you a written acknowledgment that includes the request's individualized tracking number and processing track (see § 2105.14(e)). The acknowledgement may also include a brief description of the subject of your request.

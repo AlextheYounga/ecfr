@@ -1,0 +1,7 @@
+##### § 2105.6 What information should you include about your fee category? #####
+
+(a) A request should indicate your fee category (that is, whether you are a commercial-use requester, news media, educational or noncommercial scientific institution, or other requester as described in §§ 2105.36 and 2105.37).
+
+(b) If you submit a FOIA request on behalf of another person or organization (for example, if you are an attorney submitting a request on behalf of a client), the Agency will determine the fee category by considering the underlying requester's identity and intended use of the information.
+
+(c) If your fee category is unclear, the Agency may ask you for additional information (see § 2105.49).
