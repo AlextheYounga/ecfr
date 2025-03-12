@@ -1,5 +1,7 @@
 ##### § 183.320 Preconditioning for tests. #####
 
+Link to an amendment published at 82 FR 16522, Apr. 5, 2017.
+
 A boat must meet the following conditions for at least 18 hours before the tests required by §§ 183.325, 183.330, and 183.335:
 
 (a) Manufacturer supplied permanent appurtenances such as windshields, and convertible tops must be installed on the boat.

@@ -1,7 +1,5 @@
 ##### § 3004.11 Use of exemptions. #####
 
-Link to an amendment published at 82 FR 12507, Mar. 6, 2017.
-
 (a) Under FOIA, there are nine exemptions which may be used to protect information from disclosure. The Commission has paraphrased the exemptions in paragraphs (b) through (j) of this section. These paraphrases are not intended to be interpretations of the exemptions.
 
 (b) National security information concerning national defense or foreign policy, provided that such information has been properly classified, in accordance with an Executive Order.
@@ -22,7 +20,7 @@ Link to an amendment published at 82 FR 12507, Mar. 6, 2017.
 
 (e) Trade secrets and commercial or financial information which is obtained from a person and is privileged or confidential.
 
-(f) Inter-agency or intra-agency memoranda or letters, which would not be available by law to a party other than an agency in litigation with the agency.
+(f) Inter-agency or intra-agency memoranda or letters that would not be available by law to a party other than an agency in litigation with the agency. This exemption shall not apply to records created 25 years or more before the date on which the records were requested.
 
 (g) Personnel and medical files and similar files, the disclosure of which would constitute a clearly unwarranted invasion of personal privacy.
 
@@ -51,3 +49,5 @@ Link to an amendment published at 82 FR 12507, Mar. 6, 2017.
 (2) Reports and records compiled or created by the Inspector General of the Commission designated as confidential; and
 
 (3) Unaccepted offers of settlement in any matter or proceeding unless or until made public by act of the offeror.
+
+[74 FR 57256, Nov. 5, 2009, as amended at 82 FR 12507, Mar. 6, 2017]

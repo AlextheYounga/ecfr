@@ -228,10 +228,6 @@
 
 Calories - EnergyVitamin C - Ascorbic acidThiamin - Vitamin B1Riboflavin - Vitamin B2
 
-(v) The following synonyms may be added in parentheses immediately following the name of the nutrient or dietary component:
-
-Calories - EnergyVitamin C - Ascorbic acidThiamin - Vitamin B1Riboflavin - Vitamin B2Folate - Folic acid or Folacin.Alternatively, folic acid or folacin may be listed without parentheses in place of folate.
-
 (vi) A statement of the percent of vitamin A that is present as *beta*-carotene may be declared voluntarily. When the vitamins and minerals are listed in a single column, the statement shall be indented under the information on vitamin A. When vitamins and minerals are arrayed horizontally, the statement of percent shall be presented in parenthesis following the declaration of vitamin A and the percent DV of vitamin A in the food (e.g., “Percent Daily Value: Vitamin A 50 (90 percent as *beta*-carotene)”). When declared, the percentages shall be expressed in the same increments as are provided for vitamins and minerals in paragraph (c)(8)(iii) of this section.
 
 (vii) When the amount of folate is declared in the labeling of a conventional food or a dietary supplement, the nutrient name “folate” shall be listed for products containing folate (natural folate, and/or synthetic folate as a component of dietary supplement, such as calcium salt of L-5-MTHF), folic acid, or a mixture of folate and folic acid. The name of the synthetic form of the nutrient “folic acid”, when added or a claim is made about the nutrient, shall be included in parentheses after this declaration with the amount of folic acid. The declaration must be folate in mcg DFE (when expressed as a quantitative amount by weight in a conventional food or a dietary supplement) and the percent DV based on folate in mcg DFE, or for conventional food, may be expressed as folate and the percent DV based on folate in mcg DFE. When declared, folic acid must be in parentheses, mcg of folic acid as shown in paragraph (d)(12) of this section in the display that illustrates voluntary declaration of nutrition information.

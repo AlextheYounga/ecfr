@@ -1,8 +1,6 @@
 ##### § 3004.43 Response to requests. #####
 
-Link to an amendment published at 82 FR 12508, Mar. 6, 2017.
-
-(a) Within 20 days (excluding Saturdays, Sundays and legal holidays) after receipt of a request for a Commission record, the Secretary or Assistant Secretary will notify the requester of its determination to grant or deny the request.
+(a) Within 20 days (excluding Saturdays, Sundays, and legal holidays) after receipt of a request for a Commission record, the Secretary or Assistant Secretary will notify the requester of its determination to grant or deny the request and the right to seek assistance from the Commission's FOIA Public Liaison. In the case of an adverse determination, the Commission will notify the requester of their right to appeal and right to seek dispute resolution services from the Commission's FOIA Public Liaison or the Office of Government Information Services.
 
 (b) *Granting request.* If granting the request, the Secretary, or Assistant Secretary will notify the requester of any fees that must be paid.
 
@@ -35,3 +33,5 @@ Link to an amendment published at 82 FR 12508, Mar. 6, 2017.
 (3) Any request for records that has been denied expedited processing will be processed in the same manner as a request that did not seek expedited processing.
 
 (f) Where a compelling need is not shown in an expedited request as specified in § 3004.41(b)(1), the Commission may grant requests for expedited processing at its discretion.
+
+[74 FR 57256, Nov. 5, 2009, as amended at 82 FR 12508, Mar. 6, 2017]

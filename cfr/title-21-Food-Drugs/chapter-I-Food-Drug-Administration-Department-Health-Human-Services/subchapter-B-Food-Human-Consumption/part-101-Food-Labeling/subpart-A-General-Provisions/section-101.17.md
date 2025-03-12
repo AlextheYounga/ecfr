@@ -184,4 +184,4 @@ SAFE HANDLING INSTRUCTIONS: To prevent illness from bacteria: keep eggs refriger
 
 (9) No State or local governing entity shall establish or continue in effect any law, rule, regulation, or other requirement requiring safe handling instructions on unpasteurized shell eggs that are less stringent than those required in paragraphs (h)(1) through (h)(5) of this section.
 
-[42 FR 14308, Mar. 15, 1977]Editorial Note:For Federal Register citations affecting § 101.17, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[42 FR 14308, Mar. 15, 1977]Editorial Note:For Federal Register citations affecting § 101.17, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

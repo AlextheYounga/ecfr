@@ -1,5 +1,7 @@
 ##### § 183.41 Persons capacity: Outboard boats. #####
 
+Link to an amendment published at 82 FR 16521, Apr. 5, 2017.
+
 (a) The persons capacity in pounds marked on a boat that is designed to use one or more outboard motors for propulsion must not exceed the lesser of:
 
 (1) The maximum weight capacity determined under § 183.35 for the boat minus the motor and control weight, battery weight (dry), and full portable fuel tank weight from table 4 of subpart H of this part; or

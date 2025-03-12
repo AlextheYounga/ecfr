@@ -1,6 +1,7 @@
 ##### § 1.871-15 Treatment of dividend equivalents. #####
 
 (a) *Definitions.* For purposes of this section, the following terms have the meanings described in this paragraph (a).
+
 (1)*Broker.* [Reserved]. For further guidance, see § 1.871-15T(a)(1).
 
 (2) *Dealer.* A *dealer* is a dealer in securities within the meaning of section 475(c)(1).
@@ -337,6 +338,8 @@ Example 2.*Price return only swap contract.* (i) Foreign Investor enters into a 
 (4) *Recordkeeping rules* - (i) *In general.* For rules regarding recordkeeping requirements sufficient to establish whether a transaction is a section 871(m) transaction and whether a payment is a dividend equivalent and the amount of gross income treated as a dividend equivalent, see § 1.6001-1.
 
 (ii) *Records sufficient to establish whether a transaction is a section 871(m) transaction and any dividend equivalent amount.* Any person required to retain records must keep sufficient information to establish whether a transaction is a section 871(m) transaction and the amount of a dividend equivalent (if any), including documentation and work papers supporting the delta calculation or the substantial equivalence test (including the number of shares of the initial hedge), as applicable, and written estimated dividends (if any). The records and documentation must be created substantially contemporaneously. A record will be considered to have been created substantially contemporaneously if it was created within 10 business days of the date containing the calculation time for the potential section 871(m) transaction.
+
+(iii) *Recordkeeping required for certain options.* With respect to any option to which paragraph (g)(4) of this section applies, contemporaneous documentation is not required to be retained provided that there is a pre-existing documented methodology that is sufficient to permit the delta for the transaction to be verified at a later time.
 
 (5) [Reserved]. For further guidance, see § 1.871-15T(p)(5).
 

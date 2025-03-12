@@ -1,5 +1,7 @@
 ##### § 15.33 Species included in the approved list. #####
 
+Link to an amendment published at 82 FR 16540, Apr. 5, 2017.
+
 (a) *Captive-bred species.* The list in this paragraph includes species of captive-bred exotic birds for which importation into the United States is not prohibited by section 15.11. The species are grouped taxonomically by order.
 
 |               Species               |            Common name            |
