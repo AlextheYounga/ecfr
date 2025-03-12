@@ -1,0 +1,5 @@
+##### § 905.54 Marketing, research and development. #####
+
+The committee may, with the approval of the Secretary, establish, or provide for the establishment of, projects including production research, marketing research and development projects, and marketing promotion including paid advertising, designed to assist, improve, or promote the marketing, distribution, and consumption or efficient production of fruit. The expenses of such projects shall be paid by funds collected pursuant to § 905.41. Upon conclusion of each project, but at least annually, the committee shall summarize the program status and accomplishments to its members and the Secretary. A similar report to the committee shall be required of any contracting party on any project carried out under this section. Also, for each project, the contracting party shall be required to maintain records of money received and expenditures, and such shall be available to the committee and the Secretary.
+
+[74 FR 46306, Sept. 9, 2009]

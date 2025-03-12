@@ -1,8 +1,8 @@
 ##### § 773.22 Notice requirements for improvidently issued permits. #####
 
-(a) We, the regulatory authority, must serve you, the permittee, with a written notice of proposed suspension or rescission, together with a statement of the reasons for the proposed suspension or rescission, if -
+(a) We, the regulatory authority, must serve you, the permittee, with a written notice of proposed suspension or rescission, together with a statement of the reasons for the proposed suspension or rescission, if—
 
-(1) After considering any evidence submitted under § 773.21(d) of this part, we find that a permit was improvidently issued under the criteria in paragraphs (a) and (b) of § 773.21 of this part; or
+(1) After considering any evidence submitted under § 773.21(d) of this part, we find that a permit was improvidently issued under the criteria in § 773.21 paragraphs (a) and (b) of § 773.21 of this part; or
 
 (2) Your permit was provisionally issued under § 773.14(b) of this part and one or more of the conditions in §§ 773.14(c)(1) through (4) exists.
 

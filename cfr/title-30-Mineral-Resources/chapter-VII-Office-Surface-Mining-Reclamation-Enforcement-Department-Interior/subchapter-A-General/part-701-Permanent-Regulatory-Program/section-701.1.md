@@ -10,7 +10,7 @@
 
 (3) Subchapter E on surface coal mining and reclamation operations on Indian lands.
 
-(4) Subchapter F on criteria for designating lands unsuitable for surface coal mining operations and the process for designating these lands or withdrawing the designation by the regulatory authority; *Provided,* That, part 761 is applicable during the initial regulatory program under subchapter B of this chapter and 30 CFR part 2111 and that part 769 and other parts incorporated therein are applicable to the initial Federal lands program under 30 CFR part 211;1
+(4) Subchapter F on criteria for designating lands unsuitable for surface coal mining operations and the process for designating these lands or withdrawing the designation by the regulatory authority; *Provided,* That, part 761 is applicable during the initial regulatory program under subchapter B of this chapter and 30 CFR part 2111 and that part 769 and other parts incorporated therein are applicable to the initial Federal lands program under 30 CFR part 211;
 
 1Editorial Note: 30 CFR part 211 was redesignated as 43 CFR part 3480 at 48 FR 41589, Sept. 16, 1983.
 

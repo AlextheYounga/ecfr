@@ -1,25 +1,5 @@
-##### § 773.5 How must the regulatory authority coordinate the permitting process with requirements under other laws? #####
+##### § 773.5 Regulatory coordination with requirements under other laws. #####
 
-(a) To avoid duplication, each regulatory program must provide for the coordination of review of permit applications and issuance of permits for surface coal mining operations with the federal and state agencies responsible for permitting and related actions under the following laws and their implementing regulations:
+Each regulatory program shall, to avoid duplication, provide for the coordination of review and issuance of permits for surface coal mining and reclamation operations with applicable requirements of the Endangered Species Act of 1973, as amended (16 U.S.C. 1531 *et seq.*); the Fish and Wildlife Coordination Act, as amended (16 U.S.C. 661 *et seq.*); the Migratory Bird Treaty Act of 1918, as amended (16 U.S.C. 703 *et seq.*); The National Historic Preservation Act of 1966, as amended (16 U.S.C. 470 *et seq.*); the Bald Eagle Protection Act, as amended (16 U.S.C. 668a); for Federal programs only, the Archeological and Historic Preservation Act of 1974 (16 U.S.C. 469 *et seq.*); and the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa *et seq.*) where Federal and Indian lands covered by that Act are involved.
 
-(1) The Clean Water Act (33 U.S.C. 1251 *et seq.*).
-
-(2) The Endangered Species Act of 1973 (16 U.S.C. 1531 *et seq.*).
-
-(3) The Fish and Wildlife Coordination Act (16 U.S.C. 661 *et seq.*).
-
-(4) The Migratory Bird Treaty Act of 1918 (16 U.S.C. 703 *et seq.*).
-
-(5) The Bald and Golden Eagle Protection Act (16 U.S.C. 668-668d).
-
-(b) In addition to the requirements of paragraph (a) of this section, each federal regulatory program must provide for coordination of the review of permit applications and issuance of permits for surface coal mining operations with applicable requirements of the following laws and their implementing regulations:
-
-(1) The National Historic Preservation Act of 1966 (54 U.S.C. 300101 *et seq.*).
-
-(2) The Archeological and Historic Preservation Act of 1974 (16 U.S.C. 469 *et seq.*).
-
-(3) The Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa *et seq.*), where federal or Indian lands covered by that Act are involved.
-
-(4) The National Environmental Policy Act of 1969 (42 U.S.C. 4371 *et seq.*).
-
-[81 FR 93323, Dec. 20, 2016]
+[52 FR 4262, Feb. 10, 1987. Redesignated at 65 FR 79663, Dec. 19, 2000, as amended at 81 FR 93323, Dec. 20, 2016; 82 FR 54937, Nov. 17, 2017]

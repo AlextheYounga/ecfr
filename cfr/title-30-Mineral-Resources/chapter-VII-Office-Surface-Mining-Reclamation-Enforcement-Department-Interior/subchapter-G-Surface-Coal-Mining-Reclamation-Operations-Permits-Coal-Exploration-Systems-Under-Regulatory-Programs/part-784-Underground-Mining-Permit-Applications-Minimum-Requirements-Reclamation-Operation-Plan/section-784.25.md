@@ -10,4 +10,4 @@
 
 (e) The requirements of paragraphs (a), (b), (c), and (d) of this section shall also apply to pneumatic backfilling operations, except where the operations are exempted by the regulatory authority from requirements specifying hydrologic monitoring.
 
-[44 FR 15366, Mar. 13, 1979, as amended at 48 FR 44780, Sept. 30, 1983]
+[44 FR 15366, Mar. 13, 1979, as amended at 48 FR 44780, Sept. 30, 1983; 81 FR 93355, Dec. 20, 2016; 82 FR 54958, Nov. 17, 2017]

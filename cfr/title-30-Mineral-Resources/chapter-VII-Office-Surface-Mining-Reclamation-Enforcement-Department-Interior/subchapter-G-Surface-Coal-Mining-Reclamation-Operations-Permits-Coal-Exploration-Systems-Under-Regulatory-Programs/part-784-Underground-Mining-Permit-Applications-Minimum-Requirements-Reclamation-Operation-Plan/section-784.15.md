@@ -20,4 +20,4 @@
 
 (c) The description shall be accompanied by a copy of the comments concerning the proposed use by the legal or equitable owner of record of the surface of the proposed permit area and the State and local government agencies which would have to initiate, implement, approve, or authorize the proposed use of the land following reclamation.
 
-[59 FR 27937, May 27, 1994]
+[59 FR 27937, May 27, 1994, as amended at 81 FR 93355, Dec. 20, 2016; 82 FR 54958, Nov. 17, 2017]

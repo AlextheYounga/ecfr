@@ -1,6 +1,6 @@
 ##### § 700.1 Scope. #####
 
-The regulations in chapter VII of 30 CFR, consisting of parts 700 through 899, establish the procedures through which the Secretary of the Interior will implement the Surface Mining Control and Reclamation Act of 1977 (Pub. L. 95-87, 91 Stat. 445 (30 U.S.C. 1201 *et. seq.)).* Chapter VII is divided into 13 subchapters.
+The regulations in chapter VII of 30 CFR, consisting of parts 700 through 899, establish the procedures through which the Secretary of the Interior will implement the Surface Mining Control and Reclamation Act of 1977 (Pub. L. 95-87, 91 Stat. 445 (30 U.S.C. 1201 *et. seq.*)). Chapter VII is divided into 13 subchapters.
 
 (a) Subchapter A contains introductory information intended to serve as a guide to the rest of the chapter and to the regulatory requirements and definitions generally applicable to the programs and persons covered by the Act.
 
@@ -12,7 +12,7 @@ The regulations in chapter VII of 30 CFR, consisting of parts 700 through 899, e
 
 (e) Subchapter E of this chapter contains regulations that apply to surface coal mining and reclamation operations conducted on Indian lands.
 
-(f)(1) Subchapter F implements the requirements of the Act for -
+(f)(1) Subchapter F implements the requirements of the Act for—
 
 (i) Designating lands which are unsuitable for all or certain types of surface coal mining operations;
 

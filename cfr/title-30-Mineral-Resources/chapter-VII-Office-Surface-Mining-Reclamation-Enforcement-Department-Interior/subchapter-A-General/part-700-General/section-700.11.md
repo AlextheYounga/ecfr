@@ -1,4 +1,4 @@
-##### § 700.11 What coal exploration and coal mining operations are subject to our rules? #####
+##### § 700.11 Applicability. #####
 
 (a) Except as provided in paragraph (b) of this section, this chapter applies to all coal exploration and surface coal mining and reclamation operations, except:
 
@@ -28,7 +28,7 @@
 
 (C) Members of the same family and their relatives, unless it is established that there is no direct or indirect business relationship between or among them;
 
-(iii) For purposes of this paragraph, *control* means: ownership of 50 percent or more of the voting shares of, or general partnership in, an entity; any relationship which gives one person the ability in fact or law to direct what the other does; or any relationship which gives one person express or implied authority to determine the manner in which coal at different sites will be mined, handled, sold or disposed of.
+(iii) For purposes of this paragraph, *control* means: Ownership of 50 percent or more of the voting shares of, or general partnership in, an entity; any relationship which gives one person the ability in fact or law to direct what the other does; or any relationship which gives one person express or implied authority to determine the manner in which coal at different sites will be mined, handled, sold or disposed of.
 
 (3) Notwithstanding the provisions of paragraph (b)(2) of this section, the regulatory authority may determine, in accordance with the procedures applicable to requests for determination of exemption pursuant to paragraph (c) of this section, that two or more surface coal mining operations shall not be deemed related if, considering the history and circumstances relating to the coal, its location, the operations at the sites in question, all related operations and all persons mentioned in paragraph (b)(2)(ii) of this section, the regulatory authority concludes in writing that the operations are not of the type which the Act was intended to regulate and that there is no intention on the part of such operations or persons to evade the requirements of the Act or the applicable regulatory program.
 
@@ -36,25 +36,15 @@
 
 (c) The regulatory authority may on its own initiative and shall, within a reasonable time of a request from any person who intends to conduct surface coal mining operations, make a written determination whether the operation is exempt under this section. The regulatory authority shall give reasonable notice of the request to interested persons. Prior to the time a determination is made, any person may submit, and the regulatory authority shall consider, any written information relevant to the determination. A person requesting that an operation be declared exempt shall have the burden of establishing the exemption. If a written determination of exemption is reversed through subsequent administrative or judicial action, any person who, in good faith, has made a complete and accurate request for an exemption and relied upon the determination, shall not be cited for violations which occurred prior to the date of the reversal.
 
-(d) *Termination and reassertion of jurisdiction* - (1) *Termination of jurisdiction for initial regulatory program sites.* A regulatory authority may terminate its jurisdiction under the initial regulatory program over a completed surface coal mining and reclamation operation, or portion thereof, when the regulatory authority determines in writing that all requirements imposed under subchapter B of this chapter have been successfully completed.
+(d)(1) A regulatory authority may terminate its jurisdiction under the regulatory program over the reclaimed site of a completed surface coal mining and reclamation operation, or increment thereof, when:
 
-(2) *Termination of jurisdiction for permanent regulatory program sites.* A regulatory authority may terminate its jurisdiction under the permanent regulatory program over a completed surface coal mining and reclamation operation, or portion thereof, when -
+(i) The regulatory authority determines in writing that under the initial program, all requirements imposed under subchapter B of this chapter have been successfully completed; or
 
-(i) The regulatory authority determines in writing that all requirements imposed under the applicable regulatory program have been successfully completed; or
+(ii) The regulatory authority determines in writing that under the permanent program, all requirements imposed under the applicable regulatory program have been successfully completed or, where a performance bond was required, the regulatory authority has made a final decision in accordance with the State or Federal program counterpart to part 800 of this chapter to release the performance bond fully.
 
-(ii) Where a performance bond or financial assurance was required, the regulatory authority has made a final decision in accordance with the applicable regulatory program to release the performance bond or financial assurance fully.
+(2) Following a termination under paragraph (d)(1) of this section, the regulatory authority shall reassert jurisdiction under the regulatory program over a site if it is demonstrated that the bond release or written determination referred to in paragraph (d)(1) of this section was based upon fraud, collusion, or misrepresentation of a material fact.
 
-(3) *Reassertion of jurisdiction.* Following a termination under paragraph (d)(1) or (2) of this section, the regulatory authority must reassert jurisdiction under the regulatory program over a site or operation whenever -
-
-(i) Conditions develop after termination of jurisdiction that would constitute a violation of the reclamation requirements of the applicable regulatory program;
-
-(ii) The conditions described in paragraph (d)(3)(i) of this section are the result of surface coal mining operations for which jurisdiction was terminated; and
-
-(iii) The written determination or bond release referred to in paragraph (d)(1) or (2) of this section was based upon fraud, collusion, or the intentional or unintentional misrepresentation of a material fact. The intentional or unintentional misrepresentation of a material fact includes the discovery of a discharge requiring treatment after termination of jurisdiction, provided that the conditions creating the need for treatment are the result of the mining operation.
-
-(4) *Exception for certain underground mining requirements.* The provisions of paragraphs (d)(1) and (2) of this section do not apply to the domestic water supply replacement requirements of § 817.40 of this chapter or to the structural damage repair or compensation requirements of § 817.121(d) of this chapter.
-
-[47 FR 33431, July 2, 1982, as amended at 48 FR 40634, Sept. 8, 1983; 48 FR 44779, Sept. 30, 1983; 49 FR 38477, Sept. 28, 1984; 53 FR 44363, Nov. 2, 1988; 54 FR 52120, 54 FR 52120, Dec. 20, 1989; 81 FR 93319, Dec. 20, 2016]Effective Date Note:At 52 FR 21229, June 4, 1987, paragraph (b) of § 700.11 was suspended insofar as it excepts from the applicability of 30 CFR chapter VII:
+[47 FR 33431, July 2, 1982, as amended at 48 FR 40634, Sept. 8, 1983; 48 FR 44779, Sept. 30, 1983; 49 FR 38477, Sept. 28, 1984; 53 FR 44363, Nov. 2, 1988; 54 FR 52120, 54 FR 52120, Dec. 20, 1989; 81 FR 93319, Dec. 20, 2016; 82 FR 54924, Nov. 17, 2017]Effective Date Note:At 52 FR 21229, June 4, 1987, paragraph (b) of § 700.11 was suspended insofar as it excepts from the applicability of 30 CFR chapter VII:
 
 (1) Any surface coal mining operations commencing on or after June 6, 1987; and
 

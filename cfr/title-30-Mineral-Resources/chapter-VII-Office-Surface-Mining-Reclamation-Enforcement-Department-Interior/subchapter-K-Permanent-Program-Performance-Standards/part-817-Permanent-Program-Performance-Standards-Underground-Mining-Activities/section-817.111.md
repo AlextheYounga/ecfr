@@ -1,33 +1,29 @@
-##### § 817.111 How must I revegetate areas disturbed by mining activities? #####
+##### § 817.111 Revegetation: General requirements. #####
 
-(a) You, the permittee, must establish a diverse, effective, permanent vegetative cover on regraded areas and on all other disturbed areas except -
+(a) The permittee shall establish on regraded areas and on all other disturbed areas except water areas and surface areas of roads that are approved as part of the postmining land use, as vegetative cover that is in accordance with the approved permit and reclamation plan and that is—
 
-(1) Water areas approved as a postmining land use or in support of the postmining land use.
+(1) Diverse, effective, and permanent;
 
-(2) The surfaces of roads approved for retention to support the postmining land use.
+(2) Comprised of species native to the area, or of introduced species where desirable and necessary to achieve the approved postmining land use and approved by the regulatory authority;
 
-(3) Rock piles, water areas, and other non-vegetative features created to restore or enhance wildlife habitat under the fish and wildlife protection and enhancement plan approved in the permit in accordance with § 784.16 of this chapter.
+(3) At least equal in extent of cover to the natural vegetation of the area; and
 
-(4) Any other impervious surface, such as a building or a parking lot, approved as part of or in support of the postmining land use. This provision applies only to structures and facilities constructed before expiration of the revegetation responsibility period.
+(4) Capable of stabilizing the soil surface from erosion.
 
-(b) The reestablished vegetative cover must -
+(b) The reestablished plant species shall—
 
-(1) Comply with the revegetation plan approved in the permit in accordance with § 784.12(g) of this chapter.
+(1) Be compatible with the approved postmining land use;
 
-(2) Be consistent with the approved postmining land use and, except as provided in the revegetation plan approved in the permit in accordance with § 784.12(g) of this chapter, the native plant communities described in § 783.19 of this chapter.
+(2) Have the same seasonal characteristics of growth as the original vegetation;
 
-(3) Be at least equal in extent of cover to the natural vegetation of the area.
+(3) Be capable of self-regeneration and plant succession;
 
-(4) Be capable of stabilizing the soil surface and, in the long term, preventing erosion in excess of what would have occurred naturally had the site not been disturbed.
+(4) Be compatible with the plant and animal species of the area; and
 
-(5) Not inhibit the establishment of trees and shrubs when the revegetation plan approved in the permit requires the use of woody plants.
+(5) Meet the requirements of applicable State and Federal seed, poisonous and noxious plant, and introduced species laws or regulations.
 
-(c) Volunteer plants of species that are desirable components of the plant communities described in the permit application under § 783.19 of this chapter and that are not inconsistent with the postmining land use may be considered in determining whether the requirements of §§ 817.111 and 817.116 have been met.
+(c) The regulatory authority may grant exception to the requirements of paragraphs (b) (2) and (3) of this section when the species are necessary to achieve a quick-growing, temporary, stabilizing cover, and measures to establish permanent vegetation are included in the approved permit and reclamation plan.
 
-(d) You must stabilize all areas upon which you have redistributed soil or soil substitute materials. You must use one or a combination of the following methods, unless the regulatory authority determines that neither method is necessary to stabilize the surface and control erosion -
+(d) When the regulatory authority approves a cropland postmining land use, the regulatory authority may grant exceptions to the requirements of paragraphs (a) (1), (3), (b) (2), and (3) of this section. The requirements of part 823 of this chapter apply to areas identified as prime farmland.
 
-(1) Establishing a temporary vegetative cover consisting of noncompetitive and non-invasive species, either native or domesticated or a combination thereof.
-
-(2) Applying suitable mulch free of weed and noxious plant seeds.
-
-(e) You must plant all disturbed areas with the species needed to establish a permanent vegetative cover during the first normal period for favorable planting conditions after redistribution of the topsoil or other plant-growth medium. The normal period for favorable planting conditions is the generally accepted local planting time for the type of plant materials approved in the permit as part of the revegetation plan under § 784.12(g) of this chapter.
+[48 FR 40161, Sept. 2, 1983, as amended at 81 FR 93418, Dec. 20, 2016; 82 FR 54999, Nov. 17, 2017]

@@ -1,6 +1,6 @@
 ##### § 779.25 Cross sections, maps, and plans. #####
 
-(a) The application shall include cross sections, maps, and plans showing -
+(a) The application shall include cross sections, maps, and plans showing—
 
 (1) Elevations and locations of test borings and core samplings;
 
@@ -24,4 +24,4 @@
 
 (b) Cross sections, maps and plans included in a permit application as required by this section shall be prepared by, or under the direction of, and certified by a qualified, registered, professional engineer, a professional geologist, or in any State which authorizes land surveyors to prepare and certify such cross sections, maps and plans, a qualified, registered, professional, land surveyor, with assistance from experts in related fields such as landscape architecture, and shall be updated as required by the regulatory authority.
 
-[44 FR 15354, Mar. 13, 1979, as amended at 45 FR 51550, Aug. 4, 1980; 50 FR 16198, Apr. 24, 1985; 59 FR 27937, May 27, 1994]
+[44 FR 15354, Mar. 13, 1979, as amended at 45 FR 51550, Aug. 4, 1980; 50 FR 16198, Apr. 24, 1985; 59 FR 27937, May 27, 1994; 81 FR 93327, Dec. 20, 2016; 82 FR 54948, Nov. 17, 2017]

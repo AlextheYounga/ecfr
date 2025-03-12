@@ -8,4 +8,4 @@
 
 (b) The regulatory authority may require the applicant to protect historic and archeological properties listed on or eligible for listing on the National Register of Historic Places through appropriate mitigation and treatment measures. Appropriate mitigation and treatment measures may be required to be taken after permit issuance provided that the required measures are completed before the properties are affected by any mining operation.
 
-[52 FR 4263, Feb. 10, 1987, as amended at 64 FR 70838, Dec. 17, 1999]
+[52 FR 4263, Feb. 10, 1987, as amended at 64 FR 70838, Dec. 17, 1999; 81 FR 93355, Dec. 20, 2016; 82 FR 54958, Nov. 17, 2017]

@@ -1,6 +1,6 @@
 ##### § 780.22 Geologic information. #####
 
-(a) *General.* Each application shall include geologic information in sufficient detail to assist in determining -
+(a) *General.* Each application shall include geologic information in sufficient detail to assist in determining—
 
 (1) The probable hydrologic consequences of the operation upon the quality and quantity of surface and ground water in the permit and adjacent areas, including the extent to which surface- and ground-water monitoring is necessary;
 
@@ -10,7 +10,7 @@
 
 (b) Geologic information shall include, at a minimum the following:
 
-(1) A description of the geology of the proposed permit and adjacent areas down to and including the deeper of either the stratum immediately below the lowest coal seam to be mined or any aquifer below the lowest coal seam to be mined which may be adversely impacted by mining. The description shall include the areal and structural geology of the permit and adjacent areas, and other parameters which influence the required reclamation and the occurrence, availability, movement, quantity, and quality of potentially impacted surface and ground waters. It shall be based on -
+(1) A description of the geology of the proposed permit and adjacent areas down to and including the deeper of either the stratum immediately below the lowest coal seam to be mined or any aquifer below the lowest coal seam to be mined which may be adversely impacted by mining. The description shall include the areal and structural geology of the permit and adjacent areas, and other parameters which influence the required reclamation and the occurrence, availability, movement, quantity, and quality of potentially impacted surface and ground waters. It shall be based on—
 
 (i) The cross sections, maps and plans required by § 779.25 of this chapter;
 
@@ -30,4 +30,4 @@
 
 (d) An applicant may request the regulatory authority to waive in whole or in part the requirements of paragraph (b)(2) of this section. The waiver may be granted only if the regulatory authority finds in writing that the collection and analysis of such data is unnecessary because other equivalent information is available to the regulatory authority in a satisfactory form.
 
-[48 FR 43987, Sept. 26, 1983]
+[48 FR 43987, Sept. 26, 1983, as amended at 81 FR 93330, Dec. 20, 2016; 82 FR 54949, Nov. 17, 2017]

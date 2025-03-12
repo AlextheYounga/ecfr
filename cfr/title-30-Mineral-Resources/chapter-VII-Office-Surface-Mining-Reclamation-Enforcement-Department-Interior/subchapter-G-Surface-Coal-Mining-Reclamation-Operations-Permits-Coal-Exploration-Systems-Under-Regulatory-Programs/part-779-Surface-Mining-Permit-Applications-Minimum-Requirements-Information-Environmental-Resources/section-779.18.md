@@ -10,4 +10,4 @@
 
 (b) The regulatory authority may request such additional data as deemed necessary to ensure compliance with the requirements of this subchapter.
 
-[44 FR 15354, Mar. 13, 1979, as amended at 45 FR 51550, Aug. 4, 1980]
+[44 FR 15354, Mar. 13, 1979, as amended at 45 FR 51550, Aug. 4, 1980; 81 FR 93327, Dec. 20, 2016; 82 FR 54948, Nov. 17, 2017]

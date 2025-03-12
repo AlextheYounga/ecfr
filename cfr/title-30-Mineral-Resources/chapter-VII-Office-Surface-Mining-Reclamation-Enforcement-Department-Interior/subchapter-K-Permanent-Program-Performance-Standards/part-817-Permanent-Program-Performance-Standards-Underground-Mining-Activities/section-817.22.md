@@ -1,79 +1,57 @@
-##### § 817.22 How must I handle topsoil, subsoil, and other plant growth media? #####
+##### § 817.22 Topsoil and subsoil. #####
 
-(a) *Removal and salvage.* (1)(i) You, the permittee, must remove and salvage all topsoil and other soil materials identified for salvage and use as postmining plant growth media in the soil handling plan approved in the permit under § 784.12(e) of this chapter.
+(a) *Removal.* (1)(i) All topsoil shall be removed as a separate layer from the area to be disturbed, and segregated.
 
-(ii) The soil handling plan approved in the permit under § 784.12(e) of this chapter will specify which soil horizons and underlying strata, or portions thereof, you must separately remove and salvage. The plan also will specify whether some or all of those soil horizons and soil substitute materials may or must be blended to achieve an improved plant growth medium.
+(ii) Where the topsoil is of insufficient quantity or of poor quality for sustaining vegetation, the materials approved by the regulatory authority in accordance with paragraph (b) of this section shall be removed as a separate layer from the area to be disturbed, and segregated.
 
-(iii) Except as provided in the soil handling plan approved in the permit under § 784.12(e) of this chapter, you must complete removal and salvage of topsoil, subsoil, and organic matter in advance of any mining-related surface disturbance other than the minor disturbances identified in paragraph (a)(2) of this section.
+(2) If topsoil is less than 6 inches thick, the operator may remove the topsoil and the unconsolidated materials immediately below the topsoil and treat the mixture as topsoil.
 
-(2) Unless otherwise specified by the regulatory authority, you need not remove and salvage topsoil and other soil materials for minor disturbances that -
+(3) The regulatory authority may choose not to require the removal of topsoil for minor disturbances which—
 
-(i) Occur at the site of small structures, such as power poles, signs, monitoring wells, or fence lines; or
+(i) Occur at the site of small structures, such as power poles, signs, or fence lines; or
 
 (ii) Will not destroy the existing vegetation and will not cause erosion.
 
-(b) *Handling and storage.* (1) You must segregate and separately handle the materials removed under paragraph (a) of this section to the extent required in the soil handling plan approved in the permit pursuant to § 784.12(e). You must redistribute those materials promptly on regraded areas or stockpile them when prompt redistribution is impractical.
+(4) *Timing.* All materials to be removed under this section shall be removed after the vegetative cover that would interfere with its salvage is cleared from the area to be disturbed, but before any drilling, blasting, mining, or other surface disturbance takes place.
 
-(2) Stockpiled materials must -
+(b) *Substitutes and supplements.* Selected overburden materials may be substituted for, or used as a supplement to, topsoil if the operator demonstrates to the regulatory authority that the resulting soil medium is equal to, or more suitable for sustaining vegetation than, the existing topsoil, and the resulting soil medium is the best available in the permit area to support revegetation.
+
+(c) *Storage.* (1) Materials removed under Paragraph (a) of this section shall be segregated and stockpiled when it is impractical to redistribute such materials promptly on regraded areas.
+
+(2) Stockpiled materials shall—
 
 (i) Be selectively placed on a stable site within the permit area;
 
 (ii) Be protected from contaminants and unnecessary compaction that would interfere with revegetation;
 
-(iii) Be protected from wind and water erosion through prompt establishment and maintenance of an effective, quick-growing, non-invasive vegetative cover or through other measures approved by the regulatory authority; and
+(iii) Be protected from wind and water erosion through prompt establishment and maintenance of an effective, quick growing vegetative cover or through other measures approved by the regulatory authority; and
 
 (iv) Not be moved until required for redistribution unless approved by the regulatory authority.
 
-(3) When stockpiling of organic matter and soil materials removed under paragraphs (a) and (f) of this section would be detrimental to the quality or quantity of those materials, you may temporarily redistribute those soil materials on an approved site within the permit area to enhance the current use of that site until the materials are needed for later reclamation, provided that -
+(3) Where long-term surface disturbances will result from facilities such as support facilities and preparation plants and where stockpiling of materials removed under paragraph (a)(1) of this section would be detrimental to the quality or quantity of those materials, the regulatory authority may approve the temporary distribution of the soil materials so removed to an approved site within the permit area to enhance the current use of that site until needed for later reclamation, provided that—
 
-(i) Temporary redistribution will not permanently diminish the capability of the topsoil of the host site; and
+(i) Such action will not permanently diminish the capability of the topsoil of the host site; and
 
-(ii) The redistributed material will be preserved in a condition more suitable for redistribution than if it were stockpiled.
+(ii) The material will be retained in a condition more suitable for redistribution than if stockpiled.
 
-(c) *Soil substitutes and supplements.* When the soil handling plan approved in the permit in accordance with § 784.12(e) of this chapter provides for the use of substitutes for or supplements to the existing topsoil or subsoil, you must salvage, store, and redistribute the overburden materials selected and approved for that purpose in a manner consistent with paragraphs (a), (b), and (e) of this section.
+(d) *Redistribution.* (1) Topsoil materials and topsoil substitutes and supplements removed under paragraphs (a) and (b) of this section shall be redistributed in a manner that—
 
-(d) *Site preparation.* If necessary to reduce potential slippage of the redistributed material or to promote root penetration, you must rip, chisel-plow, deep-till, or otherwise mechanically treat backfilled and graded areas either before or after redistribution of soil materials, whichever time is agronomically appropriate.
+(i) Achieves an approximately uniform, stable thickness when consistent with the approved postmining land use, contours, and surface-water drainage systems. Soil thickness may also be varied to the extent such variations help meet the specific revegetation goals identified in the permit;
 
-(e) *Redistribution.* (1) You must redistribute the materials removed, salvaged, and, if necessary, stored under paragraphs (a) through (c) of this section in a manner that -
+(ii) Prevents excess compaction of the materials; and
 
-(i) Complies with the soil handling plan developed under § 784.12(e) of this chapter and approved as part of the permit.
+(iii) Protects the materials from wind and water erosion before and after seeding and planting.
 
-(ii) Is consistent with the approved postmining land use, the final surface configuration, and surface water drainage systems.
+(2) Before redistribution of the material removed under paragraph (a) of this section, the regraded land shall be treated if necessary to reduce potential slippage of the redistributed material and to promote root penetration. If no harm will be caused to the redistributed material and reestablished vegetation, such treatment may be conducted after such material is replaced.
 
-(iii) Minimizes compaction of the topsoil and soil materials in the root zone to the extent possible and alleviates any excess compaction that may occur. You must limit your use of measures that result in increased compaction to those situations in which added compaction is necessary to ensure stability.
+(3) The regulatory authority may choose not to require the redistribution of topsoil or topsoil substitutes on the approved postmining embankments of permanent impoundments or of roads if it determines that—
 
-(iv) Protects the materials from wind and water erosion before and after seeding and planting to the extent necessary to ensure establishment of a successful vegetative cover and to avoid causing or contributing to a violation of applicable state or tribal water quality standards or effluent limitations, including, but not limited to, water quality standards established under the authority of section 303(c) of the Clean Water Act, 33 U.S.C. 1313(c), and effluent limitations established in any National Pollutant Discharge Elimination System permit issued for the operation under section 402 of the Clean Water Act, 33 U.S.C. 1342, or its state or tribal counterpart.
+(i) Placement of topsoil or topsoil substitutes on such embankments is inconsistent with the requirement to use the best technology currently available to prevent sedimentation, and
 
-(v) Achieves an approximately uniform, stable thickness across the regraded area. The thickness may vary when consistent with the approved postmining land use, the final surface configuration, surface water drainage systems, and the requirement in § 817.133 of this part for restoration of all disturbed areas to conditions that are capable of supporting the uses they were capable of supporting before any mining or higher or better uses approved under § 784.24(b) of this chapter. The thickness also may vary when variations are necessary or desirable to achieve specific revegetation goals and ecological diversity, as set forth in the revegetation plan developed under § 784.12(g) of this chapter and approved as part of the permit.
+(ii) Such embankments will be otherwise stabilized.
 
-(2) You must use a statistically valid sampling technique to document that soil materials have been redistributed in the locations and depths required by the soil handling plan developed under § 784.12(e) of this chapter and approved as part of the permit.
+(4) *Nutrients and soil amendments.* Nutrients and soil amendments shall be applied to the initially redistributed material when necessary to establish the vegetative cover.
 
-(3) The regulatory authority may choose not to require the redistribution of topsoil on the embankments of permanent impoundments or on the embankments of roads to be retained as part of the postmining land use if it determines that -
+(e) *Subsoil segregation.* The regulatory authority may require that the B horizon, C horizon, or other underlying strata, or portions thereof, be removed and segregated, stockpiled, and redistributed as subsoil in accordance with the requirements of paragraphs (c) and (d) of this section if it finds that such subsoil layers are necessary to comply with the revegetation requirements of §§ 817.111, 817.113, 817.114, and 817.116 of this chapter.
 
-(i) Placement of topsoil on those embankments is inconsistent with the requirement to use the best technology currently available to prevent sedimentation, and
-
-(ii) The embankments will be otherwise stabilized.
-
-(f) *Organic matter.* (1)(i) You must salvage duff, other organic litter, and vegetative materials such as tree tops and branches, small logs, and root balls. When practicable and consistent with the approved postmining land use, you may salvage organic matter and topsoil in a single operation that blends those materials.
-
-(ii) Paragraph (f)(1)(i) of this section does not apply to organic matter from areas identified under § 783.19(b) of this chapter as containing significant populations of invasive or noxious non-native species. You must bury organic matter from those areas in the backfill at a sufficient depth to prevent regeneration or proliferation of undesirable species.
-
-(2)(i) Except as otherwise provided in paragraphs (f)(2)(ii) and (iii) and (3) of this section, you must redistribute the organic matter salvaged under paragraph (f)(1) of this section across the regraded surface or incorporate it into the soil to control erosion, promote growth of vegetation, serve as a source of native plant seeds and soil inoculants to speed restoration of the soil's ecological community, and increase the moisture retention capability of the soil.
-
-(ii) You may use vegetative debris to construct stream improvement or fish and wildlife habitat enhancement features consistent with the approved postmining land use.
-
-(iii) You may adjust the timing and pattern of redistribution of large woody debris to accommodate the use of mechanized tree-planting equipment on sites with a forestry postmining land use.
-
-(3)(i) The redistribution requirements of paragraph (f)(2)(i) of this section do not apply to those portions of the permit area -
-
-(A) Upon which row crops will be planted as part of the postmining land use before final bond release under §§ 800.40 through 800.43 of this chapter;
-
-(B) That will be intensively managed for hay production as part of the postmining land use before final bond release under §§ 800.40 through 800.43 of this chapter; or
-
-(C) Upon which structures, roads, other impervious surfaces, or water impoundments have been or will be constructed as part of the postmining land use before final bond release under §§ 800.40 through 800.43 of this chapter.
-
-(ii) When the circumstances described in paragraph (f)(3)(i) of this section apply, you must make reasonable efforts to redistribute the salvaged organic matter on other portions of the permit area or use woody debris to construct stream improvement or fish and wildlife habitat enhancement features consistent with the approved postmining land use. If you demonstrate, and the regulatory authority finds, that it is not reasonably possible to use all available organic matter for these purposes, you may bury it in the backfill.
-
-(4)(i) You may not burn organic matter.
-
-(ii) You may bury organic matter in the backfill only as provided in paragraphs (f)(1)(ii) and (3)(ii) of this section.
+[48 FR 22101, May 16, 1983, as amended at 71 FR 51706, Aug. 30, 2006; 81 FR 93418, Dec. 20, 2016; 82 FR 54999, Nov. 17, 2017]

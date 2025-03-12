@@ -1,27 +1,29 @@
-##### § 817.151 What additional requirements apply to primary roads? #####
+##### § 817.151 Primary roads. #####
 
-(a) Primary roads must meet the requirements of § 817.150 of this part and the additional requirements of this section.
+Primary roads shall meet the requirements of § 817.150 and the additional requirements of this section.
 
-(b) *Certification.* The construction or reconstruction of primary roads must be certified in a report to the regulatory authority by a qualified registered professional engineer, or in any state that authorizes land surveyors to certify the construction or reconstruction of primary roads, a qualified registered professional land surveyor, with experience in the design and construction of roads. The report must indicate that the primary road has been constructed or reconstructed as designed and in accordance with the approved plan.
+(a) *Certification.* The construction or reconstruction of primary roads shall be certified in a report to the regulatory authority by a qualified registered professional engineer, or in any State which authorizes land surveyors to certify the construction or reconstruction of primary roads, a qualified registered professional land surveyor, with experience in the design and construction of roads. The report shall indicate that the primary road has been constructed or reconstructed as designed and in accordance with the approved plan.
 
-(c) *Safety factor.* Each primary road embankment must have a minimum static factor of 1.3 or meet the requirements established under § 784.37(c) of this chapter.
+(b) *Safety factor.* Each primary road embankment shall have a minimum static factor of 1.3 or meet the requirements established under § 784.24(c).
 
-(d) *Location.* (1) To minimize erosion, a primary road must be located, insofar as is practicable, on the most stable available surface.
+(c) *Location.* (1) To minimize erosion, a primary road shall be located, insofar as is practicable, on the most stable available surface.
 
-(2) Fords of perennial or intermittent streams are prohibited unless they are specifically approved by the regulatory authority as temporary routes during periods of road construction.
+(2) Fords of perennial or intermittent streams by primary roads are prohibited unless they are specifically approved by the regulatory authority as temporary routes during periods of road construction.
 
-(e) *Drainage control.* In accordance with the approved plan -
+(d) *Drainage control.* In accordance with the approved plan—
 
-(1) Each primary road must be constructed (or reconstructed) and maintained to have adequate drainage control, using structures such as, but not limited to bridges, ditches, cross drains, and ditch relief drains. The drainage control system must be designed to safely pass the peak runoff from the 10-year, 6-hour precipitation event, or any greater event specified by the regulatory authority.
+(1) Each primary road shall be constructed or reconstructed, and maintained to have adequate drainage control, using structures such as, but not limited to bridges, ditches, cross drains, and ditch relief drains. The drainage control system shall be designed to safely pass the peak runoff from a 10-year, 6-hour precipitation event, or greater event as specified by the regulatory authority;
 
-(2) Drainage pipes and culverts must be installed as designed, and maintained in a free and operating condition and to prevent or control erosion at inlets and outlets.
+(2) Drainage pipes and culverts shall be installed as designed, and maintained in a free and operating condition and to prevent or control erosion at inlets and outlets;
 
-(3) Drainage ditches must be constructed and maintained to prevent uncontrolled drainage over the road surface and embankment.
+(3) Drainage ditches shall be constructed and maintained to prevent uncontrolled drainage over the road surface and embankment;
 
-(4) Culverts must be installed and maintained to sustain the vertical soil pressure, the passive resistance of the foundation, and the weight of vehicles using the road.
+(4) Culverts shall be installed and maintained to sustain the vertical soil pressure, the passive resistance of the foundation, and the weight of vehicles using the road;
 
-(5) Natural stream channels must not be altered or relocated without the prior approval of the regulatory authority in accordance with § 784.28 of this chapter and § 817.57 of this part.
+(5) Natural stream channels shall not be altered or relocated without the prior approval of the regulatory authority in accordance with applicable §§ 816.41 through 816.43 and 816.57 of this chapter; and
 
-(6) Except as provided in paragraph (d)(2) of this section, structures for perennial or intermittent stream channel crossings must be made using bridges, culverts, low-water crossings, or other structures designed, constructed, and maintained using current prudent engineering practices. The regulatory authority must ensure that low-water crossings are designed, constructed, and maintained to prevent erosion of the structure or streambed and additional contributions of suspended solids to streamflow.
+(6) Except as provided in paragraph (c)(2) of this section, structures for perennial or intermittent stream channel crossings shall be made using bridges, culverts, low-water crossings, or other structures designed, constructed, and maintained using current, prudent engineering practices. The regulatory authority shall ensure that low-water crossings are designed, constructed, and maintained to prevent erosion of the structure or streambed and additional contributions of suspended solids to streamflow.
 
-(f) *Surfacing.* Primary roads must be surfaced with material approved by the regulatory authority as being sufficiently durable for the anticipated volume of traffic and the weight and speed of vehicles using the road.
+(e) *Surfacing.* Primary roads shall be surfaced with material approved by the regulatory authority as being sufficiently durable for the anticipated volume of traffic and the weight and speed of vehicles using the road.
+
+[53 FR 45213, Nov. 8, 1988, as amended at 81 FR 93418, Dec. 20, 2016; 82 FR 54999, Nov. 17, 2017]

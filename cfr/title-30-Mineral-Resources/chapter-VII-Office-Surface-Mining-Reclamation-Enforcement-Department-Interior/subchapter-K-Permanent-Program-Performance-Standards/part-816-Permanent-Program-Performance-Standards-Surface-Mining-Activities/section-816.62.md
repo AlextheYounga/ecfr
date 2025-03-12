@@ -1,19 +1,13 @@
 ##### § 816.62 Use of explosives: Preblasting survey. #####
 
-(a) At least 30 days before initiation of blasting, you must notify, in writing, all residents or owners of dwellings or other structures located within1/2 mile of the permit area how to request a preblasting survey.
+(a) At least 30 days before initiation of blasting, the operator shall notify, in writing, all residents or owners of dwellings or other structures located within1/2 mile of the permit area how to request a preblasting survey.
 
-(b)(1) A resident or owner of a dwelling or structure within1/2 mile of any part of the permit area may request a preblasting survey. This request must be made, in writing, directly to you or to the regulatory authority. If the request is made to the regulatory authority, the regulatory authority will promptly notify you.
+(b) A resident or owner of a dwelling or structure within1/2 mile of any part of the permit area may request a preblasting survey. This request shall be made, in writing, directly to the operator or to the regulatory authority, who shall promptly notify the operator. The operator shall promptly conduct a preblasting survey of the dwelling or structure and promptly prepare a written report of the survey. An updated survey of any additions, modifications, or renovations shall be performed by the operator if requested by the resident or owner.
 
-(2) You must promptly conduct a preblasting survey of the dwelling or structure and promptly prepare a written report of the survey.
+(c) The operator shall determine the condition of the dwelling or structure and shall document any preblasting damage and other physical factors that could reasonably be affected by the blasting. Structures such as pipelines, cables, transmission lines, and cisterns, wells, and other water systems warrant special attention; however, the assessment of these structures may be limited to surface conditions and other readily available data.
 
-(3) You must conduct an updated survey of any subsequent additions, modifications, or renovations to the dwelling or structure, if requested by the resident or owner.
+(d) The written report of the survey shall be signed by the person who conducted the survey. Copies of the report shall be promptly provided to the regulatory authority and to the person requesting the survey. If the person requesting the survey disagrees with the contents and/or recommendations contained therein, he or she may submit to both the operator and the regulatory authority a detailed description of the specific areas of disagreement.
 
-(c) You must determine the condition of the dwelling or structure and document any preblasting damage and other physical factors that could reasonably be affected by the blasting. Structures such as pipelines, cables, transmission lines, and cisterns, wells, and other water systems warrant special attention; however, the assessment of these structures may be limited to surface conditions and other readily available data.
+(e) Any surveys requested more than 10 days before the planned initiation of blasting shall be completed by the operator before the initiation of blasting.
 
-(d)(1) The person who conducted the survey must sign the written report of the survey.
-
-(2) You must promptly provide copies of the report to the regulatory authority and to the person requesting the survey.
-
-(3) If the person requesting the survey disagrees with the contents or recommendations of the survey, he or she may submit a detailed description of the specific areas of disagreement to both you and the regulatory authority.
-
-(e) You must complete any surveys requested more than 10 days before the planned initiation of blasting before the initiation of blasting.
+[48 FR 9807, Mar. 8, 1983, as amended at 81 FR 93392, Dec. 20, 2016; 82 FR 54979, Nov. 17, 2017]

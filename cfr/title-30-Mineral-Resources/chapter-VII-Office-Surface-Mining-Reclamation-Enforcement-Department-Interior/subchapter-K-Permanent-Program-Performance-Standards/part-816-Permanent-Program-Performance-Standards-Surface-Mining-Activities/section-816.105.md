@@ -1,15 +1,17 @@
-##### § 816.105 What special provisions for backfilling, grading, and surface configuration apply to sites with thick overburden? #####
+##### § 816.105 Backfilling and grading: Thick overburden. #####
 
-(a) *Applicability.* This section applies only where the thickness of all overburden strata multiplied by the swell factor for those strata plus the thickness of any waste materials to be returned to the mined-out area exceeds the combined thickness of the overburden strata and the coal seam or seams in place to the extent that there is more material than can be used to restore the approximate original contour. Specifically, the amount of material to be returned to the mined-out area is so large that it is not possible to achieve a surface configuration that closely resembles the surface configuration of the mined land prior to any mining.
+(a) *Definition.* Thick overburden means more than sufficient spoil and other waste materials available from the entire permit area to restore the disturbed area to its approximate original contour. More than sufficient spoil and other waste materials occur where the overburden thickness times the swell factor exceeds the combined thickness of the overburden and coal bed prior to removing the coal, so that after backfilling and grading the surface configuration of the reclaimed area would not:
 
-(b) *Performance standards.* Where thick overburden as described in paragraph (a) of this section occurs within the permit area, you must backfill all mined areas and grade all disturbed areas in accordance with the plan approved in the permit under § 780.12(d) of this chapter. At a minimum, you must -
+(1) Closely resemble the surface configuration of the land prior to mining; or
 
-(1) Backfill the mined-out area to the approximate original contour and then place the remaining spoil and waste materials on top of the backfilled area to the extent possible, as determined in accordance with the excess spoil minimization requirements of § 780.35(b) of this chapter.
+(2) Blend into and complement the drainage pattern of the surrounding terrain.
 
-(2) Grade the backfilled area to the lowest practicable grade that is ecologically sound, consistent with the postmining land use, and compatible with the surrounding region. No slope may exceed the angle of repose.
+(b) *Performance standards.* Where thick overburden occurs within the permit area, the permittee at a minimum shall:
 
-(3) Comply with the requirements of paragraphs (a)(2) through (f) of § 816.102 of this part.
+(1) Restore the approximate original contour and then use the remaining spoil and other waste materials to attain the lowest practicable grade, but not more than the angle of repose;
 
-(4) Dispose of any excess spoil in accordance with § 816.71 or § 816.74 of this part.
+(2) Meet the requirements of §§ 816.102 (a)(2) through (j) of this part; and
 
-(5) Ensure that the final surface configuration blends into and complements the drainage pattern of the surrounding terrain to the extent possible.
+(3) Dispose of any excess spoil in accordance with §§ 816.71 through 816.74 of this part.
+
+[56 FR 65635, Dec. 17, 1991, as amended at 81 FR 93392, Dec. 20, 2016; 82 FR 54979, Nov. 17, 2017]

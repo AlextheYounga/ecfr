@@ -20,4 +20,4 @@
 
 (2) Engineering specifications utilized to design the rock-toe buttress or key-way cuts which shall be determined in accordance with paragraph (b)(5) of this section.
 
-[79 FR 76229, Dec. 22, 2014]
+[79 FR 76229, Dec. 22, 2014, as amended at 81 FR 93330, Dec. 20, 2016; 82 FR 54949, Nov. 17, 2017]

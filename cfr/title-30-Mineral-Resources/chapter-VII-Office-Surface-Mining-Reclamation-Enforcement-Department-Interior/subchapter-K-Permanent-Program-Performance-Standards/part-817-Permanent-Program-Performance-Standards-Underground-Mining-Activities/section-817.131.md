@@ -1,15 +1,7 @@
-##### § 817.131 What actions must I take when I temporarily cease mining operations? #####
+##### § 817.131 Cessation of operations: Temporary. #####
 
-(a)(1) Each person who temporarily ceases to conduct underground mining activities at a particular site must effectively support and maintain all surface access openings to underground operations and secure surface facilities in areas in which there are no current operations, but where operations are to be resumed under an approved permit.
+(a) Each person who conducts underground mining activities shall effectively support and maintain all surface access openings to underground operations, and secure surface facilities in areas in which there are no current operations, but operations are to be resumed under an approved permit. Temporary abandonment shall not relieve a person of his or her obligation to comply with any provisions of the approved permit.
 
-(2) Temporary cessation does not relieve a person of his or her obligation to comply with any provisions of the approved permit.
+(b) Before temporary cessation of mining and reclamation operations for a period of thirty days or more, or as soon as it is known that a temporary cessation will extend beyond 30 days, each person who conducts underground mining activities shall submit to the regulatory authority a notice of intention to cease or abandon operations. This notice shall include a statement of the exact number of surface acres and the horizontal and vertical extent of sub-surface strata which have been in the permit area prior to cessation or abandonment, the extent and kind of reclamation of surface area which will have been accomplished, and identification of the backfilling, regrading, revegetation, environmental monitoring, underground opening closures and water treatment activities that will continue during the temporary cessation.
 
-(b)(1) You must submit a notice of intent to temporarily cease operations to the regulatory authority before ceasing mining and reclamation operations for 30 or more days, or as soon as you know that a temporary cessation will extend beyond 30 days.
-
-(2) The notice of temporary cessation must include a statement of the -
-
-(i) Exact number of surface acres disturbed within the permit area prior to temporary cessation;
-
-(ii) Extent and kind of reclamation accomplished before temporary cessation; and
-
-(iii) Backfilling, regrading, revegetation, environmental monitoring, underground opening closures, and water treatment activities that will continue during temporary cessation.
+[44 FR 15422, Mar. 13, 1979, as amended at 81 FR 93418, Dec. 20, 2016; 82 FR 54999, Nov. 17, 2017]

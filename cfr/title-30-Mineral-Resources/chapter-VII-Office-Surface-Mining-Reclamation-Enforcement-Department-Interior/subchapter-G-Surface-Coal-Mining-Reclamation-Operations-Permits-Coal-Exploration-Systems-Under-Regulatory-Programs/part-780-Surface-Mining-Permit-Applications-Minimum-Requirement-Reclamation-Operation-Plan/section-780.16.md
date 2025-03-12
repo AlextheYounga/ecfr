@@ -12,13 +12,13 @@
 
 (iii) Other species or habitats identified through agency consultation as requiring special protection under State or Federal law.
 
-(b) *Protection and enhancement plan.* Each application shall include a description of how, to the extent possible using the best technology currently available, the operator will minimize disturbances and adverse impacts on fish and wildlife and related environmental values, including compliance with the Endangered Species Act, during the surface coal mining and reclamation operations and how enhancement of these resources will be achieved where practicable. This description shall -
+(b) *Protection and enhancement plan.* Each application shall include a description of how, to the extent possible using the best technology currently available, the operator will minimize disturbances and adverse impacts on fish and wildlife and related environmental values, including compliance with the Endangered Species Act, during the surface coal mining and reclamation operations and how enhancement of these resources will be achieved where practicable. This description shall—
 
 (1) Be consistent with the requirements of § 816.97 of this chapter;
 
 (2) Apply, at a minimum, to species and habitats identified under paragraph (a) of this section; and
 
-(3) Include -
+(3) Include—
 
 (i) Protective measures that will be used during the active mining phase of operation. Such measures may include the establishment of buffer zones, the selective location and special design of haul roads and powerlines, and the monitoring of surface water quality and quantity; and
 
@@ -26,4 +26,4 @@
 
 (c) *Fish and Wildlife Service review.* Upon request, the regulatory authority shall provide the resource information required under paragraph (a) of this section and the protection and enhancement plan required under paragraph (b) of this section to the U.S. Department of the Interior, Fish and Wildlife Service Regional or Field Office for their review. This information shall be provided within 10 days of receipt of the request from the Service.
 
-[52 FR 47359, Dec. 11, 1987]
+[52 FR 47359, Dec. 11, 1987, as amended at 81 FR 93330, Dec. 20, 2016; 82 FR 54949, Nov. 17, 2017]

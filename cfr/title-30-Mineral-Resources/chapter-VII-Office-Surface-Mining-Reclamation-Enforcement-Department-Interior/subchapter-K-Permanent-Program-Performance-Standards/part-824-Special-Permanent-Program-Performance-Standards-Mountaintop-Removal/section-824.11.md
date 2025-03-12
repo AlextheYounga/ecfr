@@ -1,8 +1,6 @@
 ##### § 824.11 Mountaintop removal: Performance standards. #####
 
-Link to an amendment published at 81 FR 93445, Dec. 20, 2016.
-
-(a) Under an approved regulatory program, surface coal mining activities may be conducted under a variance from the requirement of this subchapter for restoring affected areas to their approximate original contour, if -
+(a) Under an approved regulatory program, surface coal mining activities may be conducted under a variance from the requirement of this subchapter for restoring affected areas to their approximate original contour, if—
 
 (1) The regulatory authority grants the variance under a permit, in accordance with 30 CFR 785.14;
 
@@ -30,4 +28,4 @@ Link to an amendment published at 81 FR 93445, Dec. 20, 2016.
 
 (11) Spoil is placed on the mountaintop bench as necessary to achieve the postmining land use approved under paragraphs (a)(3) and (a)(4) of this section. All excess spoil material not retained on the mountaintop shall be placed in accordance with 30 CFR 816.41 and 816.43 and 816.71 through 816.74.
 
-[44 FR 15452, Mar. 13, 1979; 44 FR 49687, Aug. 24, 1979, as amended at 48 FR 39905, Sept. 1, 1983; 48 FR 44781, Sept. 30, 1983]
+[44 FR 15452, Mar. 13, 1979; 44 FR 49687, Aug. 24, 1979, as amended at 48 FR 39905, Sept. 1, 1983; 48 FR 44781, Sept. 30, 1983; 81 FR 93445, Dec. 20, 2016; 82 FR 55020, Nov. 17, 2017]

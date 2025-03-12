@@ -1,13 +1,11 @@
-##### § 785.25 What special provisions apply to proposed operations on lands eligible for remining? #####
+##### § 785.25 Lands eligible for remining. #####
 
-(a) This section applies to you if you intend to apply for a permit to conduct surface coal mining operations on lands eligible for remining, as that term is defined in § 701.5 of this chapter.
+(a) This section contains permitting requirements to implement § 773.13. Any person who submits a permit application to conduct a surface coal mining operation on lands eligible for remining must comply with this section.
 
-(b)(1) Your application must comply with all applicable requirements of this subchapter.
+(b) Any application for a permit under this section shall be made according to all requirements of this subchapter applicable to surface coal mining and reclamation operations. In addition, the application shall—
 
-(2) In addition, to be eligible under the provisions of § 773.13 of this chapter concerning unanticipated events or conditions at remining sites, the application must -
+(1) To the extent not otherwise addressed in the permit application, identify potential environmental and safety problems related to prior mining activity at the site and that could be reasonably anticipated to occur. This identification shall be based on a due diligence investigation which shall include visual observations at the site, a record review of past mining at the site, and environmental sampling tailored to current site conditions.
 
-(i) To the extent possible, if not otherwise addressed in the permit application, identify potential environmental and safety problems that could reasonably be anticipated to occur as a result of prior mining activities within the proposed permit area. This identification must be based on a due diligence investigation that includes visual observations, a record review of past mining operations at or near the site, environmental sampling, and any other relevant available information, including data from prior mining activities and remining operations on similar sites.
+(2) With regard to potential environmental and safety problems referred to in paragraph (b)(1) of this section, describe the mitigative measures that will be taken to ensure that the applicable reclamation requirements of the regulatory program can be met.
 
-(ii) With regard to potential environmental and safety problems referred to in paragraph (b)(1)(i) of this section, describe the measures that will be taken to ensure that the applicable reclamation requirements of the regulatory program can and will be met.
-
-[81 FR 93381, Dec. 20, 2016]
+[60 FR 58491, Nov. 27, 1995, as amended at 65 FR 79669, Dec. 19, 2000; 73 FR 67630, Nov. 14, 2008; 81 FR 93381, Dec. 20, 2016; 82 FR 54965, Nov. 17, 2017]

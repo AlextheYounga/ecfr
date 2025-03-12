@@ -1,6 +1,6 @@
 ##### § 780.37 Road systems. #####
 
-(a) *Plans and drawings.* Each applicant for a surface coal mining and reclamation permit shall submit plans and drawings for each road, as defined in § 701.5 of this chapter, to be constructed, used, or maintained within the proposed permit area. The plans and drawings shall -
+(a) *Plans and drawings.* Each applicant for a surface coal mining and reclamation permit shall submit plans and drawings for each road, as defined in § 701.5 of this chapter, to be constructed, used, or maintained within the proposed permit area. The plans and drawings shall—
 
 (1) Include a map, appropriate cross sections, design drawings and specifications for road widths, gradients, surfacing materials, cuts, fill embankments, culverts, bridges, drainage ditches, low-water crossings, and drainage structures;
 
@@ -18,4 +18,4 @@
 
 (c) *Standard design plans.* The regulatory authority may establish engineering design standards for primary roads through the State program approval process, in lieu of engineering tests, to establish compliance with the minimum static safety factor of 1.3 for all embankments specified in § 816.151(b) of this chapter.
 
-[53 FR 45211, Nov. 8, 1988]
+[53 FR 45211, Nov. 8, 1988, as amended at 81 FR 93330, Dec. 20, 2016; 82 FR 54949, Nov. 17, 2017]

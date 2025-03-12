@@ -36,4 +36,4 @@
 
 (9) Other information specified by the regulatory authority as necessary to demonstrate that the operation will be conducted in accordance with § 817.121 of this chapter.
 
-[60 FR 16748, Mar. 31, 1995, as amended at 64 FR 71653, Dec. 17, 1999]
+[60 FR 16748, Mar. 31, 1995, as amended at 64 FR 71653, Dec. 17, 1999; 81 FR 93355, Dec. 20, 2016; 82 FR 54958, Nov. 17, 2017]

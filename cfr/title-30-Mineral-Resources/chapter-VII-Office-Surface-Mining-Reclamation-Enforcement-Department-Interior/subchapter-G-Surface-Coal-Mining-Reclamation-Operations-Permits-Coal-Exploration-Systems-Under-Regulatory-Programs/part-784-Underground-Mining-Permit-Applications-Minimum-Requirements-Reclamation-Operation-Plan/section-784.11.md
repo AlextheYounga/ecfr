@@ -18,4 +18,4 @@ Each application shall contain a description of the mining operations proposed t
 
 (6) Water pollution control facilities.
 
-[44 FR 15366, Mar. 13, 1979, as amended at 45 FR 51550, Aug. 4, 1980]
+[44 FR 15366, Mar. 13, 1979, as amended at 45 FR 51550, Aug. 4, 1980; 81 FR 93355, Dec. 20, 2016; 82 FR 54958, Nov. 17, 2017]

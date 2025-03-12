@@ -6,4 +6,4 @@
 
 (c) *Blasting near underground mines.* Blasting operations within 500 feet of active underground mines require approval of the State and Federal regulatory authorities concerned with the health and safety of underground miners.
 
-[48 FR 9806, Mar. 8, 1983]
+[48 FR 9806, Mar. 8, 1983, as amended at 81 FR 93330, Dec. 20, 2016; 82 FR 54949, Nov. 17, 2017]

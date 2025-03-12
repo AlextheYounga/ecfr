@@ -2,4 +2,4 @@
 
 The information collection requirements contained in 30 CFR 783.11, 783.12, 783.13, 783.14, 783.15, 783.16, 783.17, 783.18, 783.19, 783.21, 783.22, 783.23, 783.24 and 783.25 have been approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned clearance number 1029-0038. The information is being collected to meet the requirements of sections 507 and 508 of Pub. L. 95-87, which require the permit applicant to present an adequate description of the existing pre-mining environmental resources within and around the proposed mine plan area. This information will be used by the regulatory authority to determine whether the applicant can comply with the performance standards for underground mining. The obligation to respond is mandatory.
 
-[47 FR 33686, Aug. 4, 1982, as amended at 52 FR 47359, Dec. 11, 1987]
+[47 FR 33686, Aug. 4, 1982, as amended at 52 FR 47359, Dec. 11, 1987; 81 FR 93330, Dec. 20, 2016; 82 FR 54956, Nov. 17, 2017]

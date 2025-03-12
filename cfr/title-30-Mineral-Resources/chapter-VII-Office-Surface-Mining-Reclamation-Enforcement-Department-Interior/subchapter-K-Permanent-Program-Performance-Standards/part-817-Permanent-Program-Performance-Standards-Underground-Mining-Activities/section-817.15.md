@@ -1,1 +1,5 @@
-##### § 817.15 [Reserved] #####
+##### § 817.15 Casing and sealing of underground openings: Permanent. #####
+
+When no longer needed for monitoring or other use approved by the regulatory authority upon a finding of no adverse environmental or health and safety effects, or unless approved for transfer as a water well under § 817.41, each shaft, drift, adit, tunnel, exploratory hole, entryway or other opening to the surface from underground shall be capped, sealed, backfilled, or otherwise properly managed, as required by the regulatory authority in accordance with § 817.13 and consistent with 30 CFR 75.1711. Permanent closure measures shall be designed to prevent access to the mine workings by people, livestock, fish and wildlife, machinery and to keep acid or other toxic drainage from entering ground or surface waters.
+
+[44 FR 15422, Mar. 13, 1979, as amended at 48 FR 43992, Sept. 26, 1983; 75 FR 60275, Sept. 29, 2010; 81 FR 93418, Dec. 20, 2016; 82 FR 54999, Nov. 17, 2017]

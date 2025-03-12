@@ -1,13 +1,15 @@
-##### § 816.181 What requirements apply to support facilities? #####
+##### § 816.181 Support facilities. #####
 
-(a) You must operate each support facility in accordance with the permit issued for the mine or coal preparation plant to which the facility is incident or from which its operation results.
+(a) Support facilities shall be operated in accordance with a permit issued for the mine or coal preparation operation to which it is incident or from which its operation results.
 
-(b) In addition to the other provisions of this part, you must locate, maintain, and use support facilities in a manner that -
+(b) In addition to the other provisions of this part, support facilities shall be located, maintained, and used in a manner that—
 
 (1) Prevents or controls erosion and siltation, water pollution, and damage to public or private property; and
 
-(2) To the extent possible using the best technology currently available -
+(2) To the extent possible using the best technology currently available—
 
 (i) Minimizes damage to fish, wildlife, and related environmental values; and
 
-(ii) Minimizes additional contributions of suspended solids to streamflow or runoff outside the permit area. Any such contributions may not be in excess of limitations of state or federal law.
+(ii) Minimizes additional contributions of suspended solids to streamflow or runoff outside the permit area. Any such contributions shall not be in excess of limitations of State or Federal law.
+
+[48 FR 20401, May 5, 1983, as amended at 81 FR 93392, Dec. 20, 2016; 82 FR 54979, Nov. 17, 2017]

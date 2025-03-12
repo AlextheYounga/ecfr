@@ -6,4 +6,4 @@ The following interpretation of rules promulgated in part 784 of this chapter ha
 
 (b) [Reserved]
 
-[45 FR 64908, Oct. 1, 1980, as amended at 48 FR 44780, Sept. 30, 1983]
+[45 FR 64908, Oct. 1, 1980, as amended at 48 FR 44780, Sept. 30, 1983; 81 FR 93355, Dec. 20, 2016; 82 FR 54958, Nov. 17, 2017

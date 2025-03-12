@@ -1,55 +1,61 @@
-##### § 817.46 What requirements apply to siltation structures? #####
+##### § 817.46 Hydrologic balance: Siltation structures. #####
 
-(a) *Scope.* For the purpose of this section only, the phrase “disturb the land surface” does not include those areas -
+(a) For the purposes of this section only, *disturbed areas* shall not include those areas—
 
-(1) In which the only underground mining activities conducted on the land surface consist of diversions, siltation structures, or roads that are designed, constructed, and maintained in accordance with this part; and
+(1) In which the only surface mining activities include diversion ditches, siltation structures, or roads that are designed, constructed and maintained in accordance with this part; and
 
-(2) For which you do not plan to otherwise disturb the land surface upgradient of the diversion, siltation structure, or road.
+(2) For which the upstream area is not otherwise distributed by the operator.
 
-(b) *General requirements.* (1) When siltation structures will be used to achieve the requirements of § 817.45 of this part, you must construct those structures before beginning any underground mining activities that will disturb the land surface.
+(b) *General requirements.* (1) Additional contributions of suspended solids and sediment to streamflow or runoff outside the permit area shall be prevented to the extent possible using the best technology currently available.
 
-(2) Upon completion of construction of a siltation structure, a qualified registered professional engineer, or, in any state that authorizes land surveyors to prepare and certify plans in accordance with § 784.25(a) of this chapter, a qualified registered professional land surveyor, must certify that the structure has been constructed as designed and as approved in the reclamation plan in the permit.
+(2) All surface drainage from the disturbed area shall be passed through a siltation structure before leaving the permit area, except as provided in paragraph (b)(5) or (e) of this section. The requirements of this paragraph are suspended effective December 22, 1986, per court order.
 
-(3) Any siltation structure that impounds water must be designed, constructed and maintained in accordance with § 817.49 of this chapter.
+(3) Siltation structures for an area shall be constructed before beginning any underground mining activities in that area, and upon construction shall be certified by a qualified registered professional engineer, or, in any State which authorizes land surveyors to prepare and certify plans in accordance with § 784.16(a) of this chapter, a qualified registered professional land surveyor, to be constructed as designed and as approved in the reclamation plan.
 
-(4) You must maintain siltation structures until removal is authorized by the regulatory authority and the disturbed area has been stabilized and revegetated.
+(4) Any siltation structure which impounds water shall be designed, constructed and maintained in accordance with § 817.49 of this chapter.
 
-(5)(i) When a siltation structure is removed, you must regrade the land upon which the structure was located and revegetate the land in accordance with the reclamation plan and §§ 817.111 and 817.116 of this chapter.
+(5) Siltation structures shall be maintained until removal is authorized by the regulatory authority and the disturbed area has been stabilized and revegetated. In no case shall the structure be removed sooner than 2 years after the last augmented seeding.
 
-(ii) Paragraph (b)(5)(i) of this section does not apply to sedimentation ponds approved by the regulatory authority for retention as permanent impoundments under § 817.49(b) of this part if the maintenance requirements of § 800.42(c)(5) of this chapter are met.
+(6) When the siltation structure is removed, the land on which the siltation structure was located shall be regraded and revegetated in accordance with the reclamation plan and §§ 817.111 through 817.116 of this chapter. Sedimentation ponds approved by the regulatory authority for retention as permanent impoundments may be exempted from this requirement.
 
-(c) *Sedimentation ponds.* (1) When used, sedimentation ponds must -
+(7) Any point-source discharge of water from underground workings to surface waters which does not meet the effluent limitations of § 817.42 shall be passed through a siltation structure before leaving the permit area.
 
-(i) Be located as near as possible to the disturbed area and outside perennial or intermittent stream channels unless approved by the regulatory authority in the permit in accordance with §§ 784.28 and 817.57(c) of this chapter.
+(c) *Sedimentation ponds.* (1) Sedimentation ponds, when used, shall—
 
-(ii) Be designed, constructed, and maintained to -
+(i) Be used individually or in series;
 
-(A) Provide adequate sediment storage volume.
+(ii) Be located as near as possible to the distrubed area and out of perennial streams unless approved by the regulatory authority; and
 
-(B) Provide adequate detention time to allow the effluent from the ponds to meet applicable effluent limitations.
+(iii) Be designed, constructed, and maintained to—
 
-(C) Contain or treat the 10-year, 24-hour precipitation event (“design event”) unless a lesser design event is approved by the regulatory authority based on terrain, climate, other site-specific conditions, and a demonstration that the effluent limitations referenced in § 817.42 of this part will be met.
+(A) Provide adequate sediment storage volume;
 
-(D) Provide a nonclogging dewatering device adequate to maintain the detention time required under paragraph (c)(1)(ii)(B) of this section.
+(B) Provide adequate detention time to allow the effluent from the ponds to meet State and Federal effluent limitations;
 
-(E) Minimize short circuiting to the extent possible.
+(C) Contain or treat the 10-year, 24-hour precipitation event (“design event”) unless a lesser design event is approved by the regulatory authority based on terrain, climate, other site-specific conditions and on a demonstration by the operator that the effluent limitations of § 817.42 will be met;
 
-(F) Provide periodic sediment removal sufficient to maintain adequate volume for the design event.
+(D) Provide a nonclogging dewatering device adequate to maintain the detention time required under paragraph (c)(1)(iii)(B) of this section;
 
-(G) Ensure against excessive settlement.
+(E) Minimize, to the extent possible, short circuiting;
 
-(H) Be free of sod, large roots, frozen soil, and acid-forming or toxic-forming materials.
+(F) Provide periodic sediment removal sufficient to maintain adequate volume for the design event;
+
+(G) Ensure against excessive settlement;
+
+(H) Be free of sod, large roots, frozen soil, and acid- or toxic-forming coal-processing waste; and
 
 (I) Be compacted properly.
 
-(2) *Spillways.* A sedimentation pond must include either a combination of principal and emergency spillways or a single spillway configured as specified in § 817.49(a)(9) of this part.
+(2) *Spillways.* A sedimentation pond shall include either a combination of principal and emergency spillways or single spillway configured as specified in § 817.49(a)(9).
 
-(d) *Other treatment facilities.* (1) You must design other treatment facilities to treat the 10-year, 24-hour precipitation event unless the regulatory authority approves a lesser design event based upon terrain, climate, other site-specific conditions, and a demonstration that the effluent limitations referenced in § 817.42 of this part will be met.
+(d) *Other treatment facilities.* (1) Other treatment facilities shall be designed to treat the 10-year, 24-hour precipitation even unless a lesser design event is approved by the regulatory authority based on terrain, climate, other site-specific conditions and a demonstration by the operator that the effluent limitations of § 817.42 will met.
 
-(2) You must design other treatment facilities in accordance with the applicable requirements of paragraph (c) of this section.
+(2) Other treatment facilities shall be designed in accordance with the applicable requirements of paragraph (c) of this section.
 
-(e) *Exemptions.* The regulatory authority may grant an exemption from the requirements of this section if -
+(e) *Exemptions.* Exemptions to the requirements of this section may be granted if—
 
 (1) The disturbed drainage area within the total disturbed area is small; and
 
-(2) You demonstrate that neither siltation structures nor alternate sediment control measures are necessary for drainage from the disturbed drainage area to comply with § 817.42 of this part.
+(2) The operator demonstrates that siltation structures and alternate sediment control measures are not necessary for drainage from the disturbed drainage areas to meet the effluent limitations under § 817.42 and the applicable State and Federal water quality standards for the receiving waters.
+
+[48 FR 44051, Sept. 26, 1983, as amended at 53 FR 43607, Oct. 27, 1988; 59 FR 53030, Oct. 20, 1994; 73 FR 75884, Dec. 12, 2008; 75 FR 60275, Sept. 29, 2010; 79 FR 76232, Dec. 22, 2014; 81 FR 93418, Dec. 20, 2016; 82 FR 54999, Nov. 17, 2017]

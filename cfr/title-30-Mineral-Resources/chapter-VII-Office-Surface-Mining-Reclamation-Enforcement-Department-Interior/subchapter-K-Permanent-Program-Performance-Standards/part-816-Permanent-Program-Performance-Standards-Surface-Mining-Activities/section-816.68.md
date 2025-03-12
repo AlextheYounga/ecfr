@@ -1,49 +1,47 @@
-##### § 816.68 Use of explosives: Records of blasting operations #####
+##### § 816.68 Use of explosives: Records of blasting operations. #####
 
-(a) You must retain a record of all blasts for at least 3 years.
+The operator shall retain a record of all blasts for at least 3 years. Upon request, copies of these records shall be made available to the regulatory authority and to the public for inspection. Such records shall contain the following data:
 
-(b) Upon request, you must make copies of these records available to the regulatory authority and to the public for inspection.
+(a) Name of the operator conducting the blast.
 
-(c) The records must contain the following data:
+(b) Location, date, and time of the blast.
 
-(1) Name of the operator conducting the blast.
+(c) Name, signature, and certification number of the blaster conducting the blast.
 
-(2) Location, date, and time of the blast.
+(d) Identification, direction, and distance, in feet, from the nearest blast hole to the nearest dwelling, public building, school, church, community or institutional building outside the permit area, except those described in § 816.67(e).
 
-(3) Name, signature, and certification number of the blaster conducting the blast.
+(e) Weather conditions, including those which may cause possible adverse blasting effects.
 
-(4) Identification, direction, and distance, in feet, from the nearest blast hole to the nearest dwelling, public building, school, church, community or institutional building outside the permit area, except those described in § 816.67(e) of this part.
+(f) Type of material blasted.
 
-(5) Weather conditions, including those which may cause possible adverse blasting effects.
+(g) Sketches of the blast pattern including number of holes, burden, spacing, decks, and delay pattern.
 
-(6) Type of material blasted.
+(h) Diameter and depth of holes.
 
-(7) Sketches of the blast pattern, including number of holes, burden, spacing, decks, and delay pattern.
+(i) Types of explosives used.
 
-(8) Diameter and depth of holes.
+(j) Total weight of explosives used per hole.
 
-(9) Types of explosives used.
+(k) The maximum weight of explosives detonated in an 8-millisecond period.
 
-(10) Total weight of explosives used per hole.
+(l) Initiation system.
 
-(11) The maximum weight of explosives detonated in an 8-millisecond period.
+(m) Type and length of stemming.
 
-(12) Initiation system.
+(n) Mats or other protections used.
 
-(13) Type and length of stemming.
+(o) Seismographic and airblast records, if required, which shall include—
 
-(14) Mats or other protections used.
+(1) Type of instrument, sensitivity, and calibration signal or certification of annual calibration;
 
-(15) Seismographic and airblast records, if required, which must include -
+(2) Exact location of instrument and the date, time, and distance from the blast;
 
-(i) Type of instrument, sensitivity, and calibration signal or certification of annual calibration;
+(3) Name of the person and firm taking the reading;
 
-(ii) Exact location of instrument and the date, time, and distance from the blast;
+(4) Name of the person and firm analyzing the seismographic record; and
 
-(iii) Name of the person and firm taking the reading;
+(5) The vibration and/or airblast level recorded.
 
-(iv) Name of the person and firm analyzing the seismographic record; and
+(p) Reasons and conditions for each unscheduled blast.
 
-(v) The vibration and/or airblast level recorded.
-
-(16) Reasons and conditions for each unscheduled blast.
+[48 FR 9809, Mar. 8, 1983, as amended at 52 FR 29181, Aug. 6, 1987; 81 FR 93392, Dec. 20, 2016; 82 FR 54979, Nov. 17, 2017]

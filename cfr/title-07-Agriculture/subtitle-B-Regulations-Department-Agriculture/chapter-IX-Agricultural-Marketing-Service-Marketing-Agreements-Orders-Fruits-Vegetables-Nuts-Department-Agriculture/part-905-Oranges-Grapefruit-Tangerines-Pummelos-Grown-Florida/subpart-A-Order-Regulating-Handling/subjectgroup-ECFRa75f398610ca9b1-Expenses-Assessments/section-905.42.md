@@ -1,0 +1,7 @@
+##### § 905.42 Handler's accounts. #####
+
+(a) If, at the end of a fiscal period, the assessments collected are in excess of expenses incurred, the Committee, with the approval of the Secretary, may carry over such excess into subsequent fiscal periods as a reserve: *Provided,* That funds already in the reserve do not exceed approximately two fiscal periods' expenses. Such reserve funds may be used (1) to cover any expenses authorized by this part and (2) to cover necessary expenses of liquidation in the event of termination of this part. If any such excess is not retained in a reserve, each handler entitled to a proportionate refund shall be credited with such refund against the operations of the following fiscal period unless he demands payment of the sum due him, in which case such sum shall be paid to him. Upon termination of this part, any funds not required to defray the necessary expenses of liquidation shall be disposed of in such manner as the Secretary may determine to be appropriate: *Provided,* That to the extent practical, such funds shall be returned pro rata to the persons from whom such funds were collected.
+
+(b) The committee may, with the approval of the Secretary, maintain in its own name or in the name of its members a suit against any handler for the collection of such handler's pro rata share of the said expense.
+
+[22 FR 10734, Dec. 27, 1957. Redesignated at 26 FR 12751, Dec. 30, 1961, as amended at 34 FR 12427, July 30, 1969; 42 FR 59371, Nov. 17, 1977; 81 FR 10455, Mar. 1, 2016]

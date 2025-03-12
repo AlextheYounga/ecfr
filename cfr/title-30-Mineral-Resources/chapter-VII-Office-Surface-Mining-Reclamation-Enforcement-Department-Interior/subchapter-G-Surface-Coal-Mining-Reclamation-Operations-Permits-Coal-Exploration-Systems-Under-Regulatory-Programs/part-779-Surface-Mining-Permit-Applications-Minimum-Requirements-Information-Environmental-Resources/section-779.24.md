@@ -1,6 +1,6 @@
 ##### § 779.24 Maps: General requirements. #####
 
-The permit application shall include maps showing -
+The permit application shall include maps showing—
 
 (a) All boundaries of lands and names of present owners of record of those lands, both surface and subsurface, included in or contiguous to the permit area;
 
@@ -26,4 +26,4 @@ The permit application shall include maps showing -
 
 (l) Other relevant information required by the regulatory authority.
 
-[44 FR 15354, Mar. 13, 1979; 44 FR 49685, Aug. 24, 1979, as amended at 45 FR 51550, Aug. 4, 1980; 48 FR 14822, Apr. 5, 1983; 52 FR 4262, Feb. 10, 1987]
+[44 FR 15354, Mar. 13, 1979; 44 FR 49685, Aug. 24, 1979, as amended at 45 FR 51550, Aug. 4, 1980; 48 FR 14822, Apr. 5, 1983; 52 FR 4262, Feb. 10, 1987; 81 FR 93327, Dec. 20, 2016; 82 FR 54948, Nov. 17, 2017]

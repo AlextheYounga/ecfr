@@ -26,4 +26,4 @@ The permit application shall include maps showing:
 
 (l) Other relevant information required by the regulatory authority.
 
-[44 FR 15363, Mar. 13, 1979; 44 FR 49685, Aug. 24, 1979, as amended at 45 FR 51550, Aug. 4, 1980; 48 FR 14822, Apr. 5, 1983; 52 FR 4263, Feb. 10, 1987]
+[44 FR 15363, Mar. 13, 1979; 44 FR 49685, Aug. 24, 1979, as amended at 45 FR 51550, Aug. 4, 1980; 48 FR 14822, Apr. 5, 1983; 52 FR 4263, Feb. 10, 1987; 81 FR 93330, Dec. 20, 2016; 82 FR 54956, Nov. 17, 2017]

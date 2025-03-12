@@ -2,7 +2,7 @@
 
 (a) Each application shall contain a plan for reclamation of the lands within the proposed permit area, showing how the applicant will comply with section 515 of the Act, subchapter K of this chapter, and the environmental protection performance standards of the regulatory program. The plan shall include, at a minimum, all information required under 30 CFR 780.18 through 780.37.
 
-(b) Each plan shall contain the following information for the proposed permit area -
+(b) Each plan shall contain the following information for the proposed permit area—
 
 (1) A detailed timetable for the completion of each major step in the reclamation plan;
 
@@ -12,7 +12,7 @@
 
 (4) A plan for removal, storage, and redistribution of topsoil, subsoil, and other material to meet the requirements of § 816.22 of this chapter. A demonstration of the suitability of topsoil substitutes or supplements under § 816.22(b) of this chapter shall be based upon analysis of the thickness of soil horizons, total depth, texture, percent coarse fragments, pH, and areal extent of the different kinds of soils. The regulatory authority may require other chemical and physical analyses, field-site trials, or greenhouse tests if determined to be necessary or desirable to demonstrate the suitability of the topsoil substitutes or supplements.
 
-(5) A plan for revegetation as required in 30 CFR 816.111 through 816.116, including, but not limited to, descriptions of the -
+(5) A plan for revegetation as required in 30 CFR 816.111 through 816.116, including, but not limited to, descriptions of the—
 
 (i) Schedule of revegetation;
 
@@ -36,4 +36,4 @@
 
 (9) A description of steps to be taken to comply with the requirements of the Clean Air Act (42 U.S.C. 7401 *et seq.*), the Clean Water Act (33 U.S.C. 1251 *et seq.*), and other applicable air and water quality laws and regulations and health and safety standards.
 
-[44 FR 15357, Mar. 13, 1979, as amended at 48 FR 22100, May 16, 1983; 48 FR 44779, Sept. 30, 1983]
+[44 FR 15357, Mar. 13, 1979, as amended at 48 FR 22100, May 16, 1983; 48 FR 44779, Sept. 30, 1983; 81 FR 93330, Dec. 20, 2016; 82 FR 54949, Nov. 17, 2017]

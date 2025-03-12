@@ -1,19 +1,9 @@
-##### § 817.89 How must I dispose of noncoal mine wastes? #####
+##### § 817.89 Disposal of noncoal mine wastes. #####
 
-(a)(1) You must place and store noncoal mine wastes, including, but not limited to, grease, lubricants, paints, flammable liquids, garbage, abandoned mining machinery, lumber, and other combustible materials generated during mining activities, in a controlled manner in a designated portion of the permit area.
+(a) Noncoal mine wastes including, but not limited to grease, lubricants, paints, flammable liquids, garbage, abandoned mining machinery, lumber and other combustible materials generated during mining activities shall be placed and stored in a controlled manner in a designated portion of the permit area. Placement and storage shall ensure that leachate and surface runoff do not degrade surface or ground water, that fires are prevented, and that the area remains stable and suitable for reclamation and revegetation compatible with the natural surroundings.
 
-(2) Placement and storage of noncoal wastes must ensure that leachate and surface runoff do not degrade surface water or groundwater, that fires are prevented, and that the area remains stable and suitable for reclamation and revegetation compatible with the natural surroundings.
+(b) Final disposal of noncoal mine wastes shall be in a designated disposal site in the permit area or a State-approved solid waste disposal area. Disposal sites in the permit area shall be designed and constructed to ensure that leachate and drainage from the noncoal mine waste area does not degrade surface or underground water. Wastes shall be routinely compacted and covered to prevent combustion and wind-borne waste. When the disposal is completed, a minimum of 2 feet of soil cover shall be placed over the site, slopes stabilized, and revegetation accomplished in accordance with §§ 817.111 through 817.116. Operation of the disposal site shall be conducted in accordance with all local, State, and Federal requirements.
 
-(b)(1) Final disposal of noncoal mine wastes must be in a designated disposal site within the permit area or in a state-approved solid waste disposal area.
+(c) At no time shall any noncoal mine waste be deposited in a refuse pile or impounding structure, nor shall any excavation for a noncoal mine waste disposal site be located within 8 feet of any coal outcrop or coal storage area.
 
-(2) Disposal sites within the permit area must meet the following requirements:
-
-(i) The site must be designed and constructed to ensure that leachate and drainage from the noncoal mine waste area does not degrade surface water or groundwater.
-
-(ii) Wastes must be routinely compacted and covered to prevent combustion and wind-borne waste.
-
-(iii) When the disposal of noncoal wastes is completed, the site must be covered with a minimum of 2 feet of soil, slopes must be stabilized, and the site must be revegetated in accordance with §§ 817.111 through 817.116 of this part.
-
-(iv) The disposal site must be operated in accordance with all local, state and federal requirements.
-
-(c) At no time may any noncoal mine waste be deposited in a coal mine waste refuse pile or impounding structure, nor may an excavation for a noncoal mine waste disposal site be located within 8 feet of any coal outcrop or coal storage area.
+[48 FR 44031, Sept. 26, 1983, as amended at 56 FR 65636, Dec. 17, 1991; 81 FR 93418, Dec. 20, 2016; 82 FR 54999, Nov. 17, 2017]

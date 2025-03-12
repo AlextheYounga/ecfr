@@ -1,15 +1,15 @@
-##### § 816.104 What special provisions for backfilling, grading, and surface configuration apply to sites with thin overburden? #####
+##### § 816.104 Backfilling and grading: Thin overburden. #####
 
-(a) *Applicability.* This section applies only where the thickness of all overburden strata multiplied by the swell factor for those strata plus the thickness of any waste materials to be returned to the mined-out area is less than the combined thickness of the overburden and coal seam or seams prior to removing the coal to the extent that there is insufficient material to restore the approximate original contour. Specifically, there is insufficient material to achieve a surface configuration that -
+(a) *Definition.* Thin overburden means insufficient spoil and other waste materials available from the entire permit area to restore the disturbed area to its approximate original contour. Insufficient spoil and other waste materials occur where the overburden thickness times the swell factor, plus the thickness of other available waste materials, is less than the combined thickness of the overburden and coal bed prior to removing the coal, so that after backfilling and grading the surface configuration of the reclaimed area would not:
 
-(1) Closely resembles the surface configuration of the mined area prior to any mining; and
+(1) Closely resemble the surface configuration of the land prior to mining; or
 
-(2) Blends into and complements the drainage pattern of the surrounding terrain.
+(2) Blend into and complement the drainage pattern of the surrounding terrain.
 
-(b) *Performance standards.* Where thin overburden as described in paragraph (a) of this section occurs within the permit area, you must backfill all mined areas and grade all disturbed areas in accordance with the plan approved in the permit under § 780.12(d) of this chapter. At a minimum, you must -
+(b) *Performance standards.* Where thin overburden occurs within the permit area, the permittee at a minimum shall:
 
-(1) Use all spoil and waste materials available from the entire permit area to attain the lowest practicable grade that does not exceed the angle of repose.
+(1) Use all spoil and other waste materials available from the entire permit area to attain the lowest practicable grade, but not more than the angle of repose; and
 
-(2) Comply with the requirements of paragraphs (a)(2) through (f) of § 816.102 of this part.
+(2) Meet the requirements of §§ 816.102(a)(2) through (j) of this part.
 
-(3) Ensure that the final surface configuration blends into and complements the drainage pattern of the surrounding terrain to the extent possible.
+[56 FR 65635, Dec. 17, 1991, as amended at 81 FR 93392, Dec. 20, 2016; 82 FR 54979, Nov. 17, 2017]

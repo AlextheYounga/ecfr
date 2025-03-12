@@ -1,12 +1,10 @@
 ##### § 774.15 Permit renewals. #####
 
-Link to an amendment published at 81 FR 93326, Dec. 20, 2016.
-
 (a) *General.* A valid permit, issued pursuant to an approved regulatory program, shall carry with it the right of successive renewal, within the approved boundaries of the existing permit, upon expiration of the term of the permit.
 
 (b) *Application requirements and procedures.* (1) An application for renewal of a permit shall be filed with the regulatory authority at least 120 days before expiration of the existing permit term.
 
-(2) An application for renewal of a permit shall be in the form required by the regulatory authority and shall include at a minimum -
+(2) An application for renewal of a permit shall be in the form required by the regulatory authority and shall include at a minimum—
 
 (i) The name and address of the permittee, the term of the renewal requested, and the permit number or other identifier;
 
@@ -22,7 +20,7 @@ Link to an amendment published at 81 FR 93326, Dec. 20, 2016.
 
 (4) If an application for renewal includes any proposed revisions to the permit, such revisions shall be identified and subject to the requirements of § 774.13.
 
-(c) *Approval process* - (1) *Criteria for approval.* The regulatory authority shall approve a complete and accurate application for permit renewal, unless it finds, in writing that -
+(c) *Approval process*—(1) *Criteria for approval.* The regulatory authority shall approve a complete and accurate application for permit renewal, unless it finds, in writing that—
 
 (i) The terms and conditions of the existing permit are not being satisfactorily met;
 
@@ -46,4 +44,4 @@ Link to an amendment published at 81 FR 93326, Dec. 20, 2016.
 
 (f) *Administrative and judicial review.* Any person having an interest which is or may be adversely affected by the decision of the regulatory authority shall have the right to administrative and judicial review set forth in part 775 of this chapter.
 
-[48 FR 44395, Sept. 28, 1983, as amended at 65 FR 79668, Dec. 19, 2000]
+[48 FR 44395, Sept. 28, 1983, as amended at 79668, Dec. 19, 2000; 81 FR 93326, Dec. 20, 2016; 82 FR 54944, Nov. 17, 2017]

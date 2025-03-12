@@ -1,7 +1,5 @@
 ##### § 774.10 Regulatory authority review of permits. #####
 
-Link to an amendment published at 81 FR 93325, Dec. 20, 2016.
-
 (a) The regulatory authority shall review each permit issued and outstanding under an approved regulatory program during the term of the permit. This review shall occur not later than the middle of each permit term and as follows:
 
 (1) Permits with a term longer than 5 years shall be reviewed no less frequently than the permit midterm or every 5 years, whichever is more frequent.
@@ -16,4 +14,4 @@ Link to an amendment published at 81 FR 93325, Dec. 20, 2016.
 
 (d) Permits may be suspended or revoked in accordance with subchapter L of this chapter.
 
-[48 FR 44398, Sept. 28, 1983. Redesignated at 65 FR 79667, Dec. 19, 2000.]
+[48 FR 44398, Sept. 28, 1983. Redesignated at 65 FR 79667, Dec. 19, 2000, as amended at 81 FR 93325, Dec. 20, 2016; 82 FR 54944, Nov. 17, 2017]

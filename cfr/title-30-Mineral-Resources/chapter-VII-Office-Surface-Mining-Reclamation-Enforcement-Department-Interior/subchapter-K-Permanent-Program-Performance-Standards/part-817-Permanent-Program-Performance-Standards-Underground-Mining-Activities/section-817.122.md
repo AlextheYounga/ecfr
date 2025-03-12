@@ -1,11 +1,5 @@
-##### § 817.122 How and when must I provide notice of planned underground mining? #####
+##### § 817.122 Subsidence control: Public notice. #####
 
-(a) At least 6 months prior to mining, or within that period if approved by the regulatory authority, you, the underground mine operator, must mail a notification to all owners and occupants of surface property and structures above the planned underground workings.
+At least 6 months prior to mining, or within that period if approved by the regulatory authority, the underground mine operator shall mail a notification to all owners and occupants of surface property and structures above the underground workings. The notification shall include, at a minimum, identification of specific areas in which mining will take place, dates that specific areas will be undermined, and the location or locations where the operator's subsidence control plan may be examined.
 
-(b) The notification must include, at a minimum -
-
-(1) Identification of specific areas in which mining will take place;
-
-(2) Dates that specific areas will be undermined; and
-
-(3) The location or locations where the subsidence control plan may be examined.
+[48 FR 24652, June 1, 1983, as amended at 81 FR 93418, Dec. 20, 2016; 82 FR 54999, Nov. 17, 2017]
