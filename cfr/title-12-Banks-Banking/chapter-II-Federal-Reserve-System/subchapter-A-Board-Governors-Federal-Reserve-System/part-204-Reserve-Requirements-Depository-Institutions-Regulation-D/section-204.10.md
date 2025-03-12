@@ -1,5 +1,7 @@
 ##### § 204.10 Payment of interest on balances. #####
 
+Link to an amendment published at 86 FR 29938, June 4, 2021.
+
 (a) *General.* (1) Except as provided in paragraph (c) of this section, interest on balances maintained at Federal Reserve Banks by or on behalf of an eligible institution shall be established by the Board in accordance with this section, at a rate or rates not to exceed the general level of short-term interest rates.
 
 (2) For purposes of this section, the amount of a “balance” in an account maintained by or on behalf of an eligible institution at a Federal Reserve Bank is determined at the close of the Federal Reserve Bank's business day.

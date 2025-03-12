@@ -1,7 +1,5 @@
 ##### § 73.503 Licensing requirements and service. #####
 
-Link to an amendment published at 86 FR 23868, May 5, 2021.
-
 The operation of, and the service furnished by noncommercial educational FM broadcast stations shall be governed by the following:
 
 (a) A noncommercial educational FM broadcast station will be licensed only to a nonprofit educational organization and upon showing that the station will be used for the advancement of an educational program.
@@ -26,8 +24,10 @@ The operation of, and the service furnished by noncommercial educational FM broa
 
 (f) Mutually exclusive applications for noncommercial educational radio stations operating on reserved channels will be resolved pursuant to the point system in subpart K.
 
+(g) *Application limit.* An applicant may file no more than a total of 10 applications in the 2021 NCE FM filing window. A party to an application filed in the 2021 NCE FM filing window may hold attributable interests, as defined in § 73.7000, in no more than a total of 10 applications filed in the window. If it is determined that any party to an application has an attributable interest in more than 10 applications, the Media Bureau will retain the 10 applications that were filed first—based on the date of application receipt—and dismiss all other applications.
+
 Note to § 73.503:
 
 Commission interpretation on this rule, including the acceptable form of acknowledgements, may be found in the *Second Report and Order* in Docket No. 21136 (Commission Policy Concerning the Noncommercial Nature of Educational Broadcast Stations), 86 FCC 2d 141 (1981); the *Memorandum Opinion and Order* in Docket No. 21136, 90 FCC 2d 895 (1982); the *Memorandum Opinion and Order* in Docket 21136, 97 FCC 2d 255 (1984); and the *Report and Order* in Docket No. 12-106 (Noncommercial Educational Station Fundraising for Third-Party Non-Profit Organizations), FCC 17-41, April 20, 2017. *See also Commission Policy Concerning the Noncommercial Nature of Educational Broadcast Stations,* Public Notice, 7 FCC Rcd 827 (1992), which can be retrieved through the Internet at *http://www.fcc.gov/mmb/asd/nature.html.*
 
-(Secs. 4, 5, 303, 48 Stat., as amended, 1066, 1068, 1082 (47 U.S.C. 154, 155, 303))[28 FR 13651, Dec. 14, 1963, as amended at 35 FR 7558, May 15, 1970; 47 FR 36178, Aug. 19, 1982; 49 FR 29069, July 18, 1984; 63 FR 33877, June 22, 1998; 65 FR 36378, June 8, 2000; 82 FR 21135, May 5, 2017]
+(Secs. 4, 5, 303, 48 Stat., as amended, 1066, 1068, 1082 (47 U.S.C. 154, 155, 303))[28 FR 13651, Dec. 14, 1963, as amended at 35 FR 7558, May 15, 1970; 47 FR 36178, Aug. 19, 1982; 49 FR 29069, July 18, 1984; 63 FR 33877, June 22, 1998; 65 FR 36378, June 8, 2000; 82 FR 21135, May 5, 2017; 86 FR 26838, May 5, 2021]

@@ -1,0 +1,5 @@
+##### § 10201.101 General. #####
+
+(a) *Purpose.* In accordance with 5 CFR 2635.105, the regulations in this part apply to employees of the U.S. Office of Special Counsel (OSC) and supplement the Standards of Ethical Conduct for Employees of the Executive Branch at 5 CFR part 2635.
+
+(b) *Other regulations, guidance, and procedures.* In addition to the standards in 5 CFR part 2635 and this part, all OSC employees are required to comply with implementing guidance and procedures issued by OSC in accordance with 5 CFR 2635.105(c). OSC employees are also subject to all other government-wide regulations concerning executive branch ethics including without limitation, financial disclosure regulations contained in 5 CFR part 2634, regulations concerning financial interests contained in 5 CFR part 2640, post-employment conflict of interest restrictions contained in 5 CFR part 2641, outside earned income limitations and employment and affiliation restrictions applicable to certain noncareer employees contained in 5 CFR part 2636, and the regulations concerning executive branch employee responsibilities and conduct contained in 5 CFR part 735.
