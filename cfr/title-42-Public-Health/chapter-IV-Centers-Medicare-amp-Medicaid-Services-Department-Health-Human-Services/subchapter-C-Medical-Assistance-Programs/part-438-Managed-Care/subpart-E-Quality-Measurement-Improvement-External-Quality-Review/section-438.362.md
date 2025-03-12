@@ -1,5 +1,7 @@
 ##### § 438.362 Exemption from external quality review. #####
 
+Link to an amendment published at 85 FR 72842, Nov. 13, 2020.
+
 (a) *Basis for exemption.* The State may exempt an MCO from EQR if the following conditions are met:
 
 (1) The MCO has a current Medicare contract under part C of Title XVIII or under section 1876 of the Act, and a current Medicaid contract under section 1903(m) of the Act.

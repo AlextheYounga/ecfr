@@ -1,5 +1,7 @@
 ##### § 503.69 Fees. #####
 
+Link to an amendment published at 85 FR 72578, Nov. 13, 2020.
+
 (a) *General.* The following Commission services are available, with respect to requests made under the provisions of this subpart, for which fees will be charged as provided in paragraphs (b) and (c) of this section:
 
 (1) Copying records/documents.

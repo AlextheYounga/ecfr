@@ -1,5 +1,7 @@
 ##### § 704.14 Representation. #####
 
+Link to an amendment published at 85 FR 71827, Nov. 12, 2020.
+
 (a) *Board representation.* The board will be determined as stipulated in its bylaws governing election procedures, provided that:
 
 (1) At least a majority of directors, including the chair of the board, must serve on the board as representatives of member credit unions;

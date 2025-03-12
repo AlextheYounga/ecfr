@@ -1,5 +1,7 @@
 ##### § 1.904-1 Limitation on credit for foreign taxes. #####
 
+Link to an amendment published at 85 FR 72056, Nov. 12, 2020.
+
 (a) *In general.* For each separate category described in § 1.904-5(a)(4)(v), the total credit for taxes paid or accrued (including those deemed to have been paid or accrued other than by reason of section 904(c)) does not exceed that proportion of the tax against which such credit is taken which the taxpayer's taxable income from foreign sources (but not in excess of the taxpayer's entire taxable income) in such separate category bears to the taxpayer's entire taxable income for the same taxable year.
 
 (b) *Special computation of taxable income.* For purposes of computing the limitation under paragraph (a) of this section, the taxable income in the case of an individual, estate, or trust is computed without any deduction for personal exemptions under section 151 or 642(b).

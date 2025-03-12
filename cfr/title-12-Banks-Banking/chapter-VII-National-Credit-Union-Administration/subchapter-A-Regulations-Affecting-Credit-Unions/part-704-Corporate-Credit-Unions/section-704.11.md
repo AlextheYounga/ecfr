@@ -1,5 +1,7 @@
 ##### § 704.11 Corporate Credit Union Service Organizations (Corporate CUSOs). #####
 
+Link to an amendment published at 85 FR 71826, Nov. 12, 2020.
+
 (a) A corporate CUSO is an entity that:
 
 (1) Is at least partly owned by a corporate credit union;

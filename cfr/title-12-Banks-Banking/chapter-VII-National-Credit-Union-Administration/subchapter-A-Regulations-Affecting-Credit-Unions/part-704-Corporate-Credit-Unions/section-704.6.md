@@ -1,5 +1,7 @@
 ##### § 704.6 Credit risk management. #####
 
+Link to an amendment published at 85 FR 71826, Nov. 12, 2020.
+
 (a) *Policies.* A corporate credit union must operate according to a credit risk management policy that is commensurate with the investment risks and activities it undertakes. The policy must address at a minimum:
 
 (1) The approval process associated with credit limits;

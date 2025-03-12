@@ -1,5 +1,7 @@
 ##### § 457.1233 Structure and operation standards. #####
 
+Link to an amendment published at 85 FR 72842, Nov. 13, 2020.
+
 (a) *Provider selection.* The State must ensure, through its contracts, that each MCO, PIHP or PAHP complies with the provider selection requirements as provided in § 438.214 of this chapter.
 
 (b) *Subcontractual relationships and delegation.* The State must ensure, through its contracts, that each MCO, PIHP PAHP, and PCCM complies with the subcontractual relationships and delegation requirements as provided in § 438.230 of this chapter.

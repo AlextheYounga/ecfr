@@ -1,5 +1,7 @@
 ##### § 1.965-9 Applicability dates. #####
 
+Link to an amendment published at 85 FR 72072, Nov. 12, 2020.
+
 (a) *In general.* Except as otherwise provided in this section, §§ 1.965-1 through 1.965-8 apply beginning the last taxable year of a foreign corporation that begins before January 1, 2018, and with respect to a United States person, beginning the taxable year in which or with which such taxable year of the foreign corporation ends.
 
 (b) *Applicability dates for rules disregarding certain transactions.* Section 1.965-4 applies regardless of whether, with respect to a foreign corporation, the transaction, effective date of a change in method of accounting, effective date of an entity classification election, or specified payment described in § 1.965-4 occurred before the first day of the foreign corporation's last taxable year that begins before January 1, 2018, or, with respect to a United States person, the transaction, effective date of a change in method of accounting, effective date of an entity classification election, or specified payment described in § 1.965-4 occurred before the first day of the taxable year of the United States person in which or with which the taxable year of the foreign corporation ends.

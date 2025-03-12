@@ -1,5 +1,7 @@
 ##### § 438.54 Managed care enrollment. #####
 
+Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
+
 (a) *Applicability.* The provisions of this section apply to all Medicaid managed care programs which operate under any authority in the Act.
 
 (b) *General rule.* The State must have an enrollment system for its managed care programs, voluntary and mandatory, as appropriate.

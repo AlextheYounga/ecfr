@@ -1,5 +1,7 @@
 ##### § 704.2 Definitions. #####
 
+Link to an amendment published at 85 FR 71825, Nov. 12, 2020.
+
 *As used in this part:*
 
 *Adjusted trading* means any method or transaction whereby a corporate credit union sells a security to a vendor at a price above its current market price and simultaneously purchases or commits to purchase from the vendor another security at a price above its current market price.

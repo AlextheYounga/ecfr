@@ -1,5 +1,7 @@
 ##### § 704.8 Asset and liability management. #####
 
+Link to an amendment published at 85 FR 71826, Nov. 12, 2020.
+
 (a) *Policies.* A corporate credit union must operate according to a written asset and liability management policy which addresses, at a minimum:
 
 (1) The purpose and objectives of the corporate credit union's asset and liability activities;

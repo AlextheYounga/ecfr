@@ -1,0 +1,128 @@
+##### § 1.163(j)-2 Deduction for business interest expense limited. #####
+
+(a) *Overview.* This section provides general rules regarding the section 163(j) limitation. Paragraph (b) of this section provides rules regarding the basic computation of the section 163(j) limitation. Paragraph (c) of this section provides rules for disallowed business interest expense carryforwards. Paragraph (d) of this section provides rules regarding the small business exemption from the section 163(j) limitation. Paragraph (e) of this section that is part of provides rules regarding real estate mortgage investment conduits (REMICs). Paragraph (f) of this section provides rules regarding the calculation of ATI with respect to certain beneficiaries. Paragraph (g) of this section provides rules regarding tax-exempt organizations. Paragraph (h) of this section provides examples illustrating the application of this section. Paragraph (i) of this section is reserved. Paragraph (j) of this section provides an anti-avoidance rule.
+
+(b) *General rule* - (1) *In general.* Except as otherwise provided in this section or in §§ 1.163(j)-3 through 1.163(j)-11, the amount allowed as a deduction for business interest expense for the taxable year cannot exceed the sum of -
+
+(i) The taxpayer's business interest income for the taxable year;
+
+(ii) 30 percent of the taxpayer's ATI for the taxable year, or zero if the taxpayer's ATI for the taxable year is less than zero; and
+
+(iii) The taxpayer's floor plan financing interest expense for the taxable year.
+
+(2) *50 percent ATI limitation for taxable years beginning in 2019 or 2020* - (i) *In general.* Except as otherwise provided in section 163(j)(10) and paragraph (b)(2) of this section, for any taxable year beginning in 2019 or 2020, paragraph (b)(1)(ii) of this section is applied by substituting 50 percent for 30 percent. The 50 percent ATI limitation does not apply to partnerships for taxable years beginning in 2019. Further, for a partnership taxable year beginning in 2020 for which an election out of section 163(j)(10)(A)(i) has not been made, § 1.163(j)-6(f)(2)(xi) is applied by substituting two for ten-thirds when grossing up each partner's final ATI capacity excess amount.
+
+(ii) *Election out of the 50 percent ATI limitation.* A taxpayer may elect to not have paragraph (b)(2)(i) of this section apply for any taxable year beginning in 2019 or 2020. In the case of a partnership, the election must be made by the partnership and may be made only for taxable years beginning in 2020.
+
+(3) *Election to use 2019 ATI in 2020* - (i) *In general.* Subject to paragraph (b)(3)(ii), a taxpayer may elect to use the taxpayer's ATI for the last taxable year beginning in 2019 (2019 ATI) as the ATI for any taxable year beginning in 2020.
+
+(ii) *Short taxable years.* If an election is made under paragraph (b)(3)(i) of this section for a taxable year beginning in 2020 that is a short taxable year, the ATI for such taxable year is equal to the amount that bears the same ratio to 2019 ATI as the number of months in the short taxable year bears to 12.
+
+(4) *Time and manner of making or revoking the elections.* The rules and procedures regarding the time and manner of making, or revoking, an election under paragraphs (b)(2) and (3) of this section are provided in Revenue Procedure 2020-22, 2020-18 I.R.B. 745, or in other guidance that may be issued (see §§ 601.601(d) and 601.602 of this chapter).
+
+(c) *Disallowed business interest expense carryforward* - (1) *In general.* Any business interest expense disallowed under paragraph (b) of this section, or any disallowed disqualified interest that is properly allocable to a non-excepted trade or business under § 1.163(j)-10, is carried forward to the succeeding taxable year as a disallowed business interest expense carryforward, and is therefore business interest expense that is subject to paragraph (b) of this section in such succeeding taxable year. Disallowed business interest expense carryforwards are not re-allocated between non-excepted and excepted trades or businesses in a succeeding taxable year. Instead, the carryforwards continue to be treated as allocable to a non-excepted trade or business. See § 1.163(j)-10(c)(4).
+
+(2) *Coordination with small business exemption.* If disallowed business interest expense is carried forward under the rules of paragraph (c)(1) of this section to a taxable year in which the small business exemption in paragraph (d) of this section applies to the taxpayer, then the general rule in paragraph (b) of this section does not apply to limit the deduction of the disallowed business interest expense carryforward of the taxpayer in that taxable year. See § 1.163(j)-6(m)(3) for rules applicable to the treatment of excess business interest expense from a partnership that is not subject to section 163(j) in a succeeding taxable year, and see § 1.163(j)-6(m)(4) for rules applicable to S corporations with disallowed business interest expense carryforwards that are not subject to section 163(j) in a succeeding taxable year.
+
+(3) *Cross-references* - (i) For special rules regarding disallowed business interest expense carryforwards for taxpayers that are C corporations, including members of a consolidated group, see § 1.163(j)-5.
+
+(ii) For special rules regarding disallowed business interest expense carryforwards of S corporations, see §§ 1.163(j)-5(b)(2) and 1.163(j)-6(l)(5).
+
+(iii) For special rules regarding disallowed business interest expense carryforwards from partnerships, see § 1.163(j)-6.
+
+(iv)-(v) [Reserved]
+
+(d) *Small business exemption* - (1) *Exemption.* The general rule in paragraph (b) of this section does not apply to any taxpayer, other than a tax shelter as defined in section 448(d)(3), in any taxable year in which the taxpayer meets the gross receipts test of section 448(c) and the regulations in this part under section 448 of the Code for the taxable year. See § 1.163(j)-9(b) for elections available under section 163(j)(7)(B) and 163(j)(7)(C) for real property trades or businesses or farming businesses that also may be exempt small businesses. See § 1.163(j)-6(m) for rules applicable to partnerships and S corporations not subject to section 163(j).
+
+(2) *Application of the gross receipts test* - (i) *In general.* In the case of any taxpayer that is not a corporation or a partnership, and except as provided in paragraphs (d)(2)(ii), (iii), and (iv) of this section, the gross receipts test of section 448(c) and the regulations in this part under section 448 of the Code are applied in the same manner as if such taxpayer were a corporation or partnership.
+
+(ii) *Gross receipts of individuals.* Except as provided in paragraph (d)(2)(iii) of this section (regarding partnership and S corporation interests), an individual taxpayer's gross receipts include all items specified as gross receipts in regulations under section 448(c), whether or not derived in the ordinary course of the taxpayer's trade or business. For purposes of section 163(j), an individual taxpayer's gross receipts do not include inherently personal amounts, including, but not limited to, personal injury awards or settlements with respect to an injury of the individual taxpayer, disability benefits, Social Security benefits received by the taxpayer during the taxable year, and wages received as an employee that are reported on Form W-2.
+
+(iii) *Partners and S corporation shareholders.* Except when the aggregation rules of section 448(c) apply, each partner in a partnership includes a share of partnership gross receipts in proportion to such partner's distributive share (as determined under section 704) of items of gross income that were taken into account by the partnership under section 703. Additionally, each shareholder in an S corporation includes a pro rata share of S corporation gross receipts.
+
+(iv) *Tax-exempt organizations.* For purposes of section 163(j), the gross receipts of a tax-exempt organization include only gross receipts taken into account in determining its unrelated business taxable income.
+
+(e) *REMICs.* For the treatment of interest expense by a REMIC as defined in section 860D, see § 1.860C-2(b)(2)(ii).
+
+(f) *Trusts* - (i) *Calculation of ATI with respect to certain trusts and estates.* The ATI of a trust or a decedent's estate taxable under section 641 is computed without regard to deductions under sections 642(c), 651, and 661.
+
+(ii) *Calculation of ATI with respect to certain beneficiaries.* The ATI of a beneficiary (including a tax-exempt beneficiary) of a trust or a decedent's estate is reduced by any income (including any distributable net income) received from the trust or estate by the beneficiary to the extent such income was necessary to permit a deduction under section 163(j)(1)(B) and § 1.163(j)-2(b) for any business interest expense of the trust or estate that was in excess of any business interest income of the trust or estate.
+
+(g) *Tax-exempt organizations.* Except as provided in paragraph (d) of this section, the section 163(j) limitation applies to tax-exempt organizations for purposes of computing their unrelated business taxable income under section 512. For rules on determining the gross receipts of a tax-exempt organization for purposes of the small business exemption, see paragraph (d)(2)(iv) of this section. For special rules applicable to tax-exempt beneficiaries of a trust or a decedent's estate, see § 1.163(j)-2(f). For special rules applicable to tax-exempt corporations, see § 1.163(j)-4. For special allocation rules applicable to tax-exempt organizations, see § 1.163(j)-10(a)(5).
+
+(h) *Examples.* The examples in this paragraph (h) illustrate the application of section 163(j) and the provisions of this section. Unless otherwise indicated, X and Y are domestic C corporations; C and D are U.S. resident individuals not subject to any foreign income tax; PRS is a domestic partnership with partners who are all individuals; all taxpayers use a calendar taxable year; the exemption for certain small businesses in section 163(j)(3) and paragraph (d) of this section does not apply; and the interest expense would be deductible but for section 163(j).
+
+(1) *Example 1: Limitation on business interest expense deduction* - (i) *Facts.* During its taxable year ending December 31, 2021, X has ATI of $100x. X has business interest expense of $50x, which includes $10x of floor plan financing interest expense, and business interest income of $20x.
+
+(ii) *Analysis.* For the 2021 taxable year, X's section 163(j) limitation is $60x, which is the sum of its business interest income ($20x), plus 30 percent of its ATI ($100x × 30 percent = $30x), plus its floor plan financing interest expense ($10x). See § 1.163(j)-2(b). Because X's business interest expense ($50x) does not exceed X's section 163(j) limitation ($60x), X can deduct all $50x of its business interest expense for the 2021 taxable year.
+
+(2) *Example 2: Carryforward of business interest expense* - (i) *Facts.* The facts are the same as in *Example 1* in paragraph (h)(1)(i) of this section, except that X has $80x of business interest expense, which includes $10x of floor plan financing interest expense.
+
+(ii) *Analysis.* As in *Example 1* in paragraph (h)(1)(ii) of this section, X's section 163(j) limitation is $60x. Because X's business interest expense ($80x) exceeds X's section 163(j) limitation ($60x), X may only deduct $60x of its business interest expense for the 2021 taxable year, and the remaining $20x of its business interest expense will be carried forward to the succeeding taxable year as a disallowed business interest expense carryforward. See § 1.163(j)-2(c).
+
+(3) *Example 3: ATI computation* - (i) *Facts.* During the 2020 taxable year, Y has tentative taxable income of $30x, which is determined without regard to the application of the section 163(j) limitation on business interest expense. Y's tentative taxable income includes the following: $20x of business interest income; $50x of business interest expense, which includes $10x of floor plan financing interest expense; $25x of net operating loss deduction under section 172; and $15x of depreciation under section 167, of which $10x is capitalized to inventory under section 263A. Of the $10x capitalized to inventory, only $7x is recovered through cost of goods sold during the 2020 taxable year and $3x remains in ending inventory at the end of the 2020 taxable year. The $3x of ending inventory is recovered through cost of goods sold during the 2021 taxable year. Y also has a disallowed business interest expense carryforward from the prior year of $8x.
+
+(ii) *Analysis.* (A) For purposes of determining the section 163(j) limitation for 2020, Y's disallowed business interest expense carryforward is not taken into account in determining tentative taxable income or ATI. Y's ATI is $90x, calculated as follows:
+
+Table 1 to Paragraph (h)(3)(ii)(A)
+
+|                             |    |
+|-----------------------------|----|
+|  Tentative taxable income   |$30x|
+|            Less:            |    |
+|Floor plan financing interest|10x |
+|  Business interest income   |20x |
+|                             | 0x |
+
+(B) Plus:
+
+Table 2 to Paragraph (h)(3)(ii)(B)
+
+|                            |    |
+|----------------------------|----|
+| Business interest expense  |$50x|
+|Net operating loss deduction|25x |
+|        Depreciation        |15x |
+|            ATI             |90x |
+
+(C) For Y's 2021 taxable year, the $3x of ending inventory that is recovered through cost of goods sold in 2021 is not added back to tentative taxable income (TTI) in determining ATI because it was already included as an addback in ATI in Y's 2020 taxable year. See § 1.163(j)-1(b)(1)(iii).
+
+(4) *Example 4: Floor plan financing interest expense* - (i) *Facts.* C is the sole proprietor of an automobile dealership that uses a cash method of accounting. In the 2021 taxable year, C paid $30x of interest on a loan that was obtained to purchase sedans for sale by the dealership. The indebtedness is secured by the sedans purchased with the loan proceeds. In addition, C paid $20x of interest on a loan, secured by the dealership's office equipment, which C obtained to purchase convertibles for sale by the dealership.
+
+(ii) *Analysis.* For the purpose of calculating C's section 163(j) limitation, only the $30x of interest paid on the loan to purchase the sedans is floor plan financing interest expense. The $20x paid on the loan to purchase the convertibles is not floor plan financing interest expense for purposes of section 163(j) because the indebtedness was not secured by the inventory of convertibles. However, because under § 1.163(j)-10 the interest paid on the loan to purchase the convertibles is properly allocable to C's dealership trade or business, and because floor plan financing interest expense is also business interest expense, C has $50x of business interest expense for the 2021 taxable year.
+
+(5) *Example 5: Interest not properly allocable to non-excepted trade or business* - (i) *Facts.* The facts are the same as in *Example 4* in paragraph (h)(4)(i) of this section, except that the $20x of interest C pays is on acquisition indebtedness obtained to purchase C's personal residence and not to purchase convertibles for C's dealership trade or business.
+
+(ii) *Analysis.* Because the $20x of interest expense is not properly allocable to a non-excepted trade or business, and therefore is not business interest expense, C's only business interest expense is the $30x that C pays on the loan used to purchase sedans for sale in C's dealership trade or business. C deducts the $20x of interest related to his residence under the rules of section 163(h), without regard to section 163(j).
+
+(6) *Example 6: Small business exemption* - (i) *Facts.* During the 2021 taxable year, D, the sole proprietor of a trade or business reported on Schedule C, has interest expense properly allocable to that trade or business. D does not conduct an electing real property trade or business or an electing farming business. D also earns gross income from providing services as an employee that is reported on a Form W-2. Under section 448(c) and the regulations in this part under section 448, D has average annual gross receipts of $21 million, including $1 million of wages in each of the three prior taxable years and $2 million of income from investments not related to a trade or business in each of the three prior taxable years. Also, in each of the three prior taxable years, D received $5 million in periodic payments of compensatory damages awarded in a personal injury lawsuit.
+
+(ii) *Analysis.* Section 163(j) does not apply to D for the taxable year, because D qualifies for the small business exemption under § 1.163(j)-2(d). The wages that D receives as an employee and the compensatory damages that D received from D's personal injury lawsuit are not gross receipts, as provided in § 1.163(j)-2(d)(2)(ii). D may deduct all of its business interest expense for the 2021 taxable year without regard to section 163(j).
+
+(7) *Example 7: Partnership with excess business interest expense qualifies for the small business exemption in a succeeding taxable year* - (i) *Facts.* X and Y are equal partners in partnership PRS. In addition to being partners in PRS, X and Y each operate their own sole proprietorships. For the taxable year ending December 31, 2021, PRS is subject to section 163(j) and has excess business interest expense of $10x. For the taxable year ending December 31, 2022, PRS has $40x of business interest expense, and X and Y have $20x of business interest expense from their respective sole proprietorships. For the taxable year ending December 31, 2022, PRS and Y qualify for the small business exemption under § 1.163(j)-2(d), while X is subject to section 163(j) and has a section 163(j) limitation of $22x.
+
+(ii) *Partnership-level analysis.* For the 2021 taxable year, PRS allocates the $10x of excess business interest expense equally to X and Y ($5x each). See § 1.163(j)-6(f)(2). For the 2022 taxable year, section 163(j) does not apply to PRS because PRS qualifies for the small business exemption. As a result, none of PRS's $40x of business interest expense for the 2022 taxable year is subject to the section 163(j) limitation at the partnership level.
+
+(iii) *Partner-level analysis.* For the 2022 taxable year, each partner treats its $5x of excess business interest expense from PRS as paid or accrued in that year. See § 1.163(j)-6(m)(3). This amount becomes business interest expense that each partner must subject to its own section 163(j) limitation, if any. With this $5x, each partner has $25x of business interest expense for the 2022 taxable year ($20x from its sole proprietorship, plus $5x of excess business interest expense treated as paid or accrued in the 2020 taxable year). X deducts $22x of its business interest expense pursuant to its section 163(j) limitation and carries forward the remainder ($3x) as a disallowed business interest expense carryforward to the taxable year ending December 31, 2023. Y is not subject to section 163(j) because Y qualifies for the small business exemption. Y therefore deducts all $25x of its business interest expense for the 2022 taxable year.
+
+(8) *Example 8: Aggregation of gross receipts* - (i) *Facts.* X and Y are domestic C corporations under common control, within the meaning of section 52(a) and § 1.52-1(b). X's only trade or business is a farming business described in § 1.263A-4(a)(4). During the taxable year ending December 31, 2020, X has average annual gross receipts under section 448(c) of $6 million. During the same taxable year, Y has average annual gross receipts under section 448(c) of $21 million.
+
+(ii) *Analysis.* Because X and Y are under common control, they must aggregate gross receipts for purposes of section 448(c) and the small business exemption in § 1.163(j)-2(d). See section 448(c)(2). Therefore, X and Y are both considered to have $27 million in average annual gross receipts for 2020. X and Y must separately apply section 163(j) to determine any limitation on the deduction for business interest expense. Assuming X otherwise meets the requirements in § 1.163(j)-9 in 2020, X may elect for its farming business to be an excepted trade or business.
+
+(i) [Reserved]
+
+(j) *Anti-avoidance rule* - (1) *In general.* Arrangements entered into with a principal purpose of avoiding the rules of section 163(j) or the section 163(j) regulations, including the use of multiple entities to avoid the gross receipts test of section 448(c), may be disregarded or recharacterized by the Commissioner of the IRS to the extent necessary to carry out the purposes of section 163(j).
+
+(2) *Examples.* The examples in this paragraph (j)(2) illustrate the application of this section.
+
+(i) *Example 1* - (A) *Facts.* Individual A operates an excepted trade or business (Business X) and a non-excepted trade or business (Business Y). With a principal purpose of avoiding the rules of section 163(j) or the regulations in this part under section 163(j) of the Code, A contributes Business X to newly-formed C corporation B in exchange for stock; A then causes B to borrow funds from a third party and distributes a portion of the borrowed funds to A for use in Business Y. B takes the position that its interest payments on the debt are not subject to the section 163(j) limitation because B is engaged solely in an excepted trade or business.
+
+(B) *Analysis.* A has entered into an arrangement with a principal purpose of avoiding the rules of section 163(j) or the regulations in this part under section 163(j). Thus, under paragraph (j)(1) of this section, the Commissioner of the IRS may disregard or recharacterize this transaction to the extent necessary to carry out the purposes of section 163(j). In this case, payments of interest on the debt may be recharacterized as payments of interest properly allocable to a non-excepted trade or business subject to the section 163(j) limitation.
+
+(ii) *Example 2* - (A) *Facts.* Partnership UTP has two non-excepted trades or businesses. Business A has gross income of $1000x and gross deductions of $200x. Business B has gross income of $100x and gross deductions of $600x. With a principal purpose of avoiding the rules in section 163(j) or the regulations in this part under section 163(j), UTP and a partner of UTP form partnership LTP and UTP contributes Business B to LTP prior to borrowing funds. UTP takes the position that it does not take its share of LTP gross deductions into account when computing its ATI.
+
+(B) *Analysis.* UTP has entered into an arrangement with a principal purpose of avoiding the rules of section 163(j) or the regulations in this part under section 163(j). Thus, under paragraph (j)(1) of this section, the Commissioner of the IRS may disregard or recharacterize this transaction to the extent necessary to carry out the purposes of section 163(j). In this case, UTP's share of gross deductions from LTP may be recharacterized as gross deductions incurred directly by UTP solely for purposes of computing UTP's ATI.
+
+(k) *Applicability date.* This section applies to taxable years beginning on or after November 13, 2020. However, taxpayers and their related parties, within the meaning of sections 267(b) and 707(b)(1), may choose to apply the rules of this section to a taxable year beginning after December 31, 2017, so long as the taxpayers and their related parties consistently apply the rules of the section 163(j) regulations, and, if applicable, §§ 1.263A-9, 1.263A-15, 1.381(c)(20)-1, 1.382-1, 1.382-2, 1.382-5, 1.382-6, 1.382-7, 1.383-0, 1.383-1, 1.469-9, 1.469-11, 1.704-1, 1.882-5, 1.1362-3, 1.1368-1, 1.1377-1, 1.1502-13, 1.1502-21, 1.1502-36, 1.1502-79, 1.1502-91 through 1.1502-99 (to the extent they effectuate the rules of §§ 1.382-2, 1.382-5, 1.382-6, and 1.383-1), and 1.1504-4, to that taxable year.
+
+[T.D. 9905, 85 FR 56760, Sept. 14, 2020]

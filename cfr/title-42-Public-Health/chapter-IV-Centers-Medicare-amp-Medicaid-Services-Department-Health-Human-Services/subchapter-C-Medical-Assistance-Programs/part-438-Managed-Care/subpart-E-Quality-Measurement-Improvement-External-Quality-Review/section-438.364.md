@@ -1,5 +1,7 @@
 ##### § 438.364 External quality review results. #####
 
+Link to an amendment published at 85 FR 72842, Nov. 13, 2020.
+
 (a) *Information that must be produced.* The State must ensure that the EQR results in an annual detailed technical report that summarizes findings on access and quality of care, including:
 
 (1) A description of the manner in which the data from all activities conducted in accordance with § 438.358 were aggregated and analyzed, and conclusions were drawn as to the quality, timeliness, and access to the care furnished by the MCO, PIHP, PAHP, or PCCM entity (described in § 438.310(c)(2)).

@@ -1,5 +1,7 @@
 ##### § 1.245A(e)-1 Special rules for hybrid dividends. #####
 
+Link to an amendment published at 85 FR 72031, Nov. 12, 2020.
+
 (a) *Overview.* This section provides rules for hybrid dividends. Paragraph (b) of this section disallows the deduction under section 245A(a) for a hybrid dividend received by a United States shareholder from a CFC. Paragraph (c) of this section provides a rule for hybrid dividends of tiered corporations. Paragraph (d) of this section sets forth rules regarding a hybrid deduction account. Paragraph (e) of this section provides an anti-avoidance rule. Paragraph (f) of this section provides definitions. Paragraph (g) of this section illustrates the application of the rules of this section through examples. Paragraph (h) of this section provides the applicability date.
 
 (b) *Hybrid dividends received by United States shareholders* - (1) *In general.* If a United States shareholder receives a hybrid dividend, then -

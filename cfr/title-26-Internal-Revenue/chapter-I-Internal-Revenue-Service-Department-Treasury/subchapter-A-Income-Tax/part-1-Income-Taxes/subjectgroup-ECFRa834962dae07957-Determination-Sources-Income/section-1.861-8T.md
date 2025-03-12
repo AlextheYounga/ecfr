@@ -1,5 +1,7 @@
 ##### § 1.861-8T Computation of taxable income from sources within the United States and from other sources and activities (temporary). #####
 
+Link to an amendment published at 85 FR 72038, Nov. 12, 2020.
+
 (a) *In general.* (1) [Reserved]
 
 (2) *Allocation and apportionment of deductions in general.* If an affiliated group of corporations joins in filing a consolidated return under section 1501, the provisions of this section are to be applied separately to each member in that affiliated group for purposes of determining such member's taxable income, except to the extent that expenses, losses, and other deductions are allocated and apportioned as if all domestic members of an affiliated group were a single corporation under section 864(e) and the regulations thereunder. See § 1.861-9T through § 1.861-11T for rules regarding the affiliated group allocation and apportionment of interest expense, and § 1.861-14T for rules regarding the affiliated group allocation and apportionment of expenses other than interest.
@@ -36,9 +38,7 @@ Paragraph (e) (2) through (8) of this section provides the applicable rules for 
 
 For purposes of apportioning deductions which are not taken into account under § 1.1502-13 in determining gain or loss from intercompany transactions, as defined in § 1.1502-13, income from such transactions shall be taken into account in the year such income is ultimately included in gross income.
 
-(ii) *Exempt income and exempt asset defined* -
-
-(A) *In general.* For further guidance, see § 1.861-8(d)(2)(ii)(A).
+(ii) *Exempt income and exempt asset defined* - (A) *In general.* For further guidance, see § 1.861-8(d)(2)(ii)(A).
 
 (B)(*1*) *Certain stock and dividends.* The term “exempt income” includes the portion of the dividends that are deductible under -
 

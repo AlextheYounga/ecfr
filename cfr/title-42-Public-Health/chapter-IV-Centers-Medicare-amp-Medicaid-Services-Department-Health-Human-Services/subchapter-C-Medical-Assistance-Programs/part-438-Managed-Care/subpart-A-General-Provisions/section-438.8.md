@@ -1,5 +1,7 @@
 ##### § 438.8 Medical loss ratio (MLR) standards. #####
 
+Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
+
 (a) *Basic rule.* The State must ensure, through its contracts starting on or after July 1, 2017, that each MCO, PIHP, and PAHP calculate and report a MLR in accordance with this section. For multi-year contracts that do not start in 2017, the State must require the MCO, PIHP, or PAHP to calculate and report a MLR for the rating period that begins in 2017.
 
 (b) *Definitions.* As used in this section, the following terms have the indicated meanings:

@@ -1,5 +1,7 @@
 ##### § 704.5 Investments. #####
 
+Link to an amendment published at 85 FR 71826, Nov. 12, 2020.
+
 (a) *Policies.* A corporate credit union must operate according to an investment policy that is consistent with its other risk management policies, including, but not limited to, those related to credit risk management, asset and liability management, and liquidity management. The policy must address, at a minimum:
 
 (1) Appropriate tests and criteria for evaluating investments and investment transactions before purchase; and

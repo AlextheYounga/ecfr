@@ -1,5 +1,7 @@
 ##### § 1.861-12T Characterization rules and adjustments for certain assets (temporary). #####
 
+Link to an amendment published at 85 FR 72041, Nov. 12, 2020.
+
 (a) *In general.* For further guidance, see § 1.861-12(a).
 
 (b) *Inventories.* Inventory must be characterized by reference to the source and character of sales income, or sales receipts in the case of LIFO inventory, from that inventory during the taxable year. If a taxpayer maintains separate inventories for any federal tax purpose, including the rules for establishing pools of inventory items under sections 472 and 474 of the Code, each separate inventory shall be separately characterized in accordance with the previous sentence.

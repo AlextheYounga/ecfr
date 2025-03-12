@@ -1,5 +1,7 @@
 ##### § 438.236 Practice guidelines. #####
 
+Link to an amendment published at 85 FR 72841, Nov. 13, 2020.
+
 (a) *Basic rule.* The State must ensure, through its contracts, that each MCO, PIHP, and PAHP meets the requirements of this section.
 
 (b) *Adoption of practice guidelines.* Each MCO and, when applicable, each PIHP and PAHP adopts practice guidelines that meet the following requirements:

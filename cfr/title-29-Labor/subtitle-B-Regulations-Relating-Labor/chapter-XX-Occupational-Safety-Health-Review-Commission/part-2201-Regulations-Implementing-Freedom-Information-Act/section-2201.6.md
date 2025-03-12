@@ -2,7 +2,7 @@
 
 (a) *Responses within 20 working days.* The FOIA Disclosure Officer will either grant or deny a request for records within 20 working days after receiving the request. The 20-day period shall not be tolled by the agency except in the following cases. In these cases, the agency's receipt of the requester's response to the agency's request for information or clarification ends the tolling period.
 
-(1) The agency may toll the 20-day period once while awaiting information that it has reasonably requested from the requester under this section. The agency may make more than one request to the requester for information not related to issues regarding fee assessment, but can only toll the 20-day period once; or
+(1) The agency may toll the 20-day period once while awaiting information that it has reasonably requested from the requester under this section. The agency may make more than one request to the requester for information not related to issues regarding fee assessment, but can only toll the 20-day period once; and
 
 (2) The agency may toll the 20-day period as many times as are necessary to clarify any issues regarding fee assessment.
 
@@ -42,4 +42,4 @@
 
 (i) *Determining responsive records.* In determining which records are responsive to a request, OSHRC ordinarily will include only records in its possession as of the date it begins its search for them. If any other date is used, OSHRC shall inform the requester of that date.
 
-[71 FR 56350, Sept. 27, 2006, as amended at 75 FR 41372, July 16, 2010; 81 FR 95038, Dec. 27, 2016]
+[71 FR 56350, Sept. 27, 2006, as amended at 75 FR 41372, July 16, 2010; 81 FR 95038, Dec. 27, 2016; 85 FR 72565, Nov. 13, 2020]

@@ -1,5 +1,7 @@
 ##### § 303.42 Filing procedures. #####
 
+Link to an amendment published at 85 FR 72555, Nov. 13, 2020.
+
 (a) *General.* An applicant shall submit an application to the appropriate FDIC office on the date the notice required by § 303.44 is published, or within 5 days after the date of the last required publication.
 
 (b) *Content of filing.* A complete letter application shall include the following information:

@@ -2,7 +2,7 @@
 
 (a) *General information.* All requests for information must be made in writing to the FOIA Disclosure Officer and may be: Mailed or delivered; faxed; or emailed. Requests may also be made using the Commission's online FOIA request form (which is a downloadable PDF file found at *http://www.oshrc.gov/foia/foia\_request\_form.html*) and the completed form can be submitted by mail, fax, or email. Contact information for the FOIA Disclosure Officer is described in § 2201.3(d). For mailed or delivered requests, the words “Freedom of Information Act Request” must be printed on the face of the request's envelope or covering as well as the request itself.
 
-(b) A requester who is making a request for records about himself or herself must comply with verification of identity requirements as required by 29 CFR 2400.6 in OSHRC's Privacy Act regulations.
+(b) A requester who is making a request for records about himself or herself must comply with verification of identity requirements as required by 29 CFR 2400.4 in OSHRC's Privacy Act regulations.
 
 (c) Where a request for records pertains to another individual, a requester may receive greater access by submitting either a notarized authorization signed by that individual or a declaration made in compliance with the requirements set forth in 28 U.S.C. 1746 by that individual authorizing disclosure of the records to the requester, or by submitting proof that the individual is deceased (*e.g.,* a copy of a death certificate or an obituary).
 
@@ -14,4 +14,4 @@
 
 (g) *Date of receipt.* A request that complies with paragraph (a) of this section is deemed received on the actual date it is received by the Commission. A request that does not comply with paragraph (a) of this section is deemed received when it is actually received by the FOIA Disclosure Officer. For requests that are expected to result in fees exceeding $250, the request shall not be deemed to have been received until the requester is advised of the anticipated costs and the Commission has received full payment or satisfactory assurance of full payment as provided under § 2201.8(f).
 
-[81 FR 95037, Dec. 27, 2016]
+[81 FR 95037, Dec. 27, 2016, as amended at 85 FR 72565, Nov. 13, 2020]

@@ -1,5 +1,7 @@
 ##### § 704.21 Enterprise risk management. #####
 
+Link to an amendment published at 85 FR 71827, Nov. 12, 2020.
+
 (a) A corporate credit union must develop and follow an enterprise risk management policy.
 
 (b) The board of directors of a corporate credit union must establish an enterprise risk management committee (ERMC) responsible for reviewing the enterprise-wide risk management practices of the corporate credit union. The ERMC must report at least quarterly to the board of directors.

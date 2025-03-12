@@ -1,5 +1,7 @@
 ##### § 303.184 Moving an insured branch of a foreign bank. #####
 
+Link to an amendment published at 85 FR 72555, Nov. 13, 2020.
+
 (a) *Filing procedures* - (1) *Where and when to file.* An application by an insured branch of a foreign bank seeking the FDIC's consent to move from one location to another, as required by section 18(d)(1) of the FDI Act (12 U.S.C. 1828(d)(1)), shall be submitted in writing to the appropriate FDIC office on the date the notice required by paragraph (c) of this section is published, or within 5 days after the date of the last required publication.
 
 (2) *Content of filing.* A complete letter application shall include the following information:

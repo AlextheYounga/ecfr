@@ -1,5 +1,7 @@
 ##### § 1.881-3 Conduit financing arrangements. #####
 
+Link to an amendment published at 85 FR 72055, Nov. 12, 2020.
+
 (a) *General rules and definitions* - (1) *Purpose and scope.* Pursuant to the authority of section 7701(l), this section provides rules that permit the director of field operations to disregard, for purposes of section 881, the participation of one or more intermediate entities in a financing arrangement where such entities are acting as conduit entities. For purposes of this section, any reference to tax imposed under section 881 includes, except as otherwise provided and as the context may require, a reference to tax imposed under sections 871 or 884(f)(1)(A) or required to be withheld under section 1441 or 1442. See § 1.881-4 for recordkeeping requirements concerning financing arrangements. See §§ 1.1441-3(g) and 1.1441-7(f) for withholding rules applicable to conduit financing arrangements.
 
 (2) *Definitions.* The following definitions apply for purposes of this section and §§ 1.881-4, 1.1441-3(g) and 1.1441-7(f).

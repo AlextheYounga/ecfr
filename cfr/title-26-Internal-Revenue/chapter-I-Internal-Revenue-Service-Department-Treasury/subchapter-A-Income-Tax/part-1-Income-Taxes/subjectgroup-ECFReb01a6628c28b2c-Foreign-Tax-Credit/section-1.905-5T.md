@@ -1,5 +1,7 @@
 ##### § 1.905-5T Foreign tax redeterminations and currency translation rules for foreign tax redeterminations occurring in taxable years beginning prior to January 1, 1987 (temporary). #####
 
+Link to an amendment published at 85 FR 72069, Nov. 12, 2020.
+
 (a) *In general.* This section sets forth rules governing the application of section 905(c) to foreign tax redeterminations occurring prior to January 1, 1987. However, the rules of this section also apply to foreign tax redeterminations occurring after December 31, 1986 with respect to foreign tax deemed paid under section 902 or section 960 with respect to pre-1987 accumulated profits (as defined in § 1.902-1(a)(10)(i).
 
 (b) *Currency translation rules* - (1) *Foreign taxes paid by the taxpayer and certain foreign taxes deemed paid.* Foreign taxes paid in foreign currency that are paid by or on behalf of a taxpayer or deemed paid under section 960 (or under section 902 in a deemed distribution under section 1248) shall be translated into dollars at the rate of exchange for the date of the payment of the foreign tax. Refunds of such taxes shall be translated into dollars at the rate of exchange for the date of the refund.

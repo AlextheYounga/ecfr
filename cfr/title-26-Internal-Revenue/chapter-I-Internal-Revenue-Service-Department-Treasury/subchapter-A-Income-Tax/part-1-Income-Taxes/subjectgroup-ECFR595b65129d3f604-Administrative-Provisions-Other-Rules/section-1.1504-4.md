@@ -1,14 +1,12 @@
 ##### § 1.1504-4 Treatment of warrants, options, convertible obligations, and other similar interests. #####
 
-Link to an amendment published at 85 FR 56845, Sept. 14, 2020.
+(a) *Introduction*—(1) *General rule.* This section provides regulations under section 1504(a)(5) (A) and (B) regarding the circumstances in which warrants, options, obligations convertible into stock, and other similar interests are treated as exercised for purposes of determining whether a corporation is a member of an affiliated group. The fact that an instrument may be treated as an option under these regulations does not prevent such instrument from being treated as stock under general principles of law. Except as provided in paragraph (a)(2) of this section, this section applies to all provisions under the Internal Revenue Code and the regulations to which affiliation within the meaning of section 1504(a) (with or without the exceptions in section 1504(b)) is relevant, including those provisions that refer to section 1504(a)(2) (with or without the exceptions in section 1504(b)) without referring to affiliation, provided that the 80 percent voting power and 80 percent value requirements of section 1504(a)(2) are not modified therein.
 
-(a) *Introduction* - (1) *General rule.* This section provides regulations under section 1504(a)(5) (A) and (B) regarding the circumstances in which warrants, options, obligations convertible into stock, and other similar interests are treated as exercised for purposes of determining whether a corporation is a member of an affiliated group. The fact that an instrument may be treated as an option under these regulations does not prevent such instrument from being treated as stock under general principles of law. Except as provided in paragraph (a)(2) of this section, this section applies to all provisions under the Internal Revenue Code and the regulations to which affiliation within the meaning of section 1504(a) (with or without the exceptions in section 1504(b)) is relevant, including those provisions that refer to section 1504(a)(2) (with or without the exceptions in section 1504(b)) without referring to affiliation, provided that the 80 percent voting power and 80 percent value requirements of section 1504(a)(2) are not modified therein.
+(2) *Exceptions.* This section does not apply to sections 864(e) or 904(i) or to the regulations thereunder. This section also does not apply to any other provision specified by the Internal Revenue Service in regulations, a revenue ruling, or revenue procedure. See § 601.601(d)(2)(ii)(*b*) of this chapter.
 
-(2) *Exceptions.* This section does not apply to sections 163(j), 864(e), or 904(i) or to the regulations thereunder. This section also does not apply to any other provision specified by the Internal Revenue Service in regulations, a revenue ruling, or revenue procedure. See § 601.601(d)(2)(ii)(*b*) of this chapter.
+(b) *Options not treated as stock or as exercised*—(1) *General rule.* Except as provided in paragraph (b)(2) of this section, an option is not considered either as stock or as exercised. Thus, options are disregarded in determining whether a corporation is a member of an affiliated group unless they are described in paragraph (b)(2) of this section.
 
-(b) *Options not treated as stock or as excerised* - (1) *General rule.* Except as provided in paragraph (b)(2) of this section, an option is not considered either as stock or as exercised. Thus, options are disregarded in determining whether a corporation is a member of an affiliated group unless they are described in paragraph (b)(2) of this section.
-
-(2) *Options treated as exercised* - (i) *In general.* Solely for purposes of determining whether a corporation is a member of an affiliated group, an option is treated as exercised if, on a measurement date with respect to such option -
+(2) *Options treated as exercised*—(i) *In general.* Solely for purposes of determining whether a corporation is a member of an affiliated group, an option is treated as exercised if, on a measurement date with respect to such option—
 
 (A) It could reasonably be anticipated that, if not for this section, the issuance or transfer of the option in lieu of the issuance, redemption, or transfer of the underlying stock would result in the elimination of a substantial amount of federal income tax liability (as described in paragraphs (e) and (f) of this section); and
 
@@ -16,7 +14,7 @@ Link to an amendment published at 85 FR 56845, Sept. 14, 2020.
 
 (ii) *Aggregation of options.* All options with the same measurement date are aggregated in determining whether the issuance or transfer of an option in lieu of the issuance, redemption, or transfer of the underlying stock would result in the elimination of a substantial amount of federal income tax liability.
 
-(iii) *Effect of treating option as exercised* - (A) *In general.* An option that is treated as exercised is treated as exercised for purposes of determining the percentage of the value of stock owned by the holder and other parties, but is not treated as exercised for purposes of determining the percentage of the voting power of stock owned by the holder and other parties.
+(iii) *Effect of treating option as exercised*—(A) *In general.* An option that is treated as exercised is treated as exercised for purposes of determining the percentage of the value of stock owned by the holder and other parties, but is not treated as exercised for purposes of determining the percentage of the voting power of stock owned by the holder and other parties.
 
 (B) *Cash settlement options, phantom stock, stock appreciation rights, or similar interests.* If a cash settlement option, phantom stock, stock appreciation right, or similar interest is treated as exercised, the option is treated as having been converted into stock of the issuing corporation. If the amount to be received upon the exercise of such an option is determined by reference to a multiple of the increase in the value of a share of the issuing corporation's stock on the exercise date over the value of a share of the stock on the date the option is issued, the option is treated as converted into a corresponding number of shares of such stock. Appropriate adjustments must be made in any situation in which the amount to be received upon exercise of the option is determined in another manner.
 
@@ -28,7 +26,7 @@ Example.(i) Corporation P owns all 100 shares of the common stock of Corporation
 
 (ii) If, under the provisions of this section, the option is treated as exercised, then, solely for purposes of determining affiliation, P is treated as owning only 20 percent of the value of the outstanding S stock and X is treated as owing the remaining 80 percent of the value of the S stock. P is still treated as owning all of the voting power of S. Accordingly, because P is treated as owning less than 80 percent of the value of the outstanding S stock, P and S are no longer affiliated. However, because X is not treated as owning any of the voting power of S, X and S are also not affiliated.
 
-(c) *Definitions.* For purposes of this section -
+(c) *Definitions.* For purposes of this section—
 
 (1) *Issuing corporation.* “Issuing corporation” means the corporation whose stock is subject to an option.
 
@@ -36,17 +34,17 @@ Example.(i) Corporation P owns all 100 shares of the common stock of Corporation
 
 (3) *Related persons.* Persons are related if they are related within the meaning of section 267(b) (without the application of sections 267(c) and 1563(e)(1)) or 707(b)(1), substituting “10 percent” for “50 percent” wherever it appears.
 
-(4) *Measurement date* - (i) *General rule.* “Measurement date” means a date on which an option is issued or transferred or on which the terms of an existing option or the underlying stock are adjusted (including an adjustment pursuant to the terms of the option or the underlying stock).
+(4) *Measurement date*—(i) *General rule.* “Measurement date” means a date on which an option is issued or transferred or on which the terms of an existing option or the underlying stock are adjusted (including an adjustment pursuant to the terms of the option or the underlying stock).
 
-(ii) *Issuances, transfers, or adjustments not treated as measurement dates.* A measurement date does not include a date on which -
+(ii) *Issuances, transfers, or adjustments not treated as measurement dates.* A measurement date does not include a date on which—
 
 (A) An option is issued or transferred by gift, at death, or between spouses or former spouses under section 1041;
 
-(B) An option is issued or transferred -
+(B) An option is issued or transferred—
 
 (*1*) Between members of an affiliated group (determined with the exceptions in section 1504(b) and without the application of this section); or
 
-(*2*) Between persons none of which is a member of the affiliated group (determined without the exceptions in section 1504(b) and without the application of this section), if any, of which the issuing corporation is a member, unless -
+(*2*) Between persons none of which is a member of the affiliated group (determined without the exceptions in section 1504(b) and without the application of this section), if any, of which the issuing corporation is a member, unless—
 
 (*i*) Any such person is related to (or acting in concert with) the issuing corporation or any member of its affiliated group; and
 
@@ -56,7 +54,7 @@ Example.(i) Corporation P owns all 100 shares of the common stock of Corporation
 
 (D) A change occurs in the exercise price of an option or in the number of shares that may be issued or transferred pursuant to the option as determined by a bona fide, reasonable, adjustment formula that has the effect of preventing dilution of the interests of the holders of the options.
 
-(iii) *Transactions increasing likelihood of exercise.* If a change or alteration referred to in this paragraph (c)(4)(iii) is made for a principal purpose of increasing the likelihood that an option will be exercised, a measurement date also includes any date on which -
+(iii) *Transactions increasing likelihood of exercise.* If a change or alteration referred to in this paragraph (c)(4)(iii) is made for a principal purpose of increasing the likelihood that an option will be exercised, a measurement date also includes any date on which—
 
 (A) The capital structure of the issuing corporation is changed; or
 
@@ -78,7 +76,7 @@ Example.(i) Corporation P owns all 80 shares of the common stock of Corporation 
 
 (5) *In-the-money.* “In-the-money” means the exercise price of the option is less than (or in the case of an option to sell stock, greater than) the fair market value of the underlying stock.
 
-(d) *Options* - (1) *Instruments treated as options.* For purposes of this section, except to the extent otherwise provided in this paragraph (d), the following are treated as options:
+(d) *Options*—(1) *Instruments treated as options.* For purposes of this section, except to the extent otherwise provided in this paragraph (d), the following are treated as options:
 
 (i) A call option, warrant, convertible obligation, put option, redemption agreement (including a right to cause the redemption of stock), or any other instrument that provides for the right to issue, redeem, or transfer stock (including an option on an option); and
 
@@ -88,7 +86,7 @@ Example.(i) Corporation P owns all 80 shares of the common stock of Corporation 
 
 (i) *Options on section 1504(a)(4) stock.* Options on stock described in section 1504(a)(4);
 
-(ii) *Certain publicly traded options* - (A) *General rule.* Options which on the measurement date are traded on (or subject to the rules of) a qualified board or exchange as defined in section 1256(g)(7), or on any other exchange, board of trade, or market specified by the Internal Revenue Service in regulations, a revenue ruling, or revenue procedure. See § 601.601(d)(2)(ii)(*b*) of this chapter;
+(ii) *Certain publicly traded options*—(A) *General rule.* Options which on the measurement date are traded on (or subject to the rules of) a qualified board or exchange as defined in section 1256(g)(7), or on any other exchange, board of trade, or market specified by the Internal Revenue Service in regulations, a revenue ruling, or revenue procedure. See § 601.601(d)(2)(ii)(*b*) of this chapter;
 
 (B) *Exception.* Paragraph (d)(2)(ii)(A) of this section does not apply to options issued, transferred, or listed with a principal purpose of avoiding the application of section 1504 and this section. For example, a principal purpose of avoiding the application of section 1504 and this section may exist if warrants, convertible or exchangeable debt instruments, or other similar instruments have an exercise price (or, in the case of convertible or exchangeable instruments, a conversion or exchange premium) that is materially less than, or a term that is materially longer than, those that are customary for publicly traded instruments of their type. A principal purpose may also exist if a large percentage of an issuance of an instrument is placed with one investor (or group of investors) and a very small percentage of the issuance is traded on a qualified board or exchange;
 
@@ -96,7 +94,7 @@ Example.(i) Corporation P owns all 80 shares of the common stock of Corporation 
 
 (iv) *Escrow, pledge, or other security agreements.* Agreements for holding stock in escrow or under a pledge or other security agreement that are part of a typical commercial transaction and that are subject to customary commercial conditions;
 
-(v) *Compensatory options* - (A) *General rule.* Stock appreciation rights, warrants, stock options, phantom stock, or other similar instruments provided to employees, directors, or independent contractors in connection with the performance of services for the corporation or a related corporation (and that is not excessive by reference to the services performed) and which -
+(v) *Compensatory options*—(A) *General rule.* Stock appreciation rights, warrants, stock options, phantom stock, or other similar instruments provided to employees, directors, or independent contractors in connection with the performance of services for the corporation or a related corporation (and that is not excessive by reference to the services performed) and which—
 
 (*1*) Are nontransferable within the meaning of § 1.83-3(d); and
 
@@ -118,7 +116,7 @@ Example.(i) Corporation P owns all 80 shares of the common stock of Corporation 
 
 (f) *Substantial amount of federal income tax liability.* The determination of what constitutes a substantial amount of federal income tax liability is based on all the facts and circumstances, including the absolute amount of the elimination, the amount of the elimination relative to overall tax liability, and the timing of items of income and deductions, taking into account present value concepts.
 
-(g) *Reasonable certainty of exercise* - (1) *Generally.* The determination of whether, as of a measurement date, an option is reasonably certain to be exercised is based on all the facts and circumstances, including:
+(g) *Reasonable certainty of exercise*—(1) *Generally.* The determination of whether, as of a measurement date, an option is reasonably certain to be exercised is based on all the facts and circumstances, including:
 
 (i) *Purchase price.* The purchase price of the option in absolute terms and in relation to the fair market value of the stock or the exercise price of the option;
 
@@ -142,13 +140,13 @@ Example.(i) Corporation P owns all 80 shares of the common stock of Corporation 
 
 (2) *Cash settlement options, phantom stock, stock appreciation rights, or similar interests.* A cash settlement option, phantom stock, stock appreciation right, or similar interest is treated as reasonably certain to be exercised if it is reasonably certain that the option will have value at some time during the period in which the option may be exercised.
 
-(3) *Safe harbors* - (i) *Options to acquire stock.* Except as provided in paragraph (g)(3)(iv) of this section, an option to acquire stock is not considered reasonably certain, as of a measurement date, to be exercised if -
+(3) *Safe harbors*—(i) *Options to acquire stock.* Except as provided in paragraph (g)(3)(iv) of this section, an option to acquire stock is not considered reasonably certain, as of a measurement date, to be exercised if—
 
 (A) The option may be exercised no more than 24 months after the measurement date and the exercise price is equal to or greater than 90 percent of the fair market value of the underlying stock on the measurement date; or
 
 (B) The terms of the option provide that the exercise price of the option is equal to or greater than the fair market value of the underlying stock on the exercise date.
 
-(ii) *Options to sell stock.* Except as provided in paragraph (g)(3)(iv) of this section, an option to sell stock is not considered reasonably certain, as of a measurement date, to be exercised if -
+(ii) *Options to sell stock.* Except as provided in paragraph (g)(3)(iv) of this section, an option to sell stock is not considered reasonably certain, as of a measurement date, to be exercised if—
 
 (A) The option may be exercised no more than 24 months after the measurement date and the exercise price is equal to or less than 110 percent of the fair market value of the underlying stock on the measurement date; or
 
@@ -156,7 +154,7 @@ Example.(i) Corporation P owns all 80 shares of the common stock of Corporation 
 
 (iii) *Options exercisable at fair market value.* For purposes of paragraphs (g)(3)(i)(B) and (g)(3)(ii)(B) of this section, an option whose exercise price is determined by a formula is considered to have an exercise price equal to the fair market value of the underlying stock on the exercise date if the formula is agreed upon by the parties when the option is issued in a bona fide attempt to arrive at fair market value on the exercise date and is to be applied based upon the facts in existence on the exercise date.
 
-(iv) *Exceptions.* The safe harbors of this paragraph (g)(3) do not apply if -
+(iv) *Exceptions.* The safe harbors of this paragraph (g)(3) do not apply if—
 
 (A) An arrangement exists that provides the holder or a related party with stockholder rights described in paragraph (g)(1)(vii) of this section (except for rights arising upon a default under the option or a related agreement);
 
@@ -196,6 +194,6 @@ Example 7.(i) The facts are the same as in *Example 6* except that rather than a
 
 (ii) In contrast to *Example 6,* because of the true business risks involved in the start-up of S and whether the business venture will ultimately succeed, along with the fact that X does not have an option to put S stock to Y, it is not reasonably certain on September 30, 1992, a measurement date, that the option will be exercised and that X will only own 50 percent of the S stock on September 30, 1995. Accordingly, the option is disregarded in determining whether S is a member of the X group.
 
-(i) *Effective date.* This section applies, generally, to options with a measurement date on or after February 28, 1992. This section does not apply to options issued prior to February 28, 1992, which have a measurement date on or after February 28, 1992, if the measurement date for the option occurs solely because of an adjustment in the terms of the option pursuant to the terms of the option as it existed on February 28, 1992. Paragraph (b)(2)(iv) of this section applies to stock outstanding on or after February 28, 1992.
+(i) *Effective date.* This section applies, generally, to options with a measurement date on or after February 28, 1992. This section does not apply to options issued prior to February 28, 1992, which have a measurement date on or after February 28, 1992, if the measurement date for the option occurs solely because of an adjustment in the terms of the option pursuant to the terms of the option as it existed on February 28, 1992. Paragraph (b)(2)(iv) of this section applies to stock outstanding on or after February 28, 1992. Paragraph (a)(2) of this section applies with respect to taxable years beginning on or after November 13, 2020. However, taxpayers and their related parties, within the meaning of sections 267(b) and 707(b)(1), may choose to apply the rules of this section to a taxable year beginning after December 31, 2017, so long as the taxpayers and their related parties consistently apply the rules of this section, the section 163(j) regulations (as defined in § 1.163(j)-1(b)(37)), and, if applicable, §§ 1.263A-9, 1.263A-15, 1.381(c)(20)-1, 1.382-1, 1.382-2, 1.382-5, 1.382-6, 1.382-7, 1.383-0, 1.383-1, 1.469-9, 1.469-11, 1.704-1, 1.882-5, 1.1362-3, 1.1368-1, 1.1377-1, 1.1502-13, 1.1502-21, 1.1502-36, 1.1502-79, 1.1502-91 through 1.1502-99 (to the extent they effectuate the rules of §§ 1.382-2, 1.382-5, 1.382-6, 1.382-7, and 1.383-1), to that taxable year.
 
-[T.D. 8462, 57 FR 61801, Dec. 29, 1992; 58 FR 7041, Feb. 3, 1993]
+[T.D. 8462, 57 FR 61801, Dec. 29, 1992; 58 FR 7041, Feb. 3, 1993, as amended by T.D. 9905, 85 FR 56845, Sept. 14, 2020]

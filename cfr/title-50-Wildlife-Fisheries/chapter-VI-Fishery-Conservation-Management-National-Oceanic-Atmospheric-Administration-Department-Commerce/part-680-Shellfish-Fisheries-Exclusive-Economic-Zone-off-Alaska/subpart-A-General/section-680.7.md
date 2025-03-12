@@ -1,5 +1,7 @@
 ##### § 680.7 Prohibitions. #####
 
+Link to an amendment published at 85 FR 72583, Nov. 13, 2020.
+
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (a) *Receiving and processing CR crab.* (1) Process any CR crab that has not been weighed by an RCR on:

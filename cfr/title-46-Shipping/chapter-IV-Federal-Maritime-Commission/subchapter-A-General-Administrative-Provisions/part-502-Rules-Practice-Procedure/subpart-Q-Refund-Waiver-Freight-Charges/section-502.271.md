@@ -1,5 +1,7 @@
 ##### § 502.271 Special docket application for permission to refund or waive freight charges. #####
 
+Link to an amendment published at 85 FR 72578, Nov. 13, 2020.
+
 (a)(1) A common carrier or a shipper may file a special docket application seeking permission for a common carrier or conference to refund or waive collection of a portion of freight charges if there is:
 
 (i) An error in the tariff;

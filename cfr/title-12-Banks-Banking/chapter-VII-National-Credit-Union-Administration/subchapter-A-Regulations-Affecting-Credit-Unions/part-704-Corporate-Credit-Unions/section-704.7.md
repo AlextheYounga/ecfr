@@ -1,5 +1,7 @@
 ##### § 704.7 Lending. #####
 
+Link to an amendment published at 85 FR 71826, Nov. 12, 2020.
+
 (a) *Policies.* A corporate credit union must operate according to a lending policy which addresses, at a minimum:
 
 (1) Loan types and limits;

@@ -1,5 +1,7 @@
 ##### § 438.358 Activities related to external quality review. #####
 
+Link to an amendment published at 85 FR 72841, Nov. 13, 2020.
+
 (a) *General rule.* (1) The State, its agent that is not an MCO, PIHP, PAHP, or PCCM entity (described in § 438.310(c)(2)), or an EQRO may perform the mandatory and optional EQR-related activities in this section.
 
 (2) The data obtained from the mandatory and optional EQR-related activities in this section must be used for the annual EQR in § 438.350 and must include, at a minimum, the elements in § 438.364(a)(2)(i) through (iv).

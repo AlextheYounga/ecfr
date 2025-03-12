@@ -1,5 +1,7 @@
 ##### § 1.954-1 Foreign base company income. #####
 
+Link to an amendment published at 85 FR 72070, Nov. 12, 2020.
+
 (a) *In general* - (1) *Purpose and scope.* Section 954 and §§ 1.954-1 and 1.954-2 provide rules for computing the foreign base company income of a controlled foreign corporation. Foreign base company income is included in the subpart F income of a controlled foreign corporation under the rules of section 952. Subpart F income is included in the gross income of a United States shareholder of a controlled foreign corporation under the rules of section 951 and thus is subject to current taxation under section 1, 11 or 55 of the Internal Revenue Code. The determination of whether a foreign corporation is a controlled foreign corporation, the subpart F income of which is included currently in the gross income of its United States shareholders, is made under the rules of section 957.
 
 (2) *Gross foreign base company income.* The gross foreign base company income of a controlled foreign corporation consists of the following categories of gross income (determined after the application of section 952(b)) -

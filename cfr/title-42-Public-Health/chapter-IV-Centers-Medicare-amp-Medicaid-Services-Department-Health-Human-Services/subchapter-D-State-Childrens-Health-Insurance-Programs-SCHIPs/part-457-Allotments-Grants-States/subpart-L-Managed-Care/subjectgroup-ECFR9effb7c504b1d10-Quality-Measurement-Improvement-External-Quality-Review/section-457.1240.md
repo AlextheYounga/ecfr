@@ -1,5 +1,7 @@
 ##### § 457.1240 Quality measurement and improvement. #####
 
+Link to an amendment published at 85 FR 72842, Nov. 13, 2020.
+
 (a) *Scope.* This section sets forth requirements related to quality assessment and performance improvement that the State must meet in contracting with an MCO, PIHP, PAHP, or certain PCCM entities.
 
 (b) *Quality assessment and performance improvement program.* The State must require, through its contracts, that each MCO, PIHP, and PAHP must establish and implement an ongoing comprehensive quality assessment and performance improvement program for the services it furnishes to its enrollees as provided in § 438.330 of this chapter, except that the terms of § 438.330(d)(4) of this chapter (related to dual eligibles) do not apply. In the case of a contract with a PCCM entity described in paragraph (f) of this section, § 438.330(b)(3), (c), and (e) of this chapter apply.

@@ -1,7 +1,5 @@
 ##### § 1.382-1 Table of contents. #####
 
-Link to an amendment published at 85 FR 56834, Sept. 14, 2020.
-
 This section lists the captions that appear in the regulations for §§ 1.382-2 through 1.382-12.
 
 § 1.382-2 General rules for ownership change.
@@ -19,6 +17,8 @@ This section lists the captions that appear in the regulations for §§ 1.382-2 
 (iv) End of separate accounting for losses and credits of distributor or transferor corporation.
 
 (v) Application to other successor corporations.
+
+(vi) Any section 382 disallowed business interest carryforward.
 
 (2) Pre-change loss.
 
@@ -38,6 +38,10 @@ This section lists the captions that appear in the regulations for §§ 1.382-2 
 
 (6) Predecessor corporation.
 
+(7) Section 382 disallowed business interest carryforward.
+
+(8) Testing period.
+
 (b) Effective dates.
 
 (1) In general. [Reserved]
@@ -48,7 +52,7 @@ This section lists the captions that appear in the regulations for §§ 1.382-2 
 
 (ii) Certain convertible preferred stock.
 
-(3) Rules provided in paragraph (a)(4) of this section.
+(3) Rules provided in paragraphs (a)(1)(i)(A), (a)(1)(ii), (iv), and (v), (a)(2)(iv) through (vi), (a)(3)(i), and (a)(4) through (8) of this section.
 
 § 1.382-3 Definitions and rules relating to a 5-percent shareholder.
 
@@ -310,6 +314,14 @@ This section lists the captions that appear in the regulations for §§ 1.382-2 
 
 (a) General rule.
 
+(1) In general.
+
+(2) Allocation of business interest expense.
+
+(i) Scope.
+
+(ii) Deductibility of business interest expense.
+
 (b) Closing-of-the-books election.
 
 (1) In general.
@@ -325,6 +337,14 @@ This section lists the captions that appear in the regulations for §§ 1.382-2 
 (i) Consolidated groups.
 
 (ii) Controlled groups.
+
+(4) Allocation of business interest expense.
+
+(i) Scope.
+
+(ii) Deductibility of business interest expense.
+
+(iii) Example.
 
 (c) Operating rules for determining net operating loss, taxable income, net capital loss, modified capital gain net income, and special allocations.
 
@@ -352,13 +372,33 @@ This section lists the captions that appear in the regulations for §§ 1.382-2 
 
 (4) Modified capital gain net income.
 
-(h) Effective date.
+(h) Applicability date.
+
+(1) In general.
+
+(2) Paragraphs (a) and (b)(1) and (4) of this section.
 
 § 1.382-7 Built-in gains and losses.
 
 (a) Treatment of prepaid income.
 
 (b) Effective/applicability dates.
+
+(c) [Reserved]
+
+(d) Special rules.
+
+(1)-(4) [Reserved]
+
+(5) Section 382 disallowed business interest carryforwards.
+
+(e)-(f) [Reserved]
+
+(g) Applicability dates.
+
+(1)-(3) [Reserved]
+
+(4) Paragraph (d)(5) of this section.
 
 § 1.382-8 Controlled groups.
 

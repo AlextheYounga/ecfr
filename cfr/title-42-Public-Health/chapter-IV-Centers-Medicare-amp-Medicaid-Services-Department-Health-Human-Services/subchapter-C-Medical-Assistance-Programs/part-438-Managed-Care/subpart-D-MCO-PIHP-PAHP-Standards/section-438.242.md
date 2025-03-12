@@ -1,5 +1,7 @@
 ##### § 438.242 Health information systems. #####
 
+Link to an amendment published at 85 FR 72841, Nov. 13, 2020.
+
 (a) *General rule.* The State must ensure, through its contracts that each MCO, PIHP, and PAHP maintains a health information system that collects, analyzes, integrates, and reports data and can achieve the objectives of this part. The systems must provide information on areas including, but not limited to, utilization, claims, grievances and appeals, and disenrollments for other than loss of Medicaid eligibility.
 
 (b) *Basic elements of a health information system.* The State must require, at a minimum, that each MCO, PIHP, and PAHP comply with the following:

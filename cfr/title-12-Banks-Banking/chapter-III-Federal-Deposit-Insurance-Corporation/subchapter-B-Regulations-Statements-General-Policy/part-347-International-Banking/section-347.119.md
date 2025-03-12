@@ -1,5 +1,7 @@
 ##### § 347.119 Specific consent. #####
 
+Link to an amendment published at 85 FR 72555, Nov. 13, 2020.
+
 General consent and expedited processing under this subpart do not apply in the following circumstances:
 
 (a) *Limitation on access to supervisory information in foreign country.* (1) Applicable law or practice in the foreign country where the foreign organization or foreign branch would be located would limit the FDIC's access to information for supervisory purposes; and

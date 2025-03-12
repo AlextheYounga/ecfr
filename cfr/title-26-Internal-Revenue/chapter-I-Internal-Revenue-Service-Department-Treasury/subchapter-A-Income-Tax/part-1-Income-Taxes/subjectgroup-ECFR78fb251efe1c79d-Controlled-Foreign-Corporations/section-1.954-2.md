@@ -1,5 +1,7 @@
 ##### § 1.954-2 Foreign personal holding company income. #####
 
+Link to an amendment published at 85 FR 72071, Nov. 12, 2020.
+
 (a) *Computation of foreign personal holding company income* - (1) *Categories of foreign personal holding company income.* For purposes of subpart F and the regulations under that subpart, foreign personal holding company income consists of the following categories of income -
 
 (i) Dividends, interest, rents, royalties, and annuities as described in paragraph (b) of this section;

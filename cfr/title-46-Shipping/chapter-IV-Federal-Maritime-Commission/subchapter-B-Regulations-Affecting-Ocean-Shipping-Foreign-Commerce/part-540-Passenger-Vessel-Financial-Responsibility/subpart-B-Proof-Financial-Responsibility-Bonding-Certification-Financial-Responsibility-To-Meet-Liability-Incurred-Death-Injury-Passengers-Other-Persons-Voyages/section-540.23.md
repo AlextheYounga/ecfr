@@ -1,5 +1,7 @@
 ##### § 540.23 Procedure for establishing financial responsibility. #####
 
+Link to an amendment published at 85 FR 72578, Nov. 13, 2020.
+
 (a) In order to comply with section 2 of Pub. L. 89-777 (46 U.S.C. 44101, 44103-44106) enacted November 6, 1966, there must be filed an Application on Form FMC-131 for a Certificate of Financial Responsibility to Meet Liability Incurred for Death or Injury to Passengers or Other Persons on Voyages. Copies of Form FMC-131 may be obtained from the Secretary, Federal Maritime Commission, Washington, DC 20573.
 
 (b) An application for a Certificate (Casualty) shall be filed in duplicate with the Secretary, Federal Maritime Commission, by the vessel owner or charterer at least 60 days in advance of the sailing. Late filing of the application will be permitted only for good cause shown. All applications and evidence required to be filed with the Commission shall be in English, and any monetary terms shall be expressed in terms of U.S. currency. The Commission shall have the privilege of verifying any statements made or any evidence submitted under the rules of this subpart. An application for a Certificate (Casualty), excluding an application for the addition or substitution of a vessel to the applicant's fleet, must be accompanied by a filing fee remittance of $1,441. An application for a Certificate (Casualty) for the addition or substitution of a vessel to the applicant's fleet must be accompanied by a filing fee remittance of $718.

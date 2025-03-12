@@ -1,5 +1,7 @@
 ##### § 438.68 Network adequacy standards. #####
 
+Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
+
 (a) *General rule.* A State that contracts with an MCO, PIHP or PAHP to deliver Medicaid services must develop and enforce network adequacy standards consistent with this section.
 
 (b) *Provider-specific network adequacy standards.* (1) At a minimum, a State must develop time and distance standards for the following provider types, if covered under the contract:

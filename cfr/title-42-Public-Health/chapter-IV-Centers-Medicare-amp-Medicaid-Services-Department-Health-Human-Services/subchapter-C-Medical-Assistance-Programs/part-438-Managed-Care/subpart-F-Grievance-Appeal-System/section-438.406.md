@@ -1,5 +1,7 @@
 ##### § 438.406 Handling of grievances and appeals. #####
 
+Link to an amendment published at 85 FR 72842, Nov. 13, 2020.
+
 (a) *General requirements.* In handling grievances and appeals, each MCO, PIHP, and PAHP must give enrollees any reasonable assistance in completing forms and taking other procedural steps related to a grievance or appeal. This includes, but is not limited to, auxiliary aids and services upon request, such as providing interpreter services and toll-free numbers that have adequate TTY/TTD and interpreter capability.
 
 (b) *Special requirements.* An MCO's, PIHP's or PAHP's process for handling enrollee grievances and appeals of adverse benefit determinations must:

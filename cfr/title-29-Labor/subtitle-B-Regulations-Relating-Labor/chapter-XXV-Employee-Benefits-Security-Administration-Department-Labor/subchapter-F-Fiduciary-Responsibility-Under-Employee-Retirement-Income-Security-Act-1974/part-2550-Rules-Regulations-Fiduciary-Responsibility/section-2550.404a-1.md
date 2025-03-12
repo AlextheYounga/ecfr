@@ -1,5 +1,7 @@
 ##### § 2550.404a-1 Investment duties. #####
 
+Link to an amendment published at 85 FR 72883, Nov. 13, 2020.
+
 (a) *In general.* Section 404(a)(1)(B) of the Employee Retirement Income Security Act of 1974 (the Act) provides, in part, that a fiduciary shall discharge his duties with respect to a plan with the care, skill, prudence, and diligence under the circumstances then prevailing that a prudent man acting in a like capacity and familiar with such matters would use in the conduct of an enterprise of a like character and with like aims.
 
 (b) *Investment duties.* (1) With regard to an investment or investment course of action taken by a fiduciary of an employee benefit plan pursuant to his investment duties, the requirements of section 404(a)(1)(B) of the Act set forth in subsection (a) of this section are satisfied if the fiduciary:

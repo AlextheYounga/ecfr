@@ -1,5 +1,7 @@
 ##### § 1.861-13T Transition rules for interest expenses (temporary regulations). #####
 
+Link to an amendment published at 85 FR 72041, Nov. 12, 2020.
+
 (a) *In general* - (1) *Optional application.* The rules of this section may be applied at the choice of a corporate taxpayer. In the case of an affiliated group, however, the choice must be made on a consistent basis for all members. Therefore, a corporate taxpayer (or affiliated group) may allocate and apportion its interest expense entirely on the basis of the rules contained in §§ 1.861-8T through 1.861-12T and without regard to the rules of this section. The choice is made on an annual basis and, thus, is not binding with respect to subsequent tax years.
 
 (2) *Transition relief.* This section contains transitional rules that limit the application of the rules for allocating and apportioning interest expense of corporate taxpayers contained in §§ 1.861-8T through 1.861-12T, which are applicable in allocating and apportioning the interest expense of corporate taxpayers generally for taxable years beginning after 1986. Sections 1.861-9(d) (relating to individuals, estates, and certain trusts) and 1.861-9(e) (relating to partnerships) are effective for taxable years beginning after 1986. Thus, the taxpayers to whom those sections apply do not qualify for transition relief under this section.

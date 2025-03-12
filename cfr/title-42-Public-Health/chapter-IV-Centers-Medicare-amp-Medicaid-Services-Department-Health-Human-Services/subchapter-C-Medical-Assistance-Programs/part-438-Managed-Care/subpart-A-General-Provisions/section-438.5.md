@@ -1,5 +1,7 @@
 ##### § 438.5 Rate development standards. #####
 
+Link to an amendment published at 85 FR 72838, Nov. 13, 2020.
+
 (a) *Definitions.* As used in this section and § 438.7(b), the following terms have the indicated meanings:
 
 *Budget neutral* means a standard for any risk sharing mechanism that recognizes both higher and lower expected costs among contracted MCOs, PIHPs, or PAHPs under a managed care program and does not create a net aggregate gain or loss across all payments under that managed care program.

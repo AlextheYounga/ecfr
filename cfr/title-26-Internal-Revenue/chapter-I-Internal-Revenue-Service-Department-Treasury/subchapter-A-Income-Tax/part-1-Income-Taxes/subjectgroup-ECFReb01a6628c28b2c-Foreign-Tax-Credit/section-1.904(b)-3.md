@@ -1,5 +1,7 @@
 ##### § 1.904(b)-3 Disregard of certain dividends and deductions under section 904(b)(4). #####
 
+Link to an amendment published at 85 FR 72060, Nov. 12, 2020.
+
 (a) *Disregard of certain dividends and deductions* - (1) *In general.* For purposes of section 904(a), in the case of a domestic corporation which is a United States shareholder with respect to a specified 10-percent owned foreign corporation (as defined in section 245A(b)), the domestic corporation's foreign source taxable income in a separate category and entire taxable income is determined without regard to the following items:
 
 (i) Any dividend for which a deduction is allowed under section 245A;

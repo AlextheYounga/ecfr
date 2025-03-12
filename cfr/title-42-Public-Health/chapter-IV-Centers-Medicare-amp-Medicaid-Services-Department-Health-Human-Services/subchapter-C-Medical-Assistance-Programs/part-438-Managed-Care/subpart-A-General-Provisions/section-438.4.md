@@ -1,5 +1,7 @@
 ##### § 438.4 Actuarial soundness. #####
 
+Link to an amendment published at 85 FR 72837, Nov. 13, 2020.
+
 (a) *Actuarially sound capitation rates defined.* Actuarially sound capitation rates are projected to provide for all reasonable, appropriate, and attainable costs that are required under the terms of the contract and for the operation of the MCO, PIHP, or PAHP for the time period and the population covered under the terms of the contract, and such capitation rates are developed in accordance with the requirements in paragraph (b) of this section.
 
 (b) *CMS review and approval of actuarially sound capitation rates.* Capitation rates for MCOs, PIHPs, and PAHPs must be reviewed and approved by CMS as actuarially sound. To be approved by CMS, capitation rates must:

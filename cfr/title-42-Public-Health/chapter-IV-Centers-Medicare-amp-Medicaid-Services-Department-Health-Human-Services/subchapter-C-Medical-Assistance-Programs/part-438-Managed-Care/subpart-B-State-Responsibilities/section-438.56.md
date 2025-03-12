@@ -1,5 +1,7 @@
 ##### § 438.56 Disenrollment: Requirements and limitations. #####
 
+Link to an amendment published at 85 FR 72840, Nov. 13, 2020.
+
 (a) *Applicability.* The provisions of this section apply to all managed care programs whether enrollment is mandatory or voluntary and whether the contract is with an MCO, PIHP, PAHP, PCCM, or PCCM entity.
 
 (b) *Disenrollment requested by the MCO, PIHP, PAHP, PCCM, or PCCM entity.* All MCO, PIHP, PAHP, PCCM and PCCM entity contracts must:

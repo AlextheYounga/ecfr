@@ -1,5 +1,7 @@
 ##### § 438.7 Rate certification submission. #####
 
+Link to an amendment published at 85 FR 72839, Nov. 13, 2020.
+
 (a) *CMS review and approval of the rate certification.* States must submit to CMS for review and approval, all MCO, PIHP, and PAHP rate certifications concurrent with the review and approval process for contracts as specified in § 438.3(a).
 
 (b) *Documentation.* The rate certification must contain the following information:

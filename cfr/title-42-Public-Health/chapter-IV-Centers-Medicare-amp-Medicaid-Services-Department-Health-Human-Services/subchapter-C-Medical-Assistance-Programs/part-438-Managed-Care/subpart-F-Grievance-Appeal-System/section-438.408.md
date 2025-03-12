@@ -1,5 +1,7 @@
 ##### § 438.408 Resolution and notification: Grievances and appeals. #####
 
+Link to an amendment published at 85 FR 72842, Nov. 13, 2020.
+
 (a) *Basic rule.* Each MCO, PIHP, or PAHP must resolve each grievance and appeal, and provide notice, as expeditiously as the enrollee's health condition requires, within State-established timeframes that may not exceed the timeframes specified in this section.
 
 (b) *Specific timeframes* - (1) *Standard resolution of grievances.* For standard resolution of a grievance and notice to the affected parties, the timeframe is established by the State but may not exceed 90 calendar days from the day the MCO, PIHP, or PAHP receives the grievance.
