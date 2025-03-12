@@ -1,28 +1,26 @@
-##### § 17.85 Special rules - invertebrates. #####
-
-Link to an amendment published at 87 FR 15145, Mar. 17, 2022.
+##### § 17.85 Special rules—invertebrates. #####
 
 (a) *Seventeen mollusks in the Tennessee River.* The species in the following table comprise nonessential experimental populations (NEPs):
 
-|              Common name              |        Scientific name         |
-|---------------------------------------|--------------------------------|
-|    Cumberland bean (pearlymussel)     |        Villosa trabalis        |
-|   tubercled blossom (pearlymussel)    |  Epioblasma torulosa torulosa  |
-|     turgid blossom (pearlymussel)     |      Epioblasma turgidula      |
-|     yellow blossom (pearlymussel)     |Epioblasma florentina florentina|
-|catspaw (purple cat's paw pearlymussel)| Epioblasma obliquata obliquata |
-|               clubshell               |        Pleurobema clava        |
-|        Cumberlandian combshell        |      Epioblasma brevidens      |
-|          Alabama lampmussel           |      Lampsilis virescens       |
-|       winged mapleleaf (mussel)       |        Quadrula fragosa        |
-| Cumberland monkeyface (pearlymussel)  |     Theliderma intermedia.     |
-|             oyster mussel             |    Epioblasma capsaeformis     |
-|         birdwing pearlymussel         |         Lemiox rimosus         |
-|         cracking pearlymussel         |         Hemistena lata         |
-|        dromedary pearlymussel         |         Dromus dromas          |
-|           fine-rayed pigtoe           |       Fusconaia cuneolus       |
-|             shiny pigtoe              |         Fusconaia cor          |
-|         Anthony's riversnail          |       Athearnia anthonyi       |
+|            Common name             |        Scientific name         |
+|------------------------------------|--------------------------------|
+|   Cumberland bean (pearlymussel)   |        Villosa trabalis        |
+|  tubercled blossom (pearlymussel)  |  Epioblasma torulosa torulosa  |
+|   turgid blossom (pearlymussel)    |      Epioblasma turgidula      |
+|   yellow blossom (pearlymussel)    |Epioblasma florentina florentina|
+|   purple cat's paw pearlymussel    |     Epioblasma obliquata.      |
+|             clubshell              |        Pleurobema clava        |
+|      Cumberlandian combshell       |      Epioblasma brevidens      |
+|         Alabama lampmussel         |      Lampsilis virescens       |
+|     winged mapleleaf (mussel)      |        Quadrula fragosa        |
+|Cumberland monkeyface (pearlymussel)|     Theliderma intermedia.     |
+|           oyster mussel            |    Epioblasma capsaeformis     |
+|       birdwing pearlymussel        |         Lemiox rimosus         |
+|       cracking pearlymussel        |         Hemistena lata         |
+|       dromedary pearlymussel       |         Dromus dromas          |
+|         fine-rayed pigtoe          |       Fusconaia cuneolus       |
+|            shiny pigtoe            |         Fusconaia cor          |
+|        Anthony's riversnail        |       Athearnia anthonyi       |
 
 (1) *Where are these mollusks designated as nonessential experimental populations (NEPs)?* (i) The NEP Area for these 17 mollusks is within the species' historic ranges, and is defined as follows: The free-flowing reach of the Tennessee River from the base of Wilson Dam downstream to the backwaters of Pickwick Reservoir (river mile (RM) 259.4 [414.0 km] to RM 246.0 [393.6 km] and includes the lower 5 RM (8 km) of all tributaries to this reach in Colbert and Lauderdale Counties, Alabama.
 
@@ -159,4 +157,4 @@ Link to an amendment published at 87 FR 15145, Mar. 17, 2022.
 
 (iii) *Note:* Map of Saddle Mountain NEP area for the Oregon silverspot butterfly follows:
 
-![](/graphics/er23jn17.003.gif)[66 FR 32263, June 14, 2001, as amended at 72 FR 52459, Sept. 13, 2007; 77 FR 16717, Mar. 22, 2012; 82 FR 28578, June 23, 2017; 87 FR 8965, Feb.17, 2022]
+![](/graphics/er23jn17.003.gif)[66 FR 32263, June 14, 2001, as amended at 72 FR 52459, Sept. 13, 2007; 77 FR 16717, Mar. 22, 2012; 82 FR 28578, June 23, 2017; 87 FR 8965, Feb.17, 2022; 87 FR 15145, Mar. 17, 2022]

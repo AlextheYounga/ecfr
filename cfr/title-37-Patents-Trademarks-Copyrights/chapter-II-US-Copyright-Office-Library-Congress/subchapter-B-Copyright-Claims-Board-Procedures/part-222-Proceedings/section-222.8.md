@@ -1,6 +1,6 @@
 ##### § 222.8 Response. #####
 
-Link to an amendment published at 87 FR 30077, May 17, 2022.
+Link to an amendment published at 87 FR 30077, May 17, 2022.Link to an amendment published at 87 FR 36060, June 15, 2022.
 
 (a) *Filing a response.* Following receipt of the scheduling order in an active proceeding, each respondent shall file a response through eCCB using the response form provided by the Board. Except for respondents who are represented by the same legal counsel or *authorized representative,* each respondent shall submit a separate response.
 

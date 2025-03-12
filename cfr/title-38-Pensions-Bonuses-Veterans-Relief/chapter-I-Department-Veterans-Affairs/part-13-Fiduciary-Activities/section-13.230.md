@@ -1,7 +1,5 @@
 ##### § 13.230 Protection of beneficiary funds. #####
 
-Link to an amendment published at 87 FR 29673, May 16, 2022.
-
 (a) *General.* Except as prescribed in paragraph (c) of this section, within 60 days of appointment, the fiduciary must furnish to the fiduciary hub with jurisdiction a corporate surety bond that is conditioned upon faithful discharge of all of the responsibilities of a fiduciary prescribed in § 13.140 and meets the requirements of paragraph (d) of this section, if the VA benefit funds that are due and to be paid for the beneficiary will exceed $25,000 at the time of appointment. The Hub Manager will not authorize the release of a retroactive, one-time, or other pending lump-sum benefit payment to the fiduciary until the fiduciary has furnished the bond prescribed by this section.
 
 (b) *Accumulated funds.* The provisions of paragraph (a) of this section, which require a fiduciary to furnish a surety bond, apply in any case in which the accumulation over time of VA benefit funds under management by a fiduciary for a beneficiary exceeds $25,000. Except as prescribed in paragraph (c) of this section, within 60 days of accumulated funds exceeding the prescribed threshold, the fiduciary will furnish to the fiduciary hub a bond that meets the requirements of paragraph (d) of this section.
@@ -10,9 +8,13 @@ Link to an amendment published at 87 FR 29673, May 16, 2022.
 
 (i) A fiduciary that is a trust company or a bank with trust powers organized under the laws of the United States or a state;
 
-(ii) A fiduciary who is the beneficiary's spouse; or
+(ii) A fiduciary who is the beneficiary's spouse;
 
-(iii) A fiduciary in the Commonwealth of Puerto Rico, Guam, or another territory of the United States, or in the Republic of the Philippines, who has entered into a restricted withdrawal agreement in lieu of a surety bond.
+(iii) A fiduciary in the Commonwealth of Puerto Rico, Guam, or another territory of the United States, or in the Republic of the Philippines, who has entered into a restricted withdrawal agreement in lieu of a surety bond;
+
+(iv) A fiduciary that is also appointed by a court and has obtained a state-court bond, as referenced in 38 CFR 14.709, sufficient to cover both VA and non-VA funds; or
+
+(v) A fiduciary that is also a state agency with existing, state-mandated liability insurance or a blanket bond sufficient to cover both VA and non-VA funds.
 
 (2) The Hub Manager may, at any time, require the fiduciary to obtain a bond described in paragraph (a) of this section and meeting the requirements of paragraph (d) of this section, without regard to the amount of VA benefit funds under management by the fiduciary for the beneficiary, if special circumstances indicate that obtaining a bond would be in the beneficiary's interest. Such special circumstances may include but are not limited to:
 
@@ -46,8 +48,8 @@ Link to an amendment published at 87 FR 29673, May 16, 2022.
 
 (2) VA may collect on the bond regardless of any prior reissuance of benefits by VA under § 13.410 and until liability under the terms of the bond is exhausted.
 
-(g) *Bond expenses* - (1) *Authority.* The fiduciary may deduct from the beneficiary's account any expense related to obtaining, maintaining, or adjusting a bond prescribed by this section.
+(g) *Bond expenses*—(1) *Authority.* The fiduciary may deduct from the beneficiary's account any expense related to obtaining, maintaining, or adjusting a bond prescribed by this section.
 
 (2) *Notice.* The Hub Manager will provide the beneficiary written notice regarding any bond furnished at the beneficiary's expense under paragraph (a), (b), or (c)(2) of this section or adjusted under paragraph (d)(2) of this section.
 
-(Authority: 38 U.S.C. 501, 5502, 5507)(Approved by the Office of Management and Budget under control numbers 2900-0017 and 2900-0804)
+(Authority: 38 U.S.C. 501, 5502, 5507)(Approved by the Office of Management and Budget under control numbers 2900-0017 and 2900-0804)[83 FR 32738, July 13, 2018, as amended at 87 FR 29673, May 16, 2022]

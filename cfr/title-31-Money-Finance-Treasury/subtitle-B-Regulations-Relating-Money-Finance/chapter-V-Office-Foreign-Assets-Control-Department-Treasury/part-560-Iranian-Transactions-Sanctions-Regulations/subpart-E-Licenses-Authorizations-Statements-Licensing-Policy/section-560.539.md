@@ -12,6 +12,10 @@
 
 (5) The operation of accounts for employees, contractors, and grantees located in Iran of the international organizations covered in this section. Transactions conducted through these accounts must be solely for the employee's, contractor's, or grantee's personal use and not for any commercial purposes in or involving Iran. Any funds transfers to or from an Iranian bank must be routed through a third-country bank that is not a United States person or an entity owned or controlled by a United States person and established or maintained outside the United States.
 
+Note 1 to paragraph (a):
+
+For an organizational chart listing the Specialized Agencies, Programmes, Funds, and Related Organizations of the United Nations, see the following page on the United Nations website: *http://www.unsceb.org/directory.*
+
 (b) *Limitations.* This section does not authorize:
 
 (1) The exportation from the United States to Iran of any goods or technology listed on the Commerce Control List in the Export Administration Regulations, 15 CFR part 774, supplement No. 1 (CCL);

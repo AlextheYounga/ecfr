@@ -1,8 +1,6 @@
 ##### § 447.10 Prohibition against reassignment of provider claims. #####
 
-Link to an amendment published at 87 FR 29690, May 16, 2022.
-
-(a) *Basis and purpose.* This section implements section 1902(a)(32) of the Act which prohibits State payments for Medicaid services to anyone other than a provider or beneficiary, except in specified circumstances.
+(a) *Basis and purpose.* This section implements section 1902(a)(32) of the Act which prohibits State payments for Medicaid services to anyone other than a provider or beneficiary, under an assignment, power of attorney, or similar arrangement, except in specified circumstances.
 
 (b) *Definitions.* For purposes of this section:
 
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 29690, May 16, 2022.
 
 (c) *State plan requirements.* A State plan must provide that the requirements of paragraphs (d) through (h) of this section are met.
 
-(d) *Who may receive payment.* Payment may be made only -
+(d) *Who may receive payment.* Payment may be made only—
 
 (1) To the provider; or
 
@@ -24,7 +22,7 @@ Link to an amendment published at 87 FR 29690, May 16, 2022.
 
 (e) *Reassignments.* Payment may be made in accordance with a reassignment from the provider to a government agency or reassignment by a court order.
 
-(f) *Business agents.* Payment may be made to a business agent, such as a billing service or an accounting firm, that furnishes statements and receives payments in the name of the provider, if the agent's compensation for this service is -
+(f) *Business agents.* Payment may be made to a business agent, such as a billing service or an accounting firm, that furnishes statements and receives payments in the name of the provider, if the agent's compensation for this service is—
 
 (1) Related to the cost of processing the billing;
 
@@ -32,7 +30,7 @@ Link to an amendment published at 87 FR 29690, May 16, 2022.
 
 (3) Not dependent upon the collection of the payment.
 
-(g) *Individual practitioners.* Payment may be made to -
+(g) *Individual practitioners.* Payment may be made to—
 
 (1) The employer of the practitioner, if the practitioner is required as a condition of employment to turn over his fees to the employer;
 
@@ -42,4 +40,6 @@ Link to an amendment published at 87 FR 29690, May 16, 2022.
 
 (h) *Prohibition of payment to factors.* Payment for any service furnished to a beneficiary by a provider may not be made to or through a factor, either directly or by power of attorney.
 
-[43 FR 45253, Sept. 29, 1978, as amended at 46 FR 42672, Aug. 24, 1981; 61 FR 38398, July 24, 1996; 79 FR 3039, Jan. 16, 2014; 84 FR 19728, May 6, 2019]
+(i) The payment prohibition in section 1902(a)(32) of the Act and paragraph (d) of this section does not apply to payments to a third party on behalf of an individual practitioner for benefits such as health insurance, skills training, and other benefits customary for employees, in the case of a class of practitioners for which the Medicaid program is the primary source of revenue, if the practitioner voluntarily consents to such payments to third parties on the practitioner's behalf.
+
+[43 FR 45253, Sept. 29, 1978, as amended at 46 FR 42672, Aug. 24, 1981; 61 FR 38398, July 24, 1996; 79 FR 3039, Jan. 16, 2014; 84 FR 19728, May 6, 2019; 87 FR 29690, May 16, 2022]

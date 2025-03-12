@@ -1,7 +1,5 @@
 ##### § 110.195 Mississippi River below Baton Rouge, LA, including South and Southwest Passes. #####
 
-Link to an amendment published at 87 FR 29670, May 16, 2022.
-
 (a) *The Anchorage Grounds.* Unless otherwise specified, all anchorage widths are measured from the average low water plane (ALWP).
 
 (1) *Pilottown Anchorage.* An area 5.2 miles in length along the right descending bank of the river from mile 1.5 to mile 6.7 above Head of Passes, extending in width to 1600 feet from the left descending bank of the river.
@@ -14,35 +12,59 @@ Caution: A pipeline crossing exists at mile 9.8 AHOP. Mariners are urged to use 
 
 (3) *Upper Venice Anchorage.* An area 1.2 miles in length along the left descending bank of the river from mile 10.0 to mile 11.2 above Head of Passes with the west limit 1,200 feet from the ALWP of the right descending bank.
 
-(4) *Boothville Anchorage.* An area 5.5 miles in length along the right descending bank of the river extending from mile 13.0 to mile 18.5 above Head of Passes. The width of the anchorage is 750 feet. The inner boundary of the anchorage is a line parallel to the nearest bank 250 feet from the water's edge into the river as measured from the Low Water Reference Plane (LWRP). The outer boundary of the anchorage is a line parallel to the nearest bank 1,000 feet from the water's edge into the river as measured from the LWRP.
+(4) *Boothville Anchorage.* An area, 6.45 miles in length, along the right descending bank of the river extending from mile 12.05 to mile 18.5 Above Head of Passes. The width of the anchorage is 750 feet. The inner boundary of the anchorage is a line parallel to the nearest bank 250 feet from the water's edge into the river as measured from the Low Water Reference Plane (LWRP). The outer boundary of the anchorage is a line parallel to the nearest bank 1,000 feet from the water's edge into the river as measured from the LWRP.
+
+Note 1 to paragraph (a)(4):
+
+Venice Revetment extends/runs adjacent to this anchorage. Mariners are urged to use caution in this anchorage.
 
 (5) *Ostrica Anchorage.* An area 1.4 miles in length along the right descending bank of the river extending from mile 23.0 to mile 24.4 above Head of Passes. The width of the anchorage is 800 feet.
 
 (6) *Port Sulphur Anchorage.* An area 2.2 miles in length along the left descending bank of the river, 800 feet wide, extending from mile 37.5 to mile 39.7 above Head of Passes.
 
-(7) *Magnolia Anchorage.* An area 2.1 miles in length along the right descending bank of the river extending from mile 45.5 to mile 47.6 above Head of Passes. The width of the anchorage is 700 feet. The inner boundary of the anchorage is a line parallel to the nearest bank 400 feet from the water's edge into the river as measured from the LWRP. The outer boundary of the anchorage is a line parallel to the nearest bank 1,100 feet from the water's edge into the river as measured from the LWRP.
+(7) *Magnolia Anchorage.* An area, 2.2 miles in length, along the right descending bank of the river extending from mile 45.4 to mile 47.6 Above Head of Passes. The width of the anchorage is 700 feet. The inner boundary of the anchorage is a line parallel to the nearest bank 400 feet from the water's edge into the river as measured from the LWRP. The outer boundary of the anchorage is a line parallel to the nearest bank 1,100 feet from the water's edge into the river as measured from the LWRP.
+
+Note 2 to paragraph (a)(7):
+
+Point Michel and Diamond Revetments extend/run adjacent to this anchorage. Mariners are urged to use caution in this anchorage.
 
 (8) *Point Celeste Anchorage.* An area 2.2 miles in length along the right descending bank of the river extending from mile 49.8 to mile 52.0 above Head of Passes. The width of the anchorage is 400 feet. The inner boundary of the anchorage is a line parallel to the nearest bank 400 feet from the water's edge into the river as measured from the LWRP. The outer boundary of the anchorage is a line parallel to the nearest bank 800 feet from the water's edge into the river as measured from the LWRP.
 
-(9) *Davant Anchorage.* An area 1.1 miles in length along the left descending bank of the river extending from mile 52.8 to mile 53.9 above Head of Passes. The width of the anchorage is 800 feet.
+(9) *Davant Anchorage.* An area, 1.4 miles in length, along the left descending bank of the river extending from mile 52.5 to mile 53.9 Above Head of Passes. The width of the anchorage is 800 feet.
 
 (10) *Alliance Anchorage.* An area 2.0 miles in length along the right descending bank of the river extending from mile 63.8 to mile 65.8 above Head of Passes. The width of the anchorage is 400 feet. The inner boundary of the anchorage is a line parallel to the nearest bank 400 feet from the water's edge into the river as measured from the LWRP. The outer boundary of the anchorage is a line parallel to the nearest bank 800 feet from the water's edge into the river as measured from the LWRP.
 
-(11) *Wills Point Anchorage.* An area 1.1 miles in length along the left descending bank of the river extending from mile 66.5 to mile 67.6 above Head of Passes. The width of the anchorage is 600 feet. The inner boundary of the anchorage is a line parallel to the nearest bank 200 feet from the water's edge into the river as measured from the LWRP. The outer boundary of the anchorage is a line parallel to the nearest bank 800 feet from the water's edge into the river as measured from the LWRP.
+(11) *Wills Point Anchorage.* An area, 1.1 miles in length, along the left descending bank of the river extending from mile 66.5 to mile 67.6 Above Head of Passes. The width of the anchorage is 500 feet. The inner boundary of the anchorage is a line parallel to the nearest bank 200 feet from the water's edge into the river as measured from the LWRP. The outer boundary of the anchorage is a line parallel to the nearest bank 700 feet from the water's edge into the river as measured from the LWRP.
 
-(12) *Cedar Grove Anchorage.* An area, 1.34 miles in length along the right descending bank of the river extending from mile 69.56 to mile 70.9 Above Head of Passes. The width of the anchorage is 500 feet. The inner boundary of the anchorage, mile 69.56 to mile 70.9, is a line parallel to the nearest bank 200 feet from the water's edge into the river as measured from the LWRP. The outer boundary of the anchorage is a line parallel to the nearest bank 700 feet from the water's edge into the river as measured from the LWRP.
+(12) *Cedar Grove Anchorage.* An area, 1.34 miles in length, along the right descending bank of the river extending from mile 69.56 to mile 70.9 Above Head of Passes. The width of the anchorage is 500 feet. The inner boundary of the anchorage is a line parallel to the nearest bank 200 feet from the water's edge into the river as measured from the LWRP. The outer boundary of the anchorage is a line parallel to the nearest bank 700 feet from the water's edge into the river as measured from the LWRP.
 
-(13) *Belle Chasse Anchorage.* An area 2.1 miles in length along the right descending bank of the river extending from mile 73.1 to mile 75.2 above Head of Passes. The width of the anchorage is 575 feet. The inner boundary of the anchorage is a line parallel to the nearest bank 425 feet from the water's edge into the river as measured from the LWRP. The outer boundary of the anchorage is a line parallel to the nearest bank 1,000 feet from the water's edge into the river as measured from the LWRP.
+Note 3 to paragraph (*a*)(12):
 
-(14) *Lower 12 Mile Point Anchorage.* An area 2.2 miles in length along the right descending bank of the river extending from mile 78.6 to mile 80.8 above Head of Passes. The width of the anchorage is 500 feet. The inner boundary of the anchorage is a line parallel to the nearest bank 300 feet from the water's edge into the river as measured from the LWRP. The outer boundary of the anchorage is a line parallel to the nearest bank 800 feet from the water's edge into the river as measured from the LWRP.
+Jesuit Bend Revetment extends/runs adjacent to the lower portion of this anchorage. Mariners are urged to use caution in this anchorage.
 
-(15) *Lower 9 Mile Point Anchorage.* An area 2.3 miles in length along the right descending bank of the river extending from mile 82.7 to mile 85.0 above Head of Passes. The width of the anchorage is 500 feet. The inner boundary of the anchorage is a line parallel to the nearest bank 300 feet from the water's edge into the river as measured from the LWRP. The outer boundary of the anchorage is a line parallel to the nearest bank 800 feet from the water's edge into the river as measured from the LWRP.
+(13) *Belle Chasse Anchorage.* An area, 2.15 miles in length, along the right descending bank of the river extending from mile 73.05 to mile 75.2 Above Head of Passes. The width of the anchorage is 500 feet. The inner boundary of the anchorage is a line parallel to the nearest bank 375 feet from the water's edge into the river as measured from the LWRP. The outer boundary of the anchorage is a line parallel to the nearest bank 875 feet from the water's edge into the river as measured from the LWRP.
+
+Note 4 to paragraph (a)(13):
+
+Oak Point Revetment extends/runs adjacent to the lower portion of this anchorage. Mariners are urged to use caution in this anchorage.
+
+(14) *Lower 12 Mile Point Anchorage.* An area, 2.2 miles in length, along the right descending bank of the river extending from mile 78.6 to mile 80.8 Above Head of Passes. The width of the anchorage is 500 feet. The inner boundary of the anchorage is a line parallel to the nearest bank 300 feet from the water's edge into the river as measured from the LWRP. The outer boundary of the anchorage is a line parallel to the nearest bank 800 feet from the water's edge into the river as measured from the LWRP.
+
+Note 5 to paragraph (a)(14):
+
+English Turn Revetment extends/runs adjacent to the lower portion of this anchorage. Mariners are urged to use caution in this anchorage.
+
+(15) *Lower 9 Mile Anchorage.* An area, 2.4 miles in length, along the right descending bank of the river extending from mile 82.6 to mile 85.0 Above Head of Passes. The width of the anchorage is 500 feet. The inner boundary of the anchorage is a line parallel to the nearest bank 300 feet from the water's edge into the river as measured from the LWRP. The outer boundary of the anchorage is a line parallel to the nearest bank 800 feet from the water's edge into the river as measured from the LWRP.
+
+Note 6 to paragraph (a)(15):
+
+Twelve Mile Point Revetment extends/runs adjacent to the lower portion of this anchorage. Mariners are urged to use caution in this anchorage.
 
 *Caution: A wreck is located within the boundaries of this anchorage. Mariners are urged to use caution in this anchorage.*
 
 (16) *New Orleans Emergency Anchorage.* An area 0.5 miles in length along the right descending bank of the river extending from mile 89.6 to mile 90.1 above Head of Passes. The width of the anchorage is 550 feet. The inner boundary of the anchorage is a line parallel to the nearest bank 250 feet from the water's edge into the river as measured from the LWRP. The outer boundary of the anchorage is a line parallel to the nearest bank 800 feet from the water's edge into the river as measured from the LWRP.
 
-Note:
+Note 7 to paragraph (a)(16):
 
 No vessel shall occupy this anchorage unless expressly authorized by the Captain of the Port. No vessel may anchor in this anchorage exceeding 24 hours without the authorization of the Captain of the Port.
 
@@ -52,7 +74,7 @@ No vessel shall occupy this anchorage unless expressly authorized by the Captain
 
 *Caution: A wreck is located within the boundaries of this anchorage. Mariners are urged to use caution in this anchorage.*
 
-Note:
+Note 8 to paragraph (a)(18):
 
 Vessels carrying cargos of particular hazard as defined in 33 CFR 126.10 or cargos of petroleum products in bulk may not be anchored in the New Orleans General Anchorage or the Quarantine Anchorage without permission from the Captain of the Port.
 
@@ -68,7 +90,7 @@ Vessels carrying cargos of particular hazard as defined in 33 CFR 126.10 or carg
 
 (22) *Bonnet Carre Anchorage.* An area 1.5 miles in length along the left descending bank of the river extending from mile 127.3 to mile 128.8 above Head of Passes. This area is located adjacent to the river end of the Bonnet Carre Spillway. The width of the anchorage is 600 feet.
 
-Note:
+Note 9 to paragraph (a)(22):
 
 When the Bonnet Carre Spillway is open, no vessel may be anchored in the Bonnet Carre Anchorage.
 
@@ -98,9 +120,19 @@ When the Bonnet Carre Spillway is open, no vessel may be anchored in the Bonnet 
 
 (34) *Belmont Anchorage.* An area 1.1 miles in length along the left descending bank of the river extending from mile 152.9 (Belmont Light) to mile 154.0 above Head of Passes. The width of the anchorage is 300 feet. The inner boundary of the anchorage is a line parallel to the nearest bank 400 feet from the water's edge into the river as measured from the LWRP. The outer boundary of the anchorage is a line parallel to the nearest bank 700 feet from the water's edge into the river as measured from the LWRP.
 
-(35) *Point Michel Anchorage.* An area, 1.4 miles in length, along the right descending bank of the river extending from mile 40.8 to mile 42.2 Above Head of Passes. The width of the anchorage is 500 feet. The inner boundary of the anchorage is a line parallel to the nearest bank 325 feet from the water's edge into the river as measured from the LWRP. The outer boundary of the anchorage is a line parallel to the nearest bank 825 feet from the water's edge into the river as measured from the LWRP.
+(35) *Point Michel Anchorage.* An area, 2.2 miles in length, along the right descending bank of the river extending from mile 40.0 to mile 42.2 Above Head of Passes. The width of the anchorage is 500 feet. The inner boundary of the anchorage is a line parallel to the nearest bank 325 feet from the water's edge into the river as measured from the LWRP. The outer boundary of the anchorage is a line parallel to the nearest bank 825 feet from the water's edge into the river as measured from the LWRP.
+
+Note 10 to paragraph (a)(35):
+
+Point Michel Revetment extends/runs adjacent to this anchorage. Mariners are urged to use caution in this anchorage.
 
 (36) *Plaquemines Point Anchorage.* An area, 0.5 miles in length, along the right descending bank of the river extending from mile 203.9 to mile 204.4 Above Head of Passes. The width of the anchorage is 500 feet. The inner boundary of the anchorage is a line parallel to the nearest bank 400 feet from the water's edge into the river as measured from the LWRP. The outer boundary of the anchorage is a line parallel to the nearest bank 900 feet from the water's edge into the river as measured from the LWRP.
+
+(37) *Phoenix Anchorage.* An area, 0.6 miles in length, along the left descending bank of the river extending from mile 57.82 to mile 58.42 Above Head of Passes. The width of the anchorage is 400 feet. The inner boundary of the anchorage is a line parallel to the nearest bank 400 feet from the water's edge into the river as measured from the LWRP. The outer boundary of the anchorage is a line parallel to the nearest bank 800 feet from the water's edge into the river as measured from the LWRP.
+
+Note 11 to paragraph (a)(37):
+
+Myrtle Grove Revetment extends/runs adjacent to this anchorage. Mariners are urged to use caution in this anchorage.
 
 (b) *Temporary Anchorages.* (1) Temporary anchorages are non-permanent anchorages established by the Commander, Eighth Coast Guard District to provide additional anchorage space. Establishment of temporary anchorages is based on recommendations by the Captain of the Port.
 
@@ -122,7 +154,7 @@ When the Bonnet Carre Spillway is open, no vessel may be anchored in the Bonnet 
 
 (6) The intention to transfer any cargo while in an anchorage shall be reported to the Captain of the Port, giving particulars as to name of ships involved, quantity and type of cargo, and expected duration of the operation. The Captain of the Port shall be notified upon completion of operations. Cargo transfer operations are not permitted in the New Orleans General or Quarantine Anchorages. Bunkering and similar operations related to ship's stores are exempt from reporting requirements.
 
-Note:
+Note 12 to paragraph (c)(6):
 
 Activities conducted within a designated anchorage (e.g. cargo transfer, tank cleaning, stack blowing, etc.) may be restricted by other Federal, State or local regulations. Owners, or persons in charge of any vessel should consider all safety and/or environmental regulations prior to engaging in any activity within designated anchorages.
 
