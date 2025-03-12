@@ -1,7 +1,5 @@
 ##### § 17.96 Critical habitat - plants. #####
 
-Link to an amendment published at 82 FR 42259, September 7, 2017.
-
 (a) *Flowering plants.*
 
 Family Agavaceae: *Agave eggersiana* (No Common Name)
@@ -4934,7 +4932,27 @@ Family Phrymaceae: *Diplacus vandenbergensis* (Vandenberg monkeyflower)
 
 (9) Unit 4: Anvil Points, Garfield County, Colorado. Note: Map of Unit 4 of critical habitat for *Penstemon debilis* follows:
 
-![](/graphics/er13au12.007.gif)Family Poaceae: *Neostapfia colusana* (Colusa Grass)
+![](/graphics/er13au12.007.gif)Family Poaceae: *Festuca ligulata* (Guadalupe fescue)
+
+(1) A critical habitat unit, including five subunits, is depicted for Brewster County, Texas, on the map below.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Guadalupe fescue consist of:
+
+(i) Areas within the Chihuahuan Desert:
+
+(A) Above elevations of 1,800 m (5,905 ft), and
+
+(B) That contain rocky or talus soils.
+
+(ii) Associated vegetation characterized by relatively open stands of both conifer and oak trees in varying proportions. This vegetation may occur in areas classified as pine, conifer, pine-oak, or conifer-oak, and as forest or woodland, on available vegetation classification maps.
+
+(3) Critical habitat does not include manmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on October 10, 2017.
+
+(4) *Critical habitat map units.* We defined the critical habitat unit using the following Geographic Information System data layers: A Digital Elevation Model produced by the U.S. Geological Survey; and a Shapefile of vegetation classifications at Big Bend National Park, created and provided to us by Park personnel. The map in this entry, as modified by any accompanying regulatory text, establishes the boundaries of the critical habitat designation. The coordinates or plot points or both on which the map is based are available to the public at the Service's Internet site (*https://www.fws.gov/southwest/es/AustinTexas/ESA\_Our\_species.html*), at *http://www.regulations.gov* at Docket No. FWS-R2-ES-2016-0099 and FWS-R2-ES-2016-0100, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Map of Unit 1, Big Bend National Park, Brewster County, Texas, follows:
+
+![](/graphics/er07se17.000.gif)Family Poaceae: *Neostapfia colusana* (Colusa Grass)
 
 (1) Critical habitat units are depicted for Mariposa, Merced, Stanislaus, Tuolumne, and Yolo Counties, California, on the map below.
 
@@ -6752,4 +6770,4 @@ Map follows:
 
 (b) [Reserved]
 
-Editorial Note:For Federal Register citations affecting § 17.96, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+Editorial Note:For Federal Register citations affecting § 17.96, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
