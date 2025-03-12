@@ -1,10 +1,8 @@
 ##### 52.219-1 Small Business Program Representations. #####
 
-Link to an amendment published at 85 FR 11769, Feb. 27, 2020.
-
 As prescribed in 19.309(a)(1), insert the following provision:
 
-Small Business Program Representations (OCT 2014)
+Small Business Program Representations (MAR 2020)
 
 (a) *Definitions.* As used in this provision -
 
@@ -50,7 +48,7 @@ Small Business Program Representations (OCT 2014)
 
 (2) The small business size standard is \_\_\_\_[*insert size standard*].
 
-(3) The small business size standard for a concern which submits an offer in its own name, other than on a construction or service contract, but which proposes to furnish a product which it did not itself manufacture, is 500 employees.
+(3) The small business size standard for a concern which submits an offer in its own name, other than on a construction or service contract, but which proposes to furnish a product which it did not itself manufacture (*i.e.,* nonmanufacturer), is 500 employees.
 
 (c) *Representations.* (1) The offeror represents as part of its offer that it □ is, □ is not a small business concern.
 
@@ -80,15 +78,13 @@ Small Business Program Representations (OCT 2014)
 
 (ii) It □ is, □ is not a HUBZone joint venture that complies with the requirements of 13 CFR Part 126, and the representation in paragraph (c)(8)(i) of this provision is accurate for each HUBZone small business concern participating in the HUBZone joint venture. [*The offeror shall enter the names of each of the HUBZone small business concerns participating in the HUBZone joint venture:* \_\_\_\_.] Each HUBZone small business concern participating in the HUBZone joint venture shall submit a separate signed copy of the HUBZone representation.
 
-(d) *Notice.* (1) If this solicitation is for supplies and has been set aside, in whole or in part, for small business concerns, then the clause in this solicitation providing notice of the set-aside contains restrictions on the source of the end items to be furnished.
+(d) *Notice.* Under 15 U.S.C. 645(d), any person who misrepresents a firm's status as a business concern that is small, HUBZone small, small disadvantaged, service-disabled veteran-owned small, economically disadvantaged women-owned small, or women-owned small eligible under the WOSB Program in order to obtain a contract to be awarded under the preference programs established pursuant to section 8, 9, 15, 31, and 36 of the Small Business Act or any other provision of Federal law that specifically references section 8(d) for a definition of program eligibility, shall -
 
-(2) Under 15 U.S.C. 645(d), any person who misrepresents a firm's status as a business concern that is small, HUBZone small, small disadvantaged, service-disabled veteran-owned small, economically disadvantaged women-owned small, or women-owned small eligible under the WOSB Program in order to obtain a contract to be awarded under the preference programs established pursuant to section 8, 9, 15, 31, and 36 of the Small Business Act or any other provision of Federal law that specifically references section 8(d) for a definition of program eligibility, shall -
+(1) Be punished by imposition of fine, imprisonment, or both;
 
-(i) Be punished by imposition of fine, imprisonment, or both;
+(2) Be subject to administrative remedies, including suspension and debarment; and
 
-(ii) Be subject to administrative remedies, including suspension and debarment; and
-
-(iii) Be ineligible for participation in programs conducted under the authority of the Act.
+(3) Be ineligible for participation in programs conducted under the authority of the Act.
 
 (End of provision)
 
@@ -107,5 +103,29 @@ Small Business Program Representations (OCT 2014)
 \_\_ Subcontinent Asian (Asian-Indian) American (persons with origins from India, Pakistan, Bangladesh, Sri Lanka, Bhutan, the Maldives Islands, or Nepal).
 
 \_\_ Individual/concern, other than one of the preceding.
+
+*Alternate II* (MAR 2020). As prescribed in 19.309(a)(3), substitute the following paragraphs (b) and (c)(1) for paragraphs (b) and (c)(1) of the basic provision:
+
+(b)(1) The North American Industry Classification System (NAICS) codes and corresponding size standards for this acquisition are as follows; the categories or portions these NAICS codes are assigned to are specified elsewhere in the solicitation:
+
+|    NAICS code    |  Size standard   |
+|------------------|------------------|
+|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|
+|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|
+|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|
+
+[Contracting Officer to insert NAICS codes and size standards].
+
+(2) The small business size standard for a concern which submits an offer in its own name, other than on a construction or service contract, but which proposes to furnish a product which it did not itself manufacture (*i.e.,* nonmanufacturer), is 500 employees.
+
+(c) *Representations.* (1) The Offeror shall represent its small business size status for each one of the NAICS codes assigned to this acquisition under which it is submitting an offer.
+
+|    NAICS code    |Small business  <br/>concern  <br/>(yes/no)|
+|------------------|-------------------------------------------|
+|\_\_\_\_\_\_\_\_\_|            \_\_\_\_\_\_\_\_\_             |
+|\_\_\_\_\_\_\_\_\_|            \_\_\_\_\_\_\_\_\_             |
+|\_\_\_\_\_\_\_\_\_|            \_\_\_\_\_\_\_\_\_             |
+
+[Contracting Officer to insert NAICS codes.]
 
 [60 FR 48264, Sept. 18, 1995]Editorial Note:For Federal Register citations affecting section 52.219-1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

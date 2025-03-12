@@ -1,10 +1,8 @@
 ##### 52.219-9 Small Business Subcontracting Plan. #####
 
-Link to an amendment published at 85 FR 11770, Feb. 27, 2020.
-
 As prescribed in 19.708(b), insert the following clause:
 
-Small Business Subcontracting Plan (AUG 2018)
+Small Business Subcontracting Plan (MAR 2020)
 
 (a) This clause does not apply to small business concerns.
 
@@ -227,7 +225,7 @@ Small Business Subcontracting Plan (AUG 2018)
 
 (ii)(A) When a subcontracting plan contains separate goals for the basic contract and each option, as prescribed by FAR 19.704(c), the dollar goal inserted on this report shall be the sum of the base period through the current option; for example, for a report submitted after the second option is exercised, the dollar goal would be the sum of the goals for the basic contract, the first option, and the second option.
 
-(B) If a subcontracting plan has been added to the contract pursuant to 19.702(a)(3) or 19.301-2(e), the Contractor's achievements must be reported in the ISR on a cumulative basis from the date of incorporation of the subcontracting plan into the contract.
+(B) If a subcontracting plan has been added to the contract pursuant to 19.702(a)(1)(iii) or 19.301-2(e), the Contractor's achievements must be reported in the ISR on a cumulative basis from the date of incorporation of the subcontracting plan into the contract.
 
 (iii) When a subcontracting plan includes indirect costs in the goals, these costs must be included in this report.
 
@@ -263,15 +261,15 @@ Small Business Subcontracting Plan (AUG 2018)
 
 (End of clause)
 
-*Alternate I (NOV 2016).* As prescribed in 19.708(b)(1)(i), substitute the following paragraph (c)(1) for paragraph (c)(1) of the basic clause:
+*Alternate I* (NOV 2016). As prescribed in 19.708(b)(1)(i), substitute the following paragraph (c)(1) for paragraph (c)(1) of the basic clause:
 
 (c)(1) The apparent low bidder, upon request by the Contracting Officer, shall submit a subcontracting plan, where applicable, that separately addresses subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns. If the bidder is submitting an individual subcontracting plan, the plan must separately address subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns, with a separate part for the basic contract and separate parts for each option (if any). The plan shall be included in and made a part of the resultant contract. The subcontracting plan shall be submitted within the time specified by the Contracting Officer. Failure to submit the subcontracting plan shall make the bidder ineligible for the award of a contract.
 
-*Alternate II (NOV 2016).* As prescribed in 19.708(b)(1)(ii), substitute the following paragraph (c)(1) for paragraph (c)(1) of the basic clause:
+*Alternate II* (NOV 2016). As prescribed in 19.708(b)(1)(ii), substitute the following paragraph (c)(1) for paragraph (c)(1) of the basic clause:
 
 (c)(1) Proposals submitted in response to this solicitation shall include a subcontracting plan that separately addresses subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns. If the Offeror is submitting an individual subcontracting plan, the plan must separately address subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns, with a separate part for the basic contract and separate parts for each option (if any). The plan shall be included in and made a part of the resultant contract. The subcontracting plan shall be negotiated within the time specified by the Contracting Officer. Failure to submit and negotiate a subcontracting plan shall make the Offeror ineligible for award of a contract.
 
-*Alternate III (JAN 2017).* As prescribed in 19.708(b)(1)(iii), substitute the following paragraphs (d)(10) and (l) for paragraphs (d)(10) and (l) in the basic clause:
+*Alternate III* (MAR 2020). As prescribed in 19.708(b)(1)(iii), substitute the following paragraphs (d)(10) and (l) for paragraphs (d)(10) and (l) in the basic clause:
 
 (d)(10) Assurances that the Offeror will -
 
@@ -291,7 +289,7 @@ Small Business Subcontracting Plan (AUG 2018)
 
 (ii)(A) When a subcontracting plan contains separate goals for the basic contract and each option, as prescribed by FAR 19.704(c), the dollar goal inserted on this report shall be the sum of the base period through the current option; for example, for a report submitted after the second option is exercised, the dollar goal would be the sum of the goals for the basic contract, the first option, and the second option.
 
-(B) If a subcontracting plan has been added to the contract pursuant to 19.702(a)(3) or 19.301-2(e), the Contractor's achievements must be reported in the report on a cumulative basis from the date of incorporation of the subcontracting plan into the contract.
+(B) If a subcontracting plan has been added to the contract pursuant to 19.702(a)(1)(iii) or 19.301-2(e), the Contractor's achievements must be reported in the report on a cumulative basis from the date of incorporation of the subcontracting plan into the contract.
 
 (iii) When a subcontracting plan includes indirect costs in the goals, these costs must be included in this report.
 

@@ -1,14 +1,12 @@
 ##### 19.402 Small Business Administration procurement center representatives. #####
 
-Link to an amendment published at 85 FR 11760, Feb. 27, 2020.
+(a)(1) The SBA may assign one or more procurement center representatives (PCRs) to any contracting activity or contract administration office to carry out SBA policies and programs. Assigned SBA PCRs are required to comply with the contracting agency's directives governing the conduct of contracting personnel and the release of contract information. The SBA must obtain for its PCRs security clearances required by the contracting agency.
 
-(a)(1) The SBA may assign one or more procurement center representatives to any contracting activity or contract administration office to carry out SBA policies and programs. Assigned SBA procurement center representatives are required to comply with the contracting agency's directives governing the conduct of contracting personnel and the release of contract information. The SBA must obtain for its procurement center representatives security clearances required by the contracting agency.
+(2) If an SBA PCR is not assigned to the procuring activity or contract administration office, contact the SBA Office of Government Contracting Area Office serving the area in which the procuring activity is located for assistance in carrying out SBA policies and programs. See *https://www.sba.gov/federal-contracting/counseling-help/procurement-center-representative-directory* for the location of the SBA office servicing the activity.
 
-(2) If a SBA procurement center representative is not assigned to the procuring activity or contract administration office, contact the SBA Office of Government Contracting Area Office serving the area in which the procuring activity is located for assistance in carrying out SBA policies and programs. See *http://www.sba.gov/content/procurement-center-representatives* for the location of the SBA office servicing the activity.
+(b) Upon their request and subject to applicable acquisition and security regulations, contracting officers shall give SBA PCRs (or, if a PCR is not assigned, see paragraph (a) of this section) access to all reasonably obtainable contract information that is directly pertinent to their official duties.
 
-(b) Upon their request and subject to applicable acquisition and security regulations, contracting officers shall give SBA procurement center representatives (or, if a procurement center representative is not assigned, see paragraph (a) of this section) access to all reasonably obtainable contract information that is directly pertinent to their official duties.
-
-(c) The duties assigned by SBA to its procurement center representatives include the following:
+(c) The duties assigned by SBA to its PCR are set forth at 13 CFR 125.2(b) and include but are not limited to the following:
 
 (1) Reviewing proposed acquisitions to recommend -
 
@@ -28,4 +26,4 @@ Link to an amendment published at 85 FR 11760, Feb. 27, 2020.
 
 (6) Sponsoring and participating in conferences and training designed to increase small business participation in the contracting activities of the office.
 
-[48 FR 42240, Sept. 19, 1983, as amended at 51 FR 19715, May 30, 1986; 56 FR 67132, Dec. 27, 1991; 60 FR 48261, Sept. 18, 1995; 63 FR 70269, Dec. 18, 1998; 65 FR 60545, Oct. 11, 2000; 68 FR 43856, July 24, 2003; 71 FR 36925, June 28, 2006; 76 FR 18310, Apr. 1, 2011; 77 FR 204, Jan. 3, 2012; 79 FR 43588, July 25, 2014]
+[48 FR 42240, Sept. 19, 1983, as amended at 51 FR 19715, May 30, 1986; 56 FR 67132, Dec. 27, 1991; 60 FR 48261, Sept. 18, 1995; 63 FR 70269, Dec. 18, 1998; 65 FR 60545, Oct. 11, 2000; 68 FR 43856, July 24, 2003; 71 FR 36925, June 28, 2006; 76 FR 18310, Apr. 1, 2011; 77 FR 204, Jan. 3, 2012; 79 FR 43588, July 25, 2014; 85 FR 11760, Feb. 27, 2020]

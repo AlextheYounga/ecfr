@@ -1,7 +1,5 @@
 ##### 19.708 Contract clauses. #####
 
-Link to an amendment published at 85 FR 11765, Feb. 27, 2020.
-
 (a) Insert the clause at 52.219-8, Utilization of Small Business Concerns, in solicitations and contracts when the contract amount is expected to exceed the simplified acquisition threshold unless -
 
 (1) A personal services contract is contemplated (see 37.104); or
@@ -16,7 +14,7 @@ Link to an amendment published at 85 FR 11765, Feb. 27, 2020.
 
 (iii) The contract action will not be reported in the Federal Procurement Data System pursuant to 4.606(c)(5) or (c)(6), the contracting officer shall use the clause with its Alternate III; or
 
-(iv) Incorporating a subcontracting plan due to a modification as provided for in 19.702(a)(3), the contracting officer shall use the clause with its Alternate IV.
+(iv) Incorporating a subcontracting plan due to a modification as provided for in 19.702(a)(1)(iii), the contracting officer shall use the clause with its Alternate IV.
 
 (2) Insert the clause at 52.219-16, Liquidated Damages - Subcontracting Plan, in all solicitations and contracts containing the clause at 52.219-9, Small Business Subcontracting Plan, or the clause with its  *Alternate I, II, III, or IV.*
 

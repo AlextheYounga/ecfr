@@ -1,7 +1,5 @@
 ##### 19.1503 Status. #####
 
-Link to an amendment published at 85 FR 11767, Feb. 27, 2020.
-
 (a) Status as an EDWOSB concern or WOSB concern eligible under the WOSB Program is determined in accordance with 13 CFR part 127.
 
 (b) The contracting officer shall verify that the offeror -
@@ -56,6 +54,4 @@ Link to an amendment published at 85 FR 11767, Feb. 27, 2020.
 
 (f) A joint venture may be considered an EDWOSB concern or WOSB concern eligible under the WOSB Program if it meets the requirements of 13 CFR 127.506.
 
-(g) An EDWOSB concern or WOSB concern eligible under the WOSB Program that is a non-manufacturer, as defined in 13 CFR 121.406(b), may submit an offer on a requirement set aside for an EDWOSB concern or a WOSB concern eligible under the WOSB Program with a NAICS code for supplies, if it meets the requirements under the non-manufacturer rule set forth in that regulation.
-
-[77 FR 12917, Mar. 2, 2012, as amended at 78 FR 37679, June 21, 2013; 83 FR 42573, Aug. 22, 2018]
+[77 FR 12917, Mar. 2, 2012, as amended at 78 FR 37679, June 21, 2013; 83 FR 42573, Aug. 22, 2018; 85 FR 11767, Feb. 27, 2020]

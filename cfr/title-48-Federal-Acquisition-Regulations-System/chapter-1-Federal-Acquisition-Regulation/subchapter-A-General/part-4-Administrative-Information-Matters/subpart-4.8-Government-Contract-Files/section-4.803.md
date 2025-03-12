@@ -1,7 +1,5 @@
 ##### 4.803 Contents of contract files. #####
 
-Link to an amendment published at 85 FR 11756, Feb. 27, 2020.
-
 The following are examples of the records normally contained, if applicable, in contract files:
 
 (a) *Contracting office contract file.* (1) Purchase request, acquisition planning information, and other presolicitation documents.
@@ -14,7 +12,7 @@ The following are examples of the records normally contained, if applicable, in 
 
 (5) The list of sources solicited, and a list of any firms or persons whose requests for copies of the solicitation were denied, together with the reasons for denial.
 
-(6) Set-aside decision including the type and extent of market research conducted.
+(6) Set-aside decision (see 19.506) including the type and extent of market research conducted.
 
 (7) Government estimate of contract price.
 
@@ -22,7 +20,7 @@ The following are examples of the records normally contained, if applicable, in 
 
 (9) Security requirements and evidence of required clearances.
 
-(10) A copy of each offer or quotation, the related abstract, and records of determinations concerning late offers or quotations. Unsuccessful offers or quotations may be maintained separately, if cross-referenced to the contract file. The only portions of the unsuccessful offer or quotation that need be retained are -
+(10) A copy of each offer or quotation, the related abstract, and records of determinations concerning late offers or quotations. Unsuccessful offers or quotations may be maintained separately, if cross-referenced to the contract file. The only portions of the unsuccessful offer or quotation that need be retained are—
 
 (i) Completed solicitation sections A, B, and K;
 
@@ -44,7 +42,7 @@ The following are examples of the records normally contained, if applicable, in 
 
 (16) Records of contractor's compliance with labor policies including equal employment opportunity policies.
 
-(17) Data and information related to the contracting officer's determination of a fair and reasonable price. This may include -
+(17) Data and information related to the contracting officer's determination of a fair and reasonable price. This may include—
 
 (i) Certified cost or pricing data;
 
@@ -70,7 +68,7 @@ The following are examples of the records normally contained, if applicable, in 
 
 (25) Notice of award.
 
-(26) The original of -
+(26) The original of—
 
 (i) The signed contract or award;
 
@@ -108,11 +106,11 @@ The following are examples of the records normally contained, if applicable, in 
 
 (41) A current chronological list identifying the awarding and successor contracting officers, with inclusive dates of responsibility.
 
-(42) When limiting competition, or awarding on a sole source basis, to economically disadvantaged women-owned small business (EDWOSB) concerns or women-owned small business (WOSB) concerns eligible under the WOSB Program in accordance with subpart 19.15, include documentation -
+(42) When limiting competition, or awarding on a sole source basis, to economically disadvantaged women-owned small business (EDWOSB) concerns or women-owned small business (WOSB) concerns eligible under the WOSB Program in accordance with subpart 19.15, include documentation—
 
 (i) Of the type and extent of market research; and
 
-(ii) That the NAICS code assigned to the acquisition is for an industry that SBA has designated as -
+(ii) That the NAICS code assigned to the acquisition is for an industry that SBA has designated as—
 
 (A) Underrepresented for EDWOSB concerns; or
 

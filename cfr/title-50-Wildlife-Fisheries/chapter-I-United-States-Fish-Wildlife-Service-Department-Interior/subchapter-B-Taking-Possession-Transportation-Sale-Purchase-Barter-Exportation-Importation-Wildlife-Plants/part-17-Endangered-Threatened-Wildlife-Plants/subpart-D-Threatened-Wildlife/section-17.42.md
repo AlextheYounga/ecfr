@@ -1,7 +1,5 @@
 ##### § 17.42 Special rules - reptiles. #####
 
-Link to an amendment published at 85 FR 11306, Feb. 27, 2020.
-
 (a) American alligator (*Alligator mississippiensis*) - (1) *Definitions.* For purposes of this paragraph (a) the following definitions apply:
 
 (i) *American alligator* means any specimen of the species *Alligator mississippiensis*, whether alive or dead, including any skin, part, product, egg, or offspring thereof held in captivity or from the wild.
@@ -162,4 +160,58 @@ Link to an amendment published at 85 FR 11306, Feb. 27, 2020.
 
 (B) Those activities causing significant subsurface disturbance, including, but not limited to, shearing, wind-rowing, stumping, disking (except during fire break creation or maintenance), root-raking, and bedding.
 
-[42 FR 2076, Jan. 10, 1977, as amended at 43 FR 32809, July 28, 1978; 44 FR 59084, Oct. 12, 1979; 45 FR 17589, Mar. 19, 1980; 45 FR 78154, Nov. 25, 1980; 48 FR 46336, Oct. 12, 1983; 50 FR 25678, June 20, 1985; 50 FR 45409, Oct. 31, 1985; 52 FR 21063, June 4, 1987; 52 FR 42662, Nov. 6, 1987; 55 FR 12191, Apr. 2, 1990; 61 FR 32366, June 24, 1996; 62 FR 59622, Nov. 4, 1997; 65 FR 25879, May 4, 2000; 72 FR 48446, Aug. 23, 2007; 78 FR 38190, June 25, 2013; 79 FR 38746, July 8, 2014; 80 FR 60489, Oct. 6, 2015]
+(i) Louisiana pinesnake (*Pituophuis ruthveni*) - (1) *Definitions.* The following definitions apply only to terms used in this paragraph (i) for activities affecting the Louisiana pinesnake.
+
+(i) *Estimated occupied habitat area (EOHA).* Areas of land where occurrences of Louisiana pinesnakes have been recorded and that are considered by the Service to be occupied by the species. For current information regarding the EOHAs, contact your local Service Ecological Services office. Field office contact information may be obtained from the Service regional offices, the addresses of which are listed in 50 CFR 2.2.
+
+(ii) *Suitable or preferable soils.* Those soils in Louisiana and Texas that generally have high sand content and a low water table and that have been shown to be selected by Louisiana pinesnakes (Natural Resources Conservation Service soil survey hydrologic group, Categories A and B).
+
+(2) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the Louisiana pinesnake. Except as provided at paragraph (i)(3) of this section and § 17.4, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+
+(i) Import or export, as set forth for endangered wildlife at § 17.21(b).
+
+(ii) Take, as set forth for endangered wildlife at § 17.21(c)(1).
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth for endangered wildlife at § 17.21(d)(1).
+
+(iv) Interstate or foreign commerce in the course of commercial activity, as set forth for endangered wildlife at § 17.21(e).
+
+(v) Sale or offer for sale, as set forth for endangered wildlife at § 17.21(f).
+
+(3) *Exceptions from the prohibitions.* In regard to this species, you may:
+
+(i) Conduct activities as authorized by a permit issued under § 17.32.
+
+(ii) Take, as set forth for endangered wildlife at § 17.21(c)(2) through (c)(4).
+
+(iii) Take, as set forth at § 17.31(b).
+
+(iv) Possess and engage in other acts with unlawfully taken Louisiana pinesnakes, as set forth for endangered wildlife at § 17.21(d)(2).
+
+(v) Take incidental to an otherwise lawful activity caused by:
+
+(A) *Outside any known EOHAs* - Activities that maintain existing forest lands in forest land use and that, when conducted in areas within the range of the Louisiana pinesnake, on preferred or suitable soils, result in the establishment and maintenance of open-canopy pine-dominated forest stands over time across the landscape. These activities include:
+
+(*1*) Tree thinning, tree harvest (including clearcutting), and planting and replanting pines (by hand or by machine).
+
+(*2*) Prescribed burning, including all firebreak establishment and maintenance actions, as well as actions taken to control wildfires.
+
+(*3*) Herbicide application that is generally targeted for invasive plant species control and midstory and understory woody vegetation control, but is also used for site preparation when applied in a manner that minimizes long-term impact to noninvasive herbaceous vegetation. These provisions include only herbicide applications conducted in a manner consistent with Federal and applicable State laws, including Environmental Protection Agency label restrictions and herbicide application guidelines as prescribed by manufacturers.
+
+(*4*) Skidding logs and use of loading decks that avoid mound complexes of Baird's pocket gophers *(Geomys breviceps).*
+
+(*5*) Maintenance of existing substandard (dirt, unsurfaced) forest roads and trails used for access to timber being managed.
+
+(*6*) Implementation of mandated and State-recommended forestry best management practices, including, but not limited to, those necessary to protect riparian (e.g., streamside management zone) and other habitats from erosional sediment deposition, and prevent washout of forest roads and impacts to vegetation.
+
+(*7*) Food plot establishment for game animals, when it does not destroy existing native herbaceous vegetation, avoids Baird's pocket gopher mound complexes, and does not exceed 1 acre in size.
+
+(B) *Within any known EOHAs* where Baird's pocket gopher mounds are present or on lands that have suitable or preferable soils and that are forested, undeveloped, or non-farmed (*i.e.,* not cultivated on an annual basis) and adjacent to forested lands - Activities described in paragraphs (i)(3)(v)(A)(*1*) through (*7*) of this section provided that those activities do not:
+
+(*1*) Cause subsurface disturbance, including, but not limited to, wind-rowing, stumping, disking (except during firebreak creation or maintenance), root-raking, drum chopping (except for single pass with the lightest possible weighted drums and only when the soil is not wet, when used to control hardwoods and woody shrub species detrimental to establishment of pine-forested land), shearing that penetrates the soil surface, ripping (except when restoring pine forest in compacted soil areas such as former pastures), bedding, new road construction, and commercial or residential development. Machine-planting, using the shallowest depth possible, would be allowed in areas where pocket gophers are not present and only for planting pine tree species. In former pastures or highly degraded areas with no herbaceous vegetation and poor planting conditions, subsurface disturbance will be allowed only for activities that contribute to reforestation that is consistent with the conservation of the species.
+
+(*2*) Inhibit the persistence of suitable Baird's pocket gopher and Louisiana pinesnake habitat, which consists of open-canopy forest situated on well-drained sandy soils with an abundant herbaceous plant community, a nonexistent or sparse midstory, and a low pine basal area.
+
+(*3*) Involve the use of plastic mesh in erosion control and stabilization devices, mats, blankets, or channel protection.
+
+[42 FR 2076, Jan. 10, 1977, as amended at 43 FR 32809, July 28, 1978; 44 FR 59084, Oct. 12, 1979; 45 FR 17589, Mar. 19, 1980; 45 FR 78154, Nov. 25, 1980; 48 FR 46336, Oct. 12, 1983; 50 FR 25678, June 20, 1985; 50 FR 45409, Oct. 31, 1985; 52 FR 21063, June 4, 1987; 52 FR 42662, Nov. 6, 1987; 55 FR 12191, Apr. 2, 1990; 61 FR 32366, June 24, 1996; 62 FR 59622, Nov. 4, 1997; 65 FR 25879, May 4, 2000; 72 FR 48446, Aug. 23, 2007; 78 FR 38190, June 25, 2013; 79 FR 38746, July 8, 2014; 80 FR 60489, Oct. 6, 2015; 85 FR 11306, Feb. 27, 2020]

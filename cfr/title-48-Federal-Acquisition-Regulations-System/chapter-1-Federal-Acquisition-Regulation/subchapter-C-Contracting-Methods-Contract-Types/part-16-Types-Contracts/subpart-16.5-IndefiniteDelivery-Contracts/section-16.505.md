@@ -1,7 +1,5 @@
 ##### 16.505 Ordering. #####
 
-Link to an amendment published at 85 FR 11757, Feb. 27, 2020.
-
 (a) *General.* (1) In general, the contracting officer does not synopsize orders under indefinite-delivery contracts; except see 16.505(a)(4) and (11), and 16.505(b)(2)(ii)(D).
 
 (2) Individual orders shall clearly describe all services to be performed or supplies to be delivered so the full cost or price for the performance of the work can be established when the order is placed. Orders shall be within the scope, issued within the period of performance, and be within the maximum value of the contract.
@@ -48,6 +46,8 @@ Link to an amendment published at 85 FR 11757, Feb. 27, 2020.
 
 (viii) Method of payment and payment office, if not specified in the contract (see 32.1110(e)).
 
+(ix) North American Industry Classification System code (see 19.102(b)(3)).
+
 (8) Orders placed under a task-order contract or delivery-order contract awarded by another agency (*i.e.,* a Governmentwide acquisition contract, or multi-agency contract) -
 
 (i) Are not exempt from the development of acquisition plans (see subpart 7.1), and an information technology acquisition strategy (see part 39);
@@ -72,6 +72,8 @@ Link to an amendment published at 85 FR 11757, Feb. 27, 2020.
 
 (ii) Protests of orders in excess of the thresholds stated in 16.505(a)(10)(i)(B) may only be filed with the Government Accountability Office, in accordance with the procedures at 33.104.
 
+(iii) For protests of small business size status for set-aside orders, see 19.302.
+
 (11) Publicize orders funded in whole or in part by the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5) as follows:
 
 (i) Notices of proposed orders shall follow the procedures in 5.704 for posting orders.
@@ -80,7 +82,11 @@ Link to an amendment published at 85 FR 11757, Feb. 27, 2020.
 
 (12) When using the Governmentwide commercial purchase card as a method of payment, orders at or below the micro-purchase threshold are exempt from verification in the System for Award Management as to whether the contractor has a delinquent debt subject to collection under the Treasury Offset Program (TOP).
 
-(b) *Orders under multiple-award contracts* - (1) *Fair opportunity.* (i) The contracting officer must provide each awardee a fair opportunity to be considered for each order exceeding $3,500 issued under multiple delivery-order contracts or multiple task-order contracts, except as provided for in paragraph (b)(2) of this section.
+(b) *Orders under multiple-award contracts* - (1) *Fair opportunity.* (i) The contracting officer must provide each awardee a fair opportunity to be considered for each order exceeding $3,500 issued under multiple delivery-order contracts or multiple task-order contracts, except -
+
+(A) As provided for in paragraph (b)(2) of this section; or
+
+(B) Orders issued under 19.504(c)(1)(ii).
 
 (ii) The contracting officer may exercise broad discretion in developing appropriate order placement procedures. The contracting officer should keep submission requirements to a minimum. Contracting officers may use streamlined procedures, including oral presentations. If the order does not exceed the simplified acquisition threshold, the contracting officer need not contact each of the multiple awardees under the contract before selecting an order awardee if the contracting officer has information available to ensure that each awardee is provided a fair opportunity to be considered for each order. The competition requirements in part 6 and the policies in subpart 15.3 do not apply to the ordering process. However, the contracting officer must -
 
@@ -216,11 +222,11 @@ Link to an amendment published at 85 FR 11757, Feb. 27, 2020.
 
 (3) *Pricing orders.* If the contract did not establish the price for the supply or service, the contracting officer must establish prices for each order using the policies and methods in subpart 15.4.
 
-(4) For additional requirements for cost reimbursement orders see 16.301-3.
+(4) *Cost reimbursement orders.* For additional requirements for cost-reimbursement orders, see 16.301-3.
 
-(5) For additional requirements for time-and-materials or labor-hour orders, see 16.601(e).
+(5*) Time-and-materials or labor-hour orders.* For additional requirements for time-and-materials or labor-hour orders, see 16.601(e).
 
-(6) *Postaward Notices and Debriefing of Awardees for Orders Exceeding $5.5 million.* The contracting officer shall notify unsuccessful awardees when the total price of a task or delivery order exceeds $5.5 million.
+(6) *Postaward notices and debriefing of awardees for orders exceeding $5.5 million.*The contracting officer shall notify unsuccessful awardees when the total price of a task or delivery order exceeds $5.5 million.
 
 (i) The procedures at 15.503(b)(1) shall be followed when providing postaward notification to unsuccessful awardees.
 
@@ -233,6 +239,8 @@ Link to an amendment published at 85 FR 11757, Feb. 27, 2020.
 (ii) The contract file shall also identify the basis for using an exception to the fair opportunity process (*see* paragraph (b)(2) of this section).
 
 (8) *Task-order and delivery-order ombudsman.* The head of the agency shall designate a task-order and delivery-order ombudsman. The ombudsman must review complaints from contractors and ensure they are afforded a fair opportunity to be considered, consistent with the procedures in the contract. The ombudsman must be a senior agency official who is independent of the contracting officer and may be the agency's advocate for competition.
+
+(9) *Small business.* The contracting officer should rely on the small business representations at the contract level (but see section 19.301-2(b)(2) for order rerepresentations).
 
 (c) *Limitation on ordering period for task-order contracts for advisory and assistance services.* (1) Except as provided for in paragraphs (c)(2) and (3) of this section, the ordering period of a task-order contract for advisory and assistance services, including all options or modifications, normally may not exceed 5 years.
 

@@ -1,22 +1,22 @@
 ##### 52.219-14 Limitations on Subcontracting. #####
 
-Link to an amendment published at 85 FR 11771, Feb. 27, 2020.
+As prescribed in 19.507(e), insert the following clause:
 
-As prescribed in 19.508(e) or 19.811-3(e), insert the following clause:
-
-Limitations on Subcontracting (JAN 2017)
+Limitations on Subcontracting (MAR 2020)
 
 (a) This clause does not apply to the unrestricted portion of a partial set-aside.
 
 (b) *Applicability.* This clause applies only to -
 
-(1) Contracts that have been set aside or reserved for small business concerns or 8(a) participants;
+(1) Contracts that have been set aside for small business concerns or 8(a) participants;
 
-(2) Part or parts of a multiple-award contract that have been set aside for small business concerns or 8(a) participants; and
+(2) Part or parts of a multiple-award contract that have been set aside for small business concerns or 8(a) participants;
 
-(3) Orders set aside for small business or 8(a) participants under multiple-award contracts as described in 8.405-5 and 16.505(b)(2)(i)(F).
+(3) Orders set aside for small business concerns or 8(a) participants under multiple-award contracts as described in 8.405-5 and 16.505(b)(2)(i)(F); and
 
-(c) By submission of an offer and execution of a contract, the Offeror/Contractor agrees that in performance of the contract in the case of a contract for -
+(4) Orders issued directly to small business concerns or 8(a) participants under multiple-award contracts as described in 19.504(c)(1)(ii).
+
+(c) *Limitations on subcontracting.* By submission of an offer and execution of a contract, the Contractor agrees that in performance of the contract in the case of a contract for -
 
 (1) *Services (except construction).* At least 50 percent of the cost of contract performance incurred for personnel shall be expended for employees of the concern.
 
@@ -26,4 +26,16 @@ Limitations on Subcontracting (JAN 2017)
 
 (4) *Construction by special trade contractors.* The concern will perform at least 25 percent of the cost of the contract, not including the cost of materials, with its own employees.
 
-(End of clause)[52 FR 38190, Oct. 14, 1988, as amended at 55 FR 52798, Dec. 21, 1990; 61 FR 67411, Dec. 20, 1996; 64 FR 32749, June 17, 1999; 76 FR 68037, Nov. 2, 2011; 82 FR 4731, Jan. 13, 2017]
+(d) The Contractor shall comply with the limitations on subcontracting as follows:
+
+(1) For contracts, in accordance with paragraph (b)(1) and (2) of this clause -
+
+[*Contracting Officer check as appropriate.*]
+
+\_ By the end of the base term of the contract and then by the end of each subsequent option period; or
+
+\_ By the end of the performance period for each order issued under the contract.
+
+(2) For orders, in accordance with paragraphs (b)(3) and (4) of this clause, by the end of the performance period for the order.
+
+(End of clause)[52 FR 38190, Oct. 14, 1988, as amended at 55 FR 52798, Dec. 21, 1990; 61 FR 67411, Dec. 20, 1996; 64 FR 32749, June 17, 1999; 76 FR 68037, Nov. 2, 2011; 82 FR 4731, Jan. 13, 2017; 85 FR 11771, Feb. 27, 2020]

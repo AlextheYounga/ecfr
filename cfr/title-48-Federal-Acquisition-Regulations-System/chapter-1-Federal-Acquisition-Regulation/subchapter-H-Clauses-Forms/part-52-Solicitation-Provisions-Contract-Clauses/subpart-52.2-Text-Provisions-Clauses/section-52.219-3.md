@@ -1,59 +1,69 @@
 ##### 52.219-3 Notice of HUBZone Set-Aside or Sole Source Award. #####
 
-Link to an amendment published at 85 FR 11769, Feb. 27, 2020.
+As prescribed in 19.1309(a)(1), insert the following clause:
 
-As prescribed in 19.1309(a), insert the following clause:
+Notice of HUBZone Set-Aside or Sole Source Award (MAR 2020)
 
-Notice of HUBZone Set-Aside or Sole Source Award (NOV 2011)
-
-(a) *Definitions. See* 13 CFR 125.6(e) for definitions of terms used in paragraph (c).
+(a) *Definition.* See 13 CFR 125.1 and 126.103 for definitions of terms used in the clause.
 
 (b) *Applicability.* This clause applies only to -
 
-(1) Contracts that have been set aside or reserved for, or awarded on a sole source basis to, HUBZone small business concerns;
+(1) Contracts that have been set aside or awarded on a sole source basis to, HUBZone small business concerns;
 
-(2) Part or parts of a multiple-award contract that have been set aside for HUBZone small business concerns; and
+(2) Part or parts of a multiple-award contract that have been set aside for HUBZone small business concerns;
 
-(3) Orders set-aside for HUBZone small business concerns under multiple-award contracts as described in 8.405-5 and 16.505(b)(2)(i)(F).
+(3) Orders set-aside for HUBZone small business concerns under multiple-award contracts as described in 8.405-5 and 16.505(b)(2)(i)(F); and
+
+(4) Orders issued directly to HUBZone small business concerns under multiple-award contracts as described in 19.504(c)(1)(ii).
 
 (c) *General.* (1) Offers are solicited only from HUBZone small business concerns. Offers received from concerns that are not HUBZone small business concerns will not be considered.
 
 (2) Any award resulting from this solicitation will be made to a HUBZone small business concern.
 
-(d) *Agreement.* A HUBZone small business concern agrees that in the performance of the contract, in the case of a contract for -
+(d) *Limitations on subcontracting.* The Contractor shall spend -
 
-(1) Services (except construction), at least 50 percent of the cost of personnel for contract performance will be spent for employees of the concern or employees of other HUBZone small business concerns;
+(1) For services (except construction), at least 50 percent of the cost of contract performance incurred for personnel on its own employees or employees of other HUBZone small business concerns;
 
-(2) Supplies (other than acquisition from a nonmanufacturer of the supplies), at least 50 percent of the cost of manufacturing, excluding the cost of materials, will be performed by the concern or other HUBZone small business concerns;
+(2) For supplies (other than acquisition from a nonmanufacturer of the supplies), at least 50 percent of the cost of manufacturing, excluding the cost of materials, on the concern or other HUBZone small business concerns;
 
-(3) *General construction.* (i) At least 15 percent of the cost of contract performance to be incurred for personnel will be spent on the HUBZone prime contractor's employees;
+(3) *For general construction* -
 
-(ii) At least 50 percent of the cost of the contract performance to be incurred for personnel will be spent on the HUBZone prime contractor's employees or on a combination of the HUBZone prime contractor's employees and employees of HUBZone small business concern subcontractors; and
+(i) At least 15 percent of the cost of contract performance incurred for personnel on its own employees;
 
-(iii) No more than 50 percent of the cost of contract performance to be incurred for personnel will be subcontracted to concerns that are not HUBZone small business concerns; or
+(ii) At least 50 percent of the cost of the contract performance incurred for personnel on its own employees or on a combination of its own employees and employees of HUBZone small business concern subcontractors; and
 
-(4) *Construction by special trade contractors.* (i) At least 25 percent of the cost of contract performance to be incurred for personnel will be spent on the HUBZone prime contractor's employees;
+(iii) No more than 50 percent of the cost of contract performance incurred for personnel on concerns that are not HUBZone small business concerns; or
 
-(ii) At least 50 percent of the cost of the contract performance to be incurred for personnel will be spent on the HUBZone prime contractor's employees or on a combination of the HUBZone prime contractor's employees and employees of HUBZone small business concern subcontractors;
+(4) *For construction by special trade contractors* -
 
-(iii) No more than 50 percent of the cost of contract performance to be incurred for personnel will be subcontracted to concerns that are not HUBZone small business concerns.
+(i) At least 25 percent of the cost of contract performance incurred for personnel on its own employees;
 
-(e) A HUBZone joint venture agrees that, in the performance of the contract, the applicable percentage specified in paragraph (d) of this clause will be performed by the aggregate of the HUBZone small business participants.
+(ii) At least 50 percent of the cost of the contract performance incurred for personnel on its own employees or on a combination of its own employees and employees of HUBZone small business concern subcontractors;
 
-(f)(1) When the total value of the contract exceeds $25,000, a HUBZone small business concern nonmanufacturer agrees to furnish in performing this contract only end items manufactured or produced by HUBZone small business concern manufacturers.
+(iii) No more than 50 percent of the cost of contract performance to be incurred for personnel on concerns that are not HUBZone small business concerns.
 
-(2) When the total value of the contract is equal to or less than $25,000, a HUBZone small business concern nonmanufacturer may provide end items manufactured by other than a HUBZone small business concern manufacturer provided the end items are produced or manufactured in the United States.
+(e) A HUBZone small business contractor shall comply with the limitations on subcontracting as follows:
 
-(3) Paragraphs (f)(1) and (f)(2) of this section do not apply in connection with construction or service contracts.
+(1) For contracts, in accordance with paragraph (b)(1) or (2) of this clause -
+
+[*Contracting Officer check as appropriate.*]
+
+\_ By the end of the base term of the contract and then by the end of each subsequent option period; or
+
+\_ By the end of the performance period for each order issued under the contract.
+
+(2) For orders, in accordance with paragraph (b)(3) or (4) of this clause, by the end of the performance period for the order.
+
+(f) A HUBZone joint venture agrees that, in the performance of the contract, the applicable percentage specified in paragraph (d) of this clause shall be performed by the aggregate of the HUBZone small business participants.
 
 (g) *Notice.* The HUBZone small business offeror acknowledges that a prospective HUBZone awardee must be a HUBZone small business concern at the time of award of this contract. The HUBZone offeror shall provide the Contracting Officer a copy of the notice required by 13 CFR 126.501 if material changes occur before contract award that could affect its HUBZone eligibility. If the apparently successful HUBZone offeror is not a HUBZone small business concern at the time of award of this contract, the Contracting Officer will proceed to award to the next otherwise successful HUBZone small business concern or other offeror.
 
 (End of clause)
 
-*Alternate I* (NOV 2011). As prescribed in 19.1309(a)(1), substitute the following paragraphs (d)(3) and (d)(4) for paragraphs (d)(3) and (d)(4) of the basic clause:
+*Alternate I* (MAR 2020). As prescribed in 19.1309(a)(2), substitute the following paragraphs (d)(3) and (d)(4) for paragraphs (d)(3) and (d)(4) of the basic clause:
 
-(d)(3) General construction, at least 15 percent of the cost of the contract performance to be incurred for personnel will be spent on the concern's employees; or
+(3) For general construction, at least 15 percent of the cost of the contract performance to be incurred for personnel shall be spent on the concern's employees; or
 
-(d)(4) Construction by special trade contractors, at least 25 percent of the cost of the contract performance to be incurred for personnel will be spent on the concern's employees.
+(4) For specialty trade construction, at least 25 percent of the cost of the contract performance to be incurred for personnel shall be spent on the concern's employees.
 
-[63 FR 70274, Dec. 18, 1998, as amended at 75 FR 77732, Dec. 13, 2010; 76 FR 68036, Nov. 2, 2011]
+[63 FR 70274, Dec. 18, 1998, as amended at 75 FR 77732, Dec. 13, 2010; 76 FR 68036, Nov. 2, 2011; 85 FR 11769, Feb. 27, 2020]

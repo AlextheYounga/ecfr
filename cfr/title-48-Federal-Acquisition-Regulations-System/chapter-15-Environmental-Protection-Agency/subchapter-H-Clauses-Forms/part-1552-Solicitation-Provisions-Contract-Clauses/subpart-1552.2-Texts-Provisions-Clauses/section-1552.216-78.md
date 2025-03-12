@@ -12,7 +12,7 @@ Award Term Incentive Plan (FEB 2008)
 
 (d) In order to be eligible for an award term incentive period the contractor must achieve all of the acceptable quality levels (AQL) for the evaluated tasks, both individual and aggregate, for that evaluation period. Failure to achieve any AQL renders the contractor ineligible for the associated award term incentive period. [identify the most significant tasks. Describe the AQL for each task as well as an overall AQL for the associated evaluation periods, e.g., an AQL of 90% each for tasks 1 and 3, and an AQL of 85% for task 7, and an overall AQL of 90% for the months 1-18 evaluation period]
 
-(e) [If the contract will contain a quality assurance surveillance plan (QASP), reference the QASP, e.g., attachment 2. Typically, the performance standards and AQLs will be defined in the QASP]
+(e) [If the contract will contain a quality assurance surveillance plan (QASP), reference the QASP, *e.g.,* attachment 2. Typically, the performance standards and AQLs will be defined in the QASP]
 
 (End of clause)
 
@@ -32,7 +32,7 @@ Award Term Incentive Plan (FEB 2008)
 |                             |      / 4 (number of ratings).      |
 |                             |\= 4.5 contract year average rating.|
 
-(d) The contractor shall be evaluated for performance from the start of the contract through Year \_\_ [identify the evaluation period, e.g., year three]. The average rating for each contract year (as derived in paragraph (c) above) will be combined and divided by [insert the number of evaluation periods] to obtain an overall average rating, for example:
+(d) The contractor shall be evaluated for performance from the start of the contract through Year \_\_\_\_ [identify the evaluation period, e.g., year three]. The average rating for each contract year (as derived in paragraph (c) above) will be combined and divided by [insert the number of evaluation periods] to obtain an overall average rating, for example:
 
 |Evaluation period|          Average rating           |
 |-----------------|-----------------------------------|
@@ -45,8 +45,8 @@ Award Term Incentive Plan (FEB 2008)
 
 (e) Based on the overall average rating as determined under paragraph (d), provided that no individual rating, i.e., Quality of Product or Service, Cost Control, Timeliness of Performance, or Business Relations is below a 3, the contractor shall be eligible for the following award term periods:
 
-(1) Overall average rating of 4.6 to 5.0 - Two award term incentive periods of \_\_ [insert the number of months] months.
+(1) Overall average rating of 4.6 to 5.0—Two award term incentive periods of \_\_\_\_ [insert the number of months] months.
 
-(2) Overall average rating of 4.0 to 4.6 - One award term incentive period of \_\_ [insert the number of months] months.
+(2) Overall average rating of 4.0 to 4.6—One award term incentive period of \_\_\_\_ [insert the number of months] months.
 
-[73 FR 1981, Jan. 11, 2008, as amended at 78 FR 46291, July 31, 2013]
+[73 FR 1981, Jan. 11, 2008, as amended at 78 FR 46291, July 31, 2013; 85 FR 17506, Mar. 30, 2020]

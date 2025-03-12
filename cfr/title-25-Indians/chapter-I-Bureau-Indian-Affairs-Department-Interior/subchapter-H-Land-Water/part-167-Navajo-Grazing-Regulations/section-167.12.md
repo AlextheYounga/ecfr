@@ -1,5 +1,5 @@
 ##### § 167.12 Grazing fees. #####
 
-Grazing fees shall not be charged at this time.1/\>
+Grazing fees shall not be charged at this time.1
 
 1 Grazing Committees were organized in May 1953. These committees have not had ample time to fully acquaint themselves or the stockmen in their respective districts with all of the various items of range administration and range management. Also the drought of several years has not broken. The Navajo Tribe therefore requests that the matter of establishing regulations regarding the adoption of grazing fees be deferred until such a time as a full understanding of the advantages of fees can be had by the majority of the stockmen in all Districts. The assessment of grazing fees will not aid materially in obtaining proper range use. At this time it is more important that other sections of these grazing regulations be adopted and enforced. Resolution of Navajo Tribal Council No. CJ-22-54 of June 9, 1954.

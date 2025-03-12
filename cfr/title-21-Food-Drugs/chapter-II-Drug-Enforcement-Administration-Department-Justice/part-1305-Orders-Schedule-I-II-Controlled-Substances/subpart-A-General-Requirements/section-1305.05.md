@@ -40,4 +40,4 @@ Signed and dated on the \_\_\_\_ day of \_\_\_\_, (year), at \_\_\_\_.
 
 (f) A power of attorney executed under this section may be signed electronically, by any or all of the persons required to sign.
 
-[70 FR 16911, Apr. 1, 2005 , as amended at 84 FR 51374, Sept. 30, 2019]
+[70 FR 16911, Apr. 1, 2005, as amended at 84 FR 51374, Sept. 30, 2019]

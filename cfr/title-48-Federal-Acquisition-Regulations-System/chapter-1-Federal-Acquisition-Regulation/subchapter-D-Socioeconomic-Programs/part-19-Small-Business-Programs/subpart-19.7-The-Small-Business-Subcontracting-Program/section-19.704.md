@@ -1,8 +1,6 @@
 ##### 19.704 Subcontracting plan requirements. #####
 
-Link to an amendment published at 85 FR 11765, Feb. 27, 2020.
-
-(a) Each subcontracting plan under 19.301-2(e) and 19.702(a)(1), (2), and (3) shall include -
+(a) Each subcontracting plan under 19.301-2(e) and 19.702(a)(1)(i), (ii), and (iii) shall include -
 
 (1) Separate percentage goals for using small business (including ANCs and Indian tribes), veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business (including ANCs and Indian tribes) and women-owned small business concerns as subcontractors;
 

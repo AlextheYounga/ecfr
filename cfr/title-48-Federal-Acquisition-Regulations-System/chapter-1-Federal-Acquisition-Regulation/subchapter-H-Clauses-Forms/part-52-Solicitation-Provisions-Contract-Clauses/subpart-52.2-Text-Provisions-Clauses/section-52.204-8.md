@@ -1,10 +1,8 @@
 ##### 52.204-8 Annual Representations and Certifications. #####
 
-Link to an amendment published at 85 FR 11768, Feb. 27, 2020.
-
 As prescribed in 4.1202(a), insert the following provision:
 
-Annual Representations and Certifications (JAN 2020)
+Annual Representations and Certifications (MAR 2020)
 
 (a)(1) The North American Industry Classification System (NAICS) code for this acquisition is \_\_\_\_\_\_\_ [*insert NAICS code*].
 
@@ -56,11 +54,13 @@ Annual Representations and Certifications (JAN 2020)
 
 (xi) 52.215-6, Place of Performance. This provision applies to solicitations unless the place of performance is specified by the Government.
 
-(xii) 52.219-1, Small Business Program Representations (Basic & Alternate I). This provision applies to solicitations when the contract will be performed in the United States or its outlying areas.
+(xii) 52.219-1, Small Business Program Representations (Basic, Alternates I, and II). This provision applies to solicitations when the contract will be performed in the United States or its outlying areas.
 
 (A) The basic provision applies when the solicitations are issued by other than DoD, NASA, and the Coast Guard.
 
 (B) The provision with its Alternate I applies to solicitations issued by DoD, NASA, or the Coast Guard.
+
+(C) The provision with its Alternate II applies to solicitations that will result in a multiple-award contract with more than one NAICS code assigned.
 
 (xiii) 52.219-2, Equal Low Bids. This provision applies to solicitations when contracting by sealed bidding and the contract will be performed in the United States or its outlying areas.
 
@@ -122,4 +122,20 @@ Annual Representations and Certifications (JAN 2020)
 
 (d) The Offeror has completed the annual representations and certifications electronically in SAM accessed through *https://www.sam.gov.* After reviewing the SAM information, the Offeror verifies by submission of the offer that the representations and certifications currently posted electronically that apply to this solicitation as indicated in paragraph (c) of this provision have been entered or updated within the last 12 months, are current, accurate, complete, and applicable to this solicitation (including the business size standard applicable to the NAICS code referenced for this solicitation), as of the date of this offer and are incorporated in this offer by reference (see FAR 4.1201); except for the changes identified below [*offeror to insert changes, identifying change by clause number, title, date*]. These amended representation(s) and/or certification(s) are also incorporated in this offer and are current, accurate, and complete as of the date of this offer.
 
-(End of provision)Editorial Note:For Federal Register citations affecting section 52.204-8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(End of provision)
+
+*Alternate I* (MAR 2020). As prescribed in 4.1202(a), substitute the following paragraph (a) for paragraph (a) of the basic provision:
+
+(a)(1) The North American Industry Classification System (NAICS) codes and corresponding size standards for this acquisition are as follows; the categories or portions these NAICS codes are assigned to are specified elsewhere in the solicitation:
+
+|    NAICS code    |  Size standard   |
+|------------------|------------------|
+|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|
+|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|
+|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|
+
+[*Contracting Officer to insert NAICS codes and size standards*].
+
+(2) The small business size standard for a concern which submits an offer in its own name, other than on a construction or service contract, but which proposes to furnish a product which it did not itself manufacture (*i.e.,* nonmanufacturer), is 500 employees.
+
+Editorial Note:For Federal Register citations affecting section 52.204-8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

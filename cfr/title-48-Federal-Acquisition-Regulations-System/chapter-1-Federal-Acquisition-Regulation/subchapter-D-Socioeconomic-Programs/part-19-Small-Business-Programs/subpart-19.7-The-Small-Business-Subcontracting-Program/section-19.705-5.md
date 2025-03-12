@@ -1,7 +1,5 @@
 ##### 19.705-5 Awards involving subcontracting plans. #####
 
-Link to an amendment published at 85 FR 11765, Feb. 27, 2020.
-
 (a) In making an award that requires a subcontracting plan, the contracting officer shall be responsible for the following:
 
 (1) Consider the contractor's compliance with the subcontracting plans submitted on previous contracts as a factor in determining contractor responsibility.
@@ -14,6 +12,6 @@ Link to an amendment published at 85 FR 11765, Feb. 27, 2020.
 
 (5) Ensure that an acceptable plan is incorporated into and made a material part of the contract.
 
-(b) Letter contracts and similar undefinitized instruments, which would otherwise meet the requirements of 19.702(a)(1) and (2), shall contain at least a preliminary basic plan addressing the requirements of 19.704 and in such cases require the negotiation of the final plan within 90 days after award or before definitization, whichever occurs first.
+(b) Letter contracts and similar undefinitized instruments, which would otherwise meet the requirements of 19.702(a)(1)(i) and (ii), shall contain at least a preliminary basic plan addressing the requirements of 19.704 and in such cases require the negotiation of the final plan within 90 days after award or before definitization, whichever occurs first.
 
-[48 FR 42240, Sept. 19, 1983, as amended at 50 FR 1743, Jan. 11, 1985; 50 FR 52429, Dec. 23, 1985; 71 FR 36926, June 28, 2006]
+[48 FR 42240, Sept. 19, 1983, as amended at 50 FR 1743, Jan. 11, 1985; 50 FR 52429, Dec. 23, 1985; 71 FR 36926, June 28, 2006; 85 FR 11765, Feb. 27, 2020]

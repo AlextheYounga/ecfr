@@ -1,7 +1,5 @@
 ##### 19.403 Small Business Administration breakout procurement center representatives. #####
 
-Link to an amendment published at 85 FR 11760, Feb. 27, 2020.
-
 (a) The SBA is required by section 403 of Pub. L. 98-577 to assign a breakout procurement center representative to each major procurement center. A major procurement center means a procurement center that, in the opinion of the administrator, purchases substantial dollar amounts of other than commercial items, and which has the potential to incur significant savings as a result of the placement of a breakout procurement representative. The SBA breakout procurement center representative is an advocate for (1) the appropriate use of full and open competition, and (2) the breakout of items, when appropriate and while maintaining the integrity of the system in which such items are used. The SBA breakout procurement center representative is in addition to the SBA procurement center representative (see 19.402). When an SBA breakout procurement center representative is assigned, the SBA is required to assign at least two collocated small business technical advisors. Assigned SBA breakout procurement center representatives and technical advisors are required to comply with the contracting agency's directives governing the conduct of contracting personnel and the release of contract information. The SBA must obtain for its breakout procurement center representatives and technical advisors security clearances required by the contracting agency.
 
 (b) Contracting officers shall comply with 19.402(b) in their relationships with SBA breakout procurement center representatives and SBA small business technical advisors.
@@ -26,7 +24,7 @@ Link to an amendment published at 85 FR 11760, Feb. 27, 2020.
 
 (7) Review the systems that account for the acquisition and management of technical data within the procurement center to ensure that such systems provide the maximum availability and access to data needed for the preparation of offers to sell to the United States those supplies to which such data pertain which potential offerors are entitled to receive;
 
-(8) Appeal the failure by the procurement center to act favorably on any recommendation made pursuant to subparagraphs (c) (1) through (7) of this section. Such appeal must be in writing and shall be filed and processed in accordance with the appeal procedures set out in 19.505;
+(8) Appeal the failure by the procurement center to act favorably on any recommendation made pursuant to subparagraphs (c) (1) through (7) of this section. Such appeal must be in writing and shall be filed and processed in accordance with the appeal procedures set out in 19.502-8;
 
 (9) Conduct familiarization sessions for contracting officers and other appropriate personnel of the procurement center to which assigned. Such sessions shall acquaint the participants with the duties and objectives of the representative and shall instruct them in the methods designed to further the breakout of items for procurement through full and open competition; and
 
@@ -34,4 +32,4 @@ Link to an amendment published at 85 FR 11760, Feb. 27, 2020.
 
 (d) The duties of the SBA small business technical advisors are to assist the SBA breakout procurement center representative in carrying out the activities described in (c) (1) through (7) of this section and to assist the SBA procurement center representatives (see FAR 19.402).
 
-[51 FR 19715, May 30, 1986, as amended at 54 FR 25062, June 12, 1989]
+[51 FR 19715, May 30, 1986, as amended at 54 FR 25062, June 12, 1989; 85 FR 11760, Feb. 27, 2020]

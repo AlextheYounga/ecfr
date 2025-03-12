@@ -1,7 +1,5 @@
 ##### 19.1403 Status as a service-disabled veteran-owned small business concern. #####
 
-Link to an amendment published at 85 FR 11767, Feb. 27, 2020.
-
 (a) Status as a service-disabled veteran-owned small business concern is determined in accordance with 13 CFR parts 125.8 through 125.13; also *see* 19.307.
 
 (b) At the time that a service-disabled veteran-owned small business concern submits its offer, it must represent to the contracting officer that it is a -
@@ -20,6 +18,6 @@ Link to an amendment published at 85 FR 11767, Feb. 27, 2020.
 
 (4) The joint venture meets the requirements of 13 CFR 125.15(b).
 
-(d) Any service-disabled veteran-owned small business concern (nonmanufacturer) must meet the requirements in 19.102(f) to receive a benefit under this program.
+(d) Any service-disabled veteran-owned small business concern (nonmanufacturer) is required to meet the requirements in 19.1407(c) to receive a benefit under this program.
 
-[69 FR 25278, May 5, 2004, as amended at 84 FR 47864, Sept. 10, 2019]
+[69 FR 25278, May 5, 2004, as amended at 84 FR 47864, Sept. 10, 2019; 85 FR 11767, Feb. 27, 2020]

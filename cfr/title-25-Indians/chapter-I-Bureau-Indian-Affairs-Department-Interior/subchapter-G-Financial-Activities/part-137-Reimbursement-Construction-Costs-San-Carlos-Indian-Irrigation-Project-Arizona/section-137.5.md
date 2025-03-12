@@ -1,6 +1,6 @@
 ##### § 137.5 Construction costs limited. #####
 
-The repayment contract1/\> with the San Carlos irrigation and drainage district, page 13 thereof, contains the following:
+The repayment contract1 with the San Carlos irrigation and drainage district, page 13 thereof, contains the following:
 
 1 Contract available at the Bureau of Indian Affairs, Washington, D.C.
 

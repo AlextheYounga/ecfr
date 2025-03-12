@@ -1,7 +1,5 @@
 ##### § 622.187 Bag and possession limits. #####
 
-Link to an amendment published at 85 FR 11309, Feb. 27, 2020.
-
 (a) *Additional applicability provisions for South Atlantic snapper-grouper.* Section 622.11(a) provides the general applicability for bag and possession limits. However, § 622.11(a) notwithstanding:
 
 (1) The bag and other limits specified in § 622.182(b) apply for South Atlantic snapper-grouper in or from the EEZ to a person aboard a vessel for which a commercial permit for South Atlantic snapper-grouper has been issued that has on board a longline in the longline closed area.
@@ -40,7 +38,7 @@ Link to an amendment published at 85 FR 11309, Feb. 27, 2020.
 
 (7) *Black sea bass - 7.*
 
-(8) *South Atlantic snapper-grouper, combined* - 20. However, excluded from this 20-fish bag limit are tomtate, South Atlantic snapper-grouper ecosystem component species (specified in Table 4 of appendix A to part 622), and those specified in paragraphs (b)(1) through (7) and paragraphs (b)(9) and (10) of this section.
+(8) *South Atlantic snapper-grouper (whitebone porgy, jolthead porgy, knobbed porgy, saucereye porgy, scup, almaco jack, banded rudderfish, lesser amberjack, white grunt, margate, sailor's choice, Atlantic spadefish, gray triggerfish, bar jack), combined* - 20. However, excluded from this 20-fish bag limit are tomtate, South Atlantic snapper-grouper ecosystem component species (specified in table 4 of appendix A to part 622), and those specified in paragraphs (b)(1) through (7) and paragraphs (b)(9) and (10) of this section. Within the 20-fish bag limit, no more than 10 fish can be of any one of these single snapper-grouper species.
 
 (9) *Red snapper* - 1.
 
@@ -56,4 +54,4 @@ Link to an amendment published at 85 FR 11309, Feb. 27, 2020.
 
 (2) A person aboard a vessel may not possess red porgy in or from the EEZ in excess of three per day or three per trip, whichever is more restrictive.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 44465, July 24, 2013; 78 FR 78775, Dec. 27, 2013; 80 FR 16587, Mar. 30, 2015; 80 FR 80688, Dec. 28, 2015; 81 FR 45248, July 13, 2016; 82 FR 34594, July 25, 2017; 83 FR 1309, Jan. 11, 2018; 83 FR 35435, July 26, 2018]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 44465, July 24, 2013; 78 FR 78775, Dec. 27, 2013; 80 FR 16587, Mar. 30, 2015; 80 FR 80688, Dec. 28, 2015; 81 FR 45248, July 13, 2016; 82 FR 34594, July 25, 2017; 83 FR 1309, Jan. 11, 2018; 83 FR 35435, July 26, 2018; 85 FR 11309, Feb. 27, 2020]

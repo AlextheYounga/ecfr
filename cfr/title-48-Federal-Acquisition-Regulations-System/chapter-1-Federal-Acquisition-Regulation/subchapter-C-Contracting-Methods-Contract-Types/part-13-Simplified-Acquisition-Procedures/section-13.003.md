@@ -1,7 +1,5 @@
 ##### 13.003 Policy. #####
 
-Link to an amendment published at 85 FR 11756, Feb. 27, 2020.
-
 (a) Agencies shall use simplified acquisition procedures to the maximum extent practicable for all purchases of supplies or services not exceeding the simplified acquisition threshold (including purchases at or below the micro-purchase threshold). This policy does not apply if an agency can meet its requirement using -
 
 (1) Required sources of supply under part 8 (e.g., Federal Prison Industries, Committee for Purchase from People Who are Blind or Severely Disabled, and Federal Supply Schedule contracts);
@@ -10,7 +8,7 @@ Link to an amendment published at 85 FR 11756, Feb. 27, 2020.
 
 (3) Other established contracts.
 
-(b)(1) Acquisitions of supplies or services that have an anticipated dollar value exceeding $3,500 ($20,000 for acquisitions as described in 13.201(g)(1)) but not exceeding $150,000 ($750,000 for acquisitions described in paragraph (1)(i) of the simplified acquisition threshold definition at 2.101) are reserved exclusively for small business concerns and shall be set aside (see 19.000, 19.203, and subpart 19.5).
+(b)(1) Acquisitions of supplies or services that have an anticipated dollar value exceeding $3,500 ($20,000 for acquisitions as described in 13.201(g)(1)) but not exceeding $150,000 ($750,000 for acquisitions described in paragraph (1)(i) of the simplified acquisition threshold definition at 2.101) shall be set aside for small business concerns (see 19.000, 19.203, and subpart 19.5).
 
 (2) The contracting officer may make an award to a small business concern under the -
 

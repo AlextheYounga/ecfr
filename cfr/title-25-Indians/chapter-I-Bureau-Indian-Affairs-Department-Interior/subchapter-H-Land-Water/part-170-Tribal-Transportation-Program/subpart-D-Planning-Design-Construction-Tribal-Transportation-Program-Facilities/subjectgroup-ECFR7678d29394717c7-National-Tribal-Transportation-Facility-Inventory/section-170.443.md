@@ -1,5 +1,7 @@
 ##### § 170.443 What is required to successfully include a proposed transportation facility in the NTTFI? #####
 
+Link to an amendment published at 85 FR 17499, Mar. 30, 2020.
+
 (a) A proposed transportation facility is any transportation facility, including a highway bridge, that will serve public transportation needs, meets the eligibility requirements of the TTP, and does not currently exist. It must meet the eligibility requirements of the TTP and be open to the public when constructed. In order to have a proposed facility placed on the NTTFI, a Tribe must submit all of the following to the BIADOT/FHWA Quality Assurance Team for consideration:
 
 (1) A Tribal resolution or other official action identifying support for the facility and its placement on the NTTFI.

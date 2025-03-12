@@ -1,8 +1,6 @@
 ##### 8.404 Use of Federal Supply Schedules. #####
 
-Link to an amendment published at 85 FR 11756, Feb. 27, 2020.
-
-(a) *General.* Parts 13 (except 13.303-2(c)(3)), 14, 15, and 19 (except for the requirement at 19.202-1(e)(1)(iii)) do not apply to BPAs or orders placed against Federal Supply Schedules contracts (but see 8.405-5). BPAs and orders placed against a MAS, using the procedures in this subpart, are considered to be issued using full and open competition (see 6.102(d)(3)). Therefore, when establishing a BPA (as authorized by 13.303-2(c)(3)), or placing orders under Federal Supply Schedule contracts using the procedures of 8.405, ordering activities shall not seek competition outside of the Federal Supply Schedules or synopsize the requirement; but *see* paragraph (g) of this section.
+(a) *General.* Parts 13 (except 13.303-2(c)(3)), 14, 15, and 19 (except for the requirements at 19.102(b)(3) and 19.202-1(e)(1)(iii))do not apply to BPAs or orders placed against Federal Supply Schedules contracts (but see 8.405-5). BPAs and orders placed against a MAS, using the procedures in this subpart, are considered to be issued using full and open competition (see 6.102(d)(3)). Therefore, when establishing a BPA (as authorized by 13.303-2(c)(3)), or placing orders under Federal Supply Schedule contracts using the procedures of 8.405, ordering activities shall not seek competition outside of the Federal Supply Schedules or synopsize the requirement; but *see* paragraph (g) of this section.
 
 (b)(1) The contracting officer, when placing an order or establishing a BPA, is responsible for applying the regulatory and statutory requirements applicable to the agency for which the order is placed or the BPA is established. The requiring agency shall provide the information on the applicable regulatory and statutory requirements to the contracting officer responsible for placing the order.
 
@@ -70,4 +68,4 @@ Link to an amendment published at 85 FR 11756, Feb. 27, 2020.
 
 (j) *Line items.* When placing orders or establishing BPAs, ordering activities shall reference the special item number and the corresponding line or subline item awarded (established per 4.1005) in the schedule. If an ordering activity contracting officer adds an item not on the Federal Supply Schedule in accordance with 8.402(f), establish a new line item in accordance with subpart 4.10.
 
-[69 FR 34234, June 18, 2004, as amended at 74 FR 14638, Mar. 31, 2009; 75 FR 77735, Dec. 13, 2010; 76 FR 14552, Mar. 16, 2011; 77 FR 196, Jan. 3, 2012; 78 FR 13767, Feb. 28, 2013; 78 FR 80375, Dec. 31, 2013; 80 FR 38296, July 2, 2015; 81 FR 67772, Sept. 30, 2016; 82 FR 4713, Jan. 13, 2017; 84 FR 19838, May 6, 2019]
+[69 FR 34234, June 18, 2004, as amended at 74 FR 14638, Mar. 31, 2009; 75 FR 77735, Dec. 13, 2010; 76 FR 14552, Mar. 16, 2011; 77 FR 196, Jan. 3, 2012; 78 FR 13767, Feb. 28, 2013; 78 FR 80375, Dec. 31, 2013; 80 FR 38296, July 2, 2015; 81 FR 67772, Sept. 30, 2016; 82 FR 4713, Jan. 13, 2017; 84 FR 19838, May 6, 2019; 85 FR 11756, Feb. 27, 2020]

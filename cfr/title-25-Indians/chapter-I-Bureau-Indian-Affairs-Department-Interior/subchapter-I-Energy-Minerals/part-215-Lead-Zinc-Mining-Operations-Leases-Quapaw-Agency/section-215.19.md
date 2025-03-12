@@ -1,4 +1,4 @@
-##### § 215.19 Forms.2/\> #####
+##### § 215.19 Forms.2 #####
 
 2 Forms may be obtained from the Commissioner of Indian Affairs, Washington, D.C.
 

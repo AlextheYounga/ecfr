@@ -1,7 +1,5 @@
 ##### 2.101 Definitions. #####
 
-Link to an amendment published at 85 FR 11756, Feb. 27, 2020.
-
 (a) A word or a term, defined in this section, has the same meaning throughout this regulation (48 CFR chapter 1), unless -
 
 (1) The context in which the word or term is used clearly requires a different meaning; or
@@ -419,6 +417,8 @@ Link to an amendment published at 85 FR 11756, Feb. 27, 2020.
 (2) Set-aside awards based on competition restricted to HUBZone small business concerns.
 
 (3) Awards to HUBZone small business concerns through full and open competition after a price evaluation preference in favor of HUBZone small business concerns.
+
+(4) Awards based on a reserve for HUBZone small business concerns in a solicitation for a multiple-award contract.
 
 *HUBZone small business concern* means a small business concern, certified by the Small Business Administration (SBA), that appears on the List of Qualified HUBZone Small Business Concerns maintained by the SBA (13 CFR 126.103).
 

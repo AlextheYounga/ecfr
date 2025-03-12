@@ -1,7 +1,5 @@
 ##### 16.500 Scope of subpart. #####
 
-Link to an amendment published at 85 FR 11757, Feb. 27, 2020.
-
 (a) This subpart prescribes policies and procedures for making awards of indefinite-delivery contracts and establishes a preference for making multiple awards of indefinite-quantity contracts.
 
 (b) This subpart does not limit the use of other than competitive procedures authorized by part 6.
@@ -10,4 +8,6 @@ Link to an amendment published at 85 FR 11757, Feb. 27, 2020.
 
 (d) The statutory multiple award preference implemented by this subpart does not apply to architect-engineer contracts subject to the procedures in subpart 36.6. However, agencies are not precluded from making multiple awards for architect-engineer services using the procedures in this subpart, provided the selection of contractors and placement of orders are consistent with subpart 36.6.
 
-[65 FR 24318, Apr. 25, 2000]
+(e) See subpart 19.5 for procedures to set aside part or parts of multiple-award contracts for small businesses; to reserve one or more awards for small business on multiple-award contracts; and to set aside orders for small businesses under multiple-award contracts.
+
+[65 FR 24318, Apr. 25, 2000, as amended at 85 FR 11757, Feb. 27, 2020]
