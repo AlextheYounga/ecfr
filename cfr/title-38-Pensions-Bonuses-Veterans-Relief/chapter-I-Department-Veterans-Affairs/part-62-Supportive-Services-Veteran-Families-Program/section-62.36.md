@@ -1,7 +1,5 @@
 ##### § 62.36 General operation requirements. #####
 
-Link to an amendment published at 82 FR 41526, Sept. 1, 2017.
-
 (a) *Eligibility documentation.* Prior to providing supportive services, grantees must verify and document each participant's eligibility for supportive services and classify the participant under one of the categories set forth in § 62.11. Grantees must recertify the participant's eligibility as a very low-income veteran family at least once every 3 months.
 
 (b) *Confidentiality.* Grantees must maintain the confidentiality of records kept on participants. Grantees that provide family violence prevention or treatment services must establish and implement procedures to ensure the confidentiality of:
@@ -18,7 +16,7 @@ Link to an amendment published at 82 FR 41526, Sept. 1, 2017.
 
 (iii) Any conditions or restrictions on the receipt of supportive services by the participant.
 
-(2) The grantee must provide each participant with a satisfaction survey which can be submitted by the participant directly to VA, within 45 to 60 days of the participant's entry into the grantee's program and again within 30 days of such participant's pending exit from the grantee's program.
+(2) The grantee must provide each participant with a satisfaction survey, which the participant can submit directly to VA, within 30 days of such participant's pending exit from the grantee's program.
 
 (d) *Assessment of funds.* Grantees must regularly assess how supportive services grant funds can be used in conjunction with other available funds and services to assist participants.
 
@@ -38,4 +36,4 @@ Link to an amendment published at 82 FR 41526, Sept. 1, 2017.
 
 (g) *Continuum of Care coordinated assessment.* Grantees must participate in the development, implementation, and ongoing operations of their local Continuum of Care's coordinated assessment system, or equivalent, as described in the McKinney-Vento Act, as amended by the HEARTH Act (42 U.S.C. 11302).
 
-(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-0757)(Authority: 38 U.S.C. 501, 2044)[75 FR 68979, Nov. 10, 2010, as amended at 80 FR 9612, Feb. 24, 2015]
+(The Office of Management and Budget has approved the information collection provisions in this section under control number 2900-0757)(Authority: 38 U.S.C. 501, 2044)[75 FR 68979, Nov. 10, 2010, as amended at 80 FR 9612, Feb. 24, 2015; 82 FR 41526, Sept. 1, 2017]

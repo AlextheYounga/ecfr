@@ -1,5 +1,7 @@
 ##### § 271.6 Processing requests. #####
 
+Link to an amendment published at 82 FR 45680, Oct. 2, 2017.
+
 (a) *Receipt of requests.* The date of receipt for any request, including one that is addressed incorrectly or that is referred to the Committee by another agency or by a Federal Reserve Bank, is the date the Secretary of the Committee actually receives the request.
 
 (b) *Priority of responses.* The Committee shall normally process requests in the order they are received. However, in the Secretary's discretion, or upon a court order in a matter to which the Committee is a party, a particular request may be processed out of turn.

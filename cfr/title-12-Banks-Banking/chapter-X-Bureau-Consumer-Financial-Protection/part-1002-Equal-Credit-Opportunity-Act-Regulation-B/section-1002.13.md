@@ -1,5 +1,7 @@
 ##### § 1002.13 Information for monitoring purposes. #####
 
+Link to an amendment published at 82 FR 45694, Oct. 2, 2017.
+
 (a) *Information to be requested.* (1) A creditor that receives an application for credit primarily for the purchase or refinancing of a dwelling occupied or to be occupied by the applicant as a principal residence, where the extension of credit will be secured by the dwelling, shall request as part of the application the following information regarding the applicant(s):
 
 (i) Ethnicity, using the categories Hispanic or Latino, and not Hispanic or Latino; and race, using the categories American Indian or Alaska Native, Asian, Black or African American, Native Hawaiian or Other Pacific Islander, and White;

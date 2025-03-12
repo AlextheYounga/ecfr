@@ -1,0 +1,15 @@
+##### § 371.6 Transition for existing records entities. #####
+
+(a) *Limited scope entities.* Notwithstanding any other provision of this part, an insured depository institution that became a records entity prior to October 1, 2017, and constitutes a limited scope entity on October 1, 2017, shall continue to comply with this part as in effect immediately prior to October 1, 2017, or, if it elects to comply with this part as in effect on and after October 1, 2017, as so in effect, for so long as the entity remains a limited scope entity that has not ceased to be required to maintain the capacity to produce records pursuant to § 371.3(d).
+
+*(b) Transition for full scope entities maintaining records on effective date.* If an insured depository institution that constitutes a full scope entity on October 1, 2017, became a records entity prior to October 1, 2017, and is maintaining the records required by this part as in effect immediately prior to October 1, 2017, then:
+
+(1) Except as provided in paragraph (b)(2) of this section, such records entity shall comply with the recordkeeping requirements of this part within 270 days after October 1, 2017 (or no later than 60 days after October 1, 2017 if it is an accelerated records entity); and
+
+(2) If—
+
+(i) Such records entity is a Part 148 affiliate and, on October 1, 2017, is not an accelerated records entity; and
+
+(ii) The compliance date for any other member of such record entity's corporate group to comply with Part 148 is set forth in 31 CFR 148.1(d)(1)(i)(B),(C), or (D), as in effect on October 1, 2017, such records entity shall be permitted to delay compliance with the recordkeeping requirements of this part until the first date on which members of any corporate group of which such records entity is a member is required to comply with Part 148 pursuant to 31 CFR 148.1(d)(1)(i)(B),(C), or (D), as in effect on October 1, 2017; provided, that if such records entity becomes an accelerated records entity, it shall comply with the recordkeeping requirements of this part no later than 60 days after it becomes an accelerated records entity; provided, that in the case of each of paragraphs (b)(1) and (2) of this section until such full scope entity maintains the records required by § 371.4, it continues to maintain the records required by this part as in effect immediately prior to October 1, 2017.
+
+(c) *Transition for full scope entities not maintaining records on effective date.* If an insured depository institution that constitutes a full scope entity on October 1, 2017, became a records entity prior to October 1, 2017, but is not maintaining the records required by this part as in effect immediately prior to October 1, 2017, such records entity shall comply with all recordkeeping requirements of this part within 270 days after the date that it first became a records entity (or no later than 60 days after it first became a records entity if it is an accelerated records entity).

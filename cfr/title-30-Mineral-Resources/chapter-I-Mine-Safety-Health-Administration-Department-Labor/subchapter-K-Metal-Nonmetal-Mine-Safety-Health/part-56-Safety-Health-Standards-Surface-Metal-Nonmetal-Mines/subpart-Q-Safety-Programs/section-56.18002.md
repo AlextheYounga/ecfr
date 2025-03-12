@@ -1,9 +1,15 @@
 ##### § 56.18002 Examination of working places. #####
 
-Link to an amendment published at 82 FR 7695, Jan. 23, 2017.This amendment was delayed until Oct. 2, 2017, at 82 FR 23139, May 22, 2017.
+(a) A competent person designated by the operator shall examine each working place at least once each shift before miners begin work in that place, for conditions that may adversely affect safety or health.
 
-(a) A competent person designated by the operator shall examine each working place at least once each shift for conditions which may adversely affect safety or health. The operator shall promptly initiate appropriate action to correct such conditions.
+(1) The operator shall promptly notify miners in any affected areas of any conditions found that may adversely affect safety or health and promptly initiate appropriate action to correct such conditions.
 
-(b) A record that such examinations were conducted shall be kept by the operator for a period of one year, and shall be made available for review by the Secretary or his authorized representative.
+(2) Conditions noted by the person conducting the examination that may present an imminent danger shall be brought to the immediate attention of the operator who shall withdraw all persons from the area affected (except persons referred to in section 104(c) of the Federal Mine Safety and Health Act of 1977) until the danger is abated.
 
-(c) In addition, conditions that may present an imminent danger which are noted by the person conducting the examination shall be brought to the immediate attention of the operator who shall withdraw all persons from the area affected (except persons referred to in section 104(c) of the Federal Mine Safety and Health Act of 1977) until the danger is abated.
+(b) A record of each examination shall be made before the end of the shift for which the examination was conducted. The record shall contain the name of the person conducting the examination; date of the examination; location of all areas examined; and description of each condition found that may adversely affect the safety or health of miners.
+
+(c) When a condition that may adversely affect safety or health is corrected, the examination record shall include, or be supplemented to include, the date of the corrective action.
+
+(d) The operator shall maintain the examination records for at least one year, make the records available for inspection by authorized representatives of the Secretary and the representatives of miners, and provide these representatives a copy on request.
+
+[82 FR 7695, Jan. 23, 2017]

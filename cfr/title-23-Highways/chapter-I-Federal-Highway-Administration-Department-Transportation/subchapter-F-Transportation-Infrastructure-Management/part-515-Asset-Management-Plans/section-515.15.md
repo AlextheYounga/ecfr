@@ -1,0 +1,7 @@
+##### § 515.15 Penalties #####
+
+(a) Beginning on October 1, 2019, and in each fiscal year thereafter, if a State DOT has not developed and implemented an asset management plan consistent with the requirements of 23 U.S.C. 119 and this part, the maximum Federal share for National Highway Performance Program projects and activities carried out by the State in that fiscal year shall be reduced to 65 percent for that fiscal year.
+
+(b)(1) Except as provided in paragraph (b)(2) of this section, if the State DOT has not developed and implemented an asset management plan that is consistent with the requirements of 23 U.S.C. 119 and this part and established the performance targets for NHS pavements and bridges required under 23 U.S.C. 150(d) by the date that is 18 months after the effective date of the 23 U.S.C. 150(c) final rule for NHS pavements and bridges, the FHWA will not approve any further projects using National Highway Performance Program funds. Such suspension of funding approvals will terminate once the State DOT has developed and implemented an asset management plan that is consistent with the requirements of 23 U.S.C. 119 and this part and established its performance targets for NHS pavements and bridges required under 23 U.S.C. 150(d).
+
+(2) The FHWA may extend this deadline if FHWA determines that the State DOT has made a good faith effort to develop and implement an asset management plan and establish the performance targets for NHS pavements and bridges required under 23 U.S.C. 150(d).

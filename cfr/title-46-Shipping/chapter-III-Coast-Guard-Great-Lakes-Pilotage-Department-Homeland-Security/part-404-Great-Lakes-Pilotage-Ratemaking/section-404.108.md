@@ -1,5 +1,5 @@
-##### § 404.108 Ratemaking step 8: Review and finalize rates. #####
+##### § 404.108 Ratemaking step 8: Calculate average weighting factors by Area. #####
 
-Link to an amendment published at 82 FR 41496, Aug. 31, 2017.
+The Director calculates the average weighting factor for each area by computing the 10-year rolling average of weighting factors applied in that area, beginning with the year 2014. If less than 10 years of data are available, the Director calculates the average weighting factor using data from each year beginning with 2014.
 
-The Director reviews the base pilotage rates initially set in § 404.107 of this part to ensure they meet the goal set in § 404.1(a) of this part, and either finalizes them or first makes necessary and reasonable adjustments to them based on requirements of Great Lakes pilotage agreements between the United States and Canada, or other supportable circumstances. Adjustments will be made consistent with § 404.107(b) of this part.
+[USCG-2016-0268, 82 FR 41496, Aug. 31, 2017]
