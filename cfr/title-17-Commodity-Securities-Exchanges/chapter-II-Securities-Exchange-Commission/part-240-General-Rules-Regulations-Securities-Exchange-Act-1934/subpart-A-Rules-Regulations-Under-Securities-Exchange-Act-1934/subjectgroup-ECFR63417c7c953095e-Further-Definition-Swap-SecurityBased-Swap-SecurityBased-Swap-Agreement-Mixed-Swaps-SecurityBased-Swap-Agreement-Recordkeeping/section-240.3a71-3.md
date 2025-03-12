@@ -1,5 +1,7 @@
 ##### § 240.3a71-3 Cross-border security-based swap dealing activity. #####
 
+Link to an amendment published at 85 FR 6350, Feb. 4, 2020.
+
 (a) *Definitions.* As used in this section, the following terms shall have the meanings indicated:
 
 (1) *Conduit affiliate* - (i) *Definition. Conduit affiliate* means a person, other than a U.S. person, that:

@@ -1,5 +1,7 @@
 ##### § 4043.29 Change in contributing sponsor or controlled group. #####
 
+Link to an amendment published at 85 FR 6062, Feb. 4, 2020.
+
 (a) *Reportable event.* A reportable event occurs for a plan when there is a transaction that results, or will result, in one or more persons' ceasing to be members of the plan's controlled group (other than by merger involving members of the same controlled group). For purposes of this section, the term “transaction” includes, but is not limited to, a legally binding agreement, whether or not written, to transfer ownership, an actual transfer of ownership, and an actual change in ownership that occurs as a matter of law or through the exercise or lapse of pre-existing rights. Whether an agreement is legally binding is to be determined without regard to any conditions in the agreement. A transaction is not reportable if it will result solely in a reorganization involving a mere change in identity, form, or place of organization, however effected.
 
 (b) *Waivers.* (1) De minimis *10-percent segment.* Notice under this section is waived if the person or persons that will cease to be members of the plan's controlled group represent a *de minimis* 10-percent segment of the plan's old controlled group for the most recent fiscal year(s) ending on or before the date the reportable event occurs.

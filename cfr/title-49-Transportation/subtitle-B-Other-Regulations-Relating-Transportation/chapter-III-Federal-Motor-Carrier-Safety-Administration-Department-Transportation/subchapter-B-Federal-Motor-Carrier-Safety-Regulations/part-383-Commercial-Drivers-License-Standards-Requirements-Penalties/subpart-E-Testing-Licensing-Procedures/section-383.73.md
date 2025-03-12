@@ -26,11 +26,11 @@
 
 (2) Check that the vehicle in which the applicant takes his/her test is representative of the vehicle group the applicant has certified that he/she operates or expects to operate;
 
-(3) Initiate and complete a check of the applicant's driving record to ensure that the person is not subject to any disqualification under § 383.51, or any license disqualification under State law, does not have a driver's license from more than one State or jurisdiction, and has completed the required training prescribed in subpart F of part 380 of this subchapter. The record check must include, but is not limited to, the following:
+(3) Initiate and complete a check of the applicant's driving record to ensure that the person is not subject to any disqualification under § 383.51, or any license disqualification under State law, and does not have a driver's license from more than one State or jurisdiction. The record check must include, but is not limited to, the following:
 
 (i) A check of the applicant's driving record as maintained by his/her current State of licensure, if any;
 
-(ii) A check with the CDLIS to determine whether the driver applicant already has been issued a CDL, whether the applicant's license has been disqualified, or if the applicant has been disqualified from operating a commercial motor vehicle; and beginning February 7, 2020, before an applicant is issued a Class A or Class B CDL, or a passenger (P), school bus (S), or hazardous materials (H) endorsement, whether the applicant has completed the training required by subpart F of part 380 of this subchapter;
+(ii) A check with the CDLIS to determine whether the driver applicant already has been issued a CDL, whether the applicant's license has been disqualified, or if the applicant has been disqualified from operating a commercial motor vehicle;
 
 (iii) A check with the Problem Driver Pointer System (PDPS) to determine whether the driver applicant has:
 
@@ -60,7 +60,7 @@
 
 (10) Beginning January 6, 2023, request information from the Drug and Alcohol Clearinghouse in accordance with § 382.725 of this chapter.
 
-(11) Beginning on February 7, 2020, not conduct a skills test of an applicant for a Class A or Class B CDL, or a passenger (P) or school bus (S) endorsement until the State verifies electronically that the applicant completed the training prescribed in subpart F of part 380 of this subchapter.
+(11) Beginning on February 7, 2022, not conduct a skills test of an applicant for a Class A or Class B CDL, or a passenger (P) or school bus (S) endorsement until the State verifies electronically that the applicant completed the training prescribed in subpart F of part 380 of this subchapter.
 
 (c) *License transfers.* Prior to issuing a CDL to a person who has a CDL from another State, a State must:
 
@@ -126,7 +126,7 @@
 
 (8) Beginning January 6, 2023, request information from the Drug and Alcohol Clearinghouse in accordance with § 382.725 of this chapter.
 
-(9) Beginning on February 7, 2020, not issue an upgrade to a Class A or Class B CDL, or a passenger (P), school bus (S), or hazardous materials (H) endorsement, unless the applicant has completed the training required by subpart F of part 380 of this subchapter.
+(9) Beginning on February 7, 2022, not conduct a skills test of an applicant for an upgrade to a Class A or Class B CDL, or a passenger (P), school bus (S) endorsement, or administer the knowledge test to an applicant for the hazardous materials (H) endorsement, unless the applicant has completed the training required by subpart F of part 380 of this subchapter.
 
 (f) *Non-domiciled CLP and CDL.* (1) A State may only issue a Non-domiciled CLP or CDL to a person who meets one of the circumstances described in § 383.71(f)(1).
 
@@ -264,6 +264,6 @@
 
 (6) In the event of a conflict between the medical certification information provided electronically by FMCSA and a paper copy of the medical examiner's certificate, the medical certification information provided electronically by FMCSA shall control.
 
-(p) After February 7, 2020, the State must notify FMCSA that a training provider in the State does not meet applicable State requirements for CMV instruction.
+(p) After February 7, 2022, the State must notify FMCSA that a training provider in the State does not meet applicable State requirements for CMV instruction.
 
-[76 FR 26883, May 9, 2011, as amended at 77 FR 24127, Apr. 20, 2012; 78 FR 17880, Mar. 25, 2013; 78 FR 58480, Sept. 24, 2013; 79 FR 59456, Oct. 2, 2014; 80 FR 22810, Apr. 23, 2015; 80 FR 35577, June 22, 2015; 80 FR 59072, Oct. 1, 2015; 81 FR 87730, Dec. 5, 2016; 81 FR 88803, Dec. 8, 2016; 82 FR 2916, Jan. 10, 2017; 83 FR 22876, May 17, 2018; 83 FR 28781, June 21, 2018; 83 FR 65571, Dec. 21, 2018; 84 FR 68057, Dec. 13, 2019]
+[76 FR 26883, May 9, 2011, as amended at 77 FR 24127, Apr. 20, 2012; 78 FR 17880, Mar. 25, 2013; 78 FR 58480, Sept. 24, 2013; 79 FR 59456, Oct. 2, 2014; 80 FR 22810, Apr. 23, 2015; 80 FR 35577, June 22, 2015; 80 FR 59072, Oct. 1, 2015; 81 FR 87730, Dec. 5, 2016; 81 FR 88803, Dec. 8, 2016; 82 FR 2916, Jan. 10, 2017; 83 FR 22876, May 17, 2018; 83 FR 28781, June 21, 2018; 83 FR 65571, Dec. 21, 2018; 84 FR 68057, Dec. 13, 2019; 85 FR 6100, Feb. 4, 2020]

@@ -1,5 +1,7 @@
 ##### § 4043.9 Company low-default-risk safe harbor. #####
 
+Link to an amendment published at 85 FR 6061, Feb. 4, 2020.
+
 (a) *Low-default-risk.* An entity (a “company”) that is a contributing sponsor of a plan or the highest level U.S. parent of a contributing sponsor is “low-default-risk” on the date of an event if that date falls within a safe harbor period of the company as described in paragraph (b) of this section.
 
 (b) *Safe harbor period.* A safe harbor period for a company means a period that -

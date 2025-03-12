@@ -1,5 +1,7 @@
 ##### § 4043.3 Requirement of notice. #####
 
+Link to an amendment published at 85 FR 6061, Feb. 4, 2020.
+
 (a) *Obligation to file* - (1) *In general.* Each person that is required to file a notice under this part, or a duly authorized representative, must submit the information required under this part by the time specified in § 4043.20 (for post-event notices), § 4043.61 (for advance notices), or § 4043.81 (for Form 200 filings). Any information filed with PBGC in connection with another matter may be incorporated by reference. If an event is subject to both post-event and advance notice requirements, the notice filed first satisfies both filing requirements.
 
 (2) *Multiple plans.* If a reportable event occurs for more than one plan, the filing obligation with respect to each plan is independent of the filing obligation with respect to any other plan.

@@ -1,6 +1,6 @@
 ##### § 240.17a-3 Records to be made by certain exchange members, brokers and dealers. #####
 
-Link to an amendment published at 84 FR 68646, Dec. 16, 2019.
+Link to an amendment published at 84 FR 68646, Dec. 16, 2019.Link to an amendment published at 85 FR 6416, Feb. 4, 2020.
 
 (a) Every member of a national securities exchange who transacts a business in securities directly with others than members of a national securities exchange, and every broker or dealer who transacts a business in securities through the medium of any such member, and every broker or dealer registered pursuant to section 15 of the Securities Exchange Act of 1934, as amended, (48 Stat. 895, 49 Stat. 1377, 52 Stat. 1075; 15 U.S.C. 78*o*) shall make and keep current the following books and records relating to its business:
 

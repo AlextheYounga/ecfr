@@ -1,5 +1,7 @@
 ##### § 201.194 Applications by security-based swap dealers or major security-based swap participants for statutorily disqualified associated persons to effect or be involved in effecting security-based swaps. #####
 
+Link to an amendment published at 85 FR 6349, Feb. 4, 2020.
+
 A security-based swap dealer or major security-based swap participant making an application under this section should refer to paragraph (i) of this section.
 
 (a) *Scope of rule.* Applications by a security-based swap dealer or major security-based swap participant for the Commission to permit an associated person (as provided in 15 U.S.C. 78c(a)(70)) to effect or be involved in effecting security-based swaps on behalf of a registered security-based swap dealer or major security-based swap participant, or to change the terms and conditions thereof, may be made pursuant to this section where the associated person is subject to a statutory disqualification and thereby prohibited from effecting or being involved in effecting security-based swaps on behalf of a security-based swap dealer or major security-based swap participant under Exchange Act Section 15F(b)(6) (15 U.S.C. 78o-10(b)(6)).

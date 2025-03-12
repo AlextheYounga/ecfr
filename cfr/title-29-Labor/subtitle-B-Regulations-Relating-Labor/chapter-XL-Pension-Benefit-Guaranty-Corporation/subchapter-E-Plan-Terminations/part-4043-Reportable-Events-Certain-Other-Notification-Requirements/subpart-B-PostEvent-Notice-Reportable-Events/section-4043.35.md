@@ -1,5 +1,7 @@
 ##### § 4043.35 Insolvency or similar settlement. #####
 
+Link to an amendment published at 85 FR 6064, Feb. 4, 2020.
+
 (a) *Reportable event.* A reportable event occurs for a plan when any member of the plan's controlled group -
 
 (1) Commences or has commenced against it any insolvency proceeding (including, but not limited to, the appointment of a receiver) other than a bankruptcy case under the Bankruptcy Code;

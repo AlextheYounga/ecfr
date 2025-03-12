@@ -1,5 +1,7 @@
 ##### § 4043.32 Transfer of benefit liabilities. #####
 
+Link to an amendment published at 85 FR 6064, Feb. 4, 2020.
+
 (a) *Reportable event.* A reportable event occurs for a plan when -
 
 (1) The plan makes a transfer of benefit liabilities to a person, or to a plan or plans maintained by a person or persons, that are not members of the transferor plan's controlled group; and

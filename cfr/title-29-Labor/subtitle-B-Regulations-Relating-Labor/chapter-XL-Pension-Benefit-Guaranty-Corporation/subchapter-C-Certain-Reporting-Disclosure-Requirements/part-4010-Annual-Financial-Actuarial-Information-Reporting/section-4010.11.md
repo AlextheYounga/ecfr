@@ -1,5 +1,7 @@
 ##### § 4010.11 Waivers. #####
 
+Link to an amendment published at 85 FR 6060, Feb. 4, 2020.
+
 (a) *Aggregate funding shortfall not in excess of $15 million waiver.* Unless reporting is required by § 4010.4(a)(2) or (3), reporting is waived for a person (that would be a filer if not for the waiver) for an information year if, for the plan year ending within the information year, the aggregate 4010 funding shortfall for all plans (including any exempt plans) maintained by the person's controlled group (disregarding those plans with no 4010 funding shortfall) does not exceed $15 million, as determined under paragraphs (a)(1) and (2) of this section.
 
 (1) *4010 funding shortfall; in general.* A plan's 4010 funding shortfall for a plan year equals the funding shortfall for the plan year as provided under ERISA section 303(c)(4) and Code section 430(c)(4), with the following exceptions:

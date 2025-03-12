@@ -1,5 +1,7 @@
 ##### § 4041.30 Requests for deadline extensions. #####
 
+Link to an amendment published at 85 FR 6061, Feb. 4, 2020.
+
 (a) *In general.* The PBGC may in its discretion extend a deadline for taking action under this subpart to a later date. The PBGC will grant such an extension where it finds compelling reasons why it is not administratively feasible for the plan administrator (or other persons acting on behalf of the plan administrator) to take the action until the later date and the delay is brief. The PBGC will consider -
 
 (1) The length of the delay; and

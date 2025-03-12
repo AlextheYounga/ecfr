@@ -1,5 +1,7 @@
 ##### § 4043.30 Liquidation. #####
 
+Link to an amendment published at 85 FR 6063, Feb. 4, 2020.
+
 (a) *Reportable event.* A reportable event occurs for a plan when a member of the plan's controlled group -
 
 (1) Is involved in any transaction to implement its complete liquidation (including liquidation into another controlled group member);

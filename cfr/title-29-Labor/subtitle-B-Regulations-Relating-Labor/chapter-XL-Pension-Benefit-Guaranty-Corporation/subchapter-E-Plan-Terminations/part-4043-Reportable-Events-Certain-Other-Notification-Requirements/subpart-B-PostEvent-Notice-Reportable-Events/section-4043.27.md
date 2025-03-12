@@ -1,5 +1,7 @@
 ##### § 4043.27 Distribution to a substantial owner. #####
 
+Link to an amendment published at 85 FR 6062, Feb. 4, 2020.
+
 (a) *Reportable event.* A reportable event occurs for a plan when -
 
 (1) There is a distribution to a substantial owner of a contributing sponsor of the plan;

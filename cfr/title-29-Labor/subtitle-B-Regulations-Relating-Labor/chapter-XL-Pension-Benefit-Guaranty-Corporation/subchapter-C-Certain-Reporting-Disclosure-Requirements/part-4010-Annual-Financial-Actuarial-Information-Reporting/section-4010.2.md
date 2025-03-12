@@ -1,5 +1,7 @@
 ##### § 4010.2 Definitions. #####
 
+Link to an amendment published at 85 FR 6059, Feb. 4, 2020.
+
 The following terms are defined in § 4001.2 of this chapter: benefit liabilities, Code, contributing sponsor, controlled group, earliest retirement age at valuation date, ERISA, expected retirement age (XRA), fair market value, IRS, PBGC, person, plan, plan year, and unreduced retirement age (URA).
 
 In addition, for purposes of this part:

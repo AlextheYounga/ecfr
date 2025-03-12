@@ -1,5 +1,7 @@
 ##### § 4043.26 Inability to pay benefits when due. #####
 
+Link to an amendment published at 85 FR 6062, Feb. 4, 2020.
+
 (a) *Reportable event.* A reportable event occurs when a plan is currently unable or projected to be unable to pay benefits.
 
 (1) *Current inability.* A plan is currently unable to pay benefits if it fails to provide any participant or beneficiary the full benefits to which the person is entitled under the terms of the plan, at the time the benefit is due and in the form in which it is due. A plan is not treated as being currently unable to pay benefits if its failure to pay is caused solely by -

@@ -1,5 +1,7 @@
 ##### § 4043.81 PBGC Form 200, notice of failure to make required contributions; supplementary information. #####
 
+Link to an amendment published at 85 FR 6064, Feb. 4, 2020.
+
 (a) *General rules.* To comply with the notification requirement in section 303(k)(4) of ERISA and section 430(k)(4) of the Code, a contributing sponsor of a single-employer plan that is covered under section 4021 of ERISA and (if that contributing sponsor is a member of a parent-subsidiary controlled group) the ultimate parent must complete and submit in accordance with this section a properly certified Form 200 that includes all required documentation and other information, as described in the related filing instructions. Notice is required whenever the unpaid balance of a contribution payment required under sections 302 and 303 of ERISA and sections 412 and 430 of the Code (including interest), when added to the aggregate unpaid balance of all preceding such payments for which payment was not made when due (including interest), exceeds $1 million.
 
 (1) Form 200 must be filed with PBGC no later than 10 days after the due date for any required payment for which payment was not made when due.

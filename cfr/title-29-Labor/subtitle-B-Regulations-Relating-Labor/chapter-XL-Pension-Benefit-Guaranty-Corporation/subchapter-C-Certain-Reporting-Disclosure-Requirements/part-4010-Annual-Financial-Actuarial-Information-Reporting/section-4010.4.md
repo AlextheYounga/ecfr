@@ -1,5 +1,7 @@
 ##### § 4010.4 Filers. #####
 
+Link to an amendment published at 85 FR 6059, Feb. 4, 2020.
+
 (a) *General.* Unless a waiver in § 4010.11 of this part applies, a contributing sponsor of a plan and each member of the contributing sponsor's controlled group on the last day of the information year is a filer with respect to an information year (unless exempted under paragraph (c) of this section) if -
 
 (1) For any plan (including an exempt plan) maintained by the members of the contributing sponsor's controlled group on the last day of the information year, the 4010 funding target attainment percentage for the plan year ending within the information year is less than 80 percent;

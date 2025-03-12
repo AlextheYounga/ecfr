@@ -1,5 +1,7 @@
 ##### § 4010.7 Identifying information. #####
 
+Link to an amendment published at 85 FR 6059, Feb. 4, 2020.
+
 (a) *Filers.* Each filer is required to provide, in accordance with the instructions on PBGC's Web site, *http://www.pbgc.gov*, the following identifying information with respect to each member of the filer's controlled group (excluding exempt entities) -
 
 (1) *Current members.* For an entity that is a member of the controlled group as of the end of the filer's information year -

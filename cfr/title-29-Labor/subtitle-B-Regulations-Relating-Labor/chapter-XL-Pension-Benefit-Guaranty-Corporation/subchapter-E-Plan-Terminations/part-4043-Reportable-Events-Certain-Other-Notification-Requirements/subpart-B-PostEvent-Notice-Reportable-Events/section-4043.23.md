@@ -1,5 +1,7 @@
 ##### § 4043.23 Active participant reduction. #####
 
+Link to an amendment published at 85 FR 6061, Feb. 4, 2020.
+
 (a) *Reportable event.* A reportable event occurs for a plan:
 
 (1) *Single-cause event.* On the date in a plan year when, as a result of a single cause - such as a reorganization, the discontinuance of an operation, a natural disaster, a mass layoff, or an early retirement incentive program - the number of active participants is reduced to less than 80 percent of the number of active participants at the beginning of such plan year or less than 75 percent of the number of active participants at the beginning of the plan year preceding such plan year.

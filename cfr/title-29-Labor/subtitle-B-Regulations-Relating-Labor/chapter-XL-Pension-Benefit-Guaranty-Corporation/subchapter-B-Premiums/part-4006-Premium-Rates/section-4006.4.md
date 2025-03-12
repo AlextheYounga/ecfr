@@ -1,5 +1,7 @@
 ##### § 4006.4 Determination of unfunded vested benefits. #####
 
+Link to an amendment published at 85 FR 6058, Feb. 4, 2020.
+
 (a) *In general.* Except as provided in the exemptions and special rules under § 4006.5, the amount of a plan's unfunded vested benefits for the UVB valuation year is the excess (if any) of the plan's premium funding target for the UVB valuation year (determined under paragraph (b) of this section) over the fair market value of the plan's assets for the UVB valuation year (determined under paragraph (c) of this section). Unfunded vested benefits for the UVB valuation year must be determined as of the plan's UVB valuation date , based on the plan provisions and the plan's population as of that date. The determination must be made in a manner consistent with generally accepted actuarial principles and practices.
 
 (b) *Premium funding target* - (1) *In general.* A plan's premium funding target is its standard premium funding target under paragraph (b)(2) of this section or, if an election to use the alternative premium funding target under § 4006.5(g) is in effect, its alternative premium funding target under § 4006.5(g).

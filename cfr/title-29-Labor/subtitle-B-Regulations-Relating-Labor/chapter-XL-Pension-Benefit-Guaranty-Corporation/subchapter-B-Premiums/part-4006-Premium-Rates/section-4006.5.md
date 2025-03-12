@@ -1,5 +1,7 @@
 ##### § 4006.5 Exemptions and special rules. #####
 
+Link to an amendment published at 85 FR 6058, Feb. 4, 2020.
+
 (a) *Variable-rate premium exemptions.* A plan described in any of paragraphs (a)(1)-(a)(4) of this section is not required to determine or report its unfunded vested benefits under § 4006.4 and does not owe a variable-rate premium under § 4006.3(b).
 
 (1) *Plans without vested participants.* A plan is described in this paragraph if it does not have any participants with vested benefits as of the UVB valuation date.

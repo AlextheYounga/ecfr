@@ -1,6 +1,6 @@
 ##### § 240.3a71-6 Substituted compliance for security-based swap dealers and major security-based swap participants. #####
 
-Link to an amendment published at 84 FR 68646, Dec. 16, 2019.
+Link to an amendment published at 84 FR 68646, Dec. 16, 2019.Link to an amendment published at 85 FR 6412, Feb. 4, 2020.
 
 (a) *Determinations* - (1) *In general.* Subject to paragraph (a)(2) of this section, the Commission may, conditionally or unconditionally, by order, make a determination with respect to a foreign financial regulatory system that compliance with specified requirements under such foreign financial regulatory system by a registered security-based swap dealer and/or by a registered major security-based swap participant (each a “security-based swap entity”), or class thereof, may satisfy the corresponding requirements identified in paragraph (d) of this section that would otherwise apply to such security-based swap entity (or class thereof).
 

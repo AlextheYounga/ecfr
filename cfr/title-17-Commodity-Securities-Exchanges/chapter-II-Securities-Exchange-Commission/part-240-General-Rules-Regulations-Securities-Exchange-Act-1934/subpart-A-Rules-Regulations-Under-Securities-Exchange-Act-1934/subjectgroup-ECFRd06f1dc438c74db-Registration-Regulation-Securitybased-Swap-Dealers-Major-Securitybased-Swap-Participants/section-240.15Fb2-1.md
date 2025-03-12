@@ -1,5 +1,7 @@
 ##### § 240.15Fb2-1 Registration of security-based swap dealers and major security-based swap participants. #####
 
+Link to an amendment published at 85 FR 6352, Feb. 4, 2020.
+
 (a) *Application.* An application for registration of a security-based swap dealer or a major security-based swap participant that is filed pursuant to Section 15F(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78o-10(b)) shall be filed on Form SBSE (§ 249.1600 of this chapter) or Form SBSE-A (§ 249.1600a of this chapter) or Form SBSE-BD (§ 249.1600b of this chapter), as appropriate, in accordance with paragraph (c) and the instructions to the forms. Applicants shall also file as part of their application the required certifications on Form SBSE-C (§ 249.1600c of this chapter).
 
 (b) *Senior Officer Certification.* A senior officer shall certify on Form SBSE-C (§ 249.1600c of this chapter) that;

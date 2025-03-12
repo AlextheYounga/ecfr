@@ -30,7 +30,7 @@
 
 (ix) The person must provide the State the certification contained in paragraph (b)(1) of this section.
 
-(3) Beginning on February 7, 2020, a person must complete the training prescribed in subpart F of part 380 of this chapter before taking the skills test for a Class A or B CDL for the first time, or a skills test for a passenger (P) or school bus (S) endorsement for the first time, or the knowledge test for a hazardous materials (H) endorsement for the first time. The training must be administered by a provider listed on the Training Provider Registry.
+(3) Beginning on February 7, 2022, a person must complete the training prescribed in subpart F of part 380 of this chapter before taking the skills test for a Class A or B CDL for the first time, or a skills test for a passenger (P) or school bus (S) endorsement for the first time, or the knowledge test for a hazardous materials (H) endorsement for the first time. The training must be administered by a provider listed on the Training Provider Registry.
 
 (b) *Initial Commercial Driver's License.* Prior to obtaining a CDL, a person must meet all of the following requirements:
 
@@ -73,7 +73,7 @@ Table 1 to § 383.71 - List of Acceptable Proofs of Citizenship or Lawful Perman
 
 (10) The person must provide proof that the State to which application is made is his/her State of domicile, as the term is defined in § 383.5. Acceptable proof of domicile is a document with the person's name and residential address within the State, such as a government issued tax form.
 
-(11) Beginning on February 7, 2020, a person must complete the training prescribed in subpart F of part 380 of this chapter before taking the skills test for a Class A or B CDL, a passenger (P) or school bus (S) endorsement for the first time or the knowledge test for a hazardous materials (H) endorsement for the first time. The training must be administered by a provider listed on the Training Provider Registry.
+(11) Beginning on February 7, 2022, a person must complete the training prescribed in subpart F of part 380 of this chapter before taking the skills test for a Class A or B CDL, a passenger (P) or school bus (S) endorsement for the first time or the knowledge test for a hazardous materials (H) endorsement for the first time. The training must be administered by a provider listed on the Training Provider Registry.
 
 (c) *License transfer.* When applying to transfer a CDL from one State of domicile to a new State of domicile, an applicant must apply for a CDL from the new State of domicile within no more than 30 days after establishing his/her new domicile. The applicant must:
 
@@ -115,7 +115,7 @@ Table 1 to § 383.71 - List of Acceptable Proofs of Citizenship or Lawful Perman
 
 (4) Surrender the previous CDL; and
 
-(5) Beginning on February 7, 2020, a person must complete the training prescribed in subpart F of part 380 of this chapter before taking the skills test for upgrading to a Class A or B for the first time; or adding a passenger or school bus endorsement to a CDL for the first time; or knowledge test for hazardous materials endorsement for the first time. The training must be administered by a provider on the Training Provider Registry.
+(5) Beginning on February 7, 2022, a person must complete the training prescribed in subpart F of part 380 of this chapter before taking the skills test for upgrading to a Class A or B for the first time; or adding a passenger or school bus endorsement to a CDL for the first time; or knowledge test for hazardous materials endorsement for the first time. The training must be administered by a provider on the Training Provider Registry.
 
 (f) *Non-domiciled CLP and CDL.* (1) A person must obtain a Non-domiciled CLP or CDL:
 
@@ -147,4 +147,4 @@ Table 1 to § 383.71 - List of Acceptable Proofs of Citizenship or Lawful Perman
 
 (4) In the event of a conflict between the medical certification information provided electronically by FMCSA and a paper copy of the medical examiner's certificate, the medical certification information provided electronically by FMCSA shall control.
 
-[76 FR 26881, May 9, 2011, as amended at 77 FR 59825, Oct. 1, 2012; 78 FR 58480, Sept. 24, 2013; 80 FR 22810, Apr. 23, 2015; 80 FR 59072, Oct. 1, 2015; 81 FR 88803, Dec. 8, 2016; 83 FR 28780, June 21, 2018]
+[76 FR 26881, May 9, 2011, as amended at 77 FR 59825, Oct. 1, 2012; 78 FR 58480, Sept. 24, 2013; 80 FR 22810, Apr. 23, 2015; 80 FR 59072, Oct. 1, 2015; 81 FR 88803, Dec. 8, 2016; 83 FR 28780, June 21, 2018; 85 FR 6100, Feb. 4, 2020]

@@ -1,5 +1,7 @@
 ##### § 240.15Fi-1 Definitions. #####
 
+Link to an amendment published at 85 FR 6412, Feb. 4, 2020.
+
 For the purposes of § 240.15Fi-1 and § 240.15Fi-2:
 
 (a) The term *business day* means any day other than a Saturday, Sunday, or legal holiday.

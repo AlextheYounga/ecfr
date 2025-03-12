@@ -1,5 +1,7 @@
 ##### § 240.0-13 Commission procedures for filing applications to request a substituted compliance order under the Exchange Act. #####
 
+Link to an amendment published at 85 FR 6350, Feb. 4, 2020.
+
 (a) The application shall be in writing in the form of a letter, must include any supporting documents necessary to make the application complete, and otherwise must comply with § 240.0-3. All applications must be submitted to the Office of the Secretary of the Commission, by a party that potentially would comply with requirements under the Exchange Act pursuant to a substituted compliance order, or by the relevant foreign financial regulatory authority or authorities. If an application is incomplete, the Commission may request that the application be withdrawn unless the applicant can justify, based on all the facts and circumstances, why supporting materials have not been submitted and undertakes to submit the omitted materials promptly.
 
 (b) An applicant may submit a request electronically. The electronic mailbox to use for these applications is described on the Commission's Web site at *www.sec.gov* in the “Exchange Act Substituted Compliance Applications” section. In the event electronic mailboxes are revised in the future, applicants can find the appropriate mailbox by accessing the “Electronic Mailboxes at the Commission” section.
