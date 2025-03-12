@@ -1,8 +1,6 @@
 ##### § 141.61 Completion of entry and entry summary documentation. #####
 
-Link to an amendment published at 82 FR 45405, Sept. 28, 2017.
-
-(a) *Preparation* - (1) *Paper entry and entry summary documentation.* Except when entry and entry summary documentation is filed with CBP electronically pursuant to the provisions of part 143 of this chapter:
+(a) *Preparation*—(1) *Paper entry and entry summary documentation.* Except when entry and entry summary documentation is filed with CBP electronically pursuant to the provisions of part 143 of this chapter:
 
 (i) Such documentation must be prepared on a typewriter (keyboard), or with ink, indelible pencil, or other permanent medium, and all copies must be legible;
 
@@ -26,7 +24,7 @@ Link to an amendment published at 82 FR 45405, Sept. 28, 2017.
 
 (4) *Broker No.* If a broker is used, the broker's number must be reported in the appropriate location on CBP Form 7501, or its electronic equivalent.
 
-(e) *Statistical information* - (1) *Information required on entry summary or withdrawal form* - (i) *Where form provides space* - (A) *Single invoice.* For each class or kind of merchandise subject to a separate statistical reporting number, the applicable information required by the General Statistical Notes, Harmonized Tariff Schedule of the United States (HTSUS), must be shown on the entry summary, CBP Form 7501, or its electronic equivalent; the transportation entry and manifest of goods, CBP Form 7512, when used to document an incoming vessel shipment proceeding to a third country by means of an entry for transportation and exportation, or immediate exportation.
+(e) *Statistical information*—(1) *Information required on entry summary or withdrawal form*—(i) *Where form provides space*—(A) *Single invoice.* For each class or kind of merchandise subject to a separate statistical reporting number, the applicable information required by the General Statistical Notes, Harmonized Tariff Schedule of the United States (HTSUS), must be shown on the entry summary, CBP Form 7501. The applicable information must also be shown on the in-bond application filed pursuant to part 18 of this chapter when it is used to document an incoming vessel shipment proceeding to a third country pursuant to an entry for transportation and exportation, or immediate exportation.
 
 (B) *Multiple invoices.* If a class or kind of merchandise from the same country of origin subject to the same statistical reporting number is included in more than one invoice, the importer may, at his option (*1*) list each invoice separately on the appropriate form listed under paragraph (e)(1)(i)(A) of this section and for each class or kind of merchandise within each invoice subject to a separate statistical reporting number, report the applicable information required by the General Statistical Notes, HTSUS; or (*2*) combine the information for each class or kind of merchandise and report it under one statistical reporting number for all invoices. When consolidating information from several invoices under one reporting number, a worksheet itemizing the entered value of the merchandise from each invoice in the manner prescribed in paragraph (f)(2)(ii) of this section must be attached to the appropriate form.
 
@@ -52,7 +50,7 @@ The Center director may grant a reasonable extension of time to produce the requ
 
 (5) *Penalty procedures; when not invoked.* Penalty procedures relating to erroneous statistical information will not be invoked against any person who in good faith attempts to comply with the statistical requirements of the General Statistical Note, HTSUS.
 
-(f) *Value of each invoice* - (1) *Single invoice.* If the entry, entry summary, or withdrawal documentation, as specified in paragraph (e)(1)(i) of this section, covers a single invoice, the invoice information must be restated to show:
+(f) *Value of each invoice*—(1) *Single invoice.* If the entry, entry summary, or withdrawal documentation, as specified in paragraph (e)(1)(i) of this section, covers a single invoice, the invoice information must be restated to show:
 
 (i) Gross amount of the invoice;
 
@@ -74,4 +72,4 @@ The Center director may grant a reasonable extension of time to produce the requ
 
 (iv) To permit the identification of the merchandise entered under each reporting number, each class or kind of merchandise, from one country reported under a single statistical reporting number must be coded identically on each invoice and on the worksheet.
 
-[T.D. 79-221, 44 FR 46817, Aug. 9, 1979]Editorial Note:For Federal Register citations affecting § 141.61, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[T.D. 79-221, 44 FR 46817, Aug. 9, 1979]Editorial Note:For Federal Register citations affecting § 141.61, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

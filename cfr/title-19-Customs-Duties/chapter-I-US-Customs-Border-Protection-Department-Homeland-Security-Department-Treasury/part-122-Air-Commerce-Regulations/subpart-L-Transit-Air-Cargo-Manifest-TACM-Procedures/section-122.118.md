@@ -1,10 +1,8 @@
 ##### § 122.118 Exportation from port of arrival. #####
 
-Link to an amendment published at 82 FR 45405, Sept. 28, 2017.
-
 (a) *Application.* Transit air cargo may be transferred for exportation from any port of arrival under this section. The port director may require any supervision necessary to enforce the regulations of other Federal agencies.
 
-(b) *Time.* Transit air cargo shall be exported from the port of arrival within 10 days from the date the exporting airline receives the cargo. After the 10-day period, the individual cargo shipments must be made the subject of individual entries, as appropriate.
+(b) *Time.* Transit air cargo must be exported from the port of arrival within 15 days from the date the exporting airline receives the cargo. After the 15-day period, the individual cargo shipments must be made the subject of individual entries, as appropriate.
 
 (c) *Transit air cargo manifest copies.* Three copies of the transit air cargo manifest shall be filed with Customs.
 
@@ -23,3 +21,5 @@ The exportation and clearance copies shall show the exporting airline's receipt 
 (f) *Post entered air cargo.* Air cargo not listed on the manifest (i.e., overages) which has been post entered under § 122.49(b) may be exported from the port of origin under this subpart. If this occurs, four copies of the air cargo manifest, Customs Form 7509, marked “Post Entry”, shall be provided. All requirements of § 122.44(b) shall be followed in using this procedure.
 
 (g) *Review.* The review copy of the transit air cargo manifest sheets must be reviewed by Customs as required for the carrier manifest copy in § 122.120(g). The reviewing officer shall take the proper action if a license is necessary for any cargo. The exporting airline shall be notified that any transit air cargo which is not covered by the required license must be placed under constructive Customs custody in a special area of the airline's terminal until the license is obtained.
+
+[T.D. 88-12, 53 FR 9292, Mar. 22, 1988, as amended by CBP Dec. 17-13, 82 FR 45405, Sept. 28, 2017]

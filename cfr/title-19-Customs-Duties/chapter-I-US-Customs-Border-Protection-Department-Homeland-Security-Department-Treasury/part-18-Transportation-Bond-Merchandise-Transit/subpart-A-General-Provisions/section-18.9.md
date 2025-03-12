@@ -1,0 +1,3 @@
+##### § 18.9 New in-bond movement for forwarded or returned merchandise. #####
+
+The carrier or any of the parties named in § 18.1(c) must, in accordance with the filing requirements of § 18.1, submit a new in-bond application in order to forward or return merchandise from the port of destination or port of exportation named in the original in-bond application, or from the port of diversion, to any another port. If the merchandise is moving under cover of a carnet, the carnet may be accepted as a transportation entry.

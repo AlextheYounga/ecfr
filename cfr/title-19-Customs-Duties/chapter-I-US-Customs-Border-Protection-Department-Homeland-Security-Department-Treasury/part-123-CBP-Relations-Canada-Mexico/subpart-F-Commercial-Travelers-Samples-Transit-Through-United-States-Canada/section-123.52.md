@@ -1,8 +1,6 @@
 ##### § 123.52 Commercial samples transported by automobile through the United States between ports in Canada. #####
 
-Link to an amendment published at 82 FR 45405, Sept. 28, 2017.
-
-(a) *General provisions.* A commercial traveler arriving from Canada may be permitted to transport effectively corded and sealed samples in his automobile without further sealing in the United States, upon compliance with this section and subject to the conditions of § 18.20(b), since Customs bonded carriers as described in § 18.1 of this chapter are not considered to be reasonably available. Samples having a total value of not more than $200 may be carried by a nonresident commercial traveler through the United States without cording and sealing and without an in-transit manifest in accordance with § 148.41 of this chapter.
+(a) *General provisions.* A commercial traveler arriving from Canada may be permitted to transport effectively corded and sealed samples in his automobile without further sealing in the United States, upon compliance with this section and subject to the conditions of § 18.20(d) of this chapter, since customs bonded carriers as described in § 18.2 of this chapter are not considered to be reasonably available. Samples having a total value of not more than $200 may be carried by a nonresident commercial traveler through the United States without cording and sealing and without an in-transit manifest in accordance with § 148.41 of this chapter.
 
 (b) *Presentation of sample list at Canadian port of exit.* A commercial traveler arriving from Canada desiring to transport without display in the United States commercial samples in his automobile through the United States to another port in Canada, may present his samples to a Canadian Customs officer at the Canadian port of exit. The traveler will be required to furnish the Canadian Customs officer a list in duplicate of all articles presented showing their approximate values. The list shall bear the traveler's name and address, and the name and address of the firm represented.
 
@@ -14,4 +12,4 @@ Link to an amendment published at 82 FR 45405, Sept. 28, 2017.
 
 (f) *Presentation of samples and manifest at U.S. port of exit.* The manifest on Customs Form 7512 shall be presented to the Customs officer at the U.S. port of exit, together with the samples covered. If the seals are broken or cording and sealing has been waived, the Customs officer shall verify that there are no irregularities.
 
-[T.D. 70-121, 35 FR 8215, May 26, 1970, as amended by T.D. 73-27, 38 FR 2449, Jan. 26, 1973; T.D. 87-75, 52 FR 20068, May 29, 1987]
+[T.D. 70-121, 35 FR 8215, May 26, 1970, as amended by T.D. 73-27, 38 FR 2449, Jan. 26, 1973; T.D. 87-75, 52 FR 20068, May 29, 1987; CBP Dec. 17-13, 82 FR 45405, Sept. 28, 2017]

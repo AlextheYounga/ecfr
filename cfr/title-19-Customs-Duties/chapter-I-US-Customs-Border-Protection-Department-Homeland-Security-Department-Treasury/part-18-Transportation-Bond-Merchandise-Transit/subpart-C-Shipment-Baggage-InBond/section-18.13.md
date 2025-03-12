@@ -1,0 +1,5 @@
+##### § 18.13 Procedure; manifest. #####
+
+(a) *In-bond application required.* Baggage may be forwarded in-bond to another port of entry, or to a Customs station listed in § 101.4 of this chapter without examination or assessment of duty at the port or station of first arrival at the request of the passenger, the transportation company, or the agent of either, by filing an in-bond application in accordance with the provisions of § 18.1.
+
+(b) *Coast to coast transportation.* Baggage arriving in-bond or otherwise at a port on the Atlantic or Pacific coast, destined to a port on the opposite coast, may be laden under CBP supervision, without examination and without being placed in-bond, on a vessel proceeding to the opposite coast, provided the vessel will proceed to the opposite coast without stopping at any other port on the first coast.

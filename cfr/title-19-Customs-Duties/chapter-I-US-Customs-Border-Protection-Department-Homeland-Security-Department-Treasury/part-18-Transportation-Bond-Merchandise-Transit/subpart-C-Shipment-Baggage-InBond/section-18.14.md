@@ -1,0 +1,3 @@
+##### § 18.14 Shipment of baggage in transit to foreign countries. #####
+
+The baggage of any person in transit through the United States from one foreign country to another may be shipped over a bonded route for exportation. Such baggage must be shipped under the regulations prescribed in § 18.13. See § 123.64 of this chapter for the regulations applicable to baggage shipped in transit through the United States between points in Canada or Mexico.

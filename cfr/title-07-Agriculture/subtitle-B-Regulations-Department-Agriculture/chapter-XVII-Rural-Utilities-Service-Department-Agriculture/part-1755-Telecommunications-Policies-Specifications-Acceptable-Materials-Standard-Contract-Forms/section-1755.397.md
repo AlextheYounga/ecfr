@@ -66,7 +66,7 @@
 
 (e) *Features required.* The network control equipment and peripheral equipment shall be comprised of solid-state and integrated circuitry components as far as practical and in keeping with the state-of-the-art and economics of the subject system.
 
-(f) *Subscriber lines* - (1) *General.* (i) The remote LC units shall operate satisfactorily with subscriber lines which meet all of the conditions under the bidder's specifications and all the requirements of this section. This section recognizes that the loop limit of the line concentrator is dependent upon the transmission facility between the LC central office termination and the LC remote unit. When voice frequency (physical) circuits are used, the loop limit from the COE to the subscriber shall be 1900 ohms (including the telephone set). When electronically derived circuits (carrier, lightwave, etc.) are used, the loop limits of the electronic system will control. The bidder shall identify the loop limits of the equipment to be supplied.
+(f) *Subscriber lines*—(1) *General.* (i) The remote LC units shall operate satisfactorily with subscriber lines which meet all of the conditions under the bidder's specifications and all the requirements of this section. This section recognizes that the loop limit of the line concentrator is dependent upon the transmission facility between the LC central office termination and the LC remote unit. When voice frequency (physical) circuits are used, the loop limit from the COE to the subscriber shall be 1900 ohms (including the telephone set). When electronically derived circuits (carrier, lightwave, etc.) are used, the loop limits of the electronic system will control. The bidder shall identify the loop limits of the equipment to be supplied.
 
 (ii) There should be provisions for such types of lines as ground start, loop start, regular subscriber, pay stations, etc.
 
@@ -94,15 +94,15 @@
 
 (ii) Service to customers served by a traffic sensitive LC should not be noticeably different than the service to customers served by the dedicated physical pairs from the central office so that uniform grade of service will be provided to all customers in any class of service. Reference § 1755.522(p)(1)(i), RUS General Specification for Digital, Stored Program Controlled Central Office Equipment.
 
-(2) *Traffic and Plant Registers.* Traffic measurements consist of three types - peg count, usage, and congestion. A peg count register scores one count per call attempt per circuit group such as trunks, digit receivers, senders, etc. Usage counters measure the traffic density in networks, trunks and other circuit groups. Congestion registers score the number of calls which fail to find an idle circuit in a trunk group or to find an idle path through the switching network when attempting to connect two given end points. These conditions constitute “network blocking.”
+(2) *Traffic and Plant Registers.* Traffic measurements consist of three types—peg count, usage, and congestion. A peg count register scores one count per call attempt per circuit group such as trunks, digit receivers, senders, etc. Usage counters measure the traffic density in networks, trunks and other circuit groups. Congestion registers score the number of calls which fail to find an idle circuit in a trunk group or to find an idle path through the switching network when attempting to connect two given end points. These conditions constitute “network blocking.”
 
 (3) When required, traffic data will be stored in electronic storage registers or a block of memory consisting of one or more traffic counters for each item to be measured. The bidder shall indicate what registers are to be supplied, their purpose and the means for displaying the information locally (or at a remote location when available).
 
-(h) *Transmission requirements* - (1) *General.* Unless otherwise stated, the requirements in paragraphs (h) (2) through (20) of this section are specified in terms of analog measurements made from Main Distributing Frame (MDF) terminals to MDF terminals excluding cabling loss.
+(h) *Transmission requirements*—(1) *General.* Unless otherwise stated, the requirements in paragraphs (h) (2) through (20) of this section are specified in terms of analog measurements made from Main Distributing Frame (MDF) terminals to MDF terminals excluding cabling loss.
 
 (2) *Telephone transmitter battery supply.* A minimum of 20 milliamperes, dc, shall be provided for the transmitter of the telephone set at the subscriber station under all loop conditions specified by the bidder. The telephone set is assumed to have a resistance of 200 ohms.
 
-(3) *Impedance - subscriber loops.* For the purpose of this section, the input impedance of all subscriber loops served by the equipment is arbitrarily considered to be 900 ohms in series with 2.16 microfarad capacitor at voice frequencies.
+(3) *Impedance—subscriber loops.* For the purpose of this section, the input impedance of all subscriber loops served by the equipment is arbitrarily considered to be 900 ohms in series with 2.16 microfarad capacitor at voice frequencies.
 
 (4) *Battery noise.* Noise across the remote terminal battery at power panel distribution bus terminals shall not exceed 35 dBrnC during the specified busy hour.
 
@@ -110,7 +110,7 @@
 
 (6) *Return loss.* The specified return loss values are determined by the service and type of port at the measuring end. Two-wire ports are measured at 900 ohms in series with 2.16 microfarads, and 4-wire ports are measured at 600 ohms resistive. When other balance networks are supplied, test equipment arranged for operation with the supplied network(s) may be used. The requirement given shall meet the following cited values on each balance network available in the system:
 
-Line-to-Line or Line-to-Trunk (2-Wire)Echo Return Loss (ERL) - 18 dB, MinimumSinging Return Loss (SRL) - Low - 15 dB, MinimumSinging Return Loss (SRL) - High - 18 dB, Minimum
+Line-to-Line or Line-to-Trunk (2-Wire)Echo Return Loss (ERL)—18 dB, MinimumSinging Return Loss (SRL)—Low—15 dB, MinimumSinging Return Loss (SRL)—High—18 dB, Minimum
 
 (7) *Longitudinal balance.* The minimum longitudinal balance, with dc loop currents between 20 to 70 mA, shall be 60 dB at all frequencies between 60 and 2000 Hz, 55 dB at 2700 Hz and 50 dB at 3400 Hz. The method of measurement shall be as specified in the IEEE standard 455, “Standard Testing Procedure for Measuring Longitudinal Balance of Telephone Equipment Operating in the Voice Band.” Source voltage level shall be 10 volts root mean square (rms) where conversation battery feed originates at the remote end.
 
@@ -120,7 +120,7 @@ Line-to-Line or Line-to-Trunk (2-Wire)Echo Return Loss (ERL) - 18 dB, MinimumSin
 
 (9) *Steady noise (idle channel at 900 ohm impedance).* Steady noise: Measure on terminated call. Noise measurements shall comply with the following:
 
-Maximum - 23 dBrnC0Average - 18 dBrnC0 or Less3KHz Flat - Less than 35 dBrnO as an Objective
+Maximum—23 dBrnC0Average—18 dBrnC0 or Less3KHz Flat—Less than 35 dBrnO as an Objective
 
 (10) *Impulse noise.* LC central office terminal equipment shall have an impulse noise limit of not more than five counts exceeding 54 dBrnC0 voice band weighted in a 5-minute period on six such measurements made during the busy hour. A WILCOM T-194C Transmission Test Set, or equivalent, should be used for the measurements. The measurement shall be made by establishing a normal connection from the noise counter through the switching equipment in its off-hook condition to a quiet termination of 900 ohms impedance. Office battery and signaling circuit wiring shall be suitably segregated from voice and carrier circuit wiring, and frame talking battery filters provided, if and as required, in order to meet these impulse noise limits.
 
@@ -142,25 +142,22 @@ Maximum - 23 dBrnC0Average - 18 dBrnC0 or Less3KHz Flat - Less than 35 dBrnO as 
 
 (15) *Gain tracking (linearity)* shall meet the following requirements:
 
-|Input signal level<sup>1</sup>|Maximum gain deviation|
-|------------------------------|----------------------|
-|       \+ 3 to −37 dBm0       |       ±0.5 dB        |
-|       −37 to −50 dBm0        |        ±1 dB         |
-
-<sup>1</sup> 1004 Hz reference at 0 dBm0.
+|     Input signal level <sup>1</sup>     |Maximum gain deviation|
+|-----------------------------------------|----------------------|
+|            \+ 3 to −37 dBm0             |       ±0.5 dB        |
+|             −37 to −50 dBm0             |        ±1 dB         |
+|<sup>1</sup> 1004 Hz reference at 0 dBm0.|                      |
 
 (16) *Frequency response (loss relative to 1004 Hz)* for line-to-line (via trunk group or intra-link) connections shall meet the following requirements:
 
-|Frequency (Hz)|Loss at 0 dBm0 input<sup>1</sup>|
-|--------------|--------------------------------|
-|      60      |     20 dB Min.<sup>2</sup>     |
-|     300      |          −1 to + 3 dB          |
-| 600 to 2400  |            \+ 1 dB             |
-|     3400     |          −1 to + 3 dB          |
-
-<sup>1</sup> (−) means less loss and ( + ) means more loss.
-
-<sup>2</sup> Transmit End.
+|                     Frequency (Hz)                      |Loss at 0 dBm0 input <sup>1</sup>|
+|---------------------------------------------------------|---------------------------------|
+|                           60                            |     20 dB Min. <sup>2</sup>     |
+|                           300                           |          −1 to + 3 dB           |
+|                       600 to 2400                       |             \+ 1 dB             |
+|                          3400                           |          −1 to + 3 dB           |
+|<sup>1</sup> (−) means less loss and (+) means more loss.|                                 |
+|               <sup>2</sup> Transmit End.                |                                 |
 
 (17) *Envelope delay distortion.* On any properly established connection, the envelope delay distortion shall not exceed the following limits:
 
@@ -191,19 +188,17 @@ Maximum - 23 dBrnC0Average - 18 dBrnC0 or Less3KHz Flat - Less than 35 dBrnO as 
 
 (i) *Alarms.* The system shall send alarms for such conditions as blown fuses, blocked controls, power failure in the remote terminal, etc., along with its own status indication and status of dry relay contact closures or solid-state equivalent to the associated central office alarm circuits. Sufficient system alarm points shall be provided from the remote terminal to report conditions to the central office alarm system. The alarms shall be transmitted from the remote terminal to the central office terminal as long as any part of the connecting link is available for this transmission. Fuses shall be of the alarm and indicator type, and their rating designated by numerals or color code on fuse positions.
 
-(j) *Electrical protection* - (1) *Surge protection.* (i) Adequate electrical protection of line concentrator equipment shall be included in the design of the system. The characteristics and application of protection devices must be such that they enable the line concentrator equipment to withstand, without damage or excessive protector maintenance, the dielectric stresses and currents that are produced in line-to-ground and tip-to-ring circuits through the equipment as a result of induced or conducted lightning or power system fault-related surges. All wire terminals connected to outside plant wire or cable pairs shall be protected from voltage and current surges.
+(j) *Electrical protection*—(1) *Surge protection.* (i) Adequate electrical protection of line concentrator equipment shall be included in the design of the system. The characteristics and application of protection devices must be such that they enable the line concentrator equipment to withstand, without damage or excessive protector maintenance, the dielectric stresses and currents that are produced in line-to-ground and tip-to-ring circuits through the equipment as a result of induced or conducted lightning or power system fault-related surges. All wire terminals connected to outside plant wire or cable pairs shall be protected from voltage and current surges.
 
 (ii) Equipment must pass laboratory tests, simulating a hostile electrical environment, before being placed in the field for the purpose of obtaining field experience. For acceptance consideration RUS requires manufacturers to submit recently completed results (within 90 days of submittal) of data obtained from the prescribed testing. Manufacturers are expected to detail how data and tests were conducted. There are five basic types of laboratory tests which must be applied to exposed terminals in an effort to determine if the equipment will survive. Figure 2 of this section, Summary of Electrical Requirements and Tests, identifies the tests and their application as follows:
 
-Figure 2 - Summary of Electrical Requirements and Tests
-
-|             Test             |                                    Application criteria                                    |                 Peak voltage or current                 |                Surge waveshape                 |Number of applications and maximum time between|                                           Comments                                            |
-|------------------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------|------------------------------------------------|-----------------------------------------------|-----------------------------------------------------------------------------------------------|
-|        Current surge         |                           Low impedance paths exposed to surges                            |           500A or lesser current (see fig. 4)           |                  10 × 1000 µs                  |     5 each polarity at 1 minute intervals     |                                             None.                                             |
-|    60 Hz current carrying    |                       High or low impedance paths exposed to surges                        |         10A rms or lesser current (see fig. 6)          |        11 Cycles of 60 Hz (0.183 Sec.)         |         3 each at 1 minute intervals          |                                             None.                                             |
-|AC Power service surge voltage|                                AC power service connection                                 |2500V or + 3 σ clamping V of arrester employed at 10kV/µs|                  1.2 × 50 µs                   |     5 each polarity at 1 minute intervals     |AC arrester, if used, must be removed. Communications line arresters, if used, remain in place.|
-|        Voltage surge         |                           High impedance paths exposed to surges                           |    1000V or + 3 σ dc breakdown of arrester employed     |                  10 × 1000 µs                  |     5 each polarity at 1 minute intervals     |                       All primary arresters, if used, must be removed.                        |
-|   Arrester response delay    |Paths protected by arresters, such as gas tubes, with breakdown dependent on V. rate of rise|\+ 3 σ breakdown of arrester employed at 100V/µs of rise |100V/µs rise decay to1/2 V. in tube's delay time|     5 each polarity at 1 minute intervals     |                       All primary arrestors, if used, must be removed.                        |
+|             Test             |                                    Application criteria                                    |                 Peak voltage or current                 |                 Surge waveshape                 |Number of applications and maximum time between|                                           Comments                                            |
+|------------------------------|--------------------------------------------------------------------------------------------|---------------------------------------------------------|-------------------------------------------------|-----------------------------------------------|-----------------------------------------------------------------------------------------------|
+|        Current surge         |                           Low impedance paths exposed to surges                            |           500A or lesser current (see fig. 4)           |                  10 × 1000 µs                   |     5 each polarity at 1 minute intervals     |                                             None.                                             |
+|    60 Hz current carrying    |                       High or low impedance paths exposed to surges                        |         10A rms or lesser current (see fig. 6)          |         11 Cycles of 60 Hz (0.183 Sec.)         |         3 each at 1 minute intervals          |                                             None.                                             |
+|AC Power service surge voltage|                                AC power service connection                                 |2500V or + 3 σ clamping V of arrester employed at 10kV/µs|                   1.2 × 50 µs                   |     5 each polarity at 1 minute intervals     |AC arrester, if used, must be removed. Communications line arresters, if used, remain in place.|
+|        Voltage surge         |                           High impedance paths exposed to surges                           |    1000V or + 3 σ dc breakdown of arrester employed     |                  10 × 1000 µs                   |     5 each polarity at 1 minute intervals     |                       All primary arresters, if used, must be removed.                        |
+|   Arrester response delay    |Paths protected by arresters, such as gas tubes, with breakdown dependent on V. rate of rise|\+ 3 σ breakdown of arrester employed at 100V/µs of rise |100V/µs rise decay to 1/2 V. in tube's delay time|     5 each polarity at 1 minute intervals     |                       All primary arrestors, if used, must be removed.                        |
 
 (iii) Electrical protection requirements for line concentrator equipment can be summarized briefly as follows:
 
@@ -259,7 +254,7 @@ Figure 2 - Summary of Electrical Requirements and Tests
 
 (iii) Every precaution shall be taken to protect electrostatically sensitive components from damage during handling. This shall include written instructions and recommendations.
 
-(k) *Miscellaneous* - (1) *Interconnect wire.* All interconnect wire shall be of soft annealed tinned copper wire meeting the requirements of ASTM Specification B33-91 and of suitable cross-section to provide safe current carrying capacity and mechanical strength. The insulation of installed wire, connected to its equipment and frames, shall be capable of withstanding the same insulation resistance and dielectric strength requirements as given in paragraphs (j)(2) and (j)(3) of this section at a temperature of 120 °F (49 °C), and a relative humidity of 90 percent.
+(k) *Miscellaneous*—(1) *Interconnect wire.* All interconnect wire shall be of soft annealed tinned copper wire meeting the requirements of ASTM Specification B33-91 and of suitable cross-section to provide safe current carrying capacity and mechanical strength. The insulation of installed wire, connected to its equipment and frames, shall be capable of withstanding the same insulation resistance and dielectric strength requirements as given in paragraphs (j)(2) and (j)(3) of this section at a temperature of 120 °F (49 °C), and a relative humidity of 90 percent.
 
 (2) *Wire wrapped terminals.* These terminals are preferred and where used shall be of a material suitable for wire wrapping. The connections to them shall be made with a wire wrapping tool with the following minimum number of successive non-overlapping turns of bare tinned copper wire in contact with each terminal:
 
@@ -309,7 +304,7 @@ Figure 2 - Summary of Electrical Requirements and Tests
 
 (viii) Protector makes and types used shall be RUS accepted.
 
-(l) *Power equipment* - (1) *General.* When specified, batteries and charging equipment shall be supplied for the remote terminal of the line concentrator.
+(l) *Power equipment*—(1) *General.* When specified, batteries and charging equipment shall be supplied for the remote terminal of the line concentrator.
 
 (2) *Operating voltage.* (i) The nominal operating voltage of the central office and remote terminal shall be 48 volts dc, provided by a battery with the positive side tied to system ground.
 
@@ -353,13 +348,13 @@ Figure 2 - Summary of Electrical Requirements and Tests
 
 (8) *Special systems.* Manufacturers of LC systems that operate by extending ringing current from the central office shall state their required input ringing (voltage and frequency) and the limitations on the connected subscriber loop.
 
-(m) *Fusing requirements* - (1) *General.* (i) The equipment shall be completely wired and equipped with fuses, trouble signals, and all associated equipment for the wire capacity of the frames or cabinets provided.
+(m) *Fusing requirements*—(1) *General.* (i) The equipment shall be completely wired and equipped with fuses, trouble signals, and all associated equipment for the wire capacity of the frames or cabinets provided.
 
 (ii) Design precautions shall be taken to prevent the possibility of equipment damage arising from the insertion of an electronic package into the wrong connector or the removal of a package from any connector or improper insertion of the correct card in its connector.
 
 (2) *Fuses.* Fuses and circuit breakers shall be of an alarm and indicator type, except where the fuse or breaker location is indicated on the alarm printout. Their rating shall be designated by numerals or color codes on the fuse or the panel.
 
-(n) *Trouble location and test* - (1) *Equipment.* (i) Trouble indications in the system may be displayed in the form of lights on the equipment units or printed circuit boards.
+(n) *Trouble location and test*—(1) *Equipment.* (i) Trouble indications in the system may be displayed in the form of lights on the equipment units or printed circuit boards.
 
 (ii) When required, a jack or other connector shall be provided to connect a fault or trouble recorder (printer or display).
 
@@ -377,7 +372,7 @@ Figure 2 - Summary of Electrical Requirements and Tests
 
 (ii) Wiring diagrams indicating the specific method of wiring used on each item of equipment and interconnection wiring between items of equipment;
 
-(iii) Maintenace drawings covering each equipment item that contains replaceable parts, appropriately identifying each part by name and part number; and
+(iii) Maintenance drawings covering each equipment item that contains replaceable parts, appropriately identifying each part by name and part number; and
 
 (iv) Job drawings including all drawings that are individual to the particular line concentrator involved such as mainframe, power equipment, etc.
 
@@ -401,7 +396,7 @@ Figure 2 - Summary of Electrical Requirements and Tests
 
 (4) When installation is to be done by the bidder a complete set of drawings shall be provided by the owner, such as floor plans, lighting, grounding and ac power access.
 
-(q) *Installation and acceptance* - (1) *General.* Paragraphs (q)(2)(i) through (q)(3)(xxi) of this section covers the general requirements for the installation of line concentrator equipment by the bidder, and outlines the general conditions to be met by the owner in connection with such installation work. The responsibilities apply in both the central office installation and remote terminal installations, unless otherwise noted.
+(q) *Installation and acceptance*—(1) *General.* Paragraphs (q)(2)(i) through (q)(3)(xxi) of this section covers the general requirements for the installation of line concentrator equipment by the bidder, and outlines the general conditions to be met by the owner in connection with such installation work. The responsibilities apply in both the central office installation and remote terminal installations, unless otherwise noted.
 
 (2) *Responsibilities of owner.* The owner shall:
 
@@ -555,7 +550,7 @@ Figure 2 - Summary of Electrical Requirements and Tests
 
 (ii) In the event that the measured data or operational tests show that equipment fails to meet the requirements quirements of this section, the deficiencies are to be resolved as set forth in Article II of the 397 Special Equipment Contract. (Copies are available from RUS, room 0174, U.S. Department of Agriculture, Washington, DC 20250-1500.) The reports of the bidder and the owner shall be detailed as to deficiencies, causes, corrective action necessary, corrective action to be taken, completion time, etc.
 
-(The information and recordkeeping requirements of this section have been approved by the Office of Management and Budget under the control number 0572-0059)Appendix A to § 1755.397 - Specification for Line Concentrator Detailed Equipment Requirements(Information To Be Supplied by Owner)Telephone Company (Owner)Name:Location:Number of LC's Required: \_\_\_\_Line Concentrator Locations:
+(The information and recordkeeping requirements of this section have been approved by the Office of Management and Budget under the control number 0572-0059)Appendix A to § 1755.397—Specification for Line Concentrator Detailed Equipment Requirements(Information To Be Supplied by Owner)Telephone Company (Owner)Name:Location:Number of LC's Required: \_\_\_\_\_\_\_\_Line Concentrator Locations:
 
 |Location|No. of Lines|Central  <br/>Office|
 |--------|------------|--------------------|
@@ -578,12 +573,12 @@ Figure 2 - Summary of Electrical Requirements and Tests
 
 Office Name(By Location)LC Designation2. Number of Subscriber Lines
 
-|                           |Equipped|Wired only|
-|---------------------------|--------|----------|
-|       Single-Party        |        |          |
-|Pay Station (Type:\_\_\_\_)|        |          |
-| Other (Describe:\_\_\_\_) |        |          |
-|           Total           |        |          |
+|                                   |Equipped|Wired only|
+|-----------------------------------|--------|----------|
+|           Single-Party            |        |          |
+|Pay Station (Type:\_\_\_\_\_\_\_\_)|        |          |
+| Other (Describe:\_\_\_\_\_\_\_\_) |        |          |
+|               Total               |        |          |
 
 3. Loop Resistance
 
@@ -608,15 +603,15 @@ When physical trunks are used, these resistances include that of the facility be
 
 3.1.3 Range extension equipment, if required, is to be provided:
 
-\_\_\_\_ By Bidder\_\_\_\_ By Owner(Quantity and Type)4. Traffic Data
+\_\_\_\_\_\_\_\_ By Bidder\_\_\_\_\_\_\_\_ By Owner(Quantity and Type)4. Traffic Data
 
 4.1 Average combined originating and terminating hundred call seconds (CCS) per line in the busy hour:
 
-\_\_\_ CCS/Line. (Assume originating & terminating equal.)
+\_\_\_\_\_\_ CCS/Line. (Assume originating & terminating equal.)
 
-4.2 Percent Intra-Calling \_\_\_\_
+4.2 Percent Intra-Calling \_\_\_\_\_\_\_\_
 
-4.3 Total Busy Hour Calls \_\_\_\_
+4.3 Total Busy Hour Calls \_\_\_\_\_\_\_\_
 
 5. TYPE or RINGING
 
@@ -625,7 +620,7 @@ When physical trunks are used, these resistances include that of the facility be
 |     Frequency (Hz)     |   |   |   |   |
 |Max. No. of Phones/Freq.|   |   |   |   |
 
-5.2 Minimum ringing generator capacity to be supplied shall be sufficient to serve \_\_\_\_ lines (each frequency).
+5.2 Minimum ringing generator capacity to be supplied shall be sufficient to serve \_\_\_\_\_\_\_\_ lines (each frequency).
 
 6. Central Office Equipment Interface
 
@@ -635,107 +630,107 @@ When physical trunks are used, these resistances include that of the facility be
 
 TypeYearGeneric
 
-6.1.2 \_\_\_\_ See digital central office specification for the switchboard at \_\_\_\_\_\_\_\_\_\_ .
+6.1.2 \_\_\_\_\_\_\_\_ See digital central office specification for the switchboard at \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ .
 
 6.2 Interface will be:
 
-6.2.1 \_\_\_\_ Line Circuit(s)6.2.2 \_\_\_\_ Direct Digital Interface6.2.3 \_\_\_\_ Other (Describe)
+6.2.1 \_\_\_\_\_\_\_\_ Line Circuit(s)6.2.2 \_\_\_\_\_\_\_\_ Direct Digital Interface6.2.3 \_\_\_\_\_\_\_\_ Other (Describe)
 
 6.3 Mounting rack for line concentrator furnished by:
 
-\_\_\_\_ Bidder\_\_\_\_ Owner(Specify width and height of rack available) (Width) (Height)
+\_\_\_\_\_\_\_\_ Bidder\_\_\_\_\_\_\_\_ Owner(Specify width and height of rack available) (Width) (Height)
 
 6.4 Equipment to be installed in existing building:
 
-\_\_\_\_ Yes (Attach detailed plan)\_\_\_\_ No7. Transmission Facilities
+\_\_\_\_\_\_\_\_ Yes (Attach detailed plan)\_\_\_\_\_\_\_\_ No7. Transmission Facilities
 
 7.1 Transmission facilities between the central office and remote terminals shall be:
 
 7.1.1 Type:
 
-\_\_\_\_ VF Carrier Derived Circuits\_\_\_\_ Digital Span Line (DS1)\_\_\_\_ Other(Attach a layout of the transmission facilities between the central office and the remote terminals describing transmission and signaling parameters, routing and resistance where applicable.)
+\_\_\_\_\_\_\_\_ VF Carrier Derived Circuits\_\_\_\_\_\_\_\_ Digital Span Line (DS1)\_\_\_\_\_\_\_\_ Other(Attach a layout of the transmission facilities between the central office and the remote terminals describing transmission and signaling parameters, routing and resistance where applicable.)
 
 7.1.2 Utilizes physical plant
 
-\_\_\_\_ Cable Pairs (Existing/New)\_\_\_\_ OtherNote:
+\_\_\_\_\_\_\_\_ Cable Pairs (Existing/New)\_\_\_\_\_\_\_\_ OtherNote:
 
 Unless otherwise stated, physical plant will be supplied by the owner.
 
 7.1.3 Terminal equipment for transmission facility to be supplied by:
 
-\_\_\_\_ Owner\_\_\_\_ Bidder
+\_\_\_\_\_\_\_\_ Owner\_\_\_\_\_\_\_\_ Bidder
 
-7.1.3.1 Carrier e/w voice terminations \_\_\_\_ Yes \_\_\_\_ No
+7.1.3.1 Carrier e/w voice terminations \_\_\_\_\_\_\_\_ Yes \_\_\_\_\_\_\_\_ No
 
-Manufacturer and typeCentral office voice terminations Equipped \_\_\_\_, Wired Only \_\_\_\_
+Manufacturer and typeCentral office voice terminations Equipped \_\_\_\_\_\_\_\_, Wired Only \_\_\_\_\_\_\_\_
 
 7.1.3.2 Digital span line (DS1) supplied by
 
-\_\_\_\_ Owner\_\_\_\_ BidderManufacturer and Type
+\_\_\_\_\_\_\_\_ Owner\_\_\_\_\_\_\_\_ BidderManufacturer and Type
 
-7.1.3.3 Number of repeaters (per span line) \_\_\_\_
+7.1.3.3 Number of repeaters (per span line) \_\_\_\_\_\_\_\_
 
 7.1.3.4 Diverse (alternate) span line routing required
 
-\_\_\_\_ Yes (Describe in Item 11) \_\_\_\_ No
+\_\_\_\_\_\_\_\_ Yes (Describe in Item 11) \_\_\_\_\_\_\_\_ No
 
-7.1.3.5 Span line terminations only \_\_\_\_ Yes \_\_\_\_ No
+7.1.3.5 Span line terminations only \_\_\_\_\_\_\_\_ Yes \_\_\_\_\_\_\_\_ No
 
-7.1.3.6 Span line power required (CO and Remote Terminals) \_\_\_\_ Yes \_\_\_\_ No
+7.1.3.6 Span line power required (CO and Remote Terminals) \_\_\_\_\_\_\_\_ Yes \_\_\_\_\_\_\_\_ No
 
-7.1.3.7 Physical facility between CO and remote Loop Resistance \_\_\_\_ ohms, Length \_\_\_\_ meters
+7.1.3.7 Physical facility between CO and remote Loop Resistance \_\_\_\_\_\_\_\_ ohms, Length \_\_\_\_\_\_\_\_ meters
 
 8. Power Equipment Requirements
 
 8.1 Central Office Terminal
 
-8.1.1 Owner-furnished −48 volt dc power \_\_\_\_ Yes \_\_\_\_ No
+8.1.1 Owner-furnished −48 volt dc power \_\_\_\_\_\_\_\_ Yes \_\_\_\_\_\_\_\_ No
 
 8.1.2 Other (Describe)
 
-8.1.3 Standby power is available \_\_\_\_ Yes \_\_\_\_ No
+8.1.3 Standby power is available \_\_\_\_\_\_\_\_ Yes \_\_\_\_\_\_\_\_ No
 
 8.2 Remote Terminal
 
-8.2.1 Owner-furnished −48 vdc power \_\_\_\_ Yes \_\_\_\_ No
+8.2.1 Owner-furnished −48 vdc power \_\_\_\_\_\_\_\_ Yes \_\_\_\_\_\_\_\_ No
 
-8.2.2 Bidder-furnished power supply \_\_\_\_ Yes \_\_\_\_ No
+8.2.2 Bidder-furnished power supply \_\_\_\_\_\_\_\_ Yes \_\_\_\_\_\_\_\_ No
 
 8.2.3 AC power available at site:
 
-\_\_\_\_ 110 vac, 60 Hz, single-phase\_\_\_\_ Other (Describe in Item 11)
+\_\_\_\_\_\_\_\_ 110 vac, 60 Hz, single-phase\_\_\_\_\_\_\_\_ Other (Describe in Item 11)
 
-8.2.4 A battery reserve of \_\_\_\_ busy hours shall be provided for this line concentrator terminal when it reaches \_\_\_\_ lines at the traffic rates specified.
+8.2.4 A battery reserve of \_\_\_\_\_\_\_\_ busy hours shall be provided for this line concentrator terminal when it reaches \_\_\_\_\_\_\_\_ lines at the traffic rates specified.
 
 8.2.5 Batteries supplied shall be:
 
-\_\_\_\_ Lead Calcium\_\_\_\_ Stabilized Electrolyte\_\_\_\_ Sealed Lead Acid\_\_\_\_ Other (Describe in item 11)
+\_\_\_\_\_\_\_\_ Lead Calcium\_\_\_\_\_\_\_\_ Stabilized Electrolyte\_\_\_\_\_\_\_\_ Sealed Lead Acid\_\_\_\_\_\_\_\_ Other (Describe in item 11)
 
-8.2.6 Standby power is available \_\_\_\_ Yes \_\_\_\_ No
+8.2.6 Standby power is available \_\_\_\_\_\_\_\_ Yes \_\_\_\_\_\_\_\_ No
 
 9. Remote Terminal
 
 9.1 Mounting
 
-9.1.1 \_\_\_\_ Outside Housing (To be furnished by bidder)
+9.1.1 \_\_\_\_\_\_\_\_ Outside Housing (To be furnished by bidder)
 
-9.1.2 \_\_\_\_ Concrete Slab to be furnished by owner (Bidder to supply construction details after award.)
+9.1.2 \_\_\_\_\_\_\_\_ Concrete Slab to be furnished by owner (Bidder to supply construction details after award.)
 
-9.1.3 \_\_\_\_ Manhole, environmentally controlled (Describe in Item 11)
+9.1.3 \_\_\_\_\_\_\_\_ Manhole, environmentally controlled (Describe in Item 11)
 
-9.1.4 \_\_\_\_ Pedestal Mounting
+9.1.4 \_\_\_\_\_\_\_\_ Pedestal Mounting
 
-9.1.5 \_\_\_\_ Pole Mounting (Owner-furnished installed pole)
+9.1.5 \_\_\_\_\_\_\_\_ Pole Mounting (Owner-furnished installed pole)
 
-9.1.6 \_\_\_\_ Prefab Building (Owner-furnished site)
+9.1.6 \_\_\_\_\_\_\_\_ Prefab Building (Owner-furnished site)
 
 9.2 Equipment is to be installed in an existing building.
 
-\_\_\_\_ Yes \_\_\_\_ No(Attach detailed plan.)
+\_\_\_\_\_\_\_\_ Yes \_\_\_\_\_\_\_\_ No(Attach detailed plan.)
 
 9.3 Other (Describe)
 
-10. Alternates11. Explanatory NotesAppendix B to § 1755.397 - Specification for Line Concentrators Detailed Requirements; Bidder Supplied InformationTelephone Company (Owner)Name:Location:Line Concentrator Equipment LocationsCentral Office Terminal:Remote Terminal:1. General
+10. Alternates11. Explanatory NotesAppendix B to § 1755.397—Specification for Line Concentrators Detailed Requirements; Bidder Supplied InformationTelephone Company (Owner)Name:Location:Line Concentrator Equipment LocationsCentral Office Terminal:Remote Terminal:1. General
 
 1.1 The equipment and materials furnished by the bidder must meet the requirements of paragraphs (a) through (p) of this section.
 
@@ -763,7 +758,7 @@ Manufacturer and typeCentral office voice terminations Equipped \_\_\_\_, Wired 
 |    |                 |                   |
 |    |                 |                   |
 
-4. Power Requirements4.1 Central Office TerminalVoltageCurrent Drain (Amps) Normal \_\_\_\_, Peak \_\_\_\_Fuse Qty \_\_\_\_, Size \_\_\_\_, Type \_\_\_\_Heat Dissipation (BTU/Hr.) \_\_\_\_4.2 Remote TerminalAC or DCVoltageCurrent Drain (Amps) Normal \_\_\_\_, Peak \_\_\_\_Fuse Qty \_\_\_\_, Size \_\_\_\_, Type \_\_\_\_Heat Dissipation (BTU/Hr.) \_\_\_\_
+4. Power Requirements4.1 Central Office TerminalVoltageCurrent Drain (Amps) Normal \_\_\_\_\_\_\_\_, Peak \_\_\_\_\_\_\_\_Fuse Qty \_\_\_\_\_\_\_\_, Size \_\_\_\_\_\_\_\_, Type \_\_\_\_\_\_\_\_Heat Dissipation (BTU/Hr.) \_\_\_\_\_\_\_\_4.2 Remote TerminalAC or DCVoltageCurrent Drain (Amps) Normal \_\_\_\_\_\_\_\_, Peak \_\_\_\_\_\_\_\_Fuse Qty \_\_\_\_\_\_\_\_, Size \_\_\_\_\_\_\_\_, Type \_\_\_\_\_\_\_\_Heat Dissipation (BTU/Hr.) \_\_\_\_\_\_\_\_
 
 Power required for heating or cooling equipment in remote bidder-furnished housing
 
@@ -776,11 +771,10 @@ Power required for heating or cooling equipment in remote bidder-furnished housi
 
 5.2 Relative Humidity
 
-|       |Central office|Remote\*|
-|-------|--------------|--------|
-|Maximum|              |        |
-|Minimum|              |        |
-
-\* Show conditions outside bidder-furnished housing.
+|                                                    |Central office|Remote\*|
+|----------------------------------------------------|--------------|--------|
+|                      Maximum                       |              |        |
+|                      Minimum                       |              |        |
+|\* Show conditions outside bidder-furnished housing.|              |        |
 
 6. Explanatory Notes[60 FR 44729, Aug. 29, 1995, as amended at 69 FR 18803, Apr. 9, 2004]

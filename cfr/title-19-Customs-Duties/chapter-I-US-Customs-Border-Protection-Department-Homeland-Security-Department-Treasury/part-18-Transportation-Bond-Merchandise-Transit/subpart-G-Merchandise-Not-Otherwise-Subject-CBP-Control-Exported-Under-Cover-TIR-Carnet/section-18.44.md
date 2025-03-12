@@ -1,0 +1,3 @@
+##### § 18.44 Abandonment of exportation. #####
+
+In the event that exportation is abandoned at any time after merchandise has been placed under cover of a TIR carnet, the carrier or agent shall deliver the carnet to the nearest CBP office or to the CBP office at the origination port for cancellation (see § 114.26(c) of this chapter). When the carnet has been canceled, the carrier or agent may remove customs seals or labels and unload the container (or heavy or bulky goods) or road vehicle without customs supervision.

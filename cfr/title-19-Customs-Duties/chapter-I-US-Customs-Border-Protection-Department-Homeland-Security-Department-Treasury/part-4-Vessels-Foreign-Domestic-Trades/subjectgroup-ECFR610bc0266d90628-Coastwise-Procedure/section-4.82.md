@@ -1,13 +1,11 @@
 ##### § 4.82 Touching at foreign port while in coastwise trade. #####
 
-Link to an amendment published at 82 FR 45393, Sept. 28, 2017.
-
 (a) A United States documented vessel with a registry or, coastwise endorsement, or both which, during a voyage between ports in the United States, touches at one or more foreign ports and there discharges or takes on merchandise, passengers, baggages, or mail shall obtain a permit to proceed or clearance at each port of lading in the United States for the foreign port or ports at which it is intended to touch. The Cargo Declaration Outward With Commercial Forms, Customs Form 1302-A (see § 4.63), shall show only the cargo for foreign destination. (See §§ 4.61 and 4.87.)
 
-(b) The master shall also present to the port director a coastwise Cargo Declaration in triplicate of the merchandise to be transported via the foreign port or ports to the subsequent ports in the United States. It shall describe the merchandise and show the marks and numbers of the packages, the names of the shippers and consignees, and the destinations. The port director shall certify the two copies and return them to the master. Merchandise carried by the vessel in bond under a transportation entry and manifest, Customs Form 7512, shall not be shown on the coastwise Cargo Declaration.
+(b) The master must also present to the port director a coastwise Cargo Declaration in triplicate of the merchandise to be transported via the foreign port or ports to the subsequent ports in the United States. It must describe the merchandise and show the marks and numbers of the packages, the names of the shippers and consignees, and the destinations. The port director will certify the two copies and return them to the master. Merchandise carried by the vessel in bond under a transportation entry pursuant to part 18 of this chapter is not to be shown on the coastwise Cargo Declaration.
 
 (c) Upon arrival from the foreign port or ports at the subsequent port in the United States, a report of arrival and entry of the vessel shall be made, and tonnage taxes shall be paid. The master shall present Cargo Declaration in accordance with § 4.7 and the certified copies of the coastwise Cargo Declaration, Customs Form 1302.
 
 (d) All merchandise on the vessel upon its arrival at the subsequent port in the United States is subject to such Customs examination and treatment as may be necessary to protect the revenue. Any article on board which is not identified to the satisfaction of the port director, by the coastwise Cargo Declaration, Customs Form 1302, or otherwise, as part of the coastwise cargo, shall be treated as imported merchandise.
 
-[T.D. 77-255, 42 FR 56322, Oct. 25, 1977, as amended by T.D. 83-214, 48 FR 46513, Oct. 13, 1983; T.D. 84-193, 49 FR 35485, Sept. 10, 1984; T.D. 99-64, 64 FR 43265, Aug. 10, 1999; CBP Dec. 08-25, 73 FR 40725, July 16, 2008]
+[T.D. 77-255, 42 FR 56322, Oct. 25, 1977, as amended by T.D. 83-214, 48 FR 46513, Oct. 13, 1983; T.D. 84-193, 49 FR 35485, Sept. 10, 1984; T.D. 99-64, 64 FR 43265, Aug. 10, 1999; CBP Dec. 08-25, 73 FR 40725, July 16, 2008; CBP Dec. 17-13, 82 FR 45393, Sept. 28, 2017]

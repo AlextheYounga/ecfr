@@ -1,0 +1,9 @@
+##### § 18.3 Transfers. #####
+
+(a) *Transfer to another conveyance.* Merchandise being transported in-bond may be transferred to another conveyance at any time. CBP notification is not required. The transfer to one or more conveyances will not extend the maximum in-transit time set forth in § 18.1(i).
+
+(b) *Transfer to another bonded carrier.* Except as provided in § 18.31(d)(3), when merchandise is transferred to a bonded carrier that assumes the liability for the in-bond shipment, a report of arrival for the merchandise must be filed by the original bonded carrier and a new in-bond application must be filed by the subsequent bonded carrier pursuant to § 18.1.
+
+(c) *Transfer of merchandise covered by a TIR Carnet generally prohibited.* Merchandise covered by a TIR carnet may not be transferred except in cases in which the unlading of the merchandise from a container or road vehicle is necessitated by casualty en route. In the event of transfer, a TIR approved container or road vehicle must be used if available. If the transfer takes place under CBP supervision, the CBP officer must execute a certificate of transfer on the appropriate TIR carnet voucher.
+
+(d) *Transfer by bonded cartmen.* All transfers to or from the conveyance or warehouse of merchandise being transported in-bond must be made under the provisions of part 125 of this chapter and at the expense of the parties in interest, unless the bond of the carrier on CBP Form 301, containing the bond conditions set forth in § 113.63 of this chapter or a TIR carnet, is liable for the safekeeping and delivery of the merchandise while it is being transferred.

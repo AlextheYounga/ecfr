@@ -1,0 +1,7 @@
+##### § 18.43 Indirect exportation. #####
+
+(a) *Filing of Electronic Export Information.* When merchandise is to move from one U.S. port to another for actual exportation at the second port, any Electronic Export Information (EEI) required to be validated shall be filed in accordance with the procedures described in the applicable regulations of the Bureau of the Census (15 CFR part 30).
+
+(b) *Origination port procedure.* The port director shall follow the procedure provided in § 18.42 in respect to examination of the merchandise, supervision of loading, sealing or labeling, and affixing of TIR plates. The port director will remove one voucher from the carnet, execute the appropriate counterfoil, and return the carnet to the carrier or agent to accompany the container or road vehicle to the port of actual exportation.
+
+(c) *Port of exportation procedure.* At the port of actual exportation, the carnet and the container (or heavy or bulky goods) or road vehicle shall be presented to the port director who shall verify that seals or labels are intact and that there is no evidence of tampering. After verification, the port director shall remove the appropriate voucher from the carnet, execute the counterfoil, and return the carnet to the carrier or agent.

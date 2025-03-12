@@ -1,5 +1,7 @@
 ##### § 1735.30 Hardship loans. #####
 
+Link to an amendment published at 82 FR 55939, Nov. 27, 2017.
+
 (a) RUS makes hardship loans under section 305(d)(1) of the RE Act. These loans bear interest at a rate of 5 percent per year. To qualify for a hardship loan on or after November 1, 1993, a borrower must meet each of the following requirements:
 
 (1) The average number of proposed subscribers per mile of line in the service area of the borrower is not more than 4;

@@ -1,7 +1,5 @@
 ##### § 113.63 Basic custodial bond conditions. #####
 
-Link to an amendment published at 82 FR 45404, Sept. 28, 2017.
-
 A basic custodial bond must contain the conditions listed in this section and must be a continuous bond.
 
 Basic Custodial Bond Conditions
@@ -30,7 +28,7 @@ Basic Custodial Bond Conditions
 
 (c) *Disposition of Merchandise.* The principal agrees:
 
-(1) If a bonded carrier, to report promptly the arrival of merchandise at the destination port by delivering to CBP the manifest or other approved notice;
+(1) If a bonded carrier, to report in-bond arrivals and exportations in the manner and in the time prescribed by regulation and to export in-bond merchandise in the time periods prescribed by regulation.
 
 (2) If a cartage or lighterage business, to deliver promptly and safely to CBP any merchandise placed in the principal's custody together with any related cartage and lighterage ticket and manifest;
 

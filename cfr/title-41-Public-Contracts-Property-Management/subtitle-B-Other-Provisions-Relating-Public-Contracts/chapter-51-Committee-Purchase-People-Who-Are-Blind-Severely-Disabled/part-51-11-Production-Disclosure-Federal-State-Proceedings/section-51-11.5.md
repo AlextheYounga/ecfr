@@ -1,0 +1,5 @@
+##### § 51-11.5 Service of demand. #####
+
+(a) Written demands directed to the Committee or requests for official records, information or testimony shall be served in accordance with the requirements of the Federal Rules of Civil or Criminal Procedure, or applicable State procedures, as appropriate. If the demand is served by U.S. mail, it should be addressed to the General Counsel, Committee for Purchase From People Who Are Blind or Severely Disabled, 1401 S. Clark Street, Suite 715, Arlington, VA 22202. The Committee's acceptance of service of a demand shall not constitute an admission or waiver of any objection with respect to the propriety of jurisdiction, service of process, venue or any other defense in law or equity available under applicable law.
+
+(b) If any doubt exists, whether a demand relates to purely personal matters or arises out of the performance of official duties, copies of the demand may be delivered to the General Counsel for such determination.

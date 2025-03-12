@@ -1,0 +1,7 @@
+##### § 18.5 Diversion. #####
+
+(a) *Procedure.* In order to change the port of destination or the port of exportation of an in-bond movement, the filer of the in-bond application must submit a request to divert merchandise via a CBP-approved EDI system. Permission for the diversion and movement of merchandise will be transmitted via a CBP-approved EDI system. If the request to divert merchandise is denied, such merchandise must be delivered to the original port of destination or port of exportation that was named in the in-bond application. The decision to grant or deny permission to divert merchandise is within the discretion of CBP. Denials may result from, for example, restrictions placed upon the movement of goods by government agencies.
+
+(b) *In-transit time.* The approval of a request to divert merchandise for transportation in-bond does not extend the in-transit time specified in § 18.1(i)(1) of this part. The diverted merchandise must be delivered to the port of diversion within the in-transit time specified in § 18.1(i)(1) from the date CBP first authorized the in-bond movement, unless an extension is granted pursuant to § 18.1(i)(2).
+
+(c) *Diversion of cargo subject to restriction, prohibition or regulation by other federal agency or authority.* Merchandise subject to a law, regulation, rule, standard or ban that requires permission or authorization by another federal agency or authority before importation may be restricted from being diverted on behalf of the authorizing agency.

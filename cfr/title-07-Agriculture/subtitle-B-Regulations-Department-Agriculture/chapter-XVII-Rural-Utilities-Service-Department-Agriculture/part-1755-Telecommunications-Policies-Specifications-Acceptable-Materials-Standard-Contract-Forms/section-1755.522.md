@@ -8,7 +8,7 @@
 
 (4) American Society for Testing Materials (ASTM) Specification B 33-91, Standard Specification for Tinned Soft or Annealed Copper Wire for Electrical Purposes, is incorporated by reference by RUS. This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from ASTM, 1916 Race Street, Philadelphia, PA, telephone 215-299-5400. Copies may be inspected during normal business hours at RUS, room 2838-S, U.S. Department of Agriculture, Washington, DC 20250, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
-(5) Bell Communications Research (Bellcore) document SR-TSV-002275, BOC Notes on the LEC Networks - 1990, March 1991, is incorporated by reference by RUS. This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR Part 51. Copies may be obtained from Bellcore Customer Service, 60 New England Avenue, Piscataway, NJ 08854, telephone 1-800-521-2673. Copies may be inspected during normal business hours at RUS, room 2838-S, U.S. Department of Agriculture, Washington, DC 20250, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+(5) Bell Communications Research (Bellcore) document SR-TSV-002275, BOC Notes on the LEC Networks—1990, March 1991, is incorporated by reference by RUS. This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR Part 51. Copies may be obtained from Bellcore Customer Service, 60 New England Avenue, Piscataway, NJ 08854, telephone 1-800-521-2673. Copies may be inspected during normal business hours at RUS, room 2838-S, U.S. Department of Agriculture, Washington, DC 20250, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 (6) Bellcore TR-TSY-000508, Automatic Message Accounting, July 1987, is incorporated by reference by RUS. This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from Bellcore Customer Service, 60 New England Avenue, Piscataway, NJ 08854, telephone 1-800-521-2673. Copies may be inspected during normal business hours at RUS, room 2838-S, U.S. Department of Agriculture, Washington, DC 20250, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
@@ -102,11 +102,11 @@
 
 (ix) If 911 calls pass through intermediate switching, the forced-hold control, emergency ringback, and calling line status monitoring capabilities are lost.
 
-(f) *Line circuit requirements* - (1) *General.* (i) The range of direct current (dc) resistances of subscriber loops, measured from the main frame in the central office and including the telephone set shall be at least 0-1900 ohms without loop extension and 1900-3600 ohms with loop extenders, or equivalent. The range when using extension equipment may be significantly reduced for straight line ringers. These limits apply under maximum adverse environmental and manufacturing variation tolerance conditions. Central office voltage shall be stabilized at a value necessary to provide at least a nominal 21 milliamperes current with a nontreated loop of at least 1900 ohms. Minimum loop insulation resistance without loop extenders shall be 25,000 ohms between conductors or from either conductor or both conductors in parallel to ground. Loop insulation resistance for loop extension devices may be 100,000 ohms minimum between conductors or from either conductor or both conductors in parallel to ground.
+(f) *Line circuit requirements*—(1) *General.* (i) The range of direct current (dc) resistances of subscriber loops, measured from the main frame in the central office and including the telephone set shall be at least 0-1900 ohms without loop extension and 1900-3600 ohms with loop extenders, or equivalent. The range when using extension equipment may be significantly reduced for straight line ringers. These limits apply under maximum adverse environmental and manufacturing variation tolerance conditions. Central office voltage shall be stabilized at a value necessary to provide at least a nominal 21 milliamperes current with a nontreated loop of at least 1900 ohms. Minimum loop insulation resistance without loop extenders shall be 25,000 ohms between conductors or from either conductor or both conductors in parallel to ground. Loop insulation resistance for loop extension devices may be 100,000 ohms minimum between conductors or from either conductor or both conductors in parallel to ground.
 
 (ii) In addition to operating on nonloaded cable pairs and subscriber carrier, the equipment shall function properly with D-66 and H-88 loaded cable pairs, including any provisions the equipment must control for the purposes of proper transmission.
 
-(2) *Dialing* - (i) *Subscriber dial speed.* The line equipment and central office equipment (COE) in tandem shall operate satisfactorily when used with subscriber dials having a speed of operation between eight and twelve impulses per second and a break period of 55 to 65 percent of the total impulse period.
+(2) *Dialing*—(i) *Subscriber dial speed.* The line equipment and central office equipment (COE) in tandem shall operate satisfactorily when used with subscriber dials having a speed of operation between eight and twelve impulses per second and a break period of 55 to 65 percent of the total impulse period.
 
 (ii) *Subscriber dial interdigital time.* The line equipment and central office equipment shall operate satisfactorily with subscriber rotary dial interdigital times of 200 milliseconds minimum, and with pushbutton dialing interdigital times of 50 milliseconds minimum.
 
@@ -120,7 +120,7 @@
 |           852            |             7             | 8  | 9  |Spare|
 |           941            |            \*             | 0  | \# |Spare|
 
-(B) The receiver shall comply with the operating parameters of the dual-tone multifrequency (DTMF) central office receiver as described in section 6 of Bell Communications Research (Bellcore) document SR-TSV-002275, BOC Notes on the LEC Networks - 1990.
+(B) The receiver shall comply with the operating parameters of the dual-tone multifrequency (DTMF) central office receiver as described in section 6 of Bell Communications Research (Bellcore) document SR-TSV-002275, BOC Notes on the LEC Networks—1990.
 
 (3) *Impedance.* For the purpose of this section, the input impedance of all subscriber loops served by the equipment is arbitrarily considered to be 900 ohms at voice frequencies.
 
@@ -280,7 +280,7 @@
 
 (iii) Where automatic activation is provided, service may be provided to small groups of nonemergency subscribers on limited grade of service whenever the office load becomes low enough to permit this to be done safely.
 
-(h) *Interoffice trunk circuit requirements* - (1) *General.* (i) The bidder shall supply, as requested by the owner, solid-state technology type trunk and signaling circuits of any of the types described in RUS TE&CM 319, Interoffice Trunking and Signaling, or, with the approval of RUS, any other more recent and desirable types not as yet covered in the manual. For dc signaling, the duplex (DX) and loop types of signaling are preferred.
+(h) *Interoffice trunk circuit requirements*—(1) *General.* (i) The bidder shall supply, as requested by the owner, solid-state technology type trunk and signaling circuits of any of the types described in RUS TE&CM 319, Interoffice Trunking and Signaling, or, with the approval of RUS, any other more recent and desirable types not as yet covered in the manual. For dc signaling, the duplex (DX) and loop types of signaling are preferred.
 
 (ii) Trunks shall not be directly driven from the subscriber's dial on outward calls.
 
@@ -312,7 +312,7 @@
 
 (iii) Signaling shall be by means of MF or dial pulse (DP) and the system which is inherent in the A and B bits of the D3 format. In the case where they are not used for signaling, the A and B bits shall be used only for normal voice and data transmission.
 
-(i) *Tone requirements* - (1) *General.* Tones shall be provided to indicate the progress of a call through the office. Tone generators should be an integral part of the switching systems. The tones should be introduced digitally by the application of the appropriate bit stream to the line or trunk circuit via the digital switching network. The necessary precautions shall be made to ensure tone sources automatically if the primary sources fail.
+(i) *Tone requirements*—(1) *General.* Tones shall be provided to indicate the progress of a call through the office. Tone generators should be an integral part of the switching systems. The tones should be introduced digitally by the application of the appropriate bit stream to the line or trunk circuit via the digital switching network. The necessary precautions shall be made to ensure tone sources automatically if the primary sources fail.
 
 (2) *Tone specifications.* (i) Dial tone shall consist of 350 Hz plus 440 Hz at a composite level of −10 dBm0 which equates to −13 dBm0 per frequency. This is the precise tone suitable for use with pushbutton dialing.
 
@@ -328,7 +328,7 @@
 
 (vii) Audible ringback tone shall consist of 440 plus 480 Hz at a composite level of −16 dBm0 which equates to −19 dBm0 per frequency.
 
-(viii) The call progress tones listed in this section are described in Bellcore document SR-TSV-002275, BOC Notes on the LEC Networks - 1990, section 6. The 350, 440, 480, and 620 Hz tones shall be held at ±0.5 percent frequency tolerance and ±3 dB amplitude variation. The amplitude levels specified are to be measured at the main distributing frame, excluding cable loss.
+(viii) The call progress tones listed in this section are described in Bellcore document SR-TSV-002275, BOC Notes on the LEC Networks—1990, section 6. The 350, 440, 480, and 620 Hz tones shall be held at ±0.5 percent frequency tolerance and ±3 dB amplitude variation. The amplitude levels specified are to be measured at the main distributing frame, excluding cable loss.
 
 (ix) Distinctive tone, when required for alarm calls, or other features, shall consist of high tone interrupted at 200 IPM with tone on 150 ms and off 150 ms.
 
@@ -338,7 +338,7 @@
 
 (xii) During application of tones, office longitudinal balance shall be maintained within 15 dB of that specified in paragraph (q)(8) of this section.
 
-(j) *System clock.* (1) The central office clock and network synchronization system shall have the ability to be synchronized with external clocks for network synchronization, including detection of slips, timing, jitter and wander, in a digital-to-digital environment or operate initially in an independent network (refer to Bellcore document SR-TSV-002275, BOC Notes on the LEC Networks - 1990, section 11).
+(j) *System clock.* (1) The central office clock and network synchronization system shall have the ability to be synchronized with external clocks for network synchronization, including detection of slips, timing, jitter and wander, in a digital-to-digital environment or operate initially in an independent network (refer to Bellcore document SR-TSV-002275, BOC Notes on the LEC Networks—1990, section 11).
 
 (2) The end office central office system clock shall be a Stratum 3 clock with:
 
@@ -356,7 +356,7 @@
 
 (iii) A “Pull-In Range” for the capability of synchronization to a clock with accuracy of ±1.6 × 10−8.
 
-(k) *Switched access service arrangements* - (1) *General.* The equipment shall be capable of providing Feature Group A, Feature Group B, Feature Group C, and Feature Group D switched access service arrangements, as described in Bellcore document SR-TSV-002275, BOC Notes on the LEC Networks - 1990, section 6 and section 15, including arrangements for automatic number identification (ANI).
+(k) *Switched access service arrangements*—(1) *General.* The equipment shall be capable of providing Feature Group A, Feature Group B, Feature Group C, and Feature Group D switched access service arrangements, as described in Bellcore document SR-TSV-002275, BOC Notes on the LEC Networks—1990, section 6 and section 15, including arrangements for automatic number identification (ANI).
 
 (2) *Operation.* (i) All equipment shall be arranged for Feature Group A (Line Side Connection).
 
@@ -374,7 +374,7 @@
 
 (viii) If specified in Item 9.4, appendix A of this section, the equipment shall be arranged to store the billing data in a pollable system. If specified in Item 9.5, appendix A of this section, equipment shall be furnished to poll the pollable systems associated with the contract.
 
-(l) *Fusing and protection requirements* - (1) *General.* (i) The equipment shall be completely wired and equipped with fuses, trouble signals, and arranged for printout of fault conditions, with all associated equipment for the wired capacity of the frames or cabinets provided.
+(l) *Fusing and protection requirements*—(1) *General.* (i) The equipment shall be completely wired and equipped with fuses, trouble signals, and arranged for printout of fault conditions, with all associated equipment for the wired capacity of the frames or cabinets provided.
 
 (ii) Design precautions shall be taken to prevent the possibility of equipment damage arising from the insertion of an electronic package into the wrong connector, the removal of a package from any connector, or the improper insertion of the correct card in its connector.
 
@@ -386,7 +386,7 @@
 
 (iii) Every precaution shall be taken to protect electrostatically sensitive components from damage during handling. This shall include written instructions and recommendations (see Item 6.1,h of appendix C of this section).
 
-(m) *Switching network requirements* - (1) *The network.* (i) All networks shall be comprised of solid-state components.
+(m) *Switching network requirements*—(1) *The network.* (i) All networks shall be comprised of solid-state components.
 
 (ii) The switching network shall employ time division digital switching and be compatible for connection to D3 type PCM channel banks without conversion to analog.
 
@@ -424,7 +424,7 @@
 
 (7) Information in memory, having no requirement for changes to be introduced in the maintenance or operation of the system, may be stored in memory devices such as programmable read-only memory (PROM) or other devices that cannot be reprogrammed in the field.
 
-(o) *Maintenance facilities* - (1) *Alarm features, including alarm sending.* (i) The equipment shall be arranged to provide audible and visual alarms indicating fuse operation or other circuit malfunctions resulting from component failure, crosses or open wiring, or any other conditions affecting service which can be detected economically.
+(o) *Maintenance facilities*—(1) *Alarm features, including alarm sending.* (i) The equipment shall be arranged to provide audible and visual alarms indicating fuse operation or other circuit malfunctions resulting from component failure, crosses or open wiring, or any other conditions affecting service which can be detected economically.
 
 (ii) The alarms shall be classified in accordance with their effect on the system.
 
@@ -450,24 +450,23 @@
 
 (x) When the alarm checking number is dialed, the alarm indications received shall be as follows:
 
-(A) Catastrophic alarm - No tone.
+(A) Catastrophic alarm—No tone.
 
-(B) Major alarm - Continuous busy tone 60 IPM, unless alarm is overridden.
+(B) Major alarm—Continuous busy tone 60 IPM, unless alarm is overridden.
 
-(C) Minor alarm - Continuous 1-ring code ringback tone, unless alarm is overridden.
+(C) Minor alarm—Continuous 1-ring code ringback tone, unless alarm is overridden.
 
-(D) No trouble - Continuous 2-ring code ringback tone, unless alarm is overridden.
+(D) No trouble—Continuous 2-ring code ringback tone, unless alarm is overridden.
 
 (xi) Audible and visual local alarms and transmitted alarms shall be provided as follows:
 
-|              |Delay Interval|                  |
-|--------------|--------------|------------------|
-|Classification| Local Alarms |Alarms Transmitted|
-| Catastrophic |      0       |        0         |
-|    Major     |      0       |  0<sup>1</sup>   |
-|    Minor     |      0       |    0-30 Min.     |
-
-<sup>1</sup>Except no charge alarm delayed 15 minutes.
+|                                                       |Delay Interval|                  |
+|-------------------------------------------------------|--------------|------------------|
+|                    Classification                     | Local Alarms |Alarms Transmitted|
+|                     Catastrophic                      |      0       |        0         |
+|                         Major                         |      0       |  0 <sup>1</sup>  |
+|                         Minor                         |      0       |    0-30 Min.     |
+|<sup>1</sup> Except no charge alarm delayed 15 minutes.|              |                  |
 
 (xii) The central office alarm circuits shall be arranged to provide optional wiring to transmit either a minor alarm or a major alarm and a printout to accommodate various types of trunk and subscriber carrier systems, microwave, mobile radio, other transmission systems, and environmental protection systems with different priorities when a set of contacts is closed in the equipment of such systems and the alarm checking code is dialed. The alarm relay shall be furnished by the supplier of the carrier multiplex and/or mobile radio equipment. The option or options shall be specified by the owner.
 
@@ -519,7 +518,7 @@
 
 (F) When a system for testing subscriber lines in remote offices from a test position in a centrally located office is specified by the owner, it shall be capable of working with all the central offices and RST's in the remote areas. This testing equipment shall preferably be solid-state with a minimum of electromechanical devices and shall operate from central office battery. It shall be capable of working over any voice grade telephone circuit and shall not require a dedicated trunk. There shall be no interference to or from “in-band” voice channel tones. When used over a network, the verification or access shall be guarded to prevent unauthorized access by subscribers. Access to this system shall only be available to the test operator in all cases.
 
-(3) *Transmission testing.* (i) When transmission test circuits are specified in Item 11.3 of appendix A of this section, they shall permit testing of trunks by a distant office without any assistance in the local dial office. Analog test ports shall meet appropriate trunk requirements. If Centralized Automatic Reporting on Trunks (CAROT), or equivalent, is to be used, the equipment at the end office shall comply with Bellcore document SR-TSV-002275, BOC Notes on the LEC Networks - 1990, section 8, Item 2.
+(3) *Transmission testing.* (i) When transmission test circuits are specified in Item 11.3 of appendix A of this section, they shall permit testing of trunks by a distant office without any assistance in the local dial office. Analog test ports shall meet appropriate trunk requirements. If Centralized Automatic Reporting on Trunks (CAROT), or equivalent, is to be used, the equipment at the end office shall comply with Bellcore document SR-TSV-002275, BOC Notes on the LEC Networks—1990, section 8, Item 2.
 
 (ii) Transmission test circuits are available with a variety of options. These include single frequency and multifrequency tone generators with one or more generator output terminals, quiet terminations, and loop around test arrangements for both one-way and two-way trunks.
 
@@ -533,11 +532,7 @@
 
 (vii) Test jack access shall be provided for all interoffice trunks of the voice frequency type. The jack access shall be properly designated for line, drop, monitor, and signaling leads plus any other jacks as requested by the owner. This may be accomplished by a set of jacks located at the maintenance center which have access to each trunk on a switching basis.
 
-(p) *Traffic* - (1) *General engineering guidelines.* (i) The Traffic Table, based on the Erlang Lost-Calls-Cleared Formula, shall be used for determining the quantity of intraoffice paths, registers, and senders where full availability conditions apply. The following table shows the traffic capacity in CCS for 1 to 200 trunks at nine grades of service.
-
-Traffic Table
-
-Full Availability for Random Traffic
+(p) *Traffic*—(1) *General engineering guidelines.* (i) The Traffic Table, based on the Erlang Lost-Calls-Cleared Formula, shall be used for determining the quantity of intraoffice paths, registers, and senders where full availability conditions apply. The following table shows the traffic capacity in CCS for 1 to 200 trunks at nine grades of service.
 
 |Number of Trunks|B-.001|.002|.005|.01 |.02 |.05 | .1 | .2 | .5  |Number of Trunks|
 |----------------|------|----|----|----|----|----|----|----|-----|----------------|
@@ -713,14 +708,14 @@ Full Availability for Random Traffic
 
 (i) The following average call holding times (HT) may be used.
 
-|              Type of Call              |HT - Seconds|
-|----------------------------------------|------------|
-|              Intraoffice               |    120     |
-|                  EAS                   |    150     |
-|Special Service, Intercept, Verification|     60     |
-|               Toll, CLR                |    300     |
-|               Toll, S-S                |     24     |
-|               Toll, PPCS               |    270     |
+|              Type of Call              |HT—Seconds|
+|----------------------------------------|----------|
+|              Intraoffice               |   120    |
+|                  EAS                   |   150    |
+|Special Service, Intercept, Verification|    60    |
+|               Toll, CLR                |   300    |
+|               Toll, S-S                |    24    |
+|               Toll, PPCS               |   270    |
 
 (ii) The following average subscriber dialing holding times may be used (times used to dial digits do not include machine time).
 
@@ -737,43 +732,40 @@ Full Availability for Random Traffic
 
 (iii) The following average incoming register holding times may be used (times for digit registrations do not include machine time).
 
-|                           |Basic |Additional Per Digit|    |
-|---------------------------|------|--------------------|----|
-|    Holding Time (Sec.)    |Digits|                    |    |
-|     MF Receiver from:     |      |                    |    |
-| No. 5 Crossbar - Non-LAMA | 1.4  |         4          |0.14|
-|   No. 5 Crossbar - LAMA   | 2.3  |         4          |0.14|
-| Crossbar Tandem & 4A Toll | 3.1  |         4          |0.14|
-|         No. 1 ESS         | 1.4  |         4          |0.14|
-|  Key Pulsing Switchboard  | 5.2  |         4          |0.60|
-|DP Receivers - 10 PPS from:|      |                    |    |
-|            SxS            | 6.0  |         4          |1.5 |
-|    Dialing Switchboard    | 6.6  |         4          |1.3 |
-|          4A Toll          | 5.6  |   5<sup>1</sup>    | \- |
-|      Crossbar Tandem      | 4.9  |         4          |1.2 |
-
-<sup>1</sup>No reduction for fewer digits.
+|                                           |Basic |Additional Per Digit|    |
+|-------------------------------------------|------|--------------------|----|
+|            Holding Time (Sec.)            |Digits|                    |    |
+|             MF Receiver from:             |      |                    |    |
+|          No. 5 Crossbar—Non-LAMA          | 1.4  |         4          |0.14|
+|            No. 5 Crossbar—LAMA            | 2.3  |         4          |0.14|
+|         Crossbar Tandem & 4A Toll         | 3.1  |         4          |0.14|
+|                 No. 1 ESS                 | 1.4  |         4          |0.14|
+|          Key Pulsing Switchboard          | 5.2  |         4          |0.60|
+|         DP Receivers—10 PPS from:         |      |                    |    |
+|                    SxS                    | 6.0  |         4          |1.5 |
+|            Dialing Switchboard            | 6.6  |         4          |1.3 |
+|                  4A Toll                  | 5.6  |   5 <sup>1</sup>   | \- |
+|              Crossbar Tandem              | 4.9  |         4          |1.2 |
+|<sup>1</sup> No reduction for fewer digits.|      |                    |    |
 
 (iv) The following average sender holding times may be used (does not include machine setup and release time).
 
-|                                     |Basic |Additional Per Digit|    |
-|-------------------------------------|------|--------------------|----|
-|         Holding Time (Sec.)         |Digits|                    |    |
-|             MF Senders:             |      |                    |    |
-|           No. 5 Crossbar            | 1.5  |         4          |0.14|
-|Crossbar Tandem & 4A Toll<sup>1</sup>| 2.0  |         4          |0.14|
-|              TSP/TSPS               | 2.4  |         7          |0.14|
-|      SxS - CAMA, Called Number      | 3.7  |         7          |0.14|
-|     SxS - CAMA, Calling Number      | 1.3  |         7          | \- |
-|        DP Senders - 10 PPS:         |      |                    |    |
-|  With Overlap Pulsing<sup>2</sup>   | 9.1  |      Up to 6       |1.8 |
-|       Without Overlap Pulsing       | 4.6  |         4          |1.2 |
+|                                                                                                                                   |Basic |Additional Per Digit|    |
+|-----------------------------------------------------------------------------------------------------------------------------------|------|--------------------|----|
+|                                                        Holding Time (Sec.)                                                        |Digits|                    |    |
+|                                                            MF Senders:                                                            |      |                    |    |
+|                                                          No. 5 Crossbar                                                           | 1.5  |         4          |0.14|
+|                                              Crossbar Tandem & 4A Toll <sup>1</sup>                                               | 2.0  |         4          |0.14|
+|                                                             TSP/TSPS                                                              | 2.4  |         7          |0.14|
+|                                                      SxS—CAMA, Called Number                                                      | 3.7  |         7          |0.14|
+|                                                     SxS—CAMA, Calling Number                                                      | 1.3  |         7          | \- |
+|                                                        DP Senders—10 PPS:                                                         |      |                    |    |
+|                                                 With Overlap Pulsing <sup>2</sup>                                                 | 9.1  |      Up to 6       |1.8 |
+|                                                      Without Overlap Pulsing                                                      | 4.6  |         4          |1.2 |
+|       <sup>1</sup> Add 1.3 seconds for ANI outpulsing on special toll (0 + ) calls and on DDD calls if AMA is not provided.       |      |                    |    |
+|<sup>2</sup> Assumes overlap outpulsing starting on receiving of third digit; applies only to calls handled on direct trunk groups.|      |                    |    |
 
-<sup>1</sup>Add 1.3 seconds for ANI outpulsing on special toll (0 + ) calls and on DDD calls if AMA is not provided.
-
-<sup>2</sup>Assumes overlap outpulsing starting on receiving of third digit; applies only to calls handled on direct trunk groups.
-
-(4) *Traffic data requirements.* (i) Traffic measurements are composed of primarily two types - counts and usage. The following types of traffic data recording are required:
+(4) *Traffic data requirements.* (i) Traffic measurements are composed of primarily two types—counts and usage. The following types of traffic data recording are required:
 
 (A) *Peg count* registers shall be incremented when a successful network connection is established to a particular circuit group such as trunks, senders, digital receivers, etc.
 
@@ -791,7 +783,7 @@ Full Availability for Random Traffic
 
 (iv) All traffic records shall have dates and times and office identification.
 
-(q) *Transmission* - (1) *General.* The transmission characteristics will be governed by the fact that the switching matrix will be based on digital operation. Unless otherwise stated, the requirements are in terms of analog measurements made from Main Distributing Frame (MDF) to MDF terminals, excluding cabling loss.
+(q) *Transmission*—(1) *General.* The transmission characteristics will be governed by the fact that the switching matrix will be based on digital operation. Unless otherwise stated, the requirements are in terms of analog measurements made from Main Distributing Frame (MDF) to MDF terminals, excluding cabling loss.
 
 (2) *Impedance.* For the purpose of this section, the nominal input impedance of analog ports in an end office shall be 900 ohms for 2-wire ports and 600 ohms for 4-wire ports. Where the connecting facility or equipment is other than this impedance, suitable impedance matching shall be provided by the bidder when specified by the owner.
 
@@ -809,31 +801,27 @@ Full Availability for Random Traffic
 
 (i) *Trunk-to-trunk.*
 
-|              |Loss at 0 dBm0 Input<sup>1</sup>|                      |
-|--------------|--------------------------------|----------------------|
-|Frequency (Hz)|        2-Wire to 2-Wire        |   4-Wire to 4-Wire   |
-|      60      |     20 dB Min.<sup>2</sup>     |16 dB Min.<sup>2</sup>|
-|     200      |           0 to 5 dB            |      0 to 3 dB       |
-|   300-3000   |        −0.5 dB to 1 dB         |   −0.3 to + 0.3 dB   |
-|     3300     |          1.5 dB Max.           |     1.5 dB Max.      |
-|     3400     |           0 to 3 dB            |      0 to 3 dB       |
-
-<sup>1</sup>(−) means less loss and ( + ) means more loss.
-
-<sup>2</sup>Transmit End
+|                                                         |Loss at 0 dBm0 Input <sup>1</sup>|                       |
+|---------------------------------------------------------|---------------------------------|-----------------------|
+|                     Frequency (Hz)                      |        2-Wire to 2-Wire         |   4-Wire to 4-Wire    |
+|                           60                            |     20 dB Min. <sup>2</sup>     |16 dB Min. <sup>2</sup>|
+|                           200                           |            0 to 5 dB            |       0 to 3 dB       |
+|                        300-3000                         |         −0.5 dB to 1 dB         |   −0.3 to + 0.3 dB    |
+|                          3300                           |           1.5 dB Max.           |      1.5 dB Max.      |
+|                          3400                           |            0 to 3 dB            |       0 to 3 dB       |
+|<sup>1</sup> (−) means less loss and (+) means more loss.|                                 |                       |
+|                <sup>2</sup> Transmit End                |                                 |                       |
 
 (ii) *Line-to-line.*
 
-|Frequency (Hz)|Loss at 0 dBm0 Input<sup>1</sup>|
-|--------------|--------------------------------|
-|      60      |     20 dB Min.<sup>2</sup>     |
-|     300      |          −1 to + 3 dB          |
-|   600-2400   |             ±1 dB              |
-|     3200     |          −1 to + 3 dB          |
-
-<sup>1</sup>(−) means less loss and ( + ) means more loss.
-
-<sup>2</sup>Transmit End
+|                     Frequency (Hz)                      |Loss at 0 dBm0 Input <sup>1</sup>|
+|---------------------------------------------------------|---------------------------------|
+|                           60                            |     20 dB Min. <sup>2</sup>     |
+|                           300                           |          −1 to + 3 dB           |
+|                        600-2400                         |              ±1 dB              |
+|                          3200                           |          −1 to + 3 dB           |
+|<sup>1</sup> (−) means less loss and (+) means more loss.|                                 |
+|                <sup>2</sup> Transmit End                |                                 |
 
 (iii) *Trunk-to-line.* The trunk-to-line frequency response requirements shall be a compromise between those values specified in paragraphs (q)(4)(i) and (q)(4)(ii) of this section.
 
@@ -841,26 +829,25 @@ Full Availability for Random Traffic
 
 (6) *Gain tracking (linearity)* shall meet the following requirements.
 
-|Input Signal Level<sup>1</sup>|Maximum Gain Deviation|
-|------------------------------|----------------------|
-|       \+ 3 to −37 dBm0       |       ±0.5 dB        |
-|       −37 to −50 dBm0        |        ±1 dB         |
-
-<sup>1</sup>1004 Hz reference at 0 dBm0.
+|     Input Signal Level <sup>1</sup>     |Maximum Gain Deviation|
+|-----------------------------------------|----------------------|
+|            \+ 3 to −37 dBm0             |       ±0.5 dB        |
+|             −37 to −50 dBm0             |        ±1 dB         |
+|<sup>1</sup> 1004 Hz reference at 0 dBm0.|                      |
 
 (7) *Return loss.* (i) The specified return loss values are determined by the service and type of port at the measuring (near) end. Two-wire ports are measured (near end) at 900 ohms in series with 2.16 microfarads and 4-wire ports are measured at 600 ohms resistive.
 
 (ii) Far end test terminations shall be as follows:
 
-(A) Loaded line circuit - 1650 ohms in parallel with the series combination of .005 microfarads and 100 ohms;
+(A) Loaded line circuit—1650 ohms in parallel with the series combination of .005 microfarads and 100 ohms;
 
-(B) Nonloaded line circuit - 800 ohms in parallel with the series combination of .05 microfarads and 100 ohms;
+(B) Nonloaded line circuit—800 ohms in parallel with the series combination of .05 microfarads and 100 ohms;
 
-(C) Special service line circuit including electronic lines and carrier lines - 900 ohms in series with 2.16 microfarads;
+(C) Special service line circuit including electronic lines and carrier lines—900 ohms in series with 2.16 microfarads;
 
-(D) Two-wire trunk - 900 ohms in series with 2.16 microfarads; and
+(D) Two-wire trunk—900 ohms in series with 2.16 microfarads; and
 
-(E) Four-wire trunk - 600 ohms.
+(E) Four-wire trunk—600 ohms.
 
 (iii) For trunk-to-trunk (2-wire or 4-wire) connections the echo return loss (ERL) shall be 27 dB, minimum and the singing return loss (SRL) shall be 20 dB, minimum low and 23 dB, minimum high.
 
@@ -872,7 +859,7 @@ Full Availability for Random Traffic
 
 (9) *60 hz longitudinal current immunity.* Under test conditions with 60 Hz, the system noise shall be no greater than 23 dBrnC0 as measured using the configuration in Figure 1.
 
-Figure 1 - Measuring the Effects of Low Frequency Induction![](/graphics/ec14no91.091.gif)Notes:1. 900 ohm termination, C-message weighting, hold coil off2. SNC Noise Choke 35 W, or equivalent3. Test at 0.020 Adc and 0.070 Adc4. 2 ±0.001 microfarad, 150 Vdc
+Figure 1—Measuring the Effects of Low Frequency Induction![](/graphics/ec14no91.091.gif)Notes:1. 900 ohm termination, C-message weighting, hold coil off2. SNC Noise Choke 35 W, or equivalent3. Test at 0.020 Adc and 0.070 Adc4. 2 ±0.001 microfarad, 150 Vdc
 
 (10) *Steady noise* (idle channel at 900 ohms impedance) measured on a terminated call shall be 23 dBrnC0 maximum and average 18 dBrnC0 or less. The 3K Hz Flat noise should be less than 35 dBrnC0 as an objective.
 
@@ -907,7 +894,7 @@ Figure 1 - Measuring the Effects of Low Frequency Induction![](/graphics/ec14no9
 
 (18) Radio and television interference. The central office switching equipment shall be designed and installed so that radiation of high frequency noise will be limited so as not to interfere with radio and television receivers.
 
-(r) *Timing intervals* - (1) *Type of equipment required.* The equipment for providing the specified timing intervals shall be solid-state.
+(r) *Timing intervals*—(1) *Type of equipment required.* The equipment for providing the specified timing intervals shall be solid-state.
 
 (2) *Tolerance.* Where a range of time is specified as minimum and maximum, the lower limits shall be considered as controlling and the variation between this minimum and the actual maximum shall be kept as small as practicable. In no case shall the quoted upper limit be exceeded.
 
@@ -919,7 +906,7 @@ Figure 1 - Measuring the Effects of Low Frequency Induction![](/graphics/ec14no9
 
 (6) *Called party disconnect timing.* Timed disconnect of a terminating path under control of the called party shall be 10 to 32 seconds.
 
-(7) *Timing intervals for signals involved in distance dialing.* Timing intervals shall be provided to meet the requirements for distance dialing equipment, which have been established in Bellcore document SR-TSV-002275, BOC Notes on the LEC Networks - 1990. Some of the more important times which this document specifies are for:
+(7) *Timing intervals for signals involved in distance dialing.* Timing intervals shall be provided to meet the requirements for distance dialing equipment, which have been established in Bellcore document SR-TSV-002275, BOC Notes on the LEC Networks—1990. Some of the more important times which this document specifies are for:
 
 (i) Disconnect signal;
 
@@ -935,7 +922,7 @@ Figure 1 - Measuring the Effects of Low Frequency Induction![](/graphics/ec14no9
 
 (vii) Sender, register, and link attachment timing.
 
-(s) *Power requirements and equipment* - (1) *Operating voltage.* The nominal operating voltage of the central office shall be 48 volts dc, provided by a battery with the positive side tied to system ground.
+(s) *Power requirements and equipment*—(1) *Operating voltage.* The nominal operating voltage of the central office shall be 48 volts dc, provided by a battery with the positive side tied to system ground.
 
 (2) *Batteries.* (i) When battery cells of the lead antimony type are specified, the pasted plate type shall be considered adequate.
 
@@ -959,7 +946,7 @@ Figure 1 - Measuring the Effects of Low Frequency Induction![](/graphics/ec14no9
 
 (iii) The charger noise shall not exceed 22 dBrnC when measured with a suitable noise measuring set and under the rated battery capacitance and load conditions as determined in Figure 2.
 
-Figure 2 - Charger Noise Test![](/graphics/er01ja93.386.gif)The manufacturer may elect to eliminate the capacitor C from the measurement.A. Capacitance in µF = 30,000 µF per ampere-hour per cell. For example, 25 cells at 100 ampere-hour would be equivalent to a capacitance of:
+Figure 2—Charger Noise Test![](/graphics/er01ja93.386.gif)The manufacturer may elect to eliminate the capacitor C from the measurement.A. Capacitance in µF = 30,000 µF per ampere-hour per cell. For example, 25 cells at 100 ampere-hour would be equivalent to a capacitance of:
 
 (30,000 × 100) / 25 = 120,000 µF
 
@@ -1063,11 +1050,9 @@ B. The value of the resistive load R is determined by the nominal battery voltag
 
 (11) Main frame protector makes and types shall be selected only from RUS Bulletin 1755I-100, List of Materials Acceptable for Use on Telephone Systems of RUS Borrowers. Protectors shall be capable of easy removal.
 
-(u) *Electrical protection* - (1) *Surge protection.* (i) Adequate electrical protection of central office switching equipment shall be included in the design of the system. The characteristics and application of protection devices shall be such that they enable the central office switching equipment to withstand, without damage or excessive protector maintenance, the dielectric stresses and currents that are produced in line-to-ground and tip-to-ring circuits through the equipment as a result of induced or conducted lightning or power system fault-related surges. All wire terminals connected to outside plant wire or cable pairs shall be protected from voltage and current surges.
+(u) *Electrical protection*—(1) *Surge protection.* (i) Adequate electrical protection of central office switching equipment shall be included in the design of the system. The characteristics and application of protection devices shall be such that they enable the central office switching equipment to withstand, without damage or excessive protector maintenance, the dielectric stresses and currents that are produced in line-to-ground and tip-to-ring circuits through the equipment as a result of induced or conducted lightning or power system fault-related surges. All wire terminals connected to outside plant wire or cable pairs shall be protected from voltage and current surges.
 
 (ii) Central office switching equipment shall pass laboratory tests, simulating the hostile electrical environment, before being placed in the field for the purpose of obtaining field experience. There are five basic types of laboratory tests which shall be applied to exposed terminals in an effort to determine if the equipment will survive. Figure 3 summarizes these tests and the minimum acceptable levels of protection for equipment to pass them.
-
-Figure 3 - Summary of Electrical Requirements and Tests
 
 |             Test             |                                    Application Criteria                                     |                 Peak Voltage or Current                 |                 Surge Waveshape                 |No. of Applications & Max. Time Between|                                           Comments                                            |
 |------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------|-------------------------------------------------|---------------------------------------|-----------------------------------------------------------------------------------------------|
@@ -1079,7 +1064,7 @@ Figure 3 - Summary of Electrical Requirements and Tests
 
 (iii) *Two categories of surge tests.* (A) Current surge tests simulate the stress to which a relatively low impedance path may be subjected before main frame protectors break down. Paths with a 100 Hz impedance of 50 ohms or less shall be subjected to current surges, employing a 10 × 1000 microseconds waveshape as defined in Figure 4. For the purpose of determining this impedance, arresters which are mounted within the equipment are to be considered zero impedance. The crest current shall not exceed 500A; however, depending on the impedance of the test specimen this value of current may be lower. The crest current through the sample, multiplied by the sample's 100 Hz impedance, shall not exceed 1000 volts (V). Where sample impedance is less than two ohms, crest current shall be limited to 500A as shown in Figure 5.
 
-Figure 4 - Explanation of Surge Waveshape![](/graphics/ec14no91.087.gif)
+Figure 4—Explanation of Surge Waveshape![](/graphics/ec14no91.087.gif)
 
 Surge Waveshape is defined as follows:
 
@@ -1087,36 +1072,36 @@ Rise Time × Time to Decay to Half Crest Value
 
 (For example, 10 × 1000 µs)
 
-Notes:T1 = Time to determine the rate of rise. The rate of rise is determined as the slope between 10% and 90% of peak voltage or current.T2 = Time to 50% of peak voltage (decay to half value).Figure 5 - Explanation of Surge Waveshape![](/graphics/ec14no91.088.gif)VL = Not to exceed 1000VVB = Charging VoltageZ100 = Test Specimen Impedance to be measured at 100 Hz.RP = Parallel Resistance (Waveshape)RS = Series Resistance (Current Limiting)
+Notes:T1 = Time to determine the rate of rise. The rate of rise is determined as the slope between 10% and 90% of peak voltage or current.T2 = Time to 50% of peak voltage (decay to half value).Figure 5—Explanation of Surge Waveshape![](/graphics/ec14no91.088.gif)VL = Not to exceed 1000VVB = Charging VoltageZ100 = Test Specimen Impedance to be measured at 100 Hz.RP = Parallel Resistance (Waveshape)RS = Series Resistance (Current Limiting)
 
-|Z100|RS | RP | VB |
-|----|---|----|----|
-| 0  | 5 | ∞  |2500|
-| 1  | 4 | ∞  |2500|
-| 2  | 3 | ∞  |2500|
-| 3  | 2 | ∞  |1670|
-| 4  | 1 | ∞  |1250|
-| 5  | 0 | ∞  |1000|
-|7.5 | 0 | 15 |1000|
-| 10 | 0 | 10 |1000|
-| 15 | 0 |7.5 |1000|
-| 20 | 0 |6.7 |1000|
-| 25 | 0 |6.25|1000|
-| 30 | 0 | 6  |1000|
-| 40 | 0 |5.7 |1000|
-| 50 | 0 |5.5 |1000|
+|Z<sub>100</sub>|R<sub>S</sub>|R<sub>P</sub>|V<sub>B</sub>|
+|---------------|-------------|-------------|-------------|
+|       0       |      5      |      ∞      |    2500     |
+|       1       |      4      |      ∞      |    2500     |
+|       2       |      3      |      ∞      |    2500     |
+|       3       |      2      |      ∞      |    1670     |
+|       4       |      1      |      ∞      |    1250     |
+|       5       |      0      |      ∞      |    1000     |
+|      7.5      |      0      |     15      |    1000     |
+|      10       |      0      |     10      |    1000     |
+|      15       |      0      |     7.5     |    1000     |
+|      20       |      0      |     6.7     |    1000     |
+|      25       |      0      |    6.25     |    1000     |
+|      30       |      0      |      6      |    1000     |
+|      40       |      0      |     5.7     |    1000     |
+|      50       |      0      |     5.5     |    1000     |
 
 (B) Sixty Hertz (60 Hz) current-carrying tests should be applied to simulate an ac power fault which is conducted to the unit over the cable pairs. The test should be limited to 10 amperes rms at 60 Hz for a period of 11 cycles (0.1835 seconds) and should be applied longitudinally from line to ground (see Figures 3 and 6 of this section).
 
-Figure 6 - 60 Hz Current Surge Test![](/graphics/ec14no91.089.gif)V - 700 Volts RMS (Approximately 1000V Peak).Z60 - Test specimen impedance to be measured at 60 Hz.RS - Series Resistance (current limiting) in each side of line. (Source impedance never less than 50 Ω longitudinal.)
+Figure 6—60 Hz Current Surge Test![](/graphics/ec14no91.089.gif)V—700 Volts RMS (Approximately 1000V Peak).Z60—Test specimen impedance to be measured at 60 Hz.RS—Series Resistance (current limiting) in each side of line. (Source impedance never less than 50 Ω longitudinal.)
 
-|Z60 Hz |RS |
-|-------|---|
-|   0   |140|
-|  10   |120|
-|  20   |100|
-|  50   |100|
-|Over 50|100|
+|Z<sub>60</sub> Hz|R<sub>S</sub>|
+|-----------------|-------------|
+|        0        |     140     |
+|       10        |     120     |
+|       20        |     100     |
+|       50        |     100     |
+|     Over 50     |     100     |
 
 (C) AC power service surge voltage tests should be applied to the power input terminals of ac powered devices to simulate switching surges or lightning-induced transients on the ac power system. The test shall employ a 1.2 × 50 microseconds waveshape with a crest voltage of 2500V. Communications line protectors may be left in place for this test. Borrowers are urged to install commercially available surge protectors at the ac service entrance as part of their COE building program.
 
@@ -1124,7 +1109,7 @@ Figure 6 - 60 Hz Current Surge Test![](/graphics/ec14no91.089.gif)V - 700 Volts 
 
 (E) Arrester response delay tests are designed to stress the equipment in a manner similar to that caused by the delayed breakdown of gap type arresters when subjected to rapidly rising voltages. Arresters shall be removed for these tests, the peak surge voltage should be the + 3 sigma breakdown of the arrester in question on a voltage rising at 100V per microsecond and the time for the surge to decay to half voltage shall equal at least the delay time of the tube, as explained in Figure 7.
 
-Figure 7 - Explanation of Arrester Response Delay Time![](/graphics/ec14no91.090.gif)The delay time is that period of time when the potential across an arrester exceeds its dc firing level.
+Figure 7—Explanation of Arrester Response Delay Time![](/graphics/ec14no91.090.gif)The delay time is that period of time when the potential across an arrester exceeds its dc firing level.
 
 (iv) Five applications of each polarity for the surge tests and three for the 60 Hz Current Carrying Test are the minimum required. All tests should be conducted with not more than 1 minute between consecutive applications in each series of three or five to a specific configuration so that heating effects will be cumulative. As not all tests are required in every application, nonapplicable tests should be omitted. Tests should be conducted in the following sequence.
 
@@ -1160,7 +1145,7 @@ Figure 7 - Explanation of Arrester Response Delay Time![](/graphics/ec14no91.090
 
 (6) *Static discharge.* Assemblies subject to damage by static discharge shall be identified and special handling instructions shall be supplied.
 
-(v) *Miscellaneous* - (1) *Office wire.* All office wire shall be of soft annealed tinned copper wire meeting the requirements of ASTM Specification B 33-91, Standard Specification for Tinned Soft or Annealed Copper Wire for Electrical Purposes, and of suitable cross-section to provide safe current carrying capacity and mechanical strength. The insulation of installed wire, connected to its equipment and frames, shall be capable of withstanding the same insulation resistance and dielectric strength requirements as given in paragraphs (u)(3) and (u)(4) of this section at a temperature of 120 °F (49 °C) and a relative humidity of 90 percent.
+(v) *Miscellaneous*—(1) *Office wire.* All office wire shall be of soft annealed tinned copper wire meeting the requirements of ASTM Specification B 33-91, Standard Specification for Tinned Soft or Annealed Copper Wire for Electrical Purposes, and of suitable cross-section to provide safe current carrying capacity and mechanical strength. The insulation of installed wire, connected to its equipment and frames, shall be capable of withstanding the same insulation resistance and dielectric strength requirements as given in paragraphs (u)(3) and (u)(4) of this section at a temperature of 120 °F (49 °C) and a relative humidity of 90 percent.
 
 (2) *Wire wrapped terminals.* These terminals are preferred and where used shall be of a material suitable for wire wrapping. The connections to them shall be made with a wire wrapping tool with the following minimum number of successive nonoverlapping turns of bare tinned copper wire in contact with each terminal.
 
@@ -1184,7 +1169,7 @@ Figure 7 - Explanation of Arrester Response Delay Time![](/graphics/ec14no91.090
 
 (8) *Quantity of equipment bays.* Consistent with system arrangements and ease of maintenance, space shall be provided on the floor plan for an orderly layout of future equipment bays that will be required for anticipated traffic when the office reaches its ultimate size. Readily accessible terminals shall be provided for connection to interbay and frame cables to future bays. All cables, interbay and intrabay (excluding power), if technically feasible, shall be terminated at both ends by use of connectors.
 
-(w) *Remote switching terminal (RST)* - (1) *General.* The RST is a remotely located digital switching terminal which is placed at a subordinate wire center for subscriber lines and is a part of the host central office from a switching standpoint, and has hardware interchangeable with the host office, except for items that are applicable only to RST control and associated peripheral equipment. This does not preclude the use of existing in-service remote units on a new or upgraded host central office of the latest series generic or release.
+(w) *Remote switching terminal (RST)*—(1) *General.* The RST is a remotely located digital switching terminal which is placed at a subordinate wire center for subscriber lines and is a part of the host central office from a switching standpoint, and has hardware interchangeable with the host office, except for items that are applicable only to RST control and associated peripheral equipment. This does not preclude the use of existing in-service remote units on a new or upgraded host central office of the latest series generic or release.
 
 (2) *Span line.* The RST is to be connected to the host central office via a means compatible with T1 type span lines using a DS-1 interface. This connection will be for control supervision and subscriber communication. The RUS equipment specification for a span line is PE-60.
 
@@ -1200,7 +1185,7 @@ Figure 7 - Explanation of Arrester Response Delay Time![](/graphics/ec14no91.090
 
 (5) *Housing.* When housed in a building supplied by the owner, a complete floor plan including ceiling height, power outlets, cable entrances, equipment entry and travel, type of construction, and other pertinent dimensions shall be supplied with this section.
 
-(6) *Power* - (i) *Chargers.* A single charger meeting the requirements of paragraph (s)(3) of this section (with the exception of paragraph (s)(3)(viii) of this section) is required. An additional charger capable of carrying the full load or a combination of three chargers each capable of carrying half the load shall be supplied if redundant chargers are specified in appendix B of this section.
+(6) *Power*—(i) *Chargers.* A single charger meeting the requirements of paragraph (s)(3) of this section (with the exception of paragraph (s)(3)(viii) of this section) is required. An additional charger capable of carrying the full load or a combination of three chargers each capable of carrying half the load shall be supplied if redundant chargers are specified in appendix B of this section.
 
 (ii) *Ringing equipment provisioning.* (A) Ringing sources shall be supplied in duplicate.
 
@@ -1224,7 +1209,7 @@ Figure 7 - Explanation of Arrester Response Delay Time![](/graphics/ec14no91.090
 
 (7) *Alarm.* Sufficient system alarm points shall be provided from the RST to report conditions to the host alarm system.
 
-(x) *Responsibilities of the bidder* - (1) *Central office layout.* (i) The successful bidder shall furnish tentative floor plan layout drawings showing the arrangement of the equipment and the dimensions of major equipment units. These drawings shall include minimum door dimensions and ceiling heights required for installation, maintenance and ventilation. If requested by the owner, the floor plan shall be such that the battery, charger, power board, main distributing frame and wire chief's test equipment are isolated from the other equipment by a partition.
+(x) *Responsibilities of the bidder*—(1) *Central office layout.* (i) The successful bidder shall furnish tentative floor plan layout drawings showing the arrangement of the equipment and the dimensions of major equipment units. These drawings shall include minimum door dimensions and ceiling heights required for installation, maintenance and ventilation. If requested by the owner, the floor plan shall be such that the battery, charger, power board, main distributing frame and wire chief's test equipment are isolated from the other equipment by a partition.
 
 (ii) The layout drawings shall also show provision for the ultimate capacity of the central office as specified by the owner.
 
@@ -1425,7 +1410,7 @@ Figure 7 - Explanation of Arrester Response Delay Time![](/graphics/ec14no91.090
 
 (vii) The acceptance statement facesheet of the audit checklist in appendix D of this section shall be signed by authorized representatives of the supplier and owner to indicate mutual approval of the single-point grounding system. Copies of all completed grounding system audit documents are to be provided to the supplier, owner and appropriate RUS telephone program regional offices.
 
-(The information and recordkeeping requirements of this section have been approved by the Office of Management and Budget under the control number 0572-0059)Appendix A to § 1755.522 - Specification for Digital, Stored Program Controlled Central Office Equipment Detailed Requirements (Host)(Information To Be Supplied by Owner)Telephone Company NameLocationCentral Office Name (By Location)TownCountyState\_\_\_\_ Attended\_\_\_\_ Unattended\_\_\_\_ Remotes1. General
+(The information and recordkeeping requirements of this section have been approved by the Office of Management and Budget under the control number 0572-0059)Appendix A to § 1755.522—Specification for Digital, Stored Program Controlled Central Office Equipment Detailed Requirements (Host)(Information To Be Supplied by Owner)Telephone Company NameLocationCentral Office Name (By Location)TownCountyState\_\_\_\_\_\_\_\_ Attended\_\_\_\_\_\_\_\_ Unattended\_\_\_\_\_\_\_\_ Remotes1. General
 
 1.1 Notwithstanding the bidder's equipment lists, the equipment and materials furnished by the bidder must meet the requirements of paragraphs (a) through (x), Appendix A and Appendix B of § 1755.522.
 
@@ -1445,7 +1430,7 @@ Figure 7 - Explanation of Arrester Response Delay Time![](/graphics/ec14no91.090
 
 If more than one code is to be served, discrimination shall be determined by the following:
 
-Number Translation \_\_Separate Trunk Groups \_\_Both (Explain in Item 16, Appendix A) \_\_
+Number Translation \_\_\_\_Separate Trunk Groups \_\_\_\_Both (Explain in Item 16, Appendix A) \_\_\_\_
 
 2.2 This office shall be arranged to provide EAS service to the following:
 
@@ -1460,16 +1445,16 @@ Number Translation \_\_Separate Trunk Groups \_\_Both (Explain in Item 16, Appen
 
 2.3 Additional dialing procedures to be provided include the following:
 
-|               Feature                |   Required   |
-|--------------------------------------|--------------|
-| Station Paid Toll (Including Coin):  |              |
-|   Home Numbering Plan Area (HNPA):   |              |
-|            “1” + 7 Digits            |\_\_\_\_\_\_\_|
-|           “1” + 10 Digits            |\_\_\_\_\_\_\_|
-|Other (Explain in Item 16, Appendix A)|\_\_\_\_\_\_\_|
-| Foreign Numbering Plan Area (FNPA):  |              |
-|           “1” + 10 Digits            |\_\_\_\_\_\_\_|
-|Other (Explain in Item 16, Appendix A)|\_\_\_\_\_\_\_|
+|               Feature                |          Required          |
+|--------------------------------------|----------------------------|
+| Station Paid Toll (Including Coin):  |                            |
+|   Home Numbering Plan Area (HNPA):   |                            |
+|            “1” + 7 Digits            |\_\_\_\_\_\_\_\_\_\_\_\_\_\_|
+|           “1” + 10 Digits            |\_\_\_\_\_\_\_\_\_\_\_\_\_\_|
+|Other (Explain in Item 16, Appendix A)|\_\_\_\_\_\_\_\_\_\_\_\_\_\_|
+| Foreign Numbering Plan Area (FNPA):  |                            |
+|           “1” + 10 Digits            |\_\_\_\_\_\_\_\_\_\_\_\_\_\_|
+|Other (Explain in Item 16, Appendix A)|\_\_\_\_\_\_\_\_\_\_\_\_\_\_|
 
 10XXX Dialing to Interexchange Carriers:
 
@@ -1483,12 +1468,12 @@ Number Translation \_\_Separate Trunk Groups \_\_Both (Explain in Item 16, Appen
 |               Feature                |Required|
 |--------------------------------------|--------|
 |  Person, Special (Including Coin):   |        |
-|        HNPA - “0” + 7 Digits         |        |
+|         HNPA—“0” + 7 Digits          |        |
 |           “0” + 10 Digits            |        |
 |         FNPA “0” + 10 Digits         |        |
 |Other (Explain in Item 16, Appendix A)|        |
 |        Directory Assistance:         |        |
-|           HNPA Local - 411           |        |
+|            HNPA Local—411            |        |
 |              “1” + 411               |        |
 |       HNPA Toll “1” + 555-1212       |        |
 |    FNPA Toll “1” + NPA + 555-1212    |        |
@@ -1512,15 +1497,15 @@ Number Translation \_\_Separate Trunk Groups \_\_Both (Explain in Item 16, Appen
 
 2.4 Assistance calls are answered: (Check appropriate items)
 
-2.4.1 At the operator office in \_\_\_\_\_\_\_\_
+2.4.1 At the operator office in \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-2.4.1.1 By means of the regular interoffice toll trunks \_\_\_\_
+2.4.1.1 By means of the regular interoffice toll trunks \_\_\_\_\_\_\_\_
 
-2.4.1.2 By means of the regular interoffice EAS trunks \_\_\_\_
+2.4.1.2 By means of the regular interoffice EAS trunks \_\_\_\_\_\_\_\_
 
-2.4.1.3 By means of a separate special service trunk group \_\_\_\_
+2.4.1.3 By means of a separate special service trunk group \_\_\_\_\_\_\_\_
 
-2.4.1.4 Locally \_\_\_\_
+2.4.1.4 Locally \_\_\_\_\_\_\_\_
 
 Explain:
 
@@ -1528,11 +1513,11 @@ Explain:
 
 3.1 This office is to be slave clock synchronized with another office:
 
- \_\_\_\_ Yes \_\_\_\_ No(Explain details in Appendix A, Item 16 if “Yes”.)
+ \_\_\_\_\_\_\_\_ Yes \_\_\_\_\_\_\_\_ No(Explain details in Appendix A, Item 16 if “Yes”.)
 
 3.2 This office is to be a master clock office to provide synchronization timing for other offices:
 
- \_\_\_\_ Yes \_\_\_\_ No(Explain details in Appendix A, Item 16 if “Yes”.)4. Interoffice Trunking Diagram
+ \_\_\_\_\_\_\_\_ Yes \_\_\_\_\_\_\_\_ No(Explain details in Appendix A, Item 16 if “Yes”.)4. Interoffice Trunking Diagram
 
 4.1 A sketch showing relative location of exchanges, RST's, and number of circuits shall be included, also the office and area codes of the direct trunk points. The diagram should indicate whether toll or EAS trunk groups are “High Usage” or “Final.” Alternate routes should be included. Indicate whether the trunk termination is direct digital or analog.
 
@@ -1548,129 +1533,112 @@ Explain:
 
 6. Line Circuit Requirements (Includes all lines associated with RST's.)
 
-6.1 Types of Lines
+|                                        |       No. of lines       |    No. of EAS areas    |Total No. of lines required|                        |
+|----------------------------------------|--------------------------|------------------------|---------------------------|------------------------|
+|           Local service only           |both local and EAS service|                        |                           |                        |
+|       6.1.1 Individual—Flat Rate       | \_\_\_\_\_\_\_\_\_\_\_\_ |\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_  |\_\_\_\_\_\_\_\_\_\_\_\_|
+|     6.1.2 Individual—Message Rate      | \_\_\_\_\_\_\_\_\_\_\_\_ |\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_  |\_\_\_\_\_\_\_\_\_\_\_\_|
+|           6.1.3 Pay Station            | \_\_\_\_\_\_\_\_\_\_\_\_ |\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_  |\_\_\_\_\_\_\_\_\_\_\_\_|
+| 6.1.4 Telephone Company Official Lines | \_\_\_\_\_\_\_\_\_\_\_\_ |\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_  |\_\_\_\_\_\_\_\_\_\_\_\_|
+|            6.1.5 Wire Chief            | \_\_\_\_\_\_\_\_\_\_\_\_ |\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_  |\_\_\_\_\_\_\_\_\_\_\_\_|
+|6.1.6 911 Emergency Service Bureau Lines| \_\_\_\_\_\_\_\_\_\_\_\_ |\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_  |\_\_\_\_\_\_\_\_\_\_\_\_|
+|    6.1.7 Number Hunting PBX Groups:    | \_\_\_\_\_\_\_\_\_\_\_\_ |\_\_\_\_\_\_\_\_\_\_\_\_| \_\_\_\_\_\_\_\_\_\_\_\_  |\_\_\_\_\_\_\_\_\_\_\_\_|
 
-|                                        |       No. of lines       |No. of EAS areas|Total No. of lines required|            |
-|----------------------------------------|--------------------------|----------------|---------------------------|------------|
-|           Local service only           |both local and EAS service|                |                           |            |
-|      6.1.1 Individual - Flat Rate      |       \_\_\_\_\_\_       |  \_\_\_\_\_\_  |       \_\_\_\_\_\_        |\_\_\_\_\_\_|
-|    6.1.2 Individual - Message Rate     |       \_\_\_\_\_\_       |  \_\_\_\_\_\_  |       \_\_\_\_\_\_        |\_\_\_\_\_\_|
-|           6.1.3 Pay Station            |       \_\_\_\_\_\_       |  \_\_\_\_\_\_  |       \_\_\_\_\_\_        |\_\_\_\_\_\_|
-| 6.1.4 Telephone Company Official Lines |       \_\_\_\_\_\_       |  \_\_\_\_\_\_  |       \_\_\_\_\_\_        |\_\_\_\_\_\_|
-|            6.1.5 Wire Chief            |       \_\_\_\_\_\_       |  \_\_\_\_\_\_  |       \_\_\_\_\_\_        |\_\_\_\_\_\_|
-|6.1.6 911 Emergency Service Bureau Lines|       \_\_\_\_\_\_       |  \_\_\_\_\_\_  |       \_\_\_\_\_\_        |\_\_\_\_\_\_|
-|    6.1.7 Number Hunting PBX Groups:    |       \_\_\_\_\_\_       |  \_\_\_\_\_\_  |       \_\_\_\_\_\_        |\_\_\_\_\_\_|
-
-|No. of lines in group|No. of groups|Direct in dial \* |Restricted service at COE | Type |No. of lines|No. of EAS areas|Total No. of lines required|      |      |
-|---------------------|-------------|------------------|--------------------------|------|------------|----------------|---------------------------|------|------|
-|    Ground start     | Loop start  |Local service only|Both local and EAS service|      |            |                |                           |      |      |
-|       \_\_\_        |   \_\_\_    |      \_\_\_      |          \_\_\_          |\_\_\_|   \_\_\_   |     \_\_\_     |          \_\_\_           |\_\_\_|\_\_\_|
-|       \_\_\_        |   \_\_\_    |      \_\_\_      |          \_\_\_          |\_\_\_|   \_\_\_   |     \_\_\_     |          \_\_\_           |\_\_\_|\_\_\_|
-|       \_\_\_        |   \_\_\_    |      \_\_\_      |          \_\_\_          |\_\_\_|   \_\_\_   |     \_\_\_     |          \_\_\_           |\_\_\_|\_\_\_|
-|       \_\_\_        |   \_\_\_    |      \_\_\_      |          \_\_\_          |\_\_\_|   \_\_\_   |     \_\_\_     |          \_\_\_           |\_\_\_|\_\_\_|
-|       \_\_\_        |   \_\_\_    |      \_\_\_      |          \_\_\_          |\_\_\_|   \_\_\_   |     \_\_\_     |          \_\_\_           |\_\_\_|\_\_\_|
-
-\* Furnish translation information under Item 5.
+|             No. of lines in group              |No. of groups|Direct in dial \* |Restricted service at COE |    Type    |No. of lines|No. of EAS areas|Total No. of lines required|            |            |
+|------------------------------------------------|-------------|------------------|--------------------------|------------|------------|----------------|---------------------------|------------|------------|
+|                  Ground start                  | Loop start  |Local service only|Both local and EAS service|            |            |                |                           |            |            |
+|                  \_\_\_\_\_\_                  |\_\_\_\_\_\_ |   \_\_\_\_\_\_   |       \_\_\_\_\_\_       |\_\_\_\_\_\_|\_\_\_\_\_\_|  \_\_\_\_\_\_  |       \_\_\_\_\_\_        |\_\_\_\_\_\_|\_\_\_\_\_\_|
+|                  \_\_\_\_\_\_                  |\_\_\_\_\_\_ |   \_\_\_\_\_\_   |       \_\_\_\_\_\_       |\_\_\_\_\_\_|\_\_\_\_\_\_|  \_\_\_\_\_\_  |       \_\_\_\_\_\_        |\_\_\_\_\_\_|\_\_\_\_\_\_|
+|                  \_\_\_\_\_\_                  |\_\_\_\_\_\_ |   \_\_\_\_\_\_   |       \_\_\_\_\_\_       |\_\_\_\_\_\_|\_\_\_\_\_\_|  \_\_\_\_\_\_  |       \_\_\_\_\_\_        |\_\_\_\_\_\_|\_\_\_\_\_\_|
+|                  \_\_\_\_\_\_                  |\_\_\_\_\_\_ |   \_\_\_\_\_\_   |       \_\_\_\_\_\_       |\_\_\_\_\_\_|\_\_\_\_\_\_|  \_\_\_\_\_\_  |       \_\_\_\_\_\_        |\_\_\_\_\_\_|\_\_\_\_\_\_|
+|                  \_\_\_\_\_\_                  |\_\_\_\_\_\_ |   \_\_\_\_\_\_   |       \_\_\_\_\_\_       |\_\_\_\_\_\_|\_\_\_\_\_\_|  \_\_\_\_\_\_  |       \_\_\_\_\_\_        |\_\_\_\_\_\_|\_\_\_\_\_\_|
+|\* Furnish translation information under Item 5.|             |                  |                          |            |            |                |                           |            |            |
 
 6.1.8 WATS Lines (Give details in Appendix A, Item 16)
 
-Number of Inward WATS Lines \_\_\_\_Number of Outward WATS Lines \_\_\_\_6.1.9 Special Lines Required \_\_\_\_ (Explain in Item 16, Appendix A)6.1.10 Total Number of Lines RequiredHost \_\_\_ (Incl. DDI Concentrator Lines)RST 1 \_\_\_RST 2 \_\_\_RST 3 \_\_\_Total \_\_\_6.1.11 Total Director Numbers Required \_\_\_(Including RST's) (see Item 7.1, Appendix A)6.1.12 Pay StationType \_\_\_\_\_\_New \_\_ Reused \_\_(Describe in Item 16, Appendix A)6.1.13 Line Concentrator6.1.13.1 Supplied by Owner (see Item 16, Appendix A, for details)\_\_ Yes \_\_ No6.1.13.2 Supplied by Bidder (If “Yes”, attach REA Form 397g, Performance Specification for Line Concentrators)\_\_ Yes \_\_ No
+Number of Inward WATS Lines \_\_\_\_\_\_\_\_Number of Outward WATS Lines \_\_\_\_\_\_\_\_6.1.9 Special Lines Required \_\_\_\_\_\_\_\_ (Explain in Item 16, Appendix A)6.1.10 Total Number of Lines RequiredHost \_\_\_\_\_\_ (Incl. DDI Concentrator Lines)RST 1 \_\_\_\_\_\_RST 2 \_\_\_\_\_\_RST 3 \_\_\_\_\_\_Total \_\_\_\_\_\_6.1.11 Total Director Numbers Required \_\_\_\_\_\_(Including RST's) (see Item 7.1, Appendix A)6.1.12 Pay StationType \_\_\_\_\_\_\_\_\_\_\_\_New \_\_\_\_ Reused \_\_\_\_(Describe in Item 16, Appendix A)6.1.13 Line Concentrator6.1.13.1 Supplied by Owner (see Item 16, Appendix A, for details)\_\_\_\_ Yes \_\_\_\_ No6.1.13.2 Supplied by Bidder (If “Yes”, attach REA Form 397g, Performance Specification for Line Concentrators)\_\_\_\_ Yes \_\_\_\_ No
 
 6.2. *Data on Lines Required Range Extension*
 
 6.2.1 Number of non-pay station lines having a loop resistance, including the telephone set, as follows:
 
 |              |No. of lines|
-|:-------------|:-----------|
-|1901-3200 ohms|   \_\_\_   |
-|3201-3600 ohms|   \_\_\_   |
+|--------------|------------|
+|1901-3200 ohms|\_\_\_\_\_\_|
+|3201-3600 ohms|\_\_\_\_\_\_|
 
 6.2.2 Number of pay station lines having loop resistance, excluding the telephone set, greater than:
 
 |                                      |No. of lines|
-|:-------------------------------------|:-----------|
-|        1200 ohms (For Prepay)        |   \_\_\_   |
-|1000 ohms (For Semi-Postpay Operation)|   \_\_\_   |
+|--------------------------------------|------------|
+|        1200 ohms (For Prepay)        |\_\_\_\_\_\_|
+|1000 ohms (For Semi-Postpay Operation)|\_\_\_\_\_\_|
 
-6.2.3 Range extension equipment is to be provided:6.2.3.1 Loop Extenders: Total Quantity \_\_\_By Bidder - Quantity \_\_\_By Owner - Quantity \_\_\_(Explain in Item 16, Appendix A)6.2.3.2 VF Repeaters: Total Quantity \_\_\_By Bidder - Quantity \_\_\_(Bidder must have information on loading and cable size.)By Owner - Quantity \_\_\_(Explain in Item 16, Appendix A)6.2.3.3 Range extension may be furnished as an extended range line circuit at the option of the supplier. If this option is used, the quantities of loop extenders and VF repeaters will be different from the quantities listed above (see Item 6.1,a, Appendix C).\_\_ Yes \_\_ No7. Traffic Data-Line Originating and Terminating Traffic
+6.2.3 Range extension equipment is to be provided:6.2.3.1 Loop Extenders: Total Quantity \_\_\_\_\_\_By Bidder—Quantity \_\_\_\_\_\_By Owner—Quantity \_\_\_\_\_\_(Explain in Item 16, Appendix A)6.2.3.2 VF Repeaters: Total Quantity \_\_\_\_\_\_By Bidder—Quantity \_\_\_\_\_\_(Bidder must have information on loading and cable size.)By Owner—Quantity \_\_\_\_\_\_(Explain in Item 16, Appendix A)6.2.3.3 Range extension may be furnished as an extended range line circuit at the option of the supplier. If this option is used, the quantities of loop extenders and VF repeaters will be different from the quantities listed above (see Item 6.1,a, Appendix C).\_\_\_\_ Yes \_\_\_\_ No7. Traffic Data-Line Originating and Terminating Traffic
 
-7.1 Originating Line Traffic - Estimated per Busy Hour (Includes all Lines Associated With RST's):
+7.1 Originating Line Traffic—Estimated per Busy Hour (Includes all Lines Associated With RST's):
 
-|                  |(a)  <br/>CCS per Main Station|(b)  <br/>No. of Main Stations|(axb)  <br/>Total CCS|No. of Lines Required<sup>1</sup>|
-|------------------|------------------------------|------------------------------|---------------------|---------------------------------|
-|    Ind. - Res    |          \_\_\_\_\_          |          \_\_\_\_\_          |     \_\_\_\_\_      |           \_\_\_\_\_            |
-|    Ind. - Bus    |          \_\_\_\_\_          |          \_\_\_\_\_          |     \_\_\_\_\_      |           \_\_\_\_\_            |
-|  Special Lines   |          \_\_\_\_\_          |          \_\_\_\_\_          |     \_\_\_\_\_      |           \_\_\_\_\_            |
-|   Pay Station    |          \_\_\_\_\_          |          \_\_\_\_\_          |     \_\_\_\_\_      |           \_\_\_\_\_            |
-|  Telco Official  |          \_\_\_\_\_          |          \_\_\_\_\_          |     \_\_\_\_\_      |           \_\_\_\_\_            |
-|    Wire Chief    |          \_\_\_\_\_          |          \_\_\_\_\_          |     \_\_\_\_\_      |           \_\_\_\_\_            |
-| No. Htg. or PBX  |   \_\_\_\_\_(<sup>2</sup>)   |   \_\_\_\_\_(<sup>3</sup>)   |     \_\_\_\_\_      |           \_\_\_\_\_            |
-|       WATS       |          \_\_\_\_\_          |          \_\_\_\_\_          |     \_\_\_\_\_      |           \_\_\_\_\_            |
-|   Data Service   |          \_\_\_\_\_          |          \_\_\_\_\_          |     \_\_\_\_\_      |           \_\_\_\_\_            |
-|911 Emerg. Service|          \_\_\_\_\_          |          \_\_\_\_\_          |     \_\_\_\_\_      |           \_\_\_\_\_            |
-|      Total       |                              |          \_\_\_\_\_          |     \_\_\_\_\_      |    \_\_\_\_\_(<sup>4</sup>)     |
-|                  |                              |             (c)              |         (d)         |               (e)               |
-
-<sup>1</sup> See Appendix A, Item 6.1.
-
-<sup>2</sup> This figure is the CCS per PBX trunk.
-
-<sup>3</sup> This figure is the number of PBX trunks.
-
-<sup>4</sup> This is the total number of line equipments required. The number to be provided will be determined by the equipment design of the system of the selected bidder. See Appendix C, Item 3.1.1.2.
+|                                                                                                                                                                                                           |  (a)  <br/>CCS per Main Station  |  (b)  <br/>No. of Main Stations  |(axb)  <br/>Total CCS|No. of Lines Required <sup>1</sup>|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|----------------------------------|---------------------|----------------------------------|
+|                                                                                                 Ind.—Res                                                                                                  |       \_\_\_\_\_\_\_\_\_\_       |       \_\_\_\_\_\_\_\_\_\_       |\_\_\_\_\_\_\_\_\_\_ |       \_\_\_\_\_\_\_\_\_\_       |
+|                                                                                                 Ind.—Bus                                                                                                  |       \_\_\_\_\_\_\_\_\_\_       |       \_\_\_\_\_\_\_\_\_\_       |\_\_\_\_\_\_\_\_\_\_ |       \_\_\_\_\_\_\_\_\_\_       |
+|                                                                                               Special Lines                                                                                               |       \_\_\_\_\_\_\_\_\_\_       |       \_\_\_\_\_\_\_\_\_\_       |\_\_\_\_\_\_\_\_\_\_ |       \_\_\_\_\_\_\_\_\_\_       |
+|                                                                                                Pay Station                                                                                                |       \_\_\_\_\_\_\_\_\_\_       |       \_\_\_\_\_\_\_\_\_\_       |\_\_\_\_\_\_\_\_\_\_ |       \_\_\_\_\_\_\_\_\_\_       |
+|                                                                                              Telco Official                                                                                               |       \_\_\_\_\_\_\_\_\_\_       |       \_\_\_\_\_\_\_\_\_\_       |\_\_\_\_\_\_\_\_\_\_ |       \_\_\_\_\_\_\_\_\_\_       |
+|                                                                                                Wire Chief                                                                                                 |       \_\_\_\_\_\_\_\_\_\_       |       \_\_\_\_\_\_\_\_\_\_       |\_\_\_\_\_\_\_\_\_\_ |       \_\_\_\_\_\_\_\_\_\_       |
+|                                                                                              No. Htg. or PBX                                                                                              |\_\_\_\_\_\_\_\_\_\_(<sup>2</sup>)|\_\_\_\_\_\_\_\_\_\_(<sup>3</sup>)|\_\_\_\_\_\_\_\_\_\_ |       \_\_\_\_\_\_\_\_\_\_       |
+|                                                                                                   WATS                                                                                                    |       \_\_\_\_\_\_\_\_\_\_       |       \_\_\_\_\_\_\_\_\_\_       |\_\_\_\_\_\_\_\_\_\_ |       \_\_\_\_\_\_\_\_\_\_       |
+|                                                                                               Data Service                                                                                                |       \_\_\_\_\_\_\_\_\_\_       |       \_\_\_\_\_\_\_\_\_\_       |\_\_\_\_\_\_\_\_\_\_ |       \_\_\_\_\_\_\_\_\_\_       |
+|                                                                                            911 Emerg. Service                                                                                             |       \_\_\_\_\_\_\_\_\_\_       |       \_\_\_\_\_\_\_\_\_\_       |\_\_\_\_\_\_\_\_\_\_ |       \_\_\_\_\_\_\_\_\_\_       |
+|                                                                                                   Total                                                                                                   |                                  |       \_\_\_\_\_\_\_\_\_\_       |\_\_\_\_\_\_\_\_\_\_ |\_\_\_\_\_\_\_\_\_\_(<sup>4</sup>)|
+|                                                                                                                                                                                                           |                                  |               (c)                |         (d)         |               (e)                |
+|                                                                                  <sup>1</sup> See Appendix A, Item 6.1.                                                                                   |                                  |                                  |                     |                                  |
+|                                                                            <sup>2</sup> This figure is the CCS per PBX trunk.                                                                             |                                  |                                  |                     |                                  |
+|                                                                           <sup>3</sup> This figure is the number of PBX trunks.                                                                           |                                  |                                  |                     |                                  |
+|<sup>4</sup> This is the total number of line equipments required. The number to be provided will be determined by the equipment design of the system of the selected bidder. See Appendix C, Item 3.1.1.2.|                                  |                                  |                     |                                  |
 
 7.2 Average Originating CCS per Line per Busy Hour
 
-(d) / (e) = \_\_ / \_\_ = \_\_ CCS/LineThis office shall be engineered to handle an initial average originating busy hour traffic of \_\_ CCS per line. It is anticipated that the average originating busy hour traffic will increase to \_\_ CCS per line.Originating Traffic Attributed to Host Only \_\_ CCS/Line7.3 Terminating Traffic - Estimated CCS per Busy HourIt is assumed that the total CCS for terminating traffic is the same as for originating traffic. Since digital switch networks are on a terminal per line basis, the terminating CCS per line will be the same as the originating CCS per line as shown in Item 7.2, Appendix A.Terminating Traffic Attributed to Host Only \_\_ CCS/Line7.4 Percent of Pushbutton Lines \_\_7.5 Anticipated Ultimate Capacity (20 years)7.5.1 Subscriber LinesHost \_\_\_\_ (Incl. DDI Concentrator Lines)RST 1 \_\_\_\_RST 2 \_\_\_\_RST 3 \_\_\_\_Total \_\_\_\_8. Trunk Circuit Requirements
+(d) / (e) = \_\_\_\_ / \_\_\_\_ = \_\_\_\_ CCS/LineThis office shall be engineered to handle an initial average originating busy hour traffic of \_\_\_\_ CCS per line. It is anticipated that the average originating busy hour traffic will increase to \_\_\_\_ CCS per line.Originating Traffic Attributed to Host Only \_\_\_\_ CCS/Line7.3 Terminating Traffic—Estimated CCS per Busy HourIt is assumed that the total CCS for terminating traffic is the same as for originating traffic. Since digital switch networks are on a terminal per line basis, the terminating CCS per line will be the same as the originating CCS per line as shown in Item 7.2, Appendix A.Terminating Traffic Attributed to Host Only \_\_\_\_ CCS/Line7.4 Percent of Pushbutton Lines \_\_\_\_7.5 Anticipated Ultimate Capacity (20 years)7.5.1 Subscriber LinesHost \_\_\_\_\_\_\_\_ (Incl. DDI Concentrator Lines)RST 1 \_\_\_\_\_\_\_\_RST 2 \_\_\_\_\_\_\_\_RST 3 \_\_\_\_\_\_\_\_Total \_\_\_\_\_\_\_\_8. Trunk Circuit Requirements
 
 8.1 *Interoffice Trunking*
 
-8.1.1 Trunking Requirements
-
-|          1. Connecting Office           |   |   |   |   |
-|:----------------------------------------|--:|--:|--:|--:|
-|             2. Use of Trunk             |   |   |   |   |
-|3. Trk. Grp. Ntwk. Connection<sup>1</sup>|   |   |   |   |
-|          4. Quantity Equipped           |   |   |   |   |
-|          5. Ultimate % Growth           |   |   |   |   |
-|             6. CCS Capacity             |   |   |   |   |
-|              7. Direction               |   |   |   |   |
-|          8. No. Digits Dialed           |   |   |   |   |
-|         9. No. Digits Outpulsed         |   |   |   |   |
-|         10. No. Digits Inpulsed         |   |   |   |   |
-|           11. Type Signaling            |   |   |   |   |
-|            12. Type Pulsing             |   |   |   |   |
-|        13. Carrier Type (2-Wire)        |   |   |   |   |
-|        14. Carrier Type (4-Wire)        |   |   |   |   |
-|              15. Physical               |   |   |   |   |
-|      16. Repeat Coils<sup>2</sup>       |   |   |   |   |
-|          17. DX Signaling Set           |   |   |   |   |
-|        18. Other Type Signaling         |   |   |   |   |
-|             19. Delay Dial              |   |   |   |   |
-|      20. Direct Digital Interface       |   |   |   |   |
-|         21. a. Feature Group B          |   |   |   |   |
-|           b. Feature Group C            |   |   |   |   |
-|           c. Feature Group D            |   |   |   |   |
-
-<sup>1</sup> Designation of trunk group network connection involves the following categories:
-
-IC - Direct Inter-LATA Connecting Trunk = (IC/POP)
-
-TC - Tandem Connecting Trunks
-
-IT - Intertandem Connecting Trunks
-
-IL - Intra-LATA Connecting Trunks
-
-TIC - Tandem Inter-LATA Connecting Trunks
-
-Misc. - Intercept, Busy Verification, etc.
-
-<sup>2</sup> Omit repeating coils for carrier derived trunks.
+|                                    1. Connecting Office                                     |   |   |   |   |
+|---------------------------------------------------------------------------------------------|---|---|---|---|
+|                                       2. Use of Trunk                                       |   |   |   |   |
+|                         3. Trk. Grp. Ntwk. Connection <sup>1</sup>                          |   |   |   |   |
+|                                    4. Quantity Equipped                                     |   |   |   |   |
+|                                    5. Ultimate % Growth                                     |   |   |   |   |
+|                                       6. CCS Capacity                                       |   |   |   |   |
+|                                        7. Direction                                         |   |   |   |   |
+|                                    8. No. Digits Dialed                                     |   |   |   |   |
+|                                   9. No. Digits Outpulsed                                   |   |   |   |   |
+|                                   10. No. Digits Inpulsed                                   |   |   |   |   |
+|                                     11. Type Signaling                                      |   |   |   |   |
+|                                      12. Type Pulsing                                       |   |   |   |   |
+|                                  13. Carrier Type (2-Wire)                                  |   |   |   |   |
+|                                  14. Carrier Type (4-Wire)                                  |   |   |   |   |
+|                                        15. Physical                                         |   |   |   |   |
+|                                16. Repeat Coils <sup>2</sup>                                |   |   |   |   |
+|                                    17. DX Signaling Set                                     |   |   |   |   |
+|                                  18. Other Type Signaling                                   |   |   |   |   |
+|                                       19. Delay Dial                                        |   |   |   |   |
+|                                20. Direct Digital Interface                                 |   |   |   |   |
+|                                   21. a. Feature Group B                                    |   |   |   |   |
+|                                     b. Feature Group C                                      |   |   |   |   |
+|                                     c. Feature Group D                                      |   |   |   |   |
+|<sup>1</sup> Designation of trunk group network connection involves the following categories:|   |   |   |   |
+|                      IC—Direct Inter-LATA Connecting Trunk = (IC/POP)                       |   |   |   |   |
+|                                 TC—Tandem Connecting Trunks                                 |   |   |   |   |
+|                              IT—Intertandem Connecting Trunks                               |   |   |   |   |
+|                               IL—Intra-LATA Connecting Trunks                               |   |   |   |   |
+|                           TIC—Tandem Inter-LATA Connecting Trunks                           |   |   |   |   |
+|                          Misc.—Intercept, Busy Verification, etc.                           |   |   |   |   |
+|                <sup>2</sup> Omit repeating coils for carrier derived trunks.                |   |   |   |   |
 
 8.1.2 Pads for 4-Wire Carrier (7dB and 16dB)
 
-Total Quantity \_\_\_By Bidder Quantity \_\_\_By Owner Quantity \_\_\_
+Total Quantity \_\_\_\_\_\_By Bidder Quantity \_\_\_\_\_\_By Owner Quantity \_\_\_\_\_\_
 
 Refer to the attached information regarding connecting company trunk circuit drawing numbers and name of manufacturer.
 
@@ -1678,31 +1646,29 @@ Refer to the attached information regarding connecting company trunk circuit dra
 
 8.2.1 Originating Traffic
 
-|            Type             |CCS|H.T. secs.|BHC|No. of digits out-pulsed|Sender sig. mode|Remarks|
-|-----------------------------|---|----------|---|------------------------|----------------|-------|
-|    Toll “0”−<sup>1</sup>    |   |          |   |                        |                |       |
-| Toll “0” + 7<sup>1,2</sup>  |   |          |   |                        |                |       |
-| Toll “0” + 10<sup>1,2</sup> |   |          |   |                        |                |       |
-|Toll S-S “1” + 7<sup>2</sup> |   |          |   |                        |                |       |
-|Toll S-S “1” + 10<sup>2</sup>|   |          |   |                        |                |       |
-|         Toll Other          |   |          |   |                        |                |       |
-|       Special Service       |   |          |   |                        |                |       |
-|          Intercept          |   |          |   |                        |                |       |
-|         Intraoffice         |   |          |   |        XXXXXXX         |    XXXXXXX     |       |
-|             EAS             |   |          |   |                        |                |       |
-|             EAS             |   |          |   |                        |                |       |
-|             EAS             |   |          |   |                        |                |       |
-|           Tandem            |   |          |   |                        |                |       |
-|           Tandem            |   |          |   |                        |                |       |
-|           Tandem            |   |          |   |                        |                |       |
-|     911 Emerg. Service      |   |          |   |                        |                |       |
-|            Total            |   |          |   |                        |                |       |
+|                                              Type                                              |CCS|H.T. secs.|BHC|No. of digits out-pulsed|Sender sig. mode|Remarks|
+|------------------------------------------------------------------------------------------------|---|----------|---|------------------------|----------------|-------|
+|                                     Toll “0”−<sup>1</sup>                                      |   |          |   |                        |                |       |
+|                                  Toll “0” + 7 <sup>1 2</sup>                                   |   |          |   |                        |                |       |
+|                                  Toll “0” + 10 <sup>1 2</sup>                                  |   |          |   |                        |                |       |
+|                                 Toll S-S “1” + 7 <sup>2</sup>                                  |   |          |   |                        |                |       |
+|                                 Toll S-S “1” + 10 <sup>2</sup>                                 |   |          |   |                        |                |       |
+|                                           Toll Other                                           |   |          |   |                        |                |       |
+|                                        Special Service                                         |   |          |   |                        |                |       |
+|                                           Intercept                                            |   |          |   |                        |                |       |
+|                                          Intraoffice                                           |   |          |   |        XXXXXXX         |    XXXXXXX     |       |
+|                                              EAS                                               |   |          |   |                        |                |       |
+|                                              EAS                                               |   |          |   |                        |                |       |
+|                                              EAS                                               |   |          |   |                        |                |       |
+|                                             Tandem                                             |   |          |   |                        |                |       |
+|                                             Tandem                                             |   |          |   |                        |                |       |
+|                                             Tandem                                             |   |          |   |                        |                |       |
+|                                       911 Emerg. Service                                       |   |          |   |                        |                |       |
+|                                             Total                                              |   |          |   |                        |                |       |
+|<sup>1</sup> PPCS traffic assumed to be divided 20 percent “0”− and 80 percent “0” + if unknown.|   |          |   |                        |                |       |
+|   <sup>2</sup> Toll calls assumed to be divided two-thirds 7 digits and one-third 10 digits.   |   |          |   |                        |                |       |
 
-<sup>1</sup> PPCS traffic assumed to be divided 20 percent “0”− and 80 percent “0” + if unknown.
-
-<sup>2</sup> Toll calls assumed to be divided two-thirds 7 digits and one-third 10 digits.
-
-Busy Hour Attempts = BHC Total × 1.4 = \_\_
+Busy Hour Attempts = BHC Total × 1.4 = \_\_\_\_
 
 8.2.2 Terminating Traffic
 
@@ -1721,17 +1687,25 @@ Busy Hour Attempts = BHC Total × 1.4 = \_\_
 
 9. Checklist of Features Required
 
-|         9.1 Alternate Routing          |   |
-|:---------------------------------------|--:|
-|    (Explain in Item 16, Appendix A)    |   |
-|            9.2 Data Service            |   |
-|    (Explain in Item 16, Appendix A)    |   |
-|       9.3 This office shall be:        |   |
-|         9.3.1 End Office Only          |   |
-|9.3.2 End Office and Intermediate Tandem|   |
-|    (Explain in Item 16, Appendix A)    |   |
-|   9.3.3 End Office and Access Tandem   |   |
-|    (Explain in Item 16, Appendix A)    |   |
+9.1 *Alternate Routing*
+
+(Explain in Item 16, Appendix A)
+
+9.2 *Data Service*
+
+(Explain in Item 16, Appendix A)
+
+9.3 This office shall be:
+
+9.3.1 End Office Only
+
+9.3.2 End Office and Intermediate Tandem
+
+(Explain in Item 16, Appendix A)
+
+9.3.3 End Office and Access Tandem
+
+(Explain in Item 16, Appendix A)
 
 9.4 Billing Data
 
@@ -1746,47 +1720,47 @@ Busy Hour Attempts = BHC Total × 1.4 = \_\_
 
 9.5.1 Polling device to be provided on this contract
 
-\_\_ Required\_\_ Not Required(Provide details in Item 16, Appendix A)
+\_\_\_\_ Required\_\_\_\_ Not Required(Provide details in Item 16, Appendix A)
 
 9.5.2 Pollable system to be backed up by tape or disc standby
 
-\_\_ Required\_\_ Not Required9.6 *AMA Format*
+\_\_\_\_ Required\_\_\_\_ Not Required9.6 *AMA Format*
 
 9.6.1 Bellcore Format
 
-\_\_ Required\_\_ Not Required(Provide details in Item 16, Appendix A)10. Miscellaneous Operating Features10.1 *Busy Verification*10.1.1 By dedicated trunk from toll operator: \_\_10.1.1.1 One-Way, Inward \_\_10.1.1.2 Two-Way (Busy verification inward, intercept outward) \_\_10.1.2 By prefix digit over intertoll trunk \_\_(Indicate digit(s) dialed) \_\_10.1.3 Access by Switchman10.1.3.1 Dedicated Trunk \_\_10.1.3.2 Multiple of Operator Trunk \_\_10.2 *Intercept Facilities*10.2.1 Vacant code, disconnected number, and unassigned number intercept shall be: (Check One)By recorded announcement:Without cut-through to operator \_\_With cut-through to operator \_\_By operator \_\_10.2.2 Changed number intercept shall be: (Check One)By recorded announcement:Without cut-through to operator \_\_With cut-through to operator \_\_By operator \_\_By automatic intercept system (AIS) in distant office \_\_10.2.3 Method of Reaching Operator, if required:Separate trunk group \_\_Regular interoffice toll trunks with idle trunk selecting over at least three trunks when three or more toll trunks are equipped \_\_10.2.4 Number of separate intercept trunk circuits \_\_10.3 *Line Load Control*10.3.1 Line load control facilities are:\_\_ Required \_\_ Not Required(Explain in Item 16, Appendix A)10.4 *Service Observing Facilities*10.4.1 Service observing facilities are:\_\_ Required \_\_ Not Required(Explain in Item 16, Appendix A)10.5 *Hotel-Motel Arrangements*10.5.1 Hotel-motel arrangements for operation of message registers at the subscriber's premises are:\_\_ Required \_\_ Not Required(Explain in Item 16, Appendix A)10.5.1.1 How are message registers to be activated?Line Reversal \_\_Third Wire \_\_Other \_\_(Explain in Item 16, Appendix A)10.6 *Nailed-Up Connections*\_\_ Required \_\_ Not Required(Explain in Item 16, Appendix A)10.7 *Vertical Services:* (RST Lines are Included)
+\_\_\_\_ Required\_\_\_\_ Not Required(Provide details in Item 16, Appendix A)10. Miscellaneous Operating Features10.1 *Busy Verification*10.1.1 By dedicated trunk from toll operator: \_\_\_\_10.1.1.1 One-Way, Inward \_\_\_\_10.1.1.2 Two-Way (Busy verification inward, intercept outward) \_\_\_\_10.1.2 By prefix digit over intertoll trunk \_\_\_\_(Indicate digit(s) dialed) \_\_\_\_10.1.3 Access by Switchman10.1.3.1 Dedicated Trunk \_\_\_\_10.1.3.2 Multiple of Operator Trunk \_\_\_\_10.2 *Intercept Facilities*10.2.1 Vacant code, disconnected number, and unassigned number intercept shall be: (Check One)By recorded announcement:Without cut-through to operator \_\_\_\_With cut-through to operator \_\_\_\_By operator \_\_\_\_10.2.2 Changed number intercept shall be: (Check One)By recorded announcement:Without cut-through to operator \_\_\_\_With cut-through to operator \_\_\_\_By operator \_\_\_\_By automatic intercept system (AIS) in distant office \_\_\_\_10.2.3 Method of Reaching Operator, if required:Separate trunk group \_\_\_\_Regular interoffice toll trunks with idle trunk selecting over at least three trunks when three or more toll trunks are equipped \_\_\_\_10.2.4 Number of separate intercept trunk circuits \_\_\_\_10.3 *Line Load Control*10.3.1 Line load control facilities are:\_\_\_\_ Required \_\_\_\_ Not Required(Explain in Item 16, Appendix A)10.4 *Service Observing Facilities*10.4.1 Service observing facilities are:\_\_\_\_ Required \_\_\_\_ Not Required(Explain in Item 16, Appendix A)10.5 *Hotel-Motel Arrangements*10.5.1 Hotel-motel arrangements for operation of message registers at the subscriber's premises are:\_\_\_\_ Required \_\_\_\_ Not Required(Explain in Item 16, Appendix A)10.5.1.1 How are message registers to be activated?Line Reversal \_\_\_\_Third Wire \_\_\_\_Other \_\_\_\_(Explain in Item 16, Appendix A)10.6 *Nailed-Up Connections*\_\_\_\_ Required \_\_\_\_ Not Required(Explain in Item 16, Appendix A)10.7 *Vertical Services:* (RST Lines are Included)
 
-|                                         | Initially  |  Ultimate  |
-|-----------------------------------------|------------|------------|
-|   10.7.1 Call Waiting - No. of Lines    |\_\_\_\_\_\_|\_\_\_\_\_\_|
-|  10.7.2 Call Forwarding - No. of Lines  |\_\_\_\_\_\_|\_\_\_\_\_\_|
-|         \_\_ Local \_\_ Remote          |            |            |
-|    (Explain in Item 16, Appendix A)     |            |            |
-| 10.7.3 Abbreviated Dialing No. of Lines |\_\_\_\_\_\_|\_\_\_\_\_\_|
-|No. of Codes per Line \_\_ for \_\_ Lines|            |            |
-|No. of Codes per Line \_\_ for \_\_ Lines|            |            |
-| 10.7.4 Three-Way Calling - No. of Lines |\_\_\_\_\_\_|\_\_\_\_\_\_|
-|              CCS Per Line               |\_\_\_\_\_\_|\_\_\_\_\_\_|
+|                                                 |       Initially        |        Ultimate        |
+|-------------------------------------------------|------------------------|------------------------|
+|        10.7.1 Call Waiting—No. of Lines         |\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_|
+|       10.7.2 Call Forwarding—No. of Lines       |\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_|
+|         \_\_\_\_ Local \_\_\_\_ Remote          |                        |                        |
+|        (Explain in Item 16, Appendix A)         |                        |                        |
+|     10.7.3 Abbreviated Dialing No. of Lines     |\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_|
+|No. of Codes per Line \_\_\_\_ for \_\_\_\_ Lines|                        |                        |
+|No. of Codes per Line \_\_\_\_ for \_\_\_\_ Lines|                        |                        |
+|      10.7.4 Three-Way Calling—No. of Lines      |\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_|
+|                  CCS Per Line                   |\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_|
 
-10.7.5 Other \_\_(Explain in Item 16, Appendix A)11. Maintenance Facility Requirements
+10.7.5 Other \_\_\_\_(Explain in Item 16, Appendix A)11. Maintenance Facility Requirements
 
 11.1 *Alarm Signals*
 
-11.1.1 Handled locally \_\_
+11.1.1 Handled locally \_\_\_\_
 
 Explain in Detail:
 
 11.1.2 Transmitted to attended point
 
-11.1.2.1 Via operator office trunks \_\_
+11.1.2.1 Via operator office trunks \_\_\_\_
 
-11.1.2.2 Via printout or other display service \_\_
+11.1.2.2 Via printout or other display service \_\_\_\_
 
 Explain in Detail:
 
 11.1.2.3 Type of tone to operator
 
-11.1.2.3.1 Distinctive tone (see (i)(2)(ix) of § 1755.522) \_\_
+11.1.2.3.1 Distinctive tone (see (i)(2)(ix) of § 1755.522) \_\_\_\_
 
 11.1.2.3.2 Other
 
@@ -1794,49 +1768,49 @@ Explain in Detail:
 
 11.1.3 Alarm checking signals for carrier and mobile radio systems
 
-|                             11.1.3.1 Minor Alarm                             |   |
-|:-----------------------------------------------------------------------------|--:|
-|                             11.1.3.2 Major Alarm                             |   |
-|                         11.1.3.3 Terminals for both                          |   |
-|                        11.2 Trouble Location and Test                        |   |
-|           11.2.1 Outside plant and stations (check desired items)            |   |
-|                   11.2.1.1 Subscriber's loop test circuit:                   |   |
-|                 11.2.1.1.1 As part of the maintenance center                 |   |
-|                            11.2.1.1.2 Separately                             |   |
-|          11.2.1.2 Remote test set (Explain in Item 16, Appendix A)           |   |
-|      11.2.1.3 Dial speed test circuit (Explain in Item 16, Appendix A)       |   |
-|                   11.2.1.4 Pushbutton dialing test circuit                   |   |
-|              11.2.1.5 Howler (per (o)(2)(iii)(C) of § 1755.522)              |   |
-|11.2.1.6 Hand test sets, number required \_\_ (Explain in Item 16, Appendix A)|   |
+|                               11.1.3.1 Minor Alarm                               |   |
+|----------------------------------------------------------------------------------|---|
+|                               11.1.3.2 Major Alarm                               |   |
+|                           11.1.3.3 Terminals for both                            |   |
+|                          11.2 Trouble Location and Test                          |   |
+|             11.2.1 Outside plant and stations (check desired items)              |   |
+|                     11.2.1.1 Subscriber's loop test circuit:                     |   |
+|                   11.2.1.1.1 As part of the maintenance center                   |   |
+|                              11.2.1.1.2 Separately                               |   |
+|            11.2.1.2 Remote test set (Explain in Item 16, Appendix A)             |   |
+|        11.2.1.3 Dial speed test circuit (Explain in Item 16, Appendix A)         |   |
+|                     11.2.1.4 Pushbutton dialing test circuit                     |   |
+|                11.2.1.5 Howler (per (o)(2)(iii)(C) of § 1755.522)                |   |
+|11.2.1.6 Hand test sets, number required \_\_\_\_ (Explain in Item 16, Appendix A)|   |
 
 11.3 *Transmission Tests*
 
 11.3.1 Furnish reference tone
 
-Yes \_\_No \_\_
+Yes \_\_\_\_No \_\_\_\_
 
 |Frequencies and order in which applied|Time interval for application of each frequency|
 |--------------------------------------|-----------------------------------------------|
-|               \_\_ Hz                |                 \_\_ Seconds                  |
-|               \_\_ Hz                |                 \_\_ Seconds                  |
-|               \_\_ Hz                |                 \_\_ Seconds                  |
-|               \_\_ Hz                |                 \_\_ Seconds                  |
+|             \_\_\_\_ Hz              |               \_\_\_\_ Seconds                |
+|             \_\_\_\_ Hz              |               \_\_\_\_ Seconds                |
+|             \_\_\_\_ Hz              |               \_\_\_\_ Seconds                |
+|             \_\_\_\_ Hz              |               \_\_\_\_ Seconds                |
 
-11.3.2 Test Lines11.3.2.1 Test Line 100 \_\_11.3.2.2 Test Line 102 \_\_11.3.2.3 Test Line 104 \_\_11.3.2.4 Test Line 105 \_\_(Explain in Item 16, Appendix A)11.3.2.5 Test Line 107 \_\_11.3.2.6 Remote Office Test Line \_\_(Explain in Item 16, Appendix A)
+11.3.2 Test Lines11.3.2.1 Test Line 100 \_\_\_\_11.3.2.2 Test Line 102 \_\_\_\_11.3.2.3 Test Line 104 \_\_\_\_11.3.2.4 Test Line 105 \_\_\_\_(Explain in Item 16, Appendix A)11.3.2.5 Test Line 107 \_\_\_\_11.3.2.6 Remote Office Test Line \_\_\_\_(Explain in Item 16, Appendix A)
 
 11.4 *Line Testing*
 
 11.4.1 Automatic line insulation testing
 
-Yes \_\_No \_\_
+Yes \_\_\_\_No \_\_\_\_
 
 11.4.2 Owner supplied equipment
 
-Yes \_\_No \_\_
+Yes \_\_\_\_No \_\_\_\_
 
 11.4.2.1 Vendor supplied interface only
 
-Yes \_\_No \_\_
+Yes \_\_\_\_No \_\_\_\_
 
 If supplied by owner, explain in Item 16, Appendix A, including manufacturer, model, location.
 
@@ -1844,7 +1818,7 @@ If supplied by owner, explain in Item 16, Appendix A, including manufacturer, mo
 
 11.5.1 Remote control of the system shall be provided.
 
-Yes \_\_No \_\_
+Yes \_\_\_\_No \_\_\_\_
 
 If required, explain in Item 16, Appendix A, including number, type and location.
 
@@ -1852,25 +1826,25 @@ If required, explain in Item 16, Appendix A, including number, type and location
 
 12.1 *Central Office Battery*
 
-12.1.1 A battery reserve of \_\_ busy hours shall be provided for this office when it reaches \_\_ lines at the ultimate anticipated traffic rates specified in Item 7.2, Appendix A.
+12.1.1 A battery reserve of \_\_\_\_ busy hours shall be provided for this office when it reaches \_\_\_\_ lines at the ultimate anticipated traffic rates specified in Item 7.2, Appendix A.
 
 12.1.1.1 The owner will furnish a standby generator, permanently installed in this office, with capacity sufficient to power air conditioning equipment required for cooling of the central office equipment and to maintain an adequate dc supply in the event of a failure of the commercial ac supply.
 
-Yes \_\_No \_\_
+Yes \_\_\_\_No \_\_\_\_
 
 12.1.2 *Type of battery:* (Check One)
 
-Lead Calcium \_\_Lead Antimony \_\_
+Lead Calcium \_\_\_\_Lead Antimony \_\_\_\_
 
 12.1.3 Voltmeter (portable 3-60-150 volt scale, 1% accuracy) shall be furnished.
 
-Yes \_\_No \_\_
+Yes \_\_\_\_No \_\_\_\_
 
 12.1.4 Hydrometer in a hydrometer holder with glass or plastic drop cup shall be furnished.
 
-Yes \_\_No \_\_2112.1.5 Type of battery rack required: (Check One)Two Tier \_\_Other \_\_Explain:
+Yes \_\_\_\_No \_\_\_\_2112.1.5 Type of battery rack required: (Check One)Two Tier \_\_\_\_Other \_\_\_\_Explain:
 
-12.1.6 Special equipment power requirements (carrier, voice frequency repeaters, etc.). Drain in amperes \_\_
+12.1.6 Special equipment power requirements (carrier, voice frequency repeaters, etc.). Drain in amperes \_\_\_\_
 
 12.1.6.1 Supply all necessary equipment to provide the following 48-volt battery taps:
 
@@ -1883,21 +1857,21 @@ Yes \_\_No \_\_2112.1.5 Type of battery rack required: (Check One)Two Tier \_\_O
 
 12.2 *Charging Equipment*
 
-12.2.1 Charging equipment shall be provided capable of charging the office battery on a full float basis when the office reaches \_\_ lines at the ultimate anticipated traffic rates specified in Item 7.2, Appendix A.
+12.2.1 Charging equipment shall be provided capable of charging the office battery on a full float basis when the office reaches \_\_\_\_ lines at the ultimate anticipated traffic rates specified in Item 7.2, Appendix A.
 
 12.2.2 Charger input rating shall be:
 
-|              |3-Phase Connection:|
-|--------------|-------------------|
-| Voltage \_\_ |    3-Wire \_\_    |
-|  Phase \_\_  |    4-Wire \_\_    |
-|Frequency \_\_|    Delta \_\_     |
-|              |                   |
-|              |      Y \_\_       |
+|                  |3-Phase Connection:|
+|------------------|-------------------|
+| Voltage \_\_\_\_ |  3-Wire \_\_\_\_  |
+|  Phase \_\_\_\_  |  4-Wire \_\_\_\_  |
+|Frequency \_\_\_\_|  Delta \_\_\_\_   |
+|                  |                   |
+|                  |    Y \_\_\_\_     |
 
 12.3 *Ringing Equipment*
 
-12.3.1 Solid-state ringing equipment in accordance with paragraph (s)(5)(i) of § 1755.522 shall be provided for generating the frequencies specified by check marks in the following table. Ringing generator sets serving the entire office shall each be sized to carry the full office ringing load when the office size reaches \_\_ lines at the ultimate anticipated traffic rates specified in Item 7.2, Appendix A.
+12.3.1 Solid-state ringing equipment in accordance with paragraph (s)(5)(i) of § 1755.522 shall be provided for generating the frequencies specified by check marks in the following table. Ringing generator sets serving the entire office shall each be sized to carry the full office ringing load when the office size reaches \_\_\_\_ lines at the ultimate anticipated traffic rates specified in Item 7.2, Appendix A.
 
 12.3.2 Ringing frequencies to be supplied:
 
@@ -1919,16 +1893,16 @@ Yes \_\_No \_\_2112.1.5 Type of battery rack required: (Check One)Two Tier \_\_O
 
 12.3.3 Furnish frequency meter (accurate within 1.3 Hz) and voltmeter (5% accuracy) for ringing measurements (see paragraph (s)(7)(ii) of § 1755.522). Check One:
 
-Panel Mounted \_\_Portable \_\_Not Required \_\_
+Panel Mounted \_\_\_\_Portable \_\_\_\_Not Required \_\_\_\_
 
 12.4 *Power Board*
 
-The power panel and associated wiring shall be of ample size to meet the load requirements when this office reaches \_\_ lines at the ultimate anticipated traffic rates specified in Item 7.2, Appendix A.
+The power panel and associated wiring shall be of ample size to meet the load requirements when this office reaches \_\_\_\_ lines at the ultimate anticipated traffic rates specified in Item 7.2, Appendix A.
 
 13. Distributing Frame Requirements (Host Office Only)
 
 |  13.1 Total number of outside plant cable pairs to be terminated   |   |
-|:-------------------------------------------------------------------|--:|
+|--------------------------------------------------------------------|---|
 |             13.1.1 Gauge of outside plant cable pairs              |   |
 |      13.2 Number of outside plant cable pairs to be protected      |   |
 |13.3 Number of additional protector pair units to be provided on MDF|   |
@@ -1939,51 +1913,51 @@ Explain:
 
 Is present MDF to be reused?
 
-Yes \_\_No \_\_
+Yes \_\_\_\_No \_\_\_\_
 
-If “Yes,” Type \_\_
+If “Yes,” Type \_\_\_\_
 
 Reused protectors are:
 
-\_\_ (Mfgr.)\_\_ (Type)
+\_\_\_\_ (Mfgr.)\_\_\_\_ (Type)
 
-13.4.1 Number of pairs of arrester units (switching equipment) \_\_
+13.4.1 Number of pairs of arrester units (switching equipment) \_\_\_\_
 
-13.4.2 Number of pairs of gas tube arrester units (special equipment) \_\_
+13.4.2 Number of pairs of gas tube arrester units (special equipment) \_\_\_\_
 
 13.4.2.1 Gas tubes to be:
 
-\_\_ light,\_\_ medium,\_\_ heavy,\_\_ max. duty units
+\_\_\_\_ light,\_\_\_\_ medium,\_\_\_\_ heavy,\_\_\_\_ max. duty units
 
 13.4.2.2 Fail shorted/low breakdown failure mode required
 
-Yes \_\_No \_\_
+Yes \_\_\_\_No \_\_\_\_
 
-13.4.2.3 Breakdown voltage of gas tube arresters \_\_
+13.4.2.3 Breakdown voltage of gas tube arresters \_\_\_\_
 
-13.4.3 Number of terminated pairs to be grounded \_\_
+13.4.3 Number of terminated pairs to be grounded \_\_\_\_
 
 13.4.4 Factory assembled tip cable
 
-Yes \_\_No \_\_
+Yes \_\_\_\_No \_\_\_\_
 
 13.4.4.1 Tip cable length [if other than 20 feet (610 cm)]
 
-\_\_
+\_\_\_\_
 
 13.4.4.2 Tip cable formed
 
-Up \_\_Down \_\_
+Up \_\_\_\_Down \_\_\_\_
 
-13.4.5 Pairs per vertical \_\_
+13.4.5 Pairs per vertical \_\_\_\_
 
-13.4.6 Height of vertical \_\_ feet \_\_ inches
+13.4.6 Height of vertical \_\_\_\_ feet \_\_\_\_ inches
 
 14. Building and Floor Plan Information (Host Office Only)
 
-14.1 Equipment is to be installed in an existing building (Attach detailed plan.) \_\_
+14.1 Equipment is to be installed in an existing building (Attach detailed plan.) \_\_\_\_
 
-14.2 A new building is planned \_\_
+14.2 A new building is planned \_\_\_\_
 
 14.2.1 Tentative plan (*Note to Engineer:* Show sketch without dimensions.)
 
@@ -1991,33 +1965,33 @@ Up \_\_Down \_\_
 
 14.3.1 Partition required (to isolate space containing battery, charger, power board, test panel, main distributing frame and subscriber's loop test circuit (wire chief's test desk) from that of the remaining equipment).
 
-Yes \_\_No \_\_
+Yes \_\_\_\_No \_\_\_\_
 
 14.3.2 Vestibule required
 
-Yes \_\_No \_\_
+Yes \_\_\_\_No \_\_\_\_
 
 14.3.3 Cable entrance
 
-Overhead\_\_Underground \_\_
+Overhead\_\_\_\_Underground \_\_\_\_
 
 14.3.4 Additional floor space will be required for the following equipment which is being furnished by the owner or by the connecting company:
 
 14.3.5 The office will be arranged for
 
-Overhead Interbay Cabling \_\_Underfloor (Computer Room Type) Interbay Cabling \_\_
+Overhead Interbay Cabling \_\_\_\_Underfloor (Computer Room Type) Interbay Cabling \_\_\_\_
 
 14.3.6 Is earthquake bracing required?
 
-Yes \_\_No \_\_
+Yes \_\_\_\_No \_\_\_\_
 
 (If “Yes,” explain zone and criteria used for zone in Item 16, Appendix A.)
 
-14.3.7 Office ground will be \_\_ ohms or less (Refer to Item 4.6.3 of RUS TE&CM 810.)
+14.3.7 Office ground will be \_\_\_\_ ohms or less (Refer to Item 4.6.3 of RUS TE&CM 810.)
 
 14.3.8 The office is considered to be in the following category for lightning damage probability based on the Figure 1 map of RUS TE&CM 823 (see paragraph (u)(2) of 1755.522).
 
-\_\_ Very High\_\_ Higher than Average\_\_ Average\_\_ Lower than Average\_\_ Very Low
+\_\_\_\_ Very High\_\_\_\_ Higher than Average\_\_\_\_ Average\_\_\_\_ Lower than Average\_\_\_\_ Very Low
 
 14.3.9 The following is additional information regarding operating environment conditions which should be considered in determining system protection requirements (tower in vicinity, high exposure, etc.):
 
@@ -2025,29 +1999,29 @@ Yes \_\_No \_\_
 
 16. Explanatory Notes (Include a detailed description of any equipment to be reused, or otherwise supplied by the owner, loop extenders, subscriber carrier, VF repeaters, etc.)
 
-Appendix B to 7 CFR 1755.522 - Detailed Information on Remote Switching Terminals (RST's)(Complete One Form For Each RST)1. Number of Subscriber Lines (These lines included in totals in Item 6, Appendix A).
+Appendix B to 7 CFR 1755.522—Detailed Information on Remote Switching Terminals (RST's)(Complete One Form For Each RST)1. Number of Subscriber Lines (These lines included in totals in Item 6, Appendix A).
 
-1.1 Single-Party: \_\_\_\_ Flat Rate \_\_\_\_ Message Rate.
+1.1 Single-Party: \_\_\_\_\_\_\_\_ Flat Rate \_\_\_\_\_\_\_\_ Message Rate.
 
-1.2 Semi-Postpay Pay Station \_\_\_\_.
+1.2 Semi-Postpay Pay Station \_\_\_\_\_\_\_\_.
 
-1.3 Prepay Pay Station \_\_\_\_.
+1.3 Prepay Pay Station \_\_\_\_\_\_\_\_.
 
-1.4 PABX Lines \_\_\_\_ Loop Start\_\_\_\_ Ground Start \_\_\_\_ Restricted at Office \_\_\_\_ Other \_\_\_\_
+1.4 PABX Lines \_\_\_\_\_\_\_\_ Loop Start\_\_\_\_\_\_\_\_ Ground Start \_\_\_\_\_\_\_\_ Restricted at Office \_\_\_\_\_\_\_\_ Other \_\_\_\_\_\_\_\_
 
 (Describe in Item 12, Appendix B)
 
-1.5 Number of lines to be pushbutton \_\_\_\_\_\_\_\_
+1.5 Number of lines to be pushbutton \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-1.6 911 Emergency Lines \_\_\_\_
+1.6 911 Emergency Lines \_\_\_\_\_\_\_\_
 
-1.7 Anticipated ultimate capacity (20-Year) \_\_\_\_
+1.7 Anticipated ultimate capacity (20-Year) \_\_\_\_\_\_\_\_
 
 2. Traffic
 
-2.1 Originating traffic per line - CCS/BH: \_\_\_\_ Initial \_\_\_\_ Ultimate.
+2.1 Originating traffic per line—CCS/BH: \_\_\_\_\_\_\_\_ Initial \_\_\_\_\_\_\_\_ Ultimate.
 
-2.2 Terminating traffic per line - CCS/BH: \_\_\_\_ Initial \_\_\_\_ Ultimate
+2.2 Terminating traffic per line—CCS/BH: \_\_\_\_\_\_\_\_ Initial \_\_\_\_\_\_\_\_ Ultimate
 
 2.2.1 Terminating will be made equal to originating if it is not known to be different.
 
@@ -2055,134 +2029,134 @@ Appendix B to 7 CFR 1755.522 - Detailed Information on Remote Switching Terminal
 
 3.1 Number of subscriber lines having loop resistance, including the telephone set of:
 
-No. of Lines1501-1900 Ohms \_\_\_\_\_1901-3200 Ohms \_\_\_\_
+No. of Lines1501-1900 Ohms \_\_\_\_\_\_\_\_\_\_1901-3200 Ohms \_\_\_\_\_\_\_\_
 
 3.2 Number of pay station lines having loop resistance, excluding the telephone set, greater than:
 
-No. of Lines1200 Ohms (For Prepay) \_\_\_\_\_\_1000 Ohms (For Semi-Post Pay Operation) \_\_\_\_\_.4. Range Extension
+No. of Lines1200 Ohms (For Prepay) \_\_\_\_\_\_\_\_\_\_\_\_1000 Ohms (For Semi-Post Pay Operation) \_\_\_\_\_\_\_\_\_\_.4. Range Extension
 
 4.1 If no standby power is available at the site, loop extenders may be required on 1501 to 1900 ohms loops.
 
-4.2 *Loop extenders:* Total Quantity \_\_\_\_\_ By Bidder - Quantity \_\_\_\_ By Owner - Quantity
+4.2 *Loop extenders:* Total Quantity \_\_\_\_\_\_\_\_\_\_ By Bidder—Quantity \_\_\_\_\_\_\_\_ By Owner—Quantity
 
-(Explain in Item 12, Appendix B)4.3 *VF repeaters:* Total Quantity \_\_\_\_\_ By Bidder - Quantity \_\_\_\_\_ By Owner - Quantity \_\_\_\_\_.(Explain in Item 12, Appendix B)5. Power Supply
+(Explain in Item 12, Appendix B)4.3 *VF repeaters:* Total Quantity \_\_\_\_\_\_\_\_\_\_ By Bidder—Quantity \_\_\_\_\_\_\_\_\_\_ By Owner—Quantity \_\_\_\_\_\_\_\_\_\_.(Explain in Item 12, Appendix B)5. Power Supply
 
 5.1 Power Board.
 
-5.1.1 The power board and associated wiring shall be of ample size to meet the load requirements when this RST reaches \_\_\_\_ lines at the ultimate anticipated traffic rates specified in Item 2, Appendix B.
+5.1.1 The power board and associated wiring shall be of ample size to meet the load requirements when this RST reaches \_\_\_\_\_\_\_\_ lines at the ultimate anticipated traffic rates specified in Item 2, Appendix B.
 
-5.2 *Charger input rating shall be:* Voltage \_\_\_\_\_ Phase \_\_\_\_\_ Frequency \_\_\_\_\_
+5.2 *Charger input rating shall be:* Voltage \_\_\_\_\_\_\_\_\_\_ Phase \_\_\_\_\_\_\_\_\_\_ Frequency \_\_\_\_\_\_\_\_\_\_
 
-*3-Phase Connection:*3-Wire \_\_\_\_\_4-Wire \_\_\_\_\_Delta \_\_\_\_\_Y\_\_\_\_\_
+*3-Phase Connection:*3-Wire \_\_\_\_\_\_\_\_\_\_4-Wire \_\_\_\_\_\_\_\_\_\_Delta \_\_\_\_\_\_\_\_\_\_Y\_\_\_\_\_\_\_\_\_\_
 
-5.2.1 Charger shall be capable of charging the RST battery on a full float basis when the RST reaches \_\_\_\_ lines at ultimate traffic rate specified in Item 2, Appendix B.
+5.2.1 Charger shall be capable of charging the RST battery on a full float basis when the RST reaches \_\_\_\_\_\_\_\_ lines at ultimate traffic rate specified in Item 2, Appendix B.
 
-5.2.2 Charger shall be redundant \_\_\_\_.
+5.2.2 Charger shall be redundant \_\_\_\_\_\_\_\_.
 
-5.3 Battery reserve shall be \_\_\_\_ busy hours when the RST reaches \_\_\_\_ lines at the ultimate anticipated traffic specified in Item 2, Appendix B.
+5.3 Battery reserve shall be \_\_\_\_\_\_\_\_ busy hours when the RST reaches \_\_\_\_\_\_\_\_ lines at the ultimate anticipated traffic specified in Item 2, Appendix B.
 
-5.4 Standby power is available. Yes \_\_\_ No \_\_\_.
+5.4 Standby power is available. Yes \_\_\_\_\_\_ No \_\_\_\_\_\_.
 
-5.5 Special equipment power requirements \_\_\_\_ amps.
+5.5 Special equipment power requirements \_\_\_\_\_\_\_\_ amps.
 
 5.6 *Ringing.*
 
 5.6.1 Type of Ringing.
 
 |   5.6.2 Frequency No.   |1. |2. |3. |4. |
-|:------------------------|--:|--:|--:|--:|
-|      Frequency HZ       |   |   |   |   |
+|-------------------------|---|---|---|---|
+|     Frequency (Hz)      |   |   |   |   |
 |Max. No. Phones/Frequency|   |   |   |   |
 
-5.6.3 Wattage to be sized for \_\_\_\_ lines.
+5.6.3 Wattage to be sized for \_\_\_\_\_\_\_\_ lines.
 
-5.6.4 Frequency Meter (see Item 12.3.3, Appendix A). Panel Mounted \_\_\_ Not Required \_\_\_.
+5.6.4 Frequency Meter (see Item 12.3.3, Appendix A). Panel Mounted \_\_\_\_\_\_ Not Required \_\_\_\_\_\_.
 
 6. Emergency Operation
 
-6.1 If path to central office is opened, the RST shall be able to complete calls between subscribers in its own system: Yes \_\_\_ No \_\_\_
+6.1 If path to central office is opened, the RST shall be able to complete calls between subscribers in its own system: Yes \_\_\_\_\_\_ No \_\_\_\_\_\_
 
 Further requirements should be listed under Item 12, Appendix B.
 
 7. RST Distribution Frame Requirements
 
-7.1 Total number of outside plant cable pairs to be terminated \_\_\_.
+7.1 Total number of outside plant cable pairs to be terminated \_\_\_\_\_\_.
 
-7.1.1 Gauge of outside plant cable pairs \_\_\_\_.
+7.1.1 Gauge of outside plant cable pairs \_\_\_\_\_\_\_\_.
 
-7.2 Number of outside plant cable pairs to be protected \_\_\_\_.
+7.2 Number of outside plant cable pairs to be protected \_\_\_\_\_\_\_\_.
 
-7.3 Number of additional protector pair units to be provided on MDF \_\_\_\_.
+7.3 Number of additional protector pair units to be provided on MDF \_\_\_\_\_\_\_\_.
 
 Explain:
 
 7.4 *Main Frame Details*
 
-7.4.1 Present MDF to be reused Yes\_\_\_ No\_\_\_.
+7.4.1 Present MDF to be reused Yes\_\_\_\_\_\_ No\_\_\_\_\_\_.
 
-If “Yes”, Type \_\_\_\_.
+If “Yes”, Type \_\_\_\_\_\_\_\_.
 
-Reused protectors are: \_\_\_\_ (Mfr.) \_\_\_\_ (Type).
+Reused protectors are: \_\_\_\_\_\_\_\_ (Mfr.) \_\_\_\_\_\_\_\_ (Type).
 
-7.4.2 Number of pairs of arrester units (switching equipment) \_\_\_\_.
+7.4.2 Number of pairs of arrester units (switching equipment) \_\_\_\_\_\_\_\_.
 
-7.4.3 Number of pairs of gas tube arrester units (special equipment) \_\_\_\_.
+7.4.3 Number of pairs of gas tube arrester units (special equipment) \_\_\_\_\_\_\_\_.
 
-7.4.3.1 Gas tubes to be: \_\_\_ light, \_\_\_ medium, \_\_\_ heavy, \_\_\_ maximum duty units.
+7.4.3.1 Gas tubes to be: \_\_\_\_\_\_ light, \_\_\_\_\_\_ medium, \_\_\_\_\_\_ heavy, \_\_\_\_\_\_ maximum duty units.
 
-7.4.3.2 Fail shorted/low breakdown failure mode required Yes \_\_\_ No \_\_\_.
+7.4.3.2 Fail shorted/low breakdown failure mode required Yes \_\_\_\_\_\_ No \_\_\_\_\_\_.
 
-7.4.3.3 Breakdown voltage of gas tube arresters \_\_\_\_.
+7.4.3.3 Breakdown voltage of gas tube arresters \_\_\_\_\_\_\_\_.
 
-7.4.4 Number of terminated pairs to be grounded \_\_\_\_.
+7.4.4 Number of terminated pairs to be grounded \_\_\_\_\_\_\_\_.
 
-7.4.5 Factory assembled tip cable Yes \_\_\_ No \_\_\_.
+7.4.5 Factory assembled tip cable Yes \_\_\_\_\_\_ No \_\_\_\_\_\_.
 
-7.4.5.1 Tip cable length [if other than 20 feet (610 cm)] \_\_\_.
+7.4.5.1 Tip cable length [if other than 20 feet (610 cm)] \_\_\_\_\_\_.
 
-7.4.5.2 Tip cable formed Up \_\_\_ Down \_\_\_.
+7.4.5.2 Tip cable formed Up \_\_\_\_\_\_ Down \_\_\_\_\_\_.
 
-7.4.6 Pairs per vertical \_\_\_\_.
+7.4.6 Pairs per vertical \_\_\_\_\_\_\_\_.
 
-7.4.7 Height of vertical \_\_\_\_ feet \_\_\_\_ inches.
+7.4.7 Height of vertical \_\_\_\_\_\_\_\_ feet \_\_\_\_\_\_\_\_ inches.
 
 8. Building and Floor Plan Information
 
-8.1 RST to be mounted in building \_\_\_.
+8.1 RST to be mounted in building \_\_\_\_\_\_.
 
-8.1.1 Earthquake bracing required Yes \_\_\_ No \_\_\_ (see Item 14.3.6, Appendix A).
+8.1.1 Earthquake bracing required Yes \_\_\_\_\_\_ No \_\_\_\_\_\_ (see Item 14.3.6, Appendix A).
 
 8.1.2 Supply building floor plan.
 
-8.2 RST to be mounted in cabinet out of doors \_\_\_.
+8.2 RST to be mounted in cabinet out of doors \_\_\_\_\_\_.
 
-8.2.1 Cabinet to be mounted \_\_\_ on pole \_\_\_ on ground.
+8.2.1 Cabinet to be mounted \_\_\_\_\_\_ on pole \_\_\_\_\_\_ on ground.
 
 9. Subscriber Line Test
 
-9.1 Remote testing of subscriber lines is required Yes \_\_\_ No \_\_\_.
+9.1 Remote testing of subscriber lines is required Yes \_\_\_\_\_\_ No \_\_\_\_\_\_.
 
-9.2 Subscriber loop test set \_\_\_.
+9.2 Subscriber loop test set \_\_\_\_\_\_.
 
 10. Span Lines to Host Central Office
 
-10.1 To be supplied by Owner \_\_\_.
+10.1 To be supplied by Owner \_\_\_\_\_\_.
 
-10.2 To be supplied by Bidder \_\_\_.
+10.2 To be supplied by Bidder \_\_\_\_\_\_.
 
 10.2.1 When the bidder is to supply the span lines, an RUS Form 397b, Trunk Carrier Systems, with the applicable parts completed must be attached with a physical layout of the span line.
 
 11. Grounding Considerations
 
-11.1 The RST ground will be \_\_\_ ohms or less. (Refer to Item 4.6.3 of RUS TE&CM 810.)
+11.1 The RST ground will be \_\_\_\_\_\_ ohms or less. (Refer to Item 4.6.3 of RUS TE&CM 810.)
 
-11.2 This RST is considered to be in the following category for lightning damage probability based on the Figure 1 map of RUS TE&CM 823.\_\_\_\_ Very High \_\_\_\_ Higher than Average \_\_\_\_ Average \_\_\_\_ Lower than Average \_\_\_\_ Very Low
+11.2 This RST is considered to be in the following category for lightning damage probability based on the Figure 1 map of RUS TE&CM 823.\_\_\_\_\_\_\_\_ Very High \_\_\_\_\_\_\_\_ Higher than Average \_\_\_\_\_\_\_\_ Average \_\_\_\_\_\_\_\_ Lower than Average \_\_\_\_\_\_\_\_ Very Low
 
 11.3 The following is additional information regarding operating environment conditions which should be considered in determining system protection requirements (tower in vicinity, high exposure, etc.):
 
-12. Explanatory NotesAppendix C to 7 CFR 1755.522 - Specifications for Digital, Stored Program Controlled Central Office Equipment Detailed Requirements - Bidder Supplied InformationTelephone CompanyNameLocationCentral Office Name (By Location)Town \_\_\_\_\_County \_\_\_\_\_\_\_\_\_ State \_\_\_
+12. Explanatory NotesAppendix C to 7 CFR 1755.522—Specifications for Digital, Stored Program Controlled Central Office Equipment Detailed Requirements—Bidder Supplied InformationTelephone CompanyNameLocationCentral Office Name (By Location)Town \_\_\_\_\_\_\_\_\_\_County \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ State \_\_\_\_\_\_
 
-Attended \_\_\_ Unattended \_\_\_
+Attended \_\_\_\_\_\_ Unattended \_\_\_\_\_\_
 
 1. General
 
@@ -2212,33 +2186,33 @@ Attended \_\_\_ Unattended \_\_\_
 
 3.1.1.1 The number of lines to be provided shall include the number required for the termination of subscriber lines, Item 7, Appendix A, plus the number required for routine testing plus any additional to meet the minimum switch increment of the selected system.
 
-3.1.1.2 The number of lines provided for this office will be \_\_\_
+3.1.1.2 The number of lines provided for this office will be \_\_\_\_\_\_
 
 3.1.2 Number of Ports Used for Trunks
 
 3.1.2.1 The number of trunk ports to be provided shall be based on the trunk quantities required (Item 8, Appendix A) as modified by the minimum increment of the selected system. Provision shall be made for at least 5 percent additional inlet and outlet ports over those required initially. The additional ports shall be used for connecting additional trunks that may be required in the future.
 
-3.1.2.2 The number of trunk ports provided for this office will be \_\_\_\_\_\_
+3.1.2.2 The number of trunk ports provided for this office will be \_\_\_\_\_\_\_\_\_\_\_\_
 
 3.1.3 Number of Subscriber Directory Numbers
 
 3.1.3.1 The number of directory numbers provided shall be based on the total directory numbers required (Item 6.1.11, appendix A), as modified by the memory increment of the proposed system.
 
-3.1.3.2 The number of subscriber directory numbers provided for this office will be \_\_\_\_\_\_
+3.1.3.2 The number of subscriber directory numbers provided for this office will be \_\_\_\_\_\_\_\_\_\_\_\_
 
 4. RST
 
 4.1 Information for RST's must be supplied for each RST to be furnished.
 
-4.2 Number of line terminals for this RST will be \_\_\_\_\_\_ .
+4.2 Number of line terminals for this RST will be \_\_\_\_\_\_\_\_\_\_\_\_ .
 
-4.3 Number of span line terminations to the central office being supplied \_\_\_\_\_\_ .
+4.3 Number of span line terminations to the central office being supplied \_\_\_\_\_\_\_\_\_\_\_\_ .
 
 4.4 If the emergency operation option is required, it will provide the following service when connection to the main office is severed:
 
 4.5 The ac power drain at the remote end will be:
 
-Initial \_\_\_\_\_\_ Ultimate \_\_\_\_\_\_ Voltage: Single-Phase \_\_\_\_\_\_ Three-Phase \_\_\_\_\_\_
+Initial \_\_\_\_\_\_\_\_\_\_\_\_ Ultimate \_\_\_\_\_\_\_\_\_\_\_\_ Voltage: Single-Phase \_\_\_\_\_\_\_\_\_\_\_\_ Three-Phase \_\_\_\_\_\_\_\_\_\_\_\_
 
 4.6 Special environmental requirements for the remote end:
 
@@ -2246,7 +2220,7 @@ Initial \_\_\_\_\_\_ Ultimate \_\_\_\_\_\_ Voltage: Single-Phase \_\_\_\_\_\_ Th
 
 5.1 *AC Power Drain Watts*
 
-Initial \_\_\_\_\_\_ Ultimate \_\_\_\_\_\_
+Initial \_\_\_\_\_\_\_\_\_\_\_\_ Ultimate \_\_\_\_\_\_\_\_\_\_\_\_
 
 5.2 *Heat Dissipation Watts*
 
@@ -2254,11 +2228,11 @@ Provide the initial and ultimate equipment dissipation for each equipment room.
 
 5.2.1 Operating Temperature Range
 
-Minimum \_\_\_\_\_\_ Maximum \_\_\_\_\_\_
+Minimum \_\_\_\_\_\_\_\_\_\_\_\_ Maximum \_\_\_\_\_\_\_\_\_\_\_\_
 
 5.2.2 Operating Humidity Range
 
-Minimum \_\_\_\_\_\_ Maximum \_\_\_\_\_\_6. Additional Information to be Furnished by Bidder
+Minimum \_\_\_\_\_\_\_\_\_\_\_\_ Maximum \_\_\_\_\_\_\_\_\_\_\_\_6. Additional Information to be Furnished by Bidder
 
 6.1 The bidder shall accompany its bid with the following information:
 
@@ -2291,374 +2265,374 @@ k. Details concerning AMA features and formats to be provided.
 |Class 1 | Class 2 |                       Class 3                       |                    Class 4                    |Class 1|Class 2|Class 3|Class 4|   |   |
 |        |         |                                                     |                                               |       |       |       |       |   |   |
 
-7. Explanatory NotesAppendix D to 7 CFR 1755.522 - Acceptance Checklist - Single-point Grounding System1. Approval StatementTelephone Company:RUS Borrower Designation:RUS Contract Number:N/AName:Central Office:Remote:Date of Inspection:Names of Inspectors:Owner RepresentativeCentral Office SuppliesConsulting EngineerMutually Approved Exceptions:Grounding System Approval:Name (Owner Representative)SignatureTitleDateName (Supplier Representative)SignatureTitleDate2. General Survey
+7. Explanatory NotesAppendix D to 7 CFR 1755.522—Acceptance Checklist—Single-point Grounding System1. Approval Statement Telephone Company:RUS Borrower Designation:RUS Contract Number:N/AName:Central Office:Remote:Date of Inspection:Names of Inspectors:Owner RepresentativeCentral Office SuppliesConsulting EngineerMutually Approved Exceptions:Grounding System Approval:Name (Owner Representative)SignatureTitleDateName (Supplier Representative)SignatureTitleDate2. General Survey
 
 2.1 This office is considered to be in the following category for probability of lightning damage based on the Figure 1 map in RUS TE&CM 823 (also refer to paragraph (u)(2) of § 1755.522)
 
-\_\_ Very High \_\_ Higher than Average \_\_ Average \_\_ Lower than Average \_\_ Very low
+\_\_\_\_ Very High \_\_\_\_ Higher than Average \_\_\_\_ Average \_\_\_\_ Lower than Average \_\_\_\_ Very low
 
-2.2 Central office ground field (COGF) to be inspected for proper bonding of conductors to ground rods, etc. COGF to earth grounding reading is \_\_\_\_ ohms. (Refer to RUS TE&CM 802, Appendices C and D, Measurement Techniques.) Is this resistance reading acceptable? (Refer to RUS TE&CM 810, Items 1.6, 4.6.2 and 4.6.3 for protection considerations.)
+2.2 Central office ground field (COGF) to be inspected for proper bonding of conductors to ground rods, etc. COGF to earth grounding reading is \_\_\_\_\_\_\_\_ ohms. (Refer to RUS TE&CM 802, Appendices C and D, Measurement Techniques.) Is this resistance reading acceptable? (Refer to RUS TE&CM 810, Items 1.6, 4.6.2 and 4.6.3 for protection considerations.)
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 2.3 Ground connection to be inspected from the master ground bar (MGB) to the central office ground field (COGF) to ensure it is properly sized and installed by most direct route with no sharp bends. (Refer to RUS TE&CM 810, Item 4.3.2 and section 8.1.)
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 2.4 Building structure grounds (steel rebar in footings, ironwork, etc.) are to be properly bonded and connected to the MGB. (Refer to RUS TE&CM 810, Item 4.3.4.)
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 2.5 Metallic central office door(s) are to be painted with metallic paint with doorknobs left bare. Door(s) and frames are to be grounded to the building structural ground or the MGB.
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 2.6 Metallic fences within 6 feet (183 cm) of the exchange building, storage facilities ground field, etc. are to be properly bonded to the COGF outside of the central office building. Handhole enclosure is to be used for the COGF connection to permit inspection and disconnect for earth resistance testing. (Refer to RUS TE&CM 810, Appendix C, Item 4.6.1.)
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 2.7 Lightning rod systems are to be grounded by a separate dedicated ground field. A bond should be provided between the COGF and the lightning rod ground field. Handhole enclosure is to be used for the COGF connection to permit inspection and disconnect for earth resistance testing. (Refer to RUS TE&CM 810, Item 4.3.2.1.)
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 2.8 Radio/microwave tower ground grid is to be properly bonded to the COGF by a direct outside connection. Handhole enclosure is to be used for the COGF connection to permit inspection and disconnect for earth resistance testing. (Refer to RUS TE&CM 810, Item 4.3.2 and section 10.)
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 2.9 If a qualified metallic water system is present, inspect the MGB connecting conductor to ensure that it is properly sized and installed by the most direct route with no sharp bends and that it is clamped solidly on the water pipes. (Refer to RUS TE&CM 810, Item 4.3.3 for details on metallic water system grounding.)
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 2.10 All power and grounding conductors are to be continuous, end to end, with no splices, size discontinuity or intermediate terminations. If an exception is necessary, unusual care must be taken to assure proper bonding between the two sections. (Refer to RUS TE&CM 810, Appendix C, section 5.)
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 2.11 All ground conductors should be void of sharp bends along their entire lengths. (Refer to RUS TE&CM 810, Item 8.2.2.)
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 2.12 Ground conductors should only be placed in nonmetallic conduit. Those routed through metallic conduit require that both ends of the conduit be bonded to the ground conductor. (Refer to RUS TE&CM 810, Item 8.2.4.)
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 2.13 Ground conductors should not be encircled by metallic clamp. Metallic straps are to be removed and replaced with nonmetallic clamps. (Refer to RUS TE&CM 810, Item 8.2.4.)
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 2.14 If metallic conduit is used, it is to be insulated from all ironwork.
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 2.15 Inspect to determine if the required central office supplier electrostatic discharge plates, wrist wraps, antistatic floor mats, etc. are available and properly installed. (Refer to RUS TE&CM 810, Item 12.3.)
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 2.16 Ground conductors, except green wires, should not be routed close and parallel to other conductors so as to minimize induction on surges into equipment wiring. It is also better not to route these ground conductors through cable racks or troughs, or within the confines of any iron work. (Refer to RUS TE&CM 810, Item 8.2.3.)
 
-Acceptable: \_\_ Yes \_\_ NoComments:3. Master Ground Bar (MGB)
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:3. Master Ground Bar (MGB)
 
 3.1 The designated P, A, N, and I segments of the master ground bar (MGB) should be clearly identified. (Refer to RUS TE&CM 810, Figure 1 for MGB segmentation arrangement.)
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 3.2 Check for appearance and proper location of following on MGB:
 
-(a) R - Interior radio equipment1
+(a) R—Interior radio equipment1
 
-1 Surge Producer - (P)
+1 Surge Producer—(P)
 
-(b) C - Cable entrance ground bar1
+(b) C—Cable entrance ground bar1
 
-(c) M - MDF ground bar1
+(c) M—MDF ground bar1
 
-(d) G - Standby power equipment frame ground1
+(d) G—Standby power equipment frame ground1
 
-(e) N - Commercial power MGN2
+(e) N—Commercial power MGN2
 
-2 Surge Absorber - (A)
+2 Surge Absorber—(A)
 
-(f) B - Building structure ground2
+(f) B—Building structure ground2
 
-(g) L - Central office ground field2
+(g) L—Central office ground field2
 
-(h) W - Water pipe system2
+(h) W—Water pipe system2
 
-(i) N1 - Battery Return3
+(i) N1—Battery Return3
 
-3 Grounds to non-IGZ Equipment - (N)
+3 Grounds to non-IGZ Equipment—(N)
 
-(j) N2 - Outside IGZ: \_\_\_\_\_\_3
+(j) N2—Outside IGZ: \_\_\_\_\_\_\_\_\_\_\_\_3
 
-(k) N3 - Outside IGZ: \_\_\_\_\_\_3
+(k) N3—Outside IGZ: \_\_\_\_\_\_\_\_\_\_\_\_3
 
-(l) I1 - Ground window bar4
+(l) I1—Ground window bar4
 
-4 Grounds to IGZ Equipment (GWB's) - (I)
+4 Grounds to IGZ Equipment (GWB's)—(I)
 
-(m) I2 - Ground window bar4
+(m) I2—Ground window bar4
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 3.3 All connections to MGB are to be two-hole bolted down copper crimped or compression type terminal lugs. (NOTE: No solder connections are permitted.)
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 3.4 MGB is to be properly insulated from the mounting surface.
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 3.5 All connections are to be tight.
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 3.6 The MGB is to have an anticorrosion coating of the type which enhances conductivity.
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 3.7 Bar is to be clearly stenciled or legibly labeled “MGB.”
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 3.8 All ground leads are to be properly sized and labeled as to point of origin. (Refer to RUS TE&CM 810, Item 8.3.1 and section 8.1.)
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:4. Ground Window Bar (GWB)
 
 4.1 All equipment grounds that originate inside of an Isolated Ground Zone (IGZ) are to be terminated on the GWB which is preferably located physically inside the IGZ and insulated from its support. (Refer to RUS TE&CM 810, Item 5.1.)
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:
 
 4.2 Each GWB is to be connected to the MGB by the most direct route with a conductor of 2/0-gauge or coarser, or resistance of less than 0.005 ohms. Parallel conductors for redundancy if required by the supplier. (Refer to RUS TE&CM 810, Item 8.1.2.)
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:
 
 4.3 The metal framework grounds of only that switching equipment and associated electrical equipment located inside of the IGZ should be connected to the GWB as required by the central office equipment supplier. (Refer to RUS TE&CM 810, Item 5.5.)
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:
 
 4.4 GWB is to be clearly stenciled or labeled “GWB.”
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:
 
 4.5 All connections are to be tight.
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:5. Isolated Ground Zone (IGZ)
 
 5.1 IGZ areas are to be clearly marked on the floor or in some other easily recognizable manner. (Refer to RUS TE&CM 810, Item 6.1.1)
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:
 
 5.2 Confirm that all framework, cabinets, etc., within the IGZ are ground connected only to the GWB. (Refer to RUS TE&CM 810, Item 5.5.)
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:
 
 5.3 All cable racks, ground mats, switching and transmission equipment within the IGZ are to have ground leads *only* to the GWB. (Refer to RUS TE&CM 810, Item 5.5.2.)
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:
 
 5.4 Review ac power feed arrangement within the IGZ for acceptable receptacle type and confirm that all green wires are properly connected. (Refer to RUS TE&CM 810, Item 5.5.4.)
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:
 
 5.5 All ironwork, metallic conduit, and other equipment associated with the switch are to be properly insulated at the IGZ boundary as stipulated by the supplier. (Refer to RUS TE&CM 810, Item 6.2.)
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:
 
-5.6 With the GWB disconnected from the MGB, the resistance reading of \_\_\_ ohms between the GWB and the MGB indicates adequate isolation. (CAUTION: Test is to be conducted only with the approval and under the direction of the central office supplier.)
+5.6 With the GWB disconnected from the MGB, the resistance reading of \_\_\_\_\_\_ ohms between the GWB and the MGB indicates adequate isolation. (CAUTION: Test is to be conducted only with the approval and under the direction of the central office supplier.)
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments6. Entrance and Tip Cables
 
 6.1 When neither a cable vault nor a splicing trough exists, the outside plant cable should be brought into the central office and spliced to tip cables with a PVC outer jacket (ALVYNR) or equivalent as close as practical to the cable entrance. (Refer to RUS TE&CM 810, Item 7.3.4.)
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:
 
 6.2 All outside entrance cables and all tip cable shields are to be separated by at least a 3-inch (7.6 cm) gap between shield ends.
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:
 
 6.3 All entrance cable shields are to be bonded separately to #6 AWG or larger insulated wire or bonding ribbon and connected to the Cable Entrance Ground Bar (CEGB) by most direct route with minimum bends.
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:
 
 6.4 Outside plant cable shields are to be connected only to the CEGB, and the tip cable shields are to be connected only to the Main Distributing Frame Bar (MDFB).
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:7. Cable Entrance Ground Bar (CEGB)
 
 7.1 The CEGB is to be properly insulated from the mounting surface. (Refer to TE&CM 810, Item 4.2.1.)
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:
 
 7.2 The CEGB is to be located as close as possible to the physical ends of the entrance cable shields.
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:
 
 7.3 All connections are to use two-hole bolted down copper crimped or compression type terminal lugs. (NOTE: No solder connections are permitted.)
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:
 
 7.4 All connections are to be tight.
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:
 
 7.5 Bar is to be clearly stenciled or legibly labeled “CEGB.”
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:
 
 7.6 All ground leads are to be properly sized and labeled.
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:
 
 7.7 The CEGB is to have an anticorrosion coating of the type which enhances conductivity.
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:
 
 7.8 The CEGB is to be connected to the MGB by a properly sized conductor and by the most direct route. (Refer to RUS TE&CM 810, section 8.1.)
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:8. Main Distributing Frame (MDF)
 
 8.1 RUS strongly recommends that MDF protectors be furnished without heat coils. (Refer to RUS TE&CM 810, section 7.6.)
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:
 
 8.2 Incoming cable pairs terminated on MDF protector assemblies should be protected with protector modules. These modules should contain white coded carbon blocks or orange coded gas tube arrestors that are included in the RUS List of Materials. (Refer to RUS TE&CM 810, Item 7.4)
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments:7
 
 8.3 All incoming subscriber cable pairs are to be properly terminated at either a protector equipped terminal or connected to ground.
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments
 
 8.4 MDF protector assemblies may be mounted directly on the vertical frame ironwork. Protector assemblies on each vertical are interconnected with each other and the Main Distributing Frame Bar (MDFB) with a #6 copper grounding conductor. Alternative means of connecting to the MDFB are also acceptable which do not rely on the frame ironwork for conducting surge currents to ground. (Refer to RUS TE&CM 810, section 7.)
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments
 
 8.5 Protective “ground connections” should be provided between the MDFB and the frame ironwork for personnel protection regardless of the type of protector assembly used. Protective ground leads should be 14-gauge, less than 12 inches (30.5 cm) in length with paint thoroughly removed at point of connection to the ironwork. (Refer to RUS TE&CM 810, Item 7.1.3.)
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments
 
 8.6 The MDFB should be insulated from the frame ironwork in all cases where it is used as a Master Ground Bar (MGB). (Refer to RUS TE&CM 810, Item 7.1.2.)
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments
 
 8.7 Where the MDFB is used as the MGB in very small offices the protective “ground connections” should be connected on the N section of the bar. The MDF line protector assembly grounds should be connected to the P section of the bar. (Refer to RUS TE&CM 810, Item 7.1.4.)
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments
 
 8.8 The MDFB is to be connected to the MGB by the most direct path with minimum bends and proper conductor size. (Refer to RUS TE&CM 810, Item 8.1.4.)
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments
 
 8.9 The MDFB should be free of all other ground leads when not used as an MGB.
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments
 
 8.10 Alternative arrangements which insulate the line protector assemblies and MDFB from the frame ironwork may require a direct ground connection of the frame ironwork to the MGB for personnel protection. Conductor is properly sized and tightened with paint removal on main frame ironwork at point of connection.
 
-Acceptable: \_\_ Yes \_\_ No
+Acceptable: \_\_\_\_ Yes \_\_\_\_ No
 
 Comments9. Power Service Protection and Grounding
 
 9.1 The ground conductor between the ac power system multigrounded neutral (MGN) at the main ac disconnect panel and the master ground bar (MGB) is to be properly sized and connected. (Refer to RUS TE&CM 810, Items 2.19, 4.3.1 and 8.1.3.)
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 9.2 If there is a non-MGN ac power system, there is to be a properly sized and connected insulated conductor bond between the power service ground electrode and the MGB. (Refer to RUS TE&CM 810, Item 4.3.1.1.)
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 9.3 AC conductors including ground conductors serving 120-volt ac electric convenience receptacles and all direct wire peripheral equipment, located in the IGZ, should be sized in accordance with normal “green wire” criteria. (Refer to RUS TE&CM 810, Items 5.5.4, 5.5.5, and 5.5.6.)
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 9.4 Minimum protection for ac power serving the central office buildings should consist of an RUS accepted secondary arrestor at the service entrance. (Refer to RUS TE&CM 810, section 9.)
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 9.5 A properly sized conductor for ground bonding between the standby power plant framework (not separately derived) and the MGB is to be provided to equalize framework voltages for personnel safety reasons. (Refer to RUS TE&CM 810, Item 4.2.4.)
 
-Acceptable: \_\_ Yes \_\_ NoComments:10. Miscellaneous
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:10. Miscellaneous
 
 10.1 All non-IGZ equipment frames, relay racks, cable racks and other ironwork are to be properly connected to the MGB. (Refer to TE&CM 810, Item 4.4.)
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 10.2 Shields on high frequency intra-office cables are to be properly isolated and connected only to an isolation ground bar in the relay rack. All shielded cables entering the IGZ should only be referenced at the IGZ termination point as given by the manufacturer. (Refer to RUS TE&CM 810, Item 7.2.1.2.)
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 10.3 Isolation ground bars in the relay racks are to be properly connected to the MGB with appropriate sized conductor with no sharp bends.
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 10.4 All radio equipment cabinet(s) are to be at least 10 feet (305 cm) from the IGZ.
 
-Acceptable: \_\_ Yes \_\_ NoComments:
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:
 
 10.5 The metal spare parts cabinet is to be grounded with a #6 AWG or larger insulated wire to non-IGZ cable rack, etc. or directly to the MGB.
 
-Acceptable: \_\_ Yes \_\_ NoComments:[58 FR 30938, May 28, 1993; 58 FR 36252, July 6, 1993, as amended at 60 FR 1711, Jan. 5, 1995, 60 FR 64312, 64314, Dec. 15, 1995; 69 FR 18803, Apr. 9, 2004]
+Acceptable: \_\_\_\_ Yes \_\_\_\_ NoComments:[58 FR 30938, May 28, 1993; 58 FR 36252, July 6, 1993, as amended at 60 FR 1711, Jan. 5, 1995, 60 FR 64312, 64314, Dec. 15, 1995; 69 FR 18803, Apr. 9, 2004]

@@ -1,0 +1,3 @@
+##### § 18.46 Changes to Importer Security Filing information. #####
+
+For merchandise transported in bond, which at the time of transmission of the Importer Security Filing as required by § 149.2 of this chapter is intended to be entered as an immediate exportation (IE) or transportation and exportation (T&E) shipment, permission from the port director of the origination port is needed to change the in-bond entry into a consumption entry. Such permission will only be granted upon receipt by CBP of a complete Importer Security Filing as required by part 149 of this chapter.

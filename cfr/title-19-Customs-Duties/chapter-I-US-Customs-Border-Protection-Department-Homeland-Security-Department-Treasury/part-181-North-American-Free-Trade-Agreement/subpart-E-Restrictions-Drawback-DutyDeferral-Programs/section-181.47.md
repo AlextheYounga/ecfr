@@ -1,7 +1,5 @@
 ##### § 181.47 Completion of claim for drawback. #####
 
-Link to an amendment published at 82 FR 45407, Sept. 28, 2017.
-
 (a) *General.* A claim for drawback will be granted, upon the submission of appropriate documentation to substantiate compliance with the drawback laws and regulations of the United States, evidence of exportation to Canada or Mexico, and satisfactory evidence of the payment of duties to Canada or Mexico. Unless otherwise provided in this subpart, the documentation, filing procedures, time and place requirements and other applicable procedures required to determine whether a good qualifies for drawback must be in accordance with the provisions of part 191 of this chapter; however, a drawback claim subject to the provisions of this subpart must be filed separately from any part 191 drawback claim (that is, a claim that involves goods exported to countries other than Canada or Mexico). Claims inappropriately filed or otherwise not completed within the 3-year period specified in § 181.46 of this part will be considered abandoned.
 
 (b) *Complete drawback claim* - (1) *General.* A complete drawback claim under this subpart must consist of the filing of the appropriate completed drawback entry form, evidence of exportation (a copy of the Canadian or Mexican customs entry showing the amount of duty paid to Canada or Mexico) and its supporting documents, certificate(s) of delivery, when necessary, or certificate(s) of manufacture and delivery, and a certification from the Canadian or Mexican importer as to the amount of duties paid. Each drawback entry form filed under this subpart must be conspicuously marked at the top with the word “NAFTA”.
@@ -32,7 +30,7 @@ Link to an amendment published at 82 FR 45407, Sept. 28, 2017.
 
 (D) A certificate of delivery on CBP Form 7552, or its electronic equivalent, if applicable, for purposes of tracing the transfer of ownership of the imported goods from the importer to the claimant. This is required if the drawback claimant is not the original importer of the merchandise which is the subject of a same condition claim;
 
-(E) CBP Form 7512, if applicable. This is required for merchandise which is examined at one port but exported through border points outside of that port. Such goods must travel in bond from the location where they were examined to the point of the border crossing (exportation). If examination is waived, in-bond transportation is not required;
+(E) In-bond application submitted pursuant to part 18 of this chapter, if applicable. This is required for merchandise which is examined at one port but exported through border points outside of that port. Such goods must travel in bond from the location where they were examined to the point of the border crossing (exportation). If examination is waived, in-bond transportation is not required;
 
 (F) Notification of intent to export or waiver of prior notice;
 
@@ -68,4 +66,4 @@ Link to an amendment published at 82 FR 45407, Sept. 28, 2017.
 
 (4) An affidavit, from the person claiming drawback, which is based on information received from the importer of the good in Canada or Mexico.
 
-[T.D. 95-68, 60 FR 46364, Sept. 6, 1995, as amended by T.D. 98-16, 63 FR 11005, Mar. 5, 1998; CBP Dec. 15-11, 80 FR 47407, Aug. 7, 2015; CBP Dec. 15-14, 80 FR 61292, Oct. 13, 2015]
+[T.D. 95-68, 60 FR 46364, Sept. 6, 1995, as amended by T.D. 98-16, 63 FR 11005, Mar. 5, 1998; CBP Dec. 15-11, 80 FR 47407, Aug. 7, 2015; CBP Dec. 15-14, 80 FR 61292, Oct. 13, 2015; CBP Dec. 17-13, 82 FR 45407, Sept. 28, 2017]

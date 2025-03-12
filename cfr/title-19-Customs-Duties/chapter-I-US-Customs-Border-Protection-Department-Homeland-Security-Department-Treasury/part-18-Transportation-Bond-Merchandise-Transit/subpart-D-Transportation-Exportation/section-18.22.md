@@ -1,0 +1,5 @@
+##### § 18.22 Procedure at port of exportation. #####
+
+(a) *Transfer of bonded merchandise to another conveyance.* If in-bond merchandise must be transferred to another conveyance at the port of exportation, the procedure will be as prescribed in §§ 18.3 and 18.4(c).
+
+(b) *Transfer of baggage by express shipment.* An express consignment carrier that is bonded as a common carrier and is responsible under its bond for delivery to the CBP officer in charge of the exporting conveyance of articles shown to be baggage in the in-bond record may transfer the baggage by express shipment without a permit from the port director and without the use of a transfer ticket or other CBP formality from its terminal to the exporting conveyance for lading under CBP supervision. The in-bond record must be updated to reflect the name of the owner of the baggage or article and the name of the conveyance transporting the owner of the baggage. See § 18.1.
