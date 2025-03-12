@@ -1,5 +1,7 @@
 ##### § 712.36 Medical assessment process. #####
 
+Link to an amendment published at 83 FR 18208, Apr. 26, 2018.
+
 (a) The Designated Physician, under the supervision of the SOMD, is responsible for the medical assessment of HRP candidates and HRP-certified individuals. In carrying out this responsibility, the Designated Physician or the SOMD must integrate the medical evaluations, psychological evaluations, psychiatric evaluations, and any other relevant information to determine an individual's overall medical qualification for assigned duties.
 
 (b) Employers must provide a job task analysis for those individuals involved in HRP duties to both the Designated Physician and the Designated Psychologist before each medical assessment and psychological evaluation. HRP medical assessments and psychological evaluations may not be performed if a job task analysis has not been provided.

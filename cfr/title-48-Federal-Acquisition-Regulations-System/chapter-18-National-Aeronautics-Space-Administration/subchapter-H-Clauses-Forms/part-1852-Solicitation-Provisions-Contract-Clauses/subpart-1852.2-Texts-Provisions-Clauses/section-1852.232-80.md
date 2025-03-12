@@ -1,35 +1,55 @@
 ##### 1852.232-80 Submission of vouchers for payment. #####
 
-Link to an amendment published at 83 FR 13115, Mar. 27, 2018.
-
 As prescribed in 1832.908-70, insert the following clause:
 
-Submission of Vouchers for Payment (SEP 2016)
+Submission of Vouchers/Invoices for Payment (APR 2018)
 
 (a) The designated payment office is the NASA Shared Services Center (NSSC) located at FMD Accounts Payable, Bldg. 1111, Jerry Hlass Road, Stennis Space Center, MS 39529.
 
-(b) Except for classified vouchers, the Contractor shall submit all vouchers electronically using the steps described at NSSC's Vendor Payment information Web site at: *https://www.nssc.nasa.gov/vendorpayment.* Please contact the NSSC Customer Contact Center at 1-877-NSSC123 (1-877-677-2123) with any additional questions or comments.
+(b) Except for classified vouchers, the Contractor shall submit all vouchers and invoices using the steps described at NSSC's Vendor Payment information Web site at: *https://www.nssc.nasa.gov/vendorpayment.* Please contact the NSSC Customer Contact Center at 1-877-NSSC123 (1-877-677-2123) with any additional questions or comments.
 
-(c) *Payment requests.* (1) The payment periods designated in the payment clause(s) contained in this contract will begin on the date a proper request for payment is received by the NSSC payment office specified in paragraphs (a) and (b) of this section. Vouchers shall be prepared in accordance with the guidance provided by the NSSC at the following Web site: *https://answers.nssc.nasa.gov/app/answers/detail/a\_id/6643.*
+(c) *Payment requests.*
 
-(2) Vouchers shall include the items delineated in FAR 32.905(b) supported by relevant back-up documentation. Back-up documentation shall include at a minimum, the following information:
+(1) The payment periods are stipulated in the payment clause(s) contained in this contract.
 
-(i) Breakdown of billed labor costs and associated contractor generated supporting documentation for billed direct labor costs to include rates used and number of hours incurred.
+(2) Vouchers submitted under cost type contracts and invoices submitted under fixed-price contracts shall include the items delineated in FAR 32.905(b) supported by relevant back-up documentation. Back-up documentation shall include at a minimum, the following information:
 
-(ii) Breakdown of billed other direct costs (ODCs) and associated contractor generated supporting documentation for billed ODCs.
+(i) *Vouchers.*
 
-(iii) Indirect rate(s) used to calculate the amount of billed indirect expenses.
+(A) Breakdown of billed labor costs and associated contractor generated supporting documentation for billed direct labor costs to include rates used and number of hours incurred.
 
-(d) *Non-electronic payment.* The Contractor may submit a voucher using other than the steps described at NSSC's Vendor Payment information through any of the means described at *https://www.nssc.nasa.gov/vendorpayment,* if any of the following conditions are met:
+(B) Breakdown of billed other direct costs (ODCs) and associated contractor generated supporting documentation for billed ODCs.
 
-(1) The Contracting Officer administering the contract for payment has determined, in writing, that electronic submission would be unduly burdensome to the Contractor. In such cases, the Contractor shall include a copy of the Contracting Officer's determination with each request for payment when the Government-wide commercial purchase card is used as the method of payment.
+(C) Indirect rate(s) used to calculate the amount of billed indirect expenses.
 
-(2) The contract includes provision allowing the contractor to submit vouchers using other than the steps prescribed at NSSC's Vendor Payment information Web site. In such instances, the Contractor agrees to submit non-electronic payment requests using the method or methods specified in Section G of the contract.
+(D) Progress reports, as required.
 
-(e) *Improper vouchers.* The NSSC Payment Office will notify the contractor of any apparent error, defect, or impropriety in a voucher within seven calendar days of receipt by the NSSC Payment Office. Inquiries regarding requests for payment should be directed to the NSSC as specified in paragraph (b) of this section.
+(ii) *Invoices.*
+
+(A) Description of goods and services delivered as part of the contract's terms and conditions, including the dates of delivery/performance.
+
+(B) Progress reports, as required.
+
+(C) Date goods and services were performed.
+
+(iii) *Fee vouchers.*
+
+(A) Listing of all provisionally-billed fee by period or date earned since contract award.
+
+(B) A reconciliation of all billed and earned fee.
+
+(C) A clear explanation of the fee calculations.
+
+(d) *Non-electronic payment requests.* The Contractor may submit a non-electronic voucher/invoice using the steps for non-electronic payment requests described at *https://www.nssc.nasa.gov/vendorpayment,* when any of the following conditions are met:
+
+(1) The Contracting Officer administering the contract for payment has determined, in writing, that electronic submission would be unduly burdensome to the Contractor.
+
+(2) The contract includes provisions allowing the contractor to submit vouchers or invoices using the steps for non-electronic payment. In such instances the Contractor agrees to submit non-electronic payment requests using the method or methods specified in Section G of the contract.
+
+(e) Improper vouchers/invoices. The NSSC Payment Office will notify the contractor of any apparent error, defect, or impropriety in a voucher/invoice within seven calendar days of receipt by the NSSC Payment Office. Inquiries regarding requests for payment should be directed to the NSSC as specified in paragraph (b) of this section.
 
 (f) *Other payment clauses.* In addition to the requirements of this clause, the Contractor shall meet the requirements of the appropriate payment clauses in this contract when submitting payment requests.
 
 (g) In the event that amounts are withheld from payment in accordance with provisions of this contract, a separate payment request for the amount withheld will be required before payment for that amount may be made.
 
-(End of clause)[81 FR 63145, Sept. 14, 2016]
+(End of clause)[81 FR 63145, Sept. 14, 2016, as amended at 83 FR 13115, Mar. 27, 2018]

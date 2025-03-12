@@ -28,4 +28,4 @@
 
 (e) *Supplementary information.* In addition to the information required in paragraphs (b) and (c) of this section, the Claims Administrator may request such additional supporting documentation as required to ascertain the allowable covered costs sustained by a sponsor.
 
-Effective Date Note:At 71 FR 46325, Aug. 11, 2006, § 950.23 was revised, effective Sept. 11, 2006. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+Effective Date Note:At 71 FR 46325, Aug. 11, 2006, § 950.23 was revised. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

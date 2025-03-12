@@ -1,0 +1,59 @@
+##### 252.226-7001 Utilization of Indian organizations, Indian-owned economic enterprises, and native Hawaiian small business concerns. #####
+
+As prescribed in 226.104, use the following clause:
+
+Utilization of Indian Organizations, Indian-Owned Economic Enterprises, and Native Hawaiian Small Business Concerns (SEP 2004)
+
+(a) *Definitions.* As used in this clause -
+
+*Indian* means -
+
+(1) Any person who is a member of any Indian tribe, band, group, pueblo, or community that is recognized by the Federal Government as eligible for services from the Bureau of Indian Affairs (BIA) in accordance with 25 U.S.C. 1452(c); and
+
+(2) Any “Native” as defined in the Alaska Native Claims Settlement Act (43 U.S.C. 1601 *et seq.*).
+
+*Indian organization* means the governing body of any Indian tribe or entity established or recognized by the governing body of an Indian tribe for the purposes of 25 U.S.C. chapter 17.
+
+*Indian-owned economic enterprise* means any Indian-owned (as determined by the Secretary of the Interior) commercial, industrial, or business activity established or organized for the purpose of profit, provided that Indian ownership constitutes not less than 51 percent of the enterprise.
+
+*Indian tribe* means any Indian tribe, band, group, pueblo, or community, including native villages and native groups (including corporations organized by Kenai, Juneau, Sitka, and Kodiak) as defined in the Alaska Native Claims Settlement Act, that is recognized by the Federal Government as eligible for services from BIA in accordance with 25 U.S.C. 1452(c).
+
+*Interested party* means a contractor or an actual or prospective offeror whose direct economic interest would be affected by the award of a subcontract or by the failure to award a subcontract.
+
+*Native Hawaiian small business concern* means an entity that is -
+
+(1) A small business concern as defined in section 3 of the Small Business Act (15 U.S.C. 632) and relevant implementing regulations; and
+
+(2) Owned and controlled by a Native Hawaiian as defined in 25 U.S.C. 4221(9).
+
+(b) The Contractor shall use its best efforts to give Indian organizations, Indian-owned economic enterprises, and Native Hawaiian small business concerns the maximum practicable opportunity to participate in the subcontracts it awards, to the fullest extent consistent with efficient performance of the contract.
+
+(c) The Contracting Officer and the Contractor, acting in good faith, may rely on the representation of an Indian organization, Indian-owned economic enterprise, or Native Hawaiian small business concern as to its eligibility, unless an interested party challenges its status or the Contracting Officer has independent reason to question that status.
+
+(d) In the event of a challenge to the representation of a subcontractor, the Contracting Officer will refer the matter to -
+
+(1) For matters relating to Indian organizations or Indian-owned economic enterprises: U.S. Department of the Interior, Bureau of Indian Affairs, Attn: Chief, Division of Contracting and Grants Administration, 1849 C Street NW, MS-2626-MIB, Washington, DC 20240-4000. The BIA will determine the eligibility and will notify the Contracting Officer.
+
+(2) For matters relating to Native Hawaiian small business concerns: Department of Hawaiian Home Lands, PO Box 1879, Honolulu, HI 96805. The Department of Hawaiian Home Lands will determine the eligibility and will notify the Contracting Officer.
+
+(e) No incentive payment will be made -
+
+(1) While a challenge is pending; or
+
+(2) If a subcontractor is determined to be an ineligible participant.
+
+(f)(1) The Contractor, on its own behalf or on behalf of a subcontractor at any tier, may request an incentive payment in accordance with this clause.
+
+(2) The incentive amount that may be requested is 5 percent of the estimated cost, target cost, or fixed price included in the subcontract at the time of award to the Indian organization, Indian-owned economic enterprise, or Native Hawaiian small business concern.
+
+(3) In the case of a subcontract for commercial items, the Contractor may receive an incentive payment only if the subcontracted items are produced or manufactured in whole or in part by an Indian organization, Indian-owned economic enterprise, or Native Hawaiian small business concern.
+
+(4) The Contractor has the burden of proving the amount claimed and shall assert its request for an incentive payment prior to completion of contract performance.
+
+(5) The Contracting Officer, subject to the terms and conditions of the contract and the availability of funds, will authorize an incentive payment of 5 percent of the estimated cost, target cost, or fixed price included in the subcontract awarded to the Indian organization, Indian-owned economic enterprise, or Native Hawaiian small business concern.
+
+(6) If the Contractor requests and receives an incentive payment on behalf of a subcontractor, the Contractor is obligated to pay the subcontractor the incentive amount.
+
+(g) The Contractor shall insert the substance of this clause, including this paragraph (g), in all subcontracts exceeding $500,000.
+
+[68 FR 56562, Oct. 1, 2003, as amended at 69 FR 55991, Sept. 17, 2004]

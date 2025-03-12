@@ -1,5 +1,7 @@
 ##### § 712.35 Director, Office of Health and Safety. #####
 
+Link to an amendment published at 83 FR 18208, Apr. 26, 2018.
+
 The Director, Office of Health and Safety or his or her designee must:
 
 (a) Develop policies, standards, and guidance for the medical aspects of the HRP, including the psychological testing inventory to be used;

@@ -1,7 +1,5 @@
 ##### 1852.216-80 Task ordering procedure. #####
 
-Link to an amendment published at 83 FR 13115, Mar. 27, 2018.
-
 As prescribed in 1816.506-70, insert the following clause:
 
 Task Ordering Procedures (OCT 1996)
@@ -44,22 +42,40 @@ Task Ordering Procedures (OCT 1996)
 
 (h) In the event of a conflict between the requirements of the task order and the Contractor's approved task plan, the task order shall prevail.
 
-(End of clause)
+(End of clause)Alternate I (APR 2018)
 
-*Alternate I* (OCT 1996). As prescribed in 1816.506-70, insert the following paragraph (i) if the contract does not include 533M reporting:
+As prescribed in 1816.506-70(a), insert the following paragraph (i):
 
-(i) Contractor shall submit monthly task order progress reports. As a minimum, the reports shall contain the following information:
+(i) Contractor shall submit progress reports, as required. When required, the reports shall contain, at a minimum, the following information:
 
 (1) Contract number, task order number, and date of the order.
 
-(2) Task ceiling price.
+(2) Total estimated dollar amount of task order(s).
 
-(3) Cost and hours incurred to date for each issued task.
+(3) Cost and hours incurred to date for each issued task order.
 
-(4) Costs and hours estimated to complete each issued task.
+(4) Costs and hours estimated to complete each issued task order.
 
-(5) Significant issues/problems associated with a task.
+(5) Significant issues/problems associated with a task order.
 
-(6) Cost summary of the status of all tasks issued under the contract.
+(6) Cost summary of the status of all task orders issued under the contract.
 
-[62 FR 3485, Jan. 23, 1997]
+(7) Invoice number.
+
+Alternate II (APR 2018)
+
+As prescribed in 1816.506-70(b), insert the following paragraph (i):
+
+(i) Contractor shall submit progress reports, as required. When required, the reports shall contain, at a minimum, the following information:
+
+(1) Contract number, task order number, and date of the order.
+
+(2) Price and billed amounts to date for each task order.
+
+(3) Significant issues/problems associated with the task order.
+
+(4) Status of all task orders issued under the contract.
+
+(5) Invoice number.
+
+[62 FR 3485, Jan. 23, 1997, as amended at 83 FR 13115, Mar. 27, 2018]

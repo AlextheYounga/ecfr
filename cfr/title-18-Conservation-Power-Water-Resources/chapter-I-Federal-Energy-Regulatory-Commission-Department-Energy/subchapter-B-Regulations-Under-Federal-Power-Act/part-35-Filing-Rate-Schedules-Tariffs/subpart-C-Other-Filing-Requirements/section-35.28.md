@@ -1,6 +1,6 @@
 ##### § 35.28 Non-discriminatory open access transmission tariff. #####
 
-Link to an amendment published at 83 FR 9631, Mar. 6, 2018.
+Link to an amendment published at 83 FR 9631, Mar. 6, 2018.Link to an amendment published at 83 FR 18156, Apr. 25, 2018.
 
 (a) *Applicability.* This section applies to any public utility that owns, controls or operates facilities used for the transmission of electric energy in interstate commerce and to any non-public utility that seeks voluntary compliance with jurisdictional transmission tariff reciprocity conditions.
 

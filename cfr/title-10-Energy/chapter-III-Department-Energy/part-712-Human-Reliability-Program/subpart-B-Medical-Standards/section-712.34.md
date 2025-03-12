@@ -1,5 +1,7 @@
 ##### § 712.34 Site Occupational Medical Director. #####
 
+Link to an amendment published at 83 FR 18208, Apr. 26, 2018.
+
 (a) The SOMD must nominate a physician to serve as the Designated Physician and a clinical psychologist to serve as the Designated Psychologist. The nominations must be sent through the Manager to the Director, Office of Health and Safety or his or her designee. Each nomination must describe the nominee's relevant training, experience, and licensure, and include a curriculum vitae and a copy of the nominee's current state or district license.
 
 (b) The SOMD must submit a renomination report biennially through the Manager to the Director, Office of Health and Safety or his or her designee. This report must be submitted at least 60 days before the second anniversary of the initial designation or of the last redesignation, whichever applies. The report must include:
