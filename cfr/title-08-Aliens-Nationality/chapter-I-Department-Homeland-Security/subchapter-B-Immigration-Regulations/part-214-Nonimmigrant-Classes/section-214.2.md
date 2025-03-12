@@ -1894,35 +1894,7 @@ Table 3 to Paragraph (h)—Paragraph Contents
 
 (ii) Authorization to initiate employment changes pursuant to this paragraph (h)(22) begins at 12 a.m. on December 18, 2020, and ends at the end of June 16, 2021.
 
-(23) *Change of employers and extensions beyond 3 years during COVID-19 National Emergency for H-2B aliens essential to the U.S. food supply chain.* (i) This paragraph (h)(23) relates to certain H-2B workers providing temporary nonagricultural services or labor essential to the U.S. food supply chain.
-
-(ii) A prospective new H-2B employer or U.S. agent who is seeking to employ an H-2B alien to provide temporary nonagricultural services or labor essential to the U.S. food supply chain under this paragraph (h)(23) may file an H-2B petition on Form I-129, accompanied by an approved temporary labor certification and attestation described in paragraph (h)(23)(v)(A) of this section, requesting an extension of the alien's stay in the United States. If the new petition is approved, the extension of stay may be granted for the validity of the approved petition for a period not to exceed the validity period of the temporary labor certification. Notwithstanding paragraph (h)(2)(i)(D) of this section, an alien in valid H-2B nonimmigrant status on or after March 1, 2020:
-
-(A) Whose new petitioner files an H-2B petition on or after May 14, 2020, is authorized to begin employment with the new petitioner to perform work that is essential to the U.S. food supply chain after the petition described in this paragraph (h)(23), including the attestation described in paragraph (h)(23)(v)(A) of this section, is received by USCIS and before the H-2B petition is approved, but no earlier than the start date of employment indicated in the H-2B petition; or
-
-(B) Whose new petitioner filed an H-2B petition on or after March 1, 2020 and the petition was pending on or after May 14, 2020, is authorized to begin employment with the new petitioner to perform work that is essential to the U.S. food supply chain after the attestation described in paragraph (h)(23)(v)(A) is received by USCIS and before the H-2B petition is approved.
-
-(iii)(A) With respect to a petition described in paragraph (h)(23)(ii)(A) of this section, and subject to the requirements of 8 CFR 274a.12(b)(27), the new period of employment described in paragraph (h)(23)(ii) may last for up to 60 days beginning on the Received Date on Form I-797 (Notice of Action) or, if the start date of employment occurs after the I-797 Received Date, for a period of up to 60 days beginning on the start date of employment indicated in the H-2B petition. Employment is not authorized under this paragraph (h)(23) if USCIS does not receive the attestation described in paragraph (h)(23)(v)(A) of this section.
-
-(B) With respect to a petition described in paragraph (h)(23)(ii)(B) of this section, the new period of employment described in paragraph (h)(23)(ii) may last for up to 60 days beginning on the date that USCIS acknowledges in writing the receipt of a properly filed attestation described paragraph (h)(23)(v). Employment under this paragraph (h)(23) is not authorized if USCIS does not receive the attestation described in paragraph (h)(23)(v)(A) of this section.
-
-(C) With respect to either type of petition, if USCIS adjudicates the petition prior to the expiration of this 60-day period and denies the petition for extension of stay, or if the petition is withdrawn by the petitioner before the expiration of the 60-day period, the employment authorization associated with the filing of that petition under 8 CFR 274a.12(b)(27) will automatically terminate 15 days after the date of the denial decision or 15 days after the date on which the petition is withdrawn. Nothing in this paragraph (h)(23) is intended to alter the availability of employment authorization related to professional H-2B athletes who are traded between organizations pursuant to paragraph (h)(6)(vii) of this section and 8 CFR 274a.12(b)(9).
-
-(iv) Notwithstanding paragraphs (h)(13)(i)(B), (h)(13)(iv) and (v), and (h)(15)(ii)(C) of this section, an H-2B petition seeking an extension of stay for H-2B aliens who are essential to the U.S. food supply chain to work, and submitted with an approved temporary labor certification, may be approved on the basis of this paragraph (h)(23), even if any of the aliens requested in the H-2B petition have otherwise exhausted the applicable 3-year maximum period of stay in the United States and have not thereafter been absent from the United States for an uninterrupted period of 3 months, or if any such aliens would exceed the 3-year limit as a consequence of the approval of the extension.
-
-(v) In addition to meeting all other requirements for the H-2B classification, to commence employment and be approved under this paragraph (h)(23):
-
-(A) The H-2B petitioner must submit an attestation indicating that the H-2B alien will be performing work that is essential to the U.S. food supply chain;
-
-(B) The alien must have been in valid H-2B nonimmigrant status on or after March 1, 2020; and
-
-(C) The H-2B petition must have been—
-
-(*1*) Received on or after March 1, 2020, and pending as of May 14, 2020, so long as the H-2B worker did not begin work with the new employer before May 14, 2020, or
-
-(*2*) Received on or after May 14, 2020, but no later than September 11, 2020.
-
-(vi) Authorization to initiate employment changes pursuant to paragraphs (h)(23)(ii) and (iii) of this section, or be approved for employment exceeding 3 years in duration pursuant to paragraph (h)(23)(iv) of this section, begins on May 14, 2020, and ends at the end of September 11, 2020.
+(23) [Reserved]
 
 (24) *Severability.* (i)-(ii) [Reserved]
 
@@ -4027,16 +3999,14 @@ Table 5 to Paragraph (w)—Paragraph Contents
 
 (29) *Notice to DOL.* USCIS will provide notice to DOL of CW-1 petition revocations.
 
-(Title VI of the Health Professions Educational Assistance Act of 1976 (Pub. L. 94-484; 90 Stat. 2303); secs. 103 and 214, Immigration and Nationality Act (8 U.S.C. 1103 and 1184))[38 FR 35425, Dec. 28, 1973]Editorial Note:For Federal Register citations affecting § 214.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Editorial Note:At 87 FR 75902, Dec. 12, 2022, § 214.2 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.Effective Date Notes:1. At 85 FR 28850, May 14, 2020, § 214.2 was amended by adding paragraph (h)(23), effective May 14, 2020, through May 15, 2023.
+(Title VI of the Health Professions Educational Assistance Act of 1976 (Pub. L. 94-484; 90 Stat. 2303); secs. 103 and 214, Immigration and Nationality Act (8 U.S.C. 1103 and 1184))[38 FR 35425, Dec. 28, 1973]Editorial Note:For Federal Register citations affecting § 214.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Editorial Note:At 87 FR 75902, Dec. 12, 2022, § 214.2 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.Effective Date Notes:1. At 85 FR 51311, Aug. 20, 2020, § 214.2 was amended by adding paragraph (h)(21), effective Aug. 19, 2020, through Aug. 19, 2023.
 
-2. At 85 FR 51311, Aug. 20, 2020, § 214.2 was amended by adding paragraph (h)(21), effective Aug. 19, 2020, through Aug. 19, 2023.
+2. At 85 FR 82298, Dec. 18, 2020, § 214.2 was amended by adding paragraph (h)(22), effective Dec. 18, 2020, through Dec. 18, 2023.
 
-3. At 85 FR 82298, Dec. 18, 2020, § 214.2 was amended by adding paragraph (h)(22), effective Dec. 18, 2020, through Dec. 18, 2023.
+3. At 86 FR 28230, May 25, 2021, § 214.2 was amended by adding paragraph (h)(6)(x), reserved paragraph (h)(25), and paragraph (h)(26), effective May 25, 2021, through May 28, 2024.
 
-4. At 86 FR 28230, May 25, 2021, § 214.2 was amended by adding paragraph (h)(6)(x), reserved paragraph (h)(25), and paragraph (h)(26), effective May 25, 2021, through May 28, 2024.
+4. At 87 FR 4758, Jan. 28, 2022, § 214.2 was amended by adding paragraphs (h)(6)(xi) and (h)(27), effective Jan. 28, 2022, through Jan. 28, 2025.
 
-5. At 87 FR 4758, Jan. 28, 2022, § 214.2 was amended by adding paragraphs (h)(6)(xi) and (h)(27), effective Jan. 28, 2022, through Jan. 28, 2025.
+5. At 87 FR 30375, May 18, 2022, § 214.2 was amended by adding paragraphs (h)(6)(xii) and (h)(28), effective May 18, 2022, through May 18, 2025.
 
-6. At 87 FR 30375, May 18, 2022, § 214.2 was amended by adding paragraphs (h)(6)(xii) and (h)(28), effective May 18, 2022, through May 18, 2025.
-
-7. At 87 FR 76874, Dec. 15, 2022, § 214.2 was amended by adding row (29) to table 3 to paragraph (h), and by adding paragraphs (h)(6)(xiii) and (h)(29), effective Dec. 15, 2022, through Dec. 15, 2025. At 87 FR 77979, Dec. 21, 2022, paragraph (h)(6)(xiii) was corrected, effective Dec. 21, 2022, through Dec. 15, 2025.
+6. At 87 FR 76874, Dec. 15, 2022, § 214.2 was amended by adding row (29) to table 3 to paragraph (h), and by adding paragraphs (h)(6)(xiii) and (h)(29), effective Dec. 15, 2022, through Dec. 15, 2025. At 87 FR 77979, Dec. 21, 2022, paragraph (h)(6)(xiii) was corrected, effective Dec. 21, 2022, through Dec. 15, 2025.

@@ -1,7 +1,5 @@
 ##### § 1026.2 Definitions and rules of construction. #####
 
-Link to an amendment published at 88 FR 30622, May 11, 2023.
-
 (a) *Definitions.* For purposes of this part, the following definitions apply:
 
 (1) *Act* means the Truth in Lending Act (15 U.S.C. 1601 *et seq.*).
@@ -104,6 +102,8 @@ Link to an amendment published at 88 FR 30622, May 11, 2023.
 
 (ii) *Confirmed successor in interest* means a successor in interest once a servicer has confirmed the successor in interest's identity and ownership interest in the dwelling.
 
+(28) *The Board-selected benchmark replacement for consumer loans* means the SOFR-based index selected by the Board of Governors of the Federal Reserve System to replace, as applicable, the 1-month, 3-month, 6-month, or 12-month tenor of U.S. Dollar LIBOR, as set forth in the Board of Governors of the Federal Reserve System's regulation at 12 CFR part 253, which implements the Adjustable Interest Rate (LIBOR) Act, Public Law 117-103, division U.
+
 (b) *Rules of construction.* For purposes of this part, the following rules of construction apply:
 
 (1) Where appropriate, the singular form of a word includes the plural form and plural includes singular.
@@ -114,4 +114,4 @@ Link to an amendment published at 88 FR 30622, May 11, 2023.
 
 (4) Where the word *amount* is used in this part to describe disclosure requirements, it refers to a numerical amount.
 
-[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 80106, Dec. 31, 2013; 81 FR 72388, Oct. 19, 2016; 81 FR 84369, Nov. 22, 2016]
+[76 FR 79772, Dec. 22, 2011, as amended at 78 FR 80106, Dec. 31, 2013; 81 FR 72388, Oct. 19, 2016; 81 FR 84369, Nov. 22, 2016; 88 FR 30622, May 11, 2023]

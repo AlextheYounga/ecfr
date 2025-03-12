@@ -106,9 +106,7 @@
 
 (ii) Authorization to initiate employment changes pursuant to 8 CFR 214.2(h)(21) and paragraph (b)(26)(i) of this section begins at 12 a.m. on August 19, 2020, and ends at the end of December 17, 2020.
 
-(27)(i) Pursuant to 8 CFR 214.2(h)(23) and notwithstanding 8 CFR 214.2(h)(2)(i)(D) and the second sentence of 8 CFR 274a.12(b)(9), an alien is authorized to be employed, beginning no earlier than the start date of employment indicated in the H-2B petition and no earlier than May 14, 2020, by a new employer that has filed an H-2B petition, which includes the attestation described in 8 CFR 214.2(h)(23)(v)(A) naming the alien as a beneficiary and requesting an extension of stay for the alien. The authorization is for a period not to exceed 60 days beginning on the later of the following three dates: The “Received Date” on Form I-797 (Notice of Action) acknowledging receipt of the petition requesting the extension of stay, which includes the attestation described in 8 CFR 214.2(h)(23)(v)(A); the date on which USCIS acknowledges in writing the receipt of the properly filed attestation described in 8 CFR 214.2(h)(23)(v)(A) submitted while the H-2B petition is pending; or the start date of employment if the start date of employment indicated in the H-2B petition occurs after the filing. However, if USCIS adjudicates the petition prior to the expiration of this 60-day period and denies the petition for extension of stay, or if the petitioner withdraws the petition before the expiration of the 60-day period, the employment authorization under this paragraph (b)(27) will automatically terminate 15 days after the date of the denial decision or 15 days after the date on which the petition is withdrawn. Nothing in this section is intended to alter the availability of employment authorization related to professional H-2B athletes who are traded between organizations pursuant to paragraph (b)(9) of this section and 8 CFR 214.2(h)(6)(vii).
-
-(ii) Authorization to initiate employment changes pursuant to 8 CFR 214.2(h)(23)(ii) and (iii) and this paragraph (b)(27) begins at 12 a.m. on May 14, 2020, and ends at the end of September 11, 2020.
+(27) [Reserved]
 
 (28)(i) Pursuant to 8 CFR 214.2(h)(22) and notwithstanding 8 CFR 214.2(h)(2)(i)(D) and paragraph (b)(21) of this section, an alien is authorized to be employed, but no earlier than the start date of employment indicated in the H-2A petition, by a new employer that has filed an H-2A petition naming the alien as a beneficiary and requesting an extension of stay for the alien, for a period not to exceed 45 days beginning from the “Received Date” on Form I-797 (Notice of Action) acknowledging receipt of the petition requesting an extension of stay, or 45 days beginning on the start date of employment if the start date of employment indicated in the H-2A petition occurs after the filing. The length of the period (up to 45 days) is to be determined by USCIS in its discretion. However, if USCIS adjudicates the petition prior to the expiration of this 45-day period and denies the petition for extension of stay, or if the petitioner withdraws the petition before the expiration of the 45-day period, the employment authorization under this paragraph (b)(28) will automatically terminate upon 15 days after the date of the denial decision or the date on which the petition is withdrawn.
 
@@ -254,16 +252,14 @@
 
 (e) *Basic criteria to establish economic necessity.* Title 45—Public Welfare, Poverty Guidelines, 45 CFR 1060.2 should be used as the basic criteria to establish eligibility for employment authorization when the alien's economic necessity is identified as a factor. The alien shall submit an application for employment authorization listing his or her assets, income, and expenses as evidence of his or her economic need to work. Permission to work granted on the basis of the alien's application for employment authorization may be revoked under § 274a.14 of this chapter upon a showing that the information contained in the statement was not true and correct.
 
-[52 FR 16221, May 1, 1987]Editorial Note:For Federal Register citations affecting § 274a.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Notes:1. At 85 FR 28851, May 14, 2020, § 274a.12 was amended by adding paragraph (b)(27), effective May 14, 2020, through May 15, 2023.
+[52 FR 16221, May 1, 1987]Editorial Note:For Federal Register citations affecting § 274a.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Notes:1. At 85 FR 51312, Aug. 20, 2020, § 274a.12 was amended by adding paragraph (b)(26), effective Aug. 19, 2020, through Aug. 19, 2023.
 
-2. At 85 FR 51312, Aug. 20, 2020, § 274a.12 was amended by adding paragraph (b)(26), effective Aug. 19, 2020, through Aug. 19, 2023.
+2. At 85 FR 82298, Dec. 18, 2020, § 274a.12 was amended by adding paragraph (b)(28), effective Dec. 18, 2020, through Dec. 18, 2023.
 
-3. At 85 FR 82298, Dec. 18, 2020, § 274a.12 was amended by adding paragraph (b)(28), effective Dec. 18, 2020, through Dec. 18, 2023.
+3. At 86 FR 28232, May 25, 2021, § 274a.12 was amended by adding paragraph (b)(30), effective May 25, 2021, through May 28, 2024.
 
-4. At 86 FR 28232, May 25, 2021, § 274a.12 was amended by adding paragraph (b)(30), effective May 25, 2021, through May 28, 2024.
+4. At 87 FR 4760, Jan. 28, 2022, § 274a.12 was amended by adding paragraph (b)(31), effective Jan. 28, 2022, through Jan. 28, 2025.
 
-5. At 87 FR 4760, Jan. 28, 2022, § 274a.12 was amended by adding paragraph (b)(31), effective Jan. 28, 2022, through Jan. 28, 2025.
+5. At 87 FR 30377, May 18, 2022, § 274a.12 was amended by adding paragraph (b)(32), effective May 18, 2022, through May 18, 2025.
 
-6. At 87 FR 30377, May 18, 2022, § 274a.12 was amended by adding paragraph (b)(32), effective May 18, 2022, through May 18, 2025.
-
-7. At 87 FR 76876, Dec. 15, 2022, § 274a.12 was amended by adding paragraph (b)(33), effective Dec. 15, 2022, through Dec. 15, 2025.
+6. At 87 FR 76876, Dec. 15, 2022, § 274a.12 was amended by adding paragraph (b)(33), effective Dec. 15, 2022, through Dec. 15, 2025.

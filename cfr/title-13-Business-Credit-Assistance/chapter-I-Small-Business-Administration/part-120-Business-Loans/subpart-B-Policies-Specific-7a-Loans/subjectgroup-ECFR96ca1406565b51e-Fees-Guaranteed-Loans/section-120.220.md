@@ -1,6 +1,6 @@
 ##### § 120.220 Fees that Lender pays SBA. #####
 
-A Lender must pay a guaranty fee to SBA for each loan it makes. Acceptance of the guaranty fee by SBA does not waive any right of SBA arising from a Lender's negligence, misconduct or violation of any provision of these regulations or the guaranty agreement or other loan documents.
+A Lender must pay a guaranty fee to SBA for each loan it makes. If the guarantee fee is not paid, SBA may terminate the guarantee. Acceptance of the guaranty fee by SBA does not waive any right of SBA arising from a Lender's negligence, misconduct or violation of any provision of these regulations or the guaranty agreement or other loan documents.
 
 (a) *Amount of guaranty fee*—(1) *In general.* Except to the extent paragraph (a)(2) of this section applies, for a loan with a maturity of twelve (12) months or less, the guarantee fee which the Lender must pay to SBA is one-quarter (1/4) of one percent of the guaranteed portion of the loan. For a loan with a maturity of more than twelve (12) months, the guarantee fee is payable as follows:
 

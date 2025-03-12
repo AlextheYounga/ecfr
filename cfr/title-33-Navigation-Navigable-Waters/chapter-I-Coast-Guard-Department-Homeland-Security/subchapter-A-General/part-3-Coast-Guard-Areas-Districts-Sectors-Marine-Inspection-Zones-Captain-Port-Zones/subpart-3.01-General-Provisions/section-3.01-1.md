@@ -12,7 +12,7 @@
 
 (2) In some Sectors, a Marine Safety Unit (MSU) retains OCMI and COTP authority over a designated portion of the Sector's area of responsibility. In such cases, OCMI and COTP authority is exercised by the MSU Commander, not the Sector Commander. The appeal of a COTP order or OCMI matter is routed from the MSU Commander through the Sector Commander and then to the District Commander.
 
-(3) Some specified sectors exercise Search and Rescue Mission Coordinator (SMC) authority over a designated portion of an encompassing sector's area of responsibility. In such cases, SMC authority is exercised by the encompassed sector, not the encompassing sector. The encompassing sector retains all other authorities (as listed in 33 CFR 3.01-1(d)(1)) over the designated area.
+(3) A specified sector exercises Search and Rescue Mission Coordinator (SMC) authority over a designated portion of an encompassing sector's area of responsibility. In such cases, SMC authority is exercised by the encompassed sector, not the encompassing sector. The encompassing sector retains all other authorities (as listed in 33 CFR 3.01-1(d)(1)) over the designated area.
 
 (e) An OCMI is in command of a Marine Inspection Zone and his or her office may be referred to as a Coast Guard Marine Inspection Office. The OCMI's duties are described in § 1.01-20 of this subchapter.
 
@@ -22,4 +22,4 @@
 
 (h) Geographic descriptions used in this part are based upon boundaries and points located using the WGS 1984 world grid system. When referenced, the outermost extent of the U.S. EEZ is the line of demarcation produced by the National Oceanic and Atmospheric Administration (NOAA) using the NAD 1983 coordinate system and projected to the WGS 1984 grid system. Both coordinate systems are geocentric and similar such that they are Global Positioning System (GPS) compatible throughout the area of concern. Resolution is based upon ddmmss readings to tenths of a second. This corresponds to a positional precision of about ±2 meters. Decimal degrees to 5 decimal places correspond to a positional precision of about ±1 meter. State boundaries used to determine points for descriptions of jurisdictional limits were based upon the National Transportation Atlas Database 2003 produced by the Bureau of Transportation Statistics. This data set was produced at a scale of 1:100,000 and theoretically results in a nationwide locational accuracy of about ±50 meters of true position.
 
-[USCG-2006-25556, 72 FR 36318, July 2, 2007, as amended by USCG-2010-0351, 75 FR 36277, June 25, 2010; USCG-2013-0397, 78 FR 39170, July 1, 2013]
+[USCG-2006-25556, 72 FR 36318, July 2, 2007, as amended by USCG-2010-0351, 75 FR 36277, June 25, 2010; USCG-2013-0397, 78 FR 39170, July 1, 2013; USCG-2023-0223, 88 FR 30899, May 15, 2023]
