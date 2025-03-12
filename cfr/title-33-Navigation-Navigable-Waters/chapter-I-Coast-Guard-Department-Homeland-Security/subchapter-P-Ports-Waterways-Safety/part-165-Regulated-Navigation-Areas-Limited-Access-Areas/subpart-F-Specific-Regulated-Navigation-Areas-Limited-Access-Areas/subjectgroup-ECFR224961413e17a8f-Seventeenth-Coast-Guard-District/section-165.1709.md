@@ -1,5 +1,7 @@
 ##### § 165.1709 Security Zones: Liquefied Natural Gas Tanker Transits and Operations at Phillips Petroleum LNG Pier, Cook Inlet, AK. #####
 
+Link to an amendment published at 85 FR 47030, Aug. 4, 2020.
+
 (a) *Location.* The following areas are established as security zones during the specified conditions:
 
 (1) All navigable waters within a 1000-yard radius of the Liquefied Natural Gas (LNG) tankers during their inbound and outbound transits through Cook Inlet, Alaska between the Phillips Petroleum LNG Pier, 60°40′43″ N and 151°24′10″ W, and the Homer Pilot Station at 59°34′86″ N and 151°25′74″ W. On the inbound transit, this security zone remains in effect until the tanker is alongside the Phillips Petroleum LNG Pier, 60°40′43″ N and 151°24′10″ W.

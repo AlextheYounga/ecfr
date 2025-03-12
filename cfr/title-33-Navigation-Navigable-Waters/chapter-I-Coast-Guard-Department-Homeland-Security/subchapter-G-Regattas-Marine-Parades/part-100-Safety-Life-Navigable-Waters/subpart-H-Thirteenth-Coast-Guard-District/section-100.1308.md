@@ -1,5 +1,7 @@
 ##### § 100.1308 Special Local Regulation; Hydroplane Races within the Captain of the Port Puget Sound Area of Responsibility. #####
 
+Link to an amendment published at 85 FR 47030, Aug. 4, 2020.
+
 (a) *Location.* The following areas are designated race areas for the purpose of reoccurring hydroplane races:
 
 (1) *Dyes Inlet.* West of Port Orchard, WA to include all waters north to land from a line connecting the following points 47°37.36′ N, 122°42.29′ W and 47°37.74′ N, 122°40.64′ W (NAD 1983).

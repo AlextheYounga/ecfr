@@ -278,7 +278,7 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (iv) *System verification.* Based on the data reconciled and incorporated, the technology must be able to create a file formatted according to the standard specified in § 170.205(a)(4) using the Continuity of Care Document template and the standard specified in § 170.205(a)(5) on and after May 2, 2022.
 
-(3) *Electronic prescribing.* (i) For technology certified prior to May 2, 2022, subject to the real world testing provisions at § 170.405(b)(5),
+(3) *Electronic prescribing.* (i) For technology certified prior to June 30, 2020, subject to the real world testing provisions at § 170.405(b)(5),
 
 (A) Enable a user to perform the following prescription-related electronic transactions in accordance with, at a minimum, the version of the standard specified in § 170.207(d)(3) as follows:
 
@@ -902,4 +902,4 @@ The Secretary adopts the following certification criteria for health IT. Health 
 
 (ii) *Delivery Notification in Direct.* Able to send and receive health information in accordance with the standard specified in § 170.202(e)(1).
 
-[80 FR 62747, Oct. 16, 2015, as amended at 80 FR 76871, Dec. 11, 2015; 85 FR 25941, May 1, 2020]
+[80 FR 62747, Oct. 16, 2015, as amended at 80 FR 76871, Dec. 11, 2015; 85 FR 25941, May 1, 2020; 85 FR 47099, Aug. 4, 2020]

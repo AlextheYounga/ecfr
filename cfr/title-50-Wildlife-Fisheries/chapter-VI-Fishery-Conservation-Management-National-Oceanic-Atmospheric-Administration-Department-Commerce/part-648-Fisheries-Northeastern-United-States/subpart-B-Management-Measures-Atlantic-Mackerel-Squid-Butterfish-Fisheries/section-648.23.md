@@ -1,5 +1,7 @@
 ##### § 648.23 Mackerel, squid, and butterfish gear restrictions. #####
 
+Link to an amendment published at 85 FR 47115, Aug. 4, 2020.
+
 (a) *Mesh restrictions and exemptions.* Vessels subject to the mesh restrictions in this paragraph (a) must render any net, or any piece of net, with a mesh size smaller than that specified in paragraphs (a)(1), (2), and (3) of this section not available for immediate use as defined in § 648.2.
 
 (1) *Butterfish fishery.* Owners or operators of otter trawl vessels possessing more than 5,000 lb (2.27 mt) of butterfish harvested in or from the EEZ may only fish with nets having a minimum codend mesh of 3 inches (7.62 cm) diamond or square mesh, as measured by methods specified in § 648.80(f), applied throughout the codend for at least 100 continuous meshes forward of the terminus of the net, or for codends with less than 100 meshes, the minimum mesh size codend shall be a minimum of one-third of the net, measured from the terminus of the codend to the headrope.

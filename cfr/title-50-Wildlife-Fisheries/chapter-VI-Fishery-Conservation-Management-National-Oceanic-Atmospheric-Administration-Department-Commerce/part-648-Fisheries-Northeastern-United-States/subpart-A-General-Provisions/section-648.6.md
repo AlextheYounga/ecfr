@@ -1,5 +1,7 @@
 ##### § 648.6 Dealer/processor permits. #####
 
+Link to an amendment published at 85 FR 47111, Aug. 4, 2020.
+
 (a) *General.* (1) All dealers of NE multispecies, monkfish, skates, Atlantic herring, Atlantic sea scallop, Atlantic deep-sea red crab, spiny dogfish, summer flounder, Atlantic surfclam, ocean quahog, Atlantic mackerel, squid, butterfish, scup, bluefish, golden tilefish, blueline tilefish, and black sea bass; Atlantic surfclam and ocean quahog processors; Atlantic hagfish dealers and/or processors, and Atlantic herring processors or dealers, as described in § 648.2; must have been issued under this section, and have in their possession, a valid permit or permits for these species.
 
 (2) *At-sea processors* - (i) *At-sea mackerel processors.* Notwithstanding the provisions of § 648.4(a)(5), any vessel of the United States must have been issued and carry on board a valid at-sea processor permit issued under this section to receive over the side, possess, and process Atlantic mackerel harvested in or from the EEZ by a lawfully permitted vessel of the United States.

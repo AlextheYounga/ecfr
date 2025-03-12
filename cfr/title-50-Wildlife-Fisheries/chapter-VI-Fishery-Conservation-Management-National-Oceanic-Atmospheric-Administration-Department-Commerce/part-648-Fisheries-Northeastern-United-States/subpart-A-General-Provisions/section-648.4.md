@@ -1,6 +1,6 @@
 ##### § 648.4 Vessel permits. #####
 
-Link to an amendment published at 85 FR 43151, July 16, 2020.
+Link to an amendment published at 85 FR 43151, July 16, 2020.Link to an amendment published at 85 FR 47110, Aug. 4, 2020.
 
 (a) *Fishery specific permit information* - (1) *NE multispecies vessels.* Except for vessels that have been issued a valid High Seas Fishing Compliance permit, have declared their intent to fish, and fish exclusively in the NAFO Regulatory Area as provided in § 648.17, any vessel of the United States, including a charter or party boat, must have been issued and have on board a valid multispecies permit to fish for, possess, or land multispecies finfish in or from the EEZ. Multispecies frames used as, or to be used as, bait on a vessel fishing exclusively with pot gear are deemed not to be multispecies finfish for purposes of this part provided that there is a receipt for the purchase of those frames on board the vessel.
 

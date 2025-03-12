@@ -26,6 +26,8 @@ This section sets forth the terms and conditions for when the fees for processin
 
 (5) *Small airport or other facility.* A *small airport or other facility* is any airport or other facility which has been designated as a user fee facility under 19 U.S.C. 58b and at which more than 25,000 informal entries were processed during the preceding fiscal year.
 
+(6) *Inbound Express Mail service* or *Inbound EMS. Inbound Express Mail service* or *Inbound EMS* means the service described in the mail classification schedule referred to in section 3631 of title 39, United States Code and 39 CFR 3040.104.
+
 (b) *Fees* - (1) *Formal entry or release* - (i) *Ad valorem fee* - (A) *General.* Except as provided in paragraph (c) of this section, merchandise that is formally entered or released is subject to the payment to CBP of an *ad valorem* fee of 0.3464 percent. The 0.3464 *ad valorem* fee is due and payable to CBP by the importer of record of the merchandise at the time of presentation of the entry summary and is based on the value of the merchandise as determined under 19 U.S.C. 1401a. In the case of an express consignment carrier facility or centralized hub facility, each shipment covered by an individual air waybill or bill of lading that is formally entered and valued at $2,500 or less is subject to a $1.00 per individual air waybill or bill of lading fee, as adjusted in accordance with the terms of § 24.22(k) of this part, and, if applicable, to the 0.3464 percent *ad valorem* fee in accordance with paragraph (b)(4) of this section.
 
 (B) *Maximum and minimum fees.* Subject to the provisions of paragraphs (b)(1)(ii) and (d) of this section relating to the surcharge and to aggregation of the ad valorem fee respectively, the ad valorem fee charged under paragraph (b)(1)(i)(A) of this section must not exceed $485, as adjusted in accordance with the terms of § 24.22(k) of this part, and must not be less than $25, as adjusted in accordance with the terms of § 24.22(k) of this part.
@@ -76,7 +78,7 @@ This section sets forth the terms and conditions for when the fees for processin
 
 (iv) Products of least-developed beneficiary developing countries (General Note 4(b)(i), HTSUS); and
 
-(v) Merchandise described in General Note 19, HTSUS, merchandise released under 19 U.S.C. 1321, and merchandise imported by mail.
+(v) Merchandise described in General Note 19, HTSUS, merchandise released under 19 U.S.C. 1321, and merchandise imported by mail, other than Inbound EMS items that are formally entered on or after September 3, 2020
 
 (2) In the case of any article provided for in subheading 9802.00.60 or 9802.00.80, HTSUS:
 

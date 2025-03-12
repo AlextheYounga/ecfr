@@ -1,5 +1,7 @@
 ##### § 648.25 Atlantic Mackerel, squid, and butterfish framework adjustments to management measures. #####
 
+Link to an amendment published at 85 FR 47116, Aug. 4, 2020.
+
 (a) *Within season management action.* The MAFMC may, at any time, initiate action to add or adjust management measures within the Atlantic Mackerel, Squid, and Butterfish FMP if it finds that action is necessary to meet or be consistent with the goals and objectives of the FMP.
 
 (1) *Adjustment process.* The MAFMC shall develop and analyze appropriate management actions over the span of at least two MAFMC meetings. The MAFMC must provide the public with advance notice of the availability of the recommendation(s), appropriate justification(s) and economic and biological analyses, and the opportunity to comment on the proposed adjustment(s) at the first meeting and prior to and at the second MAFMC meeting. The MAFMC's recommendations on adjustments or additions to management measures must come from one or more of the following categories:

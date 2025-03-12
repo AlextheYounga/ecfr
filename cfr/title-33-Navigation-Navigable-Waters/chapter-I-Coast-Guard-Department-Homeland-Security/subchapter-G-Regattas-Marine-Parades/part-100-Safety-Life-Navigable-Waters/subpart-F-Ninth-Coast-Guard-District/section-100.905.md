@@ -1,5 +1,7 @@
 ##### § 100.905 Door County Triathlon; Door County, WI. #####
 
+Link to an amendment published at 85 FR 47030, Aug. 4, 2020.
+
 (a) *Regulated Area.* A regulated area is established to include all waters of Horseshoe Bay within a 1000-yard radius from a position at 45°00′52.6″ N, 087°20′6.7″ W (NAD 83).
 
 (b) *Special Local Regulations.* The regulations of § 100.901 apply. No vessel may enter, transit through, or anchor within the regulated area without the permission of the Coast Guard Patrol Commander.
