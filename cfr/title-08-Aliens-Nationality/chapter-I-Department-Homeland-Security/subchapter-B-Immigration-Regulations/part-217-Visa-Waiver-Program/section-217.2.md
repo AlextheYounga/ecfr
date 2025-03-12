@@ -1,12 +1,10 @@
 ##### § 217.2 Eligibility. #####
 
-Link to an amendment published at 84 FR 60318, Nov. 8, 2019.
-
 (a) *Definitions.* As used in this part, the term:
 
 *Carrier* refers to the owner, charterer, lessee, or authorized agent of any commercial vessel or commercial aircraft engaged in transporting passengers to the United States from a foreign place.
 
-*Designated country* refers to Andorra, Australia, Austria, Belgium, Brunei, Chile, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, the Netherlands, New Zealand, Norway, Portugal, Republic of Korea, San Marino, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, and the United Kingdom. The United Kingdom refers only to British citizens who have the unrestricted right of permanent abode in the United Kingdom (England, Scotland, Wales, Northern Ireland, the Channel Islands and the Isle of Man); it does not refer to British overseas citizens, British dependent territories' citizens, or citizens of British Commonwealth countries. Taiwan refers only to individuals who have unrestricted right of permanent abode on Taiwan and are in possession of an electronic passport bearing a personal identification (household registration) number.
+*Designated country* refers to Andorra, Australia, Austria, Belgium, Brunei, Chile, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Italy, Japan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Monaco, the Netherlands, New Zealand, Norway, Poland, Portugal, Republic of Korea, San Marino, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, and the United Kingdom. The United Kingdom refers only to British citizens who have the unrestricted right of permanent abode in the United Kingdom (England, Scotland, Wales, Northern Ireland, the Channel Islands, and the Isle of Man); it does not refer to British overseas citizens, British dependent territories' citizens, or citizens of British Commonwealth countries. Taiwan refers only to individuals who have unrestricted right of permanent abode on Taiwan and are in possession of an electronic passport bearing a personal identification (household registration) number.
 
 *Round trip ticket* means any return trip transportation ticket in the name of an arriving Visa Waiver Pilot Program applicant on a participating carrier valid for at least 1 year, electronic ticket record, airline employee passes indicating return passage, individual vouchers for return passage, group vouchers for return passage for charter flights, and military travel orders which include military dependents for return to duty stations outside the United States on U.S. military flights. A period of validity of 1 year need not be reflected on the ticket itself, provided that the carrier agrees that it will honor the return portion of the ticket at any time, as provided in Form I-775, Visa Waiver Pilot Program Agreement.
 
@@ -20,4 +18,4 @@ Link to an amendment published at 84 FR 60318, Nov. 8, 2019.
 
 (d) *Aliens in transit.* An alien who is in transit through the United States is eligible to apply for admission under the Visa Waiver Pilot Program, provided the applicant meets all other program requirements.
 
-[62 FR 10351, Mar. 6, 1997, as amended at 62 FR 50999, Sept. 30, 1997; 64 FR 42007, Aug. 3, 1999; 67 FR 7945, Feb. 21, 2002; 68 FR 10957, Mar. 7, 2003; 73 FR 67712, Nov. 17, 2008; 73 FR 79597, Dec. 30, 2008; 75 FR 15992, Mar. 31, 2010; 77 FR 64411, Oct. 22, 2012; 79 FR 17854, Mar. 31, 2014]
+[62 FR 10351, Mar. 6, 1997, as amended at 62 FR 50999, Sept. 30, 1997; 64 FR 42007, Aug. 3, 1999; 67 FR 7945, Feb. 21, 2002; 68 FR 10957, Mar. 7, 2003; 73 FR 67712, Nov. 17, 2008; 73 FR 79597, Dec. 30, 2008; 75 FR 15992, Mar. 31, 2010; 77 FR 64411, Oct. 22, 2012; 79 FR 17854, Mar. 31, 2014; 84 FR 60318, Nov. 8, 2019]
