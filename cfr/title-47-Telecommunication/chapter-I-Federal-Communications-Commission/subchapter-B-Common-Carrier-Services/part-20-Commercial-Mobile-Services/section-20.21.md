@@ -1,8 +1,6 @@
 ##### § 20.21 Signal boosters. #####
 
-Link to an amendment published at 83 FR 17090, Apr. 18, 2018.
-
-(a) *Operation of Consumer Signal Boosters.* A subscriber in good standing of a commercial mobile radio service system may operate a Consumer Signal Booster for personal use under the authorization held by the licensee providing service to the subscriber provided that the subscriber complies with paragraphs (a)(1) through (6). Failure to comply with all applicable rules in this section and all applicable technical rules for the frequency band(s) of operation voids the authority to operate the Consumer Signal Booster.
+(a) *Operation of Consumer Signal Boosters.* A subscriber in good standing of a commercial mobile radio service system may operate a Consumer Signal Booster under the authorization held by the licensee providing service to the subscriber provided that the subscriber complies with paragraphs (a)(1) through (7) of this section. Failure to comply with all applicable rules in this section and all applicable technical rules for the frequency band(s) of operation voids the authority to operate the Consumer Signal Booster.
 
 (1) Prior to operation, the subscriber obtains the consent of the licensee providing service to the subscriber;
 
@@ -12,9 +10,11 @@ Link to an amendment published at 83 FR 17090, Apr. 18, 2018.
 
 (4) The subscriber operates the Consumer Signal Booster on frequencies used for the provision of subscriber-based services under parts 22 (Cellular), 24 (Broadband PCS), 27 (AWS-1, 700 MHz Lower A-E Blocks, and 700 MHz Upper C Block), and 90 (Specialized Mobile Radio) of this chapter. Operation on part 90 (Specialized Mobile Radio) frequencies is permitted upon the Commission's release of a public notice announcing the date Consumer Signal Boosters may be used in the band;
 
-(5) The Consumer Signal Booster complies with paragraphs (e), (f), (g), and (h) of this section and § 2.907 of this chapter; and
+(5) The Consumer Signal Booster complies with paragraphs (e), (f), (g), and (h) of this section and § 2.907 of this chapter;
 
-(6) The subscriber may not deactivate any features of the Consumer Signal Booster which are designed to prevent harmful interference to wireless networks. These features must be enabled and operating at all times the signal booster is in use.
+(6) The subscriber may not deactivate any features of the Consumer Signal Booster which are designed to prevent harmful interference to wireless networks. These features must be enabled and operating at all times the signal booster is in use; and
+
+(7) If operating a Wideband Consumer Signal Booster, the subscriber operates it only for personal use.
 
 (b) *De minimis operation of Consumer Signal Boosters.* A third party's incidental use of a subscriber's Consumer Signal Booster operated under this paragraph is *de minimis* and shall be authorized under the authorization held by the licensee providing service to the third party.
 
@@ -54,7 +54,7 @@ Link to an amendment published at 83 FR 17090, Apr. 18, 2018.
 
 (8) *Wideband Consumer Signal Boosters.* A Wideband Consumer Signal Booster will meet the Consumer Signal Booster Network Protection Standard if it complies with paragraphs (e)(1) through (e)(7) of this section and the following:
 
-(i) *Technical Requirements* - (A) *Noise Limits.* (*1*) The transmitted noise power in dBm/MHz of consumer boosters at their uplink port shall not exceed −103 dBm/MHz - RSSI. RSSI (received signal strength indication expressed in negative dB units relative to 1 mW) is the downlink composite received signal power in dBm at the booster donor port for all base stations in the band of operation.
+(i) *Technical Requirements*—(A) *Noise Limits.* (*1*) The transmitted noise power in dBm/MHz of consumer boosters at their uplink port shall not exceed −103 dBm/MHz—RSSI. RSSI (received signal strength indication expressed in negative dB units relative to 1 mW) is the downlink composite received signal power in dBm at the booster donor port for all base stations in the band of operation.
 
 (*2*) The transmitted maximum noise power in dBm/MHz of consumer boosters at their uplink and downlink ports shall not exceed the following limits:
 
@@ -66,7 +66,7 @@ Link to an amendment published at 83 FR 17090, Apr. 18, 2018.
 
 (B) *Bidirectional Capability.* Consumer Boosters must be able to provide equivalent uplink and downlink gain and conducted uplink power output that is at least 0.05 watts. One-way consumer boosters (*i.e.,* uplink only, downlink only, uplink impaired, downlink impaired) are prohibited. Spectrum block filtering may be used provided the uplink filter attenuation is not less than the downlink filter attenuation, and where RSSI is measured after spectrum block filtering is applied referenced to the booster's input port for each band of operation.
 
-(C) *Booster Gain Limits.* (*1*) The uplink gain in dB of a consumer booster referenced to its input and output ports shall not exceed −34 dB - RSSI + MSCL.
+(C) *Booster Gain Limits.* (*1*) The uplink gain in dB of a consumer booster referenced to its input and output ports shall not exceed −34 dB—RSSI + MSCL.
 
 (*i*) Where RSSI is the downlink composite received signal power in dBm at the booster donor port for all base stations in the band of operation. RSSI is expressed in negative dB units relative to 1 mW.
 
@@ -102,7 +102,7 @@ Link to an amendment published at 83 FR 17090, Apr. 18, 2018.
 
 (9) *Provider-Specific Consumer Signal Boosters.* A Provider-Specific Consumer Signal Booster will meet the Consumer Signal Booster Network Protection Standard if it complies with paragraphs (e)(1) through (e)(7) of this section and the following:
 
-(i) *Technical Requirements* - (A) *Noise Limits.* The transmitted noise power in dBm/MHz of frequency selective consumer boosters outside the licensee's spectrum blocks at their uplink and downlink ports shall not exceed the following limits:
+(i) *Technical Requirements*—(A) *Noise Limits.* The transmitted noise power in dBm/MHz of frequency selective consumer boosters outside the licensee's spectrum blocks at their uplink and downlink ports shall not exceed the following limits:
 
 (*1*) −103 dBm/MHz−RSSI
 
@@ -198,7 +198,7 @@ WARNING. This is NOT a CONSUMER device. It is designed for installation by FCC L
 
 (2) A Consumer Signal Booster label may contain an acknowledgement that particular provider(s) have given their consent for all consumers to use the device. Such an acknowledgement would be inserted prior to, “Some wireless providers may not consent to the use of this device on their network. If you are unsure, contact your provider.” The remaining language of the advisory shall remain the same.
 
-(g) *Marketing and sale of signal boosters.* Except as provided in § 2.803 of this chapter, no person, manufacturer, distributor, or retailer may market, distribute or offer for sale or lease any Consumer Signal Booster that does not comply with the requirements of this section to any person in the United States or to any person intending to operate the Consumer Signal Booster within the United States at any time on or after March 1, 2014. Consumer Signal Boosters may only be sold to members of the general public for their personal use.
+(g) *Marketing and sale of signal boosters.* Except as provided in § 2.803 of this chapter, no person, manufacturer, distributor, or retailer may market (as defined in § 2.803 of this chapter) any Consumer Signal Booster that does not comply with the requirements of this section to any person in the United States or to any person intending to operate the Consumer Signal Booster within the United States. Wideband Consumer Signal Boosters may only be sold to members of the general public for their personal use.
 
 (h) *Registration.* Each licensee consenting to the operation of a Consumer Signal Booster must establish a free registration mechanism for subscribers and register all Consumer Signal Boosters to which it consents. A licensee must establish a registration mechanism by the later of March 1, 2014 or within 90 days of consenting to the operation of a Consumer Signal Booster. At a minimum, a licensee must collect:
 
@@ -210,4 +210,4 @@ WARNING. This is NOT a CONSUMER device. It is designed for installation by FCC L
 
 (4) The date of initial operation. Licensee consent is voluntary and may be withdrawn at the licensee's discretion.
 
-[78 FR 21559, Apr. 11, 2013, as amended at 79 FR 70795, Nov. 28, 2014]
+[78 FR 21559, Apr. 11, 2013, as amended at 79 FR 70795, Nov. 28, 2014; 83 FR 17090, Apr. 18, 2018]

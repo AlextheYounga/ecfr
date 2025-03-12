@@ -18,11 +18,9 @@
 
 (5) Submit an EQIP plan of operations or plan developed for the purposes of acquiring an air or water quality permit, provided these plans contain elements equivalent to those elements required by an EQIP plan of operations and are acceptable to NRCS as being consistent with the purposes of the program;
 
-(6) Supply information, as required by NRCS, to determine eligibility for the program, including but not limited to, information to verify the applicant's status as a limited resource, beginning farmer or rancher, and payment eligibility as established by 7 CFR part 1400;
+(6) Supply information, as required by NRCS, to determine eligibility for the program, including but not limited to, information to verify the applicant's status as a limited resource, beginning farmer or rancher, and payment eligibility as established by 7 CFR part 1400; and
 
-(7) Comply with applicable registration and reporting requirements of the Federal Funding Accountability and Transparency Act of 2006 (Pub. L. 109-282, as amended), and 2 CFR parts 25 and 170; and
-
-(8) Provide a list of all members of the legal entity and embedded entities along with members' tax identification numbers and percentage interest in the entity.
+(7) Provide a list of all members of the legal entity and embedded entities along with members' tax identification numbers and percentage interest in the entity.
 
 (c) Eligible land includes cropland, grassland, rangeland, pasture, NIPF, and other land on which agricultural products, livestock, or forest-related products are produced and resource concerns may be addressed. Other agricultural lands include cropped woodland, marshes, incidental areas included in the agricultural operation, and other types of agricultural land used for production of livestock. However, land may be considered for enrollment in EQIP only if NRCS determines that the land is:
 
@@ -37,3 +35,5 @@
 (iii) The conservation practices to be implemented on the public land are necessary and will contribute to an improvement in the identified resource concern; or
 
 (3) Indian land.
+
+[79 FR 73966, Dec. 12, 2014, as amended at 83 FR 23209, May 18, 2018]

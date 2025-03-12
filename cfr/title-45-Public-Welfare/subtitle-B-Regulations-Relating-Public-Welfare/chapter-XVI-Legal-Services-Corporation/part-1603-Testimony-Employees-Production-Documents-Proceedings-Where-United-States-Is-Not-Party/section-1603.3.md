@@ -1,0 +1,3 @@
+##### § 1603.3 What is LSC's policy on presentation of testimony and production of documents? #####
+
+In any proceedings to which this part applies, no employee may provide testimony or produce documents concerning information acquired in the course of performing official duties or because of the person's official relationship with LSC unless authorized by the General Counsel or the OIG Legal Counsel pursuant to this part based on his or her determination that compliance with the request would promote LSC's objectives.

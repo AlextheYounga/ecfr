@@ -1,6 +1,6 @@
 ##### § 20.3 Definitions. #####
 
-Link to an amendment published at 83 FR 17090, Apr. 18, 2018.This amendment was made effective June 11, 2018, at 83 FR 21927, May 11, 2018.
+ Amendments were made effective June 11, 2018, at 83 FR 21927, May 11, 2018.
 
 *Appropriate local emergency authority.* An emergency answering point that has not been officially designated as a Public Safety Answering Point (PSAP), but has the capability of receiving 911 calls and either dispatching emergency services personnel or, if necessary, relaying the call to another emergency service provider. An appropriate local emergency authority may include, but is not limited, to an existing local law enforcement authority, such as the police, county sheriff, local emergency medical services provider, or fire department.
 
@@ -30,7 +30,7 @@ Link to an amendment published at 83 FR 17090, Apr. 18, 2018.This amendment was 
 
 (d) Unlicensed radio frequency devices under part 15 of this chapter are excluded from this definition of Commercial mobile radio service.
 
-*Consumer Signal Booster:* A bi-directional signal booster that is marketed and sold to the general public for use without modification.
+*Consumer Signal Booster.* A bi-directional signal booster that is marketed and sold for use without modification.
 
 *Designated PSAP.* The Public Safety Answering Point (PSAP) designated by the local or state entity that has the authority and responsibility to designate the PSAP to receive wireless 911 calls.
 
@@ -96,5 +96,5 @@ Link to an amendment published at 83 FR 17090, Apr. 18, 2018.This amendment was 
 
 *Wideband Consumer Signal Boosters.* Wideband Consumer Signal Boosters may operate on the frequencies and in the market areas of multiple licensees.
 
-[59 FR 18495, Apr. 19, 1994, as amended at 61 FR 38402, July 24, 1996; 61 FR 40352, Aug. 2, 1996; 62 FR 18843, Apr. 17, 1997; 63 FR 2637, Jan. 16, 1998; 64 FR 60130, Nov. 4, 1999; 67 FR 1648, Jan. 14, 2002; 72 FR 50073, Aug. 30, 2007; 75 FR 22276, Apr. 28, 2010; 76 FR 26220, May 6, 2011; 78 FR 21559, Apr. 11, 2013; 80 FR 19850, Apr. 13, 2015; 83 FR 7401, Feb. 21, 2018; 83 FR 7922, Feb. 22, 2018]Effective Date Note:At 83 FR 7922, Feb. 22, 2018, § 20.3 was amended by: a. In the definition of “Commercial mobile radio service,” revising paragraph (b);
-b. In the definition of “Interconnected Service,” revising paragraph (a); and c. Revising the definition of “Public Switched Network.”. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[59 FR 18495, Apr. 19, 1994, as amended at 61 FR 38402, July 24, 1996; 61 FR 40352, Aug. 2, 1996; 62 FR 18843, Apr. 17, 1997; 63 FR 2637, Jan. 16, 1998; 64 FR 60130, Nov. 4, 1999; 67 FR 1648, Jan. 14, 2002; 72 FR 50073, Aug. 30, 2007; 75 FR 22276, Apr. 28, 2010; 76 FR 26220, May 6, 2011; 78 FR 21559, Apr. 11, 2013; 80 FR 19850, Apr. 13, 2015; 83 FR 7401, Feb. 21, 2018; 83 FR 7922, Feb. 22, 2018; 83 FR 17090, Apr. 18, 2018]Effective Date Note:At 83 FR 7922, Feb. 22, 2018, § 20.3 was amended by: a. In the definition of “Commercial mobile radio service,” revising paragraph (b);
+b. In the definition of “Interconnected Service,” revising paragraph (a); and c. Revising the definition of “Public Switched Network.”. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget. These amendments were made effective June 11, 2018, at 83 FR 21927, May 11, 2018.

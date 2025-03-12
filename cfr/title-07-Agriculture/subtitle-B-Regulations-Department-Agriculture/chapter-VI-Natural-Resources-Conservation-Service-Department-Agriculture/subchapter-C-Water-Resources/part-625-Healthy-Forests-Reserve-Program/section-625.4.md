@@ -8,11 +8,9 @@
 
 (b) *Landowner eligibility.* To be eligible to enroll an easement in the HFRP, an individual or entity must:
 
-(1) Be the landowner of eligible land for which enrollment is sought;
+(1) Be the landowner of eligible land for which enrollment is sought; and
 
-(2) Agree to provide such information to NRCS, as the agency deems necessary or desirable, to assist in its determination of eligibility for program benefits and for other program implementation purposes; and
-
-(3) Comply with applicable registration and reporting requirements of the Federal Funding Accountability and Transparency Act of 2006 (Pub. L. 109-282, as amended), and 2 CFR parts 25 and 170.
+(2) Agree to provide such information to NRCS, as the agency deems necessary or desirable, to assist in its determination of eligibility for program benefits and for other program implementation purposes.
 
 (c) *Eligible land.* (1) NRCS, in coordination with FWS or NMFS, will determine whether land is eligible for enrollment and whether once found eligible, the lands may be included in the program based on the likelihood of successful restoration, enhancement, and protection of forest ecosystem functions and values when considering the cost of acquiring the easement, 30-year contract, or 10-year cost share agreement, and the restoration, protection, enhancement, maintenance, and management costs.
 
@@ -36,4 +34,4 @@
 
 (3) Land that would not be eligible for HFRP under paragraphs (c)(1) through (c)(5).
 
-[75 FR 6546, Feb. 10, 2010, as amended at 76 FR 19684, Apr. 8, 2011]
+[75 FR 6546, Feb. 10, 2010, as amended at 76 FR 19684, Apr. 8, 2011; 83 FR 23208, May 18, 2018]

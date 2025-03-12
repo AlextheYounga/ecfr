@@ -201,7 +201,7 @@ You have a 100 percent share of a 20-acre pear orchard located in a state other 
 
 (7) $50,000 × 100 percent share = $50,000 indemnity payment.
 
-[END OF EXAMPLE]
+[End of Example]
 
 (c) The total production to count (in tons) from all insurable acreage on the unit will include:
 

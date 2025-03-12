@@ -22,9 +22,7 @@
 
 (2) Provide any documentation required by NRCS as necessary to determine eligibility;
 
-(3) Comply with applicable registration and reporting requirements of the Federal Funding Accountability and Transparency Act of 2006 (Pub. L. 109-282, as amended), and 2 CFR parts 25 and 170; and
-
-(4) For easement applications, have been the landowner of such land for the 24-month period prior to the time of application unless it is determined by NRCS that:
+(3) For easement applications, have been the landowner of such land for the 24-month period prior to the time of application unless it is determined by NRCS that:
 
 (i) The land was acquired by will or succession as a result of the death of the previous landowner or pursuant to the terms of an existing trust,
 
@@ -97,3 +95,5 @@
 (iii) Adjacent land uses, such as airports, that would either impede complete restoration or prevent wetland functions and values from being fully restored; or
 
 (7) Land which NRCS determines to have unacceptable exceptions to clear title or legal access that is encumbered, nontransferable, restricted, or otherwise insufficient.
+
+[80 FR 11048, Feb. 27, 2015, as amended at 83 FR 23209, May 18, 2018]

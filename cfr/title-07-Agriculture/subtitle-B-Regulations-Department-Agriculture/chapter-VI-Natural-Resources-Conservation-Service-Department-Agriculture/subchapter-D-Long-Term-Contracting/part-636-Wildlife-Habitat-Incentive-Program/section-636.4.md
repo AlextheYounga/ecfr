@@ -20,11 +20,9 @@
 
 (9) With regard to cost-share agreements with individual Indians or Indians represented by the BIA, payments exceeding the payment limitation may be made to the tribal participant if a BIA or tribal official certifies in writing that no one individual, directly or indirectly, will receive more than the payment limitation. The BIA or tribal entity must also provide annually, a listing of individuals and payments made, by tax identification number or other unique identification number, during the previous year for calculation of overall payment limitations. The tribal entity must also produce, at the request of NRCS, proof of payments made to the person or legal entity that incurred costs related to conservation activity implementation;
 
-(10) Supply information, as required by NRCS, to determine eligibility for the program including, but not limited to, information to verify the applicant's status as a limited resource farmer or rancher or beginning farmer or rancher and payment eligibility as established by 7 CFR part 1400, Adjusted Gross Income (AGI);
+(10) Supply information, as required by NRCS, to determine eligibility for the program including, but not limited to, information to verify the applicant's status as a limited resource farmer or rancher or beginning farmer or rancher and payment eligibility as established by 7 CFR part 1400, Adjusted Gross Income (AGI); and
 
-(11) With regard to any participant that utilizes a unique identification number as an alternative to a tax identification number, the participant will utilize only that identifier for any and all other WHIP cost-share agreements to which the participant is a party. Violators will be considered to have provided fraudulent representation and are subject to § 636.13; and
-
-(12) Comply with applicable registration and reporting requirements of the Federal Funding Accountability and Transparency Act of 2006 (Pub. L. 109-282, as amended) and 2 CFR parts 25 and 170.
+(11) With regard to any participant that utilizes a unique identification number as an alternative to a tax identification number, the participant will utilize only that identifier for any and all other WHIP cost-share agreements to which the participant is a party. Violators will be considered to have provided fraudulent representation and are subject to § 636.13.
 
 (b) Eligible land includes:
 
@@ -49,3 +47,5 @@
 (i) Land held in trust for Indian tribes, and
 
 (ii) Lands owned in fee title by a State, including an agency or subdivision of a State or a unit of government except as provided in § 636.4(b)(4).
+
+[75 FR 71338, Nov. 23, 2010, as amended at 83 FR 23208, May 18, 2018]
