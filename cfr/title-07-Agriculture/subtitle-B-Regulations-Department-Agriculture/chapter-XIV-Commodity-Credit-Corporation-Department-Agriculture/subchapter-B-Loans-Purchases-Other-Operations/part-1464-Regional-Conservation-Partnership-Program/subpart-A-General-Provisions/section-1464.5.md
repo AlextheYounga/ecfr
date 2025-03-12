@@ -28,7 +28,7 @@
 
 (7) A municipal water or wastewater treatment entity;
 
-(8) An organization or entity with an established history of working cooperatively with producers on agricultural land, as determined by the Secretary, to address -
+(8) An organization or entity with an established history of working cooperatively with producers on agricultural land, as determined by the Secretary, to address—
 
 (i) Local conservation priorities related to agricultural production, wildlife habitat development, and NIPF management; or
 
@@ -36,7 +36,7 @@
 
 (9) An eligible entity as identified by NRCS pursuant to 7 CFR part 1468.
 
-(c) *Producer eligibility.* To be eligible to receive payments or benefits under the program, each producer must -
+(c) *Producer eligibility.* To be eligible to receive payments or benefits under the program, each producer must—
 
 (1) Be in compliance with the highly erodible land and wetland conservation provisions found at part 12 of this title;
 
@@ -44,7 +44,23 @@
 
 (3) Have effective control of the land;
 
-(4) NRCS may approve interim conservation practice standards or activities if -
+(4) Supply information, as required by NRCS, to determine eligibility for the program, including but not limited to, information that verifies the producer's status as a historically underserved producer, compliance with part 12 of this title, and compliance with adjusted gross income payment eligibility as established by part 1400 of this chapter; and
+
+(5) For producers operating as a legal entity or joint operation, provide a list of all members of the legal entity or joint operation and embedded entities along with each members' tax identification numbers and percentage interest in the entity. However, where applicable, American Indians, Alaska Natives, and Pacific Islanders may use another unique identification number for each individual eligible for payment.
+
+(d) *Eligible land.* Land may be considered eligible for enrollment in RCPP if NRCS determines that:
+
+(1) The land is private or Tribal agricultural land, nonindustrial private forest land, or associated land on which an eligible activity would help achieve the conservation benefits defined for an approved project; or
+
+(2) The land is publicly owned agricultural land or associated land and the enrollment of such land is—
+
+(i) Appropriate for the type of eligible activity, and
+
+(ii) The eligible activity to be implemented on the public land is necessary and will contribute meaningfully to achieving conservation benefits consistent with an approved project.
+
+(e) *Eligible activities.* (1) In each partnership agreement, NRCS will identify the eligible activities that are available to producers and landowners through the project. Eligible activities may include land management, land rental activities, easements, or watershed type projects. Projects may use more than one type of eligible activity.
+
+(2) NRCS may approve interim conservation practice standards or activities if—
 
 (i) New technologies or management approaches that provide a high potential for optimizing conservation benefits have been developed; and
 
@@ -57,3 +73,5 @@
 (3) Technical services provided by qualified personnel not affiliated with USDA may include but are not limited to: Conservation planning; conservation practice survey, layout, design, installation, and certification; information, education, and training for producers; and other program implementation services as identified by NRCS.
 
 (4) NRCS retains approval authority of work done by non-NRCS personnel for the purpose of approving RCPP payments.
+
+[85 FR 8137, Feb. 13, 2020, as amended at 85 FR 15051, Mar. 17, 2020]

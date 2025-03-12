@@ -1,0 +1,3 @@
+##### § 791.3 Severability. #####
+
+If any provision of this part is held to be invalid or unenforceable by its terms, or as applied to any person or circumstance, or stayed pending further agency action, the provision shall be construed so as to continue to give the maximum effect to the provision permitted by law, unless such holding shall be one of utter invalidity or unenforceability, in which event the provision shall be severable from part 791 and shall not affect the remainder thereof.
