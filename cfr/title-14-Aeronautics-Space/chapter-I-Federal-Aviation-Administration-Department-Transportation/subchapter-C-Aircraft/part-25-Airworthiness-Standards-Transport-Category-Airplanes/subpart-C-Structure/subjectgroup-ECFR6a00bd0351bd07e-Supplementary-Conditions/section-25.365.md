@@ -1,5 +1,7 @@
 ##### § 25.365 Pressurized compartment loads. #####
 
+Link to an amendment published at 88 FR 38382, June 13, 2023.
+
 For airplanes with one or more pressurized compartments the following apply:
 
 (a) The airplane structure must be strong enough to withstand the flight loads combined with pressure differential loads from zero up to the maximum relief valve setting.

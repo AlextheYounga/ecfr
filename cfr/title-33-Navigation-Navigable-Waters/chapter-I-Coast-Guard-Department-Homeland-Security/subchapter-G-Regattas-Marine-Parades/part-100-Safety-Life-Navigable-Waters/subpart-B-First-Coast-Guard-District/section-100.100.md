@@ -1,5 +1,7 @@
 ##### § 100.100 Special Local Regulations; Regattas and Boat Races in the Coast Guard Sector Long Island Sound Captain of the Port Zone. #####
 
+Link to an amendment published at 88 FR 38399, June 13, 2023.
+
 (a) The following regulations apply to the marine events listed in the Table to § 100.100. These regulations will be enforced for the duration of each event, on or about the dates indicated. Notifications will be made to the local maritime community through all appropriate means such as Local Notice to Mariners or Broadcast Notice to Mariners well in advance of the events. If the event does not have a date listed, then exact dates and times of the enforcement period will be announced through a Notice of Enforcement in the Federal Register. The First Coast Guard District Local Notice to Mariners can be found at: *http://www.navcen.uscg.gov/.*
 
 (b) *Definitions.* The following definitions apply to this section:

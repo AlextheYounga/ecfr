@@ -38,9 +38,9 @@
 
 (ii) A measure shows low statistical reliability.
 
-(2) CMS will announce in advance of the measurement period the removal of a measure based upon its application of this paragraph (e) through the process described for changes in and adoption of payment and risk adjustment policies in section 1853(b) of the Act in advance of the measurement period.
-
 (iii) The measure steward other than CMS retires a measure.
+
+(2) CMS will announce in advance of the measurement period the removal of a measure based upon its application of this paragraph (e) through the process described for changes in and adoption of payment and risk adjustment policies in section 1853(b) of the Act in advance of the measurement period.
 
 (f) *Improvement measure.* CMS will calculate improvement measure scores based on a comparison of the measure scores for the current year to the immediately preceding year as provided in this paragraph (f); the improvement measure score would be calculated for Parts C and D separately by taking a weighted sum of net improvement divided by the weighted sum of the number of eligible measures.
 
