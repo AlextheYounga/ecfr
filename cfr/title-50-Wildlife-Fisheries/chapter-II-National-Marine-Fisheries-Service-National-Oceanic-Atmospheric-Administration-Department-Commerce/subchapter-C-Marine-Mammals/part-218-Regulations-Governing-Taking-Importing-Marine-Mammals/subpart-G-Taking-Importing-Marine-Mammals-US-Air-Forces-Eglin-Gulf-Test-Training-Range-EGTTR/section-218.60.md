@@ -1,0 +1,7 @@
+##### § 218.60 Specified activity and geographical region. #####
+
+(a) Regulations in this subpart apply only to the U.S. Air Force (USAF) for the taking of marine mammals that occurs in the area described in paragraph (b) of this section and that occurs incidental to the activities listed in paragraph (c) of this section.
+
+(b) The taking of marine mammals by the USAF under this subpart may be authorized in a Letter of Authorization (LOA) only if it occurs within the Eglin Gulf Test and Training Range (EGTTR). The EGTTR is located adjacent to Santa Rosa, Okaloosa, and Walton Counties and includes property on Santa Rosa Island and Cape San Blas. The EGTTR is the airspace controlled by Eglin Air Force Base (AFB) over the Gulf of Mexico, beginning 3 nautical miles (nmi) from shore, and the underlying Gulf of Mexico waters. The EGTTR extends southward and westward off the coast of Florida and encompasses approximately 102,000 square nautical miles (nmi2). It is subdivided into blocks of airspace that consist of Warning Areas W-155, W-151, W-470, W-168, and W-174 and Eglin Water Test Areas 1 through 6. The two primary components of the EGTTR Complex are Live Impact Area and East Live Impact Area.
+
+(c) The taking of marine mammals by the USAF is only authorized if it occurs incidental to the USAF conducting training and testing activities, including air warfare and surface warfare training and testing activities.

@@ -36,8 +36,6 @@
 
 (3) In accordance with the non-procurement debarment procedures under 2 CFR part 417, or successor regulations, FNS shall debar any person that, in carrying out the quality control system, knowingly submits or causes to be submitted false information to FNS.
 
-(4) Compliance date: Paragraph (c)(1) of this section contains information-collection requirements. Compliance with paragraph (c)(1) will not be required until this paragraph (c)(4) is removed or contains a compliance date, after review of such requirements by the Office of Management and Budget pursuant to the Paperwork Reduction Act.
-
 (d) *FNS Access to State Systems.* Subject to data and security protocols agreed to by FNS and a State agency administering SNAP, each State agency shall ensure that FNS has complete access, including remote access for QC purposes, to both the records that are used in the administration of SNAP, including but not limited to the records contained within certification and EBT systems, and the information systems in which such records are contained.
 
-[Amdt. 160, 45 FR 15898, Mar. 11, 1980, as amended by Amdt. 266, 52 FR 3407, Feb. 4, 1987; 86 FR 44586, Aug. 13, 2021]
+[Amdt. 160, 45 FR 15898, Mar. 11, 1980, as amended by Amdt. 266, 52 FR 3407, Feb. 4, 1987; 86 FR 44586, Aug. 13, 2021; 88 FR 23559, Apr. 18, 2023]

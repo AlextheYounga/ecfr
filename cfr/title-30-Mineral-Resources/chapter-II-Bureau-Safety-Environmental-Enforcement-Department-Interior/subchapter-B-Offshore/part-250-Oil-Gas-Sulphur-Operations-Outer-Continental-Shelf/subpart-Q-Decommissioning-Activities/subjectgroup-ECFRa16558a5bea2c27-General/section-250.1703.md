@@ -1,5 +1,7 @@
 ##### § 250.1703 What are the general requirements for decommissioning? #####
 
+Link to an amendment published at 88 FR 23580, Apr. 18, 2023.
+
 When your facilities are no longer useful for operations, you must:
 
 (a) Get approval from the appropriate District Manager before decommissioning wells and from the Regional Supervisor before decommissioning platforms and pipelines or other facilities;

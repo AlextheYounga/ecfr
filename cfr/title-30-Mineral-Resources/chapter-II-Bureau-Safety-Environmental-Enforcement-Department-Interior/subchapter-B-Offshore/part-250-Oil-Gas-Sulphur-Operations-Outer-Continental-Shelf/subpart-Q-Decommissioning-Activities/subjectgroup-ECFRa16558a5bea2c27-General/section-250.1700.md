@@ -1,5 +1,7 @@
 ##### § 250.1700 What do the terms “decommissioning”, “obstructions”, and “facility” mean? #####
 
+Link to an amendment published at 88 FR 23579, Apr. 18, 2023.
+
 (a) *Decommissioning* means:
 
 (1) Ending oil, gas, or sulphur operations; and

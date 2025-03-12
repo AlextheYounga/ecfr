@@ -1,5 +1,7 @@
 ##### § 250.1702 When do I accrue decommissioning obligations? #####
 
+Link to an amendment published at 88 FR 23580, Apr. 18, 2023.
+
 You accrue decommissioning obligations when you do any of the following:
 
 (a) Drill a well;
