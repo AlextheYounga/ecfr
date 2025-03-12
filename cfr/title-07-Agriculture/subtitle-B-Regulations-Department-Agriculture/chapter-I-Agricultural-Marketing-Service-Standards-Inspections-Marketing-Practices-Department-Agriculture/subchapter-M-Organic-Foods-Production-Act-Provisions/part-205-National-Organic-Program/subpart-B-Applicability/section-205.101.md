@@ -1,5 +1,7 @@
 ##### § 205.101 Exemptions and exclusions from certification. #####
 
+Link to an amendment published at 88 FR 3621, Jan. 19, 2023.
+
 (a) *Exemptions.* (1) A production or handling operation that sells agricultural products as “organic” but whose gross agricultural income from organic sales totals $5,000 or less annually is exempt from certification under subpart E of this part and from submitting an organic system plan for acceptance or approval under § 205.201 but must comply with the applicable organic production and handling requirements of subpart C of this part and the labeling requirements of § 205.310. The products from such operations shall not be used as ingredients identified as organic in processed products produced by another handling operation.
 
 (2) A handling operation that is a retail food establishment or portion of a retail food establishment that handles organically produced agricultural products but does not process them is exempt from the requirements in this part.

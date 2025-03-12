@@ -1,5 +1,7 @@
 ##### § 205.406 Continuation of certification. #####
 
+Link to an amendment published at 88 FR 3624, Jan. 19, 2023.
+
 (a) To continue certification, a certified operation must annually pay the certification fees and submit the following information, as applicable, to the certifying agent:
 
 (1) An updated organic production or handling system plan which includes:

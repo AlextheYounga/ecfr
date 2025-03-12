@@ -1,5 +1,7 @@
 ##### § 205.307 Labeling of nonretail containers used for only shipping or storage of raw or processed agricultural products labeled as “100 percent organic,” “organic,” or “made with organic (specified ingredients or food group(s)).” #####
 
+Link to an amendment published at 88 FR 3622, Jan. 19, 2023.
+
 (a) Nonretail containers used only to ship or store raw or processed agricultural product labeled as containing organic ingredients may display the following terms or marks:
 
 (1) The name and contact information of the certifying agent which certified the handler which assembled the final product;

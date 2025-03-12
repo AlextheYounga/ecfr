@@ -1,5 +1,7 @@
 ##### § 205.660 General. #####
 
+Link to an amendment published at 88 FR 3625, Jan. 19, 2023.
+
 (a) The National Organic Program's Program Manager, on behalf of the Secretary, may inspect and review certified production and handling operations and accredited certifying agents for compliance with the Act or regulations in this part.
 
 (b) The Program Manager may initiate suspension or revocation proceedings against a certified operation:

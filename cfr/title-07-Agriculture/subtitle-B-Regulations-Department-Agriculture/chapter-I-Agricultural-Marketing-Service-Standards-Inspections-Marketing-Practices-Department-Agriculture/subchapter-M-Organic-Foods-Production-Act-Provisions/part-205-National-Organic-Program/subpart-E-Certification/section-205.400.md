@@ -1,5 +1,7 @@
 ##### § 205.400 General requirements for certification. #####
 
+Link to an amendment published at 88 FR 3623, Jan. 19, 2023.
+
 A person seeking to receive or maintain organic certification under the regulations in this part must:
 
 (a) Comply with the Act and applicable organic production and handling regulations of this part;

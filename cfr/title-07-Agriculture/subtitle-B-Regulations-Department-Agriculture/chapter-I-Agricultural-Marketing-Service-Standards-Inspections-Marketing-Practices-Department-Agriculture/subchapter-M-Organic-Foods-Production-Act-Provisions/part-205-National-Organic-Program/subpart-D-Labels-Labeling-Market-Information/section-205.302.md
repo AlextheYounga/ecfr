@@ -1,5 +1,7 @@
 ##### § 205.302 Calculating the percentage of organically produced ingredients. #####
 
+Link to an amendment published at 88 FR 3622, Jan. 19, 2023.
+
 (a) The percentage of all organically produced ingredients in an agricultural product sold, labeled, or represented as “100 percent organic,” “organic,” or “made with organic (specified ingredients or food group(s)),” or that include organic ingredients must be calculated by:
 
 (1) Dividing the total net weight (excluding water and salt) of combined organic ingredients at formulation by the total weight (excluding water and salt) of the finished product.

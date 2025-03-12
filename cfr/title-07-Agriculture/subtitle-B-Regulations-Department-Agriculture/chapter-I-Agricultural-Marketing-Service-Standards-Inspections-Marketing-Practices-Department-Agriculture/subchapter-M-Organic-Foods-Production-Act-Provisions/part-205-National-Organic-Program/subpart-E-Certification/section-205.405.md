@@ -1,5 +1,7 @@
 ##### § 205.405 Denial of certification. #####
 
+Link to an amendment published at 88 FR 3624, Jan. 19, 2023.
+
 (a) When the certifying agent has reason to believe, based on a review of the information specified in § 205.402 or § 205.404, that an applicant for certification is not able to comply or is not in compliance with the requirements of this part, the certifying agent must provide a written notification of noncompliance to the applicant. When correction of a noncompliance is not possible, a notification of noncompliance and a notification of denial of certification may be combined in one notification. The notification of noncompliance shall provide:
 
 (1) A description of each noncompliance;

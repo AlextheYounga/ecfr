@@ -1,5 +1,7 @@
 ##### § 205.501 General requirements for accreditation. #####
 
+Link to an amendment published at 88 FR 3624, Jan. 19, 2023.
+
 (a) A private or governmental entity accredited as a certifying agent under this subpart must:
 
 (1) Have sufficient expertise in organic production or handling techniques to fully comply with and implement the terms and conditions of the organic certification program established under the Act and the regulations in this part;

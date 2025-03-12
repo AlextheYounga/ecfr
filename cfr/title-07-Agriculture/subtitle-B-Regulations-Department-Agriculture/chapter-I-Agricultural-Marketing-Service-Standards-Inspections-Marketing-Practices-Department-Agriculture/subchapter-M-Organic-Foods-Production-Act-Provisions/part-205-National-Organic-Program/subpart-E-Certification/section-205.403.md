@@ -1,5 +1,7 @@
 ##### § 205.403 On-site inspections. #####
 
+Link to an amendment published at 88 FR 3623, Jan. 19, 2023.
+
 (a) *On-site inspections.* (1) A certifying agent must conduct an initial on-site inspection of each production unit, facility, and site that produces or handles organic products and that is included in an operation for which certification is requested. An on-site inspection shall be conducted annually thereafter for each certified operation that produces or handles organic products for the purpose of determining whether to approve the request for certification or whether the certification of the operation should continue.
 
 (2)(i) A certifying agent may conduct additional on-site inspections of applicants for certification and certified operations to determine compliance with the Act and the regulations in this part.

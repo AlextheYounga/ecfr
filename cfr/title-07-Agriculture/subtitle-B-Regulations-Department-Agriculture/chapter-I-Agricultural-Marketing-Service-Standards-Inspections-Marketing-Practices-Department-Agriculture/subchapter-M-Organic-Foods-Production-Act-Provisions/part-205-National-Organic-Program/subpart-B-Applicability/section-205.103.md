@@ -1,5 +1,7 @@
 ##### § 205.103 Recordkeeping by certified operations. #####
 
+Link to an amendment published at 88 FR 3621, Jan. 19, 2023.
+
 (a) A certified operation must maintain records concerning the production, harvesting, and handling of agricultural products that are or that are intended to be sold, labeled, or represented as “100 percent organic,” “organic,” or “made with organic (specified ingredients or food group(s)).”
 
 (b) Such records must:

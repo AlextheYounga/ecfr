@@ -1,5 +1,7 @@
 ##### § 205.401 Application for certification. #####
 
+Link to an amendment published at 88 FR 3623, Jan. 19, 2023.
+
 A person seeking certification of a production or handling operation under this subpart must submit an application for certification to a certifying agent. The application must include the following information:
 
 (a) An organic production or handling system plan, as required in § 205.200;

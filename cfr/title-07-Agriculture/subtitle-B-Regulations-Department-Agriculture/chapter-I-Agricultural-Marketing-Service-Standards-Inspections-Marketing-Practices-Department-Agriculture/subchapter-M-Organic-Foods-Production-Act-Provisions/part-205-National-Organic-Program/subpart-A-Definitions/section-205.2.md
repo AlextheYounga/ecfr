@@ -1,5 +1,7 @@
 ##### § 205.2 Terms defined. #####
 
+Link to an amendment published at 88 FR 3620, Jan. 19, 2023.
+
 *Accreditation.* A determination made by the Secretary that authorizes a private, foreign, or State entity to conduct certification activities as a certifying agent under this part.
 
 *Act.* The Organic Foods Production Act of 1990, as amended (7 U.S.C. 6501 *et seq.*).

@@ -1,5 +1,7 @@
 ##### § 205.504 Evidence of expertise and ability. #####
 
+Link to an amendment published at 88 FR 3625, Jan. 19, 2023.
+
 A private or governmental entity seeking accreditation as a certifying agent must submit the following documents and information to demonstrate its expertise in organic production or handling techniques; its ability to fully comply with and implement the organic certification program established in §§ 205.100 and 205.101, §§ 205.201 through 205.203, §§ 205.300 through 205.303, §§ 205.400 through 205.406, and §§ 205.661 and 205.662; and its ability to comply with the requirements for accreditation set forth in § 205.501:
 
 (a) *Personnel.* (1) A copy of the applicant's policies and procedures for training, evaluating, and supervising personnel;

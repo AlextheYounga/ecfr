@@ -1,5 +1,7 @@
 ##### § 205.301 Product composition. #####
 
+Link to an amendment published at 88 FR 3622, Jan. 19, 2023.
+
 (a) *Products sold, labeled, or represented as “100 percent organic.”* A raw or processed agricultural product sold, labeled, or represented as “100 percent organic” must contain (by weight or fluid volume, excluding water and salt) 100 percent organically produced ingredients. If labeled as organically produced, such product must be labeled pursuant to § 205.303.
 
 (b) *Products sold, labeled, or represented as “organic.”* A raw or processed agricultural product sold, labeled, or represented as “organic” must contain (by weight or fluid volume, excluding water and salt) not less than 95 percent organically produced raw or processed agricultural products. Any remaining product ingredients must be organically produced, unless not commercially available in organic form, or must be nonagricultural substances or nonorganically produced agricultural products produced consistent with the National List in subpart G of this part. If labeled as organically produced, such product must be labeled pursuant to § 205.303.

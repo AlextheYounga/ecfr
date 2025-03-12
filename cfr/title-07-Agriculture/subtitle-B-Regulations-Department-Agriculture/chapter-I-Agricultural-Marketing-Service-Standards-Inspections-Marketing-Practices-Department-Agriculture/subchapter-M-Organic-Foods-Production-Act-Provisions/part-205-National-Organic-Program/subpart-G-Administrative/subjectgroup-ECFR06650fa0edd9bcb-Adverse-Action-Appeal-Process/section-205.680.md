@@ -1,5 +1,7 @@
 ##### § 205.680 General. #####
 
+Link to an amendment published at 88 FR 3626, Jan. 19, 2023.
+
 (a) Persons subject to the Act who believe they are adversely affected by a noncompliance decision of the National Organic Program's Program Manager may appeal such decision to the Administrator.
 
 (b) Persons subject to the Act who believe that they are adversely affected by a noncompliance decision of a State organic program may appeal such decision to the State organic program's governing State official who will initiate handling of the appeal pursuant to appeal procedures approved by the Secretary.

@@ -1,5 +1,7 @@
 ##### § 205.662 Noncompliance procedure for certified operations. #####
 
+Link to an amendment published at 88 FR 3626, Jan. 19, 2023.
+
 (a) *Notification.* When an inspection, review, or investigation of a certified operation by a certifying agent or a State organic program's governing State official reveals any noncompliance with the Act or regulations in this part, a written notification of noncompliance shall be sent to the certified operation. Such notification shall provide:
 
 (1) A description of each noncompliance;

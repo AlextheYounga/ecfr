@@ -1,7 +1,5 @@
 ##### § 600.610 Factual findings for Federal preemption. #####
 
-Link to an amendment published at 87 FR 77742, Dec. 20, 2022.
-
 (a) The two factual findings for Federal preemption of state management authority over a fishery are:
 
 (1) The fishing in a fishery that is covered by an FMP implemented under the Magnuson-Stevens Act is engaged in predominately within the EEZ and beyond such zone.

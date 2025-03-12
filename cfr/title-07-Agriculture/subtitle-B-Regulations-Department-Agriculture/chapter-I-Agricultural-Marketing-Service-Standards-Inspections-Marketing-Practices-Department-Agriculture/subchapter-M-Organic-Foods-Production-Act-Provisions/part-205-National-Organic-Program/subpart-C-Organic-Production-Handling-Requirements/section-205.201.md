@@ -1,5 +1,7 @@
 ##### § 205.201 Organic production and handling system plan. #####
 
+Link to an amendment published at 88 FR 3622, Jan. 19, 2023.
+
 (a) The producer or handler of a production or handling operation, except as exempt or excluded under § 205.101, intending to sell, label, or represent agricultural products as “100 percent organic,” “organic,” or “made with organic (specified ingredients or food group(s))” must develop an organic production or handling system plan that is agreed to by the producer or handler and an accredited certifying agent. An organic system plan must meet the requirements set forth in this section for organic production or handling. An organic production or handling system plan must include:
 
 (1) A description of practices and procedures to be performed and maintained, including the frequency with which they will be performed;

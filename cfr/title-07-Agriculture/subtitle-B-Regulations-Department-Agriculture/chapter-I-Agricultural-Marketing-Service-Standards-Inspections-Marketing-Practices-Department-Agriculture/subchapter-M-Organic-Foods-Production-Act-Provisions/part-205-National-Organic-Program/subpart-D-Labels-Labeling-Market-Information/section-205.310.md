@@ -1,5 +1,7 @@
 ##### § 205.310 Agricultural products produced on an exempt or excluded operation. #####
 
+Link to an amendment published at 88 FR 3623, Jan. 19, 2023.
+
 (a) An agricultural product organically produced or handled on an exempt or excluded operation must not:
 
 (1) Display the USDA seal or any certifying agent's seal or other identifying mark which represents the exempt or excluded operation as a certified organic operation, or

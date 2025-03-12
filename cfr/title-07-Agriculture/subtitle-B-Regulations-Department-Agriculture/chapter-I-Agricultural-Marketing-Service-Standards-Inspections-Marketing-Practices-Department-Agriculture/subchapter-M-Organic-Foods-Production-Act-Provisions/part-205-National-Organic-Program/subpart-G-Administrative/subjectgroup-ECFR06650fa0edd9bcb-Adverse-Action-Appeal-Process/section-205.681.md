@@ -1,5 +1,7 @@
 ##### § 205.681 Appeals. #####
 
+Link to an amendment published at 88 FR 3627, Jan. 19, 2023.
+
 (a) *Certification appeals.* An applicant for certification may appeal a certifying agent's notice of denial of certification, and a certified operation may appeal a certifying agent's notification of proposed suspension or revocation of certification to the Administrator, *Except,* That, when the applicant or certified operation is subject to an approved State organic program the appeal must be made to the State organic program which will carry out the appeal pursuant to the State organic program's appeal procedures approved by the Secretary.
 
 (1) If the Administrator or State organic program sustains a certification applicant's or certified operation's appeal of a certifying agent's decision, the applicant will be issued organic certification, or a certified operation will continue its certification, as applicable to the operation. The act of sustaining the appeal shall not be an adverse action subject to appeal by the affected certifying agent.

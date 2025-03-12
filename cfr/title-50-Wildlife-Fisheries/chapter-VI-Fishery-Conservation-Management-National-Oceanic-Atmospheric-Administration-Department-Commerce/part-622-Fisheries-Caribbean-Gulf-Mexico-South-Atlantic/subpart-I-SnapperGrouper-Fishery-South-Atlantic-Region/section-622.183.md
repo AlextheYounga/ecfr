@@ -1,8 +1,6 @@
 ##### § 622.183 Area and seasonal closures. #####
 
-Link to an amendment published at 87 FR 77747, Dec. 20, 2022.
-
-(a) *Area closures* - (1) *Marine protected areas (MPAs).* (i) No person may fish for a South Atlantic snapper-grouper in an MPA, and no person may possess a South Atlantic snapper-grouper in an MPA. However, the prohibition on possession does not apply to a person aboard a vessel that is in transit with fishing gear appropriately stowed as specified in paragraph (a)(1)(ii) of this section. In addition to these restrictions, see § 635.21(d)(1)(iii) of this chapter regarding restrictions applicable within these MPAs for any vessel issued a permit under part 635 of this chapter that has longline gear on board. MPAs consist of deepwater areas as follows:
+(a) *Area closures*—(1) *Marine protected areas (MPAs).* (i) No person may fish for a South Atlantic snapper-grouper in an MPA, and no person may possess a South Atlantic snapper-grouper in an MPA. However, the prohibition on possession does not apply to a person aboard a vessel that is in transit with fishing gear appropriately stowed as specified in paragraph (a)(1)(ii) of this section. In addition to these restrictions, see § 635.21(d)(1)(iii) of this chapter regarding restrictions applicable within these MPAs for any vessel issued a permit under part 635 of this chapter that has longline gear on board. MPAs consist of deepwater areas as follows:
 
 (A) *Snowy Grouper Wreck MPA* is bounded by rhumb lines connecting, in order, the following points:
 
@@ -52,7 +50,7 @@ Link to an amendment published at 87 FR 77747, Dec. 20, 2022.
 |  D  | 24°32.5′ |  80°48′  |
 |  A  | 24°36.5′ | 80°45.5′ |
 
-(ii) For the purpose of paragraph (a)(1)(i) of this section, transit means direct, non-stop progression through the MPA. Fishing gear appropriately stowed means -
+(ii) For the purpose of paragraph (a)(1)(i) of this section, transit means direct, non-stop progression through the MPA. Fishing gear appropriately stowed means—
 
 (A) A longline may be left on the drum if all gangions and hooks are disconnected and stowed below deck. Hooks cannot be baited. All buoys must be disconnected from the gear; however, buoys may remain on deck.
 
@@ -116,7 +114,7 @@ Link to an amendment published at 87 FR 77747, Dec. 20, 2022.
 |  D  |24°20.932′|82°20.417′|
 |  A  |24°22.277′|82°20.417′|
 
-(vii) For the purpose of paragraph (a)(2)(i) of this section, transit means direct, non-stop progression through the spawning SMZ. Fishing gear appropriately stowed means -
+(vii) For the purpose of paragraph (a)(2)(i) of this section, transit means direct, non-stop progression through the spawning SMZ. Fishing gear appropriately stowed means—
 
 (A) A longline may be left on the drum if all gangions and hooks are disconnected and stowed below deck. Hooks cannot be baited. All buoys must be disconnected from the gear; however, buoys may remain on deck.
 
@@ -128,7 +126,7 @@ Link to an amendment published at 87 FR 77747, Dec. 20, 2022.
 
 (E) A crustacean trap, golden crab trap, or sea bass pot cannot be baited. All buoys must be disconnected from the gear; however, buoys may remain on deck.
 
-(b) *Seasonal closures* - (1) *Seasonal closure of the commercial and recreational sectors for gag and associated grouper species.* During January through April each year, no person may fish for, harvest, or possess in or from the South Atlantic EEZ any South Atlantic shallow-water grouper (SASWG): Gag, black grouper, red grouper, scamp, red hind, rock hind, yellowmouth grouper, yellowfin grouper, graysby, and coney. For a person on board a vessel for which a valid Federal commercial or charter vessel/headboat permit for South Atlantic snapper-grouper has been issued, these prohibitions against fishing, harvesting, or possessing apply in the South Atlantic, *i.e.,* in state or Federal waters. Additionally, in the month of May, no person may fish for, harvest, or possess any South Atlantic red grouper in or from the South Atlantic EEZ off North Carolina or off South Carolina. For a person on board a vessel for which a valid Federal commercial or charter vessel/headboat permit for South Atlantic snapper-grouper has been issued, these prohibitions against fishing, harvesting, or possessing red grouper in May apply in state waters off North Carolina and off South Carolina.
+(b) *Seasonal closures*—(1) *Seasonal closure of the commercial and recreational sectors for gag and associated grouper species.* During January through April each year, no person may fish for, harvest, or possess in or from the South Atlantic EEZ any South Atlantic shallow-water grouper (SASWG): Gag, black grouper, red grouper, scamp, red hind, rock hind, yellowmouth grouper, yellowfin grouper, graysby, and coney. For a person on board a vessel for which a valid Federal commercial or charter vessel/headboat permit for South Atlantic snapper-grouper has been issued, these prohibitions against fishing, harvesting, or possessing apply in the South Atlantic, *i.e.,* in state or Federal waters. Additionally, in the month of May, no person may fish for, harvest, or possess any South Atlantic red grouper in or from the South Atlantic EEZ off North Carolina or off South Carolina. For a person on board a vessel for which a valid Federal commercial or charter vessel/headboat permit for South Atlantic snapper-grouper has been issued, these prohibitions against fishing, harvesting, or possessing red grouper in May apply in state waters off North Carolina and off South Carolina.
 
 (2) *Wreckfish spawning-season closure.* From January 15 through April 15, each year, no person may harvest or possess on a fishing vessel wreckfish in or from the EEZ; offload wreckfish from the EEZ; or sell or purchase wreckfish in or from the EEZ. The prohibition on sale or purchase of wreckfish does not apply to trade in wreckfish that were harvested, offloaded, and sold or purchased prior to January 15 and were held in cold storage by a dealer or processor.
 
@@ -136,7 +134,7 @@ Link to an amendment published at 87 FR 77747, Dec. 20, 2022.
 
 (4) Hogfish recreational sector off the Florida Keys and east coast of Florida. From January through April and from November through December each year, the recreational harvest or possession of hogfish in or from the South Atlantic EEZ off the Florida Keys and east coast of Florida, and in the Gulf EEZ south of 25°09′ N. lat. off the west coast of Florida is prohibited, and the bag and possession limits are zero.
 
-(5) *Closures of the commercial and recreational sectors for red snapper* - (i) The commercial and recreational sectors for red snapper are closed (*i.e.,* red snapper may not be harvested or possessed, or sold or purchased) in or from the South Atlantic EEZ, except as specified in § 622.193(y). Each year, NMFS will announce the season opening dates in the Federal Register. The commercial season will begin on the second Monday in July, unless otherwise specified. The recreational season, which consists of weekends only (Fridays, Saturdays, and Sundays) begins on the second Friday in July, unless otherwise specified. NMFS will project the length of the recreational fishing season and announce the recreational fishing season end date in the Federal Register. See § 622.193(y), for establishing the end date of the commercial fishing season.
+(5) *Closures of the commercial and recreational sectors for red snapper*—(i) The commercial and recreational sectors for red snapper are closed (*i.e.,* red snapper may not be harvested or possessed, or sold or purchased) in or from the South Atlantic EEZ, except as specified in § 622.193(y). Each year, NMFS will announce the season opening dates in the Federal Register. The commercial season will begin on the second Monday in July, unless otherwise specified. The recreational season, which consists of weekends only (Fridays, Saturdays, and Sundays) begins on the second Friday in July, unless otherwise specified. NMFS will project the length of the recreational fishing season and announce the recreational fishing season end date in the Federal Register. See § 622.193(y), for establishing the end date of the commercial fishing season.
 
 (ii) If the RA determines tropical storm or hurricane conditions exist, or are projected to exist, in the South Atlantic, during a commercial or recreational fishing season, the RA may modify the opening and closing dates of the fishing season by filing a notification to that effect with the Office of the Federal Register, and announcing via NOAA Weather Radio and a Fishery Bulletin any change in the dates of the red snapper commercial or recreational fishing season.
 
@@ -221,4 +219,6 @@ Link to an amendment published at 87 FR 77747, Dec. 20, 2022.
 
 (8) *Snowy grouper recreational sector closure.* The recreational sector for snowy grouper in or from the South Atlantic EEZ is closed from January 1 through April 30, and September 1 through December 31, each year. During a closure, the bag and possession limit for snowy grouper in or from the South Atlantic EEZ is zero.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 44464, July 24, 2013; 78 FR 47579, Aug. 6, 2013; 78 FR 49184, Aug. 13, 2013; 78 FR 58253, Sept. 23, 2013; 80 FR 16587, Mar. 30, 2015; 80 FR 43038, July 21, 2015; 81 FR 95902, Dec. 29, 2016; 82 FR 29775, June 30, 2017; 82 FR 34594, July 25, 2017; 83 FR 35435, July 26, 2018; 85 FR 6827, Feb. 6, 2020; 85 FR 64980, Oct. 14, 2020]
+(9) *Red porgy recreational sector closure.* The recreational sector for red porgy is closed from January 1 through April 30, and July 1 through December 31, each year. During a closure, the bag and possession limits for red porgy in or from the South Atlantic EEZ are zero.
+
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 44464, July 24, 2013; 78 FR 47579, Aug. 6, 2013; 78 FR 49184, Aug. 13, 2013; 78 FR 58253, Sept. 23, 2013; 80 FR 16587, Mar. 30, 2015; 80 FR 43038, July 21, 2015; 81 FR 95902, Dec. 29, 2016; 82 FR 29775, June 30, 2017; 82 FR 34594, July 25, 2017; 83 FR 35435, July 26, 2018; 85 FR 6827, Feb. 6, 2020; 85 FR 64980, Oct. 14, 2020; 87 FR 77747, Dec. 20, 2022]

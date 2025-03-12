@@ -1,5 +1,7 @@
 ##### § 3035.107 Standards for compliance. #####
 
+Link to an amendment published at 88 FR 3315, Jan. 19, 2023.
+
 For purposes of determining competitive products' compliance with 39 U.S.C. 3633, the Commission will apply the following standards:
 
 (a) Incremental costs will be used to test for cross-subsidies by market dominant products of competitive products. To the extent that incremental cost data are unavailable, the Commission will use the sum of competitive products' volume-variable costs and product-specific costs supplemented to include causally related, group-specific costs to test for cross-subsidies.
