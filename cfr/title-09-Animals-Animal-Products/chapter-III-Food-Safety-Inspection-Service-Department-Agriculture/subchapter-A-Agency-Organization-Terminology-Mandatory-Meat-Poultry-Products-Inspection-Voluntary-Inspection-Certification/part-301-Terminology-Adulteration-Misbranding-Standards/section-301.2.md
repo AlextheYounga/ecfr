@@ -1,7 +1,5 @@
 ##### § 301.2 Definitions. #####
 
-Link to an amendment published at 83 FR 25307, May 31, 2018.
-
 As used in this subchapter, unless otherwise required by the context, the following terms shall be construed, respectively, to mean:
 
 *The Act.* The Federal Meat Inspection Act, as amended, (34 Stat. 1260, as amended, 81 Stat. 584, 84 Stat. 438, 92 Stat. 1069, 21 U.S.C., sec. 601 *et seq.*).
@@ -196,9 +194,9 @@ Other definitions, if any, that are applicable only for purposes of a specific p
 
 *Prepared.* Slaughtered, canned, salted, rendered, boned, cut up, or otherwise manufactured or processed.
 
-*Process authority.* A person or organization with expert knowledge in meat production process control and relevant regulations. This definition does not apply to subpart G of part 318.
+*Process authority.* A person or organization with expert knowledge in meat production process control and relevant regulations. This definition does not apply to part 431 of this chapter.
 
-*Process schedule.* A written description of processing procedures, consisting of any number of specific, sequential operations directly under the control of the establishment employed in the manufacture of a specific product, including the control, monitoring, verification, validation, and corrective action activities associated with production. This definition does not apply to subpart G of part 318.
+*Process schedule.* A written description of processing procedures, consisting of any number of specific, sequential operations directly under the control of the establishment employed in the manufacture of a specific product, including the control, monitoring, verification, validation, and corrective action activities associated with production. This definition does not apply to part 431 of this chapter.
 
 *Product.* Any carcass, meat, meat byproduct, or meat food product, capable of use as human food.
 
@@ -228,4 +226,4 @@ Other definitions, if any, that are applicable only for purposes of a specific p
 
 *United States.* The States, the District of Columbia, and the Territories of the United States.
 
-[35 FR 15554, Oct. 3, 1970]Editorial Note:For Federal Register citations affecting § 301.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[35 FR 15554, Oct. 3, 1970]Editorial Note:For Federal Register citations affecting § 301.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

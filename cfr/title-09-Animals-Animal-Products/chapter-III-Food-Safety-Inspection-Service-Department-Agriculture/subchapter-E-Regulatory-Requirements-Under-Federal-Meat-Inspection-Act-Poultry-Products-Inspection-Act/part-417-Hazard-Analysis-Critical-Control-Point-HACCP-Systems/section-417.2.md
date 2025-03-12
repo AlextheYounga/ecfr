@@ -1,7 +1,5 @@
 ##### § 417.2 Hazard Analysis and HACCP Plan. #####
 
-Link to an amendment published at 83 FR 25308, May 31, 2018.
-
 (a) *Hazard analysis.* (1) Every official establishment shall conduct, or have conducted for it, a hazard analysis to determine the food safety hazards reasonably likely to occur in the production process and identify the preventive measures the establishment can apply to control those hazards. The hazard analysis shall include food safety hazards that can occur before, during, and after entry into the establishment. A food safety hazard that is reasonably likely to occur is one for which a prudent establishment would establish controls because it historically has occurred, or because there is a reasonable possibility that it will occur in the particular type of product being processed, in the absence of those controls.
 
 (2) A flow chart describing the steps of each process and product flow in the establishment shall be prepared, and the intended use or consumers of the finished product shall be identified.
@@ -30,27 +28,27 @@ Link to an amendment published at 83 FR 25308, May 31, 2018.
 
 (b) *The HACCP plan.* (1) Every establishment shall develop and implement a written HACCP plan covering each product produced by that establishment whenever a hazard analysis reveals one or more food safety hazards that are reasonably likely to occur, based on the hazard analysis conducted in accordance with paragraph (a) of this section, including products in the following processing categories:
 
-(i) Slaughter - all species.
+(i) Slaughter—all species.
 
-(ii) Raw product - ground.
+(ii) Raw product—ground.
 
-(iii) Raw product - not ground.
+(iii) Raw product—not ground.
 
-(iv) Thermally processed - commercially sterile.
+(iv) Thermally processed—commercially sterile.
 
-(v) Not heat treated - shelf stable.
+(v) Not heat treated—shelf stable.
 
-(vi) Heat treated - shelf stable.
+(vi) Heat treated—shelf stable.
 
-(vii) Fully cooked - not shelf stable.
+(vii) Fully cooked—not shelf stable.
 
-(viii) Heat treated but not fully cooked - not shelf stable.
+(viii) Heat treated but not fully cooked—not shelf stable.
 
-(ix) Product with secondary inhibitors - not shelf stable.
+(ix) Product with secondary inhibitors—not shelf stable.
 
 (2) A single HACCP plan may encompass multiple products within a single processing category identified in this paragraph, if the food safety hazards, critical control points, critical limits, and procedures required to be identified and performed in paragraph (c) of this section are essentially the same, provided that any required features of the plan that are unique to a specific product are clearly delineated in the plan and are observed in practice.
 
-(3) HACCP plans for thermally processed/commercially sterile products do not have to address the food safety hazards associated with microbiological contamination if the product is produced in accordance with the requirements of part 318, subpart G, or part 381, subpart X, of this chapter.
+(3) HACCP plans for thermally processed/commercially sterile products do not have to address the food safety hazards associated with microbiological contamination if the product is produced in accordance with the requirements of part 431 of this chapter.
 
 (c) *The contents of the HACCP plan.* The HACCP plan shall, at a minimum:
 
@@ -84,4 +82,4 @@ Link to an amendment published at 83 FR 25308, May 31, 2018.
 
 (e) Pursuant to 21 U.S.C. 456, 463, 608, and 621, the failure of an establishment to develop and implement a HACCP plan that complies with this section, or to operate in accordance with the requirements of this part, may render the products produced under those conditions adulterated.
 
-[61 FR 38868, July 25, 1996, as amended at 62 FR 61009, Nov. 14, 1997]
+[61 FR 38868, July 25, 1996, as amended at 62 FR 61009, Nov. 14, 1997; 83 FR 25308, May 31, 2018]

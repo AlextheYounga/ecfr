@@ -1,6 +1,6 @@
 ##### § 679.2 Definitions. #####
 
-Link to an amendment published at 83 FR 30532, June 29, 2018.Link to an amendment published at 83 FR 31464, July 6, 2018.
+Link to an amendment published at 83 FR 31464, July 6, 2018.
 
 In addition to the definitions in the Magnuson-Stevens Act and in part 600 of this chapter, the terms used in this part have the following meanings:
 
@@ -492,6 +492,8 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 *Crab species license* means a license issued by NMFS that authorizes the license holder designated on the license to deploy a vessel to conduct directed fishing for crab species.
 
+*Cruise* means an observer deployment with a unique cruise number. A cruise begins when an observer receives an endorsement to deploy and ends when the observer completes all debriefing responsibilities.
+
 *Daily reporting period or day* is the period from 0001 hours, A.l.t., until the following 2400 hours, A.l.t.
 
 *Data collection agent* (DCA) means the entity selected by the Regional Administrator to distribute an EDR to a person required to complete it, to receive the completed EDR, to review and verify the accuracy of the data in the EDR, and to provide those data to authorized recipients.
@@ -884,7 +886,7 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 (2) NMFS employee deployed at the direction of the Regional Administrator or individual authorized by NMFS, aboard a vessel or at a shoreside processor or stationary floating processor for the purpose of serving in the capacity of an observer as required for vessels, shoreside processors, or stationary floating processors under § 679.51(a) or (b), or for other purposes of conservation and management of marine resources as specified by the Regional Administrator.
 
-*Observer Program Office* means the administrative office of the Groundfish Observer Program located at Alaska Fisheries Science Center (see ADDRESSES, part 600).
+*Observer Program* means the administrative office of the North Pacific Observer Program located at the Alaska Fisheries Science Center (See § 679.51(c)(3) for contact information).
 
 *Observer Provider* means any person or commercial enterprise that is granted a permit by NMFS to provide observer services to vessels, shoreside processors, or stationary floating processors for observer coverage credit as required in subpart E of this part.
 

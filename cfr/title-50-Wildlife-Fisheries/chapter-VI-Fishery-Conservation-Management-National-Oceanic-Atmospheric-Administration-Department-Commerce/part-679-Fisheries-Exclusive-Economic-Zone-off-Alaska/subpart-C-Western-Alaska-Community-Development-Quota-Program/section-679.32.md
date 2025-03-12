@@ -1,7 +1,5 @@
 ##### § 679.32 Groundfish and halibut CDQ catch monitoring. #####
 
-Link to an amendment published at 83 FR 30532, June 29, 2018.
-
 (a) *Applicability.* This section contains requirements for CDQ groups, vessel operators, and managers of processors that harvest or process fixed gear sablefish CDQ, pollock CDQ, or groundfish CDQ. Regulations governing the catch accounting of halibut CDQ are at § 679.40(h).
 
 (b) *PSQ catch.* Time and area closures required once a CDQ group has reached its salmon PSQ or crab PSQ are listed in § 679.7(d)(5). The catch of salmon or crab by vessels using other than trawl gear does not accrue to the PSQ for these species. The discard of halibut by vessels using pot gear, jig gear, or hook-and-line gear to harvest sablefish CDQ will not accrue to the halibut PSQ if this bycatch has been exempted from the halibut PSC limit in the annual BSAI specifications published in the Federal Register.
@@ -42,7 +40,7 @@ Link to an amendment published at 83 FR 30532, June 29, 2018.
 
 (*1*) Comply with the observer coverage requirements at § 679.51(a)(2).
 
-(*2*) Notify the observers of CDQ catch before CDQ catch is brought onboard the vessel and notify the observers of the CDQ group and CDQ number associated with the CDQ catch.
+(*2*) [Reserved]
 
 (*3*) Comply with the catch monitoring requirements at § 679.93(c).
 
@@ -50,7 +48,7 @@ Link to an amendment published at 83 FR 30532, June 29, 2018.
 
 (*1*) Comply with the observer coverage requirements at § 679.51(a)(2).
 
-(*2*) Notify the observers of CDQ catch before CDQ catch is brought onboard the vessel and notify the observers of the CDQ number associated with the CDQ catch.
+(*2*) [Reserved]
 
 (*3*) Provide an observer sampling station as described at § 679.28(d).
 
@@ -62,9 +60,11 @@ Link to an amendment published at 83 FR 30532, June 29, 2018.
 
 (*1*) Operators of catcher/processors using hook-and-line gear must comply with § 679.100. Operators of catcher/processors using pot gear must comply with observer coverage requirements at § 679.51(a)(2)(vi)(A)(*4*); and
 
-(*2*) Notify the observers of CDQ catch before CDQ catch is brought on board the vessel and notify the observers of the CDQ number associated with the CDQ catch.
+(*2*) [Reserved]
 
 (*3*) Provide an observer sampling station as described at § 679.28(d).
+
+(*4*) Notify the Observer Program by phone at 1 (907) 581-2060 (Dutch Harbor, AK) or 1 (907) 481-1770 (Kodiak, AK) at least 24 hours prior to departure when the vessel will be carrying an observer who has not previously been deployed on that vessel within the last 12 months. Subsequent to the vessel's departure notification, but prior to departure, NMFS may contact the vessel to arrange for a pre-cruise meeting. The pre-cruise meeting must minimally include the vessel operator or manager and any observers assigned to the vessel.
 
 (ii) *Data sources used for CDQ catch accounting.* NMFS will use the following sources to account for the catch of groundfish CDQ and PSQ species caught by vessels groundfish CDQ fishing.
 
@@ -136,4 +136,4 @@ Link to an amendment published at 83 FR 30532, June 29, 2018.
 
 (vi) *Amendments.* The entity applied for use of non-CDQ harvest regulations must promptly notify NMFS of any changes in the voluntary fishing cooperative's membership by re-applying in accordance with this paragraph (e). Amendments to an approved application to use alternative CDQ harvest regulations may be submitted to NMFS at any time, and will be reviewed under the requirements of this paragraph (e).
 
-[77 FR 6499, Feb. 8, 2012, as amended at 77 FR 59060, Sept. 26, 2012; 77 FR 70091, Nov. 21, 2012; 81 FR 26744, May 4, 2016]
+[77 FR 6499, Feb. 8, 2012, as amended at 77 FR 59060, Sept. 26, 2012; 77 FR 70091, Nov. 21, 2012; 81 FR 26744, May 4, 2016; 83 FR 30532, June 29, 2018]

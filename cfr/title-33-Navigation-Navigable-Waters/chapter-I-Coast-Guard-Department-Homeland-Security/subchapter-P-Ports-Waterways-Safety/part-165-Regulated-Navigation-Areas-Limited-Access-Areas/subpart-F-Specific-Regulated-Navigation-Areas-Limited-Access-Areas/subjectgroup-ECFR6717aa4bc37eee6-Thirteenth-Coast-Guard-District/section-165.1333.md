@@ -1,10 +1,8 @@
 ##### § 165.1333 Security Zones, Seattle's Seafair Fleet Week moving vessels, Puget Sound, WA. #####
 
-Link to an amendment published at 83 FR 30347, June 28, 2018.
+(a) *Location.* The following areas are security zones: All navigable waters within 500 yards of each designated participating vessel in the Parade of Ships while each such vessel is in the Sector Puget Sound Captain of the Port (COTP) zone, as defined in 33 CFR 3.65-10, during a time specified in paragraph (e) of this section. The Coast Guard will publish a notice in the Federal Register each year before the start of the Seattle Seafair Fleet Week to identify the designated participating vessels for that year. Should information in the notice change after publication, as it may for operational reasons, the Coast Guard will use actual notice to enforce security zones around participating vessels not in the published notice. The Coast Guard will also provide this information in the Local Notice to Mariners.
 
-(a) *Location.* The following areas are security zones: all navigable waters within 500 yards of each designated participating vessel while each such vessel is in the Sector Puget Sound Captain of the Port (COTP) zone, as defined in 33 CFR 3.65-10, during a time specified in paragraph (e) of this section. The Coast Guard will publish a notice in the Federal Register each year at least 03 days before the start of the Seattle Seafair Fleet Week to identify the designated participating vessels for that year. The Coast Guard will also provide this information in the Local Notice to Mariners.
-
-(b) *Definitions.* For purposes of this section -
+(b) *Definitions.* For purposes of this section—
 
 *Designated participating vessel* means a military vessel participating in the Seattle Seafair Fleet Week that has been designated by the Sector Puget Sound COTP in accordance with this section.
 
@@ -16,6 +14,6 @@ Link to an amendment published at 83 FR 30347, June 28, 2018.
 
 (d) *Authorization.* All vessel operators who desire to enter the inner 100 yards of the security zones or transit the outer 400 yards at greater than minimum speed necessary to maintain course must obtain permission from the COTP or a Designated Representative by contacting the on-scene Coast Guard patrol craft on VHF 13 or Ch 16. Requests must include the reason why movement within this area is necessary. Vessel operators granted permission to enter the security zones will be escorted by the on-scene Coast Guard patrol craft until they are outside of the security zones.
 
-(e) *Annual enforcement period.* The security zones described in paragraph (a) of this section will be enforced during Seattle Seafair Fleet Week each year for a period of up to one week. The Seattle Seafair Fleet Week will occur sometime between July 25 and August 14. The annual Federal Register notice identifying the designated participating vessels will also identify the specific dates of the event for that year.
+(e) *Annual enforcement period.* The security zones described in paragraph (a) of this section will be enforced during Seattle Seafair Fleet Week each year for a period of up to 1 week. The Seattle Seafair Fleet Week will occur annually sometime between July 25 and August 14. The annual notice published in the Federal Register identifying the designated participating vessels will contain the dates and times that this section will be enforced. The Coast Guard will issue a Broadcast Notice to Mariners before the start of the Seattle Seafair Fleet Week to identify the designated participating vessels for that year. In addition, members of the public may contact the Sector Puget Sound COTP at (206) 217-6002 for a list of participating vessels.
 
-[USCG-2011-1126, 77 FR 40524, July 10, 2012]
+[USCG-2011-1126, 77 FR 40524, July 10, 2012, as amended by USCG-2018-0105, 83 FR 30347, June 28, 2018]

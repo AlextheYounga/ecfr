@@ -1,7 +1,5 @@
 ##### § 64.604 Mandatory minimum standards. #####
 
-Link to an amendment published at 83 FR 30087, June 27, 2018.
-
 The standards in this section are applicable December 18, 2000, except as stated in paragraphs (c)(2) and (c)(7) of this section.
 
 (a) *Operational standards* - (1) *Communications assistant (CA).* (i) TRS providers are responsible for requiring that all CAs be sufficiently trained to effectively meet the specialized communications needs of individuals with hearing and speech disabilities.
@@ -246,7 +244,7 @@ The standards in this section are applicable December 18, 2000, except as stated
 
 (*4*) *Changes in information.* A provider must notify the Commission of any changes to the information provided pursuant to paragraph (c)(5)(iii)(C)(*2*) of this section within no more than one week of the change. Providers may satisfy this requirement by filing the relevant portion of FCC Form 499-A in accordance with the Instructions to such form.
 
-(D) *Data collection and audits.* (*1*) TRS providers seeking compensation from the TRS Fund shall provide the administrator with true and adequate data, and other historical, projected and state rate related information reasonably requested to determine the TRS Fund revenue requirements and payments. TRS providers shall provide the administrator with the following: total TRS minutes of use, total interstate TRS minutes of use, total TRS investment in general in accordance with part 32 of this chapter, and other historical or projected information reasonably requested by the administrator for purposes of computing payments and revenue requirements.
+(D) *Data collection and audits.* (*1*) TRS providers seeking compensation from the TRS Fund shall provide the administrator with true and adequate data, and other historical, projected and state rate related information reasonably requested to determine the TRS Fund revenue requirements and payments. TRS providers shall provide the administrator with the following: total TRS minutes of use, total interstate TRS minutes of use, total TRS investment in general in accordance with part 32 of this chapter, and other historical or projected information reasonably requested by the administrator for purposes of computing payments and revenue requirements. In annual cost data filings and supplementary information provided to the administrator regarding such cost data, IP CTS providers that contract for the supply of services used in the provision of TRS shall include information about payments under such contracts, classified according to the substantive cost categories specified by the administrator. To the extent that a third party's provision of services covers more than one cost category, the resubmitted cost reports must provide an explanation of how the provider determined or calculated the portion of contractual payments attributable to each cost category. To the extent that the administrator reasonably deems necessary, providers shall submit additional detail on such contractor expenses, including but not limited to complete copies of such contracts and related correspondence or other records and information relevant to determining the nature of the services provided and the allocation of the costs of such services to cost categories.
 
 (*2*) Call data required from all TRS providers. In addition to the data requested by paragraph (c)(5)(iii)(C)(*1*) of this section, TRS providers seeking compensation from the TRS Fund shall submit the following specific data associated with each TRS call for which compensation is sought:
 
@@ -286,7 +284,7 @@ I swear under penalty of perjury that:
 
 (ii) The TRS calls for which compensation is sought were handled in compliance with Section 225 of the Communications Act and the Commission's rules and orders, and are not the result of impermissible financial incentives or payments to generate calls.
 
-(*6*) *Audits.* The fund administrator and the Commission, including the Office of Inspector General, shall have the authority to examine and verify TRS provider data as necessary to assure the accuracy and integrity of TRS Fund payments. TRS providers must submit to audits annually or at times determined appropriate by the Commission, the fund administrator, or by an entity approved by the Commission for such purpose. A TRS provider that fails to submit to a requested audit, or fails to provide documentation necessary for verification upon reasonable request, will be subject to an automatic suspension of payment until it submits to the requested audit or provides sufficient documentation.
+(*6*) *Audits.* The Fund administrator and the Commission, including the Office of Inspector General, shall have the authority to examine and verify TRS provider data as necessary to assure the accuracy and integrity of TRS Fund payments. TRS providers must submit to audits annually or at times determined appropriate by the Commission, the fund administrator, or by an entity approved by the Commission for such purpose. A TRS provider that fails to submit to a requested audit, or fails to provide documentation necessary for verification upon reasonable request, will be subject to an automatic suspension of payment until it submits to the requested audit or provides sufficient documentation. In the course of an audit or otherwise upon demand, an IP CTS provider must make available any relevant documentation, including contracts with entities providing services or equipment directly related to the provision of IP CTS, to the Commission, the TRS Fund administrator, or any person authorized by the Commission or TRS Fund administrator to conduct an audit.
 
 (*7*) *Call data record retention.* Internet-based TRS providers shall retain the data required to be submitted by this section, and all other call detail records, other records that support their claims for payment from the TRS Fund, and records used to substantiate the costs and expense data submitted in the annual relay service data request form, in an electronic format that is easily retrievable, for a minimum of five years.
 
@@ -472,7 +470,11 @@ I swear under penalty of perjury that:
 
 (xi) IP CTS providers must obtain registration information and certification of hearing loss from all IP CTS users who began receiving service prior to March 7, 2013, within 180 days following August 28, 2014. Notwithstanding any other provision of paragraph (c)(9) of this section, IP CTS providers shall be compensated for compensable minutes of use generated prior to February 24, 2015 by any such users, but shall not receive compensation for minutes of IP CTS use generated on or after February 24, 2015 by any IP CTS user who has not been registered.
 
-(10) *IP CTS settings.* Each IP CTS provider shall ensure that each IP CTS telephone they distribute, directly or indirectly, shall include a button, icon, or other comparable feature that is easily operable and requires only one step for the consumer to turn on captioning.
+(10) *IP CTS settings.* Each IP CTS provider shall ensure that, for each IP CTS device it distributes, directly or indirectly:
+
+(i) The device includes a button, key, icon, or other comparable feature that is easily operable and requires only one step for the consumer to turn on captioning; and
+
+(ii) On or after December 8, 2018, any volume control or other amplification feature can be adjusted separately and independently of the caption feature.
 
 (11)(i)[Reserved]
 
@@ -486,6 +488,8 @@ I swear under penalty of perjury that:
 
 (iv) IP CTS providers shall maintain, with each consumer's registration records, records describing any IP CTS equipment provided, directly or indirectly, to such consumer, stating the amount paid for such equipment, and stating whether the label required by paragraph (c)(11)(iii) of this section was affixed to such equipment prior to its provision to the consumer. For consumers to whom IP CTS equipment was provided directly or indirectly prior to the effective date of this paragraph (c)(11), such records shall state whether and when the label required by paragraph (c)(11)(iii) of this section was distributed to such consumer. Such records shall be maintained for a minimum period of five years after the consumer ceases to obtain service from the provider.
 
+(v) IP CTS providers shall ensure that their informational materials and websites used to market, advertise, educate, or otherwise inform consumers and professionals about IP CTS include the following language in a prominent location in a clearly legible font: “FEDERAL LAW PROHIBITS ANYONE BUT REGISTERED USERS WITH HEARING LOSS FROM USING INTERNET PROTOCOL (IP) CAPTIONED TELEPHONES WITH THE CAPTIONS TURNED ON. IP Captioned Telephone Service may use a live operator. The operator generates captions of what the other party to the call says. These captions are then sent to your phone. There is a cost for each minute of captions generated, paid from a federally administered fund.” For IP CTS provider websites, the language shall be included on the website's home page, each page that provides consumer information about IP CTS, and each page that provides information on how to order IP CTS or IP CTS equipment. IP CTS providers that do not make any use of live CAs to generate captions may shorten the notice to leave out the second, third, and fourth sentences.
+
 (12) *Discrimination and preferences.* A VRS provider shall not:
 
 (i) Directly or indirectly, by any means or device, engage in any unjust or unreasonable discrimination related to practices, facilities, or services for or in connection with like relay service,
@@ -494,15 +498,21 @@ I swear under penalty of perjury that:
 
 (ii) Subject any particular person, class of persons, or locality to any undue or unreasonable prejudice or disadvantage.
 
-(13) *Unauthorized and unnecessary use of VRS.* A VRS provider shall not engage in any practice that causes or encourages, or that the provider knows or has reason to know will cause or encourage:
+(13) *Unauthorized and unnecessary use of VRS or IP CTS.* (i) A VRS or IP CTS provider shall not engage in any practice that the provider knows or has reason to know will cause or encourage:
 
-(i) False or unverified claims for TRS Fund compensation,
+(A) False or unverified claims for TRS Fund compensation;
 
-(ii) Unauthorized use of VRS,
+(B) Unauthorized use of VRS or IP CTS;
 
-(iii) The making of VRS calls that would not otherwise be made, or
+(C) The making of VRS or IP CTS calls that would not otherwise be made; or
 
-(iv) The use of VRS by persons who do not need the service in order to communicate in a functionally equivalent manner. A VRS provider shall not seek payment from the TRS Fund for any minutes of service it knows or has reason to know are resulting from such practices. Any VRS provider that becomes aware of such practices being or having been committed by any person shall as soon as practicable report such practices to the Commission or the TRS Fund administrator.
+(D) The use of VRS or IP CTS by persons who do not need the service in order to communicate in a functionally equivalent manner.
+
+(ii) A VRS or IP CTS provider shall not seek payment from the TRS Fund for any minutes of service it knows or has reason to know are resulting from the practices listed in paragraph (c)(13)(i) of this section or from the use of IP CTS by an individual who does not need captions to communicate in a functionally equivalent manner.
+
+(iii) Any VRS or IP CTS provider that becomes aware of any practices listed in paragraphs (c)(13)(i) or (ii) of this section being or having been committed by any person shall, as soon as practicable, report such practices to the Commission or the TRS Fund administrator.
+
+(iv) An IP CTS provider may complete and request compensation for IP CTS calls to or from unregistered users at a temporary, public IP CTS device set up in an emergency shelter. The IP CTS provider shall notify the TRS Fund administrator of the dates of activation and termination for such device.
 
 (14) *TRS calls requiring the use of multiple CAs.* The following types of calls that require multiple CAs for their handling are compensable from the TRS Fund:
 
@@ -514,4 +524,4 @@ I swear under penalty of perjury that:
 
 (d) *Other standards.* The applicable requirements of §§ 64.605, 64.611, 64.615, 64.617, 64.621, 64.631, 64.632, 64.5105, 64.5107, 64.5108, 64.5109, and 64.5110 of this part are to be considered mandatory minimum standards.
 
-[65 FR 38436, June 21, 2000]Editorial Note:For Federal Register citations affecting § 64.604, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[65 FR 38436, June 21, 2000]Editorial Note:For Federal Register citations affecting § 64.604, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 83 FR 30087, June 27, 2018, § 64.604 was amended by revising paragraphs (c)(5)(iii)(D)(*1*) and (*6*), adding paragraph (c)(11)(v), and revising paragraph (c)(13)(iii) and (iv). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

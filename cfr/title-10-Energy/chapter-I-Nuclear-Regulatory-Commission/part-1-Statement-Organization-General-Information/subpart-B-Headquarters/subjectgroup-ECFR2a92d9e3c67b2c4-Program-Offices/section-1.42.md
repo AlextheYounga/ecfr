@@ -1,10 +1,8 @@
 ##### § 1.42 Office of Nuclear Material Safety and Safeguards. #####
 
-Link to an amendment published at 83 FR 30287, June 28, 2018.
+(a) The Office of Nuclear Material Safety and Safeguards (NMSS) is responsible for regulating activities that provide for the safe and secure production of nuclear fuel used in commercial nuclear reactors; the safe storage, transportation, and disposal of low-level and high-level radioactive waste and spent nuclear fuel; the transportation of radioactive materials regulated under the Atomic Energy Act of 1954, as amended (the Act); and all other medical, industrial, academic, and commercial uses of radioactive isotopes. The NMSS ensures safety and security by implementing a regulatory program involving activities including licensing, inspection, assessment of environmental impacts for all nuclear material facilities and activities, assessment of licensee performance, events analysis, enforcement, and identification and resolution of generic issues. The NMSS leads, manages, and facilitates rulemaking activities for new, advanced, and operating power reactors, as well as non-power utilization facilities; nuclear materials, including production of nuclear fuel used in commercial nuclear reactors, as well as storage, transportation, and disposal of high-level radioactive waste and spent nuclear fuel, and the transportation of radioactive materials regulated by the NRC.
 
-(a) The Office of Nuclear Material Safety and Safeguards (NMSS) is responsible for regulating activities that provide for the safe and secure production of nuclear fuel used in commercial nuclear reactors; the safe storage, transportation, and disposal of low-level and high-level radioactive waste and spent nuclear fuel; the transportation of radioactive materials regulated under the Atomic Energy Act of 1954, as amended (the Act); and all other medical, industrial, academic, and commercial uses of radioactive isotopes. The NMSS ensures safety and security by implementing a regulatory program involving activities including licensing, inspection, assessment of environmental impacts for all nuclear material facilities and activities, assessment of licensee performance, events analysis, enforcement, and identification and resolution of generic issues. The NMSS is also responsible for developing all new regulations and amending existing regulations for all nuclear material facilities and activities regulated by NMSS.
-
-(b) The Office of Nuclear Material Safety and Safeguards -
+(b) The Office of Nuclear Material Safety and Safeguards—
 
 (1) Develops and implements NRC policy for the regulation of: Uranium recovery, conversion, and enrichment; fuel fabrication and development; transportation of nuclear materials, including certification of transport containers and reactor spent fuel storage; safe management and disposal of spent fuel and low-level and high-level radioactive waste; and medical, industrial, academic, and commercial uses of radioactive isotopes;
 
@@ -56,7 +54,15 @@ Link to an amendment published at 83 FR 30287, June 28, 2018.
 
 (25) Develops, promulgates, and amends regulations generally associated with the materials regulated by NMSS and for all security-related regulations that will be applied to licensees and holders of certificates of compliance issued by NMSS;
 
-(26) Supports safeguards activities including -
+(26) Leads, manages, and facilitates the following rulemaking activities:
+
+(i) Develops and implements policies and procedures for the review and publication of NRC rulemakings, and ensures compliance with the Regulatory Flexibility Act and the Congressional Review Act;
+
+(ii) Supports all technical, financial, legal, and administrative rules, including the development of regulatory analyses and the orderly codification of the NRC's regulations in chapter I of this title; and
+
+(iii) Manages all aspects of the 10 CFR 2.802 Petition for Rulemaking process.
+
+(27) Supports safeguards activities including—
 
 (i) Developing overall agency policy;
 
@@ -64,14 +70,14 @@ Link to an amendment published at 83 FR 30287, June 28, 2018.
 
 (iii) Conducting licensing and review activities appropriate to deter and protect against threats of radiological sabotage and threats of theft or diversion of nuclear material at regulated facilities and during transport;
 
-(27) Regulates medical, industrial, academic, and commercial uses of radioactive isotopes;
+(28) Regulates medical, industrial, academic, and commercial uses of radioactive isotopes;
 
-(28) Oversees safe management and disposal of low-level radioactive wastes;
+(29) Oversees safe management and disposal of low-level radioactive wastes;
 
-(29) Plans and directs program for financial assurance of NMSS licensees;
+(30) Plans and directs program for financial assurance of NMSS licensees;
 
-(30) Manages the decommissioning of facilities and sites when their licensed functions are over; and
+(31) Manages the decommissioning of facilities and sites when their licensed functions are over; and
 
-(31) Identifies and takes action for activities under its responsibility, including consulting and coordinating with international, Federal, State, Tribal and local agencies, as appropriate.
+(32) Identifies and takes action for activities under its responsibility, including consulting and coordinating with international, Federal, State, Tribal and local agencies, as appropriate.
 
-[79 FR 75737, Dec. 19, 2014, as amended at 80 FR 74978, Dec. 1, 2015]
+[79 FR 75737, Dec. 19, 2014, as amended at 80 FR 74978, Dec. 1, 2015; 83 FR 30287, June 28, 2018]

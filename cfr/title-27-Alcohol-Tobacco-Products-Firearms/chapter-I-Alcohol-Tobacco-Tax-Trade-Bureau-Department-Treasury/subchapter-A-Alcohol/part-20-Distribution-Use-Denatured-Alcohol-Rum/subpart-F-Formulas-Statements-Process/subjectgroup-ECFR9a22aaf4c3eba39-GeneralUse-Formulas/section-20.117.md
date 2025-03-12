@@ -1,6 +1,6 @@
 ##### § 20.117 Reagent alcohol general-use formula. #####
 
-(a) *General.* Reagent alcohol must be made in accordance with paragraph (b) of this section and labeled in accordance with paragraph (c) of this section. Reagent alcohol is -
+(a) *General.* Reagent alcohol must be made in accordance with paragraph (b) of this section and labeled in accordance with paragraph (c) of this section. Reagent alcohol is—
 
 (1) Treated as an article if distributed and used in accordance with paragraph (d) of this section; or
 

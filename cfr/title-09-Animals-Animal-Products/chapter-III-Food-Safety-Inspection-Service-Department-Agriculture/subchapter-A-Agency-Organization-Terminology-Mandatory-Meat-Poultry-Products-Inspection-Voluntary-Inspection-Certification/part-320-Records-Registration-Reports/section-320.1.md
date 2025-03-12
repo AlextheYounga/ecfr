@@ -1,7 +1,5 @@
 ##### § 320.1 Records required to be kept. #####
 
-Link to an amendment published at 83 FR 25307, May 31, 2018.
-
 (a) Every person (including every firm or corporation) within any of the classes specified in paragraph (a) (1), (2), or (3) of this section is required by the Act to keep records which will fully and correctly disclose all transactions involved in his or its business subject to the Act:
 
 (1) Any person that engages, for commerce, in the business of slaughtering any cattle, sheep, swine, goats, horses, mules, or other equines, or preparing, freezing, packaging, or labeling any carcasses, or parts or products of carcasses, of any such animals, for use as human food or animal food;
@@ -54,16 +52,14 @@ Link to an amendment published at 83 FR 25307, May 31, 2018.
 
 (5) Guaranties provided by suppliers of packaging materials under § 317.24.
 
-(6) Records of canning as required by subpart G of this subchapter A, 9 CFR chapter III.
+(6) Records of canning as required by part 431 of this chapter.
 
-(7) Sample results and calculation results as required by processing procedures to destroy trichinae in § 318.10(c)(3)(iv) (Methods 5 and 6).
+(7) Records of nutrition labeling as required by subpart B, part 317, of this subchapter.
 
-(8) Records of nutrition labeling as required by subpart B, part 317, of this subchapter.
+(8) Records as required in § 318.23(b) and (c).
 
-(9) Records as required in § 318.23(b) and (c).
+(9) Records documenting the development, implementation, and maintenance of procedures for the control of the production process using advanced meat/bone separation machinery and meat recovery systems as required by § 318.24 of this subchapter.
 
-(10) Records documenting the development, implementation, and maintenance of procedures for the control of the production process using advanced meat/bone separation machinery and meat recovery systems as required by § 318.24 of this subchapter.
+(10) Records of labeling, product formulas, processing procedures, and any additional documentation needed to show that the labels are consistent with the Federal meat and poultry regulations and policies on labeling, as prescribed in § 412.1 of this chapter.
 
-(11) Records of labeling, product formulas, processing procedures, and any additional documentation needed to show that the labels are consistent with the Federal meat and poultry regulations and policies on labeling, as prescribed in § 412.1 of this chapter.
-
-(Approved by the Office of Management and Budget under control number 0583-0015)[35 FR 15603, Oct. 3, 1970]Editorial Note:For Federal Register citations affecting § 320.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(Approved by the Office of Management and Budget under control number 0583-0015)[35 FR 15603, Oct. 3, 1970]Editorial Note:For Federal Register citations affecting § 320.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

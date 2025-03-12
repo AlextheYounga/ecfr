@@ -1,0 +1,9 @@
+##### § 1.190-3 Election to deduct architectural and transportation barrier removal expenses. #####
+
+(a) *Manner of making election.* The election to deduct expenditures for removal of architectural and transportation barriers provided by section 190(a) shall be made by claiming the deduction as a separate item identified as such on the taxpayer's income tax return for the taxable year for which such election is to apply (or, in the case of a partnership, to the return of partnership income for such year). For the election to be valid, the return must be filed not later than the time prescribed by law for filing the return (including extensions thereof) for the taxable year for which the election is to apply.
+
+(b) *Scope of election.* An election under section 190(a) shall apply to all expenditures described in § 1.190-2 (or in the case of a taxpayer whose architectural and transportation barrier removal expenses exceed $25,000 for the taxable year, to the $25,000 of such expenses with respect to which the deduction is claimed) paid or incurred during the taxable year for which made and shall be irrevocable after the date by which any such election must have been made.
+
+(c) *Records to be kept.* In any case in which an election is made under section 190(a), the taxpayer shall have available, for the period prescribed by paragraph (e) of § 1.6001-1 of this chapter (Income Tax Regulations), records and documentation, including architectural plans and blueprints, contracts, and any building permits, of all the facts necessary to determine the amount of any deduction to which he is entitled by reason of the election, as well as the amount of any adjustment to basis made for expenditures in excess of the amount deductible under section 190.
+
+[T.D. 7634, 44 FR 13273, July 24, 1979]

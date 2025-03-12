@@ -1,5 +1,7 @@
 ##### § 284.123 Rates and charges. #####
 
+Link to an amendment published at 83 FR 36715, July 30, 2018.
+
 (a) *General rule.* Rates and charges for transportation of natural gas authorized under § 284.122(a) shall be fair and equitable as determined in accordance with paragraph (b) of this section.
 
 (b) *Election of rates.* (1) Subject to the conditions in §§ 284.7 and 284.9 of this chapter, an intrastate pipeline may elect to:

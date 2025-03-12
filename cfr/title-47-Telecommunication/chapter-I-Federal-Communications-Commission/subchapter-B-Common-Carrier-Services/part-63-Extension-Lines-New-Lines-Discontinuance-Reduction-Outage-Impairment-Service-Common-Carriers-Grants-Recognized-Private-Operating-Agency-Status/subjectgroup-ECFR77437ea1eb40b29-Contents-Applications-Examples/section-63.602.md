@@ -32,4 +32,4 @@ For purposes of this section, “substantially similar” means that the network
 
 (3) Offers interoperability with key applications and functionalities.
 
-[81 FR 62656, Sept. 12, 2016]Effective Date Note:At 81 FR 62656, Sept. 12, 2016, § 63.602 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[81 FR 62656, Sept. 12, 2016]

@@ -1,0 +1,13 @@
+##### § 1.194-3 Definitions. #####
+
+(a) *Qualified timber property.* The term *qualified timber property* means property located in the United States which will contain trees in significant commercial quantities. The property may be a woodlot or other site but must consist of at least one acre which is planted with tree seedlings in the manner normally used in forestation or reforestation. The property must be held by the taxpayer for the growing and cutting of timber which will either be sold for use in, or used by the taxpayer in, the commercial production of timber products. A taxpayer does not have to own the property in order to be eligible to elect to amortize costs attributable to it under section 194. Thus, a taxpayer may elect to amortize qualifying reforestation expenditures incurred by such taxpayer on leased qualified timber property. Qualified timber property does not include property on which the taxpayer has planted shelter belts (for which current deductions are allowed under section 175) or ornamental trees, such as Christmas trees.
+
+(b) *Amortizable basis.* The term *amortizable basis* means that portion of the basis of qualified timber property which is attributable to reforestation expenditures.
+
+(c) *Reforestation expenditures*—(1) *In general.* The term *reforestation expenditures* means direct costs incurred to plant or seed for forestation or reforestation purposes. Qualifying expenditures include amounts spent for site preparation, seed or seedlings, and labor and tool costs, including depreciation on equipment used in planting or seeding. Only those costs which must be capitalized and are included in the adjusted basis of the property qualify as reforestation expenditures. Costs which are currently deductible do not qualify.
+
+(2) *Cost-sharing programs.* Any expenditures for which the taxpayer has been reimbursed under any governmental reforestation cost-sharing program do not qualify as reforestation expenditures unless the amounts reimbursed have been included in the gross income of the taxpayer.
+
+(d) *Definitions of controlled group of corporations and component member of controlled group.* For purposes of section 194, the terms *controlled group of corporations* and *component member* of a controlled group of corporations shall have the same meaning assigned to those terms in section 1563 (a) and (b), except that the phrase “more than 50 percent” shall be substituted for the phrase “at least 80 percent” each place it appears in section 1563(a)(1).
+
+[T.D. 7927, 48 FR 55850, Dec. 16, 1983]

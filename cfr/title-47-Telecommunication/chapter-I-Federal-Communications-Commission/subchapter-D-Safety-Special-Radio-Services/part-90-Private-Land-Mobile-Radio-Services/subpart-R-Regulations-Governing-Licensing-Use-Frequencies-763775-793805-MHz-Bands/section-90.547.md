@@ -1,8 +1,6 @@
 ##### § 90.547 Narrowband Interoperability channel capability requirement. #####
 
-Link to an amendment published at 83 FR 30367, June 28, 2018.
-
-(a) Except as noted in this section, mobile and portable transmitters operating on narrowband channels in the 769-775 MHz and 799-805 MHz frequency bands must be capable of being programmed to operate on all of the designated nationwide narrowband Interoperability channels pursuant to the standards specified in this part.
+(a) Except as noted in this section, mobile and portable transmitters operating on narrowband channels in the 769-775 MHz and 799-805 MHz frequency bands must be capable of operating on all of the designated nationwide narrowband Interoperability channels pursuant to the standards specified in this part. Provided, however, that the licensee need not program such transmitters to make all interoperability channels accessible to the end user.
 
 (1) Mobile and portable transmitters that are designed to operate only on the Low Power Channels specified in § 90.531 (b)(3) and (4) are exempt from this Interoperability channel requirement.
 
@@ -12,4 +10,4 @@ Link to an amendment published at 83 FR 30367, June 28, 2018.
 
 (b) Mobile and portable transmitters designed for data are not required to be voice capable, and vice versa.
 
-[67 FR 61005, Sept. 27, 2002, as amended at 72 FR 48863, Aug. 24, 2007; 79 FR 71326, Dec. 2, 2014]
+[67 FR 61005, Sept. 27, 2002, as amended at 72 FR 48863, Aug. 24, 2007; 79 FR 71326, Dec. 2, 2014; 83 FR 30367, June 28, 2018]

@@ -1,7 +1,5 @@
 ##### § 679.84 Rockfish Program recordkeeping, permits, monitoring, and catch accounting. #####
 
-Link to an amendment published at 83 FR 30533, June 29, 2018.
-
 (a) *Recordkeeping and reporting. See § 679.5(r).*
 
 (b) *Permits. See § 679.4(n).*
@@ -20,7 +18,7 @@ Link to an amendment published at 83 FR 30533, June 29, 2018.
 
 (6) *Sample storage.* The vessel owner or operator provides sufficient space to accommodate a minimum of 10 observer sampling baskets. This space must be within or adjacent to the observer sample station.
 
-(7) *Pre-cruise meeting.* The Observer Program Office is notified by phone at 1-(907) 271-1702 at least 24 hours prior to departure when the vessel will be carrying an observer who had not previously been deployed on that vessel within the last 12 months. Subsequent to the vessel's departure notification, but prior to departure, NMFS may contact the vessel to arrange for a pre-cruise meeting. The pre-cruise meeting must minimally include the vessel operator or manager and any observers assigned to the vessel.
+(7) *Pre-cruise meeting.* The Observer Program is notified by phone at 1 (907) 481-1770 (Kodiak, AK) at least 24 hours prior to departure when the vessel will be carrying an observer who has not previously been deployed on that vessel within the last 12 months. Subsequent to the vessel's departure notification, but prior to departure, NMFS may contact the vessel to arrange for a pre-cruise meeting. The pre-cruise meeting must minimally include the vessel operator or manager and any observers assigned to the vessel.
 
 (8) *Belt and flow operations.* The vessel operator stops the flow of fish and clears all belts between the bin doors and the area where the observer collects samples of unsorted catch when requested to do so by the observer.
 
@@ -58,4 +56,4 @@ Link to an amendment published at 83 FR 30533, June 29, 2018.
 
 (4) *Halibut sideboard limits.* All halibut PSC in the GOA (including halibut PSC in the waters adjacent to the GOA when rockfish primary species and rockfish secondary species caught by that vessel are deducted from the Federal TAC specified under § 679.20) used by a catcher/processor vessel, except halibut PSC used by a vessel fishing under a CQ permit in the Central GOA, will be debited against the sideboard limit established for the rockfish cooperative or catcher/processor opt-out vessel, as applicable from July 1 until July 31.
 
-[67 FR 79734, Dec. 30, 2002, as amended at 77 FR 6502, Feb. 8, 2012; 81 FR 67118, Sept. 30, 2016]
+[67 FR 79734, Dec. 30, 2002, as amended at 77 FR 6502, Feb. 8, 2012; 81 FR 67118, Sept. 30, 2016; 83 FR 30533, June 29, 2018]

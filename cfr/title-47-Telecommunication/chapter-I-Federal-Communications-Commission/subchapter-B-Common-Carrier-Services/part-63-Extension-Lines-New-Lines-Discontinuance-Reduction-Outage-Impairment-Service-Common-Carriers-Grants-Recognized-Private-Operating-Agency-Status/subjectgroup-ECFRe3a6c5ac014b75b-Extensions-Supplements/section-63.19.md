@@ -14,4 +14,4 @@ Link to an amendment published at 83 FR 31659, July 9, 2018.
 
 (d) Subject to the availability of electronic forms, all filings described in this section must be filed electronically through the International Bureau Filing System (IBFS). A list of forms that are available for electronic filing can be found on the IBFS homepage. For information on electronic filing requirements, see part 1, §§ 1.1000 through 1.10018 of this chapter and the IBFS homepage at *http://www.fcc.gov/ibfs.* See also §§ 63.20 and 63.53.
 
-[67 FR 45391, July 9, 2002, as amended at 70 FR 38798, July 6, 2005; 72 FR 54366, Sept. 25, 2007; 81 FR 62656, Sept. 12, 2016]Effective Date Note:At 81 FR 62656, Sept. 12, 2016, § 63.19(a) introductory text was revised. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[67 FR 45391, July 9, 2002, as amended at 70 FR 38798, July 6, 2005; 72 FR 54366, Sept. 25, 2007; 81 FR 62656, Sept. 12, 2016]

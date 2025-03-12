@@ -269,6 +269,10 @@
 |                                                  |                        1545-1431                        |
 |                   1.170A-13(f)                   |                        1545-1464                        |
 |                    1.170A-14                     |                        1545-0763                        |
+|                    1.170A-15                     |                        1545-1953                        |
+|                    1.170A-16                     |                        1545-1953                        |
+|                    1.170A-17                     |                        1545-1953                        |
+|                    1.170A-18                     |                        1545-1953                        |
 |                     1.171-4                      |                        1545-1491                        |
 |                     1.171-5                      |                        1545-1491                        |
 |                     1.172-1                      |                        1545-0172                        |
@@ -2428,4 +2432,4 @@
 |                                                  |                        1545-0957                        |
 |                     601.702                      |                        1545-0429                        |
 
-(26 U.S.C. 7805)[T.D. 8011, 50 FR 10222, Mar. 14, 1985]Editorial Note:For Federal Register citations affecting § 602.101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(26 U.S.C. 7805)[T.D. 8011, 50 FR 10222, Mar. 14, 1985]Editorial Note:For Federal Register citations affecting § 602.101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,18 +1,12 @@
 ##### § 424.21 Use of food ingredients and sources of radiation. #####
 
-Link to an amendment published at 83 FR 25308, May 31, 2018.
-
 (a)(1) *General.* No meat or poultry product shall bear or contain any food ingredient that would render it adulterated or misbranded, or which is not approved in this part, part 318 or part 319 of this chapter, or by the Administrator in specific cases.
 
 (2)(i) Poultry products and poultry broth used in the processing of poultry products shall have been processed in the United States only in an official establishment or imported from a foreign country listed in § 381.196(b), and have been inspected and passed in accordance with the regulations. Detached ova and offal shall not be used in the processing of any poultry products, except that poultry feet may be processed for use as human food in a manner approved by the Administrator in specific cases and detached ova may be used in the processing of poultry products if the processor demonstrates that such ova comply with the requirements of the Federal Food, Drug, and Cosmetic Act.
 
 (ii) Liquid, frozen, and dried egg products used in the processing of any poultry product shall have been prepared under inspection and be so marked in accordance with the Egg Products Inspection Act.
 
-(3)(i) Carcasses, parts thereof, and products of cattle, sheep, swine, goats, or equines may be used in the processing of poultry products only if they were prepared in the United States in an official meat packing establishment or imported from a foreign country listed in § 327.2(b), were inspected and passed in accordance with the Federal Meat Inspection Act and the regulations under such Act (subchapter A of this chapter), and are so marked.
-
-(ii) Pork from carcasses or carcass parts used as an ingredient in poultry products that has been found free of trichinae, as described under § 318.10 (a)(2), (e) and (f) of the Federal meat inspection regulations (9 CFR 318.10 (a)(2), (e) and (f)), is not required to be treated for the destruction of trichinae.
-
-(iii) Poultry products containing pork muscle tissue which the Administrator determines at the time the labeling for the product is submitted for approval in accordance with part 381 of the regulations in subchapter A or upon subsequent reevaluation of the product would be prepared in such a manner that the product might be eaten rare or without thorough cooking because of the appearance of the finished product or otherwise, shall be effectively heated, refrigerated, or cured to destroy any possible live trichinae, as prescribed in § 318.10(c) of this chapter, at the official establishment where such products are prepared. In lieu of such treatment of poultry products containing pork, the pork ingredient may be so treated.
+(3) Carcasses, parts thereof, and products of cattle, sheep, swine, goats, or equines may be used in the processing of poultry products only if they were prepared in the United States in an official meat packing establishment or imported from a foreign country listed in § 327.2(b), were inspected and passed in accordance with the Federal Meat Inspection Act and the regulations under such Act (subchapter A of this chapter), and are so marked.
 
 (b)(1) *Food ingredients and sources of radiation.* Food ingredients and sources of radiation listed or approved for use in the production of meat or poultry products in 21 CFR chapter I, subchapter A or subchapter B, shall be listed for such use under this chapter, subject to declaration requirements in parts 316 and 317, or subparts M and N, of part 381 of this chapter, unless precluded from such use or further restricted in parts 318 or 319, or subparts O and P, of part 381 of this chapter, or unless such use otherwise results in the adulteration or misbranding of meat or poultry products. Food ingredients and sources of radiation listed or approved for use in the production of meat or poultry products in 21 CFR Chapter I, subchapter A or subchapter B, may be listed or approved for such use under this chapter by the Administrator in § 424.21, subject to declaration requirements in parts 316 and 317, or subparts M and N, of part 381 of this chapter.
 
@@ -358,4 +352,4 @@ Link to an amendment published at 83 FR 25308, May 31, 2018.
 
 <sup>4</sup> Special labeling requirements are prescribed in 381.120 for raw poultry chilled in a medium with more than 70 lbs. of salt to 10,000 gals. of water.
 
-[64 FR 72175, Dec. 23, 1999, as amended at 65 FR 3123, Jan. 20, 2000; 65 FR 34391, May 30, 2000; 78 FR 66839, Nov. 7, 2013]
+[64 FR 72175, Dec. 23, 1999, as amended at 65 FR 3123, Jan. 20, 2000; 65 FR 34391, May 30, 2000; 78 FR 66839, Nov. 7, 2013; 83 FR 25308, May 31, 2018]

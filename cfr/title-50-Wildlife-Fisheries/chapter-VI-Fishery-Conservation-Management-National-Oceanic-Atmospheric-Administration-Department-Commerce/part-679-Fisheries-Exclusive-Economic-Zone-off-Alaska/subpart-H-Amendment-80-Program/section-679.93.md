@@ -1,7 +1,5 @@
 ##### § 679.93 Amendment 80 Program recordkeeping, permits, monitoring, and catch accounting. #####
 
-Link to an amendment published at 83 FR 30533, June 29, 2018.
-
 (a) *Recordkeeping and reporting.* See § 679.5(s).
 
 (b) *Permits.* See § 679.4(o).
@@ -20,7 +18,7 @@ Link to an amendment published at 83 FR 30533, June 29, 2018.
 
 (6) *Sample storage.* There is sufficient space to accommodate a minimum of 10 observer sampling baskets. This space must be within or adjacent to the observer sampling station.
 
-(7) *Pre-cruise meeting.* The Observer Program Office is notified by phone at 1-907-271-1702 at least 24 hours prior to departure when the vessel will be carrying an observer who has not previously been deployed on that vessel within the last 12 months. Subsequent to the vessel's departure notification, but prior to departure, NMFS may contact the vessel to arrange for a pre-cruise meeting. The pre-cruise meeting must minimally include the vessel operator or manager, and any observers assigned to the vessel.
+(7) *Pre-cruise meeting.* The Observer Program is notified by phone at 1 (907) 581-2060 (Dutch Harbor, AK) or 1 (907) 481-1770 (Kodiak, AK) at least 24 hours prior to departure when the vessel will be carrying an observer who has not previously been deployed on that vessel within the last 12 months. Subsequent to the vessel's departure notification, but prior to departure, NMFS may contact the vessel to arrange for a pre-cruise meeting. The pre-cruise meeting must minimally include the vessel operator or manager and any observers assigned to the vessel.
 
 (8) *Belt and flow operations.* The vessel operator stops the flow of fish and clears all belts between the bin doors and the area where the observer collects samples of unsorted catch when requested to do so by the observer.
 
@@ -54,4 +52,4 @@ Link to an amendment published at 83 FR 30533, June 29, 2018.
 
 (iii) Halibut PSC used by an Amendment 80 vessel using dredge gear while directed fishing for scallops.
 
-[72 FR 52726, Sept. 14, 2007, as amended at 75 FR 53069, Aug. 30, 2010; 78 FR 12632, Feb. 25, 2013; 81 FR 67118, Sept. 30, 2016]
+[72 FR 52726, Sept. 14, 2007, as amended at 75 FR 53069, Aug. 30, 2010; 78 FR 12632, Feb. 25, 2013; 81 FR 67118, Sept. 30, 2016; 83 FR 30533, June 29, 2018]

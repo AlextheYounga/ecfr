@@ -1,14 +1,12 @@
 ##### § 679.100 Applicability. #####
 
-Link to an amendment published at 83 FR 30533, June 29, 2018.
-
 The owner and operator of a vessel named on an LLP license with a Pacific cod catcher-processor hook-and-line endorsement for the Bering Sea, Aleutian Islands or both the Bering Sea and Aleutian Islands must comply with the requirements of this subpart.
 
 (a) *Opt out selection.* Each year, the owner of a vessel subject to this subpart who does not intend to directed fish for Pacific cod in the BSAI or conduct groundfish CDQ fishing at any time during a year may, by November 1 of the year prior to fishing, submit to NMFS a completed notification form to opt out of directed fishing for Pacific cod in the BSAI and groundfish CDQ fishing in the upcoming year. The notification form is available on the NMFS Alaska Region Web site (*http://alaskafisheries.noaa.gov/*). Once the vessel owner has selected to opt out, the owner must ensure that the vessel is not used as a catcher/processor to conduct directed fishing for Pacific cod with hook-and-line gear in the BSAI or to conduct groundfish CDQ fishing during the specified year.
 
 (b) *Monitoring option selection.* The owner of a vessel subject to this subpart that does not opt out under paragraph (a) of this section must submit a completed notification form for one of two monitoring options to NMFS. The notification form is available on the NMFS Alaska Region Web site (*http://alaskafisheries.noaa.gov/*). The vessel owner must comply with the selected monitoring option at all times when the vessel is operating in either the BSAI or GOA groundfish fisheries when directed fishing for Pacific cod is open in the BSAI, or while the vessel is groundfish CDQ fishing. If NMFS does not receive a notification to opt out or a notification for one of the two monitoring options, NMFS will assign that vessel to the increased observer coverage option under paragraph (b)(1) of this section until the notification form has been received by NMFS.
 
-(1) *Increased observer coverage option.* Under this option, the vessel owner and operator must ensure that -
+(1) *Increased observer coverage option.* Under this option, the vessel owner and operator must ensure that—
 
 (i) The vessel is in compliance with observer coverage requirements described at § 679.51(a)(2)(vi)(E)(*1*).
 
@@ -18,9 +16,11 @@ The owner and operator of a vessel named on an LLP license with a Pacific cod ca
 
 (iv) All sets are made available for sampling by an observer.
 
-(2) *Scales option.* Under this option -
+(v) The Observer Program is notified by phone at 1 (907) 581-2060 (Dutch Harbor, AK) or 1 (907) 481-1770 (Kodiak, AK) at least 24 hours prior to departure when the vessel will be carrying an observer who has not previously been deployed on that vessel within the last 12 months. Subsequent to the vessel's departure notification, but prior to departure, NMFS may contact the vessel to arrange for a pre-cruise meeting. The pre-cruise meeting must minimally include the vessel operator or manager and any observers assigned to the vessel.
 
-(i) The vessel owner and operator must ensure that -
+(2) *Scales option.* Under this option—
+
+(i) The vessel owner and operator must ensure that—
 
 (A) The vessel is in compliance with observer coverage requirements described at § 679.51(a)(2)(vi)(E)(*2*).
 
@@ -29,6 +29,8 @@ The owner and operator of a vessel named on an LLP license with a Pacific cod ca
 (C) An observer sampling station meeting the requirements at § 679.28(d) is available at all times, unless otherwise approved by NMFS.
 
 (D) The vessel is in compliance with the video monitoring requirements described at § 679.28(k).
+
+(E) The Observer Program is notified by phone at 1 (907) 581-2060 (Dutch Harbor, AK) or 1 (907) 481-1770 (Kodiak, AK) at least 24 hours prior to departure when the vessel will be carrying an observer who has not previously been deployed on that vessel within the last 12 months. Subsequent to the vessel's departure notification, but prior to departure, NMFS may contact the vessel to arrange for a pre-cruise meeting. The pre-cruise meeting must minimally include the vessel operator or manager and any observers assigned to the vessel.
 
 (ii) NMFS will use the weight of all catch that passes over the scale for the purposes of accounting for Pacific cod catch.
 
@@ -42,4 +44,4 @@ The owner and operator of a vessel named on an LLP license with a Pacific cod ca
 
 (c) *Electronic logbooks.* The operator of a vessel subject to paragraph (b) of this section at any time during a year must comply with the requirements for electronic logbooks at § 679.5(f) at all times during that year.
 
-[77 FR 59061, Sept. 26, 2012, as amended at 77 FR 70103, Nov. 21, 2012; 79 FR 68616, Nov. 18, 2014]
+[77 FR 59061, Sept. 26, 2012, as amended at 77 FR 70103, Nov. 21, 2012; 79 FR 68616, Nov. 18, 2014; 83 FR 30533, June 29, 2018]

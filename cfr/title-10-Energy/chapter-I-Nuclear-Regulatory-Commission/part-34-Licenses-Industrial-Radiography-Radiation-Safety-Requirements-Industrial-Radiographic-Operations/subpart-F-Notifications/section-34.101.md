@@ -1,7 +1,5 @@
 ##### § 34.101 Notifications. #####
 
-Link to an amendment published at 83 FR 30287, June 28, 2018.
-
 (a) In addition to the reporting requirements specified in § 30.50 and under other sections of this chapter, such as § 21.21, each licensee shall send a written report to the NRC's Office of Nuclear Material Safety and Safeguards, by an appropriate method listed in § 30.6(a) of this chapter, within 30 days of the occurrence of any of the following incidents involving radiographic equipment:
 
 (1) Unintentional disconnection of the source assembly from the control cable;
@@ -26,6 +24,6 @@ Link to an amendment published at 83 FR 30287, June 28, 2018.
 
 (7) Qualifications of personnel involved in the incident.
 
-(c) Any licensee conducting radiographic operations or storing radioactive material at any location not listed on the license for a period in excess of 180 days in a calendar year, shall notify the appropriate NRC regional office listed in § 30.6(a)(2) of this chapter prior to exceeding the 180 days.
+(c) Any licensee conducting radiographic operations or storing radioactive material at any location not listed on the license for a period in excess of 180 days in a calendar year, shall notify the appropriate NRC regional office listed in § 30.6(b)(2) of this chapter prior to exceeding the 180 days.
 
-[62 FR 28963, May 28, 1997, as amended at 67 FR 3585, Jan. 25, 2002; 68 FR 58805, Oct. 10, 2003; 73 FR 5720, Jan. 31, 2008]
+[62 FR 28963, May 28, 1997, as amended at 67 FR 3585, Jan. 25, 2002; 68 FR 58805, Oct. 10, 2003; 73 FR 5720, Jan. 31, 2008; 83 FR 30287, June 28, 2018]

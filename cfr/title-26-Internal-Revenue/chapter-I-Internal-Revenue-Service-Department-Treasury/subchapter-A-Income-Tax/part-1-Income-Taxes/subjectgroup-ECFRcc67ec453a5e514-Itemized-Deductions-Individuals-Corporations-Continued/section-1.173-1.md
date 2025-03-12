@@ -1,0 +1,19 @@
+##### § 1.173-1 Circulation expenditures. #####
+
+(a) *Allowance of deduction.* Section 173 provides for the deduction from gross income of all expenditures to establish, maintain, or increase the circulation of a newspaper, magazine, or other periodical, subject to the following limitations:
+
+(1) No deduction shall be allowed for expenditures for the purchase of land or depreciable property or for the acquisition of circulation through the purchase of any part of the business of another publisher of a newspaper, magazine, or other periodical;
+
+(2) The deduction shall be allowed only to the publisher making the circulation expenditures; and
+
+(3) The deduction shall be allowed only for the taxable year in which such expenditures are paid or incurred.
+
+Subject to the provisions of paragraph (c) of this section, the deduction permitted under section 173 and this paragraph shall be allowed without regard to the method of accounting used by the taxpayer and notwithstanding the provisions of section 263 and the regulations thereunder, relating to capital expenditures.
+
+(b) *Deferred expenditures.* Notwithstanding the provisions of paragraph (a)(3) of this section, expenditures paid or incurred in a taxable year subject to the Internal Revenue Code of 1939 which are deferrable pursuant to I.T. 3369 (C.B. 1940-1, 46), as modified by Rev. Rul. 57-87 (C.B. 1957-1, 507) may be deducted in the taxable year subject to the Internal Revenue Code of 1954 to which so deferred.
+
+(c) *Election to capitalize.* (1) A taxpayer entitled to the deduction for circulation expenditures provided in section 173 and paragraph (a) of this section may, in lieu of taking such deduction, elect to capitalize the portion of such circulation expenditures which is properly chargeable to capital account. As a general rule, expenditures normally made from year to year in an effort to maintain circulation are not properly chargeable to capital account; conversely, expenditures made in an effort to establish or to increase circulation are properly chargeable to capital account. For example, if a newspaper normally employs five persons to obtain renewals of subscriptions by telephone, the expenditures in connection therewith would not be properly chargeable to capital account. However, if such newspaper, in a special effort to increase its circulation, hires for a limited period 20 additional employees to obtain new subscriptions by means of telephone calls to the general public, the expenditures in connection therewith would be properly chargeable to capital account. If an election is made by a taxpayer to treat any portion of his circulation expenditures as chargeable to capital account, the election must apply to all such expenditures which are properly so chargeable. In such case, no deduction shall be allowed under section 173 for any such expenditures. In particular cases, the extent to which any deductions attributable to the amortization of capital expenditures are allowed may be determined under sections 162, 263, and 461.
+
+(2) A taxpayer may make the election referred to in subparagraph (1) of this paragraph by attaching a statement to his return for the first taxable year to which the election is applicable. Once an election is made, the taxpayer must continue in subsequent taxable years to charge to capital account all circulation expenditures properly so chargeable, unless the Commissioner, on application made to him in writing by the taxpayer, permits a revocation of such election for any subsequent taxable year or years. Permission to revoke such election may be granted subject to such conditions as the Commissioner deems necessary.
+
+(3) Elections filed under section 23(bb) of the Internal Revenue Code of 1939 shall be given the same effect as if they were filed under section 173. (See section 7807(b)(2).)
