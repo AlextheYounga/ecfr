@@ -1,7 +1,5 @@
 ##### § 30.3 Electronic Export Information filer requirements, parties to export transactions, and responsibilities of parties to export transactions. #####
 
-Link to an amendment published at 82 FR 18389, Apr. 19, 2017.
-
 (a) *General requirements.* The filer of EEI for export transactions is either the USPPI, or the U.S. authorized agent. All EEI submitted to the AES shall be complete, correct, and based on personal knowledge of the facts stated or on information furnished by the parties to the export transaction. The filer shall be physically located in the United States at the time of filing, have an EIN or DUNS and be certified to report in the AES. In the event that the filer does not have an EIN or DUNS, the filer must obtain an EIN from the Internal Revenue Service. The filer is responsible for the truth, accuracy, and completeness of the EEI, except insofar as that party can demonstrate that it reasonably relied on information furnished by other responsible persons participating in the transaction. All parties involved in export transactions, including U.S. authorized agents, should be aware that invoices and other commercial documents may not necessarily contain all the information needed to prepare the EEI. The parties shall ensure that all information needed for reporting to the AES, including correct export licensing information, is provided to the U.S. authorized agent for the purpose of correctly preparing the EEI.
 
 (b) *Parties to the export transaction* - (1) *Principal parties in interest.* Those persons in a transaction that receive the primary benefit, monetary or otherwise, are considered principal parties to the transaction. Generally, the principal parties in interest in a transaction are the seller and buyer. In most cases, the forwarding or other agent is not a principal party in interest.
@@ -98,7 +96,7 @@ Note to paragraph (e)(1) of this section:
 
 For items in paragraph (e) (1) (ix), (x),(xi) and (xii) of this section, where the FPPI has assumed responsibility for determining and obtaining license authority see requirements set forth in 15 CFR 758.3 of the EAR.
 
-(2) *Authorized agent responsibilities.* In a routed export transaction, if an authorized agent is preparing and filing the EEI on behalf of the FPPI, the authorized agent must obtain a power of attorney or written authorization from the FPPI and prepare and file the EEI based on information obtained from the USPPI or other parties involved in the transaction. The authorized agent shall be responsible for filing the EEI accurately and timely in accordance with the FTR. Upon request, the authorized agent will provide the USPPI with a copy of the power of attorney or written authorization from the FPPI. The authorized agent shall also retain documentation to support the EEI reported through the AES. The agents shall upon request, provide the USPPI with the data elements in paragraphs (e)(1)(i) through (xii) of this section as submitted through the AES. The authorized agent shall provide the following export information through the AES:
+(2) *Authorized agent responsibilities.* In a routed export transaction, if an authorized agent is preparing and filing the EEI on behalf of the FPPI, the authorized agent must obtain a power of attorney or written authorization from the FPPI and prepare and file the EEI based on information obtained from the USPPI or other parties involved in the transaction. The authorized agent shall be responsible for filing EEI accurately and timely in accordance with the FTR. Upon request, the authorized agent will provide the USPPI with a copy of the power of attorney or written authorization from the FPPI. The authorized agent shall also retain documentation to support the EEI reported through the AES. The authorized agent shall upon request, provide the USPPI with the data elements in paragraphs (e)(1)(i) through (xii) of this section, the date of export as submitted through the AES, the filer name, and the ITN. The authorized agent shall provide the following information through the AES:
 
 (i) Date of export.
 
@@ -128,6 +126,8 @@ For items in paragraph (e) (1) (ix), (x),(xi) and (xii) of this section, where t
 
 (xiv) License or license exemption information.
 
+(xv) Ultimate consignee type.
+
 Note to paragraph (e)(2) of this section:
 
 For items in paragraphs (e)(2)(xiii) and (xiv) of this section, where the FPPI has assumed responsibility for determining and obtaining license authority, see requirements set forth in 15 CFR 758.3 of the EAR.
@@ -138,4 +138,4 @@ Note to § 30.3:
 
 The EAR defines the “exporter” as the person in the United States who has the authority of a principal party in interest to determine and control the sending of items out of the United States (see 15 CFR 772 of the EAR). For statistical purposes “exporter” is not defined in the FTR. Instead, however, the USPPI is defined in the FTR.
 
-For purposes of licensing responsibility under the EAR, the U.S. agent of the FPPI may be the “exporter” or applicant on the license in certain routed export transactions (see 15 CFR 758.3 of the EAR). Therefore, due to the differences in export reporting requirements among Federal agencies, conformity of documentation is not required in the FTR.[73 FR 31555, June 2, 2008, as amended at 74 FR 38916, Aug. 5, 2009; 78 FR 16375, Mar. 14, 2013]
+For purposes of licensing responsibility under the EAR, the U.S. agent of the FPPI may be the “exporter” or applicant on the license in certain routed export transactions (see 15 CFR 758.3 of the EAR). Therefore, due to the differences in export reporting requirements among Federal agencies, conformity of documentation is not required in the FTR.[73 FR 31555, June 2, 2008, as amended at 74 FR 38916, Aug. 5, 2009; 78 FR 16375, Mar. 14, 2013; 82 FR 18389, Apr. 19, 2017]

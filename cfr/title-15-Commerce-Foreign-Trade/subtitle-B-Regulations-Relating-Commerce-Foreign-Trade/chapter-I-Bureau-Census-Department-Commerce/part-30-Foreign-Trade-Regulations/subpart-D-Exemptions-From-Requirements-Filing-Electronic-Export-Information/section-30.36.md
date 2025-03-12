@@ -1,7 +1,5 @@
 ##### § 30.36 Exemption for shipments destined to Canada. #####
 
-Link to an amendment published at 82 FR 18391, Apr. 19, 2017.
-
 (a) Except as noted in § 30.2(a)(1)(iv), and in paragraph (b) of this section, shipments originating in the United States where the country of ultimate destination is Canada are exempt from the EEI reporting requirements of this part.
 
 (b) This exemption does not apply to the following types of export shipments (These shipments shall be reported in the same manner as for all other exports, except household goods, which require limited reporting):
@@ -12,7 +10,7 @@ Link to an amendment published at 82 FR 18391, Apr. 19, 2017.
 
 (3) Requiring a Department of State, DDTC, export license under the ITAR (22 CFR 120-130).
 
-(4) Requiring a Department of Commerce, BIS, export license under the EAR (15 CFR 730-774).
+(4) Requiring a Department of Commerce, Bureau of Industry and Security, license or requiring reporting under the Export Administration Regulations (15 CFR 758.1(b)).
 
 (5) Subject to the ITAR, but exempt from license requirements.
 
@@ -20,4 +18,4 @@ Link to an amendment published at 82 FR 18391, Apr. 19, 2017.
 
 (7) Used self-propelled vehicles as defined in 19 CFR 192.1 of U.S. Customs and Border Protection regulations, regardless of value or country of destination.
 
-[73 FR 31555, June 2, 2008, as amended at 78 FR 16380, Mar. 14, 2013]
+[73 FR 31555, June 2, 2008, as amended at 78 FR 16380, Mar. 14, 2013; 82 FR 18391, Apr. 19, 2017]

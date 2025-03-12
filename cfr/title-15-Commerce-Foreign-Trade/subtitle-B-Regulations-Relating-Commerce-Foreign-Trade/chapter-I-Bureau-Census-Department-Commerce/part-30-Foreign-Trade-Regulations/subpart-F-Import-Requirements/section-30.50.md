@@ -1,8 +1,6 @@
 ##### § 30.50 General requirements for filing import entries. #####
 
-Link to an amendment published at 82 FR 18392, Apr. 19, 2017.
-
-Electronic entry summary filing through the ABI, paper import entry summaries (CBP-7501), or paper record of vessel foreign repair or equipment purchase (CBP-226) shall be completed by the importer or its licensed import broker and filed directly with CBP in accordance with 19 CFR. Information on all mail and informal entries required for statistical and CBP purposes shall be reported, including value not subject to duty. Upon request, the importer or import broker shall provide the Census Bureau with information or documentation necessary to verify the accuracy of the reported information, or to resolve problems regarding the reported import transaction received by the Census Bureau.
+Electronic entry summary filing through the Automated Commercial Environment (ACE), paper import entry summaries (CBP-7501), or paper record of vessel foreign repair or equipment purchase (CBP-226) shall be completed by the importer of record or its licensed customs broker and filed directly with CBP in accordance with 19 CFR parts 1-199. Information on all mail and informal entries required for statistical and CBP purposes shall be reported, including value not subject to duty. Upon request, the importer of record or the importer's licensed customs broker shall provide the Census Bureau with information or documentation necessary to verify the accuracy of the reported information, or to resolve problems regarding the reported import transaction received by the Census Bureau.
 
 (a) Import information for statistical purposes shall be filed for goods shipped as follows:
 
@@ -28,4 +26,4 @@ Electronic entry summary filing through the ABI, paper import entry summaries (C
 
 (c) The Kimberley Process Certificates must be faxed prior to exportation to the Census Bureau on (800) 457-7328 or provided by other methods as permitted by the Census Bureau.
 
-[73 FR 31555, June 2, 2008, as amended at 78 FR 16382, Mar. 14, 2013]
+[73 FR 31555, June 2, 2008, as amended at 78 FR 16382, Mar. 14, 2013; 82 FR 18392, Apr. 19, 2017]

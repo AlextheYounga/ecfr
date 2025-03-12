@@ -1,7 +1,5 @@
 ##### § 30.4 Electronic Export Information filing procedures, deadlines, and certification statements. #####
 
-Link to an amendment published at 82 FR 18390, Apr. 19, 2017.
-
 Two electronic filing options (predeparture and postdeparture) for transmitting EEI are available to the USPPI or authorized agent. The electronic postdeparture filing takes into account that complete information concerning export shipments may not always be available prior to exportation and accommodates these circumstances by providing, when authorized, for filing of EEI after departure. For example, for exports of seasonal and agricultural commodities, only estimated quantities, values, and consignees may be known prior to exportation. The procedures for obtaining certification as an AES filer and for applying for authorization to file on a postdeparture basis are described in § 30.5.
 
 (a) *EEI transmitted predeparture.* The EEI shall always be transmitted prior to departure for the following types of shipments:
@@ -42,11 +40,11 @@ Two electronic filing options (predeparture and postdeparture) for transmitting 
 
 (iv) For rail cargo, the USPPI or the authorized agent shall file the EEI required by § 30.6 and provide the filing citation or exemption legend to the exporting carrier no later than two (2) hours prior to the time the train arrives at the U.S. border to go foreign.
 
-(v) For mail and cargo shipped by other methods, except pipeline, the USPPI or the authorized agent shall file the EEI required by § 30.6 and provide the filing citation or exemption legend to the exporting carrier no later than two (2) hours prior to exportation. (See § 30.46 for filing deadlines for shipments sent by pipeline.)
+(v) For mail, the USPPI or the authorized agent shall file the EEI as required by § 30.6 and provide the proof of filing citation, postdeparture filing citation, AES downtime filing citation, exemption or exclusion legend to the U.S. Postal Service no later than two (2) hours prior to exportation.
 
 (vi) For all other modes, the USPPI or the authorized agent shall file the required EEI no later than two (2) hours prior to exportation.
 
-(3) For shipments between the United States and Puerto Rico, the AES proof of filing citation, postdeparture filing citation, or exemption citation must be presented to the carrier by the time the shipment arrives at the port of unloading.
+(3) For shipments between the United States and Puerto Rico, the USPPI or authorized agent shall provide the proof of filing citation, postdeparture filing citation, AES downtime filing citation, exemption or exclusion legend to the exporting carrier by the time the shipment arrives at the port of unloading.
 
 (4) For non-USML shipments when the AES or AES*Direct* is unavailable, use the following instructions:
 
@@ -60,8 +58,10 @@ Two electronic filing options (predeparture and postdeparture) for transmitting 
 
 (5) For used self-propelled vehicles as defined in 19 CFR 192.1 of U.S. Customs and Border Protection regulations, the USPPI or the authorized agent shall file the EEI as required by § 30.6 and provide the filing citation to the CBP at least 72 hours prior to export. The filer must also provide the carrier with the filing citation as required by paragraph (b) of this section.
 
-(c) *EEI transmitted postdeparture.* Postdeparture filing is only available for approved USPPIs and provides for the electronic filing of the data elements required by § 30.6 no later than five (5) calendar days after the date of exportation. For USPPIs approved for postdeparture filing, all shipments (other than those for which predeparture filing is specifically required), by all methods of transportation, may be exported with the filing of EEI made postdeparture. Authorized agents or service centers may transmit information postdeparture on behalf of USPPIs approved for postdeparture filing, or the approved USPPI may transmit the data postdeparture itself.
+(c) *EEI transmitted postdeparture* - (1) *Postdeparture filing procedures.* Postdeparture filing is only available for approved USPPIs. For all methods of transportation other than pipeline, approved USPPIs or their authorized agent may file data elements required in accordance with § 30.6 no later than five (5) calendar days after the date of exportation, except for shipments where predeparture filing is specifically required.
+
+(2) *Pipeline filing procedures.* USPPIs or authorized agents may file data elements required by § 30.6 no later than four (4) calendar days following the end of the month. The operator of a pipeline may transport goods to a foreign country without the prior filing of the proof of filing citation, exemption, or exclusion legend, on the condition that within four (4) calendar days following the end of each calendar month the operator will deliver to the CBP Port Director the proof of filing citation, exemption, or exclusion legend covering all exports through the pipeline to each consignee during the month.
 
 (d) *Proof of filing citation and exemption and exclusion legends.* The USPPI or the authorized agent shall provide the exporting carrier with the proof of filing citation and exemption and exclusion legends as described in § 30.7.
 
-[73 FR 31555, June 2, 2008, as amended at 78 FR 16376, Mar. 14, 2013]
+[73 FR 31555, June 2, 2008, as amended at 78 FR 16376, Mar. 14, 2013; 82 FR 18390, Apr. 19, 2017]

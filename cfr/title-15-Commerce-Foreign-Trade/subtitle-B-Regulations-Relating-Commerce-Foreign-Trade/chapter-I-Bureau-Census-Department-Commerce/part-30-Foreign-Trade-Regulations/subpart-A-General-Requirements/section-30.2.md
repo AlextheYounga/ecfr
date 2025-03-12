@@ -1,7 +1,5 @@
 ##### § 30.2 General requirements for filing Electronic Export Information (EEI). #####
 
-Link to an amendment published at 82 FR 18389, Apr. 19, 2017.
-
 (a) *Filing requirements* - (1) The EEI shall be filed through the AES by the United States Principal Party In Interest (USPPI), the USPPI's authorized agent, or the authorized U.S. agent of the Foreign Principal Party In Interest (FPPI) for all exports of physical goods, including shipments moving pursuant to orders received over the Internet. The Automated Export System (AES) is the electronic system for collecting Shipper's Export Declaration (SED) (or any successor document) information from persons exporting goods from the United States, Puerto Rico, Foreign Trade Zones (FTZs) located in the United States or Puerto Rico, the U.S. Virgin Islands, between Puerto Rico and the United States, and to the U.S. Virgin Islands from the United States or Puerto Rico. Exceptions, exclusions, and exemptions to this requirement are provided for in paragraph (d) of this section and Subpart D of this part. References to the AES also shall apply to AES*Direct* unless otherwise specified. For purposes of the regulations in this part, the SED information shall be referred to as EEI. Filing through the AES shall be done in accordance with the definitions, specifications, and requirements of the regulations in this part for all export shipments, except as specifically excluded in § 30.2(d) or exempted in Subpart D of this part, when shipped as follows:
 
 (i) To foreign countries or areas, including free (foreign trade) zones located therein (see § 30.36 for exemptions for shipments from the United States to Canada) from any of the following:
@@ -26,11 +24,11 @@ Link to an amendment published at 82 FR 18389, Apr. 19, 2017.
 
 (iv) Notwithstanding exemptions in Subpart D, EEI shall be filed for the following types of export shipments, regardless of value:
 
-(A) Requiring a Department of Commerce, Bureau of Industry and Security (BIS) license (15 CFR 730-774).
+(A) Requiring a Department of Commerce, Bureau of Industry and Security (BIS) license or requiring reporting under the Export Administration Regulations (15 CFR 758.1(b)).
 
 (B) Requiring a Department of State, Directorate of Defense Trade Controls (DDTC) license under the International Traffic in Arms Regulations (ITAR) (22 CFR Parts 120 through 130).
 
-(C) Subject to the ITAR, but exempt from license requirements.
+(C) Subject to the ITAR, but exempt from license requirements, except as noted by the ITAR.
 
 (D) Requiring a Department of Justice, Drug Enforcement Administration (DEA) export permit (21 CFR 1312).
 
@@ -44,7 +42,7 @@ Link to an amendment published at 82 FR 18389, Apr. 19, 2017.
 
 Note to paragraph (a)(1)(iv):
 
-For the filing requirement for exports destined for a country in Country Group E:1 as set forth in the Supplement No. 1 to 15 CFR part 740, see FTR § 30.16.
+For the filing requirement for exports destined for a country in Country Group E:1 or E:2 as set forth in the Supplement No. 1 to 15 CFR part 740, see FTR § 30.16.
 
 (2) *Filing methods.* The USPPI has four means for filing EEI: use AES*Direct;* develop AES software using the AESTIR (see *\<www.cbp.gov/xp/cgov/trade/automated/aes/tech\_docs/aestir/\>*); purchase software developed by certified vendors using the AESTIR; or use an authorized agent. An FPPI can only use an authorized agent in a routed transaction.
 
@@ -52,17 +50,27 @@ For the filing requirement for exports destined for a country in Country Group E
 
 (2) Specific data elements required for EEI filing are contained in § 30.6.
 
-(3) The AES downtime procedures provide uniform instructions for processing export transactions when the government's AES or AES*Direct* is unavailable for transmission. (See § 30.4(b)(1) and § 30.4(b)(3).)
+(3) The AES downtime procedures provide uniform instructions for processing export transactions when the government's AES or AES*Direct* is unavailable for transmission. (See § 30.4(b)(1) and (4)).
 
 (4) Instructions for particular types of transactions and exemptions from these requirements are found in Subparts C and D of this part.
 
 (5) The EEI is required to be filed in the AES prior to export for shipments by vessel going directly to the countries identified in U.S. Customs and Border Protection regulations 19 CFR 4.75(c) and by aircraft going directly or indirectly to those countries. (See U.S. Customs and Border Protection regulations 19 CFR 122.74(b)(2).)
 
-(c) *Certification and filing requirements.* Filers of EEI shall be required to meet application, certification, and filing requirements before being approved to submit EEI. Steps leading toward approval for the AES or the AES*Direct* filing include the following processes: (See § 30.5 for specific application, certification, and filing standards applicable to AES and AES*Direct* submissions.)
+(c) *Application and certification process.* The USPPI or authorized agent will either submit an ACE Exporter Account Application or a Letter of Intent based on their transmission method and, as a result, may be subject to the certification process.
 
-(1) Submission of an electronic AES Participant Application (APA) for AES filing or submission of an online registration for filing through *http://www.census.gov/aes.*
+(1) *AESDirect.* USPPIs or authorized agents who choose to file via the AESDirect shall complete an online ACE Exporter Account Application. In addition, once the ACE Exporter Account is created, all users must agree to the AES Certification Statements prior to filing through AESDirect.
 
-(2) Successful completion of certification testing for AES or for AES*Direct* filing.
+(2) *Methods other than AESDirect.* USPPIs or authorized agents who choose to file by a means other than AESDirect shall submit a Letter of Intent to CBP and may be required to complete the certification process.
+
+(i) *Certification.* A two-part communication test to ascertain whether the system is capable of both transmitting data to and receiving responses from the AES. CBP client representatives make the sole determination as to whether or not the system of the self-programming filer, service center, or software vendor passes certification.
+
+(ii) *Parties requiring certification:*
+
+(A) Self-programming USPPIs or authorized agents;
+
+(B) Service centers; and
+
+(C) Software vendors who develop AES software.
 
 (d) *Exclusions from filing EEI.* The following types of transactions are outside the scope of this part and shall be excluded from EEI filing.
 
@@ -78,4 +86,4 @@ For the filing requirement for exports destined for a country in Country Group E
 
 (e) *Penalties.* Failure of the USPPI, the authorized agent of either the USPPI or the FPPI, the exporting carrier, or any other person subject thereto to comply with any of the requirements of the regulations in this part renders such persons subject to the penalties provided for in Subpart H of this part.
 
-[73 FR 31555, June 2, 2008, as amended at 78 FR 16375, Mar. 14, 2013]
+[73 FR 31555, June 2, 2008, as amended at 78 FR 16375, Mar. 14, 2013; 82 FR 18389, Apr. 19, 2017]

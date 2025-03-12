@@ -1,20 +1,18 @@
 ##### § 30.6 Electronic Export Information data elements. #####
 
-Link to an amendment published at 82 FR 18390, Apr. 19, 2017.
-
-The information specified in this section is required for shipments transmitted to the AES. The data elements identified as “mandatory” shall be reported for each transaction. The data elements identified as “conditional” shall be reported if they are required for or apply to the specific shipment. The data elements identified as “optional” may be reported at the discretion of the USPPI or the authorized agent.
+The information specified in this section is required for EEI transmitted to the AES. The data elements identified as “mandatory” shall be reported for each transaction. The data elements identified as “conditional” shall be reported if they are required for or apply to the specific shipment. The data elements identified as “optional” may be reported at the discretion of the USPPI or the authorized agent. Additional data elements may be required to be reported in the AES in accordance with other federal agencies' regulations. Refer to the other agencies' regulations for reporting requirements.
 
 (a) Mandatory data elements are as follows:
 
-(1) *USPPI and USPPI identification.* The name, address, identification, and contact information of the USPPI shall be reported to the AES as follows:
+(1) *USPPI.* The person or legal entity in the United States that receives the primary benefit, monetary or otherwise, from the export transaction. Generally, that person or entity is the U.S. seller, manufacturer, or order party, or the foreign entity while in the United States when purchasing or obtaining the goods for export. The name, address, identification number, and contact information of the USPPI shall be reported to the AES as follows:
 
 (i) *Name of the USPPI.* In all export transactions, the name listed in the USPPI field in the EEI shall be the USPPI in the transaction. (See § 30.1 for the definition of the USPPI and § 30.3 for details on the USPPI's reporting responsibilities.)
 
 (ii) *Address of the USPPI.* In all EEI filings, the USPPI shall report the address or location (no post office box number) from which the goods actually begin the journey to the port of export even if the USPPI does not own/lease the facility. For example, the EEI covering goods laden aboard a truck at a warehouse in Georgia for transport to Florida for loading onto a vessel for export to a foreign country shall show the address of the warehouse in Georgia. For shipments with multiple origins, report the address from which the commodity with the greatest value begins its export journey. If such information is not known, report the address in the state where the commodities are consolidated for export.
 
-(iii) *USPPI identification number.* The USPPI shall report its own IRS EIN in the USPPI field of the EEI. If the USPPI has only one EIN, report that EIN. If the USPPI has more than one EIN, report the EIN that the USPPI uses to report employee wages and withholdings, and not the EIN that is used to report only company earnings or receipts. If the USPPI does not have an EIN, the USPPI must obtain an EIN for reporting to the AES. Use of another company's or individual's EIN or other identification number is prohibited. The appropriate Party type code shall be reported through the AES. When a foreign entity is in the United States when the items are purchased or obtained for export, the foreign entity is the USPPI for filing purposes. In such situations, the foreign entity shall report a DUNS, border crossing number, passport number, or any number assigned by CBP.
+(iii) *USPPI identification number.* Report the EIN or DUNS number of the USPPI. If the USPPI has only one EIN, report that EIN. If the USPPI has more than one EIN, report the EIN that the USPPI uses to report employee wages and withholdings, not an EIN used to report only company earnings or receipts. Use of another company's EIN is prohibited. The appropriate Party ID Type code shall be reported to the AES. If a foreign entity is in the United States at the time goods are purchased or obtained for export, the foreign entity is the USPPI. In such situations, when the foreign entity does not have an EIN, the authorized agent shall report a border crossing number, passport number, or any number assigned by CBP on behalf of the foreign entity.
 
-(iv) *Contact information.* Show contact name and telephone number.
+(iv) *USPPI contact information.* The person who has the most knowledge regarding the specific shipment or related export controls.
 
 (2) *Date of export.* The date of export is the date when goods are scheduled to leave the port of export on the exporting carrier that is taking the goods out of the United States.
 
@@ -24,9 +22,15 @@ The information specified in this section is required for shipments transmitted 
 
 (5) *Country of ultimate destination.* The country of ultimate destination is the country in which goods are to be consumed, further processed, stored, or manufactured, as known to the USPPI at the time of export. The country of ultimate destination is the code issued by the ISO.
 
-(i) *Shipments under an export license, license exception or license exemption.* For shipments under an export license or license exemption issued by the Department of State, DDTC or export license or license exception issued by the Department of Commerce, BIS, the country of ultimate destination shall conform to the country of ultimate destination as shown on the license. In the case of a Department of State license, the country of ultimate destination is the country specified with respect to the end user. For goods licensed by other government agencies, refer to their specific requirements concerning providing country of destination information. For shipments to international waters for items that are being exported pursuant to a BIS license exception or No License Required (NLR), the country of destination to be reported is the nationality of the person(s) or entity assuming control of the item(s) subject to the Export Administration Regulations that are being exported.
+(i) *Shipments under an export license.* For shipments under an export license issued by the Department of State, Directorate of Defense Trade Controls (DDTC), or the Department of Commerce, Bureau of Industry and Security (BIS), the country of ultimate destination shall conform to the country of ultimate destination as shown on the license. In the case of a DDTC or BIS license, the country of ultimate destination is the country specified with respect to the end user, which may also be the ultimate consignee. For goods licensed by other government agencies, refer to the agencies' specific requirements for providing country of ultimate destination information.
 
-(ii) *Shipments not moving under an export license.* The country of ultimate destination is the country known to the USPPI at the time of exportation. The country to which the goods are being shipped is not the country of ultimate destination if the USPPI has knowledge at the time the goods leave the United States that they are intended for reexport or transshipment in their present form to another known country. For goods shipped to Canada, Mexico, Panama, Hong Kong, Belgium, United Arab Emirates, The Netherlands, or Singapore, for example, special care should be exercised before reporting these countries as the ultimate destination, since these are countries through which goods from the United States are frequently transshipped. If the USPPI does not know the ultimate destination of the goods, the country of destination to be shown is the last country, as known to the USPPI at the time of shipment from the United States, to which the goods are to be shipped in their present form. (For instructions as to the reporting of country of destination for vessels sold or transferred from the United States to foreign ownership, see § 30.26.)
+(ii) *Shipments not moving under an export license.* The country of ultimate destination is the country known to the USPPI or U.S. authorized agent at the time of exportation. The country to which the goods are being shipped is not the country of ultimate destination if the USPPI or U.S. authorized agent has knowledge, at the time the goods leave the United States, that they are intended for reexport or transshipment in the form received to another known country. For goods shipped to Canada, Mexico, Panama, Hong Kong, Belgium, United Arab Emirates, The Netherlands, or Singapore, special care should be exercised before reporting these countries as the ultimate destinations because these are countries through which goods from the United States are frequently transshipped. If the USPPI or U.S. authorized agent does not know the ultimate destination of the goods, the country of ultimate destination to be shown is the last country, as known to the USPPI or U.S. authorized agent at the time the goods leave the United States, to which the goods are to be shipped in their present form. (For instructions as to the reporting of country of ultimate destination for vessels sold or transferred from the United States to foreign ownership, see § 30.26). In addition, the following types of shipments must be reported as follows:
+
+(A) *Department of State, DDTC, license exemption.* The country of ultimate destination is the country specified with respect to the end user as noted in the ITAR (22 CFR 123.9(a)).
+
+(B) *Department of Commerce, BIS, license exception.* The country of ultimate destination is the country of the end user as defined in 15 CFR 772.1 of the Export Administration Regulations (EAR).
+
+(C) *For shipments to international waters.* The country of ultimate destination is the nationality of the person(s) or entity assuming control of the good(s) exported to international waters.
 
 (iii) For goods to be sold en route, report the country of the first port of call and then report corrected information as soon as it is known.
 
@@ -44,11 +48,7 @@ The information specified in this section is required for shipments transmitted 
 
 (10) *Related party indicator.* Used to indicate when a transaction involving trade between a USPPI and an ultimate consignee where either party owns directly or indirectly 10 percent or more of the other party.
 
-(11) *Domestic or foreign indicator.* Indicates if the goods exported are of domestic or foreign origin. Report foreign goods separately from goods of domestic production even if the commodity classification number is the same.
-
-(i) *Domestic.* Exports of domestic goods include: Those commodities that are grown, produced, or manufactured (including commodities incorporating foreign components) in the United States, including goods exported from U.S. FTZs, Puerto Rico, or the U.S. Virgin Islands; and those articles of foreign origin that have been enhanced in value or changed from the form in which they were originally imported by further manufacture or processing in the United States, including goods exported from U.S. FTZs, Puerto Rico, or the U.S. Virgin Islands.
-
-(ii) *Foreign.* Exports of foreign goods include those commodities that are grown, produced, or manufactured in foreign countries that entered the United States including goods admitted to U.S. FTZs as imports and that, at the time of exportation, have undergone no change in form or condition or enhancement in value by further manufacture in the United States, in U.S. FTZs, in Puerto Rico, or in the U.S. Virgin Islands.
+(11) *Domestic or foreign indicator.* Indicates if the goods exported are of domestic or foreign origin. Report foreign goods as a separate line item from domestic goods even if the commodity classification number is the same.
 
 (12) *Commodity classification number.* Report the 10-digit commodity classification number as provided in Schedule B, *Statistical Classification of Domestic and Foreign Commodities Exported from the United States* in the EEI. The 10-digit commodity classification number provided in the Harmonized Tariff Schedule of the United States (HTSUSA) may be reported in lieu of the Schedule B commodity classification number except as noted in the headnotes of the HTSUSA. The HTSUSA is a global classification system used to describe most world trade in goods. Furnishing the correct Schedule B or HTSUSA number does not relieve the USPPI or the authorized agent of furnishing a complete and accurate commodity description. When reporting the Schedule B number or HTSUSA number, the decimals shall be omitted. (See *http://www.census.gov/trade* for a list of Schedule B classification numbers.)
 
@@ -88,7 +88,7 @@ The information specified in this section is required for shipments transmitted 
 
 (18) *Export information code.* A code that identifies the type of export shipment or condition of the exported items (e.g., goods donated for relief or charity, impelled shipments, shipments under the Foreign Military Sales program, household goods, and all other shipments). (For the list of the codes see Appendix B.)
 
-(19) *Shipment reference number.* A unique identification number assigned by the filer that allows for the identification of the shipment in the filer's system. The reuse of the shipment reference number is prohibited.
+(19) *Shipment Reference Number (SRN).* A unique identification number assigned by the filer that allows for the identification of the shipment in the filer's system. The reuse of the SRN is prohibited.
 
 (20) *Line number.* A number that identifies the specific commodity line item within a shipment.
 
@@ -152,7 +152,7 @@ The information specified in this section is required for shipments transmitted 
 
 (13) *Entry number.* The entry number must be reported for goods that are entered in lieu of being transported under bond for which the importer of record is a foreign entity or, for reexports of goods withdrawn from a FTZ for which a NAFTA deferred duty claim (entry type 08) could have been made, but that the importer elected to enter for consumption under CBP entry type 06. For goods imported into the United States for export to a third country of ultimate destination, where the importer of record on the entry is a foreign entity, the USPPI will be the authorized agent designated by the foreign importer for service of process. The USPPI, in this circumstance, is required to report the import entry number.
 
-(14) *Transportation reference number (TRN).* The TRN is as follows:
+(14) *Transportation Reference Number (TRN).* The TRN is as follows:
 
 (i) *Vessel shipments.* Report the booking number for vessel shipments. The booking number is the reservation number assigned by the carrier to hold space on the vessel for cargo being exported. The TRN is required for all vessel shipments.
 
@@ -188,4 +188,6 @@ The information specified in this section is required for shipments transmitted 
 
 (2) *Equipment number.* Report the identification number for the shipping equipment, such as container or igloo number (Unit Load Device (ULD)), truck license number, rail car number, or container number for containerized vessel cargo.
 
-[73 FR 31555, June 2, 2008, as amended at 74 FR 38916, Aug. 5, 2009; 78 FR 16376, Mar. 14, 2013]
+(3) *Original ITN.* The ITN associated with a previously filed shipment that is replaced or divided and for which additional shipment(s) must be filed. The original ITN field can be used in certain scenarios, such as, but not limited to, shipments sold en route or cargo split by the carrier where the succeeding parts of the shipment are not exported within the timeframes specified in § 30.28.
+
+[73 FR 31555, June 2, 2008, as amended at 74 FR 38916, Aug. 5, 2009; 78 FR 16376, Mar. 14, 2013; 82 FR 18390, Apr. 19, 2017]

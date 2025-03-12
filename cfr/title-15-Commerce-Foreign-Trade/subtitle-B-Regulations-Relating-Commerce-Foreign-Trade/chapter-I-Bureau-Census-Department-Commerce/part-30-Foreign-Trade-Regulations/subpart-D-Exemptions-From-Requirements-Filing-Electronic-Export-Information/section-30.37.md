@@ -1,7 +1,5 @@
 ##### § 30.37 Miscellaneous exemptions. #####
 
-Link to an amendment published at 82 FR 18392, Apr. 19, 2017.
-
 Except as noted in § 30.2(a)(1)(iv), filing EEI is not required for the following kinds of shipments. However, the Census Bureau has the authority to periodically require the reporting of shipments that are normally exempt from filing.
 
 (a) Exports of commodities where the value of the commodities shipped from one USPPI to one consignee on a single exporting conveyance, classified under an individual Schedule B number or HTSUSA commodity classification code is $2,500 or less. This exemption applies to individual Schedule B numbers or HTSUSA commodity classification codes regardless of the total shipment value. In instances where a shipment contains a mixture of individual Schedule B numbers or HTSUSA commodity classification codes valued at $2,500 or less and individual Schedule B numbers or HTSUSA commodity classification codes valued over $2,500, only those Schedule B numbers or HTSUSA commodity classification codes valued over $2,500 are required to be reported. If the filer reports multiple items of the same Schedule B number or HTSUSA commodity classification code, this exemption only applies if the total value of exports for the Schedule B number or HTSUSA commodity classification code is $2,500 or less. Items of domestic and foreign origin under the same commodity classification number must be reported separately and EEI filing is required when either is over $2,500. For the reporting of household goods see § 30.38. Note: this exemption does not apply to the export of vehicles. The export information for vehicles must be filed in AES regardless of value or country of destination.
@@ -64,7 +62,7 @@ Except as noted in § 30.2(a)(1)(iv), filing EEI is not required for the followi
 
 (x) Shipments exported under license exception Baggage (BAG) (15 CFR 740.14).
 
-(y) The following types of shipments destined for a country listed in Country Group E:1 as set forth in Supplement No. 1 to 15 CFR part 740 are not required to be filed in the AES:
+(y) The following types of shipments destined for a country listed in Country Group E:1 or E:2 as set forth in Supplement No. 1 to 15 CFR part 740 are not required to be filed in the AES:
 
 (1) Shipments of published books, software, maps, charts, pamphlets, or any other similar media available for general distribution, as described in 15 CFR 734.7 to foreign libraries, or similar institutions.
 
@@ -74,8 +72,8 @@ Except as noted in § 30.2(a)(1)(iv), filing EEI is not required for the followi
 
 (4) Individual gift parcels and humanitarian donations being lawfully exported under License Exception GFT (15 CFR 740.12(a) and (b)).
 
-(5) Vessels and aircraft lawfully leaving the United States for temporary sojourn to or in a Country Group E:1 country under License Exception AVS (15 CFR 740.15).
+(5) Vessels and aircraft lawfully leaving the United States for temporary sojourn to or in a Country Group E:1 or E:2 country under License Exception AVS (15 CFR 740.15).
 
-(6) Tools of trade that will be used by a person traveling to a Country Group E:1 destination, that will be returned to the United States within one year and that are lawfully being exported to a Country Group E:1 destination under License Exception BAG (15 CFR 740.14) or License Exception TMP (15 CFR 740.9(a)).
+(6) Tools of trade that will be used by a person traveling to a Country Group E:1 or E:2 destination, that will be returned to the United States within one year and that are lawfully being exported to a Country Group E:1 or E:2 destination under License Exception BAG (15 CFR 740.14) or License Exception TMP (15 CFR 740.9(a)).
 
-[73 FR 31555, June 2, 2008, as amended at 78 FR 16380, Mar. 14, 2013; 79 FR 54589, Sept. 12, 2014]
+[73 FR 31555, June 2, 2008, as amended at 78 FR 16380, Mar. 14, 2013; 79 FR 54589, Sept. 12, 2014; 82 FR 18392, Apr. 19, 2017]

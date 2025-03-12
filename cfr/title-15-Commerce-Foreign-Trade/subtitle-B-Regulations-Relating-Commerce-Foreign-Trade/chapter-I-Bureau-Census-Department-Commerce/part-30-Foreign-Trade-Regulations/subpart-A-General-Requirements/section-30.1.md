@@ -1,34 +1,32 @@
 ##### § 30.1 Purpose and definitions. #####
 
-Link to an amendment published at 82 FR 18388, Apr. 19, 2017.
-
 (a) This part sets forth the Foreign Trade Regulations (FTR) as required under the provisions of Title 13, United States Code (U.S.C.), Chapter 9, section 301. These regulations are revised pursuant to provisions of the Foreign Relations Authorization Act, Public Law 107-228 (the Act). This Act authorizes the Secretary of Commerce, with the concurrence of the Secretary of State and the Secretary of Homeland Security, to publish regulations mandating that all persons who are required to file export information under Chapter 9 of 13 U.S.C., file such information through the Automated Export System (AES) for all shipments where a Shipper's Export Declaration (SED) was previously required. The law further authorizes the Secretary of Commerce to issue regulations regarding imposition of civil and criminal penalties for violations of the provisions of the Act and these regulations.
 
 (b) Electronic filing through the AES strengthens the U.S. government's ability to prevent the export of certain items to unauthorized destinations and/or end users because the AES aids in targeting, identifying, and when necessary confiscating suspicious or illegal shipments prior to exportation.
 
 (c) Definitions used in the FTR. As used in this part, the following definitions apply:
 
-*AES applicant.* The USPPI or authorized agent who applies to the Census Bureau for authorization to report export information electronically to the AES, or through AES*Direct* or its related applications.
+*AES applicant.* The USPPI or authorized agent who reports export information electronically to the AES, or through AES*Direct.*
 
-AES*Direct.* A free Internet application supported by the Census Bureau that allows USPPIs, their authorized agent, or the authorized agent of the FPPI to transmit EEI through the AES via the Internet at *http://www.aesdirect.gov.*
+*AESDirect.* An Internet portal within the Automated Commercial Environment that allows USPPIs and authorized agents to transmit EEI to the AES. All regulatory requirements pertaining to the AES also apply to AES*Direct.*
 
-*AES downtime filing citation.* A statement used in place of a proof of filing citation when the AES or AES *Direct* computer systems experience a major failure. The citation must appear on the bill of lading, air waybill, export shipping instructions, or other commercial loading documents. The downtime filing citation is not to be used when the filer's system is down or experiencing delays.
-
-*AES participant application (APA).* An electronic submission of an individual or a company's desire to participate in the AES. It sets forth a commitment to develop, maintain, and adhere to CBP and Census Bureau performance requirements and operational standards.
+*AES downtime filing citation.* A statement used in place of a proof of filing citation when the AES or AES*Direct* are inoperable.
 
 *Air waybill.* The shipping document used for the transportation of air freight includes conditions, limitations of liability, shipping instructions, description of commodity, and applicable transportation charges. It is generally similar to a straight non-negotiable bill of lading and is used for similar purposes.
 
-*Annotation.* An explanatory note (e.g., proof of filing citation, postdeparture filing citation, AES downtime filing citation, exemption or exclusion legend) placed on the bill of lading, air waybill, export shipping instructions, or other commercial loading documents.
+*Annotation.* An explanatory note (e.g., proof of filing citation, postdeparture filing citation, AES downtime filing citation, exemption or exclusion legend) on the bill of lading, air waybill, export shipping instructions, other commercial loading documents or electronic equivalent.
 
 *Authorized agent.* An individual or legal entity physically located in or otherwise under the jurisdiction of the United States that has obtained power of attorney or written authorization from a USPPI or FPPI to act on its behalf, and for purposes of this part, to complete and file the EEI.
 
 *Automated Broker Interface (ABI).* A CBP system through which an importer or licensed customs broker can electronically file entry and entry summary data on goods imported into the United States.
 
-*Automated Export System (AES).* The system, including AESDirect, for collecting EEI information (or any successor document) from persons exporting goods from the United States, Puerto Rico, or the U.S. Virgin Islands; between Puerto Rico and the United States; and to the U.S. Virgin Islands from the United States or Puerto Rico.
+*Automated Commercial Environment (ACE).* A CBP authorized electronic data interchange system for processing import and export data.
+
+*Automated Export System (AES).* The system for collecting EEI (or any successor to the Shipper's Export Declaration) from persons exporting goods from the United States, Puerto Rico, or the U.S. Virgin Islands; between Puerto Rico and the United States; and to the U.S. Virgin Islands from the United States or Puerto Rico. The AES is currently accessed through the Automated Commercial Environment.
 
 *Automated Export System Trade Interface Requirements (AESTIR).* The document that describes the technical and operational requirements of the AES. The AESTIR presents record formats and other reference information used in the AES.
 
-*Bill of lading (BL).* A document that establishes the terms of a contract between a shipper and a transportation company under which freight is to be moved between specified points for a specified charge. Usually prepared by the authorized agent on forms issued by the carrier, it serves as a document of title, a contract of carriage, and a receipt for goods.
+*Bill of Lading (BL).* A document that establishes the terms of a contract under which freight is to be moved between specified points for a specified charge. It is issued by the carrier based on instructions provided by the shipper or its authorized agent. It may serve as a document of title, a contract of carriage, and a receipt for goods.
 
 *Bond.* An instrument used by CBP as security to ensure the payment of duties, taxes and fees and/or compliance with certain requirements such as the submission of manifest information.
 
@@ -44,13 +42,13 @@ AES*Direct.* A free Internet application supported by the Census Bureau that all
 
 *Carnet.* An international customs document that allows the carnet holder to import into the United States or export to foreign countries certain goods on a temporary basis without the payment of duties.
 
-*Carrier.* An individual or legal entity in the business of transporting passengers or goods. Airlines, trucking companies, railroad companies, shipping lines, pipeline companies, and slot charterers are all examples of carriers.
+*Carrier.* An individual or legal entity in the business of transporting passengers or goods. Airlines, trucking companies, railroad companies, shipping lines, pipeline companies, slot charterers, and Non-Vessel Operating Common Carriers (NVOCCs) are all examples of carriers.
 
 *Civil penalty.* A monetary penalty imposed on a USPPI, authorized agent, FPPI, carrier, or other party to the transaction for violating the FTR, including failing to file export information, filing false or misleading information, filing information late, and/or using the AES to further any illegal activity, and/or violating any other regulations of this part.
 
 *Commerce Control List (CCL).* A list of items found in Supplement No. 1 to Part 774 of the EAR. Supplement No. 2 to Part 774 of the EAR contains the General Technology and Software Notes relevant to entries contained in the CCL.
 
-*Commercial loading document.* A document that establishes the terms of a contract between a shipper and a transportation company under which freight is to be moved between points for a specific charge. It is usually prepared by the shipper or the shipper's agent or the carrier and serves as a contract of carriage. Examples of commercial loading documents include the air waybill, ocean bill of lading, truck bill and rail bill of lading.
+*Commercial loading document.* A document that establishes the terms of a contract between a shipper and a transportation company under which freight is to be moved between points for a specific charge. It is usually prepared by the shipper, the shipper's agent or the carrier and serves as a contract of carriage. Examples of commercial loading documents include the air waybill, ocean bill of lading, truck bill, rail bill of lading, and U.S. Postal Service customs declaration form.
 
 *Compliance alert.* An electronic response sent to the filer by the AES when the shipment was not reported in accordance with this part (e.g., late filing). The filer is required to review their filing practices and take steps to conform with export reporting requirements.
 
@@ -58,7 +56,19 @@ AES*Direct.* A free Internet application supported by the Census Bureau that all
 
 *Consignment.* Delivery of goods from a USPPI (the consignor) to an agent (consignee) under agreement that the agent sells the goods for the account of the USPPI.
 
-*Container.* A uniform, reusable metal “box” in which goods are shipped by vessel, truck, or rail as defined in the International Convention for Safe Containers, as amended (TIAS 9037; 29 U.S.T. 3709).
+*Container.* The term container shall mean an article of transport equipment (lift-van, movable tank or other similar structure):
+
+(i) Fully or partially enclosed to constitute a compartment intended for containing goods;
+
+(ii) Of a permanent character and accordingly strong enough to be suitable for repeated use;
+
+(iii) Specially designed to facilitate the carriage of goods, by one or more modes of transport, without intermediate reloading;
+
+(iv) Designed for ready handling, particularly when being transferred from one mode of transport to another;
+
+(v) Designed to be easy to fill and to empty; and
+
+(vi) Having an internal volume of one cubic meter or more; the term “container” shall include the accessories and equipment of the container, appropriate for the type concerned, provided that such accessories and equipment are carried with the container. The term “container” shall not include vehicles, accessories or spare parts of vehicles, or packaging. Demountable bodies are to be treated as containers.
 
 *Controlling agency.* The agency responsible for the license determination on specified goods exported from the United States.
 
@@ -78,7 +88,7 @@ AES*Direct.* A free Internet application supported by the Census Bureau that all
 
 *Distributor.* An agent who sells directly for a supplier and maintains an inventory of the supplier's products.
 
-*Domestic exports.* Goods that are grown, produced, or manufactured in the United States, and commodities of foreign origin that have been changed in the United States, including changes made in a U.S. FTZ, from the form in which they were imported, or that have been enhanced in value or improved in condition by further processing or manufacturing in the United States.
+*Domestic goods.* Goods that are grown, produced, or manufactured in the United States, or previously imported goods that have undergone substantial transformation in the United States, including changes made in a U.S. FTZ, from the form in which they were imported, or that have been substantially enhanced in value or improved in condition by further processing or manufacturing in the United States.
 
 *Drayage.* The charge made for hauling freight, carts, drays, or trucks.
 
@@ -90,7 +100,7 @@ AES*Direct.* A free Internet application supported by the Census Bureau that all
 
 *Electronic CBP Form 214 Admissions (e214).* An automated CBP mechanism that allows importers, brokers, and zone operators to report FTZ admission information electronically via the CBP's Automated Broker Interface. The e214 is the electronic mechanism that replaced the Census Bureau's Automated Foreign Trade Zone Reporting Program (AFTZRP).
 
-*Electronic export information (EEI).* The electronic export data as filed in the AES. This is the electronic equivalent of the export data formerly collected as Shipper's Export Declaration (SED) information and now mandated to be filed through the AES or AESDirect.
+*Electronic Export Information (EEI).* The electronic export data as filed in the AES. This is the electronic equivalent of the export data formerly collected on the Shipper's Export Declaration (SED) and now mandated to be filed through the AES or AES*Direct.*
 
 *Employer identification number (EIN).* The USPPI's Internal Revenue Service (IRS) EIN is the 9-digit numerical code as reported on the Employer's Quarterly Federal Tax Return, Treasury Form 941.
 
@@ -120,9 +130,9 @@ AES*Direct.* A free Internet application supported by the Census Bureau that all
 
 *Export statistics.* The measure of quantity and value of goods (except for shipments to U.S. military forces overseas) moving out of the United States to foreign countries, whether such goods are exported from within the Customs territory of the United States, a CBP bonded warehouse, or a U.S. Foreign Trade Zone (FTZ).
 
-*Fatal error message.* An electronic response sent to the filer by the AES when invalid or missing data has been encountered, the EEI has been rejected, and the information is not on file in the AES. The filer is required to immediately correct the problem, correct the data, and retransmit the EEI.
+*Fatal error message.* An electronic response sent to the filer by the AES when invalid or missing data has been encountered, the EEI has been rejected, and the information is not on file in the AES.
 
-*Filers.* Those USPPIs or authorized agents (of either the USPPI or the FPPI) who have been approved to file EEI directly in the AES or AES*Direct* Internet application.
+*Filer.* The USPPI or authorized agent (of either the USPPI or FPPI) who has been approved to file EEI.
 
 *Filer ID.* The Employer Identification Number or Dun & Bradstreet Number of the company or individual filing the export information in the Automated Export System.
 
@@ -130,7 +140,7 @@ AES*Direct.* A free Internet application supported by the Census Bureau that all
 
 *Foreign entity.* A person that temporarily enters into the United States and purchases or obtains goods for export. This person does not physically maintain an office or residence in the United States. This is a special class of USPPI.
 
-*Foreign exports.* Commodities of foreign origin that have previously been admitted to a U.S. FTZ or entered the United States for consumption, including entry into a CBP bonded warehouse, and which, at the time of exportation, are in substantially the same condition as when imported.
+*Foreign goods.* Goods that were originally grown, produced, or manufactured in a foreign country, then subsequently entered into the United States, admitted to a U.S. FTZ, or entered into a CBP bonded warehouse, but not substantially transformed in form or condition by further processing or manufacturing in the United States, U.S. FTZs, Puerto Rico, or the U.S. Virgin Islands.
 
 *Foreign port of unlading.* The port in a foreign country where the goods are removed from the exporting carrier. The foreign port does not have to be located in the country of destination. The foreign port of unlading shall be reported in terms of the Schedule K, “Classification of CBP Foreign Ports by Geographic Trade Area and Country.”
 
@@ -186,8 +196,6 @@ AES*Direct.* A free Internet application supported by the Census Bureau that all
 
 *Method of transportation.* The method by which goods are exported from the United States by way of seaports, airports, or land border crossing points. Methods of transportation include vessel, air, truck, rail, mail or other. Method of transportation is synonymous with mode of transportation.
 
-*Non-Vessel Operating Common Carrier (NVOCC).* A freight forwarder that acts as common carrier but does not operate the vessels by which ocean transportation is provided, and is a shipper in relation to the involved ocean common carrier.
-
 *North American Free Trade Agreement (NAFTA).* The formal agreement, or treaty, among Canada, Mexico, and the United States to promote trade amongst the three countries. It includes measures for the elimination of tariffs and nontariff barriers to trade, as well as numerous specific provisions concerning the conduct of trade and investment.
 
 *Office of Foreign Assets Control (OFAC).* An agency within the U.S. Department of the Treasury that administers and enforces economic and trade sanctions based on U.S. foreign policy and national security goals against targeted foreign countries, terrorists, international narcotics traffickers, and those engaged in activities related to the proliferation of weapons of mass destruction. The OFAC acts under Presidential wartime and national emergency powers, as well as authority granted by specific legislation, to impose controls on transactions and freeze foreign assets under U.S. jurisdiction.
@@ -214,9 +222,7 @@ AES*Direct.* A free Internet application supported by the Census Bureau that all
 
 *Principal parties in interest.* Those persons in a transaction that receive the primary benefit, monetary or otherwise, from the transaction. Generally, the principals in a transaction are the seller and the buyer. In most cases, the forwarding or other agent is not a principal party in interest.
 
-*Proof of filing citation.* A notation placed on the bill of lading, air waybill, export shipping instructions, or other commercial loading document, usually for carrier use, that provides evidence that the EEI has been filed and accepted in the AES.
-
-*Reexport.* For statistical purposes: These are exports of foreign-origin goods that have previously entered the United States, Puerto Rico, or the U.S. Virgin Islands for consumption, entry into a CBP bonded warehouse, or a U.S. FTZ, and at the time of exportation, have undergone no change in form or condition or enhancement in value by further manufacturing in the United States, Puerto Rico, the U.S. Virgin Islands, or U.S. FTZs. For the purpose of goods subject to export controls (e.g., U.S. Munitions List (USML) articles) these are shipments of U.S.-origin products from one foreign destination to another.
+*Proof of filing citation.* A notation on the bill of lading, air waybill, export shipping instructions, other commercial loading document or electronic equivalent, usually for carrier use, that provides evidence that the EEI has been filed and accepted in the AES.
 
 *Related party transaction.* A transaction involving trade between a USPPI and an ultimate consignee where either party owns directly or indirectly 10 percent or more of the other party.
 
@@ -236,11 +242,11 @@ AES*Direct.* A free Internet application supported by the Census Bureau that all
 
 *Seller.* A principal in the transaction, usually the manufacturer, producer, wholesaler, or distributor of the goods, that receives the monetary benefit or other consideration for the exported goods.
 
-*Service center.* A company, entity, or organization which has been certified and approved to only transmit complete EEI to the AES.
+*Service center.* A company, entity, or organization that has been certified and approved to facilitate the transmission of EEI to the AES.
 
 *Shipment.* All goods being sent from one USPPI to one consignee located in a single country of destination on a single conveyance and on the same day. Except as noted in § 30.2(a)(1)(iv), the EEI shall be filed when the value of the goods is over $2,500 per Schedule B or HTSUSA commodity classification code.
 
-*Shipment reference number.* A unique identification number assigned to the shipment by the filer for reference purposes. The reuse of the shipment reference number is prohibited.
+*Shipment Reference Number (SRN).* A unique identification number assigned to the shipment by the filer for reference purposes. The reuse of the SRN is prohibited.
 
 *Shipper's Export Declaration (SED).* The Department of Commerce paper form used under the Foreign Trade Statistics Regulations to collect information from an entity exporting from the United States. This form was used for compiling the official U.S. export statistics for the United States and for export control purposes. The SED became obsolete on October 1, 2008, with the implementation of the Foreign Trade Regulations (FTR) and has been superseded by the EEI filed in the AES or through the AES*Direct.*
 
@@ -248,7 +254,7 @@ AES*Direct.* A free Internet application supported by the Census Bureau that all
 
 *Shipping weight.* The total weight of a shipment in kilograms including goods and packaging.
 
-*Split shipment.* A shipment booked for export that is divided by the carrier in two or more shipments by the same mode of transportation from the same port within 24 hours.
+*Split shipment.* A shipment covered by a single EEI record booked for export on one conveyance, that is divided by the exporting carrier prior to export where the cargo is sent on two or more of the same conveyances of the same carrier leaving from the same port of export within 24 hours by vessel or 7 days by air, truck or rail.
 
 *Subzone.* A special purpose foreign trade zone established as part of a foreign trade zone project with a limited purpose that cannot be accommodated within an existing zone. Subzones are often established to serve the needs of a specific company and may be located within an existing facility of the company.
 
@@ -256,7 +262,7 @@ AES*Direct.* A free Internet application supported by the Census Bureau that all
 
 *Transmitting electronic export information.* The act of sending the completed EEI to the AES.
 
-*Transportation reference number.* A reservation number assigned by the carrier to hold space on the carrier for cargo being shipped. It is the booking number for vessel shipments and the master air waybill number for air shipments, the bill of lading number for rail shipments, and the freight or pro bill for truck shipments.
+*Transportation Reference Number (TRN).* A reservation number assigned by the carrier to hold space on the carrier for cargo being shipped. It is the booking number for vessel shipments, the master air waybill number for air shipments, the bill of lading number for rail shipments, and the freight or pro bill for truck shipments.
 
 *Transshipment.* The transfer of merchandise from the country or countries of origin through an intermediary country or countries to the country of ultimate destination.
 
@@ -269,6 +275,8 @@ AES*Direct.* A free Internet application supported by the Census Bureau that all
 *U.S. Customs and Border Protection (CBP).* The border agency within the Department of Homeland Security (DHS) charged with the management, control, and protection of our Nation's borders at and between the official ports of entry of the United States.
 
 *U.S. Immigration and Customs Enforcement (ICE).* An agency within the DHS that is responsible for enforcing customs, immigration and related laws and investigating violations of laws to secure the Nation's borders.
+
+*U.S. Postal Service customs declaration form.* The shipping document, or its electronic equivalent, that a mailer prepares to declare the contents for the purposes of domestic and foreign customs authorizations and other relevant government agencies. For more information, please see *Mailing Standards of the United States Postal Service, International Mail Manual,* section 123.
 
 *U.S. principal party in interest (USPPI).* The person or legal entity in the United States that receives the primary benefit, monetary or otherwise, from the export transaction. Generally, that person or entity is the U.S. seller, manufacturer, or order party, or the foreign entity while in the United States when purchasing or obtaining the goods for export.
 
@@ -290,4 +298,4 @@ AES*Direct.* A free Internet application supported by the Census Bureau that all
 
 *Zone admission number.* A unique and sequential number assigned by a FTZ operator or user for shipments admitted to a zone.
 
-[73 FR 31555, June 2, 2008, as amended at 74 FR 38916, Aug. 5, 2009; 78 FR 16373, Mar. 14, 2013]Editorial Note:At 78 FR 16373, Mar. 14, 2013, in § 30.1, the term “Kimberly Process Certificate (KPC)” was added to the definitions; however, the amendment could not be incorporated because of the inaccurate amendatory instruction.
+[73 FR 31555, June 2, 2008, as amended at 74 FR 38916, Aug. 5, 2009; 78 FR 16373, Mar. 14, 2013; 82 FR 18388, Apr. 19, 2017]Editorial Note:At 78 FR 16373, Mar. 14, 2013, in § 30.1, the term “Kimberly Process Certificate (KPC)” was added to the definitions; however, the amendment could not be incorporated because of the inaccurate amendatory instruction.

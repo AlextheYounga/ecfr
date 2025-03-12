@@ -66,7 +66,7 @@
 
 (4) Authority to disclose records or information compiled for law enforcement purposes to persons outside the Postal Service must be obtained from the Chief Postal Inspector, U.S. Postal Service, Washington, DC 20260-2100, or designee.
 
-(d) *Disclosure of names and addresses of customers.* Upon request, the names and addresses of specifically identified Postal Service customers will be made available only as follows:
+(d) *Disclosure of names and addresses of specifically identified Postal Service customers.* Upon request, the names and addresses of specifically identified Postal Service customers will be made available only as follows:
 
 (1) *Change of address.* The new address of any specific customer who has filed a permanent or temporary change of address order (by submitting PS Form 3575, a hand-written order, or an electronically communicated order) will be furnished to any person, except that the new address of a specific customer who has indicated on the order that the address change is for an individual or an entire family will be furnished only in those circumstances stated at paragraph (d)(5) of this section. Disclosure will be limited to the address of the specifically identified individual about whom the information is requested (not other family members or individuals whose names may also appear on the change of address order). The Postal Service reserves the right not to disclose the address of an individual for the protection of the individual's personal safety. Other information on PS Form 3575 or copies of the form will not be furnished except in those circumstances stated at paragraphs (d)(5)(i), (d)(5)(iii), or (d)(5)(iv) of this section.
 
@@ -82,7 +82,7 @@
 
 (iii) When a copy of a protective order has been filed with the postmaster, information from PS Form 1093 will not be disclosed except pursuant to the order of a court of competent jurisdiction.
 
-(5) *Exceptions.* Except as otherwise provided in these regulations, names or addresses of Postal Service customers will be furnished only as follows:
+(5) *Exceptions.* Except as otherwise provided in these regulations, names or addresses of specifically identified Postal Service customers will be furnished only as follows:
 
 (i) To a Federal, State or local government agency upon prior written certification that the information is required for the performance of its duties. The Postal Service requires government agencies to use the format appearing at the end of this section when requesting the verification of a customer's current address or a customer's new mailing address. If the request lacks any of the required information or a proper signature, the postmaster will return the request to the agency, specifying the deficiency in the space marked `OTHER'. A copy of PS Form 1093 may be provided.
 
@@ -134,4 +134,4 @@
 
 (g) *Disclosure in part of otherwise exempt record.* Any reasonably segregable portion of a record shall be provided after deleting the information which is neither subject to mandatory disclosure nor available as a matter of discretion.
 
-![](/graphics/er30no16.002.gif)![](/graphics/er30no16.003.gif)[81 FR 86271, Nov. 30, 2016, as amended at 82 FR 12921, Mar. 8, 2017]
+![](/graphics/er30no16.002.gif)![](/graphics/er30no16.003.gif)[81 FR 86271, Nov. 30, 2016, as amended at 82 FR 12921, Mar. 8, 2017; 82 FR 32767, July 18, 2017]

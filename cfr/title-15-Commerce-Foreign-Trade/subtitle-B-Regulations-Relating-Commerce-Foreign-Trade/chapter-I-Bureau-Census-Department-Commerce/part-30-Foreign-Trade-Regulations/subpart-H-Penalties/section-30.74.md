@@ -1,7 +1,5 @@
 ##### § 30.74 Voluntary self-disclosure. #####
 
-Link to an amendment published at 82 FR 18392, Apr. 19, 2017.
-
 (a) *General policy.* The Census Bureau strongly encourages disclosure of any violation or suspected violation of the FTR. Voluntary self-disclosure is a mitigating factor in determining what administrative sanctions, if any, will be sought. The Secretary of Commerce has delegated all enforcement authority under 13 U.S.C. Chapter 9, to the BIS and the DHS.
 
 (b) *Limitations.* (1) The provisions of this section apply only when information is provided to the Census Bureau for its review in determining whether to seek administrative action for violations of the FTR.
@@ -14,7 +12,7 @@ Link to an amendment published at 82 FR 18392, Apr. 19, 2017.
 
 (5) The provisions of this section do not, nor should they be relied on to, create, confer, or grant any rights, benefits, privileges, or protection enforceable at law or in equity by any person, business, or entity in any civil, criminal, administrative, or other matter.
 
-(c) *Information to be provided* - (1) *General.* Any person disclosing information that constitutes a voluntary self-disclosure should, in the manner outlined below, if a violation is suspected or a violation is discovered, conduct a thorough review of all export transactions for the past five years where violations of the FTR are suspected and notify the Census Bureau as soon as possible.
+(c) *Information to be provided*—(1) *General.* Any person disclosing information that constitutes a voluntary self-disclosure should, in the manner outlined below, if a violation is suspected or a violation is discovered, conduct a thorough review of all export transactions for the past five years where violations of the FTR are suspected and notify the Census Bureau as soon as possible.
 
 (2) *Initial notification.* (i) The initial notification must be in writing and be sent to the address in paragraph (c)(5) of this section. The notification must include the name of the person making the disclosure and a brief description of the suspected violations. The notification should describe the general nature, circumstances, and extent of the violations. If the person making the disclosure subsequently completes the narrative account required by paragraph (c)(3) of this section, the disclosure will be deemed to have been made on the date of the initial notification for purposes of paragraph (b)(2) of this section.
 
@@ -38,7 +36,7 @@ Link to an amendment published at 82 FR 18392, Apr. 19, 2017.
 
 (4) *Electronic export information.* Report all data required under the FTR that was not reported. Report corrections for all data reported incorrectly. All reporting of unreported data or corrections to previously reported data shall be made through the AES.
 
-(5) *Where to make voluntary self-disclosures.* With the exception of voluntary disclosures of manifest violations under § 30.47(c), the information constituting a Voluntary Self-Disclosures or any other correspondence pertaining to a Voluntary Self-Disclosures may be submitted to: Chief, Foreign Trade Division, U.S. Census Bureau, Room 6K032, Washington, DC 20233-6700, or by fax on (301) 763-8835. Additional instructions are found at *www.census.gov/trade.*
+(5) *Where to make voluntary self-disclosures.* With the exception of voluntary disclosures of manifest violations under paragraph (c) of this section, the information constituting a Voluntary Self-Disclosure or any other correspondence pertaining to a Voluntary Self-Disclosure may be submitted to: Chief, International Trade Management Division, U.S. Census Bureau, 4600 Silver Hill Road, Washington, DC 20233. Additional instructions are found at *www.census.gov/trade.*
 
 (d) *Action by the Census Bureau.* After the Census Bureau has been provided with the required narrative, it will promptly notify CBP, ICE, and the OEE of the voluntary disclosure, acknowledge the disclosure by letter, provide the person making the disclosure with a point of contact, and take whatever additional action, including further investigation, it deems appropriate. As quickly as the facts and circumstances of a given case permit, the Census Bureau may take any of the following actions:
 
@@ -48,4 +46,4 @@ Link to an amendment published at 82 FR 18392, Apr. 19, 2017.
 
 (3) Refer the matter, if necessary, to the OEE for the appropriate action.
 
-[73 FR 31555, June 2, 2008, as amended at 78 FR 16382, Mar. 14, 2013]
+[73 FR 31555, June 2, 2008, as amended at 78 FR 16382, Mar. 14, 2013; 82 FR 18392, Apr. 19, 2017]
