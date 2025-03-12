@@ -1,5 +1,7 @@
 ##### § 503.50 Fees for services. #####
 
+Link to an amendment published at 88 FR 16897, Mar. 21, 2023.
+
 (a) *Definitions.* The following definitions apply to the terms when used in this subpart:
 
 (1) *Search* means all time spent looking for material that is responsive to a request, including page-by-page or line-by-line identification of material within documents. Search for material will be done in the most efficient and least expensive manner so as to minimize costs for both the agency and the requester. Search is distinguished, moreover, from *review* of material in order to determine whether the material is exempt from disclosure. Searches may be done manually or by computer using existing programming.

@@ -1,0 +1,3 @@
+##### § 1250.103-6 Medical emergencies. #####
+
+Notwithstanding the provisions of §§ 1250.103 to 1250.103-5, a recipient of Federal financial assistance shall not be deemed to have failed to comply with § 1250.103-1, if immediate provision of a service or other benefit to an individual is necessary to prevent his death or serious impairment of his health, and such service or other benefit cannot be provided except by or through a medical institution which refuses or fails to comply with § 1250.103-1.

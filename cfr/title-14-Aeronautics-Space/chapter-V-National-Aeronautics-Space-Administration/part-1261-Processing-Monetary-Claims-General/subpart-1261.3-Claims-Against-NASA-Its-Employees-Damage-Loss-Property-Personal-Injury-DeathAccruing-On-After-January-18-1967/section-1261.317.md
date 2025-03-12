@@ -1,0 +1,7 @@
+##### § 1261.317 Attorney-client privilege. #####
+
+(a) Attorneys employed by the National Aeronautics and Space Administration participate in the process utilized for the purpose of determining whether the agency should request the Department of Justice to provide representation to a present or former agency employee sued, subpoenaed, or charged in his/her individual capacity, and attorneys employed by the National Aeronautics and Space Administration provide assistance in obtaining representation of such an agency employee. In these roles, agency attorneys undertake a full and traditional attorney-client relationship with the employee with respect to application of the attorney-client privilege. If representation is authorized, National Aeronautics and Space Administration attorneys who assist in the representation of a present or former employee also undertake a full and traditional attorney-client relationship with that employee with respect to the attorney-client privilege.
+
+(b) Any adverse information communicated by the client-employee to an Agency attorney during the course of such attorney-client relationship shall not be disclosed to anyone, either inside or outside NASA, other than attorneys responsible for representation of the employee, unless such disclosure is authorized by the employee. Such adverse information shall continue to be fully protected whether or not representation is provided and even though representation may be denied or discontinued.
+
+[53 FR 27483, July 21, 1988, as amended at 82 FR 29384, June 29, 2017]

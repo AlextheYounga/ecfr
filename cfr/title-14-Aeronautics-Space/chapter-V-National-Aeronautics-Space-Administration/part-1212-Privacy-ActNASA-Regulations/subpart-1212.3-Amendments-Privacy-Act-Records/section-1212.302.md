@@ -1,0 +1,3 @@
+##### § 1212.302 Granting the request to amend. #####
+
+NASA shall make the requested amendment clearly on the record itself and all information deemed to be inaccurate, irrelevant, or untimely shall be deleted and destroyed. Incomplete information shall either be amended or deleted and destroyed. The individual shall then be informed in writing that the amendment has been made. If the inaccurate, irrelevant, untimely, or incomplete portion of the record has previously been disclosed, then the system manager shall notify those persons or agencies of the amended information, referencing the prior disclosures (See § 1212.402).

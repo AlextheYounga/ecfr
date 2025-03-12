@@ -1,5 +1,7 @@
 ##### § 540.4 Procedure for establishing financial responsibility. #####
 
+Link to an amendment published at 88 FR 16898, Mar. 21, 2023.
+
 (a) In order to comply with section 3 of Public Law 89-777 (46 U.S.C. 44101-44102, 44104-44106) enacted November 6, 1966, there must be filed with the Federal Maritime Commission an application on Form FMC-131 for a Certificate of Financial Responsibility for Indemnification of Passengers for Nonperformance of Transportation. Copies of Form FMC-131 may be obtained from the Commission's Web site at *http://www.fmc.gov,* or from the Bureau of Certification and Licensing, Federal Maritime Commission, Washington, DC 20573.
 
 (b) An application for a Certificate (Performance) shall be filed with the Bureau of Certification and Licensing, Federal Maritime Commission, by the vessel owner or charterer at least 60 days in advance of the arranging, offering, advertising, or providing of any water transportation or tickets in connection therewith except that any person other than the owner or charterer who arranges, offers, advertises, or provides passage on a vessel may apply for a Certificate (Performance). Late filing of the application will be permitted without penalty only for good cause shown.

@@ -1,0 +1,11 @@
+##### § 1250.103-3 Employment practices. #####
+
+(a) Where a primary objective of the Federal financial assistance to a program to which this part applies is to provide employment, a recipient may not directly or through contractual or other arrangements subject an individual to discrimination on the ground of race, color, or national origin in its employment practices under such program (including recruitment or recruitment advertising, employment, layoff or termination, upgrading, demotion, or transfer, rates of pay or other forms of compensation, and use of facilities), including programs where a primary objective of the Federal financial assistance is (1) to assist such individuals through employment to meet expenses incident to the commencement or continuation of their education or training, or (2) to provide work experience which contributes to the education or training of such individuals.
+
+(b) Employment opportunities provided in connection with any of the types of Federal financial assistance listed in appendix A, which opportunities are limited, or for which preference is given, to students, fellows, or other persons in training for the same or related employments, are programs of the kind described in paragraph (a)(1) and (2) of this section.
+
+(c) The requirements applicable to construction employment under any such program shall be those specified in or pursuant to Executive Order 11246 or any Executive order which supersedes it.
+
+(d) Where a primary objective of the Federal financial assistance is not to provide employment, but discrimination on the grounds of race, color, or national origin in the employment practices of the recipient or other persons subject to the regulation tends, on the grounds of race, color, or national origin, to exclude individuals from participation in, to deny them the benefits of, or to subject them to discrimination under any program to which this regulation applies, the provisions of paragraph (a) of this section shall apply to the employment practices of the recipient or other persons subject to the regulation, to the extent necessary to assure equality of opportunity to, and nondiscriminatory treatment of, beneficiaries.
+
+[30 FR 301, Jan. 9, 1965, as amended at 38 FR 17936, July 5, 1973; 68 FR 51350, Aug. 26, 2003]

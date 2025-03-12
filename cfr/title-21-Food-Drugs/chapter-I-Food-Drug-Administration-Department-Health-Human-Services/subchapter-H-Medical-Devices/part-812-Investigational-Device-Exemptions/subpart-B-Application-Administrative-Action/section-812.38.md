@@ -8,10 +8,10 @@
 
 (3) If the existence of an IDE file has not been publicly disclosed or acknowledged, no data or information in the file are available for public disclosure except as provided in paragraphs (b)(1) and (c) of this section.
 
-(4) Notwithstanding paragraph (b)(2) of this section, FDA will make available to the public, upon request, the information in the IDE that was required to be filed in Docket Number 95S-0158 in the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852, for investigations involving an exception from informed consent under § 50.24 of this chapter. Persons wishing to request this information shall submit a request under the Freedom of Information Act.
+(4) Notwithstanding paragraph (b)(2) of this section, FDA will make available to the public, upon request, the information in the IDE that was required to be filed in Docket Number FDA-1995-S-0036 in the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852, for investigations involving an exception from informed consent under § 50.24 of this chapter. Persons wishing to request this information shall submit a request under the Freedom of Information Act.
 
 (c) *Reports of adverse effects.* Upon request or on its own initiative, FDA shall disclose to an individual on whom an investigational device has been used a copy of a report of adverse device effects relating to that use.
 
 (d) *Other rules.* Except as otherwise provided in this section, the availability for public disclosure of data and information in an IDE file shall be handled in accordance with § 814.9.
 
-[45 FR 3751, Jan. 18, 1980, as amended at 53 FR 11253, Apr. 6, 1988; 61 FR 51531, Oct. 2, 1996]
+[45 FR 3751, Jan. 18, 1980, as amended at 53 FR 11253, Apr. 6, 1988; 61 FR 51531, Oct. 2, 1996; 88 FR 16880, Mar. 21, 2023]

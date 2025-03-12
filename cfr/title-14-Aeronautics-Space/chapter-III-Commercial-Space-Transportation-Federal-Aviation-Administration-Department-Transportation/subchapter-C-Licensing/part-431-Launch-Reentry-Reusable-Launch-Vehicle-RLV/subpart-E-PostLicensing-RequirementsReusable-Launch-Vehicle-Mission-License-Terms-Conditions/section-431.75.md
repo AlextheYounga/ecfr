@@ -1,0 +1,9 @@
+##### § 431.75 Agreements. #####
+
+(a) *Launch and reentry site use agreements.* Before conducting a licensed RLV mission using property and services of a Federal launch range or licensed launch or reentry site operator, a licensee or applicant shall enter into an agreement with the Federal launch range and/or licensed site operator that provides for access to and use of property and services required to support a licensed RLV mission or reentry and for public safety related operations and support. The agreement shall be in effect before any licensed RLV mission or reentry. A licensee shall comply with any requirements of the agreement that may affect public health and safety and the safety of property during the conduct of its licensed activity.
+
+(b) *Agreements for notices to mariners and airmen.* Unless otherwise addressed in agreements between a licensed launch site operator and the U.S. Coast Guard and the FAA, respectively, a licensee authorized to conduct an RLV mission using a launch site or reentry site other than a Federal launch range shall complete the following:
+
+(1) An agreement between the licensee and the local U.S. Coast Guard district to establish procedures for the issuance of a Notice to Mariners prior to a launch or reentry and other measures as the Coast Guard deems necessary to protect public health and safety; and
+
+(2) An agreement between the licensee and the FAA regional office having jurisdiction over the airspace through which a launch and reentry will take place, to establish procedures for the issuance of a Notice to Airmen prior to the conduct of a licensed launch or reentry and for closing of air routes during the respective launch and reentry windows and other measures deemed necessary by the FAA regional office in order to protect public health and safety.

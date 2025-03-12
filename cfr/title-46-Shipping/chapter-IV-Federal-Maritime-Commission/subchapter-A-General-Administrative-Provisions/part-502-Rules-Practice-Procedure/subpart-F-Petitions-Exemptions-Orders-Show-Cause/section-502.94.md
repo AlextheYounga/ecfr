@@ -1,4 +1,6 @@
-##### § 502.94 Petitions - general and fee. #####
+##### § 502.94 Petitions—general and fee. #####
+
+Link to an amendment published at 88 FR 16897, Mar. 21, 2023.
 
 (a) Except when submitted in connection with a formal proceeding, all claims for relief or other affirmative action by the Commission, including appeals from Commission staff action, except as otherwise provided in this part, must be by written petition, which must state clearly and concisely the petitioner's grounds of interest in the subject matter, the facts relied upon and the relief sought, must cite by appropriate reference the statutory provisions or other authority relied upon for relief, must be served upon all parties named therein, and must conform otherwise to the requirements of subpart H of this part. Responses thereto must conform to the requirements of § 502.67.
 

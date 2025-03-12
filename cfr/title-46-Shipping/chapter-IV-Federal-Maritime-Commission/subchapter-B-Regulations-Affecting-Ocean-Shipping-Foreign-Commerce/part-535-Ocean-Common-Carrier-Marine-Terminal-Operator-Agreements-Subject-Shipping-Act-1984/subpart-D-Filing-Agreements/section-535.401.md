@@ -1,5 +1,7 @@
 ##### § 535.401 General requirements. #####
 
+Link to an amendment published at 88 FR 16898, Mar. 21, 2023.
+
 (a) All agreements (including oral agreements reduced to writing in accordance with the Act) subject to this part and filed with the Commission for review and disposition pursuant to section 6 of the Act (46 U.S.C. 40304, 40306, 41307(b)-(d)), must be submitted to the Commission either in paper during regular business hours to the Secretary, Federal Maritime Commission, Washington, DC 20573, or electronically using the automated agreement filing system.
 
 (1) *Paper filings.* Paper filings must include:
