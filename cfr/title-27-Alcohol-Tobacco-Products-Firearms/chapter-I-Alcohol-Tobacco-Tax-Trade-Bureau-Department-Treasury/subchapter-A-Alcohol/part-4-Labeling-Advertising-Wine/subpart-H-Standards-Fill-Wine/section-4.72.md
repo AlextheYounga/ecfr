@@ -3,7 +3,7 @@
 (a) *Authorized standards of fill.* The standards of fill for wine are the following:
 
 |   3 liters.    |355 milliliters |
-|:---------------|:---------------|
+|----------------|----------------|
 |  1.5 liters.   |250 milliliters.|
 |    1 liter.    |200 milliliters.|
 |750 milliliters.|187 milliliters.|

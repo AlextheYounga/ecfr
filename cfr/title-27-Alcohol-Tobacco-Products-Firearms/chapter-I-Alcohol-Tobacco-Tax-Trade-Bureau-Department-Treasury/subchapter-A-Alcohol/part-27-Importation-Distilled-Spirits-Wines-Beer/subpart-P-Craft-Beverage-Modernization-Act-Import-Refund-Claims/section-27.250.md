@@ -1,0 +1,3 @@
+##### § 27.250 Scope. #####
+
+This subpart contains procedural requirements relative to the refunds of internal revenue tax for imported alcohol made available under the Craft Beverage Modernization Act provisions of the Internal Revenue Code of 1986 at 26 U.S.C. 5001(c)(4), 5041(c)(7), and 5051(a)(6). The refunds available under this subpart apply only to imported products entered for consumption on or after January 1, 2023.

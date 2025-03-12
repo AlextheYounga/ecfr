@@ -1,0 +1,3 @@
+##### § 27.258 Changes to foreign producer registration. #####
+
+Whenever there is a change to any of the information submitted by the foreign producer under § 27.254, the foreign producer must update its registration with the new information within 60 days. Whenever the appropriate TTB officer determines that a foreign producer has failed to update its registration information as required, the foreign producer's registration is deemed invalid and the foreign producer will be unable to assign CBMA tax benefits until the foreign producer updates its registration as required or the appropriate TTB officer is satisfied that no such update is required.

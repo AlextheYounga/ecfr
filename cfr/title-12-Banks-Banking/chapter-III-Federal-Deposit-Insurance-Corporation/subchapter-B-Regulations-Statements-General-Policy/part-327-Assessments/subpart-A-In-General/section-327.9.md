@@ -1,5 +1,7 @@
 ##### § 327.9 Assessment pricing methods. #####
 
+Link to an amendment published at 87 FR 64335, Oct. 24, 2022.
+
 The following pricing methods shall apply through the later of June 30, 2016, or the subsequent calendar quarter in which the reserve ratio of the DIF reaches 1.15 percent.
 
 (a) *Small institutions* - (1) *Risk Categories.* Each small insured depository institution shall be assigned to one of the following four Risk Categories based upon the institution's capital evaluation and supervisory evaluation as defined in this section.

@@ -1,5 +1,7 @@
 ##### § 327.10 Assessment rate schedules. #####
 
+Link to an amendment published at 87 FR 64335, Oct. 24, 2022.
+
 (a) *Assessment rate schedules before the reserve ratio of the DIF reaches 1.15 percent* - (1) *Applicability.* The assessment rate schedules in paragraph (a) of this section will cease to be applicable when the reserve ratio of the DIF first reaches 1.15 percent.
 
 (2) *Initial Base Assessment Rate Schedule.* Before the reserve ratio of the DIF reaches 1.15 percent, the initial base assessment rate for an insured depository institution shall be the rate prescribed in the following schedule:

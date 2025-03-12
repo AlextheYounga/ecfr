@@ -1,0 +1,3 @@
+##### § 27.266 Importer reference number. #####
+
+An importer who does not have and is not required to obtain an FAA Act basic permit must request and receive a reference number from the appropriate TTB officer before receiving assignments of CBMA tax benefits from foreign producers under § 27.262. The importer must provide this reference number to any foreign producers that will assign CBMA tax benefits to the importer.

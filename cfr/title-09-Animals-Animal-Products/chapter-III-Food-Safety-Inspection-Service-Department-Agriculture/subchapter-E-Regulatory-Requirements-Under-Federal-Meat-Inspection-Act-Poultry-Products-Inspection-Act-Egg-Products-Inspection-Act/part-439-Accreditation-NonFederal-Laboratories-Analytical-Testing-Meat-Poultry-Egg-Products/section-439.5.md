@@ -1,0 +1,9 @@
+##### § 439.5 Applications for accreditation. #####
+
+(a) Participation in the ALP is voluntary. Application for accreditation must be made on designated paper or electronic forms provided by FSIS, or otherwise in writing, by the owner or manager of a non-Federal analytical laboratory. Application forms may be obtained by contacting the ALP at *ALP@usda.gov.* The forms must be sent to the ALP or may be submitted electronically. The application must specify the kinds of accreditation sought by the owner or manager of the laboratory. A laboratory whose accreditation has been refused or revoked for performance reasons may reapply for accreditation after 60 days from the effective date of that action and must provide written documentation specifying what corrections were made and illustrate to FSIS that the corrections are effective or would reasonably be expected to be effective.
+
+(b) At the time that an application for accreditation is filed with the ALP, the laboratory must submit fees payable to the U.S. Department of Agriculture by check, bank draft, money order, or other form of payment accepted by the U.S. Department of Agriculture, in the amount specified by FSIS as directed in 9 CFR 391.5, along with the completed application for the accreditation(s).
+
+(c) An application for accreditation will not be processed or allowed to advance, without further procedure, if the accreditation fee(s) is delinquent.
+
+(d) FSIS will issue a bill annually in the amount specified by FSIS in 9 CFR 391.5 for each accreditation held and are due by the date required. Bills are payable to the U.S. Department of Agriculture by check, bank draft, money order, or other form of payment accepted by the U.S. Department of Agriculture.

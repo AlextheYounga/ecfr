@@ -1,5 +1,7 @@
 ##### § 327.11 Surcharges and assessments required to raise the reserve ratio of the DIF to 1.35 percent. #####
 
+Link to an amendment published at 87 FR 64339, Oct. 24, 2022.
+
 (a) *Surcharge* - (1) *Institutions subject to surcharge.* The following insured depository institutions are subject to the surcharge described in this paragraph:
 
 (i) Large institutions, as defined in § 327.8(f);
