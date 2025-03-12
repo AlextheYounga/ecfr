@@ -1,6 +1,4 @@
-##### § 17.47 Special rules - insects. #####
-
-Link to an amendment published at 88 FR 2026, Jan. 12, 2023.
+##### § 17.47 Special rules—insects. #####
 
 (a) Cassius blue butterfly (*Leptotes cassius theonus*), Ceraunus blue butterfly (*Hemiargus ceraunus antibubastus*), and Nickerbean blue butterfly (*Cyclargus ammon*).
 
@@ -32,7 +30,7 @@ Link to an amendment published at 88 FR 2026, Jan. 12, 2023.
 
 (vii) *Livestock (cattle, bison, or horse) grazing on private, State, or tribal land.*
 
-(c) Western glacier stonefly (*Zapada glacier*) and meltwater lednian stonefly (*Lednia tumana*) - (1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to western glacier stonefly and meltwater lednian stonefly except as provided under paragraph (c)(2) of this section and §§ 17.4 and 17.5. It is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to these species:
+(c) Western glacier stonefly (*Zapada glacier*) and meltwater lednian stonefly (*Lednia tumana*)—(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to western glacier stonefly and meltwater lednian stonefly except as provided under paragraph (c)(2) of this section and §§ 17.4 and 17.5. It is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to these species:
 
 (i) Import or export, as set forth at § 17.21(b).
 
@@ -54,7 +52,7 @@ Link to an amendment published at 88 FR 2026, Jan. 12, 2023.
 
 (iv) In addition to any other provisions of this part, any employee or agent of the Service, of the National Marine Fisheries Service, or of a State conservation agency that is operating a conservation program pursuant to the terms of a cooperative agreement with the Service in accordance with section 6(c) of the Act, who is designated by that agency for such purposes, may, when acting in the course of official duties, take those threatened species of wildlife that are covered by an approved cooperative agreement to carry out conservation programs.
 
-(d) American burying beetle (*Nicrophorus americanus*) - (1) *Prohibitions.* The following prohibitions apply to the American burying beetle:
+(d) American burying beetle (*Nicrophorus americanus*)—(1) *Prohibitions.* The following prohibitions apply to the American burying beetle:
 
 (i) *Take of the American burying beetle.* Take of the American burying beetle, except that take that is incidental to otherwise lawful activity (incidental take) is prohibited only when the take occurs on suitable American burying beetle habitat:
 
@@ -98,7 +96,7 @@ Link to an amendment published at 88 FR 2026, Jan. 12, 2023.
 
 ![](/graphics/er15oc20.001.gif)
 
-(e) Hermes copper butterfly (*Lycaena hermes*). - (1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to Hermes copper butterfly. Except as provided under paragraph (e)(2) of this section and §§17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+(e) Hermes copper butterfly (*Lycaena hermes*).—(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to Hermes copper butterfly. Except as provided under paragraph (e)(2) of this section and §§17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
 
 (i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
 
@@ -154,7 +152,90 @@ Link to an amendment published at 88 FR 2026, Jan. 12, 2023.
 
 ![](/graphics/er21de21.001.gif)
 
-(f) [Reserved]
+(f) Fender's blue butterfly (*Icaricia icarioides fenderi*)—(1) *Definitions.* As used in this paragraph (f), the following terms have these meanings:
+
+(i) *Occupied habitat.* Habitat within the historical range of Fender's blue butterfly in the Willamette Valley of Oregon that supports or may support lupine, unless a qualified biologist using direct observation has conducted surveys for adult Fender's blue butterfly during the April 15 to June 30 flight period and documented no adult butterflies. Occupied habitat also includes all nectar habitat within 0.5 kilometers (km) (0.3 miles (mi)) of habitat containing at least one of the three host lupine species and that is occupied by Fender's blue butterfly. Unsurveyed areas within 2 km (1.25 mi) of a known Fender's blue butterfly population shall be assumed occupied if no surveys are conducted.
+
+(ii) *Qualified biologist.* An individual with a combination of academic training in the area of wildlife biology or related discipline and demonstrated field experience in the identification and life history of Fender's blue butterfly, or in habitat restoration methods to benefit Fender's blue butterfly. If capture of individuals is required for accurate identification, the individual must hold a valid permit under section 10(a)(1)(A) of the Act.
+
+(iii) *Lupine.* Any one of the three species of lupines known to be required as host plants for the larvae of Fender's blue butterfly: Kincaid's lupine (*Lupinus sulphureus* ssp. *kincaidii*), longspur lupine (*L. arbustus*), and sickle-keeled lupine (*L. albicaulis*).
+
+(2) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to Fender's blue butterfly. Except as provided under paragraph (f)(3) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+
+(i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(ii) Take, as set forth at § 17.21(c)(1) for endangered wildlife.
+
+(iii) Possession and other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(iv) Interstate or foreign commerce in the course of commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(v) Sale or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
+
+(3) *Exceptions from prohibitions.* In regard to this species, you may:
+
+(i) Conduct activities as authorized by a permit under § 17.32.
+
+(ii) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
+
+(iii) Take, as set forth at § 17.21(c)(2) through (4) for endangered wildlife.
+
+(iv) Take, as set forth at § 17.31(b).
+
+(v) Take incidental to an otherwise lawful activity caused by:
+
+(A) *Mechanical removal of invasive and/or nonnative plant species.* Mechanical treatments for invasive and nonnative plant control (including encroaching native woody species) that do not result in ground disturbance are authorized within occupied habitat outside the butterfly's flight period of April 15 to June 30, provided:
+
+(*1*) Landowners or their agents conducting invasive or nonnative plant removal use reasonable care, which includes, but is not limited to, procuring and/or implementing technical assistance from a qualified biologist on timing and location of habitat management activities and avoidance of ground disturbance to avoid impacts to larvae or pupae. Best management practices for felling of trees, removal of vegetation off-site, and temporary piling of cut vegetation on-site are available from the Oregon Fish and Wildlife Office.
+
+(*2*) Reasonable care during all activities includes best efforts to avoid trampling or damaging Fender's blue butterflies (eggs, pupae, larvae, and adults) and their host and nectar plants. Foot traffic shall be minimized in occupied habitat, and especially in the area of any lupine plants.
+
+(B) *Manual removal of invasive and/or nonnative plant species.* Manual treatments for invasive and nonnative plant control (including encroaching native woody species) that do not result in ground disturbance are authorized within occupied habitat year-round, provided:
+
+(*1*) Landowners or their agents conducting invasive or nonnative plant removal use reasonable care, which includes, but is not limited to, procuring and/or implementing technical assistance from a qualified biologist on location of habitat management activities and avoidance of ground disturbance to avoid impacts to larvae or pupae. Best management practices for felling of trees, removal of vegetation off-site, and temporary piling of cut vegetation on-site are available from the Oregon Fish and Wildlife Office.
+
+(*2*) Reasonable care during all activities includes best efforts to avoid trampling or damaging Fender's blue butterflies (eggs, pupae, larvae, and adults) and their host and nectar plants. Foot traffic shall be minimized in occupied habitat, and especially in the area of any lupine plants.
+
+(C) *Mowing.* Tractor mowing for invasive and nonnative plant control (including encroaching native woody species) and the maintenance of early seral conditions is authorized throughout occupied Fender's blue butterfly habitat before February 15 when lupine emerges and after August 15 when lupine undergoes senescence.
+
+(*1*) Mowing with handheld mowers is authorized throughout the year; however, a buffer of at least 8 meters (25 feet) must be maintained between the mower and any individual lupine plant during Fender's blue butterfly flight season (April 15 to June 30).
+
+(*2*) Prior to and during mowing, landowners or their agents must use reasonable care, which includes, but is not limited to, procuring and implementing technical assistance from a qualified biologist on timing and location of habitat management activities prior to conducting work; avoidance of ground disturbance to avoid impacts to larvae or pupae; and using best efforts during all activities to avoid trampling or damaging Fender's blue butterflies (eggs, pupae, larvae, and adults) and their host and nectar plants. Foot traffic shall be minimized in occupied habitat, and especially in the area of any lupine plants.
+
+(D) *Herbicide application for removal of invasive and/or nonnative plant species by hand wiping, wicking, and spot-spray applications.* Hand wiping, wicking, and spot-spray applications of herbicides for either the removal of nonnative, invasive plant species or to prevent resprouting of woody species subsequent to cutting are authorized year-round.
+
+(E) *Herbicide application for removal of invasive and/or nonnative plant species by weed wiping and broadcast application.* Weed wiping and broadcast application of herbicides are authorized outside of the flight period of April 15 to June 30; however, additional timing and use restrictions are required based on the chemicals used. Contact the Oregon Fish and Wildlife Office prior to herbicide application for a list of currently acceptable herbicides, their application methods, their appropriate timing of use, and best management practices associated with herbicide use.
+
+(*1*) Prior to and during herbicide application, landowners or their agents must use reasonable care, which includes, but is not limited to, procuring and implementing technical assistance from a qualified biologist on habitat management activities prior to conducting the work; complying with all State and Federal regulations and guidelines for application of herbicides; and avoiding broadcast spraying in areas adjacent to occupied habitat if wind conditions are such that drift into the occupied area is possible.
+
+(*2*) Landowners or their agents conducting herbicide application must use best efforts to avoid trampling or damaging Fender's blue butterflies (eggs, pupae, larvae, and adults) and their host and nectar plants. Foot traffic shall be minimized in occupied habitat, and especially in the area of any lupine plants.
+
+(F) *Ground disturbance for the purpose of planting native vegetation.* Limited ground disturbance (digging and placement by hand) is authorized for the purpose of planting native vegetation as part of habitat restoration efforts, especially native food resources used by larvae and adults, in areas occupied by Fender's blue butterfly.
+
+(*1*) Larvae of Fender's blue butterfly require lupine. For adults, preferred native nectar sources include, but are not limited to, the following flower species: tapertip onion (*Allium acuminatum*), narrowleaf onion (*Allium amplectens*), Tolmie's mariposa lily (*Calochortus tolmiei*), small camas (*Camassia quamash*), Clearwater cryptantha (*Cryptantha intermedia*), Oregon sunshine (*Eriophyllum lanatum*), Oregon geranium (*Geranium oreganum*), Oregon iris (*Iris tenax*), meadow checkermallow (*Sidalcea campestris*), rose checkermallow (*Sidalcea virgata*), and purple vetch (*Vicia americana*).
+
+(*2*) Prior to and during planting of native vegetation, landowners or their agents must use reasonable care, which includes, but is not limited to, procuring and implementing technical assistance from a qualified biologist on timing and location of habitat management activities and using best efforts during all activities to avoid trampling or damaging Fender's blue butterflies (eggs, pupae, larvae, and adults) and their host and nectar plants. Foot traffic shall be minimized in occupied habitat, and especially in the area of any lupine plants.
+
+(G) *Summary of authorized methods and timing of habitat restoration activities for Fender's blue butterfly.*
+
+Table 1 to Paragraph (f)(3)(v)(G)
+
+|   Management activity    |                                                   Dates authorized for use in occupied habitat                                                   |
+|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+|  Mechanical treatments   |                                               Outside of the flight period of April 15 to June 30.                                               |
+|    Manual treatments     |                                                                   Year-round.                                                                    |
+|     Mowing—tractors      |                                                     Before February 15 and after August 15.                                                      |
+|     Mowing—handheld      |Year-round, with a buffer of 8 meters (25 feet) between the mower and any individual lupine plant during the flight period of April 15 to June 30.|
+|  Herbicides—hand wiping  |                                                                   Year-round.                                                                    |
+|    Herbicides—wicking    |                                                                   Year-round.                                                                    |
+|  Herbicides—spot-spray   |                                                                   Year-round.                                                                    |
+|Herbicides—broadcast spray|                                              Outside of the flight period of April 15 to June 30.\*                                              |
+|  Herbicides—weed wiping  |                                              Outside of the flight period of April 15 to June 30.\*                                              |
+|Planting native vegetation|                                                                   Year-round.                                                                    |
+
+\* Additional timing restrictions will apply based on the chemicals used. Contact the Oregon Fish and Wildlife Office for additional information.
+
+(H) *Reporting and disposal requirements.* Any injury or mortality of Fender's blue butterfly associated with the actions excepted under paragraphs (f)(3)(v)(A) through (E) of this section must be reported to the Service and authorized State wildlife officials within 5 calendar days, and specimens may be disposed of only in accordance with directions from the Service. Reports should be made to the Service's Office of Law Enforcement (contact information is at § 10.22 of this subchapter) or the Service's Oregon Fish and Wildlife Office and to the State of Oregon Department of Parks and Recreation, Stewardship Section, which has jurisdiction over invertebrate species. The Service may allow additional reasonable time for reporting if access to these offices is limited due to closure.
 
 (g) Puerto Rican harlequin butterfly (*Atlantea tulita*).
 
@@ -198,4 +279,4 @@ Link to an amendment published at 88 FR 2026, Jan. 12, 2023.
 
 (v) Possess and engage in other acts with unlawfully taken wildlife, as set forth at § 17.21(d)(2) for endangered wildlife.
 
-[77 FR 20986, Apr. 6, 2012, as amended at 79 FR 67348, Oct. 24, 2014; 84 FR 64227, Nov. 21, 2019; 85 FR 65260, Oct. 15, 2020; 86 FR 72427, Dec. 20, 2021; 87 FR 73678, Dec. 1, 2022]
+[77 FR 20986, Apr. 6, 2012, as amended at 79 FR 67348, Oct. 24, 2014; 84 FR 64227, Nov. 21, 2019; 85 FR 65260, Oct. 15, 2020; 86 FR 72427, Dec. 20, 2021; 87 FR 73678, Dec. 1, 2022; 88 FR 2036, Jan. 12, 2023]

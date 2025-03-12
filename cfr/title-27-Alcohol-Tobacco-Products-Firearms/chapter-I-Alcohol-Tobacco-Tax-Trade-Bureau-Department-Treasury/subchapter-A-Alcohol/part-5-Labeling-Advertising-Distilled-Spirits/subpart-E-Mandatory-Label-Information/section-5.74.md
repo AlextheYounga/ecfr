@@ -1,7 +1,5 @@
 ##### § 5.74 Statements of age, storage, and percentage. #####
 
-Link to an amendment published at 88 FR 2227, Jan. 13, 2023.
-
 (a) *General.* (1) As defined in § 5.1, age is the length of time during which, after distillation and before bottling, the distilled spirits have been stored in oak barrels. For bourbon whisky, rye whisky, wheat whisky, malt whisky, or rye malt whisky, and straight whiskies other than straight corn whisky, aging must occur in charred new oak barrels.
 
 (2) If an age statement is used, it is permissible to understate the age of a product, but overstatements of age are prohibited. However, the age statement may not conflict with the standard of identity, if aging is required as part of the standard of identity. For example, the standard of identity for straight rye whisky requires that the whisky be aged for a minimum of 2 years, so the age statement “Aged 1 year,” would be prohibited for a product designated as “straight” rye whisky, even if the spirits were actually aged for more than 2 years, because it is inconsistent with the standard of identity.
@@ -28,7 +26,7 @@ Link to an amendment published at 88 FR 2227, Jan. 13, 2023.
 
 (4) In the case of whisky made in the United States and stored in reused oak barrels, other than corn whisky and light whisky, in lieu of the words “\_\_\_\_ years old” specified in paragraphs (b)(1) and (b)(2) of this section, the period of storage in the reused oak barrels must appear on the label as follows: “stored \_\_\_\_ years in reused cooperage.”
 
-(c) *Statements of age for rum, brandy, and agave spirits.* A statement of age on labels of rums, brandies, and agave spirits is optional, except that, in the case of brandy (other than immature brandies, fruit brandies, marc brandy, pomace brandy, Pisco brandy, and grappa brandy, which are not customarily stored in oak barrels) not stored in oak barrels for a period of at least 2 years, a statement of age must appear on the label. Any statement of age authorized or required under this paragraph must appear substantially as follows: “\_\_\_\_ years old,” with the blank to be filled in with the age of the youngest distilled spirits in the product.
+(c) *Statements of age for rum, brandy, and agave spirits.* A statement of age on labels of rums, brandies, and agave spirits is optional, except that, in the case of brandy (other than immature brandies, fruit brandies, marc brandy, pomace brandy, Pisco brandy, Singani brandy, and grappa brandy, which are not customarily stored in oak barrels) not stored in oak barrels for a period of at least two years, a statement of age must appear on the label. Any statement of age authorized or required under this paragraph must appear substantially as follows: “\_\_\_\_ years old,” with the blank to be filled in with the age of the youngest distilled spirits in the product.
 
 (d) *Statement of storage for grain spirits.* In the case of grain spirits, the period of storage in oak barrels may appear on a label immediately adjacent to the percentage statement required under § 5.73, for example: “\_\_\_\_ % grain spirits stored \_\_\_\_ years in oak barrels.”
 
@@ -40,6 +38,8 @@ Link to an amendment published at 88 FR 2227, Jan. 13, 2023.
 
 (i) The use of the word “old” or another word denoting age as part of the brand name of the product is not deemed to be an age representation that requires a statement of age; and
 
-(ii) Labels of whiskies and brandies (other than immature brandies, pomace brandy, marc brandy, Pisco brandy, and grappa brandy) not required to bear a statement of age, and rum and agave spirits aged for not less than 4 years, may contain general inconspicuous age, maturity or similar representations without the label having to bear an age statement.
+(ii) Labels of whiskies and brandies (other than immature brandies, pomace brandy, marc brandy, Pisco brandy, Singani brandy, and grappa brandy) not required to bear a statement of age, and rum and agave spirits aged for not less than four years, may contain general inconspicuous age, maturity or similar representations without the label having to bear an age statement.
 
 (2) Distillation dates (which may be an exact date or a year) may appear on a label of spirits where the spirits are manufactured solely through distillation. A distillation date may only appear if an optional or mandatory age statement is used on the label and must appear in the same field of vision as the age statement.
+
+[T.D. TTB-176, 87 7579, Feb. 9, 2022, as amended by T.D. TTB-187 88 FR 2227, Jan. 13, 2023]

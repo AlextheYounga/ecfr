@@ -1,7 +1,5 @@
 ##### § 5.235 Prohibited practices. #####
 
-Link to an amendment published at 88 FR 2228, Jan. 13, 2023.
-
 (a) *Restrictions.* An advertisement of distilled spirits shall not contain:
 
 (1) Any statement that is false or untrue in any material particular, or that, irrespective of falsity, directly, or by ambiguity, omission, or inference, or by the addition of irrelevant, scientific or technical matter tends to create a misleading impression.
@@ -30,9 +28,9 @@ Link to an amendment published at 88 FR 2228, Jan. 13, 2023.
 
 (2) Any label depicted on a container in an advertisement shall be a reproduction of an approved label.
 
-(c) *Statement of age.* The advertisement shall not contain any statement, design, or device directly or by implication concerning age or maturity of any brand or lot of distilled spirits unless a statement of age appears on the label of the advertised product. When any such statement, design, or device concerning age or maturity is contained in any advertisement, it shall include (in direct conjunction therewith and with substantially equal conspicuousness) all parts of the statement, if any, concerning age and percentages required to be made on the label under the provisions of § 5.74. An advertisement for any whisky or brandy (except immature brandies, pomace brandy, marc brandy, Pisco brandy, and grappa brandy) which is not required to bear a statement of age on the label or an advertisement for any rum or agave spirits, which has been aged for not less than 4 years may, however, contain inconspicuous, general representations as to age, maturity or other similar representations even though a specific age statement does not appear on the label of the advertised product and in the advertisement itself.
+(c) *Statement of age.* The advertisement shall not contain any statement, design, or device directly or by implication concerning age or maturity of any brand or lot of distilled spirits unless a statement of age appears on the label of the advertised product. When any such statement, design, or device concerning age or maturity is contained in any advertisement, it shall include (in direct conjunction therewith and with substantially equal conspicuousness) all parts of the statement, if any, concerning age and percentages required to be made on the label under the provisions of § 5.74. An advertisement for any whisky or brandy (except immature brandies, pomace brandy, marc brandy, Pisco brandy, Singani brandy, and grappa brandy) which is not required to bear a statement of age on the label or an advertisement for any rum or agave spirits, which has been aged for not less than 4 years may, however, contain inconspicuous, general representations as to age, maturity or other similar representations even though a specific age statement does not appear on the label of the advertised product and in the advertisement itself.
 
-(d) *Health-related statements* - (1) *Definitions.* When used in this paragraph (d), terms are defined as follows:
+(d) *Health-related statements*—(1) *Definitions.* When used in this paragraph (d), terms are defined as follows:
 
 (i) *Health-related statement* means any statement related to health and includes statements of a curative or therapeutic nature that, expressly or by implication, suggest a relationship between the consumption of alcohol, distilled spirits, or any substance found within the distilled spirits, and health benefits or effects on health. The term includes both specific health claims and general references to alleged health benefits or effects on health associated with the consumption of alcohol, distilled spirits, or any substance found within the distilled spirits, as well as health-related directional statements. The term also includes statements and claims that imply that a physical or psychological sensation results from consuming the distilled spirits, as well as statements and claims of nutritional value (*e.g.,* statements of vitamin content). Statements concerning caloric, carbohydrate, protein, and fat content do not constitute nutritional claims about the product.
 
@@ -40,11 +38,11 @@ Link to an amendment published at 88 FR 2228, Jan. 13, 2023.
 
 (iii) *Health-related directional statement* is a type of health-related statement that directs or refers consumers to a third party or other source for information regarding the effects on health of distilled spirits or alcohol consumption.
 
-(2) *Rules for advertising* - (i) *Health-related statements.* In general, advertisements may not contain any health-related statement that is untrue in any particular or tends to create a misleading impression as to the effects on health of alcohol consumption. TTB will evaluate such statements on a case-by-case basis and may require as part of the health-related statement a disclaimer or some other qualifying statement to dispel any misleading impression conveyed by the health-related statement. Such disclaimer or other qualifying statement must appear as prominent as the health-related statement.
+(2) *Rules for advertising*—(i) *Health-related statements.* In general, advertisements may not contain any health-related statement that is untrue in any particular or tends to create a misleading impression as to the effects on health of alcohol consumption. TTB will evaluate such statements on a case-by-case basis and may require as part of the health-related statement a disclaimer or some other qualifying statement to dispel any misleading impression conveyed by the health-related statement. Such disclaimer or other qualifying statement must appear as prominent as the health-related statement.
 
 (ii) *Specific health claims.* A specific health claim will not be considered misleading if it is truthful and adequately substantiated by scientific or medical evidence; sufficiently detailed and qualified with respect to the categories of individuals to whom the claim applies; adequately discloses the health risks associated with both moderate and heavier levels of alcohol consumption; and outlines the categories of individuals for whom any levels of alcohol consumption may cause health risks. This information must appear as part of the specific health claim and in a manner as prominent as the specific health claim.
 
-(iii) *Health-related directional statements.* A statement that directs consumers to a third party or other source for information regarding the effects on health of distilled spirits or alcohol consumption is presumed misleading unless it -
+(iii) *Health-related directional statements.* A statement that directs consumers to a third party or other source for information regarding the effects on health of distilled spirits or alcohol consumption is presumed misleading unless it—
 
 (A) Directs consumers in a neutral or other non-misleading manner to a third party or other source for balanced information regarding the effects on health of distilled spirits or alcohol consumption; and
 
@@ -61,3 +59,5 @@ Link to an amendment published at 88 FR 2228, Jan. 13, 2023.
 (h) *Deceptive advertising techniques.* Subliminal or similar techniques are prohibited. “Subliminal or similar techniques,” as used in this subpart, refers to any device or technique that is used to convey, or attempts to convey, a message to a person by means of images or sounds of a very brief nature that cannot be perceived at a normal level of awareness.
 
 (i) Any use of the term “organic” in the advertising of distilled spirits must comply with the United States Department of Agriculture's (USDA) National Organic Program rules, 7 CFR part 205, as interpreted by the USDA.
+
+ T.D. TTB-176, 87 7579, Feb. 9, 2022, as amended by T. D.TTB-187, 88 FR 2228, Jan. 13, 2023]
