@@ -1,7 +1,5 @@
 ##### § 50.55a Codes and standards. #####
 
-Link to an amendment published at 83 FR 2354, January 17, 2018.
-
 (a) *Documents approved for incorporation by reference.* The standards listed in this paragraph (a) have been approved for incorporation by reference by the Director of the Federal Register pursuant to 5 U.S.C. 552(a) and 1 CFR part 51. The standards are available for inspection, by appointment, at the NRC Technical Library, which is located at Two White Flint North, 11545 Rockville Pike, Rockville, Maryland 20852; telephone: 301-415-7000; email: *Library.Resource@nrc.gov;* or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (1) *American Society of Mechanical Engineers* (*ASME),* Three Park Avenue, New York, NY 10016; telephone:
@@ -435,11 +433,11 @@ Link to an amendment published at 83 FR 2354, January 17, 2018.
 
 (3) *U.S. Nuclear Regulatory Commission (NRC) Public Document Room,* 11555 Rockville Pike, Rockville, Maryland 20852; telephone: 1-800-397-4209; email: *pdr.resource@nrc.gov;**http://www.nrc.gov/reading-rm/doc-collections/reg-guides/.*
 
-(i) *NRC Regulatory Guide 1.84, Revision 36.* NRC Regulatory Guide 1.84, Revision 36, “Design, Fabrication, and Materials Code Case Acceptability, ASME Section III,” dated August 2014, with the requirements in paragraph (b)(4) of this section.
+(i) *NRC Regulatory Guide 1.84, Revision 37.* NRC Regulatory Guide 1.84, Revision 37, “Design, Fabrication, and Materials Code Case Acceptability, ASME Section III,” dated March 2017, with the requirements in paragraph (b)(4) of this section.
 
-(ii) *NRC Regulatory Guide 1.147, Revision 17.* NRC Regulatory Guide 1.147, Revision 17, “Inservice Inspection Code Case Acceptability, ASME Section XI, Division 1,” dated August 2014, which lists ASME Code Cases that the NRC has approved in accordance with the requirements in paragraph (b)(5) of this section.
+(ii) *NRC Regulatory Guide 1.147, Revision 18.* NRC Regulatory Guide 1.147, Revision 18, “Inservice Inspection Code Case Acceptability, ASME Section XI, Division 1,” dated March 2017, which lists ASME Code Cases that the NRC has approved in accordance with the requirements in paragraph (b)(5) of this section.
 
-(iii) *NRC Regulatory Guide 1.192, Revision 1.* NRC Regulatory Guide 1.192, Revision 1, “Operation and Maintenance Code Case Acceptability, ASME OM Code,” dated August 2014, which lists ASME Code Cases that the NRC has approved in accordance with the requirements in paragraph (b)(6) of this section.
+(iii) *NRC Regulatory Guide 1.192, Revision 2.* NRC Regulatory Guide 1.192, Revision 2, “Operation and Maintenance Code Case Acceptability, ASME OM Code,” dated March 2017, which lists ASME Code Cases that the NRC has approved in accordance with the requirements in paragraph (b)(6) of this section.
 
 (b) *Use and conditions on the use of standards.* Systems and components of boiling and pressurized water-cooled nuclear power reactors must meet the requirements of the ASME BPV Code and the ASME OM Code as specified in this paragraph (b). Each combined license for a utilization facility is subject to the following conditions.
 
@@ -1071,4 +1069,4 @@ Table II - Maximum Intervals for Use When Applying Interval Extensions
 
 10 For inspections to be conducted once per interval, the inspections must be performed in accordance with the schedule in Section XI, paragraph IWB-2400, except for plants with inservice inspection programs based on a Section XI edition or addenda prior to the 1994 Addenda. For plants with inservice inspection programs based on a Section XI edition or addenda prior to the 1994 Addenda, the inspection must be performed in accordance with the schedule in Section XI, paragraph IWB-2400, of the 1994 Addenda.
 
-[79 FR 65798, Nov. 5, 2014, as amended at 79 FR 66603, Nov. 10, 2014; 79 FR 73462, Dec. 11, 2014; 82 FR 52825, Dec. 15, 2017; 83 FR 2526, Jan. 18, 2018]
+[79 FR 65798, Nov. 5, 2014, as amended at 79 FR 66603, Nov. 10, 2014; 79 FR 73462, Dec. 11, 2014; 82 FR 52825, Dec. 15, 2017; 83 FR 2354, Jan. 17, 2018; 83 FR 2526, Jan. 18, 2018]

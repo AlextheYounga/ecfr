@@ -1,0 +1,3 @@
+##### § 927.8 Ship or handle. #####
+
+*Ship or handle* means to sell, deliver, consign, transport or ship pears within the production area or between the production area and any point outside thereof, including receiving pears for processing: *Provided*, That the term “handle” shall not include the transportation of pear shipments within the production area from the orchard where grown to a packing facility located within the production area for preparation for market or delivery for processing.

@@ -1,0 +1,3 @@
+##### § 985.65 Rights of the Secretary. #####
+
+Members of the Committee and subcommittees, and any agents, employees or representatives thereof, shall be subject to removal or suspension by the Secretary at any time. Each and every decision, determination, and other act of the Committee shall be subject to the continuing right of disapproval by the Secretary at any time. Upon such disapproval, the disapproved action of the Committee shall be deemed null and void, except as to acts done in reliance thereon or in accordance therewith prior to such disapproval by the Secretary.

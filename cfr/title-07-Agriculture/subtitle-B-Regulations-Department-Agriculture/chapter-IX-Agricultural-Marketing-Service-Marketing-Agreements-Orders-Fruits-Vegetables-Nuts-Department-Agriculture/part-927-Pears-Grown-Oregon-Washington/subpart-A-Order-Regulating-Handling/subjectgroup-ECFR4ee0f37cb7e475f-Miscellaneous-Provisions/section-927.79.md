@@ -1,0 +1,9 @@
+##### § 927.79 Proceedings after termination. #####
+
+(a) Upon the termination of this subpart, the members of the Fresh Pear Committee or the Processed Pear Committee then functioning shall continue as joint trustees for the purpose of liquidating all funds and property then in the possession or under the control of the Fresh Pear Committee or the Processed Pear Committee, including claims for any funds unpaid or property not delivered at the time of such termination.
+
+(b) The joint trustees shall continue in such capacity until discharged by the Secretary; from time to time account for all receipts and disbursements; deliver all funds and property on hand, together with all books and records of the Fresh Pear Committee or the Processed Pear Committee and of the joint trustees, to such person as the Secretary shall direct; and, upon the request of the Secretary, execute such assignments or other instruments necessary and appropriate to vest in such person full title and right to all of the funds, property, or claims vested in the Fresh Pear Committee or the Processed Pear Committee or in said joint trustees.
+
+(c) Any funds collected pursuant to this subpart and held by such joint trustees or such person over and above the amounts necessary to meet outstanding obligations and the expenses necessarily incurred by the joint trustees or such other person in the performance of their duties under this subpart, as soon as practicable after the termination hereof, shall be returned to the handlers pro rata in proportion to their contributions thereto.
+
+(d) Any person to whom funds, property, or claims have been transferred or delivered by the Fresh Pear Committee or the Processed Pear Committee or its members, upon direction of the Secretary, as provided in this section, shall be subject to the same obligations and duties with respect to said funds, property, or claims as are imposed upon the members or upon said joint trustees.

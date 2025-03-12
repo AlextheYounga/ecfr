@@ -1,0 +1,3 @@
+##### § 959.8 Registered handler. #####
+
+*Registered handler* means any person with adequate facilities within the production area for preparing onions for commercial market, who customarily does so, and who is so recorded by the committee, or any person who has access to such facilities within the production area, and has recorded with the committee his ability and willingness to assume customary obligations of preparing onions for commercial market.

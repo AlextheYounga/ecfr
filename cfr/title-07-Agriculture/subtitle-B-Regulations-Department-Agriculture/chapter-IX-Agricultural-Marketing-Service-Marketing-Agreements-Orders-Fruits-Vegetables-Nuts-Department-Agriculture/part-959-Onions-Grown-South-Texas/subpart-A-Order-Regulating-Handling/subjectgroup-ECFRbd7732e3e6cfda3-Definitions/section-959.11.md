@@ -1,0 +1,3 @@
+##### § 959.11 Grade and size. #####
+
+*Grade* means any of the established grades of onions, and *size* means any of the established sizes of onions as defined and set forth in the United States Standards for Bermuda-Granex Type Onions (§§ 51.3195 to 51.3209 of this title) or any other United States Standards for onions, or amendments thereto or modifications thereof, or variations based thereon, recommended by the committee and approved by the Secretary.

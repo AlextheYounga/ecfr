@@ -1,11 +1,9 @@
 ##### § 381.302 Petition for issuance of a declaratory order (except under Part I of the Federal Power Act.) #####
 
-Link to an amendment published at 83 FR 469, Jan. 4, 2018.
-
-(a) Except as provided in paragraph (b) of this section, the fee established for filing a petition for issuance of a declaratory order under § 385.207 of this chapter is $25,640. The fee must be submitted in accordance with subpart A of this part.
+(a) Except as provided in paragraph (b) of this section, the fee established for filing a petition for issuance of a declaratory order under § 385.207 of this chapter is $27,130. The fee must be submitted in accordance with subpart A of this part.
 
 (b) No fee is necessary to file a petition for issuance of a declaratory order that solely concerns the investigation, issuance, transfer, renewal, revocation, and enforcement of licenses and permits for the construction, operation, and maintenance of dams, water conduits, reservoirs, powerhouses, transmission lines, or other works for the development and improvement of navigation and for the development and utilization of power across, along, from, or in navigable waters under Part I of the Federal Power Act.
 
 (c) A person claiming the exemption provided in paragraph (b) of this section must file an original and two copies of a petition for exemption in lieu of a fee along with its petition for issuance of a declaratory order. The petition for exemption should summarize the issues raised in the petition for issuance of a declaratory order and explain why the exemption is applicable. The Commission or its designee will analyze each petition to determine whether the petition has met the standards for exemption and will notify the applicant whether it is granted or denied. If the petition is denied, the petitioner will have thirty days from the date of notification of the denial to submit the appropriate fee to the Commission.
 
-[Order 395, 49 FR 35356, Sept. 7, 1984]Editorial Note:For Federal Register citations affecting § 381.302, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[Order 395, 49 FR 35356, Sept. 7, 1984]Editorial Note:For Federal Register citations affecting § 381.302, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

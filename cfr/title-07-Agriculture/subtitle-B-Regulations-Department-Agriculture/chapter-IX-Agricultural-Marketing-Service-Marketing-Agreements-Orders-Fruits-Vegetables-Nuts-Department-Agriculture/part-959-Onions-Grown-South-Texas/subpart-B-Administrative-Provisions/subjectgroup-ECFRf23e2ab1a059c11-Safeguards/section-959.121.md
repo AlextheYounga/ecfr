@@ -1,0 +1,3 @@
+##### § 959.121 Qualification. #####
+
+Before handling onions for special purposes which do not meet regulations issued pursuant to § 959.52, a handler, when required by such regulations, must qualify with the committee to handle shipments for special purposes. To qualify he must (a) apply for and receive a Certificate of Privilege indicating his intent to so handle onions, (b) agree to comply with reporting and other requirements set forth in §§ 959.120 to 959.125, inclusive, with respect to such shipments, and (c) receive approval of the committee, or its duly authorized agents, to so handle onions. Such approval will be based upon evidence furnished in his application for Certificate of Privilege and other information available to the committee.

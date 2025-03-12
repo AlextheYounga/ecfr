@@ -687,6 +687,8 @@ The term does not include petroleum, including crude oil or any fraction thereof
 
 *Special permit* means a document issued by the Associate Administrator, the Associate Administrator's designee, or as otherwise prescribed in the HMR, under the authority of 49 U.S.C. 5117 permitting a person to perform a function that is not otherwise permitted under subchapter A or C of this chapter, or other regulations issued under 49 U.S.C. 5101 *et seq.* (e.g., Federal Motor Carrier Safety routing requirements).
 
+*Specification packaging* means a packaging conforming to one of the specifications or standards for packagings in part 178 or part 179 of this subchapter.
+
 *Spontaneously combustible material.* See § 173.124(b) of this subchapter.
 
 *Stabilized* means that the hazardous material is in a condition that precludes uncontrolled reaction. This may be achieved by methods such as adding an inhibiting chemical, degassing the hazardous material to remove dissolved oxygen and inerting the air space in the package, or maintaining the hazardous material under temperature control.
@@ -779,4 +781,4 @@ The term does not include petroleum, including crude oil or any fraction thereof
 
 *W.T.* means watertight.
 
-[Amdt. 171-32, 41 FR 15994, Apr. 15, 1976]Editorial Note:For Federal Register citations affecting § 171.8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[Amdt. 171-32, 41 FR 15994, Apr. 15, 1976]Editorial Note:For Federal Register citations affecting § 171.8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

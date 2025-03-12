@@ -1,0 +1,3 @@
+##### § 959.123 Approval. #####
+
+The committee or its duly authorized agents shall give prompt consideration to each application for a Certificate of Privilege. Approval of an application, based upon the determination as to whether the information contained therein and other information available to the committee supports approval, shall be evidenced by the issuance of a Certificate of Privilege to the applicant. Each certificate shall cover a specified period and specified qualities and quantities of onions to be sold or transported to a designated consignee for the purpose declared.

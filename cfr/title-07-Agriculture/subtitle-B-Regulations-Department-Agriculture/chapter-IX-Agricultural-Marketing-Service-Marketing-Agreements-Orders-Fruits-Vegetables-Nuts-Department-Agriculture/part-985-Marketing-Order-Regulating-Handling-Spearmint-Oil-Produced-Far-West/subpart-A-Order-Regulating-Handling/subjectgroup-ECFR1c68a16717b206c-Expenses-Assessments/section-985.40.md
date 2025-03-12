@@ -1,0 +1,3 @@
+##### § 985.40 Expenses. #####
+
+The Committee is authorized to incur such expenses as the Secretary finds are reasonable and likely to be incurred by it for such purposes as the Secretary may, pursuant to this subpart, determine to be appropriate, and for the maintenance and functioning of the Committee during each marketing year. The Committee shall submit to the Secretary a budget for each marketing year, including an explanation of the items appearing therein, and a recommendation as to the rate of assessment for such year.

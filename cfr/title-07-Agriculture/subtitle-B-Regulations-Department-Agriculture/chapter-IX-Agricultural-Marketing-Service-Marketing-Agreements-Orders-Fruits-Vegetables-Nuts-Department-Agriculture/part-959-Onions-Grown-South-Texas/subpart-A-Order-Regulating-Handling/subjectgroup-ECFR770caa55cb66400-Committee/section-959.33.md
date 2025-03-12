@@ -1,0 +1,3 @@
+##### § 959.33 Expenses and compensation. #####
+
+Committee members and alternates when acting on committee business shall be reimbursed for reasonable expenses necessarily incurred by them in the performance of their duties and in the exercise of their powers under this part. In addition they may receive compensation at a rate to be determined by the committee and approved by the Secretary, not to exceed $10 for each day, or portion thereof, spent in attending to committee business.

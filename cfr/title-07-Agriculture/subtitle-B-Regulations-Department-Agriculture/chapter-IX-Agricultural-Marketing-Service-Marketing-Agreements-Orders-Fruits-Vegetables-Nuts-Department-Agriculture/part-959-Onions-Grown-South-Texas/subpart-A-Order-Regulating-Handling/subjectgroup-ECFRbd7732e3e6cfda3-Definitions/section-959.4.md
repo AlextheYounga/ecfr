@@ -1,0 +1,3 @@
+##### § 959.4 Production area. #####
+
+*Production area* means the counties of Val Verde, Kinney, Uvalde, Medina, Wilson, Karnes, Goliad, Victoria, Calhoun, Maverick, Zavala, Frio, Atascosa, Dimmit, La Salle, McMullen, Live Oak, Bee, Refugio, Webb, Duval, Jim Wells, San Patricio, Nueces, Zapata, Jim Hogg, Brooks, Kleberg, Kenedy, Starr, De Witt, Aransas, Hidalgo, Willacy, and Cameron, in the State of Texas.

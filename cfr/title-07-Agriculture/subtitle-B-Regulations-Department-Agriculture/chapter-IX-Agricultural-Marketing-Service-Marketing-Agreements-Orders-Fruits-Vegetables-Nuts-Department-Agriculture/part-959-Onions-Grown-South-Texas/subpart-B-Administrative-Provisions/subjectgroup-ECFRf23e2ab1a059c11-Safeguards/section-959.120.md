@@ -1,0 +1,3 @@
+##### § 959.120 Policy. #####
+
+Whenever shipments of onions for special purposes pursuant to § 959.53 are relieved in whole or in part from regulations issued under § 959.52, the committee may require information and evidence on the manner, methods, and timing of such shipments as safeguards against the entry of any such onions in trade channels other than those for which intended. Such information and evidence shall include requirements set forth below with respect to Certificates of Privilege.

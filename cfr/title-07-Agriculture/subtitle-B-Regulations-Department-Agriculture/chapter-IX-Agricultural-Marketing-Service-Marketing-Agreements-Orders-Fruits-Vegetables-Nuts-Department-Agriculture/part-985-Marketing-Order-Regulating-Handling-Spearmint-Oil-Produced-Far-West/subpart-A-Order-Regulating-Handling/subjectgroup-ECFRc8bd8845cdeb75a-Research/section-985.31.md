@@ -1,0 +1,3 @@
+##### § 985.31 Research and development projects. #####
+
+The Committee, with the approval of the Secretary, may establish or provide for the establishment of production research, marketing research and development projects designed to assist, improve, or promote the marketing, distribution and consumption or efficient production of oil. The Committee shall consider ongoing research, by industry and grower organizations, in making its recommendations. The expense of such projects shall be paid from funds collected pursuant to § 985.41.

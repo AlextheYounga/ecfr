@@ -1,0 +1,5 @@
+##### § 985.4 Spearmint oil. #####
+
+*Spearmint oil,* hereinafter referred to as *oil,* means essential oil extracted by distillation from plants, grown in the production area, of the genus Mentha, species Cardiaca (commonly referred to as Scotch Spearmint), Spicata (commonly referred to as Native Spearmint), or such other species, grown in the production area, that produce a spearmint flavored oil. Oil shall be segregated into the following classes:
+
+*Class 1:* Oil extracted from the first cutting of Scotch Spearmint.*Class 2:* Oil extracted from the second cutting of Scotch Spearmint.*Class 3:* Oil extracted from Native Spearmint.*Class 4:* Oil which has a spearmint flavor, extracted from plants other than Scotch or Native Spearmint.The Committee, with the approval of the Secretary, may change these classes to recognize new, or delete obsolete, classes.
