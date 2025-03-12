@@ -1,7 +1,5 @@
 ##### § 1.41 Informal requests for Commission action. #####
 
-Link to an amendment published at 85 FR 85528, Dec. 29, 2020.
+Except where formal procedures are required under the provisions of this chapter, requests for action may be submitted informally. Requests should set forth clearly and concisely the facts relied upon, the relief sought, the statutory and/or regulatory provisions (if any) pursuant to which the request is filed and under which relief is sought, and the interest of the person submitting the request. In application and licensing matters pertaining to the Wireless Radio Services, as defined in § 1.904, such requests must be submitted electronically, via the ULS, and the request must include an email address for receiving electronic service. See § 1.47(d).
 
-Except where formal procedures are required under the provisions of this chapter, requests for action may be submitted informally. Requests should set forth clearly and concisely the facts relied upon, the relief sought, the statutory and/or regulatory provisions (if any) pursuant to which the request is filed and under which relief is sought, and the interest of the person submitting the request. In application and licensing matters pertaining to the Wireless Radio Services, as defined in § 1.904 of this part, such requests may also be sent electronically, via the ULS.
-
-[28 FR 12415, Nov. 22, 1963, as amended at 63 FR 68919, Dec. 14, 1998]
+[85 FR 85528, Dec. 29, 2020]

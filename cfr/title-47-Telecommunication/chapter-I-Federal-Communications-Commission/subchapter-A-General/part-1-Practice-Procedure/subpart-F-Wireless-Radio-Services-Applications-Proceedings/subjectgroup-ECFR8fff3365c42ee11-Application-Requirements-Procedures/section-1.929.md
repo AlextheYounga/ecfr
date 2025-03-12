@@ -1,7 +1,5 @@
 ##### § 1.929 Classification of filings as major or minor. #####
 
-Link to an amendment published at 85 FR 85530, Dec. 29, 2020.
-
 Applications and amendments to applications for stations in the wireless radio services are classified as major or minor (see § 1.947). Categories of major and minor filings are listed in § 309 of the Communications Act of 1934.
 
 (a) For all stations in all Wireless Radio Services, whether licensed geographically or on a site-specific basis, the following actions are classified as major:
@@ -150,7 +148,7 @@ For the systems and path types described in paragraph (d)(3) of this section, th
 
 (2) Any name change not involving change in ownership or control of the license;
 
-(3) Any address and/or telephone number changes;
+(3) Any email or physical mailing address and/or telephone number changes;
 
 (4) Any changes in contact person;
 
@@ -160,4 +158,4 @@ For the systems and path types described in paragraph (d)(3) of this section, th
 
 (7) Any conversion of multiple site-specific licenses into a single wide-area license, except a PLMRS license under part 90 or a license under part 101 of this chapter, where there is no change in the licensee's composite interference contour or service area as defined in paragraph (c)(2) of this section.
 
-[63 FR 68927, Dec. 14, 1998, as amended at 64 FR 53239, Oct. 1, 1999; 68 FR 12755, Mar. 17, 2003; 70 FR 19306, Apr. 13, 2005; 70 FR 61058, Oct. 20, 2005; 76 FR 70909, Nov. 16, 2011; 77 FR 3952, Jan. 26, 2012; 79 FR 72150, Dec. 5, 2014]
+[63 FR 68927, Dec. 14, 1998, as amended at 64 FR 53239, Oct. 1, 1999; 68 FR 12755, Mar. 17, 2003; 70 FR 19306, Apr. 13, 2005; 70 FR 61058, Oct. 20, 2005; 76 FR 70909, Nov. 16, 2011; 77 FR 3952, Jan. 26, 2012; 79 FR 72150, Dec. 5, 2014; 85 FR 85530, Dec. 29, 2020]

@@ -38,7 +38,7 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (C) For fishing year 2020 and subsequent years - 421,411 lb (191,149 kg), round weight.
 
-(vi) Gray triggerfish - 60,900 lb (27,624 kg), round weight.
+(vi) Gray triggerfish - 88,273 lb (40,040 kg), round weight.
 
 (2) *Recreational quotas.* The following quotas apply to persons who fish for Gulf reef fish other than under commercial vessel permits for Gulf reef fish and the applicable commercial quotas specified in paragraph (a)(1) of this section.
 

@@ -1,7 +1,5 @@
 ##### § 1.106 Petitions for reconsideration in non-rulemaking proceedings. #####
 
-Link to an amendment published at 85 FR 85529, Dec. 29, 2020.
-
 (a)(1) Except as provided in paragraphs (b)(3) and (p) of this section, petitions requesting reconsideration of a final Commission action in non-rulemaking proceedings will be acted on by the Commission. Petitions requesting reconsideration of other final actions taken pursuant to delegated authority will be acted on by the designated authority or referred by such authority to the Commission. A petition for reconsideration of an order designating a case for hearing will be entertained if, and insofar as, the petition relates to an adverse ruling with respect to petitioner's participation in the proceeding. Petitions for reconsideration of other interlocutory actions will not be entertained. (For provisions governing reconsideration of Commission action in notice and comment rulemaking proceedings, *see* § 1.429. This § 1.106 does not govern reconsideration of such actions.)
 
 (2) Within the period allowed for filing a petition for reconsideration, any party to the proceeding may request the presiding officer to certify to the Commission the question as to whether, on policy in effect at the time of designation or adopted since designation, and undisputed facts, a hearing should be held. If the presiding officer finds that there is substantial doubt, on established policy and undisputed facts, that a hearing should be held, he will certify the policy question to the Commission with a statement to that effect. No appeal may be filed from an order denying such a request. See also, §§ 1.229 and 1.251.
@@ -34,7 +32,7 @@ Link to an amendment published at 85 FR 85529, Dec. 29, 2020.
 
 (h) Petitioner may reply to oppositions within seven days after the last day for filing oppositions, and any such reply shall be served upon parties to the proceeding. Replies shall not exceed 10 double spaced typewritten pages, and shall be limited to matters raised in the opposition.
 
-(i) Petitions for reconsideration, oppositions, and replies shall conform to the requirements of §§ 1.49, 1.51, and 1.52 and shall be submitted to the Secretary, Federal Communications Commission, Washington, DC 20554, by mail, by commercial courier, by hand, or by electronic submission through the Commission's Electronic Comment Filing System or other electronic filing system (such as ULS). Petitions submitted only by electronic mail and petitions submitted directly to staff without submission to the Secretary shall not be considered to have been properly filed. Parties filing in electronic form need only submit one copy.
+(i) Petitions for reconsideration, oppositions, and replies shall conform to the requirements of §§ 1.49, 1.51, and 1.52 and, except for those related to licensing matters in the Wireless Radio Service and addressed in paragraph (o) of this section, shall be submitted to the Secretary, Federal Communications Commission, Washington, DC 20554, by mail, by commercial courier, by hand, or by electronic submission through the Commission's Electronic Comment Filing System or other electronic filing system (such as ULS). Petitions submitted only by electronic mail and petitions submitted directly to staff without submission to the Secretary shall not be considered to have been properly filed. Parties filing in electronic form need only submit one copy.
 
 (j) The Commission or designated authority may grant the petition for reconsideration in whole or in part or may deny or dismiss the petition. Its order will contain a concise statement of the reasons for the action taken. Where the petition for reconsideration relates to an instrument of authorization granted without hearing, the Commission or designated authority will take such action within 90 days after the petition is filed.
 
@@ -60,7 +58,7 @@ For purposes of this section, the word “order” refers to that portion of its
 
 (n) Without special order of the Commission, the filing of a petition for reconsideration shall not excuse any person from complying with or obeying any decision, order, or requirement of the Commission, or operate in any manner to stay or postpone the enforcement thereof. However, upon good cause shown, the Commission will stay the effectiveness of its order or requirement pending a decision on the petition for reconsideration. (This paragraph applies only to actions of the Commission en banc. For provisions applicable to actions under delegated authority, see § 1.102.)
 
-(o) Petitions for reconsideration of licensing actions, as well as oppositions and replies thereto, that are filed with respect to the Wireless Radio Services, may be filed electronically via ULS.
+(o) Petitions for reconsideration of licensing actions, as well as oppositions and replies thereto, that are filed with respect to the Wireless Radio Services, must be filed electronically via ULS.
 
 (p) Petitions for reconsideration of a Commission action that plainly do not warrant consideration by the Commission may be dismissed or denied by the relevant bureau(s) or office(s). Examples include, but are not limited to, petitions that:
 
@@ -82,4 +80,4 @@ For purposes of this section, the word “order” refers to that portion of its
 
 (9) Are untimely.
 
-(Secs. 4, 303, 307, 405, 48 Stat., as amended, 1066, 1082, 1083, 1095; 47 U.S.C. 154, 303, 307, 405)[28 FR 12415, Nov. 22, 1963, as amended at 37 FR 7507, Apr. 15, 1972; 41 FR 1287, Jan. 7, 1976; 44 FR 60294, Oct. 19, 1979; 46 FR 18556, Mar. 25, 1981; 62 FR 4170, Jan. 29, 1997; 63 FR 68920, Dec. 14, 1998; 76 FR 24391, May 2, 2011]
+(Secs. 4, 303, 307, 405, 48 Stat., as amended, 1066, 1082, 1083, 1095; 47 U.S.C. 154, 303, 307, 405)[28 FR 12415, Nov. 22, 1963, as amended at 37 FR 7507, Apr. 15, 1972; 41 FR 1287, Jan. 7, 1976; 44 FR 60294, Oct. 19, 1979; 46 FR 18556, Mar. 25, 1981; 62 FR 4170, Jan. 29, 1997; 63 FR 68920, Dec. 14, 1998; 76 FR 24391, May 2, 2011; 85 FR 85529, Dec. 29, 2020]

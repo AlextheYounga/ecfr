@@ -1,0 +1,35 @@
+##### § 97.1021 Recordation of CSAPR NOX Ozone Season Group 3 allowance allocations and auction results. #####
+
+(a) By July 29, 2021, the Administrator will record in each CSAPR NOX Ozone Season Group 3 source's compliance account the CSAPR NOX Ozone Season Group 3 allowances allocated to the CSAPR NOX Ozone Season Group 3 units at the source in accordance with § 97.1011(a)(1) for the control period in 2021.
+
+(b) By July 29, 2021, the Administrator will record in each CSAPR NOX Ozone Season Group 3 source's compliance account the CSAPR NOX Ozone Season Group 3 allowances allocated to the CSAPR NOX Ozone Season Group 3 units at the source in accordance with § 97.1011(a)(1) for the control period in 2022.
+
+(c) [Reserved]
+
+(d) By September 5, 2023, the Administrator will record in each CSAPR NOX Ozone Season Group 3 source's compliance account the CSAPR NOX Ozone Season Group 3 allowances allocated to the CSAPR NOX Ozone Season Group 3 units at the source in accordance with § 97.1011(a)(1) for the control period in 2023.
+
+(e) By September 5, 2023, the Administrator will record in each CSAPR NOX Ozone Season Group 3 source's compliance account the CSAPR NOX Ozone Season Group 3 allowances allocated to the CSAPR NOX Ozone Season Group 3 units at the source in accordance with § 97.1011(a)(1) for the control period in 2024, unless the State in which the source is located notifies the Administrator in writing by August 4, 2023, of the State's intent to submit to the Administrator a complete SIP revision by September 1, 2023, meeting the requirements of § 52.38(b)(10)(i) through (iv) of this chapter.
+
+(1) If, by September 1, 2023, the State does not submit to the Administrator such complete SIP revision, the Administrator will record by September 15, 2023, in each CSAPR NOX Ozone Season Group 3 source's compliance account the CSAPR NOX Ozone Season Group 3 allowances allocated to the CSAPR NOX Ozone Season Group 3 units at the source in accordance with § 97.1011(a)(1) for the control period in 2024.
+
+(2) If the State submits to the Administrator by September 1, 2023, and the Administrator approves by March 1, 2024, such complete SIP revision, the Administrator will record by March 1, 2024, in each CSAPR NOX Ozone Season Group 3 source's compliance account the CSAPR NOX Ozone Season Group 3 allowances allocated to the CSAPR NOX Ozone Season Group 3 units at the source as provided in such approved, complete SIP revision for the control period in 2024.
+
+(3) If the State submits to the Administrator by September 1, 2023, and the Administrator does not approve by March 1, 2024, such complete SIP revision, the Administrator will record by March 1, 2024, in each CSAPR NOX Ozone Season Group 3 source's compliance account the CSAPR NOX Ozone Season Group 3 allowances allocated to the CSAPR NOX Ozone Season Group 3 units at the source in accordance with § 97.1011(a)(1) for the control period in 2024.
+
+(f) By July 1, 2024 and July 1 of each year thereafter, the Administrator will record in each CSAPR NOX Ozone Season Group 3 source's compliance account the CSAPR NOX Ozone Season Group 3 allowances allocated to the CSAPR NOX Ozone Season Group 3 units at the source, or in each appropriate Allowance Management System account the CSAPR NOX Ozone Season Group 3 allowances auctioned to CSAPR NOX Ozone Season Group 3 units, in accordance with § 97.1011(a)(1), or with a SIP revision approved under § 52.38(b)(11) or (12) of this chapter, for the control period in the year after the year of the applicable recordation deadline under this paragraph.
+
+(g) By September 5, 2023, the Administrator will record in each CSAPR NOX Ozone Season Group 3 source's compliance account the CSAPR NOX Ozone Season Group 3 allowances allocated to the CSAPR NOX Ozone Season Group 3 units at the source in accordance with § 97.1011(a)(2) for the control periods in 2023 and 2024.
+
+(h) By July 1, 2024, and July 1 of each year thereafter, the Administrator will record in each CSAPR NOX Ozone Season Group 3 source's compliance account the CSAPR NOX Ozone Season Group 3 allowances allocated to the CSAPR NOX Ozone Season Group 3 units at the source in accordance with § 97.1011(a)(2) for the control period in the year after the year of the applicable recordation deadline under this paragraph (h).
+
+(i) By May 1, 2022, and May 1 of each year thereafter, the Administrator will record in each CSAPR NOX Ozone Season Group 3 source's compliance account the CSAPR NOX Ozone Season Group 3 allowances allocated to the CSAPR NOX Ozone Season Group 3 units at the source in accordance with § 97.1012(a) for the control period in the year before the year of the applicable recordation deadline under this paragraph (i).
+
+(j) By May 1, 2022, and May 1, 2023, the Administrator will record in each CSAPR NOX Ozone Season Group 3 source's compliance account the CSAPR NOX Ozone Season Group 3 allowances allocated to the CSAPR NOX Ozone Season Group 3 units at the source in accordance with § 97.1012(b) for the control period in the year before the year of the applicable recordation deadline under this paragraph.
+
+(k) By the date 15 days after the date on which any allocation or auction results, other than an allocation or auction results described in paragraphs (a) through (h) of this section, of CSAPR NOX Ozone Season Group 3 allowances to a recipient is made by or are submitted to the Administrator in accordance with § 97.1011 or § 97.1012 or with a SIP revision approved under § 52.38(b)(11) or (12) of this chapter, the Administrator will record such allocation or auction results in the appropriate Allowance Management System account.
+
+(l) When recording the allocation or auction of CSAPR NOX Ozone Season Group 3 allowances to a CSAPR NOX Ozone Season Group 3 unit or other entity in an Allowance Management System account, the Administrator will assign each CSAPR NOX Ozone Season Group 3 allowance a unique identification number that will include digits identifying the year of the control period for which the CSAPR NOX Ozone Season Group 3 allowance is allocated or auctioned.
+
+(m) Notwithstanding any other provision of this subpart, if, as of the otherwise applicable deadline for recording any CSAPR NOX Ozone Season Group 3 allowances in any CSAPR NOX Ozone Season Group 3 source's compliance account under any other provision of this section, the Administrator has not completed all deductions of CSAPR NOX Ozone Season Group 2 allowances required for the source under § 97.811(d) or (e), such otherwise applicable deadline shall not apply, and the Administrator instead will record such CSAPR NOX Ozone Season Group 3 allowances in the source's compliance account as expeditiously as practicable after the Administrator has completed all deductions of CSAPR NOX Ozone Season Group 2 allowances required for the source under § 97.811(d) or (e).
+
+[86 FR 23208, Apr. 30, 2021, as amended at 87 FR 52481, Aug. 26, 2022; 88 FR 36915, June 5, 2023]

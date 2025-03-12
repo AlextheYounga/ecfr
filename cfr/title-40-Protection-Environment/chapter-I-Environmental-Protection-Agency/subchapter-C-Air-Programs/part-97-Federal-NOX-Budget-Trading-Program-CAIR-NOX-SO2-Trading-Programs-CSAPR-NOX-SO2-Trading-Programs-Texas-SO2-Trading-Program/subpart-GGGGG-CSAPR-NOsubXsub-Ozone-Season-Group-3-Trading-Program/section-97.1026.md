@@ -1,0 +1,61 @@
+##### § 97.1026 Banking and conversion; bank recalibration. #####
+
+(a) A CSAPR NOX Ozone Season Group 3 allowance may be banked for future use or transfer in a compliance account or a general account in accordance with paragraph (b) of this section.
+
+(b) Any CSAPR NOX Ozone Season Group 3 allowance that is held in a compliance account or a general account will remain in such account unless and until the CSAPR NOX Ozone Season Group 3 allowance is deducted or transferred under § 97.1011(c) or (d), § 97.1012(c), § 97.1023, § 97.1024, § 97.1025, § 97.1027, or § 97.1028, or paragraph (c), (d), or (e) of this section.
+
+(c) At any time after the allowance transfer deadline for the last control period for which a State NOX Ozone Season Group 3 trading budget is established under § 97.1010(a) for a given State, the Administrator may record a transfer of any CSAPR NOX Ozone Season Group 3 allowances held in the compliance account for a source in such State (and Indian country within the borders of such State) to a general account identified or established by the Administrator with the source's designated representative as the authorized account representative and with the owners and operators of the source (as indicated on the certificate of representation for the source) as the persons represented by the authorized account representative. The Administrator will notify the designated representative not less than 15 days before making such a transfer.
+
+(d) Before the allowance transfer deadline for each control period in 2024 and thereafter, the Administrator will deduct amounts of CSAPR NOX Ozone Season Group 3 allowances issued for the control periods in previous years exceeding the CSAPR NOX Ozone Season Group 3 allowance bank ceiling target for the control period in accordance with paragraphs (d)(1) through (4) of this section.
+
+(1) As soon as practicable on or after August 1, 2024, and August 1 of each year thereafter, the Administrator will temporarily suspend acceptance of CSAPR NOX Ozone Season Group 3 allowance transfers submitted under § 97.1022 and, before resuming acceptance of such transfers, will take the actions in paragraphs (d)(2) through (4) of this section.
+
+(2) The Administrator will determine each of the following values:
+
+(i) The total amount of CSAPR NOX Ozone Season Group 3 allowances issued for control periods in years before the year of the deadline under paragraph (d)(1) of this section and held in all compliance and general accounts.
+
+(ii) The CSAPR NOX Ozone Season Group 3 allowance bank ceiling target for the control period in the year of the deadline under paragraph (d)(1) of this section, calculated as the product, rounded to the nearest allowance, of the sum for all States listed in § 52.38(b)(2)(iii)(A) through (C) of this chapter of the State NOX Ozone Season Group 3 trading budgets under § 97.1010(a) for such States for such control period multiplied by—
+
+(A) 0.210, for a control period in 2024 through 2029; or
+
+(B) 0.105, for a control period in 2030 and thereafter.
+
+(3) If the total amount of CSAPR NOX Ozone Season Group 3 allowances determined under paragraph (d)(2)(i) of this section exceeds the CSAPR NOX Ozone Season Group 3 allowance bank ceiling target determined under paragraph (d)(2)(ii) of this section, then for each compliance account or general account holding CSAPR NOX Ozone Season Group 3 allowances issued for control periods in years before the year of the deadline under paragraph (d)(1) of this section, the Administrator will:
+
+(i) Determine the total amount of CSAPR NOX Ozone Season Group 3 allowances issued for control periods in years before the year of the deadline under paragraph (d)(1) of this section and held in the account.
+
+(ii) Determine the account's share of the CSAPR NOX Ozone Season Group 3 allowance bank ceiling target for the control period, calculated as the product, rounded up to the nearest allowance, of the CSAPR NOX Ozone Season Group 3 allowance bank ceiling target determined under paragraph (d)(2)(ii) of this section multiplied by a fraction whose numerator is the total amount of CSAPR NOX Ozone Season Group 3 allowances held in the account determined under paragraph (d)(3)(i) of this section and whose denominator is the total amount of CSAPR NOX Ozone Season Group 3 allowances held in all compliance and general accounts determined under paragraph (d)(2)(i) of this section.
+
+(iii) Deduct an amount of CSAPR NOX Ozone Season Group 3 allowances issued for control periods in years before the year of the deadline under paragraph (d)(1) of this section equal to any positive remainder of the total amount of CSAPR NOX Ozone Season Group 3 allowances held in the account determined under paragraph (d)(3)(i) of this section minus the account's share of the CSAPR NOX Ozone Season Group 3 allowance bank ceiling target for the control period determined under paragraph (d)(3)(ii) of this section. The allowances will be deducted on a first-in, first-out basis in the order set forth in § 97.1024(c)(2)(i) and (ii).
+
+(iv) Record the deductions under paragraph (d)(3)(iii) of this section in the account.
+
+(4)(i) In computing any amounts of CSAPR NOX Ozone Season Group 3 allowances to be deducted from general accounts under paragraph (d)(3) of this section, the Administrator may group multiple general accounts whose ownership interests are held by the same or related persons or entities and treat the group of accounts as a single account for purposes of such computation.
+
+(ii) Following a computation for a group of general accounts in accordance with paragraph (d)(4)(i) of this section, the Administrator will deduct from and record in each individual account in such group a proportional share of the quantity of CSAPR NOX Ozone Season Group 3 allowances computed for such group, basing such shares on the respective quantities of CSAPR NOX Ozone Season Group 3 allowances determined for such individual accounts under paragraph (d)(3)(i) of this section.
+
+(iii) In determining the proportional shares under paragraph (d)(4)(ii) of this section, the Administrator may employ any reasonable adjustment methodology to truncate or round each such share up or down to a whole number and to cause the total of such whole numbers to equal the amount of CSAPR NOX Ozone Season Group 3 allowances computed for such group of accounts in accordance with paragraph (d)(4)(i) of this section, even where such adjustments cause the numbers of CSAPR NOX Ozone Season Group 3 allowances remaining in some individual accounts following the deductions to equal zero.
+
+(e)(1) Notwithstanding any other provision of this subpart, by September 18, 2023, or, with regard to sources in West Virginia, as soon as practicable on or after September 29, 2023, the Administrator will temporarily suspend acceptance of CSAPR NOX Ozone Season Group 3 allowance transfers submitted under § 97.1022 and, before resuming acceptance of such transfers, will take the actions in paragraphs (e)(1)(i) and (ii) of this section with regard to every compliance account for a CSAPR NOX Ozone Season Group 3 source in a State listed in § 52.38(b)(2)(iii)(D)(*1*) of this chapter (and Indian country within the borders of such a State):
+
+(i) The Administrator will deduct all CSAPR NOX Ozone Season Group 3 allowances allocated for the control periods in 2021 and 2022 from each such compliance account.
+
+(ii) For each CSAPR NOX Ozone Season Group 3 allowance deducted from a given source's compliance account under paragraph (e)(1)(i) of this section, the Administrator will allocate to the source and record in the source's compliance account one CSAPR NOX Ozone Season Expanded Group 2 allowance for the control period in 2023.
+
+(2) Notwithstanding any other provision of this subpart, as soon as practicable on or after December 23, 2024, the Administrator will temporarily suspend acceptance of CSAPR NOX Ozone Season Group 3 allowance transfers submitted under § 97.1022 and, before resuming acceptance of such transfers, will take the actions in paragraphs (e)(2)(i) through (iii) of this section with regard to every compliance account for a source in a state listed in § 52.38(b)(2)(iii)(D)(*4*) or (*5*) of this chapter (and Indian country within the borders of such a State):
+
+(i) The Administrator will deduct all CSAPR NOX Ozone Season Group 3 allowances allocated for the control periods in 2021 through 2023 from each such compliance account.
+
+(ii) For each CSAPR NOX Ozone Season Group 3 allowance deducted from the compliance account for a source in a State listed in § 52.38(b)(2)(iii)(D)(*4*) of this chapter (and Indian country within the borders of such a State) under paragraph (e)(2)(i) of this section, the Administrator will allocate and record in the account one CSAPR NOX Ozone Season Expanded Group 2 allowance for the control period in 2024.
+
+(iii) For each CSAPR NOX Ozone Season Group 3 allowance deducted from the compliance account for a source in a State listed in § 52.38(b)(2)(iii)(D)(*5*) of this chapter (and Indian country within the borders of such a State) under paragraph (e)(2)(i) of this section, the Administrator will allocate and record in the account one CSAPR NOX Ozone Season Original Group 2 allowance for the control period in 2024.
+
+(f) Notwithstanding any other provision of this subpart, CSAPR NOX Ozone Season Original Group 2 allowances or CSAPR NOX Ozone Season Expanded Group 2 allowances may be used to satisfy requirements to hold CSAPR NOX Ozone Season Group 3 allowances under this subpart as follows, provided that nothing in this paragraph (f) alters the time as of which any such allowance holding requirement must be met or limits any consequence of a failure to timely meet any such allowance holding requirement:
+
+(1) After the Administrator has carried out the procedures set forth in paragraph (e)(1) of this section and before November 6, 2024, the owner or operator of a CSAPR NOX Ozone Season Group 3 source in a State listed in § 52.38(b)(2)(iii)(D)(*1*) of this chapter (and Indian country within the borders of such a State) may satisfy a requirement to hold a given number of CSAPR NOX Ozone Season Group 3 allowances for the control period in 2021 or 2022 by holding instead, in a general account established for this sole purpose, an equal amount of CSAPR NOX Ozone Season Expanded Group 2 allowances for the control period in 2023 (or any later control period for which the allowance transfer deadline defined in § 97.802 has passed).
+
+(2) On or after November 6, 2024, the owner or operator of a source subject to the requirements of the CSAPR NOX Ozone Season Group 2 Trading Program for the control period in the current year and required to demonstrate compliance under such program for such control period by holding CSAPR NOX Ozone Season Original Group 2 allowances may satisfy a requirement to hold a given number of CSAPR NOX Ozone Season Group 3 allowances for the control period in a previous year for which the allowance transfer deadline defined in § 97.1002 has passed by holding instead in the source's compliance account an equal number of CSAPR NOX Ozone Season Original Group 2 allowances for the control period in the current year.
+
+(3) On or after November 6, 2024, the owner or operator of a source subject to the requirements of the CSAPR NOX Ozone Season Group 2 Trading Program for the control period in the current year and required to demonstrate compliance under such program for such control period by holding CSAPR NOX Ozone Season Expanded Group 2 allowances may satisfy a requirement to hold a given number of CSAPR NOX Ozone Season Group 3 allowances for the control period in a previous year for which the allowance transfer deadline defined in § 97.1002 has passed by holding instead in the source's compliance account an equal number of CSAPR NOX Ozone Season Expanded Group 2 allowances for the control period in the current year.
+
+[86 FR 23208, Apr. 30, 2021, as amended at 88 FR 36916, June 5, 2023; 88 FR 49308, July 31, 2023; 88 FR 67108, Sept. 29, 2023; 89 FR 87976, Nov. 6, 2024]

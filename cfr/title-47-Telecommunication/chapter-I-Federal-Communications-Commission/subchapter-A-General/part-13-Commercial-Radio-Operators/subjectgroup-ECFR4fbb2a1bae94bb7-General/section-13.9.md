@@ -1,7 +1,5 @@
 ##### § 13.9 Eligibility and application for new license or endorsement. #####
 
-Link to an amendment published at 85 FR 85531, Dec. 29, 2020.
-
 (a) If found qualified, the following persons are eligible to apply for commercial radio operator licenses:
 
 (1) Any person legally eligible for employment in the United States.
@@ -24,7 +22,7 @@ Link to an amendment published at 85 FR 85531, Dec. 29, 2020.
 
 (b) Each application for a new General Radiotelephone Operator License, Marine Radio Operator Permit, Radiotelegraph Operator License, Ship Radar Endorsement, Six Months Service Endorsement, GMDSS Radio Operator's License, Restricted GMDSS Radio Operator's License, GMDSS Radio Maintainer's License, GMDSS Radio Operator/Maintainer License, Restricted Radiotelephone Operator Permit, or Restricted Radiotelephone Operator Permit-Limited Use must be filed on FCC Form 605 in accordance with § 1.913 of this chapter.
 
-(c) Each application for a new General Radiotelephone Operator License, Marine Radio Operator Permit, Radiotelegraph Operator License, Ship Radar Endorsement, GMDSS Radio Operator's License, Restricted GMDSS Radio Operator's License, GMDSS Radio Maintainer's License, or GMDSS Radio Operator/Maintainer License must be accompanied by the required fee, if any, and submitted in accordance with § 1.913 of this chapter. The application must include an original PPC(s) from a COLEM(s) showing that the applicant has passed the necessary examination Element(s) within the previous 365 days when the applicant files the application. If a COLEM files the application on behalf of the applicant, an original PPC(s) is not required. However, the COLEM must keep the PPC(s) on file for a period of 1 year. When acting on behalf of qualified examinees, the COLEM must forward all required data to the FCC electronically.
+(c) Each application for a new General Radiotelephone Operator License, Marine Radio Operator Permit, Radiotelegraph Operator License, Ship Radar Endorsement, GMDSS Radio Operator's License, Restricted GMDSS Radio Operator's License, GMDSS Radio Maintainer's License, or GMDSS Radio Operator/Maintainer License must be accompanied by the required fee, if any, and submitted in accordance with § 1.913 of this chapter. The application must include an electronic copy of the official PPC(s) from a COLEM(s) showing that the applicant has passed the necessary examination Element(s) within the previous 365 days when the applicant files the application. If a COLEM files the application on behalf of the applicant, an official copy of the PPC(s) is not required. However, the COLEM must keep the PPC(s) on file for a period of 1 year. When acting on behalf of qualified examinees, the COLEM must forward all required data to the FCC electronically.
 
 (d) An applicant will be given credit for an examination element as specified below:
 
@@ -50,4 +48,4 @@ Link to an amendment published at 85 FR 85531, Dec. 29, 2020.
 
 (g) No person shall alter, duplicate for fraudulent purposes, or fraudulently obtain or attempt to obtain an operator license. No person shall use a license issued to another or a license that he or she knows to be altered, duplicated for fraudulent purposes, or fraudulently obtained. No person shall obtain or attempt to obtain, or assist another person to obtain or attempt to obtain, an operator license by fraudulent means.
 
-[58 FR 9124, Feb. 19, 1993, as amended at 59 FR 3795, Jan. 27, 1994; 60 FR 27699, May 25, 1995; 63 FR 68942, Dec. 14, 1998; 66 FR 20752, Apr. 25, 2001; 68 FR 46958, Aug. 7, 2003; 78 FR 23152, Apr. 18, 2013]
+[58 FR 9124, Feb. 19, 1993, as amended at 59 FR 3795, Jan. 27, 1994; 60 FR 27699, May 25, 1995; 63 FR 68942, Dec. 14, 1998; 66 FR 20752, Apr. 25, 2001; 68 FR 46958, Aug. 7, 2003; 78 FR 23152, Apr. 18, 2013; 85 FR 85531, Dec. 29, 2020]

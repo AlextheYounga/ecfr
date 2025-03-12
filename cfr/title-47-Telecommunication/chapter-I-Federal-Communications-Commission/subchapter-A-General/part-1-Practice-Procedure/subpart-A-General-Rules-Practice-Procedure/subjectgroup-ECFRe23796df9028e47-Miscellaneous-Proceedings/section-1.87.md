@@ -1,10 +1,12 @@
 ##### § 1.87 Modification of license or construction permit on motion of the Commission. #####
 
-Link to an amendment published at 85 FR 85529, Dec. 29, 2020.
-
 (a) Whenever it appears that a station license or construction permit should be modified, the Commission shall notify the licensee or permittee in writing of the proposed action and reasons therefor, and afford the licensee or permittee at least thirty days to protest such proposed order of modification, except that, where safety of life or property is involved, the Commission may by order provide a shorter period of time.
 
-(b) The notification required in paragraph (a) of this section may be effectuated by a notice of proposed rule making in regard to a modification or addition of an FM or television channel to the Table of Allotments (§§ 73.202 and 73.504) or Table of Assignments (§ 73.606). The Commission shall send a copy of any such notice of proposed rule making to the affected licensee or permittee by certified mail, return receipt requested.
+(b) The notification required in paragraph (a) of this section may be effectuated by a notice of proposed rulemaking in regard to a modification or addition of an FM or television channel to the Table of Allotments (§§ 73.202 and 73.504 of this chapter) or Table of Assignments (§ 73.606 of this chapter). The Commission shall send a copy of any such notice of proposed rulemaking to the affected licensee or permittee by email. For modifications involving Wireless Radio Services, the Commission shall notify the licensee or permittee by email of the proposed action and reasons therefor, and afford the licensee or permittee at least thirty days to protest such proposed order of modification, except that:
+
+(1) Where safety of life or property is involved, the Commission may by order provide a shorter period of time; and
+
+(2) Where the notification required in paragraph (a) of this section is effectuated by publication in the Federal Register, the Commission shall afford the licensee or permittee at least thirty days after publication in the Federal Register to protest such proposed order of modification.
 
 (c) Any other licensee or permittee who believes that its license or permit would be modified by the proposed action may also protest the proposed action before its effective date.
 
@@ -24,4 +26,4 @@ Link to an amendment published at 85 FR 85529, Dec. 29, 2020.
 
 (i) Any order of modification issued pursuant to this section shall include a statement of the findings and the grounds and reasons therefor, shall specify the effective date of the modification, and shall be served on the licensee or permittee.
 
-[52 FR 22654, June 15, 1987, as amended at 85 FR 63172, Oct. 6, 2020]
+[52 FR 22654, June 15, 1987, as amended at 85 FR 63172, Oct. 6, 2020; 85 FR 85529, Dec. 29, 2020]

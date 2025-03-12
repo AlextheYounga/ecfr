@@ -1,8 +1,6 @@
 ##### § 1.45 Pleadings; filing periods. #####
 
-Link to an amendment published at 85 FR 85528, Dec. 29, 2020.
-
-Except as otherwise provided in this chapter, pleadings in Commission proceedings shall be filed in accordance with the provisions of this section. Pleadings associated with licenses, applications, waivers and other documents in the Wireless Radio Services may be filed via the ULS.
+Except as otherwise provided in this chapter, pleadings in Commission proceedings shall be filed in accordance with the provisions of this section. Pleadings associated with licenses, applications, waivers, and other documents in the Wireless Radio Services must be filed via the ULS, and persons other than applicants or licensees filing pleadings in ULS must provide an email address to receive electronic service. *See* § 1.47(d).
 
 (a) *Petitions.* Petitions to deny may be filed pursuant to § 1.939 of this part.
 
@@ -18,4 +16,4 @@ Note:
 
 Where specific provisions contained in part 1 conflict with this section, those specific provisions are controlling. See, in particular, §§ 1.294(c), 1.298(a), and 1.773.
 
-[28 FR 12415, Nov. 22, 1963, as amended at 33 FR 7153, May 15, 1968; 45 FR 64190, Sept. 29, 1980; 54 FR 31032, July 26, 1989; 54 FR 37682, Sept. 12, 1989; 63 FR 68919, Dec. 14, 1998]
+[28 FR 12415, Nov. 22, 1963, as amended at 33 FR 7153, May 15, 1968; 45 FR 64190, Sept. 29, 1980; 54 FR 31032, July 26, 1989; 54 FR 37682, Sept. 12, 1989; 63 FR 68919, Dec. 14, 1998; 85 FR 85528, Dec. 29, 2020]
