@@ -1,5 +1,7 @@
 ##### § 1926.1427 Operator qualification and certification. #####
 
+Link to an amendment published at 83 FR 56244, Nov. 9, 2018.
+
 (a) The employer must ensure that, prior to operating any equipment covered under subpart CC, the person is operating the equipment during a training period in accordance with paragraph (f) of this section, or the operator is qualified or certified to operate the equipment in accordance with the following:
 
 (1) When a non-military government entity issues operator licenses for equipment covered under subpart CC, and that government licensing program meets the requirements of paragraphs (e)(2) and (j) of this section, the equipment operator must either be:

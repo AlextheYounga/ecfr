@@ -110,7 +110,7 @@ Table 7 to § 324.173 - General Disclosure for Counterparty Credit Risk of OTC D
 
 <sup>2</sup> This may include interest rate derivative contracts, foreign exchange derivative contracts, equity derivative contracts, credit derivatives, commodity or other derivative contracts, repo-style transactions, and eligible margin loans.
 
-Table 8 to § 324.173 - Credit Risk Mitigation 1 2
+Table 8 to § 324.173 - Credit Risk Mitigation<sup>1 2</sup>
 
 |Qualitative disclosures |(a)|The general qualitative disclosure requirement with respect to credit risk mitigation, including:  <br/>(1) Policies and processes for, and an indication of the extent to which the FDIC-supervised institution uses, on- or off-balance sheet netting;  <br/>(2) Policies and processes for collateral valuation and management;  <br/>(3) A description of the main types of collateral taken by the FDIC-supervised institution;  <br/>(4) The main types of guarantors/credit derivative counterparties and their creditworthiness; and  <br/>(5) Information about (market or credit) risk concentrations within the mitigation taken.|
 |:-----------------------|:--|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

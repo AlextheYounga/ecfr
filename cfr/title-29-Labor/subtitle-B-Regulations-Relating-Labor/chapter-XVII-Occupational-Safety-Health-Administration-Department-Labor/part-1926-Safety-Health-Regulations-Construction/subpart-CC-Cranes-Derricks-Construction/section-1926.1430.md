@@ -1,5 +1,7 @@
 ##### § 1926.1430 Training. #####
 
+Link to an amendment published at 83 FR 56247, Nov. 9, 2018.
+
 The employer must provide training as follows:
 
 (a) *Overhead powerlines.* The employer must train each employee specified in § 1926.1408(g) and § 1926.1410(m) in the topics listed in § 1926.1408(g).

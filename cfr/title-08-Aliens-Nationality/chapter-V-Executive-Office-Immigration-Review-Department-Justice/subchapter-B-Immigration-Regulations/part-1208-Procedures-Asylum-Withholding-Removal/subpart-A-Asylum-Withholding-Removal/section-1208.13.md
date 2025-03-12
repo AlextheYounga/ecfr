@@ -60,4 +60,6 @@
 
 (ii) If the evidence indicates that one of the above grounds apply to the applicant, he or she shall have the burden of proving by a preponderance of the evidence that he or she did not so act.
 
-[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 65 FR 76133, Dec. 6, 2000]
+(3) *Additional limitation on eligibility for asylum.* For applications filed after November 9, 2018, an alien shall be ineligible for asylum if the alien is subject to a presidential proclamation or other presidential order suspending or limiting the entry of aliens along the southern border with Mexico that is issued pursuant to subsection 212(f) or 215(a)(1) of the Act on or after November 9, 2018 and the alien enters the United States after the effective date of the proclamation or order contrary to the terms of the proclamation or order. This limitation on eligibility does not apply if the proclamation or order expressly provides that it does not affect eligibility for asylum, or expressly provides for a waiver or exception that makes the suspension or limitation inapplicable to the alien.
+
+[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 65 FR 76133, Dec. 6, 2000; 83 FR 55952, Nov. 9, 2018]

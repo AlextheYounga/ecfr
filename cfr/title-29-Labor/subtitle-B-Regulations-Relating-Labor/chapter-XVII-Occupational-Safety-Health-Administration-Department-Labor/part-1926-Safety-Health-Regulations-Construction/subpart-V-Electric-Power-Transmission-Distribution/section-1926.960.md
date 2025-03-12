@@ -2,7 +2,7 @@
 
 (a) *Application.* This section applies to work on exposed live parts, or near enough to them to expose the employee to any hazard they present.
 
-(b) *General* - (1) *Qualified employees only.* (i) Only qualified employees may work on or with exposed energized lines or parts of equipment.
+(b) *General*—(1) *Qualified employees only.* (i) Only qualified employees may work on or with exposed energized lines or parts of equipment.
 
 (ii) Only qualified employees may work in areas containing unguarded, uninsulated energized lines or parts of equipment operating at 50 volts or more.
 
@@ -28,7 +28,7 @@
 
 (C) Emergency repairs to the extent necessary to safeguard the general public.
 
-(c) *Live work* - (1) *Minimum approach distances.* (i) The employer shall establish minimum approach distances no less than the distances computed by Table V-2 for ac systems or Table V-7 for dc systems.
+(c) *Live work*—(1) *Minimum approach distances.* (i) The employer shall establish minimum approach distances no less than the distances computed by Table V-2 for ac systems or Table V-7 for dc systems.
 
 (ii) No later than April 1, 2015, for voltages over 72.5 kilovolts, the employer shall determine the maximum anticipated per-unit transient overvoltage, phase-to-ground, through an engineering analysis or assume a maximum anticipated per-unit transient overvoltage, phase-to-ground, in accordance with Table V-8. When the employer uses portable protective gaps to control the maximum transient overvoltage, the value of the maximum anticipated per-unit transient overvoltage, phase-to-ground, must provide for five standard deviations between the statistical sparkover voltage of the gap and the statistical withstand voltage corresponding to the electrical component of the minimum approach distance. The employer shall make any engineering analysis conducted to determine maximum anticipated per-unit transient overvoltage available upon request to employees and to the Assistant Secretary or designee for examination and copying.
 
@@ -56,7 +56,7 @@ See appendix B to this subpart for information on how to calculate the maximum a
 
 (B) Does not remove the rubber insulating gloves and sleeves until he or she is in a position where he or she cannot reach into the minimum approach distance, established by the employer under paragraph (c)(1) of this section.
 
-(d) *Working position* - (1) *Working from below.* The employer shall ensure that each employee, to the extent that other safety-related conditions at the worksite permit, works in a position from which a slip or shock will not bring the employee's body into contact with exposed, uninsulated parts energized at a potential different from the employee's.
+(d) *Working position*—(1) *Working from below.* The employer shall ensure that each employee, to the extent that other safety-related conditions at the worksite permit, works in a position from which a slip or shock will not bring the employee's body into contact with exposed, uninsulated parts energized at a potential different from the employee's.
 
 (2) *Requirements for working without electrical protective equipment.* When an employee performs work near exposed parts energized at more than 600 volts, but not more than 72.5 kilovolts, and is not wearing rubber insulating gloves, being protected by insulating equipment covering the energized parts, performing work using live-line tools, or performing live-line barehand work under § 1926.964(c), the employee shall work from a position where he or she cannot reach into the minimum approach distance, established by the employer under paragraph (c)(1) of this section.
 
@@ -70,7 +70,7 @@ See appendix B to this subpart for information on how to calculate the maximum a
 
 (f) *Conductive articles.* When an employee performs work within reaching distance of exposed energized parts of equipment, the employer shall ensure that the employee removes or renders nonconductive all exposed conductive articles, such as keychains or watch chains, rings, or wrist watches or bands, unless such articles do not increase the hazards associated with contact with the energized parts.
 
-(g) *Protection from flames and electric arcs* - (1) *Hazard assessment.* The employer shall assess the workplace to identify employees exposed to hazards from flames or from electric arcs.
+(g) *Protection from flames and electric arcs*—(1) *Hazard assessment.* The employer shall assess the workplace to identify employees exposed to hazards from flames or from electric arcs.
 
 (2) *Estimate of available heat energy.* For each employee exposed to hazards from electric arcs, the employer shall make a reasonable estimate of the incident heat energy to which the employee would be exposed.
 
@@ -136,8 +136,6 @@ See appendix E to this subpart for further information on the selection of appro
 
 ![](/graphics/er11ap14.034.gif)![](/graphics/er11ap14.035.gif)
 
-Table V-3 - Electrical Component of the Minimum Approach Distance (D; in Meters) at 5.1 to 72.5 kV
-
 |Nominal voltage (kV) phase-to-phase|Phase-to-ground  <br/>exposure|Phase-to-phase  <br/>exposure|
 |-----------------------------------|------------------------------|-----------------------------|
 |               D (m)               |            D (m)             |                             |
@@ -145,8 +143,6 @@ Table V-3 - Electrical Component of the Minimum Approach Distance (D; in Meters)
 |           15.1 to 36.0            |             0.16             |            0.28             |
 |           36.1 to 46.0            |             0.23             |            0.37             |
 |           46.1 to 72.5            |             0.39             |            0.59             |
-
-Table V-4 - Altitude Correction Factor
 
 |Altitude above sea level (m)| A  |
 |----------------------------|----|
@@ -164,57 +160,43 @@ Table V-4 - Altitude Correction Factor
 |       4,801 to 5,400       |1.39|
 |       5,401 to 6,000       |1.44|
 
-Table V-5 - Alternative Minimum Approach Distances for Voltages of 72.5 kV and Less<sup>1</sup>
+|                                                                                                                                                                                                       Nominal voltage (kV) phase-to-phase                                                                                                                                                                                                        |       Distance        |             |    |    |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|-------------|----|----|
+|                                                                                                                                                                                                             Phase-to-ground exposure                                                                                                                                                                                                             |Phase-to-phase exposure|             |    |    |
+|                                                                                                                                                                                                                        m                                                                                                                                                                                                                         |          ft           |      m      | ft |    |
+|                                                                                                                                                                                                             0.050 0.300 <sup>2</sup>                                                                                                                                                                                                             |     Avoid contact     |Avoid contact|    |    |
+|                                                                                                                                                                                                           0.301 to 0.750 <sup>2</sup>                                                                                                                                                                                                            |         0.33          |    1.09     |0.33|1.09|
+|                                                                                                                                                                                                                   0.751 to 5.0                                                                                                                                                                                                                   |         0.63          |    2.07     |0.63|2.07|
+|                                                                                                                                                                                                                   5.1 to 15.0                                                                                                                                                                                                                    |         0.65          |    2.14     |0.68|2.24|
+|                                                                                                                                                                                                                   15.1 to 36.0                                                                                                                                                                                                                   |         0.77          |    2.53     |0.89|2.92|
+|                                                                                                                                                                                                                   36.1 to 46.0                                                                                                                                                                                                                   |         0.84          |    2.76     |0.98|3.22|
+|                                                                                                                                                                                                                   46.1 to 72.5                                                                                                                                                                                                                   |         1.00          |    3.29     |1.20|3.94|
+|<sup>1</sup> Employers may use the minimum approach distances in this table provided the worksite is at an elevation of 900 meters (3,000 feet) or less. If employees will be working at elevations greater than 900 meters (3,000 feet) above mean sea level, the employer shall determine minimum approach distances by multiplying the distances in this table by the correction factor in Table V-4 corresponding to the altitude of the work.|                       |             |    |    |
+|                                                                                                                                                                                          <sup>2</sup> For single-phase systems, use voltage-to-ground.                                                                                                                                                                                           |                       |             |    |    |
 
-|Nominal voltage (kV) phase-to-phase|       Distance        |             |    |    |
-|-----------------------------------|-----------------------|-------------|----|----|
-|     Phase-to-ground exposure      |Phase-to-phase exposure|             |    |    |
-|                 m                 |          ft           |      m      | ft |    |
-|      0.050 0.300<sup>2</sup>      |     Avoid contact     |Avoid contact|    |    |
-|    0.301 to 0.750<sup>2</sup>     |         0.33          |    1.09     |0.33|1.09|
-|           0.751 to 5.0            |         0.63          |    2.07     |0.63|2.07|
-|            5.1 to 15.0            |         0.65          |    2.14     |0.68|2.24|
-|           15.1 to 36.0            |         0.77          |    2.53     |0.89|2.92|
-|           36.1 to 46.0            |         0.84          |    2.76     |0.98|3.22|
-|           46.1 to 72.5            |         1.00          |    3.29     |1.20|3.94|
+|                                                                                                                                                                                                        Voltage range phase to phase (kV)                                                                                                                                                                                                         |Phase-to-ground exposure|Phase-to-phase exposure|     |     |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-----------------------|-----|-----|
+|                                                                                                                                                                                                                        m                                                                                                                                                                                                                         |           ft           |           m           | ft  |     |
+|                                                                                                                                                                                                                  72.6 to 121.0                                                                                                                                                                                                                   |          1.13          |         3.71          |1.42 |4.66 |
+|                                                                                                                                                                                                                  121.1 to 145.0                                                                                                                                                                                                                  |          1.30          |         4.27          |1.64 |5.38 |
+|                                                                                                                                                                                                                  145.1 to 169.0                                                                                                                                                                                                                  |          1.46          |         4.79          |1.94 |6.36 |
+|                                                                                                                                                                                                                  169.1 to 242.0                                                                                                                                                                                                                  |          2.01          |         6.59          |3.08 |10.10|
+|                                                                                                                                                                                                                  242.1 to 362.0                                                                                                                                                                                                                  |          3.41          |         11.19         |5.52 |18.11|
+|                                                                                                                                                                                                                  362.1 to 420.0                                                                                                                                                                                                                  |          4.25          |         13.94         |6.81 |22.34|
+|                                                                                                                                                                                                                  420.1 to 550.0                                                                                                                                                                                                                  |          5.07          |         16.63         |8.24 |27.03|
+|                                                                                                                                                                                                                  550.1 to 800.0                                                                                                                                                                                                                  |          6.88          |         22.57         |11.38|37.34|
+|<sup>1</sup> Employers may use the minimum approach distances in this table provided the worksite is at an elevation of 900 meters (3,000 feet) or less. If employees will be working at elevations greater than 900 meters (3,000 feet) above mean sea level, the employer shall determine minimum approach distances by multiplying the distances in this table by the correction factor in Table V-4 corresponding to the altitude of the work.|                        |                       |     |     |
+|                                                                                                                              <sup>2</sup> Employers may use the phase-to-phase minimum approach distances in this table provided that no insulated tool spans the gap and no large conductive object is in the gap.                                                                                                                              |                        |                       |     |     |
+|                                                                                                                                                                <sup>3</sup> The clear live-line tool distance shall equal or exceed the values for the indicated voltage ranges.                                                                                                                                                                 |                        |                       |     |     |
 
-<sup>1</sup> Employers may use the minimum approach distances in this table provided the worksite is at an elevation of 900 meters (3,000 feet) or less. If employees will be working at elevations greater than 900 meters (3,000 feet) above mean sea level, the employer shall determine minimum approach distances by multiplying the distances in this table by the correction factor in Table V-4 corresponding to the altitude of the work.
-
-<sup>2</sup> For single-phase systems, use voltage-to-ground.
-
-Table V-6 - Alternative Minimum Approach Distances for Voltages of More Than 72.5 kV 1 2 3
-
-|Voltage range phase to phase (kV)|Phase-to-ground exposure|Phase-to-phase exposure|     |     |
-|---------------------------------|------------------------|-----------------------|-----|-----|
-|                m                |           ft           |           m           | ft  |     |
-|          72.6 to 121.0          |          1.13          |         3.71          |1.42 |4.66 |
-|         121.1 to 145.0          |          1.30          |         4.27          |1.64 |5.38 |
-|         145.1 to 169.0          |          1.46          |         4.79          |1.94 |6.36 |
-|         169.1 to 242.0          |          2.01          |         6.59          |3.08 |10.10|
-|         242.1 to 362.0          |          3.41          |         11.19         |5.52 |18.11|
-|         362.1 to 420.0          |          4.25          |         13.94         |6.81 |22.34|
-|         420.1 to 550.0          |          5.07          |         16.63         |8.24 |27.03|
-|         550.1 to 800.0          |          6.88          |         22.57         |11.38|37.34|
-
-<sup>1</sup> Employers may use the minimum approach distances in this table provided the worksite is at an elevation of 900 meters (3,000 feet) or less. If employees will be working at elevations greater than 900 meters (3,000 feet) above mean sea level, the employer shall determine minimum approach distances by multiplying the distances in this table by the correction factor in Table V-4 corresponding to the altitude of the work.
-
-<sup>2</sup> Employers may use the phase-to-phase minimum approach distances in this table provided that no insulated tool spans the gap and no large conductive object is in the gap.
-
-<sup>3</sup> The clear live-line tool distance shall equal or exceed the values for the indicated voltage ranges.
-
-Table V-7 - DC Live-Line Minimum Approach Distance (in Meters) With Overvoltage Factor<sup>1</sup>
-
-|Maximum anticipated per-unit  <br/>transient overvoltage|distance (m)  <br/>maximum line-to-ground voltage (kV)|    |    |    |    |
-|--------------------------------------------------------|------------------------------------------------------|----|----|----|----|
-|                          250                           |                         400                          |500 |600 |750 |    |
-|                      1.5 or less                       |                         1.12                         |1.60|2.06|2.62|3.61|
-|                          1.6                           |                         1.17                         |1.69|2.24|2.86|3.98|
-|                          1.7                           |                         1.23                         |1.82|2.42|3.12|4.37|
-|                          1.8                           |                         1.28                         |1.95|2.62|3.39|4.79|
-
-<sup>1</sup> The distances specified in this table are for air, bare-hand, and live-line tool conditions. If employees will be working at elevations greater than 900 meters (3,000 feet) above mean sea level, the employer shall determine minimum approach distances by multiplying the distances in this table by the correction factor in Table V-4 corresponding to the altitude of the work.
-
-Table V-8 - Assumed Maximum Per-Unit Transient Overvoltage
+|                                                                                                                                                                     Maximum anticipated per-unit  <br/>transient overvoltage                                                                                                                                                                      |distance (m)  <br/>maximum line-to-ground voltage (kV)|    |    |    |    |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|----|----|----|----|
+|                                                                                                                                                                                                250                                                                                                                                                                                                |                         400                          |500 |600 |750 |    |
+|                                                                                                                                                                                            1.5 or less                                                                                                                                                                                            |                         1.12                         |1.60|2.06|2.62|3.61|
+|                                                                                                                                                                                                1.6                                                                                                                                                                                                |                         1.17                         |1.69|2.24|2.86|3.98|
+|                                                                                                                                                                                                1.7                                                                                                                                                                                                |                         1.23                         |1.82|2.42|3.12|4.37|
+|                                                                                                                                                                                                1.8                                                                                                                                                                                                |                         1.28                         |1.95|2.62|3.39|4.79|
+|<sup>1</sup> The distances specified in this table are for air, bare-hand, and live-line tool conditions. If employees will be working at elevations greater than 900 meters (3,000 feet) above mean sea level, the employer shall determine minimum approach distances by multiplying the distances in this table by the correction factor in Table V-4 corresponding to the altitude of the work.|                                                      |    |    |    |    |
 
 |Voltage range  <br/>(kV)|Type of current  <br/>(ac or dc)|Assumed maximum  <br/>per-unit transient  <br/>overvoltage|
 |------------------------|--------------------------------|----------------------------------------------------------|

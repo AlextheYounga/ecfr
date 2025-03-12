@@ -1,7 +1,5 @@
 ##### § 45.1 Authority, purpose, scope, exemptions and compliance dates. #####
 
-Link to an amendment published at 83 FR 50811, Oct. 10, 2018.
-
 (a) *Authority.* This part is issued under the authority of 7 U.S.C. 6s(e), 12 U.S.C. 1 *et seq.,* 93a, 161, 481, 1818, 3907, 3909, 5412(b)(2)(B), and 15 U.S.C. 78o-10(e).
 
 (b) *Purpose.* Section 4s of the Commodity Exchange Act of 1936 (7 U.S.C. 6s) and section 15F of the Securities Exchange Act of 1934 (15 U.S.C. 78o-10) require the OCC to establish capital and margin requirements for any for any national bank or subsidiary thereof, Federal savings association or subsidiary thereof, or Federal branch or agency of a foreign bank that is registered as a swap dealer, major swap participant, security-based swap dealer, or major security-based swap participant with respect to all non-cleared swaps and non-cleared security-based swaps. This regulation implements section 4s of the Commodity Exchange Act of 1936 and section 15F of the Securities Exchange Act of 1934 by defining terms used in the statute and related terms, establishing capital and margin requirements, and explaining the statutes' requirements.
@@ -60,10 +58,12 @@ Link to an amendment published at 83 FR 50811, Oct. 10, 2018.
 
 (6) September 1, 2020 with respect to the requirements in § 45.3 for initial margin for any other covered swap entity with respect to non-cleared swaps and non-cleared security-based swaps entered into with any other counterparty.
 
+(7) For purposes of determining the date on which a non-cleared swap or a non-cleared security-based swap was entered into, a Covered Swap Entity will not take into account amendments to the non-cleared swap or the non-cleared security-based swap that were entered into solely to comply with the requirements of part 47, subpart I of part 252 or part 382 of Title 12, as applicable.
+
 (f) Once a covered swap entity must comply with the margin requirements for non-cleared swaps and non-cleared security-based swaps with respect to a particular counterparty based on the compliance dates in paragraph (e) of this section, the covered swap entity shall remain subject to the requirements of this part with respect to that counterparty.
 
 (g)(1) If a covered swap entity's counterparty changes its status such that a non-cleared swap or non-cleared security-based swap with that counterparty becomes subject to stricter margin requirements under this part (such as if the counterparty's status changes from a financial end user without material swaps exposure to a financial end user with material swaps exposure), then the covered swap entity shall comply with the stricter margin requirements for any non-cleared swap or non-cleared security-based swap entered into with that counterparty after the counterparty changes its status.
 
 (2) If a covered swap entity's counterparty changes its status such that a non-cleared swap or non-cleared security-based swap with that counterparty becomes subject to less strict margin requirements under this part (such as if the counterparty's status changes from a financial end user with material swaps exposure to a financial end user without material swaps exposure), then the covered swap entity may comply with the less strict margin requirements for any non-cleared swap or non-cleared security-based swap entered into with that counterparty after the counterparty changes its status as well as for any outstanding non-cleared swap or non-cleared security-based swap entered into after the applicable compliance date in paragraph (e) of this section and before the counterparty changed its status.
 
-[80 FR 74898, 74910, Nov. 30, 2015, as amended at 80 FR 74910, 74923, Nov. 30, 2015]
+[80 FR 74898, 74910, Nov. 30, 2015, as amended at 80 FR 74910, 74923, Nov. 30, 2015; 83 FR 50811, Oct. 10, 2018]

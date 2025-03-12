@@ -32,6 +32,6 @@ As used in this subpart -
 
 (iv) Are required under § 423.128, unless otherwise specified by CMS based on their use or purpose; or
 
-(v) Are specifically designated by CMS as not meeting the definition of the marketing definition based on their use or purpose.”
+(v) Are specifically designated by CMS as not meeting the definition of the marketing definition based on their use or purpose.
 
 [83 FR 27915, June 15, 2018]

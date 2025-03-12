@@ -1,0 +1,3 @@
+##### § 5.5. The Foreign Affairs Manual and the Foreign Affairs Handbook. #####
+
+The Department articulates official guidance, including procedures and policies, on matters relating to Department management and personnel in the Foreign Affairs Manual (FAM) and the Foreign Affairs Handbook (FAH) series. Some of these directives are promulgated pursuant to statute, such as the Secretary of State's authority to prescribe regulations for the Foreign Service as provided in Section 206 of the Foreign Service Act of 1980, as amended, 22 U.S.C. 3926. The FAMs and FAHs that are publicly available are located on the Department's public website, at *https://fam.state.gov/.*
