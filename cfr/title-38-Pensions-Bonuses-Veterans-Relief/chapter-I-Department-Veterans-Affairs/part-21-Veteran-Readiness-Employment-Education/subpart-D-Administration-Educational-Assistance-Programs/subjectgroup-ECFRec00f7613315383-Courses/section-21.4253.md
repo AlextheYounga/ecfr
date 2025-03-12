@@ -1,7 +1,5 @@
 ##### § 21.4253 Accredited courses. #####
 
-Link to an amendment published at 88 FR 2833, Jan. 18, 2023.
-
 (a) *General.* A course may be approved as an accredited course if it meets one of the following requirements:
 
 (1) The course has been accredited and approved by a nationally recognized accrediting agency or association. “Candidate for accreditation” status is not a basis for approval of a course as accredited.
@@ -20,7 +18,7 @@ Link to an amendment published at 88 FR 2833, Jan. 18, 2023.
 
 (c) *Accrediting agencies.* A nationally recognized accrediting agency or association is one that appears on the list published by the Secretary of Education as required by 38 U.S.C. 3675(a). The State approving agencies may use the accreditation of these accrediting agencies or associations for approval of the course specifically accredited and approved by the agency or association.
 
-(d) *School qualification.* A school desiring to enroll veterans or eligible persons in accredited courses will make application for approval of such courses to the State approving agency. The State approving agency may approve the application of the school when the school and its accredited courses are found to have met the following criteria and additional reasonable criteria established by the State approving agency:
+(d) *School qualification.* A school desiring to enroll veterans or eligible persons in accredited courses will make application for approval of such courses to the State approving agency. The State approving agency may approve the application of the school when the school and its accredited courses are found to have met the following criteria and additional reasonable criteria established by the State approving agency if the Secretary or designee, in consultation with the State approving agency, approves the additional criteria as necessary and equitable in its treatment of public, private, and proprietary for-profit educational institutions:
 
 (1) The institution (other than an elementary or secondary school) has submitted to the State approving agency copies of its catalog or bulletin which are certified as true and correct in content and policy by an authorized representative, and the publication shall:
 
@@ -54,6 +52,30 @@ Link to an amendment published at 88 FR 2833, Jan. 18, 2023.
 
 (Authority: 38 U.S.C. 3675(b), 3676(c)(1), (2), (3))
 
+(9)(i) For a course designed to prepare an individual for licensure or certification in a State, the course meets all instructional curriculum licensure or certification requirements of such State.
+
+(ii) For a course designed to prepare an individual for licensure to practice law in a State, the course is accredited by a specialized accrediting agency for programs of legal education or association recognized by the Secretary of Education under subpart 2 of part H of title IV of the Higher Education Act of 1965 (20 U.S.C. 1099b), from which recipients of law degrees from such accredited programs are eligible to sit for a bar examination in any State.
+
+(iii) For a course designed to prepare an individual for employment pursuant to standards developed by a board or agency of a State in an occupation that requires approval, licensure, or certification, the course meets such standards.
+
+(iv) An educational institution may apply, through their State approving agency of jurisdiction, to the Secretary or designee for a waiver of the requirements of this paragraph (d)(9). The State approving agency will forward an application for waiver, together with its recommendation for granting or denying the application, to the Secretary or designee. The Secretary or designee may grant a waiver upon a finding that all of the following criteria have been met:
+
+(A) The educational institution is not accredited by an agency or association recognized by the Department of Education.
+
+(B) The course did not meet the requirements of this paragraph (d)(9) at any time during the 2-year period preceding the date of the waiver.
+
+(C) The waiver furthers the purposes of the educational assistance programs administered by VA or would further the education interests of individuals eligible for assistance under such programs.
+
+(D) The educational institution does not provide any commission, bonus, or other incentive payment based directly or indirectly on success in securing enrollments or financial aid to any persons or entities engaged in any student recruiting or admission activities or in making decisions regarding the award of student financial assistance, except for the recruitment of foreign students residing in foreign countries who are not eligible to receive Federal student assistance.
+
+(10) Before requiring a school and its accredited courses to meet any additional criteria, the State approving agency must present a written proposal to the Secretary or designee justifying the need for the additional criteria and containing an attestation that the criteria will treat all schools equitably, regardless of whether they are public, private, or for-profit institutions. The Secretary or designee will determine whether the additional criteria are necessary and treat schools equitably based on the proposal and any additional information submitted. The Secretary or designee may change the determination at any time if, after implementation, it becomes apparent that the criteria are unnecessary or schools are treated inequitably under the criteria.
+
+(i) The written proposal must contain a description of the need for the additional criteria and an explanation of how the imposition of the additional criteria would remedy the problem. The proposal must also contain a statement concerning whether State or Federal laws, regulations, or policies require the imposition of the additional criteria and an explanation of the consideration of any alternative means to achieve the same goal as the additional criteria.
+
+(ii) The Secretary or designee may request such additional information from the State approving agency as the Secretary or designee deems appropriate before determining whether the criteria are necessary and treat schools equitably.
+
+(Authority: 38 U.S.C. 3675(b)(3), 3676(c), (f))
+
 (e) *College level.* Under the provisions of paragraph (a)(1) of this section, any course at college level approved by the State approving agency as an accredited course will be accepted by the Department of Veterans Affairs as an accredited course when all of the following conditions are met:
 
 (1) The college or university is accredited by a nationally recognized regional accrediting agency listed by the Secretary of Education or the course is accredited at the college level by a specialized accrediting agency or association recognized by the Secretary of Education; and
@@ -72,4 +94,4 @@ Link to an amendment published at 88 FR 2833, Jan. 18, 2023.
 
 (3) The course leads to a high school diploma or a vocational objective.
 
-(Paperwork requirements in § 21.4253(d)(1) were approved by the Office of Management and Budget under control number 2900-0568)[31 FR 6774, May 6, 1966, as amended at 38 FR 14938, June 7, 1973; 40 FR 33825, Aug. 12, 1975; 43 FR 35302, Aug. 9, 1978; 48 FR 37992, Aug. 22, 1983; 50 FR 43135, Oct. 24, 1985; 60 FR 32272, June 21, 1995; 61 FR 6783, Feb. 22, 1996; 62 FR 35424, July 1, 1997; 65 FR 81742, Dec. 27, 2000; 73 FR 1077, Jan. 7, 2008]
+(Paperwork requirements in § 21.4253(d)(1) were approved by the Office of Management and Budget under control number 2900-0568)[31 FR 6774, May 6, 1966, as amended at 38 FR 14938, June 7, 1973; 40 FR 33825, Aug. 12, 1975; 43 FR 35302, Aug. 9, 1978; 48 FR 37992, Aug. 22, 1983; 50 FR 43135, Oct. 24, 1985; 60 FR 32272, June 21, 1995; 61 FR 6783, Feb. 22, 1996; 62 FR 35424, July 1, 1997; 65 FR 81742, Dec. 27, 2000; 73 FR 1077, Jan. 7, 2008; 88 FR 2833, Jan. 18, 2023]

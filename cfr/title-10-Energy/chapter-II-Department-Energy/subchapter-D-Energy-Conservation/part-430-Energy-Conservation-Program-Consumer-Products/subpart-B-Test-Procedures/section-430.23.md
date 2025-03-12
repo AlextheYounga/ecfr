@@ -1,7 +1,5 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 88 FR 3276, Jan. 18, 2023.
-
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 
 (a) *Refrigerators and refrigerator-freezers.* (1) The estimated annual operating cost for models without an anti-sweat heater switch shall be the product of the following three factors, with the resulting product then being rounded to the nearest dollar per year:
@@ -128,51 +126,24 @@ When the test procedures of this section call for rounding off of test results, 
 
 (i) When cold water (50 °F) is used,
 
-(A) For dishwashers having a truncated normal cycle as defined in section 1.22 of appendix C1 to this subpart, EAOC = (De × ETLP) + (De × N × (M + MWS + EF−(ED/2))).
+EAOC = (De × ETLP) + (De × N × (M + MWS + MDO + MCO + EF−(ED/2))).Where,De = the representative average unit cost of electrical energy, in dollars per kilowatt-hour, as provided by the Secretary,ETLP = the annual combined low-power mode energy consumption in kilowatt-hours per year and determined according to section 5 of appendix C1 or appendix C2 to this subpart, as applicable,N = the representative average dishwasher use of 215 cycles per year when EAOC is determined pursuant to appendix C1 to this subpart, and 184 cycles per year when EAOC is determined pursuant to appendix C2 to this subpart,M = the machine energy consumption per cycle, in kilowatt-hours and determined according to section 5 of appendix C1 or appendix C2 to this subpart, as applicable,MWS = the machine energy consumption per cycle for water softener regeneration, in kilowatt-hours and determined pursuant to section 5 of appendix C1 or appendix C2 to this subpart, as applicable,MDO = for water re-use system dishwashers, the machine energy consumption per cycle during a drain out event in kilowatt-hours and determined according to section 5 of appendix C1 or appendix C2 to this subpart, as applicable,MCO = for water re-use system dishwashers, the machine energy consumption per cycle during a clean out event, in kilowatt-hours and determined according to section 5 of appendix C1 or appendix C2 to this subpart, as applicable,EF = the fan-only mode energy consumption per cycle, in kilowatt-hours and determined according to section 5 of appendix C1 or appendix C2 to this subpart, as applicable, andED = the drying energy consumption, in kilowatt-hours and determined according to section 5 of appendix C1 or appendix C2 to this subpart, as applicable.
 
-(B) For dishwashers not having a truncated normal cycle, EAOC = (De × ETLP) + (De × N × (M + MWS + EF)).
+(ii) When electrically heated water (120 °F or 140 °F) is used,
 
-Where,De = the representative average unit cost of electrical energy, in dollars per kilowatt-hour, as provided by the Secretary,ETLP = the annual combined low-power mode energy consumption in kilowatt-hours per year and determined according to section 5.7 of appendix C1 to this subpart,N = the representative average dishwasher use of 215 cycles per year,M = the machine energy consumption per cycle for the normal cycle, as defined in section 1.12 of appendix C1 to this subpart, in kilowatt-hours and determined according to section 5.1.1 of appendix C1 to this subpart for non-soil-sensing dishwashers and section 5.1.2 of appendix C1 to this subpart for soil-sensing dishwashers,MWS = the machine energy consumption per cycle for water softener regeneration, in kilowatt-hours and determined according to section 5.1.3 of appendix C1 to this subpart,EF = the fan-only mode energy consumption per cycle, in kilowatt-hours and determined according to section 5.2 of appendix C1 to this subpart, andED = the drying energy consumption, in kilowatt-hours and defined as energy consumed using the power-dry feature after the termination of the last rinse option of the normal cycle; determined according to section 5.3 of appendix C1 to this subpart.
-
-(ii) When electrically-heated water (120 °F or 140 °F) is used,
-
-(A) For dishwashers having a truncated normal cycle as defined in section 1.22 of appendix C1 to this subpart, EAOC = (De × ETLP) + (De × N × (M + MWS + EF−(ED/2))) + (De × N × (W + WWS)).
-
-(B) For dishwashers not having a truncated normal cycle, EAOC = (De × ETLP) + (De × N × (M + MWS + EF)) + (De × N × (W + WWS)).
-
-Where,De, ETLP, N, M, MWS, EF, and ED, are defined in paragraph (c)(1)(i) of this section,W = the water energy consumption per cycle for the normal cycle, as defined in section 1.12 of appendix C1 to this subpart, in kilowatt-hours and determined according to section 5.5.1.1 of appendix C1 to this subpart for dishwashers that operate with a nominal 140 °F inlet water temperature and section 5.5.2.1 of appendix C1 to this subpart for dishwashers that operate with a nominal inlet water temperature of 120 °F, and
-
-WWS = the water softener regeneration water energy consumption per cycle in kilowatt-hours and determined according to section 5.5.1.2 of appendix C1 to this subpart for dishwashers that operate with a nominal 140 °F inlet water temperature and section 5.5.2.2 of appendix C1 to this subpart for dishwashers that operate with a nominal inlet water temperature of 120 °F.
+EAOC = (De × ETLP) + (De × N × (M + MWS + MDO + MCO + EF−(ED/2))) + (De × N × (W + WWS + WDO + WCO)).Where,De, ETLP, N, M, MWS, MDO, MCO, EF, and ED, are defined in paragraph (c)(1)(i) of this section,W = the water energy consumption per cycle, in kilowatt-hours and determined according to section 5 of appendix C1 or appendix C2 to this subpart, as applicable,WWS = the water softener regeneration water energy consumption per cycle in kilowatt-hours and determined according to section 5 of appendix C1 or appendix C2 to this subpart, as applicable,WDO = The drain out event water energy consumption per cycle in kilowatt-hours and determined according to section 5 of appendix C1 or appendix C2 to this subpart, as applicable, andWCO = The clean out event water energy consumption per cycle in kilowatt-hours and determined according to section 5 of appendix C1 or appendix C2 to this subpart, as applicable.
 
 (iii) When gas-heated or oil-heated water is used,
 
-(A) For dishwashers having a truncated normal cycle as defined in section 1.22 of appendix C1 to this subpart, EAOCg = (De × ETLP) + (De × N × (M + MWS + EF−(ED/2))) + (Dg × N × (Wg + WWSg)).
-
-(B) For dishwashers not having a truncated normal cycle, EAOCg = (De × ETLP) + (De × N × (M + MWS + EF)) + (Dg × N × (Wg + WWSg)).
-
-Where,
-
-De, ETLP, N, M, MWS, EF, and ED are defined in paragraph (c)(1)(i) of this section,
-
-Dg = the representative average unit cost of gas or oil, as appropriate, in dollars per Btu, as provided by the Secretary,Wg = the water energy consumption per cycle for the normal cycle, as defined in section 1.12 of appendix C1 to this subpart, in Btus and determined according to section 5.6.1.1 of appendix C1 to this subpart for dishwashers that operate with a nominal 140 °F inlet water temperature and section 5.6.2.1 of appendix C1 to this subpart for dishwashers that operate with a nominal inlet water temperature of 120 °F, andWWSg = the water softener regeneration energy consumption per cycle in Btu per cycle and determined according to section 5.6.1.2 of appendix C1 to this subpart for dishwashers that operate with a nominal 140 °F inlet water temperature and section 5.6.2.2 of appendix C1 to this subpart for dishwashers that operate with a nominal inlet water temperature of 120 °F.
+EAOCg = (De × ETLP) + (De × N × (M + MWS + MDO +
+MCO + EF−(ED/2))) + (Dg × N × (Wg + WWSg + WDOg + WCOg)).Where,De, ETLP, N, M, MWS, MDO, MCO, EF, and ED, are defined in paragraph (c)(1)(i) of this section,Dg = the representative average unit cost of gas or oil, as appropriate, in dollars per BTU, as provided by the Secretary,Wg = the water energy consumption per cycle, in Btus and determined according to section 5 of appendix C1 or appendix C2 to this subpart, as applicable.WWSg = the water softener regeneration energy consumption per cycle in Btu per cycle and determined according to section 5 of appendix C1 or appendix C2 to this subpart, as applicable,WDOg = the drain out water energy consumption per cycle in kilowatt-hours and determined according to section 5 of appendix C1 or appendix C2 to this subpart, as applicable, andWCOg = the clean out water energy consumption per cycle in kilowatt-hours and determined according to section 5 of appendix C1 or appendix C2 to this subpart, as applicable.
 
 (2) The estimated annual energy use, EAEU, expressed in kilowatt-hours per year must be rounded to the nearest kilowatt-hour per year and is defined as follows:
 
-(i) For dishwashers having a truncated normal cycle as defined in section 1.22 of appendix C1 to this subpart:
+EAEU = (M + MWS + MDO + MCO + EF−(ED/2) + W + WWS + WDO + WCO) × N + ETLPWhere,M, MWS, MDO, MCO, EF, ED, ETLP are all defined in paragraph (c)(1)(i) of this section and W, WWS, WDO, WCO are defined in paragraph (c)(1)(ii) of this section.
 
-EAEU = (M + MWS + EF−(ED/2) + W + WWS) × N + (ETLP)Where,
+(3) The sum of the water consumption, V, the water consumption during water softener regeneration, VWS, the water consumption during drain out events for dishwashers equipped with a water re-use system, VDO, and the water consumption during clean out events for dishwashers equipped with a water re-use system, VCO, expressed in gallons per cycle and defined pursuant to section 5 of appendix C1 or appendix C2 to this subpart, as applicable, must be rounded to one decimal place.
 
-M, MWS, ED, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this section, and W and WWS are defined in paragraph (c)(1)(ii) of this section.
-
-(ii) For dishwashers not having a truncated normal cycle:
-
-EAEU = (M + MWS + EF + W + WWS) × N + ETLPWhere,
-
-M, MWS, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this section, and W and WWS are defined in paragraph (c)(1)(ii) of this section.
-
-(3) The sum of the water consumption, V, and the water consumption during water softener regeneration, VWS, expressed in gallons per cycle and defined in section 5.4 of appendix C1 to this subpart, must be rounded to one decimal place.
-
-(4) Other useful measures of energy consumption for dishwashers are those which the Secretary determines are likely to assist consumers in making purchasing decisions and which are derived from the application of appendix C1 to this subpart.
+(4) Other useful measures of energy consumption for dishwashers are those which the Secretary determines are likely to assist consumers in making purchasing decisions and which are derived from the application of appendix C1 to this subpart or appendix C2 to this subpart, as applicable.
 
 (d) *Clothes dryers.* (1) The estimated annual energy consumption for clothes dryers, expressed in kilowatt-hours per year, shall be the product of the annual representative average number of clothes dryer cycles as specified in appendix D1 or D2 to this subpart, as appropriate, and the per-cycle combined total energy consumption in kilowatt-hours per cycle, determined according to section 4.6 of appendix D1 or section 4.6 of appendix D2 to this subpart, as appropriate.
 

@@ -1,83 +1,81 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 88 FR 3282, Jan. 18, 2023.
-
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
 (a) *Refrigerators/refrigerator-freezers/freezers.* These standards do not apply to refrigerators and refrigerator-freezers with total refrigerated volume exceeding 39 cubic feet (1104 liters) or freezers with total refrigerated volume exceeding 30 cubic feet (850 liters). The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values.
 
 The following standards remain in effect from July 1, 2001 until September 15, 2014:
 
-|                                                                   Product class                                                                   |Energy standard equations for maximum energy use  <br/>(kWh/yr)|
-|---------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-|                                          1. Refrigerators and refrigerator-freezers with manual defrost                                           |              8.82AV + 248.4  <br/>0.31av + 248.4              |
-|                                               2. Refrigerator-freezers - partial automatic defrost                                                |              8.82AV + 248.4  <br/>0.31av + 248.4              |
-|3. Refrigerator-freezers - automatic defrost with top-mounted freezer without through-the-door ice service and all-refrigerator - automatic defrost|              9.80AV + 276.0  <br/>0.35av + 276.0              |
-|                    4. Refrigerator-freezers - automatic defrost with side-mounted freezer without through-the-door ice service                    |              4.91AV + 507.5  <br/>0.17av + 507.5              |
-|                   5. Refrigerator-freezers - automatic defrost with bottom-mounted freezer without through-the-door ice service                   |              4.60AV + 459.0  <br/>0.16av + 459.0              |
-|                      6. Refrigerator-freezers - automatic defrost with top-mounted freezer with through-the-door ice service                      |             10.20AV + 356.0  <br/>0.36av + 356.0              |
-|                     7. Refrigerator-freezers - automatic defrost with side-mounted freezer with through-the-door ice service                      |             10.10AV + 406.0  <br/>0.36av + 406.0              |
-|                                                      8. Upright freezers with manual defrost                                                      |              7.55AV + 258.3  <br/>0.27av + 258.3              |
-|                                                    9. Upright freezers with automatic defrost                                                     |             12.43AV + 326.1  <br/>0.44av + 326.1              |
-|                                         10. Chest freezers and all other freezers except compact freezers                                         |              9.88AV + 143.7  <br/>0.35av + 143.7              |
-|                                      11. Compact refrigerators and refrigerator-freezers with manual defrost                                      |             10.70AV + 299.0  <br/>0.38av + 299.0              |
-|                                           12. Compact refrigerator-freezer - partial automatic defrost                                            |              7.00AV + 398.0  <br/>0.25av + 398.0              |
-|          13. Compact refrigerator-freezers - automatic defrost with top-mounted freezer and compact all-refrigerator - automatic defrost          |             12.70AV + 355.0  <br/>0.45av + 355.0              |
-|                                  14. Compact refrigerator-freezers - automatic defrost with side-mounted freezer                                  |              7.60AV + 501.0  <br/>0.27av + 501.0              |
-|                                 15. Compact refrigerator-freezers - automatic defrost with bottom-mounted freezer                                 |             13.10AV + 367.0  <br/>0.46av + 367.0              |
-|                                                 16. Compact upright freezers with manual defrost                                                  |              9.78AV + 250.8  <br/>0.35av + 250.8              |
-|                                                17. Compact upright freezers with automatic defrost                                                |             11.40AV + 391.0  <br/>0.40av + 391.0              |
-|                                                            18. Compact chest freezers                                                             |             10.45AV + 152.0  <br/>0.37av + 152.0              |
+|                                                                 Product class                                                                 |Energy standard equations for maximum energy use  <br/>(kWh/yr)|
+|-----------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+|                                        1. Refrigerators and refrigerator-freezers with manual defrost                                         |              8.82AV + 248.4  <br/>0.31av + 248.4              |
+|                                              2. Refrigerator-freezers—partial automatic defrost                                               |              8.82AV + 248.4  <br/>0.31av + 248.4              |
+|3. Refrigerator-freezers—automatic defrost with top-mounted freezer without through-the-door ice service and all-refrigerator—automatic defrost|              9.80AV + 276.0  <br/>0.35av + 276.0              |
+|                   4. Refrigerator-freezers—automatic defrost with side-mounted freezer without through-the-door ice service                   |              4.91AV + 507.5  <br/>0.17av + 507.5              |
+|                  5. Refrigerator-freezers—automatic defrost with bottom-mounted freezer without through-the-door ice service                  |              4.60AV + 459.0  <br/>0.16av + 459.0              |
+|                     6. Refrigerator-freezers—automatic defrost with top-mounted freezer with through-the-door ice service                     |             10.20AV + 356.0  <br/>0.36av + 356.0              |
+|                    7. Refrigerator-freezers—automatic defrost with side-mounted freezer with through-the-door ice service                     |             10.10AV + 406.0  <br/>0.36av + 406.0              |
+|                                                    8. Upright freezers with manual defrost                                                    |              7.55AV + 258.3  <br/>0.27av + 258.3              |
+|                                                  9. Upright freezers with automatic defrost                                                   |             12.43AV + 326.1  <br/>0.44av + 326.1              |
+|                                       10. Chest freezers and all other freezers except compact freezers                                       |              9.88AV + 143.7  <br/>0.35av + 143.7              |
+|                                    11. Compact refrigerators and refrigerator-freezers with manual defrost                                    |             10.70AV + 299.0  <br/>0.38av + 299.0              |
+|                                          12. Compact refrigerator-freezer—partial automatic defrost                                           |              7.00AV + 398.0  <br/>0.25av + 398.0              |
+|          13. Compact refrigerator-freezers—automatic defrost with top-mounted freezer and compact all-refrigerator—automatic defrost          |             12.70AV + 355.0  <br/>0.45av + 355.0              |
+|                                 14. Compact refrigerator-freezers—automatic defrost with side-mounted freezer                                 |              7.60AV + 501.0  <br/>0.27av + 501.0              |
+|                                15. Compact refrigerator-freezers—automatic defrost with bottom-mounted freezer                                |             13.10AV + 367.0  <br/>0.46av + 367.0              |
+|                                               16. Compact upright freezers with manual defrost                                                |              9.78AV + 250.8  <br/>0.35av + 250.8              |
+|                                              17. Compact upright freezers with automatic defrost                                              |             11.40AV + 391.0  <br/>0.40av + 391.0              |
+|                                                          18. Compact chest freezers                                                           |             10.45AV + 152.0  <br/>0.37av + 152.0              |
 
 AV: Adjusted Volume in ft<sup>3</sup>; av: Adjusted Volume in liters (L).
 
 The following standards apply to products manufactured starting on September 15, 2014:
 
-|                                                                    Product class                                                                    |Equations for maximum energy use  <br/>(kWh/yr)|               |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|---------------|
-|                                                            Based on AV (ft<sup>3</sup>)                                                             |                Based on av (L)                |               |
-|                             1. Refrigerator-freezers and refrigerators other than all-refrigerators with manual defrost                             |                7.99AV + 225.0                 |0.282av + 225.0|
-|                                                       1A. All-refrigerators - manual defrost                                                        |                6.79AV + 193.6                 |0.240av + 193.6|
-|                                                2. Refrigerator-freezers - partial automatic defrost                                                 |                7.99AV + 225.0                 |0.282av + 225.0|
-|                         3. Refrigerator-freezers - automatic defrost with top-mounted freezer without an automatic icemaker                         |                8.07AV + 233.7                 |0.285av + 233.7|
-|                   3-BI. Built-in refrigerator-freezer - automatic defrost with top-mounted freezer without an automatic icemaker                    |                9.15AV + 264.9                 |0.323av + 264.9|
-|       3I. Refrigerator-freezers - automatic defrost with top-mounted freezer with an automatic icemaker without through-the-door ice service        |                8.07AV + 317.7                 |0.285av + 317.7|
-| 3I-BI. Built-in refrigerator-freezers - automatic defrost with top-mounted freezer with an automatic icemaker without through-the-door ice service  |                9.15AV + 348.9                 |0.323av + 348.9|
-|                                                      3A. All-refrigerators - automatic defrost                                                      |                7.07AV + 201.6                 |0.250av + 201.6|
-|                                                3A-BI. Built-in All-refrigerators - automatic defrost                                                |                8.02AV + 228.5                 |0.283av + 228.5|
-|                        4. Refrigerator-freezers - automatic defrost with side-mounted freezer without an automatic icemaker                         |                8.51AV + 297.8                 |0.301av + 297.8|
-|                  4-BI. Built-In Refrigerator-freezers - automatic defrost with side-mounted freezer without an automatic icemaker                   |                10.22AV + 357.4                |0.361av + 357.4|
-|       4I. Refrigerator-freezers - automatic defrost with side-mounted freezer with an automatic icemaker without through-the-door ice service       |                8.51AV + 381.8                 |0.301av + 381.8|
-| 4I-BI. Built-In Refrigerator-freezers - automatic defrost with side-mounted freezer with an automatic icemaker without through-the-door ice service |                10.22AV + 441.4                |0.361av + 441.4|
-|                       5. Refrigerator-freezers - automatic defrost with bottom-mounted freezer without an automatic icemaker                        |                8.85AV + 317.0                 |0.312av + 317.0|
-|                 5-BI. Built-In Refrigerator-freezers - automatic defrost with bottom-mounted freezer without an automatic icemaker                  |                9.40AV + 336.9                 |0.332av + 336.9|
-|      5I. Refrigerator-freezers - automatic defrost with bottom-mounted freezer with an automatic icemaker without through-the-door ice service      |                8.85AV + 401.0                 |0.312av + 401.0|
-|5I-BI. Built-In Refrigerator-freezers - automatic defrost with bottom-mounted freezer with an automatic icemaker without through-the-door ice service|                9.40AV + 420.9                 |0.332av + 420.9|
-|                     5A. Refrigerator-freezer - automatic defrost with bottom-mounted freezer with through-the-door ice service                      |                9.25AV + 475.4                 |0.327av + 475.4|
-|               5A-BI. Built-in refrigerator-freezer - automatic defrost with bottom-mounted freezer with through-the-door ice service                |                9.83AV + 499.9                 |0.347av + 499.9|
-|                       6. Refrigerator-freezers - automatic defrost with top-mounted freezer with through-the-door ice service                       |                8.40AV + 385.4                 |0.297av + 385.4|
-|                      7. Refrigerator-freezers - automatic defrost with side-mounted freezer with through-the-door ice service                       |                8.54AV + 432.8                 |0.302av + 432.8|
-|                7-BI. Built-In Refrigerator-freezers - automatic defrost with side-mounted freezer with through-the-door ice service                 |                10.25AV + 502.6                |0.362av + 502.6|
-|                                                       8. Upright freezers with manual defrost                                                       |                5.57AV + 193.7                 |0.197av + 193.7|
-|                                      9. Upright freezers with automatic defrost without an automatic icemaker                                       |                8.62AV + 228.3                 |0.305av + 228.3|
-|                                       9I. Upright freezers with automatic defrost with an automatic icemaker                                        |                8.62AV + 312.3                 |0.305av + 312.3|
-|                                9-BI. Built-In Upright freezers with automatic defrost without an automatic icemaker                                 |                9.86AV + 260.9                 |0.348av + 260.9|
-|                                 9I-BI. Built-in upright freezers with automatic defrost with an automatic icemaker                                  |                9.86AV + 344.9                 |0.348av + 344.9|
-|                                          10. Chest freezers and all other freezers except compact freezers                                          |                7.29AV + 107.8                 |0.257av + 107.8|
-|                                                     10A. Chest freezers with automatic defrost                                                      |                10.24AV + 148.1                |0.362av + 148.1|
-|                        11. Compact refrigerator-freezers and refrigerators other than all-refrigerators with manual defrost                         |                9.03AV + 252.3                 |0.319av + 252.3|
-|                                                   11A.Compact all-refrigerators - manual defrost                                                    |                7.84AV + 219.1                 |0.277av + 219.1|
-|                                            12. Compact refrigerator-freezers - partial automatic defrost                                            |                5.91AV + 335.8                 |0.209av + 335.8|
-|                                   13. Compact refrigerator-freezers - automatic defrost with top-mounted freezer                                    |                11.80AV + 339.2                |0.417av + 339.2|
-|                     13I. Compact refrigerator-freezers - automatic defrost with top-mounted freezer with an automatic icemaker                      |                11.80AV + 423.2                |0.417av + 423.2|
-|                                                 13A. Compact all-refrigerators - automatic defrost                                                  |                9.17AV + 259.3                 |0.324av + 259.3|
-|                                   14. Compact refrigerator-freezers - automatic defrost with side-mounted freezer                                   |                6.82AV + 456.9                 |0.241av + 456.9|
-|                     14I. Compact refrigerator-freezers - automatic defrost with side-mounted freezer with an automatic icemaker                     |                6.82AV + 540.9                 |0.241av + 540.9|
-|                                  15. Compact refrigerator-freezers - automatic defrost with bottom-mounted freezer                                  |                11.80AV + 339.2                |0.417av + 339.2|
-|                    15I. Compact refrigerator-freezers - automatic defrost with bottom-mounted freezer with an automatic icemaker                    |                11.80AV + 423.2                |0.417av + 423.2|
-|                                                  16. Compact upright freezers with manual defrost                                                   |                8.65AV + 225.7                 |0.306av + 225.7|
-|                                                 17. Compact upright freezers with automatic defrost                                                 |                10.17AV + 351.9                |0.359av + 351.9|
-|                                                             18. Compact chest freezers                                                              |                9.25AV + 136.8                 |0.327av + 136.8|
+|                                                                   Product class                                                                   |Equations for maximum energy use  <br/>(kWh/yr)|               |
+|---------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|---------------|
+|                                                           Based on AV (ft<sup>3</sup>)                                                            |                Based on av (L)                |               |
+|                            1. Refrigerator-freezers and refrigerators other than all-refrigerators with manual defrost                            |                7.99AV + 225.0                 |0.282av + 225.0|
+|                                                       1A. All-refrigerators—manual defrost                                                        |                6.79AV + 193.6                 |0.240av + 193.6|
+|                                                2. Refrigerator-freezers—partial automatic defrost                                                 |                7.99AV + 225.0                 |0.282av + 225.0|
+|                         3. Refrigerator-freezers—automatic defrost with top-mounted freezer without an automatic icemaker                         |                8.07AV + 233.7                 |0.285av + 233.7|
+|                   3-BI. Built-in refrigerator-freezer—automatic defrost with top-mounted freezer without an automatic icemaker                    |                9.15AV + 264.9                 |0.323av + 264.9|
+|       3I. Refrigerator-freezers—automatic defrost with top-mounted freezer with an automatic icemaker without through-the-door ice service        |                8.07AV + 317.7                 |0.285av + 317.7|
+| 3I-BI. Built-in refrigerator-freezers—automatic defrost with top-mounted freezer with an automatic icemaker without through-the-door ice service  |                9.15AV + 348.9                 |0.323av + 348.9|
+|                                                      3A. All-refrigerators—automatic defrost                                                      |                7.07AV + 201.6                 |0.250av + 201.6|
+|                                                3A-BI. Built-in All-refrigerators—automatic defrost                                                |                8.02AV + 228.5                 |0.283av + 228.5|
+|                        4. Refrigerator-freezers—automatic defrost with side-mounted freezer without an automatic icemaker                         |                8.51AV + 297.8                 |0.301av + 297.8|
+|                  4-BI. Built-In Refrigerator-freezers—automatic defrost with side-mounted freezer without an automatic icemaker                   |                10.22AV + 357.4                |0.361av + 357.4|
+|       4I. Refrigerator-freezers—automatic defrost with side-mounted freezer with an automatic icemaker without through-the-door ice service       |                8.51AV + 381.8                 |0.301av + 381.8|
+| 4I-BI. Built-In Refrigerator-freezers—automatic defrost with side-mounted freezer with an automatic icemaker without through-the-door ice service |                10.22AV + 441.4                |0.361av + 441.4|
+|                       5. Refrigerator-freezers—automatic defrost with bottom-mounted freezer without an automatic icemaker                        |                8.85AV + 317.0                 |0.312av + 317.0|
+|                 5-BI. Built-In Refrigerator-freezers—automatic defrost with bottom-mounted freezer without an automatic icemaker                  |                9.40AV + 336.9                 |0.332av + 336.9|
+|      5I. Refrigerator-freezers—automatic defrost with bottom-mounted freezer with an automatic icemaker without through-the-door ice service      |                8.85AV + 401.0                 |0.312av + 401.0|
+|5I-BI. Built-In Refrigerator-freezers—automatic defrost with bottom-mounted freezer with an automatic icemaker without through-the-door ice service|                9.40AV + 420.9                 |0.332av + 420.9|
+|                     5A. Refrigerator-freezer—automatic defrost with bottom-mounted freezer with through-the-door ice service                      |                9.25AV + 475.4                 |0.327av + 475.4|
+|               5A-BI. Built-in refrigerator-freezer—automatic defrost with bottom-mounted freezer with through-the-door ice service                |                9.83AV + 499.9                 |0.347av + 499.9|
+|                       6. Refrigerator-freezers—automatic defrost with top-mounted freezer with through-the-door ice service                       |                8.40AV + 385.4                 |0.297av + 385.4|
+|                      7. Refrigerator-freezers—automatic defrost with side-mounted freezer with through-the-door ice service                       |                8.54AV + 432.8                 |0.302av + 432.8|
+|                7-BI. Built-In Refrigerator-freezers—automatic defrost with side-mounted freezer with through-the-door ice service                 |                10.25AV + 502.6                |0.362av + 502.6|
+|                                                      8. Upright freezers with manual defrost                                                      |                5.57AV + 193.7                 |0.197av + 193.7|
+|                                     9. Upright freezers with automatic defrost without an automatic icemaker                                      |                8.62AV + 228.3                 |0.305av + 228.3|
+|                                      9I. Upright freezers with automatic defrost with an automatic icemaker                                       |                8.62AV + 312.3                 |0.305av + 312.3|
+|                               9-BI. Built-In Upright freezers with automatic defrost without an automatic icemaker                                |                9.86AV + 260.9                 |0.348av + 260.9|
+|                                9I-BI. Built-in upright freezers with automatic defrost with an automatic icemaker                                 |                9.86AV + 344.9                 |0.348av + 344.9|
+|                                         10. Chest freezers and all other freezers except compact freezers                                         |                7.29AV + 107.8                 |0.257av + 107.8|
+|                                                    10A. Chest freezers with automatic defrost                                                     |                10.24AV + 148.1                |0.362av + 148.1|
+|                       11. Compact refrigerator-freezers and refrigerators other than all-refrigerators with manual defrost                        |                9.03AV + 252.3                 |0.319av + 252.3|
+|                                                   11A.Compact all-refrigerators—manual defrost                                                    |                7.84AV + 219.1                 |0.277av + 219.1|
+|                                            12. Compact refrigerator-freezers—partial automatic defrost                                            |                5.91AV + 335.8                 |0.209av + 335.8|
+|                                   13. Compact refrigerator-freezers—automatic defrost with top-mounted freezer                                    |                11.80AV + 339.2                |0.417av + 339.2|
+|                     13I. Compact refrigerator-freezers—automatic defrost with top-mounted freezer with an automatic icemaker                      |                11.80AV + 423.2                |0.417av + 423.2|
+|                                                 13A. Compact all-refrigerators—automatic defrost                                                  |                9.17AV + 259.3                 |0.324av + 259.3|
+|                                   14. Compact refrigerator-freezers—automatic defrost with side-mounted freezer                                   |                6.82AV + 456.9                 |0.241av + 456.9|
+|                     14I. Compact refrigerator-freezers—automatic defrost with side-mounted freezer with an automatic icemaker                     |                6.82AV + 540.9                 |0.241av + 540.9|
+|                                  15. Compact refrigerator-freezers—automatic defrost with bottom-mounted freezer                                  |                11.80AV + 339.2                |0.417av + 339.2|
+|                    15I. Compact refrigerator-freezers—automatic defrost with bottom-mounted freezer with an automatic icemaker                    |                11.80AV + 423.2                |0.417av + 423.2|
+|                                                 16. Compact upright freezers with manual defrost                                                  |                8.65AV + 225.7                 |0.306av + 225.7|
+|                                                17. Compact upright freezers with automatic defrost                                                |                10.17AV + 351.9                |0.359av + 351.9|
+|                                                            18. Compact chest freezers                                                             |                9.25AV + 136.8                 |0.327av + 136.8|
 
 AV = Total adjusted volume, expressed in ft<sup>3</sup>, as determined in appendices A and B of subpart B of this part.
 
@@ -110,25 +108,25 @@ av = Total adjusted volume, expressed in Liters.
 
 (1) Central air conditioners and central air conditioning heat pumps manufactured on or after January 1, 2015, and before January 1, 2023, must have Seasonal Energy Efficiency Ratio and Heating Seasonal Performance Factor not less than:
 
-|                    Product class                    |Seasonal  <br/>energy  <br/>efficiency ratio  <br/>(SEER)|Heating  <br/>seasonal  <br/>performance  <br/>factor (HSPF)|
-|-----------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------|
-|        (i) Split systems - air conditioners         |                           13                            |                                                            |
-|           (ii) Split systems - heat pumps           |                           14                            |                            8.2                             |
-|    (iii) Single package units - air conditioners    |                           14                            |                                                            |
-|       (iv) Single package units - heat pumps        |                           14                            |                            8.0                             |
-|        (v) Small-duct, high-velocity systems        |                           12                            |                            7.2                             |
-|(vi)(A) Space-constrained products - air conditioners|                           12                            |                                                            |
-|   (vi)(B) Space-constrained products - heat pumps   |                           12                            |                            7.4                             |
+|                   Product class                   |Seasonal  <br/>energy  <br/>efficiency ratio  <br/>(SEER)|Heating  <br/>seasonal  <br/>performance  <br/>factor (HSPF)|
+|---------------------------------------------------|---------------------------------------------------------|------------------------------------------------------------|
+|        (i) Split systems—air conditioners         |                           13                            |                                                            |
+|           (ii) Split systems—heat pumps           |                           14                            |                            8.2                             |
+|    (iii) Single package units—air conditioners    |                           14                            |                                                            |
+|       (iv) Single package units—heat pumps        |                           14                            |                            8.0                             |
+|       (v) Small-duct, high-velocity systems       |                           12                            |                            7.2                             |
+|(vi)(A) Space-constrained products—air conditioners|                           12                            |                                                            |
+|   (vi)(B) Space-constrained products—heat pumps   |                           12                            |                            7.4                             |
 
-(2) In addition to meeting the applicable requirements in paragraph (c)(1) of this section, products in product class (i) of paragraph (c)(1) of this section (*i.e.,* split-systems - air conditioners) that are installed on or after January 1, 2015, and before January 1, 2023, in the States of Alabama, Arkansas, Delaware, Florida, Georgia, Hawaii, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, Oklahoma, South Carolina, Tennessee, Texas, or Virginia, or in the District of Columbia, must have a Seasonal Energy Efficiency Ratio (SEER) of 14 or higher. Any outdoor unit model that has a certified combination with a rating below 14 SEER cannot be installed in these States. The least efficient combination of each basic model must comply with this standard.
+(2) In addition to meeting the applicable requirements in paragraph (c)(1) of this section, products in product class (i) of paragraph (c)(1) of this section (*i.e.,* split-systems—air conditioners) that are installed on or after January 1, 2015, and before January 1, 2023, in the States of Alabama, Arkansas, Delaware, Florida, Georgia, Hawaii, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, Oklahoma, South Carolina, Tennessee, Texas, or Virginia, or in the District of Columbia, must have a Seasonal Energy Efficiency Ratio (SEER) of 14 or higher. Any outdoor unit model that has a certified combination with a rating below 14 SEER cannot be installed in these States. The least efficient combination of each basic model must comply with this standard.
 
-(3)(i) In addition to meeting the applicable requirements in paragraph (c)(1) of this section, products in product classes (i) and (iii) of paragraph (c)(1) of this section (*i.e.,* split systems - air conditioners and single-package units - air conditioners) that are installed on or after January 1, 2015, and before January 1, 2023, in the States of Arizona, California, Nevada, or New Mexico must have a Seasonal Energy Efficiency Ratio (SEER) of 14 or higher and have an Energy Efficiency Ratio (EER) (at a standard rating of 95 °F dry bulb outdoor temperature) not less than the following:
+(3)(i) In addition to meeting the applicable requirements in paragraph (c)(1) of this section, products in product classes (i) and (iii) of paragraph (c)(1) of this section (*i.e.,* split systems—air conditioners and single-package units—air conditioners) that are installed on or after January 1, 2015, and before January 1, 2023, in the States of Arizona, California, Nevada, or New Mexico must have a Seasonal Energy Efficiency Ratio (SEER) of 14 or higher and have an Energy Efficiency Ratio (EER) (at a standard rating of 95 °F dry bulb outdoor temperature) not less than the following:
 
-|                                             Product class                                              |Energy  <br/>efficiency ratio (EER)|
-|--------------------------------------------------------------------------------------------------------|-----------------------------------|
-|        (i) Split systems - air conditioners with rated cooling capacity less than 45,000 Btu/hr        |               12.2                |
-|(ii) Split systems - air conditioners with rated cooling capacity equal to or greater than 45,000 Btu/hr|               11.7                |
-|                             (iii) Single-package units - air conditioners                              |               11.0                |
+|                                            Product class                                             |Energy  <br/>efficiency ratio (EER)|
+|------------------------------------------------------------------------------------------------------|-----------------------------------|
+|        (i) Split systems—air conditioners with rated cooling capacity less than 45,000 Btu/hr        |               12.2                |
+|(ii) Split systems—air conditioners with rated cooling capacity equal to or greater than 45,000 Btu/hr|               11.7                |
+|                             (iii) Single-package units—air conditioners                              |               11.0                |
 
 (ii) Any outdoor unit model that has a certified combination with a rating below 14 SEER or the applicable EER cannot be installed in this region. The least-efficient combination of each basic model must comply with this standard.
 
@@ -146,25 +144,25 @@ av = Total adjusted volume, expressed in Liters.
 
 (5) Central air conditioners and central air conditioning heat pumps manufactured on or after January 1, 2023, must have a Seasonal Energy Efficiency Ratio 2 and a Heating Seasonal Performance Factor 2 not less than:
 
-|                                                 Product class                                                  |Seasonal  <br/>energy  <br/>efficiency  <br/>ratio 2 (SEER2)|Heating  <br/>seasonal  <br/>performance  <br/>factor 2 (HSPF2)|
-|----------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------|
-|       (i)(A) Split systems - air conditioners with a certified cooling capacity less than 45,000 Btu/hr        |                            13.4                            |                                                               |
-|(i)(B) Split systems - air conditioners with a certified cooling capacity equal to or greater than 45,000 Btu/hr|                            13.4                            |                                                               |
-|                                        (ii) Split systems - heat pumps                                         |                            14.3                            |                              7.5                              |
-|                                 (iii) Single-package units - air conditioners                                  |                            13.4                            |                                                               |
-|                                     (iv) Single-package units - heat pumps                                     |                            13.4                            |                              6.7                              |
-|                                     (v) Small-duct, high-velocity systems                                      |                             12                             |                              6.1                              |
-|                             (vi)(A) Space-constrained products - air conditioners                              |                            11.7                            |                                                               |
-|                                (vi)(B) Space-constrained products - heat pumps                                 |                            11.9                            |                              6.3                              |
+|                                                Product class                                                 |Seasonal  <br/>energy  <br/>efficiency  <br/>ratio 2 (SEER2)|Heating  <br/>seasonal  <br/>performance  <br/>factor 2 (HSPF2)|
+|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|---------------------------------------------------------------|
+|       (i)(A) Split systems—air conditioners with a certified cooling capacity less than 45,000 Btu/hr        |                            13.4                            |                                                               |
+|(i)(B) Split systems—air conditioners with a certified cooling capacity equal to or greater than 45,000 Btu/hr|                            13.4                            |                                                               |
+|                                        (ii) Split systems—heat pumps                                         |                            14.3                            |                              7.5                              |
+|                                 (iii) Single-package units—air conditioners                                  |                            13.4                            |                                                               |
+|                                     (iv) Single-package units—heat pumps                                     |                            13.4                            |                              6.7                              |
+|                                    (v) Small-duct, high-velocity systems                                     |                             12                             |                              6.1                              |
+|                             (vi)(A) Space-constrained products—air conditioners                              |                            11.7                            |                                                               |
+|                                (vi)(B) Space-constrained products—heat pumps                                 |                            11.9                            |                              6.3                              |
 
-(6)(i) In addition to meeting the applicable requirements in paragraph (c)(5) of this section, products in product classes (i) and (iii) of paragraph (c)(5) of this section (*i.e.,* split systems - air conditioners and single-package units - air conditioners) that are installed on or after January 1, 2023, in the southeast or southwest must have a Seasonal Energy Efficiency Ratio 2 and a Energy Efficiency Ratio 2 not less than:
+(6)(i) In addition to meeting the applicable requirements in paragraph (c)(5) of this section, products in product classes (i) and (iii) of paragraph (c)(5) of this section (*i.e.,* split systems—air conditioners and single-package units—air conditioners) that are installed on or after January 1, 2023, in the southeast or southwest must have a Seasonal Energy Efficiency Ratio 2 and a Energy Efficiency Ratio 2 not less than:
 
-|                                                 Product class                                                  |Southeast \*|Southwest \*\*|           |
-|----------------------------------------------------------------------------------------------------------------|------------|--------------|-----------|
-|                                                     SEER2                                                      |   SEER2    | EER2 \*\*\*  |           |
-|       (i)(A) Split-systems - air conditioners with a certified cooling capacity less than 45,000 Btu/hr        |    14.3    |     14.3     |11.7/9.8 † |
-|(i)(B) Split-systems - air conditioners with a certified cooling capacity equal to or greater than 45,000 Btu/hr|    13.8    |     13.8     |11.2/9.8 ††|
-|                                 (iii) Single-package units - air conditioners                                  |            |              |   10.6    |
+|                                                Product class                                                 |Southeast \*|Southwest \*\*|           |
+|--------------------------------------------------------------------------------------------------------------|------------|--------------|-----------|
+|                                                    SEER2                                                     |   SEER2    | EER2 \*\*\*  |           |
+|       (i)(A) Split-systems—air conditioners with a certified cooling capacity less than 45,000 Btu/hr        |    14.3    |     14.3     |11.7/9.8 † |
+|(i)(B) Split-systems—air conditioners with a certified cooling capacity equal to or greater than 45,000 Btu/hr|    13.8    |     13.8     |11.2/9.8 ††|
+|                                 (iii) Single-package units—air conditioners                                  |            |              |   10.6    |
 
 \* “Southeast” includes the States of Alabama, Arkansas, Delaware, Florida, Georgia, Hawaii, Kentucky, Louisiana, Maryland, Mississippi, North Carolina, Oklahoma, Puerto Rico, South Carolina, Tennessee, Texas, Virginia, the District of Columbia, and the U.S. Territories.
 
@@ -220,7 +218,7 @@ av = Total adjusted volume, expressed in Liters.
 
 \* Vr is the Rated Storage Volume (in gallons), as determined pursuant to 10 CFR 429.17.
 
-(e) *Furnaces and boilers* - (1) *Furnaces.* (i) The Annual Fuel Utilization Efficiency (AFUE) of residential furnaces shall not be less than the following for non-weatherized gas furnaces manufactured before November 19, 2015, non-weatherized oil furnaces manufactured before May 1, 2013, and weatherized furnaces manufactured before January 1, 2015:
+(e) *Furnaces and boilers*—(1) *Furnaces.* (i) The Annual Fuel Utilization Efficiency (AFUE) of residential furnaces shall not be less than the following for non-weatherized gas furnaces manufactured before November 19, 2015, non-weatherized oil furnaces manufactured before May 1, 2013, and weatherized furnaces manufactured before January 1, 2015:
 
 |                                                            Product class                                                             |AFUE  <br/>(percent)<sup>1</sup>|
 |--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
@@ -308,11 +306,11 @@ av = Total adjusted volume, expressed in Liters.
 
 (v) A boiler that is manufactured to operate without any need for electricity or any electric connection, electric gauges, electric pumps, electric wires, or electric devices is not required to meet the AFUE or design requirements applicable to the boiler requirements of paragraph (e)(2)(ii) of this section, but must meet the requirements of paragraph (e)(2)(i) of this section, as applicable.
 
-(f) *Dishwashers.* (1) All dishwashers manufactured on or after May 30, 2013, shall meet the following standard -
+(f) *Dishwashers.* (1) All dishwashers manufactured on or after May 30, 2013, shall meet the following standard—
 
-(i) Standard size dishwashers shall not exceed 307 kwh/year and 5.0 gallons per cycle. Standard size dishwashers have a capacity equal to or greater than eight place settings plus six serving pieces as specified in ANSI/AHAM DW-1-2010 (incorporated by reference, see § 430.3) using the test load specified in section 2.7 of appendix C1 in subpart B of this part.
+(i) Standard size dishwashers shall not exceed 307 kwh/year and 5.0 gallons per cycle. Standard size dishwashers have a capacity equal to or greater than eight place settings plus six serving pieces as specified in AHAM DW-1-2020 (incorporated by reference, see § 430.3) using the test load specified in section 2.3 of appendix C1 or section 2.4 of appendix C2 in subpart B of this part, as applicable.
 
-(ii) Compact size dishwashers shall not exceed 222 kwh/year and 3.5 gallons per cycle. Compact size dishwashers have a capacity less than eight place settings plus six serving pieces as specified in ANSI/AHAM DW-1-2010 (incorporated by reference, see § 430.3) using the test load specified in section 2.7 of appendix C1 in subpart B of this part.
+(ii) Compact size dishwashers shall not exceed 222 kwh/year and 3.5 gallons per cycle. Compact size dishwashers have a capacity less than eight place settings plus six serving pieces as specified in AHAM DW-1-2020 (incorporated by reference, see § 430.3) using the test load specified in section 2.3 of appendix C1 or section 2.4 of appendix C2 in subpart B of this part, as applicable.
 
 (2) [Reserved]
 
@@ -328,7 +326,7 @@ av = Total adjusted volume, expressed in Liters.
 
 <sup>1</sup> Must have an unheated rinse water option.
 
-(2) All top-loading or front-loading standard-size residential clothes washers manufactured on or after January 1, 2011, and before March 7, 2015, shall meet the following standard -
+(2) All top-loading or front-loading standard-size residential clothes washers manufactured on or after January 1, 2011, and before March 7, 2015, shall meet the following standard—
 
 (i) A Modified Energy Factor of at least 1.26; and
 
@@ -423,9 +421,9 @@ av = Total adjusted volume, expressed in Liters.
 
 (l) *Television sets.* [Reserved]
 
-(m) *Fluorescent lamp ballasts* - (1) *Standards for fluorescent lamp ballasts (other than dimming ballasts).* Except as provided in paragraphs (m)(2) and (3) of this section, each fluorescent lamp ballast manufactured on or after November 14, 2014,
+(m) *Fluorescent lamp ballasts*—(1) *Standards for fluorescent lamp ballasts (other than dimming ballasts).* Except as provided in paragraphs (m)(2) and (3) of this section, each fluorescent lamp ballast manufactured on or after November 14, 2014,
 
-(i) Designed and marketed -
+(i) Designed and marketed—
 
 (A) To operate at nominal input voltages at or between 120 and 277 volts;
 
@@ -433,7 +431,7 @@ av = Total adjusted volume, expressed in Liters.
 
 (C) For use in connection with fluorescent lamps (as defined in § 430.2)
 
-(ii) Must have -
+(ii) Must have—
 
 (A) A power factor of:
 
@@ -468,7 +466,7 @@ av = Total adjusted volume, expressed in Liters.
 
 (2) *Standards for certain dimming ballasts.* Except as provided in paragraph (m)(3) of this section, each dimming ballast manufactured on or after November 14, 2014; designed and marketed to operate one F34T12, two F34T12, two F96T12/ES, or two F96T12HO/ES lamps; and
 
-(i) Designed and marketed -
+(i) Designed and marketed—
 
 (A) To operate at nominal input voltages at or between 120 and 277 volts;
 
@@ -476,7 +474,7 @@ av = Total adjusted volume, expressed in Liters.
 
 (C) For use in connection with fluorescent lamps (as defined in § 430.2)
 
-(ii) Must have -
+(ii) Must have—
 
 (A) A power factor of:
 
@@ -616,7 +614,7 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 (ii) Adjustable speed controls (either more than 1 speed or variable speed);
 
-(iii) The capability of reversible fan action, except for -
+(iii) The capability of reversible fan action, except for—
 
 (A) Fans sold for industrial applications;
 
@@ -654,7 +652,7 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 (E) Highly-decorative ceiling fans, as defined in Appendix U of this part.
 
-(3) Ceiling fan light kits manufactured on or after January 1, 2007, and prior to January 21, 2020, with medium screw base sockets must be packaged with medium screw base lamps to fill all sockets. These medium screw base lamps must -
+(3) Ceiling fan light kits manufactured on or after January 1, 2007, and prior to January 21, 2020, with medium screw base sockets must be packaged with medium screw base lamps to fill all sockets. These medium screw base lamps must—
 
 (i) Be compact fluorescent lamps that meet or exceed the following requirements or be as described in paragraph (s)(3)(ii) of this section:
 
@@ -789,7 +787,7 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 | Direct Operation EPS |Level VI: 10 CFR 430.32(w)(1)(ii)|Level VI: 10 CFR 430.32(w)(1)(ii).|
 |Indirect Operation EPS|Level IV: 10 CFR 430.32(w)(1)(i) |          No Standards.           |
 
-(2) A basic model of external power supply is not subject to the energy conservation standards of paragraph (w)(1)(ii) of this section if the external power supply -
+(2) A basic model of external power supply is not subject to the energy conservation standards of paragraph (w)(1)(ii) of this section if the external power supply—
 
 (i) Is manufactured during the period beginning on February 10, 2016, and ending on February 10, 2020;
 
@@ -797,7 +795,7 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 (iii) Meets, where applicable, the standards under paragraph (w)(1)(i) of this section, and has been certified to the Secretary as meeting those standards; and
 
-(iv) Is made available by the manufacturer only as a service part or a spare part for an end-use product that -
+(iv) Is made available by the manufacturer only as a service part or a spare part for an end-use product that—
 
 (A) Constitutes the primary load; and
 
@@ -807,7 +805,7 @@ The maximum flow rate of a sprayhead that delivers a pre-set volume of water bef
 
 (4) Any external power supply subject to the standards in paragraph (w)(1) of this section shall be clearly and permanently marked in accordance with the International Efficiency Marking Protocol for External Power Supplies (incorporated by reference; see § 430.3), published by the U.S. Department of Energy.
 
-(5) *Non-application of no-load mode requirements.* The no-load mode energy efficiency standards established in paragraph (w)(1) of this section shall not apply to an external power supply that -
+(5) *Non-application of no-load mode requirements.* The no-load mode energy efficiency standards established in paragraph (w)(1) of this section shall not apply to an external power supply that—
 
 (i) Is an AC-to-AC external power supply;
 
@@ -865,7 +863,7 @@ Modified Spectrum General Service Incandescent Lamps
 
 (y) *Residential furnace fans.* Residential furnace fans incorporated in the products listed in Table 1 of this paragraph and manufactured on and after July 3, 2019, shall have a fan energy rating (FER) value that meets or is less than the following values:
 
-Table 1 - Energy Conservation Standards for Covered Residential Furnace Fans\*
+Table 1—Energy Conservation Standards for Covered Residential Furnace Fans\*
 
 |                             Product class                             |FER \*\* (Watts/1000 cfm)|
 |-----------------------------------------------------------------------|-------------------------|
@@ -933,14 +931,14 @@ AV = Total adjusted volume, expressed in ft<sup>3</sup>, as calculated according
 
 |                                          Product class                                          | AEU (kWh/yr) |
 |-------------------------------------------------------------------------------------------------|--------------|
-|                     C-3A. Cooler with all-refrigerator - automatic defrost                      |4.57AV + 130.4|
-|               C-3A-BI. Built-in cooler with all-refrigerator - automatic defrost                |5.19AV + 147.8|
+|                      C-3A. Cooler with all-refrigerator—automatic defrost                       |4.57AV + 130.4|
+|                C-3A-BI. Built-in cooler with all-refrigerator—automatic defrost                 |5.19AV + 147.8|
 |     C-9. Cooler with upright freezers with automatic defrost without an automatic icemaker      |5.58AV + 147.7|
 |C-9-BI. Built-in cooler with upright freezer with automatic defrost without an automatic icemaker|6.38AV + 168.8|
 |       C-9I. Cooler with upright freezer with automatic defrost with an automatic icemaker       |5.58AV + 231.7|
 | C-9I-BI. Built-in cooler with upright freezer with automatic defrost with an automatic icemaker |6.38AV + 252.8|
-|                 C-13A. Compact cooler with all-refrigerator - automatic defrost                 |5.93AV + 193.7|
-|           C-13A-BI. Built-in compact cooler with all-refrigerator - automatic defrost           |6.52AV + 213.1|
+|                  C-13A. Compact cooler with all-refrigerator—automatic defrost                  |5.93AV + 193.7|
+|            C-13A-BI. Built-in compact cooler with all-refrigerator—automatic defrost            |6.52AV + 213.1|
 
 AV = Total adjusted volume, expressed in ft<sup>3</sup>, as calculated according to appendix A of subpart B of this part.
 

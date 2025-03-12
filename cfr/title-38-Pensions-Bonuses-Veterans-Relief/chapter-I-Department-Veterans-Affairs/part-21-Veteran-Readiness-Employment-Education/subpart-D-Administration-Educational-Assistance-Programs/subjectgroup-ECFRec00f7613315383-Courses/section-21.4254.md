@@ -1,7 +1,5 @@
 ##### § 21.4254 Nonaccredited courses. #####
 
-Link to an amendment published at 88 FR 2834, Jan. 18, 2023.
-
 (a) *General.* Nonaccredited courses are courses which are not approved as accredited courses and which are offered by a public or private, profit or nonprofit, educational institution. These include nonaccredited courses offered by extension centers or divisions, or vocational or adult education departments of institutions of higher learning.
 
 (b) *Application.* Any school desiring to enroll veterans or eligible persons in nonaccredited courses will submit a written application to the appropriate State approving agency for approval of such courses (38 U.S.C. 3676(a)). Such application will be accompanied by not less than two copies of the current catalog or bulletin which is certified as true and correct in content and policy by an authorized owner or official of the school and will include the following:
@@ -68,10 +66,32 @@ Link to an amendment published at 88 FR 2834, Jan. 18, 2023.
 
 (Authority: 38 U.S.C. 3676)
 
-(14) Such additional reasonable criteria as may be deemed necessary by the State approving agency.
+(14)(i) For a course designed to prepare an individual for licensure or certification in a State, the course meets all instructional curriculum licensure or certification requirements of such State.
 
-(Authority: 38 U.S.C. 3676(c))
+(ii) For a course designed to prepare an individual for licensure to practice law in a State, the course is accredited by a specialized accrediting agency for programs of legal education or association recognized by the Secretary of Education under subpart 2 of part H of title IV of the Higher Education Act of 1965 (20 U.S.C. 1099b), from which recipients of law degrees from such accredited programs are eligible to sit for a bar examination in any State.
+
+(iii) For a course designed to prepare an individual for employment pursuant to standards developed by a board or agency of a State in an occupation that requires approval, licensure, or certification, the course meets such standards.
+
+(iv) An educational institution may apply, through their State approving agency of jurisdiction, to the Secretary or designee for a waiver of the requirements of this paragraph (c)(14). The State approving agency will forward an application for waiver, together with its recommendation for granting or denying the application, to the Secretary or designee. The Secretary or designee may grant a waiver upon a finding that all of the following criteria have been met:
+
+(A) The educational institution is not accredited by an agency or association recognized by the Department of Education.
+
+(B) The course did not meet the requirements of this paragraph (c)(14) at any time during the 2-year period preceding the date of the waiver.
+
+(C) The waiver furthers the purposes of the educational assistance programs administered by VA or would further the education interests of individuals eligible for assistance under such programs.
+
+(D) The educational institution does not provide any commission, bonus, or other incentive payment based directly or indirectly on success in securing enrollments or financial aid to any persons or entities engaged in any student recruiting or admission activities or in making decisions regarding the award of student financial assistance, except for the recruitment of foreign students residing in foreign countries who are not eligible to receive Federal student assistance.
+
+(15) Such additional reasonable criteria as may be deemed necessary by the State approving agency if the Secretary or designee, in consultation with the State approving agency, approves the additional criteria as necessary and equitable in its treatment of public, private, and proprietary for-profit educational institutions. The Secretary or designee will determine whether the additional criteria are necessary and treat schools equitably based on a proposal and any additional information submitted.
+
+(i) Before requiring a school and its nonaccredited courses to meet any additional criteria, the State approving agency must present a written proposal to the Secretary or designee justifying the need for the additional criteria and containing an attestation that the criteria will treat all schools equitably, regardless of whether they are public, private or for-profit institutions. The written proposal must contain a description of the need for the additional criteria and an explanation of how the imposition of the additional criteria would remedy the problem. The proposal must also contain a statement concerning whether State or Federal laws, regulations, or policies require the imposition of the additional criteria and an explanation of the consideration of any alternative means to achieve the same goal as the additional criteria.
+
+(ii) The Secretary or designee may request such additional information from the State approving agency as the Secretary or designee deems appropriate before determining whether the criteria are necessary and treat schools equitably.
+
+(iii) The Secretary or designee may change the determination at any time if, after implementation, it becomes apparent that the criteria are unnecessary or schools are treated inequitably under the criteria.
+
+(Authority: 38 U.S.C. 3676(c), (f))
 
 (d) *Limitations on course approval.* Notwithstanding any other provision of this section, a State approving agency shall not approve a nonaccredited course if it is to be pursued in whole or in part by independent study.
 
-(Authority: 38 U.S.C. 3676(e))[31 FR 6774, May 6, 1966, as amended at 33 FR 9546, June 29, 1968; 47 FR 42733, Sept. 29, 1982; 61 FR 6783, Feb. 22, 1996]
+(Authority: 38 U.S.C. 3676(e))[31 FR 6774, May 6, 1966, as amended at 33 FR 9546, June 29, 1968; 47 FR 42733, Sept. 29, 1982; 61 FR 6783, Feb. 22, 1996; 88 FR 2834, Jan. 18, 2023]
