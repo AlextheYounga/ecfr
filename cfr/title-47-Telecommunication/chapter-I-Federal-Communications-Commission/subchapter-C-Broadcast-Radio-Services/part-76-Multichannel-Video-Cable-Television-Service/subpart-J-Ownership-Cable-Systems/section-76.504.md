@@ -26,8 +26,4 @@ Attributable interest shall be defined by reference to the criteria set forth in
 
 (c) Officers and directors of an entity covered by this rule are considered to have a cognizable interest in the entity with which they are so associated. If any such entity engages in activities other than video-programming activities, it may request the Commission to waive attribution for any officer or director whose duties and responsibilities are wholly unrelated to the entity's video-programming activities. In the case of common or appointed directors and officers, if common or appointed directors or officers have duties and responsibilities that are wholly unrelated to video-programming activities for both entities, the relevant entity may request the Commission to waive attribution of the director or officer. The officers and directors of a parent company of a video-programming business, with an attributable interest in any such subsidiary entity, shall be deemed to have a cognizable interest in the subsidiary unless the duties and responsibilities of the officer or director involved are wholly unrelated to the video-programming subsidiary, and a certification properly documenting this fact is submitted to the Commission. The officers and directors of a sister corporation of a cable system shall not be attributed with ownership of that entity by virtue of such status.
 
-Note 2 to § 76.504:
-
-Section 76.1710 contains recordkeeping requirements for cable operators with regard to attributable interests.
-
-[58 FR 60141, Nov. 15, 1993, as amended at 64 FR 67196, Dec. 1, 1999; 65 FR 53615, Sept. 5, 2000]
+[58 FR 60141, Nov. 15, 1993, as amended at 64 FR 67196, Dec. 1, 1999; 65 FR 53615, Sept. 5, 2000; 85 FR 73429, Nov. 18, 2020]

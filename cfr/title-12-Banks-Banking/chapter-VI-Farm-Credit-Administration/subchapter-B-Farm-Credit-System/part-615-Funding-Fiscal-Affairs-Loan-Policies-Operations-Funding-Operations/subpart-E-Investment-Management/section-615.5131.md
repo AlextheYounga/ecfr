@@ -1,7 +1,5 @@
 ##### § 615.5131 Definitions. #####
 
-Link to an amendment published at 85 FR 52253, Aug. 25, 2020.
-
 For purposes of this subpart, the following definitions apply:
 
 *Asset-backed securities (ABS)* mean investment securities that provide for ownership of a fractional undivided interest or collateral interests in specific assets of a trust that are sold and traded in the capital markets. For the purposes of this subpart, ABS exclude mortgage-backed securities that are defined in this section.
@@ -14,7 +12,7 @@ For purposes of this subpart, the following definitions apply:
 
 *Government-sponsored enterprise (GSE)* means an entity established or chartered by the United States Government to serve public purposes specified by the United States Congress but whose debt obligations are not explicitly guaranteed by the full faith and credit of the United States Government.
 
-*Loans* are defined by § 621.2(f) of this chapter and they are calculated quarterly (as of the last day of March, June, September, and December) by using the average daily balance of loans during the quarter.
+*Loans* are defined by § 621.2 of this chapter and they are calculated quarterly (as of the last day of March, June, September, and December) by using the average daily balance of loans during the quarter.
 
 *Market risk* means the risk to the financial condition of your institution because the value of your holdings may decline if interest rates or market prices change. Exposure to market risk is measured by assessing the effect of changing rates and prices on either the earnings or economic value of an individual instrument, a portfolio, or the entire institution.
 
@@ -34,4 +32,4 @@ For purposes of this subpart, the following definitions apply:
 
 *You* means a Farm Credit bank, association, or service corporation.
 
-[64 FR 28895, May 28, 1999, as amended at 70 FR 51589, Aug. 31, 2005; 77 FR 66370, Nov. 5, 2012; 83 FR 27499, June 12, 2018]
+[64 FR 28895, May 28, 1999, as amended at 70 FR 51589, Aug. 31, 2005; 77 FR 66370, Nov. 5, 2012; 83 FR 27499, June 12, 2018; 85 FR 52253, Aug. 25, 2020]

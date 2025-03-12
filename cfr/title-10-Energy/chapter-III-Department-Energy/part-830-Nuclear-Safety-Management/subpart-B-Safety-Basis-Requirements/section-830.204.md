@@ -1,8 +1,8 @@
 ##### § 830.204 Documented safety analysis. #####
 
-(a) The contractor responsible for a hazard category 1, 2, or 3 DOE nuclear facility must obtain approval from DOE for the methodology used to prepare the documented safety analysis for the facility unless the contractor uses a methodology set forth in Table 2 of appendix A to this part.
+(a) The contractor responsible for a Hazard Category 1, 2, or 3 DOE nuclear facility must obtain approval from DOE for the methodology used to prepare the documented safety analysis for the facility unless the contractor uses a methodology set forth in Table 1 of Appendix A to this part.
 
-(b) The documented safety analysis for a hazard category 1, 2, or 3 DOE nuclear facility must, as appropriate for the complexities and hazards associated with the facility:
+(b) The documented safety analysis for a Hazard Category 1, 2, or 3 DOE nuclear facility must, as appropriate for the complexities and hazards associated with the facility:
 
 (1) Describe the facility (including the design of safety structures, systems and components) and the work to be performed;
 
@@ -16,8 +16,8 @@
 
 (6) With respect to a nonreactor nuclear facility with fissionable material in a form and amount sufficient to pose a potential for criticality, define a criticality safety program that:
 
-(i) Ensures that operations with fissionable material remain subcritical under all normal and credible abnormal conditions,
+(i) Ensures that operations with fissionable material remain subcritical under all normal and credible abnormal conditions;
 
-(ii) Identifies applicable nuclear criticality safety standards, and
+(ii) Identifies applicable nuclear criticality safety standards; and
 
 (iii) Describes how the program meets applicable nuclear criticality safety standards.

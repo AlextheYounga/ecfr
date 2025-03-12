@@ -1,0 +1,3 @@
+##### § 313.7 Petition procedures for withdrawal or modification of a guidance document. #####
+
+Any member of the public may submit a petition to the Peace Corps requesting the Agency to consider withdrawing or modifying any guidance document. Such requests shall be sent by email to *policy@peacecorps.gov* or mailed to the Peace Corps, Office of the General Counsel, 1275 First St. NW, Washington, DC 20526. The Peace Corps will respond to a petition within 90 days of receipt by the Agency.

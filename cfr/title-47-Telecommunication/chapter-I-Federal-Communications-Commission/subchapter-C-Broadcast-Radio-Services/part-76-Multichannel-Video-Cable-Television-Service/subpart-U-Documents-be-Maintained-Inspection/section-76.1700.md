@@ -14,7 +14,7 @@
 
 (6) *Availability of signals.* The operator of every cable television system shall maintain a list of all broadcast television stations carried by its system in fulfillment of the must-carry requirements in accordance with § 76.1709;
 
-(7) *Operator interests in video programming.* Cable operators shall maintain records regarding the nature and extent of their attributable interests in all video programming services as well as information regarding their carriage of such vertically integrated video programming services on cable systems in which they have an attributable interests in accordance with § 76.1710;
+(7) [Reserved]
 
 (8) *Sponsorship identification.* Whenever sponsorship announcements are omitted pursuant to § 76.1615(f) of Subpart T, the cable television system operator shall maintain a list in accordance with § 76.1715;
 
@@ -46,4 +46,4 @@
 
 (g) *Reproduction of records.* Copies of any material in the public inspection file that is not also available in the Commission's online file shall be available for machine reproduction upon request made in person, provided the requesting party shall pay the reasonable cost of reproduction. Requests for machine copies shall be fulfilled at a location specified by the system operator, within a reasonable period of time, which in no event shall be longer than seven days. The system operator is not required to honor requests made by mail but may do so if it chooses.
 
-[81 FR 10125, Feb. 29, 2016, as amended at 82 FR 11412, Feb. 23, 2017; 83 FR 13683, Mar. 30, 2018; 84 FR 18409, May 1, 2019; 85 FR 21078, Apr. 16, 2020]
+[81 FR 10125, Feb. 29, 2016, as amended at 82 FR 11412, Feb. 23, 2017; 83 FR 13683, Mar. 30, 2018; 84 FR 18409, May 1, 2019; 85 FR 21078, Apr. 16, 2020; 85 FR 73429, Nov. 18, 2020]

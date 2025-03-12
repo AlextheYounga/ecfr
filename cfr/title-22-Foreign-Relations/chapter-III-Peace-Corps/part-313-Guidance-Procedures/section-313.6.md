@@ -1,0 +1,5 @@
+##### § 313.6 Notice-and-comment procedures. #####
+
+(a) Except as provided in paragraph (b) of this section, any proposed Peace Corps guidance document determined to be “significant” within the meaning of § 313.4 shall be subject to the following notice-and-comment procedures. The Agency shall publish a notification in the Federal Register announcing that a draft of the proposed guidance document is publicly available, shall post the draft guidance document on its website, shall invite public comment on the draft document for a minimum of 30 days, and shall prepare and post a public response to major concerns raised in the comments, as appropriate, on its website, either before or when the guidance document is finalized and issued.
+
+(b) The requirements of paragraph (a) of this section will not apply to any significant guidance document or categories of significant guidance documents for which the Agency finds, in consultation with OMB/OIRA, that notice and public comment thereon are impracticable, unnecessary, or contrary to the public interest.

@@ -8,13 +8,15 @@
 
 (1) *Agreement by the applicant to the delay.* BIS may request applicants to provide additional information in support of their license application, respond to questions arising during processing, or accept proposed conditions or riders on their license application. If BIS has provided the applicant with an intent to deny letter described in § 750.6 of this part, processing times may be suspended in order to negotiate modifications to a license application and obtain agreement to such modifications from the foreign parties to the license application.
 
-(2) *Pre-license checks.* If a pre-license check, to establish the identity and reliability of the recipient of the controlled items, is conducted through government channels, provided that:
+(2) *Pre-license checks.* BIS conducts pre-license checks in order to establish the identity and reliability of the recipient of the items subject to the EAR that require a license, as well as to substantiate representations made on the license application. The results of the pre-license check, including the U.S. government's inability to conduct the pre-license check due to the end user's or host government's actions, will be considered in determining the outcome of a license application. The time required to conduct a pre-license check is not included in license application processing time calculations according to this paragraph, if the pre-license check is:
 
-(i) The need for such a pre-license check is established by the Secretary, or by another agency, if the request for a pre-license check is made by such agency and the request is made in accordance with the following time frames;
+(i) Conducted through government channels, and
+
+(ii) The request for a pre-license check is made by the Secretary or by another agency within the following time frames:
 
 (A) The pre-license check is requested within 5 days of the determination that it is necessary; and
 
-(B) The analysis resulting from the pre-license check is completed within 5 days.
+(B) The analysis resulting from the pre-license check is completed and reported to licensing officials within 5 days.
 
 (3) *Government-to-Government assurances.* Requests for government-to-government assurances of suitable end-use of items approved for export or reexport when failure to obtain such assurances would result in rejection of the license application, provided that:
 
@@ -84,4 +86,4 @@
 
 (3) *Escalation to the Export Administration Review Board (EARB).* The EARB will review all relevant information and recommendations, and such other export control matters as may be appropriate. The Secretary of Commerce will inform the reviewing agencies of the majority vote decision of the EARB within 11 days from the date of receipt of the appeal. Within 5 days of the decision, any agency dissenting from the decision of the EARB may appeal the decision to the President. The appeal must be in writing from the head of the dissenting agency. In the absence of a timely appeal, the decision of the EARB will be final.
 
-[61 FR 12829, Mar. 25, 1996, as amended at 62 FR 25463, May 9, 1997; 69 FR 46079, July 30, 2004; 71 FR 20887, Apr. 24, 2006; 71 FR 51719, Aug. 31, 2006; 72 FR 43532, Aug. 6, 2007; 78 FR 22725, Apr. 16, 2013; 80 FR 43319, July 22, 2015; 82 FR 2881, Jan. 10, 2017]
+[61 FR 12829, Mar. 25, 1996, as amended at 62 FR 25463, May 9, 1997; 69 FR 46079, July 30, 2004; 71 FR 20887, Apr. 24, 2006; 71 FR 51719, Aug. 31, 2006; 72 FR 43532, Aug. 6, 2007; 78 FR 22725, Apr. 16, 2013; 80 FR 43319, July 22, 2015; 82 FR 2881, Jan. 10, 2017; 85 FR 73414, Nov. 18, 2020]
