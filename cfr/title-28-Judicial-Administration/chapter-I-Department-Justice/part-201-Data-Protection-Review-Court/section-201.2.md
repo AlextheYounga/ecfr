@@ -1,0 +1,3 @@
+##### § 201.2 Definitions. #####
+
+The terms “appropriate remediation,” “covered violation,” “element of the Intelligence Community,” “Intelligence Community,” “national security,” and “qualifying complaint” shall have the same meanings as they have in the Executive order of October 7, 2022. The term “qualifying state” means a country or regional economic integration organization designated as a qualifying state by the Attorney General pursuant to section 3(f) of the Executive order of October 7, 2022.

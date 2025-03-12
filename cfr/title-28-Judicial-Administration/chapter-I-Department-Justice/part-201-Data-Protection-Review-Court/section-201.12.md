@@ -1,0 +1,3 @@
+##### § 201.12 Disclaimer. #####
+
+This part governs the ability to obtain review of the ODNI CLPO's determinations by the DPRC in accordance with the redress mechanism established in section 3 of the Executive order of October 7, 2022. This part is not intended to, and does not, create any other entitlement, right, or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person. This part is not intended to, and does not, modify the availability or scope of any judicial review of the decisions rendered through the redress mechanism, which is governed by existing law.

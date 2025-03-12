@@ -1,0 +1,3 @@
+##### § 201.1 Purpose. #####
+
+This part establishes an independent and impartial Data Protection Review Court (DPRC) to consider, in classified proceedings, applications for review of determinations made by the Civil Liberties Protection Officer of the Office of the Director of National Intelligence (ODNI CLPO) in response to qualifying complaints submitted through the redress mechanism established pursuant to section 3 of the Executive order of October 7, 2022, “Enhancing Safeguards for United States Signals Intelligence Activities.”

@@ -1,0 +1,7 @@
+##### § 201.11 Information security and classified national security information. #####
+
+(a) All proceedings before and other activities of the DPRC and all activities of the Special Advocates shall be governed by Executive Order 13526 of December 29, 2009, “Classified National Security Information,” or any successor order, and this part.
+
+(b) Judges may serve on a DPRC panel convened under § 201.7(a), and Special Advocates may be selected to assist a DPRC panel under § 201.8(a), only if they hold the requisite security clearances to access classified national security information. The DPRC and Special Advocates shall have no authority to declassify or grant any person access to any classified or otherwise privileged or protected information, including the information reviewed in or information about the existence or outcome of any proceedings before the DPRC or any information that would tend to reveal whether a complainant was subject to signals intelligence activities.
+
+(c) The Department of Justice Security Officer shall be responsible for establishing security procedures for proceedings before and other activities of the DPRC and the Special Advocate, and for amending those procedures as necessary.

@@ -1,0 +1,9 @@
+##### § 201.7 Convening of panels, conduct of judges, and independence of the DPRC. #####
+
+(a) Upon receipt of an application for review, OPCL shall convene a panel of the DPRC by selecting three judges on a rotating basis, while ensuring if possible that at least one of the judges selected has prior judicial experience.
+
+(b) The three judges on a DPRC panel shall select a presiding judge by unanimous agreement. If agreement is not reached within five (5) days of the convening of the DPRC panel, the presiding judge shall be the judge who was selected first by OPCL who has prior judicial experience; if no judge on the DPRC panel has such experience, the presiding judge shall be the judge selected first by OPCL.
+
+(c) Judges on a DPRC panel shall conduct themselves in accordance with the Code of Conduct for United States Judges, except that a judge may participate in extrajudicial activities, including business activities, financial activities, non-profit fundraising activities, fiduciary activities, and the practice of law, where such extrajudicial activities do not interfere with the impartial performance of the judge's duties or the effectiveness or independence of the DPRC.
+
+(d) A DPRC panel and its judges shall not be subject to the day-to-day supervision of the Attorney General. The Attorney General shall not remove a judge from a DPRC panel, remove a judge from the DPRC prior to the end of the judge's term of appointment under § 201.3(a), or take any other adverse action against a judge arising from service on the DPRC, except for instances of misconduct, malfeasance, breach of security, neglect of duty, or incapacity, after taking due account of the standards in the Rules for Judicial-Conduct and Judicial-Disability Proceedings promulgated by the Judicial Conference of the United States pursuant to the Judicial Conduct and Disability Act (28 U.S.C. 351 *et seq.*).

@@ -1,0 +1,9 @@
+##### § 201.3 Appointment of judges and rules of procedure. #####
+
+(a) The Attorney General shall, in consultation with the Secretary of Commerce, the Director of National Intelligence, and the Privacy and Civil Liberties Oversight Board (PCLOB), appoint not fewer than six individuals to serve as judges on the DPRC for four-year renewable terms, choosing individuals who at the time of their initial appointment have not been employees of the executive branch in the previous two years.
+
+(b) The Attorney General's appointments shall be informed by the criteria used by the executive branch in assessing candidates for the Federal judiciary, giving weight to any prior judicial experience, and shall be of individuals with appropriate experience in the fields of data privacy and national security law. The Attorney General shall endeavor to ensure that at least half of the judges at any given time have prior judicial experience, and all persons appointed as judges shall be active members in good standing of the bar of a State, Commonwealth, Territory, or Possession, or of the District of Columbia and shall be duly licensed to practice law.
+
+(c) During their term of appointment as judges on the DPRC, such judges shall not have any official duties or employment within the United States Government other than their official duties and employment as judges on the DPRC.
+
+(d) The DPRC shall review and adopt by majority vote rules of procedure consistent with the Executive order of October 7, 2022 and this part, which thereafter shall be made publicly available and applied by each DPRC panel convened under § 201.7(a). The rules of procedure may thereafter be amended at such times and in such ways as a majority of the judges may deem necessary and appropriate to accomplish the work of the DPRC. A quorum of six judges shall be required for the initial adoption of and any amendments to the rules of procedure.
