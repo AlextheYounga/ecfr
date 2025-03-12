@@ -1,0 +1,9 @@
+##### § 301.50-6 Compliance agreements and cancellation. #####
+
+(a) Any person engaged in growing, handling, or moving regulated articles may enter into a compliance agreement when an inspector determines that the person understands this subpart.6
+
+6 Compliance agreement forms are available without charge from the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Domestic and Emergency Operations, 4700 River Road Unit 134, Riverdale, Maryland 20737-1236.
+
+(b) Any compliance agreement may be canceled orally or in writing by an inspector whenever the inspector finds that the person who has entered into the compliance agreement has failed to comply with this subpart. If the cancellation is oral, the cancellation and the reasons for the cancellation shall be confirmed in writing as promptly as circumstances allow. Any person whose compliance agreement has been canceled may appeal the decision, in writing, within 10 days after receiving written notification of the cancellation. The appeal must state all of the facts and reasons upon which the person relies to show that the compliance agreement was wrongfully canceled. As promptly as circumstances allow, the Administrator will grant or deny the appeal, in writing, stating the reasons for the decision. A hearing will be held to resolve any conflict as to any material fact. Rules of practice concerning such a hearing will be adopted by the Administrator.
+
+(Approved by the Office of Management and Budget under control number 0579-0088)[57 FR 54496, Nov. 19, 1992, as amended at 58 FR 34683, June 29, 1993; 59 FR 67608, Dec. 30, 1994]

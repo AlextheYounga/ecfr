@@ -1,0 +1,7 @@
+##### § 301.48 Notice of quarantine; quarantine restrictions on interstate movement of regulated articles. #####
+
+(a) Pursuant to the provisions of sections 411, 412, 414, 431, and 434 of the Plant Protection Act (7 U.S.C. 7711, 7712, 7714, 7751, and 7754), the Secretary of Agriculture heretofore determined after public hearing to quarantine the States of Alabama, Arkansas, Connecticut, Delaware, Georgia, Illinois, Indiana, Iowa, Kentucky, Maine, Maryland, Massachusetts, Michigan, Minnesota, Missouri, New Hampshire, New Jersey, New York, North Carolina, Ohio, Pennsylvania, Rhode Island, South Carolina, Tennessee, Vermont, Virginia, West Virginia, Wisconsin, and the District of Columbia in order to prevent the spread of the Japanese beetle, a dangerous insect injurious to cultivated crops and not theretofore widely prevalent or distributed within or throughout the United States.
+
+(b) No person shall move any regulated article interstate from any regulated airport destined to any of the following States except in accordance with the conditions prescribed in this subpart: Arizona, California, Colorado, Idaho, Montana, Nevada, Oregon, Utah, and Washington.
+
+[44 FR 24035, Apr. 24, 1979, as amended at 61 FR 32640, June 25, 1996; 66 FR 21050, Apr. 27, 2001; 68 FR 43614, July 24, 2003; 69 FR 40534, July 6, 2004; 71 FR 35493, June 21, 2006]

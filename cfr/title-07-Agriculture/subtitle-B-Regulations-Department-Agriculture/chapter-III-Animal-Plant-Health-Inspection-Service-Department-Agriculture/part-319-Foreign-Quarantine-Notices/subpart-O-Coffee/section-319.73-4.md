@@ -1,0 +1,3 @@
+##### § 319.73-4 Costs. #####
+
+All costs of inspection, packing materials, handling, cleaning, safeguarding, treating, or other disposal of products or articles under this subpart will be borne by the owner, importer, or agent of the owner or importer, including a broker. The services of an inspector during regularly assigned hours of duty and at the usual places of duty will be furnished without cost to the importer.

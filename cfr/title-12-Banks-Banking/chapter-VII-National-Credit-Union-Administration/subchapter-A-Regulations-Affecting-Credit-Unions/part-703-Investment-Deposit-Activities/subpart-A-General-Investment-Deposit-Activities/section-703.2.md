@@ -4,7 +4,7 @@
 
 *Adjusted trading* means selling an investment to a counterparty at a price above its current fair value and simultaneously purchasing or committing to purchase from the counterparty another investment at a price above its current fair value.
 
-*Associated personnel* means a person engaged in the investment banking or securities business who is directly or indirectly controlled by a National Association of Securities Dealers (NASD) member, whether or not this person is registered or exempt from registration with NASD. Associated personnel includes every sole proprietor, partner, officer, director, or branch manager of any NASD member.
+*Associated personnel* means a person engaged in the investment banking or securities business who is directly or indirectly controlled by a Financial Industry Regulatory Authority (FINRA) member, whether or not this person is registered or exempt from registration with FINRA. Associated personnel includes every sole proprietor, partner, officer, director, or branch manager of any FINRA member.
 
 *Banker's acceptance* means a time draft that is drawn on and accepted by a bank and that represents an irrevocable obligation of the bank.
 
@@ -102,4 +102,4 @@
 
 *Zero coupon investment* means an investment that makes no periodic interest payments but instead is sold at a discount from its face value. The holder of a zero coupon investment realizes the rate of return through the gradual appreciation of the investment, which is redeemed at face value on a specified maturity date.
 
-[68 FR 32960, June 3, 2003, as amended at 69 FR 39831, July 1, 2004; 71 FR 76124, Dec. 20, 2006; 77 FR 74109, Dec. 13, 2012; 79 FR 5241, Jan. 31, 2014]
+[68 FR 32960, June 3, 2003, as amended at 69 FR 39831, July 1, 2004; 71 FR 76124, Dec. 20, 2006; 77 FR 74109, Dec. 13, 2012; 79 FR 5241, Jan. 31, 2014; 84 FR 1606, Feb. 5, 2019]

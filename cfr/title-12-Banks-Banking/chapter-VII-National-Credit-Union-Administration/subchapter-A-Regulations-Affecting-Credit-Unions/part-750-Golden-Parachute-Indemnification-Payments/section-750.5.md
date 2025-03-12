@@ -1,8 +1,8 @@
 ##### § 750.5 Permissible indemnification payments. #####
 
-(a) A Federally insured credit union may make or agree to make reasonable indemnification payments to an IAP, including advanced funds to pay or reimburse reasonable legal fees or other professional expenses incurred by an IAP in an administrative proceeding or civil action initiated by NCUA or a state regulatory authority if:
+(a) A federally insured credit union may make or agree to make reasonable indemnification payments to an IAP, including advanced funds to pay or reimburse reasonable legal fees or other professional expenses incurred by an IAP in an administrative proceeding or civil action initiated by NCUA or a state regulatory authority if:
 
-(1) The Federally insured credit union's board of directors, in good faith, determines in writing after due investigation and consideration that:
+(1) The federally insured credit union's board of directors, in good faith, determines in writing after due investigation and consideration that:
 
 (i) The IAP acted in good faith and in a manner he or she believed to be consistent with his or her fiduciary duty;
 
@@ -14,7 +14,7 @@
 
 (i) A written affirmation of his or her reasonable good faith belief that he or she acted in a manner believed to be consistent with his or her fiduciary duty; and
 
-(ii) An agreement in writing to reimburse the Federally insured credit union, to the extent not covered by payments from insurance or bonds purchased pursuant to § 750.1(j)(2)(i), for that portion of any advanced indemnification payments which ultimately become prohibited indemnification payments as defined in § 750.1(j); and
+(ii) An agreement in writing to reimburse the federally insured credit union, to the extent not covered by payments from insurance or bonds purchased pursuant to § 750.1(j)(2)(i), for that portion of any advanced indemnification payments which ultimately become prohibited indemnification payments as defined in § 750.1(j); and
 
 (3) The indemnification payments do not ultimately constitute prohibited indemnification payments as defined in§ 750.1(j).
 

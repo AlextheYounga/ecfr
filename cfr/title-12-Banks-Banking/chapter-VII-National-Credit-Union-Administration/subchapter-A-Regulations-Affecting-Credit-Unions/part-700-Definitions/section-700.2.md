@@ -4,13 +4,15 @@ Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was 
 
 As used in this chapter:
 
-*Act* means the Federal Credit Union Act (73 Stat. 628, 84 Stat. 944, 12 U.S.C. 1751 through 1790).
+*Act* means the Federal Credit Union Act (12 U.S.C. 1751, *et seq.*).
 
 *Administration* means the National Credit Union Administration.
 
-*Board* means the Board of the National Credit Union Administration.
+*Board* or *NCUA Board* refer to the Board of the National Credit Union Administration.
 
-*Credit Union* means a credit union chartered under the Federal Credit Union Act or, as the context permits, under the laws of any State.
+*Credit union* means a nonprofit financial cooperative chartered under the Federal Credit Union Act or under the laws of any State, the District of Columbia, the several territories and possessions of the United States, or the Commonwealth of Puerto Rico, which laws provide for the organization of financial cooperatives similar in principle and objectives to cooperatives chartered under the Federal Credit Union Act.
+
+*Federally insured credit union* means any credit union whose member accounts are insured by NCUA according to the provisions of Title II of the Federal Credit Union Act (12 U.S.C. 1782 *et seq.*).
 
 *Insolvency.* (1) A credit union will be determined to be insolvent when the total amount of its shares exceeds the present cash value of its assets after providing for liabilities unless:
 
@@ -28,13 +30,17 @@ As used in this chapter:
 
 (ii) *Liabilities.* Recorded liabilities which are due and payable, excluding shares of members and non-members, are considered liabilities.
 
+*NCUA* refers to the National Credit Union Administration.
+
 *Net worth.* Unless otherwise noted, the term “net worth,” as applied to credit unions, has the same meaning as set forth in § 702.2(f) of this chapter.
 
-*Paid-in and unimpaired capital and surplus* means shares plus post-closing, undivided earnings. This does not include regular reserves or special reserves required by law, regulation or special agreement between the credit union and its regulator or share insurer. “Paid-in and unimpaired capital and surplus” for purposes of the Central Liquidity Facility is defined in § 725.2(o) of this chapter.
+*Noninsured credit union* means a credit union chartered under the laws of any State, the District of Columbia, the several territories and possessions of the United States, the Panama Canal Zone, or the Commonwealth of Puerto Rico, whose member accounts are not insured by NCUA.
 
-*Regional Director* means the representative of the Administration in the designated geographical area in which the office of the federal credit union is located or, for federal credit unions with $10 billion or more in assets, the Director of the Office of National Examinations and Supervision.
+*Paid-in and unimpaired capital and surplus* or *unimpaired capital and surplus* mean shares plus post-closing, undivided earnings. This does not include regular reserves or special reserves required by law, regulation or special agreement between the credit union and its regulator or share insurer. “Paid-in and unimpaired capital and surplus” for purposes of the Central Liquidity Facility is defined in § 725.2(o) of this chapter.
 
-*Regional Office* means the office of the Administration located in the designated geographical areas in which the office of the federal credit union is located or, for federal credit unions with $10 billion or more in assets, the Office of National Examinations and Supervision.
+*Regional Director* means the representative of NCUA in the designated geographical area in which the office of the federally insured credit union is located or, for federally insured credit unions with $10 billion or more in assets, the Director of the Office of National Examinations and Supervision.
+
+*Regional Office* means the office of NCUA located in the designated geographical areas in which the office of the federally insured credit union is located or, for federally insured credit unions with $10 billion or more in assets, the Office of National Examinations and Supervision.
 
 *State* means a state of the United States, the District of Columbia, any of the several territories and possessions of the United States, and the Commonwealth of Puerto Rico.
 
@@ -56,4 +62,4 @@ As used in this chapter:
 
 *Unimpaired capital and surplus* means the same as “paid-in and unimpaired capital and surplus,” as defined in paragraph (f) of this section.
 
-[36 FR 23794, Dec. 15, 1971; 37 FR 329, Jan. 11, 1972, as amended at 37 FR 10342, May 20, 1972; 45 FR 47121, July 14, 1980; 54 FR 48234, Nov. 22, 1989; 54 FR 52015, Dec. 20, 1989; 55 FR 1794, Jan. 19, 1990; 57 FR 47985, Oct. 21, 1992; 58 FR 40042, July 27, 1993; 65 FR 44966, July 20, 2000. Redesignated and amended at 66 FR 65624, Dec. 20, 2001; 73 FR 30477, May 28, 2008; 76 FR 60366, Sept. 29, 2011; 78 FR 4029, Jan. 18, 2013; 78 FR 32544, May 31, 2013; 78 FR 77564, Dec. 26, 2013]
+[36 FR 23794, Dec. 15, 1971; 37 FR 329, Jan. 11, 1972, as amended at 37 FR 10342, May 20, 1972; 45 FR 47121, July 14, 1980; 54 FR 48234, Nov. 22, 1989; 54 FR 52015, Dec. 20, 1989; 55 FR 1794, Jan. 19, 1990; 57 FR 47985, Oct. 21, 1992; 58 FR 40042, July 27, 1993; 65 FR 44966, July 20, 2000. Redesignated and amended at 66 FR 65624, Dec. 20, 2001; 73 FR 30477, May 28, 2008; 76 FR 60366, Sept. 29, 2011; 78 FR 4029, Jan. 18, 2013; 78 FR 32544, May 31, 2013; 78 FR 77564, Dec. 26, 2013; 84 FR 1604, Feb. 5, 2019]

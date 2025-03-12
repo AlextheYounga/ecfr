@@ -34,4 +34,4 @@ Link to an amendment published at 80 FR 66722, Oct. 29, 2015.This amendment was 
 
 (iii) Analyze the impact of credit risk and interest rate risk to capital under unfavorable economic conditions, both separately and in combination with each other.
 
-[79 FR 24315, Apr. 30, 2014, as amended at 80 FR 48012, Aug. 11, 2015; 81 FR 7198, Feb. 11, 2016; 83 FR 17910, Apr. 25, 2018]
+[79 FR 24315, Apr. 30, 2014, as amended at 80 FR 48012, Aug. 11, 2015; 81 FR 7198, Feb. 11, 2016; 83 FR 17910, Apr. 25, 2018]Editorial Note:At 84 FR 1606, Feb. 5, 2019, § 702.504 was amended in paragraph (b)(4) by revising the citation “§ 702.306(c)” to read “§ 702.506(c)”; however, that citation did not exist in the section and the amendment could not be incorporated due to inaccurate amendatory instruction.

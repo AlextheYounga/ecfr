@@ -1,0 +1,13 @@
+##### § 318.47-3 Conditions governing the issuance of certificates and permits. #####
+
+(a) *Fumigated lint; linters; waste; seed cotton; cottonseed; cottonseed hulls, cake, and meal; and bale covers.* Lint; linters; waste; seed cotton; cottonseed; cottonseed hulls, cake, and meal; and bale covers, fumigated in the Territory or District of origin in accordance with part 305 of this chapter and so certified, are allowed unrestricted movement to any port.
+
+(b) *Unfumigated lint, linters, waste, and bale covers.* (1) Unfumigated Hawaiian, Puerto Rican, or Virgin Islands of the United States lint, linters, waste other than seedy waste, and bale covers will be allowed to move under permit, by all-water route, for entry only at the ports of Norfolk, Baltimore, New York, Boston, San Francisco, and Seattle, or other port of arrival designated in the permit, and at such designated port of arrival shall become subject to the regulations governing the handling of cotton imported from foreign countries.
+
+(2) Fumigation may be waived and certificates issued for lint, linters, and waste which have been determined by an inspector of the Plant Protection and Quarantine Programs to have been so manufactured or processed by bleaching, dyeing, or other means, as to have removed all seeds, or to have destroyed all insect life therein.
+
+(c) *Cottonseed cake and meal.* (1) Cottonseed cake and meal which have been inspected in the Territory or District of origin and certified by an inspector of the Plant Protection and Quarantine Programs as being free from contamination with whole, uncrushed cottonseed, will be allowed unrestricted movement to any port.
+
+(2) Hawaiian, Puerto Rican, and Virgin Islands of the United States cottonseed cake and meal, when neither fumigated nor inspected in accordance with the provisions of this section, will be allowed entry under permit through any port at which the services of an inspector are available, subject to examination by an inspector for freedom from contamination with uncrushed cottonseed. If found to be free from such contamination, the cottonseed cake or meal may be released from further entry restrictions. Cottonseed cake or meal found to be contaminated shall be refused entry or subjected as a condition of entry and release to such safeguards as may be prescribed by the inspector from such administratively approved methods as will, in his judgment, be necessary to eliminate infestations of the pink bollworm or cotton blister mite.
+
+[24 FR 10777, Dec. 29, 1959, as amended at 75 FR 4251, Jan. 26, 2010]

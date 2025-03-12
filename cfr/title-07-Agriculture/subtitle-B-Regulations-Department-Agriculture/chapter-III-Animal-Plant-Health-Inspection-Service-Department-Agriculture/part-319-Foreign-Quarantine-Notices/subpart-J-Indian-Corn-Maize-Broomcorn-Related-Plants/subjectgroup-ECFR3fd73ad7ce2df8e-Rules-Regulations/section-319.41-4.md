@@ -1,0 +1,5 @@
+##### § 319.41-4 Notice of arrival by permittee. #####
+
+Immediately upon arrival of the importation at the port of arrival the permittee shall submit, in duplicate, notice to the Plant Protection and Quarantine Programs, through the U.S. Collector of Customs, or, in the case of Guam, through the Customs officer of the Government of Guam, on forms provided for that purpose, stating the number of the permit, the date of entry, the name of ship or vessel, railroad, or other carrier, the country and locality where the articles were grown, the name of the foreign shipper, the quantity or number of bales or containers, and the marks and numbers on the bales or containers, the port of arrival, and the name of the importer or broker at the port of arrival.
+
+(Approved by the Office of Management and Budget under control number 0579-0049)[24 FR 10788, Dec. 29, 1959, as amended at 48 FR 57466, Dec. 30, 1983]

@@ -24,7 +24,7 @@
 
 (9) Exercise such other authority as is conferred by the Federal Credit Union Act; and
 
-(10) Where acting as liquidating agent for a state-chartered federally insured credit union, exercise all the rights, powers, and privileges granted by state law to such a liquidating agent.
+(10) Where acting as liquidating agent for a federally insured state-chartered credit union, exercise all the rights, powers, and privileges granted by state law to such a liquidating agent.
 
 (d) *Expenditure of funds of the liquidation.* The liquidating agent shall have power to:
 
@@ -46,4 +46,4 @@
 
 (2) Surrender, abandon, and release any chose in action, or other assets or property of any nature, whether the subject of pending litigation or not, and settle, compromise, modify, or release, for cash or other consideration, claims and demands in favor of the credit union or the liquidating agent.
 
-[56 FR 56925, Nov. 7, 1991, as amended at 75 FR 34621, June 18, 2010]
+[56 FR 56925, Nov. 7, 1991, as amended at 75 FR 34621, June 18, 2010; 84 FR 1607, Feb. 5, 2019]

@@ -872,18 +872,18 @@ Modified Spectrum General Service Incandescent Lamps
 
 Table 1 - Energy Conservation Standards for Covered Residential Furnace Fans\*
 
-|                             Product class                             |  FER \*\* (Watts/cfm)  |
-|-----------------------------------------------------------------------|------------------------|
-|       Non-Weatherized, Non-Condensing Gas Furnace Fan (NWG-NC)        |FER = 0.044 × QMax + 182|
-|          Non-Weatherized, Condensing Gas Furnace Fan (NWG-C)          |FER = 0.044 × QMax + 195|
-|          Weatherized Non-Condensing Gas Furnace Fan (WG-NC)           |FER = 0.044 × QMax + 199|
-|       Non-Weatherized, Non-Condensing Oil Furnace Fan (NWO-NC)        |FER = 0.071 × QMax + 382|
-|    Non-Weatherized Electric Furnace/Modular Blower Fan (NWEF/NWMB)    |FER = 0.044 × QMax + 165|
-|Mobile Home Non-Weatherized, Non-Condensing Gas Furnace Fan (MH-NWG-NC)|FER = 0.071 × QMax + 222|
-|  Mobile Home Non-Weatherized, Condensing Gas Furnace Fan (MH-NWG-C)   |FER = 0.071 × QMax + 240|
-|      Mobile Home Electric Furnace/Modular Blower Fan (MH-EF/MB)       |FER = 0.044 × QMax + 101|
-|         Mobile Home Non-Weatherized Oil Furnace Fan (MH-NWO)          |        Reserved        |
-|         Mobile Home Weatherized Gas Furnace Fan (MH-WG) \*\*          |        Reserved        |
+|                             Product class                             |FER \*\* (Watts/1000 cfm)|
+|-----------------------------------------------------------------------|-------------------------|
+|       Non-Weatherized, Non-Condensing Gas Furnace Fan (NWG-NC)        |FER = 0.044 × QMax + 182 |
+|          Non-Weatherized, Condensing Gas Furnace Fan (NWG-C)          |FER = 0.044 × QMax + 195 |
+|          Weatherized Non-Condensing Gas Furnace Fan (WG-NC)           |FER = 0.044 × QMax + 199 |
+|       Non-Weatherized, Non-Condensing Oil Furnace Fan (NWO-NC)        |FER = 0.071 × QMax + 382 |
+|    Non-Weatherized Electric Furnace/Modular Blower Fan (NWEF/NWMB)    |FER = 0.044 × QMax + 165 |
+|Mobile Home Non-Weatherized, Non-Condensing Gas Furnace Fan (MH-NWG-NC)|FER = 0.071 × QMax + 222 |
+|  Mobile Home Non-Weatherized, Condensing Gas Furnace Fan (MH-NWG-C)   |FER = 0.071 × QMax + 240 |
+|      Mobile Home Electric Furnace/Modular Blower Fan (MH-EF/MB)       |FER = 0.044 × QMax + 101 |
+|         Mobile Home Non-Weatherized Oil Furnace Fan (MH-NWO)          |        Reserved         |
+|         Mobile Home Weatherized Gas Furnace Fan (MH-WG) \*\*          |        Reserved         |
 
 \* Furnace fans incorporated into hydronic air handlers, SDHV modular blowers, SDHV electric furnaces, and CAC/HP indoor units are not subject to the standards listed in this table.
 

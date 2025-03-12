@@ -1,0 +1,3 @@
+##### § 318.13-15 Parcel post inspection. #####
+
+Inspectors are authorized to inspect, with the cooperation of the U.S. Postal Service, parcel post packages placed in the mails in Hawaii, Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, or the U.S. Virgin Islands to determine whether such packages contain products whose movement is not authorized under this subpart, to examine any such products that are found for insect infestation, and to notify the postmaster in writing of any violations of this subpart that are found as a result of an inspection.

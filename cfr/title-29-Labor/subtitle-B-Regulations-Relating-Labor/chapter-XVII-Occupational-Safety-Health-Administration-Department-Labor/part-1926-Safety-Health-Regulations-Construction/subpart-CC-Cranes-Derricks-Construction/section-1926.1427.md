@@ -1,7 +1,5 @@
 ##### § 1926.1427 Operator training, certification, and evaluation. #####
 
-Link to an amendment published at 83 FR 56244, Nov. 9, 2018.
-
 (a) *General requirements for operators.* The employer must ensure that each operator is trained, certified/licensed, and evaluated in accordance with this section before operating any equipment covered under subpart CC, except for the equipment listed in paragraph (a)(2) of this section.
 
 (1) *Operation during training.* An employee who has not been certified/licensed and evaluated to operate assigned equipment in accordance with this section may only operate the equipment as an operator-in-training under supervision in accordance with the requirements of paragraph (b) of this section.
@@ -206,4 +204,4 @@ Link to an amendment published at 83 FR 56244, Nov. 9, 2018.
 
 (2) The evaluation and documentation requirements in paragraphs (a) and (f) are effective on February 7, 2019.
 
-[83 FR 56244, Nov. 9, 2018]Effective Date Note:At 83 FR 56244, Nov. 9, 2018, § 1926.1427 was revised. Paragraphs (a) and (f) are not effective until Feb. 7, 2019.
+[83 FR 56244, Nov. 9, 2018]

@@ -1,6 +1,6 @@
 ##### § 702.203 Prompt corrective action for “significantly undercapitalized” credit unions. #####
 
-(a) *Mandatory supervisory actions by credit union.* A federally-insured credit union which is “significantly undercapitalized” must -
+(a) *Mandatory supervisory actions by credit union.* A federally insured credit union which is “significantly undercapitalized” must -
 
 (1) *Earnings retention.* Increase net worth and transfer earnings to its regular reserve account in accordance with § 702.201;
 

@@ -12,12 +12,12 @@
 
 (1) Purchases of student loans or real estate secured loans to facilitate the packaging of a pool of loans to be sold or pledged on the secondary market under § 701.23(b)(1)(iii) or (iv) of this chapter or comparable state law for state-chartered credit unions, or purchases of member loans under § 701.23(b)(1)(i) of this chapter or comparable state law for state-chartered credit unions;
 
-(2) Assumption of deposits, shares or liabilities as rollovers or transfers of member retirement accounts or in which a federally-insured credit union perfects a security interest in connection with an extension of credit to any member.
+(2) Assumption of deposits, shares or liabilities as rollovers or transfers of member retirement accounts or in which a federally insured credit union perfects a security interest in connection with an extension of credit to any member.
 
 (3) Purchases of assets, including loans, or assumptions of deposits, shares, or liabilities by any credit union insured by the NCUSIF from another credit union insured by the NCUSIF, except a purchase or assumption as a part of a merger under part 708b; or
 
 (4) Purchases of loan participations as defined in and meeting the requirements of § 701.22 of this chapter.
 
-(c) A credit union seeking approval under paragraph (a) of this section must submit a letter to the regional office with jurisdiction for the state where the credit union is headquartered. A corporate credit union seeking approval under paragraph (a) of this section must submit a letter to the Office of National Examinations and Supervision. The letter must request approval and state the nature of the transaction and include copies of relevant transaction documents. The NCUA will make a decision to approve or disapprove the request as soon as possible depending on the complexity of the proposed transaction. Credit unions should submit a request for approval in sufficient time to close the transaction.
+(c) A credit union seeking approval under paragraph (a) of this section must submit a request for approval to the appropriate regional director. The request must state the nature of the transaction and include copies of all relevant transaction documents. The regional director will approve or disapprove the request as soon as possible depending on the complexity of the proposed transaction. Credit unions should submit a request for approval in sufficient time to close the transaction.
 
-[70 FR 75725, Dec. 21, 2005, as amended at 75 FR 34622, June 18, 2010; 78 FR 32545, May 31, 2013; 78 FR 37958, June 25, 2013]
+[70 FR 75725, Dec. 21, 2005, as amended at 75 FR 34622, June 18, 2010; 78 FR 32545, May 31, 2013; 78 FR 37958, June 25, 2013; 84 FR 1608, Feb. 5, 2019]

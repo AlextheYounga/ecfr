@@ -1,6 +1,6 @@
 ##### § 701.6 Fees paid by Federal credit unions. #####
 
-(a) *Basis for assessment.* Each calendar year or as otherwise directed by the Board, each Federal credit union shall pay to the Administration for the current National Credit Union Administration fiscal year (January 1 to December 31) an operating fee in accordance with a schedule as fixed from time to time by the National Credit Union Administration Board based on the total assets of each Federal credit union as of December 31 of the preceding year or as otherwise determined pursuant to paragraph (b) of this section. The operating fee is determined based on total assets less the assets created on the books of a natural person Federal credit union by investments made in a corporate credit union under the Credit Union System Investment Program or the Credit Union Homeowners Affordability Relief Program.
+(a) *Basis for assessment.* Each calendar year, or as otherwise directed by the NCUA Board, each federal credit union shall pay an operating fee to NCUA for the current fiscal year (January 1 to December 31) in accordance with a schedule fixed by the Board from time to time. The operating fee shall be based on the total assets of each federal credit union (less the assets created on the books of natural person federal credit unions by investments made in a corporate credit union under the Credit Union System Investment Program or the Credit Union Homeowners Affordability Relief Program) as of December 31 of the preceding year or as otherwise determined pursuant to paragraph (b) of this section.
 
 (b) *Coverage.* The operating fee shall be paid by each Federal credit union engaged in operations as of January 1 of each calendar year, except as otherwise provided by this paragraph.
 
@@ -24,4 +24,4 @@
 
 (4) If a credit union makes a combined payment of its operating fee and its share insurance deposit as provided in § 741.4 of this chapter and such payment is delinquent, only one administrative fee will be charged and interest will be charged on the total combined payment.
 
-[44 FR 27380, May 10, 1979, as amended at 50 FR 20745, May 20, 1985; 55 FR 1799, Jan. 19, 1990; 59 FR 33421, June 29, 1994; 60 FR 58503, Nov. 28, 1995; 74 FR 29936, June 24, 2009]
+[44 FR 27380, May 10, 1979, as amended at 50 FR 20745, May 20, 1985; 55 FR 1799, Jan. 19, 1990; 59 FR 33421, June 29, 1994; 60 FR 58503, Nov. 28, 1995; 74 FR 29936, June 24, 2009; 84 FR 1604, Feb. 5, 2019]

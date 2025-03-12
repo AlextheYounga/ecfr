@@ -1,6 +1,6 @@
 ##### § 709.11 Prepayment fees to Federal Home Loan Bank. #####
 
-The Board as conservator or liquidating agent of a federally-insured credit union in receipt of any extension of credit from a Federal Home Loan Bank will allow a claim for a prepayment fee by the Bank if:
+The Board as conservator or liquidating agent of a federally insured credit union in receipt of any extension of credit from a Federal Home Loan Bank will allow a claim for a prepayment fee by the Bank if:
 
 (a) The claim is made pursuant to a written contract that provides for a prepayment fee but the prepayment fee allowed by the Board will not exceed the present value of the loss attributable to the difference between the contract rate of the secured borrowing and the reinvestment rate then available to the Bank; and
 

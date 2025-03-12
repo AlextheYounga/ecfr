@@ -1,0 +1,5 @@
+##### § 319.8-6 Cottonseed cake and cottonseed meal. #####
+
+Entry of cottonseed cake and cottonseed meal will be authorized through any port at which the services of an inspector are available, subject to examination by an inspector for freedom from contamination. If found to be free of contamination, importations of such cottonseed cake and cottonseed meal will be released from further plant quarantine entry restrictions. If found to be contaminated such importations will be refused entry or subjected as a condition of entry to such safeguards as the inspector may prescribe, according to a method selected by the inspector from administratively authorized procedures known to be effective under the conditions under which the safeguards are applied.
+
+[24 FR 10788, Dec. 29, 1959, as amended at 70 FR 33324, June 7, 2005]

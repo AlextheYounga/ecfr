@@ -1,0 +1,5 @@
+##### § 319.8-26 Material refused entry. #####
+
+Any material refused entry for noncompliance with the requirements of this subpart shall be promptly removed from the United States or abandoned by the importer for destruction, and pending such action shall be subject to the immediate application of such safeguards against escape of plant pests as the inspector may prescribe. If such material is not promptly safeguarded by the importer, removed from the United States, or abandoned for destruction to the satisfaction of the inspector it may be seized, destroyed, or otherwise disposed of in accordance with sections 414 and 421 of the Plant Protection Act (7 U.S.C. 7714 and 7731). Neither the Department of Agriculture nor the inspector will be responsible for any costs accruing for demurrage, shipping charges, cartage, labor, chemicals, or other expenses incidental to the safeguarding or disposal of material refused entry by the inspector, nor will the Department of Agriculture or the inspector assume responsibility for the value of material destroyed.
+
+[24 FR 10788, Dec. 29, 1959, as amended at 66 FR 21055, Apr. 27, 2001]

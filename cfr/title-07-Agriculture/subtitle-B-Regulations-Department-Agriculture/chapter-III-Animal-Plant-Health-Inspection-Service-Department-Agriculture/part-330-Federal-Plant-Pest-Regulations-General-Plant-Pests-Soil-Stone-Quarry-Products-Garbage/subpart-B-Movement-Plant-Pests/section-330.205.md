@@ -1,0 +1,5 @@
+##### § 330.205 Disposal of plant pests when permits are canceled. #####
+
+When an outstanding permit for the movement of a plant pest is canceled by the Deputy Administrator and not reinstated under § 330.204(c), the further movement of the plant pest covered thereby into or through the United States, or interstate, is prohibited by the Plant Protection Act unless authorized in another permit. The permittee should arrange for disposal of the plant pest involved in a manner satisfactory to the Deputy Administrator to prevent plant pest dissemination. The Deputy Administrator may, whenever he deems it necessary as an emergency measure in order to prevent the dissemination of any plant pest new to or not theretofore known to be widely prevalent or distributed within and throughout the United States, seize, quarantine, treat, apply other remedial measures to, destroy, or otherwise dispose of, in such manner as he deems appropriate, any plant pest which is moving without compliance with any conditions in the permit or the provisions of this part or after the permit has been canceled.
+
+[24 FR 10825, Dec. 29, 1959, as amended at 66 FR 21058, Apr. 27, 2001]

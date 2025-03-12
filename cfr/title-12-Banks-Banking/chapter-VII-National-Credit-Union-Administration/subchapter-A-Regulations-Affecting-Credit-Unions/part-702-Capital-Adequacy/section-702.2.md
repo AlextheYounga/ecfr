@@ -8,7 +8,7 @@ Except as provided below, the terms used in this part have the same meanings as 
 
 (b) *Appropriate State official* means the commission, board or other supervisory authority having jurisdiction over credit unions chartered by the State which chartered the affected credit union.
 
-(c) *Credit union* means a federally-insured, natural person credit union, whether federally- or State-chartered, as defined by 12 U.S.C. 1752(6).
+(c) *Credit union* means a federally insured, natural person credit union, whether federally- or State-chartered, as defined by 12 U.S.C. 1752(6).
 
 (d) *CUSO* means a credit union service organization as described in 12 CFR 712 *et seq.* for federally-chartered credit unions, and as defined under State law for State-chartered credit unions.
 
@@ -38,7 +38,7 @@ Except as provided below, the terms used in this part have the same meanings as 
 
 (g) *Net worth ratio* means the ratio of the net worth of the credit union (as defined in paragraph (f) of this section) to the total assets of the credit union (as defined by a measure chosen under paragraph (j) of this section).
 
-(h) *New credit union* means a federally-insured credit union which both has been in operation for less than ten (10) years and has $10,000,000 or less in total assets.
+(h) *New credit union* means a federally insured credit union which both has been in operation for less than ten (10) years and has $10,000,000 or less in total assets.
 
 (i) *Senior executive officer* means a senior executive officer as defined by 12 CFR 701.14(b)(2).
 

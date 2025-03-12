@@ -1,0 +1,9 @@
+##### § 318.13-9 Inspection and disinfection of means of conveyance. #####
+
+(a) *Inspection of aircraft prior to departure.* No person shall move any aircraft from Hawaii, Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, or the U.S. Virgin Islands to any other State unless the person moving the aircraft has contacted an inspector and offered the inspector the opportunity to inspect the aircraft prior to departure and the inspector has informed the person proposing to move the aircraft that the aircraft may depart.
+
+(b) *Inspection of aircraft moving to Guam.* Any person who has moved an aircraft from Hawaii, Puerto Rico, the Commonwealth of the Northern Mariana Islands, or the U.S. Virgin Islands to Guam shall contact an inspector and offer the inspector the opportunity to inspect the aircraft upon the aircraft's arrival in Guam.
+
+(c) *Inspection of ships upon arrival.* Any person who has moved a ship or other oceangoing craft from Hawaii, Puerto Rico, Guam, the Commonwealth of the Northern Mariana Islands, or the U.S. Virgin Islands to any other State shall contact an inspector and offer the inspector the opportunity to inspect the ship or other oceangoing craft upon its arrival.
+
+(d) *Disinfection of means of conveyance.* If an inspector finds that a means of conveyance is infested with or contains plant pests, and the inspector orders disinfection of the means of conveyance, then the person in charge or in possession of the means of conveyance shall disinfect the means of conveyance and its cargo in accordance with an approved method contained in part 305 of this chapter under the supervision of an inspector and in a manner prescribed by the inspector, prior to any movement of the means of conveyance or its cargo.

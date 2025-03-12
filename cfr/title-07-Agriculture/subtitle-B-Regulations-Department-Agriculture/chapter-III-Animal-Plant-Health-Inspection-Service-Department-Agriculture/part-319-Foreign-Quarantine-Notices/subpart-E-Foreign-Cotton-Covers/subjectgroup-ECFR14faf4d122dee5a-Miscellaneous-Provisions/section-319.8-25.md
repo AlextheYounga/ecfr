@@ -1,0 +1,3 @@
+##### § 319.8-25 Costs and charges. #####
+
+The services of the inspector during regularly assigned hours of duty and at the usual places of duty shall be furnished without cost to the importer. The Plant Protection and Quarantine Programs will not assume responsibility for any costs or charges, other than those indicated in this section, in connection with the entry, inspection, treatment, conditioning, storage, forwarding, or any other operation of any character incidental to the physical entry of an importation of a restricted material.

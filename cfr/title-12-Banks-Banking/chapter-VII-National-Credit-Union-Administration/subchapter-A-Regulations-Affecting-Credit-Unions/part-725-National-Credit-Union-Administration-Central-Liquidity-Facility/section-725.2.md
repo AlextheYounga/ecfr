@@ -4,11 +4,11 @@ As used in this part:
 
 (a) *Agent* means an Agent member of the Facility.
 
-(b) *Agent group* means an Agent member of the Facility consisting of a group of central credit unions, one of which is designated as the group's *Agent group representative* and authorized to transact business with the Facility on behalf of the group or any member of the group.
+(b) *Agent group* means an Agent member of the Facility consisting of a group of corporate credit unions, one of which is designated as the group's *Agent group representative* and authorized to transact business with the Facility on behalf of the group or any member of the group.
 
 (c) *Agent loan* means an advance of funds by an Agent to a member natural person credit union to meet liquidity needs which have been the basis for a Facility advance.
 
-(d) *Central credit union* means a Federal or state-chartered credit union primarily serving other credit unions. A credit union is primarily serving other credit unions when the total dollar amount of the shares and deposits received from other credit unions plus loans to other credit unions exceeds 50 percent of the total dollar amount of all shares and deposits plus loans during the qualifying period, as defined in paragraph (o) of this section.
+(d) *Corporate credit union* means a Federal or state-chartered credit union primarily serving other credit unions. A credit union is primarily serving other credit unions when the total dollar amount of the shares and deposits received from other credit unions plus loans to other credit unions exceeds 50 percent of the total dollar amount of all shares and deposits plus loans during the qualifying period, as defined in paragraph (o) of this section.
 
 (e) *Facility* or *Central Liquidity Facility* means the National Credit Union Administration Central Liquidity Facility.
 
@@ -20,7 +20,7 @@ As used in this part:
 
 (1) Cash on hand;
 
-(2) Share or deposit accounts with remaining maturities of one year or less maintained in central credit unions or institutions insured by the Federal Deposit Insurance Corporation or Federal Savings and Loan Insurance Corporation;
+(2) Share or deposit accounts with remaining maturities of one year or less maintained in corporate credit unions or institutions insured by the Federal Deposit Insurance Corporation;
 
 (3) Investments in obligations of the United States or any agency thereof, or securities fully guaranteed as to principal and interest thereby, which are authorized under 12 U.S.C. 1757(7) and which have a remaining maturity of one year or less;
 
@@ -28,9 +28,9 @@ As used in this part:
 
 (5) Shares in the National Credit Union Administration Central Liquidity Facility or in special share accounts authorized by § 725.7 of this part;
 
-(6) In the case of a federally-insured state-chartered credit union, any asset held in satisfaction of liquidity requirements imposed by applicable state law or regulation; and
+(6) In the case of a federally insured state-chartered credit union, any asset held in satisfaction of liquidity requirements imposed by applicable state law or regulation; and
 
-(7) Balances maintained by federally-insured credit unions in a Federal Reserve bank, or in a pass-through account to a Federal Reserve bank, pursuant to the requirements of section 19(b) of the Federal Reserve Act (12 U.S.C. 461(b)).
+(7) Balances maintained by federally insured credit unions in a Federal Reserve bank, or in a pass-through account to a Federal Reserve bank, pursuant to the requirements of section 19(b) of the Federal Reserve Act (12 U.S.C. 461(b)).
 
 (i) *Liquidity needs* means the needs of credit unions primarily serving natural persons for:
 
@@ -44,9 +44,9 @@ As used in this part:
 
 (k) *Member* means a Regular or Agent member of the Facility, unless the context indicates otherwise.
 
-(l) *Member natural person credit union* means a natural person credit union which is a member of an Agent or of any central credit union in an Agent group. Member natural person credit unions are not members of the Facility unless they are also Regular members of the Facility.
+(l) *Member natural person credit union* means a natural person credit union which is a member of an Agent or of any corporate credit union in an Agent group. Member natural person credit unions are not members of the Facility unless they are also Regular members of the Facility.
 
-(m) *Natural person credit union* means a Federal or state-chartered credit union primarily serving natural persons. A credit union is primarily serving natural persons if it is not a central credit union as defined in paragraph (d) of this section.
+(m) *Natural person credit union* means a Federal or state-chartered credit union primarily serving natural persons. A credit union is primarily serving natural persons if it is not a corporate credit union as defined in paragraph (d) of this section.
 
 (n) *Paid-in and unimpaired capital and surplus* means shares and deposits plus post-closing, undivided earnings. This does not include regular reserves or special reserves required by law, regulation or special agreement between the credit union and its regulator or share insurer.
 
@@ -58,4 +58,4 @@ As used in this part:
 
 (p) *Stock subscription* means the stock subscription required for membership in the Facility. “Total subscribed Facility stock” is the sum of all members' stock subscriptions.
 
-[44 FR 49437, Aug. 23, 1979, as amended at 53 FR 22472, June 16, 1988; 66 FR 65624, Dec. 20, 2001; 78 FR 32545, May 31, 2013]
+[44 FR 49437, Aug. 23, 1979, as amended at 53 FR 22472, June 16, 1988; 66 FR 65624, Dec. 20, 2001; 78 FR 32545, May 31, 2013; 84 FR 1608, Feb. 5, 2019]

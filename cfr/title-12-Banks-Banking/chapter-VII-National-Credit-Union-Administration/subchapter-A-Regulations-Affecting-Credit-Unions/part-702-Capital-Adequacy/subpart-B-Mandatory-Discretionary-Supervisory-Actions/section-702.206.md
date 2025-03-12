@@ -1,6 +1,6 @@
 ##### § 702.206 Net worth restoration plans. #####
 
-(a) *Schedule for filing* - (1) *Generally.* A federally-insured credit union shall file a written net worth restoration plan (NWRP) with the appropriate Regional Director and, if State-chartered, the appropriate State official, within 45 calendar days of the effective date of classification as either “undercapitalized,” “significantly undercapitalized” or “critically undercapitalized,” unless the NCUA Board notifies the credit union in writing that its NWRP is to be filed within a different period.
+(a) *Schedule for filing* - (1) *Generally.* A federally insured credit union shall file a written net worth restoration plan (NWRP) with the appropriate Regional Director and, if State-chartered, the appropriate State official, within 45 calendar days of the effective date of classification as either “undercapitalized,” “significantly undercapitalized” or “critically undercapitalized,” unless the NCUA Board notifies the credit union in writing that its NWRP is to be filed within a different period.
 
 (2) *Exception.* An otherwise “adequately capitalized” credit union that is reclassified “undercapitalized” on safety and soundness grounds under § 702.102(b) is not required to submit a NWRP solely due to the reclassification, unless the NCUA Board notifies the credit union that it must submit an NWRP.
 
@@ -40,7 +40,7 @@
 
 (2) *Delayed decision.* If no decision is made within the time prescribed in paragraph (f)(1) of this section, the NWRP is deemed approved.
 
-(3) *Consultation with State officials.* In the case of an NWRP submitted by a federally-insured State-chartered credit union (whether an original, new, additional, revised or amended NWRP), the NCUA Board shall, when evaluating the NWRP, seek and consider the views of the appropriate State official, and provide prompt notice of its decision to the appropriate State official.
+(3) *Consultation with State officials.* In the case of an NWRP submitted by a federally insured State-chartered credit union (whether an original, new, additional, revised or amended NWRP), the NCUA Board shall, when evaluating the NWRP, seek and consider the views of the appropriate State official, and provide prompt notice of its decision to the appropriate State official.
 
 (g) *NWRP not approved* - (1) *Submission of revised NWRP.* If an NWRP is rejected by the NCUA Board, the credit union shall submit a revised NWRP within 30 calendar days of receiving notice of disapproval, unless it is notified in writing by the NCUA Board that the revised NWRP is to be filed within a different period.
 

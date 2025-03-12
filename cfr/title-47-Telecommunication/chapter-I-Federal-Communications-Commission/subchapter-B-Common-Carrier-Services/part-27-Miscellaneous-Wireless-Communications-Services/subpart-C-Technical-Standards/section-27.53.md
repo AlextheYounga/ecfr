@@ -294,4 +294,4 @@
 
 (n) When an emission outside of the authorized bandwidth causes harmful interference, the Commission may, at its discretion, require greater attenuation than specified in this section.
 
-[62 FR 16497, Apr. 7, 1997]Editorial Note:For Federal Register citations affecting § 27.53, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[62 FR 16497, Apr. 7, 1997]Editorial Note:For Federal Register citations affecting § 27.53, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

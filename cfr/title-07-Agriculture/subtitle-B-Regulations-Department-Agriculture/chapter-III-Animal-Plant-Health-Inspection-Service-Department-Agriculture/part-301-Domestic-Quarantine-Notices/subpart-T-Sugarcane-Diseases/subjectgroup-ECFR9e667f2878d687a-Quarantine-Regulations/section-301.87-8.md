@@ -1,0 +1,5 @@
+##### § 301.87-8 Attachment and disposition of certificates and limited permits. #####
+
+(a) A certificate or limited permit required for the interstate movement of a regulated article, at all times during such movement, shall be securely attached to the outside of the container containing the regulated article, securely attached to the article itself if not in a container, or securely attached to the consignee's copy of the accompanying waybill or other shipping document; provided however, that the requirements of this section may be met by attaching the certificate or limited permit to the consignee's copy of the waybill or other shipping document only if the regulated article is sufficiently described on the certificate, limited permit, or shipping document to identify the article.
+
+(b) The certificate or limited permit for the movement of a regulated article shall be furnished by the carrier to the consignee at the destination of the shipment.

@@ -1,0 +1,7 @@
+##### § 301.48-8 Compliance agreements and cancellation. #####
+
+(a) Any person engaged in the business of moving regulated articles may enter into a compliance agreement to facilitate the movement of such articles under this subpart. Any person who enters into a compliance agreement, and employees or agents of that person, must allow an inspector access to all records regarding treatment of aircraft and to all areas where loading, unloading, and treatment of aircraft occurs.
+
+(b) A compliance agreement may be canceled by an inspector, orally or in writing, whenever he or she determines that the person who has entered into the compliance agreement has failed to comply with the agreement or this subpart. If the cancellation is oral, the cancellation and the reasons for the cancellation will be confirmed in writing within 20 days of oral notification. Any person whose compliance agreement has been canceled may appeal the decision, in writing, to the Administrator within 10 days after receiving written notification of the cancellation. The appeal must state all of the facts and reasons upon which the person relies to show that the compliance agreement was wrongfully canceled. A hearing will be held to resolve any conflict as to any material fact. The Administrator shall adopt rules of practice for the hearing. An appeal shall be granted or denied, in writing, as promptly as circumstances allow, and the reasons for the decision shall be stated. The compliance agreement will remain canceled pending the decision on the appeal.
+
+[61 FR 32641, June 25, 1996]

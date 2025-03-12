@@ -1,0 +1,3 @@
+##### § 301.52-6 Assembly and inspection of regulated articles. #####
+
+Persons (other than those authorized to use certificates, limited permits, or restricted destination permits, or reproductions thereof, under § 301.52-4(e)) who desire to move interstate regulated articles which must be accompanied by a certificate or permit shall, as far in advance as possible, request an inspector to examine the articles prior to movement. Such articles shall be assembled at such points and in such manner as the inspector designates to facilitate inspection.

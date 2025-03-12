@@ -1,6 +1,6 @@
 ##### § 702.102 Statutory net worth categories. #####
 
-(a) *Net worth categories.* Except for credit unions defined as “new” under subpart B of this part, a federally-insured credit union shall be classified (Table 1) -
+(a) *Net worth categories.* Except for credit unions defined as “new” under subpart B of this part, a federally insured credit union shall be classified (Table 1) -
 
 (1) *Well capitalized* if it has a net worth ratio of seven percent (7%) or greater and also meets any applicable risk-based net worth requirement under §§ 702.103 through 702.108; or
 
@@ -30,6 +30,6 @@
 
 (c) *Non-delegation.* The NCUA Board may not delegate its authority to reclassify a credit union under paragraph (b) of this section.
 
-(d) *Consultation with State officials.* The NCUA Board shall consult and seek to work cooperatively with the appropriate State official before reclassifying a federally-insured State-chartered credit union under paragraph (b) of this section, and shall promptly notify the appropriate State official of its decision to reclassify.
+(d) *Consultation with State officials.* The NCUA Board shall consult and seek to work cooperatively with the appropriate State official before reclassifying a federally insured State-chartered credit union under paragraph (b) of this section, and shall promptly notify the appropriate State official of its decision to reclassify.
 
 [65 FR 8584, Feb. 18, 2000, as amended at 65 FR 44966, July 20, 2000; 67 FR 71087, Nov. 29, 2002]

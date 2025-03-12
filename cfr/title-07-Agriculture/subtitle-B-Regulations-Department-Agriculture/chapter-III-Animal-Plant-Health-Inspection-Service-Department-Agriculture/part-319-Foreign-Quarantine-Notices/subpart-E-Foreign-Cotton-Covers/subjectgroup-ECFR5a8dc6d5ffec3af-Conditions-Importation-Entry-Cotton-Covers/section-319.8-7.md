@@ -1,0 +1,3 @@
+##### § 319.8-7 Processed lint, linters, and waste. #####
+
+Entry of lint, linters, and waste will be authorized without treatment but upon compliance with other applicable requirements of this subpart when the inspector can determine that such lint, linters, and waste have been so processed by bleaching, dyeing, or other means, as to have removed all cottonseed or to have destroyed all insect life.

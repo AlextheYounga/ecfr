@@ -1,0 +1,3 @@
+##### § 330.302 Domestic movements of earth (including soil), stone, etc. #####
+
+The interstate movement from regulated areas in the Continental United States of earth (including soil), stone, quarry products, and similar substances is regulated in §§ 301.45, 301.48, 301.72, 301.77, 301.78, 301.79, 301.80, and 301.81 of this chapter and may be made only in accordance with the requirements of these sections. Any such movement of earth, stone, quarry products and similar substances which may hereafter be regulated in part 301 of this chapter may likewise be made only in accordance with the requirements of said part. The interstate movement of such materials of United States origin, from any place in the Continental United States, is not regulated by this part.

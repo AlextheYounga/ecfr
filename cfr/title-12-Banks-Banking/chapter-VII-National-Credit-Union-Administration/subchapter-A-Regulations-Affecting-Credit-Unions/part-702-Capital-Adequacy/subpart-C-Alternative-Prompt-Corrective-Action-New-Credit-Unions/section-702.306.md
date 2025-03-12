@@ -42,7 +42,7 @@
 
 (2) *Delayed decision.* If no decision is made within the time prescribed in paragraph (e)(1) of this section, the RBP is deemed approved.
 
-(3) *Consultation with State officials.* When evaluating an RBP submitted by a federally-insured State-chartered new credit union (whether an original, new or additional RBP), the NCUA Board shall seek and consider the views of the appropriate State official, and provide prompt notice of its decision to the appropriate State official.
+(3) *Consultation with State officials.* When evaluating an RBP submitted by a federally insured State-chartered new credit union (whether an original, new or additional RBP), the NCUA Board shall seek and consider the views of the appropriate State official, and provide prompt notice of its decision to the appropriate State official.
 
 (f) *Plan not approved* - (1) *Submission of new revised plan.* If an RBP is rejected by the NCUA Board, the new credit union shall submit a new RBP within 30 calendar days of receiving notice of disapproval of its initial RBP, unless it is notified in writing by the NCUA Board that the new RBP is to be filed within a different period.
 

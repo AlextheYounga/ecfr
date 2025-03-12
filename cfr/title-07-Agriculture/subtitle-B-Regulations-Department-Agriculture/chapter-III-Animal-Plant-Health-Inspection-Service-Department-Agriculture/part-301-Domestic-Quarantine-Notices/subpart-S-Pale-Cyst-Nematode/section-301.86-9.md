@@ -1,0 +1,3 @@
+##### § 301.86-9 Costs and charges. #####
+
+The services of the inspector during normal business hours (8 a.m. to 4:30 p.m., Monday through Friday, except holidays) will be furnished without cost. APHIS will not be responsible for any costs or charges incident to inspections or compliance with the provisions of the quarantine and regulations in this subpart, other than for the services of the inspector.

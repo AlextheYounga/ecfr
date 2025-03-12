@@ -10,7 +10,7 @@
 
 (3) Either the terms or substance of the proposed rule or a description of the subjects and issues involved; and
 
-(4) A statement of the effect of the proposed rule on state-chartered federally-insured credit unions.
+(4) A statement of the effect of the proposed rule on federally insured state-chartered credit unions.
 
 (c) *Public participation.* After publication of notice of proposed rulemaking, interested persons will be afforded the opportunity to participate in the making of the rule through the submission of written data, views, or arguments, delivered within the time prescribed in the notice of proposed rulemaking, to the Secretary, NCUA Board, 1775 Duke Street, Alexandria, VA 22314-3428. Interested persons may also petition the Board for the issuance, amendment, or repeal of any rule by mailing such petition to the Secretary of the Board at the address given in this section.
 
@@ -34,4 +34,4 @@
 
 (f) NCUA has an Office of Management and Budget (OMB) control number for rulemakings containing an information collection within the meaning of the Paperwork Reduction Act (44 U.S.C. 3501). A list of OMB control numbers is available to the public for review online at *http://www.RegInfo.gov.*
 
-[53 FR 29647, Aug. 8, 1988, as amended at 59 FR 36041, July 15, 1994; 68 FR 31952, May 29, 2003; 75 FR 34623, June 18, 2010; 78 FR 4038, Jan. 18, 2013; 80 FR 57517, Sept. 24, 2015]
+[53 FR 29647, Aug. 8, 1988, as amended at 59 FR 36041, July 15, 1994; 68 FR 31952, May 29, 2003; 75 FR 34623, June 18, 2010; 78 FR 4038, Jan. 18, 2013; 80 FR 57517, Sept. 24, 2015; 84 FR 1610, Feb. 5, 2019]

@@ -110,7 +110,7 @@
 
 (iv) If the NCUSIF declares, at any time after the date of conversion through the end of that calendar year, an assessment to replenish the one-percent deposit, pay a replenishment amount based on the institution's insured shares as of the last day of the most recently ended reporting period preceding the invoice date; and
 
-(2) A federally-insured credit union that merges with a nonfederally insured credit union or other nonfederally insured institution (the “merging institution”), where the federally insured credit union is the continuing institution, will:
+(2) A federally insured credit union that merges with a nonfederally insured credit union or other nonfederally insured institution (the “merging institution”), where the federally insured credit union is the continuing institution, will:
 
 (i) Immediately on the date of merger increase the amount of its NCUSIF deposit by an amount equal to one percent of the merging institution's insured shares as of the last day of the merging institution's most recently ended reporting period preceding the date of merger;
 

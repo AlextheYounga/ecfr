@@ -2,7 +2,7 @@
 
 (a) *Restriction on dividends.* Dividends shall be available only from undivided earnings, if any.
 
-(b) *Payment of dividends if undivided earnings depleted.* The board of directors of a “well capitalized” federally-insured credit union that has depleted the balance of its undivided earnings account may authorize a transfer of funds from the credit union's regular reserve account to undivided earnings to pay dividends, provided that either -
+(b) *Payment of dividends if undivided earnings depleted.* The board of directors of a “well capitalized” federally insured credit union that has depleted the balance of its undivided earnings account may authorize a transfer of funds from the credit union's regular reserve account to undivided earnings to pay dividends, provided that either -
 
 (1) The payment of dividends will not cause the credit union's net worth classification to fall below “adequately capitalized” under subpart B or C of this part; or
 

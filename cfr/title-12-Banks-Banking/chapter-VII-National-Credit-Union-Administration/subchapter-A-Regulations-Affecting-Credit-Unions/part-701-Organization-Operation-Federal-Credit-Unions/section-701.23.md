@@ -22,7 +22,8 @@ This section governs a federal credit union's purchase, sale, or pledge of all o
 
 (2) *Purchase of obligations from a FICU.* A federal credit union that received a composite CAMEL rating of “1” or “2” for the last two (2) full examinations and maintained a net worth classification of “well capitalized” under part 702 of this chapter for the six (6) immediately preceding quarters or, if subject to a risk-based net worth (RBNW) requirement under part 702 of this chapter, has remained “well capitalized” for the six (6) immediately preceding quarters after applying the applicable RBNW requirement may purchase and hold the following obligations, provided that it would be empowered to grant them:
 
-(i) *Eligible obligations.* Eligible obligations without regard to whether they are obligations of its members, provided they are purchased from a federally-insured credit union and the obligations are either:
+(i) *Eligible obligations.* Eligible obligations without regard to whether they are obligations of its members, provided they are purchased from a federally
+insured credit union and the obligations are either:
 
 (A) Loans the purchasing credit union is empowered to grant; or
 
@@ -30,9 +31,9 @@ This section governs a federal credit union's purchase, sale, or pledge of all o
 
 (ii) *Eligible obligations of a liquidating credit union.* Eligible obligations of a liquidating credit union without regard to whether they are obligations of the liquidating credit union's members.
 
-(iii) *Student loans.* Student loans provided they are purchased from a federally-insured credit union only;
+(iii) *Student loans.* Student loans provided they are purchased from a federally insured credit union only;
 
-(iv) *Real estate-secured loans.* Real estate-secured loans provided they are purchased from a federally-insured credit union only;
+(iv) *Real estate-secured loans.* Real estate-secured loans provided they are purchased from a federally insured credit union only;
 
 (3) A Federal credit union may make purchases in accordance with this paragraph (b), provided:
 
@@ -104,4 +105,4 @@ This section governs a federal credit union's purchase, sale, or pledge of all o
 
 (3) *Appeal to NCUA Board.* A Federal credit union may request the regional director to reconsider a denied request for expanded authority and/or file an appeal with the NCUA Board in accordance with the procedures set forth in subpart B to part 746 of this chapter.
 
-[44 FR 27071, May 9, 1979, as amended at 46 FR 38680, July 29, 1981. Redesignated at 49 FR 30688, Aug. 1, 1984, and amended at 53 FR 4844, Feb. 18, 1988; 56 FR 15036, Apr. 15, 1991; 56 FR 35811, July 29, 1991; 60 FR 58504, Nov. 28, 1995; 63 FR 70998, Dec. 23, 1998; 72 FR 65442, Nov. 21, 2007; 77 FR 31990, May 31, 2012; 78 FR 37958, June 25, 2013; 82 FR 50291, Oct. 30, 2017]
+[44 FR 27071, May 9, 1979, as amended at 46 FR 38680, July 29, 1981. Redesignated at 49 FR 30688, Aug. 1, 1984, and amended at 53 FR 4844, Feb. 18, 1988; 56 FR 15036, Apr. 15, 1991; 56 FR 35811, July 29, 1991; 60 FR 58504, Nov. 28, 1995; 63 FR 70998, Dec. 23, 1998; 72 FR 65442, Nov. 21, 2007; 77 FR 31990, May 31, 2012; 78 FR 37958, June 25, 2013; 82 FR 50291, Oct. 30, 2017; 84 FR 1605, Feb. 5, 2019]

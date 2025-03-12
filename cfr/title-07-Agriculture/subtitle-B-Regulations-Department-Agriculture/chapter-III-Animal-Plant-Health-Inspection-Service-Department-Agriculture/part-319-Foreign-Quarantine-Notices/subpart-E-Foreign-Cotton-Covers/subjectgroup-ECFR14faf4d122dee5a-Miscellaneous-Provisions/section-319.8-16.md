@@ -1,0 +1,5 @@
+##### § 319.8-16 Importation into United States of cotton and covers exported therefrom. #####
+
+(a) Cotton and covers grown, produced, or handled in the United States and exported therefrom, and in the original bales or other containers in which such material was exported therefrom, may be imported into the United States at any port under permit, without vacuum fumigation or other treatment or restriction as to utilization, upon compliance with §§ 319.8-2, 319.8-4, and § 319.8-5, and upon the submission of evidence satisfactory to the inspector that such material was grown, produced, or handled in the United States and does not constitute a risk of introducing the pink bollworm into the United States.
+
+(b) Cotton and covers of foreign origin imported into the United States in accordance with this subpart and exported therefrom, when in the original bales or other original containers, may be reimported into the United States under the conditions specified in paragraph (a) of this section.
