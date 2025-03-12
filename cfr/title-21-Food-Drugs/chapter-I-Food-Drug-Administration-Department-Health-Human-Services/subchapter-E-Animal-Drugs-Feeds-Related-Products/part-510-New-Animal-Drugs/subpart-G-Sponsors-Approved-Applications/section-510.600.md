@@ -218,6 +218,4 @@
 
 [40 FR 13807, Mar. 27, 1975]Editorial Notes:1. For Federal Register citations affecting § 510.600, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
 
-2. At 72 FR 36595, July 5, 2007, § 510.600, in the table in paragraph (c)(2), was amended by removing the entry for “062749”; however, the amendment could not be incorporated because the entry did not exist.
-
-3. At 77 FR 46613, Aug. 6, 2012, § 510.600 was amended by removing the entry for “012758” in the table in paragraph (c)(2); however, the amendment could not be incorporated because “012758” didn't exist.
+2. At 77 FR 46613, Aug. 6, 2012, § 510.600 was amended by removing the entry for “012758” in the table in paragraph (c)(2); however, the amendment could not be incorporated because “012758” didn't exist.

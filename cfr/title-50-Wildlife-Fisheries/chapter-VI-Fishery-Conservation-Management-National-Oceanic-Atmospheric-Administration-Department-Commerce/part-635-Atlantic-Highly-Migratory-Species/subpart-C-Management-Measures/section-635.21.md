@@ -12,6 +12,8 @@
 
 (iv) From January through April of each year, no vessel issued, or required to be issued, a permit under this part may fish or deploy any type of fishing gear in the Edges 40 Fathom Contour closed area, as defined in § 635.2.
 
+(4) Any person issued a commercial shark permit must release all shortfin mako sharks, alive or dead, caught on any gear other than pelagic longline gear.
+
 (b) *Longline - general restrictions.* (1) All vessels that have pelagic or bottom longline gear onboard and that have been issued, or are required to have, a limited access swordfish, shark, or tuna Longline category permit for use in the Atlantic Ocean including the Caribbean Sea and the Gulf of Mexico must possess inside the wheelhouse the document provided by NMFS entitled “Careful Release Protocols for Sea Turtle Release with Minimal Injury,” and must also post inside the wheelhouse the sea turtle handling and release guidelines provided by NMFS.
 
 (2) Transiting and gear stowage: If a vessel issued a permit under this part is in a closed or gear restricted area described in this section with pelagic or bottom longline gear on board, it is a rebuttable presumption that any fish on board such a vessel were taken with pelagic or bottom longline in the closed or gear restricted area except where such possession is aboard a vessel transiting a closed area with all fishing gear stowed appropriately. Longline gear is stowed appropriately if all gangions and hooks are disconnected from the mainline and are stowed on or below deck, hooks are not baited, and all buoys and weights are disconnected from the mainline and drum (buoys may remain on deck).
@@ -27,6 +29,8 @@
 (ii) Has pelagic longline gear on board, persons aboard that vessel may not possess, retain, transship, land, sell, or store silky sharks, oceanic whitetip sharks, or scalloped, smooth, or great hammerhead sharks.
 
 (iii) Has pelagic longline gear on board, persons aboard that vessel are required to release unharmed, to the extent practicable, porbeagle sharks that are alive at the time of haulback.
+
+(iv) Has pelagic longline gear on board, persons aboard that vessel are required to release unharmed, to the extent practicable, any shortfin mako shark that is alive at the time of haulback. Any shortfin mako shark that is dead at the time of haulback may be retained provided the electronic monitoring system is installed and functioning in accordance with § 635.9.
 
 (2) Except as noted in paragraph (c)(3) of this section, if pelagic longline gear is on board a vessel issued or required to be issued a permit under this part, persons aboard that vessel may not fish or deploy any type of fishing gear:
 
@@ -250,4 +254,4 @@
 
 (2) A person on board a vessel that has been issued or is required to be issued an HMS Angling permit with a shark endorsement or a person on board a vessel with an HMS Charter/Headboat permit with a shark endorsement must deploy only non-offset, corrodible circle hooks when fishing for, retaining, possessing, or landing sharks south of 41°43′ N. latitude, except when fishing with flies or artificial lures. Any shark caught south of 41°43′ N. latitude on non-circle hooks must be released, unless the shark was caught when fishing with flies or artificial lures.
 
-[79 FR 71594, Dec. 2, 2014, as amended at 80 FR 60567, Oct. 7, 2015; 80 FR 73145, Nov. 24, 2015; 81 FR 57806, Aug. 24, 2016; 82 FR 16507, Apr. 4, 2017]
+[79 FR 71594, Dec. 2, 2014, as amended at 80 FR 60567, Oct. 7, 2015; 80 FR 73145, Nov. 24, 2015; 81 FR 57806, Aug. 24, 2016; 82 FR 16507, Apr. 4, 2017]Effective Date Note:At 83 FR 8949, Mar. 2, 2018, § 635.21 was amended by adding paragraphs (a)(4) and (c)(1)(iv), effective Mar. 2, 2018 through Aug. 29, 2018.

@@ -1,5 +1,7 @@
 ##### § 7.7 Rocky Mountain National Park. #####
 
+Link to an amendment published at 83 FR 8944, Mar. 2, 2018.
+
 (a) *Fishing.* (1) Fishing restrictions, based on management objectives described in the park's Resources Management Plan, are established annually by the Superintendent.
 
 (2) The Superintendent may impose closures and establish conditions or restrictions, in accordance with the criteria and procedures of §§ 1.5 and 1.7 of this chapter, on any activity pertaining to fishing, including, but not limited to species of fish that may be taken, seasons and hours during which fishing may take place, methods of taking, size, creel, and possession limits.

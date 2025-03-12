@@ -1,5 +1,7 @@
 ##### § 117.1101 Sturgeon Bay. #####
 
+Link to an amendment published at 83 FR 8936, Mar. 2, 2018.
+
 The draws of the Bayview (State Route 42/57) and Michigan Street bridges, miles 3.0 and 4.3, respectively, at Sturgeon Bay, are remotely operated by the tender at Maple-Oregon bridge, mile 4.17, and shall open as follows:
 
 (a) The Bayview (State Route 42/57) Bridge, mile 3.0 at Sturgeon Bay, shall open on signal, except from December 1 through March 14, the draw shall open on signal if notice is given at least 12 hours in advance of intended passage.

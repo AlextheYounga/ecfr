@@ -324,6 +324,12 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (26) Deploy bottom longline gear without circle hooks, or have on board both bottom longline gear and non-circle hooks, as specified at § 635.21(d)(4).
 
+(27) Land a shortfin mako shark that was caught with gear other than pelagic longline as specified at § 635.21(a).
+
+(28) Retain, land, or possess a shortfin mako shark that was caught with pelagic longline gear and was alive at haulback as specified at § 635.21(c)(1).
+
+(29) As specified at § 635.21(c)(1), retain, land, or possess a shortfin mako shark that was caught with pelagic longline gear when the electronic monitoring system was not installed and functioning in accordance with the requirements at § 635.9.
+
 (e) *Swordfish.* It is unlawful for any person or vessel subject to the jurisdiction of the United States to:
 
 (1) Purchase, barter for, or trade for a swordfish from the north or south Atlantic swordfish stock without a dealer permit as specified in § 635.4(g), unless the harvesting vessel possesses a valid HMS Commercial Caribbean Small Boat permit issued under § 635.4 of this part and harvested the swordfish in the U.S. Caribbean as defined at § 622.2.
@@ -362,4 +368,4 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (18) As the owner of a vessel permitted, or required to be permitted, in the Swordfish General Commercial permit category, possess North Atlantic swordfish taken from its management unit by any gear other than rod and reel, handline, bandit gear, green-stick, or harpoon gear, as specified in § 635.19(e).
 
-[64 FR 29135, May 28, 1999]Editorial Note:For Federal Register citations affecting § 635.71, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[64 FR 29135, May 28, 1999]Editorial Note:For Federal Register citations affecting § 635.71, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 83 FR 8950, Mar. 2, 2018, § 635.71 was amended by adding paragraph (d)(27), (28) and (29), effective Mar. 2, 2018 through Aug. 29, 2018.

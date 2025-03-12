@@ -16,6 +16,10 @@ The retention limits in this section are subject to the quotas and closure provi
 
 (iv) A person who owns or operates a vessel that has been issued an HMS Commercial Caribbean Small Boat permit may retain, possess, or land any LCS, SCS or pelagic sharks only when the HMS Commercial Caribbean Small Boat permit trip limit is set above zero. The current shark trip limit for HMS Commercial Caribbean Small Boat permit holders is set at zero.
 
+(v) A person who owns or operates a vessel that has been issued a directed shark LAP may retain, possess, or land pelagic sharks if the pelagic shark fishery is open per §§ 635.27 and 635.28. Shortfin mako sharks may only be retained by persons using pelagic longline gear, and only if each shark is dead at the time of haulback per § 635.21(c)(1).
+
+(vi) Consistent with paragraph (a)(4)(ii) of this section, a person who owns or operates a vessel that has been issued an incidental shark LAP may retain, possess, land, or sell no more than 16 SCS and pelagic sharks, combined, per vessel per trip, if the respective fishery is open per §§ 635.27 and 635.28. Of those 16 SCS and pelagic sharks per vessel per trip, no more than 8 shall be blacknose sharks. Shortfin mako sharks may only be retained by persons using pelagic longline gear, and only if each shark is dead at the time of haulback per § 635.21(c)(1).
+
 (5) A person who owns or operates a vessel that has been issued a Federal Atlantic commercial shark permit may not retain, possess, land, sell, or purchase prohibited sharks, including any parts or pieces of prohibited sharks, which are listed in section D of Table 1 of Appendix A to this part under prohibited sharks.
 
 (6) A person who owns or operates a vessel that has been issued a Federal Atlantic commercial shark permit, and who decides to retain sharks, must retain, subject to the trip limits, all dead, legal-sized, non-prohibited sharks that are brought onboard the vessel and cannot replace those sharks with sharks of higher quality or size that are caught later in the trip. Any fish that are to be released cannot be brought onboard the vessel and must be released in the water in a manner that maximizes survival.
@@ -80,4 +84,4 @@ The retention limits in this section are subject to the quotas and closure provi
 
 (c) BAYS tunas. Persons aboard a vessel that has been issued an HMS Commercial Caribbean Small Boat permit under § 635.4 may retain, possess, land, or sell no more than 10 BAYS tunas per vessel per trip.
 
-[64 FR 29135, May 28, 1999]Editorial Note:For Federal Register citations affecting § 635.24, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[64 FR 29135, May 28, 1999]Editorial Note:For Federal Register citations affecting § 635.24, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 83 FR 8949, Mar. 2, 2018, § 635.24 was amended by suspending paragraphs (a)(4)(i) and (iii), and adding paragraph (a)(4)(v) and (vi), effective Mar. 2, 2018 through Aug. 29, 2018.

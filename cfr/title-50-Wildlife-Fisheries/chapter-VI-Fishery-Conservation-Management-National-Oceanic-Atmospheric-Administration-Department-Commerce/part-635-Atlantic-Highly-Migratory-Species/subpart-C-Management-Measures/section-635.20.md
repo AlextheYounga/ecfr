@@ -32,6 +32,10 @@
 
 (5) There is no size limit for smoothhound sharks taken under the recreational retention limits specified at § 635.22(c)(6).
 
+(6) All sharks, except as otherwise specified in this subsection below, landed under the recreational retention limits specified at § 635.22(c)(2) must be at least 54 inches (137 cm) FL.
+
+(7) All North Atlantic shortfin mako sharks landed under the recreational retention limits specified at § 635.22(c)(2) must be at least 83 inches (210 cm) fork length.
+
 (f) *Swordfish.* (1) For a swordfish that has its head naturally attached, the LJFL is the sole criterion for determining the size of a swordfish. No person shall take, retain, possess, or land a whole (head on) North or South Atlantic swordfish taken from its management unit that is not equal to or greater than 47 inches (119 cm) LJFL. A swordfish with the head naturally attached that is damaged by shark bites may be retained only if the length of the remainder of the fish is equal to or greater than 47 inches (119 cm) LJFL.
 
 (2) If the head of a swordfish is no longer naturally attached, the CK measurement is the sole criterion for determining the size of a swordfish. No person shall take, retain, possess, or land a dressed North or South Atlantic swordfish taken from its management unit that is not equal to or greater than 25 inches (63 cm) CK length. A swordfish that is damaged by shark bites may be retained only if the length of the remainder of the carcass is equal to or greater than 25 inches (63 cm) CK length.
@@ -42,4 +46,4 @@
 
 (5) A swordfish, or part thereof, will be monitored for compliance with the minimum size requirement of this section from the time it is landed in, or imported into, the United States up to, and including, the point of first transaction in the United States.
 
-[64 FR 29135, May 28, 1999, as amended at 64 FR 37704, July 13, 1999; 66 FR 42804, Aug. 15, 2001; 68 FR 714, Jan. 7, 2003; 68 FR 74785, Dec. 24, 2003; 69 FR 67284, Nov. 17, 2004; 71 FR 58167, Oct. 2, 2006; 74 FR 66587, Dec. 19, 2009; 75 FR 30525, June 1, 2010; 75 FR 57701, Sept. 22, 2010; 76 FR 70066, Nov. 10, 2011; 77 FR 45280, July 31, 2012; 78 FR 40346, July 3, 2013; 80 FR 73145, Nov. 24, 2015]
+[64 FR 29135, May 28, 1999, as amended at 64 FR 37704, July 13, 1999; 66 FR 42804, Aug. 15, 2001; 68 FR 714, Jan. 7, 2003; 68 FR 74785, Dec. 24, 2003; 69 FR 67284, Nov. 17, 2004; 71 FR 58167, Oct. 2, 2006; 74 FR 66587, Dec. 19, 2009; 75 FR 30525, June 1, 2010; 75 FR 57701, Sept. 22, 2010; 76 FR 70066, Nov. 10, 2011; 77 FR 45280, July 31, 2012; 78 FR 40346, July 3, 2013; 80 FR 73145, Nov. 24, 2015]Effective Date Note:At 83 FR 8949, Mar. 2, 2018, § 635.20 was amended by suspending paragraph (e)(2) and by adding paragraphs (e)(6) and (7), effective Mar. 2, 2018 through Aug. 29, 2018.

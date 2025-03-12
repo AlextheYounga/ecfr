@@ -222,7 +222,7 @@ Table of Residual Incomes by Region
 
 (1) *Definitions.* The definitions contained in part 42 of this chapter and the following definitions are applicable in this section.
 
-(i) *Another appropriate amount.* In determining the appropriate amount of a lender's civil penalty in cases where the Secretary has not sustained a loss or where two times the amount of the Secretary's loss on the loan involved does not exceed $21,563, the Secretary shall consider:
+(i) *Another appropriate amount.* In determining the appropriate amount of a lender's civil penalty in cases where the Secretary has not sustained a loss or where two times the amount of the Secretary's loss on the loan involved does not exceed $22,363, the Secretary shall consider:
 
 (A) The materiality and importance of the false certification to the determination to issue the guaranty or to approve the assumption;
 
@@ -242,7 +242,7 @@ The undersigned lender certifies that the (loan) (assumption) application, all v
 
 (ii) The certification shall be executed by an officer of the lender authorized to execute documents and act on behalf of the lender.
 
-(3) *Penalty.* Any lender who knowingly and willfully makes a false certification required pursuant to § 36.4340(k)(2) shall be liable to the United States Government for a civil penalty equal to two times the amount of the Secretary's loss on the loan involved or to another appropriate amount, not to exceed $21,563, whichever is greater.
+(3) *Penalty.* Any lender who knowingly and willfully makes a false certification required pursuant to § 36.4340(k)(2) shall be liable to the United States Government for a civil penalty equal to two times the amount of the Secretary's loss on the loan involved or to another appropriate amount, not to exceed $22,363, whichever is greater.
 
 (l) *Assessment of liability.* (1) Upon an assessment confirmed by the Under Secretary for Benefits, in consultation with the Investigating Official, that a certification, as required in this section, is false, a report of findings of the Under Secretary for Benefits shall be submitted to the Reviewing Official setting forth:
 
@@ -268,4 +268,4 @@ The undersigned lender certifies that the (loan) (assumption) application, all v
 
 (n) *Additional remedies.* Any assessment under this section may be in addition to other remedies available to VA, such as debarment and suspension pursuant to 38 U.S.C. 3704 and 2 CFR parts 180 and 801 or loss of automatic processing authority pursuant to 38 U.S.C. 3702, or other actions by the Government under any other law including but not limited to title 18 U.S.C. and 31 U.S.C. 3732.
 
-(The Office of Management and Budget has approved the information collection requirements of this section under control number 2900-0521)(Authority: 28 U.S.C. 2461; 38 U.S.C. 3710)[73 FR 6310, Feb. 1, 2008. Redesignated at 75 FR 33705, June 15, 2010, as amended at 79 FR 26628, May 9, 2014; 80 FR 34319, June 16, 2015; 81 FR 40525, June 22, 2016]
+(The Office of Management and Budget has approved the information collection requirements of this section under control number 2900-0521)(Authority: 28 U.S.C. 2461; 38 U.S.C. 3710)[73 FR 6310, Feb. 1, 2008. Redesignated at 75 FR 33705, June 15, 2010, as amended at 79 FR 26628, May 9, 2014; 80 FR 34319, June 16, 2015; 81 FR 40525, June 22, 2016; 83 FR 8946, Mar. 2, 2018]
