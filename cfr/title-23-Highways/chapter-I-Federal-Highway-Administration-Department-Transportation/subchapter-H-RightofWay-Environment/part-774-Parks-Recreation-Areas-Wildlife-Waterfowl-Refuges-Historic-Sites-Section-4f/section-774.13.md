@@ -1,5 +1,7 @@
 ##### § 774.13 Exceptions. #####
 
+Link to an amendment published at 83 FR 54507, Oct. 29, 2018.
+
 The Administration has identified various exceptions to the requirement for Section 4(f) approval. These exceptions include, but are not limited to:
 
 (a) Restoration, rehabilitation, or maintenance of transportation facilities that are on or eligible for the National Register when:

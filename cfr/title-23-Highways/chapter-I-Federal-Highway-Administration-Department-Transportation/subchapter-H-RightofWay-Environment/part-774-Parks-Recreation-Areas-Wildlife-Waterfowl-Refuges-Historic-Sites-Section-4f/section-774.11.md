@@ -1,5 +1,7 @@
 ##### § 774.11 Applicability. #####
 
+Link to an amendment published at 83 FR 54506, Oct. 29, 2018.
+
 (a) The Administration will determine the applicability of Section 4(f) in accordance with this part.
 
 (b) When another Federal agency is the Federal lead agency for the NEPA process, the Administration shall make any required Section 4(f) approvals unless the Federal lead agency is another U.S. DOT agency.

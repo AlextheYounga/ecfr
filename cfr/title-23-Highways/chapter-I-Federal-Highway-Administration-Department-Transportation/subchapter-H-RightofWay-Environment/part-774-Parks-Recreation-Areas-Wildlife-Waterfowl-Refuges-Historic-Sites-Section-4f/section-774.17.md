@@ -1,5 +1,7 @@
 ##### § 774.17 Definitions. #####
 
+Link to an amendment published at 83 FR 54507, Oct. 29, 2018.
+
 The definitions contained in 23 U.S.C. 101(a) are applicable to this part. In addition, the following definitions apply:
 
 *Administration.* The FHWA or FTA, whichever is making the approval for the transportation program or project at issue. A reference herein to the Administration means the State when the State is functioning as the FHWA or FTA in carrying out responsibilities delegated or assigned to the State in accordance with 23 U.S.C. 325, 326, 327, or other applicable law.

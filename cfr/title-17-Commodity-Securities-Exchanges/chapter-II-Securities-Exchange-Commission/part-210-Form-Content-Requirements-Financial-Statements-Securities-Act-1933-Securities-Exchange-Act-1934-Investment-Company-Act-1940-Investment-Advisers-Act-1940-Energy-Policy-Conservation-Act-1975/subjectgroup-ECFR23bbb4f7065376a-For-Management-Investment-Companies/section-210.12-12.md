@@ -2,9 +2,9 @@
 
 [For management investment companies only]
 
-|                 Col. A                  |                                              Col. B                                               |                     Col. C                     |
-|-----------------------------------------|---------------------------------------------------------------------------------------------------|------------------------------------------------|
-|Name of issuer and title of issue 1 2 3 4|Balance held at close of period. Number of shares - principal amount of bonds and notes<sup>7</sup>|Value of each item at close of period.5 6 8 9 10|
+|                      Col. A                       |                                              Col. B                                               |                          Col. C                           |
+|---------------------------------------------------|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
+|Name of issuer and title of issue<sup>1 2 3 4</sup>|Balance held at close of period. Number of shares - principal amount of bonds and notes<sup>7</sup>|Value of each item at close of period.<sup>5 6 8 9 10</sup>|
 
 <sup>1</sup> Each issue shall be listed separately: Provided, however, that an amount not exceeding five percent of the total of Column C may be listed in one amount as “Miscellaneous securities,” provided the securities so listed are not restricted, have been held for not more than one year prior to the date of the related balance sheet, and have not previously been reported by name to the shareholders of the person for which the schedule is filed or to any exchange, or set forth in any registration statement, application, or annual report or otherwise made available to the public. If any securities are listed as “Miscellaneous securities,” briefly explain in a footnote what the term represents.
 

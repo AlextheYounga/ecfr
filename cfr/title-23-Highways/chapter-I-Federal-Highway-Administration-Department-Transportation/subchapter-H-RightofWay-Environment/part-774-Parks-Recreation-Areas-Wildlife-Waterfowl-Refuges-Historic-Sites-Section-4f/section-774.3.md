@@ -1,5 +1,7 @@
 ##### § 774.3 Section 4(f) approvals. #####
 
+Link to an amendment published at 83 FR 54506, Oct. 29, 2018.
+
 The Administration may not approve the use, as defined in § 774.17, of Section 4(f) property unless a determination is made under paragraph (a) or (b) of this section.
 
 (a) The Administration determines that:

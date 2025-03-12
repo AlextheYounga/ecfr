@@ -1,5 +1,7 @@
 ##### § 774.15 Constructive use determinations. #####
 
+Link to an amendment published at 83 FR 54507, Oct. 29, 2018.
+
 (a) A constructive use occurs when the transportation project does not incorporate land from a Section 4(f) property, but the project's proximity impacts are so severe that the protected activities, features, or attributes that qualify the property for protection under Section 4(f) are substantially impaired. Substantial impairment occurs only when the protected activities, features, or attributes of the property are substantially diminished.
 
 (b) If the project results in a constructive use of a nearby Section 4(f) property, the Administration shall evaluate that use in accordance with § 774.3(a).

@@ -2,9 +2,9 @@
 
 [For management investment companies only]
 
-|       Col. A        |      Col. B       |    Col. C     |          Col. D           |Col. E|               Col. F                |
-|---------------------|-------------------|---------------|---------------------------|------|-------------------------------------|
-|Description 1 2 3 4 5|Number of contracts|Expiration date|Notional amount<sup>6</sup>|Value |Unrealized appreciation/depreciation.|
+|            Col. A             |      Col. B       |    Col. C     |          Col. D           |Col. E|               Col. F                |
+|-------------------------------|-------------------|---------------|---------------------------|------|-------------------------------------|
+|Description<sup>1 2 3 4 5</sup>|Number of contracts|Expiration date|Notional amount<sup>6</sup>|Value |Unrealized appreciation/depreciation.|
 
 <sup>1</sup> Information as to long purchases of futures contracts shall be shown separately from information as to futures contracts sold short.
 
