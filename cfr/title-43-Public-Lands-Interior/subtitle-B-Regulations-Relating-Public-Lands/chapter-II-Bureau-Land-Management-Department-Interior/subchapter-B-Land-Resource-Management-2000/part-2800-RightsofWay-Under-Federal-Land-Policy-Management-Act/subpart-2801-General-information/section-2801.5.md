@@ -1,7 +1,5 @@
 ##### § 2801.5 What acronyms and terms are used in the regulations in this part? #####
 
-Link to an amendment published at 81 FR 92205, December 19, 2016.
-
 (a) *Acronyms.* As used in this part:
 
 *ALJ* means Administrative Law Judge.
@@ -24,9 +22,15 @@ Link to an amendment published at 81 FR 92205, December 19, 2016.
 
 (b) *Terms.* As used in this part, the term:
 
+*Acreage rent* means rent assessed for solar and wind energy development grants and leases that is determined by the number of acres authorized for the grant or lease.
+
 *Act* means the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1701 *et seq.*).
 
 *Actual costs* means the financial measure of resources the Federal government expends or uses in processing a right-of-way application or in monitoring the construction, operation, and termination of a facility authorized by a grant or permit. Actual costs includes both direct and indirect costs, exclusive of management overhead costs.
+
+*Application filing fee* means a filing fee specific to solar and wind energy applications. This fee is an initial payment for the reasonable costs for processing, inspecting, and monitoring a right-of-way.
+
+*Assignment* means the transfer, in whole or in part, of any right or interest in a right-of-way grant or lease from the holder (assignor) to a subsequent party (assignee) with the BLM's written approval. A change in ownership of the grant or lease, or other related change-in-control transaction involving the holder, including a merger or acquisition, also constitutes an assignment for purposes of these regulations requiring the BLM's written approval, unless applicable statutory authority provides otherwise.
 
 *Base rent* means the dollar amount required from a grant or lease holder on BLM managed lands based on the communication use with the highest value in the associated facility or facilities, as calculated according to the communication use rent schedule. If a facility manager's or facility owner's scheduled rent is equal to the highest rent charged a tenant in the facility or facilities, then the facility manager's or facility owner's use determines the dollar amount of the base rent. Otherwise, the facility owner's, facility manager's, customer's, or tenant's use with the highest value, and which is not otherwise excluded from rent, determines the base rent.
 
@@ -60,7 +64,9 @@ Link to an amendment published at 81 FR 92205, December 19, 2016.
 
 *Customer* means an occupant who is paying a facility manager, facility owner, or tenant for using all or any part of the space in the facility, or for communication services, and is not selling communication services or broadcasting to others. We consider persons or entities benefitting from private or internal communication uses located in a holder's facility as customers for purposes of calculating rent. Customer uses are not included in calculating the amount of rent owed by a facility owner, facility manager, or tenant, except as noted in §§ 2806.34(b)(4) and 2806.42 of this part. *Examples of customers include:* Users of PMRS, users in the microwave category when the microwave use is limited to internal communications, and all users in the category of “Other communication uses” (*see* paragraph (a) of the definition of Communication Use Rent Schedule in this section).
 
-*Designated right-of-way corridor* means a parcel of land with specific boundaries identified by law, Secretarial order, the land-use planning process, or other management decision, as being a preferred location for existing and future rights-of-way and facilities. The corridor may be suitable to accommodate more than one type of right-of-way use or facility or one or more right-of-way uses or facilities which are similar, identical, or compatible.
+*Designated leasing area* means a parcel of land with specific boundaries identified by the BLM land use planning process as being a preferred location for solar or wind energy development that may be offered competitively.
+
+*Designated right-of-way corridor* means a parcel of land with specific boundaries identified by law, Secretarial order, the land use planning process, or other management decision, as being a preferred location for existing and future linear rights-of-way and facilities. The corridor may be suitable to accommodate more than one right-of-way use or facility, provided that they are compatible with one another and the corridor designation.
 
 *Discharge* has the meaning found at 33 U.S.C. 1321(a)(2) of the Clean Water Act.
 
@@ -96,7 +102,27 @@ Link to an amendment published at 81 FR 92205, December 19, 2016.
 
 *Holder* means any entity with a BLM right-of-way authorization.
 
-*Management overhead costs* means Federal expenditures associated with BLM's directorate, including all BLM State Directors and the entire Washington Office staff, except where a State Director or Washington Office staff member is required to perform work on a specific right-of-way case.
+*Management overhead costs* means Federal expenditures associated with a particular Federal agency's directorate. The BLM's directorate includes all State Directors and the entire Washington Office staff, except where a State Director or Washington Office staff member is required to perform work on a specific right-of-way case.
+
+*Megawatt (MW) capacity fee* means the fee paid in addition to the acreage rent for solar and wind energy development grants and leases. The MW capacity fee is the approved MW capacity of the solar or wind energy grant or lease multiplied by the appropriate MW rate. A grant or lease may provide for stages of development, and the grantee or lessee will be charged a fee for each stage by multiplying the MW rate by the approved MW capacity for the stage of the project.
+
+*Megawatt rate* means the price of each MW of capacity for various solar and wind energy technologies as determined by the MW rate formula. Current MW rates are found on the BLM's MW rate schedule, which can be obtained at any BLM office or at *http://www.blm.gov.* The MW rate is calculated by multiplying the total hours per year by the net capacity factor, by the MW hour (MWh) price, and by the rate of return, where:
+
+(1) *Net capacity factor* means the average operational time divided by the average potential operational time of a solar or wind energy development, multiplied by the current technology efficiency rates. The BLM establishes net capacity factors for different technology types but may determine another net capacity factor to be more appropriate, on a case-by-case or regional basis, to reflect changes in technology, such as a solar or wind project that employs energy storage technologies, or if a grant or lease holder or applicant is able to demonstrate that another net capacity factor is appropriate for a particular project or region. The net capacity factor for each technology type is:
+
+(i) Photovoltaic (PV)—20 percent;
+
+(ii) Concentrated photovoltaic (CPV) and concentrated solar power (CSP)—25 percent;
+
+(iii) CSP with storage capacity of 3 hours or more—30 percent; and
+
+(iv) Wind energy—35 percent;
+
+(2) *Megawatt hour (MWh) price* means the 5 calendar-year average of the annual weighted average wholesale prices per MWh for the major trading hubs serving the 11 western States of the continental United States (U.S.);
+
+(3) *Rate of return* means the relationship of income (to the property owner) to revenue generated from authorized solar and wind energy development facilities based on the 10-year average of the 20-year U.S. Treasury bond yield rounded to the nearest one-tenth percent; and
+
+(4) *Hours per year* means the total number of hours in a year, which, for purposes of this part, means 8,760 hours.
 
 *Monetary value of the rights and privileges you seek* means the objective value of the right-of-way or what the right-of-way grant is worth in financial terms to the applicant.
 
@@ -108,6 +134,12 @@ Link to an amendment published at 81 FR 92205, December 19, 2016.
 
 (3) For Monitoring Category 6, those actions agreed to between BLM and the applicant before BLM issues the grant.
 
+*Performance and reclamation bond* means the document provided by the holder of a right-of-way grant or lease that provides the appropriate financial guarantees, including cash, to cover potential liabilities or specific requirements identified by the BLM for the construction, operation, decommissioning, and reclamation of an authorized right-of-way on public lands.
+
+(1) *Acceptable bond instruments.* The BLM will accept cash, cashier's or certified check, certificate or book entry deposits, negotiable U.S. Treasury securities, and surety bonds from the approved list of sureties (U.S. Treasury Circular 570) payable to the BLM. Irrevocable letters of credit payable to the BLM and issued by banks or financial institutions organized or authorized to transact business in the United States are also acceptable bond instruments. An insurance policy can also qualify as an acceptable bond instrument, provided that the BLM is a named beneficiary of the policy, and the BLM determines that the insurance policy will guarantee performance of financial obligations and was issued by an insurance carrier that has the authority to issue policies in the applicable jurisdiction and whose insurance operations are organized or authorized to transact business in the United States.
+
+(2) *Unacceptable bond instruments.* The BLM will not accept a corporate guarantee as an acceptable form of bond instrument.
+
 *Public lands* means any land and interest in land owned by the United States within the several states and administered by the Secretary of the Interior through BLM without regard to how the United States acquired ownership, except lands:
 
 (1) Located on the Outer Continental Shelf; and
@@ -116,9 +148,15 @@ Link to an amendment published at 81 FR 92205, December 19, 2016.
 
 *Reasonable* costs has the meaning found at section 304(b) of the Act.
 
+*Reclamation cost estimate (RCE)* means the estimate of costs to restore the land to a condition that will support pre-disturbance land uses. This includes the cost to remove all improvements made under the right-of-way authorization, return the land to approximate original contour, and establish a sustainable vegetative community, as required by the BLM. The RCE will be used to establish the appropriate amount for financial guarantees of land uses on the public lands, including those uses authorized by right-of-way grants or leases issued under this part.
+
 *Release* has the meaning found at 42 U.S.C. 9601(22) of CERCLA.
 
-*Right-of-way* means the public lands BLM authorizes a holder to use or occupy under a grant.
+*Right-of-way* means the public lands that the BLM authorizes a holder to use or occupy under a particular grant or lease.
+
+*Screening criteria for solar and wind energy development* refers to the policies and procedures that the BLM uses to prioritize how it processes solar and wind energy development right-of-way applications to facilitate the environmentally responsible development of such facilities through the consideration of resource conflicts, land use plans, and applicable statutory and regulatory requirements. Applications for projects with lesser resource conflicts are anticipated to be less costly and time-consuming for the BLM to process and will be prioritized over those with greater resource conflicts.
+
+*Short-term right-of-way grant* means any grant issued for a term of 3 years or less for such uses as storage sites, construction areas, and site testing and monitoring activities, including site characterization studies and environmental monitoring.
 
 *Site* means an area, such as a mountaintop, where a holder locates one or more communication or other right-of-way facilities.
 
@@ -141,3 +179,5 @@ Link to an amendment published at 81 FR 92205, December 19, 2016.
 *Transportation and utility corridor* means a parcel of land, without fixed limits or boundaries, that holders use as the location for one or more transportation or utility rights-of-way.
 
 *Zone* means one of eight geographic groupings necessary for linear right-of-way rent assessment purposes, covering all lands in the contiguous United States.
+
+[70 FR 21058, Apr. 22, 2005, as amended at 81 FR 92205, Dec. 19, 2016]

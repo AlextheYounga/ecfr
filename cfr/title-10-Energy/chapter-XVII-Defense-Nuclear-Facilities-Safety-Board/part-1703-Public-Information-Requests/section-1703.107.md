@@ -1,7 +1,5 @@
 ##### § 1703.107 Fees for record requests. #####
 
-Link to an amendment published at 82 FR 30723, July 3, 2017.
-
 (a) Fees for records available through the Public Reading Room.
 
 (1) With the exception of copies of transcripts of Board public hearings addressed in paragraph (a)(2) of this section, the fees charged shall be limited to costs of duplication of the requested records. The Board shall either duplicate the requested records or have them duplicated by a commercial contractor. If the Board duplicates the records, it shall not charge the requester for the associated labor costs. A schedule of fees for this duplication service shall be prescribed in accordance with paragraph (b)(6) of this section. A person may obtain a copy of the schedule of fees in person or by mail from the Public Reading Room. There shall be no charge for responses consisting of ten or fewer pages.
@@ -30,7 +28,7 @@ Link to an amendment published at 82 FR 30723, July 3, 2017.
 
 (iii) For a request not described in paragraphs (b)(2) (i) or (ii) of this section the Board shall charge the average hourly pay rate for Board employees, plus the average hourly projected benefits cost, for document search time, and the direct costs of duplication as established in the schedule of fees referenced in paragraph (b)(6) of this section. There shall be no charge for document review time and the first 100 pages of reproduction and the first two hours of search time will be furnished without charge.
 
-(iv) [Reserved]
+(iv) The Board will not assess any fees if it has failed to meet its deadlines in § 1703.108.
 
 (v) The Board, or its designee, may establish minimum fees below which no charges will be collected, if it determines that the costs of routine collection and processing of the fees are likely to equal or exceed the amount of the fees. If total fees determined by the Board for a FOIA request would be less than the appropriate threshold, the Board shall not charge the requesters.
 
@@ -50,8 +48,8 @@ Link to an amendment published at 82 FR 30723, July 3, 2017.
 
 (5) *Debt collection.* The Board itself may endeavor to collect unpaid FOIA fees, or may refer unpaid FOIA invoices to the General Services Administration, or other federal agency performing financial management services for the Board, for collection.
 
-(6) *Annual adjustment of fees* - (i) *Update and publication.* The Board, by its designee, the General Manager, shall promulgate a schedule of fees and the average hourly pay rates and average hourly projected benefits cost and will update that schedule once every twelve months. The General Manager shall publish the schedule for public comment in the Federal Register.
+(6) *Annual adjustment of fees*—(i) *Update and publication.* The Board, by its designee, the General Manager, shall promulgate a schedule of fees and the average hourly pay rates and average hourly projected benefits cost and will update that schedule once every twelve months. The General Manager shall publish the schedule for public comment in the Federal Register.
 
 (ii) *Payment of updated fees.* The fee applicable to a particular FOIA request will be the fee in effect on the date that the request is received.
 
-[56 FR 21261, May 8, 1991, as amended at 62 FR 66816, Dec. 22, 1997]
+[56 FR 21261, May 8, 1991, as amended at 62 FR 66816, Dec. 22, 1997; 82 FR 30723, July 3, 2017]

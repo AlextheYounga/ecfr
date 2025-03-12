@@ -67,7 +67,6 @@ Example 1.Corporation X has outstanding 100 shares of voting stock, with each sh
 |                                                 (b) Permitted holdings of voting stock by F in X (percent)                                                 |10 |
 |                                                            (c) Item (a) less item (b) (percent)                                                            |20 |
 |(d) Excess business holdings of F in X (i.e., an amount of X voting stock representing a percentage of voting stock equivalent to that in item (c)) (shares)|20 |
-|                                                                    \* \* \* \* \* \* \*                                                                    |   |
 
 Example 2.F, a private foundation, is a partner in P partnership. In addition, A and B, the only disqualified persons with respect to F, are partners in P. The partnership agreement of P contains no provisions regarding the sharing of profits by, and the respective capital interests of, the partners.
 

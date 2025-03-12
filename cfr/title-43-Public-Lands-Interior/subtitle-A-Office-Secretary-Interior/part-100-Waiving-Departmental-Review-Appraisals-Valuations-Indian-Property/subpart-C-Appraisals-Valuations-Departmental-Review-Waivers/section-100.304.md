@@ -1,0 +1,3 @@
+##### § 100.304 Is the Department liable if it approves a transaction for Indian property based on an appraisal or valuation prepared by a qualified appraiser? #####
+
+The Department is not liable for any deficient or inaccurate appraisal or valuation provided by the tribe or individual Indian that it did not review or approve, even if the Department approved a transaction for Indian property (including but not limited to a lease, grant, sale, or purchase) based on the appraisal or valuation.

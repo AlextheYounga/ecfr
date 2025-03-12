@@ -1,0 +1,3 @@
+##### § 100.101 What is the purpose of this part? #####
+
+This part describes the minimum qualifications for appraisers, employed by or under contract with an Indian tribe or individual Indian, to become qualified appraisers who may prepare an appraisal or valuation of Indian property that will be accepted by the Department without further review or approval when the Indian tribe or individual Indian waives Departmental review and approval.

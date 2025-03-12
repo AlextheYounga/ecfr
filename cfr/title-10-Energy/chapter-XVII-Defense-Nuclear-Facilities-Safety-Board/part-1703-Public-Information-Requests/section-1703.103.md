@@ -1,10 +1,8 @@
-##### § 1703.103 Requests for board records available through the public reading room. #####
+##### § 1703.103 Requests for agency records available through the electronic reading room. #####
 
-Link to an amendment published at 82 FR 30723, July 3, 2017.
+(a) The DNFSB will maintain an electronic reading room on its public Web site at *https://www.dnfsb.gov*/*foia-reading-room*. Records may be obtained by accessing and downloading them from the electronic reading room. The electronic reading room is intended to provide easy accessibility to a substantial collection of the agency's records. The agency considers the records available through its electronic reading room to have been placed in the public domain.
 
-(a) A Public Reading Room will be maintained at the Board's headquarters and will be open between 8:30 a.m. and 4:30 p.m. Mondays through Fridays, with the exception of legal holidays. Documents may be obtained in person or by written or telephonic request from the Public Reading Room by reasonably describing the records sought. The purpose of the Public Reading Room is to provide easy accessibility to a substantial portion of the Board's records. The Board considers that documents available through the Public Reading Room have been placed in the public domain.
-
-(b) The public records of the Board that are available for inspection and copying upon request in the Public Reading Room include:
+(b) The public records of the agency that are available in the electronic reading room or through links from the electronic reading room include:
 
 (1) The Board's rules and regulations;
 
@@ -30,4 +28,4 @@ Link to an amendment published at 82 FR 30723, July 3, 2017.
 
 (12) Copies of records released pursuant to FOIA requests, along with an index to these records. The format will generally be the same as the format of the released records.
 
-[56 FR 21261, May 8, 1991, as amended at 62 FR 66815, Dec. 22, 1997]
+[56 FR 21261, May 8, 1991, as amended at 62 FR 66815, Dec. 22, 1997; 82 FR 30723, July 3, 2017]

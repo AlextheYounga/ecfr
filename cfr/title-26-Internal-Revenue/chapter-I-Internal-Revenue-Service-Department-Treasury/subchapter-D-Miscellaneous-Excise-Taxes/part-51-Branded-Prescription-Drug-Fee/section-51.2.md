@@ -2,7 +2,7 @@
 
 (a) *In general.* This section explains the terms used in this part for purposes of the fee imposed by section 9008 on branded prescription drugs.
 
-(b) *Agencies.* The term *Agencies* means -
+(b) *Agencies.* The term *Agencies* means—
 
 (1) The Centers for Medicare and Medicaid Services of the Department of Health and Human Services (CMS);
 
@@ -10,7 +10,7 @@
 
 (3) The Department of Defense (DOD).
 
-(c) *Branded prescription drug* - (1) *In general.* The term *branded prescription drug* means -
+(c) *Branded prescription drug*—(1) *In general.* The term *branded prescription drug* means—
 
 (i) Any prescription drug the application for which was submitted under section 505(b) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 355(b)) (FFDCA); or
 
@@ -20,7 +20,7 @@
 
 (d) *Branded prescription drug sales.* The term *branded prescription drug sales* means sales of branded prescription drugs to any government program or pursuant to coverage under any such government program. However, the term does not include sales of orphan drugs.
 
-(e) *Covered entity* - (1) *In general.* The term *covered entity* means any manufacturer or importer with gross receipts from branded prescription drug sales including -
+(e) *Covered entity*—(1) *In general.* The term *covered entity* means any manufacturer or importer with gross receipts from branded prescription drug sales including—
 
 (i) A single-person covered entity; or
 
@@ -28,17 +28,15 @@
 
 (2) *Single-person covered entity.* The term *single-person covered entity* means a covered entity that is not affiliated with a controlled group.
 
-(3) *Controlled group* - (i) *On or before December 31, 2014.* The term *controlled group* means a group of at least two covered entities that are treated as a single employer under section 52(a), 52(b), 414(m), or 414(o).
+(3) *Controlled group.* The term *controlled group* means a group of two or more persons, including at least one person that is a covered entity, that is treated as a single employer under section 52(a), 52(b), 414(m), or 414(o).
 
-(ii) *After December 31, 2014.* For guidance regarding the definition of controlled group after December 31, 2014, see § 51.2T(e)(3).
-
-(4) *Special rules for controlled groups.* For purposes of paragraph (e)(3) of this section (related to controlled groups) -
+(4) *Special rules for controlled groups.* For purposes of paragraph (e)(3) of this section (related to controlled groups)—
 
 (i) A foreign entity subject to tax under section 881 is included within a group under section 52(a) or 52(b); and
 
 (ii) A person is treated as being a member of a controlled group if it is a member of the group on the end of the day on December 31st of the sales year.
 
-(5) *Covered entity status* - (i) *Rule.* An entity's status as a covered entity begins in the first fee year in which the entity has branded prescription drug sales and continues each subsequent fee year until there are no remaining branded prescription drug sales for that entity to be taken into account as described in § 51.5(c) or used to calculate the adjustment amount described in § 51.5(e).
+(5) *Covered entity status*—(i) *Rule.* An entity's status as a covered entity begins in the first fee year in which the entity has branded prescription drug sales and continues each subsequent fee year until there are no remaining branded prescription drug sales for that entity to be taken into account as described in § 51.5(c) or used to calculate the adjustment amount described in § 51.5(e).
 
 (ii) *Example.* The following example illustrates the rule of paragraph (e)(5)(i) of this section:
 
@@ -46,7 +44,7 @@
 
 (B) *Analysis.* Entity A is a covered entity beginning in 2011 because it had gross receipts from branded prescription drug sales in 2011. For the 2011 fee year, Entity A does not owe a fee because the 2011 fee is based on sales data from the 2009 sales year. For the 2012 fee year, Entity A does not owe a fee because the 2012 fee is based on sales data from the 2010 sales year. Entity A continues to be a covered entity for the 2012 fee year because its branded prescription drug sales from the 2011 sales year have not yet been taken into account as described in § 51.5(c) and used to calculate the adjustment amount described in § 51.5(e). For the 2013 fee year, Entity A continues to be a covered entity because a portion of its branded prescription drug sales from the 2011 sales year are taken into account as described in § 51.5(c) for purposes of computing the 2013 fee. For the 2013 fee year, Entity A is also liable for the adjustment amount described in § 51.5(e) for the difference between its 2012 fee computed using sales data from the 2010 sales year, which is $0, and what the 2012 fee would have been using sales data from the 2011 sales year. For the 2014 fee year, Entity A continues to be a covered entity because a portion of its branded prescription drug sales for the 2011 sales year are used to calculate the adjustment amount described in § 51.5(e). Therefore, for the 2014 fee year, Entity A will receive an adjustment amount for the difference between its 2013 fee computed using sales data from the 2011 sales year, and what the 2013 fee would have been using sales data from the 2012 sales year, which is $0. After the 2014 fee year, there are no remaining branded prescription drug sales to be taken into account as described in § 51.5(c) or used to calculate the adjustment amount described in § 51.5(e) for Entity A. Accordingly, Entity A is not a covered entity after the 2014 fee year.
 
-(f) *Designated entity* - (1) *In general.* The term *designated entity* means the person within a controlled group that is designated to act for the controlled group regarding the fee by -
+(f) *Designated entity*—(1) *In general.* The term *designated entity* means the person within a controlled group that is designated to act for the controlled group regarding the fee by—
 
 (i) Filing Form 8947, “Report of Branded Prescription Drug Information”;
 
@@ -56,7 +54,7 @@
 
 (iv) Paying the fee to the government.
 
-(2) *Selection of designated entity* - (i) *Controlled group selection of a designated entity.* Except as provided in paragraph (f)(2)(ii) of this section, the controlled group may select a person as the designated entity by filing Form 8947 in accordance with the form instructions. The designated entity must state under penalties of perjury that all members of the controlled group have consented to the selection of the designated entity. The designated entity must maintain a record of all member consents. Each member of a controlled group must maintain a record of its consent to the controlled group's selection of the designated entity.
+(2) *Selection of designated entity*—(i) *Controlled group selection of a designated entity.* Except as provided in paragraph (f)(2)(ii) of this section, the controlled group may select a person as the designated entity by filing Form 8947 in accordance with the form instructions. The designated entity must state under penalties of perjury that all members of the controlled group have consented to the selection of the designated entity. The designated entity must maintain a record of all member consents. Each member of a controlled group must maintain a record of its consent to the controlled group's selection of the designated entity.
 
 (ii) *Requirement for affiliated groups; agent for the group.* If the controlled group, without regard to foreign corporations included under section 9008(d)(2)(B), is also an affiliated group whose common parent files a consolidated return for federal income tax purposes, the designated entity is the agent for the group (within the meaning of § 1.1502-77 of this title).
 
@@ -64,7 +62,7 @@
 
 (g) *Fee year.* The term *fee year* means the calendar year in which the fee for a particular sales year must be paid to the government.
 
-(h) *Government programs.* The term *government programs* (collectively “Programs”), means -
+(h) *Government programs.* The term *government programs* (collectively “Programs”), means—
 
 (1) The Medicare Part B program;
 
@@ -82,9 +80,9 @@
 
 (j) *NDC.* The term *NDC* means the National Drug Code. The NDC is a unique identifier that is assigned to all drug products approved by the Food and Drug Administration (FDA), including a branded prescription drug. The Labeler Code is the first five numeric characters of the NDC or the first six numeric characters when the available five-character code combinations are exhausted.
 
-(k) *Orphan drugs* - (1) *In general.* Except as provided in paragraph (k)(2) of this section, the term *orphan drug* means any branded prescription drug for which any person claimed a section 45C credit and that credit was allowed for any taxable year.
+(k) *Orphan drugs*—(1) *In general.* Except as provided in paragraph (k)(2) of this section, the term *orphan drug* means any branded prescription drug for which any person claimed a section 45C credit and that credit was allowed for any taxable year.
 
-(2) *Exclusions.* The term *orphan drug* does not include -
+(2) *Exclusions.* The term *orphan drug* does not include—
 
 (i) Any drug for which there has been a final assessment or court order disallowing the full section 45C credit taken for the drug; or
 
@@ -110,4 +108,4 @@ Example 3:*Allowance of section 45C credit and subsequent allowance of section 4
 
 (m) *Sales year.* The term *sales year* means the second calendar year preceding the fee year. Thus, for example, for the fee year of 2014, the sales year is 2012.
 
-[T.D. 9684, 79 FR 43639, July 28, 2014]
+[T.D. 9684, 79 FR 43639, July 28, 2014, as amended by T.D. 9823, 82 FR 34612, July 26, 2017]

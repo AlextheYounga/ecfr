@@ -1,12 +1,11 @@
 ##### § 2801.6 Scope. #####
 
-Link to an amendment published at 81 FR 92207, December 19, 2016.
-
 (a) *What do these regulations apply to?* The regulations in this part apply to:
 
 (1) Grants for necessary transportation or other systems and facilities which are in the public interest and which require the use of public lands for the purposes identified in 43 U.S.C. 1761, and administering, amending, assigning, renewing, and terminating them;
 
-(2) Grants to Federal departments or agencies for transporting by pipeline and related facilities oil, natural gas, synthetic liquid or gaseous fuels, and any refined products produced from them; and
+(2) Grants to Federal departments or agencies for all systems and facilities identified in
+§ 2801.9(a), including grants for transporting by pipeline and related facilities, commodities such as oil, natural gas, synthetic liquid or gaseous fuels, and any refined products produced from them; and
 
 (3) Grants issued on or before October 21, 1976, under then existing statutory authority, unless application of these regulations would diminish or reduce any rights conferred by the original grant or the statute under which it was issued. Where there would be a diminishment or reduction in any right, the grant or statute applies.
 
@@ -33,3 +32,5 @@ Link to an amendment published at 81 FR 92207, December 19, 2016.
 (C) Includes continued operation of such project (license renewal) under section 15 (16 U.S.C. 808) of the FPA;
 
 (ii) Paragraph (b)(7)(i) of this section does not apply to any additional public lands the project uses that are not subject to the reservation in paragraph (b)(7)(i)(A) of this section.
+
+[70 FR 21058, Apr. 22, 2005, as amended at 81 FR 92207, Dec. 19, 2016]

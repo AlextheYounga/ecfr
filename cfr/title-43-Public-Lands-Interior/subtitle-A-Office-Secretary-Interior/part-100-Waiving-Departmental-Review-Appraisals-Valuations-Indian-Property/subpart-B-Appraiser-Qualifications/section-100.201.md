@@ -1,0 +1,3 @@
+##### § 100.201 Does a qualified appraiser have the authority to conduct appraisals or valuations of any type of Indian property? #####
+
+All qualified appraisers of Indian property must meet the Competency requirements of USPAP for the type of property being appraised or valued. Competency can be demonstrated by previous completed assignments on the type of properties being appraised, additional education or training in specific property types, or membership and/or professional designation by a related professional appraisal association or group.
