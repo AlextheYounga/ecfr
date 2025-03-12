@@ -1,16 +1,14 @@
 ##### 52.209-6 Protecting the Government's Interest When Subcontracting With Contractors Debarred, Suspended, or Proposed for Debarment. #####
 
-Link to an amendment published at 86 FR 61032, Nov. 4, 2021.
-
 As prescribed in 9.409, insert the following clause:
 
-Protecting the Government's Interest When Subcontracting With Contractors Debarred, Suspended, or Proposed for Debarment (JUN 2020)
+Protecting the Government's Interest When Subcontracting With Contractors Debarred, Suspended, or Proposed for Debarment (NOV 2021)
 
-(a) *Definition. Commercially available off-the-shelf (COTS)* item, as used in this clause -
+(a) *Definition. Commercially available off-the-shelf (COTS) item,* as used in this clause—
 
-(1) Means any item of supply (including construction material) that is -
+(1) Means any item of supply (including construction material) that is—
 
-(i) A commercial item (as defined in paragraph (1) of the definition in Federal Acquisition Regulation (FAR) 2.101);
+(i) A commercial product (as defined in paragraph (1) of the definition of “commercial product” in Federal Acquisition Regulation (FAR) 2.101);
 
 (ii) Sold in substantial quantities in the commercial marketplace; and
 
@@ -32,10 +30,10 @@ Protecting the Government's Interest When Subcontracting With Contractors Debarr
 
 (4) The systems and procedures the Contractor has established to ensure that it is fully protecting the Government's interests when dealing with such subcontractor in view of the specific basis for the party's debarment, suspension, or proposed debarment.
 
-(e) *Subcontracts.* Unless this is a contract for the acquisition of commercial items, the Contractor shall include the requirements of this clause, including this paragraph (e) (appropriately modified for the identification of the parties), in each subcontract that -
+(e) *Subcontracts.* Unless this is a contract for the acquisition of commercial products or commercial services, the Contractor shall include the requirements of this clause, including this paragraph (e) (appropriately modified for the identification of the parties), in each subcontract that—
 
 (1) Exceeds the threshold specified in FAR 9.405-2(b) on the date of subcontract award; and
 
 (2) Is not a subcontract for commercially available off-the-shelf items.
 
-(End of clause)[56 FR 29138, June 25, 1991, as amended at 57 FR 44269, Sept. 24, 1992; 60 FR 33066, June 26, 1995; 60 FR 34761, July 3, 1995; 69 FR 76349, Dec. 20, 2004; 71 FR 57369, Sept. 28, 2006; 74 FR 65615, Dec. 10, 2009; 75 FR 77741, Dec. 13, 2010; 78 FR 37681, June 21, 2013; 78 FR 46795, Aug. 1, 2013; 80 FR 38299, July 2, 2015; 85 FR 27092, May 6, 2020]
+(End of clause)[56 FR 29138, June 25, 1991, as amended at 57 FR 44269, Sept. 24, 1992; 60 FR 33066, June 26, 1995; 60 FR 34761, July 3, 1995; 69 FR 76349, Dec. 20, 2004; 71 FR 57369, Sept. 28, 2006; 74 FR 65615, Dec. 10, 2009; 75 FR 77741, Dec. 13, 2010; 78 FR 37681, June 21, 2013; 78 FR 46795, Aug. 1, 2013; 80 FR 38299, July 2, 2015; 85 FR 27092, May 6, 2020; 86 FR 61032, Nov. 4, 2021]

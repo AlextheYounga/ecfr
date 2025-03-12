@@ -1,7 +1,5 @@
 ##### 32.002 Applicability of subparts. #####
 
-Link to an amendment published at 86 FR 61029, Nov. 4, 2021.
-
 (a) The following sections and subparts of this part are applicable to all purchases subject to part 32:
 
 (1) Sections 32.000 through 32.009.
@@ -18,16 +16,16 @@ Link to an amendment published at 86 FR 61029, Nov. 4, 2021.
 
 (7) Subpart 32.11, Electronic Funds Transfer.
 
-(b) Subpart 32.2, Commercial Item Purchase Financing, is applicable only to purchases of commercial items under authority of part 12.
+(b) Subpart 32.2, Commercial Product and Commercial Service Purchase Financing, is applicable only to purchases of commercial products and commercial services under authority of part 12.
 
 (c) The following subparts of this part are applicable to all purchases made under any authority other than part 12:
 
-(1) Subpart 32.1, Non-Commercial Item Purchase Financing.
+(1) Subpart 32.1, Financing for Other Than a Commercial Purchase.
 
-(2) Subpart 32.4, Advance Payments For Non-Commercial Items.
+(2) Subpart 32.4, Advance Payments for Other Than Commercial Acquisitions .
 
 (3) Subpart 32.5, Progress Payments Based on Costs.
 
 (4) Subpart 32.10, Performance-Based Payments.
 
-[60 FR 49710, Sept. 26, 1995, as amended at 61 FR 45772, Aug. 29, 1996; 78 FR 70479, Nov. 25, 2013]
+[60 FR 49710, Sept. 26, 1995, as amended at 61 FR 45772, Aug. 29, 1996; 78 FR 70479, Nov. 25, 2013; 86 FR 61029, Nov. 4, 2021]

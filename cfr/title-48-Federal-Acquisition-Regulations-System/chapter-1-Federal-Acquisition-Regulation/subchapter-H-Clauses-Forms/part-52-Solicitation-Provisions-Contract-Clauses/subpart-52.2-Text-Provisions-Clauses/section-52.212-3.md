@@ -1,10 +1,8 @@
-##### 52.212-3 Offeror Representations and Certifications - Commercial Items. #####
-
-Link to an amendment published at 86 FR 61033, Nov. 4, 2021.
+##### 52.212-3 Offeror Representations and Certifications - Commercial Products and Commercial Services. #####
 
 As prescribed in 12.301(b)(2), insert the following provision:
 
-Offeror Representations and Certifications - Commercial Items (FEB 2021)
+Offeror Representations and Certifications - Commercial Products and Commercial Services (NOV 2021)
 
 The Offeror shall complete only paragraph (b) of this provision if the Offeror has completed the annual representations and certification electronically in the System for Award Management (SAM) accessed through *https://www.sam.gov.* If the Offeror has not completed the annual representations and certifications electronically, the Offeror shall complete only paragraphs (c) through (v)) of this provision.
 
@@ -128,7 +126,7 @@ The Offeror shall complete only paragraph (b) of this provision if the Offeror h
 
 (b)(1) *Annual Representations and Certifications.* Any changes provided by the Offeror in paragraph (b)(2) of this provision do not automatically change the representations and certifications in SAM.
 
-(2) The offeror has completed the annual representations and certifications electronically in SAM accessed through *http://www.sam.gov.* After reviewing SAM information, the Offeror verifies by submission of this offer that the representations and certifications currently posted electronically at FAR 52.212-3, Offeror Representations and Certifications - Commercial Items, have been entered or updated in the last 12 months, are current, accurate, complete, and applicable to this solicitation (including the business size standard(s) applicable to the NAICS code(s) referenced for this solicitation), at the time this offer is submitted and are incorporated in this offer by reference (see FAR 4.1201), except for paragraphs \_\_.
+(2) The offeror has completed the annual representations and certifications electronically in SAM accessed through *http://www.sam.gov.* After reviewing SAM information, the Offeror verifies by submission of this offer that the representations and certifications currently posted electronically at FAR 52.212-3, Offeror Representations and Certifications - Commercial Products and Commercial Services, have been entered or updated in the last 12 months, are current, accurate, complete, and applicable to this solicitation (including the business size standard(s) applicable to the NAICS code(s) referenced for this solicitation), at the time this offer is submitted and are incorporated in this offer by reference (see FAR 4.1201), except for paragraphs \_\_.
 
 [*Offeror to identify the applicable paragraphs at (c) through (v) of this provision that the offeror has completed for the purposes of this solicitation only, if any.*
 

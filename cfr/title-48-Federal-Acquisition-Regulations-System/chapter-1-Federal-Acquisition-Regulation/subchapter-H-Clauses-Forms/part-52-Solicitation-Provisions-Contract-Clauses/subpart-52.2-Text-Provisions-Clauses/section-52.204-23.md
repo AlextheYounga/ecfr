@@ -1,14 +1,12 @@
 ##### 52.204-23 Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities. #####
 
-Link to an amendment published at 86 FR 61032, Nov. 4, 2021.
-
 As prescribed in 4.2004, insert the following clause:
 
-Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (JUL 2018)
+Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (NOV 2021)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
-*Covered article* means any hardware, software, or service that -
+*Covered article* means any hardware, software, or service that—
 
 (1) Is developed or provided by a covered entity;
 
@@ -16,7 +14,7 @@ Prohibition on Contracting for Hardware, Software, and Services Developed or Pro
 
 (3) Contains components using any hardware or software developed in whole or in part by a covered entity.
 
-*Covered entity* means -
+*Covered entity* means—
 
 (1) Kaspersky Lab;
 
@@ -26,7 +24,7 @@ Prohibition on Contracting for Hardware, Software, and Services Developed or Pro
 
 (4) Any entity of which Kaspersky Lab has a majority ownership.
 
-(b) *Prohibition.* Section 1634 of Division A of the National Defense Authorization Act for Fiscal Year 2018 (Pub. L. 115-91) prohibits Government use of any covered article. The Contractor is prohibited from -
+(b) *Prohibition.* Section 1634 of Division A of the National Defense Authorization Act for Fiscal Year 2018 (Pub. L. 115-91) prohibits Government use of any covered article. The Contractor is prohibited from—
 
 (1) Providing any covered article that the Government will use on or after October 1, 2018; and
 
@@ -40,6 +38,6 @@ Prohibition on Contracting for Hardware, Software, and Services Developed or Pro
 
 (ii) Within 10 business days of submitting the report pursuant to paragraph (c)(1) of this clause: Any further available information about mitigation actions undertaken or recommended. In addition, the Contractor shall describe the efforts it undertook to prevent use or submission of a covered article, any reasons that led to the use or submission of the covered article, and any additional efforts that will be incorporated to prevent future use or submission of covered articles.
 
-(d) *Subcontracts.* The Contractor shall insert the substance of this clause, including this paragraph (d), in all subcontracts, including subcontracts for the acquisition of commercial items.
+(d) *Subcontracts.* The Contractor shall insert the substance of this clause, including this paragraph (d), in all subcontracts including subcontracts for the acquisition of commercial products or commercial services.
 
-(End of clause)[83 FR 28144, June 15, 2018]
+(End of clause)[83 FR 28144, June 15, 2018, as amended at 86 FR 61032, Nov. 4, 2021]

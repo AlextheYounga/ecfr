@@ -1,10 +1,8 @@
 ##### 52.204-8 Annual Representations and Certifications. #####
 
-Link to an amendment published at 86 FR 61032, Nov. 4, 2021.
-
 As prescribed in 4.1202(a), insert the following provision:
 
-Annual Representations and Certifications (SEP 2021)
+Annual Representations and Certifications (NOV 2021)
 
 (a)(1) The North American Industry Classification System (NAICS) code for this acquisition is \_\_\_\_\_\_\_ [*insert NAICS code*].
 
@@ -76,7 +74,7 @@ Annual Representations and Certifications (SEP 2021)
 
 (xv) 52.222-25, Affirmative Action Compliance. This provision applies to solicitations, other than those for construction, when the solicitation includes the clause at 52.222-26, Equal Opportunity.
 
-(xvi) 52.222-38, Compliance with Veterans' Employment Reporting Requirements. This provision applies to solicitations when it is anticipated the contract award will exceed the simplified acquisition threshold and the contract is not for acquisition of commercial items.
+(xvi) 52.222-38, Compliance with Veterans' Employment Reporting Requirements. This provision applies to solicitations when it is anticipated the contract award will exceed the simplified acquisition threshold and the contract is not for acquisition of commercial products or commercial services.
 
 (xvii) 52.223-1, Biobased Product Certification. This provision applies to solicitations that require the delivery or specify the use of USDA-designated items; or include the clause at 52.223-2, Affirmative Procurement of Biobased Products Under Service and Construction Contracts.
 

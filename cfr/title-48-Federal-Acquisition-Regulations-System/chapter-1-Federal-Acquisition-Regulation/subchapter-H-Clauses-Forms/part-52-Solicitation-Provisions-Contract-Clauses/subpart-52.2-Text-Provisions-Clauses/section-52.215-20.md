@@ -1,16 +1,14 @@
 ##### 52.215-20 Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data. #####
 
-Link to an amendment published at 86 FR 61034, Nov. 4, 2021.
-
 As prescribed in 15.408(l), insert the following provision:
 
-Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data (OCT 2010)
+Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data (NOV 2021)
 
 (a) *Exceptions from certified cost or pricing data.* (1) In lieu of submitting certified cost or pricing data, offerors may submit a written request for exception by submitting the information described in the following subparagraphs. The Contracting Officer may require additional supporting information, but only to the extent necessary to determine whether an exception should be granted, and whether the price is fair and reasonable.
 
 (i) *Identification of the law or regulation establishing the price offered.* If the price is controlled under law by periodic rulings, reviews, or similar actions of a governmental body, attach a copy of the controlling document, unless it was previously submitted to the contracting office.
 
-(ii) *Commercial item exception.* For a commercial item exception, the offeror shall submit, at a minimum, information on prices at which the same item or similar items have previously been sold in the commercial market that is adequate for evaluating the reasonableness of the price for this acquisition. Such information may include -
+(ii) *Commercial product and commercial service exception.* For a commercial product and commercial service exception, the offeror shall submit, at a minimum, information on prices at which the same item or similar items have previously been sold in the commercial market that is adequate for evaluating the reasonableness of the price for this acquisition. Such information may include—
 
 (A) For catalog items, a copy of or identification of the catalog and its date, or the appropriate pages for the offered items, or a statement that the catalog is on file in the buying office to which the proposal is being submitted. Provide a copy or describe current discount policies and price lists (published or unpublished), e.g., wholesale, original equipment manufacturer, or reseller. Also explain the basis of each offered price and its relationship to the established catalog price, including how the proposed price relates to the price of recent sales in quantities similar to the proposed quantities;
 
@@ -46,4 +44,4 @@ Requirements for Certified Cost or Pricing Data and Data Other Than Certified Co
 
 (b) Provide data described below: *[Insert description of the data and the format that are required, including the access to records necessary to permit an adequate evaluation of the proposed price in accordance with 15.403-3.]*
 
-[62 FR 51264, Sept. 30, 1997, as amended at 75 FR 53152, Aug. 30, 2010; 77 FR 44066, July 26, 2012]
+[62 FR 51264, Sept. 30, 1997, as amended at 75 FR 53152, Aug. 30, 2010; 77 FR 44066, July 26, 2012; 86 FR 61034, Nov. 4, 2021]

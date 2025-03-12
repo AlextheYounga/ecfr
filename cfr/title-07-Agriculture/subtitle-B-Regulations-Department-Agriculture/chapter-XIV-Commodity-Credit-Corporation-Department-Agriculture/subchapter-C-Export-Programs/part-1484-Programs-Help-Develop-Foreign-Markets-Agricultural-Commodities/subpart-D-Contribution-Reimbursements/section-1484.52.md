@@ -24,7 +24,7 @@
 
 (ii) An international exhibit or show that targets buyers, distributors, and the like from more than one foreign country and no less than 15% of its visitors are from countries other than the host country;
 
-(7) Where USDA has sponsored or endorsed a U.S. pavilion at a retail or trade exhibit or show, whether held outside or inside the United States, project funds may be used to reimburse the travel and/or non-travel expenditures of only those Cooperators located within the U.S. pavilion. Such expenditures must also adhere to the standard terms and conditions of the U.S. pavilion organizer. Upon written request, CCC may temporarily waive this paragraph (b)(7), on a case by case basis, where the trade show is segregated into product pavilions or a company's distributor or importer is located outside the U.S. pavilion. Such waiver will be provided to the Cooperator in writing;
+(7) Where USDA has sponsored or endorsed a U.S. pavilion at a retail or trade exhibit or show, whether held outside or inside the United States, project funds may be used to reimburse the travel and/or non-travel expenditures of only those Cooperators located within the U.S. pavilion. Such expenditures must also adhere to the standard terms and conditions of the U.S. pavilion organizer. Upon written request, CCC may temporarily waive this paragraph (b)(7), on a case by case basis, where the trade show is segregated into product pavilions, a company's distributor or importer is located outside the U.S. pavilion, or when a company can demonstrate that there is a benefit to being located outside the U.S. pavilion. Such waiver will be provided to the Cooperator in writing;
 
 (8) Expenditures, other than travel expenditures, associated with seminars and educational training, whether conducted in the United States or outside the United States, including space rental, equipment rental, and duplication of seminar materials;
 
@@ -110,7 +110,7 @@
 
 (39) Rental or lease expenditures for storage space for program-related materials;
 
-(40) Shipment of samples or other program materials from the United States to foreign countries;
+(40) Shipment of samples or other program materials;
 
 (41) That portion of airtime for wireless phones that is devoted to program activities and monthly service fees prorated at the proportion of program-related airtime to total airtime;
 
@@ -131,3 +131,5 @@
 (49) Membership fees in professional, industry-related organizations; and
 
 (50) Contracts with U.S.-based organizations when the only contracted service such organizations provide to a Cooperator is carrying out a specific market promotion activity in the United States directed to a foreign audience (*e.g.,* a trade mission of foreign buyers coming to the United States to visit U.S. exporters). Such contracts may be reimbursable as a direct promotional expense. If a U.S.-based organization provides administrative services to the Cooperator's domestic home office during a program year, any direct promotional services such organization provides to the Cooperator, whether for the Cooperator's domestic or overseas offices, during the same program year are not reimbursable.
+
+[85 FR 1084, Jan. 9, 2020, as amended at 86 FR 68882, Dec. 6, 2021]

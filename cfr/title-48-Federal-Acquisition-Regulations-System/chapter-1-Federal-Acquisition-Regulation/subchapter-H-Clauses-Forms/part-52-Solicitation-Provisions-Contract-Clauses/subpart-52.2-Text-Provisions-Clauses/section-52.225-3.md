@@ -1,10 +1,8 @@
 ##### 52.225-3 Buy American - Free Trade Agreements - Israeli Trade Act. #####
 
-Link to an amendment published at 86 FR 61036, Nov. 4, 2021.
-
 As prescribed in 25.1101(b)(1)(i), insert the following clause:
 
-Buy American - Free Trade Agreements - Israeli Trade Act (JAN 2021)
+Buy American - Free Trade Agreements - Israeli Trade Act (NOV 2021)
 
 (a) *Definitions.* As used in this clause -
 
@@ -16,7 +14,7 @@ Buy American - Free Trade Agreements - Israeli Trade Act (JAN 2021)
 
 *Commercially available off-the-shelf (COTS) item* - (1) Means any item of supply (including construction material) that is -
 
-(i) A commercial item (as defined in paragraph (1) of the definition at Federal Acquisition Regulation (FAR) 2.101);
+(i) A commercial product (as defined in paragraph (1) of the definition of “commercial product” at Federal Acquisition Regulation (FAR) 2.101;
 
 (ii) Sold in substantial quantities in the commercial marketplace; and
 

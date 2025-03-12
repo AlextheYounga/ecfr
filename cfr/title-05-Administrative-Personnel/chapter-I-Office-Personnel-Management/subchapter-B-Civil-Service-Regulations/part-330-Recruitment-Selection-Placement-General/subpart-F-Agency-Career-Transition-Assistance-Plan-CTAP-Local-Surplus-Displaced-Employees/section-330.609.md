@@ -1,7 +1,5 @@
 ##### § 330.609 Exceptions to CTAP selection priority. #####
 
-Link to an amendment published at 86 FR 61047, Nov. 5, 2021.
-
 An agency may take the following personnel actions as exceptions to § 330.607:
 
 (a) Reemploy a former agency employee with regulatory or statutory reemployment rights, including the reemployment of an injured worker who either has been restored to earning capacity by the Office of Workers' Compensation Programs, Department of Labor, or has received a notice that his or her compensation benefits will cease because of full recovery from the disabling injury or illness;
@@ -74,8 +72,8 @@ An agency may take the following personnel actions as exceptions to § 330.607:
 
 (ee) Convert an employee's time-limited appointment in the competitive or excepted service to a permanent appointment in the competitive service if the employee accepted the time-limited appointment while a CTAP eligible; or
 
-(ff) [Reserved]
+(ff) Make an appointment using the college graduate hiring authority under 5 U.S.C. 3115 and part 315 of this chapter.
 
 (gg) Make an appointment using the post-secondary student hiring authority under 5 U.S.C. 3116 and part 316, subpart I, of this chapter.
 
-[75 FR 67593, Nov. 3, 2010, as amended at 77 FR 28215, May 11, 2012; 86 FR 46109, Aug. 18, 2021]
+[75 FR 67593, Nov. 3, 2010, as amended at 77 FR 28215, May 11, 2012; 86 FR 46109, Aug. 18, 2021; 86 FR 61047, Nov. 5, 2021]

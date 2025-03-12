@@ -1,8 +1,6 @@
 ##### 27.201-2 Contract clauses. #####
 
-Link to an amendment published at 86 FR 61028, Nov. 4, 2021.
-
-(a)(1) Insert the clause at 52.227-1, Authorization and Consent, in solicitations and contracts except that use of the clause is -
+(a)(1) Insert the clause at 52.227-1, Authorization and Consent, in solicitations and contracts except that use of the clause is—
 
 (i) Optional when using simplified acquisition procedures; and
 
@@ -14,7 +12,7 @@ Link to an amendment published at 86 FR 61028, Nov. 4, 2021.
 
 (b) Insert the clause at 52.227-2, Notice and Assistance Regarding Patent and Copyright Infringement, in all solicitations and contracts that include the clause at 52.227-1, Authorization and Consent.
 
-(c)(1) Insert the clause at 52.227-3, Patent Indemnity, in solicitations and contracts that may result in the delivery of commercial items, unless -
+(c)(1) Insert the clause at 52.227-3, Patent Indemnity, in solicitations and contracts that may result in the delivery of commercial products or the provision of commercial services, unless—
 
 (i) Part 12 procedures are used;
 
@@ -24,15 +22,15 @@ Link to an amendment published at 86 FR 61028, Nov. 4, 2021.
 
 (iv) The contracting officer determines after consultation with legal counsel that omission of the clause would be consistent with commercial practice.
 
-(2) Use the clause with either its Alternate I (identification of excluded items) or II (identification of included items) if -
+(2) Use the clause with either its Alternate I (identification of excluded items) or II (identification of included items) if—
 
-(i) The contract also requires delivery of items that are not commercial items; or
+(i) The contract also requires delivery of items that are not commercial products or the provision of services that are not commercial services; or
 
 (ii) The contracting officer determines after consultation with legal counsel that limitation of applicability of the clause would be consistent with commercial practice.
 
 (3) Use the clause with its Alternate III if the solicitation or contract is for communication services and facilities where performance is by a common carrier, and the services are unregulated and are not priced by a tariff schedule set by a regulatory body.
 
-(d)(1) Insert the clause at 52.227-4, Patent Indemnity - Construction Contracts, in solicitations and contracts for construction or that are fixed-price for dismantling, demolition, or removal of improvements. Do not insert the clause in contracts solely for architect-engineer services.
+(d)(1) Insert the clause at 52.227-4, Patent Indemnity—Construction Contracts, in solicitations and contracts for construction or that are fixed-price for dismantling, demolition, or removal of improvements. Do not insert the clause in contracts solely for architect-engineer services.
 
 (2) If the contracting officer determines that the construction will necessarily involve the use of structures, products, materials, equipment, processes, or methods that are nonstandard, noncommercial, or special, the contracting officer may expressly exclude them from the patent indemnification by using the clause with its Alternate I. Note that this exclusion is for items, as distinguished from identified patents (see paragraph (e) of this subsection).
 
@@ -41,3 +39,5 @@ Link to an amendment published at 86 FR 61028, Nov. 4, 2021.
 (f) If a patent indemnity clause is not prescribed, the contracting officer may include one in the solicitation and contract if it is in the Government's interest to do so.
 
 (g) The contracting officer shall not include in any solicitation or contract any clause whereby the Government agrees to indemnify a contractor for patent infringement.
+
+[72 FR 63049, Nov. 7, 2007, as amended at 86 FR 61028, Nov. 4, 2021]

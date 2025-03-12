@@ -1,10 +1,8 @@
 ##### 32.504 Subcontracts under prime contracts providing progress payments. #####
 
-Link to an amendment published at 86 FR 61030, Nov. 4, 2021.
+(a) Subcontracts may include either performance-based payments, provided they meet the criteria in 32.1003, or progress payments, provided they meet the criteria in subpart 32.5 for customary progress payments, but not both. Subcontracts for commercial purchases may include commercial product or commercial service purchase financing terms, provided they meet the criteria in 32.202-1.
 
-(a) Subcontracts may include either performance-based payments, provided they meet the criteria in 32.1003, or progress payments, provided they meet the criteria in subpart 32.5 for customary progress payments, but not both. Subcontracts for commercial purchases may include commercial item purchase financing terms, provided they meet the criteria in 32.202-1.
-
-(b) The contractor's requests for progress payments may include the full amount of commercial item purchase financing payments, performance-based payments, or progress payments to a subcontractor, whether paid or unpaid, provided that unpaid amounts are limited to amounts determined due and that the contractor will pay -
+(b) The contractor's requests for progress payments may include the full amount of commercial product or commercial service purchase financing payments, performance-based payments, or progress payments to a subcontractor, whether paid or unpaid, provided that unpaid amounts are limited to amounts determined due and that the contractor will pay—
 
 (1) In accordance with the terms and conditions of a subcontract or invoice; and
 
@@ -28,6 +26,6 @@ Link to an amendment published at 86 FR 61030, Nov. 4, 2021.
 
 (f) When financing payments are in the form of performance-based payments, the Performance-Based Payments clause at 52.232-32 requires that the subcontract terms include the substance of the Performance-Based Payments clause, modified to indicate that the contractor, not the Government, awards the subcontract and administers the performance-based payments, and include appropriately worded modifications similar to those noted in paragraph (e) of this section.
 
-(g) When financing payments are in the form of commercial item purchase financing, the subcontract must include a contract financing clause structured in accordance with 32.206.
+(g) When financing payments are in the form of commercial product or commercial service purchase financing, the subcontract must include a contract financing clause structured in accordance with 32.206.
 
-[65 FR 16281, Mar. 27, 2000, as amended at 67 FR 70521, Nov. 22, 2002]
+[65 FR 16281, Mar. 27, 2000, as amended at 67 FR 70521, Nov. 22, 2002; 86 FR 61030, Nov. 4, 2021]

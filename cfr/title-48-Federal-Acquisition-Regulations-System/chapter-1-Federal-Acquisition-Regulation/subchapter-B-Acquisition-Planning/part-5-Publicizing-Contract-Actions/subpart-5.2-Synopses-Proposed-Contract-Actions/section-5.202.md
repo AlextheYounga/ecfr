@@ -1,10 +1,8 @@
 ##### 5.202 Exceptions. #####
 
-Link to an amendment published at 86 FR 61020, Nov. 4, 2021.
+The contracting officer need not submit the notice required by 5.201 when—
 
-The contracting officer need not submit the notice required by 5.201 when -
-
-(a) The contracting officer determines that -
+(a) The contracting officer determines that—
 
 (1) The synopsis cannot be worded to preclude disclosure of an agency's needs and such disclosure would compromise the national security (e.g., would result in disclosure of classified information). The fact that a proposed solicitation or contract action contains classified information, or that access to classified matter may be necessary to submit a proposal or perform the contract does not, in itself, justify use of this exception to synopsis;
 
@@ -24,13 +22,13 @@ The contracting officer need not submit the notice required by 5.201 when -
 
 (9) The proposed contract action is made for perishable subsistence supplies, and advance notice is not appropriate or reasonable;
 
-(10) The proposed contract action is made under conditions described in 6.302-3, or 6.302-5 with regard to brand name commercial items for authorized resale, or 6.302-7, and advance notice is not appropriate or reasonable;
+(10) The proposed contract action is made under conditions described in 6.302-3, or 6.302-5 with regard to brand name commercial productsfor authorized resale, or 6.302-7, and advance notice is not appropriate or reasonable;
 
 (11) The proposed contract action is made under the terms of an existing contract that was previously synopsized in sufficient detail to comply with the requirements of 5.207 with respect to the current proposed contract action;
 
 (12) The proposed contract action is by a Defense agency and the proposed contract action will be made and performed outside the United States and its outlying areas, and only local sources will be solicited. This exception does not apply to proposed contract actions covered by the World Trade Organization Government Procurement Agreement or a Free Trade Agreement (see Subpart 25.4);
 
-(13) The proposed contract action -
+(13) The proposed contract action—
 
 (i) Is for an amount not expected to exceed the simplified acquisition threshold;
 

@@ -1,32 +1,30 @@
-##### 52.244-6 Subcontracts for Commercial Items. #####
-
-Link to an amendment published at 86 FR 61037, Nov. 4, 2021.
+##### 52.244-6 Subcontracts for Commercial Products and Commercial Services. #####
 
 As prescribed in 44.403, insert the following clause:
 
-Subcontracts for Commercial Items (JUL 2021)
+Subcontracts for Commercial Products and Commercial Services (NOV 2021)
 
 (a) *Definitions.* As used in this clause -
 
-*Commercial item* and *commercially available off-the-shelf item* have the meanings contained in Federal Acquisition Regulation (FAR) 2.101.
+*Commercial product, commercial service,* and *commercially available off-the-shelf item* have the meanings contained in Federal Acquisition Regulation (FAR) 2.101.
 
-*Subcontract* includes a transfer of commercial items between divisions, subsidiaries, or affiliates of the Contractor or subcontractor at any tier.
+*Subcontract* includes a transfer of commercial products or commercial services between divisions, subsidiaries, or affiliates of the Contractor or subcontractor at any tier.
 
-(b) To the maximum extent practicable, the Contractor shall incorporate, and require its subcontractors at all tiers to incorporate, commercial items or nondevelopmental items as components of items to be supplied under this contract.
+(b) To the maximum extent practicable, the Contractor shall incorporate, and require its subcontractors at all tiers to incorporate, commercial products, commercial services, or nondevelopmental items as components of items to be supplied under this contract.
 
-(c)(1) The Contractor shall insert the following clauses in subcontracts for commercial items:
+(c)(1) The Contractor shall insert the following clauses in subcontracts for commercial products or commercial services:
 
-(i) 52.203-13, Contractor Code of Business Ethics and Conduct (Jun 2020) (41 U.S.C. 3509), if the subcontract exceeds the threshold specified in FAR 3.1004(a) on the date of subcontract award, and has a performance period of more than 120 days. In altering this clause to identify the appropriate parties, all disclosures of violation of the civil False Claims Act or of Federal criminal law shall be directed to the agency Office of the Inspector General, with a copy to the Contracting Officer.
+(i) 52.203-13, Contractor Code of Business Ethics and Conduct (NOV 2021) (41 U.S.C. 3509), if the subcontract exceeds the threshold specified in FAR 3.1004(a) on the date of subcontract award, and has a performance period of more than 120 days. In altering this clause to identify the appropriate parties, all disclosures of violation of the civil False Claims Act or of Federal criminal law shall be directed to the agency Office of the Inspector General, with a copy to the Contracting Officer.
 
 (ii) 52.203-15, Whistleblower Protections Under the American Recovery and Reinvestment Act of 2009 (JUN 2010) (Section 1553 of Pub. L. 111-5), if the subcontract is funded under the Recovery Act.
 
 (iii) 52.203-19, Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements (JAN 2017).
 
-(iv) 52.204-21, Basic Safeguarding of Covered Contractor Information Systems (JUN 2016), other than subcontracts for commercially available off-the-shelf items, if flow down is required in accordance with paragraph (c) of FAR clause 52.204-21.
+(iv) 52.204-21, Basic Safeguarding of Covered Contractor Information Systems (NOV 2021), other than subcontracts for commercially available off-the-shelf items, if flow down is required in accordance with paragraph (c) of FAR clause 52.204-21.
 
-(v) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (JUL 2018) (Section 1634 of Pub. L. 115-91).
+(v) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (NOV 2021) (Section 1634 of Pub. L. 115-91).
 
-(vi) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (AUG 2020) (Section 889(a)(1)(A) of Pub. L. 115-232).
+(vi) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (NOV 2021) (Section 889(a)(1)(A) of Pub. L. 115-232).
 
 (vii) 52.219-8, Utilization of Small Business Concerns (OCT 2018) (15 U.S.C. 637(d)(2) and (3)), if the subcontract offers further subcontracting opportunities. If the subcontract (except subcontracts to small business concerns) exceeds the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, the subcontractor must include 52.219-8 in lower tier subcontracts that offer subcontracting opportunities.
 
@@ -42,7 +40,7 @@ Subcontracts for Commercial Items (JUL 2021)
 
 (xiii) 52.222-40, Notification of Employee Rights Under the National Labor Relations Act (DEC 2010) (E.O. 13496), if flow down is required in accordance with paragraph (f) of FAR clause 52.222-40.
 
-(xiv)(A) 52.222-50, Combating Trafficking in Persons (OCT 2020) (22 U.S.C. chapter 78 and E.O. 13627).
+(xiv)(A) 52.222-50, Combating Trafficking in Persons (NOV 2021) (22 U.S.C. chapter 78 and E.O. 13627).
 
 (B) Alternate I (Mar 2015) of 52.222-50 (22 U.S.C. chapter 78 and E.O. 13627).
 
@@ -56,11 +54,11 @@ Subcontracts for Commercial Items (JUL 2021)
 
 (xviii) 52.225-26, Contractors Performing Private Security Functions Outside the United States (OCT 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
 
-(xix) 52.232-40, Providing Accelerated Payments to Small Business Subcontractors (DEC 2013), if flow down is required in accordance with paragraph (c) of FAR clause 52.232-40.
+(xix) 52.232-40, Providing Accelerated Payments to Small Business Subcontractors (NOV 2021), if flow down is required in accordance with paragraph (c) of FAR clause 52.232-40.
 
-(xx) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. 55305 and 10 U.S.C. 2631), if flow down is required in accordance with paragraph (d) of FAR clause 52.247-64.
+(xx) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (NOV 2021) (46 U.S.C. 55305 and 10 U.S.C. 2631), if flow down is required in accordance with paragraph (d) of FAR clause 52.247-64.
 
-(2) While not required, the Contractor may flow down to subcontracts for commercial items a minimal number of additional clauses necessary to satisfy its contractual obligations.
+(2) While not required, the Contractor may flow down to subcontracts for commercial products or commercial services a minimal number of additional clauses necessary to satisfy its contractual obligations.
 
 (d) The Contractor shall include the terms of this clause, including this paragraph (d), in subcontracts awarded under this contract.
 

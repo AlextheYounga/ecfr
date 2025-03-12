@@ -1,10 +1,8 @@
-##### 52.213-4 Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items). #####
-
-Link to an amendment published at 86 FR 61034, Nov. 4, 2021.
+##### 52.213-4 Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products and Commercial Services). #####
 
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JUL 2021)
+Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (NOV 2021)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -12,9 +10,9 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JU
 
 (i) 52.203-19, Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements (JAN 2017) (section 743 of Division E, Title VII, of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235) and its successor provisions in subsequent appropriations acts (and as extended in continuing resolutions)).
 
-(ii) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (JUL 2018) (Section 1634 of Pub. L. 115-91).
+(ii) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (NOV 2021) (Section 1634 of Pub. L. 115-91).
 
-(iii) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (AUG 2020) (Section 889(a)(1)(A) of Pub. L. 115-232).
+(iii) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (NOV 2021) (Section 889(a)(1)(A) of Pub. L. 115-232).
 
 (iv) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
 
@@ -40,11 +38,11 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JU
 
 (v) 52.232-39, Unenforceability of Unauthorized Obligations (JUN 2013).
 
-(vi) 52.232-40, Providing Accelerated Payments to Small Business Subcontractors (DEC 2013).
+(vi) 52.232-40, Providing Accelerated Payments to Small Business Subcontractors (NOV 2021).
 
 (vii) 52.233-1, Disputes (MAY 2014).
 
-(viii) 52.244-6, Subcontracts for Commercial Items (JUL 2021)
+(viii) 52.244-6, Subcontracts for Commercial Products and Commercial Services (NOV 2021)
 
 (ix) 52.253-1, Computer Generated Forms (JAN 1991).
 
@@ -66,7 +64,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JU
 
 (vii) 52.222-41, Service Contract Labor Standards (AUG 2018) (41 U.S.C. chapter 67) (Applies to service contracts over $2,500 that are subject to the Service Contract Labor Standards statute and will be performed in the United States, District of Columbia, Puerto Rico, the Northern Mariana Islands, American Samoa, Guam, the U.S. Virgin Islands, Johnston Island, Wake Island, or the outer Continental Shelf).
 
-(viii)(A) 52.222-50, Combating Trafficking in Persons (OCT 2020) (22 U.S.C. chapter 78 and E.O. 13627) (Applies to all solicitations and contracts).
+(viii)(A) 52.222-50, Combating Trafficking in Persons (NOV 2021) (22 U.S.C. chapter 78 and E.O. 13627) (Applies to all solicitations and contracts).
 
 (B) Alternate I (MAR 2015) (Applies if the Contracting Officer has filled in the following information with regard to applicable directives or notices: Document title(s), source for obtaining document(s), and contract performance location outside the United States to which the document applies).
 
@@ -94,7 +92,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JU
 
 (xvi) 52.223-21, Foams (JUN 2016) (E.O. 13693) (Applies to contracts for products that may contain high global warming potential hydrofluorocarbons or refrigerant blends containing hydrofluorocarbons as a foam blowing agent; or contracts for construction of buildings or facilities.
 
-(xvii) 52.225-1, Buy American - Supplies (JAN 2021) (41 U.S.C. chapter 67) (Applies to contracts for supplies, and to contracts for services involving the furnishing of supplies, for use in the United States or its outlying areas, if the value of the supply contract or supply portion of a service contract exceeds the micro-purchase threshold, as defined in FAR 2.101 on the date of award of this contract, and the acquisition -
+(xvii) 52.225-1, Buy American - Supplies (NOV 2021) (41 U.S.C. chapter 67) (Applies to contracts for supplies, and to contracts for services involving the furnishing of supplies, for use in the United States or its outlying areas, if the value of the supply contract or supply portion of a service contract exceeds the micro-purchase threshold, as defined in FAR 2.101 on the date of award of this contract, and the acquisition -
 
 (A) Is set aside for small business concerns; or
 
@@ -106,13 +104,13 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JU
 
 (xx) 52.232-34, Payment by Electronic Funds Transfer - Other than System for Award Management (JUL 2013) (Applies when the payment will be made by EFT and the payment office does not use the SAM database as its source of EFT information.)
 
-(xxi) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (FEB 2006) (46 U.S.C. 55305) (Applies to supplies transported by ocean vessels (except for the types of subcontracts listed at 47.504(d).)
+(xxi) 52.247-64, Preference for Privately Owned U.S.-Flag Commercial Vessels (NOV 2021) (46 U.S.C. 55305) (Applies to supplies transported by ocean vessels (except for the types of subcontracts listed at 47.504(d).)
 
 (2) Listed below are additional clauses that may apply:
 
-(i) 52.204-21, Basic Safeguarding of Covered Contractor Information Systems (JUN 2016) (Applies to contracts when the contractor or a subcontractor at any tier may have Federal contract information residing in or transiting through its information system.
+(i) 52.204-21, Basic Safeguarding of Covered Contractor Information Systems (NOV 2021) (Applies to contracts when the contractor or a subcontractor at any tier may have Federal contract information residing in or transiting through its information system.)
 
-(ii) 52.209-6, Protecting the Government's Interest When Subcontracting with Contractors Debarred, Suspended, or Proposed for Debarment (JUN 2020) (Applies to contracts over the threshold specified in FAR 9.405-2(b) on the date of award of this contract).
+(ii) 52.209-6, Protecting the Government's Interest When Subcontracting with Contractors Debarred, Suspended, or Proposed for Debarment (NOV 2021) (Applies to contracts over the threshold specified in FAR 9.405-2(b) on the date of award of this contract).
 
 (iii) 52.211-17, Delivery of Excess Quantities (SEP 1989) (Applies to fixed-price supplies).
 

@@ -1,0 +1,5 @@
+##### 32.204 Procedures for contracting officer-specified commercial contract financing. #####
+
+The financing terms shall be included in the solicitation. Contract financing shall not be a factor in the evaluation of resulting proposals, and proposals of alternative financing terms shall not be accepted (but see 14.208 and 15.206 concerning amendments of solicitations). However, an offer stating that the contracting officer-specified contract financing terms will not be used by the offeror does not alter the evaluation of the offer, nor does it render the offer nonresponsive or otherwise unacceptable. In the event of award to an offeror who declined the proposed contract financing, the contract financing provisions shall not be included in the resulting contract. Contract financing shall not be a basis for adjusting offerors' proposed prices, because the effect of contract financing is reflected in each offeror's proposed prices.
+
+[60 FR 49711, Sept. 26, 1995, as amended at 62 FR 51271, Sept. 30, 1997]

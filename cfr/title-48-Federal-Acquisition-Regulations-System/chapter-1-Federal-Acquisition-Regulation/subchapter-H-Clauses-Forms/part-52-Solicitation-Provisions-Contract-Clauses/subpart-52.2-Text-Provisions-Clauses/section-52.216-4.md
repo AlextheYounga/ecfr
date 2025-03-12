@@ -1,10 +1,8 @@
-##### 52.216-4 Economic Price Adjustment - Labor and Material. #####
+##### 52.216-4 Economic Price Adjustment—Labor and Material. #####
 
-Link to an amendment published at 86 FR 61035, Nov. 4, 2021.
+As prescribed in 16.203-4(c), insert the following clause:
 
-As prescribed in 16.203-4(c), when contracting by negotiation, insert a clause that is substantially the same as the following clause in solicitations and contracts when the conditions specified in 16.203-4(c)(1)(i) through (iv) apply (but see 16.203-4(c)(2)). The clause may be modified by increasing the 10-percent limit on aggregate increases specified in subparagraph (c)(4), upon approval by the chief of the contracting office.
-
-Economic Price Adjustment - Labor and Material (JAN 2017)
+Economic Price Adjustment—Labor and Material (JAN 2017)
 
 (a) The Contractor shall notify the Contracting Officer if, at any time during contract performance, the rates of pay for labor (including fringe benefits) or the unit prices for material shown in the Schedule either increase or decrease. The Contractor shall furnish this notice within 60 days after the increase or decrease, or within any additional period that the Contracting Officer may approve in writing, but not later than the date of final payment under this contract. The notice shall include the Contractor's proposal for an adjustment in the contract unit prices to be negotiated under paragraph (b) below, and shall include, in the form required by the Contracting Officer, supporting data explaining the cause, effective date, and amount of the increase or decrease and the amount of the Contractor's adjustment proposal.
 
@@ -22,4 +20,4 @@ Economic Price Adjustment - Labor and Material (JAN 2017)
 
 (d) The Contracting Officer may examine the Contractor's books, records, and other supporting data relevant to the cost of labor (including fringe benefits) and material during all reasonable times until the end of 3 years after the date of final payment under this contract or the time periods specified in subpart 4.7 of the Federal Acquisition Regulation (FAR), whichever is earlier.
 
-(End of clause)[48 FR 42478, Sept. 19, 1983, as amended at 62 FR 238, Jan. 2, 1997; 82 FR 4715, Jan. 13, 2017]
+(End of clause)[48 FR 42478, Sept. 19, 1983, as amended at 62 FR 238, Jan. 2, 1997; 82 FR 4715, Jan. 13, 2017; 86 FR 61035, Nov. 4, 2021]

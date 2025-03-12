@@ -1,9 +1,7 @@
 ##### 44.302 Requirements. #####
 
-Link to an amendment published at 86 FR 61030, Nov. 4, 2021.
-
-(a) The ACO shall determine the need for a CPSR based on, but not limited to, the past performance of the contractor, and the volume, complexity and dollar value of subcontracts. If a contractor's sales to the Government (excluding competitively awarded firm-fixed-price and competitively awarded fixed-price with economic price adjustment contracts and sales of commercial items pursuant to Part 12) are expected to exceed $25 million during the next 12 months, perform a review to determine if a CPSR is needed. Sales include those represented by prime contracts, subcontracts under Government prime contracts, and modifications. Generally, a CPSR is not performed for a specific contract. The head of the agency responsible for contract administration may raise or lower the $25 million review level if it is considered to be in the Government's best interest.
+(a) The ACO shall determine the need for a CPSR based on, but not limited to, the past performance of the contractor, and the volume, complexity and dollar value of subcontracts. If a contractor's sales to the Government (excluding competitively awarded firm-fixed-price and competitively awarded fixed-price with economic price adjustment contracts and sales of commercial products and commercial services pursuant to part 12) are expected to exceed $25 million during the next 12 months, perform a review to determine if a CPSR is needed. Sales include those represented by prime contracts, subcontracts under Government prime contracts, and modifications. Generally, a CPSR is not performed for a specific contract. The head of the agency responsible for contract administration may raise or lower the $25 million review level if it is considered to be in the Government's best interest.
 
 (b) Once an initial determination has been made under paragraph (a) of this section, at least every three years the ACO shall determine whether a purchasing system review is necessary. If necessary, the cognizant contract administration office will conduct a purchasing system review.
 
-[63 FR 70288, Dec. 18, 1998]
+[63 FR 70288, Dec. 18, 1998, as amended at 86 FR 61030, Nov. 4, 2021]

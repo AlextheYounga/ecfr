@@ -1,8 +1,6 @@
 ##### 44.303 Extent of review. #####
 
-Link to an amendment published at 86 FR 61030, Nov. 4, 2021.
-
-A CPSR requires an evaluation of the contractor's purchasing system. Unless segregation of subcontracts is impracticable, this evaluation shall not include subcontracts awarded by the contractor exclusively in support of Government contracts that are competitively awarded firm-fixed-price, competitively awarded fixed-price with economic price adjustment, or awarded for commercial items pursuant to part 12. The considerations listed in 44.202-2 for consent evaluation of particular subcontracts also shall be used to evaluate the contractor's purchasing system, including the contractor's policies, procedures, and performance under that system. Special attention shall be given to -
+A CPSR requires an evaluation of the contractor's purchasing system. Unless segregation of subcontracts is impracticable, this evaluation shall not include subcontracts awarded by the contractor exclusively in support of Government contracts that are competitively awarded firm-fixed-price, competitively awarded fixed-price with economic price adjustment, or awarded for commercial products and commercial services pursuant to part 12. The considerations listed in 44.202-2 for consent evaluation of particular subcontracts also shall be used to evaluate the contractor's purchasing system, including the contractor's policies, procedures, and performance under that system. Special attention shall be given to—
 
 (a) The results of market research accomplished;
 
@@ -26,4 +24,4 @@ A CPSR requires an evaluation of the contractor's purchasing system. Unless segr
 
 (k) Implementation of higher-level quality standards.
 
-[48 FR 42388, Sept. 19, 1983, as amended at 52 FR 9039, Mar. 20, 1987; 54 FR 19827, May 8, 1989; 60 FR 33066, June 26, 1995; 60 FR 48264, Sept. 18, 1995; 62 FR 12719, Mar. 17, 1997; 63 FR 70288, Dec. 18, 1998; 69 FR 76349, Dec. 20, 2004; 70 FR 14955, Mar. 23, 2005; 75 FR 34278, June 16, 2010; 75 FR 53150, Aug. 30, 2010; 78 FR 37680, June 21, 2013; 79 FR 70347, Nov. 25, 2014]
+[48 FR 42388, Sept. 19, 1983, as amended at 52 FR 9039, Mar. 20, 1987; 54 FR 19827, May 8, 1989; 60 FR 33066, June 26, 1995; 60 FR 48264, Sept. 18, 1995; 62 FR 12719, Mar. 17, 1997; 63 FR 70288, Dec. 18, 1998; 69 FR 76349, Dec. 20, 2004; 70 FR 14955, Mar. 23, 2005; 75 FR 34278, June 16, 2010; 75 FR 53150, Aug. 30, 2010; 78 FR 37680, June 21, 2013; 79 FR 70347, Nov. 25, 2014; 86 FR 61030, Nov. 4, 2021]

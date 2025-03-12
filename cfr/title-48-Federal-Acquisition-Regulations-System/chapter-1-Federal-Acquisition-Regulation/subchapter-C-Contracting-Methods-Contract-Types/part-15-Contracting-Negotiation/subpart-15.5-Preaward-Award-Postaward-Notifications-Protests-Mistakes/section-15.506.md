@@ -1,7 +1,5 @@
 ##### 15.506 Postaward debriefing of offerors. #####
 
-Link to an amendment published at 86 FR 61026, Nov. 4, 2021.
-
 (a)(1) An offeror, upon its written request received by the agency within 3 days after the date on which that offeror has received notification of contract award in accordance with 15.503(b), shall be debriefed and furnished the basis for the selection decision and contract award.
 
 (2) To the maximum extent practicable, the debriefing should occur within 5 days after receipt of the written request. Offerors that requested a postaward debriefing in lieu of a preaward debriefing, or whose debriefing was delayed for compelling reasons beyond contract award, also should be debriefed within this time period.
@@ -16,7 +14,7 @@ Link to an amendment published at 86 FR 61026, Nov. 4, 2021.
 
 (c) The contracting officer should normally chair any debriefing session held. Individuals who conducted the evaluations shall provide support.
 
-(d) At a minimum, the debriefing information shall include -
+(d) At a minimum, the debriefing information shall include—
 
 (1) The Government's evaluation of the significant weaknesses or deficiencies in the offeror's proposal, if applicable;
 
@@ -26,11 +24,11 @@ Link to an amendment published at 86 FR 61026, Nov. 4, 2021.
 
 (4) A summary of the rationale for award;
 
-(5) For acquisitions of commercial items, the make and model of the item to be delivered by the successful offeror; and
+(5) For acquisitions of commercial products, the make and model of the product to be delivered by the successful offeror; and
 
 (6) Reasonable responses to relevant questions about whether source selection procedures contained in the solicitation, applicable regulations, and other applicable authorities were followed.
 
-(e) The debriefing shall not include point-by-point comparisons of the debriefed offeror's proposal with those of other offerors. Moreover, the debriefing shall not reveal any information prohibited from disclosure by 24.202 or exempt from release under the Freedom of Information Act (5 U.S.C. 552) including -
+(e) The debriefing shall not include point-by-point comparisons of the debriefed offeror's proposal with those of other offerors. Moreover, the debriefing shall not reveal any information prohibited from disclosure by 24.202 or exempt from release under the Freedom of Information Act (5 U.S.C. 552) including—
 
 (1) Trade secrets;
 
@@ -41,3 +39,5 @@ Link to an amendment published at 86 FR 61026, Nov. 4, 2021.
 (4) The names of individuals providing reference information about an offeror's past performance.
 
 (f) An official summary of the debriefing shall be included in the contract file.
+
+[62 FR 51230, Sept. 30, 1997, as amended at 86 FR 61026, Nov. 4, 2021]

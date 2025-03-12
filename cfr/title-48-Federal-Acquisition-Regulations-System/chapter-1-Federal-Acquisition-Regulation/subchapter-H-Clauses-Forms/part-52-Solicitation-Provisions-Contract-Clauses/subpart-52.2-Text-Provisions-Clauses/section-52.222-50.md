@@ -1,16 +1,14 @@
 ##### 52.222-50 Combating Trafficking in Persons. #####
 
-Link to an amendment published at 86 FR 61035, Nov. 4, 2021.
-
 As prescribed in 22.1705(a)(1), insert the following clause:
 
-Combating Trafficking in Persons (OCT 2020)
+Combating Trafficking in Persons (NOV 2021)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Agent* means any individual, including a director, an officer, an employee, or an independent contractor, authorized to act on behalf of the organization.
 
-*Coercion* means -
+*Coercion* means—
 
 (1) Threats of serious harm to or physical restraint against any person;
 
@@ -20,11 +18,9 @@ Combating Trafficking in Persons (OCT 2020)
 
 *Commercial sex act* means any sex act on account of which anything of value is given to or received by any person.
 
-*Commercially available off-the-shelf (COTS) item* means -
+*Commercially available off-the-shelf (COTS) item*—(1) Means any item of supply (including construction material) that is—
 
-(1) Any item of supply (including construction material) that is -
-
-(i) A commercial item (as defined in paragraph (1) of the definition at FAR 2.101);
+(i) A commercial product (as defined in paragraph (1) of the definition of “commercial product” at Federal Acquisition Regulation (FAR) 2.101;
 
 (ii) Sold in substantial quantities in the commercial marketplace; and
 
@@ -36,7 +32,7 @@ Combating Trafficking in Persons (OCT 2020)
 
 *Employee* means an employee of the Contractor directly engaged in the performance of work under the contract who has other than a minimal impact or involvement in contract performance.
 
-*Forced Labor* means knowingly providing or obtaining the labor or services of a person -
+*Forced Labor* means knowingly providing or obtaining the labor or services of a person—
 
 (1) By threats of serious harm to, or physical restraint against, that person or another person;
 
@@ -44,7 +40,7 @@ Combating Trafficking in Persons (OCT 2020)
 
 (3) By means of the abuse or threatened abuse of law or the legal process.
 
-*Involuntary servitude* includes a condition of servitude induced by means of -
+*Involuntary servitude* includes a condition of servitude induced by means of—
 
 (1) Any scheme, plan, or pattern intended to cause a person to believe that, if the person did not enter into or continue in such conditions, that person or another person would suffer serious harm or physical restraint; or
 
@@ -52,7 +48,7 @@ Combating Trafficking in Persons (OCT 2020)
 
 *Recruitment fees* means fees of any type, including charges, costs, assessments, or other financial obligations, that are associated with the recruiting process, regardless of the time, manner, or location of imposition or collection of the fee.
 
-(1) Recruitment fees include, but are not limited to, the following fees (when they are associated with the recruiting process) for -
+(1) Recruitment fees include, but are not limited to, the following fees (when they are associated with the recruiting process) for—
 
 (i) Soliciting, identifying, considering, interviewing, referring, retaining, transferring, selecting, training, providing orientation to, skills testing, recommending, or placing employees or potential employees;
 
@@ -74,7 +70,7 @@ Combating Trafficking in Persons (OCT 2020)
 
 (x) Government-mandated fees, such as border crossing fees, levies, or worker welfare funds;
 
-(xi) Transportation and subsistence costs -
+(xi) Transportation and subsistence costs—
 
 (A) While in transit, including, but not limited to, airfare or costs of other modes of transportation, terminal fees, and travel taxes associated with travel from the country of origin to the country of performance and the return journey upon the end of employment; and
 
@@ -84,7 +80,7 @@ Combating Trafficking in Persons (OCT 2020)
 
 (xiii) Equipment charges.
 
-(2) A recruitment fee, as described in the introductory text of this definition, is a recruitment fee, regardless of whether the payment is -
+(2) A recruitment fee, as described in the introductory text of this definition, is a recruitment fee, regardless of whether the payment is—
 
 (i) Paid in property or money;
 
@@ -94,7 +90,7 @@ Combating Trafficking in Persons (OCT 2020)
 
 (iv) Paid back as a kickback, bribe, in-kind payment, free labor, tip, or tribute; or
 
-(v) Collected by an employer or a third party, whether licensed or unlicensed, including, but not limited to -
+(v) Collected by an employer or a third party, whether licensed or unlicensed, including, but not limited to—
 
 (A) Agents;
 
@@ -110,7 +106,7 @@ Combating Trafficking in Persons (OCT 2020)
 
 (G) Subcontractors at all tiers.
 
-*Severe forms of trafficking* in persons means -
+*Severe forms of trafficking* in persons means—
 
 (1) Sex trafficking in which a commercial sex act is induced by force, fraud, or coercion, or in which the person induced to perform such act has not attained 18 years of age; or
 
@@ -124,7 +120,7 @@ Combating Trafficking in Persons (OCT 2020)
 
 *United States* means the 50 States, the District of Columbia, and outlying areas.
 
-(b) *Policy.* The United States Government has adopted a policy prohibiting trafficking in persons including the trafficking-related activities of this clause. Contractors, contractor employees, and their agents shall not -
+(b) *Policy.* The United States Government has adopted a policy prohibiting trafficking in persons including the trafficking-related activities of this clause. Contractors, contractor employees, and their agents shall not—
 
 (1) Engage in severe forms of trafficking in persons during the period of performance of the contract;
 
@@ -140,13 +136,13 @@ Combating Trafficking in Persons (OCT 2020)
 
 (6) Charge employees or potential employees recruitment fees;
 
-(7)(i) Fail to provide return transportation or pay for the cost of return transportation upon the end of employment -
+(7)(i) Fail to provide return transportation or pay for the cost of return transportation upon the end of employment—
 
 (A) For an employee who is not a national of the country in which the work is taking place and who was brought into that country for the purpose of working on a U.S. Government contract or subcontract (for portions of contracts performed outside the United States); or
 
-(B) For an employee who is not a United States national and who was brought into the United States for the purpose of working on a U.S. Government contract or subcontract, if the payment of such costs is required under existing temporary worker programs or pursuant to a written agreement with the employee (for portions of contracts performed inside the United States); except that -
+(B) For an employee who is not a United States national and who was brought into the United States for the purpose of working on a U.S. Government contract or subcontract, if the payment of such costs is required under existing temporary worker programs or pursuant to a written agreement with the employee (for portions of contracts performed inside the United States); except that—
 
-(ii) The requirements of paragraphs (b)(7)(i) of this clause shall not apply to an employee who is -
+(ii) The requirements of paragraphs (b)(7)(i) of this clause shall not apply to an employee who is—
 
 (A) Legally permitted to remain in the country of employment and who chooses to do so; or
 
@@ -158,9 +154,9 @@ Combating Trafficking in Persons (OCT 2020)
 
 (9) If required by law or contract, fail to provide an employment contract, recruitment agreement, or other required work document in writing. Such written work document shall be in a language the employee understands. If the employee must relocate to perform the work, the work document shall be provided to the employee at least five days prior to the employee relocating. The employee's work document shall include, but is not limited to, details about work description, wages, prohibition on charging recruitment fees, work location(s), living accommodations and associated costs, time off, roundtrip transportation arrangements, grievance process, and the content of applicable laws and regulations that prohibit trafficking in persons.
 
-(c) *Contractor requirements.* The Contractor shall -
+(c) *Contractor requirements.* The Contractor shall—
 
-(1) Notify its employees and agents of -
+(1) Notify its employees and agents of—
 
 (i) The United States Government's policy prohibiting trafficking in persons, described in paragraph (b) of this clause; and
 
@@ -168,7 +164,7 @@ Combating Trafficking in Persons (OCT 2020)
 
 (2) Take appropriate action, up to and including termination, against employees, agents, or subcontractors that violate the policy in paragraph (b) of this clause.
 
-(d) *Notification.* (1) The Contractor shall inform the Contracting Officer and the agency Inspector General immediately of -
+(d) *Notification.* (1) The Contractor shall inform the Contracting Officer and the agency Inspector General immediately of—
 
 (i) Any credible information it receives from any source (including host country law enforcement) that alleges a Contractor employee, subcontractor, subcontractor employee, or their agent has engaged in conduct that violates the policy in paragraph (b) of this clause (see also 18 U.S.C. 1351, Fraud in Foreign Labor Contracting, and 52.203-13(b)(3)(i)(A), if that clause is included in the solicitation or contract, which requires disclosure to the agency Office of the Inspector General when the Contractor has credible evidence of fraud); and
 
@@ -176,7 +172,7 @@ Combating Trafficking in Persons (OCT 2020)
 
 (2) If the allegation may be associated with more than one contract, the Contractor shall inform the contracting officer for the contract with the highest dollar value.
 
-(e) *Remedies.* In addition to other remedies available to the Government, the Contractor's failure to comply with the requirements of paragraphs (c), (d), (g), (h), or (i) of this clause may result in -
+(e) *Remedies.* In addition to other remedies available to the Government, the Contractor's failure to comply with the requirements of paragraphs (c), (d), (g), (h), or (i) of this clause may result in—
 
 (1) Requiring the Contractor to remove a Contractor employee or employees from the performance of the contract;
 
@@ -198,7 +194,7 @@ Combating Trafficking in Persons (OCT 2020)
 
 (2) *Aggravating factors.* The Contractor failed to abate an alleged violation or enforce the requirements of a compliance plan, when directed by the Contracting Officer to do so.
 
-(g) *Full cooperation.* (1) The Contractor shall, at a minimum -
+(g) *Full cooperation.* (1) The Contractor shall, at a minimum—
 
 (i) Disclose to the agency Inspector General information sufficient to identify the nature and extent of an offense and the individuals responsible for the conduct;
 
@@ -208,25 +204,25 @@ Combating Trafficking in Persons (OCT 2020)
 
 (iv) Protect all employees suspected of being victims of or witnesses to prohibited activities, prior to returning to the country from which the employee was recruited, and shall not prevent or hinder the ability of these employees from cooperating fully with Government authorities.
 
-(2) The requirement for full cooperation does not foreclose any Contractor rights arising in law, the FAR, or the terms of the contract. It does not -
+(2) The requirement for full cooperation does not foreclose any Contractor rights arising in law, the FAR, or the terms of the contract. It does not—
 
 (i) Require the Contractor to waive its attorney-client privilege or the protections afforded by the attorney work product doctrine;
 
 (ii) Require any officer, director, owner, employee, or agent of the Contractor, including a sole proprietor, to waive his or her attorney client privilege or Fifth Amendment rights; or
 
-(iii) Restrict the Contractor from -
+(iii) Restrict the Contractor from—
 
 (A) Conducting an internal investigation; or
 
 (B) Defending a proceeding or dispute arising under the contract or related to a potential or disclosed violation.
 
-(h) *Compliance plan.* (1) This paragraph (h) applies to any portion of the contract that -
+(h) *Compliance plan.* (1) This paragraph (h) applies to any portion of the contract that—
 
 (i) Is for supplies, other than commercially available off-the-shelf items, acquired outside the United States, or services to be performed outside the United States; and
 
 (ii) Has an estimated value that exceeds $550,000.
 
-(2) The Contractor shall maintain a compliance plan during the performance of the contract that is appropriate -
+(2) The Contractor shall maintain a compliance plan during the performance of the contract that is appropriate—
 
 (i) To the size and complexity of the contract; and
 
@@ -248,17 +244,17 @@ Combating Trafficking in Persons (OCT 2020)
 
 (ii) The Contractor shall provide the compliance plan to the Contracting Officer upon request.
 
-(5) *Certification.* Annually after receiving an award, the Contractor shall submit a certification to the Contracting Officer that -
+(5) *Certification.* Annually after receiving an award, the Contractor shall submit a certification to the Contracting Officer that—
 
 (i) It has implemented a compliance plan to prevent any prohibited activities identified at paragraph (b) of this clause and to monitor, detect, and terminate any agent, subcontract or subcontractor employee engaging in prohibited activities; and
 
-(ii) After having conducted due diligence, either -
+(ii) After having conducted due diligence, either—
 
 (A) To the best of the Contractor's knowledge and belief, neither it nor any of its agents, subcontractors, or their agents is engaged in any such activities; or
 
 (B) If abuses relating to any of the prohibited activities identified in paragraph (b) of this clause have been found, the Contractor or subcontractor has taken the appropriate remedial and referral actions.
 
-(i) *Subcontracts.* (1) The Contractor shall include the substance of this clause, including this paragraph (i), in all subcontracts and in all contracts with agents. The requirements in paragraph (h) of this clause apply only to any portion of the subcontract that -
+(i) *Subcontracts.* (1) The Contractor shall include the substance of this clause, including this paragraph (i), in all subcontracts and in all contracts with agents. The requirements in paragraph (h) of this clause apply only to any portion of the subcontract that—
 
 (i) Is for supplies, other than commercially available off-the-shelf items, acquired outside the United States, or services to be performed outside the United States; and
 
@@ -281,4 +277,4 @@ Combating Trafficking in Persons (OCT 2020)
 
 [*Contracting Officer shall insert title of directive/notice; indicate the document is attached or provide source (such as website link) for obtaining document; and, indicate the contract performance location outside the United States to which the document applies.*]
 
-[71 FR 20303, Apr. 19, 2006, as amended at 72 FR 46341, Aug. 17, 2007; 74 FR 2745, Jan. 15, 2009; 80 FR 4990, Jan. 29, 2015; 83 FR 65478, Dec. 20, 2018; 85 FR 62490, Oct. 2, 2020]
+[71 FR 20303, Apr. 19, 2006, as amended at 72 FR 46341, Aug. 17, 2007; 74 FR 2745, Jan. 15, 2009; 80 FR 4990, Jan. 29, 2015; 83 FR 65478, Dec. 20, 2018; 85 FR 62490, Oct. 2, 2020; 86 FR 61035, Nov. 4, 2021]

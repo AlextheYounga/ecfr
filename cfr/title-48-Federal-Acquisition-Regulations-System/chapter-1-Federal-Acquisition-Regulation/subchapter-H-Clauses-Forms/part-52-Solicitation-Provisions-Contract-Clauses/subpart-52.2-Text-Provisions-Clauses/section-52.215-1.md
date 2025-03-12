@@ -1,12 +1,10 @@
-##### 52.215-1 Instructions to Offerors - Competitive Acquisition. #####
-
-Link to an amendment published at 86 FR 61034, Nov. 4, 2021.
+##### 52.215-1 Instructions to Offerors—Competitive Acquisition. #####
 
 As prescribed in 15.209(a), insert the following provision:
 
-Instructions to Offerors - Competitive Acquisitions (JAN 2017)
+Instructions to Offerors—Competitive Acquisition (NOV 2021)
 
-(a) *Definitions.* As used in this provision -
+(a) *Definitions.* As used in this provision—
 
 *Discussions* are negotiations that occur after establishment of the competitive range that may, at the Contracting Officer's discretion, result in the offeror being allowed to revise its proposal.
 
@@ -22,7 +20,7 @@ Instructions to Offerors - Competitive Acquisitions (JAN 2017)
 
 (c) *Submission, modification, revision, and withdrawal of proposals.* (1) Unless other methods (e.g., electronic commerce or facsimile) are permitted in the solicitation, proposals and modifications to proposals shall be submitted in paper media in sealed envelopes or packages (i) addressed to the office specified in the solicitation, and (ii) showing the time and date specified for receipt, the solicitation number, and the name and address of the offeror. Offerors using commercial carriers should ensure that the proposal is marked on the outermost wrapper with the information in paragraphs (c)(1)(i) and (c)(1)(ii) of this provision.
 
-(2) The first page of the proposal must show -
+(2) The first page of the proposal must show—
 
 (i) The solicitation number;
 
@@ -36,7 +34,7 @@ Instructions to Offerors - Competitive Acquisitions (JAN 2017)
 
 (3) *Submission, modification, revision, and withdrawal of proposals.* (i) Offerors are responsible for submitting proposals, and any modifications or revisions, so as to reach the Government office designated in the solicitation by the time specified in the solicitation. If no time is specified in the solicitation, the time for receipt is 4:30 p.m., local time, for the designated Government office on the date that proposal or revision is due.
 
-(ii)(A) Any proposal, modification, or revision, received at the Government office designated in the solicitation after the exact time specified for receipt of offers is “late” and will not be considered unless it is received before award is made, the Contracting Officer determines that accepting the late offer would not unduly delay the acquisition; and -
+(ii)(A) Any proposal, modification, or revision, received at the Government office designated in the solicitation after the exact time specified for receipt of offers is “late” and will not be considered unless it is received before award is made, the Contracting Officer determines that accepting the late offer would not unduly delay the acquisition; and—
 
 (*1*) If it was transmitted through an electronic commerce method authorized by the solicitation, it was received at the initial point of entry to the Government infrastructure not later than 5:00 p.m. one working day prior to the date specified for receipt of proposals; or
 
@@ -64,9 +62,9 @@ Instructions to Offerors - Competitive Acquisitions (JAN 2017)
 
 (d) *Offer expiration date.* Proposals in response to this solicitation will be valid for the number of days specified on the solicitation cover sheet (unless a different period is proposed by the offeror).
 
-(e) *Restriction on disclosure and use of data.* Offerors that include in their proposals data that they do not want disclosed to the public for any purpose, or used by the Government except for evaluation purposes, shall -
+(e) *Restriction on disclosure and use of data.* Offerors that include in their proposals data that they do not want disclosed to the public for any purpose, or used by the Government except for evaluation purposes, shall—
 
-(1) Mark the title page with the following legend: This proposal includes data that shall not be disclosed outside the Government and shall not be duplicated, used, or disclosed - in whole or in part - for any purpose other than to evaluate this proposal. If, however, a contract is awarded to this offeror as a result of - or in connection with - the submission of this data, the Government shall have the right to duplicate, use, or disclose the data to the extent provided in the resulting contract. This restriction does not limit the Government's right to use information contained in this data if it is obtained from another source without restriction. The data subject to this restriction are contained in sheets [insert numbers or other identification of sheets]; and
+(1) Mark the title page with the following legend: This proposal includes data that shall not be disclosed outside the Government and shall not be duplicated, used, or disclosed—in whole or in part—for any purpose other than to evaluate this proposal. If, however, a contract is awarded to this offeror as a result of—or in connection with—the submission of this data, the Government shall have the right to duplicate, use, or disclose the data to the extent provided in the resulting contract. This restriction does not limit the Government's right to use information contained in this data if it is obtained from another source without restriction. The data subject to this restriction are contained in sheets [insert numbers or other identification of sheets]; and
 
 (2) Mark each sheet of data it wishes to restrict with the following legend: Use or disclosure of data contained on this sheet is subject to the restriction on the title page of this proposal.
 
@@ -100,7 +98,7 @@ Instructions to Offerors - Competitive Acquisitions (JAN 2017)
 
 (iv) A summary of the rationale for award.
 
-(v) For acquisitions of commercial items, the make and model of the item to be delivered by the successful offeror.
+(v) For acquisitions of commercial products, the make and model of the product to be delivered by the successful offeror.
 
 (vi) Reasonable responses to relevant questions posed by the debriefed offeror as to whether source-selection procedures set forth in the solicitation, applicable regulations, and other applicable authorities were followed by the agency.
 
@@ -114,4 +112,4 @@ Instructions to Offerors - Competitive Acquisitions (JAN 2017)
 
 (9) Offerors may submit proposals that depart from stated requirements. Such proposals shall clearly identify why the acceptance of the proposal would be advantageous to the Government. Any deviations from the terms and conditions of the solicitation, as well as the comparative advantage to the Government, shall be clearly identified and explicitly defined. The Government reserves the right to amend the solicitation to allow all offerors an opportunity to submit revised proposals based on the revised requirements.
 
-[62 FR 51259, Sept. 30, 1997; 64 FR 51841, Sept. 24, 1999, as amended at 64 FR 72433, 72451, Dec. 27, 1999; 66 FR 2135, Jan. 10, 2001; 68 FR 69258, Dec. 11, 2003; 82 FR 4715, Jan. 13, 2017]
+[62 FR 51259, Sept. 30, 1997; 64 FR 51841, Sept. 24, 1999, as amended at 64 FR 72433, 72451, Dec. 27, 1999; 66 FR 2135, Jan. 10, 2001; 68 FR 69258, Dec. 11, 2003; 82 FR 4715, Jan. 13, 2017; 86 FR 61034, Nov. 4, 2021]

@@ -1,8 +1,6 @@
 ##### 46.706 Warranty terms and conditions. #####
 
-Link to an amendment published at 86 FR 61031, Nov. 4, 2021.
-
-(a) To facilitate the pricing and enforcement of warranties, the contracting officer shall ensure that warranties clearly state the -
+(a) To facilitate the pricing and enforcement of warranties, the contracting officer shall ensure that warranties clearly state the—
 
 (1) Exact nature of the item and its components and characteristics that the contractor warrants;
 
@@ -18,11 +16,11 @@ Link to an amendment published at 86 FR 61031, Nov. 4, 2021.
 
 (ii) If the Government specifies the design of the end item and its measurements, tolerances, materials, tests, or inspection requirements, the contractor's obligations for correction of defects shall usually be limited to defects in material and workmanship or failure to conform to specifications. If the Government does not specify the design, the warranty extends also to the usefulness of the design.
 
-(iii) If express warranties are included in a contract (except contracts for commercial items), all implied warranties of merchantability and fitness for a particular purpose shall be negated by the use of specific language in the clause (see clauses 52.246-17, Warranty of Supplies of a Noncomplex Nature; 52.246-18, Warranty of Supplies of a Complex Nature; and 52.246-19, Warranty of Systems and Equipment under Performance Specifications or Design Criteria).
+(iii) If express warranties are included in a contract (except contracts for commercial products and commercial services), all implied warranties of merchantability and fitness for a particular purpose shall be negated by the use of specific language in the clause (see clauses 52.246-17, Warranty of Supplies of a Noncomplex Nature; 52.246-18, Warranty of Supplies of a Complex Nature; and 52.246-19, Warranty of Systems and Equipment under Performance Specifications or Design Criteria).
 
 (2) *Remedies* (i) Normally, a warranty shall provide as a minimum that the Government may (A) obtain an equitable adjustment of the contract, or (B) direct the contractor to repair or replace the defective items at the contractor's expense.
 
-(ii) If it is not practical to direct the contractor to make the repair or replacement, or, because of the nature of the item, the repair or replacement does not afford an appropriate remedy to the Government, the warranty should provide alternate remedies, such as authorizing the Government to -
+(ii) If it is not practical to direct the contractor to make the repair or replacement, or, because of the nature of the item, the repair or replacement does not afford an appropriate remedy to the Government, the warranty should provide alternate remedies, such as authorizing the Government to—
 
 (A) Retain the defective item and reduce the contract price by an amount equitable under the circumstances; or
 
@@ -44,6 +42,18 @@ Link to an amendment published at 86 FR 61031, Nov. 4, 2021.
 
 (iii) The time required to discover and report defective replacements.
 
-(5) *Markings.* The packaging and preservation requirements of the contract shall require the contractor to stamp or mark the supplies delivered or otherwise furnish notice with the supplies of the existence of the warranty. The purpose of the markings or notice is to inform Government personnel who store, stock, or use the supplies that the supplies are under warranty. Markings may be brief but should include (i) a brief statement that a warranty exists, (ii) the substance of the warranty, (iii) its duration, and (iv) who to notify if the supplies are found to be defective. For commercial items (see 46.709), the contractor's trade practice in warranty marking is acceptable if sufficient information is presented for supply personnel and users to identify warranted supplies.
+(5) *Markings.* (i) The packaging and preservation requirements of the contract shall require the contractor to stamp or mark the supplies delivered or otherwise furnish notice with the supplies of the existence of the warranty. The purpose of the markings or notice is to inform Government personnel who store, stock, or use the supplies that the supplies are under warranty. Markings may be brief but should include—
+
+(A) A brief statement that a warranty exists;
+
+(B) The substance of the warranty;
+
+(C) Its duration; and
+
+(D) Who to notify if the supplies are found to be defective.
+
+(ii) For commercial products (see 46.709), the contractor's trade practice in warranty marking is acceptable if sufficient information is presented for supply personnel and users to identify warranted supplies.
 
 (6) *Consistency.* Contracting officers shall ensure that the warranty clause and any other warranty conditions in the contract (e.g., in the specifications or an inspection clause) are consistent. To the extent practicable, all of the warranties to be contained in the contract should be expressed in the warranty clause.
+
+[48 FR 42415, Sept. 19, 1983, as amended at 86 FR 61031, Nov. 4, 2021]

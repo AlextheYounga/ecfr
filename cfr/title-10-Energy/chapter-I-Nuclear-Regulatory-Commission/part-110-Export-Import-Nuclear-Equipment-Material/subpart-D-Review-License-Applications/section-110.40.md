@@ -1,7 +1,5 @@
 ##### § 110.40 Commission review. #####
 
-Link to an amendment published at 86 FR 55479, Oct. 6, 2021.
-
 (a) Immediately after receipt of a license application for an export or import requiring a specific license under this part, the Commission will initiate its licensing review and, to the maximum extent feasible, will expeditiously process the application concurrently with any applicable review by the Executive Branch.
 
 (b) The Commissioners shall review a license application for export of the following:
@@ -20,9 +18,11 @@ Link to an amendment published at 86 FR 55479, Oct. 6, 2021.
 
 (ii) 1 effective kilogram of low-enriched uranium;
 
-(iii) 250 kilograms of source material or heavy water; or
+(iii) 250 kilograms of source material;
 
-(iv) 37 TBq (1,000 curies) of tritium.
+(iv) 250 kilograms of heavy water for nuclear end use; or
+
+(v) 37 TBq (1,000 curies) of tritium.
 
 (6) The export of radioactive material listed in Table 1 of Appendix P of this part involving:
 
@@ -34,4 +34,4 @@ Link to an amendment published at 86 FR 55479, Oct. 6, 2021.
 
 (d) If the Commission has not completed action on a license application within 60 days after receipt of the Executive Branch judgment, as provided for in § 110.41, or the license application when an Executive Branch judgment is not required, it will inform the applicant in writing of the reason for delay and, as appropriate, provide follow-up reports.
 
-[75 FR 44090, July 28, 2010, as amended at 85 FR 86795, Dec. 31, 2020]
+[75 FR 44090, July 28, 2010, as amended at 85 FR 86795, Dec. 31, 2020; 86 FR 55479, Oct. 6, 2021]

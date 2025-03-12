@@ -1,14 +1,12 @@
 ##### 25.1101 Acquisition of supplies. #####
 
-Link to an amendment published at 86 FR 61028, Nov. 4, 2021.
-
 The following provisions and clauses apply to the acquisition of supplies and the acquisition of services involving the furnishing of supplies.
 
 (a)(1) Insert the clause at 52.225-1, Buy American - Supplies, in solicitations and contracts with a value exceeding the micro-purchase threshold but not exceeding $25,000; and in solicitations and contracts with a value exceeding $25,000, if none of the clauses prescribed in paragraphs (b) and (c) of this section apply, except if -
 
-(i) The solicitation is restricted to domestic end products in accordance with Subpart 6.3;
+(i) The solicitation is restricted to domestic end products in accordance with subpart 6.3;
 
-(ii) The acquisition is for supplies for use within the United States and an exception to the Buy American statute applies (*e.g.*, nonavailability, public interest, or information technology that is a commercial item); or
+(ii) The acquisition is for supplies for use within the United States and an exception to the Buy American statute applies (*e.g.*, nonavailability, public interest, or information technology that is a commercial product); or
 
 (iii) The acquisition is for supplies for use outside the United States.
 
@@ -18,7 +16,7 @@ The following provisions and clauses apply to the acquisition of supplies and th
 
 (A) The acquisition is for supplies, or for services involving the furnishing of supplies, for use within the United States, and the acquisition value is $25,000 or more, but is less than $182,000;
 
-(B) The acquisition is not for information technology that is a commercial item, using fiscal year 2004 or subsequent fiscal year funds; and
+(B) The acquisition is not for information technology that is a commercial product, using fiscal year 2004 or subsequent fiscal year funds; and
 
 (C) No exception in 25.401 applies. For acquisitions of agencies not subject to the Israeli Trade Act (see 25.406), see agency regulations.
 

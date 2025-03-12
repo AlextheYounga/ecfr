@@ -1,7 +1,5 @@
 ##### § 330.707 Exceptions to ICTAP selection priority. #####
 
-Link to an amendment published at 86 FR 61047, Nov. 5, 2021.
-
 An agency may take the following personnel actions as exceptions to § 330.705:
 
 (a) Place a current or reinstate a former agency employee with RPL selection priority under subpart B of this part;
@@ -56,8 +54,10 @@ An agency may take the following personnel actions as exceptions to § 330.705:
 
 (v) Transfer or a position change of an employee under part 412 of this chapter or
 
-(w)-(x) [Reserved]
+(w) [Reserved]
+
+(x) Make an appointment using the college graduate hiring authority under 5 U.S.C. 3115 and part 315 of this chapter.
 
 (y) Make an appointment using the post-secondary student hiring authority under 5 U.S.C. 3116 and part 316, subpart I, of this chapter.
 
-[75 FR 67593, Nov. 3, 2010, as amended at 77 FR 28215, May 11, 2012; 86 FR 46109, Aug. 18, 2021]
+[75 FR 67593, Nov. 3, 2010, as amended at 77 FR 28215, May 11, 2012; 86 FR 46109, Aug. 18, 2021; 86 FR 61047, Nov. 5, 2021]

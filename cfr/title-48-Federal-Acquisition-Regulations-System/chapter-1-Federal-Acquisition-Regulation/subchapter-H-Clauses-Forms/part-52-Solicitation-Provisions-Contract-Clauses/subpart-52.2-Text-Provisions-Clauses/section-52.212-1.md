@@ -1,10 +1,8 @@
-##### 52.212-1 Instructions to Offerors - Commercial Items. #####
-
-Link to an amendment published at 86 FR 61033, Nov. 4, 2021.
+##### 52.212-1 Instructions to Offerors - Commercial Products and Commercial Services. #####
 
 As prescribed in 12.301(b)(1), insert the following provision:
 
-Instructions to Offerors - Commercial Items (SEP 2021)
+Instructions to Offerors - Commercial Products and Commercial Services (NOV 2021)
 
 (a) *North American Industry Classification System (NAICS) code and small business size standard.* The NAICS code(s) and small business size standard(s) for this acquisition appear elsewhere in the solicitation. However, the small business size standard for a concern that submits an offer, other than on a construction or service acquisition, but proposes to furnish an end item that it did not itself manufacture, process, or produce is 500 employees if the acquisition -
 
@@ -30,7 +28,7 @@ Instructions to Offerors - Commercial Items (SEP 2021)
 
 (7) “Remit to” address, if different than mailing address;
 
-(8) A completed copy of the representations and certifications at FAR 52.212-3 (see FAR 52.212-3(b) for those representations and certifications that the offeror shall complete electronically);
+(8) A completed copy of the representations and certifications at Federal Acquisition Regulation (FAR) 52.212-3 (see FAR 52.212-3(b) for those representations and certifications that the offeror shall complete electronically);
 
 (9) Acknowledgment of Solicitation Amendments;
 
@@ -42,7 +40,7 @@ Instructions to Offerors - Commercial Items (SEP 2021)
 
 (d) *Product samples.* When required by the solicitation, product samples shall be submitted at or prior to the time specified for receipt of offers. Unless otherwise specified in this solicitation, these samples shall be submitted at no expense to the Government, and returned at the sender's request and expense, unless they are destroyed during preaward testing.
 
-(e) *Multiple offers.* Offerors are encouraged to submit multiple offers presenting alternative terms and conditions, including alternative line items (provided that the alternative line items are consistent with subpart 4.10 of the Federal Acquisition Regulation), or alternative commercial items for satisfying the requirements of this solicitation. Each offer submitted will be evaluated separately.
+(e) *Multiple offers.* Offerors are encouraged to submit multiple offers presenting alternative terms and conditions, including alternative line items (provided that the alternative line items are consistent with FAR subpart 4.10), or alternative commercial products or commercial services for satisfying the requirements of this solicitation. Each offer submitted will be evaluated separately.
 
 (f) *Late submissions, modifications, revisions, and withdrawals of offers.* (1) Offerors are responsible for submitting offers, and any modifications, revisions, or withdrawals, so as to reach the Government office designated in the solicitation by the time specified in the solicitation. If no time is specified in the solicitation, the time for receipt is 4:30 p.m., local time, for the designated Government office on the date that offers or revisions are due.
 
@@ -100,7 +98,7 @@ Instructions to Offerors - Commercial Items (SEP 2021)
 
 (4) A summary of the rationale for award;
 
-(5) For acquisitions of commercial items, the make and model of the item to be delivered by the successful offeror.
+(5) For acquisitions of commercial products, the make and model of the product to be delivered by the successful offeror.
 
 (6) Reasonable responses to relevant questions posed by the debriefed offeror as to whether source-selection procedures set forth in the solicitation, applicable regulations, and other applicable authorities were followed by the agency.
 

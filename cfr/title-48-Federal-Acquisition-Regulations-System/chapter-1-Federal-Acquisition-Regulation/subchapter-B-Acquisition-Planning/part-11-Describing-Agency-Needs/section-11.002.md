@@ -1,7 +1,5 @@
 ##### 11.002 Policy. #####
 
-Link to an amendment published at 86 FR 61021, Nov. 4, 2021.
-
 (a) In fulfilling requirements of 10 U.S.C. 2305(a)(1), 10 U.S.C. 2377, 41 U.S.C. 3306(a), and 41 U.S.C. 3307, agencies shall -
 
 (1) Specify needs using market research in a manner designed to -
@@ -20,13 +18,13 @@ Link to an amendment published at 86 FR 61021, Nov. 4, 2021.
 
 (C) Essential physical characteristics;
 
-(ii) Define requirements in terms that enable and encourage offerors to supply commercial items, or, to the extent that commercial items suitable to meet the agency's needs are not available, nondevelopmental items, in response to the agency solicitations;
+(ii) Define requirements in terms that enable and encourage offerors to supply commercial products or commercial services or, to the extent that commercial products suitable to meet the agency's needs are not available, nondevelopmental items, in response to the agency solicitations;
 
-(iii) Provide offerors of commercial items and nondevelopmental items an opportunity to compete in any acquisition to fill such requirements;
+(iii) Provide offerors of commercial products, commercial services, and nondevelopmental items an opportunity to compete in any acquisition to fill such requirements;
 
-(iv) Require prime contractors and subcontractors at all tiers under the agency contracts to incorporate commercial items or nondevelopmental items as components of items supplied to the agency; and
+(iv) Require prime contractors and subcontractors at all tiers under the agency contracts to incorporate commercial products, commercial services, or nondevelopmental items as components of items supplied to the agency; and
 
-(v) Modify requirements in appropriate cases to ensure that the requirements can be met by commercial items or, to the extent that commercial items suitable to meet the agency's needs are not available, nondevelopmental items.
+(v) Modify requirements in appropriate cases to ensure that the requirements can be met by commercial products or commercial services or, to the extent that commercial products suitable to meet the agency's needs are not available, nondevelopmental items.
 
 (b) The Metric Conversion Act of 1975, as amended by the Omnibus Trade and Competitiveness Act of 1988 (15 U.S.C. 205a, *et seq.*), designates the metric system of measurement as the preferred system of weights and measures for United States trade and commerce, and it requires that each agency use the metric system of measurement in its acquisitions, except to the extent that such use is impracticable or is likely to cause significant inefficiencies or loss of markets to United States firms. Requiring activities are responsible for establishing guidance implementing this policy in formulating their requirements for acquisitions.
 
@@ -72,4 +70,4 @@ Link to an amendment published at 86 FR 61021, Nov. 4, 2021.
 
 (h) Agencies shall not include in a solicitation a requirement that prohibits an offeror from permitting its employees to telecommute unless the contracting officer executes a written determination in accordance with FAR 7.108(a).
 
-[60 FR 48238, Sept. 18, 1995, as amended at 61 FR 39192, July 26, 1996; 62 FR 263, Jan. 2, 1997; 62 FR 44810, Aug. 22, 1997; 62 FR 51230, Sept. 30, 1997; 65 FR 36017, June 6, 2000; 66 FR 20897, Apr. 25, 2001; 66 FR 65352, Dec. 18, 2001; 68 FR 43858, July 24, 2003; 69 FR 59702, Oct. 5, 2004; 72 FR 63043, Nov. 7, 2007; 74 FR 65607, Dec. 10, 2009; 76 FR 31398, May 31, 2011; 79 FR 24199, Apr. 29, 2014;79 FR 35861, June 24, 2014; 81 FR 30435, May 16, 2016; 86 FR 44231, Aug. 11, 2021]
+[60 FR 48238, Sept. 18, 1995, as amended at 61 FR 39192, July 26, 1996; 62 FR 263, Jan. 2, 1997; 62 FR 44810, Aug. 22, 1997; 62 FR 51230, Sept. 30, 1997; 65 FR 36017, June 6, 2000; 66 FR 20897, Apr. 25, 2001; 66 FR 65352, Dec. 18, 2001; 68 FR 43858, July 24, 2003; 69 FR 59702, Oct. 5, 2004; 72 FR 63043, Nov. 7, 2007; 74 FR 65607, Dec. 10, 2009; 76 FR 31398, May 31, 2011; 79 FR 24199, Apr. 29, 2014;79 FR 35861, June 24, 2014; 81 FR 30435, May 16, 2016; 86 FR 44231, Aug. 11, 2021; 86 FR 61021, Nov. 4, 2021]

@@ -1,7 +1,5 @@
 ##### 52.203-6 Restrictions on Subcontractor Sales to the Government. #####
 
-Link to an amendment published at 86 FR 61031, Nov. 4, 2021.
-
 As prescribed in 3.503-2, insert the following clause:
 
 Restrictions on Subcontractor Sales to the Government (JUN 2020)
@@ -14,8 +12,8 @@ Restrictions on Subcontractor Sales to the Government (JUN 2020)
 
 (End of clause)
 
-*Alternate I* (OCT 1995). As prescribed in 3.503-2, substitute the following paragraph in place of paragraph (b) of the basic clause:
+*Alternate I* (NOV 2021). As prescribed in 3.503-2, substitute the following paragraph in place of paragraph (b) of the basic clause:
 
-(b) The prohibition in paragraph (a) of this clause does not preclude the Contractor from asserting rights that are otherwise authorized by law or regulation. For acquisitions of commercial items, the prohibition in paragraph (a) applies only to the extent that any agreement restricting sales by subcontractors results in the Federal Government being treated differently from any other prospective purchaser for the sale of the commercial item(s).
+(b) The prohibition in paragraph (a) of this clause does not preclude the Contractor from asserting rights that are otherwise authorized by law or regulation. For acquisitions of commercial products or commercial services, the prohibition in paragraph (a) applies only to the extent that any agreement restricting sales by subcontractors results in the Federal Government being treated differently from any other prospective purchaser for the sale of the commercial product(s) and commercial service(s).
 
-[50 FR 35479, Aug. 30, 1985, as amended at 60 FR 34761, July 3, 1995; 60 FR 48251, Sept. 18, 1995; 61 FR 39198, July 26, 1996; 71 FR 57369, Sept. 28, 2006; 85 FR 27091, May 6, 2020]
+[50 FR 35479, Aug. 30, 1985, as amended at 60 FR 34761, July 3, 1995; 60 FR 48251, Sept. 18, 1995; 61 FR 39198, July 26, 1996; 71 FR 57369, Sept. 28, 2006; 85 FR 27091, May 6, 2020; 86 FR 61031, Nov. 4, 2021]

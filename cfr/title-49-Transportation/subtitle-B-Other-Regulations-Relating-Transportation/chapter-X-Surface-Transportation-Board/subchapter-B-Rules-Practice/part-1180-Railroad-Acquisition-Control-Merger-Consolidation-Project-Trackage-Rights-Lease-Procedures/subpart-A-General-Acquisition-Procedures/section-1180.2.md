@@ -1,5 +1,7 @@
 ##### § 1180.2 Types of transactions. #####
 
+Link to an amendment published at 86 FR 68930, Dec. 6, 2021.
+
 Transactions proposed under 49 U.S.C. 11323 involving more than one common carrier by railroad are of four types: *Major, significant, minor,* and *exempt.*
 
 (a) A *major* transaction is a control or merger involving two or more class I railroads.

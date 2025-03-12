@@ -2,7 +2,7 @@
 
 (a) *Eligible wool.* Eligible wool under the Duty Refund program means imported wool yarn of the kind described in section 505 of the Trade and Development Act of 2000 Public Law 106-200 (May 18, 2000).
 
-(b) *Payments* - (1) *Eligibility.* Persons eligible for a Duty Refund payment are manufacturers who, in the year immediately preceding the payment, were actively engaged in manufacturing wool (as determined by FAS), and in calendar years 2000, 2001, and 2002 -
+(b) *Payments*—(1) *Eligibility.* Persons eligible for a Duty Refund payment are manufacturers who, in the year immediately preceding the payment, were actively engaged in manufacturing wool (as determined by FAS), and in calendar years 2000, 2001, and 2002—
 
 (i) Imported eligible wool directly or indirectly; and
 
@@ -10,6 +10,4 @@
 
 (iii) Further manufactured the eligible imported wool.
 
-(2) *Payment amount.* Persons eligible for a Duty Refund payment shall be paid the same amounts that were made to the persons by CBP through FY 2015.
-
-[81 FR 81659, Nov. 18, 2016]
+(2) *Payment amount.* Persons eligible for a Duty Refund payment shall be paid the same amounts that were made to the persons by U.S. Customs and Border Protection (CBP) in 2005.

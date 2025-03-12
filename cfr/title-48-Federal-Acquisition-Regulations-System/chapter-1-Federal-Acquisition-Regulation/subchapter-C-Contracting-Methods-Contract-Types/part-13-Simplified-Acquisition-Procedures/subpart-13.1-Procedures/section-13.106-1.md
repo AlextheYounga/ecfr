@@ -1,7 +1,5 @@
 ##### 13.106-1 Soliciting competition. #####
 
-Link to an amendment published at 86 FR 61025, Nov. 4, 2021.
-
 (a) *Considerations.* In soliciting competition, the contracting officer shall consider the guidance in 13.104 and the following before requesting quotations or offers:
 
 (1)(i) The nature of the article or service to be purchased and whether it is highly competitive and readily available in several makes or brands, or is relatively noncompetitive.
@@ -42,7 +40,7 @@ Link to an amendment published at 86 FR 61025, Nov. 4, 2021.
 
 (ii) Where a single source is identified to provide a portion of a purchase because that portion of the purchase specifies a particular brand-name item, the documentation in paragraph (b)(1)(i) of this section only applies to the portion of the purchase requiring the brand-name item. The documentation should state it is covering only the portion of the acquisition which is brand-name.
 
-(2) *For purchases exceeding the simplified acquisition threshold.* The requirements at 13.501(a) apply to sole-source (including brand-name) acquisitions of commercial items conducted pursuant to subpart 13.5.
+(2) *For purchases exceeding the simplified acquisition threshold.* The requirements at 13.501(a) apply to sole-source (including brand-name) acquisitions of commercial products and commercial services conducted pursuant to subpart 13.5.
 
 (3) See 5.102(a)(6) for the requirement to post the brand-name justification or documentation.
 
@@ -62,4 +60,4 @@ Link to an amendment published at 86 FR 61025, Nov. 4, 2021.
 
 (f) *Inquiries.* An agency should respond to inquiries received through any medium (including electronic commerce) if doing so would not interfere with the efficient conduct of the acquisition.
 
-[62 FR 64917, Dec. 9, 1997, as amended at 63 FR 58593, Oct. 30, 1998; 71 FR 57360, 57366, Sept. 28, 2006; 72 FR 63076, Nov. 7, 2007; 77 FR 193, Jan. 3, 2012; 80 FR 38297, July 2, 2015; 85 FR 40071, July 2, 2020; 86 FR 3681, Jan. 14, 2021]
+[62 FR 64917, Dec. 9, 1997, as amended at 63 FR 58593, Oct. 30, 1998; 71 FR 57360, 57366, Sept. 28, 2006; 72 FR 63076, Nov. 7, 2007; 77 FR 193, Jan. 3, 2012; 80 FR 38297, July 2, 2015; 85 FR 40071, July 2, 2020; 86 FR 3681, Jan. 14, 2021; 86 FR 61025, Nov. 4, 2021]

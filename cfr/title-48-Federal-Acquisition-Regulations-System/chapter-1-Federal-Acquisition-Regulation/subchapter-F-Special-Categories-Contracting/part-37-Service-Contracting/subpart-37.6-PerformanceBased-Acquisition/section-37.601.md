@@ -1,10 +1,8 @@
 ##### 37.601 General. #####
 
-Link to an amendment published at 86 FR 61030, Nov. 4, 2021.
-
 (a) Solicitations may use either a performance work statement or a statement of objectives (see 37.602).
 
-(b) Performance-based contracts for services shall include -
+(b) Performance-based contracts for services shall include—
 
 (1) A performance work statement (PWS);
 
@@ -12,4 +10,4 @@ Link to an amendment published at 86 FR 61030, Nov. 4, 2021.
 
 (3) Performance incentives where appropriate. When used, the performance incentives shall correspond to the performance standards set forth in the contract (see 16.402-2).
 
-(c) See 12.102(g) for the use of Part 12 procedures for performance-based acquisitions.
+[71 FR 218, Jan. 3, 2006, as amended at 86 FR 61030, Nov. 4, 2021]

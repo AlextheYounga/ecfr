@@ -1,7 +1,5 @@
 ##### 32.904 Determining payment due dates. #####
 
-Link to an amendment published at 86 FR 61030, Nov. 4, 2021.
-
 (a) *General.* Agency procedures must ensure that, when specifying due dates, contracting officers give full consideration to the time reasonably required by Government officials to fulfill their administrative responsibilities under the contract.
 
 (b) *Payment due dates.* Except as prescribed in paragraphs (c) through (f) of this section, or as authorized in 32.908(a)(2) or (c)(2), the due date for making an invoice payment is as follows:
@@ -22,7 +20,7 @@ Link to an amendment published at 86 FR 61030, Nov. 4, 2021.
 
 (*3*) The constructive acceptance requirement does not compel Government officials to accept supplies or services, perform contract administration functions, or make payment prior to fulfilling their responsibilities; and
 
-(*4*) Except for a contract for the purchase of a commercial item, including a brand-name commercial item for authorized resale (*e.g.,* commissary items), the contracting officer may specify a longer period for constructive acceptance in the solicitation and resulting contract, if required to afford the Government a reasonable opportunity to inspect and test the supplies furnished or to evaluate the services performed. The contracting officer must document in the contract file the justification for extending the constructive acceptance period beyond 7 days. Extended acceptance periods must not be a routine agency practice and must be used only when necessary to permit proper Government inspection and testing of the supplies delivered or services performed.
+(*4*) Except for a contract for the purchase of a commercial product or commercial service, including a brand-name commercial product for authorized resale (*e.g.,* commissary items), the contracting officer may specify a longer period for constructive acceptance in the solicitation and resulting contract, if required to afford the Government a reasonable opportunity to inspect and test the supplies furnished or to evaluate the services performed. The contracting officer must document in the contract file the justification for extending the constructive acceptance period beyond 7 days. Extended acceptance periods must not be a routine agency practice and must be used only when necessary to permit proper Government inspection and testing of the supplies delivered or services performed.
 
 (2) If the contract does not require submission of an invoice for payment (*e.g.,* periodic lease payments), the contracting officer must specify the due date in the contract.
 

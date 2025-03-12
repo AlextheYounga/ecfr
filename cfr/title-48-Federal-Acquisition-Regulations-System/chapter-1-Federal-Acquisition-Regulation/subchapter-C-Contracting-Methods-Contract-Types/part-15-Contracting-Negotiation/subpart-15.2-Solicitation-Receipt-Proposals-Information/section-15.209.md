@@ -1,7 +1,5 @@
 ##### 15.209 Solicitation provisions and contract clauses. #####
 
-Link to an amendment published at 86 FR 61025, Nov. 4, 2021.
-
 When contracting by negotiation -
 
 (a) The contracting officer shall insert the provision at 52.215-1, Instructions to Offerors - Competitive Acquisition, in all competitive solicitations where the Government intends to award a contract without discussions.
@@ -16,7 +14,7 @@ When contracting by negotiation -
 
 (ii) The acquisition of utility services at rates not exceeding those established to apply uniformly to the general public, plus any applicable reasonable connection charge; or
 
-(iii) The acquisition of commercial items exempted under 15.403-1.
+(iii) The acquisition of commercial products or commercial services exempted under 15.403-1.
 
 (2)(i) When using funds appropriated or otherwise made available by the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5) -
 
@@ -44,4 +42,4 @@ When contracting by negotiation -
 
 (h) The contracting officer shall insert the clause at 52.215-8, Order of Precedence - Uniform Contract Format, in solicitations and contracts using the format at 15.204.
 
-[62 FR 51230, Sept. 30, 1997, as amended at 63 FR 9055, Feb. 23, 1998; 63 FR 58589, Oct. 30, 1998; 64 FR 72418, Dec. 27, 1999; 69 FR 76346, Dec. 20, 2004; 72 FR 27384, May 15, 2007; 74 FR 14648, Mar. 31, 2009; 75 FR 34281, June 16, 2010; 79 FR 24201, Apr. 29, 2014; 81 FR 45852, July 14, 2016; 86 FR 3687, Jan. 14, 2021]
+[62 FR 51230, Sept. 30, 1997, as amended at 63 FR 9055, Feb. 23, 1998; 63 FR 58589, Oct. 30, 1998; 64 FR 72418, Dec. 27, 1999; 69 FR 76346, Dec. 20, 2004; 72 FR 27384, May 15, 2007; 74 FR 14648, Mar. 31, 2009; 75 FR 34281, June 16, 2010; 79 FR 24201, Apr. 29, 2014; 81 FR 45852, July 14, 2016; 86 FR 3687, Jan. 14, 2021; 86 FR 61025, Nov. 4, 2021]

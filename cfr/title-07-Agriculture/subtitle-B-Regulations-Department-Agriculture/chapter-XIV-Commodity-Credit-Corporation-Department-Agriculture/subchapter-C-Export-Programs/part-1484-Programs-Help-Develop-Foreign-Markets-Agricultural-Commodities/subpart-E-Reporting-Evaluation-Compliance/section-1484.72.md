@@ -4,7 +4,7 @@
 
 (b) Evaluation is an integral element of program planning and implementation, providing the basis for the strategic plan. The evaluation results guide the development and scope of a Cooperator's program, contribute to program accountability, and provide evidence of program effectiveness.
 
-(c) Cooperators shall complete at least one program evaluation each year. A program evaluation is a review of the Cooperator's entire program, or an appropriate portion of the program as agreed to by the Cooperator and CCC, to determine the effectiveness of the Cooperator's strategy in meeting specified goals. The actual scope and timing of the program evaluation shall be determined by the Cooperator and CCC and specified in the Cooperator's approval letter. A Cooperator may contract with an independent evaluator to satisfy this requirement, although CCC reserves the right to have direct input and control over the design, scope, and methodology of any such evaluation, including direct contact with and provision of guidance to the independent evaluator. In addition to the requirements set forth in 2 CFR part 200, a program evaluation shall contain:
+(c) When required by CCC, a Cooperator shall complete a program evaluation. A program evaluation is a review of the Cooperator's entire program, or an appropriate portion of the program as agreed to by the Cooperator and CCC, to determine the effectiveness of the Cooperator's strategy in meeting specified goals. The actual scope and timing of the program evaluation shall be determined by the Cooperator and CCC and specified in the Cooperator's approval letter. A Cooperator may contract with an independent evaluator to satisfy this requirement, although CCC reserves the right to have direct input and control over the design, scope, and methodology of any such evaluation, including direct contact with and provision of guidance to the independent evaluator. In addition to the requirements set forth in 2 CFR part 200, a program evaluation shall contain:
 
 (1) The name of the party conducting the evaluation;
 
@@ -23,3 +23,5 @@
 (d) A Cooperator shall submit, via a cover letter to CCC, an executive summary that assesses the program evaluation's findings and recommendations and proposed changes in program strategy or design as a result of the evaluation.
 
 (e) On an annual basis, or more often when appropriate or required by CCC, a Cooperator shall complete and submit program success stories. CCC will announce to all Cooperators the detailed requirements for completing and submitting program success stories.
+
+[85 FR 1084, Jan. 9, 2020, as amended at 86 FR 68882, Dec. 6, 2021]

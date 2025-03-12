@@ -1,7 +1,5 @@
 ##### 13.003 Policy. #####
 
-Link to an amendment published at 86 FR 61025, Nov. 4, 2021.
-
 (a) Agencies shall use simplified acquisition procedures to the maximum extent practicable for all purchases of supplies or services not exceeding the simplified acquisition threshold (including purchases at or below the micro-purchase threshold). This policy does not apply if an agency can meet its requirement using -
 
 (1) Required sources of supply under part 8 (e.g., Federal Prison Industries, Committee for Purchase from People Who are Blind or Severely Disabled, and Federal Supply Schedule contracts);
@@ -34,9 +32,9 @@ Link to an amendment published at 86 FR 61025, Nov. 4, 2021.
 
 (i) The simplified acquisition threshold; or
 
-(ii) $7.5 million ($15 million for acquisitions as described in 13.500(c)), including options, for acquisitions of commercial items using Subpart 13.5.
+(ii) $7.5 million ($15 million for acquisitions as described in 13.500(c)), including options, for acquisitions of commercial products or commercial services using subpart 13.5.
 
-(2) Do not break down requirements aggregating more than the simplified acquisition threshold (or for commercial items, the threshold in Subpart 13.5) or the micro-purchase threshold into several purchases that are less than the applicable threshold merely to -
+(2) Do not break down requirements aggregating more than the simplified acquisition threshold (or for commercial products and commercial services, the threshold in subpart13.5) or the micro-purchase threshold into several purchases that are less than the applicable threshold merely to -
 
 (i) Permit use of simplified acquisition procedures; or
 
@@ -50,11 +48,12 @@ Link to an amendment published at 86 FR 61025, Nov. 4, 2021.
 
 (g) Authorized individuals shall make purchases in the simplified manner that is most suitable, efficient, and economical based on the circumstances of each acquisition. For acquisitions not expected to exceed -
 
-(1) The simplified acquisition threshold for other than commercial items, use any appropriate combination of the procedures in parts 13, 14, 15, 35, or 36, including the use of Standard Form 1442, Solicitation, Offer, and Award (Construction, Alteration, or Repair), for construction contracts (see 36.701(a)); or
+(1) The simplified acquisition threshold when acquiring other than commercial products or commercial services, use any appropriate combination of the procedures in parts 13, 14, 15, 35, or 36, including the use of Standard Form 1442, Solicitation, Offer, and Award (Construction, Alteration, or Repair), for construction contracts (see 36.701(a)); or
 
-(2) $7.5 million ($15 million for acquisitions as described in 13.500(c)), for commercial items, use any appropriate combination of the procedures in Parts 12, 13, 14, and 15 (see paragraph (d) of this section).
+(2) $7.5 million ($15 million for acquisitions as described in 13.500(c)), for commercial products or commercial services, use any appropriate combination of the procedures in parts 12, 13, 14, and 15 (see paragraph (d) of this section).
 
-(h) In addition to other considerations, contracting officers shall -
+(h) In addition to other considerations, contracting officers
+shall -
 
 (1) Promote competition to the maximum extent practicable (see 13.104);
 

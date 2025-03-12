@@ -1,6 +1,6 @@
 ##### § 1485.34 Subrecipients. #####
 
-(a) A Participant may utilize the services of a subrecipient to implement activities under the agreement if this is provided for in the agreement. The subrecipient may receive CCC-provided funds, program income, or other resources from the Participant for this purpose. The Participant must enter in to a written subaward with the subrecipient and comply with the applicable provisions of 2 CFR 200.331 and/or the Federal Acquisition Regulation (FAR), if applicable. If required by the agreement, the Participant must provide a copy of such subaward to FAS, in the manner set forth in the agreement, prior to the transfer of CCC-provided funds or program income to the subrecipient.
+(a) A Participant may utilize the services of a subrecipient to implement activities under the agreement if this is provided for in the agreement. The subrecipient may receive CCC-provided funds, program income, or other resources from the Participant for this purpose. The Participant must enter in to a written subaward with the subrecipient and comply with the applicable provisions of 2 CFR 200.332 and/or the Federal Acquisition Regulation (FAR), if applicable. If required by the agreement, the Participant must provide a copy of such subaward to FAS, in the manner set forth in the agreement, prior to the transfer of CCC-provided funds or program income to the subrecipient.
 
 (b) A Participant must include the following requirements in a subaward:
 
@@ -11,3 +11,5 @@
 (3) In accordance with 2 CFR 200.501(h), subawards must include a description of the applicable compliance requirements and the subrecipient's compliance responsibility. Methods to ensure compliance may include pre-award audits, monitoring during the agreement, and post-award audits.
 
 (c) A Participant must monitor the actions of a subrecipient as necessary to ensure that CCC-provided funds and program income provided to the subrecipient are used for authorized purposes in compliance with applicable U.S. Federal laws and regulations and the subaward and that performance indicator targets are achieved for both activities and results under the agreement.
+
+[85 FR 1732, Jan. 13, 2020, as amended at 86 FR 68884, Dec. 6, 2021]

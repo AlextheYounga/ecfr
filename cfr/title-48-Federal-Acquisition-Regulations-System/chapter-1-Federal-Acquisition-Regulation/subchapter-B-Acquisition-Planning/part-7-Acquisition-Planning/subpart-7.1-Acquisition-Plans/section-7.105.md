@@ -1,7 +1,5 @@
 ##### 7.105 Contents of written acquisition plans. #####
 
-Link to an amendment published at 86 FR 61020, Nov. 4, 2021.Link to an amendment published at 86 FR 61040, Nov. 4, 2021.
-
 In order to facilitate attainment of the acquisition objectives, the plan must identify those milestones at which decisions should be made (*see* paragraph (b)(21) of this section). The plan must address all the technical, business, management, and other significant considerations that will control the acquisition. The specific content of plans will vary, depending on the nature, circumstances, and stage of the acquisition. In preparing the plan, the planner must follow the applicable instructions in paragraphs (a) and (b) of this section, together with the agency's implementing procedures. Acquisition plans for service contracts or orders must describe the strategies for implementing performance-based acquisition methods or must provide rationale for not using those methods (see subpart 37.6).
 
 (a) *Acquisition background and objectives* - (1) *Statement of need.* Introduce the plan by a brief statement of need. Summarize the technical and contractual history of the acquisition. Discuss feasible acquisition alternatives, the impact of prior acquisitions on those alternatives, and any related in-house effort.
@@ -100,7 +98,7 @@ In order to facilitate attainment of the acquisition objectives, the plan must i
 
 (14) *Logistics considerations.* Describe -
 
-(i) The assumptions determining contractor or agency support, both initially and over the life of the acquisition, including consideration of contractor or agency maintenance and servicing (see subpart 7.3), support for contracts to be performed in a designated operational area or supporting a diplomatic or consular mission (see 25.301-3); and distribution of commercial items;
+(i) The assumptions determining contractor or agency support, both initially and over the life of the acquisition, including consideration of contractor or agency maintenance and servicing (see subpart 7.3), support for contracts to be performed in a designated operational area or supporting a diplomatic or consular mission (see 25.301-3); and distribution of commercial products or commercial services;
 
 (ii) The reliability, maintainability, and quality assurance requirements, including any planned use of warranties (see part 46);
 
@@ -110,7 +108,7 @@ In order to facilitate attainment of the acquisition objectives, the plan must i
 
 (15) *Government-furnished property.* Indicate any Government property to be furnished to contractors, and discuss any associated considerations, such as its availability or the schedule for its acquisition (see 45.102).
 
-(16) *Government-furnished information.* Discuss any Government information, such as manuals, drawings, and test data, to be provided to prospective offerors and contractors. Indicate which information that requires additional controls to monitor access and distribution (e.g., technical specifications, maps, building designs, schedules, etc.), as determined by the agency, is to be posted via the enhanced controls of the GPE at *https://www.fbo.gov* (see 5.102(a)).
+(16) *Government-furnished information.* Discuss any Government information, such as manuals, drawings, and test data, to be provided to prospective offerors and contractors. Indicate which information that requires additional controls to monitor access and distribution (e.g., technical specifications, maps, building designs, schedules, etc.), as determined by the agency, is to be posted via the enhanced controls of the Governmentwide point of entry (GPE) at *https://www.fbo.gov* (see 5.102(a)).
 
 (17) *Environmental and energy conservation objectives.* Discuss all applicable environmental and energy conservation objectives associated with the acquisition (see part 23), the applicability of an environmental assessment or environmental impact statement (see 40 CFR part 1502), the proposed resolution of environmental issues, and any environmentally-related requirements to be included in solicitations and contracts (see 11.002 and 11.303).
 

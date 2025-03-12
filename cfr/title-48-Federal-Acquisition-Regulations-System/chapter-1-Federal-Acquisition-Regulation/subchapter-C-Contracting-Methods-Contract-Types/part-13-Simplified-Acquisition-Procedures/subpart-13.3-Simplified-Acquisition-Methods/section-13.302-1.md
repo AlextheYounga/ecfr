@@ -1,10 +1,8 @@
 ##### 13.302-1 General. #####
 
-Link to an amendment published at 86 FR 61025, Nov. 4, 2021.
+(a) Except as provided under the unpriced purchase order method (see 13.302-2), purchase orders generally are issued on a fixed-price basis. See 12.207 for acquisition of commercial products and commercial services.
 
-(a) Except as provided under the unpriced purchase order method (see 13.302-2), purchase orders generally are issued on a fixed-price basis. See 12.207 for acquisition of commercial items.
-
-(b) Purchase orders shall -
+(b) Purchase orders shall—
 
 (1) Specify the quantity of supplies or scope of services ordered;
 
@@ -22,4 +20,4 @@ Link to an amendment published at 86 FR 61025, Nov. 4, 2021.
 
 (e) In accordance with 31 U.S.C. 3332, electronic funds transfer (EFT) is required for payments except as provided in 32.1110. See Subpart 32.11 for instructions for use of the appropriate clause in purchase orders. When obtaining oral quotes, the contracting officer shall inform the quoter of the EFT clause that will be in any resulting purchase order.
 
-[62 FR 64917, Dec. 9, 1997, as amended at 64 FR 10540, Mar. 4, 1999]
+[62 FR 64917, Dec. 9, 1997, as amended at 64 FR 10540, Mar. 4, 1999; 86 FR 61025, Nov. 4, 2021]

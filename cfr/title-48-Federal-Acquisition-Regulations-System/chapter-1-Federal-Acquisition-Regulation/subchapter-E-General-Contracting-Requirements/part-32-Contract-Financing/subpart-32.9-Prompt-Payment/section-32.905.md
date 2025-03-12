@@ -24,7 +24,7 @@
 
 (A) The contractor must include EFT banking information on the invoice only if required by agency procedures.
 
-(B) If EFT banking information is not required to be on the invoice, in order for the invoice to be a proper invoice, the contractor must have submitted correct EFT banking information in accordance with the applicable solicitation provision (*e.g.,* 52.232-38, Submission of Electronic Funds Transfer Information with Offer), contract clause (*e.g.,* 52.232-33, Payment by Electronic Funds Transfer - System for Award Management, or 52.232-34, Payment by Electronic Funds Transfer - Other Than System for Award Management), or applicable agency procedures.
+(B) If EFT banking information is not required to be on the invoice, in order for the invoice to be a proper invoice, the contractor must have submitted correct EFT banking information in accordance with the applicable solicitation provision (*e.g.,* 52.232-38, Submission of Electronic Funds Transfer Information with Offer), contract clause (*e.g.,* 52.232-33, Payment by Electronic Funds Transfer—System for Award Management, or 52.232-34, Payment by Electronic Funds Transfer—Other Than System for Award Management), or applicable agency procedures.
 
 (C) EFT banking information is not required if the Government waived the requirement to pay by EFT.
 
@@ -44,7 +44,7 @@
 
 (4) Date supplies delivered or services performed.
 
-(5) Date that the designated Government official -
+(5) Date that the designated Government official—
 
 (i) Accepted the supplies or services; or
 
@@ -56,4 +56,4 @@
 
 (e) *Payment office.* The designated payment office will annotate each invoice and receiving report with the actual date it receives the invoice.
 
-[66 FR 65355, Dec. 18, 2001, as amended at 78 FR 37679, June 21, 2013; 82 FR 4714, Jan. 13, 2017]
+[66 FR 65355, Dec. 18, 2001, as amended at 78 FR 37679, June 21, 2013; 82 FR 4714, Jan. 13, 2017; 86 FR 61030, Nov. 4, 2021]

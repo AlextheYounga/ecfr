@@ -1,7 +1,5 @@
 ##### 13.005 List of laws inapplicable to contracts and subcontracts at or below the simplified acquisition threshold. #####
 
-Link to an amendment published at 86 FR 61025, Nov. 4, 2021.
-
 (a) The following laws are inapplicable to all contracts and subcontracts (if otherwise applicable to subcontracts) at or below the simplified acquisition threshold pursuant to 41 U.S.C. 1905:
 
 (1) 10 U.S.C. 983, Institutions of Higher Education that Prevent ROTC Access or Military Recruiting on Campus: Denial of Grants and Contracts from Department of Defense, Department of Education, and Certain Other Departments and Agencies (see 9.110).
@@ -20,7 +18,7 @@ Link to an amendment published at 86 FR 61025, Nov. 4, 2021.
 
 (8) 41 U.S.C. 8102(a)(1) (Drug-Free Workplace), except for individuals.
 
-(b) When acquiring commercial items or supplies or services procured in accordance with 12.102(f)(1) and (f)(2), the contracting officer may use a combined synopsis and solicitation. The FAR Council may make exceptions when it determines in writing that it is in the best interest of the Government that the enactment should apply to contracts or subcontracts not greater than the simplified acquisition threshold.
+(b) The Federal Acquisition Regulatory Council (FAR Council) will include any law enacted after October 13, 1994, that sets forth policies, procedures, requirements, or restrictions for the acquisition of property or services, on the list set forth in paragraph (a) of this section. The FAR Council may make exceptions when it determines in writing that it is in the best interest of the Government that the enactment should apply to contracts or subcontracts not greater than the simplified acquisition threshold.
 
 (c) The provisions of paragraph (b) of this section do not apply to laws that -
 
@@ -30,4 +28,4 @@ Link to an amendment published at 86 FR 61025, Nov. 4, 2021.
 
 (d) Any individual may petition the Administrator, Office of Federal Procurement Policy (OFPP), to include any applicable provision of law not included on the list set forth in paragraph (a) of this section unless the FAR Council has already determined in writing that the law is applicable. The Administrator, OFPP, will include the law on the list in paragraph (a) of this section unless the FAR Council makes a determination that it is applicable within 60 days of receiving the petition.
 
-[62 FR 64917, Dec. 9, 1997, as amended at 63 FR 58593, Oct. 30, 1998; 63 FR 70267, Dec. 18, 1998; 65 FR 36018, June 6, 2000; 66 FR 53488, Oct. 22, 2001; 68 FR 4050, Jan. 27, 2003; 70 FR 57454, Sept. 30, 2005; 71 FR 57366, Sept. 28, 2006; 75 FR 53132, Aug. 30, 2010; 79 FR 24200, Apr. 29, 2014; 80 FR 38297, July 2, 2015; 83 FR 28149, June 15, 2018; 85 FR 40067, July 2, 2020; 85 FR 67622, Oct. 23, 2020]
+[62 FR 64917, Dec. 9, 1997, as amended at 63 FR 58593, Oct. 30, 1998; 63 FR 70267, Dec. 18, 1998; 65 FR 36018, June 6, 2000; 66 FR 53488, Oct. 22, 2001; 68 FR 4050, Jan. 27, 2003; 70 FR 57454, Sept. 30, 2005; 71 FR 57366, Sept. 28, 2006; 75 FR 53132, Aug. 30, 2010; 79 FR 24200, Apr. 29, 2014; 80 FR 38297, July 2, 2015; 83 FR 28149, June 15, 2018; 85 FR 40067, July 2, 2020; 85 FR 67622, Oct. 23, 2020; 86 FR 61025, Nov. 4, 2021]

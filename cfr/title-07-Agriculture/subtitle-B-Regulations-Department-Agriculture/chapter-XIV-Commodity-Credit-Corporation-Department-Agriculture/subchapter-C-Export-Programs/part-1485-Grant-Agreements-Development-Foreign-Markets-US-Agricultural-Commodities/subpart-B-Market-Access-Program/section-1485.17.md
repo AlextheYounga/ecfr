@@ -14,7 +14,7 @@
 
 (3) Direct mail advertising;
 
-(4) In-store and food service promotions, product demonstrations to the trade and to consumers, and distribution of product samples (but not the purchase of the product samples), including shipment of samples or other program materials from the United States to foreign countries;
+(4) In-store and food service promotions, product demonstrations to the trade and to consumers, and distribution of product samples (but not the purchase of the product samples), including shipment of samples or other program materials;
 
 (5) Temporary displays and rental of space for temporary displays;
 
@@ -66,7 +66,7 @@
 
 (B) Reimbursement is conditional on the MAP Participant having notified in writing the Attaché/Counselor in the destination country in advance of the travel;
 
-(18) Where USDA has sponsored or endorsed a U.S. pavilion at a retail, trade, or consumer exhibit or show, whether held outside or inside the United States, MAP funds may be used to reimburse the travel and/or non-travel expenditures of only those MAP Participants located within the U.S. pavilion. Such expenditures must also adhere to the standard terms and conditions of the U.S. pavilion organizer. Upon written request, CCC may temporarily waive this subsection, on a case by case basis, where the trade show is segregated into product pavilions or a company's distributor or importer is located outside the U.S. pavilion. Such waiver will be provided to the MAP Participant in writing; and
+(18) Where USDA has sponsored or endorsed a U.S. pavilion at a retail, trade, or consumer exhibit or show, whether held outside or inside the United States, MAP funds may be used to reimburse the travel and/or non-travel expenditures of only those MAP Participants located within the U.S. pavilion. Such expenditures must also adhere to the standard terms and conditions of the U.S. pavilion organizer. Upon written request, CCC may temporarily waive this paragraph (b)(18), on a case by case basis, where the trade show is segregated into product pavilions, a company's distributor or importer is located outside the U.S. pavilion, or when a company can demonstrate that there is a benefit to being located outside the U.S. pavilion. Such waiver will be provided to the MAP Participant in writing; and
 
 (19) Contracts with U.S.-based organizations when the only contracted service such organizations provide to a MAP Participant is carrying out a specific market promotion activity in the United States directed to a foreign audience (*e.g.,* a trade mission of foreign buyers coming to the United States to visit U.S. exporters). Such contracts may be reimbursable as a direct promotional expense. If a U.S.-based organization provides administrative services to the MAP Participant's domestic home office during a program year, any direct promotional services such organization provides to the Participant, whether for the Participant's domestic or overseas offices, during the same program year are not reimbursable.
 
@@ -279,3 +279,5 @@
 (i) Except as otherwise provided in this subpart, MAP-funded travel shall conform to the U.S. Federal Travel Regulations (41 CFR parts 300 through 304) and 2 CFR part 200, and MAP-funded air travel shall conform to the requirements of the Fly America Act (49 U.S.C. 40118). The MAP Participant shall notify the Attaché/Counselor in the destination country(ies) in writing in advance of any proposed travel. The timing of such notice should be far enough in advance to enable the Attaché/Counselor to schedule appointments, make preparations, or otherwise provide any assistance being requested. Failure to provide advance notification of travel generally will result in disallowance of the expenses related to the travel, unless CCC determines it was impractical to provide such notification.
 
 (j) CCC may determine, at CCC's discretion, whether any cost not expressly listed in this section will be reimbursed.
+
+[85 FR 1732, Jan. 13, 2020, as amended at 86 FR 68884, Dec. 6, 2021]

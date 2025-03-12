@@ -1,14 +1,12 @@
 ##### 52.232-7 Payments under Time-and-Materials and Labor-Hour Contracts. #####
 
-Link to an amendment published at 86 FR 61036, Nov. 4, 2021.
-
 As prescribed in 32.111(a)(7), insert the following clause:
 
-Payments Under Time-and-Materials and Labor-Hour Contracts (AUG 2012)
+Payments Under Time-and-Materials and Labor-Hour Contracts (NOV 2021)
 
 The Government will pay the Contractor as follows upon the submission of vouchers approved by the Contracting Officer or the authorized representative:
 
-(a) *Hourly rate.* (1) *Hourly rate* means the rate(s) prescribed in the contract for payment for labor that meets the labor category qualifications of a labor category specified in the contract that are -
+(a) *Hourly rate.* (1) *Hourly rate* means the rate(s) prescribed in the contract for payment for labor that meets the labor category qualifications of a labor category specified in the contract that are—
 
 (i) Performed by the Contractor;
 
@@ -22,7 +20,7 @@ The Government will pay the Contractor as follows upon the submission of voucher
 
 (4) The hourly rates shall include wages, indirect costs, general and administrative expense, and profit. Fractional parts of an hour shall be payable on a prorated basis.
 
-(5) Vouchers may be submitted not more than once every two weeks, to the Contracting Officer or authorized representative. A small business concern may receive more frequent payments than every two weeks. The Contractor shall substantiate vouchers (including any subcontractor hours reimbursed at the hourly rate in the schedule) by evidence of actual payment and by -
+(5) Vouchers may be submitted not more than once every two weeks, to the Contracting Officer or authorized representative. A small business concern may receive more frequent payments than every two weeks. The Contractor shall substantiate vouchers (including any subcontractor hours reimbursed at the hourly rate in the schedule) by evidence of actual payment and by—
 
 (i) Individual daily job timekeeping records;
 
@@ -36,11 +34,11 @@ The Government will pay the Contractor as follows upon the submission of voucher
 
 (8) Unless the Schedule prescribes otherwise, the hourly rates in the Schedule shall not be varied by virtue of the Contractor having performed work on an overtime basis. If no overtime rates are provided in the Schedule and overtime work is approved in advance by the Contracting Officer, overtime rates shall be negotiated. Failure to agree upon these overtime rates shall be treated as a dispute under the Disputes clause of this contract. If the Schedule provides rates for overtime, the premium portion of those rates will be reimbursable only to the extent the overtime is approved by the Contracting Officer.
 
-(b) *Materials.* (1) For the purposes of this clause -
+(b) *Materials.* (1) For the purposes of this clause—
 
 (i) *Direct materials* means those materials that enter directly into the end product, or that are used or consumed directly in connection with the furnishing of the end product or service.
 
-(ii) *Materials* means -
+(ii) *Materials* means—
 
 (A) Direct materials, including supplies transferred between divisions, subsidiaries, or affiliates of the Contractor under a common control;
 
@@ -50,21 +48,21 @@ The Government will pay the Contractor as follows upon the submission of voucher
 
 (D) Applicable indirect costs.
 
-(2) If the Contractor furnishes its own materials that meet the definition of a commercial item at 2.101, the price to be paid for such materials shall not exceed the Contractor's established catalog or market price, adjusted to reflect the -
+(2) If the Contractor furnishes its own materials that meet the definition of a commercial product or commercial service in Federal Acquisition Regulation (FAR) 2.101, the price to be paid for such materials shall not exceed the Contractor's established catalog or market price, adjusted to reflect the—
 
 (i) Quantities being acquired; and
 
 (ii) Actual cost of any modifications necessary because of contract requirements.
 
-(3) Except as provided for in paragraph (b)(2) of this clause, the Government will reimburse the Contractor for allowable cost of materials provided the Contractor -
+(3) Except as provided for in paragraph (b)(2) of this clause, the Government will reimburse the Contractor for allowable cost of materials provided the Contractor—
 
 (i) Has made payments for materials in accordance with the terms and conditions of the agreement or invoice; or
 
 (ii) Ordinarily makes these payments within 30 days of the submission of the Contractor's payment request to the Government and such payment is in accordance with the terms and conditions of the agreement or invoice.
 
-(4) Payment for materials is subject to the Allowable Cost and Payment clause of this contract. The Contracting Officer will determine allowable costs of materials in accordance with Subpart 31.2 of the Federal Acquisition Regulation (FAR) in effect on the date of this contract.
+(4) Payment for materials is subject to the Allowable Cost and Payment clause of this contract. The Contracting Officer will determine allowable costs of materials in accordance with FAR subpart 31.2 in effect on the date of this contract.
 
-(5) The Contractor may include allocable indirect costs and other direct costs to the extent they are -
+(5) The Contractor may include allocable indirect costs and other direct costs to the extent they are—
 
 (i) Comprised only of costs that are clearly excluded from the hourly rate;
 
@@ -72,7 +70,7 @@ The Government will pay the Contractor as follows upon the submission of voucher
 
 (iii) Indirect costs are not applied to subcontracts that are paid at the hourly rates.
 
-(6) To the extent able, the Contractor shall -
+(6) To the extent able, the Contractor shall—
 
 (i) Obtain materials at the most advantageous prices available with due regard to securing prompt delivery of satisfactory materials; and
 
@@ -102,4 +100,4 @@ The Government will pay the Contractor as follows upon the submission of voucher
 
 (i) *Interim payments on contracts for services.* For interim payments made prior to the final payment under this contract, the Government will make payment in accordance with the Prompt Payment Act (31 U.S.C. 3903) and prompt payment regulations at 5 CFR part 1315.
 
-(End of clause)[71 FR 74666, Dec. 12, 2006, as amended at 72 FR 6882, Feb. 13, 2007; 77 FR 44062, July 26, 2012]
+(End of clause)[71 FR 74666, Dec. 12, 2006, as amended at 72 FR 6882, Feb. 13, 2007; 77 FR 44062, July 26, 2012; 86 FR 61036, Nov. 4, 2021]

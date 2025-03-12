@@ -1,6 +1,6 @@
 ##### § 110.2 Definitions. #####
 
-Link to an amendment published at 86 FR 55479, Oct. 6, 2021.Link to an amendment published at 86 FR 67843, Nov. 30, 2021.
+Link to an amendment published at 86 FR 67843, Nov. 30, 2021.
 
 As used in this part,
 
@@ -46,7 +46,7 @@ As used in this part,
 
 *Depleted uranium* means uranium having a percentage of uranium-235 less than the naturally occurring distribution of uranium-235 found in natural uranium (less than 0.711 weight percent uranium-235). It is obtained from spent (used) fuel elements or as byproduct tails or residues from uranium isotope separation.
 
-*Deuterium* means deuterium and any deuterium compound, including heavy water, in which the ratio of deuterium atoms to hydrogen atoms exceeds 1:5000.
+*Deuterium* means deuterium and any deuterium compound, including heavy water, in which the ratio of deuterium atoms to hydrogen atoms exceeds 1:5000; and *deuterium for nuclear end use* means deuterium and any deuterium compound, including heavy water, in which the ratio of deuterium atoms to hydrogen atoms exceeds 1:5000, that is intended for use in a nuclear reactor. Export of deuterium and deuterium compounds, including heavy water, for non-nuclear end use is regulated by the Department of Commerce.
 
 *Discrete source* means a radionuclide that has been processed so that its concentration within a material has been purposely increased for use for commercial, medical, or research activities.
 

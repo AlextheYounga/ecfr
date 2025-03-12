@@ -1,12 +1,10 @@
-##### § 41.59 Professionals under the North American Free Trade Agreement. #####
+##### § 41.59 Professionals under the United States-Mexico-Canada Agreement (USMCA). #####
 
-Link to an amendment published at 86 FR 61065, Nov. 5, 2021.
-
-(a) *Requirements for classification as a NAFTA professional.* An alien shall be classifiable under the provisions of INA 214(e) if:
+(a) *Requirements for classification as a USMCA professional.* An alien shall be classifiable under the provisions of INA 214(e) if:
 
 (1) The consular officer is satisfied that the alien qualifies under the provisions of that section; and
 
-(2) The alien shall have presented to the consular officer sufficient evidence of an offer of employment in the United States requiring employment of a person in a professional capacity consistent with NAFTA Chapter 16 Annex 1603 Appendix 1603.D.1 and sufficient evidence that the alien possesses the credentials of that profession as listed in said appendix; or
+(2) The alien shall have presented to the consular officer sufficient evidence of an offer of employment in the United States requiring employment of a person in a professional capacity consistent with Section D and Appendix 2 of Annex 16-A of Chapter 16 of the USMCA and sufficient evidence that the alien possesses the credentials of that profession as listed in said appendix; or
 
 (3) The alien is the spouse or child of an alien so classified in accordance with paragraph (a)(2) of this section and is accompanying or following to join the principal alien.
 
@@ -20,4 +18,4 @@ Link to an amendment published at 86 FR 61065, Nov. 5, 2021.
 
 (2) The alien has failed to establish that the alien's entry will not affect adversely the settlement of the strike or lockout or the employment of any person who is involved in the strike or lockout.
 
-[58 FR 68527, Dec. 28, 1993, as amended at 63 FR 10305, Mar. 3, 1998; 79 FR 7583, Feb. 10, 2014]
+[86 FR 61065, Nov. 5, 2021]

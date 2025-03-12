@@ -1,16 +1,14 @@
 ##### 52.225-1 Buy American - Supplies. #####
 
-Link to an amendment published at 86 FR 61035, Nov. 4, 2021.
-
 As prescribed in 25.1101(a)(1), insert the following clause:
 
-Buy American - Supplies (JAN 2021)
+Buy American - Supplies (NOV 2021)
 
 (a) *Definitions.* As used in this clause -
 
 *Commercially available off-the-shelf (COTS) item* - (1) Means any item of supply (including construction material) that is -
 
-(i) A commercial item (as defined in paragraph (1) of the definition at Federal Acquisition Regulation (FAR) 2.101);
+(i) A commercial product (as defined in paragraph (1) of the definition of “commercial product” at Federal Acquisition Regulation (FAR) 2.101;
 
 (ii) Sold in substantial quantities in the commercial marketplace; and
 
@@ -60,4 +58,4 @@ Buy American - Supplies (JAN 2021)
 
 (d) The Contractor shall deliver only domestic end products except to the extent that it specified delivery of foreign end products in the provision of the solicitation entitled “Buy American Certificate.”
 
-(End of clause)[64 FR 72433, Dec. 27, 1999, as amended at 66 FR 65350, Dec. 18, 2001; 67 FR 21536, Apr. 30, 2002; 68 FR 28086, May 22, 2003; 74 2722, Jan. 15, 2009; 79 FR 24220, Apr. 29, 2014; 86 FR 6190, Jan. 19, 2021]
+(End of clause)[64 FR 72433, Dec. 27, 1999, as amended at 66 FR 65350, Dec. 18, 2001; 67 FR 21536, Apr. 30, 2002; 68 FR 28086, May 22, 2003; 74 2722, Jan. 15, 2009; 79 FR 24220, Apr. 29, 2014; 86 FR 6190, Jan. 19, 2021; 86 FR 61035, Nov. 4, 2021]

@@ -1,10 +1,8 @@
 ##### 52.219-9 Small Business Subcontracting Plan. #####
 
-Link to an amendment published at 86 FR 61035, Nov. 4, 2021.
-
 As prescribed in 19.708(b), insert the following clause:
 
-Small Business Subcontracting Plan (Sep 2021)
+Small Business Subcontracting Plan (NOV 2021)
 
 (a) This clause does not apply to small business concerns.
 
@@ -12,9 +10,11 @@ Small Business Subcontracting Plan (Sep 2021)
 
 *Alaska Native Corporation (ANC)* means any Regional Corporation, Village Corporation, Urban Corporation, or Group Corporation organized under the laws of the State of Alaska in accordance with the Alaska Native Claims Settlement Act, as amended (43 U.S.C. 1601, *et seq.*) and which is considered a minority and economically disadvantaged concern under the criteria at 43 U.S.C. 1626(e)(1). This definition also includes ANC direct and indirect subsidiary corporations, joint ventures, and partnerships that meet the requirements of 43 U.S.C. 1626(e)(2).
 
-*Commercial item* means a product or service that satisfies the definition of commercial item in Federal Acquisition Regulation (FAR) 2.101.
+*Commercial plan* means a subcontracting plan (including goals) that covers the offeror's fiscal year and that applies to the entire production of commercial products and commercial services sold by either the entire company or a portion thereof (*e.g.,* division, plant, or product line).
 
-*Commercial plan* means a subcontracting plan (including goals) that covers the offeror's fiscal year and that applies to the entire production of commercial items sold by either the entire company or a portion thereof (*e.g.,* division, plant, or product line).
+*Commercial product* means a product that satisfies the definition of “commercial product” in Federal Acquisition Regulation (FAR) 2.101.
+
+*Commercial service* means a service that satisfies the definition of “commercial service” in FAR 2.101.
 
 *Electronic Subcontracting Reporting System (eSRS)* means the Governmentwide, electronic, web-based system for small business subcontracting program reporting. The eSRS is located at *http://www.esrs.gov.*
 
@@ -208,13 +208,13 @@ Small Business Subcontracting Plan (Sep 2021)
 
 (3) Goals and any deviations from the master subcontracting plan deemed necessary by the Contracting Officer to satisfy the requirements of this contract are set forth in the individual subcontracting plan.
 
-(g) A commercial plan is the preferred type of subcontracting plan for contractors furnishing commercial items. The commercial plan shall relate to the offeror's planned subcontracting generally, for both commercial and Government business, rather than solely to the Government contract. Once the Contractor's commercial plan has been approved, the Government will not require another subcontracting plan from the same Contractor while the plan remains in effect, as long as the product or service being provided by the Contractor continues to meet the definition of a commercial item. A Contractor with a commercial plan shall comply with the reporting requirements stated in paragraph (d)(10) of this clause by submitting one SSR in eSRS for all contracts covered by its commercial plan. A Contractor authorized to use a commercial subcontracting plan shall include in its subcontracting goals and in its SSR all indirect costs, with the exception of those such as the following: Employee salaries and benefits; payments for petty cash; depreciation; interest; income taxes; property taxes; lease payments; bank fees; fines, claims, and dues; original equipment manufacturer relationships during warranty periods (negotiated up front with the product); utilities and other services purchased from a municipality or an entity solely authorized by the municipality to provide those services in a particular geographical region; and philanthropic contributions. This report shall be acknowledged or rejected in eSRS by the Contracting Officer who approved the plan. This report shall be submitted within 30 days after the end of the Government's fiscal year.
+(g) A commercial plan is the preferred type of subcontracting plan for contractors furnishing commercial products and commercial services. The commercial plan shall relate to the offeror's planned subcontracting generally, for both commercial and Government business, rather than solely to the Government contract. Once the Contractor's commercial plan has been approved, the Government will not require another subcontracting plan from the same Contractor while the plan remains in effect, as long as the product or service being provided by the Contractor continues to meet the definition of a commercial product or commercial service. A Contractor with a commercial plan shall comply with the reporting requirements stated in paragraph (d)(10) of this clause by submitting one SSR in eSRS for all contracts covered by its commercial plan. A Contractor authorized to use a commercial subcontracting plan shall include in its subcontracting goals and in its SSR all indirect costs, with the exception of those such as the following: Employee salaries and benefits; payments for petty cash; depreciation; interest; income taxes; property taxes; lease payments; bank fees; fines, claims, and dues; original equipment manufacturer relationships during warranty periods (negotiated up front with the product); utilities and other services purchased from a municipality or an entity solely authorized by the municipality to provide those services in a particular geographical region; and philanthropic contributions. This report shall be acknowledged or rejected in eSRS by the Contracting Officer who approved the plan. This report shall be submitted within 30 days after the end of the Government's fiscal year.
 
 (h) Prior compliance of the offeror with other such subcontracting plans under previous contracts will be considered by the Contracting Officer in determining the responsibility of the offeror for award of the contract.
 
 (i) A contract may have no more than one subcontracting plan. When a contract modification exceeds the subcontracting plan threshold in FAR 19.702(a), or an option is exercised, the goals of the existing subcontracting plan shall be amended to reflect any new subcontracting opportunities. When the goals in a subcontracting plan are amended, these goal changes do not apply retroactively.
 
-(j) Subcontracting plans are not required from subcontractors when the prime contract contains the clause at 52.212-5, Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Items, or when the subcontractor provides a commercial item subject to the clause at 52.244-6, Subcontracts for Commercial Items, under a prime contract.
+(j) Subcontracting plans are not required from subcontractors when the prime contract contains the clause at FAR 52.212-5, Contract Terms and Conditions Required to Implement Statutes or Executive Orders - Commercial Products and Commercial Services, or when the subcontractor provides a commercial product or commercial service subject to the clause at FAR 52.244-6, Subcontracts for Commercial Products and Commercial Services, under a prime contract.
 
 (k) The failure of the Contractor or subcontractor to comply in good faith with (1) the clause of this contract entitled “Utilization Of Small Business Concerns,” or (2) an approved plan required by this clause, shall be a material breach of the contract and may be considered in any past performance evaluation of the Contractor.
 

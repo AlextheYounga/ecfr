@@ -1,8 +1,6 @@
 ##### 19.704 Subcontracting plan requirements. #####
 
-Link to an amendment published at 86 FR 61028, Nov. 4, 2021.
-
-(a) Each subcontracting plan required under 19.301-2(e) and 19.702(a)(1)(i), (ii), and (iii) shall include -
+(a) Each subcontracting plan required under 19.301-2(e) and 19.702(a)(1)(i), (ii), and (iii) shall include—
 
 (1) Separate percentage goals for using small business (including ANCs and Indian tribes), veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business (including ANCs and Indian tribes) and women-owned small business concerns as subcontractors;
 
@@ -22,7 +20,7 @@ Link to an amendment published at 86 FR 61028, Nov. 4, 2021.
 
 (9) Assurances that the offeror will include the clause at 52.219-8, Utilization of Small Business Concerns (see 19.708(a)), in all subcontracts that offer further subcontracting opportunities, and that the offeror will require all subcontractors (except small business concerns) that receive subcontracts in excess of $750,000 ($1.5 million for construction) to adopt a plan that complies with the requirements of the clause at 52.219-9, Small Business Subcontracting Plan (see 19.708(b));
 
-(10) Assurances that the offeror will -
+(10) Assurances that the offeror will—
 
 (i) Cooperate in any studies or surveys as may be required;
 
@@ -44,7 +42,7 @@ Link to an amendment published at 86 FR 61028, Nov. 4, 2021.
 
 (11) A description of the types of records that will be maintained concerning procedures adopted to comply with the requirements and goals in the plan, including establishing source lists; and a description of the offeror's efforts to locate small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns and to award subcontracts to them;
 
-(12) Assurances that the offeror will make a good faith effort to acquire articles, equipment, supplies, services, or materials, or obtain the performance of construction work from the small business concerns that the offeror used in preparing the bid or proposal, in the same or greater scope, amount, and quality used in preparing and submitting the bid or proposal. Responding to a request for a quote does not constitute use in preparing a bid or proposal. An offeror used a small business concern in preparing the bid or proposal if -
+(12) Assurances that the offeror will make a good faith effort to acquire articles, equipment, supplies, services, or materials, or obtain the performance of construction work from the small business concerns that the offeror used in preparing the bid or proposal, in the same or greater scope, amount, and quality used in preparing and submitting the bid or proposal. Responding to a request for a quote does not constitute use in preparing a bid or proposal. An offeror used a small business concern in preparing the bid or proposal if—
 
 (i) The offeror identifies the small business concern as a subcontractor in the bid or proposal or associated small business subcontracting plan, to furnish certain supplies or perform a portion of the contract; or
 
@@ -60,7 +58,7 @@ Link to an amendment published at 86 FR 61028, Nov. 4, 2021.
 
 (c) For multiyear contracts or contracts containing options, the cumulative value of the basic contract and all options is considered in determining whether a subcontracting plan is necessary. If a subcontracting plan is necessary and the offeror is submitting an individual subcontracting plan, the individual subcontracting plan shall contain all the elements required by paragraph (a) of this section and shall contain separate statements and goals based on total subcontract dollars for the basic contract and for each option.
 
-(d) A commercial plan (as defined in 19.701) is the preferred type of subcontracting plan for contractors furnishing commercial items. The subcontracting goals established for a commercial plan shall include all indirect costs with the exception of those such as the following: Employee salaries and benefits; payments for petty cash; depreciation; interest; income taxes; property taxes; lease payments; bank fees; fines, claims, and dues; original equipment manufacturer relationships during warranty periods (negotiated up front with the product); utilities and other services purchased from a municipality or an entity solely authorized by the municipality to provide those services in a particular geographical region; and philanthropic contributions. Once a contractor's commercial plan has been approved, the Government shall not require another subcontracting plan from the same contractor while the plan remains in effect, as long as the product or service being provided by the contractor continues to meet the definition of a commercial item. The contractor shall -
+(d) A commercial plan (as defined in 19.701) is the preferred type of subcontracting plan for contractors furnishing commercial products and commercial services. The subcontracting goals established for a commercial plan shall include all indirect costs with the exception of those such as the following: Employee salaries and benefits; payments for petty cash; depreciation; interest; income taxes; property taxes; lease payments; bank fees; fines, claims, and dues; original equipment manufacturer relationships during warranty periods (negotiated up front with the product); utilities and other services purchased from a municipality or an entity solely authorized by the municipality to provide those services in a particular geographical region; and philanthropic contributions. Once a contractor's commercial plan has been approved, the Government shall not require another subcontracting plan from the same contractor while the plan remains in effect, as long as the product or service being provided by the contractor continues to meet the definition of a commercial product or commercial service. The contractor shall—
 
 (1) Submit the commercial plan to either the first contracting officer awarding a contract subject to the plan during the contractor's fiscal year, or, if the contractor has ongoing contracts with commercial plans, to the contracting officer responsible for the contract with the latest completion date. The contracting officer shall negotiate the commercial plan for the Government. The approved commercial plan shall remain in effect during the contractor's fiscal year for all Government contracts in effect during that period;
 

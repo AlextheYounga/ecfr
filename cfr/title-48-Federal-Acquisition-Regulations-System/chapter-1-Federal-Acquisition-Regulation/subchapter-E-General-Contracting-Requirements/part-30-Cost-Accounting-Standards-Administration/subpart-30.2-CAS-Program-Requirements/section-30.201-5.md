@@ -1,7 +1,5 @@
 ##### 30.201-5 Waiver. #####
 
-Link to an amendment published at 86 FR 61029, Nov. 4, 2021.
-
 (a) The head of the agency -
 
 (1) May waive the applicability of CAS for a particular contract or subcontract under the conditions listed in paragraph (b) of this subsection; and
@@ -10,9 +8,9 @@ Link to an amendment published at 86 FR 61029, Nov. 4, 2021.
 
 (b) The head of the agency may grant a waiver when one of the following conditions exists:
 
-(1) The contract or subcontract value is less than $15,000,000, and the head of the agency determines, in writing, that the segment of the contractor or subcontractor that will perform the contract or subcontract -
+(1) The contract or subcontract value is less than $15 million, and the head of the agency determines, in writing, that the segment of the contractor or subcontractor that will perform the contract or subcontract -
 
-(i) Is primarily engaged in the sale of commercial items; and
+(i) Is primarily engaged in the sale of commercial products or commercial servicess; and
 
 (ii) Has no contracts or subcontracts that are subject to CAS.
 
@@ -48,4 +46,4 @@ Link to an amendment published at 86 FR 61029, Nov. 4, 2021.
 
 (e) Each agency must report any waivers granted under paragraph (a) of this subsection to the CAS Board, on a fiscal year basis, not later than 90 days after the close of the Government's fiscal year.
 
-[65 FR 36030, June 6, 2000, as amended at 75 FR 53149, Aug. 30, 2010; 85 FR 67614, Oct. 23, 2020]
+[65 FR 36030, June 6, 2000, as amended at 75 FR 53149, Aug. 30, 2010; 85 FR 67614, Oct. 23, 2020; 86 FR 61029, Nov. 4, 2021]

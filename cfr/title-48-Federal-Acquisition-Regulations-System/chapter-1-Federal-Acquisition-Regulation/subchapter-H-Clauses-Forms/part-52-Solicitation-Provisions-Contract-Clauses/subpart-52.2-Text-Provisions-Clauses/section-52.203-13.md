@@ -1,24 +1,22 @@
 ##### 52.203-13 Contractor Code of Business Ethics and Conduct. #####
 
-Link to an amendment published at 86 FR 61032, Nov. 4, 2021.
-
 As prescribed in 3.1004(a), insert the following clause:
 
-Contractor Code of Business Ethics and Conduct (JUN 2020)
+Contractor Code of Business Ethics and Conduct (NOV 2021)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Agent* means any individual, including a director, an officer, an employee, or an independent Contractor, authorized to act on behalf of the organization.
 
-*Full cooperation* - (1) Means disclosure to the Government of the information sufficient for law enforcement to identify the nature and extent of the offense and the individuals responsible for the conduct. It includes providing timely and complete response to Government auditors' and investigators' request for documents and access to employees with information;
+*Full cooperation*—(1) Means disclosure to the Government of the information sufficient for law enforcement to identify the nature and extent of the offense and the individuals responsible for the conduct. It includes providing timely and complete response to Government auditors' and investigators' request for documents and access to employees with information;
 
-(2) Does not foreclose any Contractor rights arising in law, the FAR, or the terms of the contract. It does not require -
+(2) Does not foreclose any Contractor rights arising in law, the FAR, or the terms of the contract. It does not require—
 
 (i) A Contractor to waive its attorney-client privilege or the protections afforded by the attorney work product doctrine; or
 
 (ii) Any officer, director, owner, or employee of the Contractor, including a sole proprietor, to waive his or her attorney client privilege or Fifth Amendment rights; and
 
-(3) Does not restrict a Contractor from -
+(3) Does not restrict a Contractor from—
 
 (i) Conducting an internal investigation; or
 
@@ -32,19 +30,19 @@ Contractor Code of Business Ethics and Conduct (JUN 2020)
 
 *United States* means the 50 States, the District of Columbia, and outlying areas.
 
-(b) *Code of business ethics and conduct.* (1) Within 30 days after contract award, unless the Contracting Officer establishes a longer time period, the Contractor shall -
+(b) *Code of business ethics and conduct.* (1) Within 30 days after contract award, unless the Contracting Officer establishes a longer time period, the Contractor shall—
 
 (i) Have a written code of business ethics and conduct;
 
 (ii) Make a copy of the code available to each employee engaged in performance of the contract.
 
-(2) The Contractor shall -
+(2) The Contractor shall—
 
 (i) Exercise due diligence to prevent and detect criminal conduct; and
 
 (ii) Otherwise promote an organizational culture that encourages ethical conduct and a commitment to compliance with the law.
 
-(3)(i) The Contractor shall timely disclose, in writing, to the agency Office of the Inspector General (OIG), with a copy to the Contracting Officer, whenever, in connection with the award, performance, or closeout of this contract or any subcontract thereunder, the Contractor has credible evidence that a principal, employee, agent, or subcontractor of the Contractor has committed -
+(3)(i) The Contractor shall timely disclose, in writing, to the agency Office of the Inspector General (OIG), with a copy to the Contracting Officer, whenever, in connection with the award, performance, or closeout of this contract or any subcontract thereunder, the Contractor has credible evidence that a principal, employee, agent, or subcontractor of the Contractor has committed—
 
 (A) A violation of Federal criminal law involving fraud, conflict of interest, bribery, or gratuity violations found in Title 18 of the United States Code; or
 
@@ -54,7 +52,7 @@ Contractor Code of Business Ethics and Conduct (JUN 2020)
 
 (iii) If the violation relates to an order against a Governmentwide acquisition contract, a multi-agency contract, a multiple-award schedule contract such as the Federal Supply Schedule, or any other procurement instrument intended for use by multiple agencies, the Contractor shall notify the OIG of the ordering agency and the IG of the agency responsible for the basic contract.
 
-(c) Business ethics awareness and compliance program and internal control system. This paragraph (c) does not apply if the Contractor has represented itself as a small business concern pursuant to the award of this contract or if this contract is for the acquisition of a commercial item as defined at FAR 2.101. The Contractor shall establish the following within 90 days after contract award, unless the Contracting Officer establishes a longer time period:
+(c) Business ethics awareness and compliance program and internal control system. This paragraph (c) does not apply if the Contractor has represented itself as a small business concern pursuant to the award of this contract or if this contract is for the acquisition of a commercial product or commercial service as defined at FAR 2.101. The Contractor shall establish the following within 90 days after contract award, unless the Contracting Officer establishes a longer time period:
 
 (1) An ongoing business ethics awareness and compliance program.
 
@@ -64,7 +62,7 @@ Contractor Code of Business Ethics and Conduct (JUN 2020)
 
 (2) An internal control system.
 
-(i) The Contractor's internal control system shall -
+(i) The Contractor's internal control system shall—
 
 (A) Establish standards and procedures to facilitate timely discovery of improper conduct in connection with Government contracts; and
 
@@ -76,7 +74,7 @@ Contractor Code of Business Ethics and Conduct (JUN 2020)
 
 (B) Reasonable efforts not to include an individual as a principal, whom due diligence would have exposed as having engaged in conduct that is in conflict with the Contractor's code of business ethics and conduct.
 
-(C) Periodic reviews of company business practices, procedures, policies, and internal controls for compliance with the Contractor's code of business ethics and conduct and the special requirements of Government contracting, including -
+(C) Periodic reviews of company business practices, procedures, policies, and internal controls for compliance with the Contractor's code of business ethics and conduct and the special requirements of Government contracting, including—
 
 (*1*) Monitoring and auditing to detect criminal conduct;
 
@@ -104,4 +102,4 @@ Contractor Code of Business Ethics and Conduct (JUN 2020)
 
 (2) In altering this clause to identify the appropriate parties, all disclosures of violation of the civil False Claims Act or of Federal criminal law shall be directed to the agency Office of the Inspector General, with a copy to the Contracting Officer.
 
-(End of clause)[72 FR 65882, Nov. 23, 2007, as amended at 73 FR 67091, Nov. 12, 2008; 75 FR 14066, Mar. 23, 2010; 80 FR 38299, July 2, 2015; 85 FR 27091, May 6, 2020]
+(End of clause)[72 FR 65882, Nov. 23, 2007, as amended at 73 FR 67091, Nov. 12, 2008; 75 FR 14066, Mar. 23, 2010; 80 FR 38299, July 2, 2015; 85 FR 27091, May 6, 2020; 86 FR 61032, Nov. 4, 2021]

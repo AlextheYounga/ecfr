@@ -56,4 +56,4 @@ As used in this subpart A and in the forms and documents related thereto, the fo
 
 (aa) *Vice President, CCC* means the Vice President who is the General Sales Manager, Office of the General Sales Manager.
 
-[42 FR 10999, Feb. 25, 1977, as amended at 42 FR 30833, June 17, 1977; Amdt. 5, 43 FR 25992, June 16, 1978]
+[42 FR 10999, Feb. 25, 1977, as amended at 42 FR 30833, June 17, 1977; Amdt. 5, 43 FR 25992, June 16, 1978; 86 FR, Dec. 6, 2021]

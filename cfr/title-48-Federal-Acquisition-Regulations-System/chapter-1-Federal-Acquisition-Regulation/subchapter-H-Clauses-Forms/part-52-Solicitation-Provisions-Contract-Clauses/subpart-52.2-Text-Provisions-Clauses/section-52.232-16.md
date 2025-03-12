@@ -1,22 +1,20 @@
 ##### 52.232-16 Progress Payments. #####
 
-Link to an amendment published at 86 FR 61036, Nov. 4, 2021.
-
 As prescribed in 32.502-4(a), insert the following clause:
 
-Progress Payments (JUN 2020)
+Progress Payments (NOV 2021)
 
 The Government will make progress payments to the Contractor when requested as work progresses, but not more frequently than monthly, in amounts of $2,500 or more approved by the Contracting Officer, under the following conditions:
 
 (a) *Computation of amounts.* (1) Unless the Contractor requests a smaller amount, the Government will compute each progress payment as 80 percent of the Contractor's total costs incurred under this contract whether or not actually paid, plus financing payments to subcontractors (see paragraph (j) of this clause), less the sum of all previous progress payments made by the Government under this contract. The Contracting Officer will consider cost of money that would be allowable under Federal Acquisition Regulation (FAR) 31.205-10 as an incurred cost for progress payment purposes.
 
-(2) The amount of financing and other payments for supplies and services purchased directly for the contract are limited to the amounts that have been paid by cash, check, or other forms of payment, or that are determined due and will be paid to subcontractors -
+(2) The amount of financing and other payments for supplies and services purchased directly for the contract are limited to the amounts that have been paid by cash, check, or other forms of payment, or that are determined due and will be paid to subcontractors—
 
 (i) In accordance with the terms and conditions of a subcontract or invoice; and
 
 (ii) Ordinarily within 30 days of the submission of the Contractor's payment request to the Government.
 
-(3) The Government will exclude accrued costs of Contractor contributions under employee pension plans until actually paid unless -
+(3) The Government will exclude accrued costs of Contractor contributions under employee pension plans until actually paid unless—
 
 (i) The Contractor's practice is to make contributions to the retirement fund quarterly or more frequently; and
 
@@ -30,7 +28,7 @@ The Government will make progress payments to the Contractor when requested as w
 
 (iii) Costs ordinarily capitalized and subject to depreciation or amortization except for the properly depreciated or amortized portion of such costs.
 
-(iv) Payments made or amounts payable to subcontractors or suppliers, except for -
+(iv) Payments made or amounts payable to subcontractors or suppliers, except for—
 
 (A) Completed work, including partial deliveries, to which the Contractor has acquired title; and
 
@@ -80,7 +78,7 @@ The Government will make progress payments to the Contractor when requested as w
 
 (5) To acquire for its own use or dispose of property to which title is vested in the Government under this clause, the Contractor must obtain the Contracting Officer's advance approval of the action and the terms. The Contractor shall (i) exclude the allocable costs of the property from the costs of contract performance, and (ii) repay to the Government any amount of unliquidated progress payments allocable to the property. Repayment may be by cash or credit memorandum.
 
-(6) When the Contractor completes all of the obligations under this contract, including liquidation of all progress payments, title shall vest in the Contractor for all property (or the proceeds thereof) not -
+(6) When the Contractor completes all of the obligations under this contract, including liquidation of all progress payments, title shall vest in the Contractor for all property (or the proceeds thereof) not—
 
 (i) Delivered to, and accepted by, the Government under this contract; or
 
@@ -110,7 +108,7 @@ The Government will make progress payments to the Contractor when requested as w
 
 (j) *Financing payments to subcontractors.* The financing payments to subcontractors mentioned in paragraphs (a)(1) and (a)(2) of this clause shall be all financing payments to subcontractors or divisions, if the following conditions are met:
 
-(1) The amounts included are limited to -
+(1) The amounts included are limited to—
 
 (i) The unliquidated remainder of financing payments made; plus
 
@@ -118,7 +116,7 @@ The Government will make progress payments to the Contractor when requested as w
 
 (2) The subcontract or interdivisional order is expected to involve a minimum of approximately 6 months between the beginning of work and the first delivery; or, if the subcontractor is a small business concern, 4 months.
 
-(3) If the financing payments are in the form of progress payments, the terms of the subcontract or interdivisional order concerning progress payments -
+(3) If the financing payments are in the form of progress payments, the terms of the subcontract or interdivisional order concerning progress payments—
 
 (i) Are substantially similar to the terms of this clause for any subcontractor that is a large business concern, or this clause with its *Alternate I* for any subcontractor that is a small business concern;
 
@@ -128,31 +126,31 @@ The Government will make progress payments to the Contractor when requested as w
 
 (iv) Are in conformance with the requirements of FAR 32.504(e); and
 
-(v) Subordinate all subcontractor rights concerning property to which the Government has title under the subcontract to the Government's right to require delivery of the property to the Government if -
+(v) Subordinate all subcontractor rights concerning property to which the Government has title under the subcontract to the Government's right to require delivery of the property to the Government if—
 
 (A) The Contractor defaults; or
 
 (B) The subcontractor becomes bankrupt or insolvent.
 
-(4) If the financing payments are in the form of performance-based payments, the terms of the subcontract or interdivisional order concerning payments -
+(4) If the financing payments are in the form of performance-based payments, the terms of the subcontract or interdivisional order concerning payments—
 
 (i) Are substantially similar to the Performance-Based Payments clause at FAR 52.232-32 and meet the criteria for, and definition of, performance-based payments in FAR Part 32;
 
 (ii) Are in conformance with the requirements of FAR 32.504(f); and
 
-(iii) Subordinate all subcontractor rights concerning property to which the Government has title under the subcontract to the Government's right to require delivery of the property to the Government if -
+(iii) Subordinate all subcontractor rights concerning property to which the Government has title under the subcontract to the Government's right to require delivery of the property to the Government if—
 
 (A) The Contractor defaults; or
 
 (B) The subcontractor becomes bankrupt or insolvent.
 
-(5) If the financing payments are in the form of commercial item financing payments, the terms of the subcontract or interdivisional order concerning payments -
+(5) If the financing payments are in the form of commercial product or commercial service financing payments, the terms of the subcontract or interdivisional order concerning payments—
 
-(i) Are constructed in accordance with FAR 32.206(c) and included in a subcontract for a commercial item purchase that meets the definition and standards for acquisition of commercial items in FAR Parts 2 and 12;
+(i) Are constructed in accordance with FAR 32.206(c) and included in a subcontract for a commercial product or commercial service purchase that meets the definition and standards for acquisition of commercial products and commercial services in FAR parts 2 and 12;
 
 (ii) Are in conformance with the requirements of FAR 32.504(g); and
 
-(iii) Subordinate all subcontractor rights concerning property to which the Government has title under the subcontract to the Government's right to require delivery of the property to the Government if -
+(iii) Subordinate all subcontractor rights concerning property to which the Government has title under the subcontract to the Government's right to require delivery of the property to the Government if—
 
 (A) The Contractor defaults; or
 
@@ -170,7 +168,7 @@ The Government will make progress payments to the Contractor when requested as w
 
 (l) *Due date.* The designated payment office will make progress payments on the \_\_\_\_ [*Contracting Officer insert date as prescribed by agency head; if not prescribed, insert “30th”*] day after the designated billing office receives a proper progress payment request. In the event that the Government requires an audit or other review of a specific progress payment request to ensure compliance with the terms and conditions of the contract, the designated payment office is not compelled to make payment by the specified due date. Progress payments are considered contract financing and are not subject to the interest penalty provisions of the Prompt Payment Act.
 
-(m) *Progress payments under indefinite - delivery contracts.* The Contractor shall account for and submit progress payment requests under individual orders as if the order constituted a separate contract, unless otherwise specified in this contract.
+(m) *Progress payments under indefinite—delivery contracts.* The Contractor shall account for and submit progress payment requests under individual orders as if the order constituted a separate contract, unless otherwise specified in this contract.
 
 (End of clause)
 
@@ -194,4 +192,4 @@ The Government will make progress payments to the Contractor when requested as w
 
 (n) The provisions of this clause will not be applicable to individual orders at or below the simplified acquisition threshold, as defined in FAR 2.101 on the date of individual order award.
 
-[48 FR 42478, Sept. 19, 1983, as amended at 52 FR 30078, Aug. 12, 1987; 55 FR 40392, Oct. 3, 1990; 56 FR 29138, June 25, 1991; 65 FR 16284, Mar. 27, 2000; 66 FR 65361, Dec. 18, 2001; 67 FR 56126, Aug. 30, 2002; 67 FR 70521, Nov. 22, 2002; 68 FR 13208, Mar. 18, 2003; 72 FR 46363, Aug. 17, 2007; 74 FR 28431, June 15, 2009; 75 FR 38681, July 2, 2010; 77 FR 12944, Mar. 2, 2012; 85 FR 27097, May 6, 2020]
+[48 FR 42478, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting 52.232-16, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

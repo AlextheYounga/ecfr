@@ -1,10 +1,8 @@
-##### 52.232-30 Installment Payments for Commercial Items. #####
-
-Link to an amendment published at 86 FR 61036, Nov. 4, 2021.
+##### 52.232-30 Installment Payments for Commercial Products and Commercial Services. #####
 
 As prescribed in 32.206(g), insert the following clause:
 
-Installment Payments for Commercial Items (JAN 2017)
+Installment Payments for Commercial Products and Commercial Services (NOV 2021)
 
 (a) *Contractor entitlement to financing payments.* The Contractor may request, and the Government shall pay, a contract financing installment payment as specified in this contract when: the payment requested is properly due in accordance with this contract; the supplies deliverable or services due under the contract will be delivered or performed in accordance with the contract; and there has been no impairment or diminution of the Government's security under this contract.
 
@@ -26,7 +24,7 @@ Installment Payments for Commercial Items (JAN 2017)
 
 (f) *Security for installment payment financing.* In the event the Contractor fails to provide adequate security as required in this contract, no financing payment shall be made under this contract. Upon receipt of adequate security, financing payments shall be made, including all previous payments to which the Contractor is entitled, in accordance with the terms of the contract. If at any time the Contracting Officer determines that the security provided by the Contractor is insufficient, the Contractor shall promptly provide such additional security as the Contracting Officer determines necessary. In the event the Contractor fails to provide such additional security, the Contracting Officer may collect or liquidate such security that has been provided, and suspend further payments to the Contractor; the Contractor shall repay to the Government the amount of unliquidated financing payments as the Contracting Officer at his sole discretion deems repayable.
 
-(g) *Special terms regarding termination for cause.* If this contract is terminated for cause, the Contractor shall, on demand, repay to the Government the amount of unliquidated installment payments. The Government shall be liable for no payment except as provided by the Termination for Cause paragraph of the clause at 52.212-4, Contract Terms and Conditions - Commercial Items.
+(g) *Special terms regarding termination for cause.* If this contract is terminated for cause, the Contractor shall, on demand, repay to the Government the amount of unliquidated installment payments. The Government shall be liable for no payment except as provided by the Termination for Cause paragraph of the clause at Federal Acquisition Regulation 52.212-4, Contract Terms and Conditions—Commercial Products and Commercial Services.
 
 (h) *Reservation of rights.* (1) No payment, vesting of title under this clause, or other action taken by the Government under this clause shall (i) excuse the Contractor from performance of obligations under this contract, or (ii) constitute a waiver of any of the rights or remedies of the parties under the contract.
 
@@ -42,4 +40,4 @@ Installment Payments for Commercial Items (JAN 2017)
 
 (4) An itemized and totaled statement of the items, installment payment amount, and month for which payment is being requested, for each separately priced unit of each line item.
 
-(End of clause)[60 FR 49717, Sept. 26, 1995, as amended at 82 FR 4715, Jan. 13, 2017]
+(End of clause)[60 FR 49717, Sept. 26, 1995, as amended at 82 FR 4715, Jan. 13, 2017; 86 FR 61036, Nov. 4, 2021]

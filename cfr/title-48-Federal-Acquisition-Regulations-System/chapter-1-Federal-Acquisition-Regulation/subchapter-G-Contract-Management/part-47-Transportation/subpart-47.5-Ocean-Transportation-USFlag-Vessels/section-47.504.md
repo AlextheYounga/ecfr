@@ -1,7 +1,5 @@
 ##### 47.504 Exceptions. #####
 
-Link to an amendment published at 86 FR 61031, Nov. 4, 2021.
-
 The policy and procedures in this subpart do not apply to the following:
 
 (a) Shipments aboard vessels as required or authorized by law or treaty.
@@ -10,7 +8,7 @@ The policy and procedures in this subpart do not apply to the following:
 
 (c) Shipments of classified supplies when the classification prohibits the use of non-Government vessels.
 
-(d) Subcontracts for the acquisition of commercial items or commercial components (see 12.504(a)(1) and (a)(11)). This exception does not apply to -
+(d) Subcontracts for the acquisition of commercial products, including commercial components, or commercial services(see 12.504(a)(1) and (a)(11)). This exception does not apply to -
 
 (1) Grants-in-aid shipments, such as agricultural and food-aid shipments;
 
@@ -22,7 +20,7 @@ The policy and procedures in this subpart do not apply to the following:
 
 (ii) Construction contracts; or
 
-(4) Shipments of commercial items that are -
+(4) Shipments of commerical products that are -
 
 (i) Items the contractor is reselling or distributing to the Government without adding value (see FAR 12.501(b)). Generally, the contractor does not add value to the items when it subcontracts items for f.o.b. destination shipment; or
 
@@ -34,4 +32,4 @@ The policy and procedures in this subpart do not apply to the following:
 
 (C) Forces deployed in connection with United Nations or North Atlantic Treaty Organization humanitarian or peacekeeping operations.
 
-[48 FR 42424, Sept. 19, 1983, as amended at 60 FR 34760, July 3, 1995; 60 FR 48250, Sept. 18, 1995; 65 FR 24324, Apr. 25, 2000; 68 FR 13203, Mar. 18, 2003; 71 FR 206, Jan. 3, 2006]
+[48 FR 42424, Sept. 19, 1983, as amended at 60 FR 34760, July 3, 1995; 60 FR 48250, Sept. 18, 1995; 65 FR 24324, Apr. 25, 2000; 68 FR 13203, Mar. 18, 2003; 71 FR 206, Jan. 3, 2006; 86 FR 61031, Nov. 4, 2021]

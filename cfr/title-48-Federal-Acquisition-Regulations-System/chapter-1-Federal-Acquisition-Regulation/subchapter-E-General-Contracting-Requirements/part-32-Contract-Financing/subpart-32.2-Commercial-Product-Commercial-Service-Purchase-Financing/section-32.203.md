@@ -1,0 +1,3 @@
+##### 32.203 Determining contract financing terms. #####
+
+When the criteria in 32.202-1(b) are met, the contracting officer may either specify the financing terms in the solicitation (see 32.204) or permit each offeror to propose its own customary financing terms (see 32.205). When the contracting officer has sufficient information on financing terms that are customary in the commercial marketplace for the item, those terms may be specified in the solicitation.

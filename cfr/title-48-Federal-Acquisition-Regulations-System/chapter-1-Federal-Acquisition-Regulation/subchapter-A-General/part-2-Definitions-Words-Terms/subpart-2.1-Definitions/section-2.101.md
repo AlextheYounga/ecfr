@@ -1,7 +1,5 @@
 ##### 2.101 Definitions. #####
 
-Link to an amendment published at 86 FR 61019, Nov. 4, 2021.
-
 (a) A word or a term, defined in this section, has the same meaning throughout this regulation (48 CFR chapter 1), unless -
 
 (1) The context in which the word or term is used clearly requires a different meaning; or
@@ -58,7 +56,7 @@ Link to an amendment published at 86 FR 61019, Nov. 4, 2021.
 
 *Bid sample* means a product sample required to be submitted by an offeror to show characteristics of the offered products that cannot adequately be described by specifications, purchase descriptions, or the solicitation (e.g., balance, facility of use, or pattern).
 
-*Biobased product* means a product determined by the U.S. Department of Agriculture to be a commercial or industrial product (other than food or feed) that is composed, in whole or in significant part, of biological products, including renewable domestic agricultural materialsand forestry materials.
+*Biobased product* means a product determined by the U.S. Department of Agriculture to be a commercial product or industrial product (other than food or feed) that is composed, in whole or in significant part, of biological products, including renewable domestic agricultural materialsand forestry materials.
 
 *Broad agency announcement* means a general announcement of an agency's research interest including criteria for selecting proposals and soliciting the participation of all offerors capable of satisfying the Government's needs (see 6.102(d)(2)).
 
@@ -116,47 +114,51 @@ Link to an amendment published at 86 FR 61019, Nov. 4, 2021.
 
 (2) An identifier assigned by a member of the North Atlantic Treaty Organization (NATO) or by the NATO Support and Procurement Agency (NSPA) to entities located outside the United States and its outlying areas that the DLA Commercial and Government Entity (CAGE) Branch records and maintains in the CAGE master file. This type of code is known as a NATO CAGE (NCAGE) code.
 
-*Commercial component* means any component that is a commercial item.
+*Commercial component* means any component that is a commercial product.
 
-*Commercial computer software* means any computer software that is a commercial item.
+*Commercial computer software* means any computer software that is a commercial product or commercial service.
 
-*Commercial item* means -
+*Commercial product* means -
 
-(1) Any item, other than real property, that is of a type customarily used by the general public or by non-governmental entities for purposes other than governmental purposes, and -
+(1) A product, other than real property, that is of a type customarily used by the general public or by nongovernmental entities for purposes other than governmental purposes, and -
 
 (i) Has been sold, leased, or licensed to the general public; or
 
 (ii) Has been offered for sale, lease, or license to the general public;
 
-(2) Any item that evolved from an item described in paragraph (1) of this definition through advances in technology or performance and that is not yet available in the commercial marketplace, but will be available in the commercial marketplace in time to satisfy the delivery requirements under a Government solicitation;
+(2) A product that evolved from a product described in paragraph (1) of this definition through advances in technology or performance and that is not yet available in the commercial marketplace, but will be available in the commercial marketplace in time to satisfy the delivery requirements under a Government solicitation;
 
-(3) Any item that would satisfy a criterion expressed in paragraphs (1) or (2) of this definition, but for -
+(3) A product that would satisfy a criterion expressed in paragraph (1) or (2) of this definition, except for -
 
 (i) Modifications of a type customarily available in the commercial marketplace; or
 
-(ii) Minor modifications of a type not customarily available in the commercial marketplace made to meet Federal Government requirements. Minor modifications means modifications that do not significantly alter the nongovernmental function or essential physical characteristics of an item or component, or change the purpose of a process. Factors to be considered in determining whether a modification is minor include the value and size of the modification and the comparative value and size of the final product. Dollar values and percentages may be used as guideposts, but are not conclusive evidence that a modification is minor;
+(ii) Minor modifications of a type not customarily available in the commercial marketplace made to meet Federal Government requirements. “Minor modifications” means modifications that do not significantly alter the nongovernmental function or essential physical characteristics of an item or component, or change the purpose of a process. Factors to be considered in determining whether a modification is minor include the value and size of the modification and the comparative value and size of the final product. Dollar values and percentages may be used as guideposts, but are not conclusive evidence that a modification is minor;
 
-(4) Any combination of items meeting the requirements of paragraphs (1), (2), (3), or (5) of this definition that are of a type customarily combined and sold in combination to the general public;
+(4) Any combination of products meeting the requirements of paragraph (1), (2), or (3) of this definition that are of a type customarily combined and sold in combination to the general public;
 
-(5) Installation services, maintenance services, repair services, training services, and other services if -
+(5) A product, or combination of products, referred to in paragraphs (1) through (4) of this definition, even though the product, or combination of products, is transferred between or among separate divisions, subsidiaries, or affiliates of a contractor; or
 
-(i) Such services are procured for support of an item referred to in paragraph (1), (2), (3), or (4) of this definition, regardless of whether such services are provided by the same source or at the same time as the item; and
+(6) A nondevelopmental item, if the procuring agency determines the product was developed exclusively at private expense and sold in substantial quantities, on a competitive basis, to multiple State and local governments or to multiple foreign governments.
+
+*Commercial service* means -
+
+(1) Installation services, maintenance services, repair services, training services, and other services if -
+
+(i) Such services are procured for support of a commercial product as defined in this section, regardless of whether such services are provided by the same source or at the same time as the commercial product; and
 
 (ii) The source of such services provides similar services contemporaneously to the general public under terms and conditions similar to those offered to the Federal Government;
 
-(6) Services of a type offered and sold competitively in substantial quantities in the commercial marketplace based on established catalog or market prices for specific tasks performed or specific outcomes to be achieved and under standard commercial terms and conditions. For purposes of these services -
+(2) Services of a type offered and sold competitively in substantial quantities in the commercial marketplace based on established catalog or market prices for specific tasks performed or specific outcomes to be achieved and under standard commercial terms and conditions. For purposes of these services -
 
 (i) *Catalog price* means a price included in a catalog, price list, schedule, or other form that is regularly maintained by the manufacturer or vendor, is either published or otherwise available for inspection by customers, and states prices at which sales are currently, or were last, made to a significant number of buyers constituting the general public; and
 
-(ii) *Market prices* means current prices that are established in the course of ordinary trade between buyers and sellers free to bargain and that can be substantiated through competition or from sources independent of the offerors.
+(ii) *Market prices* means current prices that are established in the course of ordinary trade between buyers and sellers free to bargain and that can be substantiated through competition or from sources independent of the offerors; or
 
-(7) Any item, combination of items, or service referred to in paragraphs (1) through (6) of this definition, notwithstanding the fact that the item, combination of items, or service is transferred between or among separate divisions, subsidiaries, or affiliates of a contractor; or
-
-(8) A nondevelopmental item, if the procuring agency determines the item was developed exclusively at private expense and sold in substantial quantities, on a competitive basis, to multiple State and local governments or to multiple foreign governments.
+(3) A service referred to in paragraph (1) or (2) of this definition, even though the service is transferred between or among separate divisions, subsidiaries, or affiliates of a contractor.
 
 *Commercially available off-the-shelf (COTS) item -*  (1) Means any item of supply (including construction material) that is -
 
-(i) A commercial item (as defined in paragraph (1) of the definition in this section);
+(i) A commercial product (as defined in paragraph (1) of the definition of “commercial product” in this section );
 
 (ii) Sold in substantial quantities in the commercial marketplace; and
 

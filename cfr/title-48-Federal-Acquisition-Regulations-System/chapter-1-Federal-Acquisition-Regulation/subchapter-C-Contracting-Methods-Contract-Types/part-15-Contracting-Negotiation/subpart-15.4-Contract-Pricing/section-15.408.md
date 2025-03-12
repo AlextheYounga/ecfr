@@ -1,8 +1,6 @@
 ##### 15.408 Solicitation provisions and contract clauses. #####
 
-Link to an amendment published at 86 FR 61026, Nov. 4, 2021.
-
-(a) *Changes or Additions to Make-or-Buy Program.* The contracting officer shall insert the clause at 52.215-9, Changes or Additions to Make-or-Buy Program, in solicitations and contracts when it is contemplated that a make-or- buy program will be incorporated in the contract. If a less economical “make” or “buy” categorization is selected for one or more items of significant value, the contracting officer shall use the clause with -
+(a) *Changes or Additions to Make-or-Buy Program.* The contracting officer shall insert the clause at 52.215-9, Changes or Additions to Make-or-Buy Program, in solicitations and contracts when it is contemplated that a make-or- buy program will be incorporated in the contract. If a less economical “make” or “buy” categorization is selected for one or more items of significant value, the contracting officer shall use the clause with—
 
 (1) Its *Alternate I,* if a fixed-price incentive contract is contemplated; or
 
@@ -10,21 +8,21 @@ Link to an amendment published at 86 FR 61026, Nov. 4, 2021.
 
 (b) *Price Reduction for Defective Certified Cost or Pricing Data.* The contracting officer shall, when contracting by negotiation, insert the clause at 52.215-10, Price Reduction for Defective Certified Cost or Pricing Data, in solicitations and contracts when it is contemplated that certified cost or pricing data will be required from the contractor or any subcontractor (see 15.403-4).
 
-(c) *Price Reduction for Defective Certified Cost or Pricing Data - Modifications.* The contracting officer shall, when contracting by negotiation, insert the clause at 52.215-11, Price Reduction for Defective Certified Cost or Pricing Data - Modifications, in solicitations and contracts when it is contemplated that certified cost or pricing data will be required from the contractor or any subcontractor (see 15.403-4) for the pricing of contract modifications, and the clause prescribed in paragraph (b) of this section has not been included.
+(c) *Price Reduction for Defective Certified Cost or Pricing Data—Modifications.* The contracting officer shall, when contracting by negotiation, insert the clause at 52.215-11, Price Reduction for Defective Certified Cost or Pricing Data—Modifications, in solicitations and contracts when it is contemplated that certified cost or pricing data will be required from the contractor or any subcontractor (see 15.403-4) for the pricing of contract modifications, and the clause prescribed in paragraph (b) of this section has not been included.
 
-(d) *Subcontractor Certified Cost or Pricing Data.* The contracting officer shall -
+(d) *Subcontractor Certified Cost or Pricing Data.* The contracting officer shall—
 
 (1) Insert the clause at 52.215-12, Subcontractor Certified Cost or Pricing Data, in solicitations and contracts when the clause prescribed in paragraph (b) of this section is included; or
 
 (2) Upon the request of a contractor that was required to submit certified cost or pricing data in connection with a prime contract entered into before July 1, 2018, the contracting officer shall modify the contract without requiring consideration, to replace clause 52.215-12, Subcontractor Certified Cost or Pricing Data, with its Alternate I.
 
-(e) *Subcontractor Certified Cost or Pricing Data - Modifications.* The contracting officer shall -
+(e) *Subcontractor Certified Cost or Pricing Data—Modifications.* The contracting officer shall—
 
-(1) Insert the clause at 52.215-13, Subcontractor Certified Cost or Pricing Data - Modifications, in solicitations and contracts when the clause prescribed in paragraph (c) of this section is included; or
+(1) Insert the clause at 52.215-13, Subcontractor Certified Cost or Pricing Data—Modifications, in solicitations and contracts when the clause prescribed in paragraph (c) of this section is included; or
 
-(2) Upon the request of a contractor that was required to submit certified cost or pricing data in connection with a prime contract entered into before July 1, 2018, the contracting officer shall modify the contract without requiring consideration, to replace clause 52.215-13, Subcontractor Certified Cost or Pricing Data - Modifications, with its Alternate I.
+(2) Upon the request of a contractor that was required to submit certified cost or pricing data in connection with a prime contract entered into before July 1, 2018, the contracting officer shall modify the contract without requiring consideration, to replace clause 52.215-13, Subcontractor Certified Cost or Pricing Data—Modifications, with its Alternate I.
 
-(f) *Integrity of Unit Prices.* (1) The contracting officer shall insert the clause at 52.215-14, Integrity of Unit Prices, in solicitations and contracts except for -
+(f) *Integrity of Unit Prices.* (1) The contracting officer shall insert the clause at 52.215-14, Integrity of Unit Prices, in solicitations and contracts except for—
 
 (i) Acquisitions at or below the simplified acquisition threshold;
 
@@ -34,7 +32,7 @@ Link to an amendment published at 86 FR 61026, Nov. 4, 2021.
 
 (iv) Service contracts where supplies are not required;
 
-(v) Acquisitions of commercial items; and
+(v) Acquisitions of commercial products and commercial services ; and
 
 (vi) Contracts for petroleum products.
 
@@ -50,7 +48,7 @@ Link to an amendment published at 86 FR 61026, Nov. 4, 2021.
 
 (k) *Notification of Ownership Changes.* The contracting officer shall insert the clause at 52.215-19, Notification of Ownership Changes, in solicitations and contracts for which it is contemplated that certified cost or pricing data will be required or for which any preaward or postaward cost determination will be subject to subpart 31.2.
 
-(l) *Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data.* Considering the hierarchy at 15.402, the contracting officer shall insert the provision at 52.215-20, Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data, in solicitations if it is reasonably certain that certified cost or pricing data or data other than certified cost or pricing data will be required. This provision also provides instructions to offerors on how to request an exception from the requirement to submit certified cost or pricing data. The contracting officer shall -
+(l) *Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data.* Considering the hierarchy at 15.402, the contracting officer shall insert the provision at 52.215-20, Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data, in solicitations if it is reasonably certain that certified cost or pricing data or data other than certified cost or pricing data will be required. This provision also provides instructions to offerors on how to request an exception from the requirement to submit certified cost or pricing data. The contracting officer shall—
 
 (1) Use the provision with its Alternate I to specify a format for certified cost or pricing data other than the format required by Table 15-2 of this section;
 
@@ -60,7 +58,7 @@ Link to an amendment published at 86 FR 61026, Nov. 4, 2021.
 
 (4) Replace the basic provision with its Alternate IV if certified cost or pricing data are not expected to be required because an exception may apply, but data other than certified cost or pricing data will be required as described in 15.403-3.
 
-(m) *Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data - Modifications.* Considering the hierarchy at 15.402, the contracting officer shall insert the clause at 52.215-21, Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data - Modifications, in solicitations and contracts if it is reasonably certain that certified cost or pricing data or data other than certified cost or pricing data will be required for modifications. This clause also provides instructions to contractors on how to request an exception from the requirement to submit certified cost or pricing data. The contracting officer shall -
+(m) *Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data—Modifications.* Considering the hierarchy at 15.402, the contracting officer shall insert the clause at 52.215-21, Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data—Modifications, in solicitations and contracts if it is reasonably certain that certified cost or pricing data or data other than certified cost or pricing data will be required for modifications. This clause also provides instructions to contractors on how to request an exception from the requirement to submit certified cost or pricing data. The contracting officer shall—
 
 (1) Use the clause with its Alternate I to specify a format for certified cost or pricing data other than the format required by Table 15-2 of this section;
 
@@ -70,39 +68,39 @@ Link to an amendment published at 86 FR 61026, Nov. 4, 2021.
 
 (4) Replace the basic clause with its Alternate IV if certified cost or pricing data are not expected to be required because an exception may apply, but data other than certified cost or pricing data will be required as described in 15.403-3.
 
-(n) *Limitations on Pass-Through Charges.* (1) The contracting officer shall insert the provision at 52.215-22, Limitations on Pass-Through Charges - Identification of Subcontract Effort, in solicitations containing the clause at 52.215-23.
+(n) *Limitations on Pass-Through Charges.* (1) The contracting officer shall insert the provision at 52.215-22, Limitations on Pass-Through Charges—Identification of Subcontract Effort, in solicitations containing the clause at 52.215-23.
 
 (2)(i) Except as provided in paragraph (n)(2)(ii) of this section, the contracting officer shall insert the clause 52.215-23, Limitations on Pass-Through Charges, in solicitations and contracts including task or delivery orders as follows:
 
-(A) For civilian agencies, insert the clause when -
+(A) For civilian agencies, insert the clause when—
 
 (*1*) The total estimated contract or order value exceeds the simplified acquisition threshold as defined in section 2.101 and
 
 (*2*) The contemplated contract type is expected to be a cost-reimbursement type contract as defined in Subpart 16.3; or
 
-(B) For DoD, insert the clause when -
+(B) For DoD, insert the clause when—
 
 (*1*) The total estimated contract or order value exceeds the threshold for obtaining cost or pricing data in 15.403-4; and
 
-(*2*) The contemplated contract type is expected to be any contract type except -
+(*2*) The contemplated contract type is expected to be any contract type except—
 
 (*i*) A firm-fixed-price contract awarded on the basis of adequate price competition;
 
 (*ii*) A fixed-price contract with economic price adjustment awarded on the basis of adequate price competition;
 
-(*iii*) A firm-fixed-price contract for the acquisition of a commercial item;
+(*iii*) A firm-fixed-price contract for the acquisition of a commercial product or commercial service;
 
-(*iv*) A fixed-price contract with economic price adjustment, for the acquisition of a commercial item;
+(*iv*) A fixed-price contract with economic price adjustment, for the acquisition of a commercial product or commercial service ;
 
 (*v*) A fixed-price incentive contract awarded on the basis of adequate price competition; or
 
-(*vi*) A fixed-price incentive contract for the acquisition of a commercial item.
+(*vi*) A fixed-price incentive contract for the acquisition of a commercial product or commercial service.
 
 (ii) The clause may be used when the total estimated contract or order value is below the thresholds identified in 15.408(n)(2)(i) and for any contract type, when the contracting officer determines that inclusion of the clause is appropriate.
 
 (iii) Use the clause 52.215-23 with its Alternate I when the contracting officer determines that the prospective contractor has demonstrated that its functions provide added value to the contracting effort and there are no excessive pass-through charges.
 
-Table 15-2 - Instructions for Submitting Cost/Price Proposals When Certified Cost or Pricing Data Are Required
+Table 15-2—Instructions for Submitting Cost/Price Proposals When Certified Cost or Pricing Data Are Required
 
 This document provides instructions for preparing a contract pricing proposal when cost or pricing data are required.
 
@@ -142,11 +140,11 @@ A. You must provide the following information on the first page of your pricing 
 
 B. In submitting your proposal, you must include an index, appropriately referenced, of all the certified cost or pricing data and information accompanying or identified in the proposal.In addition, you must annotate any future additions and/or revisions, up to the date of agreement on price, or an earlier date agreed upon by the parties, on a supplemental index.
 
-C. As part of the specific information required, you must submit, with your proposal -
+C. As part of the specific information required, you must submit, with your proposal—
 
 (1) Certified cost or pricing data (as defined at FAR 2.101). You must clearly identify on your cover sheet that certified cost or pricing data are included as part of the proposal.
 
-(2) Information reasonably required to explain your estimating process, including -
+(2) Information reasonably required to explain your estimating process, including—
 
 (i) The judgmental factors applied and the mathematical or other methods used in the estimate, including those used in projecting from known data; and
 
@@ -171,7 +169,7 @@ A. *Materials and services.* Provide a consolidated priced summary of individual
 
 (1) *Adequate Price Competition.* Provide data showing the degree of competition and the basis for establishing the source and reasonableness of price for those acquisitions (such as subcontracts, purchase orders, material order, etc.) exceeding, or expected to exceed, the appropriate threshold set forth at FAR 15.403-4 priced on the basis of adequate price competition. For interorganizational transfers priced at other than the cost of comparable competitive commercial work of the division, subsidiary, or affiliate of the contractor, explain the pricing method (see FAR 31.205-26(e)).
 
-(2) *All Other.* Obtain certified cost or pricing data from prospective sources for those acquisitions (such as subcontracts, purchase orders, material order, etc.) exceeding the threshold set forth in FAR 15.403-4 and not otherwise exempt, in accordance with FAR 15.403-1(b) (*i.e.,* adequate price competition, commercial items, prices set by law or regulation or waiver). Also provide data showing the basis for establishing source and reasonableness of price. In addition, provide a summary of your cost analysis and a copy of certified cost or pricing data submitted by the prospective source in support of each subcontract, or purchase order that is the lower of either $15 million or more, or both more than the pertinent certified cost or pricing data threshold and more than 10 percent of the prime contractor's proposed price. Also submit any information reasonably required to explain your estimating process (including the judgmental factors applied and the mathematical or other methods used in the estimate, including those used in projecting from known data, and the nature and amount of any contingencies included in the price). The Contracting Officer may require you to submit cost or pricing data in support of proposals in lower amounts. Subcontractor certified cost or pricing data must be accurate, complete and current as of the date of final price agreement, or an earlier date agreed upon by the parties, given on the prime contractor's Certificate of Current Cost or Pricing Data. The prime contractor is responsible for updating a prospective subcontractor's data. For standard commercial items fabricated by the offeror that are generally stocked in inventory, provide a separate cost breakdown, if priced based on cost. For interorganizational transfers priced at cost, provide a separate breakdown of cost elements. Analyze the certified cost or pricing data and submit the results of your analysis of the prospective source's proposal. When submission of a prospective source's certified cost or pricing data is required as described in this paragraph, it must be included as part of your own certified cost or pricing data. You must also submit any data other than certified cost or pricing data obtained from a subcontractor, either actually or by specific identification, along with the results of any analysis performed on that data.
+(2) *All Other.* Obtain certified cost or pricing data from prospective sources for those acquisitions (such as subcontracts, purchase orders, material order, etc.) exceeding the threshold set forth in FAR 15.403-4 and not otherwise exempt, in accordance with FAR 15.403-1(b) (*i.e.,* adequate price competition, commercial products or commercial services, prices set by law or regulation or waiver). Also provide data showing the basis for establishing source and reasonableness of price. In addition, provide a summary of your cost analysis and a copy of certified cost or pricing data submitted by the prospective source in support of each subcontract, or purchase order that is the lower of either $15 million or more, or both more than the pertinent certified cost or pricing data threshold and more than 10 percent of the prime contractor's proposed price. Also submit any information reasonably required to explain your estimating process (including the judgmental factors applied and the mathematical or other methods used in the estimate, including those used in projecting from known data, and the nature and amount of any contingencies included in the price). The Contracting Officer may require you to submit cost or pricing data in support of proposals in lower amounts. Subcontractor certified cost or pricing data must be accurate, complete and current as of the date of final price agreement, or an earlier date agreed upon by the parties, given on the prime contractor's Certificate of Current Cost or Pricing Data. The prime contractor is responsible for updating a prospective subcontractor's data. For standard commercial products fabricated by the offeror that are generally stocked in inventory, provide a separate cost breakdown, if priced based on cost. For interorganizational transfers priced at cost, provide a separate breakdown of cost elements. Analyze the certified cost or pricing data and submit the results of your analysis of the prospective source's proposal. When submission of a prospective source's certified cost or pricing data is required as described in this paragraph, it must be included as part of your own certified cost or pricing data. You must also submit any data other than certified cost or pricing data obtained from a subcontractor, either actually or by specific identification, along with the results of any analysis performed on that data.
 
 B. *Direct Labor.* Provide a time-phased (e.g., monthly, quarterly, etc.) breakdown of labor hours, rates, and cost by appropriate category, and furnish bases for estimates.
 
@@ -205,9 +203,9 @@ F. *Facilities Capital Cost of Money.* When you elect to claim facilities capita
 
 III. Formats for Submission of Line Item SummariesA. New Contracts (Including Letter Contracts)
 
-|Cost  <br/>elements  <br/>(1)|Proposed contract  <br/>estimate - total cost  <br/>(2)|Proposed contract  <br/>estimate - unit cost  <br/>(3)|Reference  <br/>(4)|
-|-----------------------------|-------------------------------------------------------|------------------------------------------------------|-------------------|
-|                             |                                                       |                                                      |                   |
+|Cost  <br/>elements  <br/>(1)|Proposed contract  <br/>estimate—total cost  <br/>(2)|Proposed contract  <br/>estimate—unit cost  <br/>(3)|Reference  <br/>(4)|
+|-----------------------------|-----------------------------------------------------|----------------------------------------------------|-------------------|
+|                             |                                                     |                                                    |                   |
 
 Column and Instruction
 
@@ -243,9 +241,9 @@ Column and Instruction
 
 C. Price Revision/Redetermination
 
-|Cutoff date  <br/>(1)|Number of units completed  <br/>(2)|Number of units to be completed  <br/>(3)|Contract amount  <br/>(4)|Redetermination proposal amount  <br/>(5)|Difference  <br/>(6)|Cost elements  <br/>(7)|Incurred cost - preproduction  <br/>(8)|Incurred cost - completed units  <br/>(9)|Incurred cost - work in process  <br/>(10)|Total incurred cost  <br/>(11)|Estimated cost to complete  <br/>(12)|Estimated total cost  <br/>(13)|Reference  <br/>(14)|
-|---------------------|-----------------------------------|-----------------------------------------|-------------------------|-----------------------------------------|--------------------|-----------------------|---------------------------------------|-----------------------------------------|------------------------------------------|------------------------------|-------------------------------------|-------------------------------|--------------------|
-|                     |                                   |                                         |                         |                                         |                    |                       |                                       |                                         |                                          |                              |                                     |                               |                    |
+|Cutoff date  <br/>(1)|Number of units completed  <br/>(2)|Number of units to be completed  <br/>(3)|Contract amount  <br/>(4)|Redetermination proposal amount  <br/>(5)|Difference  <br/>(6)|Cost elements  <br/>(7)|Incurred cost—preproduction  <br/>(8)|Incurred cost—completed units  <br/>(9)|Incurred cost—work in process  <br/>(10)|Total incurred cost  <br/>(11)|Estimated cost to complete  <br/>(12)|Estimated total cost  <br/>(13)|Reference  <br/>(14)|
+|---------------------|-----------------------------------|-----------------------------------------|-------------------------|-----------------------------------------|--------------------|-----------------------|-------------------------------------|---------------------------------------|----------------------------------------|------------------------------|-------------------------------------|-------------------------------|--------------------|
+|                     |                                   |                                         |                         |                                         |                    |                       |                                     |                                       |                                        |                              |                                     |                               |                    |
 
 (Use as applicable).
 
@@ -279,4 +277,4 @@ Column and Instruction
 
 (14) Identify the attachment in which the information supporting the specific cost element may be found. (Attach separate pages as necessary.)
 
-[62 FR 51230, Sept. 30, 1997, as amended at 63 FR 58596, Oct. 30, 1998; 66 FR 2129, Jan. 10, 2001; 67 FR 6115, Feb. 8, 2002; 71 FR 57367, Sept. 28, 2006; 72 FR 63049, Nov. 7, 2007; 74 FR 52855, Oct. 14, 2009; 75 FR 53133, 53147, Aug. 30, 2010; 75 FR 77745, Dec. 13, 2010; 80 FR 38297, July 2, 2015; 82 FR 4713, Jan. 13, 2017; 85 FR 40073, July 2, 2020; 85 FR 62488, Oct. 2, 2020]
+[62 FR 51230, Sept. 30, 1997, as amended at 63 FR 58596, Oct. 30, 1998; 66 FR 2129, Jan. 10, 2001; 67 FR 6115, Feb. 8, 2002; 71 FR 57367, Sept. 28, 2006; 72 FR 63049, Nov. 7, 2007; 74 FR 52855, Oct. 14, 2009; 75 FR 53133, 53147, Aug. 30, 2010; 75 FR 77745, Dec. 13, 2010; 80 FR 38297, July 2, 2015; 82 FR 4713, Jan. 13, 2017; 85 FR 40073, July 2, 2020; 85 FR 62488, Oct. 2, 2020; 86 FR 61026, Nov. 4, 2021]

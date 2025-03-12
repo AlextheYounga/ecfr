@@ -1,8 +1,6 @@
 ##### 32.601 General. #####
 
-Link to an amendment published at 86 FR 61030, Nov. 4, 2021.
-
-(a) Contract debts are amounts that -
+(a) Contract debts are amounts that—
 
 (1) Have been paid to a contractor to which the contractor is not currently entitled under the terms and conditions of the contract; or
 
@@ -14,7 +12,7 @@ Link to an amendment published at 86 FR 61030, Nov. 4, 2021.
 
 (2) Price or cost reductions for defective certified cost or pricing data.
 
-(3) Financing payments determined to be in excess of the contract limitations at 52.232-16(a)(7), Progress Payments, or 52.232-32(d)(2), Performance - Based Payments, or any contract clause for commercial item financing.
+(3) Financing payments determined to be in excess of the contract limitations at 52.232-16(a)(7), Progress Payments, or 52.232-32(d)(2), Performance—Based Payments, or any contract clause for financing of commercial products or commercial services.
 
 (4) Increases to financing payment liquidation rates.
 
@@ -28,7 +26,7 @@ Link to an amendment published at 86 FR 61030, Nov. 4, 2021.
 
 (9) Damages or excess costs related to defaults in performance.
 
-(10) Breach of contract obligations concerning progress payments, performance-based payments, advance payments, commercial item financing, or Government-furnished property.
+(10) Breach of contract obligations concerning progress payments, performance-based payments, advance payments, financing of commercial products or commercial services, or Government-furnished property.
 
 (11) Government expense of correcting defects.
 
@@ -38,4 +36,4 @@ Link to an amendment published at 86 FR 61030, Nov. 4, 2021.
 
 (14) Reimbursement of amounts due under 33.102(b)(3) and 33.104(h)(8).
 
-[73 FR 54002, Sept. 17, 2008, as amended at 75 FR 53149, Aug. 30, 2010]
+[73 FR 54002, Sept. 17, 2008, as amended at 75 FR 53149, Aug. 30, 2010; 86 FR 61030, Nov. 4, 2021]

@@ -1,7 +1,5 @@
 ##### 3.104-1 Definitions. #####
 
-Link to an amendment published at 86 FR 61019, Nov. 4, 2021.
-
 As used in this section -
 
 *Agency ethics official* means the designated agency ethics official described in 5 CFR 2638.201 or other designated person, including -
@@ -14,7 +12,7 @@ As used in this section -
 
 *Contractor bid or proposal information* means any of the following information submitted to a Federal agency as part of or in connection with a bid or proposal to enter into a Federal agency procurement contract, if that information has not been previously made available to the public or disclosed publicly:
 
-(1) Cost or pricing data (as defined by 10 U.S.C. 2306a(h)) with respect to procurements subject to that section, and 41 U.S.C. 3501(a)(2), with respect to procurements subject to that section.
+(1) Cost or pricing data (as defined by 10 U.S.C. 2306a(h)(1)) with respect to procurements subject to that section, and 41 U.S.C. 3501(a)(1), with respect to procurements subject to that section.
 
 (2) Indirect costs and direct labor rates.
 
@@ -82,4 +80,4 @@ As used in this section -
 
 *Source selection evaluation board* means any board, team, council, or other group that evaluates bids or proposals.
 
-[67 FR 13059, Mar. 20, 2002, as amended at 75 FR 77745, Dec. 13, 2010; 79 FR 24196, Apr. 29, 2014]
+[67 FR 13059, Mar. 20, 2002, as amended at 75 FR 77745, Dec. 13, 2010; 79 FR 24196, Apr. 29, 2014; 86 FR 61019, Nov. 4, 2021]

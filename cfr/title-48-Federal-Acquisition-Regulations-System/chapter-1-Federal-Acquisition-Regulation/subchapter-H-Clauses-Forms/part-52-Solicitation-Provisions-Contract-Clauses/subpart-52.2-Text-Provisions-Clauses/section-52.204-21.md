@@ -1,12 +1,10 @@
 ##### 52.204-21 Basic Safeguarding of Covered Contractor Information Systems. #####
 
-Link to an amendment published at 86 FR 61032, Nov. 4, 2021.
-
 As prescribed in 4.1903, insert the following clause:
 
-Basic Safeguarding of Covered Contractor Information Systems (JUN 2016)
+Basic Safeguarding of Covered Contractor Information Systems (NOV 2021)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Covered contractor information system* means an information system that is owned or operated by a contractor that processes, stores, or transmits Federal contract information.
 
@@ -52,6 +50,6 @@ Basic Safeguarding of Covered Contractor Information Systems (JUN 2016)
 
 (2) *Other requirements.* This clause does not relieve the Contractor of any other specific safeguarding requirements specified by Federal agencies and departments relating to covered contractor information systems generally or other Federal safeguarding requirements for controlled unclassified information (CUI) as established by Executive Order 13556.
 
-(c) *Subcontracts.* The Contractor shall include the substance of this clause, including this paragraph (c), in subcontracts under this contract (including subcontracts for the acquisition of commercial items, other than commercially available off-the-shelf items), in which the subcontractor may have Federal contract information residing in or transiting through its information system.
+(c) *Subcontracts.* The Contractor shall include the substance of this clause, including this paragraph (c), in subcontracts under this contract (including subcontracts for the acquisition of commercial products or commercial services, other than commercially available off-the-shelf items), in which the subcontractor may have Federal contract information residing in or transiting through its information system.
 
-(End of clause)[81 FR 30446, May 16, 2016]
+(End of clause)[81 FR 30446, May 16, 2016, as amended at 86 FR 61032, Nov. 4, 2021]

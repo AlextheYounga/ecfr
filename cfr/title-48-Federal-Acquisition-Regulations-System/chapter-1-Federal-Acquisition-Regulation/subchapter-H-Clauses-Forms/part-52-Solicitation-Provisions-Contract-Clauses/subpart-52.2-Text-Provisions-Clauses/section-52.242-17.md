@@ -1,8 +1,6 @@
 ##### 52.242-17 Government Delay of Work. #####
 
-Link to an amendment published at 86 FR 61037, Nov. 4, 2021.
-
-As prescribed in 42.1305(c), insert the following clause in solicitations and contracts when a fixed-price contract is contemplated for supplies other than commercial or modified-commercial items. The clause use is optional when a fixed-price contract is contemplated for services, or for supplies that are commercial or modified-commercial items.
+As prescribed in 42.1305(c), insert the following clause:
 
 Government Delay of Work (APR 1984)
 
@@ -10,4 +8,4 @@ Government Delay of Work (APR 1984)
 
 (b) A claim under this clause shall not be allowed (1) for any costs incurred more than 20 days before the Contractor shall have notified the Contracting Officer in writing of the act or failure to act involved, and (2) unless the claim, in an amount stated, is asserted in writing as soon as practicable after the termination of the delay or interruption, but not later than the day of final payment under the contract.
 
-(End of clause)[48 FR 42478, Sept. 19, 1983. Redesignated and amended at 60 FR 48251, 48256, Sept. 18, 1995; 72 FR 27389, May 15, 2007]
+(End of clause)[48 FR 42478, Sept. 19, 1983. Redesignated and amended at 60 FR 48251, 48256, Sept. 18, 1995; 72 FR 27389, May 15, 2007; 86 FR 61037, Nov. 4, 2021]

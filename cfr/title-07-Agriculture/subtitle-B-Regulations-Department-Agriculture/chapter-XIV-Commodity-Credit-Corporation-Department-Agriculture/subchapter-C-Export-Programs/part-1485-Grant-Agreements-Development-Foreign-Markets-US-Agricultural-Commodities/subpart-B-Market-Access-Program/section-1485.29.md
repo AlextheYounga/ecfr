@@ -16,8 +16,10 @@
 
 (4) Requirements to perform and document in the procurement files some form of price or cost analysis, such as a comparison of price quotations to market prices or other price indicia, to determine the reasonableness of the offered prices in connection with every procurement action that is governed by the contracting guidelines;
 
-(5) Requirements to conduct an appropriate form of competition every 3 years on all multi-year contracts that are governed by the contracting guidelines. However, contracts for in-country representation are not required to be re-competed after the initial reward. Instead, the performance of in-country representation must be evaluated and documented by the MAP Participant annually to ensure that the terms of the contract are being met in a satisfactory manner; and
+(5) Requirements to conduct an appropriate form of competition every 3 years on all multi-year contracts that are governed by the contracting guidelines. However, contracts for market representation are not required to be re-competed after the initial reward. Instead, the performance of market representation must be evaluated and documented by the MAP Participant annually to ensure that the terms of the contract are being met in a satisfactory manner; and
 
 (6) Requirements for written contracts with each provider of goods, services, or construction work. Such contracts shall require such providers to maintain adequate records to account for funds provided to them by the MAP Participant.
 
 (e) A MAP Participant may undertake MAP promotional activities directly or through a domestic or foreign subrecipient. However, the MAP Participant shall remain responsible and accountable to CCC for all MAP promotional activities and related expenditures undertaken by such subrecipient and shall be responsible for reimbursing CCC for any funds that CCC determines should be refunded to CCC in relation to such subrecipient's promotional activities and expenditures.
+
+[85 FR 1732, Jan. 13, 2020, as amended at 86 FR 68884, Dec. 6, 2021]

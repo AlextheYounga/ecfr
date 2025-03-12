@@ -1,10 +1,8 @@
-##### 52.212-4 Contract Terms and Conditions - Commercial Items. #####
-
-Link to an amendment published at 86 FR 61033, Nov. 4, 2021.
+##### 52.212-4 Contract Terms and Conditions - Commercial Products and Commercial Services. #####
 
 As prescribed in 12.301(b)(3), insert the following clause:
 
-Contract Terms and Conditions - Commercial Items (OCT 2018)
+Contract Terms and Conditions - Commercial Products and Commercial Services (NOV 2021)
 
 (a) *Inspection/Acceptance.* The Contractor shall only tender for acceptance those items that conform to the requirements of this contract. The Government reserves the right to inspect or test any supplies or services that have been tendered for acceptance. The Government may require repair or replacement of nonconforming supplies or reperformance of nonconforming services at no increase in contract price. If repair/replacement or reperformance will not correct the defects or is not possible, the Government may seek an equitable price reduction or adequate consideration for acceptance of nonconforming supplies or services. The Government must exercise its postacceptance rights (1) within a reasonable time after the defect was discovered or should have been discovered; and (2) before any substantial change occurs in the condition of the item, unless the change is due to the defect in the item.
 
@@ -12,7 +10,7 @@ Contract Terms and Conditions - Commercial Items (OCT 2018)
 
 (c) *Changes.* Changes in the terms and conditions of this contract may be made only by written agreement of the parties.
 
-(d) *Disputes.* This contract is subject to 41 U.S.C. chapter 71, Contract Disputes. Failure of the parties to this contract to reach agreement on any request for equitable adjustment, claim, appeal or action arising under or relating to this contract shall be a dispute to be resolved in accordance with the clause at FAR 52.233-1, Disputes, which is incorporated herein by reference. The Contractor shall proceed diligently with performance of this contract, pending final resolution of any dispute arising under the contract.
+(d) *Disputes.* This contract is subject to 41 U.S.C. chapter 71, Contract Disputes. Failure of the parties to this contract to reach agreement on any request for equitable adjustment, claim, appeal or action arising under or relating to this contract shall be a dispute to be resolved in accordance with the clause at Federal Acquisition Regulation (FAR) 52.233-1, Disputes, which is incorporated herein by reference. The Contractor shall proceed diligently with performance of this contract, pending final resolution of any dispute arising under the contract.
 
 (e) *Definitions.* The clause at FAR 52.202-1, Definitions, is incorporated herein by reference.
 
@@ -100,7 +98,7 @@ Contract Terms and Conditions - Commercial Items (OCT 2018)
 
 (C) The date on which an amount withheld and applied to the contract debt would otherwise have become payable to the Contractor.
 
-(vii) The interest charge made under this clause may be reduced under the procedures prescribed in 32.608-2 of the Federal Acquisition Regulation in effect on the date of this contract.
+(vii) The interest charge made under this clause may be reduced under the procedures prescribed in FAR 32.608-2 in effect on the date of this contract.
 
 (j) *Risk of loss.* Unless the contract specifically provides otherwise, risk of loss or damage to the supplies provided under this contract shall remain with the Contractor until, and shall pass to the Government upon:
 
@@ -142,7 +140,7 @@ Contract Terms and Conditions - Commercial Items (OCT 2018)
 
 (End of clause)
 
-*Alternate I* (JAN 2017). When a time-and-materials or labor-hour contract is contemplated, substitute the following paragraphs (a), (e), (i), (l), and (m) for those in the basic clause.
+*Alternate I* (NOV 2021). When a time-and-materials or labor-hour contract is contemplated, substitute the following paragraphs (a), (e), (i), (l), and (m) for those in the basic clause.
 
 (a) *Inspection/Acceptance.* (1) The Government has the right to inspect and test all materials furnished and services performed under this contract, to the extent practicable at all places and times, including the period of performance, and in any event before acceptance. The Government may also inspect the plant or plants of the Contractor or any subcontractor engaged in contract performance. The Government will perform inspections and tests in a manner that will not unduly delay the work.
 
@@ -220,7 +218,7 @@ Contract Terms and Conditions - Commercial Items (OCT 2018)
 
 (ii) *Materials.*
 
-(A) If the Contractor furnishes materials that meet the definition of a commercial item at 2.101, the price to be paid for such materials shall not exceed the Contractor's established catalog or market price, adjusted to reflect the -
+(A) If the Contractor furnishes materials that meet the definition of a commercial product at FAR 2.101, the price to be paid for such materials shall not exceed the Contractor's established catalog or market price, adjusted to reflect the -
 
 (*1*) Quantities being acquired; and
 
@@ -310,7 +308,7 @@ Contract Terms and Conditions - Commercial Items (OCT 2018)
 
 (C) The date on which an amount withheld and applied to the contract debt would otherwise have become payable to the Contractor.
 
-(vii) The interest charge made under this clause may be reduced under the procedures prescribed in 32.608-2 of the Federal Acquisition Regulation in effect on the date of this contract.
+(vii) The interest charge made under this clause may be reduced under the procedures prescribed in FAR 32.608-2 in effect on the date of this contract.
 
 (viii) Upon receipt and approval of the invoice designated by the Contractor as the “completion invoice” and supporting documentation, and upon compliance by the Contractor with all terms of this contract, any outstanding balances will be paid within 30 days unless the parties agree otherwise. The completion invoice, and supporting documentation, shall be submitted by the Contractor as promptly as practicable following completion of the work under this contract, but in no event later than 1 year (or such longer period as the Contracting Officer may approve in writing) from the date of completion.
 

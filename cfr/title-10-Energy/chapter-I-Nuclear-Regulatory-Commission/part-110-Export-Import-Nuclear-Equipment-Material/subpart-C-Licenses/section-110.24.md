@@ -1,9 +1,15 @@
-##### § 110.24 General license for the export of deuterium. #####
+##### § 110.24 General license for the export of deuterium for nuclear end use. #####
 
-Link to an amendment published at 86 FR 55479, Oct. 6, 2021.
+(a) A general license is issued to any person to export to any country not listed in § 110.28 or § 110.29:
 
-(a) A general license is issued to any person to export to any country not listed in § 110.28 or § 110.29 deuterium in individual shipments of 10 kilograms or less (50 kilograms of heavy water). No person may export more than 200 kilograms (1,000 kilograms of heavy water) per calendar year to any one country.
+(1) Deuterium and deuterium compounds (other than heavy water) for nuclear end use in individual shipments of 10 kilograms or less, not to exceed 200 kilograms per calendar year to any one country; and
 
-(b) A general license is issued to any person to export to any country listed in § 110.29 deuterium in individual shipments of 1 kilogram or less (5 kilograms of heavy water). No person may export more than 5 kilograms (25 kilograms of heavy water) per calendar year to any one country listed in § 110.29.
+(2) Heavy water for nuclear end use in individual shipments of 50 kilograms or less, not to exceed 1,000 kilograms per calendar year to any one country.
 
-[75 FR 44088, July 28, 2010]
+(b) A general license is issued to any person to export to any country listed in § 110.29:
+
+(1) Deuterium and deuterium compounds (other than heavy water) for nuclear end use in individual shipments of 1 kilogram or less, not to exceed 5 kilograms per calendar year to any one country listed in § 110.29; and
+
+(2) Heavy water for nuclear end use in individual shipment of 5 kilograms or less, not to exceed 25 kilograms per calendar year to any one country listed in § 110.29.
+
+[86 FR 55479, Oct. 6, 2021]

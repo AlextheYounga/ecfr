@@ -1,7 +1,5 @@
 ##### 15.404-2 Data to support proposal analysis. #####
 
-Link to an amendment published at 86 FR 61026, Nov. 4, 2021.
-
 (a) *Field pricing assistance.* (1) The contracting officer should request field pricing assistance when the information available at the buying activity is inadequate to determine a fair and reasonable price. The contracting officer shall tailor requests to reflect the minimum essential supplementary information needed to conduct a technical or cost or pricing analysis.
 
 (2) The contracting officer shall tailor the type of information and level of detail requested in accordance with the specialized resources available at the buying activity and the magnitude and complexity of the required analysis. Field pricing assistance is generally available to provide -
@@ -20,7 +18,7 @@ Link to an amendment published at 86 FR 61026, Nov. 4, 2021.
 
 (D) Verifying the item to an existing catalog or price list;
 
-(E) Verifying historical data for an item previously not determined commercial that the offeror is now trying to qualify as a commercial item; and
+(E) Verifying historical data for a product or service previously not determined commercial that the offeror is now trying to qualify as a commercial product or commercial service; and
 
 (F) Identifying general market conditions affecting determinations of commerciality and a fair and reasonable price.
 
@@ -54,4 +52,4 @@ Link to an amendment published at 86 FR 61026, Nov. 4, 2021.
 
 (d) *Deficient proposals.* The ACO or the auditor, as appropriate, shall notify the contracting officer immediately if the data provided for review is so deficient as to preclude review or audit, or if the contractor or offeror has denied access to any records considered essential to conduct a satisfactory review or audit. Oral notifications shall be confirmed promptly in writing, including a description of deficient or denied data or records. The contracting officer immediately shall take appropriate action to obtain the required data. Should the offeror/contractor again refuse to provide adequate data, or provide access to necessary data, the contracting officer shall withhold the award or price adjustment and refer the contract action to a higher authority, providing details of the attempts made to resolve the matter and a statement of the practicability of obtaining the supplies or services from another source.
 
-[62 FR 51230, Sept. 30, 1997, as amended at 64 FR 51837, Sept. 24, 1999; 67 FR 13063, Mar. 20, 2002; 75 FR 53146, Aug. 30, 2010; 79 FR 24202, Apr. 29, 2014; 80 FR 38312, July 2, 2015]
+[62 FR 51230, Sept. 30, 1997, as amended at 64 FR 51837, Sept. 24, 1999; 67 FR 13063, Mar. 20, 2002; 75 FR 53146, Aug. 30, 2010; 79 FR 24202, Apr. 29, 2014; 80 FR 38312, July 2, 2015; 86 FR 61026, Nov. 4, 2021]

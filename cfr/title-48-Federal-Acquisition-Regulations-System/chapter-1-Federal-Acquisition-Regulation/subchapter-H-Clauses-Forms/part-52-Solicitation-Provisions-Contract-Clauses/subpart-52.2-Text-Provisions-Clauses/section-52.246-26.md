@@ -1,12 +1,10 @@
 ##### 52.246-26 Reporting Nonconforming Items. #####
 
-Link to an amendment published at 86 FR 61037, Nov. 4, 2021.
-
 As prescribed in 46.317, insert the following clause:
 
-Reporting Nonconforming Items (JUNE 2020)
+Reporting Nonconforming Items (NOV 2021)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Common item* means an item that has multiple applications versus a single or peculiar application.
 
@@ -22,7 +20,7 @@ Reporting Nonconforming Items (JUNE 2020)
 
 *Suspect counterfeit item* means an item for which credible evidence (including but not limited to, visual inspection or testing) provides reasonable doubt that the item is authentic.
 
-(b) The Contractor shall -
+(b) The Contractor shall—
 
 (1) Screen Government-Industry Data Exchange Program (GIDEP) reports, available at *www.gidep.org,* as a part of the Contractor's inspection system or program for the control of quality, to avoid the use and delivery of counterfeit or suspect counterfeit items or delivery of items that contain a major or critical nonconformance. This requirement does not apply if the Contractor is a foreign corporation or partnership that does not have an office, place of business, or fiscal paying agent in the United States;
 
@@ -30,13 +28,13 @@ Reporting Nonconforming Items (JUNE 2020)
 
 (3) Retain counterfeit or suspect counterfeit items in its possession at the time of discovery until disposition instructions have been provided by the Contracting Officer; and
 
-(4) Except as provided in paragraph (c) of this clause, submit a report to GIDEP at *www.gidep.org* within 60 days of becoming aware or having reason to suspect, such as through inspection, testing, record review, or notification from another source (*e.g.,* seller, customer, third party) that an item purchased by the Contractor for delivery to, or for, the Government is -
+(4) Except as provided in paragraph (c) of this clause, submit a report to GIDEP at *www.gidep.org* within 60 days of becoming aware or having reason to suspect, such as through inspection, testing, record review, or notification from another source (*e.g.,* seller, customer, third party) that an item purchased by the Contractor for delivery to, or for, the Government is—
 
 (i) A counterfeit or suspect counterfeit item; or
 
 (ii) A common item that has a major or critical nonconformance.
 
-(c) The Contractor shall not submit a report as required by paragraph (b)(4) of this clause, if -
+(c) The Contractor shall not submit a report as required by paragraph (b)(4) of this clause, if—
 
 (1) The Contractor is a foreign corporation or partnership that does not have an office, place of business, or fiscal paying agent in the United States;
 
@@ -44,7 +42,7 @@ Reporting Nonconforming Items (JUNE 2020)
 
 (3) For nonconforming items other than counterfeit or suspect counterfeit items, it can be confirmed that the organization where the defect was generated (*e.g.,* original component manufacturer, original equipment manufacturer, aftermarket manufacturer, or distributor that alters item properties or configuration) has not released the item to more than one customer.
 
-(d) Reports submitted in accordance with paragraph (b)(4) of this clause shall not include -
+(d) Reports submitted in accordance with paragraph (b)(4) of this clause shall not include—
 
 (1) Trade secrets or confidential commercial or financial information protected under the Trade Secrets Act (18 U.S.C. 1905); or
 
@@ -56,9 +54,9 @@ Reporting Nonconforming Items (JUNE 2020)
 
 (g) *Subcontracts.*
 
-(1) Except as provided in paragraph (g)(2) of this clause, the Contractor shall insert this clause, including this paragraph (g), in subcontracts that are for -
+(1) Except as provided in paragraph (g)(2) of this clause, the Contractor shall insert this clause, including this paragraph (g), in subcontracts that are for—
 
-(i) Items subject to higher-level quality standards in accordance with the clause at FAR 52.246-11, Higher-Level Contract Quality Requirement;
+(i) Items subject to higher-level quality standards in accordance with the clause at Federal Acquisition Regulation (FAR) 52.246-11, Higher-Level Contract Quality Requirement;
 
 (ii) Items that the Contractor determines to be critical items for which use of the clause is appropriate;
 
@@ -66,12 +64,12 @@ Reporting Nonconforming Items (JUNE 2020)
 
 (iv) For the acquisition of services, if the subcontractor will furnish, as part of the service, any items that meet the criteria specified in paragraphs (g)(1)(i) through (g)(1)(iii) of this clause.
 
-(2) The Contractor shall not insert the clause in subcontracts for -
+(2) The Contractor shall not insert the clause in subcontracts for—
 
-(i) Commercial items; or
+(i) Commercial products and commercial services; or
 
 (ii) Medical devices that are subject to the Food and Drug Administration reporting requirements at 21 CFR 803.
 
 (3) The Contractor shall not alter the clause other than to identify the appropriate parties.
 
-(End of clause)[84 FR 64695, Nov. 22, 2019, as amended at 85 FR 27097, May 6, 2020]
+(End of clause)[84 FR 64695, Nov. 22, 2019, as amended at 85 FR 27097, May 6, 2020; 86 FR 61037, Nov. 4, 2021]

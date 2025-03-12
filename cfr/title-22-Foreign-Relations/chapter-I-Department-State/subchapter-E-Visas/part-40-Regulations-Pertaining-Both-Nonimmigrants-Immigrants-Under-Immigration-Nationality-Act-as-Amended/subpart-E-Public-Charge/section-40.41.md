@@ -8,7 +8,7 @@
 
 (3) *The alien's family status.* When considering an alien's family status, consular officers will consider the size of the alien's household, as defined in paragraph (e) of this section, and whether the alien's household size is a positive or negative factor in the totality of the circumstances.
 
-(4) *The alien's assets, resources, and financial status* - (i) *In general.* Consular officers will consider, among other relevant factors, the following aspects of an alien's assets, resources, and financial status:
+(4) *The alien's assets, resources, and financial status*—(i) *In general.* Consular officers will consider, among other relevant factors, the following aspects of an alien's assets, resources, and financial status:
 
 (A) If the alien's annual gross income for the alien's household size is at least 125 percent of the most recent Federal Poverty Guidelines based on the alien's household size (or 100 percent for an alien on active duty, other than training, in the Armed Forces), consular officers will consider the alien's income a positive factor;
 
@@ -146,4 +146,4 @@
 
 (f) *Prearranged employment.* An immigrant visa applicant relying on an offer of prearranged employment to establish eligibility under INA 212(a)(4), other than an offer of employment certified by the Department of Labor pursuant to INA 212(a)(5)(A), must provide written confirmation of the relevant information sworn and subscribed to before a notary public by the employer or an authorized employee or agent of the employer. The signer's printed name and position or other relationship with the employer must accompany the signature.
 
-{84 FR 55012, Oct. 11, 2019]
+[84 FR 55012, Oct. 11, 2019]

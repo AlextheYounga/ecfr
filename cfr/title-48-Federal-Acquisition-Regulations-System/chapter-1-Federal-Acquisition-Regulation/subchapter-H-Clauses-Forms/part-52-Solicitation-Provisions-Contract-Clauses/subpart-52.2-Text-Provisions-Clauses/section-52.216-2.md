@@ -1,12 +1,10 @@
-##### 52.216-2 Economic Price Adjustment - Standard Supplies. #####
+##### 52.216-2 Economic Price Adjustment—Standard Supplies. #####
 
-Link to an amendment published at 86 FR 61034, Nov. 4, 2021.
+As prescribed in 16.203-4(a), insert the following clause:
 
-As prescribed in 16.203-4(a), insert the following clause. The clause may be modified by increasing the 10 percent limit on aggregate increases specified in subparagraph (c)(1), upon approval by the chief of the contracting office.
+Economic Price Adjustment—Standard Supplies (NOV 2021)
 
-Economic Price Adjustment - Standard Supplies (JAN 1997)
-
-(a) The Contractor warrants that the unit price stated in the Schedule for \_\_\_\_ [*offeror insert Schedule line item number*] is not in excess of the Contractor's applicable established price in effect on the contract date for like quantities of the same item. The term *unit price* excludes any part of the price directly resulting from requirements for preservation, packaging, or packing beyond standard commercial practice. The term *established price* means a price that (1) is an established catalog or market price for a commercial item sold in substantial quantities to the general public, and (2) is the net price after applying any standard trade discounts offered by the Contractor.
+(a) The Contractor warrants that the unit price stated in the Schedule for \_\_\_\_ [*offeror insert Schedule line item number*] is not in excess of the Contractor's applicable established price in effect on the contract date for like quantities of the same item. The term *unit price* excludes any part of the price directly resulting from requirements for preservation, packaging, or packing beyond standard commercial practice. The term *established price* means a price that (1) is an established catalog or market price for a commercial product sold in substantial quantities to the general public, and (2) is the net price after applying any standard trade discounts offered by the Contractor.
 
 (b) The Contractor shall promptly notify the Contracting Officer of the amount and effective date of each decrease in any applicable established price. Each corresponding contract unit price shall be decreased by the same percentage that the established price is decreased. The decrease shall apply to those items delivered on and after the effective date of the decrease in the Contractor's established price, and this contract shall be modified accordingly.
 
@@ -24,4 +22,4 @@ Economic Price Adjustment - Standard Supplies (JAN 1997)
 
 (d) During the time allowed for the cancellation provided for in subparagraph (c)(5) above, and thereafter if there is no cancellation, the Contractor shall continue deliveries according to the contract delivery schedule, and the Government shall pay for such deliveries at the contract unit price, increased to the extent provided by paragraph (c) above.
 
-(End of clause)[48 FR 42478, Sept. 19, 1983, as amended at 60 FR 48221, Sept. 18, 1995; 62 FR 238, 260, Jan. 2, 1997]
+(End of clause)[48 FR 42478, Sept. 19, 1983, as amended at 60 FR 48221, Sept. 18, 1995; 62 FR 238, 260, Jan. 2, 1997; 86 FR 61034, Nov. 4, 2021]

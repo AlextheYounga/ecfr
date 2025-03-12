@@ -1,18 +1,16 @@
 ##### 52.204-25 Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. #####
 
-Link to an amendment published at 86 FR 61032, Nov. 4, 2021.
-
 As prescribed in 4.2105(b), insert the following clause:
 
-Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment (AUG 2020)
+Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment (NOV 2021)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Backhaul* means intermediate links between the core network, or backbone network, and the small subnetworks at the edge of the network (*e.g.,* connecting cell phones/towers to the core telephone network). Backhaul can be wireless (*e.g.,* microwave) or wired (*e.g.,* fiber optic, coaxial cable, Ethernet).
 
 *Covered foreign country* means The People's Republic of China.
 
-*Covered telecommunications equipment or services* means -
+*Covered telecommunications equipment or services* means—
 
 (1) Telecommunications equipment produced by Huawei Technologies Company or ZTE Corporation (or any subsidiary or affiliate of such entities);
 
@@ -22,11 +20,11 @@ Prohibition on Contracting for Certain Telecommunications and Video Surveillance
 
 (4) Telecommunications or video surveillance equipment or services produced or provided by an entity that the Secretary of Defense, in consultation with the Director of National Intelligence or the Director of the Federal Bureau of Investigation, reasonably believes to be an entity owned or controlled by, or otherwise connected to, the government of a covered foreign country.
 
-*Critical technology* means -
+*Critical technology* means—
 
 (1) Defense articles or defense services included on the United States Munitions List set forth in the International Traffic in Arms Regulations under subchapter M of chapter I of title 22, Code of Federal Regulations;
 
-(2) Items included on the Commerce Control List set forth in Supplement No. 1 to part 774 of the Export Administration Regulations under subchapter C of chapter VII of title 15, Code of Federal Regulations, and controlled -
+(2) Items included on the Commerce Control List set forth in Supplement No. 1 to part 774 of the Export Administration Regulations under subchapter C of chapter VII of title 15, Code of Federal Regulations, and controlled—
 
 (i) Pursuant to multilateral regimes, including for reasons relating to national security, chemical and biological weapons proliferation, nuclear nonproliferation, or missile technology; or
 
@@ -52,7 +50,7 @@ Prohibition on Contracting for Certain Telecommunications and Video Surveillance
 
 (2) Section 889(a)(1)(B) of the John S. McCain National Defense Authorization Act for Fiscal Year 2019 (Pub. L. 115-232) prohibits the head of an executive agency on or after August 13, 2020, from entering into a contract, or extending or renewing a contract, with an entity that uses any equipment, system, or service that uses covered telecommunications equipment or services as a substantial or essential component of any system, or as critical technology as part of any system, unless an exception at paragraph (c) of this clause applies or the covered telecommunication equipment or services are covered by a waiver described in FAR 4.2104. This prohibition applies to the use of covered telecommunications equipment or services, regardless of whether that use is in performance of work under a Federal contract.
 
-(c) *Exceptions.* This clause does not prohibit contractors from providing -
+(c) *Exceptions.* This clause does not prohibit contractors from providing—
 
 (1) A service that connects to the facilities of a third-party, such as backhaul, roaming, or interconnection arrangements; or
 
@@ -66,6 +64,6 @@ Prohibition on Contracting for Certain Telecommunications and Video Surveillance
 
 (ii) Within 10 business days of submitting the information in paragraph (d)(2)(i) of this clause: Any further available information about mitigation actions undertaken or recommended. In addition, the Contractor shall describe the efforts it undertook to prevent use or submission of covered telecommunications equipment or services, and any additional efforts that will be incorporated to prevent future use or submission of covered telecommunications equipment or services.
 
-(e) *Subcontracts.* The Contractor shall insert the substance of this clause, including this paragraph (e) and excluding paragraph (b)(2), in all subcontracts and other contractual instruments, including subcontracts for the acquisition of commercial items.
+(e) *Subcontracts.* The Contractor shall insert the substance of this clause, including this paragraph (e) and excluding paragraph (b)(2), in all subcontracts and other contractual instruments, including subcontracts for the acquisition of commercial products or commercial services.
 
-(End of clause)[84 FR 40222, Aug. 13, 2019, as amended at 85 FR 42679, July 14, 2020]
+(End of clause)[84 FR 40222, Aug. 13, 2019, as amended at 85 FR 42679, July 14, 2020; 86 FR 61032, Nov. 4, 2021]

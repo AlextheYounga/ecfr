@@ -1,7 +1,5 @@
 ##### 32.005 Consideration for contract financing. #####
 
-Link to an amendment published at 86 FR 61029, Nov. 4, 2021.
-
 (a) *Requirement.* When a contract financing clause is included at the inception of a contract, there shall be no separate consideration for the contract financing clause. The value of the contract financing to the contractor is expected to be reflected in either
 
 (1) A bid or negotiated price that will be lower than such price would have been in the absence of the contract financing, or
@@ -14,6 +12,6 @@ Link to an amendment published at 86 FR 61029, Nov. 4, 2021.
 
 (2) The estimated profit rate to be earned through contract performance.
 
-(c) *Interest.* Except as provided in subpart 32.4, Advance Payments for Non-Commercial Items, the contract shall not provide for any other type of specific charges, such as interest, for contract financing.
+(c) *Interest.* Except as provided in subpart 32.4, Advance Payments for Other Than Commercial Acquisitions, the contract shall not provide for any other type of specific charges, such as interest, for contract financing.
 
-[60 FR 49710, Sept. 26, 1995]
+[60 FR 49710, Sept. 26, 1995, as amended at 86 FR 61029, Nov. 4, 2021]

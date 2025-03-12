@@ -2,7 +2,7 @@
 
 (a)(1) Agencies shall acquire equipment using the method of acquisition most advantageous to the Government based on a case-by-case analysis of comparative costs and other factors in accordance with this subpart and agency procedures.
 
-(2) The methods of acquisition to be compared in the analysis shall include, at a minimum -
+(2) The methods of acquisition to be compared in the analysis shall include, at a minimum—
 
 (i) Purchase;
 
@@ -50,7 +50,7 @@
 
 (ix) Availability of a servicing capability, especially for highly complex equipment; e.g., can the equipment be serviced by the Government or other sources if it is purchased?
 
-(c) The analysis in paragraph (a) is not required -
+(c) The analysis in paragraph (a) is not required—
 
 (1) When the President has issued an emergency declaration or a major disaster declaration pursuant to the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 *et seq.*);
 
@@ -58,4 +58,4 @@
 
 (3) When otherwise authorized by law.
 
-[86 FR 31072, Jan. 12, 2021]
+[86 FR 31072, June 10, 2021]

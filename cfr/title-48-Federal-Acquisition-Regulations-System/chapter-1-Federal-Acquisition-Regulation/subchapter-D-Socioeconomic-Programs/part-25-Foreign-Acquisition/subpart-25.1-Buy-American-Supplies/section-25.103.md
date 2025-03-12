@@ -1,7 +1,5 @@
 ##### 25.103 Exceptions. #####
 
-Link to an amendment published at 86 FR 61028, Nov. 4, 2021.
-
 When one of the following exceptions applies, the contracting officer may acquire a foreign end product without regard to the restrictions of the Buy American statute:
 
 (a) *Public interest.* The head of the agency may make a determination that domestic preference would be inconsistent with the public interest. This exception applies when an agency has an agreement with a foreign government that provides a blanket exception to the Buy American statute.
@@ -40,6 +38,6 @@ When one of the following exceptions applies, the contracting officer may acquir
 
 (d) *Resale.* The contracting officer may purchase foreign end products specifically for commissary resale.
 
-(e) *Information technology that is a commercial item.* The restriction on purchasing foreign end products does not apply to the acquisition of information technology that is a commercial item, when using fiscal year 2004 or subsequent fiscal year funds (Section 535(a) of Division F, Title V, Consolidated Appropriations Act, 2004, and similar sections in subsequent appropriations acts).
+(e) *Information technology that is a commercial product.* The restriction on purchasing foreign end products does not apply to the acquisition of information technology that is a commercial product, when using fiscal year 2004 or subsequent fiscal year funds (section 535(a) of Division F, Title V, Consolidated Appropriations Act, 2004, and similar sections in subsequent appropriations acts).
 
-[64 FR 72419, Dec. 27, 1999, as amended at 70 FR 11742, Mar. 9, 2005; 71 FR 224, Jan. 3, 2006; 79 FR 24209, Apr. 29, 2014]
+[64 FR 72419, Dec. 27, 1999, as amended at 70 FR 11742, Mar. 9, 2005; 71 FR 224, Jan. 3, 2006; 79 FR 24209, Apr. 29, 2014; 86 FR 61028, Nov. 4, 2021]

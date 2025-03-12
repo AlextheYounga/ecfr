@@ -1,7 +1,5 @@
 ##### § 110.42 Export licensing criteria. #####
 
-Link to an amendment published at 86 FR 55479, Oct. 6, 2021.
-
 (a) The review of license applications for export for peaceful nuclear uses of production or utilization facilities1 or for export for peaceful nuclear uses of special nuclear or source material requiring a specific license under this part is governed by the following criteria:
 
 1 Export of nuclear reactors, reactor pressure vessels, reactor primary coolant pumps and circulators, “on-line” reactor fuel charging and discharging machines, and complete reactor control rod systems, as specified in paragraphs (1) through (4) of appendix A to this part, are subject to the export licensing criteria in § 110.42(a). Exports of nuclear reactor components, as specified in paragraphs (5) through (11) of appendix A to this part, when exported separately from the items described in paragraphs (1) through (4) of appendix A to this part, are subject to the export licensing criteria in § 110.42(b).
@@ -34,19 +32,19 @@ Link to an amendment published at 86 FR 55479, Oct. 6, 2021.
 
 (A) The Recipient Country that supplies an assurance letter to the United States Government in connection with the consideration by the Commission of the export license application has informed the United States Government that any intermediate consignees and the ultimate consignee specified in the export license application are required to use the high-enriched uranium solely for the production of medical isotopes; and
 
-(B) The high-enriched uranium will be irradiated only in a reactor in the Recipient Country that -
+(B) The high-enriched uranium will be irradiated only in a reactor in the Recipient Country that—
 
 (*1*) Uses an alternative nuclear fuel; or
 
 (*2*) Is the subject of an agreement with the United States Government to convert to an alternative nuclear reactor fuel when alternative nuclear reactor fuel can be used in the reactor.
 
-(iii) A fuel or target “can be used” in a nuclear research or test reactor if -
+(iii) A fuel or target “can be used” in a nuclear research or test reactor if—
 
 (A) The fuel or target has been qualified by the Reduced Enrichment Research and Test Reactor Program of the Department of Energy; and
 
 (B) Use of the fuel or target will permit the large majority of ongoing and planned experiments and isotope production to be conducted in the reactor without a large percentage increase in the total cost of operating the reactor.
 
-(b) The review of license applications for the export of nuclear equipment, other than a production or utilization facility, and for deuterium and nuclear grade graphite for nuclear end use, is governed by the following criteria:
+(b) The review of license applications for the export of nuclear equipment, other than a production or utilization facility, and for deuterium for nuclear end use and nuclear grade graphite for nuclear end use is governed by the following criteria:
 
 (1) IAEA safeguards as required by Article III (2) of the NPT will be applied with respect to such equipment or material.
 
@@ -84,4 +82,4 @@ Link to an amendment published at 86 FR 55479, Oct. 6, 2021.
 
 (9) Based upon available information, whether there is a risk of diversion or malicious acts involving radioactive material in Table 1 of Appendix P to this part.
 
-[49 FR 47200, Dec. 3, 1984, as amended at 55 FR 34519, Aug. 23, 1990; 58 FR 13004, Mar. 9, 1993; 58 FR 57964, Oct. 28, 1993; 60 FR 37564, July 21, 1995; 70 FR 37992, July 1, 2005; 70 FR 41939, July 21, 2005; 70 FR 46066, Aug. 9, 2005; 71 FR 20339, Apr. 20, 2006; 71 FR 40003, July 14, 2006; 79 FR 39291, July 10, 2014; 84 FR 63569, Nov. 18, 2019]
+[49 FR 47200, Dec. 3, 1984, as amended at 55 FR 34519, Aug. 23, 1990; 58 FR 13004, Mar. 9, 1993; 58 FR 57964, Oct. 28, 1993; 60 FR 37564, July 21, 1995; 70 FR 37992, July 1, 2005; 70 FR 41939, July 21, 2005; 70 FR 46066, Aug. 9, 2005; 71 FR 20339, Apr. 20, 2006; 71 FR 40003, July 14, 2006; 79 FR 39291, July 10, 2014; 84 FR 63569, Nov. 18, 2019; 86 FR 55479, Oct. 6, 2021]

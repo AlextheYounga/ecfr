@@ -1,14 +1,12 @@
 ##### 6.302-5 Authorized or required by statute. #####
 
-Link to an amendment published at 86 FR 61020, Nov. 4, 2021.
-
 (a) *Authority.* (1) Citations: 10 U.S.C. 2304(c)(5) or 41 U.S.C. 3304(a)(5).
 
 (2) Full and open competition need not be provided for when -
 
 (i) A statute expressly authorizes or requires that the acquisition be made through another agency or from a specified source; or
 
-(ii) The agency's need is for a brand name commercial item for authorized resale.
+(ii) The agency's need is for a brand name commercial product for authorized resale.
 
 (b) *Application.* This authority may be used when statutes, such as the following, expressly authorize or require that acquisition be made from a specified source or through another agency:
 
@@ -18,7 +16,7 @@ Link to an amendment published at 86 FR 61020, Nov. 4, 2021.
 
 (3) Government Printing and Binding - 44 U.S.C. 501-504, 1121 (see subpart 8.8).
 
-(4) Sole source awards under the 8(a) Program (15 U.S.C. 637), but *see* 6.303 for requirements for justification and approval of sole-source 8(a) awards over$25 million. (See subpart 19.8.)=
+(4) Sole source awards under the 8(a) Program (15 U.S.C. 637), but *see* 6.303 for requirements for justification and approval of sole-source 8(a) awards over$25 million. (See subpart 19.8.)
 
 (5) Sole source awards under the HUBZone Act of 1997 - 15 U.S.C. 657a (see 19.1306).
 
@@ -46,6 +44,6 @@ Link to an amendment published at 86 FR 61020, Nov. 4, 2021.
 
 (iii) Contracts less than or equal to $25 million awarded under paragraph (b)(4) of this section.
 
-(3) The authority in paragraph (a)(2)(ii) of this section may be used only for purchases of brand-name commercial items for resale through commissaries or other similar facilities. Ordinarily, these purchases will involve articles desired or preferred by customers of the selling activities (but see 6.301(d)).
+(3) The authority in paragraph (a)(2)(ii) of this section may be used only for purchases of brand name commercial products for resale through commissaries or other similar facilities. Ordinarily, these purchases will involve articles desired or preferred by customers of the selling activities (but see 6.301(d)).
 
-[50 FR 52432, Dec. 23, 1985, as amended at 51 FR 36971, Oct. 16, 1986; 54 FR 46005, Oct. 31, 1989; 60 FR 42654, Aug. 16, 1995; 61 FR 39200, July 26, 1996; 63 FR 70267, Dec. 18, 1998; 67 FR 13068, Mar. 20, 2002; 69 FR 25276, May 5, 2004; 71 FR 44547, Aug. 4, 2006; 76 FR 14561, Mar. 16, 2011; 79 FR 24198, Apr. 29, 2014; 80 FR 38296, July 2, 2015; 80 FR 81890, Dec. 31, 2015; 84 FR 19842, May 6, 2019; 85 FR 62487, Oct. 2, 2020]
+[50 FR 52432, Dec. 23, 1985, as amended at 51 FR 36971, Oct. 16, 1986; 54 FR 46005, Oct. 31, 1989; 60 FR 42654, Aug. 16, 1995; 61 FR 39200, July 26, 1996; 63 FR 70267, Dec. 18, 1998; 67 FR 13068, Mar. 20, 2002; 69 FR 25276, May 5, 2004; 71 FR 44547, Aug. 4, 2006; 76 FR 14561, Mar. 16, 2011; 79 FR 24198, Apr. 29, 2014; 80 FR 38296, July 2, 2015; 80 FR 81890, Dec. 31, 2015; 84 FR 19842, May 6, 2019; 85 FR 62487, Oct. 2, 2020; 86 FR 61020, Nov. 4, 2021]

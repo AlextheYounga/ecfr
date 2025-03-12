@@ -1,12 +1,10 @@
 ##### 19.701 Definitions. #####
 
-Link to an amendment published at 86 FR 61028, Nov. 4, 2021.
-
-As used in this subpart -
+As used in this subpart—
 
 *Alaska Native Corporation (ANC)* means any Regional Corporation, Village Corporation, Urban Corporation, or Group Corporation organized under the laws of the State of Alaska in accordance with the Alaska Native Claims Settlement Act, as amended (43 U.S.C.A. 1601, *et seq.*) and which is considered a minority and economically disadvantaged concern under the criteria at 43 U.S.C. 1626(e)(1). This definition also includes ANC direct and indirect subsidiary corporations, joint ventures, and partnerships that meet the requirements of 43 U.S.C. 1626(e)(2).
 
-*Commercial plan* means a subcontracting plan (including goals) that covers the offeror's fiscal year and that applies to the entire production of commercial items sold by either the entire company or a portion thereof (e.g., division, plant, or product line).
+*Commercial plan* means a subcontracting plan (including goals) that covers the offeror's fiscal year and that applies to the entire production of commercial products and performance of commercial services sold by either the entire company or a portion thereof (e.g., division, plant, or product line).
 
 *Electronic Subcontracting Reporting System (eSRS)* means the Governmentwide, electronic, web-based system for small business subcontracting program reporting.
 
@@ -26,4 +24,4 @@ As used in this subpart -
 
 *Untimely Payment* means a payment to a subcontractor that is more than 90 days past due under the terms and conditions of a subcontract for supplies and services for which the Government has paid the prime contractor.
 
-[63 FR 34064, June 22, 1998, as amended at 66 FR 2130, Jan. 10, 2001; 72 FR 46348, Aug. 17, 2007; 73 FR 21781, Apr. 22, 2008; 81 FR 45843, July 14, 2016; 81 FR 93485, Dec. 20, 2016]
+[63 FR 34064, June 22, 1998, as amended at 66 FR 2130, Jan. 10, 2001; 72 FR 46348, Aug. 17, 2007; 73 FR 21781, Apr. 22, 2008; 81 FR 45843, July 14, 2016; 81 FR 93485, Dec. 20, 2016; 86 FR 61028, Nov. 4, 2021]
