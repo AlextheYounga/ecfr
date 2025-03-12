@@ -1,5 +1,7 @@
 ##### § 1011.9 When will the Presidio Trust transfer a debt to the Financial Management Service for collection? #####
 
+Link to an amendment published at 83 FR 50838, October 10, 2018.
+
 (a) *Cross-servicing.* The Presidio Trust will transfer any eligible debt that is more than 180 days delinquent to the FMS for debt collection services, a process known as “cross-servicing.” The Presidio Trust may transfer debts delinquent 180 days or less to the FMS in accordance with the procedures described in 31 CFR 285.12. The FMS takes appropriate action to collect or compromise the transferred debt, or to suspend or terminate collection action thereon, in accordance with the statutory and regulatory requirements and authorities applicable to the debt and the collection action to be taken. Appropriate action includes, without limitation, contact with the debtor, referral of the debt to the Treasury Offset Program, private collection agencies or the Department of Justice, reporting of the debt to credit bureaus, and administrative wage garnishment.
 
 (b) *Notice; certification.* At least 60 days prior to transferring a debt to the FMS, the Presidio Trust will send notice to the debtor as required by § 1011.4 of this part. The Presidio Trust will certify to the FMS, in writing, that the debt is valid, delinquent, legally enforceable and that there are no legal bars to collection. In addition, the Presidio Trust will certify its compliance with all applicable due process and other requirements as described in this part and other Federal laws.

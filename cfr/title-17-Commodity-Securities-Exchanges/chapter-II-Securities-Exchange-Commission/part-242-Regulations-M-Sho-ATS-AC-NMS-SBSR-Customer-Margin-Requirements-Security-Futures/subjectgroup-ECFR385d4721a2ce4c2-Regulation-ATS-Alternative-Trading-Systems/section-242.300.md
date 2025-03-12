@@ -1,7 +1,5 @@
 ##### § 242.300 Definitions. #####
 
-Link to an amendment published at 83 FR 38911, Aug. 7, 2018.
-
 For purposes of this section, the following definitions shall apply:
 
 (a) *Alternative trading system* means any organization, association, person, group of persons, or system:
@@ -22,13 +20,13 @@ For purposes of this section, the following definitions shall apply:
 
 (e) *Order* means any firm indication of a willingness to buy or sell a security, as either principal or agent, including any bid or offer quotation, market order, limit order, or other priced order.
 
-(f) *Control* means the power, directly or indirectly, to direct the management or policies of an alternative trading system, whether through ownership of securities, by contract, or otherwise. A person is presumed to *control* an alternative trading system, if that person:
+(f) *Control* means the power, directly or indirectly, to direct the management or policies of the broker-dealer of an alternative trading system, whether through ownership of securities, by contract, or otherwise. A person is presumed to *control* the broker-dealer of an alternative trading system, if that person:
 
 (1) Is a director, general partner, or officer exercising executive responsibility (or having similar status or performing similar functions);
 
-(2) Directly or indirectly has the right to vote 25 percent or more of a class of voting security or has the power to sell or direct the sale of 25 percent or more of a class of voting securities of the alternative trading system; or
+(2) Directly or indirectly has the right to vote 25 percent or more of a class of voting security or has the power to sell or direct the sale of 25 percent or more of a class of voting securities of the broker-dealer of the alternative trading system; or
 
-(3) In the case of a partnership, has contributed, or has the right to receive upon dissolution, 25 percent or more of the capital of the alternative trading system.
+(3) In the case of a partnership, has contributed, or has the right to receive upon dissolution, 25 percent or more of the capital of the broker-dealer of the alternative trading system.
 
 (g) *NMS stock* shall have the meaning provided in § 242.600; *provided, however,* that a debt or convertible debt security shall not be deemed an NMS stock for purposes of this Regulation ATS.
 
@@ -44,4 +42,6 @@ For purposes of this section, the following definitions shall apply:
 
 (j) *Commercial paper* shall mean any note, draft, or bill of exchange which arises out of a current transaction or the proceeds of which have been or are to be used for current transactions, and which has a maturity at the time of issuance of not exceeding nine months, exclusive of days of grace, or any renewal thereof the maturity of which is likewise limited.
 
-[62 FR 544, Jan. 3, 1997, as amended at 70 FR 37619, June 29, 2005; 74 FR 52372, Oct. 9, 2009]
+(k) *NMS Stock ATS* means an alternative trading system, as defined in paragraph (a) of this section, that trades NMS stocks, as defined in paragraph (g) of this section.
+
+[62 FR 544, Jan. 3, 1997, as amended at 70 FR 37619, June 29, 2005; 74 FR 52372, Oct. 9, 2009; 83 FR 38911, Aug. 7, 2018]

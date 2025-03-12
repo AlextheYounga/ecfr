@@ -1,5 +1,7 @@
 ##### § 1007.5 Action on initial requests. #####
 
+Link to an amendment published at 83 FR 50831, October 10, 2018.
+
 (a) *Authority.* (1) Requests shall be decided by the FOIA Officer.
 
 (2) A decision to withhold a requested record, to release a record that is exempt from disclosure, or to deny a fee waiver shall be made only after consultation with the General Counsel.

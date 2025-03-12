@@ -1,5 +1,7 @@
 ##### § 1007.2 Records available. #####
 
+Link to an amendment published at 83 FR 50829, October 10, 2018.
+
 (a) *Policy.* It is the policy of the Presidio Trust to make its records available to the public to the greatest extent possible consistent with the purposes of the Presidio Trust Act and the Freedom of Information Act.
 
 (b) *Statutory disclosure requirement.* FOIA requires that the Presidio Trust, on a request from a member of the public submitted in accordance with the procedures in this part, make requested records available for inspection and copying.

@@ -1,5 +1,7 @@
 ##### § 1008.2 Definitions. #####
 
+Link to an amendment published at 83 FR 50834, October 10, 2018.
+
 The following terms have the following meanings as used in this part:
 
 *Individual* means a citizen of the United States or an alien lawfully admitted for permanent residence.

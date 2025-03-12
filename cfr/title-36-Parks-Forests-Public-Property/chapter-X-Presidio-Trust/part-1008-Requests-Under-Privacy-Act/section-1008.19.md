@@ -1,5 +1,7 @@
 ##### § 1008.19 Petitions for amendment: Submission and form. #####
 
+Link to an amendment published at 83 FR 50837, October 10, 2018.
+
 (a) *Submission of petitions for amendment.* (1) A request for amendment of a record shall be submitted to the Privacy Act Officer unless the system notice describing the system prescribes or permits submission to a different official or officials. If an individual wishes to request amendment of records located in more than one system, a separate petition must be submitted with respect to each system.
 
 (2) A petition for amendment of a record may be submitted only if the individual submitting the petition has previously requested and been granted access to the record and has inspected or been given a copy of the record.

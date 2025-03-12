@@ -1,5 +1,7 @@
 ##### § 1008.9 Disclosure of records. #####
 
+Link to an amendment published at 83 FR 50834, October 10, 2018.
+
 (a) *Prohibition of disclosure.* No record contained in a system of records may be disclosed by any means of communication to any person, or to another agency, except pursuant to a written request by, or with the prior written consent of, the individual to whom the record pertains.
 
 (b) *General exceptions.* The prohibition contained in paragraph (a) of this section does not apply where disclosure of the record would be:

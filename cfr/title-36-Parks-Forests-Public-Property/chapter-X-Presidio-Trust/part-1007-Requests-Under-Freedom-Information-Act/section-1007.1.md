@@ -1,5 +1,7 @@
 ##### § 1007.1 Purpose and scope. #####
 
+Link to an amendment published at 83 FR 50828, October 10, 2018.
+
 (a) This part contains the procedures for submission to and consideration by the Presidio Trust of requests for records under FOIA. As used in this part, the term “FOIA” means the Freedom of Information Act, 5 U.S.C. 552.
 
 (b) Before invoking the formal procedures set out below, persons seeking records from the Presidio Trust may find it useful to consult with the Presidio Trust's FOIA Officer, who can be reached at The Presidio Trust, P.O. Box 29052, San Francisco, CA 94129-0052, Telephone: (415) 561-5300. As used in this part, the term “FOIA Officer” means the employee designated by the Executive Director to process FOIA requests and otherwise supervise the Presidio Trust's compliance with FOIA, or the alternate employee so designated to perform these duties in the absence of the FOIA Officer.

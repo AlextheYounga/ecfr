@@ -1,8 +1,6 @@
 ##### § 242.303 Record preservation requirements for alternative trading systems. #####
 
-Link to an amendment published at 83 FR 38911, Aug. 7, 2018.
-
-(a) To comply with the condition set forth in paragraph (b)(9) of § 242.301, an alternative trading system shall preserve the following records:
+(a) To comply with the condition set forth in paragraph (b)(8) of § 242.301, an alternative trading system shall preserve the following records:
 
 (1) For a period of not less than three years, the first two years in an easily accessible place, an alternative trading system shall preserve:
 
@@ -14,11 +12,13 @@ Link to an amendment published at 83 FR 38911, Aug. 7, 2018.
 
 (iv) At least one copy of all documents made or received by the alternative trading system in the course of complying with paragraph (b)(6) of § 242.301, including all correspondence, memoranda, papers, books, notices, accounts, reports, test scripts, test results, and other similar records.
 
+(v) At least one copy of the written safeguards and written procedures to protect subscribers' confidential trading information and the written oversight procedures created in the course of complying with paragraph (b)(10) of § 242.301.
+
 (2) During the life of the enterprise and of any successor enterprise, an alternative trading system shall preserve:
 
 (i) All partnership articles or, in the case of a corporation, all articles of incorporation or charter, minute books and stock certificate books; and
 
-(ii) Copies of reports filed pursuant to paragraph (b)(2) of § 242.301 of this chapter and records made pursuant to paragraph (b)(5) of § 242.301 of this chapter.
+(ii) Copies of reports filed pursuant to paragraph (b)(2) of § 242.301 or § 242.304 of this chapter and records made pursuant to paragraph (b)(5) of § 242.301 of this chapter.
 
 (b) The records required to be maintained and preserved pursuant to paragraph (a) of this section must be produced, reproduced, and maintained in paper form or in any of the forms permitted under § 240.17a-4(f) of this chapter.
 
@@ -28,4 +28,4 @@ Link to an amendment published at 83 FR 38911, Aug. 7, 2018.
 
 (e) Every alternative trading system shall furnish to any representative of the Commission promptly upon request, legible, true, and complete copies of those records that are required to be preserved under this section.
 
-[63 FR 70921, Dec. 22, 1998, as amended at 66 FR 55841, Nov. 2, 2001]
+[63 FR 70921, Dec. 22, 1998, as amended at 66 FR 55841, Nov. 2, 2001; 83 FR 38911, Aug. 7, 2018]

@@ -1,5 +1,7 @@
 ##### § 420.3 Reporting. #####
 
+Link to an amendment published at 83 FR 52768, Oct. 18, 2018.
+
 (a) A reporting entity must file a large position report if it meets the reporting requirement as defined in § 420.2. Treasury will provide notice of the large position thresholds by issuing a press release and subsequently publishing the notice in the Federal Register. Such notice will identify the Treasury security issue(s) to be reported (including, where applicable, identifying the related STRIPS principal component); the date or dates for which the large position information must be reported; and the large position thresholds for that issue. A reporting entity is responsible for taking reasonable actions to be aware of such a notice.
 
 (b) A reporting entity shall select one entity from among its aggregating entities (*i.e.,* the designated filing entity) as the entity designated to compile and file a report on behalf of the reporting entity. The designated filing entity shall be responsible for filing any large position reports in response to a notice issued by Treasury and for maintaining the additional records prescribed in § 420.4.

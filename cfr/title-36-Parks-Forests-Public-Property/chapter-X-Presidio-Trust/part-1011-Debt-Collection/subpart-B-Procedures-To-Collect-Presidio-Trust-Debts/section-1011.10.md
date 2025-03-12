@@ -1,5 +1,7 @@
 ##### § 1011.10 How will the Presidio Trust use administrative offset (offset of non-tax federal payments) to collect a debt? #####
 
+Link to an amendment published at 83 FR 50838, October 10, 2018.
+
 (a) *Centralized administrative offset through the Treasury Offset Program.* (1) If not already transferred to the FMS under § 1011.9 of this part, the Presidio Trust will refer any eligible debt over 180 days delinquent to the Treasury Offset Program for collection by centralized administrative offset. The Presidio Trust may refer any eligible debt less than 180 days delinquent to the Treasury Offset Program for offset.
 
 (2) At least 60 days prior to referring a debt to the Treasury Offset Program, in accordance with paragraph (a)(1) of this section, the Presidio Trust will send notice to the debtor in accordance with the requirements of § 1011.4 of this part. The Presidio Trust will certify to the FMS, in writing, that the debt is valid, delinquent, legally enforceable and that there are no legal bars to collection by offset. In addition, the Presidio Trust will certify its compliance with the due process requirements under 31 U.S.C. 3716(a) and with the requirements described in this part.

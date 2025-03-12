@@ -1,5 +1,7 @@
 ##### § 1007.3 Requests for records. #####
 
+Link to an amendment published at 83 FR 50829, October 10, 2018.
+
 (a) *Submission of requests.* A request to inspect or copy records shall be submitted to the Presidio Trust's FOIA Officer at P.O. Box 29052, San Francisco, CA 94129-0052.
 
 (b) *Form of requests.* (1) Requests under this part shall be in writing and must specifically invoke FOIA.

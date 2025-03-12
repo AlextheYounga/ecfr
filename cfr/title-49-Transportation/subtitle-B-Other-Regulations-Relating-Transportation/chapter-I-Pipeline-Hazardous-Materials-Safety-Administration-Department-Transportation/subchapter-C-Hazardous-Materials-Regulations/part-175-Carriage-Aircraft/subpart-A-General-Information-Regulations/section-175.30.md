@@ -10,15 +10,15 @@
 
 (4) Labeled with a “CARGO AIRCRAFT ONLY” label (see § 172.448 of this subchapter) if the material as presented is not permitted aboard passenger-carrying aircraft.
 
-(b) Except as provided in paragraph (d) of this section, no person may carry a hazardous material in a package, outside container, or overpack aboard an aircraft unless the package, outside container, or overpack is inspected by the operator of the aircraft immediately before placing it:
+(b) Except as provided in paragraph (d) of this section, no person may carry a hazardous material in a package or overpack aboard an aircraft unless the package or overpack is inspected by the operator of the aircraft immediately before placing it:
 
 (1) Aboard the aircraft; or
 
 (2) In a unit load device or on a pallet prior to loading aboard the aircraft.
 
-(c) A hazardous material may be carried aboard an aircraft only if, based on the inspection by the operator, the package, outside container, or overpack containing the hazardous material:
+(c) A hazardous material may be carried aboard an aircraft only if, based on the inspection by the operator, the package or overpack containing the hazardous material:
 
-(1) Has no holes, leakage or other indication that its integrity has been compromised; and
+(1) Has no leakage or other indication that its integrity has been compromised; and
 
 (2) For Class 7 (radioactive) materials, does not have a broken seal, except packages contained in overpacks need not be inspected for seal integrity.
 
@@ -30,4 +30,4 @@
 
 (2) The word “OVERPACK” appears on the outside of the overpack when specification packagings are required.
 
-[71 FR 14604, Mar. 22, 2006, as amended at 72 FR 25177, May 3, 2007; 73 FR 57006, Oct. 1, 2008; 76 FR 3383, Jan. 19, 2011; 79 FR 46040, Aug. 6, 2014; 80 FR 1164, Jan. 8, 2015]
+[71 FR 14604, Mar. 22, 2006, as amended at 72 FR 25177, May 3, 2007; 73 FR 57006, Oct. 1, 2008; 76 FR 3383, Jan. 19, 2011; 79 FR 46040, Aug. 6, 2014; 80 FR 1164, Jan. 8, 2015; 83 FR 52899, Oct. 18, 2018]

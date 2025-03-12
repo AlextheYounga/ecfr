@@ -1,5 +1,7 @@
 ##### § 1011.4 What notice will the Presidio Trust send to a debtor when collecting a debt? #####
 
+Link to an amendment published at 83 FR 50837, October 10, 2018.
+
 (a) *Notice requirements.* The Presidio Trust will aggressively collect debts. The Presidio Trust will send at least one written notice to a debtor informing the debtor of the consequences of failing to pay or otherwise resolve a debt. The notice(s) will be sent to the debtor's most current address for the debtor in the records of the Presidio Trust. Except as otherwise provided in paragraph (b) of this section, the written notice(s) will explain to the debtor:
 
 (1) The amount, nature and basis of the debt;

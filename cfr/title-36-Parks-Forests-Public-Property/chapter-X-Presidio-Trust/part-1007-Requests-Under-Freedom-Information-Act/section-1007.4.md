@@ -1,5 +1,7 @@
 ##### § 1007.4 Preliminary processing of requests. #####
 
+Link to an amendment published at 83 FR 50830, October 10, 2018.
+
 (a) *Scope of requests.* Unless a request clearly specifies otherwise, requests to the Presidio Trust may be presumed to seek only records of the Presidio Trust.
 
 (b) *Records of other departments and agencies.* (1) If a requested record in the possession of the Presidio Trust originated with another Federal department or agency, the request shall be referred to that agency unless:

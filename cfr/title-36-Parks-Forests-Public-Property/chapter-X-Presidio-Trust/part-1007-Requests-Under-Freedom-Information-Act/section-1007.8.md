@@ -1,5 +1,7 @@
 ##### § 1007.8 Action on appeals. #####
 
+Link to an amendment published at 83 FR 50832, October 10, 2018.
+
 (a) *Authority.* Appeals shall be decided by the Executive Director after consultation with the FOIA Officer and the General Counsel.
 
 (b) *Time limit.* A final determination shall be made within 20 working days after receipt of an appeal meeting the requirements of § 1007.7(c).

@@ -1,7 +1,5 @@
 ##### § 232.101 Mandated electronic submissions and exceptions. #####
 
-Link to an amendment published at 83 FR 38910, Aug. 7, 2018.
-
 (a) *Mandated electronic submissions.* (1) The following filings, including any related correspondence and supplemental information, except as otherwise provided, shall be submitted in electronic format:
 
 (i) Registration statements and prospectuses filed pursuant to the Securities Act (15 U.S.C. 77a, *et seq.*) or registration statements filed pursuant to Sections 12(b) or 12(g) of the Exchange Act (15 U.S.C. 78*l*(b) or (g));
@@ -51,6 +49,8 @@ Foreign private issuers must file or submit their Form 6-K reports (§ 249.306 o
 (xix) Form C (§ 239.900 of this chapter). Exhibits to Form C (§ 239.900 of this chapter) may be filed on EDGAR as PDF documents in the format required by the EDGAR Filer Manual, as defined in Rule 11 of Regulation S-T (§ 232.11 of this chapter). Notwithstanding Rule 104 of Regulation S-T (§ 232.104 of this chapter), the PDF documents filed under this paragraph will be considered as officially filed with the Commission; and
 
 (xx) Form Funding Portal (§ 249.2000 of this chapter). Exhibits and attachments to Form Funding Portal (§ 249.2000 of this chapter) may be filed on EDGAR as PDF documents in the format required by the EDGAR Filer Manual, as defined in Rule 11 of Regulation S-T (§ 232.11 of this chapter). Notwithstanding Rule 104 of Regulation S-T (§ 232.104 of this chapter), the PDF documents filed under this paragraph will be considered as officially filed with the Commission.
+
+(xxi) Form ATS-N (§ 249.640 of this chapter).
 
 (2) The following amendments to filings and applications, including any related correspondence and supplemental information except as otherwise provided, shall be submitted as follows:
 

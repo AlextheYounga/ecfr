@@ -1,5 +1,7 @@
 ##### § 1007.7 Appeals. #####
 
+Link to an amendment published at 83 FR 50832, October 10, 2018.
+
 (a) *Right of appeal.* A requester may appeal to the Executive Director when:
 
 (1) Records have been withheld;

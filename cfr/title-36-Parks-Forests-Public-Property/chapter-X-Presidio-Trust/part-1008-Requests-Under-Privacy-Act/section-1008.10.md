@@ -1,5 +1,7 @@
 ##### § 1008.10 Accounting for disclosures. #####
 
+Link to an amendment published at 83 FR 50835, October 10, 2018.
+
 (a) *Maintenance of an accounting.* (1) Where a record is disclosed to any person, or to another agency, under any of the specific exceptions provided by § 1008.9(c), an accounting shall be made.
 
 (2) The accounting shall record:

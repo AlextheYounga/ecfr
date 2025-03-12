@@ -1,5 +1,7 @@
 ##### § 1007.9 Fees. #####
 
+Link to an amendment published at 83 FR 50833, October 10, 2018.
+
 (a) *Policy.* (1) Unless waived pursuant to the provisions of § 1007.10, fees for responding to FOIA requests shall be charged in accordance with the provisions of this section and the current schedule of charges determined by the Executive Director and published in the compilation provided under § 1001.7(b) of this chapter. Such charges shall be set at the level necessary to recoup the full allowable direct costs to the Trust.
 
 (2) Fees shall not be charged if the total amount chargeable does not exceed the costs of routine collection and processing of the fee. The Trust shall periodically determine the cost of routine collection and processing of a fee and publish such amount in the compilation provided under § 1001.7(b) of this chapter.

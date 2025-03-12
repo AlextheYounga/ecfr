@@ -1,7 +1,5 @@
 ##### § 242.301 Requirements for alternative trading systems. #####
 
-Link to an amendment published at 83 FR 38911, Aug. 7, 2018.
-
 (a) *Scope of section.* An alternative trading system shall comply with the requirements in paragraph (b) of this section, unless such alternative trading system:
 
 (1) Is registered as an exchange under section 6 of the Act, (15 U.S.C. 78f);
@@ -26,13 +24,13 @@ Link to an amendment published at 83 FR 38911, Aug. 7, 2018.
 
 (D) Commercial paper.
 
-(5) Is exempted, conditionally or unconditionally, by Commission order, after application by such alternative trading system, from one or more of the requirements of paragraph (b) of this section. The Commission will grant such exemption only after determining that such an order is consistent with the public interest, the protection of investors, and the removal of impediments to, and perfection of the mechanisms of, a national market system.
+(5) Is exempted, conditionally or unconditionally, by Commission order, after application by such alternative trading system, from one or more of the requirements of paragraph (b) of this section or § 242.304. The Commission will grant such exemption only after determining that such an order is consistent with the public interest, the protection of investors, and the removal of impediments to, and perfection of the mechanisms of, a national market system.
 
 (b) *Requirements.* Every alternative trading system subject to this Regulation ATS, pursuant to paragraph (a) of this section, shall comply with the requirements in this paragraph (b).
 
 (1) *Broker-dealer registration.* The alternative trading system shall register as a broker-dealer under section 15 of the Act, (15 U.S.C. 78o).
 
-(2) *Notice.* (i) The alternative trading system shall file an initial operation report on Form ATS, § 249.637 of this chapter, in accordance with the instructions therein, at least 20 days prior to commencing operation as an alternative trading system, or if the alternative trading system is operating as of April 21, 1999, no later than May 11, 1999.
+(2) *Notice.* (i) The alternative trading system shall file an initial operation report on Form ATS, § 249.637 of this chapter, in accordance with the instructions therein, at least 20 days prior to commencing operation as an alternative trading system.
 
 (ii) The alternative trading system shall file an amendment on Form ATS at least 20 calendar days prior to implementing a material change to the operation of the alternative trading system.
 
@@ -44,7 +42,9 @@ Link to an amendment published at 83 FR 38911, Aug. 7, 2018.
 
 (vi) Every notice or amendment filed pursuant to this paragraph (b)(2) shall constitute a “report” within the meaning of sections 11A, 17(a), 18(a), and 32(a), (15 U.S.C. 78k-1, 78q(a), 78r(a), and 78ff(a)), and any other applicable provisions of the Act.
 
-(vii) The reports provided for in paragraph (b)(2) of this section shall be considered filed upon receipt by the Division of Market Regulation, Stop 10-2, at the Commission's principal office in Washington, DC. Duplicate originals of the reports provided for in paragraphs (b)(2)(i) through (v) of this section must be filed with surveillance personnel designated as such by any self-regulatory organization that is the designated examining authority for the alternative trading system pursuant to § 240.17d-1 of this chapter simultaneously with filing with the Commission. Duplicates of the reports required by paragraph (b)(9) of this section shall be provided to surveillance personnel of such self-regulatory authority upon request. All reports filed pursuant to this paragraph (b)(2) and paragraph (b)(9) of this section shall be deemed confidential when filed.
+(vii) The reports provided for in paragraph (b)(2) of this section shall be considered filed upon receipt by the Division of Trading and Markets, at the Commission's principal office in Washington, DC. Duplicate originals of the reports provided for in paragraphs (b)(2)(i) through (v) of this section must be filed with surveillance personnel designated as such by any self-regulatory organization that is the designated examining authority for the alternative trading system pursuant to § 240.17d-1 of this chapter simultaneously with filing with the Commission. Duplicates of the reports required by paragraph (b)(9) of this section shall be provided to surveillance personnel of such self-regulatory authority upon request. All reports filed pursuant to this paragraph (b)(2) and paragraph (b)(9) of this section shall be deemed confidential when filed.
+
+(viii) An NMS Stock ATS that is operating pursuant to an initial operation report on Form ATS on file with the Commission as of January 7, 2019 (“Legacy NMS Stock ATS”) shall be subject to the requirements of paragraphs (b)(2)(i) through (vii) of this section until that ATS files an initial Form ATS-N with the Commission pursuant to § 242.304(a)(1)(iv)(A). Thereafter, the Legacy NMS Stock ATS shall file reports pursuant to § 242.304. An alternative trading system that trades NMS stocks and securities other than NMS stocks shall be subject to the requirements of § 242.304 of this chapter with respect to NMS stocks and paragraph (b)(2) of this section with respect to non-NMS stocks. As of January 7, 2019, an entity seeking to operate as an NMS Stock ATS shall not be subject to the requirements of paragraphs (b)(2)(i) through (vii) of this section and shall file reports pursuant to § 242.304.
 
 (3) *Order display and execution access.* (i) An alternative trading system shall comply with the requirements set forth in paragraph (b)(3)(ii) of this section, with respect to any NMS stock in which the alternative trading system:
 
@@ -134,18 +134,18 @@ Link to an amendment published at 83 FR 38911, Aug. 7, 2018.
 
 (9) *Reporting.* The alternative trading system shall:
 
-(i) File the information required by Form ATS-R (§ 249.638 of this chapter) within 30 calendar days after the end of each calendar quarter in which the market has operated after the effective date of this section; and
+(i) Separately file the information required by Form ATS-R (§ 249.638 of this chapter) for transactions in NMS stocks, as defined in paragraph (g) of this section, and transactions in securities other than NMS stocks within 30 calendar days after the end of each calendar quarter in which the market has operated after the effective date of this section; and
 
-(ii) File the information required by Form ATS-R within 10 calendar days after an alternative trading system ceases to operate.
+(ii) Separately file the information required by Form ATS-R for transactions in NMS stocks and transactions in securities other than NMS stocks within 10 calendar days after an alternative trading system ceases to operate.
 
-(10) *Procedures to ensure the confidential treatment of trading information.* (i) The alternative trading system shall establish adequate safeguards and procedures to protect subscribers' confidential trading information. Such safeguards and procedures shall include:
+(10)  *Written procedures to ensure the confidential treatment of trading information.* (i) The alternative trading system shall establish adequate written safeguards and written procedures to protect subscribers' confidential trading information. Such written safeguards and written procedures shall include:
 
 (A) Limiting access to the confidential trading information of subscribers to those employees of the alternative trading system who are operating the system or responsible for its compliance with these or any other applicable rules;
 
 (B) Implementing standards controlling employees of the alternative trading system trading for their own accounts; and
 
-(ii) The alternative trading system shall adopt and implement adequate oversight procedures to ensure that the safeguards and procedures established pursuant to paragraph (b)(10)(i) of this section are followed.
+(ii) The alternative trading system shall adopt and implement adequate written oversight procedures to ensure that the written safeguards and procedures established pursuant to paragraph (b)(10)(i) of this section are followed.
 
 (11) *Name.* The alternative trading system shall not use in its name the word “exchange,” or derivations of the word “exchange,” such as the term “stock market.”
 
-[63 FR 70921, Dec. 22, 1998, as amended at 65 FR 13235, Mar. 13, 2000; 70 FR 37619, June 29, 2005; 74 FR 52372, Oct. 9, 2009; 79 FR 72436, Dec. 5, 2014]
+[63 FR 70921, Dec. 22, 1998, as amended at 65 FR 13235, Mar. 13, 2000; 70 FR 37619, June 29, 2005; 74 FR 52372, Oct. 9, 2009; 79 FR 72436, Dec. 5, 2014; 83 FR 38911, Aug. 7, 2018]

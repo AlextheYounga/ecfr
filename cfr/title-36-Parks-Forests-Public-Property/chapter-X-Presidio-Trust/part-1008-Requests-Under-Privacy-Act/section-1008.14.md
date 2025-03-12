@@ -1,5 +1,7 @@
 ##### § 1008.14 Requests for access to records: Submission. #####
 
+Link to an amendment published at 83 FR 50836, October 10, 2018.
+
 (a) *Submission of requests.* (1) Requests for access to records shall be submitted to the Privacy Act Officer unless the system notice describing the system prescribes or permits submission to some other official or officials.
 
 (2) Individuals desiring access to records maintained in two or more separate systems shall submit a separate request for access to the records in each system.

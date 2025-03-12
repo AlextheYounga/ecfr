@@ -1,5 +1,7 @@
 ##### § 1007.6 Time limits for processing initial requests. #####
 
+Link to an amendment published at 83 FR 50832, October 10, 2018.
+
 (a) *Basic limit.* Requests for records shall be processed promptly. A determination whether to grant or deny a request shall be made within 20 working days after receipt of a request. This determination shall be communicated immediately to the requester.
 
 (b) *Running of basic time limit.* (1) The 20 working day time limit begins to run when a request meeting the requirements of § 1007.3(b) is received at the Presidio Trust.

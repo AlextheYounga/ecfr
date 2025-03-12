@@ -1,14 +1,12 @@
 ##### § 240.3a1-1 Exemption from the definition of “Exchange” under Section 3(a)(1) of the Act. #####
 
-Link to an amendment published at 83 FR 38911, Aug. 7, 2018.
-
 (a) An organization, association, or group of persons shall be exempt from the definition of the term “exchange” under section 3(a)(1) of the Act, (15 U.S.C. 78c(a)(1)), if such organization, association, or group of persons:
 
 (1) Is operated by a national securities association;
 
-(2) Is in compliance with Regulation ATS, 17 CFR 242.300 through 242.303; or
+(2) Is in compliance with Regulation ATS, 17 CFR 242.300 through 242.304; or
 
-(3) Pursuant to paragraph (a) of § 242.301 of Regulation ATS, 17 CFR 242.301(a), is not required to comply with Regulation ATS, 17 CFR 242.300 through 242.303.
+(3) Pursuant to paragraph (a) of § 242.301 of Regulation ATS, 17 CFR 242.301(a), is not required to comply with Regulation ATS, 17 CFR 242.300 through 242.304.
 
 (b) Notwithstanding paragraph (a) of this section, an organization, association, or group of persons shall not be exempt under this section from the definition of “exchange,” if:
 
@@ -54,4 +52,4 @@ Link to an amendment published at 83 FR 38911, Aug. 7, 2018.
 
 (C) Do not have a maturity date of a year or less following the date of issuance.
 
-[63 FR 70917, Dec. 22, 1998, as amended at 74 FR 52372, Oct. 9, 2009]
+[63 FR 70917, Dec. 22, 1998, as amended at 74 FR 52372, Oct. 9, 2009; 83 FR 38911, Aug. 7, 2018]

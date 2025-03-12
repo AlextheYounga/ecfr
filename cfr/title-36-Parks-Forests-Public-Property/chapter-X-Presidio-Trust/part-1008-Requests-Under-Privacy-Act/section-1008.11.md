@@ -1,5 +1,7 @@
 ##### § 1008.11 Request for notification of existence of records: Submission. #####
 
+Link to an amendment published at 83 FR 50835, October 10, 2018.
+
 (a) *Submission of requests.* (1) Individuals desiring to determine under the Privacy Act whether a system of records contains records pertaining to them shall address inquiries to the Privacy Act Officer, The Presidio Trust, P.O. Box 29052, San Francisco, CA 94129-0052, unless the system notice describing the system prescribes or permits submission to some other official or officials.
 
 (2) Individuals desiring to determine whether records pertaining to them are maintained in two or more systems shall make a separate inquiry concerning each system.

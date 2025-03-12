@@ -1,5 +1,7 @@
 ##### § 1008.15 Requests for access to records: Initial decision. #####
 
+Link to an amendment published at 83 FR 50836, October 10, 2018.
+
 (a) *Decisions on requests.* A request made under this part for access to a record shall be granted promptly unless the record:
 
 (1) Was compiled in reasonable anticipation of a civil action or proceeding; or
