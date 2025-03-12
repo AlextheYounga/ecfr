@@ -1,7 +1,5 @@
 ##### § 648.14 Prohibitions. #####
 
-Link to an amendment published at 87 FR 42966, July 19, 2022.
-
 (a) *General prohibitions.* It is unlawful for any person to do any of the following:
 
 (1) Violate any provision of this part, the Magnuson-Stevens Act, or any regulation, notice, or permit issued under the Magnuson-Stevens Act, or any other statute administered by NOAA.
@@ -1069,7 +1067,7 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (*5*) Unless otherwise specified in § 648.17.
 
-(B) Attempt or do any of the following: Fish for, possess, transfer, receive, or sell; more than the possession limits specified at § 648.201(a) during a management area closure, or from a river herring and shad catch cap closure area that has been closed to specified gear pursuant to § 648.201(a)(4)(ii), if the vessel has been issued and holds a valid herring permit.
+(B) Attempt or do any of the following: Fish for, possess, transfer, receive, land, or sell, more than the possession limits specified at § 648.201(a) from a management area subject to a possession limit adjustment or fishery closure, or from a river herring and shad catch cap closure area that has been closed to specified gear pursuant to § 648.201(a)(4)(ii), if the vessel has been issued and holds a valid herring permit.
 
 (iii) *Processing requirements.* (A) Process herring that was caught in or from the EEZ by a U.S. vessel that exceeds the size limits specified in § 648.4(a)(10)(iii), in excess of the specification of USAP.
 
@@ -1086,6 +1084,8 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 (D) Purchase, possess, or receive, for a commercial purpose; or attempt to purchase, possess, or receive, for a commercial purpose; herring caught by a vessel without a herring permit, unless the herring was harvested by a vessel without a Federal herring permit that fished exclusively in state waters.
 
 (E) Transfer, or attempt to transfer, herring to a Canadian transshipment vessel that is permitted in accordance with Public Law 104-297, if the amount of herring transshipped exceeds the amount of the border transfer specified in § 648.200.
+
+(F) Purchase, receive, possess, have custody or control of, sell, barter, trade or transfer, or attempt to purchase, receive, possess, have custody or control of, sell, barter, trade or transfer, more than the applicable 2,000 lb (907.2 kg) or 40,000 lb (18,143.7 kg) possession limit of herring from a vessel if the herring is from a management area subject to a possession limit for Atlantic herring pursuant to § 648.201(a).
 
 (v) *Gear and vessel requirements.* (A) If fishing with midwater trawl or purse seine gear, fail to comply with the requirements of § 648.80(d) and (e).
 
@@ -1109,7 +1109,7 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (I) Transit the inshore midwater trawl restricted area, defined in § 648.202(a)(2), with midwater trawl gear onboard unless midwater trawl gear is stowed and not available for immediate use, as defined in § 648.2 or the vessel has not been issued a valid, federal permit under this part and fishes exclusively in state waters.
 
-(vii) *Transit and transport.* (A) Transit or be in an area closed to fishing for Atlantic herring pursuant to § 648.201(a) with more than 2,000 lb (907.2 kg) of herring, unless all fishing gear is not available for immediate use as defined in § 648.2.
+(vii) *Transit and transport.* (A) Transit or be in an area subject to a possession limit adjustment or fishery closure pursuant to § 648.201(a) with more than the applicable 2,000 lb (907.2 kg) or 40,000 lb (18,143.7 kg) herring possession limit, unless such herring were caught in an area not subject to the 2,000 lb (907.2 kg) or 40,000 lb (18,143.7 kg) limit specified in § 648.201(a), all fishing gear is stowed and not available for immediate use as defined in § 648.2, and the vessel is issued a permit appropriate to the amount of herring on board and the area where the herring was harvested.
 
 (B) Receive Atlantic herring at sea in or from the EEZ, solely for transport, without an Atlantic herring carrier letter of authorization from the Regional Administrator or having declared an Atlantic herring carrier trip via VMS consistent with the requirements at § 648.4(a)(10)(ii).
 
