@@ -1,5 +1,7 @@
 ##### § 135.611 IFR operations at locations without weather reporting. #####
 
+Link to an amendment published at 84 FR 35823, July 25, 2019.
+
 (a) If a certificate holder is authorized to conduct helicopter IFR operations, the Administrator may authorize the certificate holder to conduct IFR helicopter air ambulance operations at airports with an instrument approach procedure and at which a weather report is not available from the U.S. National Weather Service (NWS), a source approved by the NWS, or a source approved by the FAA, subject to the following limitations:
 
 (1) The certificate holder must obtain a weather report from a weather reporting facility operated by the NWS, a source approved by the NWS, or a source approved by the FAA, that is located within 15 nautical miles of the airport. If a weather report is not available, the certificate holder may obtain the area forecast from the NWS, a source approved by the NWS, or a source approved by the FAA, for information regarding the weather observed in the vicinity of the airport;
