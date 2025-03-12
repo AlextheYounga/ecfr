@@ -1,6 +1,6 @@
 ##### § 150.4 Aggregation of positions. #####
 
-(a) *Positions to be aggregated* - (1) *Trading control or 10 percent or greater ownership or equity interest.* For the purpose of applying the position limits set forth in § 150.2, unless an exemption set forth in paragraph (b) of this section applies, all positions in accounts for which any person, by power of attorney or otherwise, directly or indirectly controls trading or holds a 10 percent or greater ownership or equity interest must be aggregated with the positions held and trading done by such person. For the purpose of determining the positions in accounts for which any person controls trading or holds a 10 percent or greater ownership or equity interest, positions or ownership or equity interests held by, and trading done or controlled by, two or more persons acting pursuant to an expressed or implied agreement or understanding shall be treated the same as if the positions or ownership or equity interests were held by, or the trading were done or controlled by, a single person.
+(a) *Positions to be aggregated*—(1) *Trading control or 10 percent or greater ownership or equity interest.* For the purpose of applying the position limits set forth in § 150.2, unless an exemption set forth in paragraph (b) of this section applies, all positions in accounts for which any person, by power of attorney or otherwise, directly or indirectly controls trading or holds a 10 percent or greater ownership or equity interest must be aggregated with the positions held and trading done by such person. For the purpose of determining the positions in accounts for which any person controls trading or holds a 10 percent or greater ownership or equity interest, positions or ownership or equity interests held by, and trading done or controlled by, two or more persons acting pursuant to an expressed or implied agreement or understanding shall be treated the same as if the positions or ownership or equity interests were held by, or the trading were done or controlled by, a single person.
 
 (2) *Substantially identical trading.* Notwithstanding the provisions of paragraph (b) of this section, for the purpose of applying the position limits set forth in § 150.2, any person that, by power of attorney or otherwise, holds or controls the trading of positions in more than one account or pool with substantially identical trading strategies, must aggregate all such positions (determined pro rata) with all other positions held and trading done by such person and the positions in accounts which the person must aggregate pursuant to paragraph (a)(1) of this section.
 
@@ -96,16 +96,16 @@
 
 (d) *Form and manner of reporting and submitting information or filings.* Unless otherwise instructed by the Commission or its designees, any person submitting reports under this section shall submit the corresponding required filings and any other information required under this part to the Commission using the format, coding structure, and electronic data transmission procedures approved in writing by the Commission. Unless otherwise provided in this section, the notice shall be effective upon filing. When the reporting entity discovers errors or omissions to past reports, the entity shall so notify the Commission and file corrected information in a form and manner and at a time as may be instructed by the Commission or its designee.
 
-(e) *Delegation of authority to the Director of the Division of Market Oversight.* (1) The Commission hereby delegates, until it orders otherwise, to the Director of the Division of Market Oversight or such other employee or employees as the Director may designate from time to time, the authority:
+(e) *Delegation of authority.* (1) The Commission hereby delegates, until it orders otherwise, to the Director of the Division of Enforcement, or such other employee or employees as the Director may designate from time to time, the authority:
 
 (i) In paragraph (b)(8)(iv) of this section to call for additional information from a person claiming the exemption in paragraph (b)(8) of this section.
 
 (ii) In paragraph (c)(3) of this section to call for additional information from a person claiming an aggregation exemption under this section.
 
-(iii) In paragraph (d) of this section for providing instructions or determining the format, coding structure, and electronic data transmission procedures for submitting data records and any other information required under this part.
+(2) The Commission hereby delegates, until it orders otherwise, to the Director of the Office of Data and Technology, with the concurrence of the Director of the Division of Enforcement, or such other employee or employees as the Directors each may designate from time to time, the authority in paragraph (d) of this section to provide instructions or determine the format, coding structure, and electronic data transmission procedures for submitting data records and any other information required under this part.
 
-(2) The Director of the Division of Market Oversight may submit to the Commission for its consideration any matter which has been delegated in this section.
+(3) The Directors of the Division of Enforcement and the Office of Data and Technology may submit to the Commission for its consideration any matter which has been delegated in this section.
 
-(3) Nothing in this section prohibits the Commission, at its election, from exercising the authority delegated in this section.
+(4) Nothing in this section prohibits the Commission, at its election, from exercising the authority delegated in this section.
 
-[81 FR 91490, Dec. 16, 2016]
+[81 FR 91490, Dec. 16, 2016, as amended at 82 FR 28770, June 26, 2017]

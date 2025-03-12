@@ -22,7 +22,7 @@
 
 (4) Outside plant housings shall be manufactured in accordance with National Electrical Code (NEC) requirements, Underwriters' Laboratories (UL) requirements, Department of Labor, Occupational Safety and Health Administration Standards (OSHA), and all other applicable Federal, State, and local requirements including, but not limited to, statutes, rules, regulations, orders, or ordinances otherwise imposed by law.
 
-(c) *General documentation requirements* - (1) *Installation and maintenance instructions.* (i) Each product shall have available a set of instructions designed to provide sufficient information for the successful installation of the housing, cables, auxiliary equipment, and the associated splice preparation. The instructions shall be of sufficient size to be easily read and shall be printed using waterproof ink. Pedestal instruction sheets shall include a list of miscellaneous replacement parts that may be purchased locally. SAI systems shall be supplied with complete instructions for installation and use.
+(c) *General documentation requirements*—(1) *Installation and maintenance instructions.* (i) Each product shall have available a set of instructions designed to provide sufficient information for the successful installation of the housing, cables, auxiliary equipment, and the associated splice preparation. The instructions shall be of sufficient size to be easily read and shall be printed using waterproof ink. Pedestal instruction sheets shall include a list of miscellaneous replacement parts that may be purchased locally. SAI systems shall be supplied with complete instructions for installation and use.
 
 (ii) When requested by RUS, or an RUS borrower, the manufacturer shall prepare a training package for the purpose of training technicians in the use and installation of the product and its auxiliary equipment.
 
@@ -58,7 +58,7 @@
 
 (iv) Acceptance requests should be addressed to: Chairman, Technical Standards, Committee “A” (Telephone), Telecommunications Standards Division, Rural Utilities Service, Washington, DC 20250-1500.
 
-(d) *Functional design criteria for housings* - (1) *General requirements.* (i) The functional requirements for housings concern materials, finishes, environmental factors, and design features that are applicable to most above ground housings used in the outside plant.
+(d) *Functional design criteria for housings*—(1) *General requirements.* (i) The functional requirements for housings concern materials, finishes, environmental factors, and design features that are applicable to most above ground housings used in the outside plant.
 
 (ii) Housings shall be of sufficient size to permit easily managed installation, operational, testing, and maintenance operations. The general shape of outside plant housings is usually comparable to that of a rectangular column or cylinder, with the shape of any particular housing being left to the manufacturer's discretion. Each design is subject to acceptance by RUS.
 
@@ -78,22 +78,19 @@
 
 (iii) The minimum volume associated with the pedestal designations shall be as shown in the following table:
 
-|Pedestal<sup>1</sup> housing designation|         Minimum volume         |       |
-|----------------------------------------|--------------------------------|-------|
-|    Cubic centimeters cm<sup>3</sup>    |(Cubic Inches) (in.<sup>3</sup>)|       |
-|         BD3, BD3A<sup>2</sup>          |             9,000              | (550) |
-|         BD4, BD4A<sup>2</sup>          |             15,000             | (900) |
-|         BD5, BD5A<sup>2</sup>          |             35,000             |(2,100)|
-|           BD7(<sup>2</sup> )           |             72,000             |(4,400)|
-|    BD14, BD14A, BD14AG<sup>3</sup>     |             9,000              | (550) |
-|    BD15, BD15A, BD15AG<sup>3</sup>     |             27,000             |(1,600)|
-|    BD16, BD16A, BD16AG<sup>3</sup>     |             38,000             |(2,300)|
-
-Note 1: Housings designed for unique purposes will be evaluated on a case-by-case basis.
-
-Note 2: For Type H pedestals, the minimum volume is that space as measured 5 centimeters (cm) (2 inches (in.)) below the top of the housing to a point 40 cm (16 in.) above the bottom of the lower cover plate.
-
-Note 3: The minimum volume of the Type M pedestals shall be the space within the dome measured from the lower edge of the dome to a point 5 cm (2 in.) from the top.
+|                                                                                     Pedestal <sup>1</sup> housing designation                                                                                      |         Minimum volume         |       |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------|
+|                                                                                         Cubic centimeters cm <sup>3</sup>                                                                                          |(Cubic Inches) (in.<sup>3</sup>)|       |
+|                                                                                               BD3, BD3A <sup>2</sup>                                                                                               |             9,000              | (550) |
+|                                                                                               BD4, BD4A <sup>2</sup>                                                                                               |             15,000             | (900) |
+|                                                                                               BD5, BD5A <sup>2</sup>                                                                                               |             35,000             |(2,100)|
+|                                                                                                BD7( <sup>2</sup> )                                                                                                 |             72,000             |(4,400)|
+|                                                                                          BD14, BD14A, BD14AG <sup>3</sup>                                                                                          |             9,000              | (550) |
+|                                                                                          BD15, BD15A, BD15AG <sup>3</sup>                                                                                          |             27,000             |(1,600)|
+|                                                                                          BD16, BD16A, BD16AG <sup>3</sup>                                                                                          |             38,000             |(2,300)|
+|                                                            **Note 1:** Housings designed for unique purposes will be evaluated on a case-by-case basis.                                                            |                                |       |
+|**Note 2:** For Type H pedestals, the minimum volume is that space as measured 5 centimeters (cm) (2 inches (in.)) below the top of the housing to a point 40 cm (16 in.) above the bottom of the lower cover plate.|                                |       |
+|                      **Note 3:** The minimum volume of the Type M pedestals shall be the space within the dome measured from the lower edge of the dome to a point 5 cm (2 in.) from the top.                      |                                |       |
 
 (iv) Equipment cabinets intended for use as SAI housings shall be assigned size designations according to their maximum pair termination capacities. The capacity will vary depending on the type of terminating equipment used. SAI cabinets shall be suffix designated with an “A” for pole mounting, “X” for pad mounting, and “S” for stake mounting.
 
@@ -101,14 +98,13 @@ Note 3: The minimum volume of the Type M pedestals shall be the space within the
 
 (vi) The minimum volume associated with large pair count splice cabinets shall be as shown in the following table:
 
-|Splice cabinet<sup>1</sup> designation| Minimum volume  |Maximum splice capacity (pairs)|      |
-|--------------------------------------|-----------------|-------------------------------|------|
-|          (cm.<sup>3</sup>)           |(in.<sup>3</sup>)|                               |      |
-|                BD6000                |     295,000     |           (18,000)            |6,000 |
-|                BD8000                |     393,000     |           (24,000)            |8,000 |
-|               BD10000                |     491,000     |           (30,000)            |10,000|
-
-Note 1: Additional sizes of splice cabinets shall be considered by RUS on a case-by-case basis.
+|                              Splice cabinet <sup>1</sup> designation                              | Minimum volume  |Maximum splice capacity (pairs)|      |
+|---------------------------------------------------------------------------------------------------|-----------------|-------------------------------|------|
+|                                         (cm.<sup>3</sup>)                                         |(in.<sup>3</sup>)|                               |      |
+|                                              BD6000                                               |     295,000     |           (18,000)            |6,000 |
+|                                              BD8000                                               |     393,000     |           (24,000)            |8,000 |
+|                                              BD10000                                              |     491,000     |           (30,000)            |10,000|
+|**Note 1:** Additional sizes of splice cabinets shall be considered by RUS on a case-by-case basis.|                 |                               |      |
 
 (3) *Design and fabrication requirements for housings.* (i) Type H pedestal housings may consist of an enclosed channel incorporating an integrally mounted stake that serves as a backplate, or they may be designed for universal mounting on stakes or poles. The body of the housing shall have two major components; an upper cover and a base cover. The upper cover shall have a top, front and back plate with the front cover removable to permit entry and provide increased work space. The base cover shall consist of a front plate and back plate. The base cover back plate may be an extension of the upper back plate cover.
 
@@ -251,7 +247,7 @@ Note 1: Additional sizes of splice cabinets shall be considered by RUS on a case
 
 (iii) Installation hardware shall maintain housings in an erect and stable position when subjected to normal storm loads. Pad-mounted designs must accommodate precast or cast-in-place reinforced concrete or other suitable prefabricated material. Brackets, inserts for fastening, conduit openings, or other items necessary for a pad-mounted installation must be provided. The manufacturer shall provide detailed drawings or a template for locating inserts, conduit openings, or slots for cast-in-place pad construction.
 
-(e) *Performance criteria and test procedures for housings* - (1) *General information.* (i) The housing manufacturer shall perform adequate inspections and tests to demonstrate that housings and housing components comply with RUS requirements.
+(e) *Performance criteria and test procedures for housings*—(1) *General information.* (i) The housing manufacturer shall perform adequate inspections and tests to demonstrate that housings and housing components comply with RUS requirements.
 
 (ii) Testing shall be performed at a room temperature of 24±3 °C (75±5 °C). Temperatures for testing performed at other than room temperature shall be determined as near the center of the product under test as practical.
 
@@ -259,7 +255,7 @@ Note 1: Additional sizes of splice cabinets shall be considered by RUS on a case
 
 (ii) The typical test sample shall consist of the exterior housing components such as covers, backplates, good housekeeping panels, cap assembly, anchor posts, decals, etc. Interior components must include the bonding and grounding hardware for cables and service wires and the dielectric shield. The housing may include terminal blocks or cross-connect modules, cable splices, or the typical outside plant equipment the housing is designed to contain and protect.
 
-(3) *Environmental requirement for housings* - (i) *Thermal shock.* The test housing shall be placed in a test chamber and exposed to the temperature cycle of Figure 2 for five complete cycles. The step function nature of the temperature changes may be achieved by insertion and removal of the test housing from the chamber. The soak time at each temperature shall be four hours. The housing shall be removed from the test chamber at the conclusion of the five-cycle period. After the test housing temperature has stabilized to room temperature, the housing must be inspected for deterioration of materials and satisfactory operation of mechanical functions. Figure 2 is as follows:
+(3) *Environmental requirement for housings*—(i) *Thermal shock.* The test housing shall be placed in a test chamber and exposed to the temperature cycle of Figure 2 for five complete cycles. The step function nature of the temperature changes may be achieved by insertion and removal of the test housing from the chamber. The soak time at each temperature shall be four hours. The housing shall be removed from the test chamber at the conclusion of the five-cycle period. After the test housing temperature has stabilized to room temperature, the housing must be inspected for deterioration of materials and satisfactory operation of mechanical functions. Figure 2 is as follows:
 
 ![](/graphics/er21oc94.001.gif)
 
@@ -317,15 +313,14 @@ Note 1: Additional sizes of splice cabinets shall be considered by RUS on a case
 
 (xii) *Wind Resistance.* (A)(*1*) Stub pole or wall mounted SAI and large pair count splice housings shall be subjected to a load (F) as shown in Figure 4 and the following table to simulate the turning moment equivalent to a uniform wind load of 161 kilometers per hour (km/h) (100 miles per hour (mi/h)) perpendicular to the largest surface area.
 
-|Maximum area of largest surface square centimeters cm<sup>2</sup>  <br/>(Square inches) (in.<sup>2</sup>)|Load|     |
-|---------------------------------------------------------------------------------------------------------|----|-----|
-|                                                   kg                                                    |(lb)|     |
-|                                           5,200 (800) or less                                           | 18 |(40) |
-|                                      5,201 to 9,100 (801 to 1,400)                                      | 32 |(70) |
-|                                    9,101 to 13,000 (1,401 to 2,000)                                     | 45 |(100)|
-|                                    13,001 to 16,200 (2,001 to 2,500)                                    | 57 |(125)|
-
-Note: The procedures for housings with larger surface area will be evaluated by RUS on a case-by-case basis.
+|   Maximum area of largest surface square centimeters cm<sup>2</sup>  <br/>(Square inches) (in.<sup>2</sup>)    |Load|     |
+|----------------------------------------------------------------------------------------------------------------|----|-----|
+|                                                       kg                                                       |(lb)|     |
+|                                              5,200 (800) or less                                               | 18 |(40) |
+|                                         5,201 to 9,100 (801 to 1,400)                                          | 32 |(70) |
+|                                        9,101 to 13,000 (1,401 to 2,000)                                        | 45 |(100)|
+|                                       13,001 to 16,200 (2,001 to 2,500)                                        | 57 |(125)|
+|**Note:** The procedures for housings with larger surface area will be evaluated by RUS on a case-by-case basis.|    |     |
 
 (*2*) The housing shall remain in its original mounting position throughout the test and exhibit no mechanical deformation.
 
@@ -335,26 +330,25 @@ Note: The procedures for housings with larger surface area will be evaluated by 
 
 (B)(*1*) Pad or ground mounted SAI or splice housings shall be subjected to a load (F) as shown in Figure 5 and the following table to simulate the overturning moment equivalent to a uniform wind load of 161 km/h (100 mi/h) perpendicular to the largest surface area.
 
-|Height cm (in.) |Maximum area of largest surface cm<sup>2</sup> (in.<sup>2</sup>)|Load|     |
-|----------------|----------------------------------------------------------------|----|-----|
-|       kg       |                              (lb)                              |    |     |
-|122 (48) or less|                     11,000 (1,700) or less                     | 91 |(200)|
-|                |                  11,001-13,000 (1,701-2,000)                   |104 |(230)|
-|                |                  13,001-14,900 (2,001-2,300)                   |118 |(260)|
-|123-152 (49-60) |                     11,700 (1,800) or less                     | 91 |(200)|
-|                |                  11,701-14,300 (1,801-2,200)                   |109 |(240)|
-|                |                  14,301-16,200 (2,201-2,500)                   |127 |(280)|
-|                |                  16,201-18,800 (2,501-2,900)                   |145 |(320)|
-|                |                  18,801-20,800 (2,901-3,200)                   |163 |(360)|
-|                |                  20,801-23,400 (3,201-3,600)                   |181 |(400)|
-|153-183 (61-72) |                     14,300 (2,200) or less                     |109 |(240)|
-|                |                  14,301-16,900 (2,201-2,600)                   |127 |(280)|
-|                |                  16,901-19,500 (2,601-3,000)                   |150 |(330)|
-|                |                  19,501-22,700 (3,001-3,500)                   |172 |(380)|
-|                |                  22,701-25,300 (3,501-3,900)                   |190 |(420)|
-|                |                  25,301-27,900 (3,901-4,300)                   |213 |(470)|
-
-Note: The procedures for housings with larger surface areas will be evaluated by RUS on a case-by-case basis
+|                                                Height cm (in.)                                                 |Maximum area of largest surface cm<sup>2</sup> (in.<sup>2</sup>)|Load|     |
+|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------|----|-----|
+|                                                       kg                                                       |                              (lb)                              |    |     |
+|                                                122 (48) or less                                                |                     11,000 (1,700) or less                     | 91 |(200)|
+|                                                                                                                |                  11,001-13,000 (1,701-2,000)                   |104 |(230)|
+|                                                                                                                |                  13,001-14,900 (2,001-2,300)                   |118 |(260)|
+|                                                123-152 (49-60)                                                 |                     11,700 (1,800) or less                     | 91 |(200)|
+|                                                                                                                |                  11,701-14,300 (1,801-2,200)                   |109 |(240)|
+|                                                                                                                |                  14,301-16,200 (2,201-2,500)                   |127 |(280)|
+|                                                                                                                |                  16,201-18,800 (2,501-2,900)                   |145 |(320)|
+|                                                                                                                |                  18,801-20,800 (2,901-3,200)                   |163 |(360)|
+|                                                                                                                |                  20,801-23,400 (3,201-3,600)                   |181 |(400)|
+|                                                153-183 (61-72)                                                 |                     14,300 (2,200) or less                     |109 |(240)|
+|                                                                                                                |                  14,301-16,900 (2,201-2,600)                   |127 |(280)|
+|                                                                                                                |                  16,901-19,500 (2,601-3,000)                   |150 |(330)|
+|                                                                                                                |                  19,501-22,700 (3,001-3,500)                   |172 |(380)|
+|                                                                                                                |                  22,701-25,300 (3,501-3,900)                   |190 |(420)|
+|                                                                                                                |                  25,301-27,900 (3,901-4,300)                   |213 |(470)|
+|**Note:** The procedures for housings with larger surface areas will be evaluated by RUS on a case-by-case basis|                                                                |    |     |
 
 (*2*) The housing shall remain in its original mounting position throughout the test and exhibit no mechanical deformation.
 
@@ -366,7 +360,7 @@ Note: The procedures for housings with larger surface areas will be evaluated by
 
 (B) Polymeric materials shall be tested in accordance with the Underwriters Laboratories Publication (UL) 94, dated June 18, 1991. Materials used in housing components shall have a rating of 94V-0 or 94V-1 and shall not sustain combustion when an open flame source is removed.
 
-(4) *Mechanical requirements for housings* - (i) *Impact resistance.* The test housing shall be subjected to the following impacts according to its minimum volume or minimum width and depth as shown in the following table:
+(4) *Mechanical requirements for housings*—(i) *Impact resistance.* The test housing shall be subjected to the following impacts according to its minimum volume or minimum width and depth as shown in the following table:
 
 |Minimum volume cm<sup>3</sup> (in.<sup>3</sup>)|Minimum width or depth cm (in.)|Impact force|     |
 |-----------------------------------------------|-------------------------------|------------|-----|
@@ -443,13 +437,12 @@ Note: The procedures for housings with larger surface areas will be evaluated by
 
 (viii) *Door restrainer evaluation.* (A) The housing shall be positioned with the door held in the open position by the door restraining device. A load, determined in accordance with the following table, shall be applied to the center of the door, perpendicular to the door and in each of the opening and closing directions.
 
-|Maximum area of door surface cm<sup>2</sup> (in<sup>2</sup>.)|Load  <br/>kg (lb)|
-|-------------------------------------------------------------|------------------|
-|                     5,200 (800) or less                     |     72 (160)     |
-|                5,201 to 9,100 (801 to 1,400)                |    127 (280)     |
-|              9,101 to 13,000 (1,401 to 2,000)               |    181 (400)     |
-
-Note: Test procedures for housings with larger doors will be evaluated by RUS on a case-by-case basis.
+|                      Maximum area of door surface cm<sup>2</sup> (in<sup>2</sup>.)                       |Load  <br/>kg (lb)|
+|----------------------------------------------------------------------------------------------------------|------------------|
+|                                           5,200 (800) or less                                            |     72 (160)     |
+|                                      5,201 to 9,100 (801 to 1,400)                                       |    127 (280)     |
+|                                     9,101 to 13,000 (1,401 to 2,000)                                     |    181 (400)     |
+|**Note:** Test procedures for housings with larger doors will be evaluated by RUS on a case-by-case basis.|                  |
 
 (B) There shall be no functional failure of the restraining device nor mechanical damage to the housing.
 
@@ -457,7 +450,7 @@ Note: Test procedures for housings with larger doors will be evaluated by RUS on
 
 (5) *Electrical requirements for housings.* Each bonding stud and nut location shall be evaluated by attaching one lead from a dc or alternating current (ac) power source to a bonding stud with the nut torqued as specified by its manufacturer and the other power source lead connected to the closure grounding conductor connector. The current path thus established must be capable of sustaining a current of 1,000 amperes root-mean-square for at least 20 seconds without fusing or causing any damage to the closure or its contents.
 
-(6) *Finish requirements* - (i) *Impact resistance.* The finish on painted metal surfaces shall not exhibit radial cracking on the impact surface (intrusion) when indented at 18 N-m (160 lb-in.) with a 1.6 cm (0.6 in.) diameter spherical indentor. This test shall be performed in accordance with ASTM D 2794-92 with the exception that the test panel shall be of the same material, thickness, and finish as the pedestal housing being evaluated.
+(6) *Finish requirements*—(i) *Impact resistance.* The finish on painted metal surfaces shall not exhibit radial cracking on the impact surface (intrusion) when indented at 18 N-m (160 lb-in.) with a 1.6 cm (0.6 in.) diameter spherical indentor. This test shall be performed in accordance with ASTM D 2794-92 with the exception that the test panel shall be of the same material, thickness, and finish as the pedestal housing being evaluated.
 
 (ii) *Finish adhesion.* Painted finishes shall be tested for adhesion of finish in accordance with ASTM D 2197-86 (Reapproved 1991), Method A. There shall be no gouging in the top coat when tested with an 8 kg (17.7 lb) load. Gouging is defined as removal or separation of paint particles or breaking of the finish by the scraping loop to the extent of exposing base metal.
 
@@ -467,7 +460,7 @@ Note: Test procedures for housings with larger doors will be evaluated by RUS on
 
 (v) *Secondary finish evaluation.* Evidence of secondary protection shall be required for RUS acceptance. Typical secondary protection is galvanizing per ASTM A 526/A 526M-90 for steel surfaces.
 
-(f) *Functional design criteria for binding post terminal blocks used in SAI cabinets* - (1) *General description.* A conventional binding post terminal consists of a metallic element or post, one end of which is configured for the permanent connection of 22, 24, or 26 AWG solid copper conductors and the opposite end is configured for recurring connections and disconnections of solid copper cross-connect wire using a threaded screw or stud and nut combination for gripping the wire. The terminal is usually housed in a SAI cabinet. However, the terminal may receive limited use in smaller pedestal-type housings and pole mounted cabinets in the outside plant environment.
+(f) *Functional design criteria for binding post terminal blocks used in SAI cabinets*—(1) *General description.* A conventional binding post terminal consists of a metallic element or post, one end of which is configured for the permanent connection of 22, 24, or 26 AWG solid copper conductors and the opposite end is configured for recurring connections and disconnections of solid copper cross-connect wire using a threaded screw or stud and nut combination for gripping the wire. The terminal is usually housed in a SAI cabinet. However, the terminal may receive limited use in smaller pedestal-type housings and pole mounted cabinets in the outside plant environment.
 
 (2) *Design and fabrication requirements.* (i) Terminal blocks used in outside plant housings are expected to perform satisfactorily for a nominal design life of 30 years.
 
@@ -503,9 +496,9 @@ Note: Test procedures for housings with larger doors will be evaluated by RUS on
 
 (B) The cabinet shall be equipped to store the length of wire in a manner designed for convenient dispensing. The cross-connect wire supply shall be easily replaceable.
 
-(g) *Performance criteria and test procedures for binding post terminal blocks used in SAI cabinets* - (1) *General.* Many of the tests described in this section require that the terminal block be installed in an appropriate housing in its typical field configuration.
+(g) *Performance criteria and test procedures for binding post terminal blocks used in SAI cabinets*—(1) *General.* Many of the tests described in this section require that the terminal block be installed in an appropriate housing in its typical field configuration.
 
-(2) *Environmental requirements* - (i) *Insulation resistance/high humidity and salt fog exposure.* A test specimen shall consist of a standard ground or pole mounted housing equipped with a full complement of binding post terminals equipped with 25 special service markers. The minimum number of terminals to be tested shall be 100 pair (100 tips and 100 associated rings). The test terminals shall be selected to form a terminal array of approximate square dimensions. A 1 cm (36 in.) length of cross-connect wire shall be installed on each test terminal. All tips shall be joined together and all rings shall be joined together with a 48 volt dc potential applied as shown in Figure 12 during the high humidity/salt fog and simulated rain exposures. The 48 volt dc may be temporarily removed from the test samples during the measurement process and the ring terminal being measured shall be isolated from the remaining ring terminals. The terminal insulation resistance shall be measured at a potential of 100 volts dc using suitable instrumentation with a minimum measurement range of 104 to 1012 ohms. Figure 12 is as follows:
+(2) *Environmental requirements*—(i) *Insulation resistance/high humidity and salt fog exposure.* A test specimen shall consist of a standard ground or pole mounted housing equipped with a full complement of binding post terminals equipped with 25 special service markers. The minimum number of terminals to be tested shall be 100 pair (100 tips and 100 associated rings). The test terminals shall be selected to form a terminal array of approximate square dimensions. A 1 cm (36 in.) length of cross-connect wire shall be installed on each test terminal. All tips shall be joined together and all rings shall be joined together with a 48 volt dc potential applied as shown in Figure 12 during the high humidity/salt fog and simulated rain exposures. The 48 volt dc may be temporarily removed from the test samples during the measurement process and the ring terminal being measured shall be isolated from the remaining ring terminals. The terminal insulation resistance shall be measured at a potential of 100 volts dc using suitable instrumentation with a minimum measurement range of 104 to 1012 ohms. Figure 12 is as follows:
 
 ![](/graphics/er21oc94.011.gif)
 
@@ -529,7 +522,7 @@ Note: Test procedures for housings with larger doors will be evaluated by RUS on
 
 (vi) *Encapsulant flow test.* Terminal connection encapsulant must remain stable at 80±1 °C (176±2 °F) when tested in an environmental chamber. Test specimens shall be suspended in a preheated oven over a glass dish or other drip-catching medium for a period of 24 hours. At the end of the test period, the glass dish shall be examined for evidence of flowing or dripping of encapsulant from the cross-connect terminal. More than 0.5 gram of encapsulant in the dish at the end of the test constitutes failure.
 
-(3) *Mechanical requirements* - (i) *Vibration.* A test housing equipped with a full complement of cross-connect terminals and jumper wiring shall be subjected to vibration testing in accordance with paragraph (e)(4)(iii) of this section.
+(3) *Mechanical requirements*—(i) *Vibration.* A test housing equipped with a full complement of cross-connect terminals and jumper wiring shall be subjected to vibration testing in accordance with paragraph (e)(4)(iii) of this section.
 
 (ii) *Torsional capacity of binding posts.* The test specimens shall consist of the complete binding post terminal consisting of the screw or nut, washers if required, and threaded post or stud respectively.
 
@@ -553,7 +546,7 @@ Note: Test procedures for housings with larger doors will be evaluated by RUS on
 
 (4) *Dielectric strength.* All housing components in the vicinity of unsheathed field cable conductors, unsheathed housing stub cable or harness conductors, terminals, or cross-connect wire paths shall have a minimum dielectric strength of 500 volts ac to the cabinet grounding and bonding bracket. Dielectric strength is tested by connecting one lead from a 500-volt ac at 0.5 ampere source to the cabinet ground connector and the other lead is passed along the surfaces of all cabinet components in the vicinity of unsheathed cable or harness conductors, cross-connect wire paths, and in the splice area where unsheathed field cable conductors may be located. Sparkover constitutes failure.
 
-(5) *Operational requirements* - (i) *Durability.* In order to verify the durability requirements while minimizing the number of test housings required to complete the test program, the binding posts selected for tests shall be separately identified and then checked to establish compliance after the various tests have been conducted.
+(5) *Operational requirements*—(i) *Durability.* In order to verify the durability requirements while minimizing the number of test housings required to complete the test program, the binding posts selected for tests shall be separately identified and then checked to establish compliance after the various tests have been conducted.
 
 (ii) Twenty-five jumper connections shall be made on each of two binding post connectors chosen at random from a representative sample in an assembled interface unit. After exposure to this test, these and adjacent connectors shall be inspected for damage such as cracks or chips in metal or plastic parts. Failure consists of structural damage, open circuits through the connector, or inability to pass the torsional, lateral loading, or axial pullout tests described in paragraphs (g)(3)(ii) through (g)(3)(iv) of this section.
 
@@ -561,7 +554,7 @@ Note: Test procedures for housings with larger doors will be evaluated by RUS on
 
 (iv) Use craft tools such as scissors, diagonal cutters, and long nose pliers to loosen and tighten screws where the binding post design does not prohibit the possibility. Failure consists of severe structural damage.
 
-(h) *Functional design criteria for insulation displacement type cross-connect modules used in SAI cabinets* - (1) *General* description. Cross-connect modules normally consist of multiple metallic contact elements that are retained by nonmetallic fixtures. The contact elements are spliced with permanent wire leads compatible for splicing to 22, 24, or 26 gauge cable on one side and configured for the acceptance of recurring connections and disconnections of plastic insulated cross-connect wire on the other side. Cross-connect modules are usually housed in a SAI cabinet. However, modules may receive limited usage in smaller pedestal-type housings and cabinets in the outside plant environment.
+(h) *Functional design criteria for insulation displacement type cross-connect modules used in SAI cabinets*—(1) *General* description. Cross-connect modules normally consist of multiple metallic contact elements that are retained by nonmetallic fixtures. The contact elements are spliced with permanent wire leads compatible for splicing to 22, 24, or 26 gauge cable on one side and configured for the acceptance of recurring connections and disconnections of plastic insulated cross-connect wire on the other side. Cross-connect modules are usually housed in a SAI cabinet. However, modules may receive limited usage in smaller pedestal-type housings and cabinets in the outside plant environment.
 
 (2) *Design and fabrication requirements.* (i) All individual terminals or terminal fields must be enclosed and the terminal enclosures must be totally filled with an encapsulating grease or gel which prevents connection degradation caused by moisture and corrosion. The encapsulant must provide complete encapsulation of terminal metallic connections and surfaces and totally fill all voids and cavities within individual terminal enclosures or terminal field enclosures to prevent ingress of moisture. The encapsulant must not restrict access to the terminal or restrict craft personnel from making connections. The encapsulant must be compatible with the standard materials used in cross-connect hardware and wiring.
 
@@ -583,7 +576,7 @@ Note: Test procedures for housings with larger doors will be evaluated by RUS on
 
 (iii) Housings equipped with, or designed for, cross-connect modules shall contain a supply of cross-connect wire as described in paragraph (f)(3)(iv) of this section.
 
-(i) *Performance criteria and test procedures for insulation displacement type cross-connect modules* - (1) *General.* Many of the tests described in this section require that the cross-connect module be installed in an appropriate housing in its typical field configuration for testing. Resistance measurements should be made with an electrical device which measures changes in resistance for each test parameter measured. The tests specified provide an indication of the stability of the electrical connections under the test conditions encountered.
+(i) *Performance criteria and test procedures for insulation displacement type cross-connect modules*—(1) *General.* Many of the tests described in this section require that the cross-connect module be installed in an appropriate housing in its typical field configuration for testing. Resistance measurements should be made with an electrical device which measures changes in resistance for each test parameter measured. The tests specified provide an indication of the stability of the electrical connections under the test conditions encountered.
 
 (2) *Environmental requirements.* (i) A fully equipped arrangement of cross-connect modules having approximately 25 special service markers shall successfully complete environmental testing in accordance with paragraphs (e)(3) introductory text through (e)(3)(xiii)(B) of this section.
 
@@ -599,7 +592,7 @@ Note: Test procedures for housings with larger doors will be evaluated by RUS on
 
 (vii) *Encapsulant flow test.* The cross-connect contact encapsulant shall drip no more than 0.5 gram when tested by the procedure described in paragraph (g)(2)(vi) of this section.
 
-(3) *Mechanical requirements* - (i) *Vibration.* A housing fully equipped with cross-connect modules shall be vibration tested in accordance with paragraph (g)(3)(i) of this section.
+(3) *Mechanical requirements*—(i) *Vibration.* A housing fully equipped with cross-connect modules shall be vibration tested in accordance with paragraph (g)(3)(i) of this section.
 
 (ii) *Test connector reliability.* The test connectors supplied with housings intended for cross-connect modules shall successfully complete 100 successive connections as described in paragraphs (g)(3)(v) introductory text through (g)(3)(v)(B) of this section.
 
@@ -609,17 +602,17 @@ Note: Test procedures for housings with larger doors will be evaluated by RUS on
 
 (v) *Cable conductor pull-out resistance.* Test modules that have received no prior conditioning shall be equipped with 100 26, 24, and 22 AWG 38 cm (15 in.) cable conductors using the insertion tool recommended by the cross-connect module manufacturer. With the test samples suitably supported, conductors from each sample shall be pulled, one at a time, by a tensile machine at a cross-head speed of 6 cm/min (2.4 in./min). Wires shall be pulled both perpendicular and parallel to the plane of the face of the splice module and shall withstand a load of at least 1.1 kg (2.5 lb) before pulling out.
 
-(4) *Electrical requirements* - (i) *Dielectric strength.* A housing fully equipped with cross-connect modules shall be tested for dielectric strength in accordance with (g)(4) of this section.
+(4) *Electrical requirements*—(i) *Dielectric strength.* A housing fully equipped with cross-connect modules shall be tested for dielectric strength in accordance with (g)(4) of this section.
 
 (ii) The dielectric strength of a contact within the cross-connect module to contacts on either side shall be tested. The module shall be tested in a dry environment with an ac power source capable of supplying 8 kv at a rate of increase of 500 volts per second, a circuit breaker to open at breakdown, and a voltmeter to record the breakdown potential. Cross-connect modules shall be prepared in accordance with industry accepted splicing techniques with leads trimmed to approximately 38 cm (15 in.). The dielectric strength of each contact to the contacts on either side shall have an average dielectric strength of approximately 5.0 kv.
 
-(5) *Operational requirements* - (i) *Durability.* In order to verify the durability requirements while minimizing the number of test housings required to complete the test program, the contacts selected for tests shall be separately identified and then checked to establish compliance after the various tests have been conducted.
+(5) *Operational requirements*—(i) *Durability.* In order to verify the durability requirements while minimizing the number of test housings required to complete the test program, the contacts selected for tests shall be separately identified and then checked to establish compliance after the various tests have been conducted.
 
 (ii) Twenty-five jumper connections shall be made on each of two contacts chosen at random from a representative sample in an assembled interface unit. After this test, these and surrounding contacts shall be inspected for damage such as cracks or chips in metal or plastic parts. Failure consists of structural damage, open circuits through the connector, or inability to pass the jumper wire pullout tests described in paragraph (i)(3)(iv) of this section.
 
 (iii) Select six contacts at random in a representative interface. On each of these contacts attach any test cord included with the unit as specified under normal use of that cord and then remove the test cord as follows. On sample 1, remove the cord normally ten times. On sample 2, remove the clip ten times by jerking the test leads straight out. In these and the remaining tests, do this without releasing any manual attachment mechanisms. On sample 3, remove ten times by jerking downward at 45 °from horizontal; sample 4, upward 45 °ten times; sample 5, left 45 °ten times; sample 6, right 45 °ten times. Check for opens and damage in the test cord, clips, and cross-connect modules. Failure consists of structural damage, open circuits through the connector, or inability of module to pass the test connector reliability, jumper wire pullout, and dielectric strength tests described in paragraphs (i)(3)(ii), (i)(3)(iv), and (i)(4)(ii) of this section.
 
-(j) *Packaging and identification requirements* - (1) *Product identification.* (i) Each housing, terminal block, or cross-connect module shall be permanently marked with the manufacturer's name or trade mark.
+(j) *Packaging and identification requirements*—(1) *Product identification.* (i) Each housing, terminal block, or cross-connect module shall be permanently marked with the manufacturer's name or trade mark.
 
 (ii) The date of manufacture, model number, serial number and RUS assigned designations shall be placed on a decal inside housings. The product identification nomenclature must correspond with the nomenclature used in the manufacturer's quality assurance program.
 

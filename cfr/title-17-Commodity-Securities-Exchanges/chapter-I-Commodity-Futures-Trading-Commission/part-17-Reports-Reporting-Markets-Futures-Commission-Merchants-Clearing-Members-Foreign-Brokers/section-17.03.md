@@ -10,10 +10,12 @@ The Commission hereby delegates, until the Commission orders otherwise, the auth
 
 (d) Pursuant to § 17.00(a), the authority shall be designated to the Director of the Office of Data and Technology to approve a format and coding structure other than that set forth in § 17.00(g).
 
-(e) Pursuant to § 17.01(c), the authority shall be designated to the Director of the Office of Data and Technology to make special calls on omnibus volume threshold account originators and omnibus reportable sub-account originators for information as set forth in § 17.01(c).
+(e) Pursuant to § 17.01(c), the authority shall be designated to the Director of the Office of Data and Technology, in consultation with the Director of the Division of Market Oversight, or such other employee or employees as the Directors each may designate from time to time, to make special calls on Form 71 for omnibus volume threshold account originators and omnibus reportable sub-account originators information as set forth in § 17.01(c).
 
-(f) Pursuant to § 17.02(b)(4), the authority shall be designated to the Director of the Division of Market Oversight to determine the date on which each futures commission merchant, clearing member, or foreign broker shall update or otherwise resubmit every Form 102 that it has submitted to the Commission for each of its special accounts.
+(f) Pursuant to § 17.01(e), the authority shall be designated to the Director of the Office of Data and Technology, in consultation with the Director of the Division of Market Oversight, or such other employee or employees as the Directors each may designate from time to time, to request information required to be filed by futures commission merchants, clearing members, foreign brokers, and reporting markets as set forth in § 17.01.
 
-(g) Pursuant to § 17.02(c)(4), the authority shall be designated to the Director of the Division of Market Oversight to determine the date on which each clearing member shall update or otherwise resubmit every Form 102 that it has submitted to the Commission for each of its volume threshold accounts.
+(g) Pursuant to § 17.02(b)(4), the authority shall be designated to the Director of the Division of Market Oversight to determine the date on which each futures commission merchant, clearing member, or foreign broker shall update or otherwise resubmit every Form 102 that it has submitted to the Commission for each of its special accounts.
 
-[78 FR 69232, Nov. 18, 2013]
+(h) Pursuant to § 17.02(c)(4), the authority shall be designated to the Director of the Division of Market Oversight to determine the date on which each clearing member shall update or otherwise resubmit every Form 102 that it has submitted to the Commission for each of its volume threshold accounts.
+
+[78 FR 69232, Nov. 18, 2013, as amended at 82 FR 28768, June 26, 2017]

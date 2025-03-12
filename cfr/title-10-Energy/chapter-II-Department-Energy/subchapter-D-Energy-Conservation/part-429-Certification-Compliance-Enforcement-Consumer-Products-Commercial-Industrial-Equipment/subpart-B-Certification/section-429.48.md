@@ -2,11 +2,11 @@
 
 (a) *Sampling plan for selection of units for testing.* (1) The requirements of § 429.11 are applicable to illuminated exit signs; and
 
-(2) For each basic model of illuminated exit sign selected for testing, a sample of sufficient size shall be randomly selected and tested to ensure that -
+(2) For each basic model of illuminated exit sign selected for testing, a sample of sufficient size shall be randomly selected and tested to ensure that—
 
 (i) Any represented value of input power demand or other measure of energy consumption of a basic model for which consumers would favor lower values shall be greater than or equal to the higher of:
 
-(A)The mean of the sample, where:
+(A) The mean of the sample, where:
 
 ![](/graphics/er07mr11.114.gif)Or,
 

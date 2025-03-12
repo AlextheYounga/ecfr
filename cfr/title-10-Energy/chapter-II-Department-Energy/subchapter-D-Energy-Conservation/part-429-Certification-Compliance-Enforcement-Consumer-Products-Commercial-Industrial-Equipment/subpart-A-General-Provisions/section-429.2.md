@@ -1,6 +1,6 @@
 ##### § 429.2 Definitions. #####
 
-Link to an amendment published at 82 FR 1099, Jan. 4, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 8985, Feb. 2, 2017.This amendment was further delayed until July 3, 2017, at 82 FR 14426, Mar. 21, 2017.
+Link to an amendment published at 82 FR 1099, Jan. 4, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 8985, Feb. 2, 2017.This amendment was further delayed until July 3, 2017 at 82 FR 14426, Mar. 21, 2017.
 
 (a) The definitions found in §§ 430.2, 431.2, 431.62, 431.72, 431.82, 431.92, 431.102, 431.132, 431.152, 431.172, 431.192, 431.202, 431.222, 431.242, 431.262, 431.282, 431.292, 431.302, 431.322, 431.442 and 431.462 of this chapter apply for purposes of this part.
 

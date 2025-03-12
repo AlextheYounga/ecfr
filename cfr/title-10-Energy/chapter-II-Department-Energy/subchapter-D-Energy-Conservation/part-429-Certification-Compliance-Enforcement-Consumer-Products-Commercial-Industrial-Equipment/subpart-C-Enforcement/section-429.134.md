@@ -1,6 +1,6 @@
 ##### § 429.134 Product-specific enforcement provisions. #####
 
-Link to an amendment published at 81 FR 95800, Dec. 28, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 8805, Jan. 31, 2017.This amendment was further delayed until June 26, 2017, at 82 FR 14426, Mar. 21, 2017.Link to an amendment published at 82 FR 1100, Jan. 4, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 8985, Feb. 2, 2017.This amendment was further delayed until July 3, 2017, at 82 FR 14426, Mar. 21, 2017.
+Link to an amendment published at 82 FR 1100, Jan. 4, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 8985, Feb. 2, 2017.This amendment was further delayed until July 3, 2017 at 82 FR 14426, Mar. 21, 2017.
 
 (a) *General.* The following provisions apply to assessment and enforcement testing of the relevant products and equipment.
 
@@ -176,4 +176,22 @@ Link to an amendment published at 81 FR 95800, Dec. 28, 2016.This amendment was 
 
 (2) [Reserved]
 
-[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016]
+(p) [Reserved]
+
+(q) *Walk-in coolers and walk-in freezers.* (1) If DOE determines that a basic model of a panel, door, or refrigeration system for walk-in coolers or walk-in freezers fails to meet an applicable energy conservation standard, then the manufacturer of that basic model is responsible for the noncompliance. If DOE determines that a complete walk-in cooler or walk-in freezer or component thereof fails to meet an applicable energy conservation standard, then the manufacturer of that walk-in cooler or walk-in freezer is responsible for the noncompliance with the applicable standard, except that the manufacturer of a complete walk-in cooler or walk-in freezer is not responsible for the use of components that were certified and labeled (in accordance with DOE labeling requirements) as compliant by another party and later found to be noncompliant with the applicable standard(s).
+
+(2) *Verification of refrigeration system net capacity.* The net capacity of the refrigeration system basic model will be measured pursuant to the test requirements of 10 CFR part 431, subpart R, appendix C for each unit tested. The results of the measurement(s) will be averaged and compared to the value of net capacity certified by the manufacturer. The certified net capacity will be considered valid only if the average measured net capacity is within plus or minus five percent of the certified net capacity.
+
+(i) If the certified net capacity is found to be valid, the certified net capacity will be used as the basis for calculating the AWEF of the basic model.
+
+(ii) If the certified net capacity is found to be invalid, the average measured net capacity will serve as the basis for calculating the annual energy consumption for the basic model.
+
+(3) *Verification of door surface area.* The surface area of a display door or non-display door basic model will be measured pursuant to the requirements of 10 CFR part 431, subpart R, appendix A for each unit tested. The results of the measurement(s) will be averaged and compared to the value of the surface area certified by the manufacturer. The certified surface area will be considered valid only if the average measured surface area is within plus or minus three percent of the certified surface area.
+
+(i) If the certified surface area is found to be valid, the certified surface area will be used as the basis for calculating the maximum energy consumption (kWh/day) of the basic model.
+
+(ii) If the certified surface area is found to be invalid, the average measured surface area will serve as the basis for calculating the maximum energy consumption (kWh/day) of the basic model.
+
+(4) For each basic model of walk-in cooler and walk-in freezer door, DOE will calculate the door's energy consumption using the power listed on the nameplate of each electricity consuming device shipped with the door. If an electricity consuming device shipped with a walk-in door does not have a nameplate or such nameplate does not list the device's power, then DOE will use the device's “rated power” included in the door's certification report.
+
+[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016]

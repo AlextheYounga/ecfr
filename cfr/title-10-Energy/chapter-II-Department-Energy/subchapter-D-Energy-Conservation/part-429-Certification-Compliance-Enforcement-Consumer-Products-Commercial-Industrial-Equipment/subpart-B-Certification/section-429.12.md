@@ -1,7 +1,5 @@
 ##### § 429.12 General requirements applicable to certification reports. #####
 
-Link to an amendment published at 81 FR 95798, Dec. 28, 2016.This amendment was delayed until Mar. 21, 2017, at 82 FR 8805, Jan. 31, 2017.This amendment was further delayed until June 26, 2017, at 82 FR 14426, Mar. 21, 2017.
-
 (a) *Certification.* Each manufacturer, before distributing in commerce any basic model of a covered product or covered equipment subject to an applicable energy conservation standard set forth in parts 430 or 431, and annually thereafter on or before the dates provided in paragraph (d) of this section, shall submit a certification report to DOE certifying that each basic model meets the applicable energy conservation standard(s). The certification report(s) must be submitted to DOE in accordance with the submission procedures of paragraph (h) of this section.
 
 (b) *Certification report.* A certification report shall include a compliance statement (see paragraph (c) of this section), and for each basic model, the information listed in this paragraph (b).
@@ -16,7 +14,7 @@ Link to an amendment published at 81 FR 95798, Dec. 28, 2016.This amendment was 
 
 (5) Brand name;
 
-(6) For each brand, the basic model number and the manufacturer's individual model number(s) in that basic model with the following exceptions: For external power supplies that are certified based on design families, the design family model number and the individual manufacturer's model numbers covered by that design family must be submitted for each brand. For walk-in coolers, the basic model number for each brand must be submitted. For distribution transformers, the basic model number or kVA grouping model number (depending on the certification method) for each brand must be submitted. For commercial HVAC, WH, and refrigeration equipment, an individual manufacturer model number may be identified as a “private model number” if it meets the requirements of § 429.7(b).
+(6) For each brand, the basic model number and the manufacturer's individual model number(s) in that basic model with the following exceptions: For external power supplies that are certified based on design families, the design family model number and the individual manufacturer's model numbers covered by that design family must be submitted for each brand. For distribution transformers, the basic model number or kVA grouping model number (depending on the certification method) for each brand must be submitted. For commercial HVAC, WH, and refrigeration equipment, an individual manufacturer model number may be identified as a “private model number” if it meets the requirements of § 429.7(b).
 
 (7) Whether the submission is for a new model, a discontinued model, a correction to a previously submitted model, data on a carryover model, or a model that has been found in violation of a voluntary industry certification program;
 
@@ -78,4 +76,4 @@ Link to an amendment published at 81 FR 95798, Dec. 28, 2016.This amendment was 
 
 (5) Small, large, or very large air-cooled, water-cooled, evaporatively-cooled, and water-source commercial air conditioning and heating equipment, single package vertical units, computer room air conditioners, commercial packaged boilers with input capacities greater than 2.5 million Btu/h, and all other types of commercial refrigeration equipment except those specified in paragraph (i)(3) of this section, July 1, 2015.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24762, May 2, 2011, as amended at 76 FR 38292, June 30, 2011; 76 FR 65365, Oct. 21, 2011; 77 FR 76830, Dec. 31, 2012; 78 FR 79593, Dec. 31, 2013; 79 FR 25500, May 5, 2014; 79 FR 38208, July 3, 2014; 81 FR 4430, Jan. 26, 2016; 81 FR 37049, June 8, 2016; 81 FR 43425, July 1, 2016; 81 FR 46789, July 18, 2016; 81 FR 59415, Aug. 29, 2016]
+[76 FR 12451, Mar. 7, 2011; 76 FR 24762, May 2, 2011, as amended at 76 FR 38292, June 30, 2011; 76 FR 65365, Oct. 21, 2011; 77 FR 76830, Dec. 31, 2012; 78 FR 79593, Dec. 31, 2013; 79 FR 25500, May 5, 2014; 79 FR 38208, July 3, 2014; 81 FR 4430, Jan. 26, 2016; 81 FR 37049, June 8, 2016; 81 FR 43425, July 1, 2016; 81 FR 46789, July 18, 2016; 81 FR 59415, Aug. 29, 2016; 81 FR 95798, Dec. 28, 2016]

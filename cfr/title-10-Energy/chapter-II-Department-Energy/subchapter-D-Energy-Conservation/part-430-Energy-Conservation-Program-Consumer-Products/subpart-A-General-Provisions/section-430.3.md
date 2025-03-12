@@ -1,6 +1,6 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-Link to an amendment published at 82 FR 1475, Jan. 5, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 8985, Feb. 2, 2017.This amendment was further delayed until July 3, 2017, at 82 FR 14425, Mar. 21, 2017.
+Link to an amendment published at 82 FR 1475, Jan. 5, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 8985, Feb. 2, 2017.This amendment was further delayed until July 3, 2017 at 82 FR 14425, Mar. 21, 2017.
 
 (a) *General.* We incorporate by reference the following standards into part 430. The material listed has been approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Any subsequent amendment to a standard by the standard-setting organization will not affect the DOE regulations unless and until amended by DOE. Material is incorporated as it exists on the date of the approval and a notice of any change in the material will be published in the Federal Register. All approved material is available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* Also, this material is available for inspection at U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, 6th Floor, 950 L'Enfant Plaza, SW., Washington, DC 20024, (202) 586-2945, or go to: *http://www1.eere.energy.gov/buildings/appliance\_standards/.* Standards can be obtained from the sources below.
 
@@ -276,11 +276,11 @@ Link to an amendment published at 82 FR 1475, Jan. 5, 2017.This amendment was de
 
 (iii) Section 7 - Cooking zones and cooking areas, Section 7.1 - Energy consumption and heating up time, (excluding 7.1.Z1, 7.1.Z5, 7.1.Z7);
 
-(iv)Annex ZA - Further requirements for measuring the energy consumption and heating up time for cooking areas;
+(iv) Annex ZA - Further requirements for measuring the energy consumption and heating up time for cooking areas;
 
 (v) Annex ZB - Aids for measuring the energy consumption;
 
-(vi)Annex ZC - Examples how to select and position a cookware set for measuring the heating up time (7.1.Z5) and energy consumption (7.1.Z6);
+(vi) Annex ZC - Examples how to select and position a cookware set for measuring the heating up time (7.1.Z5) and energy consumption (7.1.Z6);
 
 (vii) Annex ZD - Example - Multiple zones; and
 

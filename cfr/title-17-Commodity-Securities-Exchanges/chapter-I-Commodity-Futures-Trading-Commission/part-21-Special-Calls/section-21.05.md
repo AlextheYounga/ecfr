@@ -1,5 +1,5 @@
-##### § 21.05 Delegation of authority to the Director of the Division of Market Oversight. #####
+##### § 21.05 Delegation of authority. #####
 
-The Commission hereby delegates, until the Commission orders otherwise, the special call authority set forth in §§ 21.01 and 21.02 to the Director of the Division of Market Oversight to be exercised by such Director or by such other employee or employees of such Director as designated from time to time by the Director. The Director of the Division of Market Oversight may submit to the Commission for its consideration any matter which has been delegated in this paragraph. Nothing in this section shall be deemed to prohibit the Commission, at its election, from exercising the authority delegated in this section to the Director.
+The Commission hereby delegates, until the Commission orders otherwise, the special call authority set forth in §§ 21.01 and 21.02 to the Director of the Division of Enforcement, or such other employee or employees as the Director may designate from time to time. The Director of the Division of Enforcement may submit to the Commission for its consideration any matter which has been delegated in this paragraph. Nothing in this section shall be deemed to prohibit the Commission, at its election, from exercising the authority delegated in this section.
 
-[74 FR 12193, Mar. 23, 2009. Redesignated at 76 FR 69430, Nov. 8, 2011]
+[82 FR 28769, June 26, 2017]

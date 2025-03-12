@@ -1,6 +1,6 @@
 ##### § 429.16 Central air conditioners and central air conditioning heat pumps. #####
 
-Link to an amendment published at 82 FR 1468, Jan. 5, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 8985, Feb. 2, 2017.This amendment was further delayed until July 3, 2017, at 82 FR 14425, Mar. 21, 2017.
+Link to an amendment published at 82 FR 1468, Jan. 5, 2017.This amendment was delayed until Mar. 21, 2017, at 82 FR 8985, Feb. 2, 2017.This amendment was further delayed until July 3, 2017 at 82 FR 14425, Mar. 21, 2017.
 
 (a) *Determination of Represented Value* - (1) *Required represented values.* Determine the represented values (including SEER, EER, HSPF, PW,OFF, cooling capacity, and heating capacity, as applicable) for the individual models/combinations (or “tested combinations”) specified in the following table.
 
