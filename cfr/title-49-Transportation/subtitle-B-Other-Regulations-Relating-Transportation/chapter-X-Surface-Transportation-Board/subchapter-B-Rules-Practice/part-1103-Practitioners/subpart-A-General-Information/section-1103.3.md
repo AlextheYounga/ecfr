@@ -1,5 +1,7 @@
 ##### § 1103.3 Persons not attorneys-at-law - qualifications and requirements for practice before the Board. #####
 
+Link to an amendment published at 83 FR 15078, Apr. 9, 2018.
+
 (a) *In general.* Any citizen or resident of the United States, not an attorney-at-law, who files an application for admission to practice, accompanied by the payment of the fee prescribed by rule or order of the Board, and who successfully completes the practitioners' examination, and shows that applicant possesses the necessary legal and technical qualifications to enable applicant to render valuable service before the Board and that applicant is competent to advise and assist in the presentation of matters before the Board, may be permitted to practice before the Board.
 
 (b) *Qualifications standards.* A non-attorney applicant for admission to practice must meet one of the following requirements:

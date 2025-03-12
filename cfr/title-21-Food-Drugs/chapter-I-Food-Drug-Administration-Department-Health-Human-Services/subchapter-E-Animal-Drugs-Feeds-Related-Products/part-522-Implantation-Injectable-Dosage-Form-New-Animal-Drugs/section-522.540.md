@@ -1,7 +1,5 @@
 ##### § 522.540 Dexamethasone solution. #####
 
-Link to an amendment published at 83 FR 13635, Mar. 30, 2018.
-
 (a)(1) *Specifications.* Each milliliter of solution contains 2 milligrams (mg) dexamethasone.
 
 (2) *Sponsors.* See sponsors in § 510.600(c) of this chapter:
@@ -30,11 +28,7 @@ Link to an amendment published at 83 FR 13635, Mar. 30, 2018.
 
 (b)(1) *Specifications.* Each milliliter of solution contains 2.0 mg of dexamethasone or 4.0 mg of dexamethasone sodium phosphate (equivalent to 3.0 mg dexamethasone).
 
-(2) *Sponsor.* See number in § 510.600(c) of this chapter as follows:
-
-(i) No. 061623 for use of 2.0 milligrams dexamethasone or 4.0 milligrams dexamethasone sodium phosphate injections.
-
-(ii) No. 000402 for use of 2.0 milligrams dexamethasone or 4.0 milligrams dexamethasone sodium phosphate injections.
+(2) *Sponsor.* See No. 061623 in § 510.600(c) of this chapter.
 
 (3) *Conditions of use* - (i) *Amount.* Administer 0.25 to 1 mg by intravenous injection, repeated for 3 to 5 days or until a response is noted.
 
@@ -44,7 +38,7 @@ Link to an amendment published at 83 FR 13635, Mar. 30, 2018.
 
 (c)(1) *Specifications.* Each milliliter of solution contains 2.0 mg of dexamethasone or 4.0 mg of dexamethasone sodium phosphate (equivalent to 3.0 mg of dexamethasone).
 
-(2) *Sponsor.* See Nos. 000402 and 061623 in § 510.600(c) of this chapter.
+(2) *Sponsor.* See No. 061623 in § 510.600(c) of this chapter.
 
 (3) *Conditions of use* - (i) *Amount.* Administer 2.5 to 5.0 mg by intravenous injection.
 

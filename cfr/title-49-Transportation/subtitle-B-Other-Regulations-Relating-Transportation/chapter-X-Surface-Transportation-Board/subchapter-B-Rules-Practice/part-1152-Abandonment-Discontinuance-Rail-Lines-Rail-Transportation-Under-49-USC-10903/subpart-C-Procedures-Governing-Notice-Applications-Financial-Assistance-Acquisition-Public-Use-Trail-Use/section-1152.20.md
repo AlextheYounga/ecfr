@@ -1,5 +1,7 @@
 ##### § 1152.20 Notice of intent to abandon or discontinue service. #####
 
+Link to an amendment published at 83 FR 15079, Apr. 9, 2018.
+
 (a) *Filing and publication requirements.* An applicant shall give Notice of Intent to file an abandonment or discontinuance application by complying with the following procedures:
 
 (1) *Filing.* Applicant must serve its Notice of Intent on the Board, by certified letter, in the format prescribed in § 1152.21. The Notice shall be filed in accordance with the time requirements of paragraph (b) of this section.

@@ -1,5 +1,7 @@
 ##### § 1182.3 Filing the application. #####
 
+Link to an amendment published at 83 FR 15080, Apr. 9, 2018.
+
 (a) Each application shall be filed with the Board, complying with the requirements set forth at 49 CFR 1182.8.
 
 (1) One copy of the application shall be delivered, by first-class mail, to the appropriate regulatory body in each State in which intrastate operations are affected by the transaction.

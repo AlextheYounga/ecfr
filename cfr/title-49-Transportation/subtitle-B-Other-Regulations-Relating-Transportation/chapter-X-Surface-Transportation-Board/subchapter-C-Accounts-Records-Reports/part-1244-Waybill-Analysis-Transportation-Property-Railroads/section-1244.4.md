@@ -1,5 +1,7 @@
 ##### § 1244.4 Sampling of waybills. #####
 
+Link to an amendment published at 83 FR 15080, Apr. 9, 2018.
+
 (a) Subject railroads shall file waybill sample information in one of the following two ways. (1) Authenticated copies of a sample of audited revenue waybills - the manual system (§ 1244.3(b)). (2) A computer tape containing specified information from a sample of waybills - the computerized system (§ 1244.3(c)).
 
 (b) *The Manual System.* (1) The sample of subject waybills shall be as follows:

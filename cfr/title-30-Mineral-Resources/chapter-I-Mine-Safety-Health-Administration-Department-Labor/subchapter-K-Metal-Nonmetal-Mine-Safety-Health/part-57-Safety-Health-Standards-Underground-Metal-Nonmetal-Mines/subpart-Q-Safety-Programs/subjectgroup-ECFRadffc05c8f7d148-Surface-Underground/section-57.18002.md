@@ -1,5 +1,7 @@
 ##### § 57.18002 Examination of working places. #####
 
+Link to an amendment published at 83 FR 15065, April 9, 2018.
+
 (a) A competent person designated by the operator shall examine each working place at least once each shift before miners begin work in that place, for conditions that may adversely affect safety or health.
 
 (1) The operator shall promptly notify miners in any affected areas of any conditions found that may adversely affect safety or health and promptly initiate appropriate action to correct such conditions.

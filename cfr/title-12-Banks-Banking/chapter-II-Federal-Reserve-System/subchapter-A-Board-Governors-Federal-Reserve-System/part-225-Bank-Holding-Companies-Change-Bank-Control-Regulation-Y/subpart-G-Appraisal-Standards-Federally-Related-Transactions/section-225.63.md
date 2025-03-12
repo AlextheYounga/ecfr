@@ -36,17 +36,19 @@
 
 (11) The regulated institution is acting in a fiduciary capacity and is not required to obtain an appraisal under other law;
 
-(12) The transaction involves underwriting or dealing in mortgage-backed securities; or
+(12) The transaction involves underwriting or dealing in mortgage-backed securities;
 
-(13) The Board determines that the services of an appraiser are not necessary in order to protect Federal financial and public policy interests in real estate-related financial transactions or to protect the safety and soundness of the institution.
+(13) The Board determines that the services of an appraiser are not necessary in order to protect Federal financial and public policy interests in real estate-related financial transactions or to protect the safety and soundness of the institution; or
 
-(b) *Evaluations required.* For a transaction that does not require the services of a State certified or licensed appraiser under paragraph (a)(1), (a)(5) or (a)(7) of this section, the institution shall obtain an appropriate evaluation of real property collateral that is consistent with safe and sound banking practices.
+(14) The transaction is a commercial real estate transaction that has a transaction value of $500,000 or less.
+
+(b) *Evaluations required.* For a transaction that does not require the services of a State certified or licensed appraiser under paragraph (a)(1), (a)(5), (a)(7), or (a)(14) of this section, the institution shall obtain an appropriate evaluation of real property collateral that is consistent with safe and sound banking practices.
 
 (c) *Appraisals to address safety and soundness concerns.* The Board reserves the right to require an appraisal under this subpart whenever the agency believes it is necessary to address safety and soundness concerns.
 
 (d) *Transactions requiring a State certified appraiser* - (1) *All transactions of $1,000,000 or more.* All federally related transactions having a transaction value of $1,000,000 or more shall require an appraisal prepared by a State certified appraiser.
 
-(2) *Nonresidential transactions of $250,000 or more.* All federally related transactions having a transaction value of $250,000 or more, other than those involving appraisals of 1-to-4 family residential properties, shall require an appraisal prepared by a State certified appraiser.
+(2) *Commercial real estate transactions of more than $500,000.* All federally related transactions that are commercial real estate transactions having a transaction value of more than $500,000 shall require an appraisal prepared by a State certified appraiser.
 
 (3) *Complex residential transactions of $250,000 or more.* All complex 1-to-4 family residential property appraisals rendered in connection with federally related transactions shall require a State certified appraiser if the transaction value is $250,000 or more. A regulated institution may presume that appraisals of 1-to-4 family residential properties are not complex, unless the institution has readily available information that a given appraisal will be complex. The regulated institution shall be responsible for making the final determination of whether the appraisal is complex. If during the course of the appraisal a licensed appraiser identifies factors that would result in the property, form of ownership, or market conditions being considered atypical, then either:
 
@@ -56,4 +58,4 @@
 
 (e) *Transactions requiring either a State certified or licensed appraiser.* All appraisals for federally related transactions not requiring the services of a State certified appraiser shall be prepared by either a State certified appraiser or a State licensed appraiser.
 
-[Reg. Y, 55 FR 27771, July 5, 1990, as amended at 58 FR 15077, Mar. 19, 1993; 59 FR 29500, June 7, 1994; 63 FR 65532, Nov. 27, 1998]
+[Reg. Y, 55 FR 27771, July 5, 1990, as amended at 58 FR 15077, Mar. 19, 1993; 59 FR 29500, June 7, 1994; 63 FR 65532, Nov. 27, 1998; 83 FR 15035, Apr. 9, 2018]

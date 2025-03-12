@@ -1,5 +1,7 @@
 ##### § 1105.12 Sample newspaper notices for abandonment exemption cases. #####
 
+Link to an amendment published at 83 FR 15078, Apr. 9, 2018.
+
 In every abandonment exemption case, the applicant shall publish a notice in a newspaper of general circulation in each county in which the line is located and certify to the Board that it has done this by the date its notice of (or petition for) exemption is filed. The notice shall alert the public to the proposed abandonment, to available reuse alternatives, such as trail use and public use, and to how it may participate in a Board proceeding. Sample newspaper notices are provided in the Appendix to this section for guidance to the railroads.
 
 Appendix to § 1105.12 - Sample Newspaper NoticesSample Local Newspaper Notice for Out-Of-Service Abandonment ExemptionsNotice of Intent To Abandon or To Discontinue Rail Service

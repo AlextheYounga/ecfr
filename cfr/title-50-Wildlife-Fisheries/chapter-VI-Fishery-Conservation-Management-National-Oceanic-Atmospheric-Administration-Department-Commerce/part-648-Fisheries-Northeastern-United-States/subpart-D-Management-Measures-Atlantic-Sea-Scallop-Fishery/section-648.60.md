@@ -51,17 +51,17 @@
 
 (2) *Season.* A vessel issued a scallop permit may not fish for, possess, or land scallops in or from the area known as the Elephant Trunk Flex Scallop Rotational Area, defined in paragraph (b)(1) of this section, during the period of July 1 through September 30 of each year the Elephant Trunk Flex Scallop Rotational Area is open to scallop vessels, unless transiting pursuant to § 648.59(a).
 
-(c) *Closed Area I Scallop Rotational Area.* (1) The Closed Area I Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request), and so that the line connecting points CAIA3 and CAIA4 is the same as the portion of the western boundary line of Closed Area I, defined in § 648.81(a)(1), that lies between points CAIA3 and CAIA4:
+(c) *Closed Area I Scallop Rotational Area.* (1) The Closed Area I Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request), and so that the line connecting points CAIA3 and CAIA4 is the same as the portion of the western boundary line of Closed Area I, defined in § 648.61(c)(3), that lies between points CAIA3 and CAIA4:
 
-|Point| Latitude  | Longitude |     Note     |
+|Point|  N lat.   |  W long.  |     Note     |
 |-----|-----------|-----------|--------------|
-|CAIA1| 41°26′ N  | 68°30′ W. |              |
-|CAIA2| 40°58′ N  | 68°30′ W. |              |
+|CAIA1| 41°26′ N  | 68°30′ W  |              |
+|CAIA2| 40°58′ N  | 68°30′ W  |              |
 |CAIA3|40°54.95′ N|68°53.37′ W|(<sup>1</sup>)|
-|CAIA4| 41°04′ N  | 69°01′ W. |(<sup>1</sup>)|
-|CAIA1| 41°26′ N  | 68°30′ W. |              |
+|CAIA4| 41°04′ N  | 69°01′ W  |(<sup>1</sup>)|
+|CAIA1| 41°26′ N  | 68°30′ W  |              |
 
-<sup>1</sup> From Point CAIA3 to Point CAIA4 along the western boundary of Closed Area I, defined in § 648.81(a)(1).
+<sup>1</sup> From Point CAIA3 to Point CAIA4 along the western boundary of Closed Area I, defined in § 648.61(c)(3).
 
 (d) *Closed Area II Scallop Rotational Area.* (1) The Closed Area II Scallop Rotational Area is defined by straight lines, except where noted, connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
 
@@ -111,4 +111,4 @@
 |NLAA6|40°20′ N|69°30′ W.|
 |NLAA1|40°50′ N|69°30′ W.|
 
-[81 FR 76528, Nov. 3, 2016, as amended at 82 FR 15163, Mar. 27, 2017]
+[81 FR 76528, Nov. 3, 2016, as amended at 82 FR 15163, Mar. 27, 2017; 83 FR 15263, Apr. 9, 2018]

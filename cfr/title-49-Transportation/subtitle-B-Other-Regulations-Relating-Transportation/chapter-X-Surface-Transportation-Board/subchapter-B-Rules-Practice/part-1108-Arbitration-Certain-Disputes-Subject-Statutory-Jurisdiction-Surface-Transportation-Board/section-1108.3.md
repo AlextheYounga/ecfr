@@ -1,5 +1,7 @@
 ##### § 1108.3 Participation in the Board's arbitration program. #####
 
+Link to an amendment published at 83 FR 15078, Apr. 9, 2018.
+
 (a) *Opt-in procedures.* Any rail carrier, shipper, or other party eligible to bring or defend disputes before the Board may at any time voluntarily choose to opt into the Board's arbitration program. Opting in may be for a particular dispute or for all potential disputes before the Board unless and until the party exercises the opt-out procedures discussed in § 1108.3(b). To opt in parties may:
 
 (1) File a notice with the Board, under Docket No. EP 699, advising the Board of the party's intent to participate in the arbitration program. Such notice may be filed at any time and shall be effective upon receipt by the Board.

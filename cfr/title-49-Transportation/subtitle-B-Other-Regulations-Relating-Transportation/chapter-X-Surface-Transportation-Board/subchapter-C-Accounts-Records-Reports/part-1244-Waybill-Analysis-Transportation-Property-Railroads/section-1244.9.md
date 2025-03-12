@@ -1,5 +1,7 @@
 ##### § 1244.9 Procedures for the release of waybill data. #####
 
+Link to an amendment published at 83 FR 15080, Apr. 9, 2018.
+
 (a) *General.* The procedures for the release of waybill data identify five classes of users of the STB Waybill Sample, define the waybill information or data that each class of users may obtain, and set forth the applicable requirements for the data's release. They also formalize notice and protest procedures for the possible release of waybill data to other users to protect against the inappropriate release of confidential data. The Director of the Office of Economics shall be responsible for releasing waybill data in accordance with these procedures.
 
 (b) *Class of user, available data, and applicable release requirements* - (1) *Railroads.* Each requesting railroad may obtain any waybill record from the STB Waybill Sample covering traffic that originated, terminated, or was bridged by that railroad. The railroad shall not have access to waybill data pertaining to traffic in which it did not participate. Also, it must meet all STB and legal requirements concerning release of shipper information in accordance with 49 U.S.C. 11910(a).

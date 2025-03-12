@@ -1,5 +1,7 @@
 ##### § 1105.10 Board procedures. #####
 
+Link to an amendment published at 83 FR 15078, Apr. 9, 2018.
+
 (a) *Environmental Impact Statements* - (1) *Prefiling Notice.* Where an environmental impact statement is required or contemplated, the prospective applicant must provide the Section of Environmental Analysis with written notice of its forthcoming proposal at least 6 months prior to filing its application.
 
 (2) *Notice and scope of EIS.* When an Environmental Impact Statement is prepared for a proposed action, the Board will publish in the Federal Register a notice of its intent to prepare an EIS, with a description of the proposed action and a request for written comments on the scope of the EIS. Where appropriate, the scoping process may include a meeting open to interested parties and the public. After considering the comments, the Board will publish a notice of the final scope of the EIS. If the Environmental Impact Statement is to be prepared in cooperation with other agencies, this notice will also indicate which agencies will be responsible for the various parts of the Statement.

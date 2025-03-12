@@ -1,5 +1,7 @@
 ##### § 1152.21 Form of notice. #####
 
+Link to an amendment published at 83 FR 15079, Apr. 9, 2018.
+
 The Notice of Intent to abandon or to discontinue service shall be in the following form:
 
 STB No. AB \_\_\_(Sub-No. \_\_\_)Notice of Intent To Abandon or To Discontinue Service

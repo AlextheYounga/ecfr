@@ -1,5 +1,7 @@
 ##### § 1182.2 Content of applications. #####
 
+Link to an amendment published at 83 FR 15080, Apr. 9, 2018.
+
 (a) The application must contain the following information:
 
 (1) Full name, address, and authorized signature of each of the parties to the transaction;

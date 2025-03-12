@@ -1,5 +1,7 @@
 ##### § 1011.3 The Chairman, Vice Chairman, and Board Member. #####
 
+Link to an amendment published at 83 FR 15077, Apr. 9, 2018.
+
 (a)(1) The Chairman of the Board is appointed by the President as provided by 49 U.S.C. 701(c)(1). The Chairman has authority, duties, and responsibilities assigned under 49 U.S.C. 701(c)(2) and described in this part.
 
 (2) The Vice Chairman is elected by the Board for the term of 1 calendar year.

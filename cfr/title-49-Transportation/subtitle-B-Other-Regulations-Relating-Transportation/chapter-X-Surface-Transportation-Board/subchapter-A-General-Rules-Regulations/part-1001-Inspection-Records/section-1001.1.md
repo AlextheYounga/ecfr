@@ -1,5 +1,7 @@
 ##### § 1001.1 Records available from the Board. #####
 
+Link to an amendment published at 83 FR 15077, Apr. 9, 2018.
+
 (a) The following specific files and records in the custody of the Records Officer of the Surface Transportation Board are available to the public and may be inspected at the Board's office upon reasonable request during business hours (between 8:30 a.m. and 5 p.m., Monday through Friday):
 
 (1) Copies of tariffs and railroad transportation contract summaries filed with the Board pursuant to 49 U.S.C. 13702(b) and 10709(d), respectively.

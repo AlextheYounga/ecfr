@@ -1,7 +1,5 @@
 ##### § 510.600 Names, addresses, and drug labeler codes of sponsors of approved applications. #####
 
-Link to an amendment published at 83 FR 13635, Mar. 30, 2018.
-
 (a) Section 512(i) of the act requires publication of names and addresses of sponsors of approved applications for new animal drugs.
 
 (b) In this section each name and address is identified by a numerical drug labeler code. The labeler codes identify the sponsors of the new animal drug applications associated with the regulations published pursuant to section 512(i) of the act. The codes appear in the appropriate regulations and serve as a reference to the names and addresses listed in this section. The drug labeler code is established pursuant to section 510 of the act.
@@ -106,7 +104,6 @@ Link to an amendment published at 83 FR 13635, Mar. 30, 2018.
 |                             Vétoquinol USA, Inc., 4250 N. Sylvania Ave., Fort Worth, TX 76137                              |     017030      |
 |                                  Virbac AH, Inc., 3200 Meacham Blvd., Ft. Worth, TX 76137                                  |     051311      |
 |                              Walco International, Inc., 15 West Putnam, Porterville, CA 93257                              |     049185      |
-|                              Watson Laboratories, Inc., 311 Bonnie Circle, Corona, CA 92880.                               |     000402      |
 |                          Wildlife Laboratories, Inc., 1230 W. Ash St., suite D, Windsor, CO 80550                          |     053923      |
 |                                     Zoetis Inc., 333 Portage St., Kalamazoo, MI 49007                                      |     054771      |
 
@@ -117,7 +114,6 @@ Link to an amendment published at 83 FR 13635, Mar. 30, 2018.
 |     000010      |              Boehringer Ingelheim Vetmedica, Inc., 2621 North Belt Highway, St. Joseph, MO 64506-2002.               |
 |     000061      |                                 Intervet, Inc., 2 Giralda Farms, Madison, NJ 07940.                                  |
 |     000115      |                          IMPAX Laboratories, Inc., 30831 Huntwood Ave., Hayward, CA 94544.                           |
-|     000402      |                           Watson Laboratories, Inc., 311 Bonnie Circle, Corona, CA 92880.                            |
 |     000859      |                Bayer HealthCare LLC, Animal Health Division, P.O. Box 390, Shawnee Mission, KS 66201.                |
 |     010515      |                         G. C. Hanford Manufacturing Co., P.O. Box 1017, Syracuse, NY 13201.                          |
 |     010797      |                      Luitpold Pharmaceuticals, Inc., Animal Health Division, Shirley, NY 11967.                      |

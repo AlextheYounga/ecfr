@@ -1,5 +1,7 @@
 ##### § 1106.4 The Safety Integration Plan process. #####
 
+Link to an amendment published at 83 FR 15078, Apr. 9, 2018.
+
 (a) Each applicant in a transaction subject to this part shall file a proposed SIP in accordance with the informational requirements prescribed at 49 CFR part 244, or other FRA guidelines or requirements regarding the contents of a SIP, with SEA and FRA no later than 60 days from the date the application is filed with the Board.
 
 (b) The proposed SIP shall be made part of the environmental record in the Board proceeding and dealt with in the ongoing environmental review process under 49 CFR part 1105. The procedures governing the process shall be as follows:

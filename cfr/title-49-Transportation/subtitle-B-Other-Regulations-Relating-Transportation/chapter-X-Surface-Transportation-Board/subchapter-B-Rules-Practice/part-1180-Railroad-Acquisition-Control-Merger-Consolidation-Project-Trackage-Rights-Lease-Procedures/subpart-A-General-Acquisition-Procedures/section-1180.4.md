@@ -1,5 +1,7 @@
 ##### § 1180.4 Procedures. #####
 
+Link to an amendment published at 83 FR 15080, Apr. 9, 2018.
+
 (a) *General.* (1) The original and 25 copies of all documents shall be filed in *major* proceedings. The original and 10 copies shall be filed in *significant* and *minor* proceedings.
 
 (2) Each party to a proceeding shall choose a unique acronym of four letters or less for itself. It shall number each document filed in the proceeding consecutively, prefixed by its acronym.

@@ -1,5 +1,7 @@
 ##### § 1152.60 Special rules. #####
 
+Link to an amendment published at 83 FR 15079, Apr. 9, 2018.
+
 (a) This section contains special rules applicable to any proceeding instituted under the 49 U.S.C. 10502 exemption procedure for either the abandonment of a rail line or the discontinuance of service or trackage rights over a rail line. General rules applicable to any proceeding filed under the 49 U.S.C. 10502 exemption procedure may be found at 49 CFR part 1121, but the rules in part 1152 control in case of any conflict with the general exemption rules. In the case of petitions for exemption for abandonment, notice of the filing of the petition will be published by the Board, through the Director of the Office of Proceedings, in the Federal Register 20 days after the petition is filed. There will be no further Federal Register publication later if and when a petition is granted.
 
 (b) Any petition filed under the 49 U.S.C. 10502 exemption procedure for either the abandonment of a rail line or the discontinuance of service or trackage rights over a rail line must be accompanied by a map that meets the requirements of § 1152.22(a)(4) of this part.

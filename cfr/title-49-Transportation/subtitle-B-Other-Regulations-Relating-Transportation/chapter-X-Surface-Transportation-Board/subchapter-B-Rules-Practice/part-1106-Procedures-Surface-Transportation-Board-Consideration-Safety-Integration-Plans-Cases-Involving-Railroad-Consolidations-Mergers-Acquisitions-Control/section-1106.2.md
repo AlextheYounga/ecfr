@@ -1,5 +1,7 @@
 ##### § 1106.2 Definitions. #####
 
+Link to an amendment published at 83 FR 15078, Apr. 9, 2018.
+
 The following definitions apply to this part:
 
 *Act* means the ICC Termination Act of 1995, Pub. L. 104-88, 109 Stat. 803 (1995).

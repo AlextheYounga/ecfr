@@ -1,5 +1,7 @@
 ##### § 1152.22 Contents of application. #####
 
+Link to an amendment published at 83 FR 15079, Apr. 9, 2018.
+
 Applications for the abandonment of railroad lines or the discontinuance of rail service shall contain the following information, including workpapers and supporting documents, and each paragraph (a) through (j) of this section shall be attested to by a person having personal knowledge of the matters contained therein:
 
 (a) *General.* (1) Exact name of applicant.

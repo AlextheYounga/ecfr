@@ -50,7 +50,11 @@ Link to an amendment published at 83 FR 10806, Mar. 13, 2018.
 
 (9) Fish for, possess, or retain fish, during a fishing trip, aboard a Federally permitted vessel that, in the absence of an emergency, has not been operating under its own power for the entire trip.
 
-(10) Fish with bottom-tending gear within the Frank R. Lautenberg Deep-sea Coral Protection Area described at § 648.27, unless transiting pursuant to § 648.27(d), fishing lobster trap gear in accordance with § 697.21 of this chapter, or fishing red crab trap gear in accordance with § 648.264. Bottom-tending gear includes but is not limited to bottom-tending otter trawls, bottom-tending beam trawls, hydraulic dredges, non-hydraulic dredges, bottom-tending seines, bottom longlines, pots and traps, and sink or anchored gill nets.
+(10) Fish with bottom-tending gear within the Frank R. Lautenberg Deep-sea Coral Protection Area described at § 648.372, unless transiting pursuant to § 648.372(d), fishing lobster trap gear in accordance with § 697.21 of this chapter, or fishing red crab trap gear in accordance with § 648.264. Bottom-tending gear includes but is not limited to bottom-tending otter trawls, bottom-tending beam trawls, hydraulic dredges, non-hydraulic dredges, bottom-tending seines, bottom longlines, pots and traps, and sink or anchored gill nets.
+
+(11) If fishing with bottom-tending mobile gear, fish in, enter, be on a fishing vessel in, the EFH closure areas described in § 648.371, unless otherwise exempted.
+
+(12) Unless otherwise exempted, fish in the Dedicated Habitat Research Areas defined in § 648.371.
 
 (c) *Dealer permits.* It is unlawful for any person to do any of the following:
 
@@ -200,9 +204,9 @@ Link to an amendment published at 83 FR 10806, Mar. 13, 2018.
 
 (v) *Ownership cap.* Have an ownership interest in more than 5 percent of the total number of vessels issued limited access scallop permits and confirmations of permit history, except as provided in § 648.4(a)(2)(i)(M).
 
-(vi) *Closed area requirements* - (A) *EFH Closed Areas.* (*1*) Fish for scallops in, or possess or land scallops from, the EFH Closed Areas specified in § 648.61.
+(vi) *Closed area requirements* - (A) *EFH Closed Areas.* (*1*) Fish for scallops in, or possess or land scallops from, the EFH Closed Areas and Habitat Management Areas specified in §§ 648.61 and 648.370, respectively.
 
-(*2*) Transit or enter the EFH Closure Areas specified in § 648.61, except as provided by § 648.61(b).
+(*2*) Transit or enter the EFH Closure Areas or Habitat Management Areas specified in §§ 648.61 and 648.370, respectively, except as provided by § 648.61(b).
 
 (B) *Scallop Rotational Areas.* (*1*) Fish for scallops in, or possess or land scallops from, the Scallop Rotational Areas closed to the scallop fishery through the specifications or framework adjustment processes specified in § 648.55.
 
@@ -524,7 +528,7 @@ Link to an amendment published at 83 FR 10806, Mar. 13, 2018.
 
 (D) Possess brush-sweep trawl gear while in possession of NE multispecies, unless the vessel has not been issued a Federal NE multispecies permit and fishes for NE multispecies exclusively in state waters.
 
-(E) Use, set, haul back, fish with, possess on board a vessel, unless stowed and not available for immediate use as defined in § 648.2, or fail to remove, sink gillnet gear and other gillnet gear capable of catching NE multispecies, with the exception of single pelagic gillnets (as described in § 648.81(f)(5)(ii)), in the areas and for the times specified in § 648.80(g)(6)(i) and (ii), except as provided in § 648.80(g)(6)(i) and (ii), and § 648.81(f)(5)(ii), or unless otherwise authorized in writing by the Regional Administrator.
+(E) Use, set, haul back, fish with, possess on board a vessel, unless stowed and not available for immediate use as defined in § 648.2, or fail to remove, sink gillnet gear and other gillnet gear capable of catching NE multispecies, with the exception of single pelagic gillnets (as described in § 648.81(b)(2)(ii) and (d)(5)(ii)), in the areas and for the times specified in § 648.80(g)(6)(i) and (ii), except as provided in § 648.80(g)(6)(i) and (ii), and § 648.81(b)(2)(ii) and (d)(5)(ii), or unless otherwise authorized in writing by the Regional Administrator.
 
 (F) Fish for, land, or possess NE multispecies harvested with the use of de-hookers (“crucifiers”) with less than 6-inch (15.2-cm) spacing between the fairlead rollers unless the vessel has not been issued a Federal NE multispecies permit and fishes for NE multispecies exclusively in state waters.
 
@@ -546,29 +550,25 @@ Link to an amendment published at 83 FR 10806, Mar. 13, 2018.
 
 (7) *Closed areas and EFH* - (i) *All persons.* It is unlawful for any person, including any owner or operator of a vessel issued a valid Federal NE multispecies permit or letter under § 648.4(a)(1)(i), unless otherwise specified in § 648.17, to do any of the following:
 
-(A) Enter, be on a fishing vessel in, or fail to remove gear from the EEZ portion of the areas described in § 648.81(d)(1), (e)(1), (f)(4), and (g)(1), except as provided in § 648.81(d)(2), (e)(2), (f)(5), (g)(2), and (i).
+(A) *Groundfish Closure Area restrictions.* Enter, be on a fishing vessel in, or fail to remove gear from the EEZ portion of the areas described in § 648.81(a)(3), (4), and (5) and (d)(3), except as provided in § 648.81(a)(2), (d)(2), and (i).
 
-(B) Fish for, harvest, possess, or land regulated species in or from the closed areas specified in § 648.81(a) through (f) and (n), unless otherwise specified in § 648.81(c)(2)(iii), (f)(5)(i), (f)(5)(iv), (f)(5)(viii) and (ix), (i), (n)(2)(i), or as authorized under § 648.85.
+(B) *Groundfish Closure Area possession restrictions.* Fish for, harvest, possess, or land regulated species in or from the closed areas specified in § 648.81(a) through (d) and (n), unless otherwise specified in § 648.81(c)(2)(iii), (d)(5)(i), (iv), (viii), and (ix), (i), (b)(2), or as authorized under § 648.85.
 
-(C) *Restricted gear areas.* (*1*) Fish, or be in the areas described in § 648.81(j)(1), (k)(1), (l)(1), and (m)(1) on a fishing vessel with mobile gear during the time periods specified in § 648.81(j)(2), (k)(2), (l)(2), and (m)(2), except as provided in § 648.81(j)(2), (k)(2), (l)(2), and (m)(2).
+(C) *Restricted Gear Areas.* (*1*) Fish, or be in the areas described in § 648.81(f)(3) through (6) on a fishing vessel with mobile gear during the time periods specified in § 648.81(f)(1), except as provided in § 648.81(f)(2).
 
-(*2*) Fish, or be in the areas described in § 648.81(j)(1), (k)(1), and (l)(1) on a fishing vessel with lobster pot gear during the time periods specified in § 648.81(j)(2), (k)(2), and (l)(2).
+(*2*) Fish, or be in the areas described in § 648.81(f)(3) through (5) on a fishing vessel with lobster pot gear during the time periods specified in § 648.81(f)(1).
 
-(*3*) Deploy in or fail to remove lobster pot gear from the areas described in § 648.81(j)(1), (k)(1), and (l)(1), during the time periods specified in § 648.81(j)(2), (k)(2), and (l)(2).
+(*3*) Deploy in or fail to remove lobster pot gear from the areas described in § 648.81(f)(3) through (5), during the time periods specified in § 648.81(f)(1).
 
-(D) *GB Seasonal Closure Area.* Enter, fail to remove gear from, or be in the areas described in § 648.81(g)(1) through (i)(1) during the time period specified, except as provided in § 648.81(d), (g)(2), (h)(2), and (i)(2).
+(D) *Georges Bank Seasonal Closure Areas.* Enter, fail to remove gear from, or be in the areas described in § 648.81(c) during the time periods specified, except as provided in § 648.81(c)(2).
 
-(E) *Closed Area I.* Enter or be in the area described in § 648.81(a)(1) on a fishing vessel, except as provided in § 648.81(a)(2) and (i).
+(E) [Reserved]
 
-(F) *Closed Area II.* Enter or be in the area described in § 648.81(b)(1) on a fishing vessel, except as provided in § 648.81(b)(2) and (i).
+(F) *Closed Area II.* Enter or be in the area described in § 648.81(a)(5) on a fishing vessel, except as provided in § 648.81(a)(5)(ii).
 
-(G) *Nantucket Lightship Closure Area.* Enter or be in the area described in § 648.81(c)(1) on a fishing vessel, except as allowed under § 648.81(c)(2) and (i).
+(G) [Reserved]
 
-(ii) *Vessel and permit holders.* It is unlawful for any owner or operator of a vessel issued a valid NE multispecies permit or letter under § 648.4(a)(1)(i), unless otherwise specified in § 648.17, to do any of the following:
-
-(A) *EFH closure area restrictions.* If fishing with bottom tending mobile gear, fish in, enter, be on a fishing vessel in, the EFH closure areas described in § 648.81(h)(1)(i) through (vi).
-
-(B) [Reserved]
+(ii) *Vessel and permit holders.* It is unlawful for any owner or operator of a vessel issued a valid NE multispecies permit or letter under § 648.4(a)(1)(i), unless otherwise specified in § 648.17, when fishing with bottom-tending mobile gear, fish in, enter, be on a fishing vessel in, the Habitat Management Areas described in § 648.370.
 
 (8) *DAS restrictions for all persons.* It is unlawful for any person, including any owner or operator of a vessel issued a valid NE multispecies permit or letter under § 648.4(a)(1)(i), unless otherwise specified in § 648.17, to do any of the following:
 
@@ -688,7 +688,7 @@ Link to an amendment published at 83 FR 10806, Mar. 13, 2018.
 
 (iii) *Closed Area II Yellowtail Flounder/Haddock SAP restrictions for all persons.* (A) If fishing under the Closed Area II Yellowtail Flounder/Haddock SAP, fish for, harvest, possess, or land any regulated NE multispecies or ocean pout from the area specified in § 648.85(b)(3)(ii), unless in compliance with § 648.85(b)(3)(i) through (xiii).
 
-(B) Enter or fish in Closed Area II as specified in § 648.81(b), unless declared into the area in accordance with § 648.85(b)(3)(v) or § 648.85(b)(8)(v)(D).
+(B) Enter or fish in Closed Area II as specified in § 648.81(a)(5), unless declared into the area in accordance with § 648.85(b)(3)(v) or (b)(8)(v)(D).
 
 (C) Enter or fish in Closed Area II under the Closed Area II Yellowtail Flounder/Haddock SAP outside of the season specified in § 648.85(b)(3)(iii).
 
@@ -858,7 +858,7 @@ Link to an amendment published at 83 FR 10806, Mar. 13, 2018.
 
 (iii) *Seasonal and area restrictions.* (A) Fail to comply with the applicable restrictions if transiting the GOM Regulated Mesh Area with cod on board that was caught outside the GOM Regulated Mesh Area.
 
-(B) Fail to comply with the requirements specified in § 648.81(f)(5)(v) when fishing in the areas described in § 648.81(d)(1), (e)(1), and (f)(4) during the time periods specified.
+(B) Fail to comply with the requirements specified in § 648.81(d)(5)(v) when fishing in the areas described in § 648.81(b)(3) and (4) and (d) during the time periods specified.
 
 (iv) *Restriction on sale and transfer.* Sell, trade, barter, or otherwise transfer; or attempt to sell, trade, barter or otherwise transfer; NE multispecies for a commercial purpose as specified in § 648.89(d).
 
@@ -1166,9 +1166,9 @@ Link to an amendment published at 83 FR 10806, Mar. 13, 2018.
 
 (iv) While operating as an at-sea herring processor, fail to comply with requirements to separate out and retain all haddock offloaded from a vessel issued an All Areas Limited Access Herring Permit and/or an Areas 2 and 3 Limited Access Herring Permit that fished on a declared herring trip regardless of gear or area fished, or by a vessel issued a Limited Access Incidental Catch Herring Permit and/or an Open Access Herring Permit that fished with midwater trawl gear pursuant to § 648.80(d).
 
-(v) Fish with midwater trawl gear in any Northeast Multispecies Closed Area, as defined in § 648.81(a) through (e), without a NMFS-approved observer on board, if the vessel has been issued an Atlantic herring permit.
+(v) Fish with midwater trawl gear in any Northeast Multispecies Closed Area, as defined in § 648.81(a)(3) through (5) and (c)(3) and (4), without a NMFS-approved observer on board, if the vessel has been issued an Atlantic herring permit.
 
-(vi) Slip or operationally discard catch, as defined at § 648.2, unless for one of the reasons specified at § 648.202(b)(2), if fishing any part of a tow inside the Northeast Multispecies Closed Areas, as defined at § 648.81(a) through (e).
+(vi) Slip or operationally discard catch, as defined at § 648.2, unless for one of the reasons specified at § 648.202(b)(2), if fishing any part of a tow inside the Northeast Multispecies Closed Areas, as defined at § 648.81(a)(3) through (5) and (c)(3) and (4).
 
 (vii) Fail to immediately leave the Northeast Multispecies Closed Areas or comply with reporting requirements after slipping catch or operationally discarding catch, as required by § 648.202(b)(4).
 

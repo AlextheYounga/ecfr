@@ -1,5 +1,7 @@
 ##### § 1150.10 Procedures. #####
 
+Link to an amendment published at 83 FR 15079, Apr. 9, 2018.
+
 (a) *Waivers.* Prior to filing an application, prospective applicants may seek an advance waiver, either on a permanent or temporary basis, of required information which is unavailable or not necessary or useful in analysis of the proposal. However, if the information is clearly not applicable to the individual proposal, a waiver is not necessary and need not be sought. A petition must specify the sections for which waiver or clarification is sought and the reasons why it should be granted. No replies will be permitted. Parties may, upon an appropriate showing, demonstrate their need to examine data which have previously been waived. In such circumstances, the Board only requires that it be produced under § 1150.8 above.
 
 (b) *Filing procedures.* The original and 10 copies of the application and all documents shall be filed with the Chief, Section of Administration, Office of Proceedings. A filing fee in the amount set forth in 49 CFR 1002.2(f) is required to file an application. Copies of documents shall be furnished promptly to interested parties upon request. The application shall include a stamped self-addressed envelope to be used to notify applicant of the docket number. Additionally, if possible, telephonic communication of the docket number shall be made.

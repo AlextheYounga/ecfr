@@ -213,7 +213,7 @@ Cultivator Shoal Whiting Fishery Exemption Area
 
 (D) A limit on the possession of skate or skate parts in the SNE Exemption Area described in paragraph (b)(10) of this section of 10 percent, by weight, of all other species on board.
 
-(9) *Small Mesh Area 1/Small Mesh Area 2* - (i) *Description.* (A) Unless otherwise prohibited in § 648.81, a vessel subject to the minimum mesh size restrictions specified in paragraphs (a)(3) or (4) of this section may fish with or possess nets with a mesh size smaller than the minimum size, provided the vessel complies with the requirements of paragraphs (a)(5)(ii) or (a)(9)(ii) of this section, and § 648.86(d), from July 15 through November 15, when fishing in Small Mesh Area 1; and from January 1 through June 30, when fishing in Small Mesh Area 2. While lawfully fishing in these areas with mesh smaller than the minimum size, an owner or operator of any vessel may not fish for, possess on board, or land any species of fish other than: Silver hake and offshore hake, combined, and red hake - up to the amounts specified in § 648.86(d); butterfish, Atlantic mackerel, squid, up the amounts specified in § 648.26; spiny dogfish, up to the amount specified in § 648.235; Atlantic herring, up to the amount specified in § 648.204; and scup, up to the amount specified in § 648.128.
+(9) *Small Mesh Area 1/Small Mesh Area 2* - (i) *Description.* (A) Unless otherwise prohibited in § 648.81, § 648.370, or § 648.371, a vessel subject to the minimum mesh size restrictions specified in paragraph (a)(3) or (4) of this section may fish with or possess nets with a mesh size smaller than the minimum size, provided the vessel complies with the requirements of paragraph (a)(5)(ii) or (a)(9)(ii) of this section, and § 648.86(d), from July 15 through November 15, when fishing in Small Mesh Area 1; and from January 1 through June 30, when fishing in Small Mesh Area 2. While lawfully fishing in these areas with mesh smaller than the minimum size, an owner or operator of any vessel may not fish for, possess on board, or land any species of fish other than: Silver hake and offshore hake, combined, and red hake - up to the amounts specified in § 648.86(d); butterfish, Atlantic mackerel, or squid, up the amounts specified in § 648.26; spiny dogfish, up to the amount specified in § 648.235; Atlantic herring, up to the amount specified in § 648.204; and scup, up to the amount specified in § 648.128.
 
 (B) Small-mesh Areas 1 and 2 are defined by straight lines connecting the following points in the order stated (copies of a chart depicting these areas are available from the Regional Administrator upon request):
 
@@ -282,11 +282,11 @@ Nantucket Shoals Dogfish Exemption Area
 
 (ii) *Sea sampling.* The Regional Administrator may conduct periodic sea sampling to determine if there is a need to change the area or season designation, and to evaluate the bycatch of regulated species.
 
-(11) *GOM Scallop Dredge Exemption Area.* Unless otherwise prohibited in § 648.81, vessels with a limited access scallop permit that have declared out of the DAS program as specified in § 648.10, or that have used up their DAS allocations, and vessels issued a General Category scallop permit, may fish in the GOM Regulated Mesh Area specified in paragraph (a)(1) of this section, when not under a NE multispecies DAS, providing the vessel fishes in the GOM Scallop Dredge Exemption Area and complies with the requirements specified in paragraph (a)(11)(i) of this section. The GOM Scallop Dredge Fishery Exemption Area is defined by the straight lines connecting the following points in the order stated (copies of a map depicting the area are available from the Regional Administrator upon request):
+(11) *GOM Scallop Dredge Exemption Area.* Unless otherwise prohibited in § 648.81, § 648.370, or § 648.371, vessels with a limited access scallop permit that have declared out of the DAS program as specified in § 648.10, or that have used up their DAS allocations, and vessels issued a General Category scallop permit, may fish in the GOM Regulated Mesh Area specified in paragraph (a)(1) of this section, when not under a NE multispecies DAS, providing the vessel fishes in the GOM Scallop Dredge Exemption Area and complies with the requirements specified in paragraph (a)(11)(i) of this section. The GOM Scallop Dredge Fishery Exemption Area is defined by the straight lines connecting the following points in the order stated (copies of a map depicting the area are available from the Regional Administrator upon request):
 
 GOM Scallop Dredge Exemption Area
 
-|Point| N. latitude  | W. longitude |
+|Point|    N lat.    |   W long.    |
 |-----|--------------|--------------|
 | SM1 |    41°35′    |    70°00′    |
 | SM2 |    41°35′    |    69°40′    |
@@ -302,21 +302,21 @@ GOM Scallop Dredge Exemption Area
 
 (B) A vessel fishing in the GOM Scallop Dredge Fishery Exemption Area under the exemption specified in this paragraph (a)(11) must fish with dredge gear. The combined dredge width in use by, or in possession on board, may not exceed 10.5 ft (3.2 m), measured at the widest point in the bail of the dredge.
 
-(C) The exemption does not apply to the Cashes Ledge Closure Area or the Western GOM Area Closure specified in § 648.81(d) and (e).
+(C) The exemption does not apply to the Cashes Ledge Closure Area or the Western GOM Area Closure specified in § 648.81(a)(3) and (4), respectively.
 
 (ii) [Reserved]
 
-(12) *Nantucket Shoals Mussel and Sea Urchin Dredge Exemption Area.* A vessel may fish with a dredge in the Nantucket Shoals Mussel and Sea Urchin Dredge Exemption Area, provided that any dredge on board the vessel does not exceed 8 ft (2.4 m), measured at the widest point in the bail of the dredge, and the vessel does not fish for, harvest, possess, or land any species of fish other than mussels and sea urchins. The area coordinates of the Nantucket Shoals Mussel and Sea Urchin Dredge Exemption Area are the same coordinates as those of the Nantucket Shoals Dogfish Fishery Exemption Area specified in paragraph (a)(10) of this section.
+(12) *Nantucket Shoals Mussel and Sea Urchin Dredge Exemption Area.* Unless otherwise prohibited in § 648.81, § 648.370, or § 648.371, a vessel may fish with a dredge in the Nantucket Shoals Mussel and Sea Urchin Dredge Exemption Area, provided that any dredge on board the vessel does not exceed 8 ft (2.4 m), measured at the widest point in the bail of the dredge, and the vessel does not fish for, harvest, possess, or land any species of fish other than mussels and sea urchins. The area coordinates of the Nantucket Shoals Mussel and Sea Urchin Dredge Exemption Area are the same coordinates as those of the Nantucket Shoals Dogfish Fishery Exemption Area specified in paragraph (a)(10) of this section.
 
-(13) *GOM/GB Dogfish and Monkfish Gillnet Fishery Exemption Area.* Unless otherwise prohibited in § 648.81, a vessel may fish with gillnets in the GOM/GB Dogfish and Monkfish Gillnet Fishery Exemption Area when not under a NE multispecies DAS if the vessel complies with the requirements specified in paragraph (a)(13)(i) of this section. The GOM/GB Dogfish and Monkfish Gillnet Fishery Exemption Area is defined by straight lines connecting the following points in the order stated:
+(13) *GOM/GB Dogfish and Monkfish Gillnet Fishery Exemption Area.* Unless otherwise prohibited in § 648.81, § 648.370, or § 648.371, a vessel may fish with gillnets in the GOM/GB Dogfish and Monkfish Gillnet Fishery Exemption Area when not under a NE multispecies DAS if the vessel complies with the requirements specified in paragraph (a)(13)(i) of this section. The GOM/GB Dogfish and Monkfish Gillnet Fishery Exemption Area is defined by straight lines connecting the following points in the order stated:
 
-|   N. lat.    |W. long.|
-|--------------|--------|
-|    41°35′    | 70°00′ |
-|   42°49.5′   | 70°00′ |
-|   42°49.5′   | 69°40′ |
-|    43°12′    | 69°00′ |
-|(<sup>1</sup>)| 69°00′ |
+|    N lat.    |W long.|
+|--------------|-------|
+|    41°35′    |70°00′ |
+|   42°49.5′   |70°00′ |
+|   42°49.5′   |69°40′ |
+|    43°12′    |69°00′ |
+|(<sup>1</sup>)|69°00′ |
 
 <sup>1</sup> Due north to Maine shoreline.
 
@@ -328,7 +328,7 @@ GOM Scallop Dredge Exemption Area
 
 (ii) [Reserved]
 
-(14) *GOM/GB Dogfish Gillnet Exemption.* Unless otherwise prohibited in § 648.81, a vessel may fish with gillnets in the GOM/GB Dogfish and Monkfish Gillnet Fishery Exemption Area when not under a NE multispecies DAS if the vessel complies with the requirements specified in paragraph (a)(14)(i) of this section. The area coordinates of the GOM/GB Dogfish and Monkfish Gillnet Fishery Exemption Area are specified in paragraph (a)(13) of this section.
+(14) *GOM/GB Dogfish Gillnet Exemption.* Unless otherwise prohibited in § 648.81, § 648.370, or § 648.371, a vessel may fish with gillnets in the GOM/GB Dogfish and Monkfish Gillnet Fishery Exemption Area when not under a NE multispecies DAS if the vessel complies with the requirements specified in paragraph (a)(14)(i) of this section. The area coordinates of the GOM/GB Dogfish and Monkfish Gillnet Fishery Exemption Area are specified in paragraph (a)(13) of this section.
 
 (i) *Requirements.* (A) A vessel fishing under this exemption may not fish for, possess on board, or land any species of fish other than dogfish, or lobsters in an amount not to exceed 10 percent by weight of the total catch on board, or 200 lobsters, whichever is less.
 
@@ -338,13 +338,13 @@ GOM Scallop Dredge Exemption Area
 
 (ii) [Reserved]
 
-(15) *Raised Footrope Trawl Exempted Whiting Fishery.* Vessels subject to the minimum mesh size restrictions specified in paragraphs (a)(3) or (4) of this section may fish with, use, or possess nets in the Raised Footrope Trawl Whiting Fishery area with a mesh size smaller than the minimum size specified, if the vessel complies with the requirements specified in paragraph (a)(15)(i) of this section. This exemption does not apply to the Cashes Ledge Closure Areas or the Western GOM Area Closure specified in § 648.81(d) and (e). The Raised Footrope Trawl Whiting Fishery Area (copies of a chart depicting the area are available from the Regional Administrator upon request) is defined by straight lines connecting the following points in the order stated:
+(15) *Raised Footrope Trawl Exempted Whiting Fishery.* Unless otherwise prohibited in § 648.370 or § 648.371, vessels subject to the minimum mesh size restrictions specified in paragraphs (a)(3) or (4) of this section may fish with, use, or possess nets in the Raised Footrope Trawl Whiting Fishery area with a mesh size smaller than the minimum size specified, if the vessel complies with the requirements specified in paragraph (a)(15)(i) of this section. This exemption does not apply to the Cashes Ledge Closure Areas or the Western GOM Area Closure specified in § 648.81(a)(3) and (4), respectively. The Raised Footrope Trawl Whiting Fishery Area (copies of a chart depicting the area are available from the Regional Administrator upon request) is defined by straight lines connecting the following points in the order stated:
 
 Raised Footrope Trawl Whiting Fishery Exemption Area
 
 [September 1 through November 20]
 
-|Point| N. lat. |W. long. |
+|Point| N lat.  | W long. |
 |-----|---------|---------|
 |RF 1 |42°14.05′|70°08.8′ |
 |RF 2 |42°09.2′ |69°47.8′ |
@@ -365,7 +365,7 @@ Raised Footrope Trawl Whiting Fishery Exemption Area
 
 [November 21 through December 31]
 
-|Point| N. lat. |W. long. |
+|Point| N lat.  | W long. |
 |-----|---------|---------|
 |RF 1 |42°14.05′|70°08.8′ |
 |RF 2 |42°09.2′ |69°47.8′ |
@@ -394,13 +394,13 @@ Raised Footrope Trawl Whiting Fishery Exemption Area
 
 (ii) *Sea sampling.* The Regional Administrator shall conduct periodic sea sampling to evaluate the bycatch of regulated species.
 
-(16) *GOM Grate Raised Footrope Trawl Exempted Whiting Fishery.* Vessels subject to the minimum mesh size restrictions specified in paragraphs (a)(3) or (4) of this section may fish with, use, and possess in the GOM Grate Raised Footrope Trawl Whiting Fishery area from July 1 through November 30 of each year, nets with a mesh size smaller than the minimum size specified, if the vessel complies with the requirements specified in paragraphs (a)(16)(i) and (ii) of this section. The GOM Grate Raised Footrope Trawl Whiting Fishery Area (copies of a chart depicting the area are available from the Regional Administrator upon request) is defined by straight lines connecting the following points in the order stated:
+(16) *GOM Grate Raised Footrope Trawl Exempted Whiting Fishery.* Unless otherwise prohibited in § 648.370 or § 648.371, vessels subject to the minimum mesh size restrictions specified in paragraphs (a)(3) or (4) of this section may fish with, use, and possess in the GOM Grate Raised Footrope Trawl Whiting Fishery area from July 1 through November 30 of each year, nets with a mesh size smaller than the minimum size specified, if the vessel complies with the requirements specified in paragraphs (a)(16)(i) and (ii) of this section. The GOM Grate Raised Footrope Trawl Whiting Fishery Area (copies of a chart depicting the area are available from the Regional Administrator upon request) is defined by straight lines connecting the following points in the order stated:
 
 GOM Grate Raised Footrope Trawl Whiting Fishery Exemption Area
 
 [July 1 through November 30]
 
-|Point|N. lat. |W. long.|
+|Point| N lat. |W long. |
 |-----|--------|--------|
 |GRF1 | 43°15′ |70°35.4′|
 |GRF2 | 43°15′ | 70°00′ |
@@ -458,7 +458,7 @@ Gulf of Maine/Georges Bank Exemption Area
 
 <sup>1</sup>Northward to its intersection with the shoreline of mainland Massachusetts.
 
-(18) *Great South Channel Scallop Dredge Exemption Area.* Vessels issued a LAGC scallop permit, including limited access scallop permits that have used up their DAS allocations, may fish in the Great South Channel Scallop Dredge Exemption Area, as defined under paragraph (a)(18)(i) of this section, when not under a NE multispecies or scallop DAS or on a sector trip, provided the vessel complies with the requirements specified in paragraph (a)(18)(ii) of this section and applicable scallop regulations in subpart D of this chapter.
+(18) *Great South Channel Scallop Dredge Exemption Area.* Unless otherwise prohibited in § 648.370 or § 648.371, vessels issued a LAGC scallop permit, including limited access scallop permits that have used up their DAS allocations, may fish in the Great South Channel Scallop Dredge Exemption Area, as defined under paragraph (a)(18)(i) of this section, when not under a NE multispecies or scallop DAS or on a sector trip, provided the vessel complies with the requirements specified in paragraph (a)(18)(ii) of this section and applicable scallop regulations in subpart D of this part.
 
 (i) *Area Definition.* The Great South Channel Scallop Dredge Exemption Area is defined by the straight lines connecting the following points in the order stated (copies of a chart depicting the area are available from the Regional Administrator upon request):
 
@@ -480,7 +480,7 @@ Great South Channel Scallop Dredge Exemption Area
 
 (B) The combined dredge width in use by, or in possession on board, vessels fishing in the Great South Channel Scallop Dredge Exemption Area may not exceed 10.5 ft (3.2 m), measured at the widest point in the bail of the dredge.
 
-(19) *Cape Cod Spiny Dogfish Exemption Areas.* Vessels issued a NE multispecies limited access permit that have declared out of the DAS program as specified in § 648.10, or that have used up their DAS allocations, may fish in the Eastern or Western Cape Cod Spiny Dogfish Exemption Area as defined under paragraph (a)(19)(i) through (a)(19)(ii) of this section, when not under a NE multispecies or scallop DAS, provided the vessel complies with the requirements for the Eastern or Western area, specified in paragraph (a)(19)(i) and (a)(19)(ii) of this section, respectively.
+(19) *Cape Cod Spiny Dogfish Exemption Areas.* Unless otherwise prohibited in § 648.370 or § 648.371, vessels issued a NE multispecies limited access permit that have declared out of the DAS program as specified in § 648.10, or that have used up their DAS allocations, may fish in the Eastern or Western Cape Cod Spiny Dogfish Exemption Area as defined under paragraphs (a)(19)(i) and (ii) of this section, when not under a NE multispecies or scallop DAS, provided the vessel complies with the requirements for the Eastern or Western area, specified in paragraphs (a)(19)(i) and (ii) of this section, respectively.
 
 (i) *Eastern area definition.* The Eastern Cape Cod Spiny Dogfish Exemption Area is defined by the straight lines connecting the following points in the order stated (copies of a chart depicting the area are available from the Regional Administrator upon request): Eastern Cape Cod Spiny Dogfish Exemption Area [June 1 through December 31, unless otherwise specified in paragraph (a)(19)(i)(A) of this section]
 
@@ -685,8 +685,6 @@ Southern New England Exemption Area
 
 (C) The minimum mesh size used in the twine top of scallop dredges must be 10 in (25.4 cm).
 
-(D) The exemption does not apply to the Nantucket Lightship Closed Area specified under § 648.81(c).
-
 (12) *SNE Skate Bait Trawl Exemption Area.* Vessels issued an open access skate permit and a skate bait Letter of Authorization as specified in § 648.322(c) that have declared out of the DAS program as specified in § 648.10, or that have used up their DAS allocations, may fish in the SNE Skate Bait Trawl Exemption Area as defined under paragraph (b)(12)(i) of this section, when not under a NE multispecies or scallop DAS, provided the vessel complies with the requirements specified in paragraph (b)(1)(ii) of this section.
 
 (i) *Area definition.* The SNE Skate Bait Trawl Exemption Area is defined by the straight lines connecting the following points in the order stated (copies of a chart depicting the area are available from the Regional Administrator upon request):
@@ -750,9 +748,9 @@ SNE Skate Bait Trawl Exemption Area
 
 (1) Midwater trawl gear is used exclusively;
 
-(2) When fishing under this exemption in the GOM/GB Exemption Area, as defined in paragraph (a)(17) of this section, and in the area described in § 648.81(c)(1), the vessel has on board a letter of authorization issued by the Regional Administrator, and complies with the following restrictions:
+(2) When fishing under this exemption in the GOM/GB Exemption Area, as defined in paragraph (a)(17) of this section, the vessel has on board a letter of authorization issued by the Regional Administrator, and complies with the following restrictions:
 
-(i) The vessel only fishes for, possesses, or lands Atlantic herring, blueback herring, or mackerel in areas north of 42°20′ N. lat. and in the areas described in § 648.81(a)(1), (b)(1), and (c)(1); and Atlantic herring, blueback herring, mackerel, or squid in all other areas south of 42°20′ N. lat.; and
+(i) The vessel only fishes for, possesses, or lands Atlantic herring, blueback herring, or mackerel in areas north of 42°20′ N lat. and in the areas described in § 648.81(c)(3) and (4); and Atlantic herring, blueback herring, mackerel, or squid in all other areas south of 42°20′ N. lat.; and
 
 (ii) The vessel is issued a letter of authorization for a minimum of 7 days. The vessel can be issued LOAs for the midwater trawl exempted fishery and the purse seine exempted fishery at the same time.
 
@@ -760,7 +758,7 @@ SNE Skate Bait Trawl Exemption Area
 
 (4) The vessel does not fish for, possess or land NE. multispecies, except that a vessel issued an All Areas Limited Access Herring Permit and/or an Areas 2 and 3 Limited Access Herring Permit and fishing on a declared herring trip, regardless of gear or area fished, or a vessel issued a Limited Access Incidental Catch Herring Permit and/or an Open Access Herring Permit and fishing with midwater trawl gear pursuant to paragraph (d) of this section, may possess and land haddock and other regulated multispecies consistent with the catch caps and possession restrictions in § 648.86(a)(3) and (k). Such haddock or other regulated NE. multispecies may not be sold, purchased, received, traded, bartered, or transferred, or attempted to be sold, purchased, received, traded, bartered, or transferred for, or intended for, human consumption. Haddock or other regulated NE. multispecies that are separated out from the herring catch pursuant to § 648.15(d) may not be sold, purchased, received, traded, bartered, or transferred, or attempted to be sold, purchased, received, traded, bartered, or transferred for any purpose. A vessel issued an All Areas Limited Access Herring Permit and/or an Areas 2 and 3 Limited Access Herring Permit fishing on a declared herring trip, regardless of gear or area fished, or a vessel issued a Limited Access Incidental Catch Herring Permit and/or an Open Access Herring Permit and fishing with midwater trawl gear pursuant to paragraph (d) of this section, may not discard haddock that has been brought on the deck or pumped into the hold;
 
-(5) To fish for herring under this exemption, a vessel issued an All Areas Limited Access Herring Permit and/or an Areas 2 and 3 Limited Access Herring Permit fishing on a declared herring trip, or a vessel issued a Limited Access Incidental Catch Herring Permit and/or an Open Access Herring Permit fishing with midwater trawl gear in Management Areas 1A, 1B, and/or 3, as defined in § 648.200(f)(1) and (3), must provide notice of the following information to NMFS at least 72 hr prior to beginning any trip into these areas for the purposes of observer deployment: Vessel name; contact name for coordination of observer deployment; telephone number for contact; the date, time, and port of departure; and whether the vessel intends to engage in fishing in Closed Area I, as defined in § 648.81(a), at any point in the trip; and
+(5) To fish for herring under this exemption, a vessel issued an All Areas Limited Access Herring Permit and/or an Areas 2 and 3 Limited Access Herring Permit fishing on a declared herring trip, or a vessel issued a Limited Access Incidental Catch Herring Permit and/or an Open Access Herring Permit fishing with midwater trawl gear in Management Areas 1A, 1B, and/or 3, as defined in § 648.200(f)(1) and (3), must provide notice of the following information to NMFS at least 72 hr prior to beginning any trip into these areas for the purposes of observer deployment: Vessel name; contact name for coordination of observer deployment; telephone number for contact; the date, time, and port of departure; and whether the vessel intends to engage in fishing in Closed Area I, as defined in § 648.81(c)(3), at any point in the trip; and
 
 (6) A vessel issued an All Areas Limited Access Herring Permit and/or an Areas 2 and 3 Limited Access Herring Permit fishing on a declared herring trip with midwater trawl gear, or a vessel issued a Limited Access Incidental Catch Herring Permit and fishing with midwater trawl gear in Management Areas 1A, 1B, and/or 3, as defined at § 648.200(f)(1) and (3), must notify NMFS Office of Law Enforcement through VMS of the time and place of offloading at least 6 hr prior to crossing the VMS demarcation line on their return trip to port, or, for a vessel that has not fished seaward of the VMS demarcation line, at least 6 hr prior to landing. The Regional Administrator may adjust the prior notification minimum time through publication of a notice in the Federal Register consistent with the Administrative Procedure Act.
 
@@ -806,9 +804,9 @@ SNE Skate Bait Trawl Exemption Area
 
 (ii) *Nets of mesh size equal to or greater than 2.5 inches (6.4 cm) but less than 3 inches (7.6 cm).* A vessel lawfully fishing for small-mesh multispecies in the GOM/GB, SNE, or MA Regulated Mesh Areas, as defined in paragraphs (a), (b), and (c) of this section, with nets with mesh size equal to or greater than 2.5 inches (6.4 cm) but less than 3 inches (7.6 cm) (as measured by methods specified in paragraph (f) of this section, and as applied to the part of the net specified in paragraph (d)(1)(iv) of this section) may use a net strengthener (i.e., outside net), provided the net strengthener does not have an effective mesh opening of less than 6 inches (15.2 cm), diamond or square mesh, as measured by methods specified in paragraph (f) of this section. The inside net (as applied to the part of the net specified in paragraph (d)(1)(iv) of this section) must not be more than 2 ft (61 cm) longer than the outside net, must be the same circumference or smaller than the smallest circumference of the outside net, and must be the same mesh configuration (i.e., both square or both diamond mesh) as the outside net.
 
-(6) *Gillnet requirements to reduce or prevent marine mammal takes* - (i) *Requirements for gillnet gear capable of catching NE multispecies to reduce harbor porpoise takes.* In addition to the requirements for gillnet fishing identified in this section, all persons owning or operating vessels in the EEZ that fish with sink gillnet gear and other gillnet gear capable of catching NE multispecies, with the exception of single pelagic gillnets (as described in § 648.81(f)(5)(ii)), must comply with the applicable provisions of the Harbor Porpoise Take Reduction Plan found in § 229.33 of this title.
+(6) *Gillnet requirements to reduce or prevent marine mammal takes* - (i) *Requirements for gillnet gear capable of catching NE multispecies to reduce harbor porpoise takes.* In addition to the requirements for gillnet fishing identified in this section, all persons owning or operating vessels in the EEZ that fish with sink gillnet gear and other gillnet gear capable of catching NE multispecies, with the exception of single pelagic gillnets (as described in § 648.81(b)(2)(ii) and (d)(5)(ii)), must comply with the applicable provisions of the Harbor Porpoise Take Reduction Plan found in § 229.33 of this title.
 
-(ii) *Requirements for gillnet gear capable of catching NE multispecies to prevent large whale takes.* In addition to the requirements for gillnet fishing identified in this section, all persons owning or operating vessels in the EEZ that fish with sink gillnet gear and other gillnet gear capable of catching NE multispecies, with the exception of single pelagic gillnets (as described in § 648.81(f)(5)(ii)), must comply with the applicable provisions of the Atlantic Large Whale Take Reduction Plan found in § 229.32 of this title.
+(ii) *Requirements for gillnet gear capable of catching NE multispecies to prevent large whale takes.* In addition to the requirements for gillnet fishing identified in this section, all persons owning or operating vessels in the EEZ that fish with sink gillnet gear and other gillnet gear capable of catching NE multispecies, with the exception of single pelagic gillnets (as described in § 648.81(b)(2)(ii) and (d)(5)(ii)), must comply with the applicable provisions of the Atlantic Large Whale Take Reduction Plan found in § 229.32 of this title.
 
 (h) *Scallop vessels.* (1) Except as provided in paragraph (h)(2) of this section, a scallop vessel that possesses a limited access scallop permit and either a NE multispecies Combination vessel permit or a scallop/multispecies possession limit permit, and that is fishing under a scallop DAS allocated under § 648.53, may possess and land up to 300 lb (136.1 kg) of regulated species per trip, provided that the amount of regulated species on board the vessel does not exceed the trip limits specified in § 648.86, and provided the vessel has at least one standard tote on board, unless otherwise restricted by § 648.86(a)(2).
 

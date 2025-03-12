@@ -1,5 +1,7 @@
 ##### § 1180.6 Supporting information. #####
 
+Link to an amendment published at 83 FR 15080, Apr. 9, 2018.
+
 (a) All applications filed under 49 U.S.C. 11323 shall show in the title the names of the applicants and the nature of the proposed transaction. Beneath the title indicate the name, title, business address, and telephone number of the person(s) to whom correspondence with respect to the application should be addressed. The following information shall be included in all applications:
 
 (1) A description of the proposed transaction, including appropriate references to any supporting exhibits and statements contained in the application and discussing the following:

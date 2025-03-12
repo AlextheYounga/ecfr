@@ -1,5 +1,7 @@
 ##### § 1152.50 Exempt abandonments and discontinuances of service and trackage rights. #####
 
+Link to an amendment published at 83 FR 15079, Apr. 9, 2018.
+
 (a)(1) A proposed abandonment or discontinuance of service or trackage rights over a railroad line is exempt from the provisions of 49 U.S.C. 10903 if the criteria in this section are satisfied.
 
 (2) Whenever the Board determines a proposed abandonment to be exempt from the requirements of 49 U.S.C. 10903, whether under this section or on the basis of the merits of an individual petition, the provisions of §§ 1152.27, 1152.28, and 1152.29 as they relate to exemption proceedings shall be applicable.
