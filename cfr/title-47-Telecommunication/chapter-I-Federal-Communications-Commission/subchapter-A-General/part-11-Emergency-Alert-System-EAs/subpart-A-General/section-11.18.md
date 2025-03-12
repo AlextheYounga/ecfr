@@ -1,5 +1,7 @@
 ##### § 11.18 EAS Designations. #####
 
+Link to an amendment published at 87 FR 67823, Nov. 10, 2022.
+
 (a) A Primary Entry Point (PEP) is a private or commercial radio broadcast station that cooperatively participates with FEMA to provide EAS alerts to the public. PEPs are the primary source of initial broadcast for a Presidential Alert. A PEP is equipped with back-up communications equipment and power generators designed to enable it to continue broadcasting information to the public during and after disasters of national significance. The Primary Entry Point System is a nationwide network of such broadcast stations used to distribute EAS alerts formatted in the EAS Protocol. FEMA is responsible for designating broadcast stations as PEPs.
 
 (b) A National Primary (NP) is an entity tasked with the primary responsibility of receiving the Presidential Alert from a PEP and delivering it to an individual state or portion of a state. In states without a PEP, the NP is responsible for receiving the Presidential Alert from an out-of-state PEP and transmitting it to the public and other EAS Participants in the state. Multiple entities may be charged with primary responsibility for delivering the Presidential Alert.

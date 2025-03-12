@@ -1,5 +1,7 @@
 ##### § 752.604 Procedures. #####
 
+Link to an amendment published at 87 FR 67783, Nov. 10, 2022.
+
 (a) *Statutory entitlements.* An appointee against whom action is proposed under this subpart is entitled to the procedures provided in 5 U.S.C. 7543(b).
 
 (b) *Notice of proposed action.* (1) An appointee against whom an action is proposed is entitled to at least 30 days' advance written notice unless there is an exception pursuant to paragraph (d) of this section. However, to the extent an agency in its sole and exclusive discretion deems practicable, agencies should limit a written notice of an adverse action to the 30 days prescribed in section 7543(b)(1) of title 5, United States Code. Advance notices of greater than 30 days must be reported to the Office of Personnel Management. The notice must state the specific reason(s) for the proposed action, and inform the appointee of his or her right to review the material that is relied on to support the reasons for action given in the notice. The notice must further include detailed information with respect to any right to appeal the action pursuant to section 1097(b) (2) (A) of Public Law 115-91, the forums in which the employee may file an appeal, and any limitations on the rights of the employee that would apply because of the forum in which the employee decides to file.

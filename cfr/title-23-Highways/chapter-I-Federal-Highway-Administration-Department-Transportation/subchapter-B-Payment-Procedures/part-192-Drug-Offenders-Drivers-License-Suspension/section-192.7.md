@@ -1,5 +1,5 @@
-##### § 192.7 Apportionment of withheld funds after compliance. #####
+##### § 192.7 Procedures affecting States in noncompliance. #####
 
-Funds withheld under § 1212.4 from apportionment, which remain available for apportionment under § 1212.6(a), will be made available to any State that conforms to the requirements of § 1212.4 before the last day of the period of availability as defined in § 1212.6(a).
+(a) If FHWA determines that the State is not in compliance with 23 U.S.C. 159(a)(3), the State will be advised of the funds expected to be withheld under § 192.4 from apportionment, as part of the advance notice of apportionments required under 23 U.S.C. 104(e). This notification will normally occur not later than 90 days before the beginning of the fiscal year for which the sums to be apportioned are authorized. The State may, within 30 days of its receipt of the advance notice of apportionments, submit documentation demonstrating its compliance. Documentation shall be submitted electronically to the FHWA Division Administrator for that State. The FHWA Division Administrator shall retain an electronic copy and forward an electronic copy to both the FHWA Office of Safety and the FHWA Office of the Chief Counsel.
 
-[57 FR 35999, Aug. 12, 1992, as amended at 59 FR 39256, Aug. 2, 1994]
+(b) Each fiscal year, each State determined not to be in compliance with 23 U.S.C. 159(a)(3), based on FHWA's final determination, will receive notice of the funds being withheld under § 192.4 from apportionment, as part of the certification of apportionments required under 23 U.S.C. 104(e), which normally occurs on October 1 of each fiscal year.

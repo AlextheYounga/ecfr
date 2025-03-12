@@ -1,5 +1,7 @@
 ##### § 11.56 Obligation to process CAP-formatted EAS messages. #####
 
+Link to an amendment published at 87 FR 67826, Nov. 10, 2022.
+
 (a) On or by June 30, 2012, EAS Participants must have deployed operational equipment that is capable of the following:
 
 (1) Acquiring EAS alert messages in accordance with the monitoring requirements in § 11.52(d)(2);

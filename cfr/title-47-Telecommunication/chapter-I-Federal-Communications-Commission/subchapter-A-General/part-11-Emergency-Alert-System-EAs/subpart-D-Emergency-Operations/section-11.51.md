@@ -1,5 +1,7 @@
 ##### § 11.51 EAS code and Attention Signal Transmission requirements. #####
 
+Link to an amendment published at 87 FR 67824, Nov. 10, 2022.
+
 (a) Analog and digital broadcast stations must transmit, either automatically or manually, national level EAS messages and required tests by sending the EAS header codes, Attention Signal, emergency message and End of Message (EOM) codes using the EAS Protocol. The Attention Signal must precede any emergency audio message.
 
 (b) When relaying EAS messages, EAS Participants may transmit only the EAS header codes and the EOM code without the Attention Signal and emergency message for State and local emergencies. Pauses in video programming before EAS message transmission should not cause television receivers to mute EAS audio messages. No Attention Signal is required for EAS messages that do not contain audio programming, such as a Required Weekly Test.

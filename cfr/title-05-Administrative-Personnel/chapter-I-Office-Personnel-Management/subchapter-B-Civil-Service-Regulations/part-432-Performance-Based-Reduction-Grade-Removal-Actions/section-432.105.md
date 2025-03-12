@@ -1,5 +1,7 @@
 ##### § 432.105 Proposing and taking action based on unacceptable performance. #####
 
+Link to an amendment published at 87 FR 67782, Nov. 10, 2022.
+
 (a) *Proposing action based on unacceptable performance.*
 
 (1) Once an employee has been afforded a reasonable opportunity to demonstrate acceptable performance pursuant to § 432.104, an agency may propose a reduction-in-grade or removal action if the employee's performance during or following the opportunity to demonstrate acceptable performance is unacceptable in one or more of the critical elements for which the employee was afforded an opportunity to demonstrate acceptable performance. For the purposes of this section, the agency's obligation to provide assistance, under 5 U.S.C. 4302(c)(5), may be discharged through measures, such as supervisory assistance, taken prior to the beginning of the opportunity period in addition to measures taken during the opportunity period. The agency must take some measures to provide assistance during the opportunity period in order to both comply with section 4302(c)(5) and provide an opportunity to demonstrate acceptable performance under 4302(c)(6).

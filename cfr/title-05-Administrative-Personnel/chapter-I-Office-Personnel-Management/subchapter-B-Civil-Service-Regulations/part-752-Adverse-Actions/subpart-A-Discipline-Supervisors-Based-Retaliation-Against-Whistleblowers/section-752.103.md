@@ -1,5 +1,7 @@
 ##### § 752.103 Procedures. #####
 
+Link to an amendment published at 87 FR 67782, Nov. 10, 2022.
+
 (a) *Non-delegation.* If the head of an agency is responsible for determining whether a supervisor has committed a prohibited personnel action for purposes of § 752.102(b), the head of the agency may not delegate that responsibility.
 
 (b) *Scope.* An action carried out under this subpart -

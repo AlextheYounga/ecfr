@@ -12,6 +12,4 @@ As used in this part:
 
 (2) The operation of a motor vehicle under the influence of such a substance.
 
-(d) *Substance the possession of which is prohibited under the Controlled Substances Act* or *substance* means a controlled or counterfeit chemical, as those terms are defined in subsections 102 (6) and (7) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802 (6) and (7) and listed in 21 CFR 1308.11-.15.
-
-[57 FR 35999, Aug. 12, 1992; 58 FR 62415, Nov. 26, 1993; 59 FR 39256, Aug. 2, 1994]
+(d) *Substance the possession of which is prohibited under the Controlled Substances Act* or *substance* means a controlled or counterfeit substance, as those terms are defined in subsections 102 (6) and (7) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802 (6) and (7) and listed in 21 CFR 1308.11-.15.

@@ -1,5 +1,7 @@
 ##### § 752.101 Coverage. #####
 
+Link to an amendment published at 87 FR 67782, Nov. 10, 2022.
+
 (a) *Adverse actions covered.* This subpart applies to actions taken under 5 U.S.C. 7515.
 
 *(*b*) Definitions.* In this subpart -

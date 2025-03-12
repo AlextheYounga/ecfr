@@ -1,5 +1,7 @@
 ##### § 752.602 Definitions. #####
 
+Link to an amendment published at 87 FR 67783, Nov. 10, 2022.
+
 In this subpart -
 
 *Business day* means any day other than a Saturday, Sunday, or legal public holiday under 5 U.S.C. 6103(a).
