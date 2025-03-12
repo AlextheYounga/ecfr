@@ -1,5 +1,7 @@
 ##### § 151.2015 Exemptions. #####
 
+Link to an amendment published at 83 FR 47292, Sept. 19, 2018.
+
 (a) The following vessels are exempt from all of the requirements of this subpart:
 
 (1) Any Department of Defense or Coast Guard vessel subject to the requirements of section 1103 of the Nonindigenous Aquatic Nuisance Prevention and Control Act, as amended by the National Invasive Species Act; or any vessel of the Armed Forces, as defined in the Federal Water Pollution Control Act (33 U.S.C. 1322(a)), that is subject to the “Uniform National Discharge Standards for Vessels of the Armed Forces” (33 U.S.C. 1322(n)).

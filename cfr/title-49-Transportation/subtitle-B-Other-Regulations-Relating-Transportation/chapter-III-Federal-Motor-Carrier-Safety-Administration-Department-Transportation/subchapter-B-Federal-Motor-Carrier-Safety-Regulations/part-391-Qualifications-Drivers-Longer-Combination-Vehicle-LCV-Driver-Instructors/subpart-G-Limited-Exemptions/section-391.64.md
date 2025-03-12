@@ -1,5 +1,7 @@
 ##### § 391.64 Grandfathering for certain drivers participating in vision and diabetes waiver study programs. #####
 
+Link to an amendment published at 83 FR 47521, Sept. 19, 2018.
+
 (a) The provisions of § 391.41(b)(3) do not apply to a driver who was a participant in good standing on March 31, 1996, in a waiver study program concerning the operation of commercial motor vehicles by insulin-controlled diabetic drivers; *provided:*
 
 (1) The driver is physically examined every year, including an examination by a board-certified/eligible endocrinologist attesting to the fact that the driver is:

@@ -1,5 +1,7 @@
 ##### § 151.2060 Reporting requirements. #####
 
+Link to an amendment published at 83 FR 47293, Sept. 19, 2018.
+
 (a) Ballast water reporting requirements exist for each vessel subject to this subpart bound for ports or places of the United States regardless of whether a vessel operated outside of the Exclusive Economic Zone (EEZ), unless exempted in § 151.2015 of this subpart.
 
 (b) Unless operating exclusively on voyages between ports or places within a single COTP Zone, the master, owner, operator, agent, or person in charge of a vessel subject to this subpart and this section must submit a ballast water report to the National Ballast Information Clearinghouse (NBIC) by electronic ballast water report format using methods specified at NBIC's Web site at *http://invasions.si.edu/nbic/submit.html*. The ballast water report will include the information listed in paragraph (c) of this section and must be submitted as follows:
