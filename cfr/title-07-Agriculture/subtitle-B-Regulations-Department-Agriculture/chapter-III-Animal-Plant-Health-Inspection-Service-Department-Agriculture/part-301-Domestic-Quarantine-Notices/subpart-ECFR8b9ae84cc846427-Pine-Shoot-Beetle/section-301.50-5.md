@@ -1,6 +1,6 @@
 ##### § 301.50-5 Issuance and cancellation of certificates and limited permits. #####
 
-(a) A certificate will be issued by an inspector3 for the interstate movement of a regulated article if the inspector determines that:
+(a) A certificate will be issued by an inspector3/\> for the interstate movement of a regulated article if the inspector determines that:
 
 3 Services of an inspector may be requested by contacting the local offices of Plant Protection and Quarantine, which are listed in telephone directories. The addresses and telephone numbers of local offices may also be obtained from the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Domestic and Emergency Operations, 4700 River Road Unit 134, Riverdale, Maryland 20737-1236.
 
@@ -20,13 +20,13 @@
 
 (iii) The pine log with pine bark attached, pine lumber with bark attached, or pine stump from a tree felled during the period of July 1 through October 31, or the pine bark products produced from a tree felled and debarked during the period of July 1 through October 31, will be shipped interstate from the quarantined area during the period of July 1 through October 31 of the same year in which the source tree was felled; and
 
-(3) The regulated article is to be moved in compliance with any additional conditions deemed necessary under section 414 of the Plant Protection Act (7 U.S.C. 7714)4 to prevent the spread of the pine shoot beetle; and
+(3) The regulated article is to be moved in compliance with any additional conditions deemed necessary under section 414 of the Plant Protection Act (7 U.S.C. 7714)4/\> to prevent the spread of the pine shoot beetle; and
 
 4 An inspector may hold, seize, quarantine, treat, apply other remedial measures to, destroy, or otherwise dispose of plants, plant pests, or other articles in accordance with sections 414, 421, and 434 of the Plant Protection Act (7 U.S.C. 7714, 7731, and 7754).
 
 (4) The regulated article is eligible for unrestricted movement under all other Federal domestic plant quarantines and regulations applicable to the regulated articles.
 
-(b) An inspector5 will issue a limited permit for the interstate movement of a regulated article if the inspector determines that:
+(b) An inspector5/\> will issue a limited permit for the interstate movement of a regulated article if the inspector determines that:
 
 5 See footnote 3 to § 301.50-5(a).
 

@@ -50,7 +50,7 @@
 
 (g) through (k) [Reserved]
 
-(l) *Cross-ties (railroad ties) and pine and fir lumber from Mexican States adjacent to the United States/Mexico border.*1 Cross-ties (railroad ties) 8 inches or less at maximum thickness and lumber derived from pine and fir may be imported from Mexican States adjacent to the United States/Mexico border into the United States if they:
+(l) *Cross-ties (railroad ties) and pine and fir lumber from Mexican States adjacent to the United States/Mexico border.*1/\> Cross-ties (railroad ties) 8 inches or less at maximum thickness and lumber derived from pine and fir may be imported from Mexican States adjacent to the United States/Mexico border into the United States if they:
 
 1 Cross-ties (railroad ties) may also be imported in accordance with paragraph (f) of this section, or may be imported if heat treated in accordance with § 319.40-7(c).
 

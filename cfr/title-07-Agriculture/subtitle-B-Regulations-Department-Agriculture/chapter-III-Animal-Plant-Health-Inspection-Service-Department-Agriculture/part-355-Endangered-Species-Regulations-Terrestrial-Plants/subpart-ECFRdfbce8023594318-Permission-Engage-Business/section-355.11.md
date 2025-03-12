@@ -2,7 +2,7 @@
 
 (a) On or after March 26, 1985 no person shall engage in business as an importer, exporter, or reexporter of any terrestrial plants listed in 50 CFR 17.12 or 23.23 unless such person has obtained a protected plant permit for engaging in such business from Plant Protection and Quarantine.
 
-(b) An application for a protected plant permit shall be submitted to the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Permit Services, 4700 River Road Unit 133, Riverdale, MD 20737-1236. The completed application shall include the following information:3
+(b) An application for a protected plant permit shall be submitted to the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Permit Services, 4700 River Road Unit 133, Riverdale, MD 20737-1236. The completed application shall include the following information:3/\>
 
 3 Application forms are available on the Internet (*http://www.aphis.usda.gov/ppq/permits*), by calling (877) 770-5990, or by writing to the address in this paragraph. Application forms may also be obtained from local offices at any of the ports designated in 50 CFR part 24. Telephone numbers and addresses of local offices are listed in telephone directories.
 

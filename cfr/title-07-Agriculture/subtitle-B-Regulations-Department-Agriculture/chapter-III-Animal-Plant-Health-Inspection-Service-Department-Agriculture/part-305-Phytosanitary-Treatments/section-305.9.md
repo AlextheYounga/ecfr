@@ -1,14 +1,12 @@
 ##### § 305.9 Irradiation treatment requirements. #####
 
-Link to an amendment published at 83 FR 5878, Feb. 12, 2018.
-
 Irradiation, carried out in accordance with the provisions of this section, is approved as a treatment for any imported regulated article (i.e., fruits, vegetables, cut flowers, and foliage); for any regulated article moved interstate from Hawaii, Puerto Rico, the U.S. Virgin Islands, Guam, and the Commonwealth of the Northern Marianas Islands (referred to collectively, in this section, as Hawaii and U.S. territories); for any berry, fruit, nut, or vegetable listed as a regulated article in § 301.32-2(a) of this chapter; and for any regulated article listed in 301.76-2 of this chapter and intended for consumption, as apparel or as a similar personal accessory, or for decorative use.
 
 (a) *Location of facilities.* (1) Where certified irradiation facilities are available, an approved irradiation treatment may be conducted for any imported regulated article either prior to shipment to the United States or in the United States. For any regulated article moved interstate from Hawaii or U.S. territories, irradiation treatment may be conducted either prior to movement to the mainland United States or in the mainland United States. Irradiation facilities may be located in any State on the mainland United States. For irradiation facilities located in the States of Alabama, Arizona, California, Florida, Georgia, Kentucky, Louisiana, Mississippi, Nevada, New Mexico, North Carolina, South Carolina, Tennessee, Texas, and Virginia, the following additional conditions must be met:
 
 (i) Prospective facility operators must submit a detailed layout of the facility site and its location to APHIS. APHIS will evaluate plant health risks based on the proposed location and layout of the facility site. APHIS will only approve a proposed facility if the Administrator determines that regulated articles can be safely transported to the facility from port of entry or points of origin in the United States.
 
-(ii) The government of the State in which the facility is to be located must concur in writing with the establishment of the facility or, if it does not concur, must provide a written explanation of concern based on pest risks. In instances where the State government does not concur with the proposed facility location, APHIS and the State will agree on a strategy to resolve the pest risk concerns prior to APHIS approval.
+(ii) The government of the State in which the facility is to be located must concur in writing with the location of the facility or, if it does not concur, must provide a written explanation of concern based on pest risks. In instances where the State government does not concur with the proposed facility location, and provides a written explanation of concern based on pest risks, APHIS and the State must agree on a strategy to resolve the pest risk concerns prior to APHIS approval. If the State does not provide a written explanation of concern based on pest risks, then State concurrence will not be required before APHIS approves the facility location.
 
 (iii) Untreated articles may not be removed from their packaging prior to treatment under any circumstances.
 
@@ -16,7 +14,7 @@ Irradiation, carried out in accordance with the provisions of this section, is a
 
 (v) The facility may only treat articles approved by APHIS for treatment at the facility. Approved articles will be listed in the compliance agreement required in paragraph (c)(1)(i) of this section.
 
-(vi) Arrangements for treatment must be made before the departure of a consignment from its port of entry or points of origin in the United States. APHIS and the facility must agree on all parameters, such as time, routing, and conveyance, by which the consignment will move from the port of entry or points of origin in the United States to the treatment facility.
+(vi) Arrangements for treatment must be made before the departure of a consignment from its port of entry or points of origin in the United States. APHIS and the facility must agree on all parameters, such as time, routing, and conveyance, by which the consignment will move from the port of entry or points of origin in the United States to the treatment facility. If APHIS and the facility cannot reach agreement in advance on these parameters then no consignments may be moved to that facility until an agreement has been reached.
 
 (vii) Regulated articles must be conveyed to the facility in a refrigerated (via motorized refrigeration equipment or other methods including ice or insulation) or air-conditioned conveyance at a temperature that minimizes the mobility of the pests of concern for the article.
 
@@ -42,7 +40,7 @@ Irradiation, carried out in accordance with the provisions of this section, is a
 
 (d) *Certified facility.* The irradiation treatment facility must be certified by APHIS. Recertification is required in the event of an increase in the amount of radioisotope, a decrease in the amount of radioisotope for a reason other than natural decay, a major modification to equipment that affects the delivered dose, or a change in the owner or managing entity of the facility. Recertification also may be required in cases where a significant variance in dose delivery has been measured by the dosimetry system. In order to be certified, a facility must:
 
-(1) Be capable of administering the minimum absorbed ionizing radiation doses specified in the PPQ Treatment Manual or in another treatment schedule approved in accordance with § 305.2 to the regulated articles;1
+(1) Be capable of administering the minimum absorbed ionizing radiation doses specified in the PPQ Treatment Manual or in another treatment schedule approved in accordance with § 305.2 to the regulated articles;1/\>
 
 1 The maximum absorbed ionizing radiation dose and the irradiation of food is regulated by the Food and Drug Administration under 21 CFR part 179.
 
@@ -66,7 +64,7 @@ Irradiation, carried out in accordance with the provisions of this section, is a
 
 (ii) *Trust fund agreement.* Irradiated articles may be imported into the United States in accordance with this section only if the NPPO of the country in which the irradiation facility is located or a private export group has entered into a trust fund agreement with APHIS. That agreement requires the NPPO or the private export group to pay, in advance of each shipping season, all costs that APHIS estimates it will incur in providing inspection and treatment monitoring services at the irradiation facility during that shipping season. Those costs include administrative expenses and all salaries (including overtime and the Federal share of employee benefits), travel expenses (including per diem expenses), and other incidental expenses incurred by APHIS in performing these services. The agreement will describe the general nature and scope of APHIS services provided at irradiation facilities covered by the agreement, such as whether APHIS inspectors will monitor operations continuously or intermittently, and will generally describe the extent of inspections APHIS will perform on articles prior to and after irradiation. The agreement requires the NPPO or private export group to deposit a certified or cashier's check with APHIS for the amount of those costs, as estimated by APHIS. If the deposit is not sufficient to meet all costs incurred by APHIS, the agreement further requires the NPPO or the private export group to deposit with APHIS a certified or cashier's check for the amount of the remaining costs, as determined by APHIS, before any more articles irradiated in that country may be imported into the United States. After a final audit at the conclusion of each shipping season, any overpayment of funds would be returned to the NPPO or the private export group or held on account until needed, at the option of the NPPO or the private export group.
 
-(3) *Irradiation facilities located within the United States.* Facilities located within the United States must notify an inspector at least 24 hours (excluding Saturday, Sunday, and Federal holidays) before scheduled operations.2 If the facility will be used to treat imported articles, the NPPO of the country from which the articles are to be imported into the United States in accordance with this section must also sign the irradiation treatment framework equivalency workplan required in paragraph (e)(1) of this section.
+(3) *Irradiation facilities located within the United States.* Facilities located within the United States must notify an inspector at least 24 hours (excluding Saturday, Sunday, and Federal holidays) before scheduled operations.2/\> If the facility will be used to treat imported articles, the NPPO of the country from which the articles are to be imported into the United States in accordance with this section must also sign the irradiation treatment framework equivalency workplan required in paragraph (e)(1) of this section.
 
 2 Inspectors are assigned to local offices of the Animal and Plant Health Inspection Service, which are listed in telephone directories.
 
@@ -78,7 +76,7 @@ Irradiation, carried out in accordance with the provisions of this section, is a
 
 (i) The fruits and vegetables must be packaged either:
 
-(A) In insect-proof cartons that have no openings that will allow the entry of the pests of concern. The cartons must be sealed with seals that will visually indicate if the cartons have been opened. The cartons may be constructed of any material that prevents entry or oviposition (if applicable) by the pests of concern into the articles in the carton;3 or
+(A) In insect-proof cartons that have no openings that will allow the entry of the pests of concern. The cartons must be sealed with seals that will visually indicate if the cartons have been opened. The cartons may be constructed of any material that prevents entry or oviposition (if applicable) by the pests of concern into the articles in the carton;3/\> or
 
 3 If there is a question as to the adequacy of a carton, send a request for approval of the carton, together with a sample carton, to the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Center for Plant Health Inspection and Technology, 1730 Varsity Drive, Suite 400, Raleigh, NC 27606-5202.
 
@@ -110,7 +108,7 @@ Irradiation, carried out in accordance with the provisions of this section, is a
 
 (2) The absorbed dose, as measured using an accurate dosimetry system, must meet or exceed the absorbed dose for the pest(s) of concern required by the PPQ Treatment Manual or by another approved treatment schedule.
 
-(3) When designing the facility's dosimetry system and procedures for its operation, the facility operator must address guidance and principles from the International Standards Organization/American Society for Testing and Materials standard4 or an equivalent standard recognized by APHIS.
+(3) When designing the facility's dosimetry system and procedures for its operation, the facility operator must address guidance and principles from the International Standards Organization/American Society for Testing and Materials standard4/\> or an equivalent standard recognized by APHIS.
 
 4 Designation ISO/ASTM 51261-2002(E), “Standard Guide for Selection and Calibration of Dosimetry Systems for Radiation Processing,” American Society for Testing and Materials, *Annual Book of ASTM Standards.*
 
@@ -126,4 +124,4 @@ Irradiation, carried out in accordance with the provisions of this section, is a
 
 (o) *Substitution of irradiation for other treatments.* Treatment of fruits and vegetables that are from foreign localities, from Hawaii, Puerto Rico, and the U.S. Virgin Islands, or from domestic areas under quarantine with irradiation in accordance with this section may be substituted for other approved treatments if the target pests of the other approved treatments are approved for treatment with irradiation in the PPQ Treatment Manual or approved for treatment with irradiation in accordance with § 305.2.
 
-(Approved by the Office of Management and Budget under control numbers 0579-0155, 0579-0215, and 0579-0198, 0579-0383)[75 FR 4241, Jan. 26, 2010, as amended at 75 FR 34336, June 17, 2010; 76 FR 60361, Sept. 29, 2011; 77 FR 42624, July 20, 2012]
+(Approved by the Office of Management and Budget under control numbers 0579-0155, 0579-0215, and 0579-0198, 0579-0383)[75 FR 4241, Jan. 26, 2010, as amended at 75 FR 34336, June 17, 2010; 76 FR 60361, Sept. 29, 2011; 77 FR 42624, July 20, 2012; 83 FR 5878, Feb. 12, 2018]

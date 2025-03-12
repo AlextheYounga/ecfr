@@ -2,7 +2,7 @@
 
 (a) *Restricted articles.* The following are restricted articles:
 
-(1) Bark chips or mulch3 located in a quarantined area and that are proven host plant taxa listed in paragraph (d) of this section.
+(1) Bark chips or mulch3/\> located in a quarantined area and that are proven host plant taxa listed in paragraph (d) of this section.
 
 3 Bark chips or mulch of species listed in paragraph (d) of this section and that are marked with an asterisk (\*) are not restricted articles.
 
@@ -12,7 +12,7 @@
 
 (b) *Regulated articles.* The following are regulated articles:
 
-(1) Nursery stock, decorative trees without roots, unprocessed wood and wood products, and plant products, including firewood, logs, lumber,4 wreaths, garlands, and greenery of proven host plant taxa listed in paragraph (d) of this section.
+(1) Nursery stock, decorative trees without roots, unprocessed wood and wood products, and plant products, including firewood, logs, lumber,4/\> wreaths, garlands, and greenery of proven host plant taxa listed in paragraph (d) of this section.
 
 4 Firewood, logs, and lumber of species listed in paragraph (d) of this section and that are marked with an asterisk (\*) are not regulated articles.
 

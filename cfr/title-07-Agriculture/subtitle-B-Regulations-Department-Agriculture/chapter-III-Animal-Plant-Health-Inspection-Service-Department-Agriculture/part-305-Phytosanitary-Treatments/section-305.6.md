@@ -1,14 +1,38 @@
 ##### § 305.6 Cold treatment requirements. #####
 
-Link to an amendment published at 83 FR 5876, Feb. 12, 2018.
-
-(a) *Certification of treatment facilities.* All facilities or locations used for refrigerating fruits or vegetables in accordance with the cold treatment schedules in the PPQ Treatment Manual or in another treatment schedule approved in accordance with § 305.2 must be certified by APHIS. Recertification of the facility or carrier is required every 3 years, or as often as APHIS directs, depending on treatments performed, commodities handled, and operations conducted at the facility. In order to be certified, facilities and carriers must:
+(a) *Certification of treatment facilities.* All facilities or locations used for refrigerating fruits or vegetables in accordance with the cold treatment schedules in the PPQ Treatment Manual or in another treatment schedule approved in accordance with § 305.2 must be certified by APHIS. Recertification of the facility or carrier is required every 3 years, or as often as APHIS directs, depending on treatments performed, commodities handled, and operations conducted at the facility. A facility will only be certified or recertified if the Administrator determines that the location of the facility is such that those Federal agencies involved in its operation and oversight have adequate resources to conduct the necessary operations at the facility, that the pest risks can be managed at that location, and that the facility meets all criteria for approval. Other agencies that have regulatory oversight and requirements must concur in writing with the establishment of the facility prior to APHIS approval. In order to be certified, facilities and carriers must:
 
 (1) Be capable of keeping treated and untreated fruits, vegetables, or other articles separate so as to prevent reinfestation of articles and spread of pests;
 
-(2) Have equipment that is adequate to effectively perform cold treatment.
+(2) Be capable of preventing the escape and spread of pests while regulated articles are at the facility; and
 
-(b) *Places of treatment; ports of entry.* Precooling and refrigeration may be performed prior to, or upon arrival of fruits and vegetables in the United States, provided treatments are performed in accordance with applicable requirements of this section. Fruits and vegetables that are not treated prior to arrival in the United States must be treated after arrival only in cold storage warehouses approved by the Administrator and located in the area north of 39° latitude and east of 104° longitude or at one of the following ports: The maritime ports of Wilmington, NC; Seattle, WA; Corpus Christi, TX; and Gulfport, MS; Seattle-Tacoma International Airport, Seattle, WA; MidAmerica St. Louis Airport, Mascoutah, IL; and Hartsfield-Atlanta International Airport, Atlanta, GA.
+(3) Have equipment that is adequate to effectively perform cold treatment.
+
+(b)(1) *Location of facilities.* Where certified cold treatment facilities are available, an approved cold treatment may be conducted for any imported regulated article either prior to shipment to the United States or in the United States. For any regulated article moved interstate from Hawaii or U.S. territories, cold treatment may be conducted either prior to movement to the mainland United States or in the mainland United States. Cold treatment facilities may be located in any State on the mainland United States. For cold treatment facilities located in the area south of 39° latitude and west of 104° longitude, the following additional conditions must be met:
+
+(i) Prospective facility operators must submit a detailed layout of the facility site and its location to APHIS. APHIS will evaluate plant health risks based on the proposed location and layout of the facility site. APHIS will only approve a proposed facility if the Administrator determines that regulated articles can be safely transported to the facility from the port of entry or points of origin in the United States.
+
+(ii) The government of the State in which the facility is to be located must concur in writing with the location of the facility or, if it does not concur, must provide a written explanation of concern based on pest risks. In instances where the State government does not concur with the proposed facility location, and provides a written explanation of concern based on pest risks, APHIS and the State must agree on a strategy to resolve the pest risk concerns prior to APHIS approval. If the State does not provide a written explanation of concern based on pest risks, then State concurrence will not be required before APHIS approves the facility location.
+
+(iii) Untreated articles may not be removed from their packaging prior to treatment under any circumstances.
+
+(iv) The facility must have contingency plans, approved by APHIS, for safely destroying or disposing of regulated articles if the facility is unable to properly treat a shipment.
+
+(v) The facility may only treat articles approved by APHIS for treatment at the facility. Approved articles will be listed in the compliance agreement required in paragraph (f) of this section.
+
+(vi) Arrangements for treatment must be made before the departure of a consignment from its port of entry or points of origin in the United States. APHIS and the facility must agree on all parameters, such as time, routing, and conveyance, by which the consignment will move from the port of entry or points of origin in the United States to the treatment facility. If APHIS and the facility cannot reach agreement in advance on these parameters then no consignments may be moved to that facility until an agreement has been reached.
+
+(vii) Regulated articles must be conveyed to the facility in a refrigerated (via motorized refrigeration equipment) conveyance at a temperature that minimizes the mobility of the pests of concern for the article.
+
+(viii) The facility must apply all post-treatment safeguards required for certification under paragraph (a) of this section before releasing the articles.
+
+(ix) The facility must remain locked when not in operation.
+
+(x) The facility must maintain and provide APHIS with an updated map identifying places where horticultural or other crops are grown within 4 square miles of the facility. Proximity of host material to the facility will necessitate trapping or other pest monitoring activities, funded by the facility, to help prevent establishment of any escaped pests of concern, as approved by APHIS; these activities will be listed in the compliance agreement required in paragraph (f) of this section. The treatment facility must have a pest management plan within the facility.
+
+(xi) The facility must comply with any additional requirements including, but not limited to, the use of pest-proof packaging and container seals, that APHIS may require to prevent the escape of plant pests during transport to and from the cold treatment facility itself, for a particular facility based on local conditions, and for any other risk factors of concern. These activities will be listed in the compliance agreement required in paragraph (f) of this section.
+
+(2) For articles that are moved interstate from areas quarantined for fruit flies, cold treatment facilities may be located either within or outside of the quarantined area. If the articles are treated outside the quarantined area, they must be accompanied to the facility by a limited permit issued in accordance with § 301.32-5(b) of this chapter and must be moved in accordance with any safeguards determined to be appropriate by APHIS.
 
 (c) *Cold treatment enclosures.* All enclosures, in which cold treatment is performed, including refrigerated containers, must:
 
@@ -46,102 +70,18 @@ Link to an amendment published at 83 FR 5876, Feb. 12, 2018.
 
 (14) An official authorized by APHIS may perform audits to ensure that the treatment procedures comply with the regulations in this section and that the treatment is administered in accordance with the treatment schedules in the PPQ Treatment Manual or in accordance with another approved treatment schedule. The official authorized by APHIS must be given the appropriate materials and access to the facility, container, or vessel necessary to perform the audits.
 
-(15) An inspector will sample and cut fruit from each consignment cold treated for Mediterranean fruit fly (Medfly) to monitor treatment effectiveness. If a single live Medfly in any stage of development is found, the consignment will be held until an investigation is completed and appropriate remedial actions have been implemented. If APHIS determines at any time that the safeguards contained in this section do not appear to be effective against the Medfly, APHIS may suspend the importation of fruits from the originating country and conduct an investigation into the cause of the deficiency.
+(15) An inspector will sample and cut fruit from each consignment after it has been cold treated to monitor treatment effectiveness. If a single live pest of concern in any stage of development is found, the consignment will be held until an investigation is completed and appropriate remedial actions have been implemented. If APHIS determines at any time that the safeguards contained in this section do not appear to be effective against the pests of concern, APHIS may suspend the importation of fruits from the originating country and conduct an investigation into the cause of the deficiency. APHIS may waive the sampling and cutting requirement of paragraph (d)(15) of this section, provided that the national plant protection organization (NPPO) of the exporting country has conducted such sampling and cutting in the exporting country as part of a biometric sampling protocol approved by APHIS.
 
 (16) The cold treatments required for the entry of fruit are considered necessary for the elimination of plant pests, and no liability shall attach to the U.S. Department of Agriculture or to any officer or representative of that Department in the event injury results to fruit offered for entry in accordance with these instructions. In prescribing cold treatments of certain fruits, it should be emphasized that inexactness and carelessness in applying the treatments may result in injury to the fruit or its rejection for entry.
 
-(e) *Monitoring.* Treatment must be monitored by an inspector to ensure proper administration of the treatment. An inspector must also approve the recording devices and sensors used to monitor temperatures and conduct an operational check of the equipment before each use and ensure sensors are calibrated. An inspector may approve, adjust, or reject the treatment.
+(e) *Monitoring.* Treatment must be monitored by an inspector to ensure proper administration of the treatment. An inspector must also approve the recording devices and sensors used to monitor temperatures and conduct an operational check of the equipment before each use and ensure sensors are calibrated. An inspector may approve, adjust, or reject the treatment. Facilities must be located within the local commuting area for APHIS employees for inspection purposes. Facilities treating imported articles must also be located within an area over which the U.S. Department of Homeland Security is assigned authority to accept entries of merchandise, to collect duties, and to enforce the provisions of the customs and navigation laws in force.
 
-(f) *Compliance agreements.* Facilities located in the United States must operate under a compliance agreement with APHIS. The compliance agreement must be signed by a representative of the cold treatment facility and APHIS. The compliance agreement must contain requirements for equipment, temperature, circulation, and other operational requirements for performing cold treatment to ensure that treatments are administered properly. Compliance agreements must allow officials of APHIS to inspect the facility to monitor compliance with the regulations.
+(f) *Compliance agreements.* Any person who operates a facility where cold treatment is conducted for phytosanitary purposes must sign a compliance agreement with APHIS.
 
-(g) *Workplans.* Facilities located outside the United States may operate in accordance with a bilateral workplan. The workplan, if and when required, must be signed by a representative of the cold treatment facility, the national plant protection organization (NPPO) of the country of origin, and APHIS. The workplans must contain requirements for equipment, temperature, circulation, and other operational requirements for performing cold treatment to ensure that cold treatments are administered properly. Workplans for facilities outside the United States may also include trust fund agreement information regarding payment of the salaries and expenses of APHIS employees on site. Workplans must allow officials of the NPPO and APHIS to inspect the facility to monitor compliance with APHIS regulations.
+(1) *Compliance agreements with importers and facility operators for cold treatment in the United States.* If cold treatment of imported articles is conducted in the United States, both the importer and the operator of the cold treatment facility or the person who conducts the cold treatment must sign compliance agreements with APHIS. In the importer compliance agreement, the importer must agree to comply with any additional requirements found necessary by APHIS to ensure the shipment is not diverted to a destination other than an approved treatment facility and to prevent escape of plant pests from the articles to be treated during their transit from the port of first arrival to the cold treatment facility in the United States. In the facility compliance agreement, the facility operator or person conducting the cold treatment must agree to comply with the requirements of this section and any additional requirements found necessary by APHIS to prevent the escape of any pests of concern that may be associated with the articles to be treated.
 
-(h) *Additional requirements for treatments performed after arrival in the United States.*
+(2) *Compliance agreements with cold treatment facilities outside the United States.* If cold treatment of imported articles is conducted outside the United States, the operator of the cold treatment facility must sign a compliance agreement or an equivalent agreement with APHIS and the NPPO of the country in which the facility is located. In this agreement, the facility operator must agree to comply with the requirements of this section, and the NPPO of the country in which the facility is located must agree to monitor that compliance and inform the Administrator of any noncompliance.
 
-(1) *Maritime port of Wilmington, NC.* Consignments of fruit arriving at the maritime port of Wilmington, NC, for cold treatment, in addition to meeting all other applicable requirements of this section, must meet the following special conditions:
+(3) *Cold treatment facilities treating articles moved interstate from Hawaii and U.S. territories.* Cold treatment facilities treating articles moved interstate from Hawaii and the U.S. territories must complete a compliance agreement with APHIS as provided in § 318.13-3(d) of this chapter.
 
-(i) Bulk consignments (those consignments which are stowed and unloaded by the case or bin) of fruit must arrive in fruit fly-proof packaging that prevents the escape of adult, larval, or pupal fruit flies.
-
-(ii) Bulk and containerized consignments of fruit must be cold-treated within the area over which the U.S. Department of Homeland Security is assigned the authority to accept entries of merchandise, to collect duties, and to enforce the various provisions of the customs and navigation laws in force.
-
-(iii) Advance reservations for cold treatment space must be made prior to the departure of a consignment from its port of origin.
-
-(iv) The cold treatment facility must remain locked during non-working hours.
-
-(2) *Maritime port of Seattle, WA.* Consignments of fruit arriving at the maritime port of Seattle, WA, for cold treatment, in addition to meeting all other applicable requirements of this section, must meet the following special conditions:
-
-(i) Bulk consignments (those consignments which are stowed and unloaded by the case or bin) of fruit must arrive in fruit fly-proof packaging that prevents the escape of adult, larval, or pupal fruit flies.
-
-(ii) Bulk and containerized consignments of fruit must be cold treated within the area over which the U.S. Department of Homeland Security is assigned the authority to accept entries of merchandise, to collect duties, and to enforce the various provisions of the customs and navigation laws in force.
-
-(iii) Advance reservations for cold treatment space must be made prior to the departure of a consignment from its port of origin.
-
-(iv) The cold treatment facility must remain locked during non-working hours.
-
-(v) Black light or sticky paper must be used within the cold treatment facility, and other trapping methods, including APHIS-approved fruit fly traps, must be used within the 4 square miles surrounding the cold treatment facility.
-
-(vi) The cold treatment facility must have contingency plans, approved by the Administrator, for safely destroying or disposing of fruit.
-
-(3) *Airports of Atlanta, GA, and Seattle, WA.* Consignments of fruit arriving at the airports of Atlanta, GA, and Seattle, WA, for cold treatment, in addition to meeting all other applicable requirements of this section, must meet the following special conditions:
-
-(i) Bulk and containerized consignments of fruit must arrive in fruit fly-proof packaging that prevents the escape of adult, larval, or pupal fruit flies.
-
-(ii) Bulk and containerized consignments of fruit arriving for cold treatment must be cold treated within the area over which the U.S. Department of Homeland Security is assigned the authority to accept entries of merchandise, to collect duties, and to enforce the various provisions of the customs and navigation laws in force.
-
-(iii) The cold treatment facility and APHIS must agree in advance on the route by which consignments are allowed to move between the aircraft on which they arrived at the airport and the cold treatment facility. The movement of consignments from aircraft to a cold treatment facility will not be allowed until an acceptable route has been agreed upon.
-
-(iv) Advance reservations for cold treatment space must be made prior to the departure of a consignment from its port of origin.
-
-(v) The cold treatment facility must remain locked during non-working hours.
-
-(vi) Black light or sticky paper must be used within the cold treatment facility, and other trapping methods, including APHIS-approved fruit fly traps, must be used within the 4 square miles surrounding the cold treatment facility.
-
-(vii) The cold treatment facility must have contingency plans, approved by the Administrator, for safely destroying or disposing of fruit.
-
-(4) *Maritime ports of Gulfport, MS, and Corpus Christi, TX.* Consignments of fruit arriving at the ports of Gulfport, MS, and Corpus Christi, TX, for cold treatment, in addition to meeting all other applicable requirements of this section, must meet the following special conditions:
-
-(i) All fruit entering the port for cold treatment must move in maritime containers. No bulk consignments (those consignments which are stowed and unloaded by the case or bin) are permitted.
-
-(ii) Within the container, the fruit intended for cold treatment must be enclosed in fruit fly-proof packaging that prevents the escape of adult, larval, or pupal fruit flies.
-
-(iii) All consignments of fruit arriving at the port for cold treatment must be cold treated within the area over which the U.S. Department of Homeland Security is assigned the authority to accept entries of merchandise, to collect duties, and to enforce the various provisions of the customs and navigation laws in force.
-
-(iv) The cold treatment facility and APHIS must agree in advance on the route by which consignments are allowed to move between the vessel on which they arrived at the port and the cold treatment facility. The movement of consignments from vessel to cold treatment facility will not be allowed until an acceptable route has been agreed upon.
-
-(v) Advance reservations for cold treatment space at the port must be made prior to the departure of a consignment from its port of origin.
-
-(vi) Devanning, the unloading of fruit from containers into the cold treatment facility, must adhere to the following requirements:
-
-(A) All containers must be unloaded within the cold treatment facility; and
-
-(B) Untreated fruit may not be exposed to the outdoors under any circumstances.
-
-(vii) The cold treatment facility must remain locked during non-working hours.
-
-(viii) Black lights or sticky paper must be used within the cold treatment facility, and other trapping methods, including APHIS-approved fruit fly traps, must be used within the 4 square miles surrounding the cold treatment facility at the maritime port of Gulfport, MS, and within the 5 square miles surrounding the cold treatment facility at the maritime port of Corpus Christi, TX.
-
-(ix) During cold treatment, a backup system must be available to cold treat the consignments of fruit should the primary system malfunction. The facility must also have one or more reefers (cold holding rooms) and methods of identifying lots of treated and untreated fruits.
-
-(x) The cold treatment facility must have the ability to conduct methyl bromide fumigations on site.
-
-(xi) The cold treatment facility must have contingency plans, approved by the Administrator, for safely destroying or disposing of fruit.
-
-(5) *Airport of Mascoutah, IL.* Consignments of fruits or vegetables arriving at the MidAmerica St. Louis Airport, Mascoutah, IL, for cold treatment, in addition to meeting all other applicable requirements of this section, must meet the following special conditions:
-
-(i) Bulk and containerized consignments of fruits or vegetables arriving for cold treatment must be cold treated within the area over which the U.S. Department of Homeland Security is assigned the authority to accept entries of merchandise, to collect duties, and to enforce the various provisions of the customs and navigation laws in force.
-
-(ii) APHIS will evaluate facility safeguards in light of the plant health risks involved and approve the operation of a facility in that location subject to the following conditions to be agreed upon by the involved parties and included in the compliance agreement required in § 305.6(f):
-
-(A) The facility will only be certified if the Administrator determines that the regulated articles could be safely transported to the facility from the point of entry or origin without significant risk that plant pests will escape in transit to the facility or while the regulated articles are at the facility.
-
-(B) Bulk consignments (those consignments which are stowed and unloaded by the case or bin) of fruit must arrive in pest-proof packaging that prevents the escape of the pests of concern.
-
-(C) The facility must ensure that the pest-proof cartons are off-loaded from containers in a safeguarded environment and at no time are the articles to be removed from the cartons prior to treatment.
-
-(D) Arrangements for treatment must be made before the departure of a consignment from its port of entry or points of origin in the United States. The cold treatment facility and APHIS must agree in advance on the route by which consignments are allowed to move between the aircraft on which they arrived at the airport and the cold treatment facility. The movement of consignments from aircraft to a cold treatment facility will not be allowed until an acceptable route has been agreed upon.
-
-(E) The facility must have contingency plans, approved by the Administrator, for safely destroying or disposing of fruits or vegetables.
-
-(F) The facility must maintain physical separation of treated articles from untreated articles and apply all required safeguards (e.g., larger consignments are broken up into smaller boxes following treatment and those treated articles are required to be packaged in pest-proof containers per an agreement between the treatment facility and the importer) before releasing to local markets or for movement to other States.
-
-[75 FR 4241, Jan. 26, 2010, as amended at 75 FR 52217, Aug. 25, 2010; 76 FR 60361, Sept. 29, 2011; 78 FR 63374, Oct. 24, 2013]
+(Approved by the Office of Management and Budget under control number 0579-0450)[75 FR 4241, Jan. 26, 2010, as amended at 75 FR 52217, Aug. 25, 2010; 76 FR 60361, Sept. 29, 2011; 78 FR 63374, Oct. 24, 2013; 83 FR 5876, Feb. 12, 2018]

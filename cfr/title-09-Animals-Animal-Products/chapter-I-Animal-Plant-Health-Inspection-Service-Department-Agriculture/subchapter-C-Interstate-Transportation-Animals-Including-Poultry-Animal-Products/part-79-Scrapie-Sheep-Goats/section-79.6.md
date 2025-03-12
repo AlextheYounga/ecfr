@@ -34,7 +34,7 @@
 
 (9) Has educated those engaged in the interstate movement of sheep and goats regarding the identification and recordkeeping requirements of this part.
 
-(10) Has provided APHIS with a plan and timeline for complying with the following additional requirements, which must be met within 2 years of designation of the State as a Consistent State5:
+(10) Has provided APHIS with a plan and timeline for complying with the following additional requirements, which must be met within 2 years of designation of the State as a Consistent State5/\>:
 
 5 This provision would apply until January 1, 2003. Any State designated as a Consistent State after that date would have to meet all requirements prior to designation.
 

@@ -58,7 +58,7 @@
 
 (6) Official tags shall be serially numbered and shall be applied to dogs or cats in the manner set forth in this section in as close to consecutive numerical order as possible. No tag number shall be used to identify more than one animal or shall be reused within a 5-year period.
 
-(7) Research facilities may obtain, at their own expense, official tags from commercial tag manufacturers.1 At the time the research facility is registered, the Department will assign identification letters and numbers to be used on the official tags.
+(7) Research facilities may obtain, at their own expense, official tags from commercial tag manufacturers.1/\> At the time the research facility is registered, the Department will assign identification letters and numbers to be used on the official tags.
 
 1 A list of the commercial manufacturers who produce these tags and are known to the Department may be obtained from the AC Regional Director. Any manufacturer who desires to be included in the list should notify the Administrator.
 

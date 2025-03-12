@@ -2,11 +2,11 @@
 
 The following are regulated articles:
 
-(a) Imported fire ant queens and reproducing colonies of imported fire ants.1
+(a) Imported fire ant queens and reproducing colonies of imported fire ants.1/\>
 
 1 Permit and other requirements for the interstate movement of imported fire ants are contained in part 330 of this chapter.
 
-(b) Soil,2 separately or with other articles, except potting soil that is shipped in original containers in which the soil was placed after commercial preparation.
+(b) Soil,2/\> separately or with other articles, except potting soil that is shipped in original containers in which the soil was placed after commercial preparation.
 
 2 The movement of soil from Puerto Rico is subject to additional provisions in part 330 of this chapter.
 

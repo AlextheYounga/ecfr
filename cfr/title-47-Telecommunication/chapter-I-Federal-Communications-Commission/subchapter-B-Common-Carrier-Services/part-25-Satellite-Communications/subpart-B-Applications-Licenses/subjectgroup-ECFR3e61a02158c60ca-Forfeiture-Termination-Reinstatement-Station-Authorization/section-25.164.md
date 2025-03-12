@@ -14,4 +14,4 @@
 
 (h) In cases where the Commission grants a satellite authorization in different stages, such as a license for a satellite system using feeder links or inter-satellite links, the earliest of the milestone schedules will be applied to the entire satellite system.
 
-[68 FR 51507, Aug. 27, 2003, as amended at 69 FR 51587, Aug. 20, 2004; 79 FR 8320, Feb. 12, 2014; 81 FR 55334, Aug. 18, 2016; 82 FR 59985, Dec. 18, 2017]Effective Date Note:At 82 FR 59985, Dec. 18, 2017, § 25.164(a), (b), and (g) were revised. These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[68 FR 51507, Aug. 27, 2003, as amended at 69 FR 51587, Aug. 20, 2004; 79 FR 8320, Feb. 12, 2014; 81 FR 55334, Aug. 18, 2016; 82 FR 59985, Dec. 18, 2017]Effective Date Note:At 82 FR 59985, Dec. 18, 2017, § 25.164 was amended by revising paragraphs (a), (b), and (g). This amendment contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

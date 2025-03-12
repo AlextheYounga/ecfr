@@ -1,6 +1,6 @@
 ##### § 319.77-4 Conditions for the importation of regulated articles. #####
 
-(a) *Trees and shrubs.*1 (1) Trees without roots (*e.g.,* Christmas trees), trees with roots, and shrubs with roots and persistent woody stems may be imported into the United States from any area of Canada without restriction under this subpart if they:
+(a) *Trees and shrubs.*1/\> (1) Trees without roots (*e.g.,* Christmas trees), trees with roots, and shrubs with roots and persistent woody stems may be imported into the United States from any area of Canada without restriction under this subpart if they:
 
 1 Trees and shrubs from Canada may be subject to additional restrictions under “Subpart-Nursery Stock, Plants, Roots, Seeds, and Other Plant Products” (§§ 319.37 through § 319.37-14 of this part) and “Subpart - Logs, Lumber, and Other Unmanufactured Wood Articles” (§§ 319.40-1 through 319.40-11 of this part).
 
@@ -16,7 +16,7 @@
 
 (ii) If the trees or shrubs originated in a Canadian noninfested area, they must be accompanied by a certification of origin stating that they were produced in an area of Canada where gypsy moth is not known to occur.
 
-(b) *Bark and bark products and logs and pulpwood with bark attached.*2 (1) Bark and bark products or logs or pulpwood with bark attached that are destined for a U.S. infested area and that will not be moved through any U.S. noninfested area other than noninfested areas in the counties of Aroostock, Franklin, Oxford, Piscataquis, Penobscot, and Somerset, ME (*i.e.*, areas in those counties that are not listed in § 301.45-3 of this chapter) may be imported from any area of Canada without restriction under this subpart.
+(b) *Bark and bark products and logs and pulpwood with bark attached.*2/\> (1) Bark and bark products or logs or pulpwood with bark attached that are destined for a U.S. infested area and that will not be moved through any U.S. noninfested area other than noninfested areas in the counties of Aroostock, Franklin, Oxford, Piscataquis, Penobscot, and Somerset, ME (*i.e.*, areas in those counties that are not listed in § 301.45-3 of this chapter) may be imported from any area of Canada without restriction under this subpart.
 
 2 Bark, bark products, and logs from Canada are also subject to restrictions under “Subpart - Logs, Lumber, and Other Unmanufactured Wood Articles” (§§ 319.40 through 319.40-11 of this part).
 

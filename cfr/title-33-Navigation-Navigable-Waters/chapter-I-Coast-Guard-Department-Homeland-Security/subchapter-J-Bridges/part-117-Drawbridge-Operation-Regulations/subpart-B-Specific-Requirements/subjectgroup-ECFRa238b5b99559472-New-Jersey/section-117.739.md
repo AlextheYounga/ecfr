@@ -36,8 +36,6 @@
 
 (2) West Eighth Street Bridge, mile 15.3, at Garfield.
 
-(o) The draw of the Route 1 & 9 (Lincoln Highway) Bridge, mile 1.8, between Kearny and Newark, shall open on signal if at least a four hour advance notice is given; except that, the draw need not open for the passage of vessel traffic between 6 a.m. and 10 a.m. and between 2 p.m. and 6 p.m., Monday through Friday, except holidays. Tide dependant deep draft vessels may request bridge openings between 6 a.m. and 10 a.m. and between 2 p.m. and 6 p.m., provided at least a twelve hour advance notice is given by calling the number posted at the bridge.
-
-(p)-(s) [Reserved]
+(o)-(s) [Reserved]
 
 [CGD01-95-171, 62 FR 6485, Feb. 12, 1997, as amended by CGD01-97-020, 63 FR 34124, June 23, 1998; CGD01-97-134, 64 FR 4788, Feb. 1, 1999; CGD01-99-076, 64 FR 62114, Nov. 16, 1999; USCG-2001-10881, 71 FR 70311, Dec. 4, 2006; USCG-2010-0234, 75 FR 51942, Aug. 24, 2010; USCG-2011-0268, 76 FR 65376, Oct. 21, 2011; USCG-2013-0638, 78 FR 72022, Dec. 2, 2013; USCG-2014-1070, 80 FR 10591, Feb. 27, 2015]

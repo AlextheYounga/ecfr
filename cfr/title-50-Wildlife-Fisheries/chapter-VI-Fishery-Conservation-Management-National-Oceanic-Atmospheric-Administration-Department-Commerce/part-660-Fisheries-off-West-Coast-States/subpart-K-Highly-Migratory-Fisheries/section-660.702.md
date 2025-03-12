@@ -1,5 +1,7 @@
 ##### § 660.702 Definitions. #####
 
+Link to an amendment published at 83 FR 11150, Mar. 14, 2018.
+
 *Basket-style longline gear* means a type of longline gear that is divided into units called *baskets,* each consisting of a segment of main line to which 10 or more branch lines with hooks are spliced. The mainline and all branch lines are made of multiple braided strands of cotton, nylon, or other synthetic fibers impregnated with tar or other heavy coatings that cause the lines to sink rapidly in seawater.
 
 *Closure,* when referring to closure of a fishery, means that taking and retaining, possessing, or landing the particular species or species group is prohibited.

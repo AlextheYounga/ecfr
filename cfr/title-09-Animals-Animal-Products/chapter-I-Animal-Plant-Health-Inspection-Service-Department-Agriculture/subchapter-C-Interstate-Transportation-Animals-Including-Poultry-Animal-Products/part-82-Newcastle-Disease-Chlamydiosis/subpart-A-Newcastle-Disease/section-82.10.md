@@ -14,7 +14,7 @@
 
 (2) Clean the items in accordance with part 71 of this chapter;
 
-(3) Have a Federal representative or State representative7 inspect the items after they have been cleaned;
+(3) Have a Federal representative or State representative7/\> inspect the items after they have been cleaned;
 
 7 See footnote 3 to § 82.5.
 
@@ -24,7 +24,7 @@
 
 (d) If the place where the cleaning and disinfection would otherwise be required has no facilities for cleaning and disinfecting, the items may be moved to a place where facilities are available for cleaning and disinfecting, provided a Federal representative or State representative has determined that such movement will not cause a risk of the spread of Newcastle disease.
 
-(e) Vehicles, cages, coops, containers, troughs, and other equipment that are moved interstate under this section must be accompanied by a permit obtained in accordance with § 82.11, and copies of the permit accompanying the vehicles, cages, coops, containers, troughs, and other equipment interstate must be submitted so that a copy is received by the State animal health official and the veterinarian in charge8 for the State of destination within 72 hours of the arrival of the vehicles, cages, coops, containers, troughs, and other equipment at the destination listed on the permit.
+(e) Vehicles, cages, coops, containers, troughs, and other equipment that are moved interstate under this section must be accompanied by a permit obtained in accordance with § 82.11, and copies of the permit accompanying the vehicles, cages, coops, containers, troughs, and other equipment interstate must be submitted so that a copy is received by the State animal health official and the veterinarian in charge8/\> for the State of destination within 72 hours of the arrival of the vehicles, cages, coops, containers, troughs, and other equipment at the destination listed on the permit.
 
 8 See footnote 4 of § 82.5.
 

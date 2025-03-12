@@ -1,5 +1,7 @@
 ##### § 114.13 Expiration date determination. #####
 
+Link to an amendment published at 83 FR 11143, Mar. 14, 2018.
+
 Unless otherwise provided for in a Standard Requirement of filed Outline of Production, the expiration date for each product shall be computed from the date of the initiation of the potency test. Prior to licensure, stability of each fraction shall be determined by methods acceptable to Animal and Plant Health Inspection Service. Expiration dates based on this stability data shall be confirmed as follows:
 
 (a) *Products consisting of viable organisms.* Each serial shall be tested for potency at release and at the approximate expiration date until a statistically valid stability record has been established.

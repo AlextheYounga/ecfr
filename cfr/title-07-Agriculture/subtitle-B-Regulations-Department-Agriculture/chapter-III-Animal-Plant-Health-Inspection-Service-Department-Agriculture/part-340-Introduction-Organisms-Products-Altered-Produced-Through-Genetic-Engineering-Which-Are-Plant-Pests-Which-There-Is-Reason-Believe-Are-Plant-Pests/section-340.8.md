@@ -1,6 +1,6 @@
 ##### § 340.8 Container requirements for the movement of regulated articles. #####
 
-(a) *General requirements.* A regulated article shall not be moved unless it complies with the provisions of paragraph (b) of this section, unless a variance has been granted in accordance with the provisions of paragraph (c) of this section.12
+(a) *General requirements.* A regulated article shall not be moved unless it complies with the provisions of paragraph (b) of this section, unless a variance has been granted in accordance with the provisions of paragraph (c) of this section.12/\>
 
 12 The requirements of this section are in addition to and not in lieu of any other packing requirements such as those for the transportation of etiologic agents prescribed by the Department of Transportation in Title 49 CFR or any other agency of the Federal government.
 

@@ -2,7 +2,7 @@
 
 (a) *Additional conditions for issuance of a certificate; any regulated article.* In addition to the general conditions for issuance of a certificate contained in § 301.76-5(a), an inspector or person operating under a compliance agreement may issue a certificate for the interstate movement of any regulated article to any State if:
 
-(1) The article is treated with methyl bromide3 in accordance with 7 CFR part 305 of this chapter.
+(1) The article is treated with methyl bromide3/\> in accordance with 7 CFR part 305 of this chapter.
 
 3 EPA and State and local environmental authorities may restrict the use of methyl bromide on certain articles.
 
@@ -14,7 +14,7 @@
 
 (b) *Additional conditions for issuance of a certificate; regulated nursery stock.* In addition to the general conditions for issuance of a certificate contained in § 301.76-5(a), an inspector or person operating under a compliance agreement may issue a certificate for interstate movement of regulated nursery stock to any State if:
 
-(1) The nursery in which the nursery stock is produced has entered into a compliance agreement with APHIS in which it agrees to meet the relevant construction standards, sourcing and certification requirements, cleaning, disinfecting, and safeguarding requirements, labeling requirements, and recordkeeping and inspection requirements specified in a PPQ protocol document. The protocol document will be provided to the person at the time he or she enters into the compliance agreement.4 The compliance agreement may also specify additional conditions determined by APHIS to be necessary in order to prevent the spread of Asian citrus psyllid under which the nursery stock must be grown, maintained, and shipped in order to obtain a certificate for its movement. The compliance agreement will also specify that APHIS may amend the agreement.
+(1) The nursery in which the nursery stock is produced has entered into a compliance agreement with APHIS in which it agrees to meet the relevant construction standards, sourcing and certification requirements, cleaning, disinfecting, and safeguarding requirements, labeling requirements, and recordkeeping and inspection requirements specified in a PPQ protocol document. The protocol document will be provided to the person at the time he or she enters into the compliance agreement.4/\> The compliance agreement may also specify additional conditions determined by APHIS to be necessary in order to prevent the spread of Asian citrus psyllid under which the nursery stock must be grown, maintained, and shipped in order to obtain a certificate for its movement. The compliance agreement will also specify that APHIS may amend the agreement.
 
 4 The protocol document is also available on the Internet at *http://www.aphis.usda.gov/plant\_health/plant\_pest\_info/citrus/index.shtml* and may be obtained from local Plant Protection and Quarantine offices, which are listed in telephone directories.
 
@@ -52,7 +52,7 @@
 
 (vi) The agricultural seal is removed at the destination specified on the limited permit by an inspector.
 
-(d) *Additional conditions for issuance of a limited permit; regulated articles intended for consumption, as apparel or as a similar personal accessory, or for other decorative use.*5 In addition to the general conditions for issuance of a limited permit contained in § 301.76-5(b), an inspector or person operating under a compliance agreement may issue a limited permit for the interstate movement of regulated articles intended for consumption, as apparel or as a similar personal accessory, or for other decorative use if:
+(d) *Additional conditions for issuance of a limited permit; regulated articles intended for consumption, as apparel or as a similar personal accessory, or for other decorative use.*5/\> In addition to the general conditions for issuance of a limited permit contained in § 301.76-5(b), an inspector or person operating under a compliance agreement may issue a limited permit for the interstate movement of regulated articles intended for consumption, as apparel or as a similar personal accessory, or for other decorative use if:
 
 5 Examples of such articles include *Bergera* (=*Murraya*) *koenigii* leaves, as well as *Murraya paniculata* flowers or foliage.
 

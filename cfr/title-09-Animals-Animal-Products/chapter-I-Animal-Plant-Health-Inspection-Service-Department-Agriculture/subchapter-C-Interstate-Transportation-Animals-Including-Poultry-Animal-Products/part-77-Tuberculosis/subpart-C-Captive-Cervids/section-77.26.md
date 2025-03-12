@@ -1,6 +1,6 @@
 ##### § 77.26 Modified accredited States or zones. #####
 
-(a) States listed in paragraph (b) of this section must submit to APHIS1 by October 23, 2001 data demonstrating that the State complies with the UMR or the State will be redesignated as nonaccredited. If a State does submit surveillance data by October 23, 2001 that meets the UMR standards, and that APHIS believes qualifies the State for a classification other than modified accredited, APHIS will initiate rulemaking to change the State's classification.
+(a) States listed in paragraph (b) of this section must submit to APHIS1/\> by October 23, 2001 data demonstrating that the State complies with the UMR or the State will be redesignated as nonaccredited. If a State does submit surveillance data by October 23, 2001 that meets the UMR standards, and that APHIS believes qualifies the State for a classification other than modified accredited, APHIS will initiate rulemaking to change the State's classification.
 
 1 Send the information to National Animal Health Programs, Veterinary Services, APHIS, 4700 River Road, Unit 42, Riverdale, Maryland 20737-1231.
 

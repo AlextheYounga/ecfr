@@ -1,6 +1,6 @@
 ##### § 3.1 Housing facilities, general. #####
 
-(a) *Structure;* construction. Housing facilities for dogs and cats must be designed and constructed so that they are structurally sound. They must be kept in good repair, and they must protect the animals from injury, contain the animals securely, and restrict other animals from entering.
+(a) *Structure;*/\> construction. Housing facilities for dogs and cats must be designed and constructed so that they are structurally sound. They must be kept in good repair, and they must protect the animals from injury, contain the animals securely, and restrict other animals from entering.
 
 1 These minimum standards apply only to live dogs and cats, unless stated otherwise.
 

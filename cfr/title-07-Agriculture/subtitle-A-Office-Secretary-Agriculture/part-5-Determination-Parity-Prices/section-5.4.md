@@ -4,7 +4,7 @@ Parity prices shall be calculated for the following commodities:
 
 Basic Commodities
 
-Wheat; corn; American upland cotton; extra long staple cotton; rice; peanuts;1 and the following types of tobacco: flue-cured, types 11-14; Virginia fire-cured, type 21; Kentucky-Tennessee fire-cured, types 22-23; burley, type 31; Maryland, type 32; dark air-cured, types 35-36; sun-cured, type 37; Pennsylvania seedleaf, type 41; cigar filler and binder, types 42-44 and 53-55; Puerto Rican filler, type 46; and cigar binder, types 51-52.
+Wheat; corn; American upland cotton; extra long staple cotton; rice; peanuts;1/\> and the following types of tobacco: flue-cured, types 11-14; Virginia fire-cured, type 21; Kentucky-Tennessee fire-cured, types 22-23; burley, type 31; Maryland, type 32; dark air-cured, types 35-36; sun-cured, type 37; Pennsylvania seedleaf, type 41; cigar filler and binder, types 42-44 and 53-55; Puerto Rican filler, type 46; and cigar binder, types 51-52.
 
 1 For the purpose of calculating parity prices the commodity peanuts shall exclude peanuts produced for oil in 1950 and 1951 under the provisions of subsections (g) and (h) of section 359 of the Agricultural Adjustment Act of 1938 as amended.
 

@@ -20,7 +20,7 @@ The following provisions shall apply to the movement into or through the United 
 
 (2) *General transit conditions.* The following conditions apply to all shipments of untreated oranges, tangerines, and grapefruit from Mexico transiting the United States for movement to a foreign country:
 
-(i) The fruit must be packed in insect-proof boxes or crates that prevent the escape or entry of adult, larval, or pupal fruit flies.4
+(i) The fruit must be packed in insect-proof boxes or crates that prevent the escape or entry of adult, larval, or pupal fruit flies.4/\>
 
 4 If there is a question as to whether packaging is adequate, send a request for approval of the packaging, together with a sample of the packaging, to the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Center for Plant Health Science and Technology, 1730 Varsity Drive, Suite 400, Raleigh, NC 27606.
 
@@ -30,7 +30,7 @@ The following provisions shall apply to the movement into or through the United 
 
 (iv) If the seal on the containers in which such fruit is shipped is found to have been broken, for any reason, before the container leaves the United States, or if the cooling system in the containers fails at any point during transit, an inspector at the port of entry must be contacted immediately.
 
-(v) A transportation and exportation permit must be issued by an inspector for each shipment. This permit can be obtained from APHIS headquarters.5
+(v) A transportation and exportation permit must be issued by an inspector for each shipment. This permit can be obtained from APHIS headquarters.5/\>
 
 5 To obtain this permit, contact the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Permit Unit, 4700 River Road Unit 133, Riverdale, MD 20737.
 

@@ -1,0 +1,7 @@
+##### § 93.422 Import permit and declaration for ruminants. #####
+
+(a) For ruminants intended for importation from regions of Central America or of the West Indies, the importer shall first apply for and obtain from APHIS an import permit as provided in § 93.404: *Provided,* That the Administrator, when he or she finds that such action may be taken without endangering the livestock or poultry industry of the United States, may, upon request by any person, authorize the importation by such person, without such application or permit, from the British Virgin Islands into the Virgin Islands of the United States, of ruminants consigned for immediate slaughter, and such authorization may be limited to a particular shipment or extend to all shipments under this paragraph by such person during a specified period of time. The importation of cattle from any area infested with cattle fever ticks is prohibited except as provided in paragraph (c) of § 93.423.
+
+(b) For all ruminants offered for importation from countries of Central America or of the West Indies, the importer or his or her agent shall present two copies of a declaration as provided in § 93.407.
+
+[55 FR 31495, Aug. 2, 1990. Redesignated and amended at 62 FR 56012, 56019, Oct. 28, 1997]

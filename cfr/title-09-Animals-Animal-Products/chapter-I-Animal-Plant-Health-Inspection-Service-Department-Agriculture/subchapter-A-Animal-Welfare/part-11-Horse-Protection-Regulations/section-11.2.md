@@ -32,7 +32,7 @@
 
 (13) Any object or material inserted between the pad and the hoof other than acceptable hoof packing, which includes pine tar, oakum, live rubber, sponge rubber, silicone, commercial hoof packing or other substances used to maintain adequate frog pressure or sole consistency.
 
-(14) Single or double rocker-bars on the bottom surface of horseshoes which extend more than 11/2 inches back from the point of the toe, or which would cause, or could reasonably be expected to cause, an unsteadiness of stance in the horse with resulting muscle and tendon strain due to the horse's weight and balance being focused upon a small fulcrum point.2
+(14) Single or double rocker-bars on the bottom surface of horseshoes which extend more than 11/2 inches back from the point of the toe, or which would cause, or could reasonably be expected to cause, an unsteadiness of stance in the horse with resulting muscle and tendon strain due to the horse's weight and balance being focused upon a small fulcrum point.2/\>
 
 2 This prohibition is not intended to disallow corrective devices, such as Memphis bars which consist of a metal bar(s) crossing from the ground surface of one side of the horseshoe to the ground surface of the other side of the horseshoe, and the purpose of which is to correct a lameness or pathological condition of the foot: *Provided,* That such metal bar(s) do not act as a single fulcrum point so as to affect the balance of the horse.
 

@@ -1,7 +1,5 @@
 ##### § 1282.1 Definitions. #####
 
-Link to an amendment published at 83 FR 5899, Feb. 12, 2018.
-
 (a) *Statutory terms.* All terms defined in the Safety and Soundness Act are used in accordance with their statutory meaning unless otherwise defined in paragraph (b) of this section.
 
 (b) *Other terms.* As used in this part, the term:
@@ -13,8 +11,6 @@ Link to an amendment published at 83 FR 5899, Feb. 12, 2018.
 *AHAR* means the Annual Housing Activities Report that an Enterprise submits to the Director under section 309(n) of the Fannie Mae Charter Act or section 307(f) of the Freddie Mac Act.
 
 *AHAR information* means data or information contained in the AHAR.
-
-*AHS* means the American Housing Survey published by HUD and the Department of Commerce.
 
 *Area of concentrated poverty,* for purposes of subpart C of this part, means a census tract designated by HUD as a Qualified Census Tract, pursuant to 26 U.S.C. 42(d)(5)(B)(ii), or as a Racially- or Ethnically-Concentrated Area of Poverty, pursuant to 24 CFR 5.152, during any year covered by an Underserved Markets Plan or in the year prior to a Plan's effective date.
 
@@ -110,9 +106,9 @@ Link to an amendment published at 83 FR 5899, Feb. 12, 2018.
 
 *Manufactured housing community,* for purposes of subpart C of this part, means a tract of land under unified ownership and developed for the purposes of providing individual rental spaces for the placement of manufactured homes for residential purposes within its boundaries.
 
-*Median income* means, with respect to an area, the unadjusted median family income for the area as most recently determined by HUD. FHFA will provide the Enterprises annually with information specifying how the median family income estimates for metropolitan areas are to be applied for the purposes of determining median family income.
+*Median income* means, with respect to an area, the unadjusted median family income for the area as determined by FHFA. FHFA will provide the Enterprises annually with information specifying how the median family income estimates for metropolitan and non-metropolitan areas are to be applied for purposes of determining median income.
 
-*Metropolitan area* means a metropolitan statistical area (MSA), or a portion of such an area, including Metropolitan Divisions, for which median family income estimates are determined by HUD.
+*Metropolitan area* means a metropolitan statistical area (MSA), or a portion of such an area, including Metropolitan Divisions, for which median incomes are determined by FHFA.
 
 *Middle Appalachia,* for purposes of subpart C of this part, means the “central” Appalachian subregion under the Appalachian Regional Commission's subregional classification of Appalachia.
 
@@ -152,7 +148,7 @@ Link to an amendment published at 83 FR 5899, Feb. 12, 2018.
 
 *Multifamily housing* means a residence consisting of more than four dwelling units. The term includes cooperative buildings and condominium projects.
 
-*Non-metropolitan area* means a county, or a portion of a county, including those counties that comprise Micropolitan Statistical Areas, located outside any metropolitan area for which median family income estimates are published annually by HUD.
+*Non-metropolitan area* means a county, or a portion of a county, including those counties that comprise Micropolitan Statistical Areas, located outside any metropolitan area, for which median incomes are determined by FHFA.
 
 *Owner-occupied housing* means single-family housing in which a mortgagor resides, including two- to four-unit owner-occupied properties where one or more units are used for rental purposes.
 
@@ -250,4 +246,4 @@ Link to an amendment published at 83 FR 5899, Feb. 12, 2018.
 
 (ii) In the case of rental units, income not in excess of 50 percent of area median income, with adjustments for smaller and larger families in accordance with this part.
 
-[75 FR 55930, Sept. 14, 2010, as amended at 78 FR 2328, Jan. 11, 2013; 80 FR 53430, Sept. 3, 2015; 81 FR 76300, Nov. 2, 2016; 81 FR 96292, Dec. 29, 2016]
+[75 FR 55930, Sept. 14, 2010, as amended at 78 FR 2328, Jan. 11, 2013; 80 FR 53430, Sept. 3, 2015; 81 FR 76300, Nov. 2, 2016; 81 FR 96292, Dec. 29, 2016; 83 FR 5899, Feb. 12, 2018]

@@ -8,7 +8,7 @@
 
 (b) The APHIS-defined European CSF region is a single region of low-risk for CSF.
 
-(c) Except as provided in § 94.31 for the APHIS-defined European CSF region, no fresh pork or pork product may be imported into the United States from any region where classical swine fever is known to exist unless it complies with the following requirements:9
+(c) Except as provided in § 94.31 for the APHIS-defined European CSF region, no fresh pork or pork product may be imported into the United States from any region where classical swine fever is known to exist unless it complies with the following requirements:9/\>
 
 9 See also other provisions of this part and parts 93, 95, and 96 of this chapter, and part 327 of this title, for other prohibitions and restrictions upon the importation of swine and swine products.
 
@@ -42,7 +42,7 @@
 
 (2) Articles under paragraph (c)(1)(ii), (iii), or (iv) of this section were prepared in an inspected establishment that is eligible to have its products imported into the United States under the Federal Meat Inspection Act and § 327.2 of this title; and,
 
-(3) In addition to the foreign meat inspection certificate required by § 327.4 of this title, pork and pork products prepared under paragraph (c)(1)(ii), (iii), or (iv) of this section shall be accompanied by a certificate that states that the provisions of paragraph (c)(1)(ii), (iii), or (iv) of this section have been met. This certificate shall be issued by an official of the national government of the region of origin who is authorized to issue the foreign meat inspection certificate required by § 327.4 of this title.10 Upon arrival of the pork or pork products in the United States, the certificate must be presented to an authorized inspector at the port of arrival.
+(3) In addition to the foreign meat inspection certificate required by § 327.4 of this title, pork and pork products prepared under paragraph (c)(1)(ii), (iii), or (iv) of this section shall be accompanied by a certificate that states that the provisions of paragraph (c)(1)(ii), (iii), or (iv) of this section have been met. This certificate shall be issued by an official of the national government of the region of origin who is authorized to issue the foreign meat inspection certificate required by § 327.4 of this title.10/\> Upon arrival of the pork or pork products in the United States, the certificate must be presented to an authorized inspector at the port of arrival.
 
 10 The certification required may be placed on the foreign meat inspection certificate prescribed by § 327.4 of this title or may be contained in a separate document.
 
@@ -56,7 +56,7 @@
 
 (ii) The uncooked pork or pork products may be removed from containers at the processing establishment in the region where CSF is considered to exist only after an official of that region's national government has determined that the seals are intact and free of any evidence of tampering.
 
-(2) *Handling of uncooked pork and pork products.* Establishments11 in regions where CSF is considered to exist that process uncooked pork or pork products for export to the United States:
+(2) *Handling of uncooked pork and pork products.* Establishments11/\> in regions where CSF is considered to exist that process uncooked pork or pork products for export to the United States:
 
 11 See footnote 9.
 

@@ -2,7 +2,7 @@
 
 Any restricted organism imported into the United States must be accompanied by both a permit, in accordance with paragraph (a) of this section, and an invoice or packing list accurately indicating the complete contents of the shipment, in accordance with paragraph (b) of this section.
 
-(a) *Permit.* You must submit a completed application for a permit to import restricted organisms at least 30 days prior to scheduling arrival of those organisms. You may import a restricted organism only if we approve your application and issue you a permit. Our procedures for reviewing permit applications are provided in § 322.15. To apply for a permit, you must supply, either on a completed PPQ Form 526 or in some other written form, the following information:3
+(a) *Permit.* You must submit a completed application for a permit to import restricted organisms at least 30 days prior to scheduling arrival of those organisms. You may import a restricted organism only if we approve your application and issue you a permit. Our procedures for reviewing permit applications are provided in § 322.15. To apply for a permit, you must supply, either on a completed PPQ Form 526 or in some other written form, the following information:3/\>
 
 3 Mail your completed application to Permit Unit, PPQ, APHIS, 4700 River Road Unit 133, Riverdale, MD 20737-1236. A PPQ Form 526 may be obtained by writing to the same address, calling toll-free (877) 770-5990, faxing your request to (301) 734-8700, or downloading the form from *http://www.aphis.usda.gov/ppq/ss/permits/pests/.*
 

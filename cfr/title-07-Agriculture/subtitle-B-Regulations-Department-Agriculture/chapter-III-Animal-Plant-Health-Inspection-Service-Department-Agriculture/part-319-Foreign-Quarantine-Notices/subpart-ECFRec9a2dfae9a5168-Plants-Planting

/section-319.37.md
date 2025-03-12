@@ -1,0 +1,9 @@
+##### § 319.37 Prohibitions and restrictions on importation; disposal of articles refused importation. #####
+
+(a) No person shall import or offer for entry into the United States any prohibited article or any article whose importation is not authorized pending pest risk analysis in accordance with § 319.37-2a, except as otherwise provided in § 319.37-2(c) of this subpart. No person shall import or offer for entry into the United States any restricted article except in accordance with this subpart.
+
+(b) The importer of any article denied entry for noncompliance with this subpart must, at the importer's expense and within the time specified in an emergency action notification (PPQ Form 523), destroy, ship to a point outside the United States, or apply treatments or other safeguards to the article, as prescribed by an inspector to prevent the introduction into the United States of quarantine pests. In choosing which action to order and in setting the time limit for the action, the inspector shall consider the degree of pest risk presented by the quarantine pest associated with the article, whether the article is a host of the pest, the types of other host materials for the pest in or near the port, the climate and season at the port in relation to the pest's survival range, the availability of treatment facilities for the article, and any other factors pertaining to the risk that the article may present to plants, plant parts, or plant products within the United States that he or she considers necessary.
+
+(c) No person shall remove any restricted article from the port of first arrival unless and until a written notice is given to the collector of customs by the inspector that the restricted article has satisfied all requirements under this subpart.
+
+[57 FR 43144, Sept. 18, 1992, as amended at 76 FR 31208, May 27, 2011; 79 FR 74588, Dec. 16, 2014]

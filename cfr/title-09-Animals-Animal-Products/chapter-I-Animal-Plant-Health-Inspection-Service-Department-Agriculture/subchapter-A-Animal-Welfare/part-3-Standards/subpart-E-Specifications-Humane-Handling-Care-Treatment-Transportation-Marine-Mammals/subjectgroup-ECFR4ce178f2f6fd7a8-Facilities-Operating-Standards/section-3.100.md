@@ -1,6 +1,6 @@
 ##### § 3.100 Special considerations regarding compliance and/or variance. #####
 
-(a) All persons subject to the Animal Welfare Act who maintain or otherwise handle marine mammals in captivity must comply with the provisions of this subpart, except that they may apply for and be granted a variance,6 by the Deputy Administrator, from one or more specified provisions of § 3.104. The provisions of this subpart shall not apply, however, in emergency circumstances where compliance with one or more requirements would not serve the best interest of the marine mammals concerned.
+(a) All persons subject to the Animal Welfare Act who maintain or otherwise handle marine mammals in captivity must comply with the provisions of this subpart, except that they may apply for and be granted a variance,6/\> by the Deputy Administrator, from one or more specified provisions of § 3.104. The provisions of this subpart shall not apply, however, in emergency circumstances where compliance with one or more requirements would not serve the best interest of the marine mammals concerned.
 
 6 Written permission from the Deputy Administrator to operate as a licensee or registrant under the Act without being in full compliance with one or more specified provisions of § 3.104.
 

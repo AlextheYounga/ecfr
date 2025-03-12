@@ -1,6 +1,6 @@
 ##### § 356.1 Property subject to forfeiture procedures. #####
 
-This part sets forth procedures relating to the forfeiture of any plant, equipment, means of conveyance or other property1 seized under the Endangered Species Act of 1973, as amended, (16 U.S.C. 1531 *et seq.*) or the Lacey Act Amendments of 1981 (16 U.S.C. 3371 *et seq.*),2 in possession (actual or constructive) of the United States Department of Agriculture, and subject to forfeiture under these Acts because of activities pertaining to the importation, exportation, or reexportation of terrestrial plants.
+This part sets forth procedures relating to the forfeiture of any plant, equipment, means of conveyance or other property1/\> seized under the Endangered Species Act of 1973, as amended, (16 U.S.C. 1531 *et seq.*) or the Lacey Act Amendments of 1981 (16 U.S.C. 3371 *et seq.*),2/\> in possession (actual or constructive) of the United States Department of Agriculture, and subject to forfeiture under these Acts because of activities pertaining to the importation, exportation, or reexportation of terrestrial plants.
 
 1 Under section 11(e)(4) of the Endangered Species Act (“Act”; 16 U.S.C. 1540(e)(4)) any such equipment and means of conveyance would be subject to forfeiture upon conviction of a criminal violation pursuant to section 11(b)(1) of the Act (16 U.S.C. 1540(b)(1)); however, such a plant may be subject to forfeiture regardless of whether a criminal conviction is obtained.
 

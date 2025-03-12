@@ -2,7 +2,7 @@
 
 (a) *In general.* An Enterprise may not enter into any agreement or contract to provide any payment of money or other thing of current or potential value in connection with the termination of employment of an executive officer unless the agreement or contract is approved in advance by the Director.
 
-(b) *Covered agreements or contracts.* An agreement or contract that provides for termination payments to an executive officer of an Enterprise that was entered into before October 28, 1992,1 is not retroactively subject to approval or disapproval by the Director. However, any renegotiation, amendment, or change to such an agreement or contract shall be considered as entering into an agreement or contract that is subject to approval by the Director.
+(b) *Covered agreements or contracts.* An agreement or contract that provides for termination payments to an executive officer of an Enterprise that was entered into before October 28, 1992,1/\> is not retroactively subject to approval or disapproval by the Director. However, any renegotiation, amendment, or change to such an agreement or contract shall be considered as entering into an agreement or contract that is subject to approval by the Director.
 
 1 This date refers to the date of enactment of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992.
 

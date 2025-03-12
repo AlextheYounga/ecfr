@@ -76,4 +76,4 @@ Table 1 to Paragraph (d)(4)(ii)
 
 (f) Any earth station authorizations issued pursuant to paragraph (a)(4), (c), or (d)(4) of this section shall be conditioned upon operation being in compliance with the criteria contained in the applicable paragraph.
 
-[81 FR 79937, Nov. 14, 2016, as amended at 83 FR 63, Jan. 2, 2018]Effective Date Note:At 83 FR 63, 2018, Jan. 2, 2018, § 25.136 was amended by revising the section heading and paragraphs (a) introductory text, (a)(4), (c), and (d) and adding paragraphs (e) and (f). These amendments contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[81 FR 79937, Nov. 14, 2016, as amended at 83 FR 63, Jan. 2, 2018]Effective Date Note:At 83 FR 63, 2018, Jan. 2, 2018, § 25.136 was amended by revising the section heading and paragraphs (a) introductory text, (a)(4), (c), and (d) and adding paragraphs (e) and (f). This amendment contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

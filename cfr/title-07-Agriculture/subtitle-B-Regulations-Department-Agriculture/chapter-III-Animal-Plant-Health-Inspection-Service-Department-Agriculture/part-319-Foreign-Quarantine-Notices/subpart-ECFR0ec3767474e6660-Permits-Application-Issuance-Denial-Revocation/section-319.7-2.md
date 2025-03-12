@@ -34,7 +34,7 @@
 
 (2) Importations without such required labels will be refused entry into the United States, unless a label is not required and not issued for the importation.
 
-(i) Even if a permit has been issued for the importation of a regulated article, the regulated article may be imported only if an inspector at the port of entry determines that no remedial measures pursuant to the Plant Protection Act are necessary to mitigate or address any plant pest or noxious weed risks.1
+(i) Even if a permit has been issued for the importation of a regulated article, the regulated article may be imported only if an inspector at the port of entry determines that no remedial measures pursuant to the Plant Protection Act are necessary to mitigate or address any plant pest or noxious weed risks.1/\>
 
 1 An inspector may hold, seize, quarantine, treat, apply other remedial measures to, destroy, or otherwise dispose of plants, plant pests, and other articles in accordance with sections 414, 421, and 434 of the Plant Protection Act (7 U.S.C. 7714, 7731, and 7754).
 

@@ -4,7 +4,7 @@
 
 (1) For a period of not less than 6 consecutive hours immediately prior to the equines being loaded on the conveyance, provide each equine appropriate food (*i.e.*, hay, grass, or other food that would allow an equine in transit to maintain well-being), potable water, and the opportunity to rest;
 
-(2) Apply a USDA backtag2 to each equine in the shipment;
+(2) Apply a USDA backtag2/\> to each equine in the shipment;
 
 2 USDA backtags are available at recognized slaughtering establishments and specifically approved stockyards and from State representatives and APHIS representatives. A list of recognized slaughtering establishments and specifically approved stockyards may be obtained as indicated in § 78.1 of this chapter. The terms “State representative” and “APHIS representative” are defined in § 78.1 of this chapter.
 

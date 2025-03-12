@@ -8,4 +8,4 @@
 
 (c) *Filing requirements.* A licensee that permanently discontinues service as defined in this section must notify the Commission of the discontinuance within 10 days by filing, via the ULS, FCC Form 601 requesting license cancellation. An authorization will automatically terminate, without specific Commission action, if service is permanently discontinued as defined in this section, even if a licensee fails to file the required form requesting license cancellation.
 
-[82 FR 17583, Apr. 12, 2017]Effective Date Note:At 82 FR 41547, Sept. 1, 2017, § 22.947 was removed but will not become effective until approval has been given by the Office of Management and Budget.
+[82 FR 17583, Apr. 12, 2017]Effective Date Note:At 82 FR 41547, Sept. 1, 2017, § 22.947 was removed. The section contains information collection and recordkeeping requirements and the removal will not become effective until approval has been given by the Office of Management and Budget.

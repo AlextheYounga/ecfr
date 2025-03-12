@@ -10,7 +10,7 @@
 
 (iii) The State recommends that we deny the permit application and provides scientific, risk-based reasons supporting that recommendation; or
 
-(iv) The State makes no recommendation, thereby concurring with our decision regarding the issuance of the permit.4
+(iv) The State makes no recommendation, thereby concurring with our decision regarding the issuance of the permit.4/\>
 
 4 If a State regulatory official does not respond within 20 business days, we will conclude that the State has chosen to make no recommendation regarding the issuance of the permit.
 

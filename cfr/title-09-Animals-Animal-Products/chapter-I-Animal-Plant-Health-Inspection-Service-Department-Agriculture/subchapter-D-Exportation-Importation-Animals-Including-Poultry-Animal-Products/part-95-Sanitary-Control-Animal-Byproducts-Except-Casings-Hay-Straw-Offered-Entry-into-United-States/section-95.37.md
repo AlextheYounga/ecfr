@@ -16,7 +16,7 @@ Railroad cars, trucks, boats, aircraft and other means of conveyance, equipment 
 
 (2) Sodium carbonate (4 percent) plus sodium silicate (0.1 percent) in the proportion of 1 pound of sodium carbonate plus sodium silicate to 3 gallons of water.
 
-(3) Sodium hydroxide (Lye) prepared in a fresh solution in the proportion of not less than 1 pound avoirdupois of sodium hydroxide of not less than 95 percent purity to 6 gallons of water, or one 131/2-ounce can to 5 gallons of water.5
+(3) Sodium hydroxide (Lye) prepared in a fresh solution in the proportion of not less than 1 pound avoirdupois of sodium hydroxide of not less than 95 percent purity to 6 gallons of water, or one 131/2-ounce can to 5 gallons of water.5/\>
 
 5 Due to the extreme caustic nature of sodium hydroxide solution, precautionary measures such as the wearing of rubber gloves, boots, raincoat and goggles should be observed. An acid solution such as vinegar shall be kept readily available in case any of the sodium hydroxide solution should come in contact with the body.
 

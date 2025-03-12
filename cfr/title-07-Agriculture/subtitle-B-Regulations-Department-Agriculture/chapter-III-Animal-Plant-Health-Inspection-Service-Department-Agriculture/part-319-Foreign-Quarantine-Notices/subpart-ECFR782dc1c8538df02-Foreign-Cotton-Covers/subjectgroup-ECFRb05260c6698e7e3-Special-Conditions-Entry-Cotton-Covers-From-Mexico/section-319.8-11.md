@@ -1,6 +1,6 @@
 ##### § 319.8-11 From approved areas of Mexico. #####
 
-(a) Entry of lint, linters, and waste (including gin and oil mill wastes) which were derived from cotton grown in, and which were produced and handled only in approved areas of Mexico3 may be authorized through Mexican Border ports in Texas named in the permits
+(a) Entry of lint, linters, and waste (including gin and oil mill wastes) which were derived from cotton grown in, and which were produced and handled only in approved areas of Mexico3/\> may be authorized through Mexican Border ports in Texas named in the permits
 
 3 See § 319.8-1(p) for definition of “Approved areas of Mexico.” These are within that part of Mexico not included in the “West Coast of Mexico” (§ 319.8-1(q)) or “Northwest Mexico” (§ 319.8-1(r)).
 

@@ -4,8 +4,9 @@
 
 (1) In the plane tangent to the GSO arc, as defined in § 25.103, for earth stations not operating in the conventional Ku-band, the 24.75-25.25 GHz band, or the 28.35-30 GHz band:
 
+|           |   |                    |
+|-----------|---|--------------------|
 |29-25log10θ|dBi| for 1.5° ≤ θ ≤ 7°. |
-|:----------|:--|:-------------------|
 |     8     |dBi|for 7° \< θ ≤ 9.2°. |
 |32-25log10θ|dBi|for 9.2° \< θ ≤ 48°.|
 |    −10    |dBi|for 48° \< θ ≤ 180°.|
@@ -14,8 +15,9 @@ Where θ is the angle in degrees from a line from the earth station antenna to t
 
 (2) In the plane tangent to the GSO arc, for earth stations operating in the conventional Ku-band:
 
+|           |   |                      |
+|-----------|---|----------------------|
 |29-25log10θ|dBi|  for 1.5° ≤ θ ≤ 7°.  |
-|:----------|:--|:---------------------|
 |     8     |dBi| for 7° \< θ ≤ 9.2°.  |
 |32-25log10θ|dBi|for 9.2° \< θ ≤ 19.1°.|
 |     0     |dBi|for 19.1° \< θ ≤ 180°.|
@@ -24,8 +26,9 @@ Where θ and dBi are as defined in paragraph (a)(1) of this section. This envelo
 
 (3) In the plane tangent to the GSO arc, for earth stations operating in the 24.75-25.25 GHz or 28.35-30 GHz bands:
 
+|           |   |                      |
+|-----------|---|----------------------|
 |29-25log10θ|dBi|   for 2° ≤ θ ≤ 7°.   |
-|:----------|:--|:---------------------|
 |     8     |dBi| for 7° \< θ ≤ 9.2°.  |
 |32-25log10θ|dBi|for 9.2° \< θ ≤ 19.1°.|
 |     0     |dBi|for 19.1° \< θ ≤ 180°.|
@@ -36,8 +39,9 @@ Where θ and dBi are as defined in paragraph (a)(1) of this section. This envelo
 
 Outside the main beam, the gain of the antenna shall lie below the envelope defined by:
 
+|           |   |                    |
+|-----------|---|--------------------|
 |32-25log10θ|dBi| for 3° \< θ ≤ 48°. |
-|:----------|:--|:-------------------|
 |    −10    |dBi|for 48° \< θ ≤ 180°.|
 
 Where θ and dBi are as defined in paragraph (a)(1) of this section. This envelope may be exceeded by up to 6 dB in 10% of the range of θ angles from ±3-180°, and by up to 6 dB in the region of main reflector spillover energy.
@@ -46,8 +50,9 @@ Where θ and dBi are as defined in paragraph (a)(1) of this section. This envelo
 
 Outside the main beam, the gain of the antenna shall lie below the envelope defined by:
 
+|           |   |                      |
+|-----------|---|----------------------|
 |32-25log10θ|dBi| for 3° \< θ ≤ 19.1°. |
-|:----------|:--|:---------------------|
 |     0     |dBi|for 19.1° \< θ ≤ 180°.|
 
 Where θ and dBi are as defined in paragraph (a)(1) of this section. This envelope may be exceeded by up to 6 dB in 10% of the range of θ angles from ±3-180°, and by up to 6 dB in the region of main reflector spillover energy.
@@ -56,8 +61,9 @@ Where θ and dBi are as defined in paragraph (a)(1) of this section. This envelo
 
 Outside the main beam, the gain of the antenna shall lie below the envelope defined by:
 
+|           |   |                      |
+|-----------|---|----------------------|
 |32-25log10θ|dBi| for 3.5° \< θ ≤ 7°.  |
-|:----------|:--|:---------------------|
 |   10.9    |dBi| for 7° \< θ ≤ 9.2°.  |
 |35-25log10θ|dBi|for 9.2° \< θ ≤ 19.1°.|
 |     3     |dBi|for 19.1° \< θ ≤ 180°.|
@@ -68,22 +74,25 @@ Where θ and dBi are as defined in paragraph (a)(1) of this section. This envelo
 
 (1) In the plane tangent to the GSO arc, for earth stations not operating in the 24.75-25.25 GHz or 28.35-30 GHz bands:
 
+|           |   |                   |
+|-----------|---|-------------------|
 |19-25log10θ|dBi|for 1.8° \< θ ≤ 7°.|
-|:----------|:--|:------------------|
 
 Where θ and dBi are as defined in paragraph (a)(1) of this section.
 
 (2) In the plane perpendicular to the GSO arc, for earth stations not operating in the 24.75-25.25 GHz or 28.35-30 GHz bands:
 
+|           |   |                 |
+|-----------|---|-----------------|
 |19-25log10θ|dBi|for 3° \< θ ≤ 7°.|
-|:----------|:--|:----------------|
 
 Where θ and dBi are as defined in paragraph (a)(1) of this section.
 
 (3) In the plane tangent to the GSO arc or in the plane perpendicular to the GSO arc, for earth stations operating in the 24.75-25.25 GHz or 28.35-30 GHz bands:
 
+|           |   |                 |
+|-----------|---|-----------------|
 |19-25log10θ|dBi|for 2° \< θ ≤ 7°.|
-|:----------|:--|:----------------|
 
 Where θ and dBi are as defined in paragraph (a)(1) of this section.
 
@@ -101,8 +110,9 @@ Where θ and dBi are as defined in paragraph (a)(1) of this section.
 
 (h) The gain of any transmitting antenna in a gateway earth station communicating with NGSO FSS satellites in the 10.7-11.7 GHz, 12.75-13.15 GHz, 13.2125-13.25 GHz, 13.8-14.0 GHz, and/or 14.4-14.5 GHz bands must lie below the envelope defined as follows:
 
+|             |   |                   |
+|-------------|---|-------------------|
 |29-25log10(θ)|dBi| for 1° ≤ θ ≤ 36°. |
-|:------------|:--|:------------------|
 |     −10     |dBi|for 36° ≤ θ ≤ 180°.|
 
 Where θ and dBi are as defined in paragraph (a)(1) of this section. This envelope may be exceeded by up to 3 dB in 10% of the range of θ angles from ±7-180°.[48 FR 40255, Sept. 6, 1983, as amended at 50 FR 2675, Jan. 18, 1985; 50 FR 39004, Sept. 26, 1985; 58 FR 13420, Mar. 11, 1993; 66 FR 10630, Feb. 16, 2001; 70 FR 32255, June 2, 2005; 72 FR 50029, Aug. 29, 2007; 73 FR 70901, Nov. 24, 2008; 74 FR 57099, Nov. 4, 2009; 78 FR 8427, Feb. 6, 2013; 78 FR 14927, Mar. 8, 2013; 79 FR 8322, Feb. 12, 2014; 81 FR 55336, Aug. 18, 2016]

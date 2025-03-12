@@ -1,6 +1,6 @@
 ##### § 93.901 General restrictions; exceptions. #####
 
-(a) No live fish, fertilized eggs, or gametes of SVC-susceptible species may be imported into the United States except in accordance with this subpart,11 nor shall any such live fish, fertilized eggs, or gametes be moved from the port of entry after arrival until released by the port veterinarian; provided that the Administrator may, upon request in specific cases, allow the importation of SVC-susceptible live fish, fertilized eggs, or gametes under conditions other than those set forth in this subpart when the Administrator determines that such movement will not result in the introduction of SVC into the United States.
+(a) No live fish, fertilized eggs, or gametes of SVC-susceptible species may be imported into the United States except in accordance with this subpart,11/\> nor shall any such live fish, fertilized eggs, or gametes be moved from the port of entry after arrival until released by the port veterinarian; provided that the Administrator may, upon request in specific cases, allow the importation of SVC-susceptible live fish, fertilized eggs, or gametes under conditions other than those set forth in this subpart when the Administrator determines that such movement will not result in the introduction of SVC into the United States.
 
 11 The importation of live cultures of SVC virus, preserved SVC virus viral RNA or DNA, tissue samples containing viable SVC virus, or other specimens intended for diagnostic or research purposes and which contain viable SVC virus may be imported only under permit in accordance with 9 CFR part 122.
 
@@ -8,7 +8,7 @@
 
 (1) They are maintained under continuous confinement while in transit through the United States aboard an aircraft, ocean vessel, or other means of conveyance; or
 
-(2) They are unloaded, in the course of such transit, into a holding facility12 that is provided by the carrier or its agent and has been approved by the Administrator in accordance with paragraph (b)(4) of this section as adequate to prevent the spread within the United States of any finfish disease; they are maintained there under continuous confinement until loaded aboard a means of conveyance for transportation from the United States; and are maintained under continuous confinement aboard such means of conveyance until it leaves the United States.
+(2) They are unloaded, in the course of such transit, into a holding facility12/\> that is provided by the carrier or its agent and has been approved by the Administrator in accordance with paragraph (b)(4) of this section as adequate to prevent the spread within the United States of any finfish disease; they are maintained there under continuous confinement until loaded aboard a means of conveyance for transportation from the United States; and are maintained under continuous confinement aboard such means of conveyance until it leaves the United States.
 
 12 Requests for approval of such facilities should be made to the Animal and Plant Health Inspection Service at the address provided in § 93.903 for permit applications.
 

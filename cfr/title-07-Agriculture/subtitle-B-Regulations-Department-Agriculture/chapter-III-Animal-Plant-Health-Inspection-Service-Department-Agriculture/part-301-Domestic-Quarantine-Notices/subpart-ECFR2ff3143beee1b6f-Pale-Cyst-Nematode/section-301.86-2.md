@@ -2,7 +2,7 @@
 
 The following are regulated articles:
 
-(a) Pale cyst nematodes.2
+(a) Pale cyst nematodes.2/\>
 
 2 Permit and other requirements for the interstate movement of pale cyst nematodes are contained in part 330 of this chapter.
 

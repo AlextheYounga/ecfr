@@ -38,7 +38,7 @@
 
 (ii) *Two-step process.* The pork skins must be dry-cooked at a minimum of 260 °C for approximately 210 minutes after which they must be cooked in hot oil (deep-fried) at a minimum of 104 °C for an additional 150 minutes.
 
-(5) The processing establishment8 in a region listed in this section must comply with the following requirements:
+(5) The processing establishment8/\> in a region listed in this section must comply with the following requirements:
 
 8 As a condition of entry into the United States, pork or pork products must also meet all of the requirements of the Federal Meat Inspection Act (21 U.S.C. 601 *et seq.*) and regulations thereunder (9 CFR, chapter III, part 327), including requirements that the pork or pork products be prepared only in approved establishments.
 

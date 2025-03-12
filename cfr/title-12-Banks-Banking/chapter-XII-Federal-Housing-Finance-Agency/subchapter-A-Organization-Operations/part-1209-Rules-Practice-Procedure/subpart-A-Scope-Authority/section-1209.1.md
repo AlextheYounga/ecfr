@@ -1,6 +1,6 @@
 ##### § 1209.1 Scope. #####
 
-(a) *Authority.* This part sets forth the Rules of Practice and Procedure for hearings on the record in administrative enforcement proceedings in accordance with the Federal Housing Enterprises Financial Safety and Soundness Act of 1992, title XIII of the Housing and Community Development Act of 1992, Public Law 102-550, sections 1301 *et seq.,* codified at 12 U.S.C. 4501 *et seq.,* as amended (the “Safety and Soundness Act”), as stated in § 1209.4 of this part.1
+(a) *Authority.* This part sets forth the Rules of Practice and Procedure for hearings on the record in administrative enforcement proceedings in accordance with the Federal Housing Enterprises Financial Safety and Soundness Act of 1992, title XIII of the Housing and Community Development Act of 1992, Public Law 102-550, sections 1301 *et seq.,* codified at 12 U.S.C. 4501 *et seq.,* as amended (the “Safety and Soundness Act”), as stated in § 1209.4 of this part.1/\>
 
 1 As used in this part, the “Safety and Soundness Act” means the Federal Housing Enterprise Financial Safety and Soundness Act of 1992, as amended. *See* § 1209.3. The Safety and Soundness Act was amended by the Housing and Economic Recovery Act of 2008, Public Law No. 110-289, sections 1101 *et seq.,* 122 Stat. 2654 (July 30, 2008) (HERA). Specifically, sections 1151 through 1158 of HERA amended sections 1371 through 1379D of the Safety and Soundness Act, (codified at 12 U.S.C. 4631 through 4641) (hereafter, “Enforcement Proceedings”).
 
@@ -18,7 +18,7 @@
 
 (d) *Representation and conduct.* Subpart D of this part (Parties and Representational Practice before the Federal Housing Finance Agency; Standards of Conduct) sets out the rules of representation and conduct that shall govern any appearance by any person, party, or representative of any person or party, before a presiding officer, the Director of FHFA, or a designated representative of the Director or FHFA staff, in any proceeding or matter pending before the Director.
 
-(e) *Civil money penalty inflation adjustments.* Subpart E of this part (Civil Money Penalty Inflation Adjustments) sets out the requirements for the periodic adjustment of maximum civil money penalty amounts under the Federal Civil Penalties Inflation Adjustment Act of 1990, as amended (Inflation Adjustment Act) on a recurring four-year cycle.2
+(e) *Civil money penalty inflation adjustments.* Subpart E of this part (Civil Money Penalty Inflation Adjustments) sets out the requirements for the periodic adjustment of maximum civil money penalty amounts under the Federal Civil Penalties Inflation Adjustment Act of 1990, as amended (Inflation Adjustment Act) on a recurring four-year cycle.2/\>
 
 2 Public Law 101-410, 104 Stat. 890, as amended by the Debt Collection Improvement Act of 1996, Public Law 104-134, title III, sec. 31001(s)(1), Apr. 26, 1996, 110 Stat. 1321-373; Public Law 105-362, title XIII, sec. 1301(a), Nov. 10, 1998, 112 Stat. 3293 (28 U.S.C. 2461 note).
 

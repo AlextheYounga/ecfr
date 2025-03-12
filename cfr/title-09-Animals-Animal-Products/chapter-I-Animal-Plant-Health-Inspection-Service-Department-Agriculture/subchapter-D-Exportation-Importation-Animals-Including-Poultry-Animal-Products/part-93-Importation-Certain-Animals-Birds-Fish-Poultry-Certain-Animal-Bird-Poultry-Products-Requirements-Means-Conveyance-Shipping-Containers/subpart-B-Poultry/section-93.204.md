@@ -12,7 +12,7 @@
 
 (iv) Any reservation fee shall be forfeited if the importer or the importer's agent fails to present for entry, within 24 hours following the designated time of arrival, the lot of poultry for which the reservation was made: *Except* that a reservation fee shall not be forfeited if:
 
-(A) Written notice of cancellation from the importer or the importer's agent is received by the office of the veterinarian in charge of the quarantine facility5 during regular business hours (8:00 a.m. to 4:30 p.m., Monday through Friday, excluding holidays) no later than 15 days prior to the beginning of the time of importation as specified in the import permit or as arranged with the veterinarian in charge of the quarantine facility if no import permit is required (the 15 day period shall not include Saturdays, Sundays, or holidays), or
+(A) Written notice of cancellation from the importer or the importer's agent is received by the office of the veterinarian in charge of the quarantine facility5/\> during regular business hours (8:00 a.m. to 4:30 p.m., Monday through Friday, excluding holidays) no later than 15 days prior to the beginning of the time of importation as specified in the import permit or as arranged with the veterinarian in charge of the quarantine facility if no import permit is required (the 15 day period shall not include Saturdays, Sundays, or holidays), or
 
 5 The addresses of USDA quarantine facilities may be found in telephone directories listing the facilities or by contacting the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import-Export, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231.
 

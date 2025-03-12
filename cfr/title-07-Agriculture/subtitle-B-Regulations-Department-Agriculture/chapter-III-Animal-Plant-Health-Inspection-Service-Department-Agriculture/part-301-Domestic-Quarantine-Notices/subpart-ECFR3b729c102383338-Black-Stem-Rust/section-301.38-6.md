@@ -1,6 +1,6 @@
 ##### § 301.38-6 Compliance agreements and cancellation. #####
 
-(a) Any State may enter into a written compliance agreement with any person who grows or handles regulated articles in a protected area, or moves interstate regulated articles from a protected area, under which that person agrees to comply with this subpart, to provide inspectors with information concerning the source of any regulated articles acquired each year, and to prevent the unauthorized use of certificates issued for future use under the compliance agreement.6
+(a) Any State may enter into a written compliance agreement with any person who grows or handles regulated articles in a protected area, or moves interstate regulated articles from a protected area, under which that person agrees to comply with this subpart, to provide inspectors with information concerning the source of any regulated articles acquired each year, and to prevent the unauthorized use of certificates issued for future use under the compliance agreement.6/\>
 
 6 In non-protected areas, compliance agreements may be arranged by contacting a local office of the Animal and Plant Health Inspection Service (APHIS), Plant Protection and Quarantine, or by writing to the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Domestic and Emergency Operations, 4700 River Road Unit 134, Riverdale, Maryland 20737-1236.
 

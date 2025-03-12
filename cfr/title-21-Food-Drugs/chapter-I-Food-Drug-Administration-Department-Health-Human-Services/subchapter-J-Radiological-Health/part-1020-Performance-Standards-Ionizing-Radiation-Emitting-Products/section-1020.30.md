@@ -60,7 +60,7 @@
 
 *Air kerma rate (AKR)* means the air kerma per unit time.
 
-*Aluminum equivalent* means the thickness of aluminum (type 1100 alloy)1 affording the same attenuation, under specified conditions, as the material in question.
+*Aluminum equivalent* means the thickness of aluminum (type 1100 alloy)1/\> affording the same attenuation, under specified conditions, as the material in question.
 
 1 The nominal chemical composition of type 1100 aluminum alloy is 99.00 percent minimum aluminum, 0.12 percent copper, as given in “Aluminum Standards and Data” (1969). Copies may be obtained from The Aluminum Association, New York, NY.
 
@@ -88,7 +88,7 @@
 
 *Coefficient of variation* means the ratio of the standard deviation to the mean value of a population of observations. It is estimated using the following equation:
 
-![](/graphics/er10jn05.001.gif)where:s = Estimated standard deviation of the population.X = Mean value of observations in sample.Xi = ith observation sampled.n = Number of observations sampled.
+![](/graphics/er10jn05.001.gif)where:s = Estimated standard deviation of the population.X/\> = Mean value of observations in sample.Xi = ith observation sampled.n = Number of observations sampled.
 
 *Computed tomography (CT)* means the production of a tomogram by the acquisition and computer processing of x-ray transmission data.
 
@@ -378,7 +378,7 @@ Temporarily Installed ComponentThis certified component has been assembled, inst
 
 (l) *Radiation from components other than the diagnostic source assembly.* The radiation emitted by a component other than the diagnostic source assembly shall not exceed an air kerma of 18 microGy (vice 2 mR exposure) in 1 hour at 5 cm from any accessible surface of the component when it is operated in an assembled x-ray system under any conditions for which it was designed. Compliance shall be determined by measurements averaged over an area of 100 square cm with no linear dimension greater than 20 cm.
 
-(m) *Beam quality* - (1) *Half-value layer (HVL).* The HVL of the useful beam for a given x-ray tube potential shall not be less than the appropriate value shown in table 1 in paragraph (m)(1) of this section under the heading “Specified Dental Systems,” for any dental x-ray system designed for use with intraoral image receptors and manufactured after December 1, 1980; under the heading “I - Other X-Ray Systems,” for any dental x-ray system designed for use with intraoral image receptors and manufactured before December 1, 1980, and all other x-ray systems subject to this section and manufactured before June 10, 2006; and under the heading “II - Other X-Ray Systems,” for all x-ray systems, except dental x-ray systems designed for use with intraoral image receptors, subject to this section and manufactured on or after June 10, 2006. If it is necessary to determine such HVL at an x-ray tube potential which is not listed in table 1 in paragraph (m)(1) of this section, linear interpolation or extrapolation may be made. Positive means2 shall be provided to ensure that at least the minimum filtration needed to achieve the above beam quality requirements is in the useful beam during each exposure. Table 1 follows:
+(m) *Beam quality* - (1) *Half-value layer (HVL).* The HVL of the useful beam for a given x-ray tube potential shall not be less than the appropriate value shown in table 1 in paragraph (m)(1) of this section under the heading “Specified Dental Systems,” for any dental x-ray system designed for use with intraoral image receptors and manufactured after December 1, 1980; under the heading “I - Other X-Ray Systems,” for any dental x-ray system designed for use with intraoral image receptors and manufactured before December 1, 1980, and all other x-ray systems subject to this section and manufactured before June 10, 2006; and under the heading “II - Other X-Ray Systems,” for all x-ray systems, except dental x-ray systems designed for use with intraoral image receptors, subject to this section and manufactured on or after June 10, 2006. If it is necessary to determine such HVL at an x-ray tube potential which is not listed in table 1 in paragraph (m)(1) of this section, linear interpolation or extrapolation may be made. Positive means2/\> shall be provided to ensure that at least the minimum filtration needed to achieve the above beam quality requirements is in the useful beam during each exposure. Table 1 follows:
 
 2 In the case of a system, which is to be operated with more than one thickness of filtration, this requirement can be met by a filter interlocked with the kilovoltage selector which will prevent x-ray emissions if the minimum required filtration is not in place.
 

@@ -1,7 +1,5 @@
 ##### § 274a.2 Verification of identity and employment authorization. #####
 
-Link to an amendment published at 82 FR 5289, Jan. 17, 2017.Portions of this amendment were delayed until Mar. 14, 2018, at 82 FR 31887, July 11, 2017.
-
 (a) *General.* This section establishes requirements and procedures for compliance by persons or entities when hiring, or when recruiting or referring for a fee, or when continuing to employ individuals in the United States.
 
 (1) *Recruiters and referrers for a fee.* For purposes of complying with section 274A(b) of the Act and this section, all references to recruiters and referrers for a fee are limited to a person or entity who is either an agricultural association, agricultural employer, or farm labor contractor (as defined in section 3 of the Migrant and Seasonal Agricultural Worker Protection Act, Pub. L. 97-470 (29 U.S.C. 1802)).
@@ -38,7 +36,7 @@ Link to an amendment published at 82 FR 5289, Jan. 17, 2017.Portions of this ame
 
 (*4*) An Employment Authorization Document which contains a photograph (Form I-766);
 
-(*5*) In the case of a nonimmigrant alien authorized to work for a specific employer incident to status, a foreign passport with a Form I-94 (see § 1.4) or Form I-94A bearing the same name as the passport and containing an endorsement of the alien's nonimmigrant status, as long as the period of endorsement has not yet expired and the proposed employment is not in conflict with any restrictions or limitations identified on the Form;
+(*5*) In the case of an individual who is employment-authorized incident to status or parole with a specific employer, a foreign passport with an Arrival/Departure Record, Form I-94 (as defined in 8 CFR 1.4) or Form I-94A, bearing the same name as the passport and containing an endorsement by DHS indicating such employment-authorized status or parole, as long as the period of endorsement has not yet expired and the employment is not in conflict with the individual's employment-authorized status or parole;
 
 (*6*) A passport from the Federated States of Micronesia (FSM) or the Republic of the Marshall Islands (RMI) with Form I-94 or Form I-94A indicating nonimmigrant admission under the Compact of Free Association Between the United States and the FSM or RMI;
 
@@ -96,17 +94,15 @@ Link to an amendment published at 82 FR 5289, Jan. 17, 2017.Portions of this ame
 
 (*2*) Certification or report of birth issued by the Department of State, including Forms FS-545, DS-1350, FS-240;
 
-(*3*) Certification of Report of Birth issued by the Department of State, Form DS-1350;
+(*3*) An original or certified copy of a birth certificate issued by a State, county, municipal authority or outlying possession of the United States bearing an official seal;
 
-(*4*) An original or certified copy of a birth certificate issued by a State, county, municipal authority or outlying possession of the United States bearing an official seal;
+(*4*) Native American tribal document;
 
-(*5*) Native American tribal document;
+(*5*) United States Citizen Identification Card, Form I-197;
 
-(*6*) United States Citizen Identification Card, Form I-197;
+(*6*) Identification card for use of resident citizen in the United States, Form I-179;
 
-(*7*) Identification card for use of resident citizen in the United States, Form I-179;
-
-(*8*) An employment authorization document issued by the Department of Homeland Security.
+(*7*) An employment authorization document issued by the Department of Homeland Security.
 
 (D) The following are acceptable documents to establish both identity and employment authorization in the Commonwealth of the Northern Mariana Islands only, for a two-year period starting from the transition program effective date (as defined in 8 CFR 1.1), in addition to those documents listed in paragraph (b)(1)(v)(A) of this section:
 

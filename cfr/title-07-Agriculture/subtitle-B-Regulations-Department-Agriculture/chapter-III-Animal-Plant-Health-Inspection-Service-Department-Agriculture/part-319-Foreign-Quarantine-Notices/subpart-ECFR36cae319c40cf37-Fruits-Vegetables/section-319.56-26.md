@@ -4,7 +4,7 @@
 
 (1) The cantaloupe or watermelon may be imported in commercial consignments only.
 
-(2) The cantaloupe or watermelon must have been grown in an area where trapping for the South American cucurbit fly (*Anastrepha grandis*) has been conducted for at least the previous 12 months by the national plant protection organization (NPPO) of Ecuador, under the direction of APHIS, with no findings of the pest.4
+(2) The cantaloupe or watermelon must have been grown in an area where trapping for the South American cucurbit fly (*Anastrepha grandis*) has been conducted for at least the previous 12 months by the national plant protection organization (NPPO) of Ecuador, under the direction of APHIS, with no findings of the pest.4/\>
 
 4 Information on the trapping program may be obtained by writing to the Animal and Plant Health Inspection Service, International Services, Stop 3432, 1400 Independence Avenue, SW., Washington, DC 20250-3432.
 

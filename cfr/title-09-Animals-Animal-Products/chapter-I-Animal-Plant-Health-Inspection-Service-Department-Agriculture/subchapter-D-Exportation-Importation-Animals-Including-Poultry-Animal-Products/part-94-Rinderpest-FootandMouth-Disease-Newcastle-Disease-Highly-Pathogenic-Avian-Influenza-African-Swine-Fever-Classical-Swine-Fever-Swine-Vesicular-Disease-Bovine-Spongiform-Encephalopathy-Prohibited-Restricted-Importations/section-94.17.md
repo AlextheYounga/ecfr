@@ -10,7 +10,7 @@ Notwithstanding any other provisions in this part, dry-cured ham, pork shoulder,
 
 (d) The whole ham, pork shoulder, or pork loin was accompanied from the slaughtering facility to the processing establishment by a numbered certificate issued by a person authorized by the government of the region of origin stating that the provisions of paragraphs (a) and (c) of this section have been met;
 
-(e) The ham, pork shoulder, or pork loin was processed whole as set forth in paragraph (i) of this section in only one processing establishment;15
+(e) The ham, pork shoulder, or pork loin was processed whole as set forth in paragraph (i) of this section in only one processing establishment;15/\>
 
 15 As a condition of entry into the United States, pork and pork products must also meet all of the requirements of the Federal Meat Inspection Act (21 U.S.C. 601 *et seq.*) and regulations thereunder (9 CFR, chapter III), including requirements that the pork or pork products be prepared only in approved establishments.
 
@@ -148,7 +148,7 @@ Notwithstanding any other provisions in this part, dry-cured ham, pork shoulder,
 
 (p) Whole hams, pork shoulders, and pork loins that have been dry-cured in accordance with paragraph (i) of this section may be transported to a facility in the same region for slicing and packaging in accordance with this paragraph.
 
-(1) *The slicing/packaging facility.* (i) The slicing/packaging facility16 must be inspected, prior to slicing and packaging any hams, pork shoulders, or pork loins in accordance with this paragraph, by an APHIS representative and determined by the Administrator to be capable of meeting the provisions of this paragraph.
+(1) *The slicing/packaging facility.* (i) The slicing/packaging facility16/\> must be inspected, prior to slicing and packaging any hams, pork shoulders, or pork loins in accordance with this paragraph, by an APHIS representative and determined by the Administrator to be capable of meeting the provisions of this paragraph.
 
 16 See footnote 15.
 

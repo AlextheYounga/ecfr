@@ -4,7 +4,7 @@
 
 (1) They are treated in accordance with part 305 of this chapter at the time of arrival at the port of first arrival in the United States; or
 
-(2) They are treated prior to shipment to the United States at a facility that is approved by APHIS4 and that operates in compliance with a written agreement between the treatment facility owner and the plant protection service of the exporting country, in which the treatment facility owner agrees to comply with the provisions of § 319.37-6 and allow inspectors and representatives of the plant protection service of the exporting country access to the treatment facility as necessary to monitor compliance with the regulations. Treatments must be certified in accordance with the conditions described in § 319.37-13(c) of this chapter.
+(2) They are treated prior to shipment to the United States at a facility that is approved by APHIS4/\> and that operates in compliance with a written agreement between the treatment facility owner and the plant protection service of the exporting country, in which the treatment facility owner agrees to comply with the provisions of § 319.37-6 and allow inspectors and representatives of the plant protection service of the exporting country access to the treatment facility as necessary to monitor compliance with the regulations. Treatments must be certified in accordance with the conditions described in § 319.37-13(c) of this chapter.
 
 4 Criteria for the approval of heat treatment facilities are contained in part 305 of this chapter.
 

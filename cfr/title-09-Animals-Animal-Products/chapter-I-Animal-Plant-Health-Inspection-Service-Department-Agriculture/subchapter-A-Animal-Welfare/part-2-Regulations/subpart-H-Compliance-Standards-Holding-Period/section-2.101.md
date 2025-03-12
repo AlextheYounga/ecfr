@@ -1,6 +1,6 @@
 ##### § 2.101 Holding period. #####
 
-(a) Any live dog or cat acquired by a dealer5 or exhibitor shall be held by him or her, under his or her supervision and control, for a period of not less than 5 full days, not including the day of acquisition, after acquiring the animal, excluding time in transit: *Provided, however:*
+(a) Any live dog or cat acquired by a dealer5/\> or exhibitor shall be held by him or her, under his or her supervision and control, for a period of not less than 5 full days, not including the day of acquisition, after acquiring the animal, excluding time in transit: *Provided, however:*
 
 5 An operator of an auction sale is not considered to have acquired a dog or cat which is sold through the auction sale.
 

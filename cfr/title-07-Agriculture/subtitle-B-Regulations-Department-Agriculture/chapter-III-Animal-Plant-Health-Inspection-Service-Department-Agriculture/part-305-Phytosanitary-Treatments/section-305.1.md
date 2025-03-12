@@ -1,7 +1,5 @@
 ##### § 305.1 Definitions. #####
 
-Link to an amendment published at 83 FR 5876, Feb. 12, 2018.
-
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, United States Department of Agriculture, or any person delegated to act for the Administrator in matters affecting this part.
 
 *APHIS.* The Animal and Plant Health Inspection Service, United States Department of Agriculture.
@@ -34,6 +32,8 @@ Link to an amendment published at 83 FR 5876, Feb. 12, 2018.
 
 *Section 18 of Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA).* An emergency exemption granted by the U.S. Environmental Protection Agency to Federal or State agencies authorizing an unregistered use of a pesticide for a limited time.
 
+*Treatment facility.* Any APHIS-certified place, warehouse, or approved enclosure where a treatment is conducted to mitigate a plant pest.
+
 *Vacuum fumigation.* Fumigation performed in a gas-tight enclosure. Most air in the enclosure is removed and replaced with a small amount of fumigant. The reduction in pressure reduces the required duration of the treatment.
 
-[75 FR 4241, Jan. 26, 2010, as amended at 76 FR 60360, Sept. 29, 2011]
+[75 FR 4241, Jan. 26, 2010, as amended at 76 FR 60360, Sept. 29, 2011; 83 FR 5876, Feb. 12, 2018]

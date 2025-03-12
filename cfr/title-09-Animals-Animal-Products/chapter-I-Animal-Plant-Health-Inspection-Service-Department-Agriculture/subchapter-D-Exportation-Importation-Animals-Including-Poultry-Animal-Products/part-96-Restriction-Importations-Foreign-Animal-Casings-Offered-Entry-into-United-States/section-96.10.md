@@ -2,7 +2,7 @@
 
 (a) Foreign animal casings imported into the United States without certification may be forwarded in customs custody to a USDA-approved facility for disinfection under APHIS supervision and release by the United States Customs authorities, provided that, before being transported over land in the United States, each and every container of such casings shall be disinfected by the application of a solution of sodium hydroxide prepared as follows:
 
-(1) Sodium hydroxide (Lye) prepared in a fresh solution in the proportion of not less than 1 pound avoirdupois of sodium hydroxide of not less than 95 percent purity to 6 gallons of water, or one 131/2-ounce can to 5 gallons of water.2
+(1) Sodium hydroxide (Lye) prepared in a fresh solution in the proportion of not less than 1 pound avoirdupois of sodium hydroxide of not less than 95 percent purity to 6 gallons of water, or one 131/2-ounce can to 5 gallons of water.2/\>
 
 2 Due to the extreme caustic nature of sodium hydroxide solution, and of sodium carbonate solution to a lesser degree, precautionary measures such as the wearing of rubber gloves, boots, raincoat and goggles should be observed. An acid solution such as vinegar shall be kept readily available in case any of the sodium hydroxide solution should come in contact with the body.
 

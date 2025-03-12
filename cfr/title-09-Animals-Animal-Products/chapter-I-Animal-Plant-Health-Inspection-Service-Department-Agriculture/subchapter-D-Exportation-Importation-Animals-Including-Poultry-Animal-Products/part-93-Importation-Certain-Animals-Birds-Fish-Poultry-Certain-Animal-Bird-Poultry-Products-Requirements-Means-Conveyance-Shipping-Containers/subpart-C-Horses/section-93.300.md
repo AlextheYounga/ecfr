@@ -22,7 +22,7 @@ Wherever in this subpart the following terms are used, unless the context otherw
 
 *Horses.* Horses, asses, mules, and zebras.
 
-*Immediate slaughter.* Consignment directly from the port of entry to a recognized slaughtering establishment1 and slaughter thereat within two weeks from the date of entry.
+*Immediate slaughter.* Consignment directly from the port of entry to a recognized slaughtering establishment1/\> and slaughter thereat within two weeks from the date of entry.
 
 1 The name of recognized slaughtering establishments approved under this part may be obtained from the Area Veterinarian in Charge, Veterinary Services, for the State of destination of the shipment.
 
@@ -46,7 +46,7 @@ Wherever in this subpart the following terms are used, unless the context otherw
 
 *Quarantine area.* That area in a permanent, privately owned quarantine facility that comprises all of the lot-holding areas in the facility, and any other areas in the facility that horses have access to, including loading docks for receiving and releasing horses, and any areas used to conduct examinations of horses and take samples and where samples are processed or examined.
 
-*Recognized slaughtering establishment.*2 An establishment where slaughtering operations are regularly carried on under federal or state inspection and which has been approved by the Animal and Plant Health Inspection Service to receive animals for slaughter under this part.
+*Recognized slaughtering establishment.*2/\> An establishment where slaughtering operations are regularly carried on under federal or state inspection and which has been approved by the Animal and Plant Health Inspection Service to receive animals for slaughter under this part.
 
 2 See footnote 1 to subpart C.
 

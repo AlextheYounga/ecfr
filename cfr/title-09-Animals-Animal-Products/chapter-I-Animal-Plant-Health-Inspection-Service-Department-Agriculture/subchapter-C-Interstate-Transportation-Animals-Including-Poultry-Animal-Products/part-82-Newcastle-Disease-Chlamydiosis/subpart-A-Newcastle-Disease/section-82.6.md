@@ -18,7 +18,7 @@
 
 (b) Dressed carcasses from birds and poultry that are not known to be infected with Newcastle disease may be moved interstate from a quarantined area only if:
 
-(1) The dressed carcasses are from birds or poultry that were slaughtered in a recognized slaughtering establishment;6
+(1) The dressed carcasses are from birds or poultry that were slaughtered in a recognized slaughtering establishment;6/\>
 
 6 See footnote 5 to § 82.5.
 

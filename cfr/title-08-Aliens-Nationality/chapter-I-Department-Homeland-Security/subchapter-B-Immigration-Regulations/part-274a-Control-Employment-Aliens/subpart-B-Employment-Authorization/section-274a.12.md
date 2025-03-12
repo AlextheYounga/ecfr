@@ -1,7 +1,5 @@
 ##### § 274a.12 Classes of aliens authorized to accept employment. #####
 
-Link to an amendment published at 82 FR 5289, Jan. 17, 2017.This amendment was delayed until Mar. 14, 2018, at 82 FR 31887, July 11, 2017.
-
 (a) *Aliens authorized employment incident to status.* Pursuant to the statutory or regulatory reference cited, the following classes of aliens are authorized to be employed in the United States without restrictions as to location or type of employment as a condition of their admission or subsequent change to one of the indicated classes. Any alien who is within a class of aliens described in paragraphs (a)(3), (a)(4), (a)(6)-(a)(8), (a)(10)-(a)(15), or (a)(20) of this section, and who seeks to be employed in the United States, must apply to U.S. Citizenship and Immigration Services (USCIS) for a document evidencing such employment authorization. USCIS may, in its discretion, determine the validity period assigned to any document issued evidencing an alien's authorization to work in the United States.
 
 (1) An alien who is a lawful permanent resident (with or without conditions pursuant to section 216 of the Act), as evidenced by Form I-551 issued by the Service. An expiration date on the Form I-551 reflects only that the card must be renewed, not that the bearer's work authorization has expired;
@@ -42,7 +40,7 @@ Link to an amendment published at 82 FR 5289, Jan. 17, 2017.This amendment was d
 
 (20) Any alien in U-2, U-3, U-4, or U-5 nonimmigrant status, pursuant to 8 CFR 214.14, for the period of time in that status, as evidenced by an employment authorization document issued by USCIS to the alien.
 
-(b) *Aliens authorized for employment with a specific employer incident to status.* The following classes of nonimmigrant aliens are authorized to be employed in the United States by the specific employer and subject to the restrictions described in the section(s) of this chapter indicated as a condition of their admission in, or subsequent change to, such classification. An alien in one of these classes is not issued an employment authorization document by the Service:
+(b) *Aliens authorized for employment with a specific employer incident to status or parole.* The following classes of aliens are authorized to be employed in the United States by the specific employer and subject to any restrictions described in the section(s) of this chapter indicated as a condition of their parole or of their admission in, or subsequent change to, the designated nonimmigrant classification. An alien in one of these classes is not issued an employment authorization document by DHS:
 
 (1) A foreign government official (A-1 or A-2), pursuant to § 214.2(a) of this chapter. An alien in this status may be employed only by the foreign government entity;
 
@@ -100,9 +98,13 @@ Link to an amendment published at 82 FR 5289, Jan. 17, 2017.This amendment was d
 
 (23) A Commonwealth of the Northern Mariana Islands transitional worker (CW-1) pursuant to 8 CFR 214.2(w). An alien in this status may be employed only in the CNMI during the transition period, and only by the petitioner through whom the status was obtained, or as otherwise authorized by 8 CFR 214.2(w). An alien who is lawfully present in the CNMI (as defined by 8 CFR 214.2(w)(1)(v)) on or before November 27, 2011, is authorized to be employed in the CNMI, and is so employed in the CNMI by an employer properly filing an application under 8 CFR 214.2(w)(14)(ii) on or before such date for a grant of CW-1 status to its employee in the CNMI for the purpose of the alien continuing the employment, is authorized to continue such employment on or after November 27, 2011, until a decision is made on the application;
 
-(24) An alien who is authorized to be employed in the Commonwealth of the Northern Mariana Islands for a period of up to 2 years following the transition program effective date, under section 6(e)(2) of Public Law 94-241, as added by section 702(a) of Public Law 110-229. Such alien is only authorized to continue in the same employment that he or she had on the transition program effective date as defined in 8 CFR 1.1 until the earlier of the date that is 2 years after the transition program effective date or the date of expiration of the alien's employment authorization, unless the alien had unrestricted employment authorization or was otherwise authorized as of the transition program effective date to change employers, in which case the alien may have such employment privileges as were authorized as of the transition program effective date for up to 2 years; or
+(24) An alien who is authorized to be employed in the Commonwealth of the Northern Mariana Islands for a period of up to 2 years following the transition program effective date, under section 6(e)(2) of Public Law 94-241, as added by section 702(a) of Public Law 110-229. Such alien is only authorized to continue in the same employment that he or she had on the transition program effective date as defined in 8 CFR 1.1 until the earlier of the date that is 2 years after the transition program effective date or the date of expiration of the alien's employment authorization, unless the alien had unrestricted employment authorization or was otherwise authorized as of the transition program effective date to change employers, in which case the alien may have such employment privileges as were authorized as of the transition program effective date for up to 2 years;
 
-(25) A nonimmigrant treaty alien in a specialty occupation (E-3) pursuant to section 101(a)(15)(E)(iii) of the Act.
+(25) A nonimmigrant treaty alien in a specialty occupation (E-3) pursuant to section 101(a)(15)(E)(iii) of the Act; or
+
+(26)-(36) [Reserved]
+
+(37) An alien paroled into the United States as an entrepreneur pursuant to 8 CFR 212.19 for the period of authorized parole. An entrepreneur who has timely filed a non-frivolous application requesting re-parole with respect to the same start-up entity in accordance with 8 CFR 212.19 prior to the expiration of his or her parole, but whose authorized parole period expires during the pendency of such application, is authorized to continue employment with the same start-up entity for a period not to exceed 240 days beginning on the date of expiration of parole. Such authorization shall be subject to any conditions and limitations on such expired parole. If DHS adjudicates the application prior to the expiration of this 240-day period and denies the application for re-parole, the employment authorization under this paragraph shall automatically terminate upon notification to the alien of the denial decision.
 
 (c) *Aliens who must apply for employment authorization.* An alien within a class of aliens described in this section must apply for work authorization. If authorized, such an alien may accept employment subject to any restrictions stated in the regulations or cited on the employment authorization document. USCIS, in its discretion, may establish a specific validity period for an employment authorization document, which may include any period when an administrative appeal or judicial review of an application or petition is pending.
 
@@ -140,7 +142,7 @@ Link to an amendment published at 82 FR 5289, Jan. 17, 2017.This amendment was d
 
 (10) An alien who has filed an application for suspension of deportation under section 244 of the Act (as it existed prior to April 1, 1997), cancellation of removal pursuant to section 240A of the Act, or special rule cancellation of removal under section 309(f)(1) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, enacted as Pub. L. 104-208 (110 Stat. 3009-625) (as amended by the Nicaraguan Adjustment and Central American Relief Act (NACARA)), title II of Pub. L. 105-100 (111 Stat. 2160, 2193) and whose properly filed application has been accepted by the Service or EOIR.
 
-(11) An alien paroled into the United States temporarily for emergency reasons or reasons deemed strictly in the public interest pursuant to § 212.5 of this chapter;
+(11) Except as provided in paragraphs (b)(37) and (c)(34) of this section and § 212.19(h)(4) of this chapter, an alien paroled into the United States temporarily for urgent humanitarian reasons or significant public benefit pursuant to section 212(d)(5) of the Act.
 
 (12) An alien spouse of a long-term investor in the Commonwealth of the Northern Mariana Islands (E-2 CNMI Investor) other than an E-2 CNMI investor who obtained such status based upon a Foreign Retiree Investment Certificate, pursuant to 8 CFR 214.2(e)(23). An alien spouse of an E-2 CNMI Investor is eligible for employment in the CNMI only;
 
@@ -184,7 +186,9 @@ Link to an amendment published at 82 FR 5289, Jan. 17, 2017.This amendment was d
 
 (26) An H-4 nonimmigrant spouse of an H-1B nonimmigrant described as eligible for employment authorization in 8 CFR 214.2(h)(9)(iv).
 
-(27)-(34) [Reserved]
+(27)-(33) [Reserved]
+
+(34) A spouse of an entrepreneur parolee described as eligible for employment authorization in § 212.19(h)(3) of this chapter.
 
 (35) An alien who is the principal beneficiary of a valid immigrant petition under section 203(b)(1), 203(b)(2) or 203(b)(3) of the Act described as eligible for employment authorization in 8 CFR 204.5(p).
 
@@ -194,4 +198,4 @@ Link to an amendment published at 82 FR 5289, Jan. 17, 2017.This amendment was d
 
 (e) *Basic criteria to establish economic necessity.* Title 45 - Public Welfare, Poverty Guidelines, 45 CFR 1060.2 should be used as the basic criteria to establish eligibility for employment authorization when the alien's economic necessity is identified as a factor. The alien shall submit an application for employment authorization listing his or her assets, income, and expenses as evidence of his or her economic need to work. Permission to work granted on the basis of the alien's application for employment authorization may be revoked under § 274a.14 of this chapter upon a showing that the information contained in the statement was not true and correct.
 
-[52 FR 16221, May 1, 1987]Editorial Note:For Federal Register citations affecting § 274a.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[52 FR 16221, May 1, 1987]Editorial Note:For Federal Register citations affecting § 274a.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

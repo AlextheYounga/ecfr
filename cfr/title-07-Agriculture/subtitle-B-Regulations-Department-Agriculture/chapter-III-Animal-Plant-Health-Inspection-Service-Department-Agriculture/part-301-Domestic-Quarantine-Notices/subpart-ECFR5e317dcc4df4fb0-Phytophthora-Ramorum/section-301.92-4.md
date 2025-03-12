@@ -1,6 +1,6 @@
 ##### § 301.92-4 Conditions governing the interstate movement of regulated, restricted, and associated articles, and non-host nursery stock from quarantined and regulated areas. #####
 
-(a) *Interstate movement of regulated and associated articles from quarantined areas.* Regulated and associated articles may be moved interstate from a quarantined area5 only in accordance with this subpart.
+(a) *Interstate movement of regulated and associated articles from quarantined areas.* Regulated and associated articles may be moved interstate from a quarantined area5/\> only in accordance with this subpart.
 
 5 Requirements under all other applicable Federal domestic plant quarantines and regulations must also be met.
 
@@ -10,7 +10,7 @@
 
 (ii) The regulated or associated article is moved from outside the quarantined area through the quarantined area without stopping except for refueling or for traffic conditions, such as traffic lights or stop signs, and the article is not unpacked or unloaded in the quarantined area.
 
-(b) *Interstate movement of restricted articles from quarantined areas.* Restricted articles may be moved interstate from a quarantined area6 only in accordance with this section.
+(b) *Interstate movement of restricted articles from quarantined areas.* Restricted articles may be moved interstate from a quarantined area6/\> only in accordance with this section.
 
 6 See footnote 4 of this subpart.
 
@@ -30,7 +30,7 @@
 
 (A) The nursery from which plants originate has been inspected and found free of evidence of *Phytophthora ramorum* in accordance with § 301.92-11(b)(3), and
 
-(B) The nursery stock is not rooted in soil or growing media.7
+(B) The nursery stock is not rooted in soil or growing media.7/\>
 
 7 To be eligible for interstate movement, non-host nursery stock that is rooted in soil or growing media requires certification that the soil or growing media meets the requirements of § 301.92-5(a)(1)(iii).
 

@@ -72,7 +72,7 @@ Participating flocks, and the eggs and chicks produced from them, which have met
 
 (vii) An Authorized Agent shall take environmental samples, in accordance with part 147 of this subchapter, from each flock at 4 months of age and every 90 days thereafter. An authorized laboratory for *Salmonella* shall examine the environmental samples bacteriologically;
 
-(viii) Owners of flocks found infected with a paratyphoid *Salmonella* may vaccinate these flocks with an autogenous bacterin with a potentiating agent.4
+(viii) Owners of flocks found infected with a paratyphoid *Salmonella* may vaccinate these flocks with an autogenous bacterin with a potentiating agent.4/\>
 
 4 Preparation and use of this type of vaccine may be regulated by State statutes.
 

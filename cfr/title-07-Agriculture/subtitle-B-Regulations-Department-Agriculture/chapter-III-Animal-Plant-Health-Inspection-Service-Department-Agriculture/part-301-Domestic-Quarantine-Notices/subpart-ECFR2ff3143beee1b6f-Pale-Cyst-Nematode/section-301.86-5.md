@@ -1,10 +1,10 @@
 ##### § 301.86-5 Issuance and cancellation of certificates and limited permits. #####
 
-(a) *Certificates.* An inspector3 or person operating under a compliance agreement may issue a certificate for the interstate movement of a regulated article if the inspector determines that the regulated article satisfies the general requirements for a certificate in paragraph (a)(1) of this section and any requirements that may apply to the regulated article under paragraphs (a)(2) through (a)(7) of this section.
+(a) *Certificates.* An inspector3/\> or person operating under a compliance agreement may issue a certificate for the interstate movement of a regulated article if the inspector determines that the regulated article satisfies the general requirements for a certificate in paragraph (a)(1) of this section and any requirements that may apply to the regulated article under paragraphs (a)(2) through (a)(7) of this section.
 
 3 Inspectors are assigned to local offices of APHIS, which are listed in local telephone directories. Information concerning such local offices may also be obtained from the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Domestic and Emergency Operations, 4700 River Road Unit 134, Riverdale, Maryland 20737-1236.
 
-(1) *Certification requirements for all regulated articles.* The regulated article must be moved in compliance with any additional emergency conditions the Administrator may impose under section 414 of the Plant Protection Act (7 U.S.C. 7714)4 to prevent the spread of the pale cyst nematode. In addition, the regulated article must be eligible for unrestricted movement under all other Federal domestic plant quarantines and regulations applicable to the regulated article.
+(1) *Certification requirements for all regulated articles.* The regulated article must be moved in compliance with any additional emergency conditions the Administrator may impose under section 414 of the Plant Protection Act (7 U.S.C. 7714)4/\> to prevent the spread of the pale cyst nematode. In addition, the regulated article must be eligible for unrestricted movement under all other Federal domestic plant quarantines and regulations applicable to the regulated article.
 
 4 Section 414 of the Plant Protection Act (7 U.S.C. 7714) provides that the Secretary of Agriculture may, under certain conditions, hold, seize, quarantine, treat, apply other remedial measures to destroy or otherwise dispose of any plant, plant pest, plant product, article, or means of conveyance that is moving, or has moved into or through the United States or interstate if the Secretary has reason to believe the article is a plant pest or is infested with a plant pest at the time of movement.
 
@@ -58,7 +58,7 @@
 
 (6) *Certification requirements for equipment used in infested or associated fields.* An inspector may issue a certificate for the interstate movement of equipment that has been used in an infested or associated field and that can carry soil if moved out of the field only after the equipment has been pressure-washed under the supervision of an inspector to remove all soil or steam-treated in accordance with part 305 of this chapter.
 
-(b) *Limited permits* - (1) *General conditions.* An inspector5 may issue a limited permit for the interstate movement of a regulated article if the inspector determines that:
+(b) *Limited permits* - (1) *General conditions.* An inspector5/\> may issue a limited permit for the interstate movement of a regulated article if the inspector determines that:
 
 5 See footnote 3 to § 301.86-5(a).
 

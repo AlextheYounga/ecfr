@@ -1,6 +1,6 @@
 ##### § 130.14 User fees for FADDL veterinary diagnostics. #####
 
-(a) Diagnostic reagents. User fees for diagnostic reagents4 provided by FADDL are listed in the following table. The person for whom the service is provided and the person requesting the service are jointly and severally liable for payment of these user fees in accordance with §§ 130.50 and 130.51.
+(a) Diagnostic reagents. User fees for diagnostic reagents4/\> provided by FADDL are listed in the following table. The person for whom the service is provided and the person requesting the service are jointly and severally liable for payment of these user fees in accordance with §§ 130.50 and 130.51.
 
 4 Reagents provided by FADDL are for the diagnosis of animal diseases foreign to the United States. These reagents may be available to customers on the mainland after safety testing with permission from the Administrator. The customer may have to pay the cost for the safety test in addition to the reagent user fee. For more information on the specific reagents contact: Laboratory Chief, USDA, APHIS, VS, FADDL, Greenport, NY 11344; phone (516) 323-2500, FAX (516) 323-2798.
 

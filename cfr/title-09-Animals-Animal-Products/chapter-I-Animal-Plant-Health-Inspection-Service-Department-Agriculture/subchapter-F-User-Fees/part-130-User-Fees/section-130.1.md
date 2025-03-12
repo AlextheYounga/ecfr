@@ -8,7 +8,7 @@ As used in this part, the following terms shall have the meaning set forth in th
 
 *Animal and Plant Health Inspection Service (APHIS).* The Animal and Plant Health Inspection Service of the United States Department of Agriculture.
 
-*Animal Import Center.* Quarantine facilities operated by APHIS in Newburgh, New York, and Miami, Florida.1
+*Animal Import Center.* Quarantine facilities operated by APHIS in Newburgh, New York, and Miami, Florida.1/\>
 
 1 The addresses of Animal Import Centers may be obtained from the Animal and Plant Health Inspection Service, Veterinary Services, National Center for Import-Export, 4700 River Road, Unit 38, Riverdale, Maryland 20737-1231.
 
@@ -50,7 +50,7 @@ As used in this part, the following terms shall have the meaning set forth in th
 
 *National Veterinary Services Laboratories, Foreign Animal Disease Diagnostic Laboratory (FADDL).* The National Veterinary Services Laboratories, Foreign Animal Disease Diagnostic Laboratory, located in Greenport, New York.
 
-*Nonstandard care and handling.* Nonstandard care and handling includes hand-feeding, more than one feeding per day, frequent observation, and any handling or observation that requires personnel to attend to the birds or poultry outside of normal business hours.2
+*Nonstandard care and handling.* Nonstandard care and handling includes hand-feeding, more than one feeding per day, frequent observation, and any handling or observation that requires personnel to attend to the birds or poultry outside of normal business hours.2/\>
 
 2 Normal business hours at the APHIS Animal Import Centers are: 7 a.m. to 3:30 p.m., Miami, FL; and 8 a.m. to 4:30 p.m., Newburgh, NY.
 
@@ -76,7 +76,7 @@ As used in this part, the following terms shall have the meaning set forth in th
 
 *United States.* The several States of the United States, the District of Columbia, Guam, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, and all other territories and possessions of the United States.
 
-*Zoo animal.* Any animal, including poultry, intended for exhibition in a zoo, park or other place maintained for the exhibition of live animals for recreational or educational purposes.3
+*Zoo animal.* Any animal, including poultry, intended for exhibition in a zoo, park or other place maintained for the exhibition of live animals for recreational or educational purposes.3/\>
 
 3 Regulations concerning approval of zoos and requirements for importing wild animals are found in part 93 of this chapter.
 

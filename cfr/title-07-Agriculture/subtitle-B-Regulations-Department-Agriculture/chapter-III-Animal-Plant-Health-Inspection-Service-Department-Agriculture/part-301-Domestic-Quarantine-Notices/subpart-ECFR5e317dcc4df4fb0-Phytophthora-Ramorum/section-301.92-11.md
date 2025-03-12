@@ -18,7 +18,7 @@
 
 (a) *Nurseries in quarantined areas shipping regulated articles of nursery stock and associated articles interstate.* To meet the requirements of § 301.92-5(a)(1)(iv), nurseries located in quarantined areas and that move regulated articles of nursery stock, decorative trees without roots, wreaths, garlands, or greenery, associated articles, or non-host nursery stock interstate must meet the requirements in this section. Nurseries in quarantined areas that do not meet the requirements of this section are prohibited from moving regulated articles and associated articles interstate. Nurseries in quarantined areas that do not meet the requirements of this section or paragraph (b) of this section are prohibited from moving non-host nursery stock interstate.
 
-(1) *Annual inspection, sampling, and testing* - (i) *Inspection.* The nursery must be inspected annually for symptoms of *Phytophthora ramorum* by an inspector.17 Inspectors will visually inspect for symptomatic plants throughout the nursery, and inspection will focus on, but not be limited to, regulated articles and associated articles.
+(1) *Annual inspection, sampling, and testing* - (i) *Inspection.* The nursery must be inspected annually for symptoms of *Phytophthora ramorum* by an inspector.17/\> Inspectors will visually inspect for symptomatic plants throughout the nursery, and inspection will focus on, but not be limited to, regulated articles and associated articles.
 
 17 Persons operating under compliance agreements are eligible to issue certificates for the interstate movement of regulated and associated articles, but only inspectors are authorized to conduct nursery inspections required under the regulations.
 
@@ -26,11 +26,11 @@
 
 (iii) *Testing.* Samples must be labeled and sent for testing to a laboratory approved by APHIS and must be tested using a test method approved by APHIS, in accordance with § 301.92-12.
 
-(iv) *Annual certification.* If all plant samples tested in accordance with this section and § 301.92-12 return negative results for *Phytophthora ramorum,* an inspector may certify that the nursery is free of evidence of *Phytophthora ramorum* infestation at the time of inspection, and the nursery will be eligible to enter into a compliance agreement in accordance with § 301.92-6.18
+(iv) *Annual certification.* If all plant samples tested in accordance with this section and § 301.92-12 return negative results for *Phytophthora ramorum,* an inspector may certify that the nursery is free of evidence of *Phytophthora ramorum* infestation at the time of inspection, and the nursery will be eligible to enter into a compliance agreement in accordance with § 301.92-6.18/\>
 
 18 See footnote 14 of this subpart.
 
-(2) *Pre-shipment inspection, sampling, and testing* - (i) *Inspection.* During the 30 days prior to interstate movement from a nursery in a quarantined area, regulated articles or associated articles intended for interstate movement must be inspected for symptoms of *Phytophthora ramorum* by an inspector.19 Inspection will focus on, but not be limited to, regulated articles and associated articles. No inspections of shipments will be conducted unless the nursery from which the shipment originates has a current and valid annual certification in accordance with paragraph (a)(1)(iv) of this section.
+(2) *Pre-shipment inspection, sampling, and testing* - (i) *Inspection.* During the 30 days prior to interstate movement from a nursery in a quarantined area, regulated articles or associated articles intended for interstate movement must be inspected for symptoms of *Phytophthora ramorum* by an inspector.19/\> Inspection will focus on, but not be limited to, regulated articles and associated articles. No inspections of shipments will be conducted unless the nursery from which the shipment originates has a current and valid annual certification in accordance with paragraph (a)(1)(iv) of this section.
 
 19 See footnote 7 of this subpart.
 
@@ -40,7 +40,7 @@
 
 (ii) *Testing and withholding from interstate movement.* Samples taken in accordance with paragraph (a)(2)(i)(B) of this section must be labeled and sent for testing to a laboratory approved by APHIS and must be tested using a test method approved by APHIS, in accordance with § 301.92-12. The interstate movement of plants in the shipment is prohibited until the plants in the shipment are determined to be free of evidence of *Phytophthora ramorum* infection in accordance with § 301.92-12.
 
-(b) *Nurseries in quarantined areas shipping non-host nursery stock interstate.* Nurseries located in quarantined areas and that move non-host nursery stock interstate must meet the requirements of this paragraph or the requirements of paragraph (a) of this section.20 If such nurseries contain any regulated or associated articles, the nursery must meet the requirements of paragraph (a). This paragraph (b) only applies if there are no regulated or associated articles of nursery stock in the nursery. Nurseries that do not meet the requirements of paragraphs (a) or (b) of this section are prohibited from moving non-host nursery stock interstate.
+(b) *Nurseries in quarantined areas shipping non-host nursery stock interstate.* Nurseries located in quarantined areas and that move non-host nursery stock interstate must meet the requirements of this paragraph or the requirements of paragraph (a) of this section.20/\> If such nurseries contain any regulated or associated articles, the nursery must meet the requirements of paragraph (a). This paragraph (b) only applies if there are no regulated or associated articles of nursery stock in the nursery. Nurseries that do not meet the requirements of paragraphs (a) or (b) of this section are prohibited from moving non-host nursery stock interstate.
 
 20 In addition, to be eligible for interstate movement, non-host nursery stock that is rooted in soil or growing media requires certification that the soil or growing media meets the requirements of § 301.92-5(a)(1)(iii).
 
@@ -52,7 +52,7 @@
 
 (c) *Nurseries in regulated areas shipping regulated articles of nursery stock or associated articles interstate.* To meet the conditions of § 301.92-5(b), any nursery that is located in a regulated area and contains regulated articles of nursery stock or associated articles, and ships any nursery stock interstate must meet the following requirements:
 
-(1) *Annual inspection.* The nursery must be inspected annually for symptoms of *Phytophthora ramorum* by an inspector.21 Inspection will focus on, but not be limited to, regulated articles of nursery stock and associated articles.
+(1) *Annual inspection.* The nursery must be inspected annually for symptoms of *Phytophthora ramorum* by an inspector.21/\> Inspection will focus on, but not be limited to, regulated articles of nursery stock and associated articles.
 
 21 See footnote 7 of this subpart.
 
