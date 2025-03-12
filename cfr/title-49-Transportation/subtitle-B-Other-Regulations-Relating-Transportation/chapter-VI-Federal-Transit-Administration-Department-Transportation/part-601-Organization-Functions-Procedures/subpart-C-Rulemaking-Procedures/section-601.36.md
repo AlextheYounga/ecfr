@@ -1,5 +1,7 @@
 ##### § 601.36 Procedures for direct final rulemaking. #####
 
+Link to an amendment published at 86 FR 17296, Apr. 2, 2021.
+
 (a) Rules the Administrator judges to be non-controversial and unlikely to result in adverse public comment may be published as direct final rules. These include non-controversial rules that:
 
 (1) Affect internal procedures of FTA, such as filing requirements and rules governing inspection and copying of documents;

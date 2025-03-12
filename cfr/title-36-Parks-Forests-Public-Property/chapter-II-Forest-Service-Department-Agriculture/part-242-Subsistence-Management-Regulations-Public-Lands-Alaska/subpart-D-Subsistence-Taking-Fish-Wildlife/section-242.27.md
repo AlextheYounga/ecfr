@@ -196,7 +196,7 @@
 
 (B) After July 15, you may not take salmon for subsistence for 12 hours immediately before, during, and for 12 hours after each State commercial salmon fishing period.
 
-(viii) In Subdistrict 4A after the opening of the State commercial salmon fishing season, you may not take salmon for subsistence for 12 hours immediately before, during, and for 12 hours after each State commercial salmon fishing period; however, you may take Chinook salmon during the State commercial fishing season, with drift gillnet gear only, from 6:00 p.m. Sunday until 6:00 p.m. Tuesday and from 6:00 p.m. Wednesday until 6:00 p.m. Friday.
+(viii) In Subdistrict 4A after the opening of the State commercial salmon fishing season, you may not take salmon for subsistence for 12 hours immediately before, during, and for 12 hours after each State commercial salmon fishing period; however, you may take Chinook salmon during the State commercial fishing season, with drift gillnet gear only, from 6 p.m. Sunday until 6 p.m. Tuesday and from 6 p.m. Wednesday until 6 p.m. Friday.
 
 (ix) You may not subsistence fish in the following drainages located north of the main Yukon River:
 
@@ -210,9 +210,7 @@
 
 (xi) In Beaver Creek downstream from the confluence of Moose Creek, a gillnet with mesh size not to exceed 3-inches stretch-measure may be used from June 15 through September 15. You may subsistence fish for all non-salmon species but may not target salmon during this time period (retention of salmon taken incidentally to non-salmon directed fisheries is allowed). From the mouth of Nome Creek downstream to the confluence of Moose Creek, only rod and reel may be used. From the mouth of Nome Creek downstream to the confluence of O'Brien Creek, the daily harvest and possession limit is 5 grayling; from the mouth of O'Brien Creek downstream to the confluence of Moose Creek, the daily harvest and possession limit is 10 grayling. The Nome Creek drainage of Beaver Creek is closed to subsistence fishing for grayling.
 
-(xii) You may not subsistence fish in the Toklat River drainage from August 15 through May 15.
-
-(xiii) You may take salmon only by gillnet, beach seine, dip net, fish wheel, or rod and reel, subject to the restrictions set forth in this section.
+(xii) You may take salmon only by gillnet, beach seine, dip net, fish wheel, or rod and reel, subject to the restrictions set forth in this section.
 
 (A) In the Yukon River drainage, you may not take salmon for subsistence fishing using gillnets with stretched mesh larger than 7.5 inches.
 
@@ -220,13 +218,13 @@
 
 (C) Salmon may be harvested by dip net at any time, except during times of conservation when the Federal in-season manager may announce restrictions on time, areas, and species.
 
-(xiv) In District 4, if you are a commercial fisherman, you may not take salmon for subsistence purposes during the State commercial salmon fishing season using gillnets with stretched-mesh larger than 6 inches after a date specified by ADF&G emergency order issued between July 10 and July 31.
+(xiii) In District 4, if you are a commercial fisherman, you may not take salmon for subsistence purposes during the State commercial salmon fishing season using gillnets with stretched-mesh larger than 6 inches after a date specified by ADF&G emergency order issued between July 10 and July 31.
 
-(xv) In Districts 5 and 6, you may not take salmon for subsistence purposes by drift gillnets.
+(xiv) In Districts 5 and 6, you may not take salmon for subsistence purposes by drift gillnets.
 
-(xvi) In District 4 salmon may be taken by drift gillnet not more than 150 feet in length unless restricted by special action or as modified by regulations in this section.
+(xv) In District 4 salmon may be taken by drift gillnet not more than 150 feet in length unless restricted by special action or as modified by regulations in this section.
 
-(xvii) Unless otherwise specified in this section, you may take fish other than salmon by set gillnet, drift gillnet, beach seine, fish wheel, long line, fyke net, dip net, jigging gear, spear, lead, or rod and reel, subject to the following restrictions, which also apply to subsistence salmon fishing:
+(xvi) Unless otherwise specified in this section, you may take fish other than salmon by set gillnet, drift gillnet, beach seine, fish wheel, long line, fyke net, dip net, jigging gear, spear, lead, or rod and reel, subject to the following restrictions, which also apply to subsistence salmon fishing:
 
 (A) During the open weekly fishing periods of the State commercial salmon fishing season, if you are a commercial fisherman, you may not operate more than one type of gear at a time, for commercial, personal use, and subsistence purposes.
 
@@ -238,11 +236,11 @@
 
 (E) In Birch Creek, gillnet mesh size may not exceed 3-inches stretch-measure from June 15 through September 15.
 
-(F) In Racetrack Slough on the Koyukuk River and in the sloughs of the Huslia River drainage, from when each river is free of ice through June 15, the offshore end of the set gillnet may not be closer than 20 feet from the opposite bank except that sloughs 40 feet or less in width may have3/4 width coverage with set gillnet, unless closed by Federal special action.
+(F) In Racetrack Slough on the Koyukuk River and in the sloughs of the Huslia River drainage, from when each river is free of ice through June 15, the offshore end of the set gillnet may not be closer than 20 feet from the opposite bank except that sloughs 40 feet or less in width may have34 width coverage with set gillnet, unless closed by Federal special action.
 
-(xviii) In District 4, from September 21 through May 15, you may use jigging gear from shore ice.
+(xvii) In District 4, from September 21 through May 15, you may use jigging gear from shore ice.
 
-(xix) You must possess a subsistence fishing permit for the following locations:
+(xviii) You must possess a subsistence fishing permit for the following locations:
 
 (A) For the Yukon River drainage from the mouth of Hess Creek to the mouth of the Dall River;
 
@@ -250,11 +248,11 @@
 
 (C) Only for salmon in the Tanana River drainage above the mouth of the Wood River.
 
-(xx) Only one subsistence fishing permit will be issued to each household per year.
+(xix) Only one subsistence fishing permit will be issued to each household per year.
 
-(xxi) In Districts 1, 2, and 3, from June 1 through July 15. If ADF&G has announced that Chinook salmon can be sold in the commercial fisheries, you may not possess Chinook salmon taken for subsistence purposes unless both tips (lobes) of the tail fin have been removed before the person conceals the salmon from plain view or transfers the salmon from the fishing site.
+(xx) In Districts 1, 2, and 3, from June 1 through July 15. If ADF&G has announced that Chinook salmon can be sold in the commercial fisheries, you may not possess Chinook salmon taken for subsistence purposes unless both tips (lobes) of the tail fin have been removed before the person conceals the salmon from plain view or transfers the salmon from the fishing site.
 
-(xxii) In the Yukon River drainage, Chinook salmon must be used primarily for human consumption and may not be targeted for dog food. Dried Chinook salmon may not be used for dog food anywhere in the Yukon River drainage. Whole fish unfit for human consumption (due to disease, deterioration, and deformities), scraps, and small fish (16 inches or less) may be fed to dogs. Also, whole Chinook salmon caught incidentally during a subsistence chum salmon fishery in the following time periods and locations may be fed to dogs:
+(xxi) In the Yukon River drainage, Chinook salmon must be used primarily for human consumption and may not be targeted for dog food. Dried Chinook salmon may not be used for dog food anywhere in the Yukon River drainage. Whole fish unfit for human consumption (due to disease, deterioration, and deformities), scraps, and small fish (16 inches or less) may be fed to dogs. Also, whole Chinook salmon caught incidentally during a subsistence chum salmon fishery in the following time periods and locations may be fed to dogs:
 
 (A) After July 10 in the Koyukuk River drainage;
 
@@ -266,37 +264,35 @@
 
 (ii) For the Kuskokwim area, Federal subsistence fishing schedules, openings, closings, and fishing methods are the same as those issued for the subsistence taking of fish under Alaska Statutes (AS 16.05.060), except the use of gillnets with 6-inch or less mesh size is allowed before June 1 in the Kuskokwim River drainage, unless superseded by a Federal special action.
 
-(iii) In District 1, Kuskokuak Slough, from June 1 through July 31 only, you may not take salmon for 16 hours before and during each State open commercial salmon fishing period in the district.
+(iii) In Districts 4 and 5, from June 1 through September 8, you may not take salmon for 16 hours before or during and for 6 hours after each State open commercial salmon fishing period in each district.
 
-(iv) In Districts 4 and 5, from June 1 through September 8, you may not take salmon for 16 hours before or during and for 6 hours after each State open commercial salmon fishing period in each district.
+(iv) In District 2, and anywhere in tributaries that flow into the Kuskokwim River within that district, you may subsistence fish for salmon with rod and reel 24 hours per day, 7 days per week, unless rod and reel are specifically restricted by this paragraph (e)(4).
 
-(v) In District 2, and anywhere in tributaries that flow into the Kuskokwim River within that district, from June 1 through September 8, you may not take salmon by net gear or fish wheel for 16 hours before or during and for 6 hours after each open commercial salmon fishing period in the district. You may subsistence fish for salmon with rod and reel 24 hours per day, 7 days per week, unless rod and reel are specifically restricted by this paragraph (e)(4).
+(v) You may not take subsistence fish by nets in the Goodnews River east of a line between ADF&G regulatory markers placed near the mouth of the Ufigag River and an ADF&G regulatory marker placed near the mouth of the Tunulik River 16 hours before or during and for 6 hours after each State open commercial salmon fishing period.
 
-(vi) You may not take subsistence fish by nets in the Goodnews River east of a line between ADF&G regulatory markers placed near the mouth of the Ufigag River and an ADF&G regulatory marker placed near the mouth of the Tunulik River 16 hours before or during and for 6 hours after each State open commercial salmon fishing period.
+(vi) You may not take subsistence fish by nets in the Kanektok River upstream of ADF&G regulatory markers placed near the mouth 16 hours before or during and for 6 hours after each State open commercial salmon fishing period.
 
-(vii) You may not take subsistence fish by nets in the Kanektok River upstream of ADF&G regulatory markers placed near the mouth 16 hours before or during and for 6 hours after each State open commercial salmon fishing period.
+(vii) You may not take subsistence fish by nets in the Arolik River upstream of ADF&G regulatory markers placed near the mouth 16 hours before or during and for 6 hours after each State open commercial salmon fishing period.
 
-(viii) You may not take subsistence fish by nets in the Arolik River upstream of ADF&G regulatory markers placed near the mouth 16 hours before or during and for 6 hours after each State open commercial salmon fishing period.
+(viii) You may only take salmon by gillnet, beach seine, fish wheel, dip net, or rod and reel subject to the restrictions set out in this section, except that you may also take salmon by spear in the Kanektok, and Arolik River drainages, and in the drainage of Goodnews Bay.
 
-(ix) You may only take salmon by gillnet, beach seine, fish wheel, dip net, or rod and reel subject to the restrictions set out in this section, except that you may also take salmon by spear in the Kanektok, and Arolik River drainages, and in the drainage of Goodnews Bay.
+(ix) You may not use an aggregate length of set gillnets or drift gillnets in excess of 50 fathoms for taking salmon.
 
-(x) You may not use an aggregate length of set gillnets or drift gillnets in excess of 50 fathoms for taking salmon.
+(x) You may take fish other than salmon by set gillnet, drift gillnet, beach seine, fish wheel, pot, long line, fyke net, dip net, jigging gear, spear, lead, handline, or rod and reel.
 
-(xi) You may take fish other than salmon by set gillnet, drift gillnet, beach seine, fish wheel, pot, long line, fyke net, dip net, jigging gear, spear, lead, handline, or rod and reel.
+(xi) You must attach to the bank each subsistence set gillnet operated in tributaries of the Kuskokwim River and fish it substantially perpendicular to the bank and in a substantially straight line.
 
-(xii) You must attach to the bank each subsistence gillnet operated in tributaries of the Kuskokwim River and fish it substantially perpendicular to the bank and in a substantially straight line.
+(xii) Within a tributary to the Kuskokwim River in that portion of the Kuskokwim River drainage from the north end of Eek Island upstream to the mouth of the Kolmakoff River, you may not set or operate any part of a set gillnet within 150 feet of any part of another set gillnet.
 
-(xiii) Within a tributary to the Kuskokwim River in that portion of the Kuskokwim River drainage from the north end of Eek Island upstream to the mouth of the Kolmakoff River, you may not set or operate any part of a set gillnet within 150 feet of any part of another set gillnet.
-
-(xiv) The maximum depth of gillnets is as follows:
+(xiii) The maximum depth of gillnets is as follows:
 
 (A) Gillnets with 6-inch or smaller stretched-mesh may not be more than 45 meshes in depth;
 
 (B) Gillnets with greater than 6-inch stretched-mesh may not be more than 35 meshes in depth.
 
-(xv) You may not use subsistence set and drift gillnets exceeding 15 fathoms in length in Whitefish Lake in the Ophir Creek drainage. You may not operate more than one subsistence set or drift gillnet at a time in Whitefish Lake in the Ophir Creek drainage. You must check the net at least once every 24 hours.
+(xiv) You may not use subsistence set and drift gillnets exceeding 15 fathoms in length in Whitefish Lake in the Ophir Creek drainage. You may not operate more than one subsistence set or drift gillnet at a time in Whitefish Lake in the Ophir Creek drainage. You must check the net at least once every 24 hours.
 
-(xvi) You may take rainbow trout only in accordance with the following restrictions:
+(xv) You may take rainbow trout only in accordance with the following restrictions:
 
 (A) You may take rainbow trout only by the use of gillnets, dip nets, fyke nets, handline, spear, rod and reel, or jigging through the ice;
 
@@ -306,23 +302,17 @@
 
 (D) There are no harvest limits with handline, spear, rod and reel, or jigging.
 
-(xvii) All tributaries not expressly closed by Federal special action, or as modified by regulations in this section, remain open to the use of gillnets more than 100 yards upstream from their confluence with the Kuskokwim River.
+(xvi) All tributaries not expressly closed by Federal special action, or as modified by regulations in this section, remain open to the use of gillnets more than 100 yards upstream from their confluence with the Kuskokwim River.
 
 (5) *Bristol Bay Area.* The Bristol Bay Area includes all waters of Bristol Bay, including drainages enclosed by a line from Cape Newenham to Cape Menshikof.
 
 (i) Unless restricted in this section, or unless under the terms of a subsistence fishing permit, you may take fish at any time in the Bristol Bay area.
 
-(ii) In all State commercial salmon districts, from May 1 through May 31 and October 1 through October 31, you may subsistence fish for salmon only from 9:00 a.m. Monday until 9:00 a.m. Friday. From June 1 through September 30, within the waters of a commercial salmon district, you may take salmon only during State open commercial salmon fishing periods.
+(ii) You may not take fish from waters within 300 feet of a stream mouth used by salmon.
 
-(iii) In the Egegik River from 9 a.m. June 23 through 9 a.m. July 17, you may take salmon only during the following times: From 9 a.m. Tuesday to 9 a.m. Wednesday and from 9:00 a.m. Saturday to 9 a.m. Sunday.
+(iii) You may not subsistence fish with nets in the Tazimina River and within one-fourth mile of the terminus of those waters during the period from September 1 through June 14.
 
-(iv) You may not take fish from waters within 300 feet of a stream mouth used by salmon.
-
-(v) You may not subsistence fish with nets in the Tazimina River and within one-fourth mile of the terminus of those waters during the period from September 1 through June 14.
-
-(vi) Within any district, you may take salmon, herring, and capelin by set gillnets only.
-
-(vii) Outside the boundaries of any district, unless otherwise specified, you may take salmon by set gillnet only.
+(iv) Unless otherwise specified, you may take salmon by set gillnet only.
 
 (A) You may also take salmon by spear in the Togiak River, excluding its tributaries.
 
@@ -340,35 +330,33 @@
 
 (*3*) All materials used to construct the fyke net and lead must be made of wood and be removed from the water when the fyke net and lead is no longer in use.
 
-(viii) The maximum lengths for set gillnets used to take salmon are as follows:
+(v) The maximum lengths for set gillnets used to take salmon are as follows:
 
 (A) You may not use set gillnets exceeding 10 fathoms in length in the Egegik River;
 
 (B) In the remaining waters of the area, you may not use set gillnets exceeding 25 fathoms in length.
 
-(ix) You may not operate any part of a set gillnet within 300 feet of any part of another set gillnet.
+(vi) You may not operate any part of a set gillnet within 300 feet of any part of another set gillnet.
 
-(x) You must stake and buoy each set gillnet. Instead of having the identifying information on a keg or buoy attached to the gillnet, you may plainly and legibly inscribe your first initial, last name, and subsistence permit number on a sign at or near the set gillnet.
+(vii) You must stake and buoy each set gillnet. Instead of having the identifying information on a keg or buoy attached to the gillnet, you may plainly and legibly inscribe your first initial, last name, and subsistence permit number on a sign at or near the set gillnet.
 
-(xi) You may not operate or assist in operating subsistence salmon net gear while simultaneously operating or assisting in operating commercial salmon net gear.
+(viii) You may not operate or assist in operating subsistence salmon net gear while simultaneously operating or assisting in operating commercial salmon net gear.
 
-(xii) During State closed commercial herring fishing periods, you may not use gillnets exceeding 25 fathoms in length for the subsistence taking of herring or capelin.
+(ix) You may take fish other than salmon, herring, and capelin by gear listed in this part unless restricted under the terms of a subsistence fishing permit.
 
-(xiii) You may take fish other than salmon, herring, and capelin by gear listed in this part unless restricted under the terms of a subsistence fishing permit.
+(x) You may take salmon only under authority of a State subsistence salmon permit (permits are issued by ADF&G) except when using a Federal permit for fyke net and lead.
 
-(xiv) You may take salmon only under authority of a State subsistence salmon permit (permits are issued by ADF&G) except when using a Federal permit for fyke net and lead.
+(xi) Only one State subsistence fishing permit for salmon and one Federal permit for use of a fyke net and lead for all fish (except rainbow trout) may be issued to each household per year.
 
-(xv) Only one State subsistence fishing permit for salmon and one Federal permit for use of a fyke net and lead for all fish (except rainbow trout) may be issued to each household per year.
-
-(xvi) In the Togiak River section and the Togiak River drainage:
+(xii) In the Togiak River drainage:
 
 (A) You may not possess coho salmon taken under the authority of a subsistence fishing permit unless both lobes of the caudal fin (tail) or the dorsal fin have been removed.
 
 (B) You may not possess salmon taken with a drift gillnet under the authority of a subsistence fishing permit unless both lobes of the caudal fin (tail) or the dorsal fin have been removed.
 
-(xvii) You may take rainbow trout only by rod and reel or jigging gear. Rainbow trout daily harvest and possession limits are two per day/two in possession with no size limit from April 10 through October 31 and five per day/five in possession with no size limit from November 1 through April 9.
+(xiii) You may take rainbow trout only by rod and reel or jigging gear. Rainbow trout daily harvest and possession limits are two per day/two in possession with no size limit from April 10 through October 31 and five per day/five in possession with no size limit from November 1 through April 9.
 
-(xviii) If you take rainbow trout incidentally in other subsistence net fisheries, or through the ice, you may retain them for subsistence purposes.
+(xiv) If you take rainbow trout incidentally in other subsistence net fisheries, or through the ice, you may retain them for subsistence purposes.
 
 (6) *Aleutian Islands Area.* The Aleutian Islands Area includes all waters of Alaska west of the longitude of the tip of Cape Sarichef, east of 172° East longitude, and south of 54°36′ North latitude.
 
@@ -510,6 +498,8 @@
 
 (J) Applicable harvest provisions are as follows:
 
+Table 1 to Paragraph (e)(10)
+
 |       Location       |                                                      Methods and means                                                      |                         Permit type                         |
 |----------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
 |Kasilof River Drainage|   Kasilof River dip net or rod and reel for salmon; Kasilof River fish wheel for salmon; Kasilof River gillnet for salmon   |                  Household Annual Permit.                   |
@@ -528,12 +518,14 @@
 
 (ii) *Seasons, harvest limits, and methods and means for Kasilof River fisheries.* Household annual limits for salmon in Kasilof River fisheries are as follows:
 
-|Species|Number of fish allowed for each permit holder|Additional fish allowed for each household member|
-|-------|---------------------------------------------|-------------------------------------------------|
-|Sockeye|                     25                      |                        5                        |
-|Chinook|                     10                      |                        2                        |
-| Coho  |                     10                      |                        2                        |
-| Pink  |                     10                      |                        2                        |
+Table 2 to Paragraph (e)(10)
+
+|Species|Number of  <br/>fish allowed  <br/>for each  <br/>permit holder|Additional  <br/>fish allowed  <br/>for each  <br/>household  <br/>member|
+|-------|---------------------------------------------------------------|-------------------------------------------------------------------------|
+|Sockeye|                              25                               |                                    5                                    |
+|Chinook|                              10                               |                                    2                                    |
+| Coho  |                              10                               |                                    2                                    |
+| Pink  |                              10                               |                                    2                                    |
 
 (A) *Kasilof River dip net or rod and reel; salmon.* (*1*) Residents of Ninilchik may take sockeye, Chinook, coho, and pink salmon through a dip net or rod and reel fishery on the upper mainstem of the Kasilof River from a Federal regulatory marker on the river below the outlet of Tustumena Lake downstream to a marker on the river approximately 2.8 miles below the Tustumena Lake boat ramp.
 
@@ -542,6 +534,8 @@
 (*3*) Other species incidentally caught during the dip net and rod and reel fishery may be retained for subsistence uses, including up to 200 rainbow/steelhead trout taken through August 15. After 200 rainbow/steelhead trout have been taken in this fishery or after August 15, all rainbow/steelhead trout must be released unless otherwise provided for in this section.
 
 (*4*) Harvest seasons are as follows:
+
+Table 3 to Paragraph (e)(10)
 
 |   Species    |      Season       |
 |--------------|-------------------|
@@ -578,9 +572,7 @@
 
 (*7*) Fishing is allowed from June 16 through October 31 on the Kasilof River unless closed or otherwise restricted by Federal special action.
 
-(C) *Kasilof River gillnet; salmon.*
-
-(*1*) Residents of Ninilchik may harvest sockeye, Chinook, coho, and pink salmon in the Federal public waters of the upper mainstem of the Kasilof River from a Federal regulatory marker on the river below the outlet of Tustumena Lake downstream to the Tustumena Lake boat launch with a single gillnet from June 16 through August 15.
+(C) *Kasilof River gillnet; salmon.* (*1*) Residents of Ninilchik may harvest sockeye, Chinook, coho, and pink salmon in the Federal public waters of the upper mainstem of the Kasilof River from a Federal regulatory marker on the river below the outlet of Tustumena Lake downstream to the Tustumena Lake boat launch with a single gillnet from June 16 through August 15.
 
 (*2*) Only one community gillnet may be operated on the Kasilof River.
 
@@ -608,18 +600,20 @@
 
 (*6*) Residents of Ninilchik may retain other species incidentally caught in the Kasilof River community gillnet fishery. The gillnet fishery will be closed when the retention of rainbow or steelhead trout has been restricted under Federal subsistence regulations.
 
-(D) *Tustumena Lake rod and reel; salmon.*
-
-(*1*) In addition to the dip net and rod and reel fishery on the upper mainstem of the Kasilof River described under paragraph (e)(10)(ii)(A)(*1*) of this section, residents of Ninilchik may also take coho and pink salmon through a rod and reel fishery in Tustumena Lake. Fishing is allowed with up to two baited single or treble hooks.
+(D) *Tustumena Lake rod and reel; salmon.* (*1*) In addition to the dip net and rod and reel fishery on the upper mainstem of the Kasilof River described under paragraph (e)(10)(ii)(A)(*1*) of this section, residents of Ninilchik may also take coho and pink salmon through a rod and reel fishery in Tustumena Lake. Fishing is allowed with up to two baited single or treble hooks.
 
 (*2*) Seasons, areas, harvest and possession limits, and methods and means for take are the same as for the taking of these species under Alaska sport fishing regulations (5 AAC 56), except for the following harvest and possession limits:
+
+Table 4 to Paragraph (e)(10)
 
 |  Species  |        Size        |            Limits            |
 |-----------|--------------------|------------------------------|
 |Coho salmon|16 inches and longer|4 per day and 4 in possession.|
 |Pink salmon|16 inches and longer|6 per day and 6 in possession.|
 
-(E) *Kasilof drainage rod and reel; resident species.* Resident fish species including lake trout, rainbow or steelhead trout, and Dolly Varden or Arctic char may be harvested by rod and reel in Federally managed waters of the Kasilof River drainage the entire year as follows:
+(E) *Kasilof drainage rod and reel; resident species.* Resident fish species including lake trout, rainbow or steelhead trout, and Dolly Varden or Arctic char may be harvested by rod and reel in federally managed waters of the Kasilof River drainage the entire year as follows:
+
+Table 5 to Paragraph (e)(10)
 
 |          Species           |          Specifications          |             Limits             |
 |----------------------------|----------------------------------|--------------------------------|
@@ -630,11 +624,11 @@
 | Rainbow or steelhead trout |        In flowing waters         | 2 per day and 2 in possession. |
 |                            |        In lakes and ponds        | 5 per day and 5 in possession. |
 
-(F) *Tustumena Lake under ice fishery; resident species.*
-
-(*1*) You may fish in Tustumena Lake with a gillnet under the ice, or with jigging gear used through the ice. The gillnet may not be longer than 10 fathoms.
+(F) *Tustumena Lake under ice fishery; resident species.* (*1*) You may fish in Tustumena Lake with a gillnet under the ice, or with jigging gear used through the ice. The gillnet may not be longer than 10 fathoms.
 
 (*2*) Harvest limits are as follows:
+
+Table 6 to Paragraph (e)(10)
 
 |          Methods           |                                                      Limits                                                      |                                          Additional provisions                                           |
 |----------------------------|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
@@ -657,25 +651,25 @@
 
 (iii) *Seasons, harvest limits, and methods and means for Kenai River fisheries.* Household annual limits for salmon in Kenai River fisheries are as follows:
 
-|                       Species                       |Number of fish allowed for each permit holder|Additional fish allowed for each household member|                                         Additional provisions                                          |
-|-----------------------------------------------------|---------------------------------------------|-------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-|                   Sockeye salmon                    |                     25                      |                        5                        |      Chum salmon that are retained are to be included within the annual limit for sockeye salmon.      |
-| Chinook salmon - Early-run (July 1 through July 15) |                      2                      |                        1                        |For the Kenai River community gillnet fishery described under paragraph (e)(10)(iii)(B) of this section.|
-|Chinook salmon - Late-run (July 16 through August 31)|                     10                      |                        2                        |                                                                                                        |
-|                     Coho salmon                     |                     20                      |                        5                        |                                                                                                        |
-|                     Pink salmon                     |                     15                      |                        5                        |                                                                                                        |
+Table 7 to Paragraph (e)(10)
 
-(A) *Kenai River dip net or rod and reel; salmon.*
+|                  Species                   |Number of  <br/>fish allowed  <br/>for each  <br/>permit  <br/>holder|Additional  <br/>fish allowed  <br/>for each  <br/>household  <br/>member|                                         Additional provisions                                          |
+|--------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+|               Sockeye salmon               |                                 25                                  |                                    5                                    |      Chum salmon that are retained are to be included within the annual limit for sockeye salmon.      |
+| Chinook salmon - (July 1 through July 15)  |                                  2                                  |                                    1                                    |For the Kenai River community gillnet fishery described under paragraph (e)(10)(iii)(B) of this section.|
+|Chinook salmon - (July 16 through August 31)|                                 10                                  |                                    2                                    |                                                                                                        |
+|                Coho salmon                 |                                 20                                  |                                    5                                    |                                                                                                        |
+|                Pink salmon                 |                                 15                                  |                                    5                                    |                                                                                                        |
 
-(*1*) You may take only sockeye salmon through a dip net or rod and reel fishery at one specified site on the Russian River.
+(A) *Kenai River dip net or rod and reel; salmon.* (*1*) You may take only sockeye salmon through a dip net or rod and reel fishery at one specified site on the Russian River.
 
-(*i*) For the Russian River fishing site, incidentally caught fish may be retained for subsistence uses, except for early- and late-run Chinook salmon, coho salmon, rainbow trout, and Dolly Varden, which must be released.
+(*i*) For the Russian River fishing site, incidentally caught fish may be retained for subsistence uses, except for Chinook salmon, coho salmon, rainbow trout, and Dolly Varden, which must be released.
 
 (*ii*) At the Russian River Falls site, dip netting is allowed from a Federal regulatory marker near the upstream end of the fish ladder at Russian River Falls downstream to a Federal regulatory marker approximately 600 yards below Russian River Falls. Residents using rod and reel gear at this fishery site may not fish with bait at any time.
 
-(*2*) You may take sockeye, late-run Chinook, coho, and pink salmon through a dip net or rod and reel fishery at two specified sites on the Kenai River below Skilak Lake and as provided in this section.
+(*2*) You may take sockeye, Chinook, coho, and pink salmon through a dip net or rod and reel fishery at two specified sites on the Kenai River below Skilak Lake and as provided in this section.
 
-(*i*) For both Kenai River fishing sites below Skilak Lake, incidentally caught fish may be retained for subsistence uses, except for early-run Chinook salmon (unless otherwise provided for in this section), rainbow trout 18 inches or longer, and Dolly Varden 18 inches or longer, which must be released.
+(*i*) For both Kenai River fishing sites below Skilak Lake, incidentally caught fish may be retained for subsistence uses, except for Chinook salmon prior to July 16 (unless otherwise provided for in this section), rainbow trout 18 inches or longer, and Dolly Varden 18 inches or longer, which must be released.
 
 (*ii*) At the Kenai River Moose Range Meadows site, dip netting is allowed only from a boat from a Federal regulatory marker on the Kenai River at about river mile 29 downstream approximately 2.5 miles to another marker on the Kenai River at about river mile 26.5. Residents using rod and reel gear at this fishery site may fish from boats or from shore with up to two baited single or treble hooks June 15 through August 31.
 
@@ -683,33 +677,35 @@
 
 (*3*) Fishing seasons are as follows:
 
-|        Species        |       Season       |       Location        |
-|-----------------------|--------------------|-----------------------|
-|    Sockeye salmon     | June 15-August 15  |   All three sites.    |
-|Late-run Chinook salmon|July 16-September 30|Kenai River sites only.|
-|      Pink salmon      |July 16-September 30|Kenai River sites only.|
-|      Coho salmon      |July 16-September 30|Kenai River sites only.|
+Table 8 to Paragraph (e)(10)
 
-(B) *Kenai River gillnet; salmon.*
+|   Species    |       Season       |       Location        |
+|--------------|--------------------|-----------------------|
+|Sockeye salmon| June 15-August 15  |   All three sites.    |
+|Chinook salmon|July 16-September 30|Kenai River sites only.|
+| Pink salmon  |July 16-September 30|Kenai River sites only.|
+| Coho salmon  |July 16-September 30|Kenai River sites only.|
 
-(*1*) Residents of Ninilchik may harvest sockeye, Chinook, coho, and pink salmon in the Moose Range Meadows area of the Federal public waters of the Kenai River with a single gillnet to be managed and operated by the Ninilchik Traditional Council.
+(B) *Kenai River gillnet; salmon.* (*1*) Residents of Ninilchik may harvest sockeye, Chinook, coho, and pink salmon in the Moose Range Meadows area of the Federal public waters of the Kenai River with a single gillnet to be managed and operated by the Ninilchik Traditional Council.
 
 (*2*) Fishing will be allowed July 1 through August 15 and September 10-30 on the Kenai River unless closed or otherwise restricted by Federal special action. The following conditions apply to harvest in the Kenai River community gillnet fishery:
 
 (*i*) Salmon taken in this fishery will be included as household annual limits of participating households.
 
-(*ii*) The Ninilchik Traditional Council will report all harvested fish within 72 hours of leaving the gillnet location.
+*(ii)* The Ninilchik Traditional Council will report all harvested fish within 72 hours of leaving the gillnet location.
 
 (*iii*) Additional harvest restrictions for this fishery are as follows:
 
-|                                         Species                                          |               Period                |                                                                                                                               Harvest                                                                                                                                |                                                                                        Fishery limits                                                                                         |
-|------------------------------------------------------------------------------------------|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                      Sockeye salmon                                      |July 1-August 15 and September 10-30 |                                                                                                                                                                                                                                                                      |                                                                                                                                                                                               |
-|Early-run Chinook salmon less than 46 inches in length or greater than 55 inches in length|              July 1-15              |Fish may be retained if the most current preseason forecast from the State of Alaska Department of Fish and Game projects the in-river run to be within or above the optimal escapement goal range for early-run Chinook salmon; otherwise, live fish must be released|                                               Fishery will close until July 16 once 50 early-run Chinook salmon have been retained or released.                                               |
-|                                 Late-run Chinook salmon                                  |          July 16-August 15          |                                                                                                                                                                                                                                                                      |Fishery will close prior to August 15 if 200 late-run Chinook salmon have been retained or released prior to that date. Fishery will reopen September 10-30 for species available at that time.|
-|                                       Pink salmon                                        |July 16-August 15 and September 10-30|                                                                                                                                                                                                                                                                      |                                                                                                                                                                                               |
-|                                       Coho salmon                                        |July 16-August 15 and September 10-30|                                                                                                                                                                                                                                                                      |                                                                                                                                                                                               |
-|                    Incidentally caught rainbow trout and Dolly Varden                    |                                     |                                                                                                 All live fish must be released. Fish that die in net may be retained                                                                                                 |                                         Fishery will close for the season once 100 rainbow trout or 150 Dolly Varden have been released or retained.                                          |
+Table 9 to Paragraph (e)(10)
+
+|                                    Species                                     |               Period                |                                                                                                                               Harvest                                                                                                                                |                                                                                         Fishery limits                                                                                          |
+|--------------------------------------------------------------------------------|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                 Sockeye salmon                                 |July 1-August 15 and September 10-30 |                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                 |
+|Chinook salmon less than 46 inches in length or greater than 55 inches in length|              July 1-15              |Fish may be retained if the most current preseason forecast from the State of Alaska Department of Fish and Game projects the in-river run to be within or above the optimal escapement goal range for early-run Chinook salmon; otherwise, live fish must be released|                                                     Fishery will close until July 16 once 50 Chinook salmon have been retained or released.                                                     |
+|                                 Chinook salmon                                 |          July 16-August 15          |                                                                                                                                                                                                                                                                      |Fishery will close prior to August 15 if 200 Chinook salmon have been retained or released between July 16 and that date. Fishery will reopen September 10-30 for species available at that time.|
+|                                  Pink salmon                                   |July 16-August 15 and September 10-30|                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                 |
+|                                  Coho salmon                                   |July 16-August 15 and September 10-30|                                                                                                                                                                                                                                                                      |                                                                                                                                                                                                 |
+|               Incidentally caught rainbow trout and Dolly Varden               |                                     |                                                                                                 All live fish must be released. Fish that die in net may be retained                                                                                                 |                                          Fishery will close for the season once 100 rainbow trout or 150 Dolly Varden have been released or retained.                                           |
 
 (*iv*) Chinook salmon less than 20 inches in length may be retained and do not count towards retained or released totals.
 
@@ -735,27 +731,27 @@
 
 (*ii*) Includes provisions for recording daily catches, the household to whom the catch was given, and other information determined to be necessary for effective resource management by the Federal in-season manager.
 
-(C) *Kenai River rod and reel only; salmon.*
-
-(*1*) For Federally managed waters of the Kenai River and its tributaries, you may take sockeye, Chinook, coho, pink, and chum salmon through a separate rod and reel fishery in the Kenai River drainage.
+(C) *Kenai River rod and reel only; salmon.* (*1*) For federally managed waters of the Kenai River and its tributaries, you may take sockeye, Chinook, coho, pink, and chum salmon through a separate rod and reel fishery in the Kenai River drainage.
 
 (*2*) Seasons, areas, harvest and possession limits, and methods and means for take are the same as for the taking of these salmon species under State of Alaska fishing regulations (5 AAC 56, 5 AAC 57 and 5 AAC 77.540), except for the following harvest and possession limits:
 
-|                       Species                        |                   Size                    |                                                                                                          Limits                                                                                                           |
-|------------------------------------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Chinook salmon - Early-run (January 1 through July 15)|Less than 46 inches or 55 inches and longer|                                                                                              2 per day and 2 in possession.                                                                                               |
-|Chinook salmon - Late-run (July 16 through August 31) |           20 inches and longer            |                                                                                              2 per day and 2 in possession.                                                                                               |
-|                   All other salmon                   |           16 inches and longer            |6 per day and 6 in possession, of which no more than 4 per day and 4 in possession may be Coho salmon, except for the Sanctuary Area and Russian River where no more than 2 per day and 2 in possession may be Coho salmon.|
+Table 10 to Paragraph (e)(10)
+
+|                  Species                   |                   Size                    |                                                                                                          Limits                                                                                                           |
+|--------------------------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Chinook salmon - (January 1 through July 15)|Less than 46 inches or 55 inches and longer|                                                                                              2 per day and 2 in possession.                                                                                               |
+|Chinook salmon - (July 16 through August 31)|           20 inches and longer            |                                                                                              2 per day and 2 in possession.                                                                                               |
+|              All other salmon              |           16 inches and longer            |6 per day and 6 in possession, of which no more than 4 per day and 4 in possession may be Coho salmon, except for the Sanctuary Area and Russian River where no more than 2 per day and 2 in possession may be Coho salmon.|
 
 (*i*) In the Kenai River below Skilak Lake, fishing is allowed with up to two baited single or treble hooks June 15 through August 31.
 
-(*ii*) Annual harvest limits for any combination of early- and late-run Chinook salmon are four for each permit holder.
+(*ii*) Annual harvest limits for any combination of Chinook salmon are four for each permit holder.
 
 (*iii*) Incidentally caught fish, other than salmon, are subject to regulations found in paragraph (e)(10)(iii)(D) of this section.
 
-(D) *Kenai River and tributaries under ice jigging and rod and reel; resident species.*
+(D) *Kenai River and tributaries under ice jigging and rod and reel; resident species.* (*1*) For federally managed waters of the Kenai River and its tributaries below Skilak Lake outlet at river mile 50, you may take resident fish species including lake trout, rainbow trout, and Dolly Varden or Arctic char with jigging gear through the ice or rod and reel gear in open waters. Seasons, areas, harvest and possession limits, and methods and means for take are the same as for the taking of these resident species under State of Alaska fishing regulations (5 AAC 56, 5 AAC 57, and 5 AAC 77.540), except for the following harvest and possession limits:
 
-(*1*) For Federally managed waters of the Kenai River and its tributaries below Skilak Lake outlet at river mile 50, you may take resident fish species including lake trout, rainbow trout, and Dolly Varden or Arctic char with jigging gear through the ice or rod and reel gear in open waters. Seasons, areas, harvest and possession limits, and methods and means for take are the same as for the taking of these resident species under State of Alaska fishing regulations (5 AAC 56, 5 AAC 57, and 5 AAC 77.540), except for the following harvest and possession limits:
+Table 11 to Paragraph (e)(10)
 
 |          Species          |  Specifications   |                                               Limits                                               |
 |---------------------------|-------------------|----------------------------------------------------------------------------------------------------|
@@ -766,7 +762,9 @@
 |Rainbow or steelhead trout | In flowing waters |               For fish less than 18 inches in length, 1 per day and 1 in possession.               |
 |                           |In lakes and ponds | 2 per day and 2 in possession, of which only one fish 20 inches or longer may be harvested daily.  |
 
-(*2*) For Federally managed waters of the upper Kenai River and its tributaries above Skilak Lake outlet at river mile 50, you may take resident fish species including lake trout, rainbow trout, and Dolly Varden or Arctic char with jigging gear through the ice or rod and reel gear in open waters. Seasons, areas, harvest and possession limits, and methods and means for take are the same as for the taking of these resident species under Alaska fishing regulations (5 AAC 56, 5 AAC 57, 5 AAC 77.540), except for the following harvest and possession limits:
+(*2*) For federally managed waters of the upper Kenai River and its tributaries above Skilak Lake outlet at river mile 50, you may take resident fish species including lake trout, rainbow trout, and Dolly Varden or Arctic char with jigging gear through the ice or rod and reel gear in open waters. Seasons, areas, harvest and possession limits, and methods and means for take are the same as for the taking of these resident species under Alaska fishing regulations (5 AAC 56, 5 AAC 57, 5 AAC 77.540), except for the following harvest and possession limits:
+
+Table 12 to Paragraph (e)(10)
 
 |          Species          |  Specifications   |                                             Limits                                              |
 |---------------------------|-------------------|-------------------------------------------------------------------------------------------------|
@@ -825,6 +823,8 @@
 (F) You must personally operate your fish wheel or dip net.
 
 (G) You may not loan or transfer a subsistence fish wheel or dip net permit except as permitted.
+
+(H) While you are fishing from a boat or other watercraft, you may not use any device that indicates bathymetry and/or fish locations, *e.g.,* fish finders. These devices do not have to be removed or uninstalled from a boat or watercraft.
 
 (xii) If you are a fish wheel owner:
 
@@ -996,4 +996,4 @@
 
 (xxii) Only federally qualified subsistence users may harvest sockeye salmon in Neva Lake, Neva Creek, and South Creek.
 
-[78 FR 19112, Mar. 29, 2013, as amended at 80 FR 28192, May 18, 2015; 83 FR 3084, Jan. 23, 2018; 84 FR 39191, Aug. 9, 2019; 84 FR 39748, Aug. 12, 2019]
+[78 FR 19112, Mar. 29, 2013, as amended at 80 FR 28192, May 18, 2015; 83 FR 3084, Jan. 23, 2018; 84 FR 39191, Aug. 9, 2019; 84 FR 39748, Aug. 12, 2019; 86 FR 17717, Apr. 6, 2021]
