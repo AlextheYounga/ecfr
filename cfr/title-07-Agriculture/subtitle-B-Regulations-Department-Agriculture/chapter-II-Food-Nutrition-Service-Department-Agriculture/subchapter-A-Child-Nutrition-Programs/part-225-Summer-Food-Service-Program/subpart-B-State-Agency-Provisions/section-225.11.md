@@ -1,7 +1,5 @@
 ##### § 225.11 Corrective action procedures. #####
 
-Link to an amendment published at 83 FR 25360, June 1, 2018.
-
 (a) *Purpose.* The provisions in this section shall be used by the State agency to improve Program performance.
 
 (b) *Investigations.* Each State agency shall promptly investigate complaints received or irregularities noted in connection with the operation of the Program, and shall take appropriate action to correct any irregularities. The State agency shall maintain on file all evidence relating to such investigations and actions. The State agency shall inform the appropriate FNSRO of any suspected fraud or criminal abuse in the Program which would result in a loss or misuse of Federal funds. The Department may make investigations at the request of the State agency, or where the Department determines investigations are appropriate.
@@ -54,4 +52,6 @@ If this action results in children not receiving meals under the Program, the St
 
 (4) If the site is vended, the State agency shall within 48 hours notify the food service management company providing meals to the site of the site's termination.
 
-[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13469, Apr. 10, 1990]
+(g) *Technical assistance for improved meal service.* If the State agency finds that a sponsor is operating a program with poor quality meal service and is operating below the reimbursement level, the State agency should provide technical assistance to the sponsor to improve the meal service.
+
+[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13469, Apr. 10, 1990; 83 FR 25360, June 1, 2018]

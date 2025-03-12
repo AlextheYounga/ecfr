@@ -1,7 +1,5 @@
 ##### § 225.7 Program monitoring and assistance. #####
 
-Link to an amendment published at 83 FR 25358, June 1, 2018.
-
 (a) *Training.* Prior to the beginning of Program operations, each State agency shall make available training in all necessary areas of Program administration to sponsor personnel, food service management company representatives, auditors, and health inspectors who will participate in the Program in that State. Prior to Program operations, the State agency shall ensure that the sponsor's supervisory personnel responsible for the food service receive training in all necessary areas of Program administration and operations. This training shall reflect the fact that individual sponsors or groups of sponsors require different levels and areas of Program training. State agencies are encouraged to utilize in such training, and in the training of site personnel, sponsor personnel who have previously participated in the Program. Training should be made available at convenient locations. State agencies are not required to conduct this training for sponsors operating the Program during unanticipated school closures during the period from October through April (or at any time of the year in an area with a continuous school calendar).
 
 (b) *Program materials.* Each State agency shall develop and make available all necessary Program materials in sufficient time to enable applicant sponsors to prepare adequately for the Program.
@@ -32,6 +30,16 @@ Link to an amendment published at 83 FR 25358, June 1, 2018.
 
 (E) As part of each sponsor review, conduct reviews of at least 10 percent of each sponsor's sites, or one site, whichever number is greater.
 
+(iii) *Review of sponsor's operation.* State agencies should determine if:
+
+(A) Expenditures are allowable and consistent with FNS Instructions and guidance and all funds accruing to the food service are properly identified and recorded as food service revenue;
+
+(B) Expenditures are consistent with budgeted costs, and the previous year's expenditures taking into consideration any changes in circumstances;
+
+(C) Reimbursements have not resulted in accumulation of net cash resources as defined in paragraph (f) of this section; and
+
+(D) The level of administrative spending is reasonable and does not affect the sponsor's ability to operate a nonprofit food service and provide a quality meal service.
+
 (3) *Follow-up reviews.* The State agency shall conduct follow-up reviews of sponsors and sites as necessary.
 
 (4) *Monitoring system.* Each State agency shall develop and implement a monitoring system to ensure that sponsors, including site personnel, and the sponsor's food service management company, if applicable, immediately receive a copy of any review reports which indicate Program violations and which could result in a Program disallowance.
@@ -48,10 +56,18 @@ Link to an amendment published at 83 FR 25358, June 1, 2018.
 
 (e) *Other facility inspections and meal quality tests.* In addition to those inspections required by paragraph (d)(6) of this section, the State agency may also conduct, or arrange to have conducted: inspections of self-preparation and vended sponsors' food preparation facilities; inspections of food service sites; and meal quality tests. The procedures for carrying out these inspections and tests shall be consistent with procedures used by local health authorities. For inspections of food service management companies' facilities not conducted by State agency personnel, copies of the results shall be provided to the State agency. The company and the sponsor shall also immediately receive a copy of the results of these inspections when corrective action is required. If a food service management company fails to correct violations noted by the State agency during a review, the State agency shall notify the sponsor and the food service management company that reimbursement shall not be paid for meals prepared by the food service management company after a date specified in the notification. Funds provided for in § 225.5(f) may be used for conducting these inspections and tests.
 
-(f) *Financial management.* Each State agency shall establish a financial management system, in accordance with 2 CFR part 200, subpart D and E, and USDA implementing regulations 2 CFR part 400 and part 415, as applicable, and FNS guidance, to identify allowable Program costs and to establish standards for sponsor recordkeeping and reporting. The State agency shall provide guidance on these financial management standards to each sponsor.
+(f) *Financial management.* Each State agency shall establish a financial management system, in accordance with 2 CFR part 200, subpart D and E, and USDA implementing regulations 2 CFR part 400 and part 415, as applicable, and FNS guidance, to identify allowable Program costs and to establish standards for sponsor recordkeeping and reporting. The State agency shall provide guidance on these financial management standards to each sponsor. Additionally, each State agency shall establish a system for monitoring and reviewing sponsors' nonprofit food service to ensure that all Program reimbursement funds are used solely for the conduct of the food service operation. State agencies must review the net cash resources of the nonprofit food service of each sponsor participating in the Program and ensure that the net cash resources do not exceed one months' average expenditures for sponsors operating only during the summer months and three months' average expenditure for sponsors operating Child Nutrition Programs throughout the year. State agency approval shall be required for net cash resources in excess of requirements set forth in this paragraph (f). Based on this monitoring, the State agency may provide technical assistance to the sponsor to improve meal service quality or take other action designed to improve the nonprofit meal service quality under the following conditions, including but not limited to:
+
+(1) The sponsor's net cash resources exceed the limits included in this paragraph (f) for the sponsor's nonprofit food service or such other amount as may be approved in accordance with this paragraph;
+
+(2) The ratio of administrative to operating costs (as defined in § 225.2) is high;
+
+(3) There is significant use of alternative funding for food and/or other costs; or
+
+(4) A significant portion of the food served is privately donated or purchased at a very low price.
 
 (g) *Nondiscrimination.* (1) Each State agency shall comply with all requirements of title VI of the Civil Rights Act of 1964, title IX of the Education Amendments of 1972, section 504 of the Rehabilitation Act of 1973, the Age Discrimination Act of 1975, and the Department's regulations concerning nondiscrimination (7 CFR parts 15, 15a and 15b), including requirements for racial and ethnic participation data collection, public notification of the nondiscrimination policy, and reviews to assure compliance with such policy, to the end that no person shall, on the grounds of race, color, national origin, sex, age, or disability, be excluded from participation in, be denied the benefits of, or be otherwise subjected to discrimination under, the Program.
 
 (2) Complaints of discrimination filed by applicants or participants shall be referred to FNS or the Secretary of Agriculture, Washington, DC 20250. A State agency which has an established grievance or complaint handling procedure may resolve sex and handicap discrimination complaints before referring a report to FNS.
 
-[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13468, Apr. 10, 1990; 64 FR 72485, Dec. 28, 1999; 64 FR 72898, Dec. 29, 1999; 71 FR 39518, July 13, 2006; 76 FR 22798, Apr. 25, 2011; 81 FR 66492, Sept. 28, 2016]
+[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13468, Apr. 10, 1990; 64 FR 72485, Dec. 28, 1999; 64 FR 72898, Dec. 29, 1999; 71 FR 39518, July 13, 2006; 76 FR 22798, Apr. 25, 2011; 81 FR 66492, Sept. 28, 2016; 83 FR 25358, June 1, 2018]

@@ -1,7 +1,5 @@
 ##### § 225.17 Procurement standards. #####
 
-Link to an amendment published at 83 FR 25360, June 1, 2018.
-
 (a) State agencies and sponsors shall comply with the requirements of 2 CFR part 200, subpart D and USDA implementing regulations 2 CFR part 400 and part 415, as applicable, concerning the procurement of supplies, food, equipment and other services with Program funds. These requirements ensure that such materials and services are obtained for the program efficiently and economically and in compliance with applicable laws and executive orders. Sponsors may use their own procedures for procurement with Program funds to the extent that:
 
 (1) Procurements by public sponsors comply with applicable State or local laws and the standards set forth in 2 CFR part 200, subpart F and USDA implementing regulations 2 CFR part 400 and part 415; and
@@ -28,4 +26,6 @@ Link to an amendment published at 83 FR 25360, June 1, 2018.
 
 (2) For the purpose of applying the optional geographic preference in paragraph (e)(1) of this section, “unprocessed locally grown or locally raised agricultural products” means only those agricultural products that retain their inherent character. The effects of the following food handling and preservation techniques shall not be considered as changing an agricultural product into a product of a different kind or character: Cooling; refrigerating; freezing; size adjustment made by peeling, slicing, dicing, cutting, chopping, shucking, and grinding; forming ground products into patties without any additives or fillers; drying/dehydration; washing; packaging (such as placing eggs in cartons), vacuum packing and bagging (such as placing vegetables in bags or combining two or more types of vegetables or fruits in a single package); addition of ascorbic acid or other preservatives to prevent oxidation of produce; butchering livestock and poultry; cleaning fish; and the pasteurization of milk.
 
-[54 FR 18208, Apr. 27, 1989, as amended at 71 FR 39518, July 13, 2006; 76 FR 22607, Apr. 22, 2011; 81 FR 66492, Sept. 28, 2016]
+(f) All contracts in excess of $10,000 must contain a clause allowing termination for cause or for convenience by the sponsor including the manner by which it will be effected and the basis for settlement.
+
+[54 FR 18208, Apr. 27, 1989, as amended at 71 FR 39518, July 13, 2006; 76 FR 22607, Apr. 22, 2011; 81 FR 66492, Sept. 28, 2016; 83 FR 25361, June 1, 2018]

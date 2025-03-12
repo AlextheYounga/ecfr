@@ -1,7 +1,5 @@
 ##### § 225.2 Definitions. #####
 
-Link to an amendment published at 83 FR 25357, June 1, 2018.
-
 *2 CFR part 200,* means the Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards published by OMB. The part reference covers applicable: Acronyms and Definitions (subpart A), General Provisions (subpart B), Post Federal Award Requirements (subpart D), Cost Principles (subpart E), and Audit Requirements (subpart F). (NOTE: Pre-Federal Award Requirements and Contents of Federal Awards (subpart C) does not apply to the National School Lunch Program).
 
 *Act* means the National School Lunch Act, as amended.
@@ -55,6 +53,8 @@ Link to an amendment published at 83 FR 25357, June 1, 2018.
 (1) The name(s) and appropriate SNAP, FDPIR, or TANF case number(s) for the child(ren); and
 
 (2) the signature of an adult member of the household.
+
+*Excess funds* means the difference between any advance funding and reimbursement funding, when advance funds received by a sponsor are greater than the reimbursement amount earned by a sponsor.
 
 *Experienced site* means a site which, as determined by the State agency, has successfully participated in the Program in the prior year.
 
@@ -160,8 +160,10 @@ Link to an amendment published at 83 FR 25357, June 1, 2018.
 
 *USDA implementing regulations* include the following: 2 CFR part 400, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards; 2 CFR part 415, General Program Administrative Regulations; 2 CFR part 416, General Program Administrative Regulations for Grants and Cooperative Agreements to State and Local Governments; and 2 CFR part 418, New Restrictions on Lobbying.
 
+*Unused reimbursement* means the difference between the amount of reimbursement earned and received and allowable costs, when reimbursement exceeds costs.
+
 *Vended sponsor* means a sponsor which purchases from a food service management company the unitized meals, with or without milk, which it will serve at its site(s), or a sponsor which purchases management services, subject to the limitations set forth in § 225.15, from a food service management company.
 
 *Yogurt* means commercially prepared coagulated milk products obtained by the fermentation of specific bacteria, that meet milk fat or milk solid requirements and to which flavoring foods or ingredients may be added. These products are covered by the Food and Drug Administration's Standard of Identity for yogurt, lowfat yogurt, and nonfat yogurt, (21 CFR 131.200), (21 CFR 131.203), (21 CFR 131.206), respectively.
 
-[54 FR 18208, Apr. 27, 1989, as amended at 54 FR 27153, June 28, 1989; 55 FR 13466, Apr. 10, 1990; 61 FR 25553, May 22, 1996; 64 FR 72483, Dec. 28, 1999; 64 FR 72895, Dec. 29, 1999; 66 FR 2202, Jan. 11, 2001; 71 FR 39518, July 13, 2006; 72 FR 10895, Mar. 12, 2007; 76 FR 22798, Apr. 25, 2011; 78 FR 13449, Feb. 28, 2013; 81 FR 66492, Sept. 28, 2016]
+[54 FR 18208, Apr. 27, 1989, as amended at 54 FR 27153, June 28, 1989; 55 FR 13466, Apr. 10, 1990; 61 FR 25553, May 22, 1996; 64 FR 72483, Dec. 28, 1999; 64 FR 72895, Dec. 29, 1999; 66 FR 2202, Jan. 11, 2001; 71 FR 39518, July 13, 2006; 72 FR 10895, Mar. 12, 2007; 76 FR 22798, Apr. 25, 2011; 78 FR 13449, Feb. 28, 2013; 81 FR 66492, Sept. 28, 2016; 83 FR 25357, June 1, 2018]

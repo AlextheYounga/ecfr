@@ -1,7 +1,5 @@
 ##### § 225.6 State agency responsibilities. #####
 
-Link to an amendment published at 83 FR 25357, June 1, 2018.
-
 (a) *General responsibilities.* (1) The State agency shall provide sufficient qualified consultative, technical, and managerial personnel to administer the Program, monitor performance, and measure progress in achieving Program goals. The State agency shall assign Program responsibilities to personnel to ensure that all applicable requirements under this part are met.
 
 (2) By February 1 of each fiscal year, each State agency shall announce the purpose, eligibility criteria, and availability of the Program throughout the State, through appropriate means of communication. As part of this effort, each State agency shall identify rural areas, Indian tribal territories, and areas with a concentration of migrant farm workers which qualify for the Program and actively seek eligible applicant sponsors to serve such areas. State agencies shall identify priority outreach areas in accordance with FNS guidance and target outreach efforts in these areas. State agencies shall identify priority outreach areas in accordance with FNS guidance and target outreach efforts in these areas.
@@ -36,7 +34,7 @@ Link to an amendment published at 83 FR 25357, June 1, 2018.
 
 (6) The State agency must not approve any sponsor to operate more than 200 sites or to serve more than an average of 50,000 children per day. However, the State agency may approve exceptions if the applicant can demonstrate that it has the capability of managing a program larger than these limits.
 
-(7) The State agency shall review each applicant's administrative budget as a part of the application approval process in order to assess the applicant's ability to operate in compliance with these regulations within its projected reimbursement. In approving the applicant's administrative budget, the State agency shall take into consideration the number of sites and children to be served, as well as any other relevant factors. A sponsor's administrative budget shall be subject to review for adjustments by the State agency if the sponsor's level of site participation or the number of meals served to children changes significantly.
+(7) The State agency shall review each applicant's administrative budget as a part of the application approval process in order to assess the applicant's ability to operate in compliance with these regulations within its projected reimbursement. In approving the applicant's administrative budget, the State agency shall take into consideration the number of sites and children to be served, as well as any other relevant factors. A sponsor's administrative budget shall be subject to review for adjustments by the State agency if the sponsor's level of site participation or the number of meals served to children changes significantly. State agencies may exempt school food authorities applying to operate the SFSP from submitting a separate budget to the State agency, provided that operation of the SFSP is included in the annual budget submitted for the National School Lunch Program
 
 (8) Applicants which qualify as camps shall be approved for reimbursement only for meals served free to enrolled children who meet the Program's eligibility standards.
 
@@ -210,9 +208,9 @@ Link to an amendment published at 83 FR 25357, June 1, 2018.
 
 (g) *Food service management company registration.* A State agency may require each food service management company, operating within the State, to register based on State procedures. A State agency may further require the food service management company to certify that the information submitted on its application for registration is true and correct and that the food service management company is aware that misrepresentation may result in prosecution under applicable State and Federal statutes.
 
-(h) *Monitoring of food service management company procurements.* (1) The State agency shall ensure that sponsors' food service management company procurements are carried out in accordance with §§ 225.15(h) and 225.17 of this part.
+(h) *Monitoring of food service management company procurements.* (1) The State agency shall ensure that sponsors' food service management company procurements are carried out in accordance with §§ 225.15(m) and 225.17.
 
-(2) Each State agency shall develop a standard form of contract for use by sponsors in contracting with food service management companies. Sponsors which are public entities, sponsors with exclusive year-round contracts with a food service management company, and sponsors whose food service management company contract(s) do not exceed $10,000 in aggregate value may use their existing or usual form of contract, provided that such form of contract has been submitted to and approved by the State agency. The standard contract developed by the State agency shall expressly and without exception provide that:
+(2) Each State agency shall develop a standard form of contract for use by sponsors in contracting with food service management companies. Sponsors that are public entities, sponsors with exclusive year-round contracts with a food service management company, and sponsors that have no food service management company contracts exceeding the simplified acquisition threshold in 2 CFR part 200, as applicable, may use their existing or usual form of contract, provided that such form of contract has been submitted to and approved by the State agency. The standard contract developed by the State agency shall expressly and without exception provide that:
 
 (i) All meals prepared by a food service management company shall be unitized, with or without milk or juice, unless the State agency has approved, pursuant to paragraph (h)(3) of this section, a request for exceptions to the unitizing requirement for certain components of a meal;
 
@@ -254,8 +252,10 @@ Link to an amendment published at 83 FR 25357, June 1, 2018.
 
 (6) All bids in an amount which exceeds the lowest bid shall be submitted to the State agency for approval before acceptance. All bids totaling $100,000 or more shall be submitted to the State agency for approval before acceptance. State agencies shall respond to a request for approval of such bids within 5 working days of receipt.
 
-(7) Failure by a sponsor to comply with the provisions of this paragraph or § 225.15(h)(1) shall be sufficient grounds for the State agency to terminate participation by the sponsor in accordance with § 225.18(b).
+(7) The contract between a sponsor and food service management company shall be no longer than 1 year; and options for the yearly renewal of a contract may not exceed 4 additional years. All contracts shall include a termination clause whereby either party may cancel for cause or for convenience with up to 60-day notification.
+
+(8) Failure by a sponsor to comply with the provisions of this paragraph or § 225.15(m) shall be sufficient grounds for the State agency to terminate participation by the sponsor in accordance with § 225.18(b).
 
 (i) *Meal pattern exceptions.* The State agency shall review and act upon requests for exceptions to the meal pattern in accordance with the guidelines and limitations set forth in § 225.16.
 
-[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13467, Apr. 10, 1990; ; 64 FR 72484, Dec. 28, 1999; 64 FR 72896, Dec. 29, 1999; 72 FR 10895, Mar. 12, 2007; 76 FR 22798, Apr. 25, 2011; 78 FR 13450, Feb. 28, 2013]
+[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13467, Apr. 10, 1990; ; 64 FR 72484, Dec. 28, 1999; 64 FR 72896, Dec. 29, 1999; 72 FR 10895, Mar. 12, 2007; 76 FR 22798, Apr. 25, 2011; 78 FR 13450, Feb. 28, 2013; 83 FR 25357, June 1, 2018]

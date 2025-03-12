@@ -1,12 +1,10 @@
 ##### § 225.13 Appeal procedures. #####
 
-Link to an amendment published at 83 FR 25360, June 1, 2018.
-
 (a) Each State agency shall establish a procedure to be followed by an applicant appealing: A denial of an application for participation; a denial of a sponsor's request for an advance payment; a denial of a sponsor's claim for reimbursement (except for late submission under § 225.9(d)(6)); a State agency's refusal to forward to FNS an exception request by the sponsor for payment of a late claim or a request for an upward adjustment to a claim; a claim against a sponsor for remittance of a payment; the termination of the sponsor or a site; a denial of a sponsor's application for a site; a denial of a food service management company's application for registration, if applicable; or the revocation of a food service management company's registration, if applicable. Appeals shall not be allowed on decisions made by FNS with respect to late claims or upward adjustments under § 225.9(d)(6).
 
 (b) At a minimum, appeal procedures shall provide that:
 
-(1) The sponsor or food service management company be advised in writing of the grounds upon which the State agency based the action. The notice of action, which shall be sent by certified mail, return receipt requested, shall also state that the sponsor or food service management company has the right to appeal the State's action;
+(1) The sponsor or food service management company be advised in writing of the grounds upon which the State agency based the action. The notice of action shall also state that the sponsor or food service management company has the right to appeal the State's action. The notice is considered to be received by the sponsor or food service management company when it is delivered by certified mail, return receipt (or the equivalent private delivery service), by facsimile, or by email. If the notice is undeliverable, it is considered to be received by the sponsor or food service management company five days after being sent to the addressee's last known mailing address, facsimile number, or email address;
 
 (2) The sponsor or food service management company be advised in writing that the appeal must be made within a specified time and must meet the requirements of paragraph (b)(4) of this section. The State agency shall establish this period of time at not less than one week nor more than two weeks from the date on which the notice of action is received;
 
@@ -34,4 +32,4 @@ Link to an amendment published at 83 FR 25360, June 1, 2018.
 
 (d) A record regarding each review shall be kept by the State agency, as required under § 225.8(a). The record shall document the State agency's compliance with these regulations and shall include the basis for its decision.
 
-[54 FR 18208, Apr. 27, 1989, as amended at 64 FR 72486, Dec. 28, 1999; 78 FR 13450, Feb. 28, 2013]
+[54 FR 18208, Apr. 27, 1989, as amended at 64 FR 72486, Dec. 28, 1999; 78 FR 13450, Feb. 28, 2013; 83 FR 25360, June 1, 2018]

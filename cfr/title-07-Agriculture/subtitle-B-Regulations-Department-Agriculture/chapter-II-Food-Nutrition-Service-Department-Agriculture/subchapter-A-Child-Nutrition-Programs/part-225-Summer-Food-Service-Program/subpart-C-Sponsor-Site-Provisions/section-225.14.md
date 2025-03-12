@@ -1,7 +1,5 @@
 ##### § 225.14 Requirements for sponsor participation. #####
 
-Link to an amendment published at 83 FR 25360, June 1, 2018.
-
 (a) *Applications.* Sponsors shall make written application to the State agency to participate in the Program. Such application shall be made on a timely basis in accordance with the requirements of § 225.6(b)(1). Sponsors proposing to operate a site during an unanticipated school closure during the period from October through April (or at any time of the year in an area with a continuous school calendar) may be exempt, at the discretion of the State agency, from submitting a new application if they have participated in the program at any time during the current year or in either of the prior two calendar years.
 
 (b) *Sponsor eligibility.* Applicants eligible to sponsor the Program include:
@@ -36,9 +34,9 @@ Link to an amendment published at 83 FR 25360, June 1, 2018.
 
 (2) If the sponsor administers the Program at sites that provide summer school sessions, it must ensure that these sites are open to children enrolled in summer school and to all children residing in the area served by the site.
 
-(3) Sponsors which are units of local, municipal, county or State government, and sponsors which are private nonprofit organizations, will only be approved to administer the Program at sites where they have direct operational control. Operational control means that the sponsor shall be responsible for:
+(3) Sponsors which are units of local, municipal, county, or State government, and sponsors which are private nonprofit organizations, will only be approved to administer the Program at sites where they have administrative oversight. Administrative oversight means that the sponsor shall be responsible for:
 
-(i) Managing site staff, including the hiring, terminating, and determining conditions of employment for site staff; and
+(i) Maintaining contact with meal service staff, ensuring that there is adequately trained meal service staff on site, monitoring the meal service throughout the period of Program participation, and terminating meal service at a site if staff fail to comply with Program regulations; and
 
 (ii) Exercising management control over Program operations at sites throughout the period of Program participation by performing the functions specified in § 225.15.
 
@@ -64,4 +62,4 @@ Link to an amendment published at 83 FR 25360, June 1, 2018.
 
 (v) Meets applicable State and local health, safety, and sanitation standards.
 
-[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13469, Apr. 10, 1990; 64 FR 72486, Dec. 28, 1999; 64 FR 72898, Dec. 29, 1999; 65 FR 50128, Aug. 17, 2000; 78 FR 13450, Feb. 28, 2013]
+[54 FR 18208, Apr. 27, 1989, as amended at 55 FR 13469, Apr. 10, 1990; 64 FR 72486, Dec. 28, 1999; 64 FR 72898, Dec. 29, 1999; 65 FR 50128, Aug. 17, 2000; 78 FR 13450, Feb. 28, 2013; 83 FR 25360, June 1, 2018]
