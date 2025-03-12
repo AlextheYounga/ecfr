@@ -12,43 +12,37 @@
 
 (5) This section does not apply to agency access to, or the use of, personally identifiable employee medical information obtained in the course of litigation.
 
-(6) This section does not apply where a written directive by the Assistant Secretary authorizes appropriately qualified personnel to conduct limited reviews of specific medical information mandated by an occupational safety and health standard, or of specific biological monitoring test results.
+(6) This section does not apply where a written directive by the OSHA Medical Records Officer authorizes appropriately qualified personnel to conduct limited reviews of specific medical information mandated by an occupational safety and health standard, or of specific biological monitoring test results.
 
 (7) Even if not covered by the terms of this section, all medically related information reported in a personally identifiable form shall be handled with appropriate discretion and care befitting all information concerning specific employees. There may, for example, be personal privacy interests involved which militate against disclosure of this kind of information to the public (*See,* 29 CFR 70.26 and 70a.3).
 
-(c) *Responsible persons* - (1) *Assistant Secretary.* The Assistant Secretary of Labor for Occupational Safety and Health (Assistant Secretary) shall be responsible for the overall administration and implementation of the procedures contained in this section, including making final OSHA determinations concerning:
+(c) *Responsible persons*—(1) *Assistant Secretary.* The Assistant Secretary of Labor for Occupational Safety and Health (Assistant Secretary) shall designate an OSHA official with experience or training in the evaluation, use, and privacy protection of medical records to be the OSHA Medical Records Officer. The Assistant Secretary may change the designation of the OSHA Medical Records Officer at will.
 
-(i) Access to personally identifiable employee medical information (paragraph (d)), and
+(2) *OSHA Medical Records Officer.* The OSHA Medical Records Officer shall be responsible for the overall administration and implementation of the procedures contained in this section. The OSHA Medical Records Officer shall report directly to the Assistant Secretary on matters concerning this section and be responsible for:
 
-(ii) Inter-agency transfer or public disclosure of personally identifiable employee medical information (paragraph (m)).
+(i) Making final determinations concerning the approval or denial of medical access orders (paragraph (d) of this section);
 
-(2) *OSHA Medical Records Officer.* The Assistant Secretary shall designate an OSHA official with experience or training in the evaluation, use, and privacy protection of medical records to be the OSHA Medical Records Officer. The OSHA Medical Records Officer shall report directly to the Assistant Secretary on matters concerning this section and shall be responsible for:
+(ii) Assuring that medical access orders meet the requirements of paragraphs (d)(2) and (3) of this section;
 
-(i) Making recommendations to the Assistant Secretary as to the approval or denial of written access orders (paragraph (d)),
+(iii) Responding to objections concerning medical access orders (paragraph (f) of this section);
 
-(ii) Assuring that written access orders meet the requirements of paragraphs (d) (2) and (3) of this section,
+(iv) Overseeing internal agency use and security of personally identifiable employee medical information (paragraphs (g) through (j) of this section);
 
-(iii) Responding to employee, collective bargaining agent, and employer objections concerning written access orders (paragraph (f)),
+(v) Assuring that the results of agency analyses of personally identifiable medical information are, where appropriate, communicated to employees (paragraph (k) of this section);
 
-(iv) Regulating the use of direct personal identifiers (paragraph (g)),
+(vi) Preparing an annual report of OSHA's experience under this section (paragraph (l) of this section); and
 
-(v) Regulating internal agency use and security of personally identifiable employee medical information (paragraphs (h) through (j)),
-
-(vi) Assuring that the results of agency analyses of personally identifiable medical information are, where appropriate, communicated to employees (paragraph (k)),
-
-(vii) Preparing an annual report of OSHA's experience under this section (paragraph (l)), and
-
-(viii) Assuring that advance notice is given of intended inter-agency transfers or public disclosures (paragraph (m)).
+(vii) Making final determinations concerning inter-agency transfer or public disclosure of personally identifiable employee medical information (paragraph (m) of this section). The Medical Records Officer shall also assure that advance notice is given of intended inter-agency transfers or public disclosures.
 
 (3) *Principal OSHA Investigator.* The Principal OSHA Investigator shall be the OSHA employee in each instance of access to personally identifiable employee medical information who is made primarily responsible for assuring that the examination and use of this information is performed in the manner prescribed by a written access order and the requirements of this section (paragraphs (d) through (m). When access is pursuant to a written access order, the Principal OSHA Investigator shall be professionally trained in medicine, public health, or allied fields (epidemiology, toxicology, industrial hygiene, biostatistics, environmental health, etc.).
 
-(d) *Written access orders* - (1) *Requirement for written access order.* Except as provided in paragraph (d)(4) below, each request by an OSHA representative to examine or copy personally identifiable employee medical information contained in a record held by an employer or other recordholder shall be made pursuant to a written access order which has been approved by the Assistant Secretary upon the recommendation of the OSHA Medical Records Officer. If deemed appropriate, a written access order may constitute, or be accompanied by, an administrative subpoena.
+(d) *Written access orders*—(1) *Requirement for medical access order.* Except as provided in paragraph (d)(4) of this section, each request by an OSHA representative to examine or copy personally identifiable employee medical information contained in a record held by an employer or other recordholder shall be made pursuant to a written medical access order which has been approved by the OSHA Medical Records Officer. A medical access order does not constitute an administrative subpoena.
 
-(2) *Approval criteria for written access order.* Before approving a written access order, the Assistant Secretary and the OSHA Medical Records Officer shall determine that:
+(2) *Approval criteria for medical access order.* Before approving a medical access order, the OSHA Medical Records Officer shall determine that:
 
-(i) The medical information to be examined or copied is relevant to a statutory purpose and there is a need to gain access to this personally identifiable information,
+(i) The medical information to be examined or copied is relevant to a statutory purpose and there is a need to gain access to this personally identifiable information;
 
-(ii) The personally identifiable medical information to be examined or copied is limited to only that information needed to accomplish the purpose for access, and
+(ii) The personally identifiable medical information to be examined or copied is limited to only that information needed to accomplish the purpose for access; and
 
 (iii) The personnel authorized to review and analyze the personally identifiable medical information are limited to those who have a need for access and have appropriate professional qualifications.
 
@@ -82,7 +76,7 @@
 
 (f) *Objections concerning a written access order.* All employee, collective bargaining agent, and employer written objections concerning access to records pursuant to a written access order shall be transmitted to the OSHA Medical Records Officer. Unless the agency decides otherwise, access to the records shall proceed without delay notwithstanding the lodging of an objection. The OSHA Medical Records Officer shall respond in writing to each employee's and collective bargaining agent's written objection to OSHA access. Where appropriate, the OSHA Medical Records Officer may revoke a written access order and direct that any medical information obtained by it be returned to the original recordholder or destroyed. The Principal OSHA Investigator shall assure that such instructions by the OSHA Medical Records Officer are promptly implemented.
 
-(g) *Removal of direct personal identifiers.* Whenever employee medical information obtained pursuant to a written access order is taken off-site with direct personal identifiers included, the Principal OSHA Investigator shall, unless otherwise authorized by the OSHA Medical Records Officer, promptly separate all direct personal identifiers from the medical information, and code the medical information and the list of direct identifiers with a unique identifying number for each employee. The medical information with its numerical code shall thereafter be used and kept secured as though still in a directly identifiable form. The Principal OSHA Investigator shall also hand deliver or mail the list of direct personal identifiers with their corresponding numerical codes to the OSHA Medical Records Officer. The OSHA Medical Records Officer shall thereafter limit the use and distribution of the list of coded identifiers to those with a need to know its contents.
+(g) [Reserved]
 
 (h) *Internal agency use of personally identifiable employee medical information.* (1) The Principal OSHA Investigator shall in each instance of access be primarily responsible for assuring that personally identifiable employee medical information is used and kept secured in accordance with this section.
 
@@ -118,28 +112,56 @@
 
 (3) The nature and disposition of requests for inter-agency transfer or public disclosure of personally identifiable employee medical information.
 
-(m) *Inter-agency transfer and public disclosure.* (1) Personally identifiable employee medical information shall not be transferred to another agency or office outside of OSHA (other than to the Office of the Solicitor of Labor) or disclosed to the public (other than to the affected employee or the original recordholder) except when required by law or when approved by the Assistant Secretary.
+(m) *Inter-agency transfer and public disclosure.* (1) Personally identifiable employee medical information shall not be transferred to another agency or office outside of OSHA (other than to the Office of the Solicitor of Labor) or disclosed to the public (other than to the affected employee or the original recordholder) except when required by law or when approved by the OSHA Medical Records Officer.
 
-(2) Except as provided in paragraph (m)(3) of this section, the Assistant Secretary shall not approve a request for an inter-agency transfer of personally identifiable employee medical information, which has not been consented to by the affected employees, unless the request is by a public health agency which:
+(2) Except as provided in paragraph (m)(3) of this section, the OSHA Medical Records Officer shall not approve a request for an inter-agency transfer of personally identifiable employee medical information, which has not been consented to by the affected employees, unless the request is by a public health agency which:
 
-(i) Needs the requested information in a personally identifiable form for a substantial public health purpose,
+(i) Needs the requested information in a personally identifiable form for a substantial public health purpose;
 
-(ii) Will not use the requested information to make individual determinations concerning affected employees which could be to their detriment,
+(ii) Will not use the requested information to make individual determinations concerning affected employees which could be to their detriment;
 
-(iii) Has regulations or established written procedures providing protection for personally identifiable medical information substantially equivalent to that of this section, and
+(iii) Has regulations or established written procedures providing protection for personally identifiable medical information substantially equivalent to that of this section; and
 
-(iv) Satisfies an exemption to the Privacy Act to the extent that the Privacy Act applies to the requested information (*See,* 5 U.S.C. 552a(b); 29 CFR 70a.3).
+(iv) Satisfies an exemption to the Privacy Act to the extent that the Privacy Act applies to the requested information (see 5 U.S.C. 552a(b); 29 CFR 70a.3).
 
-(3) Upon the approval of the Assistant Secretary, personally identifiable employee medical information may be transferred to:
+(3) Upon the approval of the OSHA Medical Records Officer, personally identifiable employee medical information may be transferred to:
 
-(i) The National Institute for Occupational Safety and Health (NIOSH) and
+(i) The National Institute for Occupational Safety and Health (NIOSH); and
 
 (ii) The Department of Justice when necessary with respect to a specific action under the Occupational Safety and Health Act.
 
-(4) The Assistant Secretary shall not approve a request for public disclosure of employee medical information containing direct personal identifiers unless there are compelling circumstances affecting the health or safety of an individual.
+(4) The OSHA Medical Records Officer shall not approve a request for public disclosure of employee medical information containing direct personal identifiers unless there are compelling circumstances affecting the health or safety of an individual.
 
-(5) The Assistant Secretary shall not approve a request for public disclosure of employee medical information which contains information which could reasonably be used indirectly to identify specific employees when the disclosure would constitute a clearly unwarranted invasion of personal privacy (*See,* 5 U.S.C. 552(b)(6); 29 CFR 70.26).
+(5) The OSHA Medical Records Officer shall not approve a request for public disclosure of employee medical information which contains information which could reasonably be used indirectly to identify specific employees when the disclosure would constitute a clearly unwarranted invasion of personal privacy (see 5 U.S.C. 552(b)(6); 29 CFR 70.26).
 
-(6) Except as to inter-agency transfers to NIOSH or the Department of Justice, the OSHA Medical Records Officer shall assure that advance notice is provided to any collective bargaining agent representing affected employees and to the employer on each occasion that OSHA intends to either transfer personally identifiable employee medical information to another agency or disclose it to a member of the public other than to an affected employee. When feasible, the OSHA Medical Records Officer shall take reasonable steps to assure that advance notice is provided to affected employees when the employee medical information to be transferred or disclosed contains direct personal identifiers.
+(6) Except as to inter-agency transfers to NIOSH or the Department of Justice, the OSHA Medical Records Officer shall ensure that advance notice is provided to any collective bargaining agent representing affected employees and to the employer on each occasion that OSHA intends to either transfer personally identifiable employee medical information to another agency or disclose it to a member of the public other than to an affected employee. When feasible, the OSHA Medical Records Officer shall take reasonable steps to assure that advance notice is provided to affected employees when the employee medical information to be transferred or disclosed contains direct personal identifiers.
 
-[45 FR 35294, May 23, 1980; 45 FR 54334, Aug. 15, 1980, as amended at 71 FR 16674, Apr. 3, 2006]
+(n) *Medical records maintained in electronic form.* (1) In general, when accessing and/or copying personally identifiable employee medical information in electronic form, OSHA personnel shall follow all of the requirements set forth in this section.
+
+(2) When personally identifiable employee medical information in electronic form is taken off-site, the Principal OSHA Investigator is primarily responsible for ensuring that such information is properly used and kept secured.
+
+(i) The Principal OSHA Investigator is responsible for preventing any accidental or unintentional disclosure of, modification to, or destruction of personally identifiable employee medical information in electronic form.
+
+(ii) The Principal OSHA Investigator is responsible for controlling the flow of data into, through, and from agency computer operations.
+
+(iii) The Principal OSHA Investigator shall ensure the distribution and review of medical information in electronic form is limited to only those OSHA personnel and contractors with a need for access.
+
+(3) The transfer and/or duplication of medical information in electronic form shall be kept to the minimum necessary to accomplish the purpose for which it was obtained.
+
+(4) Electronic files containing personally identifiable employee medical information shall be downloaded only to a computer hard drive or laptop that is secured in accordance with Federal Information Processing Standard (FIPS) 201-2 “Personal Identity Verification (PIV) of Federal Employees and Contractors” and “Homeland Security Presidential Directive 12: Policy for a Common Identification Standard for Federal Employees and Contractors (HSPD-12).”
+
+(5) Electronic files containing personally identifiable employee medical information shall not be transferred to authorized personnel through email attachment unless appropriately encrypted.
+
+(6) When an employer or other record holder(s) provides access to employee medical information through a properly encrypted email attachment, the attachment shall be downloaded to a secured hard drive or laptop. After the attachment is downloaded, the email shall be permanently deleted.
+
+(7) Personally identifiable employee medical information in electronic form shall be secured when not in use.
+
+(i) Medical information in electronic form shall only be maintained or stored where facilities and conditions are designed to prevent unauthorized access.
+
+(ii) Personally identifiable employee medical information in electronic form shall be maintained only for so long as needed to accomplish the purpose for access.
+
+(iii) When no longer needed, the Principal OSHA Investigator shall ensure that all personally identifiable employee medical information on electronic files has been deleted, destroyed, or returned to the original record holder.
+
+(iv) The disposal of personally identifiable employee medical information maintained in electronic form shall be accomplished in such a manner as to make the data unattainable by unauthorized personnel.
+
+[45 FR 35294, May 23, 1980; 45 FR 54334, Aug. 15, 1980, as amended at 71 FR 16674, Apr. 3, 2006; 85 FR 45792, July 30, 2020]

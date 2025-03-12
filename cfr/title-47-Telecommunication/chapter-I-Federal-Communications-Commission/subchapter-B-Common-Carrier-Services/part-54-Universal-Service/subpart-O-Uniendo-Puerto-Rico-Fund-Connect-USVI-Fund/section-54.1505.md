@@ -29,5 +29,3 @@
 (e) *Identification of winning applicant.* After receipt and review of the proposals, a public notice shall identify each winning applicant that may be authorized to receive support from Stage 2 of the fixed Uniendo a Puerto Rico Fund and the fixed Connect USVI Fund support after the winning applicant submits a letter of credit and an accompanying opinion letter, as described in this section, in a form acceptable to the Commission. Each such winning applicant shall submit a letter of credit and accompanying opinion letter in a form acceptable to the Commission no later than the number of days provided by public notice.
 
 (f) *Authorization to receive support.* After receipt of all necessary information, a public notice will identify each winning applicant that is authorized to receive Uniendo a Puerto Rico Fund and the Connect USVI Fund Stage 2 fixed support.
-
-Effective Date Note:At 84 FR 59963, Nov. 7, 2019, § 54.1505 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

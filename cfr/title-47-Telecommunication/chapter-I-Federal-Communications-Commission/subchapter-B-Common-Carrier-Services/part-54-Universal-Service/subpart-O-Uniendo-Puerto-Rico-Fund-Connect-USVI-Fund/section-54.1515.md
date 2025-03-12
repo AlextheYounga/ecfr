@@ -7,5 +7,3 @@
 (c) Recipients shall amend their Disaster Preparation and Response Plan following any material change(s) to internal processes and responsibilities and provide the updated Disaster Preparation and Response Plan to the Bureau within 10 business days following the material change(s).
 
 (d) Stage 2 support recipients shall use the Disaster Information Reporting System for mandatory reporting. (See *www.fcc.gov/general/disaster-information-reporting-system-dirs-0* for more information.)
-
-Effective Date Note:At 84 FR 59963, Nov. 7, 2019, § 54.1515 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
