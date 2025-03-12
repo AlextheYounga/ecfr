@@ -1,5 +1,7 @@
 ##### § 890.301 Opportunities for employees to enroll or change enrollment; effective dates. #####
 
+Link to an amendment published at 88 FR 20403, Apr. 6, 2023.
+
 (a) *Initial opportunity to enroll.* An employee who becomes eligible may elect to enroll or not to enroll within 60 days after becoming eligible.
 
 (b) *Effective date—generally.* Except as otherwise provided, an enrollment or change of enrollment takes effect on the first day of the first pay period that begins after the date the employing office receives an appropriate request to enroll or change the enrollment and that follows a pay period during any part of which the employee is in pay status.

@@ -1,5 +1,7 @@
 ##### § 890.302 Coverage of family members. #####
 
+Link to an amendment published at 88 FR 20403, Apr. 6, 2023.
+
 (a)(1) *Enrollment.* An enrollment for self plus one includes the enrollee and one eligible family member. An enrollment for self and family includes all family members who are eligible to be covered by the enrollment except as provided in § 890.308(h). Proof of family member eligibility may be required, and must be provided upon request, to the carrier, the employing office or OPM. Except as provided in paragraph (a)(2) of this section, no employee, former employee, annuitant, child, or former spouse may enroll or be covered as a family member if he or she is already covered under another person's self plus one or self and family enrollment in the FEHB Program.
 
 (2) *Dual enrollment.* (i) A dual enrollment exists when an individual is covered under more than one FEHB Program enrollment. Dual enrollments are prohibited except when an eligible individual would otherwise not have access to coverage and the dual enrollment has been authorized by the employing office.

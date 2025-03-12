@@ -1,5 +1,7 @@
 ##### § 890.101 Definitions; time computations. #####
 
+Link to an amendment published at 88 FR 20402, Apr. 6, 2023.
+
 (a) In this part, the terms *annuitant, carrier, employee, employee organization, former spouse, health benefits plan, member of family,* and *service,* have the meanings set forth in section 8901 of title 5, United States Code, and supplement the following definitions:
 
 *Appropriate request* means a properly completed health benefits registration form or an alternative method acceptable to both the employing office and OPM. Alternative methods must be capable of transmitting to the health benefits plans the information they require before accepting an enrollment, change of enrollment, or cancellation. Electronic signatures, including the use of Personal Identification Numbers (PIN), have the same validity as a written signature.

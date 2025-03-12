@@ -1,5 +1,7 @@
 ##### § 890.501 Government contributions. #####
 
+Link to an amendment published at 88 FR 20403, Apr. 6, 2023.
+
 (a) The Government contribution toward subscription charges under all health benefits plans, for each enrolled employee who is paid biweekly, is the amount provided in section 8906 of title 5, United States Code, plus 4 percent of that amount.
 
 (b) In accordance with the provisions of 5 U.S.C. 8906(a) which take effect with the contract year that begins in January 1999, OPM will determine the amounts representing the weighted average of subscription charges in effect for each contract year, for self only, self plus one, and self and family enrollments, as follows:

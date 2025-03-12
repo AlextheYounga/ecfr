@@ -1,5 +1,7 @@
 ##### § 890.303 Continuation of enrollment. #####
 
+Link to an amendment published at 88 FR 20403, Apr. 6, 2023.
+
 (a) *On transfer or retirement.* (1) Except as otherwise provided by this part, the enrollment of an employee or annuitant eligible to continue enrollment continues without change when he or she moves from one employing office to another, without a break in service of more than 3 days, whether the personnel action is designated as a transfer or not.
 
 (2) In order for an employee to continue an enrollment as an annuitant, he or she must meet the participation requirements set forth at 8905(b) of title 5, United States Code, for continuing an enrollment as an annuitant as of the commencing date of his or her annuity or monthly compensation.

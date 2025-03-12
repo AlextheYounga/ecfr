@@ -1,14 +1,12 @@
 ##### § 665.253 Annual Catch Limits (ACL) and Annual Catch Targets (ACT). #####
 
-Link to an amendment published at 88 FR 14082, Mar. 7, 2023.
-
 (a) *Deepwater Shrimp.* (1) In accordance with § 665.4, the ACLs for each fishing year are as follows:
 
 Table 1 to Paragraph (a)(1)
 
-|Fishing  <br/>year| 2020  | 2021  |
-|------------------|-------|-------|
-|     ACL (lb)     |250,733|250,733|
+|Fishing year| 2022  | 2023  | 2024  | 2025  |
+|------------|-------|-------|-------|-------|
+|  ACL (lb)  |250,773|250,773|250,773|250,773|
 
 (2) If the average catch of the three most recent years of deepwater shrimp exceeds the specified ACL in a fishing year, the Regional Administrator will reduce the ACL for the subsequent year by the amount of the overage.
 
@@ -27,4 +25,4 @@ Table 2 to paragraph (b)(1)
 
 (4) If landings exceed the specified ACL in a fishing year, the Regional Administrator will reduce the ACL and the ACT for the subsequent year by the amount of the overage.
 
-[85 FR 79929, Dec. 11, 2020]
+[85 FR 79929, Dec. 11, 2020, as amended at 88 FR 14082, Mar. 7, 2023]

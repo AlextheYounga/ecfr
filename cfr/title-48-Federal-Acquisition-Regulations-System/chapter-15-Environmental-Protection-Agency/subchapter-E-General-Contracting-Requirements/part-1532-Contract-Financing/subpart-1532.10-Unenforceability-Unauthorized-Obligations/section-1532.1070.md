@@ -1,4 +1,4 @@
-##### 1532.1070 Contract Clauses. #####
+##### 1532.1070 Contract clauses. #####
 
 (a) The contracting officer shall utilize the clause at 1552.332-39, *Unenforceability of Unauthorized Obligations* (FAR DEVIATION) in all solicitations and contracts in lieu of nondeviated FAR 52.232-39.
 

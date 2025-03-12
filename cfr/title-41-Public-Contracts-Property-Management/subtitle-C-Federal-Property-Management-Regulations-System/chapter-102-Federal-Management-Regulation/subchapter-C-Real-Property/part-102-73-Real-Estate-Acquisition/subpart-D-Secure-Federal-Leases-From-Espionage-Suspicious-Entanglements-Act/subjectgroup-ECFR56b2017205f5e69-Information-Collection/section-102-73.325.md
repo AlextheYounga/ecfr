@@ -1,0 +1,3 @@
+##### § 102-73.325 What information must a covered entity provide to a Federal lessee? #####
+
+Sections 3 and 4 of the Secure Federal LEASEs Act require that, before the Government may enter into a lease agreement or novation with an entity for high-security leased space (defined as Facility Security Level III, IV, or V), offerors must disclose whether the immediate owner, highest-level owner, or beneficial owner of the leased space, including an entity involved in the financing thereof, is a foreign person or entity, including the country associated with the ownership entity.
