@@ -1,0 +1,25 @@
+##### § 1.951A-5 Treatment of GILTI inclusion amounts. #####
+
+(a) *Scope.* This section provides rules relating to the treatment of GILTI inclusion amounts and adjustments to earnings and profits to account for tested losses. Paragraph (b) of this section provides that a GILTI inclusion amount is treated in the same manner as an amount included under section 951(a)(1)(A) for purposes of applying certain Code sections. Paragraph (c) of this section provides rules for the treatment of amounts taken into account in determining the net CFC tested income of a United States shareholder when applying sections 163(e)(3)(B)(i) and 267(a)(3)(B). Paragraph (d) of this section provides a rule for the treatment of a GILTI inclusion amount for purposes of determining the personal holding company income of a United States shareholder that is a domestic corporation under section 543.
+
+(b) *Treatment as subpart F income for certain purposes*—(1) *In general.* A GILTI inclusion amount is treated in the same manner as an amount included under section 951(a)(1)(A) for purposes of applying sections 168(h)(2)(B), 535(b)(10), 851(b), 904(h)(1), 959, 961, 962, 993(a)(1)(E), 996(f)(1), 1248(b)(1), 1248(d)(1), 1411, 6501(e)(1)(C), 6654(d)(2)(D), and 6655(e)(4).
+
+(2) *Allocation of GILTI inclusion amount to tested income CFCs*—(i) *In general.* For purposes of the sections referred to in paragraph (b)(1) of this section, the portion of the GILTI inclusion amount of a United States shareholder for a U.S. shareholder inclusion year treated as being with respect to each controlled foreign corporation of the United States shareholder for the U.S. shareholder inclusion year is—
+
+(A) In the case of a tested loss CFC, zero, and
+
+(B) In the case of a tested income CFC, the portion of the GILTI inclusion amount of the United States shareholder which bears the same ratio to such amount as the United States shareholder's pro rata share of the tested income of the tested income CFC for the U.S. shareholder inclusion year bears to the aggregate amount of the United States shareholder's pro rata share of the tested income of each tested income CFC for the U.S. shareholder inclusion year.
+
+(ii) *Example.* The following example illustrates the application of paragraph (b)(2)(i) of this section.
+
+(A) *Facts.* USP, a domestic corporation, owns all of the stock of three controlled foreign corporations, CFC1, CFC2, and CFC3. USP, CFC1, CFC2, and CFC3 all use the calendar year as their taxable year. In Year 1, CFC1 has tested income of $100x, CFC2 has tested income of $300x, and CFC3 has tested loss of $50x. USP has no net deemed tangible income return for Year 1.
+
+(B) *Analysis.* In Year 1, USP has net CFC tested income (as defined in § 1.951A-1(c)(2)) of $350x ($100x + $300x−$50x) and, because USP has no net deemed tangible income return, a GILTI inclusion amount (as defined in § 1.951A-1(c)(1)) of $350x ($350x−$0). The aggregate amount of USP's pro rata share of tested income is $400x ($100x from CFC1 + $300x from CFC2). Therefore, under paragraph (b)(2)(i) of this section, the portion of USP's GILTI inclusion amount treated as being with respect to CFC1 is $87.50x ($350x × $100x/$400x). The portion of USP's GILTI inclusion amount treated as being with respect to CFC2 is $262.50x ($350x × $300x/$400x). The portion of USP's GILTI inclusion amount treated as being with respect to CFC3 is $0 because CFC3 is a tested loss CFC.
+
+(3) *Translation of portion of GILTI inclusion amount allocated to tested income CFC.* The portion of the GILTI inclusion amount of a United States shareholder allocated to a tested income CFC under section 951A(f)(2) and paragraph (b)(2)(i) of this section is translated into the functional currency of the tested income CFC using the average exchange rate for the CFC inclusion year of the tested income CFC.
+
+(c) *Treatment as an amount includible in the gross income of a United States person.* For purposes of sections 163(e)(3)(B)(i) and 267(a)(3)(B), an item (including original issue discount) is treated as includible in the gross income of a United States person to the extent that the item increases a United States shareholder's pro rata share of tested income of a controlled foreign corporation for a U.S. shareholder inclusion year, reduces the shareholder's pro rata share of tested loss of a controlled foreign corporation for the U.S. shareholder inclusion year, or both.
+
+(d) *Treatment for purposes of personal holding company rules.* For purposes of determining whether a United States shareholder that is a domestic corporation is a personal holding company under section 542, no portion of the adjusted ordinary gross income of such domestic corporation that consists of its GILTI inclusion amount for the U.S. shareholder inclusion year is personal holding company income (as defined in section 543(a)).
+
+[T.D. 9866, 84 FR 29341, June 21, 2019]

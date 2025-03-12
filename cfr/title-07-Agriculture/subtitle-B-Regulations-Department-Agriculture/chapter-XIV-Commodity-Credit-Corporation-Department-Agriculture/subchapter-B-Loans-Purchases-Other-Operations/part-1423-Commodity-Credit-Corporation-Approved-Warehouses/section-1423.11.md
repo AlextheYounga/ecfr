@@ -1,5 +1,7 @@
 ##### § 1423.11 Delivery and shipping standards for cotton warehouses. #####
 
+Link to an amendment published at 84 FR 29033, June 21, 2019.
+
 (a) Unless prevented from doing so by severe weather conditions, fire, explosion, flood, earthquake, insurrection, riot, strike, labor dispute, acts of civil or military authority, non-availability of transportation facilities or any cause beyond the control of the warehouse operator that renders performance impossible, the warehouse operator will:
 
 (1) Deliver stored cotton without unnecessary delay.

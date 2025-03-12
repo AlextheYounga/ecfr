@@ -1,5 +1,7 @@
 ##### § 3550.53 Eligibility requirements. #####
 
+Link to an amendment published at 84 FR 29038, June 21, 2019.
+
 (a) *Income eligibility.* At the time of loan approval, the household's adjusted income must not exceed the applicable low-income limit for the area, and at closing, must not exceed the applicable moderate-income limit for the area (see § 3550.544).
 
 (b) *Citizenship status.* The applicant must be a United States citizen or a noncitizen who qualifies as a legal alien as defined in § 3550.10.

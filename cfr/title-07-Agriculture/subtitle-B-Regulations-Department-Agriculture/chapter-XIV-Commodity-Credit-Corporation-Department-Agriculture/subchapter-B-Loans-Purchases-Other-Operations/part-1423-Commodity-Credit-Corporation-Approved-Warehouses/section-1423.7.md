@@ -1,5 +1,7 @@
 ##### § 1423.7 Net worth alternatives. #####
 
+Link to an amendment published at 84 FR 29033, June 21, 2019.
+
 Warehouse operators with net worth equal to or greater than the minimum net worth required, but less than the total net worth for the commodity involved in the particular agreement, may satisfy the net worth deficiency by furnishing one of the following:
 
 (a) A bond which:

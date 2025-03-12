@@ -8,9 +8,7 @@
 
 (2) *Basis adjustment for stock in nonaffiliated 10 percent owned corporations* -
 
-(i)(A) [Reserved] For further guidance, *see* § 1.861-12(c)(2)(i)(A).
-
-(B) *Computational rules.* Solely for purposes of this section, a taxpayer's basis in the stock of a controlled foreign corporation shall not include any amount included in basis under section 961 or 1293(d) of the Code. For purposes of this paragraph (c)(2), earnings and profits and deficits are computed under the rules of section 312 and, in the case of a foreign corporation, section 902 and the regulations thereunder for taxable years of the 10 percent owned corporation ending on or before the close of the taxable year of the taxpayer. The rules of section 1248 and the regulations thereunder shall apply to determine the amount of earnings and profits that is attributable to stock without regard to whether earned and profits (or deficits) were derived (or incurred) during taxable years beginning before or after December 31, 1962. This adjustment is to be made annually and is noncumulative. Thus, the adjusted basis of the stock (determined without prior years' adjustments under this section) is to be adjusted annually by the amount of accumulated earnings and profits (or any deficit) attributable to such stock as of the end of each year. Earnings and profits or deficits of a qualified business unit that has a functional currency other than the dollar must be computed under this paragraph (c)(2) in functional currency and translated into dollars using the exchange rate at the end of the taxpayer's current taxable year with respect to which interest is being allocated (and not the exchange rates for the years in which the earnings and profits or deficits were derived or incurred).
+(i)(A) through (C) [Reserved]. For further guidance, see § 1.861-12(c)(2)(i)(A) through (c)(2)(i)(C).
 
 (ii) *10 percent owned corporation defined* - (A) *In general.* The term “10 percent owned corporation” means any corporation (domestic or foreign) -
 
@@ -175,4 +173,4 @@ Example 2.Assume the same facts as in *Example* 1, except that Y has $100,000 of
 
 (k) *Effective/applicability date.* The rules of this section apply for taxable years beginning after December 31, 1986.
 
-[T.D. 8228, 53 FR 35495, Sept. 14, 1988, as amended by T.D. 9260, 71 FR 24526, Apr. 25, 2006, T.D. 9452, 74 FR 27875, June 11, 2009; T.D. 9456, 74 FR 38875, Aug. 4, 2009]
+[T.D. 8228, 53 FR 35495, Sept. 14, 1988, as amended by T.D. 9260, 71 FR 24526, Apr. 25, 2006, T.D. 9452, 74 FR 27875, June 11, 2009; T.D. 9456, 74 FR 38875, Aug. 4, 2009; T.D. 9866, 84 FR 29336, June 21, 2019]

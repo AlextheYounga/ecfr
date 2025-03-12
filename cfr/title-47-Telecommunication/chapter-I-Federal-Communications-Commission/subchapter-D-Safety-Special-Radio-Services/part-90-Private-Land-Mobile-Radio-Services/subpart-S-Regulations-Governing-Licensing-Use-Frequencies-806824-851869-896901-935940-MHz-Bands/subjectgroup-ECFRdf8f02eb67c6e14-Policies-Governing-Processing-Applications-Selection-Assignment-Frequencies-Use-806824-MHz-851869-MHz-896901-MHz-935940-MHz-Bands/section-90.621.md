@@ -134,8 +134,6 @@ Short-Spacing Separation Table
 
 (4) *Letters of concurrence.* Applicants may submit applications which cause overlap under the forward contour analysis described in paragraph (d)(1) of this section provided the applicant includes a letter of concurrence from each incumbent that receives contour overlap. In the letter of concurrence, the incumbent operator must agree to accept any interference that occurs as a result of the contour overlap. Applicants may also submit applications which receive contour overlap under the reciprocal analysis described in paragraph (d)(2) of this section provided the applicant includes a letter of concurrence from each incumbent that causes contour overlap. In this case, the incumbent operator must state in its letter of concurrence that it does not object to the applicant receiving contour overlap from the incumbent's facility.
 
-(5) *Compliance date.* Paragraph (d)(4) of this section contains information-collection and recordkeeping requirements. Compliance will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing that compliance date and revising this paragraph accordingly.
-
 (e) Frequencies in the 809-817/854-862 MHz bands listed as available for eligibles in the Public Safety and Business/Industrial/Land Transportation Categories are available for inter-category sharing under the following conditions:
 
 (1) Channels in the Public Safety and Business/Industrial/Land Transportation categories will be available to eligible applicants in those categories only if there are no frequencies in their own category and no public safety systems are authorized on those channels under consideration to be shared.

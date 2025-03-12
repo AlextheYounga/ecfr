@@ -1,5 +1,7 @@
 ##### § 3550.54 Calculation of income and assets. #####
 
+Link to an amendment published at 84 FR 29038, June 21, 2019.
+
 (a) *Repayment income.* Repayment income is the annual amount of income from all sources that are expected to be received by those household members who are parties to the promissory note, except for any student financial aid received by these household members for tuition, fees, books, equipment, materials, and transportation. Repayment income is used to determine the household's ability to repay a loan.
 
 (b) *Annual income.* Annual income is the income of all household members from all sources except those listed in (b)(1) through (b)(12) of this section:

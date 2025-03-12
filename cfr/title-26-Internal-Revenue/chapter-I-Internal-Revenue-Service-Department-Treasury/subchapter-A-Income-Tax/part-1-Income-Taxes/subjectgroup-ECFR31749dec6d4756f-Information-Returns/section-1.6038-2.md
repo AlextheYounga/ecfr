@@ -1,6 +1,6 @@
-##### § 1.6038-2 Information returns required of United States persons with respect to annual accounting periods of certain foreign corporations beginning after December 31, 1962. #####
+##### § 1.6038-2 Information returns required of United States persons with respect to annual accounting periods of certain foreign corporations. #####
 
-(a) *Requirement of return.* Every U.S. person shall make a separate annual information return with respect to each annual accounting period (described in paragraph (e) of this section) beginning after December 31, 1962, of each foreign corporation which that person controls (as defined in paragraph (b) of this section) for an uninterrupted period of 30 days or more during such annual accounting period. Such information shall not be required to be furnished, however, with respect to a corporation defined in section 1504(d) of the Code which makes a consolidated return for the taxable year. The return shall be made, with respect to annual accounting periods ending with or within the United States person's taxable year, on -
+(a) *Requirement of return.* Every U.S. person shall make a separate annual information return with respect to each annual accounting period (described in paragraph (e) of this section) of each foreign corporation which that person controls (as defined in paragraph (b) of this section) at any time during such annual accounting period.
 
 (1) Form 2952, “Information Return with Respect to Controlled Foreign Corporations,” if such taxable year ends before December 31, 1982;
 
@@ -183,6 +183,8 @@ M must include $25,500 in gross income as a dividend under the provisions of sec
 
 (2) Such person is required to furnish information solely by reason of attribution of stock ownership from a nonresident alien(s) under paragraph (c) of this section.
 
-(m) *Applicability dates.* Except as otherwise provided, this section applies with respect to information for annual accounting periods beginning on or after June 21, 2006. Paragraphs (k)(1) and (5) *Examples 3* and *4* of this section apply June 21, 2006. Paragraph (d) of this section applies to taxable years ending after April 9, 2008. Paragraph (j)(3) of this section applies to returns filed on or after December 31, 2013.
+(m) *Applicability dates* - (1) *In general.* This section applies to taxable years of foreign corporations beginning on or after October 3, 2018. See 26 CFR 1.6038-2 (revised as of April 1, 2018) for rules applicable to taxable years of foreign corporations beginning before such date.
 
-[T.D. 8040, 50 FR 30163, July 24, 1985, as amended by T.D. 8573, 59 FR 64302, Dec. 14, 1994; T.D. 8733, 62 FR 53385, Oct. 14, 1997; T.D. 8850, 64 FR 72550, Dec. 28, 1999; T.D. 9194, 70 FR 18946, Apr. 11, 2005; T.D. 9268, 71 FR 35525, June 21, 2006; T.D. 9338, 72 FR 38475, July 13, 2007; T.D. 9391, 73 FR 19376, Apr. 9, 2008; T.D. 9650, 78 FR 79611, Dec. 31, 2013; T.D. 9806, 81 FR 95470, Dec. 28, 2016]
+(2) [Reserved]
+
+[T.D. 8040, 50 FR 30163, July 24, 1985, as amended by T.D. 8573, 59 FR 64302, Dec. 14, 1994; T.D. 8733, 62 FR 53385, Oct. 14, 1997; T.D. 8850, 64 FR 72550, Dec. 28, 1999; T.D. 9194, 70 FR 18946, Apr. 11, 2005; T.D. 9268, 71 FR 35525, June 21, 2006; T.D. 9338, 72 FR 38475, July 13, 2007; T.D. 9391, 73 FR 19376, Apr. 9, 2008; T.D. 9650, 78 FR 79611, Dec. 31, 2013; T.D. 9806, 81 FR 95470, Dec. 28, 2016; T.D. 9866, 84 FR 29369, June 21, 2019]

@@ -1,5 +1,7 @@
 ##### § 3550.68 Payment subsidies. #####
 
+Link to an amendment published at 84 FR 29038, June 21, 2019.
+
 RHS administers three types of payment subsidies: interest credit, payment assistance method 1, and payment assistance method 2. Payment subsidies are subject to recapture when the borrower transfers title or ceases to occupy the property.
 
 (a) *Eligibility for payment subsidy.* (1) Applicants or borrowers who receive loans on program terms are eligible to receive payment subsidy if they personally occupy the property and have adjusted income at or below the applicable moderate-income limit.

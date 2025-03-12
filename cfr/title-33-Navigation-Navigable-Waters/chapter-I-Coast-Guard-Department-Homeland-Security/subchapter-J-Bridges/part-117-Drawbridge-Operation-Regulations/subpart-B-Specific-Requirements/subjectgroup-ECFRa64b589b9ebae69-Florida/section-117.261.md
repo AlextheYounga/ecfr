@@ -6,9 +6,7 @@
 
 (d) *Bridge of Lions (SR A1A) bridge, mile 777.9 at St. Augustine.* The draw shall open on signal; except that, from 7 a.m. to 6 p.m. the draw need open only on the hour and half-hour; however, the draw need not open at 8 a.m., 12 noon, and 5 p.m. Monday through Friday except Federal holidays. From 7 a.m. to 6 p.m. on Saturdays, Sundays and Federal holidays the draw need only open on the hour and half-hour.
 
-(e)-(f) [Reserved]
-
-(g) *Memorial bridge, mile 830.6 at Daytona Beach.* The draw shall open on signal; except that, from 7:45 a.m. to 8:45 a.m. and 4:45 p.m. to 5:45 p.m. Monday through Saturday except Federal holidays, the draw need open only at 8:15 a.m. and 5:15 p.m.
+(e)-(g) [Reserved]
 
 (h) *George Musson/Coronado Beach (SR 44) bridge, mile 845 at New Smyrna Beach.* The George Musson/Coronado Beach (SR 44) bridge, mile 845, shall open on signal, except that from 7 a.m. to 7 p.m., the draw shall open on the hour and half-hour, seven days a week.
 

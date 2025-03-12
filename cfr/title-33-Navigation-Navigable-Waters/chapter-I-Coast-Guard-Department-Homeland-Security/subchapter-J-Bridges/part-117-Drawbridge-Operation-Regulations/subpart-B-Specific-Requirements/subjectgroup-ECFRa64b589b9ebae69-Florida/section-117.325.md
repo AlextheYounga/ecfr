@@ -1,5 +1,7 @@
 ##### § 117.325 St. Johns River. #####
 
+Link to an amendment published at 84 FR 29065, June 21, 2019.
+
 (a) The drawspan for the Main Street (1/SR 90) drawbridge, mile 24.7, at Jacksonville, must open on signal except that, from 7 a.m. to 8:30 a.m. and from 4:30 p.m. to 6 p.m., Monday through Saturday except Federal holidays, the drawspan need not be opened for the passage of vessels.
 
 (b) The draw of the Florida East Coast automated railroad bridge, mile 24.9, shall operate as follows:

@@ -1,5 +1,7 @@
 ##### § 1423.3 Definitions. #####
 
+Link to an amendment published at 84 FR 29033, June 21, 2019.
+
 *Active shipping order* means an early shipping order or shipping order, as defined in this section, scheduled for a current cotton warehouse reporting week or for a prior reporting week, but not picked up.
 
 *Agreement* means agreements covering storage and handling of any such commodity CCC may determine appropriate for storage.
