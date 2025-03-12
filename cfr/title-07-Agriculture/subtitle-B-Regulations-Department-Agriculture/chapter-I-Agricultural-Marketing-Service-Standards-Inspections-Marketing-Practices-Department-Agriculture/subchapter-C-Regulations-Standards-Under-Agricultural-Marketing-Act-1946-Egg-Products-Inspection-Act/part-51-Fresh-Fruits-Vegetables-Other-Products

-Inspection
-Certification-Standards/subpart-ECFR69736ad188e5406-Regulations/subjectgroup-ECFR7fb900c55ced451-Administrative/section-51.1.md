@@ -1,5 +1,7 @@
 ##### § 51.1 Administration of regulations. #####
 
+Link to an amendment published at 85 FR 19379, Apr. 7, 2020.
+
 (a) The Administrator, Agricultural Marketing Service, U.S. Department of Agriculture, is charged with the administration of the regulations in this part, except at his discretion, he may delegate any or all such functions to any other officer or employee of the Agricultural Marketing Service of the Department.
 
 (b) The conduct of all services and the hiring and licensing of inspection, grading and sampling personnel under these regulations shall be accomplished without discrimination as to race, color, religion, sex or national origin.

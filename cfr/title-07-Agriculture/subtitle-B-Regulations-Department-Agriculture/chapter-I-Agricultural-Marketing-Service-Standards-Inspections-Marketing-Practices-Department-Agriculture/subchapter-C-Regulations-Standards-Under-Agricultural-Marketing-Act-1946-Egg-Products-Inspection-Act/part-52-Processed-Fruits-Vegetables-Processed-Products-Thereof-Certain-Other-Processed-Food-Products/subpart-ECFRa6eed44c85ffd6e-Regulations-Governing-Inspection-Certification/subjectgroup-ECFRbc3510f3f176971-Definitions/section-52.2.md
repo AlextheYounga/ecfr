@@ -1,5 +1,7 @@
 ##### § 52.2 Terms defined. #####
 
+Link to an amendment published at 85 FR 19380, Apr. 7, 2020.
+
 Words in the regulations in this part in the singular form shall be deemed to import the plural and vice versa, as the case may demand. For the purposes of the regulations in this part, unless the context otherwise requires, the following terms shall have the following meanings:
 
 *Acceptance number.* “Acceptance number” means the number in a sampling plan that indicates the maximum number of deviants permitted in a sample of a lot that meets a specific requirement.

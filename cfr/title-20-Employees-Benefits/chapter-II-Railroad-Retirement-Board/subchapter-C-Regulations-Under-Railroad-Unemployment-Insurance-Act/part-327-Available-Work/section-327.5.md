@@ -22,4 +22,6 @@
 
 (2) Is prepared to be present with the customary equipment at the location of such work within the time usually allotted.
 
-[Board Order 53-296, 18 FR 8157, Dec. 12, 1953]
+(d) *Deemed available for work.* During the period extending from March 1, 2020 until December 31, 2020, a claimant will be deemed to be available for work during any period for which he or she is subject to a state or local order related to the public health emergency declared effective March 1, 2020 preventing him or her from reporting to work.
+
+[Board Order 53-296, 18 FR 8157, Dec. 12, 1953, as amended at 85 FR 19386, Apr. 7, 2020]

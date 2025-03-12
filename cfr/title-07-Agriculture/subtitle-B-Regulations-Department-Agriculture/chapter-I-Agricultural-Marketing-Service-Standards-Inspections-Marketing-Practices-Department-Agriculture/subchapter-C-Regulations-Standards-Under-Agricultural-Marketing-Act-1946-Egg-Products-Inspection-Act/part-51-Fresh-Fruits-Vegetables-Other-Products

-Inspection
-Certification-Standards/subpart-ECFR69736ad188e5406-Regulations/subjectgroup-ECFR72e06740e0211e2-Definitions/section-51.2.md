@@ -1,5 +1,7 @@
 ##### § 51.2 Terms defined. #####
 
+Link to an amendment published at 85 FR 19379, Apr. 7, 2020.
+
 Words in the regulations in this part in the singular form shall be deemed to import the plural, and vice versa, as the case may demand. For the purposes of the regulations in this part, unless the context otherwise requires, the following terms shall have the following meanings:
 
 (a) *Act.* “Act” means the applicable provisions of the Agricultural Marketing Act of 1946 (60 Stat. 1087 *et seq.*) as amended; (7 U.S.C. 1621 *et seq.*) or any other act of Congress conferring like authority.
