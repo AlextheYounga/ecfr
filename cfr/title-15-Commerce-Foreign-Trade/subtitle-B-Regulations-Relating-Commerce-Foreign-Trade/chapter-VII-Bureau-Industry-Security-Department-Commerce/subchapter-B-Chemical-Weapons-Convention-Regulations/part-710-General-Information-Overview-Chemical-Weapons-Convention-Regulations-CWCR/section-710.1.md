@@ -104,6 +104,8 @@ The following are definitions of terms used in the CWCR (parts 710 through 729 o
 
 (2) Production of a Schedule 2 or Schedule 3 chemical means all steps in the production of a chemical in any units within the same plant through chemical reaction, including any associated processes (e.g., purification, separation, extraction, distillation, or refining) in which the chemical is not converted into another chemical. The exact nature of any associated process (e.g., purification, etc.) is not required to be declared.
 
+(3) Production of a Schedule 1, Schedule 2 or Schedule 3 chemical is understood, for declaration purposes, to include intermediates, by-products, or waste products that are produced and consumed within a defined chemical manufacturing sequence, where such intermediates, by-products, or waste products are chemically stable and therefore exist for a sufficient time to make isolation from the manufacturing stream possible, but where, under normal or design operating conditions, isolation does not occur.
+
 *Production by synthesis.* Means production of a chemical from its reactants.
 
 *Protective purposes in relation to Schedule 1 chemicals.* Means any purpose directly related to protection against toxic chemicals and to protection against chemical weapons. Further means the Schedule 1 chemical is used for determining the adequacy of defense equipment and measures.
@@ -150,4 +152,4 @@ The following are definitions of terms used in the CWCR (parts 710 through 729 o
 
 *You.* The term “you” or “your” means any person (see also definition of “person”). With regard to the declaration and reporting requirements of the CWCR, “you” refers to persons that have an obligation to report certain activities under the provisions of the CWCR.
 
-[71 FR 24929, Apr. 27, 2006, as amended at 73 FR 78182, Dec. 22, 2008]
+[71 FR 24929, Apr. 27, 2006, as amended at 73 FR 78182, Dec. 22, 2008; 86 FR 940, Jan. 7, 2021]

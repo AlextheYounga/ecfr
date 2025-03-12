@@ -1,7 +1,5 @@
 ##### § 1.6100 Wireless Facility Modifications. #####
 
-Link to an amendment published at 85 FR 78018, Dec. 3, 2020.
-
 (a) [Reserved]
 
 (b) *Definitions.* Terms used in this section have the following meanings.
@@ -30,7 +28,7 @@ Link to an amendment published at 85 FR 78018, Dec. 3, 2020.
 
 (5) *Existing.* A constructed tower or base station is existing for purposes of this section if it has been reviewed and approved under the applicable zoning or siting process, or under another State or local regulatory review process, provided that a tower that has not been reviewed and approved because it was not in a zoned area when it was built, but was lawfully constructed, is existing for purposes of this definition.
 
-(6) *Site.* For towers other than towers in the public rights-of-way, the current boundaries of the leased or owned property surrounding the tower and any access or utility easements currently related to the site, and, for other eligible support structures, further restricted to that area in proximity to the structure and to other transmission equipment already deployed on the ground.
+(6) *Site.* For towers other than towers in the public rights-of-way, the current boundaries of the leased or owned property surrounding the tower and any access or utility easements currently related to the site, and, for other eligible support structures, further restricted to that area in proximity to the structure and to other transmission equipment already deployed on the ground. The current boundaries of a site are the boundaries that existed as of the date that the original support structure or a modification to that structure was last reviewed and approved by a State or local government, if the approval of the modification occurred prior to the Spectrum Act or otherwise outside of the section 6409(a) process.
 
 (7) *Substantial change.* A modification substantially changes the physical dimensions of an eligible support structure if it meets any of the following criteria:
 
@@ -42,7 +40,7 @@ Link to an amendment published at 85 FR 78018, Dec. 3, 2020.
 
 (iii) For any eligible support structure, it involves installation of more than the standard number of new equipment cabinets for the technology involved, but not to exceed four cabinets; or, for towers in the public rights-of-way and base stations, it involves installation of any new equipment cabinets on the ground if there are no pre-existing ground cabinets associated with the structure, or else involves installation of ground cabinets that are more than 10% larger in height or overall volume than any other ground cabinets associated with the structure;
 
-(iv) It entails any excavation or deployment outside the current site;
+(iv) It entails any excavation or deployment outside of the current site, except that, for towers other than towers in the public rights-of-way, it entails any excavation or deployment of transmission equipment outside of the current site by more than 30 feet in any direction. The site boundary from which the 30 feet is measured excludes any access or utility easements currently related to the site;
 
 (v) It would defeat the concealment elements of the eligible support structure; or
 
@@ -70,4 +68,4 @@ Link to an amendment published at 85 FR 78018, Dec. 3, 2020.
 
 (5) *Remedies.* Applicants and reviewing authorities may bring claims related to Section 6409(a) to any court of competent jurisdiction.
 
-[80 FR 1269, Jan. 8, 2015. Redesignated and amended at 83 FR 51886, Oct. 15, 2018]
+[80 FR 1269, Jan. 8, 2015. Redesignated and amended at 83 FR 51886, Oct. 15, 2018; 85 FR 78018, Dec. 3, 2020]

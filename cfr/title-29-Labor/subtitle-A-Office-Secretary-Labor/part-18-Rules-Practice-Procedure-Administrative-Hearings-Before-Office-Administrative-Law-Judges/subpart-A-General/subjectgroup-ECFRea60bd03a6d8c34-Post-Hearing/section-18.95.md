@@ -1,5 +1,7 @@
 ##### § 18.95 Review of decision and review by the Secretary. #####
 
+Link to an amendment published at 86 FR 4, Jan. 4, 2021.
+
 (a) *Review.* The statute or regulation that conferred hearing jurisdiction provides the procedure for review of a judge's decision. If the statute or regulation does not provide a procedure, the judge's decision becomes the Secretary's final administrative decision, except as provided in paragraph (b) of this section.
 
 (b) *Finality.* A decision of the Board of Alien Labor Certification Appeals (BALCA) shall constitute the Secretary's final administrative decision except in those cases over which the Secretary has, in accordance with this paragraph (b) and paragraph (c) of this section, assumed jurisdiction:

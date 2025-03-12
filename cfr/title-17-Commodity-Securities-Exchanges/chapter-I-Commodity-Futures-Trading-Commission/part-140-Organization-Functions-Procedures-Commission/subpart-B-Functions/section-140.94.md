@@ -1,5 +1,7 @@
 ##### § 140.94 Delegation of authority to the Director of the Division of Swap Dealer and Intermediary Oversight and the Director of the Division of Clearing and Risk. #####
 
+Link to an amendment published at 86 FR 968, Jan. 7, 2021.
+
 (a) The Commission hereby delegates, until such time as the Commission orders otherwise, the following functions to the Director of the Division of Swap Dealer and Intermediary Oversight and to such members of the Commission's staff acting under his or her direction as he or she may designate from time to time:
 
 (1) All functions reserved to the Commission in § 5.7 of this chapter;

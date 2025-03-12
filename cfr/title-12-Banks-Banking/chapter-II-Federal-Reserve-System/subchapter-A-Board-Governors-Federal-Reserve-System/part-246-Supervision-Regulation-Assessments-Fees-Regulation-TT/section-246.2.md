@@ -1,7 +1,5 @@
 ##### § 246.2 Definitions. #####
 
-Link to an amendment published at 85 FR 78953, Dec. 8, 2020.
-
 As used in this part:
 
 (a) *Assessment period* means January 1 through December 31 of each calendar year.
@@ -29,3 +27,11 @@ As used in this part:
 (l) *Savings and loan holding company* is defined as in section 10 of HOLA (12 U.S.C. 1467a).
 
 (m) *Savings association* is defined as in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813).
+
+(n) *Category I, II, and III firms* are assessed companies subject to Category I, II, or III standards as defined and determined under 12 CFR parts 238 and 252 as of December 31 of the assessment period.
+
+(o) *Category IV firms* are assessed companies subject to Category IV standards as defined and determined under 12 CFR parts 238 and 252 as of December 31 of the assessment period.
+
+(p) *“Other” firms* are assessed companies not subject to the Category I, II, III, or IV standards as defined and determined under 12 CFR parts 238 and 252 as of December 31 of the assessment period.
+
+[78 FR 52492, Aug. 23, 2013, as amended at 85 FR 78953, Dec. 8, 2020]
