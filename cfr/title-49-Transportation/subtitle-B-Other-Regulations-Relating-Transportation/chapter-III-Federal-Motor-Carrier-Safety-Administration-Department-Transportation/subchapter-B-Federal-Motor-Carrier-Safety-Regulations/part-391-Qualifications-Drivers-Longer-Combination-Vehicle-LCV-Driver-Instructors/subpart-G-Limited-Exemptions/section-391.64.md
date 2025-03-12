@@ -1,4 +1,4 @@
-##### § 391.64 Grandfathering for certain drivers participating in vision and diabetes waiver study programs. #####
+##### § 391.64 Grandfathering for certain drivers who participated in a vision waiver study program. #####
 
 (a) [Reserved]
 

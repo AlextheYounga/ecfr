@@ -1,5 +1,7 @@
 ##### § 300.222 Prohibitions. #####
 
+Link to an amendment published at 86 FR 35659, July 7, 2021.
+
 In addition to the prohibitions in § 300.4, it is unlawful for any person to:
 
 (a) Fail to obtain and have on board a fishing vessel a valid WCPFC Area Endorsement as required in § 300.212.

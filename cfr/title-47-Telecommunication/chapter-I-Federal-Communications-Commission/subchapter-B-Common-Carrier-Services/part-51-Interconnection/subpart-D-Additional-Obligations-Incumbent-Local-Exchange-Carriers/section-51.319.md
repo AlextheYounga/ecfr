@@ -33,7 +33,7 @@
 
 (ii) [Reserved]
 
-(3) *Fiber loops* - (i) *Definitions* - (A) *Fiber-to-the-home loops.* A fiber-to-the-home loop is a local loop consisting entirely of fiber optic cable, whether dark or lit, serving an end user's customer premises or, in the case of predominantly residential multiple dwelling units (MDUs), a fiber optic cable, whether dark or lit, that extends to the multiunit premises' minimum point of entry (MPOE).
+(3) *Fiber loops*—(i) *Definitions*—(A) *Fiber-to-the-home loops.* A fiber-to-the-home loop is a local loop consisting entirely of fiber optic cable, whether dark or lit, serving an end user's customer premises or, in the case of predominantly residential multiple dwelling units (MDUs), a fiber optic cable, whether dark or lit, that extends to the multiunit premises' minimum point of entry (MPOE).
 
 (B) *Fiber-to-the-curb loops.* A fiber-to-the-curb loop is a local loop consisting of fiber optic cable connecting to a copper distribution plant that is not more than 500 feet from the customer's premises or, in the case of predominantly residential MDUs, not more than 500 feet from the MDU's MPOE. The fiber optic cable in a fiber-to-the-curb loop must connect to a copper distribution plant at a serving area interface from which every other copper distribution subloop also is not more than 500 feet from the respective customer's premises.
 
@@ -58,6 +58,8 @@
 (*2*) Any study area served by a rate-of-return incumbent LEC provided that study area is not included on the list of competitive study areas pursuant to the competitive market test established under § 61.50 of this chapter.
 
 (B) Once a wire center exceeds both the business line and fiber-based collocator thresholds, no future DS1 loop unbundling will be required in that wire center. A DS1 loop is a digital local loop having a total digital signal speed of 1.544 megabytes per second. DS1 loops include, but are not limited to, two-wire and four-wire copper loops capable of providing high-bit rate digital subscriber line services, including T1 services.
+
+(ii) *Cap on unbundled DS1 loop circuits.* A requesting telecommunications carrier may obtain a maximum of ten unbundled DS1 loops to any single building in which DS1 loops are available as unbundled loops.
 
 (iii) *Transition period.* Notwithstanding paragraph (a)(4)(i) of this section, an incumbent LEC shall continue to provide a requesting telecommunications carrier with nondiscriminatory access to DS1 loops for 42 months until August 8, 2024, provided the incumbent LEC began providing such loop no later than February 8, 2023.
 
@@ -91,7 +93,7 @@
 
 (2) [Reserved]
 
-(3) *Other subloop provisions* - (i) *Technical feasibility.* If parties are unable to reach agreement through voluntary negotiations as to whether it is technically feasible, or whether sufficient space is available, to unbundle a copper subloop at the point where a telecommunications carrier requests, the incumbent LEC shall have the burden of demonstrating to the state commission, in state proceedings under section 252 of the Act, that there is not sufficient space available, or that it is not technically feasible to unbundle the subloop at the point requested.
+(3) *Other subloop provisions*— (i) *Technical feasibility.* If parties are unable to reach agreement through voluntary negotiations as to whether it is technically feasible, or whether sufficient space is available, to unbundle a copper subloop at the point where a telecommunications carrier requests, the incumbent LEC shall have the burden of demonstrating to the state commission, in state proceedings under section 252 of the Act, that there is not sufficient space available, or that it is not technically feasible to unbundle the subloop at the point requested.
 
 (ii) *Best practices.* Once one state commission has determined that it is technically feasible to unbundle subloops at a designated point, an incumbent LEC in any state shall have the burden of demonstrating to the state commission, in state proceedings under section 252 of the Act, that it is not technically feasible, or that sufficient space is not available, to unbundle its own loops at such a point.
 
@@ -131,4 +133,4 @@
 
 (e) *Operations support systems.* An incumbent LEC shall provide a requesting telecommunications carrier with nondiscriminatory access to operations support systems on an unbundled basis only when it is used to manage other unbundled network elements, local interconnection, or local number portability, in accordance with section 251(c)(3) of the Act and this part. Operations support system functions consist of pre-ordering, ordering, provisioning, maintenance and repair, and billing functions supported by an incumbent LEC's databases and information. An incumbent LEC, as part of its duty to provide access to the pre-ordering function, shall provide the requesting telecommunications carrier with nondiscriminatory access to the same detailed information about the loop that is available to the incumbent LEC.
 
-[68 FR 52295, Sept. 4, 2003, as amended at 68 FR 64000, Nov. 12, 2003; 69 FR 54591, Sept. 9, 2004; 69 FR 77953, Dec. 29, 2004; 70 FR 8953, Feb. 24, 2005:78 FR 5746, Jan. 28, 2013; 86 FR 1673, Jan. 8, 2021; 86 FR 8872, Feb. 10, 2021]
+[68 FR 52295, Sept. 4, 2003, as amended at 68 FR 64000, Nov. 12, 2003; 69 FR 54591, Sept. 9, 2004; 69 FR 77953, Dec. 29, 2004; 70 FR 8953, Feb. 24, 2005: 78 FR 5746, Jan. 28, 2013; 86 FR 1673, Jan. 8, 2021; 86 FR 8872, Feb. 10, 2021]

@@ -4,7 +4,7 @@
 
 (b) The exceptions contained in § 390.3(f) of this subchapter do not apply to this part. The employers and drivers identified in § 390.3(f) must comply with the requirements of this part, unless otherwise provided in this section.
 
-(c) *Exception for certain military drivers.* Each State must exempt from the requirements of this part individuals who operate CMVs for military purposes. This exception is applicable to active duty military personnel; members of the military reserves; member of the national guard on active duty, including personnel on full-time national guard duty, personnel on part-time national guard training, and national guard military technicians (civilians who are required to wear military uniforms); and active duty U.S. Coast Guard personnel. This exception is not applicable to U.S. Reserve technicians.
+(c) *Exception for certain military drivers.* Each State must exempt from the requirements of this part individuals who operate CMVs for military purposes. This exception is applicable to active duty military personnel; members of the military reserves; members of the national guard on active duty, including personnel on full-time national guard duty, personnel on part-time national guard training, and national guard military technicians (civilians who are required to wear military uniforms); and active duty U.S. Coast Guard personnel. This exception is not applicable to U.S. Reserve technicians.
 
 (d) *Exception for farmers, firefighters, emergency response vehicle drivers, and drivers removing snow and ice.* A State may, at its discretion, exempt individuals identified in paragraphs (d)(1), (d)(2), and (d)(3) of this section from the requirements of this part. The use of this waiver is limited to the driver's home State unless there is a reciprocity agreement with adjoining States.
 
@@ -114,4 +114,4 @@
 
 (ii) Clearly marked with a “flammable” or “combustible” placard, as appropriate.
 
-[61 FR 9564, Mar. 8, 1996, as amended at 61 FR 14679, Apr. 3, 1996; 62 FR 1296, Jan. 9, 1997; 67 FR 49755, July 31, 2002; 67 FR 61821, Oct. 2, 2002; 78 FR 16194, Mar. 14, 2013; 78 FR 58479, Sept. 24, 2013; 81 FR 47720, July 22, 2016; 81 FR 68346, Oct. 4, 2016; 81 FR 71016, Oct. 14, 2016]
+[61 FR 9564, Mar. 8, 1996, as amended at 61 FR 14679, Apr. 3, 1996; 62 FR 1296, Jan. 9, 1997; 67 FR 49755, July 31, 2002; 67 FR 61821, Oct. 2, 2002; 78 FR 16194, Mar. 14, 2013; 78 FR 58479, Sept. 24, 2013; 81 FR 47720, July 22, 2016; 81 FR 68346, Oct. 4, 2016; 81 FR 71016, Oct. 14, 2016; 86 FR 35640, July 7, 2021]

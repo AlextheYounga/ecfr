@@ -61,9 +61,9 @@ either -
 
 (2) Meeting the requirements of paragraphs (1)(i) through (iv) of this definition:
 
-(i) With a gross vehicle weight or gross vehicle weight rating, whichever is greater, of 26,001 pounds or less may utilize the exemptions in § 390.39 anywhere in the United States; or
+(i) With a gross vehicle weight rating or gross combination weight rating, or gross vehicle weight or gross combination weight, whichever is greater, of 26,001 pounds or less may utilize the exemptions in § 390.39 anywhere in the United States; or
 
-(ii) With a gross vehicle weight or gross vehicle weight rating, whichever is greater, of more than 26,001 pounds may utilize the exemptions in § 390.39 anywhere in the State of registration or across State lines within 150 air miles of the farm or ranch with respect to which the vehicle is being operated.
+(ii) With a gross vehicle weight rating or gross combination weight rating, or gross vehicle weight or gross combination weight, whichever is greater, of more than 26,001 pounds may utilize the exemptions in § 390.39 anywhere in the State of registration or across State lines within 150 air miles of the farm or ranch with respect to which the vehicle is being operated.
 
 *Crash.* See accident.
 
@@ -303,4 +303,4 @@ either -
 
 *Written or in writing* means printed, handwritten, or typewritten either on paper or other tangible medium, or by any method of electronic documentation that meets the requirements of 49 CFR 390.32.
 
-[82 FR 5311, Jan. 17, 2017, as amended at 83 FR 16226, Apr. 16, 2018; 83 FR 22878, May 17, 2018; 83 FR 24228, May 25, 2018; 83 FR 26860, June 11, 2018; 83 FR 48726, Sept. 27, 2018; 84 FR 40294, Aug. 14, 2019]
+[82 FR 5311, Jan. 17, 2017, as amended at 83 FR 16226, Apr. 16, 2018; 83 FR 22878, May 17, 2018; 83 FR 24228, May 25, 2018; 83 FR 26860, June 11, 2018; 83 FR 48726, Sept. 27, 2018; 84 FR 40294, Aug. 14, 2019; 86 FR 35642, July 7, 2021]

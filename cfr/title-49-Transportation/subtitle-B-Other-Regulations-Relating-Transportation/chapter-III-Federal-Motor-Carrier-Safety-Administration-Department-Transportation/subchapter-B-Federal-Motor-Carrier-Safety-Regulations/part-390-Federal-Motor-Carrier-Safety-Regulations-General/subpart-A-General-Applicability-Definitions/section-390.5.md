@@ -60,9 +60,9 @@ Unless specifically defined elsewhere, in this subchapter:
 
 (2) Meeting the requirements of paragraphs (1)(i) through (iv) of this definition:
 
-(i) With a gross vehicle weight or gross vehicle weight rating, whichever is greater, of 26,001 pounds or less may utilize the exemptions in § 390.39 anywhere in the United States; or
+(i) With a gross vehicle weight rating or gross combination weight rating, or gross vehicle weight or gross combination weight, whichever is greater, of 26,001 pounds or less may utilize the exemptions in § 390.39 anywhere in the United States; or
 
-(ii) With a gross vehicle weight or gross vehicle weight rating, whichever is greater, of more than 26,001 pounds may utilize the exemptions in § 390.39 anywhere in the State of registration or across State lines within 150 air miles of the farm or ranch with respect to which the vehicle is being operated.
+(ii) With a gross vehicle weight rating or gross combination weight rating, or gross vehicle weight or gross combination weight, whichever is greater, of more than 26,001 pounds may utilize the exemptions in § 390.39 anywhere in the State of registration or across State lines within 150 air miles of the farm or ranch with respect to which the vehicle is being operated.
 
 *Crash* - See accident.
 
@@ -302,4 +302,4 @@ Unless specifically defined elsewhere, in this subchapter:
 
 *Written or in writing* means printed, handwritten, or typewritten either on paper or other tangible medium, or by any method of electronic documentation that meets the requirements of 49 CFR 390.32.
 
-[53 FR 18052, May 19, 1988]Editorial Note:For Federal Register citations affecting § 390.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 82 FR 5311, Jan. 17, 2017, § 390.5 was suspended, effective Jan. 14, 2017. At 84 FR 40293, Aug. 14, 2019, the suspension was lifted and amendments were made to § 390.5. In that same document, § 390.5 was again suspended indefinitely.
+[53 FR 18052, May 19, 1988]Editorial Note:For Federal Register citations affecting § 390.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 82 FR 5311, Jan. 17, 2017, § 390.5 was suspended, effective Jan. 14, 2017. At 84 FR 40293, Aug. 14, 2019, the suspension was lifted and amendments were made to § 390.5. In that same document, § 390.5 was again suspended indefinitely. At 86 FR 35642, July 7, 2021, the suspension was lifted and amendments were made to § 390.5. In that same document, § 390.5 was again suspended indefinitely.

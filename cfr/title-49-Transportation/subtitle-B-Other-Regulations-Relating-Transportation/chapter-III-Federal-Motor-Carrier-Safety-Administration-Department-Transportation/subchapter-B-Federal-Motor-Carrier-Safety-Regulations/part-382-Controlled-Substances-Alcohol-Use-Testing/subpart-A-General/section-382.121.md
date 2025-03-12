@@ -20,8 +20,10 @@
 
 (4) It must ensure that:
 
-(i) Prior to the employee participating in a safety sensitive function, the employee shall undergo a return to duty test with a result indicating an alcohol concentration of less than 0.02; and/or
+(i) Prior to the employee participating in a safety sensitive function, the employee shall undergo a non-DOT return to duty test with a result indicating an alcohol concentration of less than 0.02; and/or
 
-(ii) Prior to the employee participating in a safety sensitive function, the employee shall undergo a return to duty controlled substance test with a verified negative test result for controlled substances use; and
+(ii) Prior to the employee participating in a safety sensitive function, the employee shall undergo a non-DOT return to duty controlled substance test with a verified negative test result for controlled substances use; and
 
 (5) It may incorporate employee monitoring and include non-DOT follow-up testing.
+
+[66 FR 43103, Aug. 17, 2001, as amended at 86 FR 35639, July 7, 2021]

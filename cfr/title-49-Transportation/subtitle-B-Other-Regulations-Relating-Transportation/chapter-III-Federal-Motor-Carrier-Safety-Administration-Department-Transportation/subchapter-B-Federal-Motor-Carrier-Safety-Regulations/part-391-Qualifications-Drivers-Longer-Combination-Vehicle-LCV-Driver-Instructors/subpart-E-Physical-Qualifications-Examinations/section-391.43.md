@@ -1,5 +1,7 @@
 ##### § 391.43 Medical examination; certificate of physical examination. #####
 
+Link to an amendment published at 86 FR 35643, July 7, 2021.
+
 (a) Except as provided by paragraph (b) of this section, the medical examination must be performed by a medical examiner listed on the National Registry of Certified Medical Examiners under subpart D of part 390 of this chapter.
 
 (b) Exceptions:
@@ -16,7 +18,7 @@
 
 (d) Any driver authorized to operate a commercial motor vehicle within an exempt intracity zone pursuant to § 391.62 of this part shall furnish the examining medical examiner with a copy of the medical findings that led to the issuance of the first certificate of medical examination which allowed the driver to operate a commercial motor vehicle wholly within an exempt intracity zone.
 
-(e) Any driver operating under a limited exemption authorized by § 391.64 shall furnish the medical examiner with a copy of the annual medical findings of the endocrinologist, ophthalmologist or optometrist, as required under that section. If the medical examiner finds the driver qualified under the limited exemption in § 391.64, such fact shall be noted on the Medical Examiner's Certificate.
+(e) Any driver operating under a limited exemption authorized by § 391.64 shall furnish the medical examiner with a copy of the annual medical findings of the ophthalmologist or optometrist, as required under § 391.64. If the medical examiner finds the driver qualified under the limited exemption in § 391.64, such fact shall be noted on the Medical Examiner's Certificate.
 
 (f) The medical examination shall be performed, and its results shall be recorded on the Medical Examination Report Form, MCSA-5875, set out below:
 
@@ -32,7 +34,7 @@
 
 (3) On or after June 23, 2025, if the medical examiner finds that the person examined is not physically qualified to operate a commercial motor vehicle in accordance with § 391.41(b), he or she must inform the person examined that he or she is not physically qualified, and that this information will be reported to FMCSA. All medical examiner's certificates previously issued to the person are not valid and no longer satisfy the requirements of § 391.41(a).
 
-(4) Beginning December 22, 2015, if the medical examiner finds that the determination of whether the person examined is physically qualified to operate a commercial motor vehicle in accordance with § 391.41(b) should be delayed pending the receipt of additional information or the conduct of further examination in order for the medical examiner to make such determination, he or she must inform the person examined that the additional information must be provided or the further examination completed within 45 days, and that the pending status of the examination will be reported to FMCSA.
+(4) Beginning December 22, 2015, if the medical examiner finds that the determination of whether the person examined is physically qualified to operate a commercial motor vehicle in accordance with § 391.41(b) should be delayed to receive additional information or to conduct further examination in order for the medical examiner to make such determination, he or she must inform the person examined that the additional information must be provided or the further examination completed within 45 days, and that the pending status of the examination will be reported to FMCSA.
 
 (5)(i)(A) Once every calendar month, beginning May 21, 2014 and ending on June 22, 2018, the medical examiner must electronically transmit to the Director, Office of Carrier, Driver and Vehicle Safety Standards, via a secure Web account on the National Registry, a completed CMV Driver Medical Examination Results Form, MCSA-5850. The Form must include all information specified for each medical examination conducted during the previous month for any driver who is required to be examined by a medical examiner listed on the National Registry of Certified Medical Examiners.
 

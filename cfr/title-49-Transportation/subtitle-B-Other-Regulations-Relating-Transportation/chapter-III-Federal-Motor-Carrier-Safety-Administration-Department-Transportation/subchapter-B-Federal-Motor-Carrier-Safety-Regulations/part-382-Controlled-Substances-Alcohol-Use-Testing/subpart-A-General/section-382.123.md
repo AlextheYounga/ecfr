@@ -6,6 +6,6 @@
 
 (1) The driver's commercial driver's license number and State of issuance in Step 1, section C of the CCF.
 
-(2) The employer's name and other identifying information required in Step 1, section A of the ATF.
+(2) The employer's name and other identifying information required in Step 1, section A of the CCF.
 
-[81 FR 87724, Dec. 5, 2016]
+[81 FR 87724, Dec. 5, 2016, as amended at 86 FR 35639, July 7, 2021]

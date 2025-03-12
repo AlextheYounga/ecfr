@@ -14,7 +14,7 @@
 
 (d) *Exceptions.* This part shall not apply to employers and their drivers:
 
-(1) Required to comply with the alcohol and/or controlled substances testing requirements of part 655 of this title (Federal Transit Administration alcohol and controlled substances testing regulations); or
+(1) Required to comply only with the alcohol and/or controlled substances testing requirements of part 655 of this title (Federal Transit Administration alcohol and controlled substances testing regulations); or
 
 (2) Who a State must waive from the requirements of part 383 of this subchapter. These individuals include active duty military personnel; members of the reserves; and members of the national guard on active duty, including personnel on full-time national guard duty, personnel on part-time national guard training and national guard military technicians (civilians who are required to wear military uniforms), and active duty U.S. Coast Guard personnel; or
 
@@ -34,4 +34,4 @@
 
 (4) Who operate “covered farm vehicles,” as defined in 49 CFR 390.5.
 
-[66 FR 43103, Aug. 17, 2001, as amended at 78 FR 16194, Mar. 14, 2013; 81 FR 68346, Oct. 4, 2016; 81 FR 71016, Oct. 14, 2016; 81 FR 87724, Dec. 5, 2016]
+[66 FR 43103, Aug. 17, 2001, as amended at 78 FR 16194, Mar. 14, 2013; 81 FR 68346, Oct. 4, 2016; 81 FR 71016, Oct. 14, 2016; 81 FR 87724, Dec. 5, 2016; 86 FR 35639, July 7, 2021]
