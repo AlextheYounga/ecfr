@@ -1,7 +1,5 @@
 ##### § 409.45 Dependent services requirements. #####
 
-Link to an amendment published at 82 FR 4578, Jan. 13, 2017.This amendment was delayed until Jan. 13, 2018 at 82 FR 31729, July 10, 2017.
-
 (a) *General.* Services discussed in paragraphs (b) through (g) of this section may be covered only if the beneficiary needs skilled nursing care on an intermittent basis, as described in § 409.44(b); physical therapy or speech-language pathology services as described in § 409.44(c); or has a continuing need for occupational therapy services as described in § 409.44(c) if the beneficiary's eligibility for home health services has been established by virtue of a prior need for intermittent skilled nursing care, speech-language pathology services, or physical therapy in the current or prior certification period; and otherwise meets the qualifying criteria (confined to the home, under the care of a physician, in need of skilled services, and under a plan of care) specified in § 409.42. Home health coverage is not available for services furnished to a beneficiary who is no longer in need of one of the qualifying skilled services specified in this paragraph. Therefore, dependent services furnished after the final qualifying skilled service are not covered, except when the dependent service was not followed by a qualifying skilled service as a result of the unexpected inpatient admission or death of the beneficiary, or due to some other unanticipated event.
 
 (b) *Home health aide services.* To be covered, home health aide services must meet each of the following requirements:
@@ -44,7 +42,7 @@ Link to an amendment published at 82 FR 4578, Jan. 13, 2017.This amendment was d
 
 (3) The frequency and nature of the medical social services are reasonable and necessary to the treatment of the beneficiary's condition.
 
-(4) The medical social services are furnished by a qualified social worker or qualified social work assistant under the supervision of a social worker as defined in § 484.4 of this chapter.
+(4) The medical social services are furnished by a qualified social worker or qualified social work assistant under the supervision of a social worker as defined in § 484.115 of this chapter.
 
 (5) The services needed to resolve the problems that are impeding the beneficiary's recovery require the skills of a social worker or a social work assistant under the supervision of a social worker to be performed safely and effectively.
 
@@ -66,4 +64,4 @@ Link to an amendment published at 82 FR 4578, Jan. 13, 2017.This amendment was d
 
 (4) In the case of an intern or resident-in-training in the field of podiatry, approved by the Council on Podiatric Medical Education of the American Podiatric Medical Association.
 
-[59 FR 65495, Dec. 20, 1994; 60 FR 39122, 39123, Aug. 1, 1995]
+[59 FR 65495, Dec. 20, 1994; 60 FR 39122, 39123, Aug. 1, 1995, as amended at 82 FR 4578, Jan. 13, 2017]

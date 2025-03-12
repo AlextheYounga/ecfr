@@ -1,13 +1,9 @@
 ##### § 484.1 Basis and scope. #####
 
-(a) *Basis and scope.* This part is based on the indicated provisions of the following sections of the Act:
+(a) *Basis.* This part is based on:
 
-(1) Sections 1861(o) and 1891 establish the conditions that an HHA must meet in order to participate in Medicare.
+(1) Sections 1861(o) and 1891 of the Act, which establish the conditions that an HHA must meet in order to participate in the Medicare program and which, along with the additional requirements set forth in this part, are considered necessary to ensure the health and safety of patients; and
 
-(2) Section 1861(z) specifies the Institutional planning standards that HHAs must meet.
+(2) Section 1861(z) of the Act, which specifies the institutional planning standards that HHAs must meet.
 
-(3) Section 1895 provides for the establishment of a prospective payment system for home health services covered under Medicare.
-
-(b) This part also sets forth additional requirements that are considered necessary to ensure the health and safety of patients.
-
-[60 FR 50443, Sept. 29, 1995, as amended at 65 FR 41211, July 3, 2000]
+(b) *Scope.* The provisions of this part serve as the basis for survey activities for the purpose of determining whether an agency meets the requirements for participation in the Medicare program.

@@ -1,7 +1,5 @@
 ##### § 485.70 Personnel qualifications. #####
 
-Link to an amendment published at 82 FR 4591, Jan. 13, 2017.This amendment was delayed until Jan. 13, 2018, at 82 FR 31729, July 10, 2017.
-
 This section sets forth the qualifications that must be met, as a condition of participation, under § 485.58, and as a condition of coverage of services under § 410.100 of this chapter.
 
 (a) A facility physician must be a doctor of medicine or osteopathy who -
@@ -14,7 +12,7 @@ This section sets forth the qualifications that must be met, as a condition of p
 
 (b) A licensed practical nurse must be licensed as a practical or vocational nurse by the State in which practicing, if applicable.
 
-(c) An occupational therapist and an occupational therapy assistant must meet the qualifications in § 484.4 of this chapter.
+(c) An occupational therapist and an occupational therapy assistant must meet the qualifications in § 484.115 of this chapter.
 
 (d) An orthotist must -
 
@@ -24,7 +22,7 @@ This section sets forth the qualifications that must be met, as a condition of p
 
 (3) Be eligible to take that Board's certification examination in orthotics.
 
-(e) A physical therapist and a physical therapist assistant must meet the qualifications in § 484.4 of this chapter.
+(e) A physical therapist and a physical therapist assistant must meet the qualifications in § 484.115 of this chapter.
 
 (f) A *prosthetist* must -
 
@@ -86,4 +84,4 @@ This section sets forth the qualifications that must be met, as a condition of p
 
 (m) A speech-language pathologist must meet the qualifications set forth in part 484 of this chapter.
 
-[48 FR 56293, Dec. 15, 1982. Redesignated and amended at 50 FR 33034, Aug. 16, 1985; 51 FR 41352, Nov. 14, 1986; 60 FR 2327, Jan. 9, 1995; 72 FR 66408, Nov. 27, 2007; 73 FR 69941, Nov. 19, 2008; 74 FR 62014, Nov. 25, 2009]
+[48 FR 56293, Dec. 15, 1982. Redesignated and amended at 50 FR 33034, Aug. 16, 1985; 51 FR 41352, Nov. 14, 1986; 60 FR 2327, Jan. 9, 1995; 72 FR 66408, Nov. 27, 2007; 73 FR 69941, Nov. 19, 2008; 74 FR 62014, Nov. 25, 2009; 82 FR 4591, Jan. 13, 2017]

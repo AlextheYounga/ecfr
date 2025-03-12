@@ -1,8 +1,6 @@
 ##### § 485.58 Condition of participation: Comprehensive rehabilitation program. #####
 
-Link to an amendment published at 82 FR 4591, Jan. 13, 2017.This amendment was delayed until Jan. 13, 2018, at 82 FR 31729, July 10, 2017.
-
-The facility must provide a coordinated rehabilitation program that includes, at a minimum, physicians' services, physical therapy services, and social or psychological services. These services must be furnished by personnel that meet the qualifications set forth in §§ 485.70 and 484.4 of this chapter and must be consistent with the plan of treatment and the results of comprehensive patient assessments.
+The facility must provide a coordinated rehabilitation program that includes, at a minimum, physicians' services, physical therapy services, and social or psychological services. These services must be furnished by personnel that meet the qualifications set forth in §§ 485.70 and 484.115 of this chapter and must be consistent with the plan of treatment and the results of comprehensive patient assessments.
 
 (a) *Standard: Physician services.* (1) A facility physician must be present in the facility for a sufficient time to -
 
@@ -74,4 +72,4 @@ The facility must provide a coordinated rehabilitation program that includes, at
 
 (2) If the facility chooses to refer specimens for laboratory testing, the referral laboratory must be certified in the appropriate specialties and subspecialties of services in accordance with the requirements of part 493 of this chapter.
 
-[48 FR 56293, Dec. 15, 1982, as amended at 56 FR 8852, Mar. 1, 1991; 57 FR 7137, Feb. 28, 1992; 73 FR 69941, Nov. 19, 2008]
+[48 FR 56293, Dec. 15, 1982, as amended at 56 FR 8852, Mar. 1, 1991; 57 FR 7137, Feb. 28, 1992; 73 FR 69941, Nov. 19, 2008; 82 FR 4591, Jan. 13, 2017]

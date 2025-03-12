@@ -1,7 +1,5 @@
 ##### § 418.76 Condition of participation: Hospice aide and homemaker services. #####
 
-Link to an amendment published at 82 FR 4578, Jan. 13, 2017.This amendment was delayed to Jan. 13, 2018 at 82 FR 31729, July 10, 2017.
-
 All hospice aide services must be provided by individuals who meet the personnel requirements specified in paragraph (a) of this section. Homemaker services must be provided by individuals who meet the personnel requirements specified in paragraph (j) of this section.
 
 (a) *Standard: Hospice aide qualifications.* (1) A qualified hospice aide is a person who has successfully completed one of the following:
@@ -84,9 +82,9 @@ All hospice aide services must be provided by individuals who meet the personnel
 
 (f) *Standard: Eligible competency evaluation organizations.* A hospice aide competency evaluation program as specified in paragraph (c) of this section may be offered by any organization except by a home health agency that, within the previous 2 years:
 
-(1) Had been out of compliance with the requirements of § 484.36(a) and § 484.36 (b) of this chapter.
+(1) Had been out of compliance with the requirements of § 484.80 of this chapter.
 
-(2) Permitted an individual that does not meet the definition of a “qualified home health aide” as specified in § 484.36(a) of this chapter to furnish home health aide services (with the exception of licensed health professionals and volunteers).
+(2) Permitted an individual that does not meet the definition of a “qualified home health aide” as specified in § 484.80(a) of this chapter to furnish home health aide services (with the exception of licensed health professionals and volunteers).
 
 (3) Had been subjected to an extended (or partial extended) survey as a result of having been found to have furnished substandard care (or for other reasons at the discretion of CMS or the State).
 
@@ -174,4 +172,4 @@ All hospice aide services must be provided by individuals who meet the personnel
 
 (3) Homemakers must report all concerns about the patient or family to the member of the interdisciplinary group who is coordinating homemaker services.
 
-[73 FR 32204, June 5, 2008, as amended at 74 FR 39413, Aug. 6, 2009]
+[73 FR 32204, June 5, 2008, as amended at 74 FR 39413, Aug. 6, 2009; 82 FR 4578, Jan. 13, 2017]

@@ -1,10 +1,8 @@
 ##### § 409.44 Skilled services requirements. #####
 
-Link to an amendment published at 82 FR 4578, Jan. 13, 2017.This amendment was delayed until Jan. 13, 2018 at 82 FR 31729, July 10, 2017.
-
 (a) *General.* The Medicare Administrative Contractor's decision on whether care is reasonable and necessary is based on information provided on the forms and in the medical record concerning the unique medical condition of the individual beneficiary. A coverage denial is not made solely on the basis of the reviewer's general inferences about patients with similar diagnoses or on data related to utilization generally but is based upon objective clinical evidence regarding the beneficiary's individual need for care.
 
-(b) *Skilled nursing care.* (1) Skilled nursing care consists of those services that must, under State law, be performed by a registered nurse, or practical (vocational) nurse, as defined in § 484.4 of this chapter, meet the criteria for skilled nursing services specified in § 409.32, and meet the qualifications for coverage of skilled services specified in § 409.42(c). See § 409.33(a) and (b) for a description of skilled nursing services and examples of them.
+(b) *Skilled nursing care.* (1) Skilled nursing care consists of those services that must, under State law, be performed by a registered nurse, or practical (vocational) nurse, as defined in § 484.115 of this chapter, meet the criteria for skilled nursing services specified in § 409.32, and meet the qualifications for coverage of skilled services specified in § 409.42(c). See § 409.33(a) and (b) for a description of skilled nursing services and examples of them.
 
 (i) In determining whether a service requires the skill of a licensed nurse, consideration must be given to the inherent complexity of the service, the condition of the beneficiary, and accepted standards of medical and nursing practice.
 
@@ -70,7 +68,7 @@ Link to an amendment published at 82 FR 4578, Jan. 13, 2017.This amendment was d
 
 (*4*) Documentation of objective evidence or a clinically supportable statement of expectation that the patient can continue to progress toward the treatment goals and is responding to therapy in a reasonable and generally predictable period of time; or in the case of maintenance therapy, the patient is responding to therapy and can meet the goals in a predictable period of time.
 
-(ii) The services must be of such a level of complexity and sophistication or the condition of the beneficiary must be such that the services required can safely and effectively be performed only by a qualified physical therapist or by a qualified physical therapy assistant under the supervision of a qualified physical therapist, by a qualified speech-language pathologist, or by a qualified occupational therapist or a qualified occupational therapy assistant under the supervision of a qualified occupational therapist (as defined in § 484.4 of this chapter). Services that do not require the performance or supervision of a physical therapist or an occupational therapist are not considered reasonable or necessary physical therapy or occupational therapy services, even if they are performed by or supervised by a physical therapist or occupational therapist. Services that do not require the skills of a speech-language pathologist are not considered to be reasonable and necessary speech-language pathology services even if they are performed by or supervised by a speech-language pathologist.
+(ii) The services must be of such a level of complexity and sophistication or the condition of the beneficiary must be such that the services required can safely and effectively be performed only by a qualified physical therapist or by a qualified physical therapy assistant under the supervision of a qualified physical therapist, by a qualified speech-language pathologist, or by a qualified occupational therapist or a qualified occupational therapy assistant under the supervision of a qualified occupational therapist (as defined in § 484.115 of this chapter). Services that do not require the performance or supervision of a physical therapist or an occupational therapist are not considered reasonable or necessary physical therapy or occupational therapy services, even if they are performed by or supervised by a physical therapist or occupational therapist. Services that do not require the skills of a speech-language pathologist are not considered to be reasonable and necessary speech-language pathology services even if they are performed by or supervised by a speech-language pathologist.
 
 (iii) For therapy services to be covered in the home health setting, one of the following three criteria must be met:
 
@@ -100,4 +98,4 @@ Link to an amendment published at 82 FR 4578, Jan. 13, 2017.This amendment was d
 
 (*2*) Maintenance therapy as described in § 409.44(c)(2)(iii)(B) or (C) is needed.
 
-[59 FR 65494, Dec. 20, 1994, as amended at 74 FR 58133, Nov. 10, 2009; 75 FR 70461, Nov. 17, 2010; 76 FR 68606, Nov. 4, 2011; 77 FR 67162, Nov. 8, 2012; 79 FR 66116, Nov. 6, 2014]
+[59 FR 65494, Dec. 20, 1994, as amended at 74 FR 58133, Nov. 10, 2009; 75 FR 70461, Nov. 17, 2010; 76 FR 68606, Nov. 4, 2011; 77 FR 67162, Nov. 8, 2012; 79 FR 66116, Nov. 6, 2014; 82 FR 4578, Jan. 13, 2017]

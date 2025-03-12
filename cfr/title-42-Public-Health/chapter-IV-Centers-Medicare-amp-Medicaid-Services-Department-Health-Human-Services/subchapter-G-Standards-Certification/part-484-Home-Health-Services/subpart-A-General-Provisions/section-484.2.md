@@ -1,33 +1,29 @@
 ##### § 484.2 Definitions. #####
 
-As used in this part, unless the context indicates otherwise - *Bylaws or equivalent* means a set of rules adopted by an HHA for governing the agency's operation.
+As used in subparts A, B, and C, of this part -
 
-*Branch office* means a location or site from which a home health agency provides services within a portion of the total geographic area served by the parent agency. The branch office is part of the home health agency and is located sufficiently close to share administration, supervision, and services in a manner that renders it unnecessary for the branch independently to meet the conditions of participation as a home health agency.
+*Branch office* means an approved location or site from which a home health agency provides services within a portion of the total geographic area served by the parent agency. The parent home health agency must provide supervision and administrative control of any branch office. It is unnecessary for the branch office to independently meet the conditions of participation as a home health agency.
 
-*Clinical note* means a notation of a contact with a patient that is written and dated by a member of the health team, and that describes signs and symptoms, treatment and drugs administered and the patient's reaction, and any changes in physical or emotional condition.
+*Clinical note* means a notation of a contact with a patient that is written, timed, and dated, and which describes signs and symptoms, treatment, drugs administered and the patient's reaction or response, and any changes in physical or emotional condition during a given period of time.
 
-*HHA* stands for home health agency.
+*In advance* means that HHA staff must complete the task prior to performing any hands-on care or any patient education.
 
-*Nonprofit agency* means an agency exempt from Federal income taxation under section 501 of the Internal Revenue Code of 1954.
+*Parent home health agency* means the agency that provides direct support and administrative control of a branch.
 
-*Parent home health agency* means the agency that develops and maintains administrative controls of subunits and/or branch offices.
+*Primary home health agency* means the HHA which accepts the initial referral of a patient, and which provides services directly to the patient or via another health care provider under arrangements (as applicable).
 
-*Primary home health agency* means the agency that is responsible for the services furnished to patients and for implementation of the plan of care.
+*Proprietary agency* means a private, for-profit agency.
 
-*Progress note* means a written notation, dated and signed by a member of the health team, that summarizes facts about care furnished and the patient's response during a given period of time.
+*Public agency* means an agency operated by a state or local government.
 
-*Proprietary agency* means a private profit-making agency licensed by the State.
+*Quality indicator* means a specific, valid, and reliable measure of access, care outcomes, or satisfaction, or a measure of a process of care.
 
-*Public agency* means an agency operated by a State or local government.
+*Representative* means the patient's legal representative, such as a guardian, who makes health-care decisions on the patient's behalf, or a patient-selected representative who participates in making decisions related to the patient's care or well-being, including but not limited to, a family member or an advocate for the patient. The patient determines the role of the representative, to the extent possible.
 
-*Subdivision* means a component of a multi-function health agency, such as the home care department of a hospital or the nursing division of a health department, which independently meets the conditions of participation for HHAs. A subdivision that has subunits or branch offices is considered a parent agency.
+*Subdivision* means a component of a multi-function health agency, such as the home care department of a hospital or the nursing division of a health department, which independently meets the conditions of participation for HHAs. A subdivision that has branch offices is considered a parent agency.
 
-*Subunit* means a semi-autonomous organization that -
+*Summary report* means the compilation of the pertinent factors of a patient's clinical notes that is submitted to the patient's physician.
 
-(1) Serves patients in a geographic area different from that of the parent agency; and
+*Supervised practical training* means training in a practicum laboratory or other setting in which the trainee demonstrates knowledge while providing covered services to an individual under the direct supervision of either a registered nurse or a licensed practical nurse who is under the supervision of a registered nurse.
 
-(2) Must independently meet the conditions of participation for HHAs because it is too far from the parent agency to share administration, supervision, and services on a daily basis.
-
-*Summary report* means the compilation of the pertinent factors of a patient's clinical notes and progress notes that is submitted to the patient's physician.
-
-*Supervision* means authoritative procedural guidance by a qualified person for the accomplishment of a function or activity. Unless otherwise specified in this part, the supervisor must be on the premises to supervise an individual who does not meet the qualifications specified in § 484.4.
+*Verbal order* means a physician order that is spoken to appropriate personnel and later put in writing for the purposes of documenting as well as establishing or revising the patient's plan of care.

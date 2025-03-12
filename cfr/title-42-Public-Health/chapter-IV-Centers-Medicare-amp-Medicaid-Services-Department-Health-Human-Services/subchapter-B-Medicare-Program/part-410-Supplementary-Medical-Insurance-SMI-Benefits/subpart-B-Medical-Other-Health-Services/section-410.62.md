@@ -1,8 +1,6 @@
 ##### § 410.62 Outpatient speech-language pathology services: Conditions and exclusions. #####
 
-Link to an amendment published at 82 FR 4578, Jan. 13, 2017.This amendment was delayed until Jan. 13, 2018 at 82 FR 31729, July 10, 2017.
-
-(a) *Basic rule.* Except as specified in paragraph (a)(3)(ii) of this section, Medicare Part B pays for outpatient speech-language pathology services only if they are furnished by an individual who meets the qualifications for a speech-language pathologist in § 484.4 of this chapter and only under the following conditions:
+(a) *Basic rule.* Except as specified in paragraph (a)(3)(ii) of this section, Medicare Part B pays for outpatient speech-language pathology services only if they are furnished by an individual who meets the qualifications for a speech-language pathologist in § 484.115 of this chapter and only under the following conditions:
 
 (1) They are furnished to a beneficiary while he or she is under the care of a physician who is a doctor of medicine or osteopathy.
 
@@ -40,4 +38,4 @@ Link to an amendment published at 82 FR 4578, Jan. 13, 2017.This amendment was d
 
 (d) *Excluded services.* No service is included as an outpatient speech-language pathology service if it is not included as an inpatient hospital service if furnished to a hospital or CAH inpatient.
 
-[51 FR 41339, Nov. 14, 1986, as amended at 53 FR 6648, Mar. 2, 1988; 56 FR 8852, Mar. 1, 1991; 56 FR 23022, May 20, 1991; 58 FR 30668, May 26, 1993; 63 FR 58907, Nov. 2, 1998; 69 FR 66422, Nov. 15, 2004; 73 FR 69933, Nov. 19, 2008; 76 FR 73470, Nov. 28, 2011; 77 FR 69363, Nov. 16, 2012; 79 FR 68002, Nov. 13, 2014]
+[51 FR 41339, Nov. 14, 1986, as amended at 53 FR 6648, Mar. 2, 1988; 56 FR 8852, Mar. 1, 1991; 56 FR 23022, May 20, 1991; 58 FR 30668, May 26, 1993; 63 FR 58907, Nov. 2, 1998; 69 FR 66422, Nov. 15, 2004; 73 FR 69933, Nov. 19, 2008; 76 FR 73470, Nov. 28, 2011; 77 FR 69363, Nov. 16, 2012; 79 FR 68002, Nov. 13, 2014; 82 FR 4578, Jan. 13, 2017]

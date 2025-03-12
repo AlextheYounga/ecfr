@@ -1,8 +1,6 @@
 ##### § 409.43 Plan of care requirements. #####
 
-Link to an amendment published at 82 FR 4578, Jan. 13, 2017.This amendment was delayed until Jan. 13, 2018 at 82 FR 31729, July 10, 2017.
-
-(a) *Contents.* The plan of care must contain those items listed in § 484.18(a) of this chapter that specify the standards relating to a plan of care that an HHA must meet in order to participate in the Medicare program.
+(a) *Contents.* The plan of care must contain those items listed in § 484.60(a) of this chapter that specify the standards relating to a plan of care that an HHA must meet in order to participate in the Medicare program.
 
 (b) *Physician's orders.* The physician's orders for services in the plan of care must specify the medical treatments to be furnished as well as the type of home health discipline that will furnish the ordered services and at what frequency the services will be furnished. Orders for services to be provided “as needed” or “PRN” must be accompanied by a description of the beneficiary's medical signs and symptoms that would occasion the visit and a specific limit on the number of those visits to be made under the order before an additional physician order would have to be obtained. Orders for care may indicate a specific range in frequency of visits to ensure that the most appropriate level of services is furnished. If a range of visits is ordered, the upper limit of the range is considered the specific frequency.
 
@@ -14,7 +12,7 @@ Link to an amendment published at 82 FR 4578, Jan. 13, 2017.This amendment was d
 
 (B) Includes a description of the patient's condition and the services to be provided by the home health agency;
 
-(C) Includes an attestation (relating to the physician's orders and the date received) signed and dated by the registered nurse or qualified therapist (as defined in 42 CFR 484.4) responsible for furnishing or supervising the ordered service in the plan of care; and
+(C) Includes an attestation (relating to the physician's orders and the date received) signed and dated by the registered nurse or qualified therapist (as defined in 42 CFR 484.115) responsible for furnishing or supervising the ordered service in the plan of care; and
 
 (D) Is copied into the plan of care and the plan of care is immediately submitted to the physician; or
 
@@ -30,7 +28,7 @@ Link to an amendment published at 82 FR 4578, Jan. 13, 2017.This amendment was d
 
 (4) *Changes to the plan of care signature requirements.* Any changes in the plan must be signed and dated by a physician.
 
-(d) *Oral (verbal) orders.* If any services are provided based on a physician's oral orders, the orders must be put in writing and be signed and dated with the date of receipt by the registered nurse or qualified therapist (as defined in § 484.4 of this chapter) responsible for furnishing or supervising the ordered services. Oral orders may only be accepted by personnel authorized to do so by applicable State and Federal laws and regulations as well as by the HHA's internal policies. The oral orders must also be countersigned and dated by the physician before the HHA bills for the care.
+(d) *Oral (verbal) orders.* If any services are provided based on a physician's oral orders, the orders must be put in writing and be signed and dated with the date of receipt by the registered nurse or qualified therapist (as defined in § 484.115 of this chapter) responsible for furnishing or supervising the ordered services. Oral orders may only be accepted by personnel authorized to do so by applicable State and Federal laws and regulations as well as by the HHA's internal policies. The oral orders must also be countersigned and dated by the physician before the HHA bills for the care.
 
 (e) *Frequency of review.* (1) The plan of care must be reviewed by the physician (as specified in § 409.42(b)) in consultation with agency professional personnel at least every 60 days or more frequently when there is a -
 
@@ -44,4 +42,4 @@ Link to an amendment published at 82 FR 4578, Jan. 13, 2017.This amendment was d
 
 (f) *Termination of the plan of care.* The plan of care is considered to be terminated if the beneficiary does not receive at least one covered skilled nursing, physical therapy, speech-language pathology services, or occupational therapy visit in a 60-day period unless the physician documents that the interval without such care is appropriate to the treatment of the beneficiary's illness or injury.
 
-[59 FR 65494, Dec. 20, 1994, as amended at 65 FR 41210, July 3, 2000; 74 FR 58133, Nov. 10, 2009; 80 FR 68717, Nov. 5, 2015]
+[59 FR 65494, Dec. 20, 1994, as amended at 65 FR 41210, July 3, 2000; 74 FR 58133, Nov. 10, 2009; 80 FR 68717, Nov. 5, 2015; 82 FR 4578, Jan. 13, 2017]
