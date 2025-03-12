@@ -1,5 +1,7 @@
 ##### § 213.1 Admission under bond or cash deposit. #####
 
+Link to an amendment published at 84 FR 41505, Aug. 14, 2019.
+
 The district director having jurisdiction over the intended place of residence of an alien may accept a public charge bond prior to the issuance of an immigrant visa to the alien upon receipt of a request directly from a United States consular officer or upon presentation by an interested person of a notification from the consular officer requiring such a bond. Upon acceptance of such a bond, the district director shall notify the U.S. consular officer who requested the bond, giving the date and place of acceptance and the amount of the bond. The district director having jurisdiction over the place where the examination for admission is being conducted or the special inquiry officer to whom the case is referred may exercise the authority contained in section 213 of the Act. All bonds and agreements covering cash deposits given as a condition of admission of an alien under section 213 of the Act shall be executed on Form I-352 and shall be in the sum of not less than $1,000. The officer accepting such deposit shall give his receipt therefor on Form I-305. For procedures relating to bond riders, acceptable sureties, cancellation or breaching of bonds, see § 103.6 of this chapter.
 
 [29 FR 10579, July 30, 1964, as amended at 32 FR 9626, July 4, 1967; 62 FR 10349, Mar. 6, 1997]

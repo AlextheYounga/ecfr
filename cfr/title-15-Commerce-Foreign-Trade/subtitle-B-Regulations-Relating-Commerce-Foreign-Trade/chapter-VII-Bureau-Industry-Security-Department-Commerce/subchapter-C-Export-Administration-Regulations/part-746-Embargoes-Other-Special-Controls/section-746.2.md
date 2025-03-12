@@ -92,4 +92,4 @@ Applications for exports or reexports of private and corporate aircraft, cruise 
 
 (d) *Related controls.* OFAC maintains controls on the activities of persons subject to U.S. jurisdiction, wherever located, involving transactions with Cuba or any Cuban national, as provided in 31 CFR part 515. Exporters and reexporters should consult with OFAC for further guidance on its related controls.
 
-[61 FR 12802, Mar. 25, 1996]Editorial Note:For Federal Register citations affecting § 746.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+[61 FR 12802, Mar. 25, 1996]Editorial Note:For Federal Register citations affecting § 746.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

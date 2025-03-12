@@ -10,4 +10,4 @@ If the hearing official determines that an approved community residential care f
 
 (d) The date by which the hearing official must receive the community residential care facility's request for a hearing, which shall not be less than 10 calendar days and not more than 20 calendar days after the date of VA notice of noncompliance, unless the hearing official determines that noncompliance with the standards threatens the lives of community residential care residents in which case the hearing official must receive the community residential care facility's request for an oral or paper hearing within 36 hours of receipt of VA notice.
 
-(Authority: 38 U.S.C. 1730)[54 FR 20842, May 15, 1989. Redesignated and amended at 61 FR 21965, 21967, May 13, 1996; 78 FR 32126, May 29, 2013]
+[54 FR 20842, May 15, 1989. Redesignated and amended at 61 FR 21965, 21967, May 13, 1996; 78 FR 32126, May 29, 2013]

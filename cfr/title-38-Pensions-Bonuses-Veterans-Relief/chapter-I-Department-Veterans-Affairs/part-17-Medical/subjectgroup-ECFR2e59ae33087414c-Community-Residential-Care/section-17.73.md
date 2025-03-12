@@ -1,4 +1,4 @@
-##### § 17.73 Medical foster homes - general. #####
+##### § 17.73 Medical foster homes—general. #####
 
 (a) *Purpose.* Through the medical foster home program, VA recognizes and approves certain medical foster homes for the placement of veterans. The choice to become a resident of a medical foster home is a voluntary one on the part of each veteran. VA's role is limited to referring veterans to approved medical foster homes. When a veteran is placed in an approved home, VA will provide inspections to ensure that the home continues to meet the requirements of this part, as well as oversight and medical foster home caregiver training. If a medical foster home does not meet VA's criteria for approval, VA will not refer any veteran to the home or provide any of these services. VA may also provide certain medical benefits to veterans placed in medical foster homes, consistent with the VA program in which the veteran is enrolled.
 
@@ -36,4 +36,4 @@
 
 (e) *Duties of Medical foster home caregivers.* The medical foster home caregiver, with assistance from relief caregivers, provides a safe environment, room and board, supervision, and personal assistance, as appropriate for each veteran.
 
-(Authority: 38 U.S.C. 501, 1730)[77 FR 5188, Feb. 2, 2012]
+[77 FR 5188, Feb. 2, 2012]

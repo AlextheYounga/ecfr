@@ -1,7 +1,5 @@
 ##### § 17.63 Approval of community residential care facilities. #####
 
-Link to an amendment published at 84 FR 33697, July 15, 2019.
-
 The approving official may approve a community residential care facility, based on the report of a VA inspection and on any findings of necessary interim monitoring of the facility, if that facility meets the following standards:
 
 (a) *Health and safety standards.* The facility must:
@@ -18,7 +16,7 @@ The approving official may approve a community residential care facility, based 
 
 (ii) The facility must meet the requirements in section 33.7 of NFPA 101.
 
-(b) [Reserved]
+(b) *Level of care.* The community residential care facility must provide the resident, at a minimum, a base level of care to include room and board; nutrition consisting of three meals per day and two snacks, or as required to meet special dietary needs; laundry services; transportation (either provided or arranged) to VA and healthcare appointments; and accompanying the resident to appointments if needed; 24-hour supervision, if indicated; and care, supervision, and assistance with activities of daily living and instrumental activities of daily living. In those cases where the resident requires more than a base level of care, the medically appropriate level of care must be provided.
 
 (c) *Interior plan.* The facility must:
 
@@ -100,7 +98,7 @@ The approving official may approve a community residential care facility, based 
 
 (3) The community residential care provider must develop and implement written policies and procedures that prohibit mistreatment, neglect, and abuse of residents and misappropriation of resident property.
 
-(4) Except as provided in paragraph (j)(5)(ii) of this section, the community residential care provider must not employ individuals who -
+(4) Except as provided in paragraph (j)(5)(ii) of this section, the community residential care provider must not employ individuals who—
 
 (i) Have been convicted within 7 years by a court of law of any of the following offenses or their equivalent in a state or territory:
 
@@ -152,7 +150,7 @@ The approving official may approve a community residential care facility, based 
 
 (ii) An individual assessment must be performed to determine suitability for employment for any conviction defined in paragraph (j)(8)(iv), regardless of the age of the conviction.
 
-(6)(i) The community residential care provider must ensure that all alleged violations involving mistreatment, neglect, or abuse, including injuries of unknown source, and misappropriation of resident property are reported to the approving official immediately, which means no more than 24 hours after the provider becomes aware of the alleged violation; and to other officials in accordance with State law. The report, at a minimum, must include -
+(6)(i) The community residential care provider must ensure that all alleged violations involving mistreatment, neglect, or abuse, including injuries of unknown source, and misappropriation of resident property are reported to the approving official immediately, which means no more than 24 hours after the provider becomes aware of the alleged violation; and to other officials in accordance with State law. The report, at a minimum, must include—
 
 (A) The facility name, address, telephone number, and owner;
 
@@ -184,7 +182,7 @@ The approving official may approve a community residential care facility, based 
 
 (iii) Person with direct resident access. The term “person with direct resident access” means an individual living in the facility who is not receiving services from the facility, who may have access to a resident or a resident's property, or may have one-on-one contact with a resident.
 
-(8) For purposes of this paragraph (j), an employee is considered “convicted” of a criminal offense -
+(8) For purposes of this paragraph (j), an employee is considered “convicted” of a criminal offense—
 
 (i) When a judgment of conviction has been entered against the individual by a Federal, State, or local court, regardless of whether there is an appeal pending;
 
@@ -198,14 +196,16 @@ The approving official may approve a community residential care facility, based 
 
 (k) *Cost of community residential care.* (1) Payment for the charges of community residential care is not the responsibility of the United States Government or VA.
 
-(2) The resident or an authorized personal representative and a representative of the community residential care facility must agree upon the charge and payment procedures for community residential care.
+(2) The cost of community residential care should reflect the cost of providing the base level of care as defined in paragraph (b) of this section.
 
-(3) The charges for community residential care must be reasonable:
+(3) The resident or an authorized personal representative and a representative of the community residential care facility must agree upon the charge and payment procedures for community residential care. Any agreement between the resident or an authorized personal representative and the community residential care facility must be approved by the approving official. The charge for care in a community residential care facility must be reviewed annually by the facility and VA, or as required due to changes in care needs.
 
-(i) For residents in a community residential care facility as of June 14, 1989, the rates charged for care are pegged to the facility's basic rate for care as of July 31, 1987. Increases in the pegged rate during any calendar year cannot exceed the annual percentage increase in the National Consumer Price Index (CPI) for that year;
+(4) The charges for community residential care must be reasonable and comparable to the current average rate for residential care in the State or Region for the same level of care provided to the resident. Notwithstanding, any year to year increase in the charge for care in a community residential care facility for the same level of care may not exceed the annual percentage increase in the National Consumer Price Index (CPI) for that year. In establishing an individual residential rate, consideration should be given to the level of care required and the individual needs of the resident. The approving official may approve a rate:
 
-(ii) For community residential care facilities approved after July 31, 1987, the rates for care shall not exceed 110 percent of the average rate for approved facilities in that State as of March 31, 1987. Increases in this rate during any calendar year cannot exceed the annual percentage increase in the National Consumer Price Index (CPI) for that year.
+(i) Lower than the current average rate for residential care in the State or Region for the same level of care if the community residential care facility and the resident or authorized personal representative agreed to such rate, provided such lower rate does not result in a lower level of care than the resident requires;
 
-(iii) The approving official may approve a deviation from the requirements of paragraphs (k)(3)(i) through (ii) of this section upon request from a community residential care facility representative, a resident in the facility, or an applicant for residency, if the approving official determines that the cost of care for the resident will be greater than the average cost of care for other residents, or if the resident chooses to pay more for the care provided at a facility which exceeds VA standards.
+(ii) Higher than the current average rate for residential care in the State or Region for the same level of care if the community residential care facility and the resident or authorized personal representative agreed to such rate, and the higher rate is related to the individual needs of the resident which exceed the base level of care as defined in paragraph (b) of this section. Examples of services which exceed the base level of care include, but are not limited to, handling disbursement of funds solely at the request of the resident; fulfilling special dietary requests by the resident or family member; accompanying the resident to an activity center; assisting in or providing scheduled socialization activities; supervision of an unsafe smoker; bowel and bladder care; intervention related to behavioral issues; and transportation other than for VA and healthcare appointments.
 
-(Authority: 38 U.S.C. 1730)(The information collection requirements in this section have been approved by the Office of Management and Budget under control number 2900-0844.)[54 FR 20842, May 15, 1989, as amended at 54 FR 22754, May 26, 1989. Redesignated at 61 FR 21965, May 13, 1996, as amended at 61 FR 63720, Dec. 2, 1996; 69 FR 18803, Apr. 9, 2004; 74 FR 63308, Dec. 3, 2009; 76 FR 10248, Feb. 24, 2011; 82 FR 34415, July 25, 2017; 82 FR 35451, July 31, 2017]
+(5) The approving official may approve a deviation from the requirements of paragraph (k)(4) of this section if the resident chooses to pay more for care at a facility which exceeds the base level of care as defined in paragraph (b) of this section notwithstanding the resident's needs.
+
+(The information collection requirements in this section have been approved by the Office of Management and Budget under control number 2900-0844)[54 FR 20842, May 15, 1989, as amended at 54 FR 22754, May 26, 1989. Redesignated at 61 FR 21965, May 13, 1996, as amended at 61 FR 63720, Dec. 2, 1996; 69 FR 18803, Apr. 9, 2004; 74 FR 63308, Dec. 3, 2009; 76 FR 10248, Feb. 24, 2011; 82 FR 34415, July 25, 2017; 82 FR 35451, July 31, 2017; 84 FR 33697, July 15, 2019]

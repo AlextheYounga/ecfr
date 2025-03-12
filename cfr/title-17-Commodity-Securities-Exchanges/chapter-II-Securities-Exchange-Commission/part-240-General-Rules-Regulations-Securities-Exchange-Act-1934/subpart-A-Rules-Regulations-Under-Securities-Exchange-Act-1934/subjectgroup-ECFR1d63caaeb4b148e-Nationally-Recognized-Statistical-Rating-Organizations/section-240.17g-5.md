@@ -1,5 +1,7 @@
 ##### § 240.17g-5 Conflicts of interest. #####
 
+Link to an amendment published at 84 FR 40258, Aug. 14, 2019.
+
 (a) A person within a nationally recognized statistical rating organization is prohibited from having a conflict of interest relating to the issuance or maintenance of a credit rating identified in paragraph (b) of this section, unless:
 
 (1) The nationally recognized statistical rating organization has disclosed the type of conflict of interest in Exhibit 6 to Form NRSRO in accordance with section 15E(a)(1)(B)(vi) of the Act (15 U.S.C. 78o-7(a)(1)(B)(vi)) and § 240.17g-1;

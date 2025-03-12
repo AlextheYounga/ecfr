@@ -1,5 +1,7 @@
 ##### § 390.5T Definitions. #####
 
+Link to an amendment published at 84 FR 40294, Aug. 14, 2019.
+
 Unless specifically defined elsewhere, in this subchapter:
 
 *Accident* means -

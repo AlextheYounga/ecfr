@@ -12,4 +12,4 @@
 
 (3) A waiver issued under this section remains valid so long as the community residential care facility operates continuously under this program without a break. VA may, on the recommendation of an approving official, rescind a waiver issued under this section if a VA inspector determines that there has been a change in circumstances and that the deficiency can now be corrected, or a VA safety expert finds that the deficiency jeopardizes the health and safety of residents.
 
-(Authority: 38 U.S.C. 1730)[74 FR 63308, Dec. 3, 2009, as amended at 78 FR 32126, May 29, 2013]
+[74 FR 63308, Dec. 3, 2009, as amended at 78 FR 32126, May 29, 2013]

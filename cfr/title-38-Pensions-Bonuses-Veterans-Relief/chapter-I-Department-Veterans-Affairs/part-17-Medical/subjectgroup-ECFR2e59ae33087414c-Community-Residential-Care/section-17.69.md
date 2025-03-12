@@ -6,4 +6,4 @@ If representatives of a community residential care facility which receive a noti
 
 (b) Revoke VA approval of the community residential care facility and notify the community residential care facility of this revocation.
 
-(Authority: 38 U.S.C. 1730)[54 FR 20842, May 15, 1989. Redesignated and amended at 61 FR 21965, 21967, May 13, 1996]
+[54 FR 20842, May 15, 1989. Redesignated and amended at 61 FR 21965, 21967, May 13, 1996]

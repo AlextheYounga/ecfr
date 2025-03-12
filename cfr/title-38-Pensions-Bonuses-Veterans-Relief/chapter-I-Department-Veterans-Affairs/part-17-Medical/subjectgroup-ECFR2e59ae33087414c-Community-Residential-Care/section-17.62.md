@@ -1,51 +1,19 @@
 ##### § 17.62 Definitions. #####
 
-Link to an amendment published at 84 FR 33697, July 15, 2019.
-
 For the purpose of §§ 17.61 through 17.72:
 
-(a) The term *community residential care* means the monitoring, supervision, and assistance, in accordance with a statement of needed care, of the daily living activities of referred veterans in an approved home in the community by the facility's provider.
+*Activities of daily living* means basic daily tasks an individual performs as part of self-care which may be used as a measurement of the functional status of a person including: walking; bathing, shaving, brushing teeth, combing hair; dressing; eating; getting in or getting out of bed; and toileting.
 
-(b) The term *daily living activities* includes:
+*Approving official* means the Director or, if designated by the Director, the Associate Director or Chief of Staff of a Department of Veterans Affairs Medical Center or Outpatient Clinic which has jurisdiction to approve a community residential care facility.
 
-(1) Walking;
+*Community residential care* means the monitoring, supervision, and assistance, in accordance with a statement of needed care, of the activities of daily living activities and instrumental activities of daily living, of referred veterans in an approved home in the community by the facility's provider.
 
-(2) Bathing, shaving, brushing teeth, combing hair;
+*Hearing official* means the Director or, if designated by the Director, the Associate Director or Chief of Staff of a Department of Veterans Affairs Medical Center or Outpatient Clinic which has jurisdiction to approve a community residential care facility.
 
-(3) Dressing;
+*Instrumental activities of daily living* are tasks that are not necessary for fundamental functioning, but allow an individual to live independently in a community. Instrumental activities of daily living include: housekeeping and cleaning room; meal preparation; taking medications; laundry; assistance with transportation; shopping—for groceries, clothing or other items; ability to use the telephone; ability to manage finances; writing letters; and obtaining appointments.
 
-(4) Eating;
+*Oral hearing* means the in person testimony of representatives of a community residential care facility and of VA before the hearing official and the review of the written evidence of record by that official.
 
-(5) Getting in or getting out of bed;
+*Paper hearing* means a review of the written evidence of record by the hearing official.
 
-(6) Laundry;
-
-(7) Cleaning room;
-
-(8) Managing money;
-
-(9) Shopping;
-
-(10) Using public transportation;
-
-(11) Writing letters;
-
-(12) Making telephone calls;
-
-(13) Obtaining appointments;
-
-(14) Self-administration of medications;
-
-(15) Recreational and leisure activities; and
-
-(16) Other similar activities.
-
-(c) The term *paper hearing* means a review of the written evidence of record by the hearing official.
-
-(d) The term *oral hearing* means the in person testimony of representatives of a community residential care facility and of VA before the hearing official and the review of the written evidence of record by that official.
-
-(e) The term *approving official* means the Director or, if designated by the Director, the Associate Director or Chief of Staff of a Department of Veterans Affairs Medical Center or Outpatient Clinic which has jurisdiction to approve a community residential care facility.
-
-(f) The term *hearing official* means the Director or, if designated by the Director, the Associate Director or Chief of Staff of a Department of Veterans Affairs Medical Center or Outpatient Clinic which has jurisdiction to approve a community residential care facility.
-
-(Authority: 38 U.S.C. 1730)[54 FR 20842, May 15, 1989. Redesignated and amended at 61 FR 21965, 21966, May 13, 1996; 74 FR 63308, Dec. 3, 2009]
+[84 FR 33697, July 15, 2019]

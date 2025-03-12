@@ -14,4 +14,4 @@
 
 (d) The hearing official's determination of any time period under paragraph (c)(3) of this section shall consider the safety and health of the residents of the community residential care facility and the length of time since the community residential care facility received notice of the noncompliance.
 
-(Authority: 38 U.S.C. 1730)[54 FR 20842, May 15, 1989. Redesignated and amended at 61 FR 21965, 21967, May 13, 1996]
+[54 FR 20842, May 15, 1989. Redesignated and amended at 61 FR 21965, 21967, May 13, 1996]

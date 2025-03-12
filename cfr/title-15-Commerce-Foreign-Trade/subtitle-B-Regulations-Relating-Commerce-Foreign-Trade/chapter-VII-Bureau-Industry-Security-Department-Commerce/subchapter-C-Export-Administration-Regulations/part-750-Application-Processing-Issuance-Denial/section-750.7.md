@@ -98,4 +98,4 @@ License Exception TSU under § 740.13 of the EAR is available for the ECCNs cont
 
 (j) *Records.* If you have been issued a license you must retain the license, and maintain complete records in accordance with part 762 of the EAR including any licenses (whether used or unused, valid or expired) and all supporting documents and shipping records.
 
-[61 FR 12829, Mar. 25, 1996]Editorial Note:For Federal Register citations affecting § 750.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.
+[61 FR 12829, Mar. 25, 1996]Editorial Note:For Federal Register citations affecting § 750.7, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

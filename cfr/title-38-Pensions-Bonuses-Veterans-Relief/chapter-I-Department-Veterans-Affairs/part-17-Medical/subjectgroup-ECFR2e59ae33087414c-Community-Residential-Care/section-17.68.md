@@ -10,4 +10,4 @@
 
 (c) In all hearings, the community residential care facility operator and VA may be represented by counsel.
 
-(Authority: 38 U.S.C. 1730)[54 FR 20842, May 15, 1989. Redesignated at 61 FR 21965, May 13, 1996]
+[54 FR 20842, May 15, 1989. Redesignated at 61 FR 21965, May 13, 1996]

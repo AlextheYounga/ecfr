@@ -94,4 +94,4 @@
 
 (3) The charges for medical foster home care must be comparable to prices charged by other assisted living and nursing home facilities in the area based on the veteran's changing care needs and local availability of medical foster homes. (The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0777.)
 
-(Authority: 38 U.S.C. 501, 1730)[77 FR 5189, Feb. 2, 2012, as amended at 80 FR 44862, July 28, 2015]
+[77 FR 5189, Feb. 2, 2012, as amended at 80 FR 44862, July 28, 2015]

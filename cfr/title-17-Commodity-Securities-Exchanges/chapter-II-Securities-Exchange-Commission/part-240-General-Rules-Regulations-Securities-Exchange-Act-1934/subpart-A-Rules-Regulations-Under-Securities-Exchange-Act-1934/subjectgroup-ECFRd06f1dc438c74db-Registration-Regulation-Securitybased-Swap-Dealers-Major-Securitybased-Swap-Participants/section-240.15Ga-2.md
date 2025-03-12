@@ -1,5 +1,7 @@
 ##### § 240.15Ga-2 Findings and conclusions of third-party due diligence reports. #####
 
+Link to an amendment published at 84 FR 40258, Aug. 14, 2019.
+
 (a) The issuer or underwriter of an offering of any asset-backed security (as that term is defined in Section 3(a)(79) of the Act (15 U.S.C. 78c(a)(79))) that is to be rated by a nationally recognized statistical rating organization must furnish Form ABS-15G (§ 249.1400 of this chapter) to the Commission containing the findings and conclusions of any third-party due diligence report obtained by the issuer or underwriter at least five business days prior to the first sale in the offering.
 
 Instruction to paragraph (a): Disclosure of the findings and conclusions includes, but is not limited to, disclosure of the criteria against which the loans were evaluated, and how the evaluated loans compared to those criteria along with the basis for including any loans not meeting those criteria. This disclosure is only required for an initial rating and does not need to be furnished in connection with any subsequent rating actions. For purposes of this rule, the date of first sale is the date on which the first investor is irrevocably contractually committed to invest, which, depending on the terms and conditions of the contract, could be the date on which the issuer receives the investor's subscription agreement or check.

@@ -1,5 +1,7 @@
 ##### § 390.21 Marking of self-propelled CMVs and intermodal equipment. #####
 
+Link to an amendment published at 84 FR 40294, Aug. 14, 2019.
+
 (a) *General.* Every self-propelled CMV subject to subchapter B of this chapter must be marked as specified in paragraphs (b), (c), and (d) of this section, and each unit of intermodal equipment interchanged or offered for interchange to a motor carrier by an intermodal equipment provider subject to subchapter B of this chapter must be marked as specified in paragraph (g) of this section.
 
 (b) *Nature of marking.* The marking must display the following information:

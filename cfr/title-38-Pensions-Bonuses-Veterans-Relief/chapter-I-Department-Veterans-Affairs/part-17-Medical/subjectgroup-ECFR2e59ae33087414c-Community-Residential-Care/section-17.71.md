@@ -10,4 +10,4 @@
 
 (c) If the hearing official determines that a community residential care facility fails to comply with the standards set forth in § 17.63 of this part and determines that the community residential care facility shall have an additional time period to remedy the noncompliance, the hearing official shall review at the end of the time period the evidence of the community residential care facility's compliance with the standards which were to have been met by the end of that time period and determine if the community residential care facility complies with the standards. If the community residential care facility fails to comply with these or any other standards, the procedures set forth in §§ 17.66-17.71 of this part shall be followed.
 
-(Authority: 38 U.S.C. 1730)[54 FR 20842, May 15, 1989. Redesignated and amended at 61 FR 21965, 21967, May 13, 1996]
+[54 FR 20842, May 15, 1989. Redesignated and amended at 61 FR 21965, 21967, May 13, 1996]
