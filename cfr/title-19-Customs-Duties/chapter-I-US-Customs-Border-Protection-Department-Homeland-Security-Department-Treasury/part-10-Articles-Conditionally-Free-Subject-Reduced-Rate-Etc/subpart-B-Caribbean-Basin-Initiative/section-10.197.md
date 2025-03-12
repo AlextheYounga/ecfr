@@ -1,6 +1,6 @@
 ##### § 10.197 Direct costs of processing operations performed in a beneficiary country or countries. #####
 
-(a) *Items included in the direct costs of processing operations.* As used in § 10.195 and § 10.198, the words “direct costs of processing operations” mean those costs either directly incurred in, or which can be reasonably allocated to, the growth, production, manufacture, or assembly of the specific merchandise under consideration. Such costs include, but are not limited to the following, to the extent that they are includable in the appraised value of the imported merchandise:
+(a) *Items included in the direct costs of processing operations.* As used in §§ 10.195 and 10.198, the words “direct costs of processing operations” mean those costs either directly incurred in, or which can be reasonably allocated to, the growth, production, manufacture, or assembly of the specific merchandise under consideration. Such costs include, but are not limited to the following, to the extent that they are includable in the appraised value of the imported merchandise:
 
 (1) All actual labor costs involved in the growth, production, manufacture or assembly of the specific merchandise, including fringe benefits, on-the-job training, and the cost of engineering, supervisory, quality control, and similar personnel;
 

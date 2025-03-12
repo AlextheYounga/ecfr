@@ -18,7 +18,7 @@ The BE-140 Benchmark Survey of Insurance Transactions by Insurance Companies wit
 
 (ii) [Reserved]
 
-(3) *Exemption claims.* Any U.S. person that receives the BE-140 survey form from BEA, but is not subject to the reporting requirements, must file an exemption claim by completing the determination of reporting status section of the BE-140 survey and returning it to BEA by the due date of the survey. The requirement in this paragrpah (b)(3) is necessary to ensure compliance with reporting requirements and efficient administration of the Act by eliminating unnecessary follow-up contact.
+(3) *Exemption claims.* Any U.S. person that receives the BE-140 survey form from BEA, but is not subject to the reporting requirements, must file an exemption claim by completing the determination of reporting status section of the BE-140 survey and returning it to BEA by the due date of the survey. The requirement in this paragraph (b)(3) is necessary to ensure compliance with reporting requirements and efficient administration of the Act by eliminating unnecessary follow-up contact.
 
 (d) *Covered types of insurance services.* Insurance services covered by the BE-140 survey consist of transactions between U.S. insurance companies and foreign persons for:
 
