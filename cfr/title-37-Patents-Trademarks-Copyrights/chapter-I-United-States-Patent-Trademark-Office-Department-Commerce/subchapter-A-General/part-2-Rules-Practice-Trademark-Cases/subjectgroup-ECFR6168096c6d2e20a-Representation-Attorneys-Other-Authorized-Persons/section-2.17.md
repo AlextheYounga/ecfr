@@ -1,5 +1,7 @@
 ##### § 2.17 Recognition for representation. #####
 
+Link to an amendment published at 84 FR 31510, July 2, 2019.
+
 (a) *Authority to practice in trademark cases.* Only an individual qualified to practice under § 11.14 of this chapter may represent an applicant, registrant, or party to a proceeding before the Office in a trademark case.
 
 (b)(1) *Recognition of practitioner as representative.* To be recognized as a representative in a trademark case, a practitioner qualified under § 11.14 of this chapter may:

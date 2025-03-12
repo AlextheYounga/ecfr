@@ -2,7 +2,7 @@
 
 (a) [Reserved]
 
-(b) *Responsibilities of SEAs for re-interviewing to ensure the eligibility of children under the MEP* - (1) *Retrospective re-interviewing.* (i) As a condition for the continued receipt of MEP funds in FY 2006 and subsequent years, an SEA that received such funds in FY 2005 but did not implement a statewide re-interviewing process prior to the enactment of this regulation, as well as an SEA with a defect rate that is not accepted by the Secretary under paragraph (a)(1) of this section, or an SEA under a corrective action issued by the Secretary under paragraph (b)(2)(vii) or (d)(7) of this section, must, within six months of the effective date of these regulations or as subsequently required by the Secretary, -
+(b) *Responsibilities of SEAs for re-interviewing to ensure the eligibility of children under the MEP* - (1) *Retrospective re-interviewing.* (i) As a condition for the continued receipt of MEP funds in FY 2006 and subsequent years, an SEA under a corrective action issued by the Secretary under paragraph (b)(2)(vii) or (d)(7) of this section must, as required by the Secretary -
 
 (A) Conduct a statewide re-interviewing process consistent with paragraph (b)(1)(ii) of this section; and
 
@@ -22,7 +22,7 @@
 
 (B) The findings of the re-interviewing process, including the determined defect rate;
 
-(C) An acknowledgement that, consistent with § 200.89(a), the Secretary may adjust the child counts for 2000-2001 and subsequent years downward based on the defect rate that the Secretary accepts;
+(C) An acknowledgement that the Secretary may adjust the child counts for 2000-2001 and subsequent years downward based on the defect rate that the Secretary accepts;
 
 (D) A summary of the types of defective eligibility determinations that the SEA identified through the re-interviewing process;
 
@@ -48,7 +48,7 @@
 
 (c) *Responsibilities of SEAs to document the eligibility of migratory children.* (1) An SEA and its operating agencies must use the Certificate of Eligibility (COE) form established by the Secretary to document the State's determination of the eligibility of migratory children.
 
-(2) In addition to the form required under paragraph (a) of this section, the SEA and its operating agencies must maintain any additional documentation the SEA requires to confirm that each child found eligible for this program meets all of the eligibility definitions in § 200.81.
+(2) In addition to the form required under paragraph (c)(1) of this section, the SEA and its operating agencies must maintain any additional documentation the SEA requires to confirm that each child found eligible for this program meets all of the eligibility definitions in section 1309 of the ESEA and § 200.81.
 
 (3) An SEA is responsible for the accuracy of all the determinations of the eligibility of migratory children identified in the State.
 
@@ -68,4 +68,4 @@
 
 (7) A process for implementing corrective action if the SEA finds COEs that do not sufficiently document a child's eligibility for the MEP, or in response to internal State audit findings and recommendations, or monitoring or audit findings of the Secretary.
 
-(Authority: 20 U.S.C. 6391-6399, 6571, 7844(d); 18 U.S.C. 1001)[73 FR 44124, July 29, 2008, as amended at 83 FR 42440, Aug. 22, 2018]Effective Date Note:At 73 FR 44124, July 29, 2008, § 200.89 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+(Authority: 20 U.S.C. 6391-6399, 6571, 7844(d); 18 U.S.C. 1001)[73 FR 44124, July 29, 2008, as amended at 83 FR 42440, Aug. 22, 2018; 84 FR 31677, July 2, 2019]

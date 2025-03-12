@@ -1,41 +1,39 @@
 ##### § 200.77 Reservation of funds by an LEA. #####
 
-Before allocating funds in accordance with § 200.78, an LEA must reserve funds as are reasonable and necessary to -
+Before allocating funds in accordance with § 200.78, an LEA must reserve funds as are reasonable and necessary to—
 
-(a) Provide services comparable to those provided to children in participating school attendance areas and schools to serve -
+(a) Provide services comparable to those provided to children in participating school attendance areas and schools to serve—
 
-(1) Homeless children who do not attend participating schools, including providing educationally related support services to children in shelters and other locations where homeless children may live;
+(1)(i) Homeless children and youths, including providing educationally related support services to children in shelters and other locations where homeless children may live.
+
+(ii) Funds reserved under paragraph (a)(1)(i) of this section may be—
+
+(A) Determined based on a needs assessment of homeless children and youths in the LEA, taking into consideration the number and needs of those children, which may be the same needs assessment as conducted under section 723(b)(1) of the McKinney-Vento Homeless Assistance Act; and
+
+(B) Used to provide homeless children and youths with services not ordinarily provided to other students under this subpart, including providing—
+
+(*1*) Funding for the liaison designated under section 722(g)(1)(J)(ii) of the McKinney-Vento Homeless Assistance Act; and
+
+(*2*) Transportation pursuant to section 722(g)(1)(J)(iii) of that Act;
 
 (2) Children in local institutions for neglected children; and
 
-(3) If appropriate -
+(3) If appropriate—
 
 (i) Children in local institutions for delinquent children; and
 
 (ii) Neglected and delinquent children in community-day school programs;
 
-(b) Provide, where appropriate under section 1113(c)(4) of the ESEA, financial incentives and rewards to teachers who serve students in Title I schools identified for school improvement, corrective action, and restructuring for the purpose of attracting and retaining qualified and effective teachers;
+(4) An LEA must determine the amount of funds reserved under paragraphs (a)(1)(i) and (a)(2) and (3) of this section based on the total allocation received by the LEA under subpart 2 of part A of title I of the ESEA prior to any allowable expenditures or transfers by the LEA;
 
-(c) Meet the requirements for choice-related transportation and supplemental educational services in § 200.48, unless the LEA meets these requirements with non-Title I funds;
+(b) Provide, where appropriate under section 1113(c)(4) of the ESEA, financial incentives and rewards to teachers who serve students in title I schools identified for comprehensive support and improvement activities or targeted support and improvement activities under section 1111(d) of the ESEA for the purpose of attracting and retaining qualified and effective teachers;
 
-(d) Address the professional development needs of instructional staff, including -
+(c) Meet the requirements for parental involvement in section 1116(a)(3) of the ESEA;
 
-(1) Professional development requirements under § 200.52(a)(3)(iii) if the LEA has been identified for improvement or corrective action; and
+(d) Provide and administer equitable services in accordance with § 200.64(a);
 
-(2) Professional development expenditure requirements under § 200.60;
+(e) Administer programs for public school children under this subpart; and
 
-(e) Meet the requirements for parental involvement in section 1118(a)(3) of the ESEA;
+(f) Conduct other authorized activities, such as early childhood education, school improvement and coordinated services.
 
-(f) Administer programs for public and private school children under this part, including special capital expenses, if any, incurred in providing services to eligible private school children, such as -
-
-(1) The purchase and lease of real and personal property (including mobile educational units and neutral sites);
-
-(2) Insurance and maintenance costs;
-
-(3) Transportation; and
-
-(4) Other comparable goods and services, including non-instructional computer technicians; and
-
-(g) Conduct other authorized activities, such as school improvement and coordinated services.
-
-(Authority: 20 U.S.C. 6313(c)(3) and (4), 6316(b)(10), (c)(7)(iii), 6318(a)(3), 6319(l), 6320, 7279d)[82 FR 31712, July 7, 2017]
+[82 FR 31712, July 7, 2017, as amended at 84 FR 31675, July 2, 2019]

@@ -1,5 +1,7 @@
 ##### § 7.1 Definitions of terms as used in this part. #####
 
+Link to an amendment published at 84 FR 31511, July 2, 2019.
+
 (a) *the Act* means the Trademark Act of 1946, 60 Stat. 427, as amended, codified in 15 U.S.C. 1051 *et seq.*
 
 (b) *Subsequent designation* means a request for extension of protection of an international registration to a Contracting Party made after the International Bureau registers the mark.

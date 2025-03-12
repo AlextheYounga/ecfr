@@ -1,26 +1,16 @@
 ##### § 200.78 Allocation of funds to school attendance areas and schools. #####
 
-(a)(1) An LEA must allocate funds under subpart A of this part to school attendance areas and schools, identified as eligible and selected to participate under section 1113(a) or (b) of the ESEA, in rank order on the basis of the total number of children from low-income families in each area or school.
+(a)(1) After reserving funds, as applicable, under § 200.77, including funds for equitable services for private school students, their teachers, and their families, an LEA must allocate funds under this subpart to school attendance areas and schools, identified as eligible and selected to participate under section 1113(a) or (b) of the ESEA, in rank order on the basis of the total number of public school children from low-income families in each area or school.
 
-(2)(i) In calculating the total number of children from low-income families, the LEA must include children from low-income families who attend private schools.
+(2) To determine the number of children from low-income families in a secondary school, an LEA must use—
 
-(ii) To obtain a count of private school children, the LEA may -
+(i) The same measure of poverty it uses for elementary schools; or
 
-(A) Use the same poverty data the LEA uses to count public school children;
+(ii) An accurate estimate of the number of students from low-income families by applying the average percentage of students from low-income families in the elementary school attendance areas that feed into the secondary school to the number of students enrolled in the secondary school if—
 
-(B)(*1*) Use comparable poverty data from a survey of families of private school students that, to the extent possible, protects the families' identity; and
+(A) The LEA conducts outreach to secondary schools within the LEA to inform the schools of the option to use this measure; and
 
-(*2*) Extrapolate data from the survey based on a representative sample if complete actual data are unavailable;
-
-(C) Use comparable poverty data from a different source, such as scholarship applications;
-
-(D) Apply the low-income percentage of each participating public school attendance area to the number of private school children who reside in that school attendance area; or
-
-(E) Use an equated measure of low income correlated with the measure of low income used to count public school children.
-
-(iii) An LEA may count private school children from low-income families every year or every two years.
-
-(iv) After timely and meaningful consultation in accordance with § 200.63, the LEA shall have the final authority in determining the method used to calculate the number of private school children from low-income families;
+(B) A majority of the secondary schools approve the use of this measure.
 
 (3) If an LEA ranks its school attendance areas and schools by grade span groupings, the LEA may determine the percentage of children from low-income families in the LEA as a whole or for each grade span grouping.
 
@@ -34,4 +24,4 @@
 
 (e) If an LEA contains two or more counties in their entirety, the LEA must distribute to schools within each county a share of the LEA's total grant that is no less than the county's share of the child count used to calculate the LEA's grant.
 
-[82 FR 31712, July 7, 2017]
+[82 FR 31712, July 7, 2017, as amended at 84 FR 31676, July 2, 2019]

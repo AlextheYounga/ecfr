@@ -1,5 +1,7 @@
 ##### § 1222.41 Nominations and appointments. #####
 
+Link to an amendment published at 84 FR 31462, July 2, 2019.
+
 (a) Nominees must manufacture or import 100,000 short tons or more of paper and paper-based packaging in a marketing year.
 
 (b) Initial nominations shall be submitted to the Secretary by the Panel. Before considering any nominations, the Panel shall publicize the nomination process, using trade press or other means it deems appropriate, and shall conduct outreach to all known manufacturers and importers manufacturing or importing 100,000 short tons or more of paper and paper-based packaging in a marketing year to generate nominees that reflect the range of operations within the paper and paper-based packaging industry. The Panel may use regional caucuses, mail or other methods to elicit potential nominees. The Panel shall work with USDA to ensure that all eligible candidates are aware of the opportunity to serve on the Board. The Panel shall submit the nominations to the Secretary and recommend two nominees for each Board position specified in § 1222.40(b). The Secretary shall select the initial members of the Board from the nominations submitted by the Panel.

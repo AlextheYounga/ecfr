@@ -1,5 +1,7 @@
 ##### § 2.32 Requirements for a complete trademark or service mark application. #####
 
+Link to an amendment published at 84 FR 31511, July 2, 2019.
+
 (a) The application must be in English and include the following:
 
 (1) A request for registration;

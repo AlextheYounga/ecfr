@@ -1,0 +1,3 @@
+##### § 2.196 Times for taking action: Expiration on Saturday, Sunday or Federal holiday. #####
+
+Whenever periods of time are specified in this part in days, calendar days are intended. When the day, or the last day fixed by statute or by regulation under this part for taking any action or paying any fee in the Office falls on a Saturday, Sunday, or Federal holiday within the District of Columbia, the action may be taken, or the fee paid, on the next succeeding day that is not a Saturday, Sunday, or a Federal holiday.

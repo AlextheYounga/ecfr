@@ -1,5 +1,7 @@
 ##### § 1222.40 Establishment and membership. #####
 
+Link to an amendment published at 84 FR 31462, July 2, 2019.
+
 (a) *Establishment of the Board.* There is hereby established a Paper and Packaging Board to administer the terms and provisions of this Order. The Board shall be composed of manufacturers and importers of paper and paper-based packaging that manufacture or import 100,000 short tons or more of paper and paper-based packaging during a marketing year. Seats on the Board shall be apportioned as set forth in paragraph (b) of this section based on the geographical distribution of the quantity of paper and paper-based packaging manufactured in the United States and the quantity of paper and paper-based packaging imported to the United States.
 
 (b) The Board shall be composed of 12 members and shall be established as follows:

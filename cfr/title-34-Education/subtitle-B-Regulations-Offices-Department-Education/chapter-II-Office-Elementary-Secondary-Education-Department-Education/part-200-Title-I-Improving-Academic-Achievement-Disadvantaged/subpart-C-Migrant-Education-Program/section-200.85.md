@@ -2,9 +2,9 @@
 
 (a) *MSIX State record system and data exchange requirements.* In order to receive a grant of MEP funds, an SEA must collect, maintain, and submit to MSIX MDEs and otherwise exchange and use information on migratory children in accordance with the requirements of this section. Failure of an SEA to do so constitutes a failure under section 454 of the General Education Provisions Act, 20 U.S.C. 1234c, to comply substantially with a requirement of law applicable to the funds made available under the MEP.
 
-(b) *MSIX data submission requirements* - (1) *General.* (i) In order to satisfy the requirements of paragraphs (b)(2) and (3) of this section, an SEA that receives a grant of MEP funds must submit electronically to MSIX the MDEs applicable to the child's age and grade level. An SEA must collect and submit the MDEs applicable to the child's age and grade level, regardless of the type of school in which the child is enrolled (*e.g.,* public, private, or home school), or whether a child is enrolled in any school.
+(b) *MSIX data submission requirements*—(1) *General.* (i) In order to satisfy the requirements of paragraphs (b)(2) and (3) of this section, an SEA that receives a grant of MEP funds must submit electronically to MSIX the MDEs applicable to the child's age and grade level. An SEA must collect and submit the MDEs applicable to the child's age and grade level, regardless of the type of school in which the child is enrolled (*e.g.,* public, private, or home school), or whether a child is enrolled in any school.
 
-(ii) For migratory children who are or were enrolled in private schools, the SEA meets its responsibility under paragraph (b)(1)(i) of this section for collecting MDEs applicable to the child's age and grade level by advising the parent of the migratory child, or the migratory child if the child is emancipated, of the necessity of requesting the child's records from the private school, and by facilitating the parent or emancipated child's request to the private school that it provide all necessary information from the child's school records -
+(ii) For migratory children who are or were enrolled in private schools, the SEA meets its responsibility under paragraph (b)(1)(i) of this section for collecting MDEs applicable to the child's age and grade level by advising the parent of the migratory child, or the migratory child if the child is emancipated, of the necessity of requesting the child's records from the private school, and by facilitating the parent or emancipated child's request to the private school that it provide all necessary information from the child's school records—
 
 (A) Directly to the parent or emancipated child, in which case the SEA must follow up directly with the parent or child; or
 
@@ -16,11 +16,11 @@
 
 (3) *Subsequent data submissions.* An SEA must comply with the following timelines for subsequent data submissions throughout the entire calendar year whether or not local operating agencies or LEAs in the State are closed for summer or intersession periods.
 
-(i) *Migratory children for whom an SEA has approved a new Certificate of Eligibility.* For every migratory child for whom an SEA approves a new Certificate of Eligibility under § 200.89(c) after the effective date of these regulations -
+(i) *Migratory children for whom an SEA has approved a new Certificate of Eligibility.* For every migratory child for whom an SEA approves a new Certificate of Eligibility under § 200.89(c) after the effective date of these regulations—
 
 (A) An SEA must collect and submit to MSIX the MDEs described in paragraph (b)(1)(i) of this section within 10 working days of approving a new Certificate of Eligibility for the migratory child. The SEA is not required to collect and submit MDEs in existence before its approval of a new Certificate of Eligibility for the child except as provided in paragraph (b)(3)(i)(B) of this section; and
 
-(B) An SEA that approves a new Certificate of Eligibility for a secondary school-aged migratory child must also -
+(B) An SEA that approves a new Certificate of Eligibility for a secondary school-aged migratory child must also—
 
 (*1*) Collect and submit to MSIX within 10 working days of approving a new Certificate of Eligibility for the child MDEs from the most recent secondary school in that State attended previously by the migratory child; and
 
@@ -34,7 +34,7 @@
 
 (B) An SEA or local operating agency that does not yet have a new MDE or MDE update for a migratory child when it receives a change of residence notification from MSIX must submit the MDE to MSIX within four working days of the date that the SEA or one of its local operating agencies obtains the MDE.
 
-(c) *Use of Consolidated Student Records.* In order to facilitate school enrollment, grade and course placement, accrual of high school credits, and participation in the MEP, each SEA that receives a grant of MEP funds must -
+(c) *Use of Consolidated Student Records.* In order to facilitate school enrollment, grade and course placement, accrual of high school credits, and participation in the MEP, each SEA that receives a grant of MEP funds must—
 
 (1) Use, and require each of its local operating agencies to use, the Consolidated Student Record for all migratory children who have changed residence to a new school district within the State or in another State;
 
@@ -42,7 +42,7 @@
 
 (3) Establish procedures, develop and disseminate guidance, and provide training in the use of Consolidated Student Records to SEA, local operating agency, and LEA personnel who have been designated by the SEA as authorized MSIX users under paragraph (f)(2) of this section.
 
-(d) *MSIX data quality.* Each SEA that receives a grant of MEP funds must -
+(d) *MSIX data quality.* Each SEA that receives a grant of MEP funds must—
 
 (1) Use, and require each of its local operating agencies to use, reasonable and appropriate methods to ensure that all data submitted to MSIX are accurate and complete; and
 
@@ -50,7 +50,7 @@
 
 (e) *Procedures for MSIX data correction by parents, guardians, and migratory children.* Each SEA that receives a grant of MEP funds must establish and implement written procedures that allow a parent or guardian of a migratory child, or a migratory child, to ask the SEA to correct or determine the correctness of MSIX data. An SEA's written procedures must meet the following minimum requirements:
 
-(1) *Response to parents, guardians, and migratory children.* (i) Within 30 calendar days of receipt of a data correction request from a parent, guardian, or migratory child, an SEA must -
+(1) *Response to parents, guardians, and migratory children.* (i) Within 30 calendar days of receipt of a data correction request from a parent, guardian, or migratory child, an SEA must—
 
 (A) Send a written or electronic acknowledgement to the requester;
 
@@ -70,18 +70,14 @@
 
 (3) *Response to the Department.* An SEA must respond in writing within ten working days to a request from the Department for information needed by the Department to respond to an individual's request to correct or amend a Consolidated Student Record under the Privacy Act of 1974, as amended, 5 U.S.C. 552a(d)(2) and 34 CFR 5b.7.
 
-(f) *MSIX data protection.* Each SEA that receives a grant of MEP funds must -
+(f) *MSIX data protection.* Each SEA that receives a grant of MEP funds must—
 
-(1) Enter into and carry out its responsibilities in accordance with an MSIX Interconnection Agreement, an MSIX Interconnection Security Agreement, and other information technology agreements required by the Secretary in accordance with applicable Federal requirements;
+(1) Enter into and carry out its responsibilities in accordance with an MSIX MOU, an MSIX Interconnection Security Agreement, and other information technology agreements required by the Secretary in accordance with applicable Federal requirements;
 
-(2) Establish and implement written procedures to protect the integrity, security, and confidentiality of Consolidated Student Records, whether in electronic or print format, through appropriate administrative, technical, and physical safeguards established in accordance with the MSIX Interconnection Agreement and MSIX Interconnection Security Agreement. An SEA's written procedures must include, at a minimum, reasonable methods to ensure that -
-
-(i) The SEA permits access to MSIX only by authorized users at the SEA, its local operating agencies, and LEAs in the State that are not local operating agencies but where a migratory child has enrolled; and
-
-(ii) The SEA's authorized users obtain access to and use MSIX records solely for authorized purposes as described in paragraph (c) of this section;
+(2) Establish and implement written procedures to protect the integrity, security, and confidentiality of Consolidated Student Records, whether in electronic or print format, through appropriate administrative, technical, and physical safeguards established in accordance with the MSIX MOU and MSIX Interconnection Security Agreement. An SEA's written procedures must include, at a minimum, reasonable methods to ensure that—
 
 (3) Require all authorized users to complete the User Application Form approved by the Secretary before providing them access to MSIX. An SEA may also develop its own documentation for approving user access to MSIX provided that it contains the same information as the User Application Form approved by the Secretary; and
 
 (4) Retain the documentation required for approving user access to MSIX for three years after the date the SEA terminates the user's access.
 
-(Authority:20 U.S.C. 6398).[81 FR 28970, May 10, 2016]Effective Date Note:At 81 FR 28970, May 10, 2016, § 200.85 was revised. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[81 FR 28970, May 10, 2016, as amended at 84 FR 31677, July 2, 2019]Effective Date Note:At 81 FR 28970, May 10, 2016, § 200.85 was revised. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

@@ -6,15 +6,25 @@
 
 (1) Part A of title I (Improving Basic Programs Operated by Local Educational Agencies).
 
-(2) Title II (Eisenhower Professional Development Program) (other than section 2103 and part C of this title).
+(2) Part D of title I (Prevention and Intervention Programs for Children and Youth Who Are Neglected, Delinquent, or At Risk).
 
-(3) Subpart 2 of part A of title III (State and Local Programs for School Technology Resources).
+(3) Part A of title II (Supporting Effective Instruction).
 
-(4) Part A of title IV (Safe and Drug-Free Schools and Communities) (other than section 4114).
+(4) Part A, subpart 1 of title III (English Language Acquisition, Language Enhancement, and Academic Achievement), except for section 3112.
+
+(5) Part A of title IV (Student Support and Academic Enrichment Grants).
+
+(6) Part B of title IV (21st Century Community Learning Centers).
+
+(7) Part B, subpart 2 of title V (Rural and Low-Income School Program).
+
+(8) Part A, subpart 1 of title VI (Indian Education Formula Grants to Local Educational Agencies).
 
 (c) *Meaning of “preceding fiscal year”.* For purposes of determining if the requirement of paragraph (a) of this section is met, the “preceding fiscal year” means the Federal fiscal year, or the 12-month fiscal period most commonly used in a State for official reporting purposes, prior to the beginning of the Federal fiscal year in which funds are available for obligation by the Department.
 
-Example:For fiscal year 1995 funds that are first made available on July 1, 1995, if a State is using the Federal fiscal year, the “preceding fiscal year” is Federal fiscal year 1994 (which began on October 1, 1993 and ended September 30, 1994) and the “second preceding fiscal year” is Federal fiscal year 1993 (which began on October 1, 1992). If a State is using a fiscal year that begins on July 1, 1995, the “preceding fiscal year” is the 12-month period ending on June 30, 1994, and the “second preceding fiscal year” is the period ending on June 30, 1993.
+(1) *Example.* For fiscal year 2018 funds that are first made available on July 1, 2018, if a State is using the Federal fiscal year, the “preceding fiscal year” is Federal fiscal year 2017 (which began on October 1, 2016 and ended September 30, 2017) and the “second preceding fiscal year” is Federal fiscal year 2016 (which began on October 1, 2015). If a State is using a fiscal year that begins on July 1, 2018, the “preceding fiscal year” is the 12-month period ending on June 30, 2017, and the “second preceding fiscal year” is the period ending on June 30, 2016.
+
+(2) [Reserved]
 
 (d) *Expenditures.* (1) In determining an LEA's compliance with paragraph (a) of this section, the SEA shall consider only the LEA's expenditures from State and local funds for free public education. These include expenditures for administration, instruction, attendance and health services, pupil transportation services, operation and maintenance of plant, fixed charges, and net expenditures to cover deficits for food services and student body activities.
 
@@ -24,4 +34,4 @@ Example:For fiscal year 1995 funds that are first made available on July 1, 1995
 
 (ii) Any expenditures made from funds provided by the Federal Government.
 
-(Authority: 20 U.S.C. 8891)
+[62 FR 28252, May 22, 1997, as amended at 84 FR 31678, July 2, 2019]

@@ -6,7 +6,7 @@
 
 (3) Except as provided in § 200.100(d), an SEA must apply the hold-harmless requirement separately for basic grants, concentration grants, targeted grants, and education finance incentive grants as described in paragraph (a)(4) of this section.
 
-(4) Under section 1122(c) of the ESEA, the hold-harmless percentage varies based on the LEA's proportion of formula children, as shown in the following table:
+(4) Under sections 1122(c) and 1125A(f)(3) of the ESEA, the hold-harmless percentage varies based on the LEA's proportion of formula children, as shown in the following table:
 
 |LEA's number of formula children ages 5 to 17, inclusive, as a percentage of its total population of children ages 5 to 17,  <br/>inclusive|Hold-harmless  <br/>percentage|                                 Applicable grant formulas                                  |
 |-------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|--------------------------------------------------------------------------------------------|
@@ -20,4 +20,6 @@
 
 (2) An LEA not meeting the eligibility requirements for a concentration grant under § 200.71 must be paid its hold-harmless amount for four consecutive years.
 
-(Authority: 20 U.S.C. 6332(c))[82 FR 31711, July 7, 2017]
+(e) *Hold-harmless protection for a newly opened or significantly expanded charter school LEA.* An SEA must calculate a hold-harmless base for the prior year for a newly opened or significantly expanded charter school LEA that, as applicable, reflects the new or significantly expanded enrollment of the charter school LEA.
+
+[82 FR 31711, July 7, 2017, as amended at 84 FR 31675, July 2, 2019]

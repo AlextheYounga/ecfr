@@ -1,5 +1,7 @@
 ##### § 10.75 Internal agency review of decisions. #####
 
+Link to an amendment published at 84 FR 31477, July 2, 2019.
+
 (a) A decision of an FDA employee, other than the Commissioner, on a matter, is subject to review by the employee's supervisor under the following circumstances:
 
 (1) At the request of the employee.
