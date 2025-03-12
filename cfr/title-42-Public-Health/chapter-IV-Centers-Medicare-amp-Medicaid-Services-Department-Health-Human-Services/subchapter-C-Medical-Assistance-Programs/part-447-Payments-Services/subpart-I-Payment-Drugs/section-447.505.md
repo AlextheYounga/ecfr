@@ -1,6 +1,6 @@
 ##### § 447.505 Determination of best price. #####
 
-Link to an amendment published at 85 FR 87102, Dec. 31, 2020.Link to an amendment published at 86 FR 64825, Nov. 19, 2021.
+Link to an amendment published at 85 FR 87102, Dec. 31, 2020.Link to an amendment published at 86 FR 64825, Nov. 19, 2021.Link to an amendment published at 86 FR 71583, Dec. 17, 2021.
 
 (a) *Definitions.* For the purpose of this section, the following definitions apply:
 
