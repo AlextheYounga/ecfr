@@ -1,7 +1,5 @@
 ##### § 285.5 Centralized offset of Federal payments to collect nontax debts owed to the United States. #####
 
-Link to an amendment published at 87 FR 50248, Aug. 16, 2022.
-
 (a) *Scope.* (1) This section governs the centralized offset of Federal payments to collect delinquent, nontax debts owed to Federal agencies in accordance with 31 U.S.C. 3716, 3720A and 26 U.S.C. 6402 and applicable regulations. The Department of the Treasury's Bureau of the Fiscal Service (Fiscal Service) administers centralized offset through the Treasury Offset Program. Offset occurs when the Federal government withholds part or all of a debtor's Federal payment to satisfy the debtor's delinquent debt owed to the government.
 
 (2) Special rules apply to the collection of delinquent, nontax debts through the centralized offset of certain types of Federal payments, including tax refunds (31 CFR 285.2), Federal benefit payments (31 CFR 285.4), and Federal salary payments (31 CFR 285.7). While this rule applies to such payments, nothing in this rule is intended to contradict any provision of those more specific sections. To the extent any provision of this rule is inconsistent with a more specific provision of § 285.2, § 285.4 or § 285.7 of this part, the more specific provision shall apply.
@@ -58,7 +56,7 @@ Link to an amendment published at 87 FR 50248, Aug. 16, 2022.
 
 (2) Disbursing officials shall compare payment records with delinquent debt records submitted to Fiscal Service for collection by offset. When a match occurs, and all other requirements for offset have been met, the disbursing official shall offset the payment to satisfy, in whole or part, the payee's debt to the extent allowed by law. The disbursing official shall pay any amounts not offset to the payee. See paragraphs (e), (f), (g), and (h) of this section.
 
-(d) *Requirements for creditor agencies* - (1) *Mandatory notification of delinquent debts.* As required by 31 U.S.C. 3716(c)(6), and in accordance with the provisions of this section, a creditor agency shall notify Fiscal Service of all legally enforceable debts over 120 days delinquent that are owed to the creditor agency. By complying with this requirement, creditor agencies will satisfy the requirement of 31 U.S.C. 3720A(a) to notify the Secretary of past due, legally enforceable debt for purposes of tax refund offset. If a debt which is over 120 days delinquent is considered not legally enforceable solely because it is under review as described in paragraph (d)(6)(ii)(C) of this section, the agency must submit the debt to Fiscal Service for collection by offset within 30 days of completing the review.
+(d) *Requirements for creditor agencies*—(1) *Mandatory notification of delinquent debts.* As required by 31 U.S.C. 3716(c)(6), and in accordance with the provisions of this section, a creditor agency shall notify Fiscal Service of all legally enforceable debts over 120 days delinquent that are owed to the creditor agency. By complying with this requirement, creditor agencies will satisfy the requirement of 31 U.S.C. 3720A(a) to notify the Secretary of past due, legally enforceable debt for purposes of tax refund offset. If a debt which is over 120 days delinquent is considered not legally enforceable solely because it is under review as described in paragraph (d)(6)(ii)(C) of this section, the agency must submit the debt to Fiscal Service for collection by offset within 30 days of completing the review.
 
 (2) *Discretionary notification of delinquent debts.* Creditor agencies may notify Fiscal Service of any debt that is less than 120 days delinquent, so long as the requirements of paragraph (d)(3) of this section are met.
 
@@ -136,7 +134,7 @@ Link to an amendment published at 87 FR 50248, Aug. 16, 2022.
 
 (iii) The creditor agency may update delinquent debt records to reflect any increases in the amount of the debt submitted to Fiscal Service for collection by offset provided that the creditor agency has complied with the requirements of paragraph (d)(6) of this section with regard to the increased amounts.
 
-(iv) The creditor agency shall notify Fiscal Service immediately of any change in the status of the legal enforceability of the debt - for example, if the creditor agency receives notice that the debtor has filed for bankruptcy protection.
+(iv) The creditor agency shall notify Fiscal Service immediately of any change in the status of the legal enforceability of the debt—for example, if the creditor agency receives notice that the debtor has filed for bankruptcy protection.
 
 (v) The creditor agency shall notify Fiscal Service if it has returned any monies to the debtor/payee.
 
@@ -146,7 +144,7 @@ Link to an amendment published at 87 FR 50248, Aug. 16, 2022.
 
 (13) *Duplication of notices not required.* Nothing in this section requires any creditor agency to duplicate any notice or opportunity for hearing or review provided to the debtor prior to offset.
 
-(e) *Payments made by the United States* - (1) *Payments eligible for offset.* Except as set forth in paragraph (e)(2) of this section, all Federal payments are eligible for offset under this section. Eligible Federal payments include, but are not limited to, Federal wage, salary, and retirement payments, vendor and expense reimbursement payments, certain benefit payments, travel advances and reimbursements, grants, fees, refunds, judgments (including those certified for payment pursuant to 31 U.S.C. 1304), tax refunds, and other payments made by Federal agencies.
+(e) *Payments made by the United States*—(1) *Payments eligible for offset.* Except as set forth in paragraph (e)(2) of this section, all Federal payments are eligible for offset under this section. Eligible Federal payments include, but are not limited to, Federal wage, salary, and retirement payments, vendor and expense reimbursement payments, certain benefit payments, travel advances and reimbursements, grants, fees, refunds, judgments (including those certified for payment pursuant to 31 U.S.C. 1304), tax refunds, and other payments made by Federal agencies.
 
 (2) *Payments excluded from offset under this section.* This section does not apply to the following payments:
 
@@ -188,7 +186,7 @@ Link to an amendment published at 87 FR 50248, Aug. 16, 2022.
 
 (C) the debtor has properly assigned the right to such payments and the debt arose after the effective date of the assignment.
 
-(7) *Payment agency requests for exemptions from centralized offset pursuant to 31 U.S.C. 3716(c)(3)(B)* - (i) *Means-tested payments.* The Secretary will exempt from centralized offset payments made under means-tested programs when requested by the head of the agency making such payments. For purposes of this section “means-tested programs” are those which base eligibility on a determination that the income and/or assets of the beneficiary are inadequate to provide the beneficiary with an adequate standard of living without program assistance.
+(7) *Payment agency requests for exemptions from centralized offset pursuant to 31 U.S.C. 3716(c)(3)(B)*—(i) *Means-tested payments.* The Secretary will exempt from centralized offset payments made under means-tested programs when requested by the head of the agency making such payments. For purposes of this section “means-tested programs” are those which base eligibility on a determination that the income and/or assets of the beneficiary are inadequate to provide the beneficiary with an adequate standard of living without program assistance.
 
 (ii) *Payments made under programs which are not means-tested.* Upon written request from the payment agency, the Secretary may exempt classes of payments which are not means-tested. Payment agencies may request that the Secretary exempt 100% of each payment in a payment class or that the Secretary exempt a specific lesser percentage. The Secretary will consider such requests under standards prescribed by the Secretary and published on the Fiscal Service Web site. *See www.fiscal.treasury.gov/debt.*
 
@@ -202,7 +200,7 @@ Link to an amendment published at 87 FR 50248, Aug. 16, 2022.
 
 (9) *Payment and disbursing officials have satisfied the obligation underlying the payment.* When an offset occurs, the debtor has received payment in full for the underlying obligation represented by the payment. Pursuant to 31 U.S.C. 3716(c)(2)(A), neither the disbursing official nor the payment agency shall be liable for the amount of the offset on the basis that the underlying obligation was not satisfied. For example, if an agency certifies a payment to a Federal contractor for work completed or services provided, and that payment is offset to collect a delinquent debt that the contractor owes to another Federal agency, the contractor has been paid in full for its services. When the creditor agency credits the offset amount to the contractor's delinquent debt, the contractor has received full value for the services performed under the contract.
 
-(f) *Offset* - (1) *When offset occurs.* When a match occurs and all other requirements for offset under 31 U.S.C. 3716(c), 3720A, and applicable regulations have been met, the disbursing official shall offset the payee's Federal payment to satisfy, in whole or part, the debt owed by the debtor. Offsets will continue until the debt, including any interest, penalties, and administrative costs, is paid in full or otherwise resolved to the satisfaction of the creditor agency.
+(f) *Offset*—(1) *When offset occurs.* When a match occurs and all other requirements for offset under 31 U.S.C. 3716(c), 3720A, and applicable regulations have been met, the disbursing official shall offset the payee's Federal payment to satisfy, in whole or part, the debt owed by the debtor. Offsets will continue until the debt, including any interest, penalties, and administrative costs, is paid in full or otherwise resolved to the satisfaction of the creditor agency.
 
 (2) *Offset amount.* (i) Except as otherwise provided in 31 CFR 285.4(e) and 285.7(g) (addressing centralized offset of certain Federal benefit payments and salary payments, respectively), the disbursing official shall offset the lesser of:
 
@@ -224,7 +222,7 @@ Link to an amendment published at 87 FR 50248, Aug. 16, 2022.
 
 (C) Third, to any debts owed to States for debts other than past-due support (see §§ 285.6 and 285.8 of this part).
 
-(g) *Notices* - (1) *Warning notice by disbursing official to payee/debtor.* Before offsetting a recurring payment, the disbursing official, or Fiscal Service on behalf of the disbursing official, will notify the payee in writing when offsets will begin (which may be stated as a number of days or number of payments from the time of the notice) and the anticipated amount of such offset (which may be stated as a percentage of the payment). Such notice shall also provide the information contained in paragraph (g)(3) of this section. Failure to send such notice does not affect the validity of the offset.
+(g) *Notices*—(1) *Warning notice by disbursing official to payee/debtor.* Before offsetting a recurring payment, the disbursing official, or Fiscal Service on behalf of the disbursing official, will notify the payee in writing when offsets will begin (which may be stated as a number of days or number of payments from the time of the notice) and the anticipated amount of such offset (which may be stated as a percentage of the payment). Such notice shall also provide the information contained in paragraph (g)(3) of this section. Failure to send such notice does not affect the validity of the offset.
 
 (2) *No additional warning notice when collections are suspended and resumed.* As described in paragraph (f)(3)(iii) of this section, Fiscal Service may suspend or reduce the application of collections from a recurring payment for one debt when another debt, which is owed by the same debtor and has a higher legal priority, is submitted to Fiscal Service for collection. The disbursing official is not required to send additional warning notices when collections for the lower priority debt resume; however, pursuant to paragraph (g)(3) of this section, each offset will be accompanied by an offset notice, which explains how the offset amounts were applied.
 
@@ -252,4 +250,14 @@ Link to an amendment published at 87 FR 50248, Aug. 16, 2022.
 
 (k) *Waiver of certain provisions under the Computer Matching Privacy and Protection Act of 1988.* As authorized by 31 U.S.C. 3716(f), Fiscal Service, under a delegation of authority from the Secretary, has waived certain requirements of the Computer Matching and Privacy Protection Act of 1988, Pub. L. No. 100-503, as amended, for matches between delinquent debt records and payment records for offset purposes upon written certification by the head of the creditor agency that the requirements of 31 U.S.C. 3716(a) have been met. Specifically, for administrative offset of Federal payments other than tax refunds, Fiscal Service has waived the requirements for a computer matching agreement contained in 5 U.S.C. 552a(o) and for post-match notice and verification contained in 5 U.S.C. 552a(p) so long as the creditor agency provides certification to Fiscal Service in accordance with the provisions of paragraph (d)(6) of this section. Such waiver is not necessary for offset of Federal tax refunds, pursuant to 5 U.S.C. 552a(a)(8)(B). The Data Integrity Board of the Department of the Treasury shall review and include in reports under 5 U.S.C. 552a(u)(3)(D) a description of the matching activities conducted for centralized offset under this section. No other Data Integrity Board is required to take any action under 5 U.S.C. 552a(u) concerning these computerized comparisons.
 
-[67 FR 78942, Dec. 26, 2002, as amended at 70 FR 7135, Jan. 21, 2005; 74 FR 27433, June 10, 2009; 74 FR 27708, June 11, 2009; 81 FR 1319, Jan. 12, 2016]
+(l) *Social Security numbers.* Fiscal Service will ensure that an individual's Social Security number will not be visible on the outside of any package it sends by mail. In addition, Fiscal Service generally will redact or partially redact Social Security numbers in documents it sends by mail; however, to administer the Treasury Offset Program, Fiscal Service (and other disbursing officials) may include Social Security numbers in mailed documents, including, for example:
+
+(1) In interoffice and interagency communications;
+
+(2) In notices, including notices to the debtor or payee that an offset has or will occur, when the Social Security number is (or is embedded in) a creditor agency's account number, debt identification number, or debtor identification number;
+
+(3) In response to a request of a debtor or a debtor's representative for records of Fiscal Service's offset activities; and
+
+(4) When required by law.
+
+[67 FR 78942, Dec. 26, 2002, as amended at 70 FR 7135, Jan. 21, 2005; 74 FR 27433, June 10, 2009; 74 FR 27708, June 11, 2009; 81 FR 1319, Jan. 12, 2016; 87 FR 50248, Aug. 16, 2022]

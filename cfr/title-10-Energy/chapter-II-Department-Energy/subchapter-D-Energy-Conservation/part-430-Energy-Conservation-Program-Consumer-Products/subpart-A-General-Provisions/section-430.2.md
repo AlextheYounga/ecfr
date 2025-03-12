@@ -1,6 +1,6 @@
 ##### § 430.2 Definitions. #####
 
-Link to an amendment published at 87 FR 50423, Aug. 16, 2022.Link to an amendment published at 87 FR 51220, Aug. 19, 2022.Link to an amendment published at 87 FR 51537, Aug. 22, 2022.Link to an amendment published at 87 FR 53639, Aug. 31, 2022.Link to an amendment published at 87 FR 54346, Sept. 6, 2022.Link to an amendment published at 87 FR 54129, Sept. 2, 2022.
+Link to an amendment published at 87 FR 51220, Aug. 19, 2022.Link to an amendment published at 87 FR 51537, Aug. 22, 2022.Link to an amendment published at 87 FR 53639, Aug. 31, 2022.Link to an amendment published at 87 FR 54346, Sept. 6, 2022.Link to an amendment published at 87 FR 54129, Sept. 2, 2022.
 
 For purposes of this part, words shall be defined as provided for in section 321 of the Act and as follows -
 
@@ -156,7 +156,11 @@ For purposes of this part, words shall be defined as provided for in section 321
 
 *Ceiling electric heater* means an electric heater which is intended to be recessed in, surface mounted on, or hung from a ceiling, and which transfers heat by radiation and/or convection (either natural or forced).
 
-*Ceiling fan* means a nonportable device that is suspended from a ceiling for circulating air via the rotation of fan blades. For all other ceiling fan-related definitions, see appendix U to this subpart.
+*Ceiling fan* means a nonportable device that is suspended from a ceiling for circulating air via the rotation of fan blades. For the purpose of this definition:
+
+(1) Circulating air means the discharge of air in an upward or downward direction. A ceiling fan that has a ratio of fan blade span (in inches) to maximum rotation rate (in revolutions per minute) greater than 0.06 provides circulating air.
+
+(2) For all other ceiling fan related definitions, see appendix U to this subpart.
 
 *Ceiling fan light kit* means equipment designed to provide light from a ceiling fan that can be -
 

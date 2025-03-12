@@ -1,6 +1,6 @@
 ##### § 429.134 Product-specific enforcement provisions. #####
 
-Link to an amendment published at 87 FR 50423, Aug. 16, 2022.Link to an amendment published at 87 FR 55122, Sept. 8, 2022.
+Link to an amendment published at 87 FR 55122, Sept. 8, 2022.
 
 (a) *General.* The following provisions apply to assessment and enforcement testing of the relevant products and equipment.
 
@@ -311,4 +311,28 @@ Table 1 of § 429.134 - Allowable Percentage Deviation From the Certified Full-L
 
 (2) [Reserved]
 
-[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020; 86 FR 56820, Oct. 12, 2021; 87 FR 33379, June 1, 2022; 87 FR 45197, July 27, 2022]
+(t) *Ceiling Fans* - (1) *Verification of blade span.* DOE will measure the blade span and round the measurement pursuant to the test requirements of 10 CFR part 430 of this chapter for each unit tested. DOE will consider the represented blade span valid only if the rounded measurement(s) (either the rounded measured value for a single unit, or the mean of the rounded measured values for a multiple unit sample, rounded to the nearest inch) is the same as the represented blade span.
+
+(i) If DOE determines that the represented blade span is valid, that blade span will be used as the basis for determining the product class and calculating the minimum allowable ceiling fan efficiency.
+
+(ii) If DOE determines that the represented blade span is invalid, DOE will use the rounded measured blade span(s) as the basis for determining the product class, and calculating the minimum allowable ceiling fan efficiency.
+
+(2) *Verification of the distance between the ceiling and lowest point of fan blades.* DOE will measure the distance between the ceiling and lowest point of the fan blades and round the measurement pursuant to the test requirements of 10 CFR part 430 of this chapter for each unit tested. DOE will consider the represented distance valid only if the rounded measurement(s) (either the measured value for a single unit, or the mean of the measured values for a multiple unit sample, rounded to the nearest quarter inch) are the same as the represented distance.
+
+(i) If DOE determines that the represented distance is valid, that distance will be used as the basis for determining the product class.
+
+(ii) If DOE determines that the represented distance is invalid, DOE will use the rounded measured distance(s) as the basis for determining the product class.
+
+(3) *Verification of blade revolutions per minute (RPM) measured at high speed.* DOE will measure the blade RPM at high speed pursuant to the test requirements of 10 CFR part 430 of this chapter for each unit tested. DOE will consider the represented blade RPM measured at high speed valid only if the measurement(s) (either the measured value for a single unit, or the mean of the measured values for a multiple unit sample, rounded to the nearest RPM) are within 2 percent of the represented blade RPM at high speed.
+
+(i) If DOE determines that the represented RPM is valid, that RPM will be used as the basis for determining the product class.
+
+(ii) If DOE determines that the represented RPM is invalid, DOE will use the rounded measured RPM(s) as the basis for determining the product class.
+
+(4) *Verification of blade edge thickness.* DOE will measure the blade edge thickness and round the measurement pursuant to the test requirements of 10 CFR part 430 for each unit tested. DOE will consider the represented blade edge thickness valid only if the measurement(s) (either the measured value for a single unit, or the mean of the measured values for a multiple unit sample, rounded to the nearest 0.01 inch) are the same as the represented blade edge thickness.
+
+(i) If DOE determines that the represented blade edge thickness is valid, that blade edge thickness will be used for determining product class.
+
+(ii) If DOE determines that the represented blade edge thickness is invalid, DOE will use the rounded measured blade edge thickness(es) as the basis for determining the product class.
+
+[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020; 86 FR 56820, Oct. 12, 2021; 87 FR 33379, June 1, 2022; 87 FR 45197, July 27, 2022; 87 FR 50423, Aug. 16, 2022]

@@ -1,6 +1,6 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-Link to an amendment published at 87 FR 50424, Aug. 16, 2022.Link to a correction published at 87 FR 52433, Aug. 26, 2022.Link to an amendment published at 87 FR 51537, Aug. 22, 2022.Link to an amendment published at 87 FR 53640, Aug. 31, 2022.Link to an amendment published at 87 FR 55122, Sept. 8, 2022.
+Link to an amendment published at 87 FR 51537, Aug. 22, 2022.Link to an amendment published at 87 FR 53640, Aug. 31, 2022.Link to an amendment published at 87 FR 55122, Sept. 8, 2022.
 
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the U.S. Department of Energy (DOE) must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at the DOE and at the National Archives and Records Administration (NARA). Contact DOE at: The U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-9127, *Buildings@ee.doe.gov, https://www.energy.gov/eere/buildings/appliance-and-equipment-standards-program.* For information on the availability of this material at NARA, email: *fr.inspection@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.* The material may be obtained from the sources in the following paragraphs of this section.
 
@@ -16,23 +16,9 @@ Link to an amendment published at 87 FR 50424, Aug. 16, 2022.Link to a correctio
 
 (ii) Figure 12 - Outlet Chamber Setup - Multiple Nozzles in Chamber.
 
-(4) ANSI/AMCA Standard 230-15 (“AMCA 230-15”), “Laboratory Methods of Testing Air Circulating Fans for Rating and Certification,” ANSI approved October 16, 2015, IBR approved for appendix U to this subpart, as follows:
+(4) ANSI/AMCA Standard 230-15 (“AMCA 230-15”), *Laboratory Methods of Testing Air Circulating Fans for Rating and Certification,* ANSI-approved October 16, 2015; IBR approved for appendix U of subpart B.
 
-(i) Section 3 - Units of Measurement;
-
-(ii) Section 4 - Symbols and Subscripts; (including Table 1 - Symbols and Subscripts);
-
-(iii) Section 5 - Definitions (except 5.1);
-
-(iv) Section 6 - Instruments and Section Methods of Measurement;
-
-(v) Section 7 - Equipment and Setups (except the last 2 bulleted items in 7.1 - Allowable test setups);
-
-(vi) Section 8 - Observations and Conduct of Test;
-
-(vii) Section 9 - Calculations (except 9.5); and
-
-(viii) Test Figure 1 - Vertical Airflow Setup with Load Cell (Ceiling Fans).
+(5) AMCA 230-15 Technical Errata 2021-05-05 (“AMCA 260-15 TE), *Technical Errata Sheet for ANSI/AMCA Standard 230-15: Density Corrections,* dated May 5, 2021; IBR approved for appendix U of subpart B.
 
 (c) *AHRI.* Air-Conditioning, Heating, and Refrigeration Institute, 2111 Wilson Blvd, Suite 500, Arlington, VA 22201, 703-524-8800, or go to *http://www.ahrinet.org.*
 
@@ -324,7 +310,7 @@ The standards referenced in paragraphs (e)(6), (8), (11), (15), (16), (18), (19)
 
 (2) [Reserved]
 
-(p) *IEC.* International Electrotechnical Commission, available from the American National Standards Institute, 25 W. 43rd Street, 4th Floor, New York, NY 10036, (212) 642-4900, or go to *http://webstore.ansi.org.*
+(p) *IEC.* International Electrotechnical Commission, 3 Rue de Varembe, Case Postale 131, 1211 Geneva 20, Switzerland; *https://webstore.iec.ch/.*
 
 (1) IEC Standard 933-5:1992, (“IEC 60933-5 Ed. 1.0”), *Audio, video and audiovisual systems - Interconnections and matching values - Part 5: Y/C connector for video systems - Electrical matching values and description of the connector,* First Edition, 1992-12; IBR approved for § 430.2. (Note: IEC 933-5 is also known as IEC 60933-5.)
 
@@ -354,23 +340,17 @@ The standards referenced in paragraphs (e)(6), (8), (11), (15), (16), (18), (19)
 
 (5) International Electrotechnical Commission (IEC) Standard 62301 (“IEC 62301”), *Household electrical appliances - Measurement of standby power* (first edition, June 2005), IBR approved for appendix I to subpart B.
 
-(6) IEC 62301 (“IEC 62301”), *Household electrical appliances - Measurement of standby power,* (Edition 2.0, 2011-01), IBR approved for appendices C1, D1, D2, F, G, H, I, J2, N, O, P, Q, X, X1, Y, Z, BB, and CC to subpart B.
+(6) IEC 62301 (“IEC 62301”), *Household electrical appliances - Measurement of standby power,* (Edition 2.0, 2011-01), IBR approved for appendices C1, D1, D2, F, G, H, I, J2, N, O, P, Q, U, X, X1, Y, Z, BB, and CC to subpart B.
 
 (7) IEC 62301, (“IEC 62301-DD”), Household electrical appliances - Measurement of standby power, (Edition 2.0, 2011-01); Section 5 - Measurements, IBR approved for appendix DD to subpart B.
 
-(8) IEC 62301 (“IEC 62301-U”), Household electrical appliances - Measurement of standby power, (Edition 2.0, 2011-01), IBR approved for appendix U to this subpart, as follows:
-
-(i) Section 4.3 - General conditions for measurements: Power supply: Section 4.3.1 - Supply voltage and frequency (first paragraph only),
-
-(ii) Section 4.3 - General conditions for measurements: Power supply: Section 4.3.2 - Supply voltage waveform;
-
-(iii) Section 4.4 - General conditions for measurements: Power measuring instruments;
-
-(iv) Section 5.3 - Measurements: Procedure: Section 5.3.1 - General (except the last bulleted item), and
-
-(v) Section 5.3 - Measurements: Procedure: Section 5.3.2 - Sampling method (first two paragraphs and Note 1).
+(8) [Reserved]
 
 (9) IEC 62301, (“IEC 62301-W”), Household electrical appliances - Measurement of standby power, (Edition 2.0, 2011-01), Section 5 - Measurements, IBR approved for appendix W to subpart B.
+
+Note 1 to paragraph (p):
+
+The standards referenced in paragraphs (p)(1) through (9) are also available from ANSI. See paragraph (e) of this section.
 
 (q) *IESNA.* Illuminating Engineering Society of North America, 120 Wall Street, Floor 17, New York, NY 10005-4001, 212-248-5000, or go to *http://www.iesna.org.*
 

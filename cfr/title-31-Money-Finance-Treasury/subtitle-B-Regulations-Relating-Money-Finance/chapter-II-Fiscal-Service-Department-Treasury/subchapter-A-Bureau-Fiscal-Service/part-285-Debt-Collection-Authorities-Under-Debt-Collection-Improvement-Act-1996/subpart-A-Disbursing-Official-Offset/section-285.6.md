@@ -1,7 +1,5 @@
 ##### § 285.6 Administrative offset under reciprocal agreements with states. #####
 
-Link to an amendment published at 87 FR 50248, Aug. 16, 2022.
-
 (a) *Scope.* (1) This section sets forth the rules that apply to the administrative offset of Federal nontax payments to collect delinquent debts owed to States. As set forth in 31 U.S.C. 3716(h), States may participate in administrative offset so long as they meet certain requirements, including entering into reciprocal agreements with the Secretary of the Treasury. Such reciprocal agreements may contain any requirements that the Secretary considers appropriate to facilitate offset. Participation in offset under this section is voluntary for both Fiscal Service and the States. This section prescribes the minimum requirements for such reciprocal agreements, including provisions applicable to the offset of State payments, pursuant to State law, to collect delinquent Federal debts. Such offsets are defined in this section as “State payment offsets.”
 
 (2) This section does not apply to the offset of Federal salary payments, Federal tax refunds (see 31 CFR 285.8), or the collection of past-due support debts (see 31 CFR 285.1 and 285.3).
@@ -36,13 +34,13 @@ Link to an amendment published at 87 FR 50248, Aug. 16, 2022.
 
 (3) A duly executed reciprocal agreement is required before a State may request an administrative offset pursuant to 31 U.S.C. 3716(h).
 
-(e) *Requirements for submitting State debts for administrative offset* - (1) *Debt eligibility.* A State debt submitted to Fiscal Service for collection by administrative offset must meet the debt eligibility requirements of 31 CFR 285.5(d)(3)(i).
+(e) *Requirements for submitting State debts for administrative offset*—(1) *Debt eligibility.* A State debt submitted to Fiscal Service for collection by administrative offset must meet the debt eligibility requirements of 31 CFR 285.5(d)(3)(i).
 
 (2) *Certification.* At the time a participating State notifies Fiscal Service of a State debt for purposes of collection by administrative offset under this section, the State shall comply with the certification requirements set forth in paragraph 31 CFR 285.5(d)(6) with the following two exceptions:
 
-(i) Paragraph (d)(6)(ii)(E) - Federal salary offset; and
+(i) Paragraph (d)(6)(ii)(E)—Federal salary offset; and
 
-(ii) Paragraph (d)(6)(iii) - Federal requirements for the assessment of interest and penalties to Federal debts. Additionally, with respect to paragraph (d)(6)(ii) of § 285.5, States shall only be required to certify that they have complied with the requirements of 31 U.S.C. 3716 (not 31 U.S.C. 3720A or 26 U.S.C. 6402) and this section 285.6. States shall also certify that they have complied with any requirements imposed by State law or procedure that may be applicable to administrative offset.
+(ii) Paragraph (d)(6)(iii)—Federal requirements for the assessment of interest and penalties to Federal debts. Additionally, with respect to paragraph (d)(6)(ii) of § 285.5, States shall only be required to certify that they have complied with the requirements of 31 U.S.C. 3716 (not 31 U.S.C. 3720A or 26 U.S.C. 6402) and this section 285.6. States shall also certify that they have complied with any requirements imposed by State law or procedure that may be applicable to administrative offset.
 
 (f) *State debts submitted to Fiscal Service for tax refund offset.* A State shall be deemed to have complied with the requirements of paragraph (e)(2) of this section with respect to any State debt that the State certified to Treasury for collection pursuant to § 285.8 of this part.
 
@@ -90,4 +88,14 @@ Link to an amendment published at 87 FR 50248, Aug. 16, 2022.
 
 (m) *Fees.* Fiscal Service shall deduct a fee from each administrative offset and State payment offset amount before transferring the balance of the offset funds to the State or Federal agency owed the debt. Pursuant to 31 U.S.C. 3716(c)(4), the fee will be in an amount that Fiscal Service has determined to be sufficient to reimburse Fiscal Service for the full cost of the offset procedure. Fiscal Service will notify the States and creditor agencies, annually and in advance, of the amount of the fee Fiscal Service will charge for each offset.
 
-[72 FR 1286, Jan. 11, 2007, as amended at 74 FR 56721, Nov. 3, 2009]
+(n) *Social Security numbers.* Fiscal Service will ensure that an individual's Social Security number will not be visible on the outside of any package it sends by mail. In addition, Fiscal Service generally will redact or partially redact Social Security numbers in documents it sends by mail; however, to administer administrative offset, Fiscal Service (and other disbursing officials) may include Social Security numbers in mailed documents, including, for example:
+
+(1) In interoffice and interagency communications;
+
+(2) In notices, including notices to the debtor or payee that an offset has or will occur, when the Social Security number is (or is embedded in) a creditor agency's account number, debt identification number, or debtor identification number;
+
+(3) In response to a request of a debtor or a debtor's representative for records of Fiscal Service's offset activities; and
+
+(4) When required by law.
+
+[72 FR 1286, Jan. 11, 2007, as amended at 74 FR 56721, Nov. 3, 2009; 87 FR 50248, Aug. 16, 2022]

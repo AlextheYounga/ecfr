@@ -1,7 +1,5 @@
 ##### § 285.3 Offset of tax refund payments to collect past-due support. #####
 
-Link to an amendment published at 87 FR 50248, Aug. 16, 2022.
-
 (a) *Definitions.* For purposes of this section:
 
 *Debt* as used in this section is synonymous with the term past-due support unless otherwise indicated.
@@ -26,7 +24,7 @@ Link to an amendment published at 87 FR 50248, Aug. 16, 2022.
 
 (2) Fiscal Service will compare tax refund payment records, as certified by the IRS, with records of debts submitted to Fiscal Service. A match will occur when the taxpayer identifying number (as that term is used in 26 U.S.C. 6109) and name of a payment certification record are the same as the taxpayer identifying number and name of a delinquent debtor record. When a match occurs and all other requirements for tax refund offset have been met, Fiscal Service will reduce the amount of any tax refund payment payable to a debtor by the amount of any past-due support debt owed by the debtor. Any amounts not offset will be paid to the payee(s) listed in the payment certification record.
 
-(c) *Notification of past-due support* - (1) *Past-due support eligible for tax refund offset.* Past-due support qualifies for tax refund offset if:
+(c) *Notification of past-due support*—(1) *Past-due support eligible for tax refund offset.* Past-due support qualifies for tax refund offset if:
 
 (i)(A) There has been an assignment of the support obligation to a State and the amount of past-due support is not less than $25.00, or such higher amount as HHS rules may allow, whichever is greater; or
 
@@ -90,4 +88,14 @@ Link to an amendment published at 87 FR 50248, Aug. 16, 2022.
 
 (l) *Effective date.* This section applies to tax refund payments payable under 26 U.S.C. 6402 after January 1, 1999.
 
-[63 FR 72094, Dec. 30, 1998, as amended at 72 FR 59480, Oct. 22, 2007; 74 FR 27433, June 10, 2009; 80 FR 81465, Dec. 30, 2015]
+(m) *Social Security numbers.* Fiscal Service will ensure that an individual's Social Security number will not be visible on the outside of any package it sends by mail. In addition, Fiscal Service generally will redact or partially redact Social Security numbers in documents it sends by mail; however, to administer the tax refund offset program, Fiscal Service (and other disbursing officials) may include Social Security numbers in mailed documents, including, for example:
+
+(1) In interoffice and interagency communications;
+
+(2) In notices, including notices to the debtor or payee that an offset has or will occur, when the Social Security number is (or is embedded in) a creditor agency's account number, debt identification number, or debtor identification number;
+
+(3) In response to a request of a debtor or a debtor's representative for records of Fiscal Service's offset activities; and
+
+(4) When required by law.
+
+[63 FR 72094, Dec. 30, 1998, as amended at 72 FR 59480, Oct. 22, 2007; 74 FR 27433, June 10, 2009; 80 FR 81465, Dec. 30, 2015; 87 FR 50248, Aug. 16, 2022]

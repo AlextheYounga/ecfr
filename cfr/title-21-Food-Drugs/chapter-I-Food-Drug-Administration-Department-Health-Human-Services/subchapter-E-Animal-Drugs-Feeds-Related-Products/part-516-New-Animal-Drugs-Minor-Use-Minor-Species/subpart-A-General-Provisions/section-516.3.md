@@ -1,5 +1,7 @@
 ##### § 516.3 Definitions. #####
 
+Link to an amendment published at 87 FR 56589, Sept. 15, 2022.
+
 (a) The definitions and interpretations contained in section 201 of the Federal Food, Drug, and Cosmetic Act (the act) (21 U.S.C. 321) apply to those terms when used in this part.
 
 (b) The following definitions of terms apply to all subparts of part 516:

@@ -1,7 +1,5 @@
 ##### § 285.8 Offset of tax refund payments to collect certain debts owed to States. #####
 
-Link to an amendment published at 87 FR 50248, Aug. 16, 2022.
-
 (a) *Definitions.* For purposes of this section:
 
 *Debt* means past-due, legally enforceable State income tax obligation or unemployment compensation debt unless otherwise indicated.
@@ -28,7 +26,7 @@ Link to an amendment published at 87 FR 50248, Aug. 16, 2022.
 
 *Tax refund payment* means any overpayment of Federal taxes to be refunded to the person making the overpayment after the IRS makes the appropriate credits as provided in 26 U.S.C. 6402(a) and 26 CFR 6402-3(a)(6)(i) for any liabilities for any Federal tax on the part of the person who made the overpayment.
 
-*Unemployment compensation debt* has the same meaning as the term “covered unemployment debt” as defined in 26 U.S.C. 6402(f)(4), and means -
+*Unemployment compensation debt* has the same meaning as the term “covered unemployment debt” as defined in 26 U.S.C. 6402(f)(4), and means—
 
 (1) A past-due debt for erroneous payment of unemployment compensation due to fraud or the person's failure to report earnings which has become final under the law of a State certified by the Secretary of Labor pursuant to 26 U.S.C. 3304 and which remains uncollected;
 
@@ -42,7 +40,7 @@ Link to an amendment published at 87 FR 50248, Aug. 16, 2022.
 
 (3) Fiscal Service will only offset a tax refund payment for a State income tax obligation if the address shown on the Federal tax return for the taxable year of the overpayment is an address within the State seeking the offset.
 
-(c) *Notification of past-due, legally enforceable State income tax obligations or unemployment compensation debts* - (1) *Notification.* States shall notify Fiscal Service of debts in the manner and format prescribed by Fiscal Service. The notification of liability must be accompanied by a certification that the debt is past due and legally enforceable and that the State has complied with the requirements contained in paragraph (c)(3) of this section and with all Federal or State requirements applicable to the collection of debts under this section. With respect to State income tax obligations only, the certification must specifically state that none of the debts submitted for collection by offset are debts owed by an individual who has claimed immunity from State taxation by reason of being an enrolled member of an Indian tribe who lives on a reservation and derives all of his or her income from that reservation unless such claim has been adjudicated de novo on its merits in accordance with paragraph (c)(3). Fiscal Service may reject a notification that does not comply with the requirements of this section. Upon notification of the rejection and the reason for rejection, the State may resubmit a corrected notification.
+(c) *Notification of past-due, legally enforceable State income tax obligations or unemployment compensation debts*—(1) *Notification.* States shall notify Fiscal Service of debts in the manner and format prescribed by Fiscal Service. The notification of liability must be accompanied by a certification that the debt is past due and legally enforceable and that the State has complied with the requirements contained in paragraph (c)(3) of this section and with all Federal or State requirements applicable to the collection of debts under this section. With respect to State income tax obligations only, the certification must specifically state that none of the debts submitted for collection by offset are debts owed by an individual who has claimed immunity from State taxation by reason of being an enrolled member of an Indian tribe who lives on a reservation and derives all of his or her income from that reservation unless such claim has been adjudicated de novo on its merits in accordance with paragraph (c)(3). Fiscal Service may reject a notification that does not comply with the requirements of this section. Upon notification of the rejection and the reason for rejection, the State may resubmit a corrected notification.
 
 (2) Minimum amount of past-due, legally enforceable State income tax obligations that may be submitted. Fiscal Service only will accept notification of past-due, legally enforceable State income tax obligations of $25 or more or such higher amounts as determined by Fiscal Service. States will be notified annually of any changes in the minimum debt amount.
 
@@ -84,4 +82,14 @@ Link to an amendment published at 87 FR 50248, Aug. 16, 2022.
 
 (j) *Access to and use of confidential tax information.* Access to and use of confidential tax information in connection with the tax refund offset program is permitted to the extent necessary in establishing appropriate agency records, locating any person with respect to whom a reduction under 26 U.S.C. 6402(e) or (f) is sought for purposes of collecting the debt, and in the defense of any litigation or administrative procedure ensuing from a reduction made under section 6402(e) or (f).
 
-[64 FR 71231, Dec. 20, 1999, as amended at 74 FR 27433, June 10, 2009; 76 FR 5071, Jan. 28, 2011]
+(k) *Social Security numbers.* Fiscal Service will ensure that an individual's Social Security number will not be visible on the outside of any package it sends by mail. In addition, Fiscal Service generally will redact or partially redact Social Security numbers in documents it sends by mail; however, to administer the tax refund offset program, Fiscal Service (and other disbursing officials) may include Social Security numbers in mailed documents, including, for example:
+
+(1) In interoffice and interagency communications;
+
+(2) In notices, including notices to the debtor or payee that an offset has or will occur, when the Social Security number is (or is embedded in) a creditor agency's account number, debt identification number, or debtor identification number;
+
+(3) In response to a request of a debtor or a debtor's representative for records of Fiscal Service's offset activities; and
+
+(4) When required by law.
+
+[64 FR 71231, Dec. 20, 1999, as amended at 74 FR 27433, June 10, 2009; 76 FR 5071, Jan. 28, 2011; 87 FR 50248, Aug. 16, 2022]
