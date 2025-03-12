@@ -1,5 +1,7 @@
 ##### § 668.90 Authority and responsibilities of the hearing official. #####
 
+This amendment was delayed until further notice at 82 FR 27621, June 16, 2017
+
 (a) The hearing official regulates the course of a hearing and the conduct of the parties during the hearing. The hearing official takes all necessary steps to conduct a fair and impartial hearing.
 
 (b)(1) The hearing official is not authorized to issue subpoenas.

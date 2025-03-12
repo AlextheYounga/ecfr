@@ -1,6 +1,6 @@
 ##### § 682.410 Fiscal, administrative, and enforcement requirements. #####
 
-Link to an amendment published at 81 FR 76080, Nov. 1, 2016.
+Link to an amendment published at 81 FR 76080, Nov. 1, 2016.This amendment was delayed indefinitely at 82 FR 27621, June 16, 2017.
 
 (a) *Fiscal requirements* - (1) *Reserve fund assets.* A guaranty agency shall establish and maintain a reserve fund to be used solely for its activities as a guaranty agency under the FFEL Program (“guaranty activities”). The guaranty agency shall credit to the reserve fund -
 

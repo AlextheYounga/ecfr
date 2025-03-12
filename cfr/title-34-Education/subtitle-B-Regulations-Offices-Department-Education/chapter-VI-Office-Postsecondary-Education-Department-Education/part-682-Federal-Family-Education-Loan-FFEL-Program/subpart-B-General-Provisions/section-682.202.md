@@ -1,6 +1,6 @@
 ##### § 682.202 Permissible charges by lenders to borrowers. #####
 
-Link to an amendment published at 81 FR 76079, Nov. 1, 2016.
+Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was delayed indefinitely at 82 FR 27621, June 16, 2017.
 
 The charges that lenders may impose on borrowers, either directly or indirectly, are limited to the following:
 

@@ -1,6 +1,6 @@
 ##### § 668.175 Alternative standards and requirements. #####
 
-Link to an amendment published at 81 FR 76075, Nov. 1, 2016.
+Link to an amendment published at 81 FR 76075, Nov. 1, 2016.This amendment was delayed until further notice at 82 FR 27621, June 16, 2017
 
 (a) *General.* An institution that is not financially responsible under the general standards and provisions in § 668.171, may begin or continue to participate in the title IV, HEA programs by qualifying under an alternate standard set forth in this section.
 

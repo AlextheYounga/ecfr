@@ -1,6 +1,6 @@
 ##### § 682.211 Forbearance. #####
 
-Link to an amendment published at 81 FR 76079, Nov. 1, 2016.
+Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was delayed indefinitely at 82 FR 27621, June 16, 2017.
 
 (a)(1) The Secretary encourages a lender to grant forbearance for the benefit of a borrower or endorser in order to prevent the borrower or endorser from defaulting on the borrower's or endorser's repayment obligation, or to permit the borrower or endorser to resume honoring that obligation after default. *Forbearance* means permitting the temporary cessation of payments, allowing an extension of time for making payments, or temporarily accepting smaller payments than previously were scheduled.
 

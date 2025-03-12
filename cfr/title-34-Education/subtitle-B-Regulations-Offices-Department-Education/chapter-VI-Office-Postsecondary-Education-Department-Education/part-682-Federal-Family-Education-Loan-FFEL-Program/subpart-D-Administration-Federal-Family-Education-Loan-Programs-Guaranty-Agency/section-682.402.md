@@ -1,6 +1,6 @@
 ##### § 682.402 Death, disability, closed school, false certification, unpaid refunds, and bankruptcy payments. #####
 
-Link to an amendment published at 81 FR 76079, Nov. 1, 2016.
+Link to an amendment published at 81 FR 76079, Nov. 1, 2016.This amendment was, in part, delayed indefinitely at 82 FR 27621, June 16, 2017.
 
 (a) *General.* (1) Rules governing the payment of claims based on filing for relief in bankruptcy, and discharge of loans due to death, total and permanent disability, attendance at a school that closes, false certification by a school of a borrower's eligibility for a loan, and unpaid refunds by a school are set forth in this section.
 

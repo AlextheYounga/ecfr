@@ -1,6 +1,6 @@
 ##### § 685.308 Remedial actions. #####
 
-Link to an amendment published at 81 FR 76089, Nov. 1, 2016.
+Link to an amendment published at 81 FR 76089, Nov. 1, 2016.This amendment was delayed indefinitely at 82 FR 27621, June 16, 2017.
 
 (a) *General.* The Secretary may require the repayment of funds and the purchase of loans by the school if the Secretary determines that the unenforceability of a loan or loans, or the disbursement of loan amounts for which the borrower was ineligible, resulted in whole or in part from -
 

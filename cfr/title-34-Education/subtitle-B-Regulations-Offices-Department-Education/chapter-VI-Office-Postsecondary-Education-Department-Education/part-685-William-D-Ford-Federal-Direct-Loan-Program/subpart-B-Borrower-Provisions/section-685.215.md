@@ -1,6 +1,6 @@
 ##### § 685.215 Discharge for false certification of student eligibility or unauthorized payment. #####
 
-Link to an amendment published at 81 FR 76082, Nov. 1, 2016.
+Link to an amendment published at 81 FR 76082, Nov. 1, 2016.This amendment was delayed indefinitely at 82 FR 27621, June 16, 2017.
 
 (a) *Basis for discharge* - (1) *False certification.* The Secretary discharges a borrower's (and any endorser's) obligation to repay a Direct Loan in accordance with the provisions of this section if a school falsely certifies the eligibility of the borrower (or the student on whose behalf a parent borrowed) to receive the loan. The Secretary considers a student's eligibility to borrow to have been falsely certified by the school if the school -
 

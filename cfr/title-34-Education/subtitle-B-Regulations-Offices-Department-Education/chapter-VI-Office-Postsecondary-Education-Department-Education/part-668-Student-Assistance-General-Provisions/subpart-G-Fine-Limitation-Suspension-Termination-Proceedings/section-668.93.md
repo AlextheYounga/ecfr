@@ -1,5 +1,7 @@
 ##### § 668.93 Fines. #####
 
+This amendment was delayed until further notice at 82 FR 27621, June 16, 2017
+
 (a) In determining the amount of a fine, the designated department official, hearing official, and Secretary take into account -
 
 (1) (i) The gravity of an institution's or third-party servicer's violation or failure to carry out the relevant statutory provision, regulatory provision, special arrangement, agreement, or limitation entered into under the authority of statutes applicable to Title IV of the HEA; or

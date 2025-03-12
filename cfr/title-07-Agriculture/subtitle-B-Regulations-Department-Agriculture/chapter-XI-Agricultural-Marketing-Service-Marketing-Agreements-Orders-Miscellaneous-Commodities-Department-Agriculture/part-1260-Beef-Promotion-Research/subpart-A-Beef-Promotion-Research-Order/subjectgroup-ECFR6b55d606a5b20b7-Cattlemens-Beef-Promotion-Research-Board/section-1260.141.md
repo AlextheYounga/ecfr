@@ -1,5 +1,7 @@
 ##### § 1260.141 Membership of Board. #####
 
+Link to an amendment published at 82 FR 27612, June 16, 2017.
+
 (a) Beginning with the 2014 Board nominations and the associated appointments effective early in the year 2015, the United States shall be divided into 37 geographical units and, 1 unit representing importers, for a total of 38 units. The number of Board members from each unit shall be as follows:
 
 Cattle and Calves<sup>1</sup>

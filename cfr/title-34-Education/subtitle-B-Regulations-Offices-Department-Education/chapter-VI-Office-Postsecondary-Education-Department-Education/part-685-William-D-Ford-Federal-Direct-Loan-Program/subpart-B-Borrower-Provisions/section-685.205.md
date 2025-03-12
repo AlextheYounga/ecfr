@@ -1,6 +1,6 @@
 ##### § 685.205 Forbearance. #####
 
-Link to an amendment published at 81 FR 76080, Nov. 1, 2016.
+Link to an amendment published at 81 FR 76080, Nov. 1, 2016.This amendment was delayed indefinitely at 82 FR 27621, June 16, 2017.
 
 (a) *General.* “Forbearance” means permitting the temporary cessation of payments, allowing an extension of time for making payments, or temporarily accepting smaller payments than previously scheduled. The borrower has the option to choose the form of forbearance. Except as provided in paragraph (b)(9) of this section, if payments of interest are forborne, they are capitalized. The Secretary grants forbearance if the borrower or endorser intends to repay the loan but requests forbearance and provides sufficient documentation to support this request, and -
 

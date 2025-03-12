@@ -1,6 +1,6 @@
 ##### § 685.200 Borrower eligibility. #####
 
-Link to an amendment published at 81 FR 76080, Nov. 1, 2016.
+Link to an amendment published at 81 FR 76080, Nov. 1, 2016.This amendment was delayed indefinitely at 82 FR 27621, June 16, 2017.
 
 (a) *Student Direct Subsidized or Direct Unsubsidized borrower.* (1) A student is eligible to receive a Direct Subsidized Loan, a Direct Unsubsidized Loan, or a combination of these loans, if the student meets the following requirements:
 

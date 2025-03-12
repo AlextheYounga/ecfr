@@ -1,6 +1,6 @@
 ##### § 682.405 Loan rehabilitation agreement. #####
 
-Link to an amendment published at 81 FR 76080, Nov. 1, 2016.
+Link to an amendment published at 81 FR 76080, Nov. 1, 2016.This amendment was, in part, delayed indefinitely at 82 FR 27621, June 16, 2017.
 
 (a) *General.* (1) A guaranty agency that has a basic program agreement must enter into a loan rehabilitation agreement with the Secretary. The guaranty agency must establish a loan rehabilitation program for all borrowers with an enforceable promissory note for the purpose of rehabilitating defaulted loans, except for loans for which a judgment has been obtained, loans on which a default claim was filed under § 682.412, and loans on which the borrower has been convicted of, or has pled nolo contendere or guilty to, a crime involving fraud in obtaining title IV, HEA program assistance, so that the loan may be purchased, if practicable, by an eligible lender and removed from default status.
 

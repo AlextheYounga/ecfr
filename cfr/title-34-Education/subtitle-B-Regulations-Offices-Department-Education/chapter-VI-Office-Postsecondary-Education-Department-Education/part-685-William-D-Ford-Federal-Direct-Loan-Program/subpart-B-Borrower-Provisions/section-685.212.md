@@ -1,6 +1,6 @@
 ##### § 685.212 Discharge of a loan obligation. #####
 
-Link to an amendment published at 81 FR 76081, Nov. 1, 2016.
+Link to an amendment published at 81 FR 76081, Nov. 1, 2016.This amendment was, in part, delayed indefinitely at 82 FR 27621, June 16, 2017.
 
 (a) *Death.* (1) If a borrower (or a student on whose behalf a parent borrowed a Direct PLUS Loan) dies, the Secretary discharges the obligation of the borrower and any endorser to make any further payments on the loan based on an original or certified copy of the borrower's (or student's in the case of a Direct PLUS loan obtained by a parent borrower) death certificate, or an accurate and complete photocopy of the original or certified copy of the borrower's (or student's in the case of a Direct PLUS loan obtained by a parent borrower) death certificate.
 

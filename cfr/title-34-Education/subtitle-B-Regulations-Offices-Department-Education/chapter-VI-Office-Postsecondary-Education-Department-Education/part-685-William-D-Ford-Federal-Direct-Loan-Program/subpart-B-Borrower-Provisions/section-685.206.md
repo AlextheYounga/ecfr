@@ -1,6 +1,6 @@
 ##### § 685.206 Borrower responsibilities and defenses. #####
 
-Link to an amendment published at 81 FR 76080, Nov. 1, 2016.
+Link to an amendment published at 81 FR 76080, Nov. 1, 2016.This amendment was delayed indefinitely at 82 FR 27621, June 16, 2017.
 
 (a) The borrower must give the school the following information as part of the origination process for a Direct Subsidized, Direct Unsubsidized, or Direct PLUS Loan:
 
