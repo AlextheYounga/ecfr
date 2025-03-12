@@ -1,7 +1,5 @@
 ##### § 90.35 Industrial/Business Pool. #####
 
-Link to an amendment published at 83 FR 61089, Nov. 27, 2018.
-
 (a) *Eligibility.* Persons primarily engaged in any of the following activities are eligible to hold authorizations in the Industrial/Business Pool to provide commercial mobile radio service as defined in part 20 of this chapter or to operate stations for transmission of communications necessary to such activities of the licensee:
 
 (1) The operation of a commercial activity;
@@ -596,57 +594,57 @@ Industrial/Business Pool Frequency Table
 |    153.0125     |             ......do             |        30         |               |
 |     153.020     |            ......do.             |                   |               |
 |    153.0275     |             ......do             |        30         |               |
-|     153.035     |             ......do             |                   |      IP       |
-|    153.0425     |             ......do             |        30         |               |
-|     153.050     |             ......do             |       4, 7        |      IP       |
-|    153.0575     |             ......do             |     4, 7, 30      |               |
-|     153.065     |             ......do             |                   |      IP       |
-|    153.0725     |             ......do             |        30         |               |
-|     153.080     |             ......do             |       4, 7        |      IP       |
-|    153.0875     |             ......do             |     4, 7, 30      |               |
-|     153.095     |             ......do             |                   |      IP       |
-|    153.1025     |             ......do             |      30, 80       |               |
-|     153.110     |             ......do             |       4, 7        |      IP       |
-|    153.1175     |             ......do             |     4, 7, 30      |               |
-|     153.125     |             ......do             |                   |      IP       |
-|    153.1325     |             ......do             |        30         |               |
-|     153.140     |             ......do             |       4, 7        |      IP       |
-|    153.1475     |             ......do             |     4, 7, 30      |               |
-|     153.155     |             ......do             |                   |      IP       |
-|    153.1625     |             ......do             |        30         |               |
-|     153.170     |             ......do             |       4, 7        |      IP       |
-|    153.1775     |             ......do             |     4, 7, 30      |               |
-|     153.185     |             ......do             |                   |      IP       |
-|    153.1925     |             ......do             |        30         |               |
-|     153.200     |             ......do             |       4, 7        |      IP       |
-|    153.2075     |             ......do             |     4, 7, 30      |               |
-|     153.215     |             ......do             |                   |      IP       |
-|    153.2225     |             ......do             |        30         |               |
-|     153.230     |             ......do             |       4, 7        |      IP       |
-|    153.2375     |             ......do             |     4, 7, 30      |               |
-|     153.245     |             ......do             |                   |      IP       |
-|    153.2525     |             ......do             |        30         |               |
-|     153.260     |             ......do             |       4, 7        |      IP       |
-|    153.2675     |             ......do             |     4, 7, 30      |               |
-|     153.275     |             ......do             |                   |      IP       |
-|    153.2825     |             ......do             |        30         |               |
-|     153.290     |             ......do             |       4, 7        |      IP       |
-|    153.2975     |             ......do             |     4, 7, 30      |               |
-|     153.305     |             ......do             |                   |      IP       |
-|    153.3125     |             ......do             |        30         |               |
-|     153.320     |             ......do             |       4, 7        |      IP       |
-|    153.3275     |             ......do             |     4, 7, 30      |               |
-|     153.335     |             ......do             |                   |      IP       |
-|    153.3425     |             ......do             |        30         |               |
-|     153.350     |             ......do             |       4, 7        |      IP       |
-|    153.3575     |             ......do             |     4, 7, 30      |               |
-|     153.365     |             ......do             |                   |      IP       |
-|    153.3725     |             ......do             |        30         |               |
-|     153.380     |             ......do             |                   |      IP       |
-|    153.3875     |             ......do             |        30         |               |
-|     153.395     |             ......do             |                   |      IP       |
-|    153.4025     |             ......do             |        30         |               |
-|     153.410     |             ......do             |                   |      IW       |
+|     153.035     |             ......do             |                   |      IP.      |
+|    153.0425     |             ......do             |        30         |      IP.      |
+|     153.050     |             ......do             |       4, 7        |      IP.      |
+|    153.0575     |             ......do             |     4, 7, 30      |      IP.      |
+|     153.065     |             ......do             |                   |      IP.      |
+|    153.0725     |             ......do             |        30         |      IP.      |
+|     153.080     |             ......do             |       4, 7        |      IP.      |
+|    153.0875     |             ......do             |     4, 7, 30      |      IP.      |
+|     153.095     |             ......do             |                   |      IP.      |
+|    153.1025     |             ......do             |      30, 80       |      IP.      |
+|     153.110     |             ......do             |       4, 7        |      IP.      |
+|    153.1175     |             ......do             |     4, 7, 30      |      IP.      |
+|     153.125     |             ......do             |                   |      IP.      |
+|    153.1325     |             ......do             |        30         |      IP.      |
+|     153.140     |             ......do             |       4, 7        |      IP.      |
+|    153.1475     |             ......do             |     4, 7, 30      |      IP.      |
+|     153.155     |             ......do             |                   |      IP.      |
+|    153.1625     |             ......do             |        30         |      IP.      |
+|     153.170     |             ......do             |       4, 7        |      IP.      |
+|    153.1775     |             ......do             |     4, 7, 30      |      IP.      |
+|     153.185     |             ......do             |                   |      IP.      |
+|    153.1925     |             ......do             |        30         |      IP.      |
+|     153.200     |             ......do             |       4, 7        |      IP.      |
+|    153.2075     |             ......do             |     4, 7, 30      |      IP.      |
+|     153.215     |             ......do             |                   |      IP.      |
+|    153.2225     |             ......do             |        30         |      IP.      |
+|     153.230     |             ......do             |       4, 7        |      IP.      |
+|    153.2375     |             ......do             |     4, 7, 30      |      IP.      |
+|     153.245     |             ......do             |                   |      IP.      |
+|    153.2525     |             ......do             |        30         |      IP.      |
+|     153.260     |             ......do             |       4, 7        |      IP.      |
+|    153.2675     |             ......do             |     4, 7, 30      |      IP.      |
+|     153.275     |             ......do             |                   |      IP.      |
+|    153.2825     |             ......do             |        30         |      IP.      |
+|     153.290     |             ......do             |       4, 7        |      IP.      |
+|    153.2975     |             ......do             |     4, 7, 30      |      IP.      |
+|     153.305     |             ......do             |                   |      IP.      |
+|    153.3125     |             ......do             |        30         |      IP.      |
+|     153.320     |             ......do             |       4, 7        |      IP.      |
+|    153.3275     |             ......do             |     4, 7, 30      |      IP.      |
+|     153.335     |             ......do             |                   |      IP.      |
+|    153.3425     |             ......do             |        30         |      IP.      |
+|     153.350     |             ......do             |       4, 7        |      IP.      |
+|    153.3575     |             ......do             |     4, 7, 30      |      IP.      |
+|     153.365     |             ......do             |                   |      IP.      |
+|    153.3725     |             ......do             |        30         |      IP.      |
+|     153.380     |             ......do             |                   |      IP.      |
+|    153.3875     |             ......do             |        30         |      IP.      |
+|     153.395     |             ......do             |                   |      IP.      |
+|    153.4025     |             ......do             |        30         |      IP.      |
+|     153.410     |             ......do             |                   |      IW.      |
 |    153.4175     |             ......do             |        30         |      IW       |
 |     153.425     |             ......do             |        80         |    IP, IW     |
 |    153.4325     |             ......do             |      30, 80       |    IP, IW     |
@@ -1090,8 +1088,10 @@ Industrial/Business Pool Frequency Table
 |   217 to 220    |Base, mobile, or operational fixed|        55         |               |
 |   220 to 222    |          Base or mobile          |                   |               |
 |   406 to 416    |        Operational fixed         |        53         |               |
-|   450 to 470    |      Fixed, base, or mobile      |      27, 57.      |               |
-|    451.01875    |          Base or mobile          |        33         |      IW       |
+|   450 to 470    |      Fixed, base, or mobile      |      27, 57       |               |
+|    451.00625    |          Base or mobile          |        33         |               |
+|    451.0125     |             ......do             |        33         |               |
+|    451.01875    |             ......do             |        33         |      IW.      |
 |     451.025     |             ......do             |                   |      IW       |
 |    451.03125    |             ......do             |        33         |      IW       |
 |    451.0375     |             ......do             |        30         |      IW       |
@@ -1412,8 +1412,10 @@ Industrial/Business Pool Frequency Table
 |    453.00625    |             ......do             |        33.        |               |
 |    453.0125     |             ......do             |        30.        |               |
 |    453.01875    |             ......do             |        33.        |               |
-|     454.000     |             ......do             |         8         |      IP       |
-|    456.01875    |             ......do             |        33         |      IW       |
+|     454.000     |             ......do             |         8         |      IP.      |
+|    456.00625    |             ......do             |        33         |               |
+|    456.0125     |             ......do             |        33         |               |
+|    456.01875    |             ......do             |        33         |      IW.      |
 |     456.025     |              Mobile              |                   |      IW       |
 |    456.03125    |             ......do             |        33         |      IW       |
 |    456.0375     |             ......do             |        30         |      IW       |
@@ -2036,8 +2038,10 @@ Industrial/Business Pool Frequency Table
 |    462.5125     |             ......do             |      83, 84.      |               |
 |    462.51875    |             ......do             |      33, 84.      |               |
 |     462.525     |             ......do             |                   |    IP, IW     |
-|    462.53125    |             ......do             |        33.        |               |
-|     462.750     |               Base               |      29, 36.      |               |
+|    462.53125    |             ......do             |        33         |               |
+|    462.5375     |             ......do             |         2         |               |
+|    462.7375     |             ......do             |         2         |               |
+|     462.750     |               Base               |      29, 36       |               |
 |    462.7625     |              Mobile              |      67, 86.      |               |
 |     462.775     |               Base               |      29, 36.      |               |
 |    462.7875     |              Mobile              |      67, 86.      |               |
@@ -2641,8 +2645,10 @@ Industrial/Business Pool Frequency Table
 |    467.5125     |             ......do             |        30.        |               |
 |    467.51875    |             ......do             |        33.        |               |
 |     467.525     |             ......do             |                   |    IP, IW     |
-|    467.53125    |             ......do             |        33.        |               |
-|    467.74375    |             ......do             |      33, 62.      |               |
+|    467.53125    |             ......do             |        33         |               |
+|    467.5375     |             ......do             |         2         |               |
+|    467.7375     |             ......do             |         2         |               |
+|    467.74375    |             ......do             |      33, 62       |               |
 |     467.750     |             ......do             |  11, 12, 35, 60.  |               |
 |    467.75625    |             ......do             |11, 12, 33, 35, 60.|               |
 |    467.7625     |             ......do             |11, 12, 30, 35, 60.|               |
@@ -2992,7 +2998,7 @@ Industrial/Business Pool Frequency Table
 
 (G) Coordinating the repair of wireline or point-to-point microwave circuits.
 
-(2) [Reserved]
+(2) This frequency will be assigned with an authorized bandwidth not to exceed 4 kHz.
 
 (3) This frequency is available for assignment only to stations utilized for geophysical purposes.
 
@@ -3169,324 +3175,298 @@ Industrial/Business Pool Frequency Table
 
 (iv) The airports and their respective reference coordinates are (coordinates are referenced to North American Datum 1983 (NAD83)):
 
-|                         City and airport                         |Reference coordinates|              |
-|------------------------------------------------------------------|---------------------|--------------|
-|                           N. Latitude                            |    W. Longitude     |              |
-|              Aberdeen, SD: Aberdeen Regional (ABR)               |     45°26′56.6″     | 98°25′18.6″  |
-|               Agana, GU: Guam International (GUM)                |     13°29′00.4″     |144°47′45.5″ E|
-|              Akron, OH: Akron-Canton Regional (CAK)              |     40°54′58.7″     | 81°26′32.9″  |
-|    Alamosa, CO: San Luis Valley Regional/Bergman Field (ALS)     |     37°26′05.7″     | 105°51′59.6″ |
-|                  Albany, NY: Albany Int'l (ALB)                  |     42°44′53.2″     | 73°48′10.7″  |
-|     Albuquerque, NM: Albuquerque International Sunport (ABQ)     |     35°02′24.8″     | 106°36′33.1″ |
-|        Allentown-Bethlehem, PA: Lehigh Valley Int'l (ABE)        |     40°39′08.5″     | 75°26′25.5″  |
-|            Amarillo, TX: Amarillo International (AMA)            |     35°13′09.7″     | 101°42′21.3″ |
-|     Anchorage, AK: Ted Stevens Anchorage International (ANC)     |     61°10′27.6″     | 149°59′46.3″ |
-|          Appleton, WI: Outagamie County Regional (ATW)           |     44°15′26.7″     | 88°31′10.1″  |
-|         Aspen, CO: Aspen-Pitkin County/Sardy Field (ASE)         |     39°13′23.4″     | 106°52′07.9″ |
-|                           Atlanta, GA:                           |                     |              |
-|                   Atlanta International (ATL)                    |     33°38′25.6″     | 84°25′37.0″  |
-|                      Dekalb-Peachtree (PDK)                      |     33°52′32.2″     | 84°18′07.1″  |
-|                       Fulton County (FTY)                        |     33°46′44.9″     | 84°31′16.9″  |
-|         Austin, TX: Austin Bergstrom International (AUS)         |     30°11′40.3″     | 97°40′11.5″  |
-|               Bakersfield, CA: Meadows Field (BFL)               |     35°26′00.9″     | 119°03′24.4″ |
-|         Baltimore, MD: Baltimore-Washington Int'l (BWI)          |     39°10′31.5″     | 76°40′05.5″  |
-|         Baton Rouge, LA: Baton Rouge Metropolitan (BTR)          |     30°31′59.4″     | 91°08′58.7″  |
-|         Billings, MT: Billings Logan International (BIL)         |     45°48′27.6″     | 108°32′34.3″ |
-|              Birmingham, AL: Birmingham Int'l (BHM)              |     33°33′46.6″     | 86°45′12.8″  |
-|              Bismarck, ND: Bismarck Municipal (BIS)              |     46°46′21.8″     | 100°44′44.7″ |
-|               Boise, ID: Boise Air Terminal (BOI)                |     43°33′52.0″     | 116°13′22.0″ |
-|              Boston, MA: Logan International (BOS)               |     42°21′51.7″     | 71°00′18.7″  |
-|                Bozeman, MT: Gallatin Field (BZN)                 |     45°46′36.8″     | 111°09′10.8″ |
-|             Bridgeport, CT: Sikorsky Memorial (BDR)              |     41°09′48.5″     | 73°07′34.2″  |
-|             Buffalo, NY: Buffalo Niagara Int'l (BUF)             |     42°56′25.9″     | 78°43′55.8″  |
-|              Burlington, VT: Burlington Int'l (BTV)              |     44°28′18.7″     | 73°09′11.8″  |
-|             Cedar Rapids, IA: The Eastern Iowa (CID)             |     41°53′04.5″     | 91°42′39.1″  |
-|        Charleston, SC: Charleston AFB/International (CHS)        |     32°53′55.1″     | 80°02′25.8″  |
-|           Charlotte, NC: Charlotte-Douglas Int'l (CLT)           |     35°12′50.4″     | 80°56′35.3″  |
-|                  Chattanooga, TN: Lovell (CHA)                   |     35°02′06.9″     | 85°12′13.6″  |
-|                    Chicago, IL-Northwest, IN:                    |                     |              |
-|                 Chicago-Wheeling-Palwaukee (PWK)                 |     42°06′51.1″     | 87°54′05.3″  |
-|                           Meigs (CGX)                            |     41°51′31.8″     | 87°36′28.5″  |
-|                    South Bend Regional (SBN)                     |     41°42′32.2″     | 86°19′06.5″  |
-|                           Midway (MDW)                           |     41°47′09.5″     | 87°45′08.7″  |
-|                    O'Hare International (ORD)                    |     41°58′46.5″     | 87°54′16.1″  |
-|                    West Chicago-Dupage (DPE)                     |     41°54′24.8″     | 88°14′54.3″  |
-|                         Cincinnati, OH:                          |                     |              |
-|                    Cincinnati-Blue Ash (ISZ)                     |     39°14′48.1″     | 84°23′20.3″  |
-|                           Lunken (LUK)                           |     39°06′12.0″     | 84°25′07.0″  |
-|                          Cleveland, OH:                          |                     |              |
-|                      Burke Lakefront (BKL)                       |     41°31′03.0″     | 81°41′00.0″  |
-|                      Cuyahoga County (CGF)                       |     41°33′54.5″     | 81°29′10.9″  |
-|                   Hopkins International (CLE)                    |     41°24′39.2″     | 81°50′57.8″  |
-|            Columbia, SC: Columbia Metropolitan (CAE)             |     33°56′19.8″     | 81°07′10.3″  |
-|            Columbus, GA: Columbus Metropolitan (CSG)             |     32°30′58.8″     | 84°56′19.9″  |
-|                          Columbus, OH:                           |                     |              |
-|                    Port Columbus Int'l (CMH)                     |     39°59′52.8″     | 82°53′30.8″  |
-|                 Rickenbacker International (LCK)                 |     39°48′49.5″     | 82°55′40.3″  |
-|      Corpus Christi, TX: Corpus Christi International (CRP)      |     27°46′13.3″     | 97°30′04.4″  |
-|Covington/Cincinnati, KY: Cincinnati/Northern Kentucky Int'l (CVG)|     39°02′46.1″     | 84°39′43.8″  |
-|           Crescent City, CA: Jack McNamara Field (CEC)           |     41°46′48.6″     | 124°14′11.5″ |
-|                           Dallas, TX:                            |                     |              |
-|                          Addison (ADS)                           |     32°58′06.8″     | 96°50′11.2″  |
-|                   Dallas-Ft. Worth Int'l (DFW)                   |     32°53′45.4″     | 97°02′13.9″  |
-|                     Dallas-Love Field (DAL)                      |     32°50′49.6″     | 96°51′06.4″  |
-|                          Red Bird (RBD)                          |     32°40′51.1″     | 96°52′05.5″  |
-|             Davenport, IA (Rock Island, Moline, IL):             |                     |              |
-|                    Davenport Municipal (DVN)                     |     41°36′37.0″     | 90°35′18.0″  |
-|                         Quad City (MLI)                          |     41°26′54.7″     | 90°30′27.1″  |
-|              Dayton, OH: Dayton International (DAY)              |     39°54′08.6″     | 84°13′09.8″  |
-|                           Denver, CO:                            |                     |              |
-|                         Centennial (APA)                         |     39°34′12.5″     | 104°50′57.5″ |
-|                 Colorado Springs Municipal (COS)                 |     38°48′20.9″     | 104°42′00.9″ |
-|                           Jeffco (BJC)                           |     39°54′31.6″     | 105°07′01.9″ |
-|                    Denver International (DEN)                    |     39°51′30.3″     | 104°40′01.2″ |
-|              Des Moines, IA: Des Moines Int'l (DSM)              |     41°32′05.8″     | 93°39′38.5″  |
-|                           Detroit, MI:                           |                     |              |
-|                        Detroit City (DET)                        |     42°24′33.1″     | 83°00′35.5″  |
-|                 Detroit Metro-Wayne County (DTW)                 |     42°12′43.4″     | 83°20′55.8″  |
-|                      Oakland-Pontiac (PTK)                       |     42°39′54.7″     | 83°25′07.4″  |
-|                         Willow Run (YIP)                         |     42°14′16.5″     | 83°31′49.5″  |
-|              Duluth, MN: Duluth International (DLH)              |     46°50′31.5″     | 92°11′37.1″  |
-|            Durango, CO: Durango-La Plata County (DRO)            |     37°09′05.5″     | 107°45′13.6″ |
-|              Eagle, CO: Eagle County Regional (EGE)              |     39°38′33.2″     | 106°55′03.7″ |
-|             El Paso, TX: El Paso International (ELP)             |     31°48′24.0″     | 106°22′40.1″ |
-|               Eugene, OR: Mahlon Sweet Field (EUG)               |     44°07′23.7″     | 123°13′07.3″ |
-|                Eureka, CA: Eureka Municipal (033)                |     40°46′51.4″     | 124°12′44.2″ |
-|              Fargo, ND: Hector International (FAR)               |     46°55′09.7″     | 96°48′53.9″  |
-|                     Flint, MI: Bishop (FNT)                      |     42°57′55.8″     | 83°44′36.4″  |
-|                  Ft. Lauderdale-Hollywood, FL:                   |                     |              |
-|                  Ft. Lauderdale Executive (FXE)                  |     26°11′50.2″     | 80°10′14.6″  |
-|                Ft. Lauderdale-Hollywd Int'l (FLL)                |     26°04′21.3″     | 80°09′09.9″  |
-|                 Ft. Meyers, FL: Page Field (FMY)                 |     26°35′11.8″     | 81°51′47.7″  |
-|      Ft. Meyers, FL: Southwest Florida International (RSW)       |     26°32′10.2″     | 81°45′18.6″  |
-|          Ft. Wayne, IN: Fort Wayne International (FWA)           |     40°58′42.5″     | 85°11′42.5″  |
-|                          Ft. Worth, TX:                          |                     |              |
-|                    Fort Worth Alliance (AFW)                     |     32°59′12.5″     | 97°19′07.7″  |
-|                          Meacham (FTW)                           |     32°49′11.2″     | 97°21′44.8″  |
-|                           Fresno, CA:                            |                     |              |
-|                  Fresno-Chandler Downtown (FCH)                  |     36°43′56.5″     | 119°49′11.6″ |
-|                   Fresno Yosemite Int'l (FAT)                    |     36°46′34.3″     | 119°43′05.3″ |
-|           Gainesville, FL: Gainesville Regional (GNV)            |     29°41′24.2″     | 82°16′18.4″  |
-|         Grand Forks, ND: Grand Forks International (GFK)         |     47°56′57.3″     | 97°10′34.0″  |
-|           Grand Rapids, MI: Gerald R. Ford Int'l (GRR)           |     42°52′51.0″     | 85°31′22.1″  |
-|         Great Falls, MT: Great Falls International (GTF)         |     47°28′55.2″     | 111°22′14.5″ |
-|            Green Bay, WI: Austin Straubel Int'l (GRB)            |     44°29′06.3″     | 88°07′46.5″  |
-|        Greensboro, NC: Piedmont Tirad International (GSO)        |     36°05′51.9″     | 79°56′14.3″  |
-|          Greer, SC: Greenville-Spartanburg Int'l (GSP)           |     34°53′44.4″     | 82°13′07.9″  |
-|               Gunnison, CO: Gunnison County (GUC)                |     38°32′02.2″     | 106°55′58.9″ |
-|                       Hana, HI: Hana (HNM)                       |     20°47′44.3″     | 156°00′52.0″ |
-|            Harlingen, TX: Valley International (HRL)             |     26°13′42.6″     | 97°39′15.8″  |
-|                         Harrisburg, PA:                          |                     |              |
-|                        Capital City (CXY)                        |     40°13′01.7″     | 76°51′05.3″  |
-|                      Harrisburg Int'l (MDT)                      |     40°11′36.6″     | 76°45′48.3″  |
-|                  Hartford, CT (Windsor Locks):                   |                     |              |
-|                       Bradley Int'l (BDL)                        |     41°56′20.0″     | 72°40′59.6″  |
-|                     Hartford-Brainard (HFD)                      |     41°44′10.6″     | 72°39′00.8″  |
-|                  Hayden, CO: Yampa Valley (HDN)                  |     40°28′52.2″     | 107°13′03.6″ |
-|                    Hilo, HI: Hilo Int'l (ITO)                    |     19°43′12.9″     | 155°02′54.5″ |
-|            Honolulu, HI: Honolulu International (HNL)            |     21°19′07.3″     | 157°55′20.7″ |
-|                           Houston, TX:                           |                     |              |
-|                         W.P. Hobby (HOU)                         |     29°38′43.5″     | 95°16′44.0″  |
-|                    D.W. Hooks Memorial (DWH)                     |     30°03′42.7″     | 95°33′10.0″  |
-|                George Bush Intercontinental (IAH)                |     29°58′49.7″     | 95°20′23.0″  |
-|            Indianapolis, IN: Indianapolis Int'l (IND)            |     39°43′02.4″     | 86°17′39.8″  |
-|               Jackson Hole, WY: Jackson Hole (JAC)               |     43°36′26.4″     | 110°44′15.9″ |
-|                        Jacksonville, FL:                         |                     |              |
-|                      Craig Municipal (CRG)                       |     30°20′10.8″     | 81°30′52.0″  |
-|                     Jacksonville Int'l (JAX)                     |     30°29′38.6″     | 81°41′16.3″  |
-|    Kalamazoo, MI: Kalamazoo/Battle Creek International (AZO)     |     42°14′05.5″     | 85°33′07.4″  |
-|         Kalispell, MT: Glacier Park International (FCA)          |     48°18′41.1″     | 114°15′18.2″ |
-|                       Kansas City, MO-KS:                        |                     |              |
-|                     Kansas City Int'l (MCI)                      |     39°17′51.4″     | 94°42′50.1″  |
-|                 Kansas City Municipal Dntn (MKC)                 |     39°07′23.7″     | 94°35′33.9″  |
-|                  Kauna Kakai, HI: Molokai (MKK)                  |     21°09′10.4″     | 157°05′46.5″ |
-|                Knoxville, TN: McGhee Tyson (TYS)                 |     35°48′44.9″     | 83°59′34.3″  |
-|              Lacrosse, WI: Lacrosse Municipal (LSE)              |     43°52′46.5″     | 91°15′24.6″  |
-|                 Lansing, MI: Capital City (LAN)                  |     42°46′43.3″     | 84°35′14.5″  |
-|               Las Vegas, NV: McCarran Int'l (LAS)                |     36°04′49.3″     | 115°09′08.4″ |
-|                      Lihue, HI: Lihue (LIH)                      |     21°58′33.5″     | 159°20′20.3″ |
-|               Lincoln, NE: Lincoln Municipal (LNK)               |     40°51′03.5″     | 96°45′33.3″  |
-|                Little Rock, AR: Adams Field (LIT)                |     34°43′48.8″     | 92°13′27.3″  |
-|                         Los Angeles,CA:                          |                     |              |
-|                 Burbank-Glendale-Pasadena (BUR)                  |     34°12′02.2″     | 118°21′30.6″ |
-|                          Catalina (AVX)                          |     33°24′17.8″     | 118°24′57.1″ |
-|                 Long Beach-Daugherty Field (LGB)                 |     33°49′03.8″     | 118°09′05.8″ |
-|                     Los Angeles Int'l (LAX)                      |     33°56′33.1″     | 118°24′29.1″ |
-|                       Ontario Int'l (ONT)                        |     34°03′21.6″     | 117°36′04.3″ |
-|              Santa Ana-John Wayne-Orange City (SNA)              |    33°40′32.4,″     | 117°52′05.6″ |
-|     Louisville, KY: Louisville Int'l-Standiford Field (SDF)      |     38°10′27.8″     | 85°44′09.6″  |
-|             Lubbock, TX: Lubbock International (LBB)             |     33°39′49.1″     | 101°49′22.0″ |
-|    Lynchburg, VA: Lynchburg Regional-Preston Glen Field (LYH)    |     37°19′36.1″     | 79°12′01.6″  |
-|       Madison, WI: Dane County Regional-Truax Field (MSN)        |     43°08′23.5″     | 89°20′15.1″  |
-|                 Manchester, NH: Manchester (MHT)                 |     42°56′04.3″     | 71°26′13.4″  |
-|                 Memphis, TN: Memphis Int'l (MEM)                 |     35°02′32.7″     | 89°58′36.0″  |
-|                           Miami, FLA:                            |                     |              |
-|                        Miami Int'l (MIA)                         |     25°47′35.7″     | 80°17′26.0″  |
-|                         Opa Locka (OPF)                          |     25°54′25.2″     | 80°16′42.2″  |
-|                 Kendall-Tamiami Executive (TMB)                  |     25°38′52.4″     | 80°25′58.0″  |
-|           Milwaukee, WI: General Mitchell Int'l (MKE)            |     42°56′50.0″     | 87°53′47.7″  |
-|    Minneapolis-St. Paul, MN: Minneapolis-St. Paul Int'l (MSP)    |     44°52′49.9″     | 93°13′00.9″  |
-|               Minot, ND: Minot International (MOT)               |     48°15′33.8″     | 101°16′49.2″ |
-|            Missoula, MT: Missoula International (MSO)            |     46°54′58.7″     | 114°05′26.0″ |
-|                Mobile, AL: Mobile Regional (MOB)                 |     30°41′29.1″     | 88°14′34.2″  |
-|              Modesto, CA: Modesto City-County (MOD)              |     37°37′32.9″     | 120°57′15.9″ |
-|              Monterey, CA: Monterey Peninsula (MRY)              |     36°35′13.1″     | 121°50′34.6″ |
-|              Montrose, CO: Montrose Regional (MTJ)               |     38°30′31.9″     | 107°53′37.8″ |
-|               Nashville, TN: Nashville Int'l (BNA)               |     36°07′28.1″     | 86°40′41.5″  |
-|          New Haven, CT: Tweed-New Haven Municipal (HVN)          |     41°15′50.0″     | 72°53′13.6″  |
-|                         New Orleans, LA:                         |                     |              |
-|                         Lakefront (NEW)                          |     30°02′32.7″     | 90°01′41.7″  |
-|                     New Orleans Int'l (MYS)                      |     29°59′36.2″     | 90°15′28.9″  |
-|            Newburgh, NY: Stewart International (SWF)             |     41°30′14.7″     | 74°06′17.4″  |
-|     Newport News-Hampton,VA: Newport News/Williamsburg (PHF)     |     37°07′54.8″     | 76°29′34.8″  |
-|                     New York-Northeast, NJ:                      |                     |              |
-|                          Republic (FRG)                          |     40°43′43.6″     | 73°24′48.3″  |
-|                     JFK International (JFK)                      |     40°38′23.1″     | 73°46′44.1″  |
-|                         LaGuardia (LGA)                          |     40°46′38.1″     | 73°52′21.4″  |
-|                    Long Island-McArthur (ISP)                    |     40°47′42.8″     | 73°06′00.8″  |
-|                 Morristown Municipal (NJ) (MMU)                  |     40°47′57.7″     | 74°24′53.5″  |
-|                        Newark Int'l (FWR)                        |     40°41′32.9″     | 74°10′07.2″  |
-|                       Teterboro (NJ) (TEB)                       |     40°51′00.4″     | 74°03′39.0″  |
-|                 Norfolk, VA: Norfolk Int'l (ORF)                 |     36°53′40.6″     | 76°12′04.4″  |
-|                        Oklahoma City, OK:                        |                     |              |
-|                         Wiley Post (PWA)                         |     35°32′04.4″     | 97°38′49.9″  |
-|                     Will Rogers World (OKC)                      |     35°23′35.1″     | 97°36′02.6″  |
-|                 Omaha, NE: Eppley Airfield (OMA)                 |     41°18′09.1″     | 95°53′39.0″  |
-|                           Orlando, FL:                           |                     |              |
-|                     Orlando Executive (ORL)                      |     28°32′43.7″     | 81°19′58.6″  |
-|                       Orlando Int'l (MCO)                        |     28°25′44.0″     | 81°18′57.7″  |
-|        Palm Springs, CA: Palm Springs International (PSP)        |     33°49′46.8″     | 116°30′24.1″ |
-|            Peoria, IL: Greater Peoria Regional (PIA)             |     40°39′51.3″     | 89°41′35.9″  |
-|                       Philadelphia, PA-NJ:                       |                     |              |
-|                   Northeast Philadelphia (PNE)                   |     40°04′55.0″     | 75°00′38.1″  |
-|                     Philadelphia Int'l (PHL)                     |     39°52′19.0″     | 75°14′28.1″  |
-|                           Phoenix, AZ:                           |                     |              |
-|                  Phoenix-Sky Habor Int'l (PHX)                   |     33°26′03.0″     | 112°00′29.0″ |
-|                         Scottsdale (SDL)                         |     33°37′22.3″     | 111°54′37.9″ |
-|                         Pittsburgh, PA:                          |                     |              |
-|                      Allegheny County (AGC)                      |     40°21′15.9″     | 79°55′48.9″  |
-|                      Pittsburgh Int'l (PIT)                      |     40°29′29.3″     | 80°13′58.3″  |
-|        Portland, ME: Portland International Jetport (PWM)        |     43°38′46.2″     | 70°18′31.5″  |
-|                          Portland, OR:                           |                     |              |
-|                     Portland-Hillsboro (HIO)                     |     45°32′25.4″     | 122°56′59.4″ |
-|                   Portland International (PDX)                   |     45°35′19.4″     | 122°35′51.0″ |
-|                     Portland-Troutdale (TTD)                     |     45°32′57.7″     | 122°24′04.5″ |
-|                   Providence-Pawtucket, RI-MA:                   |                     |              |
-|                    North Central State (SFZ)                     |     41°55′14.7″     | 71°29′29.0″  |
-|                      T.F. Green State (PVD)                      |     41°43′26.4″     | 71°25′41.6″  |
-|                Pueblo, CO: Pueblo Memorial (PUB)                 |     38°17′20.7″     | 104°29′47.7″ |
-|      Raleigh/Durham, NC: Raleigh-Durham International (RDU)      |     35°52′39.5″     | 78°47′14.9″  |
-|            Rapid City, SD: Rapid City Regional (RAP)             |     44°02′43.2″     | 103°03′26.5″ |
-|             Reno, NV: Reno/Tahoe International (RNO)             |     39°29′54.8″     | 119°46′05.0″ |
-|            Richmond, VA: Richmond International (RIC)            |     37°30′18.6″     | 77°19′10.8″  |
-|        Roanoke, VA: Roanoke Regional/Woodrum Field (ROA)         |     37°19′31.7″     | 79°58′31.5″  |
-|           Rochester, MN: Rochester International (RST)           |     43°54′26.0″     | 92°29′56.4″  |
-|           Rochester, NY: Greater Rochester Int'l (ROC)           |     43°07′07.9″     | 77°40′20.6″  |
-|                         Sacramento, CA:                          |                     |              |
-|                    Sacramento Executive (SAC)                    |     38°30′45.1″     | 121°29′36.5″ |
-|                      Sacramento Int'l (SMF)                      |     38°41′43.5″     | 121°35′26.8″ |
-|               Saginaw, MI: MBS International (MBS)               |     43°31′58.5″     | 84°04′46.7″  |
-|           Saipan Isl., CQ: Saipan International (GSN)            |     15°07′08.4″     |145°43′45.7″ E|
-|                        St. Louis, MO-IL:                         |                     |              |
-|                    Spirit of St. Louis (SUS)                     |     38°39′42.7″     | 90°39′04.4″  |
-|                  St. Louis-Lambert Int'l (STC)                   |     38°44′51.7″     | 90°21′35.9″  |
-|                       St. Petersburg, FL:                        |                     |              |
-|                  Albert Whitted Municipal (SPG)                  |     27°45′54.4″     | 82°37′37.1″  |
-|              St. Petersburg Clearwater Int'l (PIE)               |     27°54′38.8″     | 82°41′14.9″  |
-|          Salt Lake City, UT: Salt Lake City Int'l (SLC)          |     40°47′18.2″     | 111°58′39.9″ |
-|             San Antonio, TX: San Antonio Int'l (SAT)             |     29°32′01.3″     | 98°28′11.2″  |
-|          San Diego, CA: San Diego Lindbergh Int'l (SAN)          |     32°44′00.8″     | 117°11′22.8″ |
-|                    San Francisco-Oakland, CA:                    |                     |              |
-|                 Metropolitan Oakland Int'l (OAK)                 |     37°43′16.7″     | 122°13′14.6″ |
-|                    San Francisco Int'l (SFO)                     |     37°37′08.4″     | 122°22′29.4″ |
-|                San Jose, CA: San Jose Int'l (SJC)                |     37°21′42.7″     | 121°55′44.4″ |
-|                  San Juan, PR: Luis Munoz (SJU)                  |     18°26′21.9″     | 66°00′06.6″  |
-|         Santa Barbara, CA: Santa Barbara Municipal (SBA)         |     34°25′34.4″     | 119°50′25.3″ |
-|              Santa Fe, NM: Santa Fe Municipal (SAF)              |     35°37′00.4″     | 106°05′17.3″ |
-|       Sarasota, FL: Sarasota/Bradenton International (SRQ)       |     27°23′43.2″     | 82°33′14.8″  |
-|            Savannah, GA: Savannah International (SAV)            |     32°07′39.3″     | 81°12′07.7″  |
-|                           Seattle, WA:                           |                     |              |
-|                  Boeing/King County Int'l (BFI)                  |     47°26′47.9″     | 122°18′33.5″ |
-|                    Seattle-Tacoma Int'l (SEA)                    |     47°26′56.3″     | 122°18′33.5″ |
-|                         Shreveport, LA:                          |                     |              |
-|                    Shreveport Downtown (DTN)                     |     32°32′24.8″     | 93°44′42.1″  |
-|                    Shreveport Regional (SHV)                     |     32°26′47.9″     | 93°49′32.2″  |
-|               Sioux City, IA: Sioux Gateway (SUX)                |     42°24′09.4″     | 96°23′03.7″  |
-|              Sioux Falls, SD: Joe Foss Field (FSD)               |     43°34′52.9″     | 96°44′30.1″  |
-|            South Bend, IN: South Bend Regional (SBN)             |     41°42′32.2″     | 86°19′06.5″  |
-|                           Spokane, WA:                           |                     |              |
-|                     Grant County Int'l (MWH)                     |     47°12′27.5″     | 119°19′12.7″ |
-|                       Spokane Int'l (GEG)                        |     47°37′11.5″     | 117°32′01.8″ |
-|                         Springfield, MA:                         |                     |              |
-|                      Barnes Municipal (BAF)                      |     42°09′27.8″     | 72°42′56.2″  |
-|                 Westover ARB/Metropolitan (CEF)                  |     42°11′53.8″     | 72°32′03.3″  |
-|       Springfield, MO: Springfield-Branson Regional (SGF)        |     37°14′39.6″     | 93°23′12.7″  |
-|            Syracuse, NY: Syracuse-Hancock Int'l (SYR)            |     43°06′40.3″     | 76°06′22.7″  |
-|                 Tacoma, WA: Tacoma Narrows (TIW)                 |     47°16′04.6″     | 122°34′41.2″ |
-|           Tallahassee, FL: Tallahassee Regional (TLH)            |     30°23′47.5″     | 84°21′01.2″  |
-|                   Tampa, FL: Tampa Int'l (TPA)                   |     27°58′31.7″     | 82°31′59.7″  |
-|             Telluride, CO: Telluride Regional (TEX)              |     37°57′13.5″     | 107°54′30.5″ |
-|                 Toledo, OH: Toledo Express (TOL)                 |     41°35′12.5″     | 83°48′28.2″  |
-|               Trenton, NJ-PA: Trenton Mercer (TTN)               |     40°16′36.1″     | 74°48′48.5″  |
-|                  Tucson, AZ: Tucson Int'l (TUS)                  |     32°06′57.9″     | 110°56′27.7″ |
-|                            Tulsa, OK:                            |                     |              |
-|                      R.L. Jones, Jr. (RVS)                       |     36°02′22.7″     | 95°59′04.7″  |
-|                        Tulsa Int'l (TUL)                         |     36°11′54.1″     | 95°53′17.7″  |
-|                         Washington, DC:                          |                     |              |
-|                    Dulles International (IAD)                    |     38°56′40.3″     | 77°27′20.9″  |
-|                   Ronald Reagan National (DCA)                   |     38°51′07.5″     | 77°02′15.8″  |
-|              Waterloo, IA: Waterloo Municipal (ALO)              |     42°33′25.5″     | 92°24′01.2″  |
-|       West Palm Beach, FL: Palm Beach International (PBI)        |     26°40′59.4″     | 80°05′44.1″  |
-|            White Plains, NY: Westchester County (HPN)            |     41°04′01.1″     | 73°42′27.3″  |
-|                 Wichita, KS: Mid-Continent (ICT)                 |     37°38′59.9″     | 97°25′58.9″  |
-|         Scranton, PA: Wilkes-Barre/Scranton Int'l (AVP)          |     41°20′17.3″     | 75°43′27.4″  |
-|             Wilmington, DE: New Castle County (ILG)              |     39°40′43.4″     | 75°36′23.5″  |
-|             Worcester, MA: Worcester Regional (ORH)              |     42°16′02.4″     | 71°52′32.6″  |
-|    Youngstown-Warren, OH-PA: Youngstown-Warren Regional (YNG)    |     41°15′38.7″     | 80°40′44.8″  |
+|                            City and airport                             |Reference coordinates|              |
+|-------------------------------------------------------------------------|---------------------|--------------|
+|                               N latitude                                |     W longitude     |              |
+|                  Aberdeen, SD: Aberdeen Regional (ABR)                  |     45°26′56.6″     | 98°25′18.6″  |
+|                  Aguana, GU: Guam International (GUM)                   |     13°29′00.4″     |144°47′45.5″ E|
+|                 Akron, OH: Akron-Canton Regional (CAK)                  |     40°54′58.7″     | 81°26′32.9″  |
+|        Alamosa, CO: San Luis Valley Regional/Bergman Field (ALS)        |     37°26′05.7″     | 105°51′59.6″ |
+|                     Albany, NY: Albany Int'l (ALB)                      |     42°44′53.2″     | 73°48′10.7″  |
+|        Albuquerque, NM: Albuquerque International Sunport (ABQ)         |     35°02′24.8″     | 106°36′33.1″ |
+|           Allentown-Bethlehem, PA: Lehigh Valley Int'l (ABE)            |     40°39′08.5″     | 75°26′25.5″  |
+|               Amarillo, TX: Amarillo International (AMA)                |     35°13′09.7″     | 101°42′21.3″ |
+|        Anchorage, AK: Ted Stevens Anchorage International (ANC)         |     61°10′27.6″     | 149°59′46.3″ |
+|                   Appleton, WI: Appleton Int'l (ATW)                    |     44°15′26.7″     | 88°31′10.1″  |
+|            Aspen, CO: Aspen-Pitkin County/Sardy Field (ASE)             |     39°13′23.4″     | 106°52′07.9″ |
+|                              Atlanta, GA:                               |                     |              |
+|                       Atlanta International (ATL)                       |     33°38′25.6″     | 84°25′37.0″  |
+|                         Dekalb-Peachtree (PDK)                          |     33°52′32.2″     | 84°18′07.1″  |
+|                     Fulton County/Brown Field (FTY)                     |     33°46′44.9″     | 84°31′16.9″  |
+|            Austin, TX: Austin Bergstrom International (AUS)             |     30°11′40.3″     | 97°40′11.5″  |
+|                  Bakersfield, CA: Meadows Field (BFL)                   |     35°26′00.9″     | 119°03′24.4″ |
+|Baltimore, MD: Baltimore-Washington International Thurgood Marshall (BWI)|     39°10′31.5″     | 74°40′05.5″  |
+|             Baton Rouge, LA: Baton Rouge Metropolitan (BTR)             |     30°31′59.4″     | 91°08′58.7″  |
+|            Billings, MT: Billings Logan International (BIL)             |     45°48′27.6″     | 108°32′34.3″ |
+|          Birmingham, AL: Birmingham-Shuttlesworth Int'l (BHM)           |     33°33′46.6″     | 86°45′12.8″  |
+|                 Bismarck, ND: Bismarck Municipal (BIS)                  |     46°46′21.8″     | 100°44′44.7″ |
+|             Boise, ID: Boise Air Terminal/Gowen Field (BOI)             |     43°33′52.0″     | 116°13′22.0″ |
+|                  Boston, MA: Logan International (BOS)                  |     42°21′51.7″     | 17°00′18.7″  |
+|              Bozeman, MT: Bozeman Yellowstone Int'l (BZN)               |     45°46′36.8″     | 111°09′10.8″ |
+|                 Bridgeport, CT: Sikorsky Memorial (BDR)                 |     41°09′48.5″     | 73°07′34.2″  |
+|                Buffalo, NY: Buffalo Niagara Int'l (BUF)                 |     42°56′25.9″     | 78°43′55.8″  |
+|                 Burlington, VT: Burlington Int'l (BTV)                  |     44°28′18.7″     | 73°09′11.8″  |
+|                Cedar Rapids, IA: The Eastern Iowa (CID)                 |     41°53′04.5″     | 91°42′39.1″  |
+|           Charleston, SC: Charleston AFB/International (CHS)            |     32°53′55.1″     | 80°02′25.8″  |
+|              Charlotte, NC: Charlotte-Douglas Int'l (CLT)               |     35°12′50.4″     | 80°56′35.3″  |
+|                      Chattanooga, TN: Lovell (CHA)                      |     35°02′06.9″     | 85°12′13.6″  |
+|                        Chicago, IL-Northwest IN:                        |                     |              |
+|                         Chicago Executive (PWK)                         |     42°06′51.1″     | 87°54′05.3″  |
+|                         South Bend Int'l (SBN)                          |     41°42′32.2″     | 86°19′06.5″  |
+|                              Midway (MDW)                               |     41°47′09.5″     | 87°45′08.7″  |
+|                       O'Hare International (ORD)                        |     41°58′46.5″     | 87°54′16.1″  |
+|                              DuPage (DPA)                               |     41°54′24.8″     | 88°14′54.3″  |
+|         Cincinnati, OH: Cincinnati Municipal/Lunken Field (LUK)         |     39°06′12.0″     | 84°25′07.0″  |
+|                             Cleveland, OH:                              |                     |              |
+|                          Burke Lakefront (BKL)                          |     41°31′03.0″     | 81°41′00.0″  |
+|                          Cuyahoga County (CGF)                          |     41°33′54.5″     | 81°29′10.9″  |
+|                       Hopkins International (CLE)                       |     41°24′39.2″     | 81°50′57.8″  |
+|                Columbia, SC: Columbia Metropolitan (CAE)                |     33°56′19.8″     | 81°07′10.3″  |
+|                      Columbus, GA: Columbus (CSG)                       |     32°30′58.8″     | 84°56′19.9″  |
+|                              Columbus, OH:                              |                     |              |
+|                     John Glenn Columbus Int'l (CMH)                     |     39°59′52.8″     | 82°53′30.8″  |
+|                    Rickenbacker International (LCK)                     |     39°48′49.5″     | 82°55′40.3″  |
+|          Corpus Christi, TX Corpus Christi International (CRP)          |     27°46′13.3″     | 97°30′04.4″  |
+|   Covington/Cincinnati, KY: Cincinnati/Northern Kentucky Int'l (CVG)    |     39°02′46.1″     | 84°39′43.8″  |
+|               Crescent City, CA: JackMcNamara Field (CEC)               |     41°46′48.6″     | 124°14′11.5″ |
+|                               Dallas, TX:                               |                     |              |
+|                              Addison (ADS)                              |     32°58′06.8″     | 96°50′11.2″  |
+|                      Dallas-Ft. Worth Int'l (DFW)                       |     32°53′45.4″     | 97°02′13.9″  |
+|                         Dallas-Love Field (DAL)                         |     32°50′49.6″     | 96°51′06.4″  |
+|                         Dallas Executive (RBD)                          |     32°40′51.1″     | 96°52′05.5″  |
+|                             Davenport, IA:                              |                     |              |
+|                        Davenport Municipal (DVN)                        |     41°36′37.0″     | 90°35′18.0″  |
+|                          Quad City Int'l (MLI)                          |     41°26′54.7″     | 90°30′27.1″  |
+|                  Dayton, OH: James M. Cox Int'l (DAY)                   |     39°54′08.6″     | 84°13′09.8″  |
+|                               Denver, CO:                               |                     |              |
+|                            Centennial (APA)                             |     39°34′12.5″     | 104°50′57.5″ |
+|                    Colorado Springs Municipal (COS)                     |     38°48′20.9″     | 104°42′00.9″ |
+|                    Rocky Mountain Metropolitan (BJC)                    |     39°54′31.6″     | 105°07′01.9″ |
+|                       Denver International (DEN)                        |     39°51′30.3″     | 104°40′01.2″ |
+|                 Des Moines, IA: Des Moines Int'l (DSM)                  |     41°32′05.8″     | 93°39′38.5″  |
+|                              Detroit, MI:                               |                     |              |
+|                    Coleman A. Young Municipal (DET)                     |     42°24′33.1″     | 83°00′35.5″  |
+|                    Detroit Metro-Wayne County (DTW)                     |     42°12′43.4″     | 83°20′55.8″  |
+|                       Oakland County Int'l (PTK)                        |     42°39′54.7″     | 83°25′07.4″  |
+|                            Willow Run (YIP)                             |     42°14′16.5″     | 83°31′49.5″  |
+|                 Duluth, MN: Duluth International (DLH)                  |     46°50′31.5″     | 92°11′37.1″  |
+|               Durango, CO: Durango-La Plata County (DRO)                |     37°09′05.5″     | 107°45′13.6″ |
+|                 Eagle, CO: Eagle County Regional (EGE)                  |     39°38′33.2″     | 106°55′03.7″ |
+|                El Paso, TX: El Paso International (ELP)                 |     31°48′24.0″     | 106°22′40.1″ |
+|                  Eugene, OR: Mahlon Sweet Field (EUG)                   |     44°07′23.7″     | 123°13′07.3″ |
+|                      Eureka, CA: Samoa Field (O33)                      |     40°46′51.4″     | 124°12′44.2″ |
+|                  Fargo, ND: Hector International (FAR)                  |     46°55′09.7″     | 96°48′53.9″  |
+|                      Flint, MI: Bishop Int'l (FNT)                      |     42°57′55.8″     | 83°44′36.4″  |
+|                      Ft. Lauderdale-Hollywood, FL:                      |                     |              |
+|                     Ft. Lauderdale Executive (FXE)                      |     26°11′50.2″     | 80°10′14.6″  |
+|                  Ft. Lauderdale-Hollywood Int'l (FLL)                   |     26°04′21.3″     | 80°09′09.9″  |
+|                             Ft. Myers, FL:                              |                     |              |
+|                            Page Field (FMY)                             |     26°35′11.8″     | 81°51′47.7″  |
+|                      Southwest Florida Int'l (RSW)                      |     26°32′10.2″     | 81°45′18.6″  |
+|              Ft. Wayne, IN: Fort Wayne International (FWA)              |     40°58′42.5″     | 85°11′42.5″  |
+|                             Ft. Worth, TX:                              |                     |              |
+|                        Fort Worth Alliance (AFW)                        |     32°59′12.5″     | 97°19′07.7″  |
+|                           Meacham Int'l (FTW)                           |     32°49′11.2″     | 97°21′44.8″  |
+|                               Fresno, CA:                               |                     |              |
+|                     Fresno Chandler Executive (FCH)                     |     36°43′56.5″     | 119°49′11.6″ |
+|                       Fresno Yosemite Int'l (FAT)                       |     36°46′34.3″     | 119°43′05.3″ |
+|               Gainesville, FL: Gainesville Regional (GNV)               |     29°41′24.2″     | 82°16′18.4″  |
+|            Grand Forks, ND: Grand Forks International (GFK)             |     47°56′57.3″     | 97°10′34.0″  |
+|              Grand Rapids, MI: Gerald R. Ford Int'l (GRR)               |     42°52′51.0″     | 85°31′22.1″  |
+|            Great Falls, MT: Great Falls International (GTF)             |     47°28′55.2″     | 111°22′14.5″ |
+|               Green Bay, WI: Austin Straubel Int'l (GRB)                |     44°29′06.3″     | 88°07′46.5″  |
+|           Greensboro, NC: Piedmont Tirad International (GSO)            |     36°05′51.9″     | 79°56′14.3″  |
+|              Greer, SC: Greenville-Spartanburg Int'l (GSP)              |     34°53′44.4″     | 82°13′07.9″  |
+|           Gunnison, CO: Gunnison-Crested Butte Regional (GUC)           |     38°32′02.2″     | 106°55′58.9″ |
+|                          Hana, HI: Hana (HNM)                           |     20°47′44.3″     | 156°00′52.0″ |
+|                Harlingen, TX: Valley International (HRL)                |     26°13′42.6″     | 97°39′15.8″  |
+|                             Harrisburg, PA:                             |                     |              |
+|                           Capital City (CXY)                            |     40°13′01.7″     | 76°51′05.3″  |
+|                         Harrisburg Int'l (MDT)                          |     40°11′36.6″     | 76°45′48.3″  |
+|                      Hartford, CT (Windsor Locks):                      |                     |              |
+|                           Bradley Int'l (BDL)                           |     41°56′20.0″     | 72°40′59.6″  |
+|                         Hartford-Brainard (HFD)                         |     41°44′10.6″     | 72°39′00.8″  |
+|                     Hayden, CO: Yampa Valley (HDN)                      |     40°28′52.2″     | 107°13′03.6″ |
+|                       Hilo, HI: Hilo Int'l (ITO)                        |     19°43′12.9″     | 155°02′54.5″ |
+|               Honolulu, HI: Daniel K. Inouye Int'l (HNL)                |     21°19′07.3″     | 157°55′20.7″ |
+|                              Houston, TX:                               |                     |              |
+|                            W.P. Hobby (HOU)                             |     29°38′43.5″     | 95°16′44.0″  |
+|                        D.W. Hooks Memorial (DWH)                        |     30°03′42.7″     | 95°33′10.0″  |
+|                   George Bush Intercontinental (IAH)                    |     29°58′49.7″     | 95°20′23.0″  |
+|               Indianapolis, IN: Indianapolis Int'l (IND)                |     39°43′02.4″     | 86°17′39.8″  |
+|                  Jackson Hole, WY: Jackson Hole (JAC)                   |     43°36′26.4″     | 110°44′15.9″ |
+|                            Jacksonville, FL:                            |                     |              |
+|                  Jacksonville Executive at Craig (CRG)                  |     30°20′10.8″     | 81°30′52.0″  |
+|                        Jacksonville Int'l (JAX)                         |     30°29′38.6″     | 81°41′16.3″  |
+|                       Kahului, HI: Kahului (OGG)                        |     20°53′55.4″     | 156°25′48.9″ |
+|             Kailula-Kona, HI: Kona Int'l at Ke-Ahole (KOA)              |     19°44′19.7″     | 156°02′44.2″ |
+|        Kalamazoo, MI: Kalamazoo/Battle Creek International (AZO)        |     42°14′05.5″     | 85°33′07.4″  |
+|             Kalispell, MT: Glacier Park International (FCA)             |     48°18′41.1″     | 114°15′18.2″ |
+|                           Kansas City, MO-KS:                           |                     |              |
+|                         Kansas City Int'l (MCI)                         |     39°17′51.4″     | 94°42′50.1″  |
+|                    Charles B. Wheeler Downtown (MKC)                    |     39°07′23.7″     | 94°35′33.9″  |
+|                     Kauna Kakai, HI: Molokai (MKK)                      |     21°09′10.4″     | 157°05′46.5″ |
+|                    Knoxville, TN: McGhee Tyson (TYS)                    |     35°48′44.9″     | 83°59′34.3″  |
+|                  LaCrosse, WI: LaCrosse Regional (LSE)                  |     43°52′46.5″     | 91°15′24.6″  |
+|                 Lansing, MI: Capital Region Int'l (LAN)                 |     42°46′43.3″     | 84°35′14.5″  |
+|                   Las Vegas, NV: McCarran Int'l (LAS)                   |     36°04′49.3″     | 115°09′08.4″ |
+|                         Lihue, HI: Lihue (LIH)                          |     21°58′33.5″     | 159°20′20.3″ |
+|                       Lincoln, NE: Lincoln (LNK)                        |     40°51′03.5″     | 96°45′33.3″  |
+|  Little Rock, AR: Bill and Hillary Clinton National/Adams Field (LIT)   |     34°43′48.8″     | 92°13′27.3″  |
+|                            Los Angeles, CA:                             |                     |              |
+|                             Bob Hope (BUR)                              |     34°12′02.2″     | 118°21′30.6″ |
+|                             Catalina (AVX)                              |     33°24′17.8″     | 118°24′57.1″ |
+|                    Long Beach-Daugherty Field (LGB)                     |     33°49′03.8″     | 118°09′05.8″ |
+|                         Los Angeles Int'l (LAX)                         |     33°56′33.1″     | 118°24′29.1″ |
+|                           Ontario Int'l (ONT)                           |     34°03′21.6″     | 117°36′04.3″ |
+|                     John Wayne-Orange County (SNA)                      |     33°40′32.4″     | 117°52′05.6″ |
+|         Louisville, KY: Louisville Int'l-Standiford Field (SDF)         |     38°10′27.8″     | 85°44′09.6″  |
+|             Lubbock, TX: Lubbock Preston Smith Int'l (LBB)              |     33°39′49.1″     | 101°49′22.0″ |
+|       Lynchburg, VA: Lynchburg Regional-Preston Glen Field (LYH)        |     37°19′36.1″     | 79°12′01.6″  |
+|           Madison, WI: Dane County Regional-Truax Field (MSN)           |     43°08′23.5″     | 89°20′15.1″  |
+|                    Manchester, NH: Manchester (MHT)                     |     42°56′04.3″     | 71°26′13.4″  |
+|                    Memphis, TN: Memphis Int'l (MEM)                     |     35°02′32.7″     | 89°58′36.0″  |
+|                               Miami, FL:                                |                     |              |
+|                            Miami Int'l (MIA)                            |     25°47′35.7″     | 80°17′26.0″  |
+|                        Opa-Locka Executive (OPF)                        |     25°54′25.2″     | 80°16′42.2″  |
+|                          Miami Executive (TMB)                          |     25°38′52.4″     | 80°25′58.0″  |
+|               Milwaukee, WI: General Mitchell Int'l (MKE)               |     42°56′50.0″     | 87°53′47.7″  |
+|       Minneapolis-St. Paul, MN: Minneapolis-St. Paul Int'l (MSP)        |     44°52′49.9″     | 93°13′00.9″  |
+|                  Minot, ND: Minot International (MOT)                   |     48°15′33.8″     | 101°16′49.2″ |
+|               Missoula, MT: Missoula International (MSO)                |     46°54′58.7″     | 114°05′26.0″ |
+|                    Mobile, AL: Mobile Regional (MOB)                    |     30°41′29.1″     | 88°14′34.2″  |
+|                 Modesto, CA: Modesto City-County (MOD)                  |     37°37′32.9″     | 120°57′15.9″ |
+|                  Monterey, CA: Monterey Regional (MRY)                  |     36°35′13.1″     | 121°50′34.6″ |
+|                  Montrose, CO: Montrose Regional (MTJ)                  |     38°30′31.9″     | 107°53′37.8″ |
+|                  Nashville, TN: Nashville Int'l (BNA)                   |     36°07′28.1″     | 86°40′41.5″  |
+|                  New Haven, CT: Tweed-New Haven (HVN)                   |     41°15′50.0″     | 72°53′13.6″  |
+|                            New Orleans, LA:                             |                     |              |
+|                             Lakefront (NEW)                             |     30°02′32.7″     | 90°01′41.7″  |
+|                 Louis Armstrong New Orleans Int'l (MSY)                 |     29°59′36.2″     | 90°15′28.9″  |
+|                Newburgh, NY: Stewart International (SWF)                |     41°30′14.7″     | 74°06′17.4″  |
+|        Newport News-Hampton,VA: Newport News/Williamsburg (PHF)         |     37°07′54.8″     | 76°29′34.8″  |
+|                         New York-Northeast NJ:                          |                     |              |
+|                             Republic (FRG)                              |     40°43′43.6″     | 73°24′48.3″  |
+|                         JFK International (JFK)                         |     40°38′23.1″     | 73°46′44.1″  |
+|                             LaGuardia (LGA)                             |     40°46′38.1″     | 73°52′21.4″  |
+|                       Long Island-McArthur (ISP)                        |     40°47′42.8″     | 73°06′00.8″  |
+|                     Morristown Municipal (NJ) (MMU)                     |     40°47′57.7″     | 74°24′53.5″  |
+|                           Newark Int'l (EWR)                            |     40°41′32.9″     | 74°10′07.2″  |
+|                          Teterboro (NJ) (TEB)                           |     40°51′00.4″     | 74°03′39.0″  |
+|                    Norfolk, VA: Norfolk Int'l (ORF)                     |     36°53′40.6″     | 76°12′04.4″  |
+|                           Oklahoma City, OK:                            |                     |              |
+|                            Wiley Post (PWA)                             |     35°32′04.4″     | 97°38′49.9″  |
+|                         Will Rogers World (OKC)                         |     35°23′35.1″     | 97°36′02.6″  |
+|                    Omaha, NE: Eppley Airfield (OMA)                     |     41°18′09.1″     | 95°53′39.0″  |
+|                              Orlando, FL:                               |                     |              |
+|                         Orlando Executive (ORL)                         |     28°32′43.7″     | 81°19′58.6″  |
+|                           Orlando Int'l (MCO)                           |     28°25′44.0″     | 81°18′57.7″  |
+|           Palm Springs, CA: Palm Springs International (PSP)            |     33°49′46.8″     | 116°30′24.1″ |
+|         Peoria, IL: General Wayne A. Downing Peoria Int'l (PIA)         |     40°39′51.3″     | 89°41′35.9″  |
+|                          Philadelphia, PA-NJ:                           |                     |              |
+|                      Northeast Philadelphia (PNE)                       |     40°04′55.0″     | 75°00′38.1″  |
+|                        Philadelphia Int'l (PHL)                         |     39°52′19.0″     | 75°14′28.1″  |
+|                              Phoenix, AZ:                               |                     |              |
+|                     Phoenix-Sky Harbor Int'l (PHX)                      |     33°26′03.0″     | 112°00′29.0″ |
+|                            Scottsdale (SDL)                             |     33°37′22.3″     | 111°54′37.9″ |
+|                             Pittsburgh, PA:                             |                     |              |
+|                         Allegheny County (AGC)                          |     40°21′15.9″     | 79°55′48.9″  |
+|                         Pittsburgh Int'l (PIT)                          |     40°29′29.3″     | 80°13′58.3″  |
+|           Portland, ME: Portland International Jetport (PWM)            |     43°38′46.2″     | 70°18′31.5″  |
+|                              Portland, OR:                              |                     |              |
+|                        Portland-Hillsboro (HIO)                         |     45°32′25.4″     | 122°56′59.4″ |
+|                      Portland International (PDX)                       |     45°35′19.4″     | 122°35′51.0″ |
+|                        Portland-Troutdale (TTD)                         |     45°32′57.7″     | 122°24′04.5″ |
+|                      Providence-Pawtucket, RI-MA:                       |                     |              |
+|                        North Central State (SFZ)                        |     41°55′14.7″     | 71°29′29.0″  |
+|                         T.F. Green State (PVD)                          |     41°43′26.4″     | 71°25′41.6″  |
+|                    Pueblo, CO: Pueblo Memorial (PUB)                    |     38°17′20.7″     | 104°29′47.7″ |
+|         Raleigh/Durham, NC: Raleigh-Durham International (RDU)          |     35°52′39.5″     | 78°47′14.9″  |
+|                Rapid City, SD: Rapid City Regional (RAP)                |     44°02′43.2″     | 103°03′26.5″ |
+|                Reno, NV: Reno/Tahoe International (RNO)                 |     39°29′54.8″     | 119°46′05.0″ |
+|               Richmond, VA: Richmond International (RIC)                |     37°30′18.6″     | 77°19′10.8″  |
+|      Roanoke, VA: Roanoke-Blacksburg Regional/Woodrum Field (ROA)       |     37°19′31.7″     | 79°58′31.5″  |
+|              Rochester, MN: Rochester International (RST)               |     43°54′26.0″     | 92°29′56.4″  |
+|              Rochester, NY: Greater Rochester Int'l (ROC)               |     43°07′07.9″     | 77°40′20.6″  |
+|                             Sacramento, CA:                             |                     |              |
+|                       Sacramento Executive (SAC)                        |     38°30′45.1″     | 121°29′36.5″ |
+|                         Sacramento Int'l (SMF)                          |     38°41′43.5″     | 121°35′26.8″ |
+|                  Saginaw, MI: MBS International (MBS)                   |     43°31′58.5″     | 84°04′46.7″  |
+|          Saipan Isl., CQ: Francisco C. Ada/Saipan Int'l (GSN)           |     15°07′08.4″     |145°43′45.7″ E|
+|                             St. Louis, MO:                              |                     |              |
+|                        Spirit of St. Louis (SUS)                        |     38°39′42.7″     | 90°39′04.4″  |
+|                      Lambert-St. Louis Int'l (STL)                      |     38°44′51.7″     | 90°21′35.9″  |
+|                           St. Petersburg, FL:                           |                     |              |
+|                     Albert Whitted Municipal (SPG)                      |     27°45′54.4″     | 82°37′37.1″  |
+|                  St. Petersburg Clearwater Int'l (PIE)                  |     27°54′38.8″     | 82°41′14.9″  |
+|             Salt Lake City, UT: Salt Lake City Int'l (SLC)              |     40°47′18.2″     | 111°58′39.9″ |
+|                San Antonio, TX: San Antonio Int'l (SAT)                 |     29°32′01.3″     | 29°32′01.3″  |
+|                  San Diego, CA: San Diego Int'l (SAN)                   |     32°44′00.8″     | 117°11′22.8″ |
+|                       San Francisco-Oakland, CA:                        |                     |              |
+|                    Metropolitan Oakland Int'l (OAK)                     |     37°43′16.7″     | 122°13′14.6″ |
+|                        San Francisco Int'l (SFO)                        |     37°37′08.4″     | 122°22′29.4″ |
+|           San Jose, CA: Norman Y. Mineta San Jose Int'l (SJC)           |     37°21′42.7″     | 121°55′44.4″ |
+|                     San Juan, PR: Luis Munoz (SJU)                      |     18°26′21.9″     | 66°00′06.6″  |
+|            Santa Barbara, CA: Santa Barbara Municipal (SBA)             |     34°25′34.4″     | 119°50′25.3″ |
+|                 Santa Fe, NM: Santa Fe Municipal (SAF)                  |     35°37′00.4″     | 106°05′17.3″ |
+|          Sarasota, FL: Sarasota/Bradenton International (SRQ)           |     27°23′43.2″     | 82°33′14.8″  |
+|              Savanna, GA: Savanah/Hilton Head Int'l (SAV)               |     32°07′39.3″     |  81°12′7.7″  |
+|             Scranton, PA: Wilkes Barre/Scranton Int'l (AVP)             |     41°20′17.3″     | 75°43′27.4″  |
+|                              Seattle, WA:                               |                     |              |
+|                     Boeing/King County Int'l (BFI)                      |     47°31′48.4″     | 122°18′07.4″ |
+|                       Seattle-Tacoma Int'l (SEA)                        |     47°26′56.3″     | 122°18′33.5″ |
+|                             Shreveport, LA:                             |                     |              |
+|                        Shreveport Downtown (DTN)                        |     32°32′24.8″     | 93°44′42.1″  |
+|                        Shreveport Regional (SHV)                        |     32°26′47.9″     | 93°49′32.2″  |
+|        Sioux City, IA: Sioux Gateway/Colonel Bud Day Field (SUX)        |     42°24′09.4″     | 96°23′03.7″  |
+|                  Sioux Falls, SD: Joe Foss Field (FSD)                  |     43°34′52.9″     | 96°44′30.1″  |
+|                South Bend, IN: South Bend Regional (SBN)                |     41°42′32.2″     | 86°19′06.5″  |
+|                              Spokane, WA:                               |                     |              |
+|                        Grant County Int'l (MWH)                         |     47°12′27.5″     | 119°19′12.7″ |
+|                           Spokane Int'l (GEG)                           |     47°37′11.5″     | 117°32′01.8″ |
+|                            Springfield, MA:                             |                     |              |
+|                     Westfield-Barnes Regional (BAF)                     |     42°09′27.8″     | 72°42′56.2″  |
+|                     Westover ARB/Metropolitan (CEF)                     |     42°11′53.8″     | 72°32′03.3″  |
+|           Springfield, MO: Springfield-Branson National (SGF)           |     37°14′39.6″     | 93°23′12.7″  |
+|               Syracuse, NY: Syracuse-Hancock Int'l (SYR)                |     43°06′40.3″     | 76°06′22.7″  |
+|                    Tacoma, WA: Tacoma Narrows (TIW)                     |     47°16′04.6″     | 122°34′41.2″ |
+|                 Tallahasee, FL: Tallahasee Int'l (TLH)                  |     30°23′47.5″     | 84°21′01.2″  |
+|                      Tampa, FL: Tampa Int'l (TPA)                       |     27°58′31.7″     | 82°31′59.7″  |
+|                 Telluride, CO: Telluride Regional (TEX)                 |     37°57′13.5″     | 107°54′30.5″ |
+|                    Toledo, OH: Toledo Express (TOL)                     |     41°35′12.5″     | 83°48′28.2″  |
+|                  Trenton, NJ-PA: Trenton Mercer (TTN)                   |     40°16′36.1″     | 74°48′48.5″  |
+|                     Tucson, AZ: Tucson Int'l (TUS)                      |     32°06′57.9″     | 110°56′27.7″ |
+|                               Tulsa, OK:                                |                     |              |
+|                          R.L. Jones, Jr. (RVS)                          |     36°02′22.7″     | 95°59′04.7″  |
+|                            Tulsa Int'l (TUL)                            |     36°11′54.1″     | 95°53′17.7″  |
+|                             Washington, DC:                             |                     |              |
+|                       Dulles International (IAD)                        |     38°56′40.3″     | 77°27′20.9″  |
+|                      Ronald Reagan National (DCA)                       |     38°51′07.5″     | 77°02′15.8″  |
+|                  Waterloo, IA: Waterloo Regional (ALO)                  |     42°33′25.5″     | 92°24′01.2″  |
+|           West Palm Beach, FL: Palm Beach International (PBI)           |     26°40′59.4″     | 80°05′44.1″  |
+|               White Plains, NY: Westchester County (HPN)                |     41°04′01.1″     | 73°42′27.3″  |
+|        Wichita, KS: Wichita Dwight D. Eisenhower National (ICT)         |     37°38′59.9″     | 97°25′58.9″  |
+|                    Wilmington, DE: New Castle (ILG)                     |     39°40′43.4″     | 75°36′23.5″  |
+|                 Worcester, MA: Worcester Regional (ORH)                 |     42°16′02.4″     | 71°52′32.6″  |
+|       Youngstown-Warren, OH-PA: Youngstown-Warren Regional (YNG)        |     41°15′38.7″     | 80°40′44.8″  |
 
-<sup>1</sup> Coordinates followed by an “E” are east longitude.
+Coordinates followed by an “E” are east longitude.
 
 (62) This frequency may be assigned to fixed stations in the Industrial/Business Pool in accordance with the provisions of § 90.261.
 
-(63) Within the boundaries of urbanized areas of 200,000 or more population, defined in the United States Census of Population, 1960, vol. 1, table 23, page 1-50, this frequency may be used only by persons rendering a central station commercial protection service within the service area of the radio station utilizing the frequency and may be used only for communications pertaining to safety of life and property, and for maintenance or testing of the protection facilities. Central Station commercial protection service is defined as an electrical protection and supervisory service rendered to the public from and by a central station accepted and certified by one or more of the recognized rating agencies, or the Underwriters Laboratories' (UL), or Factory Mutual System. Other stations in the Industrial/Business Pool may be licensed on this frequency only when all base, mobile relay and control stations are located at least 120 km (75 miles) from the city center or centers of the specified urbanized areas of 200,000 or more population. With respect to combination urbanized areas containing more than one city, 120 km (75 mile) separation shall be maintained from each city center which is included in the urbanized area. The locations of centers of cities are determined from appendix, page 226, of the U.S. Commerce publication “Air Line Distance Between Cities in the United States.”
+(63) Unless concurrence is obtained in accordance with § 90.175(b) of this chapter from the Commission-certified frequency coordinator for frequencies designated for central station alarm operations (central station alarm frequency coordinator), this frequency may be used within the boundaries of urbanized areas of 200,000 or more population, defined in the United States Census of Population, 1960, vol. 1, table 23, page 1-50, only by persons rendering a central station commercial protection service within the service area of the radio station using the frequency and may be used only for communications pertaining to safety of life and property, and for maintenance or testing of the protection facilities. Central station commercial protection service is defined as an electrical protection and supervisory service rendered to the public from and by a central station accepted and certified by one or more of the recognized rating agencies, or the Underwriters Laboratories' (UL), or Factory Mutual System. Other stations in the Industrial/Business Pool may be licensed on this frequency without the central station alarm frequency coordinator's concurrence only when all base, mobile relay and control stations are located at least 120 km (75 miles) from the city center or centers of the specified urban areas of 200,000 or more population. With respect to combination urbanized areas containing more than one city, 120 km (75 mile) separation shall be maintained from each city center which is included in the urbanized area. The locations of centers of cities are determined from appendix, page 226, of the U.S. Commerce publication “Air Line Distance Between Cities in the United States.”
 
-(64) Persons who render a central station commercial protection service are authorized to operate fixed stations on this frequency for the transmission of tone or impulse signals on a secondary, noninterference base-to-base/mobile operations subject to the following conditions and limitations:
+(64) Persons who render a central station commercial protection service are authorized to operate fixed stations on this frequency for the transmission of tone or impulse signals on a co-primary basis to base/mobile operations. Fixed stations may be licensed as mobiles. Fixed stations used for central station alarm operations may use antennas mounted not more than 6.1 meters (20 feet) above a man-made supporting structure, including antenna structure.
 
-(i) Secondary fixed operations may be used only for the following purposes:
+(i) The output power shall not exceed 30 watts (at the remote site).
 
-(A) Indication of equipment malfunction;
+(ii) A1D, A2D, F1D, or F2D emission may be authorized.
 
-(B) Actuation of a device to indicate the presence of an intruder, fire, or other hazardous condition on the property under the protection of the licensee;
-
-(C) Indication of an abnormal condition in facilities under the protection of the licensee that, if not promptly reported, would result in danger to human life;
-
-(D) Transmission, as may be necessary, to verify status of equipment; adjust operating conditions; or correct any abnormal condition; or
-
-(E) Confirmation of status, or that an operation or correction has been accomplished.
-
-(ii) The maximum duration of any one non-voice signal may not exceed 2 seconds and shall not be transmitted more than three times.
-
-(iii) Systems employing automatic interrogation shall be limited to non-voice techniques and shall not be activated for this purpose more than 10 seconds out of any 60-second period. This 10-second frame includes both transmit and response times.
-
-(iv) The bandwidth shall not exceed that authorized to the licensee for the primary operation on the frequency concerned.
-
-(v) Frequency loading resulting from the use of secondary signaling will not be considered in whole or in part as a justification for authorizing additional frequencies in the licensee's mobile system.
-
-(vi) A mobile service frequency may not be used exclusively for secondary signaling.
-
-(vii) The output power shall not exceed 30 watts (at the remote site).
-
-(viii) A1D, A2D, F1D, or F2D emission may be authorized.
-
-(ix) The transmitter shall be designed to deactivate automatically after 3 minutes of continuous carrier radiation.
-
-(x) Operational fixed stations authorized under this paragraph are exempt from the requirements of §§ 90.137(b), 90.429(d), 90.425 and 90.433.
-
-(xi) On these frequencies, base, mobile relay or mobile stations may transmit secondary tone or impulse signals to receivers, as provided in this section.
+(iii) Operational fixed stations authorized under this paragraph are exempt from the requirements of §§ 90.137(b), 90.429(d), 90.425 and 90.433.
 
 (65) Licensees providing a central station commercial protection service may communicate with police or fire stations, or vehicles, on this frequency, and may install licensed transmitting units which operate on this frequency at police or fire stations, or in police or fire vehicles, if the frequency's primary use is in a base/mobile system for a central station commercial protection service.
 
-(66) This frequency may be assigned only to persons rendering a central station commercial protection service, which is defined in paragraph (c)(63) of this section, within the service area of the radio station utilizing the frequency.
+(66) Unless concurrence is obtained in accordance with section 90.175(b) of this chapter from the Commission-certified frequency coordinator for frequencies designated for central station alarm operations, this frequency may be assigned only to persons rendering a central station commercial protection service, which is defined in paragraph (c)(63) of this section, within the service area of the radio station using the frequency.
 
 (67) Medical telemetry operations are authorized on this frequency on a secondary basis. Medical telemetry operations are subject to the provisions of § 90.267(h)(2).
 
@@ -3627,6 +3607,6 @@ Industrial/Business Pool Frequency Table
 
 (g) The frequencies 9-490 kHz are used to operate electric utility Power Line Carrier (PLC) systems on power transmission lines for communications essential to the reliability and security of electric service to the public, in accordance with part 15 of this chapter. Any electric utility that generates, transmits, or distributes electrical energy for use by the general public or by the members of a cooperative organization may operate PLC systems and shall supply to a Federal Communications Commission/National Telecommunications and Information Administration recognized industry-operated entity, information on all existing, changes to existing, and proposed systems for inclusion in a data base. Such information shall include the frequency, power, location of transmitter(s), location of receivers and other technical and operational parameters, which would characterize the system's potential both to interfere with authorized radio users, and to receive harmful interference from these users. In an agreed upon format, the industry-operated entity shall inform the FCC and the NTIA of these system characteristics prior to implementation of any proposed PLC system and shall provide monthly or periodic lists with supplements of PLC systems. The FCC and NTIA will supply appropriate application and licensing information to the notification activity regarding authorized radio stations operating in the band. PLC systems in this band operate on a non-interference basis to radio systems assigned frequencies by the NTIA or licensed by the FCC and are not protected from interference due to these radio operations.
 
-[62 FR 18874, Apr. 17, 1997]Editorial Note:For Federal Register citations affecting § 90.35, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 64 FR 36262, July 6, 1999, § 90.35 was amended by revising entries in the table in paragraph (b)(3) and by adding paragraphs (c)(80) and (c)(81), effective Aug. 5, 1999. At 64 FR 50467, Sept. 17, 1999, paragraphs (c)(80), (c)(81), and the following entries in the table in paragraph (b)(3) were stayed:
+[62 FR 18874, Apr. 17, 1997]Editorial Note:For Federal Register citations affecting § 90.35, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 64 FR 36262, July 6, 1999, § 90.35 was amended by revising entries in the table in paragraph (b)(3) and by adding paragraphs (c)(80) and (c)(81), effective Aug. 5, 1999. At 64 FR 50467, Sept. 17, 1999, paragraphs (c)(80), (c)(81), and the following entries in the table in paragraph (b)(3) were stayed:
 
 153.035 MHz through 153.4025 MHz, 153.4025 MHz through 153.4625 MHz, 153.485 MHz through 153.5225 MHz, 153.545 MHz through 153.5825 MHz, 153.605 MHz through 153.6425 MHz, 153.665 MHz through 153.6675 MHz, 158.145 MHz through 158.1825 MHz, 158.205 MHz through 158.2425 MHz, 158.265 MHz through 158.3325 MHz, 158.355 MHz through 158.3775 MHz, 158.415 MHz through 158.4375 MHz, 173.250 MHz, 173.300 MHz, 173.350 MHz, 451.175 MHz, 451.225 MHz, 451.275 MHz, 451.375 MHz, 451.425 MHz, 451.475 MHz, 451.525 MHz, 451.550 MHz, 451.575 MHz, 451.600 MHz, 451.625 MHz, 451.650 MHz, 451.675 MHz, 451.700 MHz, 451.750 MHz, 452.325 MHz, 452.375 MHz, 452.425 MHz, 452.475 MHz, 452.775 MHz, 452.825 MHz, 452.875 MHz, 456.175 MHz, 456.225 MHz, 456.275 MHz, 456.375 MHz, 456.425 MHz, 456.475 MHz, 456.525 MHz, 456.550 MHz, 456.575 MHz, 456.600 MHz, 456.625 MHz, 456.650 MHz, 456.675 MHz, 456.700 MHz, 456.750 MHz, 457.325 MHz, 457.375 MHz, 457.425 MHz, 457.475 MHz, 457.775 MHz, 457.825 MHz, 457.875 MHz, 462.475 MHz, 462.525 MHz, 467.475 MHz, and 467.525 MHz

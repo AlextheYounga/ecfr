@@ -1,7 +1,5 @@
 ##### § 76.910 Franchising authority certification. #####
 
-Link to an amendment published at 83 FR 60776, Nov. 27, 2018.
-
 (a) A franchising authority must be certified by the Commission in order to regulate the basic service tier and associated equipment of a cable system within its jurisdiction.
 
 (b) To be certified, the franchising authority must file with the Commission a written certification that:
@@ -14,7 +12,7 @@ Link to an amendment published at 83 FR 60776, Nov. 27, 2018.
 
 (4) The cable system in question is not subject to effective competition. The franchising authority must submit specific evidence demonstrating its rebuttal of the presumption in § 76.906 that the cable operator is subject to effective competition pursuant to section 76.905(b)(2). Unless a franchising authority has actual knowledge to the contrary, the franchising authority may rely on the presumption in § 76.906 that the cable operator is not subject to effective competition pursuant to section 76.905(b)(1), (3), or (4). The franchising authority bears the burden of submitting evidence rebutting the presumption that competing provider effective competition, as defined in § 76.905(b)(2), exists in the franchise area. If the evidence establishing the lack of effective competition is not otherwise available, franchising authorities may request from a multichannel video programming distributor information regarding the multichannel video programming distributor's reach and number of subscribers. A multichannel video programming distributor must respond to such request within 15 days. Such responses may be limited to numerical totals.
 
-(c) The written certification described in paragraph (b) of this section shall be made by filing the FCC form designated for that purpose. The form must be filed by
+(c) The written certification described in paragraph (b) of this section shall be made by completing and filing FCC Form 328. FCC Form 328 can be obtained from the internet at *http://www.fcc.gov/Forms/Form328/328.pdf* or by calling the FCC Forms Distribution Center at 1-800-418-3676. The form must be filed by
 
 (1) Registered mail, return receipt requested, or
 
@@ -34,4 +32,4 @@ Link to an amendment published at 83 FR 60776, Nov. 27, 2018.
 
 (f) If the Commission denies a franchising authority's certification, the Commission will notify the franchising authority of any revisions or modifications necessary to obtain approval.
 
-[58 FR 29753, May 21, 1993, as amended at 80 FR 38013, July 2, 2015]
+[58 FR 29753, May 21, 1993, as amended at 80 FR 38013, July 2, 2015; 83 FR 60776, Nov. 27, 2018]

@@ -512,4 +512,4 @@ Link to an amendment published at 83 FR 64004, Dec. 12, 2018.
 
 (ii) The C/P sector will convert to an IFQ-based fishery beginning the following calendar year after a coop failure, or a soon as practicable thereafter. NMFS will develop additional regulations, as necessary to implement an IFQ fishery for the C/P sector. Each C/P-endorsed permit would receive an equal distribution of QS from the total IFQ for the catcher/processor sector allocation.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78419, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74746, Dec. 1, 2011; 77 FR 55158, Sept. 7, 2012; 78 FR 75282, Dec. 11, 2013; 80 FR 22297, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 82 FR 763, Jan. 8, 2018]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78419, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74746, Dec. 1, 2011; 77 FR 55158, Sept. 7, 2012; 78 FR 75282, Dec. 11, 2013; 80 FR 22297, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 83 FR 763, Jan. 8, 2018]

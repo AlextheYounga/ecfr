@@ -1,6 +1,4 @@
-##### § 250.828 Design, installation, and operation of SSSVs - subsea trees. #####
-
-Link to an amendment published at 83 FR 49257, Sept. 28, 2018.
+##### § 250.828 Design, installation, and operation of SSSVs—subsea trees. #####
 
 You must design, install, and operate (including repair, maintain, and test) an SSSV to ensure its reliable operation.
 
@@ -8,4 +6,6 @@ You must design, install, and operate (including repair, maintain, and test) an 
 
 (b) The well must not be open to flow while an SSSV is inoperable, unless specifically approved by the District Manager in an APM.
 
-(c) You must design, install, maintain, inspect, repair, and test all SSSVs in accordance with your Deepwater Operations Plan (DWOP) and API RP 14B (incorporated by reference as specified in § 250.198). For additional SSSV testing requirements, refer to § 250.880.
+(c) You must design, install, maintain, inspect, repair, and test all SSSVs in accordance with your Deepwater Operations Plan (DWOP) and ANSI/API RP 14B (incorporated by reference in § 250.198). For additional SSSV testing requirements, refer to § 250.880.
+
+[81 FR 60918, Sept. 7, 2016, as amended at 83 FR 49257, Sept. 28, 2018]

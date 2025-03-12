@@ -1,7 +1,5 @@
 ##### § 250.852 Flowlines/Headers. #####
 
-Link to an amendment published at 83 FR 49259, Sept. 28, 2018.
-
 (a) You must:
 
 (1) Equip flowlines from wells with both PSH and PSL sensors. You must locate these sensors in accordance with section A.1 of API RP 14C (incorporated by reference as specified in § 250.198).
@@ -27,16 +25,18 @@ Link to an amendment published at 83 FR 49259, Sept. 28, 2018.
 
 (e) If you are installing flowlines constructed of unbonded flexible pipe on a floating platform, you must:
 
-(1) Review the manufacturer's Design Methodology Verification Report and the independent verification agent's (IVA's) certificate for the design methodology contained in that report to ensure that the manufacturer has complied with the requirements of API Spec. 17J (incorporated by reference as specified in § 250.198);
+(1) Review the manufacturer's Design Methodology Verification Report and the independent verification agent's (IVA) certificate for the design methodology contained in that report to ensure that the manufacturer has complied with the requirements of ANSI/API Spec. 17J (incorporated by reference in § 250.198);
 
 (2) Determine that the unbonded flexible pipe is suitable for its intended purpose;
 
 (3) Submit to the District Manager the manufacturer's design specifications for the unbonded flexible pipe; and
 
-(4) Submit to the District Manager a statement certifying that the pipe is suitable for its intended use and that the manufacturer has complied with the IVA requirements of API Spec. 17J (incorporated by reference as specified in § 250.198).
+(4) Submit to the District Manager a statement certifying that the pipe is suitable for its intended use and that the manufacturer has complied with the IVA requirements of ANSI/API Spec. 17J (incorporated by reference in § 250.198).
 
 (f) Automatic pressure or flow regulating choking devices must not prevent the normal functionality of the process safety system that includes, but is not limited to, the flowline pressure safety devices and the SSV.
 
 (g) You may install a single flow safety valve (FSV) on the platform to protect multiple subsea pipelines or wells that tie into a single pipeline riser provided that you install an FSV for each riser on the platform and test it in accordance with the criteria prescribed in § 250.880(c)(2)(v).
 
 (h) You may install a single PSHL sensor on the platform to protect multiple subsea pipelines that tie into a single pipeline riser provided that you install a PSHL sensor for each riser on the platform and locate it upstream of the BSDV.
+
+[81 FR 60918, Sept. 7, 2016, as amended at 83 FR 49259, Sept. 28, 2018]

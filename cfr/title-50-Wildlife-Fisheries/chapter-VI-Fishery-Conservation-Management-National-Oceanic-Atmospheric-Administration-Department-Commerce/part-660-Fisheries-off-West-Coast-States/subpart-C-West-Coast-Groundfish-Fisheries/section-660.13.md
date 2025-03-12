@@ -1,6 +1,6 @@
 ##### § 660.13 Recordkeeping and reporting. #####
 
-Link to an amendment published at 83 FR 62275, Dec. 3, 2018.
+Link to an amendment published at 83 FR 62275, Dec. 3, 2018.Link to a correction published at 83 FR 66637, Dec. 27, 2018.
 
 (a) This subpart recognizes that catch and effort data necessary for implementing the PCGFMP are collected by the States of Washington, Oregon, and California under existing state data collection requirements.
 

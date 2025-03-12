@@ -1,5 +1,7 @@
 ##### § 111.24 Civil Penalties (52 U.S.C. 30109(a)(5), (6), (12), 28 U.S.C. 2461 nt.). #####
 
+Link to an amendment published at 83 FR 66597, Dec. 27, 2018.
+
 (a) Except as provided in 11 CFR part 111, subpart B and in paragraph (b) of this section, a civil penalty negotiated by the Commission or imposed by a court for a violation of the Act or chapters 95 or 96 of title 26 (26 U.S.C.) shall be as follows:
 
 (1) Except as provided in paragraph (a)(2) of this section, in the case of a violation of the Act or chapters 95 or 96 of title 26 (26 U.S.C.), the civil penalty shall not exceed the greater of $19,446 or an amount equal to any contribution or expenditure involved in the violation.

@@ -348,9 +348,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (*2*) 3 percent of the total Central GOA Pacific cod TAC.
 
-(b) *Reserves* - (1) *BSAI* -
-
-(i) *Nonspecified reserve.* Fifteen percent of the BSAI TAC for each target species, except pollock, the hook-and-line and pot gear allocation for sablefish, and the Amendment 80 species, which includes Pacific cod, is automatically placed in the nonspecified reserve before allocation to any sector. The remaining 85 percent of each TAC is apportioned to the initial TAC for each target species that contributed to the nonspecified reserve. The nonspecified reserve is not designated by species or species group. Any amount of the nonspecified reserve may be apportioned to target species that contributed to the nonspecified reserve, provided that such apportionments are consistent with paragraph (a)(3) of this section and do not result in overfishing of a target species.
+(b) *Reserves* - (1) *BSAI* - (i) *Nonspecified reserve.* Fifteen percent of the BSAI TAC for each target species, except pollock, the hook-and-line and pot gear allocation for sablefish, and the Amendment 80 species, which includes Pacific cod, is automatically placed in the nonspecified reserve before allocation to any sector. The remaining 85 percent of each TAC is apportioned to the initial TAC for each target species that contributed to the nonspecified reserve. The nonspecified reserve is not designated by species or species group. Any amount of the nonspecified reserve may be apportioned to target species that contributed to the nonspecified reserve, provided that such apportionments are consistent with paragraph (a)(3) of this section and do not result in overfishing of a target species.
 
 (ii) *CDQ reserves* - (A) *Pollock CDQ reserves* - (*1*) *Bering Sea.* In the annual harvest specifications required by paragraph (c) of this section, 10 percent of the Bering Sea subarea pollock TAC will be allocated to a CDQ reserve as a directed fishing allowance.
 
@@ -560,7 +558,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (v) If NMFS makes any adjustment or announcement without providing a prior notification and opportunity for prior public comment, the Regional Administrator will receive public comments on the adjustment or announcement for a period of 15 days from the date of publication in the Federal Register.
 
-(i) *Forage fish, grenadiers, and squids.* - (1) *Definition.* See Table 2c to this part.
+(i) *Forage fish, grenadiers, and squids* - (1) *Definition.* See Table 2c to this part.
 
 (2) *Applicability.* The provisions of § 679.20(i) apply to all vessels fishing for groundfish in the BSAI or GOA, and to all vessels processing groundfish harvested in the BSAI or GOA.
 
@@ -580,4 +578,4 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (iii) Amounts of DSR retained by catcher vessels under paragraph (j)(1) of this section that are in excess of the limits specified in paragraphs (j)(2)(i) and (ii) may be put to any use, including but not limited to personal consumption or donation, but must not enter commerce through sale, barter, or trade.
 
-[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.20, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.20, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

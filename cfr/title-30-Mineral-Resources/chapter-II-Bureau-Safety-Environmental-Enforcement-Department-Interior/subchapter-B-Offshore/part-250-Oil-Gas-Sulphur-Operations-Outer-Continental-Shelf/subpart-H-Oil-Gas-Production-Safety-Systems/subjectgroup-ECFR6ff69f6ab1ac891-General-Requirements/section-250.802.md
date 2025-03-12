@@ -1,14 +1,18 @@
 ##### § 250.802 Requirements for SPPE. #####
 
-Link to an amendment published at 83 FR 49256, Sept. 28, 2018.
-
-(a) All SSVs, BSDVs, and USVs and their actuators must meet all of the specifications contained in ANSI/API Spec. 6A and API Spec. 6AV1 (both incorporated by reference as specified in § 250.198).
+(a) All SSVs, BSDVs, USVs, and GLSDVs and their actuators must meet all of the specifications contained in ANSI/API Spec. 6A and API Spec. 6AV1 (both incorporated by reference in § 250.198).
 
 (b) All SSSVs and their actuators must meet all of the specifications and recommended practices of ANSI/API Spec. 14A and ANSI/API RP 14B, including all annexes (both incorporated by reference as specified in § 250.198). Subsurface-controlled SSSVs are not allowed on subsea wells.
 
-(c) Requirements derived from the documents incorporated in this section for SSVs, BSDVs, USVs, and SSSVs and their actuators, include, but are not limited to, the following:
+(c) Requirements derived from the documents incorporated in this section for SSVs, BSDVs, SSSVs, USVs, GLSDVs, and their actuators, include, but are not limited to, the following:
 
-(1) Each device must be designed to function and to close in the most extreme conditions to which it may be exposed, including temperature, pressure, flow rates, and environmental conditions. You must have an independent third-party review and certify that each device will function as designed under the conditions to which it may be exposed. The independent third-party must have sufficient expertise and experience to perform the review and certification.
+(1) You must ensure that each device is designed to function in the conditions to which it may be exposed; including temperature, pressure, flow rates, and environmental conditions.
+
+(i) The device design must be tested by an independent test agency according to the test requirements in the appropriate standard for that device (API Spec. 6AV1 or ANSI/API Spec. 14A), as identified in paragraphs (a) and (b) of this section.
+
+(ii) You must maintain a description of the process you used to ensure the device is designed to function as required in paragraphs (a) and (c)(1) of this section and provide that description to BSEE upon request.
+
+(iii) If you remove any SPPE from service and install the device at a different location, you must have a qualified third party review and certify that each device will function as designed under the conditions to which it may be exposed.
 
 (2) All materials and parts must meet the original equipment manufacturer specifications and acceptance criteria.
 
@@ -24,10 +28,12 @@ Link to an amendment published at 83 FR 49256, Sept. 28, 2018.
 
 (d) You must install and use SPPE according to the following table.
 
-|                                                If . . .                                                 |                       Then . . .                        |
-|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
-|                                 (1) You need to install any SPPE . . .                                  |    You must install SPPE that conforms to § 250.801.    |
-|                          (2) A non-certified SPPE is already in service . . .                           |         It may remain in service on that well.          |
-|(3) A non-certified SPPE requires offsite repair, re-manufacturing, or any hot work such as welding . . .|You must replace it with SPPE that conforms to § 250.801.|
+|                                             If . . .                                              |                       Then . . .                        |
+|---------------------------------------------------------------------------------------------------|---------------------------------------------------------|
+|                                 (1) You need to install any SPPE                                  |    You must install SPPE that conforms to § 250.801.    |
+|                          (2) A non-certified SPPE is already in service                           |                It may remain in service.                |
+|(3) A non-certified SPPE requires offsite repair, re-manufacturing, or any hot work such as welding|You must replace it with SPPE that conforms to § 250.801.|
 
 (e) You must retain all documentation related to the manufacture, installation, testing, repair, redress, and performance of the SPPE until 1 year after the date of decommissioning of the equipment.
+
+[81 FR 60918, Sept. 7, 2016, as amended at 83 FR 49256, Sept. 28, 2018]

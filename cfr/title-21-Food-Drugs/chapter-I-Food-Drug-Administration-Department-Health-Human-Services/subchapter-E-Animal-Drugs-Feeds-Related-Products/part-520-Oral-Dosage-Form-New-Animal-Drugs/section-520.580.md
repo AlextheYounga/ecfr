@@ -20,4 +20,4 @@
 
 (3) *Limitations.* Withhold solid foods and milk for at least 12 hours prior to medication and for 4 hours afterward. Repeat treatment in 2 to 4 weeks in animals subject to reinfection.
 
-[45 FR 10332, Feb. 15, 1980]Editorial Note:For Federal Register citations affecting § 520.580, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[45 FR 10332, Feb. 15, 1980]Editorial Note:For Federal Register citations affecting § 520.580, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -24,7 +24,7 @@
 
 (A) 2 percent if the collateral posted by the national bank or Federal savings association to the QCCP or clearing member is subject to an arrangement that prevents any losses to the clearing member client national bank or Federal savings association due to the joint default or a concurrent insolvency, liquidation, or receivership proceeding of the clearing member and any other clearing member clients of the clearing member; and the clearing member client national bank or Federal savings association has conducted sufficient legal review to conclude with a well-founded basis (and maintains sufficient written documentation of that legal review) that in the event of a legal challenge (including one resulting from an event of default or from liquidation, insolvency, or receivership proceedings) the relevant court and administrative authorities would find the arrangements to be legal, valid, binding and enforceable under the law of the relevant jurisdictions; or
 
-(B) 4 percent if the requirements of §3.35(b)(3)(A) are not met.
+(B) 4 percent if the requirements of § 3.35(b)(3)(A) are not met.
 
 (ii) For a cleared transaction with a CCP that is not a QCCP, a clearing member client national bank or Federal savings association must apply the risk weight appropriate for the CCP according to § 3.32.
 

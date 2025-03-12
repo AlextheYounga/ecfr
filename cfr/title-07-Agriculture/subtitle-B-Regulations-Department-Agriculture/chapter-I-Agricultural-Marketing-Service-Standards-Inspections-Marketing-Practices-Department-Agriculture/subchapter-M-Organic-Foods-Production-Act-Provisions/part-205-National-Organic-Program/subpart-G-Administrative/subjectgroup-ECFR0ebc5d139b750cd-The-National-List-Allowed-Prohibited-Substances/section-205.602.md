@@ -1,5 +1,7 @@
 ##### § 205.602 Nonsynthetic substances prohibited for use in organic crop production. #####
 
+Link to an amendment published at 83 FR 66572, Dec. 27, 2018.
+
 The following nonsynthetic substances may not be used in organic crop production:
 
 (a) Ash from manure burning.

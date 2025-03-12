@@ -1,7 +1,5 @@
 ##### § 90.219 Use of signal boosters. #####
 
-Link to an amendment published at 83 FR 61097, Nov. 27, 2018.
-
 This section contains technical and operational rules allowing the use of signal boosters in the Private Land Mobile Radio Services (PLMRS). Rules for signal booster operation in the Commercial Mobile Radio Services under part 90 are found in § 20.21 of this chapter.
 
 (a) *Definitions.* The definitions in this paragraph apply only to the rules in this section.
@@ -38,7 +36,9 @@ This section contains technical and operational rules allowing the use of signal
 
 (2) Signal boosters must not be used to extend PLMRS stations' normal operating range.
 
-(3) Signal boosters must be deployed such that the radiated power of the each retransmitted channel, on the forward link and on the reverse link, does not exceed 5 Watts effective radiated power (ERP).
+(3)(i) Except as set forth in paragraph (d)(3)(ii) of this section, signal boosters must be deployed such that the radiated power of each retransmitted channel, on the forward link and on the reverse link, does not exceed 5 Watts effective radiated power (ERP).
+
+(ii) Railroad licensees may operate Class A signal boosters transmitting on a single channel with up to 30 Watts ERP on frequencies 452/457.9000 to 452/457.96875 MHz in areas where communication between the front and rear of trains is unsatisfactory due to distance or intervening terrain barriers.
 
 (4) Class B signal boosters may be deployed only at fixed locations; mobile operation of Class B signal boosters is prohibited after November 1, 2014.
 
@@ -82,4 +82,4 @@ This section contains technical and operational rules allowing the use of signal
 
 “WARNING. This is NOT a CONSUMER device. It is designed for installation by FCC LICENSEES and QUALIFIED INSTALLERS. You MUST have an FCC LICENSE or express consent of an FCC Licensee to operate this device. You MUST register Class B signal boosters (as defined in 47 CFR 90.219) online at *www.fcc.gov/signal-boosters/registration.* Unauthorized use may result in significant forfeiture penalties, including penalties in excess of $100,000 for each continuing violation.”
 
-[78 FR 21564, Apr. 12, 2013]
+[78 FR 21564, Apr. 12, 2013, as amended at 83 FR 61097, Nov. 27, 2018]

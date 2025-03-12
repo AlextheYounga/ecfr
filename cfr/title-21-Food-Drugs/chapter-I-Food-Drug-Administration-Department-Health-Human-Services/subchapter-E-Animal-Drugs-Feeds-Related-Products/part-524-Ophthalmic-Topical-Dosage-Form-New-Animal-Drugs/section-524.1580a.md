@@ -18,4 +18,4 @@
 
 (3) *Limitations.* For use only on dogs, cats, and horses. Do not use on horses intended for human consumption. Federal law prohibits the use of this product in food-producing animals. In case of deep or puncture wounds or serious burns, use only as recommended by veterinarian. If redness, irritation, or swelling persists or increases, discontinue use; consult veterinarian.
 
-[46 FR 43402, June 27, 1980. Redesignated at 79 FR 10971, Feb. 27, 2014]Editorial Note:For Federal Register citations affecting § 524.1580a, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[46 FR 43402, June 27, 1980. Redesignated at 79 FR 10971, Feb. 27, 2014]Editorial Note:For Federal Register citations affecting § 524.1580a, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

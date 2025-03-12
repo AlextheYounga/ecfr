@@ -24,4 +24,4 @@
 
 (ii) *Limitations.* Administer intramuscularly. Do not inject more than 5 mL per site in adult swine. Discontinue treatment at least 28 days prior to slaughter.
 
-[45 FR 16479, Mar. 14, 1980. Redesignated and amended at 69 FR 31879, June 8, 2004]Editorial Note:For Federal Register citations affecting § 522.1660a, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[45 FR 16479, Mar. 14, 1980. Redesignated and amended at 69 FR 31879, June 8, 2004]Editorial Note:For Federal Register citations affecting § 522.1660a, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

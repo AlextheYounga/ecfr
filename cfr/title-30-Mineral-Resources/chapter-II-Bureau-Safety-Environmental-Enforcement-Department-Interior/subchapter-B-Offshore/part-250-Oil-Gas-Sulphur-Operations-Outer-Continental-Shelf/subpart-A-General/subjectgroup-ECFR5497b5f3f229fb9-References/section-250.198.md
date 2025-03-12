@@ -1,7 +1,5 @@
 ##### § 250.198 Documents incorporated by reference. #####
 
-Link to an amendment published at 83 FR 49255, Sept. 28, 2018.
-
 (a) The BSEE is incorporating by reference the documents listed in paragraphs (e) through (k) of this section. Paragraphs (e) through (k) identify the publishing organization of the documents, the address and phone number where you may obtain these documents, and the documents incorporated by reference. The Director of the Federal Register has approved the incorporations by reference according to 5 U.S.C. 552(a) and 1 CFR part 51.
 
 (1) Incorporation by reference of a document is limited to the edition of the publication that is cited in this section. Future amendments or revisions of the document are not included. The BSEE will publish any changes to a document in the Federal Register and amend this section.
@@ -38,23 +36,25 @@ Link to an amendment published at 83 FR 49255, Sept. 28, 2018.
 
 (2) [Reserved]
 
-(g) American National Standards Institute (ANSI), ANSI/ASME Codes, *http://www.webstore.ansi.org;* phone: 212-642-4900; and/or American Society of Mechanical Engineers (ASME), 22 Law Drive, P.O. Box 2900, Fairfield, NJ 07007-2900; *http://www.asme.org;* phone: 1-800-843-2763:
+(g) American Society of Mechanical Engineers (ASME), 22 Law Drive, P.O. Box 2900, Fairfield, NJ 07007-2900; *http://www.asme.org;* phone: 1-800-843-2763:
 
-(1) ANSI/ASME Boiler and Pressure Vessel Code, Section I, Rules for Construction of Power Boilers; including Appendices, 2004 Edition; and July 1, 2005 Addenda, and all Section I Interpretations Volume 55, incorporated by reference at §§ 250.851(a) and 250.1629(b).
+(1) 2017 ASME Boiler and Pressure Vessel Code (BPVC), Section I, Rules for Construction of Power Boilers, 2017 Edition, July 1, 2017 incorporated by reference at §§ 250.851(a) and 250.1629(b).
 
-(2) ANSI/ASME Boiler and Pressure Vessel Code, Section IV, Rules for Construction of Heating Boilers; including Appendices 1, 2, 3, 5, 6, and Non-mandatory Appendices B, C, D, E, F, H, I, K, L, and M, and the Guide to Manufacturers Data Report Forms, 2004 Edition; July 1, 2005 Addenda, and all Section IV Interpretations Volume 55, incorporated by reference at §§ 250.851(a) and 250.1629(b).
+(2) 2017 ASME Boiler and Pressure Vessel Code, Section IV, Rules for Construction of Heating Boilers, 2017 Edition, July 1, 2017 incorporated by reference at §§ 250.851(a) and 250.1629(b).
 
-(3) ANSI/ASME Boiler and Pressure Vessel Code, Section VIII, Rules for Construction of Pressure Vessels; Divisions 1 and 2, 2004 Edition; July 1, 2005 Addenda, Divisions 1, 2, and 3 and all Section VIII Interpretations Volumes 54 and 55, incorporated by reference at §§ 250.851(a) and 250.1629(b).
+(3) 2017 ASME Boiler and Pressure Vessel Code, Section VIII, Rules for Construction of Pressure Vessels; Division 1, 2017 Edition; July 1, 2017 incorporated by reference at §§ 250.851(a) and 250.1629(b).
 
-(4) ANSI/ASME B 16.5-2003, Pipe Flanges and Flanged Fittings incorporated by reference at § 250.1002;
+(4) 2017 ASME Boiler and Pressure Vessel Code, Section VIII, Rules for Construction of Pressure Vessels; Division 2: Alternative Rules, 2017 Edition, July 1, 2017 incorporated by reference at §§ 250.851(a) and 250.1629(b).
 
-(5) ANSI/ASME B 31.8-2003, Gas Transmission and Distribution Piping Systems incorporated by reference at § 250.1002;
+(5) 2017 ASME Boiler and Pressure Vessel Code, Section VIII, Rules for Construction Pressure Vessels; Division 3: Alternative Rules for Construction of High Pressure Vessels, 2017 Edition, July 1, 2017 incorporated by reference at §§ 250.851(a) and 250.1629(b).
 
-(6) ANSI Z88.2-1992, American National Standard for Respiratory Protection, incorporated by reference at, § 250.490.
+(6) ANSI/ASME B 16.5-2003, Pipe Flanges and Flanged Fittings incorporated by reference at § 250.1002.
+
+(7) ANSI/ASME B 31.8-2003, Gas Transmission and Distribution Piping Systems incorporated by reference at § 250.1002.
 
 (h) American Petroleum Institute (API), API Recommended Practices (RP), Specs, Standards, Manual of Petroleum Measurement Standards (MPMS) chapters, 1220 L Street, NW., Washington, DC 20005-4070; *http://www.api.org;* phone: 202-682-8000:
 
-(1) API 510, Pressure Vessel Inspection Code: In-Service Inspection, Rating, Repair, and Alteration, Downstream Segment, Ninth Edition, June 2006; incorporated by reference at §§ 250.851(a) and 250.1629(b);
+(1) API 510, Pressure Vessel Inspection Code: In-Service Inspection, Rating, Repair, and Alteration, Tenth Edition, May 2014; Addendum 1, May 2017; incorporated by reference at §§ 250.851(a) and 250.1629(b);
 
 (2) API Bulletin 2INT-DG, Interim Guidance for Design of Offshore Structures for Hurricane Conditions, May 2007; incorporated by reference at § 250.901;
 
@@ -156,49 +156,49 @@ Link to an amendment published at 83 FR 49255, Sept. 28, 2018.
 
 (51) API RP 2RD, Recommended Practice for Design of Risers for Floating Production Systems (FPSs) and Tension-Leg Platforms (TLPs), First Edition, June 1998; reaffirmed, May 2006, Errata, June 2009; incorporated by reference at §§ 250.292, 250.733, 250.800(c), 250.901(a), (d), and 250.1002(b);
 
-(52) API RP 2SK, Recommended Practice for Design and Analysis of Stationkeeping Systems for Floating Structures, Third Edition, October 2005, Addendum, May 2008; incorporated by reference at §§ 250.800(c) and 250.901(a), (d);
+(52) API RP 2SK, Design and Analysis of Stationkeeping Systems for Floating Structures, Third Edition, October 2005, Addendum, May 2008, Reaffirmed June 2015; incorporated by reference at §§ 250.800(c) and 250.901(a) and (d);
 
 (53) API RP 2SM, Recommended Practice for Design, Manufacture, Installation, and Maintenance of Synthetic Fiber Ropes for Offshore Mooring, First Edition, March 2001, Addendum, May 2007; incorporated by reference at §§ 250.800(c) and 250.901;
 
 (54) API RP 2T, Recommended Practice for Planning, Designing, and Constructing Tension Leg Platforms, Second Edition, August 1997; incorporated by reference at § 250.901;
 
-(55) ANSI/API RP 14B, Recommended Practice for Design, Installation, Repair and Operation of Subsurface Safety Valve Systems, Fifth Edition, October 2005; incorporated by reference at §§ 250.802(b), 250.803(a), 250.814(d), 250.828(c), and 250.880(c);
+(55) ANSI/API RP 14B, Design, Installation, Operation, Test, and Redress of Subsurface Safety Valve Systems, Sixth Edition, September 2015; incorporated by reference at §§ 250.802(b), 250.803(a), 250.814(d), 250.828(c), and 250.880(c);
 
 (56) API RP 14C, Recommended Practice for Analysis, Design, Installation, and Testing of Basic Surface Safety Systems for Offshore Production Platforms, Seventh Edition, March 2001, Reaffirmed: March 2007; incorporated by reference at §§ 250.125(a), 250.292(j), 250.841(a), 250.842(a), 250.850, 250.852(a), 250.855, 250.856(a), 250.858(a), 250.862(e), 250.865(a), 250.867(a), 250.869(a) through (c), 250.872(a), 250.873(a), 250.874(a), 250.880(b) and (c), 250.1002(d), 250.1004(b), 250.1628(c) and (d), 250.1629(b), and 250.1630(a);
 
 (57) API RP 14E, Recommended Practice for Design and Installation of Offshore Production Platform Piping Systems, Fifth Edition, October 1991; Reaffirmed, January 2013; incorporated by reference at §§ 250.841(b), 250.842(a), and 250.1628(b) and (d);
 
-(58) API RP 14F, Recommended Practice for Design, Installation, and Maintenance of Electrical Systems for Fixed and Floating Offshore Petroleum Facilities for Unclassified and Class 1, Division 1 and Division 2 Locations, Upstream Segment, Fifth Edition, July 2008, Reaffirmed: April 2013; incorporated by reference at §§ 250.114(c), 250.842(b), 250.862(e), and 250.1629(b);
+(58) API RP 14F, Recommended Practice for Design, Installation, and Maintenance of Electrical Systems for Fixed and Floating Offshore Petroleum Facilities for Unclassified and Class 1, Division 1 and Division 2 Locations, Upstream Segment, Fifth Edition, July 2008, Reaffirmed: April 2013; incorporated by reference at §§ 250.114(c), 250.842(c), 250.862(e), and 250.1629(b);
 
-(59) API RP 14FZ, Recommended Practice for Design and Installation of Electrical Systems for Fixed and Floating Offshore Petroleum Facilities for Unclassified and Class I, Zone 0, Zone 1 and Zone 2 Locations, First Edition, September 2001, Reaffirmed: March 2007; incorporated by reference at §§ 250.114(c), 250.842(b), 250.862(e), and 250.1629(b);
+(59) API RP 14FZ, Recommended Practice for Design, Installation, and Maintenance of Electrical Systems for Fixed and Floating Offshore Petroleum Facilities for Unclassified and Class I, Zone 0, Zone 1 and Zone 2 Locations, Second Edition, May 2013; incorporated by reference at §§ 250.114(c), 250.842(c), 250.862(e), and 250.1629(b);
 
-(60) API RP 14G, Recommended Practice for Fire Prevention and Control on Fixed Open-type Offshore Production Platforms, Fourth Edition, April 2007; incorporated by reference at §§ 250.859(a), 250.862(e), 250.880(c), and 250.1629(b);
+(60) API RP 14G, Recommended Practice for Fire Prevention and Control on Fixed Open-type Offshore Production Platforms, Fourth Edition, April 2007: Reaffirmed, January 2013; incorporated by reference at §§ 250.859(a), 250.862(e), 250.880(c), and 250.1629(b);
 
-(61) API RP 14H, Recommended Practice for Installation, Maintenance and Repair of Surface Safety Valves and Underwater Safety Valves Offshore, Fifth Edition, August 2007; incorporated by reference at §§ 250.820, 250.834, 250.836, and 250.880(c);
+(61) API STD 6AV2, Installation, Maintenance, and Repair of Surface Safety Valves and Underwater Safety Valves Offshore; First Edition, March 2014; Errata 1, August 2014; incorporated by reference at §§ 250.820, 250.834, 250.836, and 250.880(c);
 
-(62) API RP 14J, Recommended Practice for Design and Hazards Analysis for Offshore Production Facilities, Second Edition, May 2001; Reaffirmed: January 2013; incorporated by reference at §§ 250.800(b) and (c), 250.842(b), and 250.901(a);
+(62) API RP 14J, Recommended Practice for Design and Hazards Analysis for Offshore Production Facilities, Second Edition, May 2001; Reaffirmed: January 2013; incorporated by reference at §§ 250.800(b) and (c), 250.842(c), and 250.901(a);
 
 (63) API Standard 53, Blowout Prevention Equipment Systems for Drilling Wells, Fourth Edition, November 2012, incorporated by reference at §§ 250.730, 250.735, 250.737, and 250.739;
 
 (64) API RP 65, Recommended Practice for Cementing Shallow Water Flow Zones in Deepwater Wells, First Edition, September 2002; incorporated by reference at § 250.415;
 
-(65) API RP 500, Recommended Practice for Classification of Locations for Electrical Installations at Petroleum Facilities Classified as Class I, Division 1 and Division 2, Second Edition, November 1997; Errata (August 17, 1998), Reaffirmed November 2002; incorporated by reference at §§ 250.114(a), 250.459, 250.842(a), 250.862(a) and (e), 250.872(a), 250.1628(b) and (d), and 250.1629(b);
+(65) API RP 500, Recommended Practice for Classification of Locations for Electrical Installations at Petroleum Facilities Classified as Class I, Division 1 and Division 2, Third Edition, December 2012; Errata January 2014; incorporated by reference at §§ 250.114(a), 250.459, 250.842(a), 250.862(a) and (e), 250.872(a), 250.1628(b) and (d), and 250.1629(b);
 
 (66) API RP 505, Recommended Practice for Classification of Locations for Electrical Installations at Petroleum Facilities Classified as Class I, Zone 0, Zone 1, and Zone 2, First Edition, November 1997; Reaffirmed, August 2013; incorporated by reference at §§ 250.114(a), 250.459, 250.842(a), 250.862(a) and (e), 250.872(a), 250.1628(b) and (d), and 250.1629(b);
 
 (67) API RP 2556, Recommended Practice for Correcting Gauge Tables for Incrustation, Second Edition, August 1993; reaffirmed November 2003; incorporated by reference at § 250.1202;
 
-(68) ANSI/API Specification Q1 (ANSI/API Spec. Q1), Specification for Quality Programs for the Petroleum, Petrochemical and Natural Gas Industry, Eighth Edition, December 2007, Addendum 1, June 2010; incorporated by reference at §§ 250.730, 250.801(b) and (c);
+(68) ANSI/API Spec. Q1, Specification for Quality Management System Requirements for Manufacturing Organizations for the Petroleum and Natural Gas Industry, Ninth Edition, June 2013; Errata, February 2014; Errata 2, March 2014; Addendum 1, June 2016; incorporated by reference at §§ 250.730 and 250.801(b) and (c);
 
 (69) API Spec. 2C, Specification for Offshore Pedestal Mounted Cranes, Sixth Edition, March 2004, Effective Date: September 2004; incorporated by reference at § 250.108;
 
-(70) ANSI/API Specification 6A (ANSI/API Spec. 6A), Specification for Wellhead and Christmas Tree Equipment, Nineteenth Edition, July 2004; Errata 1 (September 2004), Errata 2 (April 2005), Errata 3 (June 2006) Errata 4 (August 2007), Errata 5 (May 2009), Addendum 1 (February 2008), Addenda 2, 3, and 4 (December 2008); incorporated by reference at §§ 250.730, 250.802(a), 250.803(a), 250.833, 250.873(b), 250.874(g), and 250.1002(b);
+(70) ANSI/API Spec. 6A, Specification for Wellhead and Christmas Tree Equipment, Twentieth Edition, October 2010; Addendum 1, November 2011; Errata 2, November 2011; Addendum 2, November 2012; Addendum 3, March 2013; Errata 3, June 2013; Errata 4, August 2013; Errata 5, November 2013; Errata 6, March 2014; Errata 7, December 2014; Errata 8, February 2016; Addendum 4, June 2016; Errata 9, June 2016; Errata 10, August 2016; incorporated by reference at §§ 250.730, 250.802(a), 250.803(a), 250.833, 250.873(b), 250.874(g), and 250.1002(b);
 
-(71) API Spec. 6AV1, Specification for Verification Test of Wellhead Surface Safety Valves and Underwater Safety Valves for Offshore Service, First Edition, February 1, 1996; reaffirmed April 2008; incorporated by reference at §§ 250.802(a), 250.833, 250.873(b), and 250.874(g);
+(71) API Spec. 6AV1, Specification for Verification Test of Wellhead Surface Safety Valves and Underwater Safety Valves for Offshore Service, Second Edition, February 2013; incorporated by reference at §§ 250.802(a), 250.833, 250.873(b), and 250.874(g);
 
 (72) ANSI/API Spec. 6D, Specification for Pipeline Valves, Twenty-third Edition, April 2008; Effective Date: October 1, 2008, Errata 1, June 2008; Errata 2, November 2008; Errata 3, February 2009; Addendum 1, October 2009; Contains API Monogram Annex as Part of U.S. National Adoption; ISO 14313:2007 (Identical), Petroleum and natural gas industries - Pipeline transportation systems - Pipeline valves; incorporated by reference at § 250.1002;
 
-(73) ANSI/API Spec. 14A, Specification for Subsurface Safety Valve Equipment, Eleventh Edition, October 2005, Reaffirmed, June 2012; incorporated by reference at §§ 250.802(b) and 250.803(a);
+(73) ANSI/API Spec. 14A, Specification for Subsurface Safety Valve Equipment, Eleventh Edition, October 2005, Reaffirmed, June 2012; incorporated by reference at §§ 250.802(c) and 250.803(a);
 
 (74) ANSI/API Spec. 17J, Specification for Unbonded Flexible Pipe, Third Edition, July 2008, incorporated by reference at §§ 250.852(e), 250.1002(b), and 250.1007(a).
 
@@ -244,7 +244,7 @@ Link to an amendment published at 83 FR 49255, Sept. 28, 2018.
 
 (95) ANSI/API RP 2N, Third Edition, “Recommended Practice for Planning, Designing, and Constructing Structures and Pipelines for Arctic Conditions”, Third Edition, April 2015; incorporated by reference at § 250.470(g); and
 
-(96) API 570 Piping Inspection Code: In-service Inspection, Rating, Repair, and Alteration of Piping Systems, Third Edition, November 2009; incorporated by reference at § 250.841(b).
+(96) API 570, Piping Inspection Code: In-service Inspection, Rating, Repair, and Alteration of Piping Systems, Fourth Edition, February 2016; Addendum, May 2017; incorporated by reference at § 250.841(b).
 
 (i) American Society for Testing and Materials (ASTM), ASTM Standards, 100 Bar Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959; *http://www.astm.org;* phone: 1-877-909-2786:
 
@@ -294,4 +294,10 @@ Link to an amendment published at 83 FR 49255, Sept. 28, 2018.
 
 (3) COS Safety Publication COS-2-04, Requirements for Accreditation of Audit Service Providers Performing SEMS Audits and Certification of Deepwater Operations, First Edition, Effective Date October 2012; incorporated by reference at §§ 250.1900, 250.1903, 250.1904, and 250.1922.
 
-[76 FR 64462, Oct. 18, 2011, as amended at 77 FR 18921, Mar. 29, 2012; 77 FR 50891, Aug. 22, 2012; 78 FR 20440, Apr. 5, 2013; 81 FR 26015, Apr. 29, 2016; 81 FR 36149, June 6, 2016; 81 FR 46560, July 15, 2016; 81 FR 61917, Sept. 7, 2016]
+(o) American National Standards Institute (ANSI), *http://www.webstore.ansi.org*; phone: 212-642-4900.
+
+(1) ANSI Z88.2-1992, American National Standard for Respiratory Protection, incorporated by reference at § 250.490.
+
+(2) [Reserved]
+
+[76 FR 64462, Oct. 18, 2011, as amended at 77 FR 18921, Mar. 29, 2012; 77 FR 50891, Aug. 22, 2012; 78 FR 20440, Apr. 5, 2013; 81 FR 26015, Apr. 29, 2016; 81 FR 36149, June 6, 2016; 81 FR 46560, July 15, 2016; 81 FR 61917, Sept. 7, 2016; 83 FR 49255, Sept. 28, 2018]

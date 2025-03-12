@@ -1,7 +1,5 @@
 ##### § 90.209 Bandwidth limitations. #####
 
-Link to an amendment published at 83 FR 61096, Nov. 27, 2018.
-
 (a) Each authorization issued to a station licensed under this part will show an emission designator representing the class of emission authorized. The designator will be prefixed by a specified necessary bandwidth. This number does not necessarily indicate the bandwidth occupied by the emission at any instant. In those cases where § 2.202 of this chapter does not provide a formula for the computation of necessary bandwidth, the occupied bandwidth, as defined in part 2 of this chapter, may be used in lieu of the necessary bandwidth.
 
 (b) The maximum authorized single channel bandwidth of emission corresponding to the type of emission specified in § 90.207 is as follows:
@@ -28,7 +26,8 @@ Standard Channel Spacing/Bandwidth
 |              220-222               |          5          |             4             |
 |        406-512<sup>2</sup>         |  <sup>1</sup> 6.25  |<sup>1 3 6</sup> 20/11.25/6|
 |          806-809/851-854           |        12.5         |            20             |
-|          809-824/854-869           |         25          |      <sup>6</sup> 20      |
+|          809-817/854-862           |        12.5         |   <sup>6</sup> 20/11.25   |
+|          817-824/862-869           |         25          |      <sup>6</sup> 20      |
 |          896-901/935-940           |        12.5         |           13.6            |
 |        902-928<sup>4</sup>         |                     |                           |
 |              929-930               |         25          |            20             |
@@ -46,7 +45,7 @@ Standard Channel Spacing/Bandwidth
 
 <sup>5</sup> See § 90.259.
 
-<sup>6</sup> Operations using equipment designed to operate with a 25 kHz channel bandwidth may be authorized up to a 22 kHz bandwidth if the equipment meets the Adjacent Channel Power limits of § 90.221.
+<sup>6</sup> Operations using equipment designed to operate with a 25 kilohertz channel bandwidth may be authorized up to a 20 kilohertz bandwidth unless the equipment meets the Adjacent Channel Power limits of § 90.221 in which case operations may be authorized up to a 22 kilohertz bandwidth. Operations using equipment designed to operate with a 12.5 kilohertz channel bandwidth may be authorized up to an 11.25 kilohertz bandwidth.
 
 (6)(i) Beginning January 1, 2011, no new applications for the 150-174 MHz and/or 421-512 MHz bands will be acceptable for filing if the applicant utilizes channels with an authorized bandwidth exceeding 11.25 kHz, unless specified elsewhere or the operations meet the efficiency standards of § 90.203(j)(3).
 
@@ -54,4 +53,6 @@ Standard Channel Spacing/Bandwidth
 
 (7) Economic Area (EA)-based licensees in frequencies 817-824/862-869 MHz (813.5-824/858.5-869 MHz in the counties listed in § 90.614(c)) may exceed the standard channel spacing and authorized bandwidth listed in paragraph (b)(5) of this section in any National Public Safety Planning Advisory Committee Region when all 800 MHz public safety licensees in the Region have completed band reconfiguration consistent with this part. In any National Public Safety Planning Advisory Committee Region where the 800 MHz band reconfiguration is incomplete, EA-based licensees in frequencies 817-821/862-866 MHz (813.5-821/858.5-866 MHz in the counties listed in § 90.614(c)) may exceed the standard channel spacing and authorized bandwidth listed in paragraph (b)(5) of this section. Upon all 800 MHz public safety licensees in a National Public Safety Planning Advisory Committee Region completing band reconfiguration, EA-based 800 MHz SMR licensees in the 821-824/866-869 MHz band may exceed the channel spacing and authorized bandwidth in paragraph (b)(5) of this section. Licensees authorized to exceed the standard channel spacing and authorized bandwidth under this paragraph must provide at least 30 days written notice prior to initiating such service in the bands listed herein to every 800 MHz public safety licensee with a base station in an affected National Public Safety Planning Advisory Committee Region, and every 800 MHz public safety licensee with a base station within 113 kilometers (70 miles) of an affected National Public Safety Planning Advisory Committee Region. Such notice shall include the estimated date upon which the EA-based 800 MHz SMR licensee intends to begin operations that exceed the channel spacing and authorized bandwidth in paragraph (b)(5) of this section.
 
-[60 FR 37263, July 19, 1995, as amended at 67 FR 41860, June 20, 2002; 68 FR 42314, July 17, 2003; 68 FR 54769, Sept. 18, 2003; 69 FR 39867, July 1, 2004; 69 FR 67837, Nov. 22, 2004; 70 FR 21661, Apr. 27, 2005; 70 FR 34693, June 15, 2005; 72 FR 35194, June 27, 2007; 73 FR 34201, June 17, 2008; 77 FR 33979, June 8, 2012; 77 FR 61537, Oct. 10, 2012; 81 FR 66832, Sept. 29, 2016]
+(8) Applicants may begin to license 12.5 kilohertz bandwidth channels in the 809-817/854-862 MHz band segment only after the Wireless Telecommunications Bureau and the Public Safety and Homeland Security Bureau jointly release a public notice announcing the availability of those channels for licensing in a National Public Safety Planning Advisory Committee region.
+
+[60 FR 37263, July 19, 1995, as amended at 67 FR 41860, June 20, 2002; 68 FR 42314, July 17, 2003; 68 FR 54769, Sept. 18, 2003; 69 FR 39867, July 1, 2004; 69 FR 67837, Nov. 22, 2004; 70 FR 21661, Apr. 27, 2005; 70 FR 34693, June 15, 2005; 72 FR 35194, June 27, 2007; 73 FR 34201, June 17, 2008; 77 FR 33979, June 8, 2012; 77 FR 61537, Oct. 10, 2012; 81 FR 66832, Sept. 29, 2016; 83 FR 61096, Nov. 27, 2018]

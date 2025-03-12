@@ -1561,13 +1561,13 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |     Lexington      |                 36, 39, 40, \*42                  |
 |     Louisville     |           8, 11, \*17, 26, \*38, 47, 49           |
 |    Madisonville    |                     20, \*42                      |
-|      Morehead      |                     \*15, 21                      |
 |       Murray       |                       \*36                        |
 |      Newport       |                        29                         |
 |     Owensboro      |                        30                         |
 |      Owenton       |                       \*44                        |
 |      Paducah       |                    32, 41, 49                     |
 |     Pikeville      |                       \*24                        |
+|      Richmond      |                        21                         |
 |      Somerset      |                       \*14                        |
 |     LOUISIANA      |                                                   |
 |     Alexandria     |                 \*26, 31, 35, 41                  |

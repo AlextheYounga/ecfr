@@ -140,4 +140,4 @@
 
 (iii) *Limitations.* Administer by intravenous injection. Treatment should be continued 24 to 48 hours following remission of disease symptoms, but not to exceed a total of 4 consecutive days. If no improvement occurs within 24 to 48 hours, reevaluate diagnosis and therapy. Discontinue use at least 19 days prior to slaughter. Not for use in lactating dairy cattle.
 
-[40 FR 13858, Mar. 27, 1975]Editorial Note:For Federal Register citations affecting § 522.1662a, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[40 FR 13858, Mar. 27, 1975]Editorial Note:For Federal Register citations affecting § 522.1662a, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,7 +1,5 @@
 ##### § 250.1007 What to include in applications. #####
 
-Link to an amendment published at 83 FR 49263, Sept. 28, 2018.
-
 (a) Applications to install a lease term pipeline or for a pipeline right-of-way grant must be submitted in quadruplicate to the Regional Supervisor. Right-of-way grant applications must include an identification of the operator of the pipeline. Each application must include the following:
 
 (1) Plat(s) drawn to a scale specified by the Regional Supervisor showing major features and other pertinent data including area, lease, and block designations; water depths; route; length in Federal waters; width of right-of-way, if applicable; connecting facilities; size; product(s) to be transported with anticipated gravity or density; burial depth; direction of flow; X-Y coordinates of key points; and the location of other pipelines that will be connected to or crossed by the proposed pipeline(s). The initial and terminal points of the pipeline and any continuation into State jurisdiction shall be accurately located even if the pipeline is to have an onshore terminal point. A plat(s) submitted for a pipeline right-of-way shall bear a signed certificate upon its face by the engineer who made the map that certifies that the right-of-way is accurately represented upon the map and that the design characteristics of the associated pipeline are in accordance with applicable regulations.
@@ -40,7 +38,7 @@ Link to an amendment published at 83 FR 49263, Sept. 28, 2018.
 
 (C) An identification of the design standards you used; and
 
-(D) A review by a third-party independent verification agent (IVA) according to API Spec 17J (as incorporated by reference in § 250.198), if applicable.
+(D) A review by a third-party independent verification agent (IVA) according to ANSI/API Spec. 17J (as incorporated by reference in § 250.198), if applicable.
 
 (ii) If you propose to use one or more pipeline risers for a tension leg platform or other floating platform, your application must include:
 
@@ -55,3 +53,5 @@ Link to an amendment published at 83 FR 49263, Sept. 28, 2018.
 (5) The application shall include a shallow hazards survey report and, if required by the Regional Director, an archaeological resource report that covers the entire length of the pipeline. A shallow hazards analysis may be included in a lease term pipeline application in lieu of the shallow hazards survey report with the approval of the Regional Director. The Regional Director may require the submission of the data upon which the report or analysis is based.
 
 (b) Applications to modify an approved lease term pipeline or right-of-way grant shall be submitted in quadruplicate to the Regional Supervisor. These applications need only address those items in the original application affected by the proposed modification.
+
+[76 FR 64462, Oct. 18, 2011, as amended at 83 FR 49263, Sept. 28, 2018]

@@ -51,4 +51,4 @@
 
 (iv) Zilpaterol as in § 558.665.
 
-[42 FR 28535, June 3, 1977]Editorial Note:For Federal Register citations affecting § 558.342, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[42 FR 28535, June 3, 1977]Editorial Note:For Federal Register citations affecting § 558.342, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

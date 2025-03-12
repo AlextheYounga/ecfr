@@ -1,115 +1,81 @@
 ##### § 218.72 Permissible methods of taking. #####
 
-(a) Under Letters of Authorization (LOAs) issued pursuant to § 218.77, the Holder of the Letter of Authorization may incidentally, but not intentionally, take marine mammals within the area described in § 218.70, provided the activity is in compliance with all terms, conditions, and requirements of these regulations and the appropriate LOA.
+(a) Under LOAs issued pursuant to §§ 216.106 of this chapter and 218.76, the Holder of the LOAs (hereinafter “Navy”) may incidentally, but not intentionally, take marine mammals within the area described in § 218.70(b) by Level A harassment and Level B harassment associated with the use of active sonar and other acoustic sources and explosives as well as serious injury or mortality associated with vessel strikes and explosives, provided the activity is in compliance with all terms, conditions, and requirements of these regulations in this subpart and the applicable LOAs.
 
-(b) The incidental take of marine mammals under the activities identified in § 218.70(c) is limited to the following species, by the identified method of take:
+(b) The incidental take of marine mammals by the activities listed in § 218.80(c) is limited to the following species:
 
-(1) Harassment (Level A and Level B) for all Training and Testing Activities:
+Table 1 to § 218.72
 
-(i) Mysticetes:
+|          Species           |                Stock                |
+|----------------------------|-------------------------------------|
+|         Blue whale         |       Central North Pacific.        |
+|         Blue whale         |       Eastern North Pacific.        |
+|       Bryde's whale        |      Eastern Tropical Pacific.      |
+|       Bryde's whale        |               Hawaii.               |
+|         Fin whale          |              CA/OR/WA.              |
+|         Fin whale          |              Hawaiian.              |
+|       Humpback whale       |              CA/OR/WA.              |
+|       Humpback whale       |       Central North Pacific.        |
+|        Minke whale         |              CA/OR/WA.              |
+|        Minke whale         |               Hawaii.               |
+|         Sei whale          |       Eastern North Pacific.        |
+|         Sei whale          |               Hawaii.               |
+|         Gray whale         |       Eastern North Pacific.        |
+|         Gray whale         |       Western North Pacific.        |
+|        Sperm whale         |              CA/OR/WA.              |
+|        Sperm whale         |               Hawaii.               |
+|     Dwarf sperm whale      |               Hawaii.               |
+|     Pygmy sperm whale      |               Hawaii.               |
+|        Kogia whales        |              CA/OR/WA.              |
+|    Baird's beaked whale    |              CA/OR/WA.              |
+| Blainville's beaked whale  |               Hawaii.               |
+|   Cuvier's beaked whale    |              CA/OR/WA.              |
+|   Cuvier's beaked whale    |               Hawaii.               |
+|   Longman's beaked whale   |               Hawaii.               |
+|       Mesoplodon spp       |              CA/OR/WA.              |
+|     Bottlenose dolphin     |         California Coastal.         |
+|     Bottlenose dolphin     |         CA/OR/WA Offshore.          |
+|     Bottlenose dolphin     |           Hawaii Pelagic.           |
+|     Bottlenose dolphin     |           Kauai & Niihau.           |
+|     Bottlenose dolphin     |                Oahu.                |
+|     Bottlenose dolphin     |              4-Island.              |
+|     Bottlenose dolphin     |               Hawaii.               |
+|     False killer whale     |           Hawaii Pelagic.           |
+|     False killer whale     |   Main Hawaiian Islands Insular.    |
+|     False killer whale     |   Northwestern Hawaiian Islands.    |
+|      Fraser's dolphin      |               Hawaii.               |
+|        Killer whale        |Eastern North Pacific (ENP) Offshore.|
+|        Killer whale        | ENP Transient/West Coast Transient. |
+|        Killer whale        |               Hawaii.               |
+| Long-beaked common dolphin |             California.             |
+|     Melon-headed whale     |          Hawaiian Islands.          |
+|     Melon-headed whale     |          Kohala Resident.           |
+|Northern right whale dolphin|              CA/OR/WA.              |
+|Pacific white-sided dolphin |              CA/OR/WA.              |
+|Pantropical spotted dolphin |           Hawaii Island.            |
+|Pantropical spotted dolphin |           Hawaii Pelagic.           |
+|Pantropical spotted dolphin |                Oahu.                |
+|Pantropical spotted dolphin |              4-Island.              |
+|     Pygmy killer whale     |               Hawaii.               |
+|     Pygmy killer whale     |              Tropical.              |
+|      Risso's dolphin       |              CA/OR/WA.              |
+|      Risso's dolphin       |               Hawaii.               |
+|   Rough-toothed dolphin    |               Hawaii.               |
+|Short-beaked common dolphin |              CA/OR/WA.              |
+|  Short-finned pilot whale  |              CA/OR/WA.              |
+|  Short-finned pilot whale  |               Hawaii.               |
+|      Spinner dolphin       |           Hawaii Island.            |
+|      Spinner dolphin       |           Hawaii Pelagic.           |
+|      Spinner dolphin       |           Kauai & Niihau.           |
+|      Spinner dolphin       |          Oahu & 4-Island.           |
+|      Striped dolphin       |              CA/OR/WA.              |
+|      Striped dolphin       |               Hawaii.               |
+|      Dall's porpoise       |              CA/OR/WA.              |
+|    California sea lion     |                U.S.                 |
+|     Guadalupe fur seal     |               Mexico.               |
+|     Northern fur seal      |             California.             |
+|        Harbor seal         |             California.             |
+|     Hawaiian monk seal     |               Hawaii.               |
+|   Northern elephant seal   |             California.             |
 
-(A) Blue whale (*Balaenoptera musculus*) - 23,699.
-
-(B) Bryde's whale (*Balaenoptera edeni*) - 1,287.
-
-(C) Fin whale (*Balaenoptera physalus*) - 9,656.
-
-(D) Gray whale (*Eschrichtius robustus*), Eastern North Pacific - 60,590.
-
-(E) Gray whale (Eschrichtius robustus), Western North Pacific - 60.
-
-(F) Humpback whale (*Megaptera novaeangliae*) - 51,000.
-
-(G) Minke whale (*Balaenoptera acutorostrata*) - 4,425.
-
-(H) Sei whale (*Balaenoptera borealis*) - 3,251.
-
-(ii) Odontocetes:
-
-(A) Baird's beaked whale (*Berardius bairdii*) - 27,325.
-
-(B) Blainville's beaked whale (*Mesoplodon densirostris*) - 52,972.
-
-(C) Bottlenose dolphin (*Tursiops truncatus*), California Coastal - 5,600.
-
-(D) Bottlenose dolphin (Tursiops truncatus), CA/OR/WA - 145,125.
-
-(E) Bottlenose dolphin (Tursiops truncatus), Hawaii pelagic - 20,995.
-
-(F) Bottlenose dolphin (Tursiops truncatus), Oahu - 3,879.
-
-(G) Bottlenose dolphin (Tursiops truncatus), 4-Islands region - 999.
-
-(H) Bottlenose dolphin (Tursiops truncatus), Kauai and Niihau - 960.
-
-(I) Bottlenose dolphin (Tursiops truncatus), Hawaii Island - 666.
-
-(J) Cuvier's beaked whale (*Ziphius cavirostris*) - 349,130.
-
-(K) Dwarf sperm whale (*Kogia sima*) - 113,525.
-
-(L) Dall's porpoise (*Phocoenoidea dalli*) - 210,925.
-
-(M) False killer whale (*Pseudorca crassidens*), Main Hawaiian Islands insular - 240.
-
-(N) False killer whale (*Pseudorca crassidens*) - 3,147.
-
-(O) Fraser's dolphin (*Lagenodelphis hosei*) - 9,034.
-
-(P) Killer whale (*Orcinus orca*) - 2,762.
-
-(Q) *Kogia* spp. - 71,070.
-
-(R) Long-beaked common dolphin (*Delphinus capensis*) - 604,715.
-
-(S) Longman's beaked whale (*Indopacetus pacificus*) - 19,476.
-
-(T) Melon-headed whale (*Peponocephala electra*) - 7,353.
-
-(U) Mesoplodon beaked whales - 11,695.
-
-(V) Northern right whale dolphin (*Lissodelphis borealis*) - 286,635.
-
-(W) Pacific white-sided dolphin (*Lagenorhynchus obliquidens*) - 216,885.
-
-(X) Pantropical spotted dolphin (*Stenella attenuata*) - 51,864.
-
-(Y) Pygmy killer whale (*Feresa attenuata*) - 2,908.
-
-(Z) Pygmy sperm whale (*Kogia breviceps*) - 1,683.
-
-(AA) Risso's dolphin (*Grampus griseus*) - 481,677.
-
-(BB) Rough-toothed dolphin (*Steno bredanensis*) - 24,815.
-
-(CC) Short-beaked common dolphin (*Delphinus delphis*) - 5,610,700.
-
-(DD) Short-finned pilot whale (*Globicephala macrorhynchus*) - 46,680.
-
-(EE) Sperm whale (*Physeter macrocephalus*) - 17,235.
-
-(FF) Spinner dolphin (*Stenella longirostris*) - 11,900.
-
-(GG) Striped dolphin (*Stenella coerulealba*) - 39,487.
-
-(iii) Pinnipeds:
-
-(A) California sea lion (*Zalophus californianus*) - 699,605.
-
-(B) Guadalupe fur seal (*Arctocephalus townsendi*) - 14,360.
-
-(C) Harbor seal (*Phoca vitulina*) - 34,025.
-
-(D) Hawaiian monk seal (*Monachus schauinslandi*) - 8,124.
-
-(E) Northern elephant seal (*Mirounga angustirostris*) - 126,275.
-
-(F) Northern fur seal (*Callorhinus ursinus*) - 105,895.
-
-(3) Mortality (or lesser Level A injury) for all Training and Testing Activities:
-
-(i) No more than 130 mortalities applicable to any small odontocete (i.e., dolphin) or pinniped (with the exception of Hawaiian monk seal) species from an impulse source.
-
-(ii) No more than 10 beaked whale mortalities.
-
-(iii) No more than 15 large whale injuries or mortalities or serious injuries from vessel strike.
+Note to Table 1: CA/OR/WA = California/Oregon/Washington.

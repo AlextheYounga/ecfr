@@ -1,5 +1,7 @@
 ##### § 109.10 How do political committees and other persons report independent expenditures? #####
 
+Link to an amendment published at 83 FR 66595, Dec. 27, 2018.
+
 (a) Political committees, including political party committees, must report independent expenditures under 11 CFR 104.4.
 
 (b) Every person that is not a political committee and that makes independent expenditures aggregating in excess of $250 with respect to a given election in a calendar year shall file a verified statement or report on FEC Form 5 in accordance with 11 CFR 104.4(e) containing the information required by paragraph (e) of this section. Every person filing a report or statement under this section shall do so in accordance with the quarterly reporting schedule specified in 11 CFR 104.5(a)(1)(i) and (ii) and shall file a report or statement for any quarterly period during which any such independent expenditures that aggregate in excess of $250 are made and in any quarterly reporting period thereafter in which additional independent expenditures are made.

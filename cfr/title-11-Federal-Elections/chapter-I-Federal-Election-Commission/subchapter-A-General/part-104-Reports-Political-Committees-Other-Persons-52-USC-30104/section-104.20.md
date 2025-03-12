@@ -1,5 +1,7 @@
 ##### § 104.20 Reporting electioneering communications (52 U.S.C. 30104 (f)). #####
 
+Link to an amendment published at 83 FR 66595, Dec. 27, 2018.
+
 (a) *Definitions* - (1) *Disclosure date* means:
 
 (i) The first date on which an electioneering communication is publicly distributed provided that the person making the electioneering communication has made one or more disbursements, or has executed one or more contracts to make disbursements, for the direct costs of producing or airing one or more electioneering communications aggregating in excess of $10,000; or

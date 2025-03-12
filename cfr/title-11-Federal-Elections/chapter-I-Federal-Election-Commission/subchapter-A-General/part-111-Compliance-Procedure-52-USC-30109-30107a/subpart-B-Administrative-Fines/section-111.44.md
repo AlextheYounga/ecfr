@@ -1,5 +1,7 @@
 ##### § 111.44 What is the schedule of penalties for 48-hour notices that are not filed or are filed late? #####
 
+Link to an amendment published at 83 FR 66599, Dec. 27, 2018.
+
 (a) If the respondent fails to file timely a notice regarding contribution(s) received after the 20th day but more than 48 hours before the election as required under 52 U.S.C. 30104(a)(6), the civil money penalty will be calculated as follows:
 
 (1) Civil money penalty = $142 + (.10 × amount of the contribution(s) not timely reported).

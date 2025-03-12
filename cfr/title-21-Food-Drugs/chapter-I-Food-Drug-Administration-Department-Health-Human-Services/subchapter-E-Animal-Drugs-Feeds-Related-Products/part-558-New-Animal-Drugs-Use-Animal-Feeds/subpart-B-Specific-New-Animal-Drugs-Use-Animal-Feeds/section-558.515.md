@@ -26,4 +26,4 @@
 
 (3) Oxytetracycline as in § 558.450.
 
-[40 FR 13959, Mar. 27, 1975]Editorial Note:For Federal Register citations affecting § 558.515, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[40 FR 13959, Mar. 27, 1975]Editorial Note:For Federal Register citations affecting § 558.515, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

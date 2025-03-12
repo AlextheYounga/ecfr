@@ -16,7 +16,7 @@
 
 (6) For 069043, use of 30, 60, 120, or 180 milligram tablets as in paragraph (c)(2)(i) of this section.
 
-(c) *Conditions of use* - (1) *Amount.* 3 milligrams per pound of body weight per day for prevention of heartworm disease and control of ascarids; 25 to 50 milligrams per pound of body weight as an aid in treatment of ascarid infections.
+(c) *Conditions of use*—(1) *Amount.* 3 milligrams per pound of body weight per day for prevention of heartworm disease and control of ascarids; 25 to 50 milligrams per pound of body weight as an aid in treatment of ascarid infections.
 
 (2) *Indications for use.* (i) For prevention of heartworm disease (*Dirofilaria immitis*) in dogs; as an aid in control of ascarids (*Toxocara canis*) in dogs; as an aid in treatment of ascarid (*Toxocara canis* and *Toxascaris leonina*) infections in dogs and cats.
 
@@ -26,4 +26,4 @@
 
 (3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[43 FR 6941, Feb. 17, 1978]Editorial Note:For Federal Register citations affecting § 520.622c, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[43 FR 6941, Feb. 17, 1978]Editorial Note:For Federal Register citations affecting § 520.622c, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

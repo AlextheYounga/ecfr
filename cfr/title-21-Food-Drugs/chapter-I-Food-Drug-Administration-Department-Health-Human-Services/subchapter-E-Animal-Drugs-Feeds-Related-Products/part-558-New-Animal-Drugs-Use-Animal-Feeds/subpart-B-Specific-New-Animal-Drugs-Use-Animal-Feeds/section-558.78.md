@@ -44,4 +44,4 @@
 
 (ix) Salinomycin as in § 558.550.
 
-[41 FR 10994, Mar. 15, 1976]Editorial Note:For Federal Register citations affecting § 558.78, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[41 FR 10994, Mar. 15, 1976]Editorial Note:For Federal Register citations affecting § 558.78, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

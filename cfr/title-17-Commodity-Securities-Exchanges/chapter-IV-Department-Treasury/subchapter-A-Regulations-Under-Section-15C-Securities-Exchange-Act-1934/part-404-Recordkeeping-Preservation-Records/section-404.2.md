@@ -1,5 +1,7 @@
 ##### § 404.2 Records to be made and kept current by registered government securities brokers and dealers; records of non-resident registered government securities brokers and dealers. #####
 
+Link to an amendment published at 83 FR 66616, Dec. 27, 2018.
+
 (a) Every registered government securities broker or dealer shall comply with the requirements of § 240.17a-3 of this title (SEC Rule 17a-3), with the following modifications:
 
 (1) References to “broker or dealer” and “broker or dealer registered pursuant to Section 15 of the Act” include registered government securities brokers or dealers.

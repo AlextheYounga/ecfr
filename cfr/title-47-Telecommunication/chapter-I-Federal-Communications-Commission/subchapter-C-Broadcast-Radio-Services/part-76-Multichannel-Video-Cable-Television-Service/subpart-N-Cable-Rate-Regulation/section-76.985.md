@@ -1,7 +1,5 @@
 ##### § 76.985 Subscriber bill itemization. #####
 
-Link to an amendment published at 83 FR 60776, Nov. 27, 2018.
-
 (a) Cable operators may identify as a separate line item of each regular subscriber bill the following:
 
 (1) The amount of the total bill assessed as a franchise fee and the identity of the franchising authority to which the fee is paid.
@@ -14,4 +12,4 @@ Link to an amendment published at 83 FR 60776, Nov. 27, 2018.
 
 (c) Local franchising authorities may adopt regulations consistent with this section.
 
-![](/graphics/ec01mr91.118.gif)![](/graphics/ec01mr91.119.gif)![](/graphics/ec01mr91.120.gif)[58 FR 29753, May 21, 1993, as amended at 76 FR 55818, Sept. 9, 2011]
+[58 FR 29753, May 21, 1993, as amended at 76 FR 55818, Sept. 9, 2011; 83 FR 60776, Nov. 27, 2018]

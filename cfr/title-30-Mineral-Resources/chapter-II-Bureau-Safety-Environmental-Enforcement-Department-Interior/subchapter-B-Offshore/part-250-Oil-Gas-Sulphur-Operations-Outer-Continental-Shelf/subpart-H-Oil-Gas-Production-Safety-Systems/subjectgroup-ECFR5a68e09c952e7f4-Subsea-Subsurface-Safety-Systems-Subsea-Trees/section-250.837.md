@@ -1,14 +1,12 @@
-##### § 250.837 Emergency action and safety system shutdown - subsea trees. #####
+##### § 250.837 Emergency action and safety system shutdown—subsea trees. #####
 
-Link to an amendment published at 83 FR 49257, Sept. 28, 2018.
+(a) If your facility is impacted or will potentially be impacted by an emergency situation (*e.g.,* an impending National Weather Service-named tropical storm or hurricane, ice events, or post-earthquake), you must shut-in all subsea wells unless otherwise approved by the District Manager. A shut-in is defined as a closed BSDV, USV, GLSDV, and surface-controlled SSSV.
 
-(a) In the event of an emergency, such as an impending named tropical storm or hurricane, you must shut-in all subsea wells unless otherwise approved by the District Manager. A shut-in is defined as a closed BSDV, USV, and surface-controlled SSSV.
+(b) When operating a mobile offshore drilling unit (MODU) or other type of workover or intervention vessel in an area with subsea infrastructure, you must:
 
-(b) When operating a mobile offshore drilling unit (MODU) or other type of workover vessel in an area with producing subsea wells, you must:
+(1) Suspend production from all wells that could be affected by a dropped object, including upstream wells that flow through the same pipeline; or
 
-(1) Suspend production from all such wells that could be affected by a dropped object, including upstream wells that flow through the same pipeline; or
-
-(2) Establish direct, real-time communications between the MODU or other type of workover vessel and the production facility control room and prepare a plan to be submitted to the appropriate District Manager for approval, as part of an Application for Permit to Drill (BSEE-0123) or an Application for Permit to Modify (BSEE-0124), to shut-in any wells that could be affected by a dropped object. If an object is dropped, the driller (or other authorized rig floor personnel) must immediately secure the well directly under the MODU or other type of workover vessel using the ESD station near the driller's console while simultaneously communicating with the platform to shut-in all affected wells. You must also maintain without disruption, and continuously verify, communication between the platform and the MODU or other type of workover vessel. If communication is lost between the MODU or other type of workover vessel and the platform for 20 minutes or more, you must shut-in all wells that could be affected by a dropped object.
+(2) Establish direct, real-time communications between the MODU or other type of workover or intervention vessel and the production facility control room and develop a dropped objects plan, as required in § 250.714. If an object is dropped, you must immediately secure the well directly under the MODU or other type of workover or intervention vessel while simultaneously communicating with the platform to shut-in all affected wells. You must also maintain without disruption, and continuously verify, communication between the production facility and the MODU or other type of workover or intervention vessel. If communication is lost between the MODU or other type of workover or intervention vessel and the platform for 20 or more minutes, you must shut-in all wells that could be affected by a dropped object.
 
 (c) In the event of an emergency, you must operate your production system according to the valve closure times in the applicable tables in §§ 250.838 and 250.839 for the following conditions:
 
@@ -20,6 +18,8 @@ Link to an amendment published at 83 FR 49257, Sept. 28, 2018.
 
 (4) *Subsea ESD (platform) or BSDV TSE.* In the event of an emergency shutdown activation that is initiated by the host platform due to an abnormal condition subsea, or a TSE associated with the BSDV, you must close the BSDV, USV, and surface-controlled SSSV in accordance with the applicable tables in §§ 250.838 and 250.839.
 
-(5) *Subsea ESD (MODU).* In the event of an ESD activation that is initiated by a dropped object from a MODU or other type of workover vessel, you must secure all wells in the proximity of the MODU or other type of workover vessel by closing the USVs and surface-controlled SSSVs in accordance with the applicable tables in §§ 250.838 and 250.839. You must notify the appropriate District Manager before resuming production.
+(5) *Subsea ESD (MODU).* In the event of an ESD activation that is initiated by a dropped object from a MODU or other type of workover or intervention vessel, you must secure all wells in the proximity of the MODU or other type of workover or intervention vessel by closing the USVs and surface-controlled SSSVs in accordance with the applicable tables in §§ 250.838 and 250.839. You must notify the appropriate District Manager before resuming production.
 
 (d) Following an ESD or fire, you must bleed your low pressure (LP) and high pressure (HP) hydraulic systems in accordance with the applicable tables in §§ 250.838 and 250.839 to ensure that the valves are locked out of service and cannot be reopened inadvertently.
+
+[81 FR 60918, Sept. 7, 2016, as amended at 83 FR 49257, Sept. 28, 2018]

@@ -8,7 +8,7 @@ The food additive, formic acid, may be safely used in accordance with the follow
 
 (2) Silage should not be fed to livestock within 4 weeks of treatment.
 
-(b) The additive is used or intended for use as a feed acidifying agent, to lower the pH, in complete swine and poultry feeds at levels not to exceed 1.2 percent of the complete feed.
+(b) The additive is used or intended for use as a feed acidifying agent, to lower the pH, in complete feed for swine and poultry at levels not to exceed 1.2 percent of the complete feed.
 
 (1) The additive consists of not less than 85 percent formic acid (CAS 64-18-6).
 
@@ -26,7 +26,7 @@ The food additive, formic acid, may be safely used in accordance with the follow
 
 (i) The name of the additive.
 
-(ii) Adequate directions for use including a statement that formic acid must be uniformly applied and thoroughly mixed into complete swine feeds and that the complete swine feeds so treated shall be labeled as containing formic acid.
+(ii) Adequate directions for use including a statement that formic acid must be uniformly applied and thoroughly mixed into complete feeds and that the complete feeds so treated shall be labeled as containing formic acid.
 
 (iii) Cautions for use including this statement: Caution: Follow label directions. Formic acid and formate salts from all added sources cannot exceed 1.2 percent of complete feed when multiple sources of formic acid and its salts are used in combination.
 
@@ -42,4 +42,4 @@ The food additive, formic acid, may be safely used in accordance with the follow
 
 (B) Contact address and telephone number for reporting adverse reactions or to request a copy of the Safety Data Sheet (SDS).
 
-[76 FR 7106, Feb. 9, 2011, as amended at 82 FR 52209, Nov. 13, 2017; 83 FR 20, Jan. 2, 2018]
+[76 FR 7106, Feb. 9, 2011, as amended at 82 FR 52209, Nov. 13, 2017; 83 FR 20, Jan. 2, 2018; 83 FR 66618, Dec. 27, 2018]

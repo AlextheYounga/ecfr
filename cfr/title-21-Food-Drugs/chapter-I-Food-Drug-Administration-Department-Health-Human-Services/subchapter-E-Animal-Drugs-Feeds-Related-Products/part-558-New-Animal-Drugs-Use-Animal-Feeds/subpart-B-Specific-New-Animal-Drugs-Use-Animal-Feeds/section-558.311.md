@@ -190,6 +190,6 @@
 
 (v) Virginiamycin as in § 558.635.
 
-[41 FR 44382, Oct. 8, 1976]Editorial Notes:1. For Federal Register citations affecting § 558.311, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[41 FR 44382, Oct. 8, 1976]Editorial Notes:1. For Federal Register citations affecting § 558.311, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 2. At 79 FR 13545, Mar. 11, 2014, § 558.311 was amended; however, the amendment could not be incorporated because of the inaccurate amendatory instruction.

@@ -1,7 +1,5 @@
 ##### § 90.621 Selection and assignment of frequencies. #####
 
-Link to an amendment published at 83 FR 61106, Nov. 27, 2018.
-
 (a) Applicants for frequencies in the Public Safety and Business/Industrial/Land Transportation Categories must specify on the application the frequencies on which the proposed system will operate pursuant to a recommendation by the applicable frequency coordinator. Applicants for frequencies in the SMR Category must request specific frequencies by including in their applications the frequencies requested.
 
 (1) For trunked systems, the assignment of frequencies will be made in accordance with applicable loading criteria and in accordance with the following:
@@ -18,7 +16,7 @@ Link to an amendment published at 83 FR 61106, Nov. 27, 2018.
 
 (ii) A mobile station is authorized to transmit on any frequency assigned to its associated base station.
 
-(b) Stations authorized on frequencies listed in this subpart, except for those stations authorized pursuant to paragraph (g) of this section and EA-based and MTA-based SMR systems, will be assigned frequencies solely on the basis of fixed distance separation criteria. The separation between co-channel systems will be a minimum of 113 km (70 mi) with one exception. For incumbent licensees in Channel Blocks F1 through V, that have received the consent of all affected parties or a certified frequency coordinator to utilize an 18 dBµV/m signal strength interference contour (*see* § 90.693), the separation between co-channel systems will be a minimum of 173 km (107 mi). The following exceptions to these separations shall apply:
+(b) Stations authorized on frequencies listed in this subpart, except for those stations authorized pursuant to paragraph (g) of this section and EA-based and MTA-based SMR systems, will be assigned co-channel frequencies solely on the basis of distance between fixed stations. In addition, contour overlap as detailed in paragraph (d) of this section will be the basis for geographic separation between fixed stations operating on adjacent-channel frequencies in the 809-817 MHz/854-862 MHz sub-band. The separation between co-channel systems will be a minimum of 113 km (70 mi) with one exception. For incumbent licensees in Channel Blocks F1 through V, that have received the consent of all affected parties or a certified frequency coordinator to use an 18 dBµV/m signal strength interference contour (see § 90.693), the separation between co-channel systems will be a minimum of 173 km (107 mi). The following exceptions to these separations shall apply:
 
 (1) Except as indicated in paragraph (b)(4) of this section, no station in Channel Blocks A through V shall be less than 169 km (105 mi) distant from a co-channel station that has been granted channel exclusivity and authorized 1 kW ERP on any of the following mountaintop sites: Santiago Peak, Sierra Peak, Mount Lukens, Mount Wilson (California). Except as indicated in paragraph (b)(4) of this section, no incumbent licensee in Channel Blocks F1 through V that has received the consent of all affected parties or a certified frequency coordinator to utilize an 18 dBµV/m signal strength interference contour shall be less than 229 km (142 mi) distant from a co-channel station that has been granted channel exclusivity and authorized 1 kW ERP on any of the following mountaintop sites: Santiago Peak, Sierra Peak, Mount Lukens, Mount Wilson (California).
 
@@ -126,7 +124,17 @@ Short-Spacing Separation Table
 
 (c) Conventional systems authorized on frequencies in the Public Safety (except for those systems that have participated in a formal regional planning process as described in § 90.16) and Business/Industrial/Land Transportation categories which have not met the loading levels necessary for channel exclusivity will not be afforded co-channel protection.
 
-(d) [Reserved]
+(d) Geographic separation between fixed stations operating on adjacent channels in the 809-817 MHz/854-862 MHz band segment will be based on contour overlap as detailed below.
+
+(1) *Forward contour analysis.* An applicant seeking to license a fixed station on a channel in the 809-817 MHz/854-862 MHz band segment will only be granted if the applicant's proposed interference contour creates no overlap to the 40 dBu F(50,50) contour of an incumbent operating a fixed station on an upper- or lower-adjacent channel. The applicant's interference contour is determined using the dBu level listed in the appropriate table in paragraph 43 of *Creation of Interstitial 12.5 Kilohertz Channels in the 800 MHz Band Between 809-817/854-862 MHz, et al.* PS Docket No. 15-32 *et al.* Report and Order and Order, FCC 18-143 rel. Oct. 22, 2018 (*PLMR Order*).
+
+(2) *Reciprocal contour analysis.* In addition to the contour analysis described above, any applicant seeking to license a fixed station on a channel in the 809-817 MHz/854-862 MHz band segment must also pass a reciprocal contour analysis. Under the reciprocal analysis, the interference contour of an incumbent operating a fixed station on an upper- or lower-adjacent channel must create no contour overlap to the proposed 40 dBu F(50,50) contour of the applicant's fixed station. The incumbent's interference contour is determined using the dBu level listed in the appropriate table in paragraph 43 of the *PLMR Order,* above.
+
+(3) *Contour matrix.* Interference contour levels for the contour analysis described in paragraphs (d)(1) and (2) of this section are determined using Table 1 or Table 2 in paragraph 43 of the *PLMR Order.* Table 1 is used to determine the interference contour level of a fixed station operating on a 12.5 kilohertz bandwidth channel while Table 2 is used to determine the interference contour level of a fixed station operating on a 25 kilohertz bandwidth channel. The dBu level of the interference contour is determined by cross-referencing the modulation type of the station operating on the 25 kilohertz bandwidth channel with the modulation type of the station operating on the 12.5 kilohertz bandwidth channel. The interference contour should be plotted using the F(50,10)R-6602 curves.
+
+(4) *Letters of concurrence.* Applicants may submit applications which cause overlap under the forward contour analysis described in paragraph (d)(1) of this section provided the applicant includes a letter of concurrence from each incumbent that receives contour overlap. In the letter of concurrence, the incumbent operator must agree to accept any interference that occurs as a result of the contour overlap. Applicants may also submit applications which receive contour overlap under the reciprocal analysis described in paragraph (d)(2) of this section provided the applicant includes a letter of concurrence from each incumbent that causes contour overlap. In this case, the incumbent operator must state in its letter of concurrence that it does not object to the applicant receiving contour overlap from the incumbent's facility.
+
+(5) *Compliance date.* Paragraph (d)(4) of this section contains information-collection and recordkeeping requirements. Compliance will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing that compliance date and revising this paragraph accordingly.
 
 (e) Frequencies in the 809-817/854-862 MHz bands listed as available for eligibles in the Public Safety and Business/Industrial/Land Transportation Categories are available for inter-category sharing under the following conditions:
 
@@ -156,7 +164,7 @@ Short-Spacing Separation Table
 
 (h) [Reserved]
 
-[47 FR 41032, Sept. 16, 1982]Editorial Notes:1. For Federal Register citations affecting § 90.621, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[47 FR 41032, Sept. 16, 1982]Editorial Notes:1. For Federal Register citations affecting § 90.621, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 2. At 63 FR 68968, Dec. 14, 1998, § 90.621 was amended by adding a note before Table 1 and revising the first two columns of Table 1. However, Table 1 of § 90.621 as it appears in the October 1, 1998 revision of title 47 parts 80-end is an illustration and cannot be edited for amendments. For the convenience of the user, the revised text is set forth as follows:
 

@@ -126,4 +126,4 @@
 
 (C) *Limitations.* Prepare fresh solution daily; use as a drench; use as the sole source of chlortetracycline; do not use for more than 5 days; do not administer to cattle within 24 hours of slaughter; do not use in lactating dairy cattle; do not administer this product with milk or milk replacers; administer 1 hour before or 2 hours after feeding milk or milk replacers; a withdrawal period has not been established in preruminating calves; do not use in calves to be processed for veal. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[57 FR 37324, Aug. 18, 1992]Editorial Note:For Federal Register citations affecting § 520.441, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[57 FR 37324, Aug. 18, 1992]Editorial Note:For Federal Register citations affecting § 520.441, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

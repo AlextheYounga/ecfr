@@ -1,6 +1,6 @@
 ##### § 660.73 Latitude/longitude coordinates defining the 100 fm (183 m) through 150 fm (274 m) depth contours. #####
 
-Link to an amendment published at 83 FR 63992, Dec. 12, 2018.
+Link to an amendment published at 83 FR 63992, Dec. 12, 2018.Link to a correction published at 83 FR 66639, Dec. 27, 2018.
 
 Boundaries for RCAs are defined by straight lines connecting a series of latitude/longitude coordinates. This section provides coordinates for the 100 fm (183 m) through 150 fm (274 m) depth contours.
 

@@ -182,4 +182,4 @@
 
 (c) When a new animal drug application is submitted for a new animal drug which has a stimulant, depressant, or hallucinogenic effect on the central nervous system, if it appears that the drug has a potential for abuse, the Commissioner shall forward that information to the Attorney General of the United States.
 
-[40 FR 13825, Mar. 27, 1975]Editorial Note:For Federal Register citations affecting § 514.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[40 FR 13825, Mar. 27, 1975]Editorial Note:For Federal Register citations affecting § 514.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,7 +1,5 @@
 ##### § 76.923 Rates for equipment and installation used to receive the basic service tier. #####
 
-Link to an amendment published at 83 FR 60776, Nov. 27, 2018.
-
 (a) *Scope.* (1) The equipment regulated under this section consists of all equipment in a subscriber's home, provided and maintained by the operator, that is used to receive the basic service tier, regardless of whether such equipment is additionally used to receive other tiers of regulated programming service and/or unregulated service. Such equipment shall include, but is not limited to:
 
 (i) Converter boxes;
@@ -44,7 +42,7 @@ Subscriber charges for such equipment shall not exceed charges based on actual c
 
 (i) *Charges for equipment sold.* A cable operator may sell customer premises equipment to a subscriber. The equipment price shall recover the operator's cost of the equipment, including costs associated with storing and preparing the equipment for sale up to the time it is sold to the customer, plus a reasonable profit. An operator may sell service contracts for the maintenance and repair of equipment sold to subscribers. The charge for a service contract shall be the HSC times the estimated average number of hours for maintenance and repair over the life of the equipment.
 
-(j) *Promotions.* A cable operator may offer equipment or installation at charges below those determined under paragraphs (e) through (g) of this section, as long as those offerings are reasonable in scope in relation to the operator's overall offerings in the Equipment Basket and not unreasonably discriminatory. Operators may not recover the cost of a promotional offering by increasing charges for other Equipment Basket elements, or by increasing programming service rates above the maximum monthly charge per subscriber prescribed by these rules. As part of a general cost-of-service showing, an operator may include the cost of promotions in its general system overhead costs.
+(j) *Promotions.* A cable operator may offer equipment or installation at charges below those determined under paragraphs (e) through (g) of this section, as long as those offerings are reasonable in scope in relation to the operator's overall offerings in the Equipment Basket and not unreasonably discriminatory. Operators may not recover the cost of a promotional offering by increasing charges for other Equipment Basket elements, or by increasing programming service rates above the maximum monthly charge per subscriber prescribed by these rules. As part of a general cost-of-service showing, an operator may include the cost of promotions in its general system overhead costs. Equipment sales by an operator will be unregulated where the operator offers subscribers the same equipment under regulated leased rates.
 
 (k) *Franchise fees.* Equipment charges may include a properly allocated portion of franchise fees.
 
@@ -64,4 +62,4 @@ Subscriber charges for such equipment shall not exceed charges based on actual c
 
 (o) *Introduction of new equipment.* In setting the permitted charge for a new type of equipment at a time other than at its annual filing, an operator shall only complete Schedule C and the relevant step of the Worksheet for Calculating Permitted Equipment and Installation Charges of a Form 1205. The operator shall rely on entries from its most recently filed FCC Form 1205 for information not specifically related to the new equipment, including but not limited to the Hourly Service Charge. In calculating the annual maintenance and service hours for the new equipment, the operator should base its entry on the average annual expected time required to maintain the unit, *i.e.*, expected service hours required over the life of the equipment unit being introduced divided by the equipment unit's expected life.
 
-[58 FR 29753, May 21, 1993, as amended at 59 FR 17960, 17973, Apr. 15, 1994; 60 FR 52118, Oct. 5, 1995; 61 FR 32709, June 25, 1996]
+[58 FR 29753, May 21, 1993, as amended at 59 FR 17960, 17973, Apr. 15, 1994; 60 FR 52118, Oct. 5, 1995; 61 FR 32709, June 25, 1996; 83 FR 60776, Nov. 27, 2018]

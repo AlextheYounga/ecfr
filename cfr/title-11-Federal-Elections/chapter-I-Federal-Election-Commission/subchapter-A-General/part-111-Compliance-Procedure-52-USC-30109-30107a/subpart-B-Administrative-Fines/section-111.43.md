@@ -1,5 +1,7 @@
 ##### § 111.43 What are the schedules of penalties? #####
 
+Link to an amendment published at 83 FR 66597, Dec. 27, 2018.
+
 (a) The civil money penalty for all reports that are filed late or not filed, except election sensitive reports and pre-election reports under 11 CFR 104.5, shall be calculated in accordance with the following schedule of penalties:
 
 |If the level of activity in the report was:|             And the report was filed late, the civil money penalty is:             |Or the report was not filed, the civil money penalty is:|

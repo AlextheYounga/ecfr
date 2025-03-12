@@ -1,163 +1,307 @@
-##### § 218.74 Mitigation. #####
+##### § 218.74 Mitigation requirements. #####
 
-(a) When conducting training and testing activities, as identified in § 218.70, the mitigation measures contained in the LOA issued under §§ 216.106 and 218.77 of this chapter must be implemented. These mitigation measures include, but are not limited to:
+When conducting the activities identified in § 218.70(c), the mitigation measures contained in any LOAs issued under §§ 216.106 of this chapter and 218.76 must be implemented. These mitigation measures include, but are not limited to:
 
-(1) *Lookouts* - The following are protective measures concerning the use of Lookouts.
+(a) *Procedural mitigation.* Procedural mitigation is mitigation that the Navy must implement whenever and wherever an applicable training or testing activity takes place within the HSTT Study Area for each applicable activity category or stressor category and includes acoustic stressors (*i.e.,* active sonar, air guns, pile driving, weapons firing noise), explosive stressors (*i.e.,* sonobuoys, torpedoes, medium-caliber and large-caliber projectiles, missiles and rockets, bombs, sinking exercises, mines, anti-swimmer grenades, and mat weave and obstacle loading), and physical disturbance and strike stressors (*i.e.,* vessel movement; towed in-water devices; small-, medium-, and large-caliber non-explosive practice munitions; non-explosive missiles and rockets; and non-explosive bombs and mine shapes).
 
-(i) Lookouts positioned on ships will be dedicated solely to diligent observation of the air and surface of the water. Their observation objectives will include, but are not limited to, detecting the presence of biological resources and recreational or fishing boats, observing mitigation zones, and monitoring for vessel and personnel safety concerns.
+(1) *Environmental awareness and education.* Appropriate Navy personnel (including civilian personnel) involved in mitigation and training or testing activity reporting under the specified activities must complete one or more modules of the U.S Navy Afloat Environmental Compliance Training Series, as identified in their career path training plan. Modules include: Introduction to the U.S. Navy Afloat Environmental Compliance Training Series, Marine Species Awareness Training; U.S. Navy Protective Measures Assessment Protocol; and U.S. Navy Sonar Positional Reporting System and Marine Mammal Incident Reporting.
 
-(ii) Lookouts positioned in aircraft or on small boats will, to the maximum extent practicable and consistent with aircraft and boat safety and training and testing requirements, comply with the observation objectives described above in § 218.74 (a)(1)(i).
+(2) *Active sonar.* Active sonar includes low-frequency active sonar, mid-frequency active sonar, and high-frequency active sonar. For vessel-based activities, mitigation applies only to sources that are positively controlled and deployed from manned surface vessels (*e.g.,* sonar sources towed from manned surface platforms). For aircraft-based activities, mitigation applies only to sources that are positively controlled and deployed from manned aircraft that do not operate at high altitudes (*e.g.,* rotary-wing aircraft). Mitigation does not apply to active sonar sources deployed from unmanned aircraft or aircraft operating at high altitudes (*e.g.,* maritime patrol aircraft).
 
-(iii) Lookout measures for non-impulsive sound:
+(i) *Number of Lookouts and observation platform* - (A) *Hull-mounted sources.* One Lookout for platforms with space or manning restrictions while underway (at the forward part of a small boat or ship) and platforms using active sonar while moored or at anchor (including pierside); and two Lookouts for platforms without space or manning restrictions while underway (at the forward part of the ship).
 
-(A) With the exception of ships less than 65 ft (20 m) in length and ships which are minimally manned, ships using low-frequency or hull-mounted mid-frequency active sonar sources associated with anti-submarine warfare and mine warfare activities at sea will have two Lookouts at the forward position of the ship. For the purposes of this rule, low-frequency active sonar does not include surveillance towed array sensor system low-frequency active sonar.
+(B) *Sources that are not hull-mounted sources.* One Lookout on the ship or aircraft conducting the activity.
 
-(B) While using low-frequency or hull-mounted mid-frequency active sonar sources associated with anti-submarine warfare and mine warfare activities at sea, vessels less than 65 ft (20 m) in length and ships which are minimally manned will have one Lookout at the forward position of the vessel due to space and manning restrictions.
+(ii) *Mitigation zone and requirements.* During the activity, at 1,000 yards (yd) Navy personnel must power down 6 decibels (dB), at 500 yd Navy personnel must power down an additional 4 dB (for a total of 10 dB), and 200 yd Navy personnel must shut down for low-frequency active sonar ≥200 dB and hull-mounted mid-frequency active sonar; or at 200 yd Navy personnnel must shut down for low-frequency active sonar \<200 dB, mid-frequency active sonar sources that are not hull-mounted, and high-frequency active sonar.
 
-(C) Ships conducting active sonar activities while moored or at anchor (including pierside testing or maintenance) will maintain one Lookout.
+(A) Prior to the start of the activity (*e.g.,* when maneuvering on station), Navy personnel must observe the mitigation zone for floating vegetation; if floating vegetation is observed, Navy personnel must relocate or delay the start of active sonar transmission until the mitigation zone is clear. Navy personnel must also observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must relocate or delay the start of active sonar transmission.
 
-(D) Surface ships or aircraft conducting high-frequency or non-hull-mounted mid-frequency active sonar activities associated with anti-submarine warfare and mine warfare activities at sea will have one Lookout.
+(B) During the activity for low-frequency active sonar at or above 200 dB and hull-mounted mid-frequency active sonar, Navy personnel must observe the mitigation zone for marine mammals and power down active sonar transmission by 6 dB if marine mammals are observed within 1,000 yd of the sonar source; power down by an additional 4 dB (for a total of 10 dB total) if marine mammals are observed within 500 yd of the sonar source; and cease transmission if marine mammals are observed within 200 yd of the sonar source.
 
-(iv) Lookout measures for explosives and impulsive sound:
+(C) During the activity for low-frequency active sonar below 200 dB, mid-frequency active sonar sources that are not hull mounted, and high-frequency active sonar, Navy personnel must observe the mitigation zone for marine mammals and cease active sonar transmission if marine mammals are observed within 200 yd of the sonar source.
 
-(A) Aircraft conducting IEER sonobuoy activities will have one Lookout.
+(D) Commencement/recommencement conditions after a marine mammal sighting before or during the activity. Navy personnel must allow a sighted marine mammal to leave the mitigation zone prior to the initial start of the activity (by delaying the start) or during the activity (by not recommencing or powering up active sonar transmission) until one of the following conditions has been met: The animal is observed exiting the mitigation zone; the animal is thought to have exited the mitigation zone based on a determination of its course, speed, and movement relative to the sonar source; the mitigation zone has been clear from any additional sightings for 10 minutes (min) for aircraft-deployed sonar sources or 30 min for vessel-deployed sonar sources; for mobile activities, the active sonar source has transited a distance equal to double that of the mitigation zone size beyond the location of the last sighting; or for activities using hull-mounted sonar where a dolphin(s) is observed in the mitigation zone, the Lookout concludes that the dolphin(s) are deliberately closing in on the ship to ride the ship's bow wave, and are therefore out of the main transmission axis of the sonar (and there are no other marine mammal sightings within the mitigation zone).
 
-(B) Explosive sonobuoys with 0.6 to 2.5 lb net explosive weight will have one Lookout.
+(3) *Air guns* - (i) *Number of Lookouts and observation platform.* One Lookout positioned on a ship or pierside.
 
-(C) Surface vessels conducting anti-swimmer grenade activities will have one Lookout.
+(ii) *Mitigation zone and requirements.* 150 yd around the air gun.
 
-(D) During general mine countermeasure and neutralization activities using up to a 500-lb net explosive weight detonation (bin E10 and below), vessels greater than 200 ft will have two Lookouts, while vessels less than 200 ft or aircraft will have one Lookout.
+(A) Prior to the initial start of the activity (*e.g.,* when maneuvering on station), Navy personnel must observe the mitigation zone for floating vegetation; if floating vegetation is observed, Navy personnel must relocate or delay the start until the mitigation zone is clear. Navy personnel must also observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must relocate or delay the start of air gun use.
 
-(E) General mine countermeasure and neutralization activities using a 501 to 650-lb net explosive weight detonation (bin E11), will have two Lookouts. One Lookout will be positioned in an aircraft and one in a support vessel.
+(B) During the activity, Navy personnel must observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must cease air gun use.
 
-(F) During activities involving diver-placed mines under positive control, activities using up to a 500 lb net explosive weight (bin E10) detonation will have a total of two Lookouts (one Lookout positioned on two small boats, or one small boat in combination with either a helicopter or shore-based. The shore-based observer would be stationed at an elevated on-shore position and would only be used during activities conducted in very shallow waters.
+(C) Commencement/recommencement conditions after a marine mammal sighting before or during the activity. Navy personnel must allow a sighted marine mammal to leave the mitigation zone prior to the initial start of the activity (by delaying the start) or during the activity (by not recommencing air gun use) until one of the following conditions has been met: The animal is observed exiting the mitigation zone; the animal is thought to have exited the mitigation zone based on a determination of its course, speed, and movement relative to the air gun; the mitigation zone has been clear from any additional sightings for 30 min; or for mobile activities, the air gun has transited a distance equal to double that of the mitigation zone size beyond the location of the last sighting.
 
-(G) When mine neutralization activities using diver-placed charges with up to a 29-lb net explosive weight detonation (bin E7) are conducted with a time-delay firing device, four Lookouts will be used. Two Lookouts will be positioned in each of two small rigid hull inflatable boats or on one boat. In addition, when aircraft are used, the pilot or member of the aircrew will serve as an additional Lookout. The divers placing the charges on mines will report all marine mammal sightings to their dive support vessel or Range Safety Officer.
+(4) *Pile driving.* Pile driving and pile extraction sound during Elevated Causeway System training.
 
-(H) Surface vessels or aircraft conducting small- and medium-caliber gunnery exercises against a surface target will have one Lookout.
+(i) *Number of Lookouts and observation platform.* One Lookout must be positioned on the shore, the elevated causeway, or a small boat.
 
-(I) Surface vessels conducting large-caliber gunnery exercises against a surface target will have one Lookout.
+(ii) *Mitigation* z*one and requirements.* 100 yd around the pile driver.
 
-(J) Aircraft conducting missile exercises (including rockets) against surface targets will have one Lookout.
+(A) Prior to the initial start of the activity (for 30 min), Navy personnel must observe the mitigation zone for floating vegetation; if floating vegetation is observed, Navy personnel must delay the start until the mitigation zone is clear. Navy personnel also must observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must delay the start of pile driving or vibratory pile extraction.
 
-(K) Aircraft conducting bombing exercises will have one Lookout.
+(B) During the activity, Navy personnel must observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must cease impact pile driving or vibratory pile extraction.
 
-(L) During explosive torpedo testing, one Lookout will be used and positioned in an aircraft.
+(C) Commencement/recommencement conditions after a marine mammal sighting before or during the activity. The Navy personnel must allow a sighted marine mammal to leave the mitigation zone prior to the initial start of the activity (by delaying the start) or during the activity (by not recommencing pile driving or pile extraction) until one of the following conditions has been met: The animal is observed exiting the mitigation zone; the animal is thought to have exited the mitigation zone based on a determination of its course, speed, and movement relative to the pile driving location; or the mitigation zone has been clear from any additional sightings for 30 min.
 
-(M) During sinking exercises, two Lookouts will be used. One Lookout will be positioned in an aircraft and one on a surface vessel.
+(5) *Weapons firing noise.* Weapons firing noise associated with large-caliber gunnery activities.
 
-(N) Each surface vessel supporting at-sea explosive testing will have at least one Lookout.
+(i) *Number of Lookouts and observation platform.* One Lookout must be positioned on the ship conducting the firing. Depending on the activity, the Lookout could be the same as the one provided for under “Explosive medium-caliber and large-caliber projectiles” or under “Small-, medium-, and large-caliber non-explosive practice munitions” in paragraphs (a)(8)(i) and (a)(18)(i) of this section.
 
-(O) During pile driving, one Lookout will be used and positioned on the platform that will maximize the potential for marine mammal sightings (e.g., the shore, an elevated causeway, or on a small boat).
+(ii) *Mitigation zone and requirements.* Thirty degrees on either side of the firing line out to 70 yd from the muzzle of the weapon being fired.
 
-(P) Surface vessels conducting explosive and non-explosive large-caliber gunnery exercises will have one Lookout. This may be the same Lookout used during large-caliber gunnery exercises with a surface target.
+(A) Prior to the start of the activity, Navy personnel must observe the mitigation zone for floating vegetation; if floating vegetation is observed, Navy personnel must relocate or delay the start of weapons firing until the mitigation zone is clear. Navy personnel must also observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must relocate or delay the start of weapons firing.
 
-(v) Lookout measures for physical strike and disturbance:
+(B) During the activity, Navy personnel must observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must cease weapons firing.
 
-(A) While underway, surface ships will have at least one Lookout.
+(C) Commencement/recommencement conditions after a marine mammal sighting before or during the activity. Navy personnel must allow a sighted marine mammal to leave the mitigation zone prior to the initial start of the activity (by delaying the start) or during the activity (by not recommencing weapons firing) until one of the following conditions has been met: The animal is observed exiting the mitigation zone; the animal is thought to have exited the mitigation zone based on a determination of its course, speed, and movement relative to the firing ship; the mitigation zone has been clear from any additional sightings for 30 min; or for mobile activities, the firing ship has transited a distance equal to double that of the mitigation zone size beyond the location of the last sighting.
 
-(B) During activities using towed in-water devices, when towed from a manned platform, one Lookout will be used.
+(6) *Explosive sonobuoys* - (i) *Number of Lookouts and observation platform.* One Lookout must be positioned in an aircraft or on small boat. If additional platforms are participating in the activity, Navy personnel positioned in those assets (*e.g.,* safety observers, evaluators) must support observing the mitigation zone for applicable biological resources while performing their regular duties.
 
-(C) Activities involving non-explosive practice munitions (e.g., small-, medium-, and large-caliber gunnery exercises) using a surface target will have one Lookout.
+(ii) *Mitigation zone and requirements.* 600 yd around an explosive sonobuoy.
 
-(D) During activities involving non-explosive bombing exercises, one Lookout positioned in an aircraft will be used.
+(A) Prior to the initial start of the activity (*e.g.,* during deployment of a sonobuoy field, which typically lasts 20-30 min), Navy personnel must observe the mitigation zone for floating vegetation; if floating vegetation is observed, Navy personnel must relocate or delay the start of sonobuoy or source/receiver pair detonations until the mitigation zone is clear. Navy personnel must conduct passive acoustic monitoring for marine mammals and use information from detections to assist visual observations. Navy personnel also must visually observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must relocate or delay the start of sonobuoy or source/receiver pair detonations.
 
-(E) During activities involving non-explosive missile exercises (including rockets) using a surface target, one Lookout will be used.
+(B) During the activity, Navy personnel must observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must cease sonobuoy or source/receiver pair detonations.
 
-(2) *Mitigation Zones* - The following are protective measures concerning the implementation of mitigation zones.
+(C) Commencement/recommencement conditions after a marine mammal sighting before or during the activity. Navy personnel must allow a sighted marine mammal to leave the mitigation zone prior to the initial start of the activity (by delaying the start) or during the activity (by not recommencing detonations) until one of the following conditions has been met: The animal is observed exiting the mitigation zone; the animal is thought to have exited the mitigation zone based on a determination of its course, speed, and movement relative to the sonobuoy; or the mitigation zone has been clear from any additional sightings for 10 min when the activity involves aircraft that have fuel constraints (*e.g.,* helicopter), or 30 min when the activity involves aircraft that are not typically fuel constrained.
 
-(i) Mitigation zones will be measured as the radius from a source and represent a distance to be monitored.
+(D) After completion of the activity (*e.g.,* prior to maneuvering off station), when practical (*e.g.,* when platforms are not constrained by fuel restrictions or mission-essential follow-on commitments), Navy personnel must observe for marine mammals in the vicinity of where detonations occurred; if any injured or dead marine mammals are observed, Navy personnel must follow established incident reporting procedures. If additional platforms are supporting this activity (*e.g.,* providing range clearance), these Navy assets must assist in the visual observation of the area where detonations occurred.
 
-(ii) Visual detections of marine mammals within a mitigation zone will be communicated immediately to a watch station for information dissemination and appropriate action.
+(7) *Explosive torpedoes* - (i) *Number of Lookouts and observation platform.* One Lookout positioned in an aircraft. If additional platforms are participating in the activity, Navy personnel positioned in those assets *(e.g.,* safety observers, evaluators) must support observing the mitigation zone for applicable biological resources while performing their regular duties.
 
-(iii) Mitigation zones for non-impulsive sound:1
+(ii) *Mitigation zone and requirements.* 2,100 yd around the intended impact location.
 
-1 The mitigation zone would be 200 yd (183 m) for low-frequency non-hull mounted sources in bins LF4 and LF5.
+(A) Prior to the initial start of the activity (*e.g.,* during deployment of the target), Navy personnel must observe the mitigation zone for floating vegetation; if floating vegetation is observed, Navy personnel must relocate or delay the start of firing until the mitigation zone is clear. Navy personnel must conduct passive acoustic monitoring for marine mammals and use the information from detections to assist visual observations. Navy personnel must visually observe the mitigation zone for marine mammals and jellyfish aggregations; if marine mammals or jellyfish aggregations are observed, Navy personnel must relocate or delay the start of firing.
 
-(A) When marine mammals are visually detected, the Navy shall ensure that low-frequency and hull-mounted mid-frequency active sonar transmission levels are limited to at least 6 dB below normal operating levels, for sources that can be powered down, if any detected marine mammals are within 1,000 yd (914 m) of the sonar dome (the bow).
+(B) During the activity, Navy personnel must observe for marine mammals and jellyfish aggregations; if marine mammals or jellyfish aggregation are observed, Navy personnel must cease firing.
 
-(B) The Navy shall ensure that low-frequency and hull-mounted mid-frequency active sonar transmissions are limited to at least 10 dB below the equipment's normal operating level, for sources that can be powered down, if any detected marine mammals are within 500 yd (457 m) of the sonar dome.
+(C) Commencement/recommencement conditions after a marine mammal sighting before or during the activity, Navy personnel must allow a sighted marine mammal to leave the mitigation zone prior to the initial start of the activity (by delaying the start) or during the activity (by not recommencing firing) until one of the following conditions has been met: the animal is observed exiting the mitigation zone; the animal is thought to have exited the mitigation zone based on a determination of its course, speed, and movement relative to the intended impact location; or the mitigation zone has been clear from any additional sightings for 10 min when the activity involves aircraft that have fuel constraints, or 30 min when the activity involves aircraft that are not typically fuel constrained.
 
-(C) The Navy shall ensure that low-frequency sonar and hull-mounted mid-frequency active sonar transmissions are ceased, for sources that can be turned off during the activity, if any visually detected marine mammals are within 200 yd (183 m) of the sonar dome. Transmissions will not resume until one of the following conditions is met: the animal is observed exiting the mitigation zone; the animal is thought to have exited the mitigation zone based on a determination of its course and speed and the relative motion between the animal and the source; the mitigation zone has been clear from any additional sightings for a period of 30 minutes; the ship has transited more than 2,000 yd (1.8 km) beyond the location of the last sighting; or the ship concludes that dolphins are deliberately closing in on the ship to ride the ship's bow wave (and there are no other marine mammal sightings within the mitigation zone). Active transmission may resume when dolphins are bow riding because they are out of the main transmission axis of the active sonar while in the shallow-wave area of the bow.
+(D) After completion of the activity (*e.g.,* prior to maneuvering off station), Navy personnel must when practical *(e.g.,* when platforms are not constrained by fuel restrictions or mission-essential follow-on commitments), observe for marine mammals in the vicinity of where detonations occurred; if any injured or dead marine mammals are observed, Navy personnel must follow established incident reporting procedures. If additional platforms are supporting this activity (*e.g.,* providing range clearance), these Navy assets must assist in the visual observation of the area where detonations occurred.
 
-(D) The Navy shall ensure that low-frequency and hull-mounted mid-frequency active sonar transmissions are ceased for sources that cannot be powered down during the activity, if any visually detected marine mammals are within 200 yd (183 m) of the source. Transmissions will not resume until one of the following conditions is met: the animal is observed exiting the mitigation zone; the animal is thought to have exited the mitigation zone based on a determination of its course and speed and the relative motion between the animal and the source; the mitigation zone has been clear from any additional sightings for a period of 30 minutes; the ship has transited more than 400 yd (366 m) beyond the location of the last sighting.
+(8) *Explosive medium-caliber and large-caliber projectiles.* Gunnery activities using explosive medium-caliber and large-caliber projectiles. Mitigation applies to activities using a surface target.
 
-(E) When marine mammals are visually detected, the Navy shall ensure that high-frequency and non-hull-mounted mid-frequency active sonar transmission levels are ceased if any visually detected marine mammals are within 200 yd (183 m) of the source. Transmissions will not resume until one of the following conditions is met: the animals is observed exiting the mitigation zone; the animal is thought to have exited the mitigation zone based on a determination of its course and speed and the relative motion between the animal and the source; the mitigation zone has been clear from any additional sightings for a period of 10 minutes for an aircraft-deployed source; the mitigation zone has been clear from any additional sightings for a period of 30 minutes for a vessel-deployed source; the vessel or aircraft has repositioned itself more than 400 yd (366 m) away from the location of the last sighting; or the vessel concludes that dolphins are deliberately closing to ride the vessel's bow wave (and there are no other marine mammal sightings within the mitigation zone).
+(i) *Number of Lookouts and observation platform.* One Lookout must be on the vessel or aircraft conducting the activity. For activities using explosive large-caliber projectiles, depending on the activity, the Lookout could be the same as the one described in “Weapons firing noise” in paragraph (a)(5)(i) of this section. If additional platforms are participating in the activity, Navy personnel positioned in those assets (*e.g.,* safety observers, evaluators) must support observing the mitigation zone for applicable biological resources while performing their regular duties.
 
-(iv) Mitigation zones for explosive and impulsive sound:
+(ii) *Mitigation zone and requirements.* (A) 200 yd around the intended impact location for air-to-surface activities using explosive medium-caliber projectiles.
 
-(A) A mitigation zone with a radius of 600 yd (549 m) shall be established for IEER sonobuoys (bin E4).
+(B) 600 yd around the intended impact location for surface-to-surface activities using explosive medium-caliber projectiles.
 
-(B) A mitigation zone with a radius of 350 yd (320 m) shall be established for explosive sonobuoys using 0.6 to 2.5 lb net explosive weight (bin E3).
+(C) 1,000 yd around the intended impact location for surface-to-surface activities using explosive large-caliber projectiles.
 
-(C) A mitigation zone with a radius of 200 yd (183 m) shall be established for anti-swimmer grenades (bin E2).
+(D) Prior to the start of the activity (*e.g.,* when maneuvering on station), Navy personnel must observe the mitigation zone for floating vegetation; if floating vegetation is observed, Navy personnel must relocate or delay the start of firing until the mitigation zone is clear. Navy personnel must observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must relocate or delay the start of firing.
 
-(D) A mitigation zone ranging from 600 yd (549 m) to 2,100 yd (1.9 km), dependent on charge size, shall be established for general mine countermeasure and neutralization activities using positive control firing devices. Mitigation zone distances are specified for charge size in Table 11-2 of the Navy's application.
+(E) During the activity, Navy personnel must observe for marine mammals; if marine mammals are observed, Navy personnel must cease firing.
 
-(E) A mitigation zone ranging from 350 yd (320 m) to 850 yd (777 m), dependent on charge size, shall be established for mine countermeasure and neutralization activities using diver-placed positive control firing devices. Mitigation zone distances are specified for charge size in Table 11-2 of the Navy's application.
+(F) Commencement/recommencement conditions after a marine mammal sighting before or during the activity, Navy personnel must allow a sighted marine mammal to leave the mitigation zone prior to the initial start of the activity (by delaying the start) or during the activity (by not recommencing firing) until one of the following conditions has been met: The animal is observed exiting the mitigation zone; the animal is thought to have exited the mitigation zone based on a determination of its course, speed, and movement relative to the intended impact location; the mitigation zone has been clear from any additional sightings for 10 min for aircraft-based firing or 30 min for vessel-based firing; or for activities using mobile targets, the intended impact location has transited a distance equal to double that of the mitigation zone size beyond the location of the last sighting.
 
-(F) A mitigation zone with a radius of 1,000 yd (914 m) shall be established for mine neutralization diver placed mines using time-delay firing devices (bin E7).
+(G) After completion of the activity (*e.g.,* prior to maneuvering off station), Navy personnel must, when practical (*e.g.,* when platforms are not constrained by fuel restrictions or mission-essential follow-on commitments), observe for marine mammals in the vicinity of where detonations occurred; if any injured or dead marine mammals are observed, Navy personnel must follow established incident reporting procedures. If additional platforms are supporting this activity (*e.g.,* providing range clearance), these Navy assets must assist in the visual observation of the area where detonations occurred.
 
-(G) A mitigation zone with a radius of 200 yd (183 m) shall be established for small- and medium-caliber gunnery exercises with a surface target (bin E2).
+(9) *Explosive missiles and rockets.* Aircraft-deployed explosive missiles and rockets. Mitigation applies to activities using a surface target.
 
-(H) A mitigation zone with a radius of 600 yd (549 m) shall be established for large-caliber gunnery exercises with a surface target (bin E5).
+(i) *Number of Lookouts and observation platform.* One Lookout must be positioned in an aircraft. If additional platforms are participating in the activity, Navy personnel positioned in those assets (*e.g.,* safety observers, evaluators) must support observing the mitigation zone for applicable biological resources while performing their regular duties.
 
-(I) A mitigation zone with a radius of 900 yd (823 m) shall be established for missile exercises (including rockets) with up to 250 lb net explosive weight and a surface target (up to bin E9).
+(ii) *Mitigation zone and requirements.* (A) 900 yd around the intended impact location for missiles or rockets with 0.6-20 lb net explosive weight.
 
-(J) A mitigation zone with a radius of 2,000 yd (1.8 km) shall be established for missile exercises with 251 to 500 lb net explosive weight and a surface target (E10).
+(B) 2,000 yd around the intended impact location for missiles with 21-500 lb net explosive weight.
 
-(K) A mitigation zone with a radius of 2,500 yd (2.3 km) shall be established for bombing exercises (up to bin E12).
+(C) Prior to the initial start of the activity (*e.g.,* during a fly-over of the mitigation zone), Navy personnel must observe the mitigation zone for floating vegetation; if floating vegetation is observed, Navy personnel must relocate or delay the start of firing until the mitigation zone is clear. Navy personnel must observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must relocate or delay the start of firing.
 
-(L) A mitigation zone with a radius of 2,100 yd (1.9 km) shall be established for torpedo (explosive) testing (up to bin E11).
+(D) During the activity, Navy personnel must observe for marine mammals; if marine mammals are observed, Navy personnel must cease firing.
 
-(M) A mitigation zone with a radius of 2.5 nautical miles shall be established for sinking exercises (up to bin E12).
+(E) Commencement/recommencement conditions after a marine mammal sighting before or during the activity. Navy personnel must allow a sighted marine mammal to leave the mitigation zone prior to the initial start of the activity (by delaying the start) or during the activity (by not recommencing firing) until one of the following conditions has been met: The animal is observed exiting the mitigation zone; the animal is thought to have exited the mitigation zone based on a determination of its course, speed, and movement relative to the intended impact location; or the mitigation zone has been clear from any additional sightings for 10 min when the activity involves aircraft that have fuel constraints, or 30 min when the activity involves aircraft that are not typically fuel constrained.
 
-(N) A mitigation zone with a radius of 1,600 yd (1.4 km) shall be established for at-sea explosive testing (up to bin E5).
+(F) After completion of the activity (*e.g.,* prior to maneuvering off station), Navy personnel must, when practical (*e.g.,* when platforms are not constrained by fuel restrictions or mission-essential follow-on commitments), observe for marine mammals in the vicinity of where detonations occurred; if any injured or dead marine mammals are observed, Navy personnel must follow established incident reporting procedures. If additional platforms are supporting this activity (*e.g.,* providing range clearance), these Navy assets will assist in the visual observation of the area where detonations occurred.
 
-(O) A mitigation zone with a radius of 60 yd (55 m) shall be established for elevated causeway system pile driving.
+(10) *Explosive bombs* - (i) *Number of Lookouts and observation platform.* One Lookout must be positioned in an aircraft conducting the activity. If additional platforms are participating in the activity, Navy personnel positioned in those assets (*e.g.,* safety observers, evaluators) must support observing the mitigation zone for applicable biological resources while performing their regular duties.
 
-(P) A mitigation zone with a radius of 70 yd (64 m) within 30 degrees on either side of the gun target line on the firing side of the vessel for explosive and non-explosive large-caliber gunnery exercises.
+(ii) *Mitigation* z*one and requirements.* 2,500 yd around the intended target.
 
-(v) Mitigation zones for vessels and in-water devices:
+(A) Prior to the initial start of the activity (*e.g.,* when arriving on station), Navy personnel must observe the mitigation zone for floating vegetation; if floating vegetation is observed, Navy personnel must relocate or delay the start of bomb deployment until the mitigation zone is clear. Navy personnel must observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must relocate or delay the start of bomb deployment.
 
-(A) A mitigation zone of 500 yd (457 m) for observed whales and 200 yd (183 m) for all other marine mammals (except bow riding dolphins) shall be established for all vessel movement, providing it is safe to do so.
+(B) During the activity (*e.g.,* during target approach), Navy personnel must observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must cease bomb deployment.
 
-(B) A mitigation zone of 250 yd (229 m) for any observed marine mammal shall be established for all towed in-water devices that are towed from a manned platform, providing it is safe to do so.
+(C) Commencement/recommencement conditions after a marine mammal sighting before or during the activity. Navy personnel must allow a sighted marine mammal to leave the mitigation zone prior to the initial start of the activity (by delaying the start) or during the activity (by not recommencing bomb deployment) until one of the following conditions has been met: The animal is observed exiting the mitigation zone; the animal is thought to have exited the mitigation zone based on a determination of its course, speed, and movement relative to the intended target; the mitigation zone has been clear from any additional sightings for 10 min; or for activities using mobile targets, the intended target has transited a distance equal to double that of the mitigation zone size beyond the location of the last sighting.
 
-(vi) Mitigation zones for non-explosive practice munitions:
+(D) After completion of the activity (*e.g.,* prior to maneuvering off station), Navy personnel must, when practical (*e.g.,* when platforms are not constrained by fuel restrictions or mission-essential follow-on commitments), observe for marine mammals in the vicinity of where detonations occurred; if any injured or dead marine mammals are observed, Navy personnel must follow established incident reporting procedures. If additional platforms are supporting this activity (*e.g.,* providing range clearance), these Navy assets must assist in the visual observation of the area where detonations occurred.
 
-(A) A mitigation zone of 200 yd (183 m) shall be established for small, medium, and large caliber gunnery exercises using a surface target with non-explosive practice munitions.
+(11) *Sinking exercises* - (i) *Number of Lookouts and observation platform.* Two Lookouts (one must be positioned in an aircraft and one must be positioned on a vessel). If additional platforms are participating in the activity, Navy personnel positioned in those assets (*e.g.,* safety observers, evaluators) must support observing the mitigation zone for applicable biological resources while performing their regular duties.
 
-(B) A mitigation zone of 1,000 yd (914 m) shall be established for bombing exercises with non-explosive practice munitions.
+(ii) *Mitigation* z*one and* r*equirements.* 2.5 nautical miles (nmi) around the target ship hulk.
 
-(C) A mitigation zone of 900 yd (823 m) shall be established for missile exercises (including rockets) using a surface target.
+(A) Prior to the initial start of the activity (90 min prior to the first firing), Navy personnel must conduct aerial observations of the mitigation zone for floating vegetation; if floating vegetation is observed, Navy personnel must delay the start of firing until the mitigation zone is clear. Navy personnel also must conduct aerial observations of the mitigation zone for marine mammals and jellyfish aggregations; if marine mammals or jellyfish aggregations are observed, Navy personnel must delay the start of firing.
 
-(vii) Mitigation zones for the use of Navy sea lions:
+(B) During the activity, Navy personnel must conduct passive acoustic monitoring for marine mammals and use the information from detections to assist visual observations. Navy personnel must visually observe the mitigation zone for marine mammals from the vessel; if marine mammals are observed, Navy personnel must cease firing. Immediately after any planned or unplanned breaks in weapons firing of longer than two hours, Navy personnel must observe the mitigation zone for marine mammals from the aircraft and vessel; if marine mammals are observed, Navy personnel must delay recommencement of firing.
 
-(A) If a monk seal is seen approaching or within 100 m of a Navy sea lion, the handler will hold the Navy sea lion in the boat or recall the Navy sea lion immediately if it has already been released.
+(C) Commencement/recommencement conditions after a marine mammal sighting before or during the activity. Navy personnel must allow a sighted marine mammal to leave the mitigation zone prior to the initial start of the activity (by delaying the start) or during the activity (by not recommencing firing) until one of the following conditions has been met: The animal is observed exiting the mitigation zone; the animal is thought to have exited the mitigation zone based on a determination of its course, speed, and movement relative to the target ship hulk; or the mitigation zone has been clear from any additional sightings for 30 min.
 
-(3) Humpback Whale Cautionary Area:
+(D) After completion of the activity (for two hours after sinking the vessel or until sunset, whichever comes first), Navy personnel must observe for marine mammals in the vicinity of where detonations occurred; if any injured or dead marine mammals are observed, Navy personnel must follow established incident reporting procedures. If additional platforms are supporting this activity (*e.g.,* providing range clearance), these Navy assets will assist in the visual observation of the area where detonations occurred.
 
-(i) The Navy will maintain a 5-km (3.1-mi) buffer zone between December 15 and April 15 where conducting mid-frequency active sonar exercises will require authorization by the Commander, U.S. Pacific Fleet (CPF).
+(12) *Explosive mine countermeasure and neutralization activities* - (i) *Number of Lookouts and observation platform.* (A) One Lookout must be positioned on a vessel or in an aircraft when implementing the smaller mitigation zone.
 
-(ii) If authorized, the CPF will provide specific direction on required mitigation prior to operational units transiting to and training in the area.
+(B) Two Lookouts (one must be positioned in an aircraft and one must be on a small boat) when implementing the larger mitigation zone.
 
-(iii) The Navy will provide NMFS with advance notification of any mid-frequency active sonar training and testing activities in the humpback whale cautionary area between December 15 and April 15.
+(C) If additional platforms are participating in the activity, Navy personnel positioned in those assets (*e.g.,* safety observers, evaluators) must support observing the mitigation zone for applicable biological resources while performing their regular duties.
 
-(4) Stranding Response Plan:
+(ii) *Mitigation* z*one and* r*equirements.* (A) 600 yd around the detonation site for activities using 0.1-5 lb net explosive weight.
 
-(i) The Navy shall abide by the letter of the “Stranding Response Plan for Major Navy Training Exercises in the HSTT Study Area,” to include the following measures:
+(B) 2,100 yd around the detonation site for activities using 6-650 lb net explosive weight (including high explosive target mines).
 
-(A) Shutdown Procedures - When an Uncommon Stranding Event (USE - defined in § 218.71 (b)(1)) occurs during a Major Training Exercise (MTE) in the HSTT Study Area, the Navy shall implement the procedures described below.
+(C) Prior to the initial start of the activity (*e.g.,* when maneuvering on station; typically, 10 min when the activity involves aircraft that have fuel constraints, or 30 min when the activity involves aircraft that are not typically fuel constrained), Navy personnel must observe the mitigation zone for floating vegetation; if floating vegetation is observed, Navy personnel must relocate or delay the start of detonations until the mitigation zone is clear. Navy personnel must observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must relocate or delay the start of detonations.
 
-(*1*) The Navy shall implement a shutdown (as defined § 218.71 (b)(2)) when advised by a NMFS Office of Protected Resources Headquarters Senior Official designated in the HSTT Study Area Stranding Communication Protocol that a USE involving live animals has been identified and that at least one live animal is located in the water. NMFS and the Navy will maintain a dialogue, as needed, regarding the identification of the USE and the potential need to implement shutdown procedures.
+(D) During the activity, Navy personnel must observe the mitigation zone for marine mammals, concentrations of seabirds, and individual foraging seabirds; if marine mammals, concentrations of seabirds, and individual foraging seabirds are observed, Navy personnel must cease detonations.
 
-(*2*) Any shutdown in a given area shall remain in effect in that area until NMFS advises the Navy that the subject(s) of the USE at that area die or are euthanized, or that all live animals involved in the USE at that area have left the area (either of their own volition or herded).
+(E) Commencement/recommencement conditions after a marine mammal sighting before or during the activity or a sighting of seabird concentrations or individual foraging seabirds during the activity. Navy personnel must allow a sighted animal to leave the mitigation zone prior to the initial start of the activity (by delaying the start) or during the activity (by not recommencing detonations) until one of the following conditions has been met: The animal is observed exiting the mitigation zone; the animal is thought to have exited the mitigation zone based on a determination of its course, speed, and movement relative to detonation site; or the mitigation zone has been clear from any additional sightings for 10 min when the activity involves aircraft that have fuel constraints, or 30 min when the activity involves aircraft that are not typically fuel constrained.
 
-(*3*) If the Navy finds an injured or dead animal floating at sea during an MTE, the Navy shall notify NMFS immediately or as soon as operational security considerations allow. The Navy shall provide NMFS with species or description of the animal(s), the condition of the animal(s), including carcass condition if the animal(s) is/are dead, location, time of first discovery, observed behavior (if alive), and photo or video (if available). Based on the information provided, NFMS will determine if, and advise the Navy whether a modified shutdown is appropriate on a case-by-case basis.
+(F) After completion of the activity (typically 10 min when the activity involves aircraft that have fuel constraints, or 30 min when the activity involves aircraft that are not typically fuel constrained), Navy personnel must observe for marine mammals in the vicinity of where detonations occurred; if any injured or dead marine mammals are observed, Navy personnel must follow established incident reporting procedures. If additional platforms are supporting this activity (*e.g.,* providing range clearance), these Navy assets must assist in the visual observation of the area where detonations occurred.
 
-(*4*) In the event, following a USE, that qualified individuals are attempting to herd animals back out to the open ocean and animals are not willing to leave, or animals are seen repeatedly heading for the open ocean but turning back to shore, NMFS and the Navy shall coordinate (including an investigation of other potential anthropogenic stressors in the area) to determine if the proximity of mid-frequency active sonar training activities or explosive detonations, though farther than 14 nautical miles from the distressed animal(s), is likely contributing to the animals' refusal to return to the open water. If so, NMFS and the Navy will further coordinate to determine what measures are necessary to improve the probability that the animals will return to open water and implement those measures as appropriate.
+(13) *Explosive mine neutralization activities involving Navy divers* - (i) *Number of Lookouts and observation platform.* (A) Two Lookouts (two small boats with one Lookout each, or one Lookout must be on a small boat and one must be in a rotary-wing aircraft) when implementing the smaller mitigation zone.
 
-(B) Within 72 hours of NMFS notifying the Navy of the presence of a USE, the Navy shall provide available information to NMFS (per the HSTT Study Area Communication Protocol) regarding the location, number and types of acoustic/explosive sources, direction and speed of units using mid-frequency active sonar, and marine mammal sightings information associated with training activities occurring within 80 nautical miles (148 km) and 72 hours prior to the USE event. Information not initially available regarding the 80-nautical miles (148-km), 72-hour period prior to the event will be provided as soon as it becomes available. The Navy will provide NMFS investigative teams with additional relevant unclassified information as requested, if available.
+(B) Four Lookouts (two small boats with two Lookouts each), and a pilot or member of an aircrew must serve as an additional Lookout if aircraft are used during the activity, when implementing the larger mitigation zone.
 
-(b) [Reserved]
+(C) All divers placing the charges on mines will support the Lookouts while performing their regular duties and will report applicable sightings to their supporting small boat or Range Safety Officer.
+
+(D) If additional platforms are participating in the activity, Navy personnel positioned in those assets (*e.g.,* safety observers, evaluators) must support observing the mitigation zone for applicable biological resources while performing their regular duties.
+
+(ii) *Mitigation* z*one and requirements.* (A) 500 yd around the detonation site during activities under positive control using 0.1-20 lb net explosive weight.
+
+(B) 1,000 yd around the detonation site during all activities using time-delay fuses (0.1-29 lb net explosive weight) and during activities under positive control using 21-60 lb net explosive weight charges.
+
+(C) Prior to the initial start of the activity (*e.g.,* when maneuvering on station for activities under positive control; 30 min for activities using time-delay firing devices), Navy personnel must observe the mitigation zone for floating vegetation; if floating vegetation is observed, Navy personnel must relocate or delay the start of detonations or fuse initiation until the mitigation zone is clear. Navy personnel also must observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must relocate or delay the start of detonations or fuse initiation.
+
+(D) During the activity, Navy personnel must observe the mitigation zone for marine mammals, concentrations of seabirds, and individual foraging seabirds (in the water and not on shore); if marine mammals, concentrations of seabirds, and individual foraging seabirds are observed, Navy personnel must cease detonations or fuse initiation. To the maximum extent practicable depending on mission requirements, safety, and environmental conditions, Navy personnel must position boats near the mid-point of the mitigation zone radius (but outside of the detonation plume and human safety zone), must position themselves on opposite sides of the detonation location (when two boats are used), and must travel in a circular pattern around the detonation location with one Lookout observing inward toward the detonation site and the other observing outward toward the perimeter of the mitigation zone. If used, Navy aircraft must travel in a circular pattern around the detonation location to the maximum extent practicable. Navy personnel must not set time-delay firing devices (0.1-29 lb. net explosive weight) to exceed 10 min.
+
+(E) During activities conducted in shallow water, a shore-based Navy observer must survey the mitigation zone with binoculars for birds before and after each detonation. If training involves multiple detonations, the second (or third, etc.) detonation will occur either immediately after the preceding detonation (*i.e.,* within 10 seconds) or after 30 min to avoid potential impacts on birds foraging underwater.
+
+(F) Commencement/recommencement conditions after a marine mammal sighting before or during the activity or a sighting of seabird concentrations or individual foraging seabirds during the activity. Navy personnel must allow a sighted animal to leave the mitigation zone prior to the initial start of the activity (by delaying the start) or during the activity (by not recommencing detonations) until one of the following conditions has been met: the animal is observed exiting the mitigation zone; the animal is thought to have exited the mitigation zone based on a determination of its course, speed, and movement relative to the detonation site; or the mitigation zone has been clear from any additional sightings for 10 min during activities under positive control with aircraft that have fuel constraints, or 30 min during activities under positive control with aircraft that are not typically fuel constrained and during activities using time-delay firing devices.
+
+(G) After completion of an activity (for 30 min), the Navy must observe for marine mammals for 30 min. Navy personnel must observe for marine mammals in the vicinity of where detonations occurred; if any injured or dead marine mammals are observed, Navy personnel must follow established incident reporting procedures. If additional platforms are supporting this activity (*e.g.,* providing range clearance), these Navy assets must assist in the visual observation of the area where detonations occurred.
+
+(14) *Maritime security operations - anti-swimmer grenades* - (i) *Number of Lookouts and observation platform.* One Lookout must be positioned on the small boat conducting the activity. If additional platforms are participating in the activity, Navy personnel positioned in those assets (*e.g.,* safety observers, evaluators) must support observing the mitigation zone for applicable biological resources while performing their regular duties.
+
+(ii) *Mitigation* z*one and requirements.* 200 yd around the intended detonation location.
+
+(A) Prior to the initial start of the activity (*e.g.,* when maneuvering on station), Navy personnel must observe the mitigation zone for floating vegetation; if floating vegetation is observed, Navy personnel must relocate or delay the start of detonations until the mitigation zone is clear. Navy personnel must observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must relocate or delay the start of detonations.
+
+(B) During the activity, Navy personnel must observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must cease detonations.
+
+(C) Commencement/recommencement conditions after a marine mammal sighting before or during the activity. Navy personnel must allow a sighted marine mammal to leave the mitigation zone prior to the initial start of the activity (by delaying the start) or during the activity (by not recommencing detonations) until one of the following conditions has been met: the animal is observed exiting the mitigation zone; the animal is thought to have exited the mitigation zone based on a determination of its course, speed, and movement relative to the intended detonation location; the mitigation zone has been clear from any additional sightings for 30 min; or the intended detonation location has transited a distance equal to double that of the mitigation zone size beyond the location of the last sighting.
+
+(D) After completion of the activity (*e.g.,* prior to maneuvering off station), Navy personnel must, when practical (*e.g.,* when platforms are not constrained by fuel restrictions or mission-essential follow-on commitments), observe for marine mammals in the vicinity of where detonations occurred; if any injured or dead marine mammals are observed, Navy personnel must follow established incident reporting procedures. If additional platforms are supporting this activity (*e.g.,* providing range clearance), these Navy assets will assist in the visual observation of the area where detonations occurred.
+
+(15) *Underwater demolition multiple charge - mat weave and obstacle loading exercises* - (i) *Number of Lookouts and observation platform.* Two Lookouts (one must be positioned on a small boat and one must be positioned on shore from an elevated platform). If additional platforms are participating in the activity, Navy personnel positioned in those assets (*e.g.,* safety observers, evaluators) must support observing the mitigation zone for applicable biological resources while performing their regular duties.
+
+(ii) *Mitigation* z*one and requirements.* 700 yd around the intended detonation location.
+
+(A) Prior to the initial start of the activity, or 30 min prior to the first detonation, the Lookout positioned on a small boat must observe the mitigation zone for floating vegetation and marine mammals; if floating vegetation or marine mammals are observed, Navy personnel must delay the start of detonations. For 10 min prior to the first detonation, the Lookout positioned on shore must use binoculars to observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must delay the start of detonations until the mitigation zone has been clear of any additional sightings for a minimum of 10 min.
+
+(B) During the activity, Navy personnel must observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must cease detonations.
+
+(C) Commencement/recommencement conditions after a marine mammal sighting before or during the activity. Navy personnel must allow a sighted marine mammal to leave the mitigation zone prior to the initial start of the activity (by delaying the start) or during the activity (by not recommencing detonations) until one of the following conditions has been met: the animal is observed exiting the mitigation zone; the animal is thought to have exited the mitigation zone based on a determination of its course, speed, and movement relative to the detonation location; or the mitigation zone has been clear from any additional sightings for 10 min (as determined by the Navy shore observer).
+
+(D) After completion of the activity (for 30 min), the Lookout positioned on a small boat must observe for marine mammals in the vicinity of where detonations occurred; if any injured or dead marine mammals are observed, Navy personnel must follow established incident reporting procedures. If additional platforms are supporting this activity (*e.g.,* providing range clearance), these Navy assets must assist in the visual observation of the area where detonations occurred.
+
+(16) *Vessel movement.* The mitigation will not be applied if: the vessel's safety is threatened; the vessel is restricted in its ability to maneuver (*e.g.,* during launching and recovery of aircraft or landing craft, during towing activities, when mooring); the vessel is operated autonomously; or when impracticable based on mission requirements (*e.g.,* during Amphibious Assault - Battalion Landing exercise).
+
+(i) *Number of Lookouts and observation platform.* One Lookout must be on the vessel that is underway.
+
+(ii) *Mitigation* z*one and requirements.* (A) 500 yd around whales.
+
+(B) 200 yd around all other marine mammals (except bow-riding dolphins and pinnipeds hauled out on man-made navigational structures, port structures, and vessels).
+
+(iii) *During the activity.* When underway Navy personnel must observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must maneuver to maintain distance.
+
+(iv) *Incident reporting procedures.* Additionally, if a marine mammal vessel strike occurs, Navy personnel must follow the established incident reporting procedures.
+
+(17) *Towed in-water devices.* Mitigation applies to devices that are towed from a manned surface platform or manned aircraft. The mitigation will not be applied if the safety of the towing platform or in-water device is threatened.
+
+(i) *Number of Lookouts and observation platform.* One Lookout must be positioned on a manned towing platform.
+
+(ii) *Mitigation* z*one and requirements.* 250 yd around marine mammals.
+
+(iii) *During the activity.* During the activity (*i.e.,* when towing an in-water device), Navy personnel must observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must maneuver to maintain distance.
+
+(18) *Small-, medium-, and large-caliber non-explosive practice munitions.* Mitigation applies to activities using a surface target.
+
+(i) *Number of Lookouts and observation platform.* One Lookout must be positioned on the platform conducting the activity. Depending on the activity, the Lookout could be the same as the one described for “Weapons firing noise” in paragraph (a)(5)(i) of this section.
+
+(ii) *Mitigation* z*one and requirements.* 200 yd around the intended impact location.
+
+(A) Prior to the start of the activity (*e.g.,* when maneuvering on station), Navy personnel must observe the mitigation zone for floating vegetation; if floating vegetation is observed, Navy personnel must relocate or delay the start of firing until the mitigation zone is clear. Navy personnel must observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must relocate or delay the start of firing.
+
+(B) During the activity, Navy personnel must observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must cease firing.
+
+(C) Commencement/recommencement conditions after a marine mammal sighting before or during the activity. Navy personnel must allow a sighted marine mammal to leave the mitigation zone prior to the initial start of the activity (by delaying the start) or during the activity (by not recommencing firing) until one of the following conditions has been met: the animal is observed exiting the mitigation zone; the animal is thought to have exited the mitigation zone based on a determination of its course, speed, and movement relative to the intended impact location; the mitigation zone has been clear from any additional sightings for 10 min for aircraft-based firing or 30 min for vessel-based firing; or for activities using a mobile target, the intended impact location has transited a distance equal to double that of the mitigation zone size beyond the location of the last sighting.
+
+(19) *Non-explosive missiles and rockets.* Aircraft-deployed non-explosive missiles and rockets. Mitigation applies to activities using a surface target.
+
+(i) *Number of Lookouts and observation platform.* One Lookout must be positioned in an aircraft.
+
+(ii) *Mitigation* z*one and requirements.* 900 yd around the intended impact location.
+
+(A) Prior to the initial start of the activity (*e.g.,* during a fly-over of the mitigation zone), Navy personnel must observe the mitigation zone for floating vegetation; if floating vegetation is observed, Navy personnel must relocate or delay the start of firing until the mitigation zone is clear. Navy personnel must observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must relocate or delay the start of firing.
+
+(B) During the activity, Navy personnel must observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must cease firing.
+
+(C) Commencement/recommencement conditions after a marine mammal sighting prior to or during the activity. Navy personnel must allow a sighted marine mammal to leave the mitigation zone prior to the initial start of the activity (by delaying the start) or during the activity (by not recommencing firing) until one of the following conditions has been met: the animal is observed exiting the mitigation zone; the animal is thought to have exited the mitigation zone based on a determination of its course, speed, and movement relative to the intended impact location; or the mitigation zone has been clear from any additional sightings for 10 min when the activity involves aircraft that have fuel constraints, or 30 min when the activity involves aircraft that are not typically fuel constrained.
+
+(20) *Non-explosive bombs and mine shapes.* Non-explosive bombs and non-explosive mine shapes during mine laying activities.
+
+(i) *Number of Lookouts and observation platform.* One Lookout must be positioned in an aircraft.
+
+(ii) *Mitigation* z*one and requirements.* 1,000 yd around the intended target.
+
+(A) Prior to the initial start of the activity (*e.g.,* when arriving on station), Navy personnel must observe the mitigation zone for floating vegetation; if floating vegetation is observed, Navy personnel must relocate or delay the start of bomb deployment or mine laying until the mitigation zone is clear. Navy personnel also must observe the mitigation zone for marine mammals; if marine mammals are observed, Navy personnel must relocate or delay the start of bomb deployment or mine laying.
+
+(B) During the activity (*e.g.,* during approach of the target or intended minefield location), Navy personnel must observe the mitigation zone for marine mammals and, if marine mammals are observed, Navy personnel must cease bomb deployment or mine laying.
+
+(C) Commencement/recommencement conditions after a marine mammal sighting prior to or during the activity. Navy personnel must allow a sighted marine mammal to leave the mitigation zone prior to the initial start of the activity (by delaying the start) or during the activity (by not recommencing bomb deployment or mine laying) until one of the following conditions has been met: the animal is observed exiting the mitigation zone; the animal is thought to have exited the mitigation zone based on a determination of its course, speed, and movement relative to the intended target or minefield location; the mitigation zone has been clear from any additional sightings for 10 min; or for activities using mobile targets, the intended target has transited a distance equal to double that of the mitigation zone size beyond the location of the last sighting.
+
+(b) *Mitigation areas.* In addition to procedural mitigation, Navy personnel must implement mitigation measures within mitigation areas to avoid or reduce potential impacts on marine mammals.
+
+(1) *Mitigation areas for marine mammals in the Hawaii Range Complex for sonar, explosives, and vessel strikes* - (i) *Mitigation area requirements* - (A) *Hawaii Island Mitigation Area (year-round).* (*1*) Except as provided in paragraph (b)(1)(i)(A)(*2*) of this section, Navy personnel must not conduct more than 300 hours of MF1 surface ship hull-mounted mid-frequency active sonar or 20 hours of MF4 dipping sonar annually, or use explosives that could potentially result in takes of marine mammals during training and testing.
+
+(*2*) Should national security require conduct of more than 300 hours of MF1 surface ship hull-mounted mid-frequency active sonar or 20 hours of MF4 dipping sonar, or use of explosives that could potentially result in the take of marine mammals during training or testing, Naval units must obtain permission from the appropriate designated Command authority prior to commencement of the activity. Navy personnel must provide NMFS with advance notification and include the information (*e.g.,* sonar hours or explosives usage) in its annual activity reports submitted to NMFS.
+
+(B) *4-Islands Region Mitigation Area (November 15-April 15 for active sonar; year-round for explosives).* (*1*) Except as provided in paragraph (b)(1)(i)(B)(*2*) of this section, Navy personnel must not use MF1 surface ship hull-mounted mid-frequency active sonar or explosives that could potentially result in takes of marine mammals during training and testing.
+
+(*2*) Should national security require use of MF1 surface ship hull-mounted mid-frequency active sonar or explosives that could potentially result in the take of marine mammals during training or testing, Naval units must obtain permission from the appropriate designated Command authority prior to commencement of the activity. Navy personnel must provide NMFS with advance notification and include the information (*e.g.,* sonar hours or explosives usage) in its annual activity reports submitted to NMFS.
+
+(C) *Humpback Whale Special Reporting Areas (December 15-April 15).* Navy personnel must report the total hours of surface ship hull-mounted mid-frequency active sonar used in the special reporting areas in its annual training and testing activity reports submitted to NMFS.
+
+(D) *Humpback Whale Awareness Notification Message Area (November-April).* (*1*) Navy personnel must issue a seasonal awareness notification message to alert ships and aircraft operating in the area to the possible presence of concentrations of large whales, including humpback whales.
+
+(*2*) To maintain safety of navigation and to avoid interactions with large whales during transits, Navy personnel must instruct vessels to remain vigilant to the presence of large whale species (including humpback whales), that when concentrated seasonally, may become vulnerable to vessel strikes.
+
+(*3*) Platforms must use the information from the awareness notification message to assist their visual observation of applicable mitigation zones during training and testing activities and to aid in the implementation of procedural mitigation.
+
+(ii) [Reserved]
+
+(2) *Mitigation areas for marine mammals in the Southern California portion of the study area for sonar, explosives, and vessel strikes* - (i) *Mitigation area requirements* - (A) *San Diego Arc, San Nicolas Island, and Santa Monica/Long Beach Mitigation Areas (June 1-October 31).* (*1*) Except as provided in paragraph (b)(2)(i)(A)(*2*) of this section, Navy personnel must not conduct more than a total of 200 hours of MF1 surface ship hull-mounted mid-frequency active sonar in the combined areas, excluding normal maintenance and systems checks, during training and testing.
+
+(*2*) Should national security require conduct of more than 200 hours of MF1 surface ship hull-mounted mid-frequency active sonar in the combined areas during training and testing (excluding normal maintenance and systems checks), Naval units must obtain permission from the appropriate designated Command authority prior to commencement of the activity. Navy personnel must provide NMFS with advance notification and include the information (*e.g.,* sonar hours) in its annual activity reports submitted to NMFS.
+
+(*3*) Except as provided in paragraph (b)(2)(i)(A)(*4*) of this section, within the San Diego Arc Mitigation Area, Navy personnel must not use explosives that could potentially result in the take of marine mammals during large-caliber gunnery, torpedo, bombing, and missile (including 2.75-inch rockets) activities during training and testing.
+
+(*4*) Should national security require use of explosives that could potentially result in the take of marine mammals during large-caliber gunnery, torpedo, bombing, and missile (including 2.75-inch rockets) activities during training or testing within the San Diego Arc Mitigation Area, Naval units must obtain permission from the appropriate designated Command authority prior to commencement of the activity. Navy personnel must provide NMFS with advance notification and include the information (*e.g.,* explosives usage) in its annual activity reports submitted to NMFS.
+
+(*5*) Except as provided in paragraph (b)(2)(i)(A)(*6*) of this section, within the San Nicolas Island Mitigation Area, Navy personnel must not use explosives that could potentially result in the take of marine mammals during mine warfare, large-caliber gunnery, torpedo, bombing, and missile (including 2.75-inch rockets) activities during training.
+
+(*6*) Should national security require use of explosives that could potentially result in the take of marine mammals during mine warfare, large-caliber gunnery, torpedo, bombing, and missile (including 2.75-inch rockets) activities during training in the San Nicolas Island Mitigation Area, Naval units must obtain permission from the appropriate designated Command authority prior to commencement of the activity. Navy personnel must provide NMFS with advance notification and include the information (*e.g.,* explosives usage) in its annual activity reports submitted to NMFS.
+
+(*7*) Except as provided in paragraph (b)(2)(i)(A)(*8*) of this section, within the Santa Monica/Long Beach Mitigation Area, Navy personnel must not use explosives that could potentially result in the take of marine mammals during mine warfare, large-caliber gunnery, torpedo, bombing, and missile (including 2.75-inch rockets) activities during training and testing.
+
+(*8*) Should national security require use of explosives that could potentially result in the take of marine mammals during mine warfare, large-caliber gunnery, torpedo, bombing, and missile (including 2.75-inch rockets) activities during training or testing in the Santa Monica/Long Beach Mitigation Area, Naval units must obtain permission from the appropriate designated Command authority prior to commencement of the activity. Navy personnel must provide NMFS with advance notification and include the information (*e.g.,* explosives usage) in its annual activity reports submitted to NMFS.
+
+(B) *Santa Barbara Island Mitigation Area (year-round).* (*1*) Except as provided in paragraph (b)(2)(i)(B)(*2*) of this section, Navy personnel must not use MF1 surface ship hull-mounted mid-frequency active sonar during training or testing, or explosives that could potentially result in the take of marine mammals during medium-caliber or large-caliber gunnery, torpedo, bombing, and missile (including 2.75-inch rockets) activities during training.
+
+(*2*) Should national security require use of MF1 surface ship hull-mounted mid-frequency active sonar during training or testing, or explosives that could potentially result in the take of marine mammals during medium-caliber or large-caliber gunnery, torpedo, bombing, and missile (including 2.75-inch rockets) activities during training, Naval units must obtain permission from the appropriate designated Command authority prior to commencement of the activity. Navy personnel must provide NMFS with advance notification and include the information (*e.g.,* sonar hours or explosives usage) in its annual activity reports submitted to NMFS.
+
+(C) *Blue Whale (June-October), Gray Whale (November-March), and Fin Whale (November-May) Awareness Notification Message Areas.* (*1*) Navy personnel must issue a seasonal awareness notification message to alert ships and aircraft operating in the area to the possible presence of concentrations of large whales, including blue whales, gray whales, and fin whales.
+
+(*2*) To maintain safety of navigation and to avoid interactions with large whales during transits, Navy personnel must instruct vessels to remain vigilant to the presence of large whale species, that when concentrated seasonally, may become vulnerable to vessel strikes.
+
+(*3*) Platforms must use the information from the awareness notification messages to assist their visual observation of applicable mitigation zones during training and testing activities and to aid in the implementation of procedural mitigation.
+
+(ii) [Reserved]

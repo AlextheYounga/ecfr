@@ -1,7 +1,5 @@
 ##### § 90.267 Assignment and use of frequencies in the 450-470 MHz band for low power use. #####
 
-Link to an amendment published at 83 FR 61097, Nov. 27, 2018.
-
 (a) The following frequencies between 450-470 MHz are designated for low-power use subject to the provisions of this section. For purposes of this section these frequencies are referred to as “low power frequencies.” Pairs are shown but single frequencies are available for simplex operations.
 
 (b) *Group A1 Frequencies.* The Industrial/Business Pool frequencies in Group A1 are available on a coordinated basis, pursuant to §§ 90.35(b)(2) and 90.175(b), as follows:
@@ -31,7 +29,7 @@ Link to an amendment published at 83 FR 61097, Nov. 27, 2018.
 (4) The Industrial/Business Pool Group A1 Low Power Frequencies are as follows:
 
 |451/456.18125|451/456.58125|   452/457.10625    |452/457.70625|
-|:------------|:------------|:-------------------|:------------|
+|-------------|-------------|--------------------|-------------|
 |451/456.1875 |451/456.5875 |    452/457.1125    |452/457.7125 |
 |451/456.19375|451/456.59375|   452/457.11875    |452/457.71875|
 |451/456.28125|451/456.60625|   452/457.13125    |452/457.78125|
@@ -81,7 +79,7 @@ Link to an amendment published at 83 FR 61097, Nov. 27, 2018.
 (3) The Industrial/Business Pool Group A2 Low Power Frequencies are as follows:
 
 |451/456.23125|451/456.53125|452/457.40625|452/457.85625|
-|:------------|:------------|:------------|:------------|
+|-------------|-------------|-------------|-------------|
 |451/456.2375 |451/456.5375 |452/457.4125 |452/457.8625 |
 |451/456.24375|451/456.54375|452/457.41875|452/457.86875|
 |451/456.33125|451/456.63125|452/457.50625|             |
@@ -100,7 +98,7 @@ Link to an amendment published at 83 FR 61097, Nov. 27, 2018.
 (3) The Industrial/Business Pool Group B Frequencies are as follows:
 
 |462/467.20625|462/467.28125|462/467.35625|462/467.43125|
-|:------------|:------------|:------------|:------------|
+|-------------|-------------|-------------|-------------|
 |462/467.2125 |462/467.2875 |462/467.3625 |462/467.4375 |
 |462/467.21875|462/467.29375|462/467.36875|462/467.44375|
 |462/467.23125|462/467.30625|462/467.38125|             |
@@ -119,7 +117,7 @@ Link to an amendment published at 83 FR 61097, Nov. 27, 2018.
 (3) The Industrial/Business Pool Group C Low Power Frequencies are as follows:
 
 |461/466.03125|461/466.15625|   461/466.28125   |     462.8125      |
-|:------------|:------------|:------------------|:------------------|
+|-------------|-------------|-------------------|-------------------|
 |461/466.0375 |461/466.1625 |   461/466.2875    |462.8375 (unpaired)|
 |461/466.04375|461/466.16875|   461/466.29375   |   462/467.8625    |
 |461/466.05625|461/466.18125|   461/466.30625   |   462/467.8875    |
@@ -135,20 +133,20 @@ Link to an amendment published at 83 FR 61097, Nov. 27, 2018.
 |461/466.1375 |461/466.2625 |462.7875 (unpaired)|                   |
 |461/466.14375|461/466.26875|462.8125 (unpaired)|                   |
 
-(f) *Group D Frequencies.* The Industrial/Business Pool frequencies in Group D are available for central station alarm operations on a coordinated basis, pursuant to §§ 90.35(b)(2) and 90.175(b).
+(f) *Group D Frequencies.* The Industrial/Business Pool frequencies in Group D are available on a coordinated basis, pursuant to §§ 90.35(b)(2) and 90.175(b). Central station alarm signaling on these frequencies are co-primary with regard to co-channel or adjacent channel base, mobile or data operations.
 
 (1) Base, mobile or operational fixed stations will be authorized on Group D frequencies. Fixed stations may be licensed as mobile.
 
-(2) Group D frequencies subject to § 90.35(c)(63) are limited to central station alarm use within the urban areas described in § 90.35(c)(63). Outside the urban areas described in § 90.35(c)(63), Group D frequencies subject to § 90.35(c)(63) are available for general Industrial/Business use on a coordinated basis, pursuant to §§ 90.35(b)(2) and 90.175(b).
+(2) Unless concurrence is obtained in accordance with section 90.175(b) of this chapter from the Commission-certified frequency coordinator for frequencies designated for central station alarm operations, Group D frequencies subject to § 90.35(c)(63) are limited to central station alarm use within the urban areas described in § 90.35(c)(63). Outside the urban areas described in § 90.35(c)(63), Group D frequencies subject to § 90.35(c)(63) are available for general Industrial/Business use on a coordinated basis, pursuant to § 90.35(b)(2) and § 90.175(b).
 
-(3) Group D frequencies subject to § 90.35(c)(66) are limited to central station alarm use nationwide.
+(3) Unless concurrence is obtained in accordance with section 90.175(b) of this chapter from the Commission-certified frequency coordinator for frequencies designated for central station alarm operations, Group D frequencies subject to § 90.35(c)(66) are limited to central station alarm use nationwide.
 
 (4) Operation on Group D frequencies is limited to 2 watts output power for mobile, base or operational fixed stations. Fixed stations used for central station alarm operations may utilize antennas mounted not more than 7 meters (20 feet) above a man-made supporting structure, including antenna structure.
 
 (5) The Industrial/Business Pool Group D Low Power Frequencies are as follows:
 
 |460/465.90625|460/465.95625|461/466.00625|
-|:------------|:------------|:------------|
+|-------------|-------------|-------------|
 |460/465.9125 |460/465.9625 |461/466.0125 |
 |460/466.91875|460/465.96875|461/466.01875|
 |460/465.93125|460/465.98125|             |
@@ -164,7 +162,7 @@ Link to an amendment published at 83 FR 61097, Nov. 27, 2018.
 (3) The Public Safety Pool Low Power Frequencies are as follows:
 
 |453/458.03125|453/458.13125|453/458.95625|460/465.53125|
-|:------------|:------------|:------------|:------------|
+|-------------|-------------|-------------|-------------|
 |453/458.0375 |453/458.1375 |453/458.9625 |460/465.5375 |
 |453/458.04375|453/458.14375|453/458.96875|460/465.54375|
 |453/458.05625|453/458.88125|453/458.98125|460/465.55625|
@@ -195,4 +193,4 @@ Link to an amendment published at 83 FR 61097, Nov. 27, 2018.
 
 (8) Applicants proposing to operate with an authorized bandwidth wider than 11.25 kHz, on low power frequencies that are subject to an authorized bandwidth of 11.25 kHz, may be licensed on a secondary, non-interference basis. Such applicants are subject to the conditions of paragraphs (b) through (g) of this section and the provisions of § 90.209(b) of this chapter.
 
-[68 FR 19461, Apr. 21, 2003; 68 FR 55319, Sept. 25, 2003, as amended at 69 FR 4254, Jan. 29, 2004; 75 FR 19284, Apr. 14, 2010]
+[68 FR 19461, Apr. 21, 2003; 68 FR 55319, Sept. 25, 2003, as amended at 69 FR 4254, Jan. 29, 2004; 75 FR 19284, Apr. 14, 2010; 83 FR 61097, Nov. 27, 2018]

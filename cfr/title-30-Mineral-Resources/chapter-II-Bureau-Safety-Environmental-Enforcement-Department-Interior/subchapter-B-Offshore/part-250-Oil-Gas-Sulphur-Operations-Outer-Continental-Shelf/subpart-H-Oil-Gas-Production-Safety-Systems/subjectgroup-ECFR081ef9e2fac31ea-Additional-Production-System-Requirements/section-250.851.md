@@ -1,7 +1,5 @@
 ##### § 250.851 Pressure vessels (including heat exchangers) and fired vessels. #####
 
-Link to an amendment published at 83 FR 49259, Sept. 28, 2018.
-
 (a) Pressure vessels (including heat exchangers) and fired vessels supporting production operations must meet the requirements in the following table:
 
 |                                                                                                                Item name                                                                                                                 |                                                                                                                                                                                                                                                                                                                                     Applicable codes and requirements                                                                                                                                                                                                                                                                                                                                      |
@@ -20,3 +18,5 @@ Link to an amendment published at 83 FR 49259, Sept. 28, 2018.
 |---------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |(1) High pressure shut-in sensor,|Must be set no higher than 15 percent or 5 psi (whichever is greater) above the highest operating pressure of the vessel|Must also be set sufficiently below (5 percent or 5 psi, whichever is greater) the relief valve's set pressure to assure that the pressure source is shut-in before the relief valve activates.|
 |(2) Low pressure shut-in sensor, | Must be set no lower than 15 percent or 5 psi (whichever is greater) below the lowest pressure in the operating range  |           You must receive specific approval from the District Manager for activation limits on pressure vessels that have a pressure safety low (PSL) sensor set less than 5 psi.            |
+
+Editorial Note:At 83 FR 49259, Sept. 28, 2018, § 250.851 was amended by revising paragraph (a)(2); however, the amendment could not be incorporated due to a discrepancy in format.

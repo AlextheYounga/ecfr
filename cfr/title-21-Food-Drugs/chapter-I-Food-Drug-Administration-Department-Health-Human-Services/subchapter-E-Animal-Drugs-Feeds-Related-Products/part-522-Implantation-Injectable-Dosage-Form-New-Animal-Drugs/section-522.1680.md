@@ -24,4 +24,4 @@
 
 (3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[44 FR 63097, Nov. 2, 1979; 45 FR 1019, Jan. 4, 1980]Editorial Note:For Federal Register citations affecting § 522.1680, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[44 FR 63097, Nov. 2, 1979; 45 FR 1019, Jan. 4, 1980]Editorial Note:For Federal Register citations affecting § 522.1680, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

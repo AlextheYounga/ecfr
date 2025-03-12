@@ -1,7 +1,5 @@
 ##### § 250.873 Subsea gas lift requirements. #####
 
-Link to an amendment published at 83 FR 49260, Sept. 28, 2018.
-
 If you choose to install a subsea gas lift system, you must design your system as approved in your DWOP or as follows:
 
 (a) Design the gas lift supply pipeline in accordance with API RP 14C (incorporated by reference as specified in § 250.198) for the gas lift supply system located on the platform.
@@ -32,3 +30,5 @@ If you choose to install a subsea gas lift system, you must design your system a
 |   (2) Gas lifting a subsea well through the casing string via an external gas lift pipeline    |GLSDV|                      Zero leakage                      |         Monthly, not to exceed 6 weeks.          |
 |                                                                                                |GLIV |400 cc per minute of liquid or 15 scf per minute of gas.|Function tested quarterly, not to exceed 120 days |
 |   (3) Gas lifting the pipeline riser via a gas lift line contained within the pipeline riser   |GLSDV|                      Zero leakage                      |         Monthly, not to exceed 6 weeks.          |
+
+Editorial Note:At 83 FR 49260, Sept. 28, 2018, § 250.873 was amended by revising paragraph (b)(3); however, the amendment could not be incorporated due to a discrepancy in format.

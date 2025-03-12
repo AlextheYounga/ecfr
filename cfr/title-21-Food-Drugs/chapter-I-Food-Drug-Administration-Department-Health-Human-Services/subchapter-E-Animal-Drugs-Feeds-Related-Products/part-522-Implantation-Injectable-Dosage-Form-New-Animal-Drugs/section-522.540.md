@@ -80,4 +80,4 @@
 
 (iii) *Limitations.* Do not use in horses intended for human consumption. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[41 FR 28265, July 9, 1976]Editorial Note:For Federal Register citations affecting § 522.540, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[41 FR 28265, July 9, 1976]Editorial Note:For Federal Register citations affecting § 522.540, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

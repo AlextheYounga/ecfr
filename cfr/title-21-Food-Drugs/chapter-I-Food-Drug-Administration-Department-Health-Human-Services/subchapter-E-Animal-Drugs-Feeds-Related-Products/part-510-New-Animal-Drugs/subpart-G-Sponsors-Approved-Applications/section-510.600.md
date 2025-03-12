@@ -212,6 +212,6 @@
 |     086078      |                             Kindred Biosciences, Inc., 1555 Bayshore Hwy., Suite 200, Burlingame, CA 94010.                             |
 |     099207      |                                Medicis Dermatologics, Inc., 8125 North Hayden Rd., Scottsdale, AZ 85258.                                |
 
-[40 FR 13807, Mar. 27, 1975]Editorial Notes:1. For Federal Register citations affecting § 510.600, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[40 FR 13807, Mar. 27, 1975]Editorial Notes:1. For Federal Register citations affecting § 510.600, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 2. At 77 FR 46613, Aug. 6, 2012, § 510.600 was amended by removing the entry for “012758” in the table in paragraph (c)(2); however, the amendment could not be incorporated because “012758” didn't exist.

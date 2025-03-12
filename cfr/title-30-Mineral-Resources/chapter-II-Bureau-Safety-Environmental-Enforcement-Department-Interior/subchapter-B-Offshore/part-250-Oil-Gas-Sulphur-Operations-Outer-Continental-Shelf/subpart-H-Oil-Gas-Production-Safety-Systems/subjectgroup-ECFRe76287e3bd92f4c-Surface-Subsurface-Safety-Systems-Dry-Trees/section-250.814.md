@@ -1,6 +1,4 @@
-##### § 250.814 Design, installation, and operation of SSSVs - dry trees. #####
-
-Link to an amendment published at 83 FR 49257, Sept. 28, 2018.
+##### § 250.814 Design, installation, and operation of SSSVs—dry trees. #####
 
 You must design, install, and operate (including repair, maintain, and test) an SSSV to ensure its reliable operation.
 
@@ -10,4 +8,6 @@ You must design, install, and operate (including repair, maintain, and test) an 
 
 (c) Until the SSSV is installed, the well must be attended in the immediate vicinity so that any necessary emergency actions can be taken while the well is open to flow. During testing and inspection procedures, the well must not be left unattended while open to production unless you have installed a properly operating SSSV in the well.
 
-(d) You must design, install, maintain, inspect, repair, and test all SSSVs in accordance with API RP 14B (incorporated by reference as specified in § 250.198). For additional SSSV testing requirements, refer to § 250.880.
+(d) You must design, install, maintain, inspect, repair, and test all SSSVs in accordance with ANSI/API RP 14B (incorporated by reference in § 250.198). For additional SSSV testing requirements, refer to § 250.880.
+
+[81 FR 60918, Sept. 7, 2016, as amended at 83 FR 49257, Sept. 28, 2018]
