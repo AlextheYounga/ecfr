@@ -1,5 +1,7 @@
 ##### § 35.37 Market power analysis required. #####
 
+Link to an amendment published at 84 FR 36386, July 26, 2019.Link to an amendment published at 84 FR 36428, July 26, 2019.
+
 (a) (1) In addition to other requirements in subparts A and B, a Seller must submit a market power analysis in the following circumstances: when seeking market-based rate authority; for Category 2 Sellers, every three years, according to the schedule posted on the Commission's Web site; or any other time the Commission directs a Seller to submit one. Failure to timely file an updated market power analysis will constitute a violation of Seller's market-based rate tariff.
 
 (2) When submitting a market power analysis, whether as part of an initial application or an update, a Seller must include an appendix of assets, in the form provided in appendix B of this subpart, and an organizational chart. The organizational chart must depict the Seller's current corporate structure indicating all affiliates.

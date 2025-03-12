@@ -1,5 +1,7 @@
 ##### § 35.36 Generally. #####
 
+Link to an amendment published at 84 FR 36428, July 26, 2019.
+
 (a) For purposes of this subpart:
 
 (1) *Seller* means any person that has authorization to or seeks authorization to engage in sales for resale of electric energy, capacity or ancillary services at market-based rates under section 205 of the Federal Power Act.

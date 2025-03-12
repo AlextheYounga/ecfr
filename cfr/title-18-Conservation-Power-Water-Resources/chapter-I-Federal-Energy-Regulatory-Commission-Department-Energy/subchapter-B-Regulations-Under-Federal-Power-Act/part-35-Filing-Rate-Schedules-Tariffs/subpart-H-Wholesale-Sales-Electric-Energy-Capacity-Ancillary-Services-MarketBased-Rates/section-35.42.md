@@ -1,5 +1,7 @@
 ##### § 35.42 Change in status reporting requirement. #####
 
+Link to an amendment published at 84 FR 36429, July 26, 2019.
+
 (a) As a condition of obtaining and retaining market-based rate authority, a Seller must timely report to the Commission any change in status that would reflect a departure from the characteristics the Commission relied upon in granting market-based rate authority. A change in status includes, but is not limited to, the following:
 
 (1) Ownership or control of generation capacity or long-term firm purchases of capacity and/or energy that results in cumulative net increases (*i.e.,* the difference between increases and decreases in affiliated generation capacity) of 100 MW or more of capacity based on nameplate or seasonal capacity ratings, or, for solar photovoltaic facilities, nameplate capacity, or, for other energy-limited resources, nameplate or five-year average capacity factors, in any individual relevant geographic market, or of inputs to electric power production, or ownership, operation or control of transmission facilities; or

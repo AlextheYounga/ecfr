@@ -1,5 +1,7 @@
 ##### § 1206.4 Time limits on applications. #####
 
+Link to an amendment published at 84 FR 35989, July 26, 2019.
+
 Except in unusual or extraordinary circumstances, the National Mediation Board will not accept an application for investigation of a representation dispute among employees of a carrier:
 
 (a) For a period of two (2) years from the date of a certification covering the same craft or class of employees on the same carrier, and
