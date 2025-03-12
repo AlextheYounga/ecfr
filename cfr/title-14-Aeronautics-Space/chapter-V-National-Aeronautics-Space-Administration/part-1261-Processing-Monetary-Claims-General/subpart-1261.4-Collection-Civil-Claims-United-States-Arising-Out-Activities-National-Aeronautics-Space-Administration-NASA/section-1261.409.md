@@ -1,5 +1,7 @@
 ##### § 1261.409 Contracting for collection services. #####
 
+Link to an amendment published at 82 FR 29385, June 29, 2017.
+
 (a) When NASA determines that there is a need to contract for collection services, the following conditions must attach:
 
 (1) The authority to resolve disputes, compromise claims, suspend or terminate collection action, and refer the matter for litigation must be retained by NASA.

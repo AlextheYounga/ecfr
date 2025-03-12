@@ -1,5 +1,7 @@
 ##### § 1261.417 Referral to Department of Justice (DJ) or General Accounting Office (GAO). #####
 
+Link to an amendment published at 82 FR 29386, June 29, 2017.
+
 (a) *Prompt referral.* Except as provided in paragraphs (b) and (c) of this section, claims on which aggressive collection action has been taken in accordance with § 1261.406 and which cannot be compromised, or on which collection action cannot be suspended or terminated, in accordance with §§ 1261.414 and 1261.416, shall be promptly referred to the Department of Justice for litigation.
 
 (1) Claims for which the gross original amount is over $200,000 shall be referred to the Commercial Litigation Branch, Civil Division, Department of Justice, Washington, DC 20530.

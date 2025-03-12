@@ -1,6 +1,6 @@
 ##### § 145.145 Canned grapefruit. #####
 
-(a) *Identity* - (1) *Product identification.* Canned grapefruit is the food prepared from one of the optional grapefruit ingredients specified in paragraph (a)(2) of this section and one of the optional packing media specified in paragraph (a)(3) of this section. Such food may also contain one or more of the following safe and suitable optional ingredients:
+(a) *Identity*—(1) *Product identification.* Canned grapefruit is the food prepared from one of the optional grapefruit ingredients specified in paragraph (a)(2) of this section and one of the optional packing media specified in paragraph (a)(3) of this section. Such food may also contain one or more of the following safe and suitable optional ingredients:
 
 (i) Spices.
 
@@ -14,7 +14,7 @@
 
 Such food is sealed in a container and, before or after sealing, is so processed by heat as to prevent spoilage.
 
-(2) *Optional grapefruit ingredient.* The optional grapefruit ingredients referred to in paragraph (a)(1) of this section are prepared from sound, mature grapefruit (*Citrus paradisi* Macfadyen) of the color types white - produced from white-fleshed grapefruit, and pink - produced from pink or red-fleshed grapefruit and are in the following forms of units: Whole sections or broken sections. Each such form of units or a mixture of such forms of units prepared from a single varietal group (color type) is an optional grapefruit ingredient. The core, seeds, and major portions of membrane of such ingredient are removed. For the purpose of this section, a grapefruit section is considered whole when the unit is intact or an intact portion of such unit is not less than 75 percent of its apparent original size and is not excessively trimmed.
+(2) *Optional grapefruit ingredient.* The optional grapefruit ingredients referred to in paragraph (a)(1) of this section are prepared from sound, mature grapefruit (*Citrus paradisi* Macfadyen) of the color types white—produced from white-fleshed grapefruit, and pink—produced from pink or red-fleshed grapefruit and are in the following forms of units: Whole sections or broken sections. Each such form of units or a mixture of such forms of units prepared from a single varietal group (color type) is an optional grapefruit ingredient. The core, seeds, and major portions of membrane of such ingredient are removed. For the purpose of this section, a grapefruit section is considered whole when the unit is intact or an intact portion of such unit is not less than 75 percent of its apparent original size and is not excessively trimmed.
 
 (i) For the purpose of paragraph (a)(4) of this section, the name of the optional grapefruit ingredient is:
 
@@ -54,7 +54,7 @@ As used in paragraph (a)(3)(i) of this section, the optional packing medium “w
 
 (ii) Each of the packing media in paragraph (a)(3)(i) (*d*) to (*l*) of this section is prepared with a liquid ingredient and one or more safe and suitable nutritive carbohydrate sweeteners. Water is the liquid ingredient from which packing media in paragraph (a)(3)(i) (*d*) to (*f*) of this section are prepared. Grapefruit juice and water are the liquid ingredients from which the packing media in paragraph (a)(3)(i) (*g*) to (*i*) of this section are prepared. Grapefruit juice is the liquid ingredient from which the packing media in paragraph (a)(3)(i) (*j*) to (*l*) of this section are prepared. If one or more liquid nutritive carbohydrate sweeteners and grapefruit juice are combined as a liquid packing medium with not less than 50 percent grapefruit juice, the packing medium is as set forth in paragraph (a)(3)(i) (*g*) to (*i*) of this section.
 
-(iii) The respective densities of packing media in paragraph (a)(3)(i) (*d*) to (*i*) of this section as measured on the refractometer, expressed as percent by weight sucrose (degrees Brix) with correction for temperature to the equivalent at 20 °C (68 °F), 15 days or more after the grapefruit are canned or the blended homogenized slurry of the comminuted entire contents of the container if canned for less than 15 days, according to the “Official Methods of Analysis of the Association of Official Analytical Chemists” (AOAC), 13th Ed. (1980), section 31.011 under “Solids By Means of Refractometer - Official Final Action,” and Reference Tables, section 52.012 (Refractive indices (n) of sucrose solutions at 20°) and section 52.015 (Refractive indices of invert sugar solutions), which is incorporated by reference (copies may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html*), but without correction for invert sugar or other substances, are as follows:
+(iii) The respective densities of packing media in paragraph (a)(3)(i) (*d*) to (*i*) of this section as measured on the refractometer, expressed as percent by weight sucrose (degrees Brix) with correction for temperature to the equivalent at 20 °C (68 °F), 15 days or more after the grapefruit are canned or the blended homogenized slurry of the comminuted entire contents of the container if canned for less than 15 days, according to the “Official Methods of Analysis of the Association of Official Analytical Chemists” (AOAC), 13th Ed. (1980), section 31.011 under “Solids By Means of Refractometer—Official Final Action,” and Reference Tables, section 52.012 (Refractive indices (n) of sucrose solutions at 20°) and section 52.015 (Refractive indices of invert sugar solutions), which is incorporated by reference (copies may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html*), but without correction for invert sugar or other substances, are as follows:
 
 (*a*) Packing media in paragraph (a)(3)(i) (*d*), (*g*), and (*j*) of this section: Twelve percent or more but less than 16 percent.
 
@@ -100,39 +100,37 @@ As used in paragraph (a)(3)(i) of this section, the optional packing medium “w
 
 (ii) Sampling plans and acceptance procedure:
 
-|                    Lot size (primary containers)                     |Size of container|   |
-|----------------------------------------------------------------------|-----------------|---|
-|                            n<sup>1</sup>                             |  c<sup>2</sup>  |   |
-|            net weight equal to or less than 1 kg (2.2 lb)            |                 |   |
-|                            4,800 or less                             |       13        | 2 |
-|                             4,801-24,000                             |       21        | 3 |
-|                            24,001-48,000                             |       29        | 4 |
-|                            48,001-84,000                             |       48        | 6 |
-|                            84,001-144,000                            |       84        | 9 |
-|                           144,001-240,000                            |       126       |13 |
-|                             Over 240,000                             |       200       |19 |
-|net weight greater than 1 kg (2.2 lb) but not more than 4.5 kg (10 lb)|                 |   |
-|                            2,400 or less                             |       13        | 2 |
-|                             2,401-15,000                             |       21        | 3 |
-|                            15,001-24,000                             |       29        | 4 |
-|                            24,001-42,000                             |       48        | 6 |
-|                            42,001-72,000                             |       84        | 9 |
-|                            72,001-120,000                            |       126       |13 |
-|                             Over 120,000                             |       200       |19 |
-|                net weight greater than 4.5 kg (10 lb)                |                 |   |
-|                             600 or less                              |       13        | 2 |
-|                              601-2,000                               |       21        | 3 |
-|                             2,001-7,200                              |       29        | 4 |
-|                             7,201-15,000                             |       48        | 6 |
-|                            15,001-24,000                             |       84        | 9 |
-|                            24,001-42,000                             |       126       |13 |
-|                             Over 42,000                              |       200       |19 |
+|                      Lot size (primary containers)                       |Size of container|   |
+|--------------------------------------------------------------------------|-----------------|---|
+|                              n<sup>1</sup>                               |  c<sup>2</sup>  |   |
+|            **net weight equal to or less than 1 kg (2.2 lb)**            |                 |   |
+|                              4,800 or less                               |       13        | 2 |
+|                               4,801-24,000                               |       21        | 3 |
+|                              24,001-48,000                               |       29        | 4 |
+|                              48,001-84,000                               |       48        | 6 |
+|                              84,001-144,000                              |       84        | 9 |
+|                             144,001-240,000                              |       126       |13 |
+|                               Over 240,000                               |       200       |19 |
+|**net weight greater than 1 kg (2.2 lb) but not more than 4.5 kg (10 lb)**|                 |   |
+|                              2,400 or less                               |       13        | 2 |
+|                               2,401-15,000                               |       21        | 3 |
+|                              15,001-24,000                               |       29        | 4 |
+|                              24,001-42,000                               |       48        | 6 |
+|                              42,001-72,000                               |       84        | 9 |
+|                              72,001-120,000                              |       126       |13 |
+|                               Over 120,000                               |       200       |19 |
+|                **net weight greater than 4.5 kg (10 lb)**                |                 |   |
+|                               600 or less                                |       13        | 2 |
+|                                601-2,000                                 |       21        | 3 |
+|                               2,001-7,200                                |       29        | 4 |
+|                               7,201-15,000                               |       48        | 6 |
+|                              15,001-24,000                               |       84        | 9 |
+|                              24,001-42,000                               |       126       |13 |
+|                               Over 42,000                                |       200       |19 |
+|          <sup>1</sup>n = number of primary containers in sample          |                 |   |
+|                    <sup>2</sup>c = acceptance number                     |                 |   |
 
-<sup>1</sup>n = number of primary containers in sample
-
-<sup>2</sup>c = acceptance number
-
-(3) If the quality of canned grapefruit falls below the standard prescribed in paragraph (b)(1) of this section, the label shall bear the general statement of substandard quality specified in § 130.14(a) of this chapter, in the manner and form therein specified; however, if the quality of the canned grapefruit falls below standard with respect to only one of the factors of quality specified by paragraph (b)(1) (i), (ii), or (iii) of this section, there may be substituted for the second line of such general statement of substandard quality, “Good Food - Not High Grade”, a new line as specified after the corresponding designation of paragraph (b)(1) of this section which the canned grapefruit fail to meet:
+(3) If the quality of canned grapefruit falls below the standard prescribed in paragraph (b)(1) of this section, the label shall bear the general statement of substandard quality specified in § 130.14(a) of this chapter, in the manner and form therein specified; however, if the quality of the canned grapefruit falls below standard with respect to only one of the factors of quality specified by paragraph (b)(1) (i), (ii), or (iii) of this section, there may be substituted for the second line of such general statement of substandard quality, “Good Food—Not High Grade”, a new line as specified after the corresponding designation of paragraph (b)(1) of this section which the canned grapefruit fail to meet:
 
 (i) “Contains extraneous material”.
 

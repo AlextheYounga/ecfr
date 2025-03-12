@@ -1,5 +1,7 @@
 ##### § 1261.408 Use of consumer reporting agency. #####
 
+Link to an amendment published at 82 FR 29384, June 29, 2017.
+
 (a) The term *consumer reporting agency* has the meaning provided in the Federal Claims Collection Act of 1966, as amended (31 U.S.C. 3701(a)(3)):
 
 (1) A consumer reporting agency as that term is defined in section 603(f) of the Fair Credit Reporting Act (15 U.S.C. 1681a(f); or

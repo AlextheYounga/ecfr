@@ -1,5 +1,7 @@
 ##### § 806.11 Preliminary consultations. #####
 
+Link to an amendment published at 82 FR 29390, June 29, 2017.
+
 (a) Any project sponsor of a project that is or may be subject to the Commission's jurisdiction is encouraged, prior to making application for Commission review, to request a preliminary consultation with the Commission staff for an informal discussion of preliminary plans for the proposed project. To facilitate preliminary consultations, it is suggested that the project sponsor provide a general description of the proposed project, a map showing its location and, to the extent available, data concerning dimensions of any proposed structures, anticipated water needs, and the environmental impacts.
 
 (b) Preliminary consultation is optional for the project sponsor (except with respect to aquifer test plans, see § 806.12 but shall not relieve the sponsor from complying with the requirements of the compact or with this part.

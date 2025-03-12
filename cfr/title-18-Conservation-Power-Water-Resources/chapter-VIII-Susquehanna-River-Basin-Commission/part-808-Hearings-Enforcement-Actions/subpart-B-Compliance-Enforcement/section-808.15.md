@@ -1,5 +1,7 @@
 ##### § 808.15 Show cause proceeding. #####
 
+Link to an amendment published at 82 FR 29397, June 29, 2017.
+
 (a) The Executive Director may issue an order requiring an alleged violator to appear before the Commission and show cause why a penalty should not be assessed in accordance with the provisions of this chapter and Section 15.17 of the compact. The order to the alleged violator shall:
 
 (1) Specify the nature and duration of violation(s) that is alleged to have occurred.

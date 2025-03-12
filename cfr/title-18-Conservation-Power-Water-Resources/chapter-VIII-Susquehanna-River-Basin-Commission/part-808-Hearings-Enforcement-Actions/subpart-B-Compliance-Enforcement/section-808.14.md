@@ -1,5 +1,7 @@
 ##### § 808.14 Orders. #####
 
+Link to an amendment published at 82 FR 29396, June 29, 2017.
+
 (a) Whether or not an NOV has been issued, where exigent circumstances warrant, the Executive Director may issue an order directing an alleged violator to cease and desist any action or activity to the extent such action or activity constitutes an alleged violation, or may issue any other order related to the prevention of further violations, or the abatement or remediation of harm caused by the action or activity.
 
 (b) If the project sponsor fails to comply with any term or condition of a docket approval, the commissioners may issue an order suspending, modifying or revoking approval of the docket. The commissioners may also, in their discretion, suspend, modify or revoke a docket approval if the project sponsor fails to obtain or maintain other federal, state or local approvals.

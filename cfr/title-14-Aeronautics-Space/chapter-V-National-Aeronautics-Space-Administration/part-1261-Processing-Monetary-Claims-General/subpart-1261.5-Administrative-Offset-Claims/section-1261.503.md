@@ -1,5 +1,7 @@
 ##### § 1261.503 Agency records inspection; hearing or review. #####
 
+Link to an amendment published at 82 FR 29386, June 29, 2017.
+
 (a) NASA shall provide the debtor with a reasonable opportunity for an “oral hearing” when:
 
 (1) An applicable statute authorizes or requires the agency to consider waiver of the indebtedness involved, the debtor requests waiver of the indebtedness, and the waiver determination turns on an issue of credibility or veracity; or

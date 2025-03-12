@@ -1,5 +1,7 @@
 ##### § 1261.603 Procedures for salary offset. #####
 
+Link to an amendment published at 82 FR 29387, June 29, 2017.
+
 If NASA is both the paying and creditor agency, the following requirements must be met before a deduction is made from the current pay account of an employee.
 
 (a) *Written notice.* The employee must be sent a minimum of 30 days written notice, which specifies:

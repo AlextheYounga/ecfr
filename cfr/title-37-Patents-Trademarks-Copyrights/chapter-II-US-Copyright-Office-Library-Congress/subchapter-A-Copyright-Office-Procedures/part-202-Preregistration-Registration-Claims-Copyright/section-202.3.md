@@ -1,6 +1,6 @@
 ##### § 202.3 Registration of copyright. #####
 
-Link to an amendment published at 82 FR 27427, June 15, 2017.
+Link to an amendment published at 82 FR 27427, June 15, 2017.Link to an amendment published at 82 FR 29413, June 29, 2017.
 
 (a) *General.* (1) This section prescribes conditions for the registration of copyright, and the application to be made for registration under sections 408 and 409 of title 17 of the United States Code.
 

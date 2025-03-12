@@ -8,4 +8,4 @@
 
 (b) In a written appeal of the order withdrawing an exemption provided under § 117.5(a), you may include a written request for an informal hearing as provided in § 117.267.
 
-[80 FR 56145, Sept. 17, 2015, as amended at 81 FR 3716, Jan. 22, 2015]
+[80 FR 56145, Sept. 17, 2015, as amended at 81 FR 3716, Jan. 22, 2016]

@@ -1,5 +1,7 @@
 ##### § 1261.315 Procedures for the handling of lawsuits against NASA employees arising within the scope of their office or employment. #####
 
+Link to an amendment published at 82 FR 29384, June 29, 2017.
+
 The following procedures shall be followed in the event that a civil action or proceeding is brought, in any court, against any employee of NASA (or against the estate) for injury or loss of property or personal injury or death, resulting from the NASA employee's activities while acting within the scope of office or employment:
 
 (a) After being served with process or pleadings in such an action or proceeding, the employee (or the executor(rix) or administrator(rix) of the estate) shall immediately deliver all such process and pleadings or an attested true copy thereof, together with a fully detailed report of the circumstances of the accident giving rise to the court action or proceeding, to the following officials:

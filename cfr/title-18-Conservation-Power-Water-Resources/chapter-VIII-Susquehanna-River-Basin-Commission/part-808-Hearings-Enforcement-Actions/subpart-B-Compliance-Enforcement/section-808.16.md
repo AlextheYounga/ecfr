@@ -1,5 +1,7 @@
 ##### § 808.16 Civil penalty criteria. #####
 
+Link to an amendment published at 82 FR 29397, June 29, 2017.
+
 (a) In determining the amount of any civil penalty or any settlement of a violation, the Commission shall consider:
 
 (1) Previous violations, if any, of any provision of the compact, the Commission's rules or regulations, orders, approvals, docket conditions or any other requirements of the Commission.

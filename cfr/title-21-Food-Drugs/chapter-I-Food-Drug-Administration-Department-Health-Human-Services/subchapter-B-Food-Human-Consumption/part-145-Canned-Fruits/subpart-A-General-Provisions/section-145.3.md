@@ -26,7 +26,7 @@ For the purposes of this part:
 
 (l) The term *solid pack* means the product contains practically all fruit with only the very little free flowing liquid that is expressed from the fruit and to which no packing media have been added.
 
-(m) The procedure for determining the densities of the packing media means the following: The density of the packing medium, when measured 15 days or more after packing, or the density of the blended homogenized slurry of the comminuted entire contents of the container, when measured less than 15 days after canning, is determined according to “Official Methods of Analysis of the Association of Official Analytical Chemists,” 13th Ed. (1980), which is incorporated by reference, section 31.6F011 (Solids) “By Means of the Refractometer - Official Final Action” (and sections 52.012 and 52.015) with result expressed as percent by weight of sucrose (degrees Brix) with correction for temperature to the equivalent at 20 °C, but without correction for invert sugar or other substances. Copies of the material incorporated by reference may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+(m) The procedure for determining the densities of the packing media means the following: The density of the packing medium, when measured 15 days or more after packing, or the density of the blended homogenized slurry of the comminuted entire contents of the container, when measured less than 15 days after canning, is determined according to “Official Methods of Analysis of the Association of Official Analytical Chemists,” 13th Ed. (1980), which is incorporated by reference, section 31.6F011 (Solids) “By Means of the Refractometer—Official Final Action” (and sections 52.012 and 52.015) with result expressed as percent by weight of sucrose (degrees Brix) with correction for temperature to the equivalent at 20 °C, but without correction for invert sugar or other substances. Copies of the material incorporated by reference may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 (n) The procedure for determining drained weight is as follows: Tilt the opened container so as to distribute the contents evenly over the meshes of a circular sieve which has previously been weighed. The diameter of the sieve is 20.3 centimeters (8 inches) if the quantity of contents of the container is less than 1.4 kilograms (3 pounds) and 30.5 centimeters (12 inches) if such quantity is 1.4 kilograms (3 pounds) or more. The bottom of the sieve is woven-wire cloth which complies with the specifications for the No. 8 sieve set forth in the “Definitions of Terms and Explanatory Notes” of the “Official Methods of Analysis of the Association of Official Analytical Chemists,” 13th Ed. (1980), which is incorporated by reference. The availability of this incorporation by reference is given in paragraph (m) of this section. Carefully invert by hand all fruits having cups or cavities if they fall on the sieve with cups or cavities up. Cups or cavities in soft products may be drained by tilting sieve. Without further shifting the material on the sieve, incline the sieve at an angle of 17° to 20° to facilitate drainage. Two minutes after the drainage begins, weigh the sieve and drained fruit. The weight so found, less the weight of the sieve, shall be considered to be the weight of the drained fruit.
 
@@ -42,7 +42,7 @@ For the purposes of this part:
 
 (p) The sampling and acceptance procedure means the following:
 
-(1) *Definitions* - (i) *Lot.* A collection of primary containers or units of the same size, type, and style manufactured or packed under similar conditions and handled as a single unit of trade.
+(1) *Definitions*—(i) *Lot.* A collection of primary containers or units of the same size, type, and style manufactured or packed under similar conditions and handled as a single unit of trade.
 
 (ii) *Lot size.* The number of primary containers or units in the lot.
 
@@ -58,36 +58,34 @@ For the purposes of this part:
 
 (2) *Sampling plans:*
 
-|                    Lot size (primary containers)                     |Size in container|   |
-|----------------------------------------------------------------------|-----------------|---|
-|                            n<sup>1</sup>                             |  c<sup>2</sup>  |   |
-|            net weight equal to or less than 1 kg (2.2 lb)            |                 |   |
-|                            4,800 or less                             |       13        | 2 |
-|                           4,801 to 24,000                            |       21        | 3 |
-|                           24,001 to 48,000                           |       29        | 4 |
-|                           48,001 to 84,000                           |       48        | 6 |
-|                          84,001 to 144,000                           |       84        | 9 |
-|                          144,001 to 240,000                          |       126       |13 |
-|                             Over 240,000                             |       200       |19 |
-|net weight greater than 1 kg (2.2 lb) but not more than 4.5 kg (10 lb)|                 |   |
-|                            2,400 or less                             |       13        | 2 |
-|                           2,401 to 15,000                            |       21        | 3 |
-|                           15,001 to 24,000                           |       29        | 4 |
-|                           24,001 to 42,000                           |       48        | 6 |
-|                           42,001 to 72,000                           |       84        | 9 |
-|                          72,001 to 120,000                           |       126       |13 |
-|                             Over 120,000                             |       200       |19 |
-|                net weight greater than 4.5 kg (10 lb)                |                 |   |
-|                             600 or less                              |       13        | 2 |
-|                             601 to 2,000                             |       21        | 3 |
-|                            2,001 to 7,200                            |       29        | 4 |
-|                           7,201 to 15,000                            |       48        | 6 |
-|                           15,001 to 24,000                           |       84        | 9 |
-|                           24,001 to 42,000                           |       126       |13 |
-|                             Over 42,000                              |       200       |19 |
-
-<sup>1</sup>n = number of primary containers in sample.
-
-<sup>2</sup>c = acceptance number.
+|                      Lot size (primary containers)                       |Size in container|   |
+|--------------------------------------------------------------------------|-----------------|---|
+|                              n<sup>1</sup>                               |  c<sup>2</sup>  |   |
+|            **net weight equal to or less than 1 kg (2.2 lb)**            |                 |   |
+|                              4,800 or less                               |       13        | 2 |
+|                             4,801 to 24,000                              |       21        | 3 |
+|                             24,001 to 48,000                             |       29        | 4 |
+|                             48,001 to 84,000                             |       48        | 6 |
+|                            84,001 to 144,000                             |       84        | 9 |
+|                            144,001 to 240,000                            |       126       |13 |
+|                               Over 240,000                               |       200       |19 |
+|**net weight greater than 1 kg (2.2 lb) but not more than 4.5 kg (10 lb)**|                 |   |
+|                              2,400 or less                               |       13        | 2 |
+|                             2,401 to 15,000                              |       21        | 3 |
+|                             15,001 to 24,000                             |       29        | 4 |
+|                             24,001 to 42,000                             |       48        | 6 |
+|                             42,001 to 72,000                             |       84        | 9 |
+|                            72,001 to 120,000                             |       126       |13 |
+|                               Over 120,000                               |       200       |19 |
+|                **net weight greater than 4.5 kg (10 lb)**                |                 |   |
+|                               600 or less                                |       13        | 2 |
+|                               601 to 2,000                               |       21        | 3 |
+|                              2,001 to 7,200                              |       29        | 4 |
+|                             7,201 to 15,000                              |       48        | 6 |
+|                             15,001 to 24,000                             |       84        | 9 |
+|                             24,001 to 42,000                             |       126       |13 |
+|                               Over 42,000                                |       200       |19 |
+|         <sup>1</sup>n = number of primary containers in sample.          |                 |   |
+|                    <sup>2</sup>c = acceptance number.                    |                 |   |
 
 [42 FR 14414, Mar. 15, 1977, as amended at 47 FR 11829, Mar. 19, 1982; 49 FR 10099, Mar. 19, 1984; 54 FR 24894, June 12, 1989; 63 FR 14035, Mar. 24, 1998]

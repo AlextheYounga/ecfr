@@ -1,0 +1,3 @@
+##### § 259.9 Conditional consents to withdrawal qualification. #####
+
+The Secretary may conditionally consent to the qualification of a withdrawal. This consent is conditioned upon the timely submission, to the Secretary, of the items requested by the Secretary in the withdrawal approval letter. Failure to provide these items in a timely manner, and after due notice, will result in nonqualification of the withdrawal and/or involuntary termination of the Agreement.

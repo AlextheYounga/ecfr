@@ -136,4 +136,4 @@ The definitions and interpretations of terms in section 201 of the Federal Food,
 
 *You* means, for purposes of this part, the owner, operator, or agent in charge of a facility.
 
-[80 FR 56145, Sept. 17, 2015, as amended at 81 FR 3715, Jan. 22, 2015]
+[80 FR 56145, Sept. 17, 2015, as amended at 81 FR 3715, Jan. 22, 2016]

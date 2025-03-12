@@ -1,6 +1,6 @@
 ##### § 30.35 Mortgagees and lenders. #####
 
-Link to an amendment published at 82 FR 7117, Jan. 19, 2017.Link to an amendment published at 82 FR 24524, May 30, 2017.
+Link to an amendment published at 82 FR 7117, Jan. 19, 2017.
 
 (a) *General.* The Mortgagee Review Board may initiate a civil money penalty action against any mortgagee or lender who knowingly and materially:
 
@@ -16,7 +16,7 @@ Link to an amendment published at 82 FR 7117, Jan. 19, 2017.Link to an amendment
 
 (6) Permits loan documents for an FHA insured loan to be signed in blank by its agents or any other party to the loan transaction unless expressly approved by the Secretary;
 
-(7) Fails to follow the mortgage assignment procedures set forth in §§ 203.650 through 203.664 of this title or in §§ 207.255 through 207.258b of this title.
+(7) Fails to follow the mortgage assignment procedures set forth in § 203.664 of this title or in §§ 207.255 through 207.258b of this title.
 
 (8) Fails to timely submit documents that are complete and accurate in connection with a conveyance of property or a claim for insurance benefits, in accordance with §§ 203.365, 203.366, or 203.368 of this title;
 
@@ -46,8 +46,8 @@ Link to an amendment published at 82 FR 7117, Jan. 19, 2017.Link to an amendment
 
 (b) *Continuing violation.* Each day that a violation continues shall constitute a separate violation.
 
-(c)(1) *Amount of penalty.* The maximum penalty is $9,468 for each violation, up to a limit of $1,893,610 for all violations committed during any one-year period. Each violation shall constitute a separate violation as to each mortgage or loan application.
+(c)(1) *Amount of penalty.* The maximum penalty is $9,623 for each violation, up to a limit of $1,924,589 for all violations committed during any one-year period. Each violation shall constitute a separate violation as to each mortgage or loan application.
 
 (2) *Maximum penalty for failing to engage in loss mitigation.* The penalty for a violation of paragraph (a)(14) of this section shall be three times the amount of the total mortgage insurance benefits claimed by the mortgagee with respect to any mortgage for which the mortgagee failed to engage in such loss mitigation actions.
 
-[61 FR 50215, Sept. 24, 1996, as amended at 63 FR 9742, Feb. 26, 1998; 68 FR 12788, Mar. 17, 2003; 70 FR 21578, Apr. 26, 2005; 72 FR 5588, Feb. 6, 2007; 74 FR 2751, Jan. 15, 2009; 74 FR 14725, Apr. 1, 2009; 78 FR 4059, Jan. 18, 2013; 81 FR 38935, June 15, 2016]
+[61 FR 50215, Sept. 24, 1996, as amended at 63 FR 9742, Feb. 26, 1998; 68 FR 12788, Mar. 17, 2003; 70 FR 21578, Apr. 26, 2005; 72 FR 5588, Feb. 6, 2007; 74 FR 2751, Jan. 15, 2009; 74 FR 14725, Apr. 1, 2009; 78 FR 4059, Jan. 18, 2013; 81 FR 38935, June 15, 2016; 82 FR 24524, May 30, 2017]

@@ -1,5 +1,7 @@
 ##### § 806.21 General standards. #####
 
+Link to an amendment published at 82 FR 29392, June 29, 2017.
+
 (a) A project shall not be detrimental to the proper conservation, development, management, or control of the water resources of the basin.
 
 (b) The Commission may modify and approve as modified, or may disapprove, a project if it determines that the project is not in the best interest of the conservation, development, management, or control of the basin's water resources, or is in conflict with the comprehensive plan.

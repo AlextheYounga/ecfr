@@ -32,4 +32,4 @@
 
 (4) The consumer disclosure text described in paragraph (l)(1) of this section is set forth as an appendix to this section.
 
-(Sec. 5, 48 Stat. 1068; 47 U.S.C. 155)[42 FR 14729, Mar. 16, 1977, as amended at 42 FR 43637, Aug. 22, 1977; 43 FR 13576, Mar. 31, 1978; 63 FR 36605, July 7, 1998; 75 FR 3639, Jan. 22, 2010; 80 FR 71729, Nov. 17, 2015]Effective Date Note:At 80 FR 71729, Nov. 17, 2015, in § 74.851 paragraph (l) was added. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+(Sec. 5, 48 Stat. 1068; 47 U.S.C. 155)[42 FR 14729, Mar. 16, 1977, as amended at 42 FR 43637, Aug. 22, 1977; 43 FR 13576, Mar. 31, 1978; 63 FR 36605, July 7, 1998; 75 FR 3639, Jan. 22, 2010; 80 FR 71729, Nov. 17, 2015]Effective Date Note:At 80 FR 71729, Nov. 17, 2015, in § 74.851(l) was added. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

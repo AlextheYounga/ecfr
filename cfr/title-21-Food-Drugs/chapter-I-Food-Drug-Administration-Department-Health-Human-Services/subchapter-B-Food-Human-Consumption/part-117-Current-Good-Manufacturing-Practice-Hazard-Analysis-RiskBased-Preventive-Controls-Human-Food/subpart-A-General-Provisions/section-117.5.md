@@ -38,7 +38,7 @@
 
 (x) *Other grain products* include processed food products such as dried cereal, dried pasta, oat flakes, and popcorn. This category does not include milled grain products as described in paragraph (g)(2)(viii) of this section or baked goods as described in paragraph (g)(2)(ix) of this section.
 
-(3) Subparts C and G of this part do not apply to on-farm packing or holding of food by a small or very small business, and § 117.201 does not apply to on-farm packing or holding of food by a very small business, if the only packing and holding activities subject to section 418 of the Federal Food, Drug, and Cosmetic Act that the business conducts are the following low-risk packing or holding activity/food combinations - *i.e.,* packing (or re-packing) (including weighing or conveying incidental to packing or re-packing); sorting, culling, or grading incidental to packing or storing; and storing (ambient, cold and controlled atmosphere) of:
+(3) Subparts C and G of this part do not apply to on-farm packing or holding of food by a small or very small business, and § 117.201 does not apply to on-farm packing or holding of food by a very small business, if the only packing and holding activities subject to section 418 of the Federal Food, Drug, and Cosmetic Act that the business conducts are the following low-risk packing or holding activity/food combinations—*i.e.,* packing (or re-packing) (including weighing or conveying incidental to packing or re-packing); sorting, culling, or grading incidental to packing or storing; and storing (ambient, cold and controlled atmosphere) of:
 
 (i) Baked goods (*e.g.,* bread and cookies);
 
@@ -84,7 +84,7 @@
 
 (xxii) Vinegar; and
 
-(xxiii) Any other processed food that does not require time/temperature control for safety (e..g., vitamins, minerals, and dietary ingredients (*e.g.,* bone meal) in powdered, granular, or other solid form).
+(xxiii) Any other processed food that does not require time/temperature control for safety (e.g., vitamins, minerals, and dietary ingredients (*e.g.,* bone meal) in powdered, granular, or other solid form).
 
 (h)(1) The exemption in paragraph (h)(3) of this section applies to manufacturing/processing of foods on a farm mixed-type facility, except for manufacturing/processing that is within the “farm” definition in § 1.227 of this chapter. Drying/dehydrating raw agricultural commodities to create a distinct commodity (such as drying/dehydrating grapes to produce raisins, and drying/dehydrating fresh herbs to produce dried herbs), and packaging and labeling such commodities, without additional manufacturing/processing (such as chopping and slicing), are within the “farm” definition in § 1.227 of this chapter. In addition, treatment to manipulate ripening of raw agricultural commodities (such as by treating produce with ethylene gas), and packaging and labeling the treated raw agricultural commodities, without additional manufacturing/processing, is within the “farm” definition. In addition, coating intact fruits and vegetables with wax, oil, or resin used for the purpose of storage or transportation is within the “farm” definition. Activities that are within the “farm” definition, when conducted on a farm mixed-type facility, are not subject to the requirements of subparts C and G of this part and therefore do not need to be specified in the exemption.
 
@@ -174,4 +174,4 @@
 
 (2) If a “farm” or “farm mixed-type facility” dries/dehydrates raw agricultural commodities that are produce as defined in part 112 of this chapter to create a distinct commodity, subpart B of this part applies to the packaging, packing, and holding of the dried commodities. Compliance with this requirement may be achieved by complying with subpart B of this part or with the applicable requirements for packing and holding in part 112 of this chapter.
 
-[80 FR 56145, Sept. 17, 2015, as amended at 81 FR 3716, Jan. 22, 2015]
+[80 FR 56145, Sept. 17, 2015, as amended at 81 FR 3716, Jan. 22, 2016]

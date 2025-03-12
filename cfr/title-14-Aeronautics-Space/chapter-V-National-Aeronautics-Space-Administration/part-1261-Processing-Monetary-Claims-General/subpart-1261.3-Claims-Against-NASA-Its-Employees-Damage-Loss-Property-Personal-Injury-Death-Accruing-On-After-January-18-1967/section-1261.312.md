@@ -1,5 +1,7 @@
 ##### § 1261.312 Action on approved claims. #####
 
+Link to an amendment published at 82 FR 29384, June 29, 2017.
+
 (a) Upon settlement of a claim, the official designated in § 1261.308 will prepare and have executed by the claimant a Voucher for Payment of Tort Claims (NASA Form 616) if the claim has been acted upon pursuant to 42 U.S.C. 2473(c)(13), or a Voucher for Payment under Federal Tort Claims Act (Standard Form 1145) if the claim has been acted upon pursuant to the Federal Tort Claims Act. The form will then be referred to the cognizant NASA installation fiscal or financial management office for appropriate action.
 
 (b) When a claimant is represented by an attorney, both the claimant and attorney will be designated as “payees” on the voucher, and the check will be delivered to the attorney whose address shall appear on the voucher.

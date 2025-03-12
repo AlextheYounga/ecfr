@@ -1,5 +1,7 @@
 ##### § 808.1 Public hearings. #####
 
+Link to an amendment published at 82 FR 29395, June 29, 2017.
+
 (a) A public hearing shall be conducted in the following instances:
 
 (1) Addition of projects or adoption of amendments to the comprehensive plan, except as otherwise provided by Section 14.1 of the compact.

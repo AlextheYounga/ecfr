@@ -1,5 +1,7 @@
 ##### § 806.31 Term of approvals. #####
 
+Link to an amendment published at 82 FR 29394, June 29, 2017.
+
 (a) Approvals issued under this part shall have a term equal to the term of any accompanying member jurisdiction approval regulating the same subject matter, but not longer than 15 years, unless an alternate period is provided for in the Commission approval. If there is no such accompanying member jurisdiction approval, or if no term is specified in such accompanying member jurisdiction approval, the term of a Commission approval issued under this part shall be no longer than 15 years or the anticipated life of the project, whichever is less, unless an alternate period is provided for in the Commission approval.
 
 (b) Commission approval of a project shall expire three years from the date of such approval if the withdrawal, diversion or consumptive use has not been commenced, unless an alternate period is provided for in the docket approval or such 3-year period is extended in writing by the Commission upon written request from the project sponsor submitted no later than 120 days prior to such expiration. The Commission may grant an extension, for a period not to exceed two years, only upon a determination that the delay is due to circumstances beyond the project sponsor's control and that there is a likelihood of project implementation within a reasonable period of time. The Commission may also attach conditions to the granting of such extensions, including modification of any terms of approval that the Commission may deem appropriate.

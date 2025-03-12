@@ -1,5 +1,7 @@
 ##### § 2.66 Revival of abandoned applications. #####
 
+Link to an amendment published at 82 FR 29408, June 29, 2017.
+
 (a) The applicant may file a petition to revive an application abandoned because the applicant did not timely respond to an Office action or notice of allowance, if the delay was unintentional. The applicant must file the petition:
 
 (1) Within two months of the date of issuance of the notice of abandonment; or

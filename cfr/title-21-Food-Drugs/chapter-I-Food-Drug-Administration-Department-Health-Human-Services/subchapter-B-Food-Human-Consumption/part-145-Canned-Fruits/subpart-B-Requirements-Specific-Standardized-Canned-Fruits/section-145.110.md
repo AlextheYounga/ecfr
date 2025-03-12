@@ -1,6 +1,6 @@
 ##### § 145.110 Canned applesauce. #####
 
-(a) *Identity* - (1) *Definition.* Canned applesauce is the food prepared from comminuted or chopped apples (*Malus domestica* Borkhausen), which may or may not be peeled and cored, and which may have added thereto one or more of the optional ingredients specified in paragraph (a)(2) of this section. The apple ingredient is heated and, in accordance with good manufacturing practices, bruised apple particles, peel, seed, core material, carpel tissue, and other coarse, hard, or extraneous materials are removed. The food is sealed in containers. It is so processed by heat, either before or after sealing, as to prevent spoilage. The soluble solids content, measured by refractometer and expressed as percent sucrose (degrees Brix) with correction for temperature to the equivalent at 20 °C (68 °F), is not less than 9 percent (exclusive of the solids of any added optional nutritive carbohydrate sweeteners) as determined by the method prescribed in “Official Methods of Analysis of the Association of Official Analytical Chemists,” 13th Ed. (1980), section 22.024, “Soluble Solids by Refractometer in Fresh and Canned Fruits, Jams, Marmalades, and Preserves - Official First Action,” which is incorporated by reference, but without correction for invert sugar or other substances. Copies may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+(a) *Identity*—(1) *Definition.* Canned applesauce is the food prepared from comminuted or chopped apples (*Malus domestica* Borkhausen), which may or may not be peeled and cored, and which may have added thereto one or more of the optional ingredients specified in paragraph (a)(2) of this section. The apple ingredient is heated and, in accordance with good manufacturing practices, bruised apple particles, peel, seed, core material, carpel tissue, and other coarse, hard, or extraneous materials are removed. The food is sealed in containers. It is so processed by heat, either before or after sealing, as to prevent spoilage. The soluble solids content, measured by refractometer and expressed as percent sucrose (degrees Brix) with correction for temperature to the equivalent at 20 °C (68 °F), is not less than 9 percent (exclusive of the solids of any added optional nutritive carbohydrate sweeteners) as determined by the method prescribed in “Official Methods of Analysis of the Association of Official Analytical Chemists,” 13th Ed. (1980), section 22.024, “Soluble Solids by Refractometer in Fresh and Canned Fruits, Jams, Marmalades, and Preserves—Official First Action,” which is incorporated by reference, but without correction for invert sugar or other substances. Copies may be obtained from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 (2) *Optional ingredients.* The following safe and suitable optional ingredients may be used:
 
@@ -54,39 +54,35 @@
 
 (ii) Sampling and acceptance:
 
-Acceptable quality level (AQL) 6.5
-
-|                    Lot size (primary containers)                     |Size of container|   |
-|----------------------------------------------------------------------|-----------------|---|
-|                            n<sup>1</sup>                             |  c<sup>2</sup>  |   |
-|            net weight equal to or less than 1 kg (2.2 lb)            |                 |   |
-|                            4,800 or less                             |       13        | 2 |
-|                           4,801 to 24,000                            |       21        | 3 |
-|                           24,001 to 48,000                           |       29        | 4 |
-|                           48,001 to 84,000                           |       48        | 6 |
-|                          84,001 to 144,000                           |       84        | 9 |
-|                          144,001 to 240,000                          |       126       |13 |
-|                             Over 240,000                             |       200       |19 |
-|net weight greater than 1 kg (2.2 lb) but not more than 4.5 kg (10 lb)|                 |   |
-|                            2,400 or less                             |       13        | 2 |
-|                           2,401 to 15,000                            |       21        | 3 |
-|                           15,001 to 24,000                           |       29        | 4 |
-|                           24,001 to 42,000                           |       48        | 6 |
-|                           42,001 to 72,000                           |       84        | 9 |
-|                          72,001 to 120,000                           |       126       |13 |
-|                             Over 120,000                             |       200       |19 |
-|                net weight greater than 4.5 kg (10 lb)                |                 |   |
-|                             600 or less                              |       13        | 2 |
-|                             601 to 2,000                             |       21        | 3 |
-|                            2,001 to 7,200                            |       29        | 4 |
-|                           7,201 to 15,000                            |       48        | 6 |
-|                           15,001 to 24,000                           |       84        | 9 |
-|                           24,001 to 42,000                           |       126       |13 |
-|                             Over 42,000                              |       200       |19 |
-
-<sup>1</sup>n = number of primary containers in sample.
-
-<sup>2</sup>c = acceptance number.
+|                      Lot size (primary containers)                       |Size of container|   |
+|--------------------------------------------------------------------------|-----------------|---|
+|                              n<sup>1</sup>                               |  c<sup>2</sup>  |   |
+|            **net weight equal to or less than 1 kg (2.2 lb)**            |                 |   |
+|                              4,800 or less                               |       13        | 2 |
+|                             4,801 to 24,000                              |       21        | 3 |
+|                             24,001 to 48,000                             |       29        | 4 |
+|                             48,001 to 84,000                             |       48        | 6 |
+|                            84,001 to 144,000                             |       84        | 9 |
+|                            144,001 to 240,000                            |       126       |13 |
+|                               Over 240,000                               |       200       |19 |
+|**net weight greater than 1 kg (2.2 lb) but not more than 4.5 kg (10 lb)**|                 |   |
+|                              2,400 or less                               |       13        | 2 |
+|                             2,401 to 15,000                              |       21        | 3 |
+|                             15,001 to 24,000                             |       29        | 4 |
+|                             24,001 to 42,000                             |       48        | 6 |
+|                             42,001 to 72,000                             |       84        | 9 |
+|                            72,001 to 120,000                             |       126       |13 |
+|                               Over 120,000                               |       200       |19 |
+|                **net weight greater than 4.5 kg (10 lb)**                |                 |   |
+|                               600 or less                                |       13        | 2 |
+|                               601 to 2,000                               |       21        | 3 |
+|                              2,001 to 7,200                              |       29        | 4 |
+|                             7,201 to 15,000                              |       48        | 6 |
+|                             15,001 to 24,000                             |       84        | 9 |
+|                             24,001 to 42,000                             |       126       |13 |
+|                               Over 42,000                                |       200       |19 |
+|         <sup>1</sup>n = number of primary containers in sample.          |                 |   |
+|                    <sup>2</sup>c = acceptance number.                    |                 |   |
 
 (3) If canned applesauce falls below the standard of fill of container prescribed in paragraph (c)(1) of this section, the label shall bear the general statement of substandard fill specified in § 130.14(b) of this chapter, in the manner and form therein specified.
 

@@ -1,5 +1,7 @@
 ##### § 1261.407 Demand for payment; limitation periods. #####
 
+Link to an amendment published at 82 FR 29384, June 29, 2017.
+
 (a) Appropriate written demands shall be made promptly upon a debtor of the United States in terms which inform the debtor of the consequences of failure to cooperate. A total of three progressively stronger written demands at not more than 30-day intervals will normally be made unless a response to the first or second demand indicates that a further demand would be futile and the debtor's response does not require rebuttal. In determining the timing of demand letters, NASA will give due regard to the need to act promptly so that, as a general rule, if necessary to refer the debt to the Department of Justice for litigation, such referral can be made within one year of the agency's final determination of the fact and the amount of the debt. When necessary to protect the Government's interests (for example, to prevent the statute of limitations, 28 U.S.C. 2415, from expiring), written demand may be preceded by other appropriate actions, including immediate referral for litigation.
 
 (b) The initial demand letter should inform the debtor of:

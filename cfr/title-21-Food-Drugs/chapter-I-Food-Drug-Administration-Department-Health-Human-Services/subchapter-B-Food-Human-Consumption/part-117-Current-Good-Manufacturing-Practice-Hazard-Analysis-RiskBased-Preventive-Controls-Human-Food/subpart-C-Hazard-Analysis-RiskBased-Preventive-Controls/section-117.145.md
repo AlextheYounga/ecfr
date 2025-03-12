@@ -12,4 +12,4 @@ As appropriate to the nature of the preventive control and its role in the facil
 
 (ii) Exception records may be adequate in circumstances other than monitoring of refrigeration temperature.
 
-[80 FR 56145, Sept. 17, 2015, as amended at 81 FR 3716, Jan. 22, 2015]
+[80 FR 56145, Sept. 17, 2015, as amended at 81 FR 3716, Jan. 22, 2016]

@@ -1,0 +1,7 @@
+##### § 259.8 CCF accounts. #####
+
+(a) *General.* Each CCF account in a scheduled depository shall have an account number, which must be reflected on the reports required by § 259.7. All CCF accounts shall be reserved only for CCF transactions. There shall be no intermingling of CCF and non-CCF transactions and there shall be no pooling of 2 or more CCF accounts without the prior consent of the Secretary. Safe deposit boxes, safes, or the like shall not be eligible CCF depositories without the Secretary's consent, which shall be granted solely at his or her discretion.
+
+(b) *Assignment.* The use of funds held in a CCF depository for transactions in the nature of a countervailing balance, compensating balance, pledge, assignment, or similar security arrangement shall constitute a material breach of the Agreement unless prior written consent of the Secretary is obtained.
+
+(c) *Depositories.* Section 53506(a) of the Act provides that amounts in a CCF account must be kept in a depository or depositories specified in the Agreements and be subject to such trustee or other fiduciary requirements as the Secretary may require. Unless otherwise specified in the Agreement, the party may select the type or types of accounts in which the assets of the Fund may be deposited.

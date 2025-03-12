@@ -44,4 +44,4 @@
 
 (5) Your system, in accordance with paragraph (a)(5) of this section, that ensures control, at a subsequent distribution step, of the hazards in the food you distribute.
 
-[80 FR 56145, Sept. 17, 2015, as amended at 81 FR 3716, Jan. 22, 2015]
+[80 FR 56145, Sept. 17, 2015, as amended at 81 FR 3716, Jan. 22, 2016]

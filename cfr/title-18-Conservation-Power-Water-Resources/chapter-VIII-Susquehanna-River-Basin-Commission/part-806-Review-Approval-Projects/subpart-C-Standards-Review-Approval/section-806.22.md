@@ -1,5 +1,7 @@
 ##### § 806.22 Standards for consumptive uses of water. #####
 
+Link to an amendment published at 82 FR 29393, June 29, 2017.
+
 (a) The project sponsors of all consumptive water uses subject to review and approval under § 806.4, § 806.5 or § 806.6 of this part shall comply with this section.
 
 (b) *Mitigation.* All project sponsors whose consumptive use of water is subject to review and approval under § 806.4, § 806.5 or § 806.6 of this part shall mitigate such consumptive use. Except to the extent that the project involves the diversion of the waters out of the basin, public water supplies shall be exempt from the requirements of this section regarding consumptive use; provided, however, that nothing in this section shall be construed to exempt individual consumptive users connected to any such public water supply from the requirements of this section. Mitigation may be provided by one, or a combination of the following:

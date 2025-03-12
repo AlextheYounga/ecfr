@@ -1,5 +1,7 @@
 ##### § 1261.403 Consultation with appropriate officials; negotiation. #####
 
+Link to an amendment published at 82 FR 29384, June 29, 2017.
+
 (a) The authority pursuant to § 1261.402 to determine to forego collection of interest, to accept payment of a claim in installments, or, as to claims which do not exceed $20,000, exclusive of interest and related charges, to compromise a claim or to refrain from doing so, or to refrain from, suspend or terminate collection action, shall be exercised only after consultation with legal counsel for the particular installation and the following NASA officials or designees, who may also be requested to negotiate the appropriate agreements or arrangements with the debtor:
 
 (1) With respect to claims against contractors or grantees arising in connection with contracts or grants - the contracting officer and the financial management officer of the installation concerned.

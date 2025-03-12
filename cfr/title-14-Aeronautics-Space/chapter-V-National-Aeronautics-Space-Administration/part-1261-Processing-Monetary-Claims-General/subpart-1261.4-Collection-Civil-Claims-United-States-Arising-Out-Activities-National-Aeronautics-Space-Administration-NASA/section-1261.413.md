@@ -1,5 +1,7 @@
 ##### § 1261.413 Analysis of costs; automation; prevention of overpayments, delinquencies, or defaults. #####
 
+Link to an amendment published at 82 FR 29385, June 29, 2017.
+
 The Office of the NASA Comptroller will:
 
 (a) Issue internal procedures to provide for periodic comparison of costs incurred and amounts collected. Data on costs and corresponding recovery rates for debts of different types and in various dollar ranges should be used to compare the cost effectiveness of alternative collection techniques, establish guidelines with respect to points at which costs of further collection efforts are likely to exceed recoveries, and assist in evaluating offers in compromise.

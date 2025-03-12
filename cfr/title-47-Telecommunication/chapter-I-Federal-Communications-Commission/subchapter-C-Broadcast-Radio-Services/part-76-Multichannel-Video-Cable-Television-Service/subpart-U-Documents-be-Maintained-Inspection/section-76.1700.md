@@ -46,4 +46,4 @@
 
 (g) *Reproduction of records.* Copies of any material in the public inspection file that is not also available in the Commission's online file shall be available for machine reproduction upon request made in person, provided the requesting party shall pay the reasonable cost of reproduction. Requests for machine copies shall be fulfilled at a location specified by the system operator, within a reasonable period of time, which in no event shall be longer than seven days. The system operator is not required to honor requests made by mail but may do so if it chooses.
 
-[81 FR 10125, Feb. 29, 2016, as amended at 82 FR 11412, Feb. 23, 2017]Effective Date Note:At 82 FR 11412, Feb. 23, 2017, § 76.1700 was amended by revising paragraph (a) introductory text. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[81 FR 10125, Feb. 29, 2016, as amended at 82 FR 11412, Feb. 23, 2017]

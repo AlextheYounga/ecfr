@@ -32,4 +32,4 @@
 
 (i) Each infant formula manufacturing site shall provide its employees with readily accessible toilet facilities and hand washing facilities that include hot and cold water, soap or detergent, single-service towels or air dryers in toilet facilities. These facilities shall be maintained in good repair and in a sanitary condition at all times. These facilities shall provide for proper disposal of the sewage. Doors to the toilet facility shall not open into areas where infant formula, ingredients, containers, or closures are processed, handled, or stored, except where alternate means have been taken to protect against contamination.
 
-[79 FR 8059, Feb. 10, 2014, as amended at 79 FR 33071, June 10, 2014]
+[79 FR 8059, Feb. 10, 2014, as amended at 79 FR 33070, June 10, 2014]

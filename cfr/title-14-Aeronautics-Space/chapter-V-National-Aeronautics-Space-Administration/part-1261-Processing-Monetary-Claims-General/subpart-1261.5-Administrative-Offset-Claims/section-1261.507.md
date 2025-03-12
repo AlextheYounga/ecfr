@@ -1,5 +1,7 @@
 ##### § 1261.507 Civil Service Retirement and Disability Fund. #####
 
+Link to an amendment published at 82 FR 29387, June 29, 2017.
+
 (a) Unless otherwise prohibited by law, NASA may request that moneys which are due and payable to a debtor from the Civil Service Retirement and Disability Fund be administratively offset in reasonable amounts in order to collect in one full payment or a minimal number of payments debts owed to the United States by the debtor. Such requests shall be made to the appropriate officials of the Office of Personnel Management (OPM) in accordance with the OPM regulations (see 5 CFR 831.1801, *et seq.*).
 
 (b) When making a request for administrative offset under paragraph (a) of this section, NASA shall include a written certification that:

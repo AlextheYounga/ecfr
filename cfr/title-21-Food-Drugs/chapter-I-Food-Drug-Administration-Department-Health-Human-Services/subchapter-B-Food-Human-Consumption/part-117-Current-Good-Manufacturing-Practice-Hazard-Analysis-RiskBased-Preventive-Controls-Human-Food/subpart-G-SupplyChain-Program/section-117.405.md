@@ -22,4 +22,4 @@
 
 (2) Obtain documentation of an appropriate verification activity from another entity, review and assess the entity's applicable documentation, and document that review and assessment.
 
-[80 FR 56145, Sept. 17, 2015; 81 FR 3956, Jan. 25, 2016]Effective Date Note:At 80 FR 56145, Sept. 17, 2015, § 117.405 was added, effective Nov. 16, 2015, except for paragraphs (a)(2). FDA will publish a document in the Federal Register announcing the effective date for these paragraphs.
+[80 FR 56145, Sept. 17, 2015; 81 FR 3956, Jan. 25, 2016]Effective Date Note:At 80 FR 56145, Sept. 17, 2015, § 117.405 was added, effective Nov. 16, 2015, except for paragraph (a)(2). FDA will publish a document in the Federal Register announcing the effective date for this paragraph.

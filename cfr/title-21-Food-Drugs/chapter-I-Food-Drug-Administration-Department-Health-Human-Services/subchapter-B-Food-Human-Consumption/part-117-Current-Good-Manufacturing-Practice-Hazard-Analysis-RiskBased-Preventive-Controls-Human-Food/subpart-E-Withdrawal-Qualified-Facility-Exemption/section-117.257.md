@@ -28,4 +28,4 @@ An order to withdraw a qualified facility exemption under § 117.5(a) must inclu
 
 (i) The name and the title of the FDA representative who approved the order.
 
-[80 FR 56145, Sept. 17, 2015, as amended at 81 FR 3716, Jan. 22, 2015]
+[80 FR 56145, Sept. 17, 2015, as amended at 81 FR 3716, Jan. 22, 2016]

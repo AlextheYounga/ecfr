@@ -1,5 +1,7 @@
 ##### § 806.23 Standards for water withdrawals. #####
 
+Link to an amendment published at 82 FR 29393, June 29, 2017.
+
 (a) The project sponsors of all withdrawals subject to review and approval under § 806.4, § 806.5 or § 806.6 of this part shall comply with the following standards, in addition to those required pursuant to § 806.21.
 
 (b) *Limitations on withdrawals.* (1) The Commission may limit withdrawals to the amount (quantity and rate) of water that is needed to meet the reasonably foreseeable needs of the project sponsor.

@@ -1,5 +1,7 @@
 ##### § 808.2 Administrative appeals. #####
 
+Link to an amendment published at 82 FR 29396, June 29, 2017.
+
 (a) A project sponsor or other person aggrieved by a final action or decision of the Commission or Executive Director on a project application or a records access determination made pursuant to Commission policy may file a written appeal requesting a hearing. In the case of a project approval or denial, such appeal shall be filed by a project sponsor within 30 days of receipt of actual notice, and by all others within 30 days of publication of notice of the action taken on the project in the Federal Register. In the case of records access determinations, such appeal shall be filed with the Commission within 30 days of receipt of actual notice of the determination. Appeals filed later than 20 days prior to a regular Commission meeting will be considered at a subsequent Commission meeting. Appeals shall be filed on a form and in a manner prescribed by the Commission and the petitioner shall have 20 days from the date of filing to amend the appeal form.
 
 (b) The appeal shall identify the specific action or decision for which a hearing is requested, the date of the action or decision, the interest of the person requesting the hearing in the subject matter of the appeal, and a statement setting forth the basis for objecting to or seeking review of the action or decision.

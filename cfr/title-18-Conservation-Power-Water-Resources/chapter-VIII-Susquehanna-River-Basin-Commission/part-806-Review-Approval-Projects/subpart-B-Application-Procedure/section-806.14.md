@@ -1,5 +1,7 @@
 ##### § 806.14 Contents of application. #####
 
+Link to an amendment published at 82 FR 29390, June 29, 2017.
+
 (a) Except with respect to applications to renew an existing Commission approval, applications for minor modifications, and Notices of Intent for approvals by rule and general permits, applications shall include, but not be limited to, the following information and, where applicable, shall be submitted on forms and in the manner prescribed by the Commission. Renewal applications shall include such information that the Commission determines to be necessary for the review of same, shall be subject to the standards set forth in subpart C of this part, and shall likewise be submitted on forms and in the manner prescribed by the Commission.
 
 (1) Identification of project sponsor including any and all proprietors, corporate officers or partners, the mailing address of the same, and the name of the individual authorized to act for the sponsor.

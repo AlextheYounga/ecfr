@@ -1,5 +1,7 @@
 ##### § 1261.308 NASA officials authorized to act upon claims. #####
 
+Link to an amendment published at 82 FR 29384, June 29, 2017.
+
 (a) Claims in the amount of $10,000 or more will be acted upon as directed by the General Counsel;
 
 (b) Claims less than $10,000 will be acted upon by the Chief Counsel of the NASA Field Installation where the employee was assigned at the time of the loss or damage or the Assistant General Counsel for Litigation for NASA Headquarters claims.

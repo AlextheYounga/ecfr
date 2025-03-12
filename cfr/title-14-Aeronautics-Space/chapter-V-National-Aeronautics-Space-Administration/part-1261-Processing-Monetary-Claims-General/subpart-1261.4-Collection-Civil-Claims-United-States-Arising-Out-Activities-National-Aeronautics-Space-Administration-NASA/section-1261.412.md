@@ -1,5 +1,7 @@
 ##### § 1261.412 Interest, penalties, and administrative costs. #####
 
+Link to an amendment published at 82 FR 29385, June 29, 2017.
+
 (a) Pursuant to 31 U.S.C. 3717, NASA shall assess interest, penalties, and administrative costs on debts owed to the United States. Before assessing these charges, NASA must mail or hand deliver a written notice to the debtor explaining the requirements concerning the charges (see § 1261.407(b)).
 
 (b) Interest shall accrue from the date on which notice of the debt and the interest requirements is first mailed or hand delivered to the debtor (on or after October 25, 1982), using the most current address that is available to the agency. If an “advance billing” procedure is used - that is, a bill is mailed before the debt is actually owed - it can include the required interest notification in the advance billing, but interest may not start to accrue before the debt is actually owed. Designated officials should exercise care to ensure that the notices required by this section are dated and mailed or hand delivered on the same day.

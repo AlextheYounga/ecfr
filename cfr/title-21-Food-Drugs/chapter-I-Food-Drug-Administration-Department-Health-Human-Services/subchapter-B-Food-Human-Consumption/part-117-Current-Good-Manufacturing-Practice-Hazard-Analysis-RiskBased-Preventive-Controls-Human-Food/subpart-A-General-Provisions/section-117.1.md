@@ -14,4 +14,4 @@
 
 (c) Food covered by specific current good manufacturing practice regulations also is subject to the requirements of those regulations.
 
-[80 FR 56145, Sept. 17, 2015, as amended at 81 FR 3715, Jan. 22, 2015]
+[80 FR 56145, Sept. 17, 2015, as amended at 81 FR 3715, Jan. 22, 2016]

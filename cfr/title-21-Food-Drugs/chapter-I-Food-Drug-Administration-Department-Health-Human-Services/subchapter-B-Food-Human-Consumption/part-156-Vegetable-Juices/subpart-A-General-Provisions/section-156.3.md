@@ -4,7 +4,7 @@ For the purpose of this part:
 
 (a) *Strength and redness of color* means at least as much red as obtained by comparison of the prepared product, with the blended color produced by spinning a combination of the following concentric Munsell color discs of equal diameter, or the color equivalent of such discs:
 
-Disc 1 - Red (5R 2.6/13) (glossy finish)Disc 2 - Yellow (2.5 YR 5/12) (glossy finish)Disc 3 - Black (N1) (glossy finish)Disc 4 - Grey (N4) (mat finish)Such comparison is to be made in full diffused daylight or under a diffused light source of approximately 2691 lux (250 footcandles) and having a spectral quality approximating that of daylight under a moderately overcast sky, with a correlated color temperature of 7,500 degrees Kelvin ±200 degrees. With the light source directly over the disc and product, observation is made at an angle of 45 degrees from a distance of about 24 inches from the product. Electronic color meters may be used as an alternate means of determining the color of tomato juice. Such meters shall be calibrated to indicate that the color of the product is as red or more red than that produced by spinning the Munsell color discs in the combination as set out above.
+Disc 1—Red (5R 2.6/13) (glossy finish)Disc 2—Yellow (2.5 YR 5/12) (glossy finish)Disc 3—Black (N1) (glossy finish)Disc 4—Grey (N4) (mat finish)Such comparison is to be made in full diffused daylight or under a diffused light source of approximately 2691 lux (250 footcandles) and having a spectral quality approximating that of daylight under a moderately overcast sky, with a correlated color temperature of 7,500 degrees Kelvin ±200 degrees. With the light source directly over the disc and product, observation is made at an angle of 45 degrees from a distance of about 24 inches from the product. Electronic color meters may be used as an alternate means of determining the color of tomato juice. Such meters shall be calibrated to indicate that the color of the product is as red or more red than that produced by spinning the Munsell color discs in the combination as set out above.
 
 (b) *Tomato soluble solids* means the sucrose value as determined by the method prescribed in “Official Methods of Analysis of the Association of Official Analytical Chemists,” 13th Ed., 1980, sections 32.014 to 32.016 and 52.012, under the headings “Soluble Solids in Tomato Products Official Final Action” and “Refractive Indices (n) of Sucrose Solutions at 20°,” which is incorporated by reference. Copies are available from the AOAC INTERNATIONAL, 481 North Frederick Ave., suite 500, Gaithersburg, MD 20877, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* If no salt has been added, the sucrose value obtained from the referenced tables shall be considered the percent of tomato soluble solids. If salt has been added, either intentionally or through the application of the acidified break, determine the percent of such added sodium chloride as specified in paragraph (c) of this section. Subtract the percentage so found from the percentage of tomato soluble solids found (sucrose value from the refractive index tables) and multiply the difference by 1.016. The resultant value is considered the percent of “tomato soluble solids.”
 
@@ -18,7 +18,7 @@ Disc 1 - Red (5R 2.6/13) (glossy finish)Disc 2 - Yellow (2.5 YR 5/12) (glossy fi
 
 (e) *Sampling and acceptance procedure* means the following:
 
-(1) *Definitions* - (i) *Lot.* A collection of primary containers or units of the same size, type, and style manufactured or packed under similar conditions and handled as a single unit of trade.
+(1) *Definitions*—(i) *Lot.* A collection of primary containers or units of the same size, type, and style manufactured or packed under similar conditions and handled as a single unit of trade.
 
 (ii) *Lot size.* The number of primary containers or units in the lot.
 
@@ -34,38 +34,34 @@ Disc 1 - Red (5R 2.6/13) (glossy finish)Disc 2 - Yellow (2.5 YR 5/12) (glossy fi
 
 (2) *Sampling plans:*
 
-Acceptable Quality Level (AQL) 6.5
-
-|                    Lot size (primary containers)                     |Size of container|   |
-|----------------------------------------------------------------------|-----------------|---|
-|                                  n                                   |        c        |   |
-|            Net weight equal to or less than 1 kg (2.2 lb)            |                 |   |
-|                            4,800 or less                             |       13        | 2 |
-|                           4,801 to 24,000                            |       21        | 3 |
-|                           24,001 to 48,000                           |       29        | 4 |
-|                           48,001 to 84,000                           |       48        | 6 |
-|                          84,001 to 144,000                           |       84        | 9 |
-|                          144,001 to 240,000                          |       126       |13 |
-|                             Over 240,000                             |       200       |19 |
-|Net weight greater than 1 kg (2.2 lb) but not more than 4.5 kg (10 lb)|                 |   |
-|                            2,400 or less                             |       13        | 2 |
-|                           2,401 to 15,000                            |       21        | 3 |
-|                           15,001 to 24,000                           |       29        | 4 |
-|                           24,001 to 42,000                           |       48        | 6 |
-|                           42,001 to 72,000                           |       84        | 9 |
-|                          72,001 to 120,000                           |       126       |13 |
-|                             Over 120,000                             |       200       |19 |
-|                Net weight greater than 4.5 kg (10 lb)                |                 |   |
-|                             600 or less                              |       13        | 2 |
-|                             601 to 2,000                             |       21        | 3 |
-|                            2,001 to 7,200                            |       29        | 4 |
-|                           7,201 to 15,000                            |       48        | 6 |
-|                           15,001 to 24,000                           |       84        | 9 |
-|                           24,001 to 42,000                           |       126       |13 |
-|                             Over 42,000                              |       200       |19 |
-
-n = number of primary containers in sample.
-
-c = acceptance number.
+|                      Lot size (primary containers)                       |Size of container|   |
+|--------------------------------------------------------------------------|-----------------|---|
+|                                    n                                     |        c        |   |
+|            **Net weight equal to or less than 1 kg (2.2 lb)**            |                 |   |
+|                              4,800 or less                               |       13        | 2 |
+|                             4,801 to 24,000                              |       21        | 3 |
+|                             24,001 to 48,000                             |       29        | 4 |
+|                             48,001 to 84,000                             |       48        | 6 |
+|                            84,001 to 144,000                             |       84        | 9 |
+|                            144,001 to 240,000                            |       126       |13 |
+|                               Over 240,000                               |       200       |19 |
+|**Net weight greater than 1 kg (2.2 lb) but not more than 4.5 kg (10 lb)**|                 |   |
+|                              2,400 or less                               |       13        | 2 |
+|                             2,401 to 15,000                              |       21        | 3 |
+|                             15,001 to 24,000                             |       29        | 4 |
+|                             24,001 to 42,000                             |       48        | 6 |
+|                             42,001 to 72,000                             |       84        | 9 |
+|                            72,001 to 120,000                             |       126       |13 |
+|                               Over 120,000                               |       200       |19 |
+|                **Net weight greater than 4.5 kg (10 lb)**                |                 |   |
+|                               600 or less                                |       13        | 2 |
+|                               601 to 2,000                               |       21        | 3 |
+|                              2,001 to 7,200                              |       29        | 4 |
+|                             7,201 to 15,000                              |       48        | 6 |
+|                             15,001 to 24,000                             |       84        | 9 |
+|                             24,001 to 42,000                             |       126       |13 |
+|                               Over 42,000                                |       200       |19 |
+|               n = number of primary containers in sample.                |                 |   |
+|                          c = acceptance number.                          |                 |   |
 
 [48 FR 3956, Jan. 28, 1983, as amended at 54 FR 24895, June 12, 1989; 63 FR 14035, Mar. 24, 1998]

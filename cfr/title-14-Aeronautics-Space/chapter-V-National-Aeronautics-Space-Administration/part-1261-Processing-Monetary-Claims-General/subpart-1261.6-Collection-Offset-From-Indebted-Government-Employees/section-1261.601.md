@@ -1,5 +1,7 @@
 ##### § 1261.601 Scope of subpart. #####
 
+Link to an amendment published at 82 FR 29387, June 29, 2017.
+
 (a) *Coverage.* This subpart applies to agencies and employees as defined in § 1261.602.
 
 (b) *Applicability.* This subpart and 5 U.S.C. 5514 apply in recovering certain prejudgment debts by administrative offset except where the employee consents to the recovery, from the current pay account of an employee. Because it is an administrative offset, debt collection procedures for salary offset which are not specified in 5 U.S.C. 5514 and this subpart should be consistent with subpart 1261.5.

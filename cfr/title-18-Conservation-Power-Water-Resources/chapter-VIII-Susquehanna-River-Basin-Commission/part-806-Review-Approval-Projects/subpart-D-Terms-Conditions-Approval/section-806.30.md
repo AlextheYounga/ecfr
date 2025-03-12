@@ -1,5 +1,7 @@
 ##### § 806.30 Monitoring. #####
 
+Link to an amendment published at 82 FR 29393, June 29, 2017.
+
 The Commission, as part of the project review, shall evaluate the proposed methodology for monitoring consumptive uses, water withdrawals and mitigating flows, including flow metering devices, stream gages, and other facilities used to measure the withdrawals or consumptive use of the project or the rate of stream flow. If the Commission determines that additional flow measuring, metering or monitoring devices are required, these shall be provided at the expense of the project sponsor, installed in accordance with a schedule set by the Commission, be accurate to within 5 percent, and shall be subject to inspection by the Commission at any time.
 
 (a) Project sponsors of projects that are approved under this part shall:
