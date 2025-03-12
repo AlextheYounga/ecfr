@@ -1,6 +1,6 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 86 FR 44267, Aug. 12, 2021.Link to an amendment published at 86 FR 44600, Aug. 13, 2021.Link to an amendment published at 86 FR 54346, Oct. 1, 2021.
+Link to an amendment published at 86 FR 44600, Aug. 13, 2021.Link to an amendment published at 86 FR 54346, Oct. 1, 2021.
 
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
@@ -436,9 +436,11 @@ Model Number: MPC-37, MPC-89.
 
 Certificate Number: 1042.
 
-Initial Certificate Effective Date: June 7, 2017.
+Initial Certificate Effective Date: June 7, 2017
 
 Amendment Number 1 Effective Date: June 17, 2020.
+
+Amendment Number 2 Effective Date: October 26, 2021.
 
 SAR Submitted by: TN Americas LLC.
 
@@ -448,6 +450,6 @@ Docket Number: 72-1042.
 
 Certificate Expiration Date: June 7, 2037.
 
-Model Number: EOS-37PTH, EOS-89BTH.
+Model Number: EOS-37PTH, EOS-89BTH, 61BTH Type 2.
 
 [55 FR 29191, July 18, 1990]Editorial Note:For Federal Register citations affecting § 72.214, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,7 +1,5 @@
 ##### § 64.6000 Definitions. #####
 
-Link to an amendment published at 86 FR 40731, July 28, 2021.
-
 As used in this subpart:
 
 (a) *Ancillary Service Charge* means any charge Consumers may be assessed for, or in connection with, the interstate or international use of Inmate Calling Services that are not included in the per-minute charges assessed for such individual calls. Ancillary Service Charges that may be assessed are limited only to those listed in paragraphs (a)(1) through (5) of this section. All other Ancillary Service Charges are prohibited. For purposes of this definition, “interstate” includes any Jurisdictionally Mixed Charge, as defined in paragraph (u) of this section.
@@ -18,7 +16,7 @@ As used in this subpart:
 
 (b) *Authorized Fee* means a government authorized, but discretionary, fee which a Provider must remit to a federal, state, or local government, and which a Provider is permitted, but not required, to pass through to Consumers for or in connection with interstate or international Inmate Calling Service. An Authorized Fee may not include a markup, unless the markup is specifically authorized by a federal, state, or local statute, rule, or regulation.
 
-(c) *Average Daily Population (ADP)* means the sum of all inmates in a facility for each day of the preceding calendar year, divided by the number of days in the year. ADP shall be calculated in accordance with § 64.6010(e) and (f);
+(c) *Average Daily Population (ADP)* means the sum of all Inmates in a facility for each day of the preceding calendar year, divided by the number of days in the year.
 
 (d) *Collect Calling* means an arrangement whereby the called party takes affirmative action clearly indicating that it will pay the charges associated with a call originating from an Inmate Telephone;
 
@@ -26,7 +24,7 @@ As used in this subpart:
 
 (f) *Correctional Facility or Correctional Institution* means a Jail or a Prison;
 
-(g) *Debit Calling* means a presubscription or comparable service which allows an Inmate, or someone acting on an Inmate's behalf, to fund an account set up though a Provider that can be used to pay for Inmate Calling Services calls originated by the Inmate;
+(g) *Debit Calling* means a presubscription or comparable service which allows an Inmate, or someone acting on an Inmate's behalf, to fund an account set up through a Provider that can be used to pay for Inmate Calling Services calls originated by the Inmate;
 
 (h) *Flat Rate Calling* means a calling plan under which a Provider charges a single fee for an Inmate Calling Services call, regardless of the duration of the call;
 
@@ -62,4 +60,10 @@ As used in this subpart:
 
 (u) *Jurisdictionally Mixed Charge* means any charge Consumers may be assessed for use of Inmate Calling Services that are not included in the per-minute charges assessed for individual calls and that are assessed for, or in connection with, uses of Inmate Calling Service to make such calls that have interstate or international components and intrastate components that are unable to be segregated at the time the charge is incurred.
 
-[80 FR 79178, Dec. 18, 2015, as amended at 81 FR 62825, Sept. 13, 2016; 85 FR 67461, Oct. 23, 2020]
+(v) *Provider-Related Rate Component* means the interim per-minute rate specified in either § 64.6030(b) or (c) that Providers at Jails with Average Daily Populations of 1,000 or more Inmates and all Prisons may charge for interstate Collect Calling, Debit Calling, Prepaid Calling, or Prepaid Collect Calling.
+
+(w) *Facility-Related Rate Component* means either the Legally Mandated Facility Rate Component or the Contractually Prescribed Facility Rate Component identified in § 64.6030(d).
+
+(x) *International Destination* means the rate zone in which an international call terminates. For countries that have a single rate zone, *International Destination* means the country in which an international call terminates.
+
+[80 FR 79178, Dec. 18, 2015, as amended at 81 FR 62825, Sept. 13, 2016; 85 FR 67461, Oct. 23, 2020; 86 FR 40731, July 28, 2021]
