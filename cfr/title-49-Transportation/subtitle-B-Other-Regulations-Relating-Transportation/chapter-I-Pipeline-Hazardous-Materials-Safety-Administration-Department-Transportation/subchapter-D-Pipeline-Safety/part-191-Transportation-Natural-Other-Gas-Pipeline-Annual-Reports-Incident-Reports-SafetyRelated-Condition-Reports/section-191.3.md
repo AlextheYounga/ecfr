@@ -1,5 +1,7 @@
 ##### § 191.3 Definitions. #####
 
+Link to an amendment published at 86 FR 2237, Jan. 11, 2021.
+
 As used in this part and the PHMSA Forms referenced in this part -
 
 *Administrator* means the Administrator, Pipeline and Hazardous Materials Safety Administration or his or her delegate

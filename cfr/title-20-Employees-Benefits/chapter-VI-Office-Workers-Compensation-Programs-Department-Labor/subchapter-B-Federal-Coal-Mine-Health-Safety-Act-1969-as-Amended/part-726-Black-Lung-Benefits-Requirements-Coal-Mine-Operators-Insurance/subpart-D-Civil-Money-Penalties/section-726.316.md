@@ -1,5 +1,7 @@
 ##### § 726.316 Filing and service. #####
 
+Link to an amendment published at 86 FR 1779, Jan. 11, 2021.
+
 (a) *Filing.* All documents submitted to the Secretary shall be filed with the Secretary of Labor, U.S. Department of Labor, 200 Constitution Ave., N.W., Washington, DC 20210.
 
 (b) *Number of copies.* An original and four copies of all documents shall be filed.

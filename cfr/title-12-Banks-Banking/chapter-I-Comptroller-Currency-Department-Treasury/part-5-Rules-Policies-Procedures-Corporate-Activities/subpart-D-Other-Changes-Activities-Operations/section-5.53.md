@@ -1,12 +1,10 @@
 ##### § 5.53 Substantial asset change by a national bank or Federal savings association. #####
 
-Link to an amendment published at 85 FR 80466, Dec. 11, 2020.
-
 (a) *Authority.* 12 U.S.C. 93a, 1818, 1462a, 1463, 1464, 1467a, and 5412(b)(2)(B).
 
 (b) *Scope.* This section requires a national bank or a Federal savings association to obtain the approval of the OCC for a substantial asset change.
 
-(c) *Definition* - (1) *In general.* Except as provide in paragraph (c)(2) of this section, *substantial asset change* means:
+(c) *Definition*—(1) *In general.* Except as provide in paragraph (c)(2) of this section, *substantial asset change* means:
 
 (i) The sale or other disposition of all, or substantially all, of the national bank's or Federal savings association's assets in a transaction or a series of transactions;
 
@@ -22,17 +20,17 @@ Link to an amendment published at 85 FR 80466, Dec. 11, 2020.
 
 (i) That the bank or savings association undertakes in response to direction from the OCC (*e.g.,* in an enforcement action pursuant to 12 U.S.C. 1818);
 
-(ii) That is part of a voluntary liquidation under 12 CFR 5.48, if the bank or savings association in liquidation has obtained the OCC's non-objection to its plan of liquidation under 12 CFR 5.48 and has stipulated in its notice of liquidation to the OCC that its liquidation will be completed, the bank or savings association dissolved and its charter returned to the OCC within one year of the date it filed the notice of liquidation, unless the OCC extends the time period;
+(ii) That is part of a voluntary liquidation under § 5.48, if the bank or savings association in liquidation has obtained the OCC's non-objection to its plan of liquidation under § 5.48 and has stipulated in its notice of liquidation to the OCC that its liquidation will be completed, the bank or savings association dissolved and its charter returned to the OCC within one year of the date it filed the notice of liquidation, unless the OCC extends the time period;
 
 (iii) That occurs as a result of a bank's or savings association's ordinary and ongoing business of originating and securitizing loans; or
 
 (iv) That are subject to OCC approval under another application to the OCC.
 
-(d) *Procedures* - (1) *Consultation.* A national bank or Federal savings association considering a transaction or series of transactions that may constitute a material change under paragraph (c)(1)(iv) of this section must consult with the appropriate OCC supervisory office for a determination whether the OCC will require an application under this section. In determining whether to require an application, the OCC considers the size and nature of the transaction and the condition of the institutions involved.
+(d) *Procedures*—(1) *Consultation.* A national bank or Federal savings association considering a transaction or series of transactions that may constitute a material change under paragraph (c)(1)(iv) of this section must consult with the appropriate OCC supervisory office for a determination whether the OCC will require an application under this section. In determining whether to require an application, the OCC considers the size and nature of the transaction and the condition of the institutions involved.
 
 (2) *Approval requirement.* A national bank or Federal savings association must file an application and obtain the prior written approval of the OCC before engaging in a substantial asset change.
 
-(3) *Factors* - (i) *In general.* (A) In determining whether to approve an application under paragraph (d)(1) of this section, the OCC considers the following factors:
+(3) *Factors*—(i) *In general.* (A) In determining whether to approve an application filed under paragraph (d)(2) of this section, the OCC considers the following factors:
 
 (*1*) The capital level of any resulting national bank or Federal savings association;
 
@@ -50,4 +48,4 @@ Link to an amendment published at 85 FR 80466, Dec. 11, 2020.
 
 (e) *Exceptions to rules of general applicability.* Sections 5.8, 5.10, and 5.11 do not apply with respect to applications filed pursuant to this section. However, if the OCC concludes that an application presents significant or novel policy, supervisory, or legal issues, the OCC may determine that some or all of the provisions of §§ 5.8, 5.10, and 5.11 apply.
 
-[80 FR 28462, May 18, 2015, as amended at 82 FR 8104, Jan. 23, 2017]
+[80 FR 28462, May 18, 2015, as amended at 82 FR 8104, Jan. 23, 2017; 85 FR 80466, Dec. 11, 2020]

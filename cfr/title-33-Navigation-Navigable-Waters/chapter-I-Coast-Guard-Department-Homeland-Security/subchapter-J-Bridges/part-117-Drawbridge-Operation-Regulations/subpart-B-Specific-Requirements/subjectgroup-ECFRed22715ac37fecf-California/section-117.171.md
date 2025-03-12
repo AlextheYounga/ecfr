@@ -1,5 +1,7 @@
 ##### § 117.171 Middle River. #####
 
+Link to an amendment published at 86 FR 1807, Jan. 11, 2021.
+
 (a) The draw of the San Joaquin County (Bacon Island Road) highway bridge, mile 8.6 between Bacon Island and Lower Jones Tract, shall open on signal from May 15 through September 15 from 9 a.m. to 5 p.m. From September 16 through May 14, the draw shall open on signal from 9 a.m. to 5 p.m. from Thursday through Monday. At all other times, the draw shall open on signal if at least 12 hours notice is given to the San Joaquin County Department of Public Works at Stockton.
 
 (b) The draw of the Burlington Northern Santa Fe railroad bridge, mile 9.8 near Middle River Station, shall open on signal if at least 12 hours notice is given to the Burlington Northern Santa Fe Railway Manager of Structures at San Bernadino.

@@ -1,5 +1,7 @@
 ##### § 7.9 Review of decisions in other proceedings. #####
 
+Link to an amendment published at 86 FR 1780, Jan. 11, 2021.
+
 (a) Any party or aggrieved person shall have a right to file a petition for review with the Board (original and four copies), within a reasonable time from any final decision in any agency action under part 1, 3, or 5 of this subtitle.
 
 (b) The petition shall state concisely the points relied upon, and shall be accompanied by a statement setting forth supporting reasons. Further, the petition shall indicate whether or not the petitioner consents to the disposition of the questions involved by a single member.

@@ -1,5 +1,7 @@
 ##### § 230.419 Offerings by blank check companies. #####
 
+Link to an amendment published at 86 FR 2129, Jan. 11, 2021.
+
 (a) *Scope of the rule and definitions.* (1) The provisions of this section shall apply to every registration statement filed under the Act relating to an offering by a blank check company.
 
 (2) For purposes of this section, the term “blank check company” shall mean a company that:

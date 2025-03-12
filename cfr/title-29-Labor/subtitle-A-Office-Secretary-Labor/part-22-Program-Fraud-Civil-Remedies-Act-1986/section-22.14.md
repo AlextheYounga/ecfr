@@ -1,5 +1,7 @@
 ##### § 22.14 Separation of functions. #####
 
+Link to an amendment published at 86 FR 1781, Jan. 11, 2021.
+
 (a) The investigating official, the reviewing official, and any employee or agent of the authority who takes part in investigating, preparing, or presenting a particular case may not, in such case or a factually related case -
 
 (1) Participate in the hearing as the ALJ;

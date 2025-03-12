@@ -1,5 +1,7 @@
 ##### § 22.38 Reconsideration of initial decision. #####
 
+Link to an amendment published at 86 FR 1781, Jan. 11, 2021.
+
 (a) Except as provided in paragraph (d) of this section, any party may file a motion for reconsideration of the initial decision within 20 days of receipt of the initial decision. If service was made by mail, receipt will be presumed to be five days from the date of mailing in the absence of contrary proof.
 
 (b) Every such motion must set forth the matters claimed to have been erroneously decided and the nature of the alleged errors. Such motion shall be accompanied by a supporting brief.

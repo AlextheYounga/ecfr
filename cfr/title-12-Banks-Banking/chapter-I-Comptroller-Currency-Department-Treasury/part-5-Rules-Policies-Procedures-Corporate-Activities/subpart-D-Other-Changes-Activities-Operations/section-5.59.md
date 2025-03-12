@@ -1,10 +1,8 @@
 ##### § 5.59 Service corporations of Federal savings associations. #####
 
-Link to an amendment published at 85 FR 80469, Dec. 11, 2020.
+(a) *Authority.* 12 U.S.C. 1462a, 1463, 1464(c)(4)(B), 1828, and 5412(b)(2)(B).
 
-(a) *Authority.* 12 U.S.C. 1462a, 1463, 1464, 1828, 5412(b)(2)(B).
-
-(b) *Licensing requirements.* When required by section 18(m) of the Federal Deposit Insurance Act, a Federal savings association must file an application as prescribed in this section to:
+(b) *Licensing requirements.* When required by section 18(m) of the Federal Deposit Insurance Act (12 U.S.C. 1828(m)), a Federal savings association must file an application as prescribed in this section to:
 
 (1) Acquire or establish a service corporation; or
 
@@ -14,7 +12,7 @@ Link to an amendment published at 85 FR 80469, Dec. 11, 2020.
 
 (d) *Definitions* - (1) *Control* has the meaning set forth at 12 U.S.C. 1841 and the Federal Reserve Board's regulations thereunder, at 12 CFR part 225.
 
-(2) *GAAP-consolidated subsidiary* means a service corporation in which a Federal savings association has a direct or indirect ownership interest and whose assets are consolidated with those of the savings association for purposes of reporting under generally accepted accounting principles (GAAP).
+(2) *GAAP-consolidated subsidiary* means a service corporation in which a Federal savings association has a direct or indirect ownership interest and whose assets are consolidated with those of the savings association for purposes of reporting under GAAP.
 
 (3) *Ownership interest* means any equity interest in a business organization, including stock, limited or general partnership interests, or shares in a limited liability company.
 
@@ -22,13 +20,13 @@ Link to an amendment published at 85 FR 80469, Dec. 11, 2020.
 
 (5) *Service corporation subsidiary* means a service corporation of a Federal savings association that is controlled by that savings association.
 
-(e) *Standards and requirements* - (1) *Ownership.* Only Federal or state-chartered savings associations with home offices in the state where the relevant Federal savings association has its home office may have an ownership interest in a first-tier service corporation. A Federal savings association need not have any minimum percentage ownership interest or have control of a service corporation in order to designate an entity as a service corporation.
+(e) *Standards and requirements* - (1) *Ownership.* Only Federal or State-chartered savings associations with home offices in the State where the relevant Federal savings association has its home office may have an ownership interest in a first-tier service corporation. A Federal savings association need not have any minimum percentage ownership interest or have control of a service corporation in order to designate an entity as a service corporation.
 
-(2) *Geographic restrictions.* A first-tier service corporation must be organized under the laws of the state where the relevant Federal savings association's home office is located.
+(2) *Geographic restrictions.* A first-tier service corporation must be organized under the laws of the State where the relevant Federal savings association's home office is located.
 
 (3) *Authorized activities.* A service corporation may engage in any of the designated permissible service corporation activities listed in paragraph (f) of this section, subject to any applicable filing requirement under paragraph (h) of this section. In addition, a Federal savings association may request OCC approval for a service corporation to engage in any other activity reasonably related to the activities of financial institutions.
 
-(4) *Investment limitations.* A Federal savings association's investment in service corporations is subject to the limitations set forth in paragraph (g) of this section. The assets of a Federal savings association's service corporations are not subject to the investment limitations applicable to the savings association under section 5(c) of the HOLA.
+(4) *Investment limitations.* A Federal savings association's investment in service corporations is subject to the limitations set forth in paragraph (g) of this section. The assets of a Federal savings association's service corporations are not subject to the investment limitations applicable to the savings association under section 5(c) of the Home Owners' Loan Act, 12 U.S.C. 1464(c).
 
 (5) *Form of organization.* A service corporation may be organized as a corporation, or may be organized in any other organizational form that provides the same protections as the corporate form of organization, including limited liability.
 
@@ -48,7 +46,7 @@ Link to an amendment published at 85 FR 80469, Dec. 11, 2020.
 
 (iv) Unless the parent Federal savings association has guaranteed a loan to the service corporation, all borrowings by the service corporation indicate that the savings association is not liable.
 
-(9) *Issuances of securities by service corporations.* A service corporation shall not state or imply that the securities it issues are covered by Federal deposit insurance. A service corporation subsidiary shall not issue any security the payment, maturity, or redemption of which may be accelerated upon the condition that the controlling Federal savings association is insolvent or has been placed into receivership. For as long as any securities are outstanding, the controlling Federal savings association must maintain all records generated through each securities issuance in the ordinary course of business, including but not limited to a copy of the prospectus, offering circular, or similar document concerning such issuance, and make such records available for examination by the OCC.
+(9) *Issuances of securities by service corporations.* A service corporation must not state or imply that the securities it issues are covered by Federal deposit insurance. A service corporation subsidiary must not issue any security the payment, maturity, or redemption of which may be accelerated upon the condition that the controlling Federal savings association is insolvent or has been placed into receivership. For as long as any securities are outstanding, the controlling Federal savings association must maintain all records generated through each securities issuance in the ordinary course of business, including but not limited to a copy of the prospectus, offering circular, or similar document concerning such issuance, and make such records available for examination by the OCC.
 
 (10) *Certain pre-existing non-controlling investments.* A Federal savings association that made a non-controlling investment in a service corporation before May 18, 2015, but did not submit a filing under 12 U.S.C. 1828(m) with respect to such service corporation investment, is not required to file a service corporation application with respect to such investment pursuant to paragraph (b), provided that the Federal savings association does not acquire additional stock or similar interests in the service corporation, and the service corporation does not engage in any activities in which it was not engaged as of May 18, 2015.
 
@@ -128,7 +126,7 @@ Link to an amendment published at 85 FR 80469, Dec. 11, 2020.
 
 (iv) Real estate brokerage for property owned by a savings association that owns capital stock of the service corporation, or a lower-tier service corporation in which the service corporation invests.
 
-(6) *Securities activities, liquidity management, and coins.* (i) Execution of transactions in securities on an agency or riskless principal basis solely upon the order and for the account of customers or the provision of investment advice. The service corporation must register with the Securities and Exchange Commission and state securities regulators, as required by applicable Federal and state law and regulations;
+(6) *Securities activities, liquidity management, and coins.* (i) Execution of transactions in securities on an agency or riskless principal basis solely upon the order and for the account of customers or the provision of investment advice. The service corporation must register with the Securities and Exchange Commission and State securities regulators, as required by applicable Federal and State law and regulations;
 
 (ii) Liquidity management;
 
@@ -154,35 +152,35 @@ Link to an amendment published at 85 FR 80469, Dec. 11, 2020.
 
 (11) *Incidental activities.* Activities reasonably incident to those listed in paragraphs (f)(1) through (f)(10) of this section if the service corporation engages in those activities.
 
-(g) *Limitations on investments in service corporations* - (1) *In general.* Under the authority of section 5(c)(4)(B) of the HOLA, a Federal savings association may invest up to 3 percent of its assets in the capital stock, obligations, and other securities of service corporations. Any investment that would cause a Federal savings association's investment in service corporations, in the aggregate, to exceed 2 percent of assets, or made while the savings association's investments in service corporations exceeds 2 percent of assets, must serve primarily community, inner city, or community and economic development or public welfare purposes consistent with § 24.6 of this chapter. A Federal savings association must designate the investments serving those purposes.
+(g) *Limitations on investments in service corporations* - (1) *In general.* Under the authority of section 5(c)(4)(B) of the Home Owners' Loan Act (12 U.S.C. 1464(c)(4)(B)), a Federal savings association may invest up to 3 percent of its assets in the capital stock, obligations, and other securities of service corporations. Any investment that would cause a Federal savings association's investment in service corporations, in the aggregate, to exceed 2 percent of assets, or made while the savings association's investments in service corporations exceeds 2 percent of assets, must serve primarily community, inner city, or community and economic development or public welfare purposes consistent with 12 CFR part 24. A Federal savings association must designate the investments serving those purposes.
 
-(2) *Loans.* In addition to the amounts that a Federal savings association may invest under paragraph (g)(1) of this section, and to the extent that a Federal savings association has authority under other provisions of section 5(c) of the HOLA and parts 5 and 160 of this chapter, and available capacity within any applicable investment limits, a Federal savings association may make loans to any service corporation subject to the following conditions:
+(2) *Loans.* In addition to the amounts that a Federal savings association may invest under paragraph (g)(1) of this section, and to the extent that a Federal savings association has authority under other provisions of section 5(c) of the Home Owners' Loan Act (12 U.S.C. 1464(c)), this part 5, and 12 CFR part 160, and available capacity within any applicable investment limits, a Federal savings association may make loans to any service corporation subject to the following conditions:
 
 (i) Loans to service corporations other than a GAAP-consolidated subsidiary are subject to the lending limits in part 32 of this chapter.
 
 (ii) The OCC may limit the amount of loans to any service corporation where safety and soundness considerations warrant such action.
 
-(3) *Definition.* For purposes of this paragraph, the terms “loans” and “obligations” include all loans and other debt instruments (except accounts payable incurred in the ordinary course of business and paid within 60 days) and all guarantees or take-out commitments of such loans or debt instruments.
+(3) *Definition.* For purposes of this paragraph (g), the terms “loans” and “obligations” include all loans and other debt instruments (except accounts payable incurred in the ordinary course of business and paid within 60 days) and all guarantees or take-out commitments of such loans or debt instruments.
 
 (4) *GAAP-consolidated subsidiaries.* Both debt and equity investments in service corporations that are GAAP-consolidated subsidiaries are considered investments in subsidiaries for purposes of 12 CFR part 3.
 
-(h) *Filing requirements* - (1) *Application.* (i) When required by section 18(m) of the Federal Deposit Insurance Act, a Federal savings association must file an application at least 30 days before:
+(h) *Filing requirements* - (1) *Application.* (i) When required by section 18(m) of the Federal Deposit Insurance Act (12 U.S.C. 1828(m)), a Federal savings association must file an application at least 30 days before:
 
 (A) Acquiring or establishing a service corporation; or
 
 (B) Commencing a new activity in an existing service corporation subsidiary.
 
-(ii) The application must include a complete description of the savings association's investment in the service corporation, the proposed activities of the service corporation, the organizational structure and management of the service corporation, the relations between the savings association and the service corporation, and other information necessary to adequately describe the proposal. If the service corporation proposes to engage in insurance activities, the savings association must describe the type of insurance activity in which the service corporation proposes to engage. The savings association must also list for each state the lines of business for which the company holds, or will hold, an insurance license, indicating the state where the service corporation holds a resident license or charter, as applicable. The OCC may require an applicant to submit a legal analysis if the proposal is novel, unusually complex, or raises substantial unresolved legal issues. In these cases, the OCC encourages applicants to have a prefiling meeting with the OCC. Any savings association receiving approval under this paragraph is deemed to have agreed that the service corporation will conduct the activity in a manner consistent with published OCC guidance.
+(ii) The application must include a complete description of the savings association's investment in the service corporation, the proposed activities of the service corporation, the organizational structure and management of the service corporation, the relations between the savings association and the service corporation, and other information necessary to adequately describe the proposal. If the service corporation proposes to engage in insurance activities, the savings association must describe the type of insurance activity in which the service corporation proposes to engage. The savings association must also list for each State the lines of business for which the company holds, or will hold, an insurance license, indicating the State where the service corporation holds a resident license or charter, as applicable. The OCC may require afiler to submit a legal analysis if the proposal is novel, unusually complex, or raises substantial unresolved legal issues. In these cases, the OCC encourages filers to have a prefiling meeting with the OCC. Any savings association receiving approval under this paragraph is deemed to have agreed that the service corporation will conduct the activity in a manner consistent with published OCC guidance.
 
-(2) *Expedited review.* (i) An application to establish or acquire a service corporation, or to perform a new activity in an existing service corporation subsidiary, that meets the requirements of this paragraph is deemed approved by the OCC as of the 30th day after the filing is received by the OCC, unless the OCC notifies the applicant prior to that date that the filing is not eligible for expedited review under 5.13(a)(2). Any savings association receiving approval under this paragraph is deemed to have agreed that the service corporation will conduct the activity in a manner consistent with published OCC guidance.
+(2) *Expedited review.* (i) An application to establish or acquire a service corporation, or to perform a new activity in an existing service corporation subsidiary, that meets the requirements of this paragraph is deemed approved by the OCC as of the 30th day after the filing is received by the OCC, unless the OCC notifies the filer prior to that date that the filing has been removed from expedited review, or the expedited review period is extended, under § 5.13(a)(2). Any savings association receiving approval under this paragraph is deemed to have agreed that the service corporation will conduct the activity in a manner consistent with published OCC guidance.
 
 (ii) An application is eligible for expedited review if the following requirements are met:
 
-(A) The savings association is “well capitalized” and “well managed”; and
+(A) The savings association is well capitalized and well managed; and
 
-(B) The service corporation engages only in one or more of the preapproved activities listed in § 5.59(f).
+(B) The service corporation engages only in one or more of the preapproved activities listed in paragraph (f) of this section.
 
-(3) *OCC review and approval.* The OCC reviews a Federal savings association's application to determine whether the proposal is legally permissible and to ensure that the proposal is consistent with the requirements of this section, safe and sound banking practices and OCC policy and does not endanger the safety or soundness of the parent Federal savings association. As part of this process, the OCC may request additional information and analysis from the applicant.
+(3) *OCC review and approval.* The OCC reviews a Federal savings association's application to determine whether the proposal is legally permissible and to ensure that the proposal is consistent with the requirements of this section, safe and sound banking practices and OCC policy and does not endanger the safety or soundness of the parent Federal savings association. As part of this process, the OCC may request additional information and analysis from the filer.
 
 (4) *Redesignation.* A Federal savings association that proposes to redesignate an operating subsidiary as a service corporation must submit a notification to the OCC at least 30 days prior to the redesignation date. The notification must include a description of how the redesignated entity will meet all of the requirements of this section, a resolution of the savings association's board of directors approving the redesignation, and the proposed effective date of the redesignation. The savings association may effect the redesignation on the proposed date unless the OCC notifies the savings association otherwise prior to that date. The OCC may require an application if the redesignation presents policy, supervisory, or legal issues.
 
@@ -202,4 +200,4 @@ Link to an amendment published at 85 FR 80469, Dec. 11, 2020.
 
 (j) *Failure to comply with the requirements applicable to service corporations.* If a service corporation fails to meet any of the requirements of this section, the Federal savings association must notify the appropriate OCC licensing office. Unless the Federal savings association is otherwise advised by the OCC, if the service corporation cannot comply with the requirements of this section within 90 days of failing to meet such requirements, or otherwise resolve such failure to comply with this section, the Federal savings association must promptly dispose of its investment in the service corporation.
 
-[80 FR 28467, May 18, 2015]
+[80 FR 28467, May 18, 2015, as amended at 85 FR 80469, Dec. 11, 2020]

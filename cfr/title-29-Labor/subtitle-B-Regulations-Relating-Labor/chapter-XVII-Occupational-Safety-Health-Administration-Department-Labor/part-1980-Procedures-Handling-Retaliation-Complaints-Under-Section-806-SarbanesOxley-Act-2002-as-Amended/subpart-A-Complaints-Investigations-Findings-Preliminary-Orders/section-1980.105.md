@@ -1,5 +1,7 @@
 ##### § 1980.105 Issuance of findings and preliminary orders. #####
 
+Link to an amendment published at 86 FR 1789, Jan. 11, 2021.
+
 (a) After considering all the relevant information collected during the investigation, the Assistant Secretary shall issue, within 60 days of the filing of the complaint, written findings as to whether or not there is reasonable cause to believe that the respondent has retaliated against the complainant in violation of the Act.
 
 (1) If the Assistant Secretary concludes that there is reasonable cause to believe that a violation has occurred, the Assistant Secretary will accompany the findings with a preliminary order providing relief to the complainant. The preliminary order will include all relief necessary to make the employee whole, including reinstatement with the same seniority status that the complainant would have had but for the retaliation; back pay with interest; and compensation for any special damages sustained as a result of the retaliation, including litigation costs, expert witness fees, and reasonable attorney fees. Interest on back pay will be calculated using the interest rate applicable to underpayment of taxes under 26 U.S.C. 6621 and will be compounded daily. The preliminary order will also require the respondent to submit appropriate documentation to the Social Security Administration allocating any back pay award to the appropriate calendar quarters.

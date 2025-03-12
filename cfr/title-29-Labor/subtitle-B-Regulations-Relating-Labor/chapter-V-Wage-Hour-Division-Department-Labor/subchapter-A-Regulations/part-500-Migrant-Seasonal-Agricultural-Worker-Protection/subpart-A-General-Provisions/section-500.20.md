@@ -1,5 +1,7 @@
 ##### § 500.20 Definitions. #####
 
+Link to an amendment published at 86 FR 1786, Jan. 11, 2021.
+
 For purposes of this part:
 
 (a) *Administrator* means the Administrator of the Wage and Hour Division, United States Department of Labor, and such authorized representatives as may be designated by the Administrator to perform any of the functions of the Administrator under this part.

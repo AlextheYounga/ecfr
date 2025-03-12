@@ -1,5 +1,5 @@
-##### § 1800.209 Pre-award costs. #####
+##### § 1800.209 Certifications and representations. #####
 
-Link to an amendment published at 85 FR 71817, Nov. 12, 2020.
+The certifications and representations for NASA may be found in Appendix C of the GCAM, at: *https://prod.nais.nasa.gov/pub/pub\_library/srba/index.html.*
 
-NASA waives the approval requirement for pre-award costs of 90 days or less.
+[85 FR 71817, Nov. 12, 2020]

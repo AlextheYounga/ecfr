@@ -1,7 +1,5 @@
 ##### § 382.3 What do the terms in this rule mean? #####
 
-Link to an amendment published at 85 FR 79774, Dec. 10, 2020.
-
 In this regulation, the terms listed in this section have the following meanings:
 
 *Air Carrier Access Act or ACAA* means the Air Carrier Access Act of 1986, as amended, the statute that provides the principal authority for this part.
@@ -76,7 +74,7 @@ The term *physical or mental impairment* includes, but is not limited to, such d
 
 *Primary (or Main) Web site* means the Web site that is accessed upon entering the uniform resource locator (e.g., *www.carrier name.com,**www.airline designator code.com*) in an Internet browser from a standard desktop or laptop computer where the carrier advertises or sells air transportation to the public.
 
-*Qualified individual with a disability* means an individual with a disability -
+*Qualified individual with a disability* means an individual with a disability—
 
 (a) Who, as a passenger (referred to as a “passenger with a disability”),
 
@@ -92,10 +90,14 @@ The term *physical or mental impairment* includes, but is not limited to, such d
 
 *Scheduled service* means any flight scheduled in the current edition of the Official Airline Guide, the carrier's published schedule, or the computer reservation system used by the carrier.
 
+*Service animal* means a dog, regardless of breed or type, that is individually trained to do work or perform tasks for the benefit of a qualified individual with a disability, including a physical, sensory, psychiatric, intellectual, or other mental disability. Animal species other than dogs, emotional support animals, comfort animals, companionship animals, and service animals in training are not service animals for the purposes of this part.
+
+A *Service animal handler* is a passenger in air transportation who is a qualified individual with a disability who receives assistance from a service animal(s) that does work or performs tasks that are directly related to the individual's disability, or a third party who accompanies the individual with a disability traveling with a service animal such as a parent of a minor child or a caretaker. The service animal handler is responsible for keeping the animal under control at all times, and caring for and supervising the service animal, which includes toileting and feeding.
+
 *Shared-use automated airport kiosk* means a self-service transaction machine that is jointly owned, controlled or leased by an airport operator and carriers and/or an independent service provider and that provides carrier software applications which enable customers to independently access flight-related services.
 
 *TSA* means the Transportation Security Administration, an agency of the Department of Homeland Security.
 
 *United States or U.S.* means the United States of America, including its territories and possessions.
 
-[Doc. No. DOT-OST-2004-19482, 73 FR 27665, May 13, 2008, as amended at 78 FR 67914, Nov. 12, 2013]
+[Doc. No. DOT-OST-2004-19482, 73 FR 27665, May 13, 2008, as amended at 78 FR 67914, Nov. 12, 2013; Doc. No. DOT-OST-2018-0068, 85 FR 79774, Dec. 10, 2020]

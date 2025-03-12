@@ -1,5 +1,7 @@
 ##### § 22.37 Initial decision. #####
 
+Link to an amendment published at 86 FR 1781, Jan. 11, 2021.
+
 (a) The ALJ shall issue an initial decision based only on the record, which shall contain findings of fact, conclusions of law, and the amount of any penalties and assessments imposed.
 
 (b) The findings of fact shall include a finding on each of the following issues:

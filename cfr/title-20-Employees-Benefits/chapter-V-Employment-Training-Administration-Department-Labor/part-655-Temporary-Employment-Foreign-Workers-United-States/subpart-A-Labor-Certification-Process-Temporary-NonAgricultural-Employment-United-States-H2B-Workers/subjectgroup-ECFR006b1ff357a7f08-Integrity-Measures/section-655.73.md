@@ -1,6 +1,8 @@
 ##### § 655.73 Debarment. #####
 
-(a) *Debarment of an employer.* The Administrator, OFLC may not issue future labor certifications under this subpart to an employer or any successor in interest to that employer, subject to the time limits set forth in paragraph (c) of this section, if the Administrator, OFLC finds that the employer committed the following violations:
+Link to an amendment published at 86 FR 4, Jan. 4, 2021.
+
+a) *Debarment of an employer.* The Administrator, OFLC may not issue future labor certifications under this subpart to an employer or any successor in interest to that employer, subject to the time limits set forth in paragraph (c) of this section, if the Administrator, OFLC finds that the employer committed the following violations:
 
 (1) Willful misrepresentation of a material fact in its *H-2B Registration, Application for Prevailing Wage Determination,**Application for Temporary Employment Certification,* or *H-2B Petition;*
 

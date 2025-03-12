@@ -1,5 +1,7 @@
 ##### § 37.111 What hearing procedures does the Department follow? #####
 
+Link to an amendment published at 86 FR 1784, Jan. 11, 2021.
+
 (a) *Notice of opportunity for hearing.* As part of a Final Determination, or a Notification of Breach of a Conciliation Agreement, the Director must include, and serve on the grant applicant or recipient (by certified mail, return receipt requested), a notice of opportunity for hearing.
 
 (b) *Complaint; request for hearing; answer.* (1) In the case of noncompliance that cannot be voluntarily resolved, the Final Determination or Notification of Breach of Conciliation Agreement is considered the Department's formal complaint.

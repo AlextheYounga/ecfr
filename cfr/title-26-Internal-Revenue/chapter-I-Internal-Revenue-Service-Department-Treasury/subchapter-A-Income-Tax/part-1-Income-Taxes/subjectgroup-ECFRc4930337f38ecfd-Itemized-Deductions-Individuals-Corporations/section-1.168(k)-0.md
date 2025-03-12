@@ -1,7 +1,5 @@
 ##### § 1.168(k)-0 Table of contents. #####
 
-Link to an amendment published at 85 FR 71752, Nov. 10, 2020.
-
 This section lists the major paragraphs contained in §§ 1.168(k)-1 and 1.168(k)-2.
 
 § 1.168(k)-1 Additional first year depreciation deduction.
@@ -298,7 +296,7 @@ This section lists the major paragraphs contained in §§ 1.168(k)-1 and 1.168(k
 
 (B) Property was not used by the taxpayer at any time prior to acquisition.
 
-(C) [Reserved]
+(C) Special rules for a series of related transactions.
 
 (iv) Application to partnerships.
 
@@ -310,7 +308,7 @@ This section lists the major paragraphs contained in §§ 1.168(k)-1 and 1.168(k
 
 (D) Section 743(b) adjustments.
 
-(v) [Reserved]
+(v) Application to members of a consolidated group.
 
 (vi) Syndication transaction.
 
@@ -358,7 +356,7 @@ This section lists the major paragraphs contained in §§ 1.168(k)-1 and 1.168(k
 
 (F) Components.
 
-(G) [Reserved]
+(G) Acquisition of a trade or business or an entity.
 
 (iv) Self-constructed property.
 
@@ -368,7 +366,7 @@ This section lists the major paragraphs contained in §§ 1.168(k)-1 and 1.168(k
 
 (C) Components of self-constructed property.
 
-(v) [Reserved]
+(v) Determination of acquisition date for property not acquired pursuant to a written binding contract.
 
 (vi) Qualified film, television, or live theatrical production.
 
@@ -380,7 +378,55 @@ This section lists the major paragraphs contained in §§ 1.168(k)-1 and 1.168(k
 
 (viii) Examples.
 
-(c) [Reserved]
+(c) Election for components of larger self-constructed property for which the manufacture, construction, or production begins before September 28, 2017.
+
+(1) In general.
+
+(2) Eligible larger self-constructed property.
+
+(i) In general.
+
+(ii) Residential rental property or nonresidential real property.
+
+(iii) Beginning of manufacture, construction, or production.
+
+(iv) Exception.
+
+(3) Eligible components.
+
+(i) In general.
+
+(ii) Acquired components.
+
+(iii) Self-constructed components.
+
+(4) Special rules.
+
+(i) Installation costs.
+
+(ii) Property described in section 168(k)(2)(B).
+
+(5) Computation of additional first year depreciation deduction.
+
+(i) Election is made.
+
+(ii) Election is not made.
+
+(6) Time and manner for making election.
+
+(i) Time for making election.
+
+(ii) Manner of making election.
+
+(7) Revocation of election.
+
+(i) In general.
+
+(ii) Automatic 6-month extension.
+
+(8) Additional procedural guidance.
+
+(9) Examples.
 
 (d) Property described in section 168(k)(2)(B) or (C).
 
@@ -404,7 +450,9 @@ This section lists the major paragraphs contained in §§ 1.168(k)-1 and 1.168(k
 
 (B) Self-constructed components.
 
-(iv) Examples.
+(iv) Determination of acquisition date for property not acquired pursuant to a written binding contract.
+
+(4) Examples.
 
 (e) Computation of depreciation deduction for qualified property.
 
@@ -566,4 +614,4 @@ This section lists the major paragraphs contained in §§ 1.168(k)-1 and 1.168(k
 
 (3) Early application of regulation project REG-104397-18.
 
-[T.D. 9091, 68 FR 52991, Sept. 8, 2003. Redesignated and amended by T.D. 9283, 71 FR 51738, Aug. 31, 2006; T.D. 9874, 84 FR 50128, Sept. 24, 2019]
+[T.D. 9091, 68 FR 52991, Sept. 8, 2003. Redesignated and amended by T.D. 9283, 71 FR 51738, Aug. 31, 2006; T.D. 9874, 84 FR 50128, Sept. 24, 2019; 85 FR 71752, Nov. 10, 2020]

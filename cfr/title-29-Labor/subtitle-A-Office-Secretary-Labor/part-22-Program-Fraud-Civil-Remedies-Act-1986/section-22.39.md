@@ -1,5 +1,7 @@
 ##### § 22.39 Appeal to authority head. #####
 
+Link to an amendment published at 86 FR 1781, Jan. 11, 2021.
+
 (a) Any defendant who has filed a timely answer and who is determined in an initial decision to be liable for a civil penalty or assessment may appeal such decision to the authority head by filing a notice of appeal with the authority head in accordance with this section.
 
 (b)(1) A notice of appeal may be filed at any time within 30 days after the ALJ issues an initial decision. However, if another party files a motion for reconsideration under § 22.38, consideration of the appeal shall be stayed automatically pending resolution of the motion for reconsideration.

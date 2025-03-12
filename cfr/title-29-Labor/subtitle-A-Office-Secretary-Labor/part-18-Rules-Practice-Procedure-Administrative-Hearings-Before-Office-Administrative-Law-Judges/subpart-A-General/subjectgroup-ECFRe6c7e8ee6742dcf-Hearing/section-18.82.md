@@ -1,5 +1,7 @@
 ##### § 18.82 Exhibits. #####
 
+Link to an amendment published at 86 FR 1805, Jan. 11, 2021.
+
 (a) *Identification.* All exhibits offered in evidence must be marked with a designation identifying the party offering the exhibit and must be numbered and paginated as the judge orders.
 
 (b) *Electronic data.* By order the judge may prescribe the format for the submission of data that is in electronic form.

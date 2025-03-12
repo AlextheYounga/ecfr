@@ -1,7 +1,5 @@
-##### § 1800.339 Termination. #####
+##### § 1800.339 Remedies for noncompliance. #####
 
-Link to an amendment published at 85 FR 71817, Nov. 12, 2020.
+NASA reserves the ability to impose additional conditions in response to award recipient noncompliance and terminate a Federal award in accordance with 2 CFR 200.339 through 200.343 and as set forth in the GCAM.
 
-NASA reserves the ability to terminate a Federal award in accordance with § 200.338 through § 200.342 and as set forth in section D21 of the GCAM.
-
-[84 FR 20240, May 9, 2019]
+[85 FR 71817, Nov. 12, 2020]

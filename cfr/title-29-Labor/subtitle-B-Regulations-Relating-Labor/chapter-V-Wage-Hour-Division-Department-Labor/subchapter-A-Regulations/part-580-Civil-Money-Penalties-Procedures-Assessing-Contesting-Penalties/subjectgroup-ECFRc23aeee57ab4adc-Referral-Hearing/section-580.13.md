@@ -1,5 +1,7 @@
 ##### § 580.13 Procedures for appeals to the Administrative Review Board. #####
 
+Link to an amendment published at 86 FR 1787, Jan. 11, 2021.
+
 (a) Any party desiring review of a decision of the Administrative Law Judge, including judicial review, must file a petition for review with the Department's Administrative Review Board (Board). To be effective, such petition must be received by the Board within 30 days of the date of the decision of the Administrative Law Judge. Copies of the appeal shall be served on all parties and on the Chief Administrative Law Judge. If such a petition for review is timely filed, the decision of the Administrative Law Judge shall be inoperative unless and until the Board dismisses the appeal or issues a decision affirming the decision of the Administrative Law Judge.
 
 (b) All documents submitted to the Board shall be filed with the Administrative Review Board, Room S-4309, U.S. Department of Labor, Washington, DC 20210. An original and two copies of all documents must be filed.

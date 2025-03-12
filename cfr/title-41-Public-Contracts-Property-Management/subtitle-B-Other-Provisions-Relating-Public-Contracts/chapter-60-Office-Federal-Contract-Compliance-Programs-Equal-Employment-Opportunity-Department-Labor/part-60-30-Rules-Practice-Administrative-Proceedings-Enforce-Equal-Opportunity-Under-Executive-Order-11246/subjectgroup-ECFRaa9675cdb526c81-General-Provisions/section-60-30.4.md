@@ -1,5 +1,7 @@
 ##### § 60-30.4 Form, filing, service of pleadings and papers. #####
 
+Link to an amendment published at 86 FR 1795, Jan. 11, 2021.
+
 (a) *Form.* The original of all pleadings and papers in a proceeding conducted under the regulations in this part shall be filed with the Administrative Law Judge assigned to the case or with the Chief Administrative Law Judge if the case has not been assigned. Every pleading and paper filed in the proceeding shall contain a caption setting forth the name of the agency instituting the proceeding, the title of the action, the case file number assigned by the Administrative Law Judge, and a designation of the pleading or paper (e.g., complaint, motion to dismiss, etc.). The pleading or papers shall be signed and shall contain the address and telephone number of the person representing the party or the person on whose behalf the pleading or paper was filed. Unless otherwise ordered for good cause by the Administrative Law Judge regarding specific papers and pleadings in a specific case, all such papers and pleadings are public documents.
 
 (b) *Service.* Service upon any party shall be made by the party filing the pleading or document by delivering a copy or mailing a copy to the party's last known address. When a party is represented by an attorney, the service shall by upon the attorney.

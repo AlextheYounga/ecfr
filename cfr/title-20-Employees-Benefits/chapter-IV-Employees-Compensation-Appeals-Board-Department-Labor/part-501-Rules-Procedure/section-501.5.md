@@ -1,5 +1,7 @@
 ##### § 501.5 Oral argument. #####
 
+Link to an amendment published at 86 FR 1771, Jan. 11, 2021.
+
 (a) *Oral argument.* Oral argument may be held in the discretion of the Board, on its own determination or on application by Appellant or the Director.
 
 (b) *Request.* A request for oral argument must be submitted in writing to the Clerk. The application must specify the issue(s) to be argued and provide a statement supporting the need for oral argument. The request must be made no later than 60 days after the filing of an appeal. Any appeal in which a request for oral argument is not granted by the Board will proceed to a decision based on the case record and any pleadings submitted.

@@ -1,32 +1,28 @@
 ##### § 5.56 Inclusion of subordinated debt securities and mandatorily redeemable preferred stock as Federal savings association supplementary (tier 2) capital. #####
 
-Link to an amendment published at 85 FR 80467, Dec. 11, 2020.
-
 (a) *Scope and definitions.* (1) A Federal savings association must comply with this section in order to include subordinated debt securities or mandatorily redeemable preferred stock (“covered securities”) in tier 2 capital under 12 CFR 3.20(d) and to prepay covered securities included in tier 2 capital. A savings association that does not include covered securities in tier 2 capital is not required to comply with this section. Covered securities not included in tier 2 capital are subject to the requirements of § 163.80 of this chapter.
 
 (2) For purposes of this section, mandatorily redeemable preferred stock means mandatorily redeemable preferred stock that was issued before July 23, 1985 or issued pursuant to regulations and memoranda of the Federal Home Loan Bank Board and approved in writing by the Federal Savings and Loan Insurance Corporation for inclusion as regulatory capital before or after issuance.
 
-(b) *Application and notice procedures* - (1) *Application or notice to include covered securities in tier 2 capital* - (i) *Application.* Unless a Federal savings association is an eligible savings association filing a notice under paragraph (b)(1)(ii) of this section, it must file an application seeking the OCC's approval of the inclusion of covered securities in tier 2 capital. The savings association may file its application before or after it issues covered securities, but may not include covered securities in tier 2 capital until the OCC approves the application.
+(b) *Application procedures*—(1) *Application to include covered securities in tier 2 capital*—(i) *Application required.* A Federal savings association must file an application seeking the OCC's approval of the inclusion of covered securities in tier 2 capital. The savings association may file its application before or after it issues covered securities, but may not include covered securities in tier 2 capital until the OCC approves the application and the securities are issued.
 
-(ii) *Notice with expedited review.* An eligible savings association must file a notice seeking the OCC's approval of the inclusion of covered securities in tier 2 capital. The savings association may file its notice before or after it issues covered securities, but may not include covered securities in tier 2 capital until the OCC approves the notice. The OCC is deemed to have approved the notice upon the expiration of 30 days after the filing date of the notice unless, before the expiration of that time period, the OCC notifies the Federal savings association that
+(ii) *Expedited review.* The OCC is deemed to have approved an application from an eligible savings association to include covered securities in tier 2 capital upon the expiration of 30 days after the filing date of the application unless, before the expiration of that time period, the OCC notifies the Federal savings association that:
 
-(A) Additional information is required to supplement the notice;
+(A) Additional information is required to supplement the application;
 
-(B) The notice is not eligible for expedited review, or the expedited reviewed process is extended, under § 5.13(a)(2); or
+(B) The application has been removed from expedited review or the expedited review process is extended under § 5.13(a)(2); or
 
-(C) The OCC denies the notice.
+(C) The OCC denies the application.
 
-(iii) *Securities offering rules.* A savings association also must comply with the securities offering rules at 12 CFR part 197 by filing an offering circular for a proposed issuance of covered securities, unless the offering qualifies for an exemption under that part.
+(iii) *Securities offering rules.* A Federal savings association also must comply with the securities offering rules at 12 CFR part 16 by filing an offering circular for a proposed issuance of covered securities, unless the offering qualifies for an exemption under that part.
 
-(2) *Application required to prepay covered securities included in tier 2 capital* - (i) *In general.* A Federal savings association must file an application to, and receive prior approval from, the OCC before prepaying covered securities included in tier 2 capital. For purposes of this requirement, prepayment includes acceleration of a covered security, repurchase of a covered security, redemption of a covered security prior to maturity, and exercising a call option in connection with a covered security.
+(2) *Application required to prepay covered securities included in tier 2 capital*—(i) *In general.* A Federal savings association must file an application to, and receive prior approval from, the OCC before prepaying covered securities included in tier 2 capital. The application must include:
 
-(ii) *Prepayment in the form of a call option.* (A) If the prepayment will be in the form of a call option, the application must include:
+(A) A statement explaining why the Federal savings association believes that following the proposed prepayment the savings association would continue to hold an amount of capital commensurate with its risk; or
 
-(*1*) A statement explaining why the Federal savings association believes that following the proposed prepayment the savings association would continue to hold an amount of capital commensurate with its risk; or
+(B) A description of the replacement capital instrument that meets the criteria for tier 1 or tier 2 capital under 12 CFR 3.20, including the amount of such instrument and the time frame for issuance.
 
-(*2*) A description of the replacement capital instrument that meets the criteria for tier 1 or tier 2 capital under 12 CFR 3.20, including the amount of such instrument, and the time frame for issuance.
-
-(B) Notwithstanding paragraph (b)(1)(ii) of this section, if the OCC conditions approval of prepayment in the form of a call option on a requirement that a Federal savings association must replace the covered security with a covered security of an equivalent amount that satisfies the requirements for a tier 1 or tier 2 instrument, the savings association must file an application to issue the replacement covered security and must receive prior OCC approval.
+(ii) *Replacement covered security.* If the OCC conditions approval of prepayment on a requirement that a Federal savings association must replace the covered security with a covered security of an equivalent amount that satisfies the requirements for tier 1 or tier 2 capital, the savings association must file an application to issue the replacement covered security and must receive prior OCC approval.
 
 (c) *General requirements.* A covered security issued under this section must satisfy the requirements for tier 2 capital in 12 CFR 3.20(d).
 
@@ -44,17 +40,19 @@ Link to an amendment published at 85 FR 80467, Dec. 11, 2020.
 
 (E) State the prohibition on the payment of dividends or interest at 12 U.S.C. 1828(b) and, in the case of subordinated debt securities, state the prohibition on the payment of principal and interest at 12 U.S.C. 1831o(h), 12 CFR 3.11, and any other relevant restrictions;
 
-(F) For subordinated debt securities, state or refer to a document stating the terms under which the savings association may prepay the obligation; and
+(F) For subordinated debt securities, state or refer to a document stating the terms under which the savings association may prepay the obligation;
 
-(G) Where applicable, state or refer to a document stating that the savings association must obtain OCC's prior approval before the acceleration of payment of principal or interest on subordinated debt securities, redemption of subordinated debt securities prior to maturity, repurchase of subordinated debt securities, or exercising a call option in connection with a subordinated debt security.
+(G) Where applicable, state or refer to a document stating that the savings association must obtain OCC's prior approval before the acceleration of payment of principal or interest on subordinated debt securities, redemption of subordinated debt securities prior to maturity, repurchase of subordinated debt securities, or exercising a call option in connection with a subordinated debt security; and
+
+(H) State that the security may be fully subordinated to interests held by the U.S. government in the event that the savings association enters into a receivership, insolvency, liquidation, or similar proceeding;
 
 (ii) A Federal savings association must include such additional statements as the OCC may prescribe for certificates, purchase agreements, indentures, and other related documents.
 
-(2) *Indenture.* (i) Except as provided in paragraph (d)(2)(ii) of this section, a Federal savings association must use an indenture for subordinated debt securities. If the aggregate amount of subordinated debt securities publicly offered (excluding sales in a non-public offering as defined in 12 CFR 197.4) and sold in any consecutive 12-month or 36-month period exceeds $5,000,000 or $10,000,000 respectively (or such lesser amount that the Securities and Exchange Commission shall establish by rule or regulation under 15 U.S.C. 77ddd), the indenture must provide for the appointment of a trustee other than the savings association or an affiliate of the savings association (as defined in paragraph (d)(1)(i)(C) of this section) and for collective enforcement of the security holders' rights and remedies.
+(2) *Indenture.* (i) Except as provided in paragraph (d)(2)(ii) of this section, a Federal savings association must use an indenture for subordinated debt securities. If the aggregate amount of subordinated debt securities publicly offered (excluding sales in a non-public offering as defined in 12 CFR 16.7) and sold in any consecutive 12-month or 36-month period exceeds $5,000,000 or $10,000,000 respectively (or such lesser amount that the Securities and Exchange Commission may establish by rule or regulation under 15 U.S.C. 77ddd), the indenture must provide for the appointment of a trustee other than the savings association or an affiliate of the savings association (as defined in paragraph (d)(1)(i)(C) of this section) and for collective enforcement of the security holders' rights and remedies.
 
-(ii) A Federal savings association is not required to use an indenture if the subordinated debt securities are sold only to accredited investors, as that term is defined in 15 U.S.C. 77d(6). A savings association must have an indenture that meets the requirements of paragraph (d)(2)(i) of this section in place before any debt securities for which an exemption from the indenture requirement is claimed, are transferred to any non-accredited investor. If a savings association relies on this exemption from the indenture requirement, it must place a legend on the debt securities indicating that an indenture must be in place before the debt securities are transferred to any non-accredited investor.
+(ii) A Federal savings association is not required to use an indenture if the subordinated debt securities are sold only to accredited investors, as that term is defined in 15 U.S.C. 77b(a)(15). A savings association must have an indenture that meets the requirements of paragraph (d)(2)(i) of this section in place before any debt securities for which an exemption from the indenture requirement is claimed, are transferred to any non-accredited investor. If a savings association relies on this exemption from the indenture requirement, it must place a legend on the debt securities indicating that an indenture must be in place before the debt securities are transferred to any non-accredited investor.
 
-(e) *Review by the OCC.* (1) In reviewing notices and applications under this section, the OCC will consider whether:
+(e) *Review by the OCC.* (1) In reviewing applications under this section, the OCC will consider whether:
 
 (i) The issuance of the covered securities is authorized under applicable laws and regulations and is consistent with the savings association's charter and bylaws;
 
@@ -68,17 +66,17 @@ Link to an amendment published at 85 FR 80467, Dec. 11, 2020.
 
 (vi) The OCC has no objection to the issuance based on the savings association's overall policies, condition, and operations.
 
-(2) The OCC's approval is conditioned upon no material changes to the information disclosed in the application or notice submitted to the OCC. The OCC may impose such additional requirements or conditions as it may deem necessary to protect purchasers, the savings association, the OCC, or the Deposit Insurance Fund.
+(2) The OCC's approval is conditioned upon no material changes to the information disclosed in the application submitted to the OCC. The OCC may impose such additional requirements or conditions as it may deem necessary to protect purchasers, the savings association, the OCC, or the Deposit Insurance Fund.
 
 (f) *Amendments.* If a Federal savings association amends the covered securities or related documents following the completion of the OCC's review, it must obtain the OCC's approval under this section before it may include the amended securities in tier 2 capital.
 
 (g) *Sale of covered securities.* The Federal savings association must complete the sale of covered securities within one year after the OCC's approval under this section. A savings association may request an extension of the offering period by filing a written request with the OCC. The savings association must demonstrate good cause for the extension and file the request at least 30 days before the expiration of the offering period or any extension of the offering period.
 
-(h) *Issuance of a replacement regulatory capital instrument in connection with exercising a call option.* Pursuant to 12 CFR 3.20(d)(1)(v)(C), the OCC may require a Federal savings association seeking prior approval to exercise a call option in connection with a covered security included in tier 2 capital to issue a replacement covered security of an equivalent amount that qualifies as tier 1 or tier 2 capital under 12 CFR 3.20. If the OCC imposes such a requirement, the savings association must complete the sale of such covered prior to, or immediately after, the prepayment.5
+(h) *Issuance of a replacement regulatory capital instrument in connection with prepaying a covered security.* The OCC may require a Federal savings association seeking prior approval to prepay a covered security included in tier 2 capital to issue a replacement covered security of an equivalent amount that qualifies as tier 1 or tier 2 capital under 12 CFR 3.20. If the OCC imposes such a requirement, the savings association must complete the sale of such covered security prior to, or immediately after, the prepayment.5
 
 5 A Federal savings association may replace tier 2 capital instruments concurrent with the redemption of existing tier 2 capital instruments.
 
-(i) *Reports.* A Federal savings association must file the following information with the OCC within 30 days after the savings association completes the sale of covered securities includable as tier 2 capital. If the savings association filed its application or notice following the completion of the sale, it must submit this information with its application or notice:
+(i) *Reports.* A Federal savings association must file the following information with the OCC within 30 days after the savings association completes the sale of covered securities includable as tier 2 capital. If the savings association filed its application following the completion of the sale, it must submit this information with its application:
 
 (1) A written report indicating the number of purchasers, the total dollar amount of securities sold, the net proceeds received by the savings association from the issuance, and the amount of covered securities, net of all expenses, to be included as tier 2 capital;
 
@@ -86,4 +84,4 @@ Link to an amendment published at 85 FR 80467, Dec. 11, 2020.
 
 (3) A certification by the appropriate executive officer indicating that the savings association complied with all applicable laws and regulations in connection with the offering, issuance, and sale of the securities.
 
-[80 FR 28464, May 18, 2015]
+[80 FR 28464, May 18, 2015, as amended at 85 FR 80467, Dec. 11, 2020]

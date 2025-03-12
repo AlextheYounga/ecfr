@@ -1,5 +1,7 @@
 ##### § 192.229 Limitations on welders and welding operators. #####
 
+Link to an amendment published at 86 FR 2240, Jan. 11, 2021.
+
 (a) No welder or welding operator whose qualification is based on nondestructive testing may weld compressor station pipe and components.
 
 (b) A welder or welding operator may not weld with a particular welding process unless, within the preceding 6 calendar months, the welder or welding operator was engaged in welding with that process.

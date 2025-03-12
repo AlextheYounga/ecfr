@@ -1,7 +1,5 @@
 ##### § 1221.110 Use of the NASA Insignia. #####
 
-Link to an amendment published at 85 FR 71831, Nov. 12, 2020.
-
 The NASA Insignia is authorized for use on the following:
 
 (a) *NASA articles.* (1) NASA letterhead stationary.
@@ -24,7 +22,7 @@ The NASA Insignia is authorized for use on the following:
 
 (10) NASA occupied buildings when the use of the NASA Insignia is more appropriate than use of the NASA Seal.
 
-(b) *Personal articles - NASA employees.* (1) Business calling cards of NASA employees may carry the imprint of the NASA Insignia.
+(b) *Personal articles—NASA employees.* (1) Business calling cards of NASA employees may carry the imprint of the NASA Insignia.
 
 (2) Limited usage on automobiles. If determined appropriate by the cognizant Installation official, it is acceptable to place a NASA Insignia sticker on personal automobiles where such identification will facilitate entry or control of such vehicles at NASA Installations or parking areas.
 
@@ -40,6 +38,8 @@ The NASA Insignia is authorized for use on the following:
 
 (3) No approval for use of the NASA Insignia will be authorized when its use can be construed as an endorsement by NASA of a product or service.
 
-(4) Items bearing the NASA Insignia such as souvenirs, novelties, toys, models, clothing, and similar items (including items for sale through the NASA employees' nonappropriated fund activities) may be manufactured and sold only after the NASA Insignia application has been submitted to, and approved by, the Associate Administrator for Public Affairs, or designee, NASA Headquarters, Washington, DC 20546.
+(4) Items bearing the NASA Insignia and NASA Logotype such as souvenirs, novelties, toys, models, clothing, and similar items (including items for sale through the NASA employees' nonappropriated fund activities) may be manufactured and sold only after the a request has been submitted to, and approved by, the NASA Office for Communications, NASA Headquarters, Washington, DC 20546.
 
 (d) Use of the NASA Insignia for any other purpose than as prescribed in this section is prohibited, except that the Associate Administrator for Public Affairs may authorize on a case-by-case basis the use of the NASA Insignia for other purposes when the Associate Administrator for the Public Affairs deems such use to be appropriate.
+
+[58 FR 58944, Nov. 5, 1993, as amended at 85 FR 71831, Nov. 12, 2020]

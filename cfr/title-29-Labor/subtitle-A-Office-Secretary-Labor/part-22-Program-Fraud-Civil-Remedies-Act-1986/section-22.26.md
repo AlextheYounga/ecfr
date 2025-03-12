@@ -1,5 +1,7 @@
 ##### § 22.26 Form, filing and service of papers. #####
 
+Link to an amendment published at 86 FR 1781, Jan. 11, 2021.
+
 (a) *Form.* (1) Documents filed with the ALJ shall include an original and two copies.
 
 (2) Every pleading and paper filed in the proceeding shall contain a caption setting forth the title of the action, the case number assigned by the ALJ, and a designation of the paper (e.g., motion to quash subpoena).

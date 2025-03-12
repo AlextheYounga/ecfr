@@ -1,5 +1,7 @@
 ##### § 192.505 Strength test requirements for steel pipeline to operate at a hoop stress of 30 percent or more of SMYS. #####
 
+Link to an amendment published at 86 FR 2241, Jan. 11, 2021.
+
 (a) Except for service lines, each segment of a steel pipeline that is to operate at a hoop stress of 30 percent or more of SMYS must be strength tested in accordance with this section to substantiate the proposed maximum allowable operating pressure. In addition, in a Class 1 or Class 2 location, if there is a building intended for human occupancy within 300 feet (91 meters) of a pipeline, a hydrostatic test must be conducted to a test pressure of at least 125 percent of maximum operating pressure on that segment of the pipeline within 300 feet (91 meters) of such a building, but in no event may the test section be less than 600 feet (183 meters) unless the length of the newly installed or relocated pipe is less than 600 feet (183 meters). However, if the buildings are evacuated while the hoop stress exceeds 50 percent of SMYS, air or inert gas may be used as the test medium.
 
 (b) In a Class 1 or Class 2 location, each compressor station regulator station, and measuring station, must be tested to at least Class 3 location test requirements.

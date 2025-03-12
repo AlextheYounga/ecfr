@@ -1,5 +1,7 @@
 ##### § 210.2 Definitions. #####
 
+Link to an amendment published at 86 FR 2203, Jan. 11, 2021.
+
 As used in this subpart:
 
 (a) A *Monthly Statement of Account* or *Monthly Statement* is a statement accompanying monthly royalty payments identified in 17 U.S.C. 115(c)(2)(I), and required by that section to be filed under the compulsory license to make and distribute phonorecords of nondramatic musical works, including by means of a digital phonorecord delivery.

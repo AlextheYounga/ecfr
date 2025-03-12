@@ -1,6 +1,6 @@
 ##### § 1208.13 Establishing asylum eligibility. #####
 
-Link to an amendment published at 85 FR 80396, Dec. 11, 2020.Link to an amendment published at 85 FR 82289, Dec. 17, 2020.Link to an amendment published at 85 FR 84196, Dec. 23, 2020.
+Link to an amendment published at 85 FR 82289, Dec. 17, 2020.Link to an amendment published at 85 FR 84196, Dec. 23, 2020.
 
 (a) *Burden of proof.* The burden of proof is on the applicant for asylum to establish that he or she is a refugee as defined in section 101(a)(42) of the Act. The testimony of the applicant, if credible, may be sufficient to sustain the burden of proof without corroboration. The fact that the applicant previously established a credible fear of persecution for purposes of section 235(b)(1)(B) of the Act does not relieve the alien of the additional burden of establishing eligibility for asylum.
 
@@ -38,11 +38,15 @@ Link to an amendment published at 85 FR 80396, Dec. 11, 2020.Link to an amendmen
 
 (B) The applicant establishes his or her own inclusion in, and identification with, such group of persons such that his or her fear of persecution upon return is reasonable.
 
-(3) *Reasonableness of internal relocation.* For purposes of determinations under paragraphs (b)(1)(i), (b)(1)(ii), and (b)(2) of this section, adjudicators should consider, but are not limited to considering, whether the applicant would face other serious harm in the place of suggested relocation; any ongoing civil strife within the country; administrative, economic, or judicial infrastructure; geographical limitations; and social and cultural constraints, such as age, gender, health, and social and familial ties. Those factors may, or may not, be relevant, depending on all the circumstances of the case, and are not necessarily determinative of whether it would be reasonable for the applicant to relocate.
+(3) *Reasonableness of internal relocation.* For purposes of determinations under paragraphs (b)(1)(i) and (ii) and (b)(2) of this section, adjudicators should consider the totality of the relevant circumstances regarding an applicant's prospects for relocation, including the size of the country of nationality or last habitual residence, the geographic locus of the alleged persecution, the size, numerosity, and reach of the alleged persecutor, and the applicant's demonstrated ability to relocate to the United States in order to apply for asylum.
 
 (i) In cases in which the applicant has not established past persecution, the applicant shall bear the burden of establishing that it would not be reasonable for him or her to relocate, unless the persecution is by a government or is government-sponsored.
 
-(ii) In cases in which the persecutor is a government or is government-sponsored, or the applicant has established persecution in the past, it shall be presumed that internal relocation would not be reasonable, unless the Service establishes by a preponderance of the evidence that, under all the circumstances, it would be reasonable for the applicant to relocate.
+(ii) In cases in which the persecutor is a government or is government-sponsored, it shall be presumed that internal relocation would not be reasonable, unless the Department of Homeland Security establishes by a preponderance of the evidence that, under all the circumstances, it would be reasonable for the applicant to relocate.
+
+(iii) Regardless of whether an applicant has established persecution in the past, in cases in which the persecutor is not the government or a government-sponsored actor, or otherwise is a private actor, there shall be a presumption that internal relocation would be reasonable unless the applicant establishes, by a preponderance of the evidence, that it would be unreasonable to relocate.
+
+(iv) For purposes of determinations under paragraphs (b)(3)(ii) and (iii) of this section, persecutors who are private actors - including persecutors who are gang members, officials acting outside their official capacity, family members who are not themselves government officials, or neighbors who are not themselves government officials - shall not be considered to be persecutors who are the government or government-sponsored absent evidence that the government sponsored the persecution.
 
 (c) *Mandatory denials* - (1) *Applications filed on or after April 1, 1997.* For applications filed on or after April 1, 1997, an applicant shall not qualify for asylum if section 208(a)(2) or 208(b)(2) of the Act applies to the applicant. If the applicant is found to be ineligible for asylum under either section 208(a)(2) or 208(b)(2) of the Act, the applicant shall be considered for eligibility for withholding of removal under section 241(b)(3) of the Act. The applicant shall also be considered for eligibility for withholding of removal under the Convention Against Torture if the applicant requests such consideration or if the evidence presented by the alien indicates that the alien may be tortured in the country of removal.
 
@@ -152,4 +156,68 @@ Link to an amendment published at 85 FR 80396, Dec. 11, 2020.Link to an amendmen
 
 (9) An immigration judge is authorized to look beyond the face of any order purporting to vacate a conviction, modify a sentence, or clarify a sentence to determine whether the requirements of paragraph (c)(7)(v) of this section have been met in order to determine whether such order should be given any effect under this section.
 
-[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 65 FR 76133, Dec. 6, 2000; 83 FR 55952, Nov. 9, 2018; 84 FR 33844, July 16, 2019; 85 FR 67259, Oct. 21, 2020]
+(d) *Discretion.* Factors that fall short of grounds of mandatory denial of an asylum application may constitute discretionary considerations.
+
+(1) The following are significant adverse discretionary factors that a decision-maker shall consider, if applicable, in determining whether an alien merits a grant of asylum in the exercise of discretion:
+
+(i) An alien's unlawful entry or unlawful attempted entry into the United States unless such entry or attempted entry was made in immediate flight from persecution in a contiguous country or unless such entry or attempted entry was made by an alien under the age of 18 at the time the entry or attempted entry was made;
+
+(ii) The failure of an alien to apply for protection from persecution or torture in at least one country outside the alien's country of citizenship, nationality, or last lawful habitual residence through which the alien transited before entering the United States unless:
+
+(A) The alien received a final judgment denying the alien protection in such country;
+
+(B) The alien demonstrates that he or she satisfies the definition of “victim of a severe form of trafficking in persons” provided in 8 CFR 214.11; or
+
+(C) Such country or countries were, at the time of the transit, not parties to the 1951 Convention relating to the Status of Refugees, the 1967 Protocol relating to the Status of Refugees, or the Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment; and
+
+(iii) An alien's use of fraudulent documents to enter the United States, unless the alien arrived in the United States by air, sea, or land directly from the applicant's home country without transiting through any other country.
+
+(2)(i) The Attorney General, except as provided in paragraph (d)(2)(ii) of this section, will not favorably exercise discretion under section 208 of the Act for an alien who:
+
+(A) Immediately prior to his arrival in the United States or en route to the United States from the alien's country of citizenship, nationality, or last lawful habitual residence, spent more than 14 days in any one country unless:
+
+(*1*) The alien demonstrates that he or she applied for protection from persecution or torture in such country and the alien received a final judgment denying the alien protection in such country;
+
+(*2*) The alien demonstrates that he or she satisfies the definition of “victim of a severe form of trafficking in persons” provided in 8 CFR 214.11; or
+
+(*3*) Such country was, at the time of the transit, not a party to the 1951 Convention relating to the Status of Refugees the 1967 Protocol relating to the Status of Refugees, or the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment;
+
+(B) Transits through more than one country between his country of citizenship, nationality, or last habitual residence and the United States unless:
+
+(*1*) The alien demonstrates that he or she applied for protection from persecution or torture in at least one such country and the alien received a final judgment denying the alien protection in such country;
+
+(*2*) The alien demonstrates that he or she satisfies the definition of “victim of a severe form of trafficking in persons” provided in 8 CFR 214.11; or
+
+(*3*) All such countries through which the alien transited en route to the United States were, at the time of the transit, not parties to the 1951 Convention relating to the Status of Refugees, the 1967 Protocol relating to the Status of Refugees, or the Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment;
+
+(C) Would otherwise be subject to § 1208.13(c) but for the reversal, vacatur, expungement, or modification of a conviction or sentence unless the alien was found not guilty;
+
+(D) Accrued more than one year of unlawful presence in the United States, as defined in sections 212(a)(9)(B)(ii) and (iii) of the Act, prior to filing an application for asylum;
+
+(E) At the time the asylum application is filed with the immigration court or is referred from DHS has:
+
+(*1*) Failed to timely file (or timely file a request for an extension of time to file) any required Federal, State, or local income tax returns;
+
+(*2*) Failed to satisfy any outstanding Federal, State, or local tax obligations; or
+
+(*3*) Has income that would result in tax liability under section 1 of the Internal Revenue Code of 1986 and that was not reported to the Internal Revenue Service;
+
+(F) Has had two or more prior asylum applications denied for any reason;
+
+(G) Has withdrawn a prior asylum application with prejudice or been found to have abandoned a prior asylum application;
+
+(H) Failed to attend an interview regarding his or her asylum application with DHS, unless the alien shows by a preponderance of the evidence that:
+
+(*1*) Exceptional circumstances prevented the alien from attending the interview; or
+
+(*2*) The interview notice was not mailed to the last address provided by the alien or the alien's representative and neither the alien nor the alien's representative received notice of the interview; or
+
+(I) Was subject to a final order of removal, deportation, or exclusion and did not file a motion to reopen to seek asylum based on changed country conditions within one year of the changes in country conditions.
+
+(ii) Where one or more of the adverse discretionary factors set forth in paragraph (d)(2)(i) of this section are present, the Attorney General, in extraordinary circumstances, such as those involving national security or foreign policy considerations, or cases in which an alien, by clear and convincing evidence, demonstrates that the denial of the application for asylum would result in exceptional and extremely unusual hardship to the alien, may favorably exercise discretion under section 208 of the Act, notwithstanding the applicability of paragraph (d)(2)(i). Depending on the gravity of the circumstances underlying the application of paragraph (d)(2)(i), a showing of extraordinary circumstances might still be insufficient to warrant a favorable exercise of discretion under section 208 of the Act.
+
+(e) *Prima facie eligibility.* (1) Notwithstanding any other provision of this part, upon oral or written motion by the Department of Homeland Security, an immigration judge shall, if warranted by the record, pretermit and deny any application for asylum, withholding of removal under section 241(b)(3) of the Act, or protection under the regulations issued pursuant to the Convention Against Torture's implementing legislation if the alien has not established a prima facie claim for relief or protection under applicable law. An immigration judge need not conduct a hearing prior to pretermitting and denying an application under this paragraph (e)(1) but must consider any response to the motion before making a decision.
+
+(2) Notwithstanding any other provision of this part, upon his or her own authority, an immigration judge shall, if warranted by the record, pretermit and deny any application for asylum, withholding of removal under section 241(b)(3) of the Act, or protection under the regulations issued pursuant to the Convention Against Torture's implementing legislation if the alien has not established a prima facie claim for relief or protection under applicable law, provided that the immigration judge shall give the parties at least 10 days' notice prior to entering such an order. An immigration judge need not conduct a hearing prior to pretermitting and denying an application under this paragraph (e)(2) but must consider any filings by the parties within the 10-day period before making a decision.
+
+[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 65 FR 76133, Dec. 6, 2000; 83 FR 55952, Nov. 9, 2018; 84 FR 33844, July 16, 2019; 85 FR 67259, Oct. 21, 2020; 85 FR 80396, Dec. 11, 2020]

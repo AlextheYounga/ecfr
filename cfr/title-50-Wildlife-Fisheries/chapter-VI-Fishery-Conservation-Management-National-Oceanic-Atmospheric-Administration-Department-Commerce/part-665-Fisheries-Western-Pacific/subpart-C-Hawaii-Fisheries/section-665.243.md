@@ -1,12 +1,10 @@
 ##### § 665.243 Prohibitions. #####
 
-Link to an amendment published at 85 FR 79929, Dec. 11, 2020.
-
 In addition to the general prohibitions specified in 50 CFR §§ 600.725 and 665.15, it is unlawful for any person to do any of the following:
 
-(a) In Permit Area 1, it is unlawful for any person to -
+(a) In Permit Area 1, it is unlawful for any person to—
 
-(1) Fish for, take, or retain lobsters -
+(1) Fish for, take, or retain lobsters—
 
 (i) Without a limited access permit issued under § 665.242.
 
@@ -44,9 +42,9 @@ In addition to the general prohibitions specified in 50 CFR §§ 600.725 and 665
 
 (13) Possess, on a fishing vessel that has a limited access permit issued under this subpart, any lobster trap in a lobster grounds that is closed under § 665.252(b), unless the vessel has an operational VMS unit, certified by NMFS, on board.
 
-(b) In Permit Area 2, it is unlawful for any person to -
+(b) In Permit Area 2, it is unlawful for any person to—
 
-(1) Fish for, take, or retain lobsters -
+(1) Fish for, take, or retain lobsters—
 
 (i) By methods other than lobster traps or by hand, as specified in § 665.245; or
 
@@ -61,3 +59,7 @@ In addition to the general prohibitions specified in 50 CFR §§ 600.725 and 665
 (5) Possess on a fishing vessel that has a permit for Permit Area 2 issued under this subpart any lobster trap in Permit Area 2 when fishing for lobster in the MHI is prohibited during the months of May, June, July, and August.
 
 (c) In Crustacean Permit Areas 1 and 2, it is unlawful for any person to fish for, take, or retain deepwater shrimp without a permit issued under § 665.242.
+
+(d) In Crustacean Permit Area 2, it is unlawful for any person to fish for, possess, sell, or offer for sale any Kona crab from a closed fishery in the Federal waters of the MHI in violation of § 665.253(b).
+
+[75 FR 2205, Jan. 14, 2010, as amended at 85 FR 79929, Dec. 11, 2020]

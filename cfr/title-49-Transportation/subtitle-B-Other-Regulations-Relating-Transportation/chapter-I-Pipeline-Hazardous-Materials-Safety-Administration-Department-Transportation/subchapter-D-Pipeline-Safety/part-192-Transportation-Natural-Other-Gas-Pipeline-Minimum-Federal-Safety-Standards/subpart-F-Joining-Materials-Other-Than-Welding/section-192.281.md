@@ -1,5 +1,7 @@
 ##### § 192.281 Plastic pipe. #####
 
+Link to an amendment published at 86 FR 2240, Jan. 11, 2021.
+
 (a) *General.* A plastic pipe joint that is joined by solvent cement, adhesive, or heat fusion may not be disturbed until it has properly set. Plastic pipe may not be joined by a threaded joint or miter joint.
 
 (b) *Solvent cement joints.* Each solvent cement joint on plastic pipe must comply with the following:

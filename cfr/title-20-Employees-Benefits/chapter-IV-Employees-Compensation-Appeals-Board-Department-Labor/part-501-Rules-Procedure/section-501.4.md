@@ -1,5 +1,7 @@
 ##### § 501.4 Case record; inspection; submission of pleadings and motions. #####
 
+Link to an amendment published at 86 FR 1771, Jan. 11, 2021.
+
 (a) *Service on OWCP and transmission of OWCP case record.* The Board shall serve upon the Director a copy of each notice of appeal and accompanying documents. Within 60 days from the date of such service, the Director shall provide to the Board the record of the OWCP proceeding to which the notice refers. On application of the Director, the Board may, in its discretion, extend the time period for submittal of the OWCP case record.
 
 (b) *Inspection of record.* The case record on appeal is an official record of the OWCP.

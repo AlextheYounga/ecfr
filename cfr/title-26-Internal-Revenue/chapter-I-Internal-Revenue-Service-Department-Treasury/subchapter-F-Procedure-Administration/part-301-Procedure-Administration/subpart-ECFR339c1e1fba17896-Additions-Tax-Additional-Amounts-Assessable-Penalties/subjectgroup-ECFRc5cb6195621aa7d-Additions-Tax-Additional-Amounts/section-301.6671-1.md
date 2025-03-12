@@ -1,0 +1,5 @@
+##### § 301.6671-1 Rules for application of assessable penalties. #####
+
+(a) *Penalty assessed as tax.* The penalties and liabilities provided by subchapter B, chapter 68, of the Code (sections 6671 to 6675, inclusive) shall be paid upon notice and demand by the district director or the director of the regional service center and shall be assessed and collected in the same manner as taxes. Except as otherwise provided, any reference in the Code to “tax” imposed thereunder shall also be deemed to refer to the penalties and liabilities provided by subchapter B of chapter 68.
+
+(b) *Person defined.* For purposes of subchapter B of chapter 68, the term “person” includes an officer or employee of a corporation, or a member or employee of a partnership, who as such officer, employee, or member is under a duty to perform the act in respect of which the violation occurs.

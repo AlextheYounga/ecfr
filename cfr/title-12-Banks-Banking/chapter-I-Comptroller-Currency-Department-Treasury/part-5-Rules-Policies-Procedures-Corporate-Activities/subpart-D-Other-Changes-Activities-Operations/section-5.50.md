@@ -1,12 +1,10 @@
 ##### § 5.50 Change in control of a national bank or Federal savings association; reporting of stock loans. #####
 
-Link to an amendment published at 85 FR 80465, Dec. 11, 2020.
-
 (a) *Authority.* 12 U.S.C. 93a, 1817(j), and 1831aa.
 
-(b) *Licensing requirements.* Any person seeking to acquire control of a national bank or Federal savings association shall provide 60 days prior written notice of a change in control to the OCC, except where otherwise provided in this section.
+(b) *Licensing requirements.* Any person seeking to acquire control of a national bank or Federal savings association must provide 60 days prior written notice of a change in control to the OCC, except where otherwise provided in this section.
 
-(c) *Scope* - (1) *In general.* This section describes the procedures and standards governing OCC review of notices for a change in control of a national bank or Federal savings association and reports of stock loans.
+(c) *Scope*—(1) *In general.* This section describes the procedures and standards governing OCC review of notices for a change in control of a national bank or Federal savings association and reports of stock loans.
 
 (2) *Exempt transactions.* The following transactions are not subject to the requirements of this section:
 
@@ -18,7 +16,7 @@ Link to an amendment published at 85 FR 80465, Dec. 11, 2020.
 
 (ii) Unless the OCC otherwise provides in writing, the acquisition of additional shares of a national bank or Federal savings association by a person who has lawfully acquired and maintained continuous control of the bank or Federal savings association under paragraph (f) of this section after complying with the procedures and filing the notice required by this section;
 
-(iii) A transaction subject to approval under section 3 of the Bank Holding Company Act, 12 U.S.C. 1842, section 18(c) of Federal Deposit Insurance Act, 12 U.S.C. 1828(c), or section 10 of the Home Owners' Loan Act (HOLA), 12 U.S.C. 1467a;
+(iii) A transaction subject to approval under section 3 of the Bank Holding Company Act, 12 U.S.C. 1842, section 18(c) of Federal Deposit Insurance Act, 12 U.S.C. 1828(c), or section 10 of the Home Owners' Loan Act, 12 U.S.C. 1467a;
 
 (iv) Any transaction described in section 2(a)(5) or 3(a) (A) or (B) of the Bank Holding Company Act, 12 U.S.C. 1841(a)(5) and 1842(a) (A) and (B), by a person described in those provisions;
 
@@ -40,7 +38,7 @@ Link to an amendment published at 85 FR 80465, Dec. 11, 2020.
 
 (A) “Good faith” means that a person must either make, renew, or acquire a loan secured by voting securities of a national bank or Federal savings association in advance of any knowledge of a default or of the substantial likelihood that a default is forthcoming. A person who purchases a previously defaulted loan, or a loan for which there is a substantial likelihood of default, secured by voting securities of a national bank or Federal savings association may not rely on this paragraph (c)(3)(v) to foreclose on that loan, seize or purchase the underlying collateral, and acquire control of the national bank or Federal savings association without complying with the prior notice requirements of this section.
 
-(B) To ensure compliance with this section, the acquiror of a defaulted loan secured by a controlling amount of a national bank's or a Federal savings association's voting securities shall file a notice prior to the time the loan is acquired unless the acquiror can demonstrate to the satisfaction of the OCC that the voting securities are not the anticipated source of repayment for the loan.
+(B) To ensure compliance with this section, the acquiror of a defaulted loan secured by a controlling amount of a national bank's or a Federal savings association's voting securities must file a notice prior to the time the loan is acquired unless the acquiror can demonstrate to the satisfaction of the OCC that the voting securities are not the anticipated source of repayment for the loan.
 
 (d) *Definitions.* As used in this section:
 
@@ -48,7 +46,7 @@ Link to an amendment published at 85 FR 80465, Dec. 11, 2020.
 
 (i) An increase in percentage ownership resulting from a redemption, repurchase, reverse stock split or a similar transaction involving other securities of the same class, and
 
-(ii) The acquisition of stock by a group of persons and/or companies acting in concert, which shall be deemed to occur upon formation of such group.
+(ii) The acquisition of stock by a group of persons and/or companies acting in concert, which is deemed to occur upon formation of such group.
 
 (2) *Acting in concert* means:
 
@@ -60,13 +58,13 @@ Link to an amendment published at 85 FR 80465, Dec. 11, 2020.
 
 (4) *Control* means the power, directly or indirectly, to direct the management or policies of a national bank or Federal savings association or to vote 25 percent or more of any class of voting securities of a national bank or Federal savings association.
 
-(5) *Controlling shareholder* means any person who directly or indirectly or acting in concert with one or more persons or companies, or together with members of his or her immediate family, owns, controls, or holds with power to vote 10 percent or more of the voting stock of a company or controls in any manner the election or appointment of a majority of the company's board of directors.
+(5) *Controlling shareholder* means any person who directly or indirectly or acting in concert with one or more persons or companies, or together with members of their immediate family, owns, controls, or holds with power to vote 10 percent or more of the voting stock of a company or controls in any manner the election or appointment of a majority of the company's board of directors.
 
-(6) *Federal savings association* means a Federal savings association or a Federal savings bank chartered under section 5 of the HOLA.
+(6) Depository institution means a depository institution as defined in section 3(c)(1) of the Federal Deposit Insurance Act, 12 U.S.C. 1813(c)(1).
 
-(7) *Immediate family* includes a person's spouse, father, mother, stepfather, stepmother, brother, sister, stepbrother, stepsister, children, stepchildren, grandparent, grandchildren, father-in-law, mother-in-law, brother-in-law, sister-in-law, son-in-law, daughter-in-law, and the spouse of any of the forgoing.
+(7) *Federal savings association* means a Federal savings association or a Federal savings bank chartered under section 5 of the Home Owners' Loan Act, 12 U.S.C. 1464.
 
-(8) Insured *depository institution* means an insured depository institution as defined in 12 U.S.C. 1813(c)(2).
+(8) *Immediate family* includes a person's spouse, father, mother, stepfather, stepmother, brother, sister, stepbrother, stepsister, children, stepchildren, grandparent, grandchildren, father-in-law, mother-in-law, brother-in-law, sister-in-law, son-in-law, daughter-in-law, and the spouse of any of the forgoing.
 
 (9) *Management official* means any president, chief executive officer, chief operating officer, vice president, director, partner, or trustee, or any other person who performs or has a representative or nominee performing similar policymaking functions, including executive officers of principal business units or divisions or subsidiaries who perform policymaking functions, for a national bank, savings association, or a company, whether or not incorporated.
 
@@ -94,7 +92,7 @@ Link to an amendment published at 85 FR 80465, Dec. 11, 2020.
 
 (ii) Securities, other instruments, or similar interests that are immediately convertible, at the option of the owner or holder thereof, into voting securities.
 
-(e) *Policy* - (1) *In general.* The OCC seeks to enhance and maintain public confidence in the banking system by preventing a change in control of a national bank or Federal savings association that could have serious adverse effects on a national bank's or Federal savings association's financial stability or management resources, the interests of the bank's or Federal savings association's customers, the Deposit Insurance Fund, or competition.
+(e) *Policy*—(1) *In general.* The OCC seeks to enhance and maintain public confidence in the banking system by preventing a change in control of a national bank or Federal savings association that could have serious adverse effects on a national bank's or Federal savings association's financial stability or management resources, the interests of the bank's or Federal savings association's customers, the Deposit Insurance Fund, or competition.
 
 (2) *Acquisitions subject to the Bank Holding Company Act.* (i) If corporations, partnerships, certain trusts, associations, and similar organizations, that are not already bank holding companies, are not required to secure prior Federal Reserve Board approval to acquire control of a bank under section 3 of the Bank Holding Company Act, 12 U.S.C. 1842, other than indirectly through the acquisition of shares of a bank holding company, they are subject to the notice requirements of this section.
 
@@ -102,11 +100,11 @@ Link to an amendment published at 85 FR 80465, Dec. 11, 2020.
 
 (3) *Assessing financial condition.* In assessing the financial condition of the acquiring person, the OCC weighs any debt servicing requirements in light of the acquiring person's overall financial strength; the institution's earnings performance, asset condition, capital adequacy, and future prospects; and the likelihood of the acquiring party making unreasonable demands on the resources of the institution.
 
-(f) *Procedures* - (1) *Exceptions to rules of general applicability.* Sections 5.8(a), 5.9, 5.10, 5.11, and 5.13(a) through (f) do not apply to filings under this section. When complying with § 5.8(b) no address is required for a notice filed by one or more individuals under this section.
+(f) *Procedures*—(1) *Exceptions to rules of general applicability.* Sections 5.8(a), 5.9, 5.10, 5.11, and 5.13(a) through (f) do not apply to filings under this section. When complying with § 5.8(b) no address is required for a notice filed by one or more individuals under this section.
 
-(2) *Who must file.* (i) Any person seeking to acquire the power, directly or indirectly, to direct the management or policies, or to vote 25 percent or more of a class of voting securities of a national bank or Federal savings association, shall file a notice with the OCC 60 days prior to the proposed acquisition, unless the acquisition is exempt under paragraph (c)(2) of this section.
+(2) *Who must file.* (i) Any person seeking to acquire the power, directly or indirectly, to direct the management or policies, or to vote 25 percent or more of a class of voting securities of a national bank or Federal savings association, must file a notice with the OCC 60 days prior to the proposed acquisition, unless the acquisition is exempt under paragraph (c)(2) of this section.
 
-(ii) The following persons shall be presumed to be acting in concert for purposes of this section:
+(ii) The following persons are presumed to be acting in concert for purposes of this section:
 
 (A) A company and any controlling shareholder, partner, trustee or management official of such company if both the company and the person own stock in the national bank or Federal savings association;
 
@@ -114,15 +112,15 @@ Link to an amendment published at 85 FR 80465, Dec. 11, 2020.
 
 (C) Companies under common control;
 
-(D) Persons that have made, or propose to make, a joint filing under section 13 or 14 of the Securities Exchange Act of 1934, and the rules thereunder promulgated by the Securities and Exchange Commission;
+(D) Persons that have made, or propose to make, a joint filing under section 13 or 14 of the Securities Exchange Act of 1934, 15 U.S.C. 78m or 78n, and the rules thereunder promulgated by the Securities and Exchange Commission;
 
-(E) A person or company will be presumed to be acting in concert with any trust for which such person or company serves as trustee, except that a tax-qualified employee stock benefit plan as defined in § 192.25 of this chapter shall not be presumed to be acting in concert with its trustee or person acting in a similar fiduciary capacity solely for the purposes of determining whether to combine the holdings of a plan and its trustee or fiduciary; and
+(E) A person or company will be presumed to be acting in concert with any trust for which such person or company serves as trustee, except that a tax-qualified employee stock benefit plan as defined in 12 CFR 192.25 is not be presumed to be acting in concert with its trustee or person acting in a similar fiduciary capacity solely for the purposes of determining whether to combine the holdings of a plan and its trustee or fiduciary; and
 
 (F) Persons that are parties to any agreement, contract, understanding, relationship, or other arrangement, whether written or otherwise, regarding the acquisition, voting or transfer of control of voting securities of a national bank or Federal savings association, other than through a revocable proxy in connection with a proxy solicitation for the purposes of conducting business at a regular or special meeting of the institution, if the proxy terminates within a reasonable period after the meeting.
 
 (iii) The OCC presumes, unless rebutted, that an acquisition or other disposition of voting securities through which any person proposes to acquire ownership of, or the power to vote, 10 percent or more of a class of voting securities of a national bank or Federal savings association is an acquisition by a person of the power to direct the bank's or savings association's management or policies if:
 
-(A) The securities to be acquired or voted are subject to the registration requirements of section 12 of the Securities Exchange Act of 1934, 15 U.S.C. 78l; or
+(A) The securities to be acquired or voted are subject to the registration requirements of section 12 of the Securities Exchange Act of 1934, 15 U.S.C. 78*l*; or
 
 (B) Immediately after the transaction no other person will own or have the power to vote a greater proportion of that class of voting securities.
 
@@ -132,25 +130,25 @@ Link to an amendment published at 85 FR 80465, Dec. 11, 2020.
 
 (vi) Other transactions resulting in a person's control of less than 25 percent of a class of voting securities of a national bank or Federal savings association are not deemed by the OCC to result in control for purposes of this section.
 
-(vii) If two or more persons, not acting in concert, each propose to acquire simultaneously equal percentages of 10 percent or more of a class of a national bank's or Federal savings association's voting securities, and either the acquisitions are of a class of securities subject to the registration requirements of section 12 of the Securities Exchange Act of 1934, 15 U.S.C. 78l, or immediately after the transaction no other shareholder of the national bank or Federal savings association would own or have the power to vote a greater percentage of the class, each of the acquiring persons shall either file a notice or rebut the presumption of control.
+(vii) If two or more persons, not acting in concert, each propose to acquire simultaneously equal percentages of 10 percent or more of a class of a national bank's or Federal savings association's voting securities, and either the acquisitions are of a class of securities subject to the registration requirements of section 12 of the Securities Exchange Act of 1934, 15 U.S.C. 78l, or immediately after the transaction no other shareholder of the national bank or Federal savings association would own or have the power to vote a greater percentage of the class, each of the acquiring persons must either file a notice or rebut the presumption of control.
 
-(viii) An acquiring person may seek to rebut a presumption established in paragraph (f)(2)(ii) or (iii) of this section by presenting relevant information in writing to the appropriate OCC licensing office. The OCC shall respond in writing to any person that seeks to rebut the presumption of control or the presumption of concerted action. No rebuttal filing is effective unless the OCC indicates in writing that the information submitted has been found to be sufficient to rebut the presumption of control.
+(viii) An acquiring person may seek to rebut a presumption established in paragraph (f)(2)(ii) or (iii) of this section by presenting relevant information in writing to the appropriate OCC licensing office. The OCC will respond in writing to any person that seeks to rebut the presumption of control or the presumption of concerted action. No rebuttal filing is effective unless the OCC indicates in writing that the information submitted has been found to be sufficient to rebut the presumption of control.
 
 (3) *Filings.* (i) The OCC does not accept a notice of a change in control unless it is technically complete, *i.e.,* the information provided is responsive to every item listed in the notice form and is accompanied by the appropriate fee.
 
-(A) The notice must contain the information required under 12 U.S.C. 1817(j)(6)(A), and the information prescribed in the Interagency Biographical and Financial Report. This form is available on the OCC's Internet Web page, *www.occ.gov*. The OCC may waive any of the informational requirements of the notice if the OCC determines that it is in the public interest.
+(A) The notice must contain the information required under 12 U.S.C. 1817(j)(6)(A), and the information prescribed in the Interagency Biographical and Financial Report. This form is available at *www.occ.gov*. The OCC may waive any of the informational requirements of the notice if the OCC determines that it is in the public interest.
 
 (B) When the acquiring person is an individual, or group of individuals acting in concert, the requirement to provide personal financial data may be satisfied with a current statement of assets and liabilities and an income summary, together with a statement of any material changes since the date of the statement or summary. However, the OCC may require additional information, if appropriate.
 
 (ii) The OCC has 60 days from the date it declares the notice to be technically complete to review the notice.
 
-(A) When the OCC declares a notice technically complete, the appropriate OCC licensing office sends a letter of acknowledgment to the applicant indicating the technically complete date.
+(A) When the OCC declares a notice technically complete, the appropriate OCC licensing office sends a letter of acknowledgment to the filer indicating the technically complete date.
 
-(B) As set forth in paragraph (g) of this section, the applicant shall publish an announcement within 10 days of filing the notice with the OCC. The publication of the announcement triggers a 20-day public comment period. The OCC may waive or shorten the public comment period if an emergency exists. The OCC also may shorten the comment period for other good cause. The OCC may act on a proposed change in control prior to the expiration of the public comment period if the OCC makes a written determination that an emergency exists.
+(B) As set forth in paragraph (g) of this section, the filer must publish an announcement within 10 days of filing the notice with the OCC. The publication of the announcement triggers a 20-day public comment period. The OCC may waive or shorten the public comment period if an emergency exists. The OCC also may shorten the comment period for other good cause. The OCC may act on a proposed change in control prior to the expiration of the public comment period if the OCC makes a written determination that an emergency exists.
 
-(C) An applicant shall notify the OCC immediately of any material changes in a notice submitted to the OCC, including changes in financial or other conditions that may affect the OCC's decision on the filing.
+(C) A filer must notify the OCC immediately of any material changes in a notice submitted to the OCC, including changes in financial or other conditions that may affect the OCC's decision on the filing.
 
-(iii) Within the 60-day period, the OCC may inform the applicant that the acquisition has been disapproved, has not been disapproved, or that the OCC will extend the 60-day review period for up to an additional 30 days. The period or the OCC's review of a notice may be further extended not to exceed two additional times for not more than 45 days each time if:
+(iii) Within the 60-day period, the OCC may inform the filer that the acquisition has been disapproved, has not been disapproved, or that the OCC will extend the 60-day review period for up to an additional 30 days. The period or the OCC's review of a notice may be further extended not to exceed two additional times for not more than 45 days each time if:
 
 (A) The OCC determines that any acquiring party has not furnished all the information required under this part;
 
@@ -160,11 +158,9 @@ Link to an amendment published at 85 FR 80465, Dec. 11, 2020.
 
 (D) The OCC determines that additional time is needed to investigate and determine that no acquiring party has a record of failing to comply with the requirements of subchapter II of chapter 53 of title 31 of the United States Code.
 
-(iv) The applicant may request a hearing by the OCC within 10 days of receipt of a disapproval (*see* 12 CFR part 19, subpart H, for hearing initiation procedures). Following final agency action under 12 CFR part 19, further review by the courts is available. (*See* 12 U.S.C. 1817(j)(5).)
-
 (4) *Conditional actions.* The OCC may impose conditions on its action not to disapprove a notice to assure satisfaction of the relevant statutory criteria for non-objection to a notice.
 
-(5) *Disapproval of notice.* The OCC may disapprove a notice if it finds that any of the following factors exist:
+(5) *Disapproval.* The OCC may disapprove a notice if it finds that any of the following factors exist:
 
 (i) The proposed acquisition of control would result in a monopoly or would be in furtherance of any combination or conspiracy to monopolize or to attempt to monopolize the business of banking in any part of the United States;
 
@@ -178,25 +174,29 @@ Link to an amendment published at 85 FR 80465, Dec. 11, 2020.
 
 (vi) The OCC determines that the proposed transaction would result in an adverse effect on the Deposit Insurance Fund.
 
-(6) *Disapproval notification.* If the OCC disapproves a notice, it will notify the proposed acquiring person in writing within three days after the decision containing a statement of the basis for disapproval.
+(6) *Notification of disapproval*—(i) *Written notice by OCC.* If the OCC disapproves a notice, it will notify the filer in writing within three days after the decision. The OCC's written disapproval will contain a statement of the basis for disapproval and indicate that the filer may request a hearing.
 
-(g) *Disclosure* - (1) *Announcement.* The applicant shall publish an announcement in a newspaper of general circulation in the community where the affected national bank or Federal savings association is located within 10 days of filing. The OCC may authorize a delayed announcement if an immediate announcement would not be in the public interest.
+(ii) *Hearing Request.* The filer may request a hearing by the OCC within 10 days of receipt of disapproval, pursuant to the procedures in 12 CFR part 19, subpart H. Following final agency action under 12 CFR part 19, further review by the courts is available. (*See* 12 U.S.C. 1817(j)(5)).
+
+(iii) *Failure to request a hearing.* If a filer fails to request a hearing with a timely request, the notice of disapproval constitutes a final and unappealable order.
+
+(g) *Disclosure*—(1) *Announcement.* The filer must publish an announcement in a newspaper of general circulation in the community where the affected national bank or Federal savings association is located within 10 days of filing. The OCC may authorize a delayed announcement if an immediate announcement would not be in the public interest.
 
 (i) In addition to the information required by § 5.8(b), the announcement must include the name of the national bank or Federal savings association named in the notice and the comment period (*i.e.,* 20 days from the date of the announcement). The announcement also must state that the public portion of the notice is available upon request.
 
 (ii) Notwithstanding any other provisions of this paragraph (g), if the OCC determines in writing that an emergency exists and that the announcement requirements of this paragraph (g) would seriously threaten the safety and soundness of the national bank or Federal savings association to be acquired, including situations where the OCC must act immediately in order to prevent the probable failure of a national bank or Federal savings association, the OCC may waive or shorten the publication requirement.
 
-(2) *Release of information.* (i) Upon the request of any person, the OCC releases the information provided in the public portion of the notice and makes it available for public inspection and copying as soon as possible after a notice has been filed. In certain circumstances the OCC may determine that the release of the information would not be in the public interest. In addition, the OCC makes a public announcement of a technically complete notice, the disposition of the notice, and the consummation date of the transaction, if applicable, in the OCC's “Weekly Bulletin.”
+(2) *Release of information.* (i) Upon the request of any person, the OCC releases the information provided in the public portion of the notice and makes it available for public inspection and copying as soon as possible after a notice has been filed. In certain circumstances the OCC may determine that the release of the information would not be in the public interest. In addition, the OCC makes the date that the notice is filed, the disposition of the notice and the date thereof, and the consummation date of the transaction, if applicable, publicly available in the OCC's “Weekly Bulletin.”
 
 (ii) The OCC handles requests for the non-public portion of the notice as requests under the Freedom of Information Act, 5 U.S.C. 552, and other applicable law.
 
-(h) *Reporting requirement.* After the consummation of the change in control, the national bank or Federal savings association shall notify the OCC in writing of any changes or replacements of its chief executive officer or of any director occurring during the 12-month period beginning on the date of consummation. This notice must be filed within 10 days of such change or replacement and must include a statement of the past and current business and professional affiliations of the new chief executive officers or directors.
+(h) *Reporting requirement.* After the consummation of the change in control, the national bank or Federal savings association must notify the OCC in writing of any changes or replacements of its chief executive officer or of any director occurring during the 12-month period beginning on the date of consummation. This notice must be filed within 10 days of such change or replacement and must include a statement of the past and current business and professional affiliations of the new chief executive officers or directors.
 
-(i) *Reporting of stock loans* - (1) *Requirements.* (i) Any foreign bank, or any affiliate thereof, shall file a consolidated report with the appropriate OCC supervisory office of the national bank or Federal savings association if the foreign bank or any affiliate thereof, has credit outstanding to any person or group of persons that, in the aggregate, is secured, directly or indirectly, by 25 percent or more of any class of voting securities of the same national bank or Federal savings association.
+(i) *Reporting of stock loans*—(1) *Requirements.* (i) Any foreign bank, or any affiliate thereof, must file a consolidated report with the appropriate OCC supervisory office of the national bank or Federal savings association if the foreign bank or any affiliate thereof, has credit outstanding to any person or group of persons that, in the aggregate, is secured, directly or indirectly, by 25 percent or more of any class of voting securities of the same national bank or Federal savings association.
 
-(ii) The foreign bank, or any affiliate thereof, shall also file a copy of the report with its appropriate OCC supervisory office if that office is different from the national bank's or Federal savings association's appropriate OCC supervisory office. If the foreign bank, or any affiliate thereof, is not supervised by the OCC, it shall file a copy of the report filed with the OCC with its appropriate Federal banking agency.
+(ii) The foreign bank, or any affiliate thereof, must also file a copy of the report with its appropriate OCC supervisory office if that office is different from the national bank's or Federal savings association's appropriate OCC supervisory office. If the foreign bank, or any affiliate thereof, is not supervised by the OCC, it must file a copy of the report filed with the OCC with its appropriate Federal banking agency.
 
-(iii) Any shares of the national bank or Federal savings association held by the foreign bank, or any affiliate thereof, as principal must be included in the calculation of the number of shares in which the foreign bank or any affiliate thereof has a security interest for purposes of paragraph (h)(1)(i) of this section.
+(iii) Any shares of the national bank or Federal savings association held by the foreign bank, or any affiliate thereof, as principal must be included in the calculation of the number of shares in which the foreign bank or any affiliate thereof has a security interest for purposes of paragraph (i)(1)(i) of this section.
 
 (2) *Definitions.* For purposes of this paragraph (i):
 
@@ -212,14 +212,14 @@ Link to an amendment published at 85 FR 80465, Dec. 11, 2020.
 
 (3) *Exceptions.* Compliance with paragraph (i)(1) of this section is not required if:
 
-(i) The person or group of persons referred to in paragraph (h)(1) of this section has disclosed the amount borrowed and the security interest therein to the appropriate OCC licensing office in connection with a notice filed under this section or any other application filed with the appropriate OCC licensing office as a substitute for a notice under this section, such as for a national bank or Federal savings association charter; or
+(i) The person or group of persons referred to in paragraph (i)(1) of this section has disclosed the amount borrowed and the security interest therein to the appropriate OCC licensing office in connection with a notice filed under this section or any other application filed with the appropriate OCC licensing office as a substitute for a notice under this section, such as for a national bank or Federal savings association charter; or
 
 (ii) The transaction involves a person or group of persons that has been the owner or owners of record of the stock for a period of one year or more or, if the transaction involves stock issued by a newly chartered bank or Federal savings association, before the bank's or Federal savings association's opening.
 
 (4) *Report requirements.* (i) The consolidated report must indicate the number and percentage of shares securing each applicable extension of credit, the identity of the borrower, and the number of shares held as principal by the foreign bank and any affiliate thereof.
 
-(ii) The foreign bank and all affiliates thereof shall file the consolidated report in writing within 30 days of the date on which the foreign bank or affiliate thereof first believes that the security for any outstanding credit consists of 25 percent or more of any class of voting securities of a national bank or Federal savings association.
+(ii) The foreign bank and all affiliates thereof must file the consolidated report in writing within 30 days of the date on which the foreign bank or affiliate thereof first believes that the security for any outstanding credit consists of 25 percent or more of any class of voting securities of a national bank or Federal savings association.
 
-(5) *Other reporting requirements.* A foreign bank or any affiliate thereof, supervised by the OCC and required to report credit outstanding secured by the shares of a depository institution to another Federal banking agency also shall file a copy of the report with its appropriate OCC supervisory office.
+(5) *Other reporting requirements.* A foreign bank or any affiliate thereof, supervised by the OCC and required to report credit outstanding secured by the shares of a depository institution to another Federal banking agency also must file a copy of the report with its appropriate OCC supervisory office.
 
-[80 FR 28456, May 18, 2015, as amended at 82 FR 8104, Jan. 23, 2017]
+[80 FR 28456, May 18, 2015, as amended at 82 FR 8104, Jan. 23, 2017; 85 FR 80465, Dec. 11, 2020]

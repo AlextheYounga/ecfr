@@ -1,5 +1,7 @@
 ##### § 648.206 Framework provisions. #####
 
+Link to an amendment published at 86 FR 1825, Jan. 11, 2021.
+
 (a) *Framework adjustment process.* In response to the triennial review, or at any other time, the Council may initiate action to add or adjust management measures if it finds that action is necessary to meet or be consistent with the goals and objectives of the Atlantic Herring FMP, or to address gear conflicts as defined under § 600.10 of this chapter.
 
 (1) *Adjustment process.* After a management action has been initiated, the Council shall develop and analyze appropriate management measures over the span of at least two Council meetings. The Council may delegate authority to the Herring Oversight Committee to conduct an initial review of the options being considered. The Oversight Committee shall review the options and relevant information, consider public comment, and make a recommendation to the Council.

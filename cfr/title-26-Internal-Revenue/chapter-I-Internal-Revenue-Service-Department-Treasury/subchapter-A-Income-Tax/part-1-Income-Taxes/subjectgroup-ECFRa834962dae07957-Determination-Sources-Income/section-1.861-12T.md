@@ -1,18 +1,16 @@
 ##### § 1.861-12T Characterization rules and adjustments for certain assets (temporary). #####
 
-Link to an amendment published at 85 FR 72041, Nov. 12, 2020.
-
 (a) *In general.* For further guidance, see § 1.861-12(a).
 
 (b) *Inventories.* Inventory must be characterized by reference to the source and character of sales income, or sales receipts in the case of LIFO inventory, from that inventory during the taxable year. If a taxpayer maintains separate inventories for any federal tax purpose, including the rules for establishing pools of inventory items under sections 472 and 474 of the Code, each separate inventory shall be separately characterized in accordance with the previous sentence.
 
-(c) *Treatment of stock* - (1) *In general.* Subject to the adjustment and special rules of paragraphs (c) and (e) of this section, stock in a corporation is taken into account in the application of the asset method described in § 1.861-9T(g). However, an affiliated group (as defined in § 1.861-11T(d)) does not take into account the stock of any member in the application of the asset method.
+(c) *Treatment of stock*—(1) *In general.* Subject to the adjustment and special rules of paragraphs (c) and (e) of this section, stock in a corporation is taken into account in the application of the asset method described in § 1.861-9T(g). However, an affiliated group (as defined in § 1.861-11T(d)) does not take into account the stock of any member in the application of the asset method.
 
-(2) *Basis adjustment for stock in nonaffiliated 10 percent owned corporations* -
+(2) *Basis adjustment for stock in nonaffiliated 10 percent owned corporations*—
 
 (i)(A)-(C) [Reserved]. For further guidance, see § 1.861-12(c)(2)(i)(A) through (c)(2)(i)(C).
 
-(ii) *10 percent owned corporation defined* - (A) *In general.* The term “10 percent owned corporation” means any corporation (domestic or foreign) -
+(ii) *10 percent owned corporation defined*—(A) *In general.* The term “10 percent owned corporation” means any corporation (domestic or foreign)—
 
 (*1*) Which is not included within the taxpayer's affiliated group as defined in § 1.861-11T(d) (1) or (6).
 
@@ -28,7 +26,7 @@ Link to an amendment published at 85 FR 72041, Nov. 12, 2020.
 
 (v) *Taxpayers using the fair market value method.* Because the fair market value of any asset which is stock will reflect retained earnings and profits, taxpayers who use the fair market value method shall not adjust stock basis by the amount of retained earnings and profits, as otherwise required by paragraph (c)(2)(i) of this section.
 
-(3) *Characterization of stock of controlled foreign corporations* - (i) *Operative sections.* For further guidance, see § 1.861-12(c)(3)(i).
+(3) *Characterization of stock of controlled foreign corporations*—(i) *Operative sections.* For further guidance, see § 1.861-12(c)(3)(i).
 
 (ii) *Asset method.* Under the asset method, the taxpayer characterizes the tax book value or fair market value of the stock of a controlled foreign corporation based on an analysis of the assets owned by the controlled foreign corporation during the foreign corporation's taxable year that ends with or within the taxpayer's taxable year. This process is based on the application of § 1.861-9T(g) at the level of the controlled foreign corporation. In the case of a controlled foreign corporation that owns stock in one or more lower-tier controlled foreign corporations in which the United States taxpayer is a United States shareholder, the characterization of the tax book value of the fair market value of the stock of the first-tier controlled foreign corporation to the various separate limitation categories of the affiliated group must take into account the stock in lower-tier corporations. For this purpose, the stock of each such lower-tier corporation shall be characterized by reference to the assets owned during the lower-tier corporation's taxable year that ends during the taxpayer's taxable year. The analysis of assets within a chain of controlled foreign corporations must begin at the lowest-tier controlled foreign corporation and proceed up the chain to the first-tier controlled foreign corporation. For purposes of this paragraph (c), the value of any passive asset to which related person interest is allocated under § 1.904-5(c)(2)(ii) must be reduced by the principal amount of indebtedness on which such interest is incurred. Furthermore, the value of any asset to which interest expense is directly allocated under § 1.861-10T must be reduced as provided in § 1.861-9T(g)(2)(iii). See § 1.861-9T(h)(5) for further guidance concerning characterization of stock in a related person under the fair market value method.
 
@@ -36,7 +34,7 @@ Link to an amendment published at 85 FR 72041, Nov. 12, 2020.
 
 (4) [Reserved] For further guidance, *see* § 1.861-12(c)(4).
 
-(d) *Treatment of notes* - (1) *General rule.* Subject to the adjustments and special rules of this paragraph (d) and paragraph (e) of this section, all notes held by a taxpayer are taken into account in the application of the asset method described in § 1.861-9T(g). However, the notes of an affiliated corporation are subject to special rules set forth in § 1.861-11T(e). For purposes of this section, the term “notes” means all interest bearing debt, including debt bearing original issue discount.
+(d) *Treatment of notes*—(1) *General rule.* Subject to the adjustments and special rules of this paragraph (d) and paragraph (e) of this section, all notes held by a taxpayer are taken into account in the application of the asset method described in § 1.861-9T(g). However, the notes of an affiliated corporation are subject to special rules set forth in § 1.861-11T(e). For purposes of this section, the term “notes” means all interest bearing debt, including debt bearing original issue discount.
 
 (2) *Characterization of related controlled foreign corporation notes.* For further guidance, see § 1.861-12(d)(2).
 
@@ -48,13 +46,9 @@ Link to an amendment published at 85 FR 72041, Nov. 12, 2020.
 
 For this purpose, a portfolio security is a security in any entity other than a controlled foreign corporation with respect to which the taxpayer is a United States shareholder under section 957, a noncontrolled section 902 corporation with respect to the taxpayer, or a 10 percent owned corporation as defined in § 1.861-12(c)(2)(ii). In taking gains into account, a taxpayer must treat all portfolio securities generating foreign source dividends and interest as a single asset and all portfolio securities generating domestic source dividends as a single asset and shall characterize the total value of that asset based on the source of all income and gain generated by those securities in the taxable year.
 
-(f) *Assets funded by disallowed interest* - (1) *Rule.* In the case of any asset in connection with which interest expense accruing at the end of the taxable year is capitalized, deferred, or disallowed under any provision of the Code, the adjusted basis or fair market value (depending on the taxpayer's choice of apportionment methods) of such an asset shall be reduced by the principal amount of indebtedness the interest on which is so capitalized, deferred, or disallowed.
+(f) *Assets connected with capitalized, deferred, or disallowed interest.* For further guidance, see § 1.861-12(f).
 
-(2) *Example.* The rules of this paragraph (f) may be illustrated by the following example.
-
-Example.X is a domestic corporation which uses the tax book value method of apportionment. X has $1000 of indebtedness and $100 of interest expense. X constructs an asset with an adjusted basis of $800 before interest capitalization and is required under the rules of section 263A to capitalize $80 in interest expense. Because interest on $800 of debt is capitalized and because the production period is in progress at the end of X's taxable year, $800 of the principal amount of X's debt is allocable to the building. The $800 of debt allocable to the building reduces its adjusted basis for purposes of apportioning the balance of X's interest expense ($20).
-
-(g) *Special rules for FSCs* - (1) *Treatment of FSC stock.* No interest expense shall be allocated or apportioned to stock of a foreign sales corporation (“FSC”) to the extent that the FSC stock is attributable to the separate limitation for certain FSC distributions described in section 904(d)(1)(H). FSC stock is considered to be attributable solely to the separate limitation category described in section 904(d)(1)(H) unless the taxpayer can demonstrate that more than 20 percent of the FSC's gross income for the taxable year consists of income other than foreign trading income.
+(g) *Special rules for FSCs*—(1) *Treatment of FSC stock.* No interest expense shall be allocated or apportioned to stock of a foreign sales corporation (“FSC”) to the extent that the FSC stock is attributable to the separate limitation for certain FSC distributions described in section 904(d)(1)(H). FSC stock is considered to be attributable solely to the separate limitation category described in section 904(d)(1)(H) unless the taxpayer can demonstrate that more than 20 percent of the FSC's gross income for the taxable year consists of income other than foreign trading income.
 
 (2) *Treatment of assets that generate foreign trade income.* Assets of the related supplier that generate foreign trade income must be prorated between assets attributable to foreign source general limitation income and assets attributable to domestic source income in proportion to foreign source general limitation income and domestic source income derived from transactions generating foreign trade income.
 
@@ -66,7 +60,7 @@ Example.X is a domestic corporation which uses the tax book value method of appo
 
 (ii) *Value of assets attributable to domestic source income.* The value of assets attributable to domestic source income is computed by subtracting from the total value of assets for the taxable year generating foreign trading gross receipts the value of assets attributable to foreign source general limitation income as computed under paragraph (g)(2)(i) of this section.
 
-(h) *Special rules for DISCs* - (1) *Treatment of DISC stock.* No interest shall be allocated or apportioned to stock in a DISC (or stock in a former DISC to the extent that the stock in the former DISC is attributable to the separate limitation category described in section 904(d)(1)(F)).
+(h) *Special rules for DISCs*—(1) *Treatment of DISC stock.* No interest shall be allocated or apportioned to stock in a DISC (or stock in a former DISC to the extent that the stock in the former DISC is attributable to the separate limitation category described in section 904(d)(1)(F)).
 
 (2) *Treatment of assets that generate qualified export receipts.* Assets of the related supplier that generate qualified export receipts must be prorated between assets attributable to foreign source general limitation income and assets attributable to domestic source income in proportion to foreign source general limitation income and domestic source income derived from transactions during the taxable year from transactions generating qualified export receipts.
 
@@ -74,4 +68,4 @@ Example.X is a domestic corporation which uses the tax book value method of appo
 
 (k) *Effective/applicability date.* The rules of this section apply for taxable years beginning after December 31, 1986.
 
-[T.D. 8228, 53 FR 35495, Sept. 14, 1988, as amended by T.D. 9260, 71 FR 24526, Apr. 25, 2006, T.D. 9452, 74 FR 27875, June 11, 2009; T.D. 9456, 74 FR 38875, Aug. 4, 2009; T.D. 9866, 84 FR 29336, June 21, 2019; T.D. 9882, 84 FR 69070, Dec. 17, 2019]
+[T.D. 8228, 53 FR 35495, Sept. 14, 1988, as amended by T.D. 9260, 71 FR 24526, Apr. 25, 2006, T.D. 9452, 74 FR 27875, June 11, 2009; T.D. 9456, 74 FR 38875, Aug. 4, 2009; T.D. 9866, 84 FR 29336, June 21, 2019; T.D. 9882, 84 FR 69070, Dec. 17, 2019; T.D. 9922, 85 FR 72041, Nov. 12, 2020]

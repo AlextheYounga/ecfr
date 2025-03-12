@@ -1,5 +1,7 @@
 ##### § 655.61 Administrative review. #####
 
+Link to an amendment published at 86 FR 4, Jan. 4, 2021.
+
 (a) *Request for review.* Where authorized in this subpart, employers may request an administrative review before the BALCA of a determination by the CO. In such cases, the request for review:
 
 (1) Must be sent to the BALCA, with a copy simultaneously sent to the CO who issued the determination, within 10 business days from the date of determination;

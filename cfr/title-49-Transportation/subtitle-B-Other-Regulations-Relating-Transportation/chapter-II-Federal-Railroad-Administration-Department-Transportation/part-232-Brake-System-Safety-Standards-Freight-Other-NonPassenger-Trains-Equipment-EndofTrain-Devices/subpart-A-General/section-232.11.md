@@ -4,4 +4,4 @@
 
 (b) Any person who knowingly and willfully falsifies a record or report required by this part is subject to criminal penalties under 49 U.S.C. 21311.
 
-[66 FR 4193, Jan. 17, 2001, as amended at 69 FR 30594, May 28, 2004; 72 FR 51197, Sept. 6, 2007; 73 FR 79703, Dec. 30, 2008; 77 FR 24421, Apr. 24, 2012; 81 FR 43111, July 1, 2016; 82 FR 16134, Apr. 3, 2017; 83 FR 60748, Nov. 27, 2018; 84 FR 23736, May 23, 2019; 84 FR 37074, July 31, 2019; 85 FR 80570, Dec. 11, 2020]
+[66 FR 4193, Jan. 17, 2001, as amended at 69 FR 30594, May 28, 2004; 72 FR 51197, Sept. 6, 2007; 73 FR 79703, Dec. 30, 2008; 77 FR 24421, Apr. 24, 2012; 81 FR 43111, July 1, 2016; 82 FR 16134, Apr. 3, 2017; 83 FR 60748, Nov. 27, 2018; 84 FR 23736, May 23, 2019; 84 FR 37074, July 31, 2019; 85 FR 80570, Dec. 11, 2020]Editorial Note:At 86 FR 1759, Jan. 11, 2021, § 232.11 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.

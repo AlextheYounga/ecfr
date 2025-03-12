@@ -1,5 +1,7 @@
 ##### § 24.105 Issuance of findings and orders. #####
 
+Link to an amendment published at 86 FR 1782, Jan. 11, 2021.
+
 (a) After considering all the relevant information collected during the investigation, the Assistant Secretary will issue, within 30 days of filing of the complaint, written findings as to whether or not there is reasonable cause to believe that the respondent has retaliated against the complainant in violation of any of the statutes listed in § 24.100(a).
 
 (1) If the Assistant Secretary concludes that there is reasonable cause to believe that a violation has occurred, he or she shall accompany the findings with an order providing relief to the complainant. The order shall include, where appropriate, a requirement that the respondent abate the violation; reinstate the complainant to his or her former position, together with the compensation (including back pay), terms, conditions and privileges of the complainant's employment; pay compensatory damages; and, under the Toxic Substances Control Act and the Safe Drinking Water Act, pay exemplary damages, where appropriate. At the complainant's request the order shall also assess against the respondent the complainant's costs and expenses (including attorney's fees) reasonably incurred in connection with the filing of the complaint.

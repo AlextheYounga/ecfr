@@ -1,5 +1,7 @@
 ##### § 22.10 Default upon failure to file an answer. #####
 
+Link to an amendment published at 86 FR 1781, Jan. 11, 2021.
+
 (a) If the defendant does not file an answer within the time prescribed in § 22.9(a), the reviewing official may refer the complaint to the ALJ.
 
 (b) Upon the referral of the complaint, the ALJ shall promptly serve on defendant in the manner prescribed in § 22.8, a notice that an initial decision will be issued under this section.

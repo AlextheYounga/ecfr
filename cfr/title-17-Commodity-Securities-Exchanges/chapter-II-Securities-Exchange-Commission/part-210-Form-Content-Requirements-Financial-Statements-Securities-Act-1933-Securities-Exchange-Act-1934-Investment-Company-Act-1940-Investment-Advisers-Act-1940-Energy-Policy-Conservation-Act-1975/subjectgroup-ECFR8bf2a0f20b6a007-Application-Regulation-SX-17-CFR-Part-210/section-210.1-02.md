@@ -1,5 +1,7 @@
 ##### § 210.1-02 Definitions of terms used in Regulation S-X (17 CFR part 210). #####
 
+Link to an amendment published at 86 FR 2126, Jan. 11, 2021.
+
 Unless the context otherwise requires, terms defined in the general rules and regulations or in the instructions to the applicable form, when used in Regulation S-X (this part 210), shall have the respective meanings given in such instructions or rules. In addition, the following terms shall have the meanings indicated in this section unless the context otherwise requires.
 
 (a)(1) *Accountant's report.* The term *accountant's report,* when used in regard to financial statements, means a document in which an independent public or certified public accountant indicates the scope of the audit (or examination) which he has made and sets forth his opinion regarding the financial statements taken as a whole, or an assertion to the effect that an overall opinion cannot be expressed. When an overall opinion cannot be expressed, the reasons therefor shall be stated.

@@ -1,7 +1,5 @@
 ##### § 204.4 Computation of required reserves. #####
 
-Link to an amendment published at 85 FR 79823, Dec. 11, 2020.
-
 (a) In determining the reserve requirement under this part, the amount of cash items in process of collection and balances subject to immediate withdrawal due from other depository institutions located in the United States (including such amounts due from United States branches and agencies of foreign banks and Edge and Agreement corporations) may be deducted from the amount of gross transaction accounts. The amount that may be deducted may not exceed the amount of gross transaction accounts.
 
 (b) United States branches and agencies of a foreign bank may not deduct balances due from another United States branch or agency of the same foreign bank, and United States offices of an Edge or Agreement Corporation may not deduct balances due from another United States office of the same Edge or Agreement Corporation.
@@ -16,13 +14,13 @@ Link to an amendment published at 85 FR 79823, Dec. 11, 2020.
 
 Table 1 to Paragraph (f)
 
-|                                          Reservable liability                                          |Reserve requirement |
-|--------------------------------------------------------------------------------------------------------|--------------------|
-|                                       Net Transaction Accounts:                                        |                    |
-|                       $0 to reserve requirement exemption amount ($16.9 million)                       |0 percent of amount.|
-|Over reserve requirement exemption amount ($16.9 million) and up to low reserve tranche ($127.5 million)|0 percent of amount.|
-|                               Over low reserve tranche ($127.5 million)                                |0 percent of amount.|
-|                                       Nonpersonal time deposits                                        |     0 percent.     |
-|                                        Eurocurrency liabilities                                        |     0 percent.     |
+|                                       Reservable  <br/>liability                                       |              Reserve requirement               |
+|--------------------------------------------------------------------------------------------------------|------------------------------------------------|
+|                                       Net Transaction Accounts:                                        |                                                |
+|                       $0 to reserve requirement exemption amount ($21.1 million)                       |              0 percent of amount.              |
+|Over reserve requirement exemption amount ($21.1 million) and up to low reserve tranche ($182.9 million)|              0 percent of amount.              |
+|                               Over low reserve tranche ($182.9 million)                                |$0 plus 0 percent of amount over $182.9 million.|
+|                                       Nonpersonal time deposits                                        |                   0 percent.                   |
+|                                        Eurocurrency liabilities                                        |                   0 percent.                   |
 
-[Reg. D, 74 FR 25637, May 29, 2009, as amended at 74 FR 52875, Oct. 15, 2009; 75 FR 65564, Oct. 26, 2010; 76 FR 68066, Nov. 3, 2011; 77 FR 21852, Apr. 12, 2012; 77 FR 65774, Oct. 31, 2012; 78 FR 66250, Nov. 5, 2013; 79 FR 68350, Nov. 17, 2014; 80 FR 71683, Nov. 17, 2015; 81 FR 91673, Dec. 19, 2016; 82 FR 51755, Nov. 8, 2017; 83 FR 54518, Oct. 30, 2018; 84 FR 64706, Nov. 25, 2019; 85 FR 16526, Mar. 24, 2020]
+[Reg. D, 74 FR 25637, May 29, 2009, as amended at 74 FR 52875, Oct. 15, 2009; 75 FR 65564, Oct. 26, 2010; 76 FR 68066, Nov. 3, 2011; 77 FR 21852, Apr. 12, 2012; 77 FR 65774, Oct. 31, 2012; 78 FR 66250, Nov. 5, 2013; 79 FR 68350, Nov. 17, 2014; 80 FR 71683, Nov. 17, 2015; 81 FR 91673, Dec. 19, 2016; 82 FR 51755, Nov. 8, 2017; 83 FR 54518, Oct. 30, 2018; 84 FR 64706, Nov. 25, 2019; 85 FR 16526, Mar. 24, 2020; 85 FR 79823, Dec. 11, 2020]

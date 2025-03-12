@@ -1,5 +1,7 @@
 ##### § 1981.105 Issuance of findings and preliminary orders. #####
 
+Link to an amendment published at 86 FR 1790, Jan. 11, 2021.
+
 (a) After considering all the relevant information collected during the investigation, the Assistant Secretary shall issue, within 60 days of filing of the complaint, written findings as to whether or not there is reasonable cause to believe that the named person has discriminated against the complainant in violation of the Act.
 
 (1) If the Assistant Secretary concludes that there is reasonable cause to believe that a violation has occurred, he or she shall accompany the findings with a preliminary order providing relief to the complainant. The preliminary order shall include, where appropriate, a requirement that the named person abate the violation; reinstatement of the complainant to his or her former position, together with the compensation (including back pay), terms, conditions and privileges of the complainant's employment; and payment of compensatory damages. Where the named person establishes that the complainant is a security risk (whether or not the information is obtained after the complainant's discharge), a preliminary order of reinstatement would not be appropriate. At the complainant's request the order shall also assess against the named person the complainant's costs and expenses (including attorney's and expert witness fees) reasonably incurred in connection with the filing of the complaint.

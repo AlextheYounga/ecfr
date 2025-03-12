@@ -1,7 +1,5 @@
 ##### § 3.701 Capital and surplus. #####
 
-Link to an amendment published at 85 FR 80434, Dec. 11, 2020.
-
 For purposes of determining statutory limits that are based on the amount of a national bank's *capital* and/or *surplus,* the provisions of this section are to be used, rather than the definitions of capital contained in subparts A through J of this part.
 
 (a) *Capital.* The term *capital* as used in provisions of law relating to the capital of national banks shall include the amount of common stock outstanding and unimpaired plus the amount of perpetual preferred stock outstanding and unimpaired.
@@ -32,7 +30,7 @@ For purposes of determining statutory limits that are based on the amount of a n
 
 (iv) Other amounts transferred from undivided profits.
 
-(3) *Intangible assets* means those purchased assets that are to be reported as intangible assets in accordance with the *Instructions - Consolidated Reports of Condition and Income* (Call Report).
+(3) *Intangible assets* means those purchased assets that are to be reported as intangible assets in accordance with the *Instructions—Consolidated Reports of Condition and Income* (Call Report).
 
 (4) *Limited life preferred stock* means preferred stock which has a maturity or which may be redeemed at the option of the holder.
 
@@ -44,7 +42,7 @@ For purposes of determining statutory limits that are based on the amount of a n
 
 (8) *Perpetual preferred stock* means preferred stock that does not have a stated maturity date and cannot be redeemed at the option of the holder.
 
-(f) *Requirements and restrictions: Limited life preferred stock, mandatory convertible debt, and other subordinated debt* - (1) *Requirements.* Issues of limited life preferred stock and subordinated notes and debentures (except mandatory convertible debt) shall have original weighted average maturities of at least five years to be included in the definition of *surplus.* In addition, a subordinated note or debenture must also:
+(f) *Requirements and restrictions: Limited life preferred stock, mandatory convertible debt, and other subordinated debt*—(1) *Requirements.* Issues of limited life preferred stock and subordinated notes and debentures (except mandatory convertible debt) shall have original weighted average maturities of at least five years to be included in the definition of *surplus.* In addition, a subordinated note or debenture must also:
 
 (i) Be subordinated to the claims of depositors;
 
@@ -56,7 +54,7 @@ For purposes of determining statutory limits that are based on the amount of a n
 
 (v) Provide that once any scheduled payments of principal begin, all scheduled payments shall be made at least annually and the amount repaid in each year shall be no less than in the prior year; and
 
-(vi) Provide that no prepayment (including payment pursuant to an acceleration clause or redemption prior to maturity) shall be made without prior OCC approval unless the national bank remains an eligible bank, as defined in 12 CFR 5.3(g), after the prepayment.
+(vi) Provide that no prepayment (including payment pursuant to an acceleration clause or redemption prior to maturity) shall be made without prior OCC approval unless the national bank remains an eligible bank, as defined in 12 CFR 5.3, after the prepayment.
 
 (2) *Restrictions.* The total amount of mandatory convertible debt not included in paragraph (c)(3) of this section, limited life preferred stock, and subordinated notes and debentures considered as surplus is limited to 50 percent of the sum of paragraphs (a) and (c) (1), (2) and (3) of this section.
 
@@ -65,3 +63,5 @@ For purposes of determining statutory limits that are based on the amount of a n
 (g) *Transitional rules.* (1) Equity commitment notes approved by the OCC as capital and issued prior to April 15, 1985, may continue to be included in paragraph (c)(3) of this section. All other instruments approved by the OCC as capital and issued prior to April 15, 1985, are to be included in paragraph (c)(4) of this section.
 
 (2) Intangible assets (other than mortgage servicing assets) purchased prior to April 15, 1985, and accounted for in accordance with OCC instructions, may continue to be included as surplus up to 25 percent of the sum of paragraphs (a) and (c)(1) of this section.
+
+[78 FR 62272, Oct. 11, 2013, as amended at 85 FR 80434, Dec. 11, 2020]

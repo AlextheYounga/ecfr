@@ -1,10 +1,8 @@
 ##### § 208.18 Implementation of the Convention Against Torture. #####
 
-Link to an amendment published at 85 FR 80389, Dec. 11, 2020.
-
 (a) *Definitions.* The definitions in this subsection incorporate the definition of torture contained in Article 1 of the Convention Against Torture, subject to the reservations, understandings, declarations, and provisos contained in the United States Senate resolution of ratification of the Convention.
 
-(1) Torture is defined as any act by which severe pain or suffering, whether physical or mental, is intentionally inflicted on a person for such purposes as obtaining from him or her or a third person information or a confession, punishing him or her for an act he or she or a third person has committed or is suspected of having committed, or intimidating or coercing him or her or a third person, or for any reason based on discrimination of any kind, when such pain or suffering is inflicted by or at the instigation of or with the consent or acquiescence of a public official or other person acting in an official capacity.
+(1) Torture is defined as any act by which severe pain or suffering, whether physical or mental, is intentionally inflicted on a person for such purposes as obtaining from him or her or a third person information or a confession, punishing him or her for an act he or she or a third person has committed or is suspected of having committed, or intimidating or coercing him or her or a third person, or for any reason based on discrimination of any kind, when such pain or suffering is inflicted by or at the instigation of or with the consent or acquiescence of a public official acting in an official capacity or other person acting in an official capacity. Pain or suffering inflicted by a public official who is not acting under color of law shall not constitute pain or suffering inflicted by or at the instigation of or with the consent or acquiescence of a public official acting in an official capacity or other person acting in an official capacity, although a different public official acting in an official capacity or other person acting in an official capacity could instigate, consent to, or acquiesce in the pain or suffering inflicted by the public official who is not acting under color of law.
 
 (2) Torture is an extreme form of cruel and inhuman treatment and does not include lesser forms of cruel, inhuman or degrading treatment or punishment that do not amount to torture.
 
@@ -24,11 +22,11 @@ Link to an amendment published at 85 FR 80389, Dec. 11, 2020.
 
 (6) In order to constitute torture an act must be directed against a person in the offender's custody or physical control.
 
-(7) Acquiescence of a public official requires that the public official, prior to the activity constituting torture, have awareness of such activity and thereafter breach his or her legal responsibility to intervene to prevent such activity.
+(7) Acquiescence of a public official requires that the public official, prior to the activity constituting torture, have awareness of such activity and thereafter breach his or her legal responsibility to intervene to prevent such activity. Such awareness requires a finding of either actual knowledge or willful blindness. Willful blindness means that the public official acting in an official capacity or other person acting in an official capacity was aware of a high probability of activity constituting torture and deliberately avoided learning the truth; it is not enough that such public official acting in an official capacity or other person acting in an official capacity was mistaken, recklessly disregarded the truth, or negligently failed to inquire. In order for a public official to breach his or her legal responsibility to intervene to prevent activity constituting torture, the official must have been charged with preventing the activity as part of his or her duties and have failed to intervene. No person will be deemed to have breached a legal responsibility to intervene if such person is unable to intervene, or if the person intervenes but is unable to prevent the activity that constitutes torture.
 
 (8) Noncompliance with applicable legal procedural standards does not *per se* constitute torture.
 
-(b) *Applicability of §§ 208.16(c) and 208.17(a)* - (1) *Aliens in proceedings on or after March 22, 1999.* An alien who is in exclusion, deportation, or removal proceedings on or after March 22, 1999 may apply for withholding of removal under § 208.16(c), and, if applicable, may be considered for deferral of removal under § 208.17(a).
+(b) *Applicability of §§ 208.16(c) and 208.17(a)*—(1) *Aliens in proceedings on or after March 22, 1999.* An alien who is in exclusion, deportation, or removal proceedings on or after March 22, 1999 may apply for withholding of removal under § 208.16(c), and, if applicable, may be considered for deferral of removal under § 208.17(a).
 
 (2) *Aliens who were ordered removed, or whose removal orders became final, before March 22, 1999.* An alien under a final order of deportation, exclusion, or removal that became final prior to March 22, 1999 may move to reopen proceedings for the sole purpose of seeking protection under § 208.16(c). Such motions shall be governed by §§ 3.23 and 3.2 of this chapter, except that the time and numerical limitations on motions to reopen shall not apply and the alien shall not be required to demonstrate that the evidence sought to be offered was unavailable and could not have been discovered or presented at the former hearing. The motion to reopen shall not be granted unless:
 
@@ -64,4 +62,4 @@ Link to an amendment published at 85 FR 80389, Dec. 11, 2020.
 
 (2) Except as otherwise expressly provided, nothing in this paragraph shall be construed to create a private right of action or to authorize the consideration or issuance of administrative or judicial relief.
 
-[64 FR 8490, Feb. 19, 1999; 64 FR 13881, Mar. 23, 1999]
+[64 FR 8490, Feb. 19, 1999; 64 FR 13881, Mar. 23, 1999, as amended at 85 FR 80389, Dec. 11, 2020]

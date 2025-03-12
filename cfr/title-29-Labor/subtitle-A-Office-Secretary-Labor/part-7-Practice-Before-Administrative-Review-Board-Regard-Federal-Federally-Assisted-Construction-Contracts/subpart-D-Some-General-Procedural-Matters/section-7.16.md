@@ -1,5 +1,7 @@
 ##### § 7.16 Filing and service. #####
 
+Link to an amendment published at 86 FR 1780, Jan. 11, 2021.
+
 (a) *Filing.* All papers submitted to the Board under this part shall be filed with the Executive Director of the Administrative Review Board, U.S. Department of Labor, Washington, DC 20210.
 
 (b) *Number of copies.* An original and four copies of all papers shall be submitted.

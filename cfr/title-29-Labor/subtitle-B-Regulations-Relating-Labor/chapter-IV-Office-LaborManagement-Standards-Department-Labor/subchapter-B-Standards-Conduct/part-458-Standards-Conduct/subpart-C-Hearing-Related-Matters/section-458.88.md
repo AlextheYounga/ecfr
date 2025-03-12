@@ -1,5 +1,7 @@
 ##### § 458.88 Submission of the Administrative Law Judge's recommended decision and order to the Administrative Review Board; exceptions. #####
 
+Link to an amendment published at 86 FR 1785, Jan. 11, 2021.
+
 (a) After the close of the hearing, and the receipt of briefs, or findings and conclusions, if any, the Administrative Law Judge shall prepare his recommended decision and order expeditiously. The recommended decision and order shall contain findings of fact, conclusions, and the reasons or basis therefor including credibility determinations, and recommendations as to the disposition of the case including the remedial action to be taken.
 
 (b) The Administrative Law Judge shall cause his recommended decision and order to be served promptly on all parties to the proceeding. Thereafter, the Administrative Law Judge shall transfer the case to the Administrative Review Board including his recommended decision and order and the record. The record shall include the complaint, the notice of hearing, motions, rulings, orders, official transcript of the hearing, stipulations, objections, depositions, exhibits, documentary evidence and any briefs or other documents submitted by the parties.

@@ -1,5 +1,7 @@
 ##### § 530.411 Emergency certificate revocation procedures. #####
 
+Link to an amendment published at 86 FR 1787, Jan. 11, 2021.
+
 (a) When the Administrator determines that immediate revocation of a homework certificate is necessary to safeguard the payment of minimum wages to homeworkers, a notice of proposed emergency revocation of a certificate shall be sent to the certificate holder pursuant to § 530.402 of this subpart setting forth reasons requiring emergency revocation of the certificate.
 
 (b) If no request for a hearing pursuant to § 530.403 of this subpart is received within 20 days of the date of receipt of the notice by the certificate holder, the proposed revocation of the certificate shall become final.

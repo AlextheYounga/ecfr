@@ -1,5 +1,7 @@
 ##### § 726.317 Discretionary review. #####
 
+Link to an amendment published at 86 FR 1779, Jan. 11, 2021.
+
 (a) Following receipt of a timely petition for review, the Secretary shall determine whether the decision warrants review, and shall send a notice of such determination to the parties and the Chief Administrative Law Judge. If the Secretary declines to review the decision, the Administrative Law Judge's decision shall be considered the final decision of the agency. The Secretary's determination to review a decision by an Administrative Law Judge under this subpart is solely within the discretion of the Secretary.
 
 (b) The Secretary's notice shall specify:

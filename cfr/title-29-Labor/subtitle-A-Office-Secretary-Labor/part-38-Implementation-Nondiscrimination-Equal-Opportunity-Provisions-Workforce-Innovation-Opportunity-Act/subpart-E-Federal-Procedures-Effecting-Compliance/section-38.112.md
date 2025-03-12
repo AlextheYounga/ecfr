@@ -1,5 +1,7 @@
 ##### § 38.112 Initial and final decision procedures. #####
 
+Link to an amendment published at 86 FR 1785, Jan. 11, 2021.
+
 (a) *Initial decision.* After the hearing, the Administrative Law Judge must issue an initial decision and order, containing findings of fact and conclusions of law. The initial decision and order must be served on all parties by certified mail, return receipt requested.
 
 (b) *Exceptions; Final Decision* - (1) *Final Decision after a hearing.* The initial decision and order becomes the Final Decision and Order of the Department unless exceptions are filed by a party or, in the absence of exceptions, the Administrative Review Board serves notice that it will review the decision.

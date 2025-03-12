@@ -1,5 +1,7 @@
 ##### § 1978.105 Issuance of findings and preliminary orders. #####
 
+Link to an amendment published at 86 FR 1788, Jan. 11, 2021.
+
 (a) After considering all the relevant information collected during the investigation, the Assistant Secretary will issue, within 60 days of the filing of the complaint, written findings as to whether there is reasonable cause to believe that the respondent has retaliated against the complainant in violation of STAA.
 
 (1) If the Assistant Secretary concludes that there is reasonable cause to believe that a violation has occurred, the Assistant Secretary will accompany the findings with a preliminary order providing relief. Such order will require, where appropriate: affirmative action to abate the violation; reinstatement of the complainant to his or her former position, with the same compensation, terms, conditions and privileges of the complainant's employment; and payment of compensatory damages (backpay with interest and compensation for any special damages sustained as a result of the retaliation, including any litigation costs, expert witness fees, and reasonable attorney fees which the complainant has incurred). Interest on backpay will be calculated using the interest rate applicable to underpayment of taxes under 26 U.S.C. 6621 and will be compounded daily. The preliminary order may also require the respondent to pay punitive damages up to $250,000.

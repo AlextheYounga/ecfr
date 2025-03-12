@@ -1,5 +1,7 @@
 ##### § 655.473 Debarment. #####
 
+Link to an amendment published at 86 FR 1778, Jan. 11, 2021.
+
 (a) *Debarment of an employer, agent, or attorney.* The OFLC Administrator may debar an employer, agent, attorney, or any successor in interest to that employer, agent, or attorney, from participating in any action under this subpart, subject to the time limits set forth in paragraph (c) of this section, if the OFLC Administrator finds that the employer, agent, or attorney substantially violated a material term or condition of the *Application for Prevailing Wage Determination* or *CW-1 Application for Temporary Employment Certification,* as defined in paragraph (d) of this section. The OFLC Administrator will provide copies of final debarment decisions to DHS and DOS promptly.
 
 (b) *Effect on future applications in all foreign labor programs.* The debarred employer, or a debarred agent or attorney, or any successor in interest to any debarred employer, agent, or attorney, will be disqualified from filing any labor certification applications or labor condition applications with the Department subject to the term limits set forth in paragraph (c) of this section. If such an application is filed, it will be denied without review.

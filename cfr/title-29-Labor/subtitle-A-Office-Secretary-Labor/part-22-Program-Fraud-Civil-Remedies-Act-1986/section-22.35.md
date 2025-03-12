@@ -1,5 +1,7 @@
 ##### § 22.35 The record. #####
 
+Link to an amendment published at 86 FR 1781, Jan. 11, 2021.
+
 (a) The hearing will be recorded and transcribed. Transcripts may be obtained following the hearing from the ALJ at a cost not to exceed the actual cost of duplication.
 
 (b) The transcript of testimony, exhibits and other evidence admitted at the hearing, and all papers and requests filed in the proceeding constitute the record for the decision by the ALJ and the authority head.

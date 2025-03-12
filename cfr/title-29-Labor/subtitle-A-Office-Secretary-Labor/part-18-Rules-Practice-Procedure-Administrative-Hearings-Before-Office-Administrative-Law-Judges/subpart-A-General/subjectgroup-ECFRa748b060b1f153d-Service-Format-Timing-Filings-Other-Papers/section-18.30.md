@@ -1,5 +1,7 @@
 ##### § 18.30 Service and filing. #####
 
+Link to an amendment published at 86 FR 1804, Jan. 11, 2021.
+
 (a) *Service on parties* - (1) *In general.* Unless these rules provide otherwise, all papers filed with OALJ or with the judge must be served on every party.
 
 (2) *Service: how made* - (i) *Serving a party's representative.* If a party is represented, service under this section must be made on the representative. The judge also may order service on the party.

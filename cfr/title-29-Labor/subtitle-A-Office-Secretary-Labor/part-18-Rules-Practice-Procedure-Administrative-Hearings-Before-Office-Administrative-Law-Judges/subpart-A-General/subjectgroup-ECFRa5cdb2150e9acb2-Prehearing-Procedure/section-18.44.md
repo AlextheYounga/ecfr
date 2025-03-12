@@ -1,5 +1,7 @@
 ##### § 18.44 Prehearing conference. #####
 
+Link to an amendment published at 86 FR 1805, Jan. 11, 2021.
+
 (a) *In general.* The judge, with or without a motion, may order one or more prehearing conferences for such purposes as:
 
 (1) Expediting disposition of the proceeding;

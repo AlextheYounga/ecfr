@@ -1,5 +1,7 @@
 ##### § 683.800 What actions of the Department may be appealed to the Office of Administrative Law Judges? #####
 
+Link to an amendment published at 86 FR 1779, Jan. 11, 2021.
+
 (a) An applicant for financial assistance under title I of WIOA who is dissatisfied by a determination not to award Federal financial assistance, in whole or in part, to such applicant; or a recipient, subrecipient, or a contractor against which the Grant Officer has directly imposed a sanction or corrective action under sec. 184 of WIOA, including a sanction against a State under part 677 of this chapter, may appeal to the U.S. Department of Labor, Office of Administrative Law Judges (OALJ) within 21 days of receipt of the final determination.
 
 (b) Failure to request a hearing within 21 days of receipt of the final determination constitutes a waiver of the right to a hearing.

@@ -1,6 +1,6 @@
 ##### § 1208.16 Withholding of removal under section 241(b)(3)(B) of the Act and withholding of removal under the Convention Against Torture. #####
 
-Link to an amendment published at 85 FR 80398, Dec. 11, 2020.Link to an amendment published at 85 FR 84197, Dec. 23, 2020.
+Link to an amendment published at 85 FR 84197, Dec. 23, 2020.
 
 (a) *Consideration of application for withholding of removal.* An asylum officer shall not decide whether the exclusion, deportation, or removal of an alien to a country where the alien's life or freedom would be threatened must be withheld, except in the case of an alien who is otherwise eligible for asylum but is precluded from being granted such status due solely to section 207(a)(5) of the Act. In exclusion, deportation, or removal proceedings, an immigration judge may adjudicate both an asylum claim and a request for withholding of removal whether or not asylum is granted.
 
@@ -22,11 +22,15 @@ Link to an amendment published at 85 FR 80398, Dec. 11, 2020.Link to an amendmen
 
 (ii) The applicant establishes his or her own inclusion in and identification with such group of persons such that it is more likely than not that his or her life or freedom would be threatened upon return to that country.
 
-(3) *Reasonableness of internal relocation.* For purposes of determinations under paragraphs (b)(1) and (b)(2) of this section, adjudicators should consider, among other things, whether the applicant would face other serious harm in the place of suggested relocation; any ongoing civil strife within the country; administrative, economic, or judicial infrastructure; geographical limitations; and social and cultural constraints, such as age, gender, health, and social and familial ties. These factors may or may not be relevant, depending on all the circumstances of the case, and are not necessarily determinative of whether it would be reasonable for the applicant to relocate.
+(3) *Reasonableness of internal relocation.* For purposes of determinations under paragraphs (b)(1) and (2) of this section, adjudicators should consider the totality of the relevant circumstances regarding an applicant's prospects for relocation, including the size of the country of nationality or last habitual residence, the geographic locus of the alleged persecution, the size, reach, or numerosity of the alleged persecutor, and the applicant's demonstrated ability to relocate to the United States in order to apply for withholding of removal.
 
 (i) In cases in which the applicant has not established past persecution, the applicant shall bear the burden of establishing that it would not be reasonable for him or her to relocate, unless the persecutor is a government or is government-sponsored.
 
-(ii) In cases in which the persecutor is a government or is government-sponsored, or the applicant has established persecution in the past, it shall be presumed that internal relocation would not be reasonable, unless the Service establishes by a preponderance of the evidence that under all the circumstances it would be reasonable for the applicant to relocate.
+(ii) In cases in which the persecutor is a government or is government-sponsored, it shall be presumed that internal relocation would not be reasonable, unless the DHS establishes by a preponderance of the evidence that, under all the circumstances, it would be reasonable for the applicant to relocate.
+
+(iii) Regardless of whether an applicant has established persecution in the past, in cases in which the persecutor is not the government or a government-sponsored actor, or otherwise is a private actor, there shall be a presumption that internal relocation would be reasonable unless the applicant establishes, by a preponderance of the evidence, that it would be unreasonable to relocate.
+
+(iv) For purposes of determinations under paragraphs (b)(3)(ii) and (iii) of this section, persecutors who are private actors, including persecutors who are gang members, public official who are not acting under color of law, or family members who are not themselves government officials or neighbors who are not themselves government officials, shall not be considered to be persecutors who are the government or government-sponsored absent evidence that the government sponsored the persecution.
 
 (c) *Eligibility for withholding of removal under the Convention Against Torture.* (1) For purposes of regulations under Title II of the Act, “Convention Against Torture” shall refer to the United Nations Convention Against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment, subject to any reservations, understandings, declarations, and provisos contained in the United States Senate resolution of ratification of the Convention, as implemented by section 2242 of the Foreign Affairs Reform and Restructuring Act of 1998 (Pub. L. 105-277, 112 Stat. 2681, 2681-821). The definition of torture contained in § 1208.18(a) of this part shall govern all decisions made under regulations under Title II of the Act about the applicability of Article 3 of the Convention Against Torture.
 
@@ -54,4 +58,4 @@ Link to an amendment published at 85 FR 80398, Dec. 11, 2020.Link to an amendmen
 
 (f) *Removal to third country.* Nothing in this section or § 1208.17 shall prevent the Service from removing an alien to a third country other than the country to which removal has been withheld or deferred.
 
-[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 65 FR 76135, Dec. 6, 2000; 85 FR 67260, Oct. 21, 2020]
+[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 65 FR 76135, Dec. 6, 2000; 85 FR 67260, Oct. 21, 2020; 85 FR 80398, Dec. 11, 2020]

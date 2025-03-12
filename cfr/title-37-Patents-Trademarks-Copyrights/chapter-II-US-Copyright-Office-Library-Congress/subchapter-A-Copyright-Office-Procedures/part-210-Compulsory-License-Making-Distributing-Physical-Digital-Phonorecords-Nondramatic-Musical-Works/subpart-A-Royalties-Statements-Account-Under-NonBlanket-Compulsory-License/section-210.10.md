@@ -1,5 +1,7 @@
 ##### § 210.10 Statements required for limitation on liability for digital music providers for the transition period prior to the license availability date. #####
 
+Link to an amendment published at 86 FR 2203, Jan. 11, 2021.
+
 This section specifies the requirements for a digital music provider to report and pay royalties for purposes of being eligible for the limitation on liability described in 17 U.S.C. 115(d)(10). Terms used in this section that are defined in 17 U.S.C. 115(e) shall have the meaning given those terms in 17 U.S.C. 115(e).
 
 (a) If the required matching efforts are successful in identifying and locating a copyright owner of a musical work (or share thereof) by the end of the calendar month in which the digital music provider first makes use of the work, the digital music provider shall provide statements of account and pay royalties to such copyright owner as a compulsory licensee in accordance with this subpart.

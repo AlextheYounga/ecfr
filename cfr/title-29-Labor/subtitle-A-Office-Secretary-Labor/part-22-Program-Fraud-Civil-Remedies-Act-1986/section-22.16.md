@@ -1,5 +1,7 @@
 ##### § 22.16 Disqualification of reviewing official or ALJ. #####
 
+Link to an amendment published at 86 FR 1781, Jan. 11, 2021.
+
 (a) A reviewing official or ALJ in a particular case may disqualify himself or herself at any time.
 
 (b) A party may file with the ALJ a motion for disqualification of a reviewing official or an ALJ. Such motion shall be accompanied by an affidavit alleging personal bias or other reason for disqualification.

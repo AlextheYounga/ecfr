@@ -1,7 +1,5 @@
 ##### § 5.42 Corporate title of a national bank or Federal savings association. #####
 
-Link to an amendment published at 85 FR 80462, Dec. 11, 2020.
-
 (a) *Authority.* 12 U.S.C. 21a, 30, 93a, 1462a, 1463, 1464, 1467a, 2901 *et. seq.* and, 5412(b)(2)(B).
 
 (b) *Scope.* This section describes the method by which a national bank or Federal savings association may change its corporate title.
@@ -10,12 +8,12 @@ Link to an amendment published at 85 FR 80462, Dec. 11, 2020.
 
 (2) For a national bank, the new title must include the word “national.”
 
-(d) *Procedures* - (1) *Notice process.* A national bank or Federal savings association shall promptly notify the appropriate OCC licensing office if it changes its corporate title. The notice must contain the old and new titles and the effective date of the change.
+(d) *Procedures*—(1) *Notice process.* A national bank or Federal savings association must promptly notify the appropriate OCC licensing office if it changes its corporate title. The notice must contain the old and new titles and the effective date of the change.
 
-(2) *Amendment to articles of association.* A national bank whose corporate title is specified in its articles of association shall amend its articles, in accordance with the procedures of 12 U.S.C. 21a, to change its title.
+(2) *Amendment to articles of association.* A national bank whose corporate title is specified in its articles of association must amend its articles, in accordance with the procedures of 12 U.S.C. 21a, to change its title.
 
-(3) *Amendment to charter.* A Federal savings association shall change its title by amending its charter in accordance with 12 CFR 5.21 or 5.22, as applicable.
+(3) *Amendment to charter.* A Federal savings association must amend its charter in accordance with § 5.21 or § 5.22, as applicable, to change its title.
 
-(4) *Exceptions to rules of general applicability.* Sections 5.8, 5.9, 5.10, 5.11, and 5.13(a) do not apply to a national bank or Federal savings association's change of corporate title. However, if the OCC concludes that the application presents a significant or novel policy, supervisory, or legal issue, the OCC may determine that any or all parts of §§ 5.8, 5.9, 5.10, 5.11, and 5.13(a) apply.
+(4) *Exceptions to rules of general applicability.* Sections 5.8, 5.9, 5.10, 5.11, and 5.13 do not apply to a national bank or Federal savings association's change of corporate title. However, if the OCC concludes that the notice presents a significant or novel policy, supervisory, or legal issue, the OCC may determine that any or all parts of §§ 5.8, 5.9, 5.10, 5.11, and 5.13 apply.
 
-[80 FR 28453, May 18, 2015]
+[80 FR 28453, May 18, 2015, as amended at 85 FR 80462, Dec. 11, 2020]

@@ -1,5 +1,7 @@
 ##### § 500.263 Authority of the Secretary. #####
 
+Link to an amendment published at 86 FR 1786, Jan. 11, 2021.
+
 The Secretary may modify or vacate the Decision and Order of the Administrative Law Judge whenever he concludes that the Decision and Order:
 
 (a) Is inconsistent with a policy or precedent established by the Department of Labor,

@@ -1,5 +1,7 @@
 ##### § 500.267 Filing and service. #####
 
+Link to an amendment published at 86 FR 1786, Jan. 11, 2021.
+
 (a) *Filing.* All documents submitted to the Secretary shall be filed with the Secretary of Labor, U.S. Department of Labor, Washington, DC 20210.
 
 (b) *Number of copies.* An original and two copies of all documents shall be filed.

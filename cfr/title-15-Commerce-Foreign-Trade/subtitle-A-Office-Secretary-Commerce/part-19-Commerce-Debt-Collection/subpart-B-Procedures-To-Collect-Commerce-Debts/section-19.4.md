@@ -60,7 +60,7 @@
 
 (12) How the debtor may request a waiver of the Commerce debt, if applicable. *See,* for example, §§ 19.5 and 19.12(f) of this part.
 
-(13) How the debtor's spouse may claim his or her share of a joint income tax refund by filing Form 8379 with the Internal Revenue Service (*see http://www.irs.gov*);
+(13) How the debtor's spouse may claim his or her share of a joint income tax refund by filing Form 8379 with the Internal Revenue Service (*see**http://www.irs.gov*);
 
 (14) How the debtor may exercise other rights and remedies, if any, available to the debtor under programmatic statutory or regulatory authority under which the Commerce debt arose.
 

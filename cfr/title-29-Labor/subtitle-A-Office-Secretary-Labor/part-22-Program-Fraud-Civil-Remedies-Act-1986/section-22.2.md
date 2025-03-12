@@ -1,5 +1,7 @@
 ##### § 22.2 Definitions. #####
 
+Link to an amendment published at 86 FR 1781, Jan. 11, 2021.
+
 (a) *ALJ* means an Administrative Law Judge in the authority appointed pursuant to 5 U.S.C. 3105 or detailed to the authority pursuant to 5 U.S.C. 3344.
 
 (b) *Authority* means the United States Department of Labor.

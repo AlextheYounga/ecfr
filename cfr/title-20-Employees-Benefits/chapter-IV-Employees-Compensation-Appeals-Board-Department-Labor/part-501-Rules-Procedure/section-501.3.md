@@ -1,5 +1,7 @@
 ##### § 501.3 Notice of Appeal. #####
 
+Link to an amendment published at 86 FR 1771, Jan. 11, 2021.
+
 (a) *Who may file.* Any person adversely affected by a final decision of the Director, or his or her authorized Representative, may file for review of such decision by the Board.
 
 (b) *Place of filing.* The notice of appeal shall be filed with the Clerk at 200 Constitution Avenue, NW., Washington, DC 20210.

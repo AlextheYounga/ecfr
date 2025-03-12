@@ -1,8 +1,6 @@
 ##### § 1221.109 Use of the NASA Seal. #####
 
-Link to an amendment published at 85 FR 71830, Nov. 12, 2020.
-
-(a) The Associate Deputy Administrator shall be responsible for custody of the NASA Impression Seal and custody of NASA replica (plaques) seals. The NASA Seal is restricted to the following:
+(a) The Associate Administrator for Communications shall be responsible for custody of the NASA Impression Seal and custody of NASA replica (plaques) seals. The NASA Seal is restricted to the following:
 
 (1) NASA award certificates and medals.
 
@@ -14,10 +12,12 @@ Link to an amendment published at 85 FR 71830, Nov. 12, 2020.
 
 (5) Plaques; the design of the NASA Seal may be incorporated in plaques for display in Agency auditoriums, presentation rooms, lobbies, offices of senior officials, and on the fronts of buildings occupied by NASA. A separate NASA seal in the form of a 15-inch, round, bronze-colored plaque on a walnut-colored wood base is also available, but prohibited for use in the above representational manner. It is restricted to use only as a presentation item by the Administrator and the Deputy Administrator.
 
-(6) The NASA Flag and the NASA Administrator's, Deputy Administrator's, and Associate Deputy Administrator's Flags, which incorporate the design of the Seal.
+(6) The NASA Flag and the NASA Administrator's, Deputy Administrator's, and Associate Administrator's Flags, which incorporate the design of the Seal.
 
 (7) NASA prestige publications which represent the achievements or missions of NASA as a whole.
 
 (8) Publications (or documents) involving participation by another Government agency for which the other Government agency has authorized the use of its seal.
 
-(b) Use of the NASA Seal for any purpose other than as prescribed in this section is prohibited, except that the Associate Deputy Administrator may authorize, on a case-by-case basis, the use of the NASA Seal for purposes other than those prescribed when the Associate Deputy Administrator deems such use to be appropriate.
+(b) Use of the NASA Seal for any purpose other than as prescribed in this section is prohibited, except that the Associate Administrator for Communications may authorize, on a case-by-case basis, the use of the NASA Seal for purposes other than those prescribed when the Associate Administrator for Communications deems such use to be appropriate.
+
+[85 FR 71830, Nov. 12, 2020]

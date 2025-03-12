@@ -1,5 +1,7 @@
 ##### § 655.72 Revocation. #####
 
+Link to an amendment published at 86 FR 4, Jan. 4, 2021.
+
 (a) *Basis for DOL revocation.* The Administrator, OFLC may revoke a temporary labor certification approved under this subpart, if the Administrator, OFLC finds:
 
 (1) The issuance of the temporary labor certification was not justified due to fraud or willful misrepresentation of a material fact in the application process, as defined in § 655.73(d);

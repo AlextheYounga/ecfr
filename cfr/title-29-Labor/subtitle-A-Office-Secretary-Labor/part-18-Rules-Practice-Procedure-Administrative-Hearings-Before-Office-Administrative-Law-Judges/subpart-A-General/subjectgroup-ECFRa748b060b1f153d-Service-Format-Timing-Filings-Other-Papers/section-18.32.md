@@ -1,5 +1,7 @@
 ##### § 18.32 Computing and extending time. #####
 
+Link to an amendment published at 86 FR 1805, Jan. 11, 2021.
+
 (a) *Computing time.* The following rules apply in computing any time period specified in these rules, a judge's order, or in any statute, regulation, or executive order that does not specify a method of computing time.
 
 (1) When the period is stated in days or a longer unit of time:

@@ -1,5 +1,7 @@
 ##### § 22.31 Determining the amount of penalties and assessments. #####
 
+Link to an amendment published at 86 FR 1781, Jan. 11, 2021.
+
 (a) In determining an appropriate amount of civil penalties and assessments, the ALJ and the authority head, upon appeal, should evaluate any circumstances that mitigate or aggravate the violation and should articulate in their opinions the reasons that support the penalties and assessments they impose. Because of the intangible costs of fraud, the expense of investigating such conduct, and the need to deter others who might be similarly tempted, ordinarily double damages and a significant civil penalty should be imposed.
 
 (b) Although not exhaustive, the following factors are among those that may influence the ALJ and the authority head in determining the amount of penalties and assessments to impose with respect to the misconduct (*i.e.,* the false, fictitious, or fraudulent claims or statements) charged in the complaint:

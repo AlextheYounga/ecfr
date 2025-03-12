@@ -1,5 +1,7 @@
 ##### § 1983.105 Issuance of findings and preliminary orders. #####
 
+Link to an amendment published at 86 FR 1791, Jan. 11, 2021.
+
 (a) After considering all the relevant information collected during the investigation, the Assistant Secretary will issue, within 60 days of the filing of the complaint, written findings as to whether or not there is reasonable cause to believe that the respondent has retaliated against the complainant in violation of CPSIA.
 
 (1) If the Assistant Secretary concludes that there is reasonable cause to believe that a violation has occurred, the Assistant Secretary will accompany the findings with a preliminary order providing relief to the complainant. The preliminary order will require, where appropriate: affirmative action to abate the violation; reinstatement of the complainant to his or her former position, together with the compensation (including back pay and interest), terms, conditions and privileges of the complainant's employment; and payment of compensatory damages, including, at the request of the complainant, the aggregate amount of all costs and expenses (including attorney's and expert witness fees) reasonably incurred. Interest on back pay will be calculated using the interest rate applicable to underpayment of taxes under 26 U.S.C. 6621 and will be compounded daily.

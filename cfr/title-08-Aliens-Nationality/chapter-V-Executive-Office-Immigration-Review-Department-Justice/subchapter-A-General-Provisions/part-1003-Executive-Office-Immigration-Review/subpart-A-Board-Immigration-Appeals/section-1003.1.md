@@ -1,6 +1,6 @@
 ##### § 1003.1 Organization, jurisdiction, and powers of the Board of Immigration Appeals. #####
 
-Link to an amendment published at 85 FR 80393, Dec. 11, 2020.Link to an amendment published at 85 FR 81651, Dec. 16, 2020.
+Link to an amendment published at 85 FR 81651, Dec. 16, 2020.
 
 (a)(1) *Organization.* There shall be in the Department of Justice a Board of Immigration Appeals, subject to the general supervision of the Director, Executive Office for Immigration Review (EOIR). The Board members shall be attorneys appointed by the Attorney General to act as the Attorney General's delegates in the cases that come before them. The Board shall consist of 23 members. A vacancy, or the absence or unavailability of a Board member, shall not impair the right of the remaining members to exercise all the powers of the Board. The Board members shall also be known as Appellate Immigration Judges.
 
@@ -50,7 +50,7 @@ Link to an amendment published at 85 FR 80393, Dec. 11, 2020.Link to an amendmen
 
 (8) Decisions of Immigration Judges in rescission of adjustment of status cases, as provided in part 1246 of this chapter.
 
-(9) Decisions of Immigration Judges in asylum proceedings pursuant to § 1208.2(b) of this chapter.
+(9) Decisions of Immigration Judges in asylum proceedings pursuant to § 1208.2(b) and (c) of this chapter.
 
 (10) Decisions of Immigration Judges relating to Temporary Protected Status as provided in 8 CFR part 1244.
 

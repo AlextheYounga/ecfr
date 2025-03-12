@@ -1,8 +1,6 @@
 ##### § 1221.112 Use of the NASA Program Identifiers. #####
 
-Link to an amendment published at 85 FR 71831, Nov. 12, 2020.
-
-(a) Official NASA Program Identifiers will be restricted to the uses set forth in this section and to such other uses as the Associate Administrator for Public Affairs may specifically approve.
+(a) Official NASA Program Identifiers will be restricted to the uses set forth in this section and to such other uses as the Associate Administrator for Communications may specifically approve.
 
 (b) Specific approval is given for the following uses:
 
@@ -15,3 +13,5 @@ Link to an amendment published at 85 FR 71831, Nov. 12, 2020.
 (d) Portrayal of an exact reproduction of a badge in conjunction with the advertising of any product or service will be approved on a case-by-case basis by the Associate Administrator for Public Affairs.
 
 (e) The manufacture, sale, or use of any colorable imitation of the design of an official NASA Program Identifier will not be approved.
+
+[58 FR 58944, Nov. 5, 1993, as amended at 85 FR 71831, Nov. 12, 2020]
