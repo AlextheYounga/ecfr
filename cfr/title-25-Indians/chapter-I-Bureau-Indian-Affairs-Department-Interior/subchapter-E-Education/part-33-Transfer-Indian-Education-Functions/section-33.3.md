@@ -1,0 +1,3 @@
+##### § 33.3 Delegation of authority. #####
+
+The administrative and programmatic authorities of the Assistant Secretary—Indian Affairs pertaining to Indian education functions shall not be delegated to other than the Director, Office of Indian Education Programs. The Assistant Secretary shall publish delegations of authorities to the Director in the Bureau of Indian Affairs Manual after the effective date of these regulations.

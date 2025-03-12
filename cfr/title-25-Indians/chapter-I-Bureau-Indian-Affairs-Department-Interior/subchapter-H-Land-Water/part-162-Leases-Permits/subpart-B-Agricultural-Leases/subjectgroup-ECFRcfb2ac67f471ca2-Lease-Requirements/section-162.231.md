@@ -1,0 +1,5 @@
+##### § 162.231 How can the land be used under an agricultural lease? #####
+
+(a) An agricultural lease must describe the authorized uses of the leased premises. Any use of the leased premises for an unauthorized purpose, or a failure by the tenant to maintain continuous operations throughout the lease term, will be treated as a lease violation under § 162.251 of this subpart.
+
+(b) An agricultural lease must require that farming and grazing operations be conducted in accordance with recognized principles of sustained yield management, integrated resource management planning, sound conservation practices, and other community goals as expressed in applicable tribal laws, leasing policies, or agricultural resource management plans. Appropriate stipulations or conservation plans must be developed and incorporated in all agricultural leases.

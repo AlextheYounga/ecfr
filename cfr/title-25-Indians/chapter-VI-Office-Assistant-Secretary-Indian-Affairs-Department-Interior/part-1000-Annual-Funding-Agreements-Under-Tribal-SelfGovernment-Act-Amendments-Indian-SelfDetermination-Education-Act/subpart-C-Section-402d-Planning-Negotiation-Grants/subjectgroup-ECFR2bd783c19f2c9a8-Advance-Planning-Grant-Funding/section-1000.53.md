@@ -1,0 +1,3 @@
+##### § 1000.53 Can Tribes/Consortia that receive advance planning grants also apply for a negotiation grant? #####
+
+Yes, Tribes/Consortia that successfully complete the planning activity and are selected may apply to be included in the applicant pool. Once approved for inclusion in the applicant pool, the Tribe/Consortium may apply for a negotiation grant according to the process in §§ 1000.46-1000.48.

@@ -1,0 +1,3 @@
+##### § 23.41 Uniform grant administration provisions, requirements and applicability. #####
+
+The general and uniform grant administration provisions and requirements specified at 25 CFR part 276 and under this subpart are applicable to all grants awarded to tribal governments and off-reservation Indian organizations under this part, except to the extent inconsistent with an applicable Federal statute, regulation or OMB circular.

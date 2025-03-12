@@ -1,0 +1,3 @@
+##### § 224.118 How must the tribe respond to the Director's notice of the opportunity for a hearing? #####
+
+The tribe must respond in writing to the Director's notice of the opportunity for a hearing within 20 days of receipt of the notice by requesting a hearing or declining to request a hearing. If the tribe does not respond within the time period, the Director will proceed with making a decision without further input from the tribe.

@@ -1,0 +1,3 @@
+##### § 169.407 How will payment rights relating to a right-of-way grant be allocated? #####
+
+The right-of-way grant may allocate rights to payment for any proceeds, trespass damages, condemnation awards, settlement funds, and other payments between the Indian landowners and the grantee. If not specified in the grant, applicable policy, order, award, judgment, or other document, the Indian landowners will be entitled to receive these payments.

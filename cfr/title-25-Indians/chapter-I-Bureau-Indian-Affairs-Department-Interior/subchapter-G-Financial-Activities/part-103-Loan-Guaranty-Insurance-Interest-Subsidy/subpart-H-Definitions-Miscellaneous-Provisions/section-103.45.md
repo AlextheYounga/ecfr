@@ -1,0 +1,5 @@
+##### § 103.45 Information collection. #####
+
+(a) The information collection requirements of §§ 103.11, 103.12, 103.13, 103.14, 103.17, 103.21, 103.23, 103.26, 103.32, 103.33, 103.34, 103.35, 103.36, 103.37, and 103.38 have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.,* and assigned approval number 1076-0020. The information will be used to approve and make payments on Federal loan guarantees, insurance agreements, and interest subsidy awards. Response is required to obtain a benefit.
+
+(b) The burden on the public to report this information is estimated to average from 15 minutes to 2 hours per response, including the time for reviewing instructions, gathering and maintaining data, and completing and reviewing the information collection. Direct comments regarding the burden estimate or any other aspect of this information collection to the Information Collection Control Officer, Bureau of Indian Affairs, MS 4613, 1849 C Street, NW., Washington, DC 20240.

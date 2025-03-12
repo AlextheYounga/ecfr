@@ -1,0 +1,5 @@
+##### § 23.49 Fair and uniform provision of services. #####
+
+(a) Grants awarded under this part shall include provisions assuring compliance with the Indian Civil Rights Act; prohibiting discriminatory distinctions among eligible Indian beneficiaries; and assuring the fair and uniform provision by the grantees of the services and assistance they provide to eligible Indian beneficiaries under such grants. Such procedures must include criteria by which eligible Indian beneficiaries will receive services, recordkeeping mechanisms adequate to verify the fairness and uniformity of services in cases of formal complaints, and an explanation of what rights will be afforded an individual pending the resolution of a complaint.
+
+(b) Indian beneficiaries of the services to be rendered under a grant shall be afforded access to administrative or judicial bodies empowered to adjudicate complaints, claims, or grievances brought by such Indian beneficiaries against the grantee arising out of the performance of the grant.

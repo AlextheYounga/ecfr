@@ -1,0 +1,3 @@
+##### § 30.108 May an alternative definition of AYP use parts of the Secretary's definition? #####
+
+Yes, a tribal governing body or school board may take part of the Secretary's definition and propose to waive the remainder. The proposed alternative definition of AYP must, however, include both the parts of the Secretary's AYP definition the tribal governing body or school board is adopting and those parts the tribal governing body or school board is proposing to change.

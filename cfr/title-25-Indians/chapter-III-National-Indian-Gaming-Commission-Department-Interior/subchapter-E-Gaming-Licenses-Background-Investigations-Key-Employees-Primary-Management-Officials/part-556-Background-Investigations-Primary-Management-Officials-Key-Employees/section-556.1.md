@@ -1,0 +1,3 @@
+##### § 556.1 Scope of this part. #####
+
+Unless a tribal-state compact assigns sole jurisdiction to an entity other than a tribe with respect to background investigations, the requirements of this part apply to all class II and class III gaming. The procedures and standards of this part apply only to primary management officials and key employees. This part does not apply to any license that is intended to expire within 90 days of issuance.

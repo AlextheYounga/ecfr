@@ -1,0 +1,3 @@
+##### § 900.18 What happens if a proposal is not declined within 90 days after it is received by the Secretary? #####
+
+A proposal that is not declined within 90 days (or within any agreed extension under § 900.17) is deemed approved and the Secretary shall award the contract or any amendment or renewal within that 90-day period and add to the contract the full amount of funds pursuant to section 106(a) of the Act.

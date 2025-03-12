@@ -1,0 +1,3 @@
+##### § 276.16 Subgrants and subcontracts to non-profit organizations. #####
+
+The uniform administrative requirements in this part, including the cost principles in appendix A, to this part, are applicable to all subgrants or subcontracts made by a grantee in accordance with the provisions of this chapter. However, these requirements and cost principles are applicable as minimum standards for subgrants or subcontracts made to nonprofit organizations. Accordingly, the grantee may prescribe additional or more stringent requirements with regard to subgrants or subcontracts made to non-profit organizations.

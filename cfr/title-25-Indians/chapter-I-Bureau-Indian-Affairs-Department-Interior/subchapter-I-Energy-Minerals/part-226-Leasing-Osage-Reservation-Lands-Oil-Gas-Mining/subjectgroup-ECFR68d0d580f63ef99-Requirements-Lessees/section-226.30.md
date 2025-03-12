@@ -1,0 +1,3 @@
+##### § 226.30 Lessees subject to Superintendent's orders; books and records open to inspection. #####
+
+Lessee shall comply with all orders or instructions issued by the Superintendent. The Superintendent or his representative may enter upon the leased premises for the purpose of inspection. Lessee shall keep a full and correct account of all operations, receipts, and disbursements and make reports thereof, as required. Lessee's books and records shall be available to the Superintendent for inspection.

@@ -1,0 +1,3 @@
+##### § 173.18 Term and renewal of permits. #####
+
+No concession granted under the provisions of this part shall extend for a period in excess of 10 years. An application for the renewal of a lease, permit, or concession permit shall be treated in the same manner as an original application under this part. Should there be an application or applications other than the renewal application for a permit covering the same area, the renewal application may, if the applicant has met all the requirements of the expiring permit and has been a satisfactory permittee, be given preferential consideration for the renewal of the permit should the applicant meet the highest and most satisfactory offer contained in the several applications.

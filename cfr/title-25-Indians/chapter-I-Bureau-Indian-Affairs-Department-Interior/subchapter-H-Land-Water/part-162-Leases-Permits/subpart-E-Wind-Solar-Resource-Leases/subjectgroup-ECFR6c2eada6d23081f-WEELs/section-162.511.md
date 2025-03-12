@@ -1,0 +1,3 @@
+##### § 162.511 What is the purpose of a WEEL? #####
+
+A WEEL is a short-term lease that allows the lessee to possess trust or restricted lands for the purpose of evaluating wind resources. The lessee may use information collected under the WEEL to assess the potential for wind energy development, and determine future placement and type of wind energy technology to use in developing the energy resource potential of the leased area.

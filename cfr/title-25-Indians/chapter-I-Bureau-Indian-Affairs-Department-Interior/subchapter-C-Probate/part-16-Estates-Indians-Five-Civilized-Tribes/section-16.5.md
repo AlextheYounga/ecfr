@@ -1,0 +1,3 @@
+##### § 16.5 Acceptance and acknowledgement of service of process. #####
+
+Service by the Field Solicitor or any other person of any process or notice, pursuant to any Federal statute which by its express terms is applicable to Indians of the Five Civilized Tribes, may be accepted and acknowledged by the Field Solicitor, or by any attorney authorized to perform the duties specified in § 16.3, on behalf of the Secretary and the Bureau, notwithstanding any specific designation in such statute of the official to be served (such as the Secretary, superintendent for the Five Civilized Tribes, Probate Attorney, etc.).

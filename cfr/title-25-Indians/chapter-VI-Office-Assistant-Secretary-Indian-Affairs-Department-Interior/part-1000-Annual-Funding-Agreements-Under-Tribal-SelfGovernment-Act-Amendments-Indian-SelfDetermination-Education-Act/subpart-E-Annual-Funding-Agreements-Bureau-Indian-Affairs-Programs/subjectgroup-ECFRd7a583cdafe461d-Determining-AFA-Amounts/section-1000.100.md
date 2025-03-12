@@ -1,0 +1,3 @@
+##### § 1000.100 May a Tribe/Consortium obtain discretionary or competitive funding that is distributed on a discretionary or competitive basis? #####
+
+Funds provided for Indian services/programs that have not been mandated by Congress to be distributed on a competitive/discretionary basis may be distributed to a Tribe/Consortium under a formula-driven method. In order to receive such funds, a Tribe/Consortium must be eligible and qualified to receive such funds. A Tribe/Consortium that receives such funds under a formula-driven methodology would no longer be eligible to compete for these funds.

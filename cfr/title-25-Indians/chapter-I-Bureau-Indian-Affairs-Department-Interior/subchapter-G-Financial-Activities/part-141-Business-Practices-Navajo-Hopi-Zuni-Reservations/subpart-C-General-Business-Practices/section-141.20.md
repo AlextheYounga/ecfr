@@ -1,0 +1,5 @@
+##### § 141.20 Payment for purchase of Indian goods or services. #####
+
+(a) A reservation business shall pay for the purchase of Indian goods or services with cash or a fully negotiable check. A reservation business may not pay for Indian goods or services with trade slips or future credit. In any transaction involving the purchase of Indian goods on the Navajo Reservation, the reservation business shall furnish a bill of sale indicating the name of the seller, a description of the goods, the amount paid for the goods, the date of sale, and the signature of both parties and shall retain a copy of the bill of sales in its business records.
+
+(b) A reservation business owner or employee may advise a customer selling Indian goods or services of the amount due on the customer's credit accounts, pawn accounts or any other obligation the customer owes to the business, but in no event may the owner or employee withhold the proceeds of the sale from the customer on the basis of existing credit obligations.

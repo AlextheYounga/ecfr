@@ -1,0 +1,5 @@
+##### § 516.3 When may a person to whom this part applies produce records? #####
+
+(a) Any request for records of the National Indian Gaming Commission shall be handled pursuant to the procedures established in 25 CFR parts 515 and 517 and shall comply with the rules governing public disclosure as provided in 25 CFR parts 515 and 517.
+
+(b) Whenever a subpoena duces tecum commanding the production of any record has been lawfully served upon a person to whom this part applies, such person shall forward the subpoena to the General Counsel. If commanded to appear in response to any such subpoena, a person to whom this part applies shall respectfully decline to produce the record on the ground that production is prohibited by this part and state that the production of the record(s) of the National Indian Gaming Commission is a matter to be determined by the Chairman or the General Counsel.

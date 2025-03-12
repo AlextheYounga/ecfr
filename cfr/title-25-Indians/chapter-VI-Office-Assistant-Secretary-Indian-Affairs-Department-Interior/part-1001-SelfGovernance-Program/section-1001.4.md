@@ -1,0 +1,3 @@
+##### § 1001.4 Application review and approval. #####
+
+Upon receipt of an application, the OSG will review the package and determine whether or not it is complete. Upon determination that it is complete, the name of the tribe or consortium will be included in the official applicant pool. Incomplete submissions will be returned with the deficiencies identified. Revised applications may be resubmitted for consideration at any time.

@@ -1,0 +1,3 @@
+##### § 11.611 Change of name. #####
+
+The Court of Indian Offenses shall have the authority to change the name of any person upon petition of such person or upon the petition of the parents of any minor, if at least one parent is Indian. Any order issued by the court for a change of name shall be kept as a permanent record and copies shall be filed with the agency superintendent, the governing body of the tribe occupying the Indian country under the jurisdiction of the court, and any appropriate agency of the State in which the court is located.

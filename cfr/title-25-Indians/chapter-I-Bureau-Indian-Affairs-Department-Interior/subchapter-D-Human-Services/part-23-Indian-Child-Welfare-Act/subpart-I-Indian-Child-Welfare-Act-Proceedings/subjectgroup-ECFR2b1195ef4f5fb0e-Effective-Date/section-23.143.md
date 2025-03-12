@@ -1,0 +1,3 @@
+##### § 23.143 How does this subpart apply to pending proceedings? #####
+
+None of the provisions of this subpart affects a proceeding under State law for foster-care placement, termination of parental rights, preadoptive placement, or adoptive placement that was initiated prior to December 12, 2016, but the provisions of this subpart apply to any subsequent proceeding in the same matter or subsequent proceedings affecting the custody or placement of the same child.

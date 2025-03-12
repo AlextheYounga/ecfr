@@ -1,0 +1,3 @@
+##### § 12.35 Do Indian country law enforcement officers complete any special training? #####
+
+Law enforcement personnel of any program funded by the Bureau of Indian Affairs must not perform law enforcement duties until they have successfully completed a basic law enforcement training course prescribed by the Director. The Director will also prescribe mandatory supplemental and in-service training courses.

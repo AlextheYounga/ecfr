@@ -1,0 +1,3 @@
+##### § 168.13 Fences. #####
+
+Fencing will be erected by the Federal Government around the perimeter of the 1882 Executive Order Area, Land Management District 6, and on the boundary of the former Joint Use Area partitioned to each tribe by the Judgment of Partition of April 18, 1979. Fencing of other areas in the former Joint Use Area will be required for a range recovery program in accordance with the range units established under § 168.4. Such fencing shall be erected at Government expense and ownership shall be clearly identified by appropriate posting on the fencing. Intentional destruction of Federal property will be treated as a violation of 18 U.S.C. 1164.

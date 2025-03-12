@@ -1,0 +1,3 @@
+##### § 900.47 When procuring property or services with self-determination contract funds, can an Indian tribe or tribal organization follow the same procurement policies and procedures applicable to other Indian tribe or tribal organization funds? #####
+
+Indian tribes and tribal organizations shall have standards that conform to the standards in this subpart. If the Indian tribe or tribal organization relies upon standards different than those described below, it shall identify the standards it will use as a proposed waiver in the initial contract proposal or as a waiver request to an existing contract.

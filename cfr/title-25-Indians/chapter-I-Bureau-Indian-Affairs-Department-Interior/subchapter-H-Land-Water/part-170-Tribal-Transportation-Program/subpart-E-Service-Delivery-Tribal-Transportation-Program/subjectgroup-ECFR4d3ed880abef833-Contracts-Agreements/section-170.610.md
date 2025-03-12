@@ -1,0 +1,3 @@
+##### § 170.610 Which TTP functions may a Tribe assume? #####
+
+A Tribe may assume all TTP functions and activities that are otherwise contractible and non-inherently Federal under self-determination contracts, self-governance agreements, Program Agreements; and other appropriate agreements. The appendix to this subpart contains the list of program functions that cannot be subcontracted. Administrative support functions are an eligible use of TTP funding.

@@ -1,0 +1,9 @@
+##### § 515.3 Identification of individuals making requests. #####
+
+(a) Any individual may request that the Commission inform him or her whether a particular record system named by the individual contains a record pertaining to him or her and the contents of such record. Such requests shall conform to the requirements of § 515.4 of this part. The request may be made in person or in writing at the NIGC, suite 250, 1850 M Street, NW., Washington, DC 20036-5803 during the hours of 9 a.m. to 12 noon and 2 p.m. to 5 p.m. Monday through Friday.
+
+(b)(1) Requests made in writing shall include a statement, signed by the individual and either notarized or witnessed by two persons (including witnesses' addresses). If the individual appears before a notary, the individual shall submit adequate proof of identity in the form of a driver's license, birth certificate, passport, or other identification acceptable to the notary. If the statement is witnessed, it shall include a statement above the witnesses' signatures that they personally know the individual or that the individual has submitted proof of his or her identity to their satisfaction. In any case in which, because of the extreme sensitivity of the record sought to be seen or copied, the Commission determines that the identification is not adequate, it may request the individual to submit additional proof of identity.
+
+(2) If the request is made in person, the requester shall submit proof of identity similar to that described in paragraph (b)(1) of this section, and that is acceptable to the Commission. The individual may have a person of his or her own choosing accompany him or her when the record is disclosed.
+
+(c) Requests made by an agent, parent, or guardian shall be in accordance with the procedures described in paragraph (b) of this section.

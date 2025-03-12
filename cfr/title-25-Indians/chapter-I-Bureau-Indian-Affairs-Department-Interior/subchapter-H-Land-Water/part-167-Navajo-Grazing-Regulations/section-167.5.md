@@ -1,0 +1,3 @@
+##### § 167.5 Land management districts. #####
+
+The Commissioner of Indian Affairs has established and will retain the present land management districts within the Navajo Indian Reservation, based on the social and economic requirements of the Navajo Indians and the necessity of rehabilitating the grazing lands. District boundary changes may be made when deemed necessary and advisable by the District Grazing Committees, Central Grazing Committee and Tribal Council, with approval by the Superintendent, Area Director, and the Commissioner of Indian Affairs.

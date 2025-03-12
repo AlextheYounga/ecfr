@@ -1,0 +1,3 @@
+##### § 900.46 What requirements are imposed upon the Secretary for financial management by these standards? #####
+
+The Secretary shall establish procedures, consistent with Treasury regulations as modified by the Act, for the transfer of funds from the United States to the Indian tribe or tribal organization in strict compliance with the self-determination contract and the annual funding agreement.

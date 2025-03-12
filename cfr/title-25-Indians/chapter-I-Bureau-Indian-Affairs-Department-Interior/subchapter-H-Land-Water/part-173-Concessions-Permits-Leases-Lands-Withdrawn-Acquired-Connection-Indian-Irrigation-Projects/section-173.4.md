@@ -1,0 +1,3 @@
+##### § 173.4 Permits subject to existing and future rights-of-way. #####
+
+Use by the permittee of any land authorized under this part shall be subject to the right of the Secretary to establish trails, roads and other rights-of-way including improvements thereupon or through the premises, and the right to use same by the public. No interference shall be permitted with the continued use of all existing roads, trails and other rights-of-way and improvements thereon.

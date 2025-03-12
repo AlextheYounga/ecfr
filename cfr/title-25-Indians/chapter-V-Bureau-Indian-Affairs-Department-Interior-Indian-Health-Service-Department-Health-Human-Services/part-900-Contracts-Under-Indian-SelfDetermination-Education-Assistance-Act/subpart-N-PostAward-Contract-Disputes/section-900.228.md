@@ -1,0 +1,3 @@
+##### § 900.228 Is an Indian tribe or tribal organization entitled to interest if it wins its claim? #####
+
+Yes. If an Indian tribe or tribal organization wins the claim, it will be entitled to interest on the amount of the award. The interest will be calculated from the date the awarding official receives the claim until the day it is paid. The interest rate will be the rate which the Secretary of the Treasury sets for the Renegotiation Board under the Renegotiation Act of 1951, Public Law 92-41, 26 U.S.C. 1212 and 26 U.S.C. 7447.

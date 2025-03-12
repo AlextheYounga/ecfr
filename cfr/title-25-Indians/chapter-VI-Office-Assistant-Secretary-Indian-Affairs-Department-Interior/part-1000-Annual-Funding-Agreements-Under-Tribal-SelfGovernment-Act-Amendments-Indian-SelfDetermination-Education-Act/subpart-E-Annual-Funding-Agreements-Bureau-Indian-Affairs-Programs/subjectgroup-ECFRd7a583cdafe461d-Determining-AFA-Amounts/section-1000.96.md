@@ -1,0 +1,3 @@
+##### § 1000.96 May a Tribe/Consortium continue to negotiate an AFA pending an appeal of residual functions or amounts? #####
+
+Yes, pending appeal of a residual function or amount, any Tribe/Consortium may continue to negotiate an AFA using the residual information that is being appealed. The residual information will be subject to later adjustment based on the final determination of a Tribe's/Consortium's appeal.

@@ -1,0 +1,7 @@
+##### § 101.6 Modification of loans. #####
+
+(a) *United States direct loans.* Any modification of the terms and provisions of a United States direct loan agreement must be requested in writing by the borrower and approved by the Commissioner. The borrower will submit the request for modification and will indicate the section(s) of the loan agreement to be modified together with a justification for the modification. Requests for modifications of loan agreements will include an agreement to abide by the provisions of the regulations in this part and future amendments and modifications thereof. In addition, a current credit bureau report, obtained by the Bureau of Indian Affairs, will be made a part of the modification request.
+
+(b) *Relending program.* Any modification of the terms and provisions of a loan agreement of a borrower from an organization conducting a relending program must be in writing, agreed to by the borrower, and must be approved by the body authorized to act on loans and modifications thereof as provided in an approved declaration of policy and plan of operation or other plan. If a request for modification of a loan has been disapproved by the body authorized to act on the request, the rejected borrower may request the Commissioner to make a direct loan from the revolving loan fund if the Commissioner determines that the rejection is unwarranted.
+
+[40 FR 3587, Jan. 23, 1975. Redesignated at 47 FR 13327, Mar. 30, 1982, as amended at 57 FR 46472, Oct. 8, 1992]

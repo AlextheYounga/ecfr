@@ -1,0 +1,3 @@
+##### § 134.2 Landowners financially unable to pay. #####
+
+Considerable difficulty has been encountered in collecting charges under the regulations in this part owing to the fact that Indians have been financially unable to pay the charges, the result being that the construction charges have accrued against the lands and in cases where the land is sold for the benefit of the allottee or his heirs under the regulations, the purchaser is to pay the accrued and future irrigation charges which make it difficult in some instances, to sell the land at as favorable terms as might otherwise be secured.

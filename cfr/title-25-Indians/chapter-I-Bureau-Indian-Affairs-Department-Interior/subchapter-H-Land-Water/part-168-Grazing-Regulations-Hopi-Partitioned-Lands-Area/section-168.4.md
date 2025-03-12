@@ -1,0 +1,3 @@
+##### § 168.4 Establishment of range units. #####
+
+The Area Director will use Soil and Range Inventory data to establish range units on the Hopi Partitioned Area to provide for a surface land management program to restore the land to its full grazing potential and maintain that potential to the maximum extent feasible. The establishment of range units on Hopi Partitioned Lands is subject to the concurrence of the Hopi Tribe in accordance with § 168.17 of these regulations.

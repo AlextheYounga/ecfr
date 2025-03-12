@@ -1,0 +1,3 @@
+##### § 1000.354 What is a trust evaluation? #####
+
+A trust evaluation is an annual review and evaluation of trust functions performed by a Tribe/Consortium to ensure that the functions are performed in accordance with trust standards as defined by Federal law. Trust evaluations address trust functions performed by the Tribe/Consortium on its own behalf as well as trust functions performed by the Tribe/Consortium for the benefit of individual Indians or Alaska Natives.

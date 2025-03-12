@@ -1,0 +1,3 @@
+##### § 273.36 Eligible subcontractors. #####
+
+No contract funds under the Johnson-O'Malley Act shall be made available by the Bureau directly to other than tribal organizations, States, school districts and Indian corporations. However, tribal organizations, States, school districts, and Indian corporations receiving funds under this part may use the funds to subcontract for necessary services with any appropriate individual, organization or corporation.

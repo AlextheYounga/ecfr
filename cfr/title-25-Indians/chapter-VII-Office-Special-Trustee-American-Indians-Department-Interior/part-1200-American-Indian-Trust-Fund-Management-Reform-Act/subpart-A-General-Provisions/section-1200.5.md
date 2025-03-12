@@ -1,0 +1,3 @@
+##### § 1200.5 What are the advantages and disadvantages of managing trust funds under the options in § 1200.4? #####
+
+Under these other options, the funds remain in Federal trust status and the tribe can exercise a range of control over their management. However, the tribe has fewer investment options than it has when it withdraws its funds completely from trust status. If a tribe chooses to keep its funds in trust status, the tribe is subject to the same statutory investment restrictions that bind us. That means that the tribe's investments are limited to bank deposits and securities guaranteed by the United States. (See 25 U.S.C. 162a for specific statutory investment restrictions.)

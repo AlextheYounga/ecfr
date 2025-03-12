@@ -1,0 +1,3 @@
+##### § 513.40 How will the Commission handle debt collection through administrative wage garnishment? #####
+
+This part adopts all the provisions of the administrative wage garnishment regulations contained in 31 CFR 285.11, promulgated by Treasury, which allow Federal agencies to collect debts from a debtor's non-Federal pay by means of administrative wage garnishment authorized by 31 U.S.C. 3720D, and in 5 CFR parts 581 and 582, promulgated by the Office of Personnel Management, which provides for garnishment orders for child support and/or alimony and commercial garnishment of federal employees' pay.

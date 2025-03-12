@@ -1,0 +1,3 @@
+##### § 900.226 What rules govern appeals of cost disallowances? #####
+
+In any appeal involving a disallowance of costs, the Board of Contract Appeals will give due consideration to the factual circumstances giving rise to the disallowed costs, and shall seek to determine a fair result without rigid adherence to strict accounting principles. The determination of allowability shall assure fair compensation for the work or service performed, using cost and accounting data as guides, but not rigid measures, for ascertaining fair compensation.

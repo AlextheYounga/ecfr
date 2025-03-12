@@ -1,0 +1,3 @@
+##### § 115.430 Will your account lose its supervised status when you reach the age of 18? #####
+
+Your account will no longer be supervised when you reach the age of 18 unless statutory language or a tribal resolution specifies an age other than 18 years of age for access to specific trust funds. However, if a court of competent jurisdiction has found you to be non-compos mentis, under legal disability, or the BIA has determined you to be an adult in need of assistance, your account will remain supervised and you will be notified in accordance with subpart E.

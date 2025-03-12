@@ -1,0 +1,3 @@
+##### § 26.2 Who authorizes this collection of information? #####
+
+The information collection requirements contained in this part have been approved by the Office of Management and Budget under the Paperwork Reduction Act of 1995, 44 U.S.C. 3507(d), and assigned OMB clearance number 1076-0062. Response is required to obtain a benefit. A Federal agency may not conduct or sponsor, and you are not required to respond to a collection of information unless the form or regulation requesting the information has a currently valid OMB Control Number.

@@ -1,0 +1,3 @@
+##### § 256.4 Information collection. #####
+
+The information collection requirements contained in this part have been approved by the Office of Management and Budget under 44 U.S.C. 3507 *et seq.* and assigned control number 1076-0184. The information is collected to determine applicant eligibility for services and eligibility to participate in the program. Response is required to obtain a benefit. You may comment to the Bureau at any time with regard to this information collection.

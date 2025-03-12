@@ -1,0 +1,3 @@
+##### § 124.2 Who should an agency or the State of Alaska contact for information? #####
+
+When a Federal agency or the State of Alaska receives proceeds covered by this part, it must deposit the proceeds to the credit of the United States Department of the Interior, Office of the Special Trustee for American Indians. For further information including depositing instructions, contact: Office of the Special Trustee for American Indians, Attention: Division of Trust Funds Accounting, 4400 Masthead Street NE., Albuquerque, New Mexico 87109.

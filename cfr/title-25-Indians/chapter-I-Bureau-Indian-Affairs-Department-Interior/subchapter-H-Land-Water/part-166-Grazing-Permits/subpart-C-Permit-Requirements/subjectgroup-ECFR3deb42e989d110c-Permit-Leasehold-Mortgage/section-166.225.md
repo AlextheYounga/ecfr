@@ -1,0 +1,3 @@
+##### § 166.225 May a permittee voluntarily assign a leasehold interest under an approved encumbrance? #####
+
+With our approval, under an approved encumbrance, a permittee voluntarily may assign the leasehold interest to someone other than the holder of a leasehold mortgage if the assignee agrees in writing to be bound by the terms of the permit. A permit may provide the Indian landowners with a right of first refusal on the conveyance of the leasehold interest.

@@ -1,0 +1,3 @@
+##### § 700.825 Relationship to section 106 of the National Historic Preservation Act. #####
+
+Issuance of a permit in accordance with the Act and this part does not constitute an undertaking requiring compliance with section 106 of the Act of October 15, 1996 (16 U.S.C. 470f). However, the mere issuance of such a permit does not excuse the Federal Land Manager from compliance with section 106 where otherwise required.

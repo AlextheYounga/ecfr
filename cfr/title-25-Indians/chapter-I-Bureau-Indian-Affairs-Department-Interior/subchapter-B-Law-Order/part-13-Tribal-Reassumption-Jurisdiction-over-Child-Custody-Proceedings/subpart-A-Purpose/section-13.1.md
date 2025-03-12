@@ -1,0 +1,11 @@
+##### § 13.1 Purpose. #####
+
+(a) The regulations of this part establish the procedures by which an Indian tribe that occupies a reservation as defined in 25 U.S.C. 1903(10) over which a state asserts any jurisdiction pursuant to the provisions of the Act of August 15, 1953 (67 Stat. 588) Pub. L. 83-280, or pursuant to any other federal law (including any special federal law applicable only to a tribe or tribes in Oklahoma), may reassume jurisdiction over Indian child custody proceedings as authorized by the Indian Child Welfare Act, Pub. L. 95-608, 92 Stat. 3069, 25 U.S.C. 1918.
+
+(b) On some reservations there are disputes concerning whether certain federal statutes have subjected Indian child custody proceedings to state jurisdiction or whether any such jurisdiction conferred on a state is exclusive of tribal jurisdiction. Tribes located on those reservations may wish to exercise exclusive jurisdiction or other jurisdiction currently exercised by the state without the necessity of engaging in protracted litigation. The procedures in this part also permit such tribes to secure unquestioned exclusive, concurrent or partial jurisdiction over Indian child custody matters without relinquishing their claim that no Federal statute had ever deprived them of that jurisdiction.
+
+(c) Some tribes may wish to join together in a consortium to establish a single entity that will exercise jurisdiction over all their members located on the reservations of tribes participating in the consortium. These regulations also provide a procedure by which tribes may reassume jurisdiction through such a consortium.
+
+(d) These regulations also provide for limited reassumptions including jurisdiction restricted to cases transferred from state courts under 25 U.S.C. 1911(b) and jurisdiction over limited geographical areas.
+
+(e) Unless the petition for reassumption specifically states otherwise, where a tribe reassumes jurisdiction over the reservation it occupies, any land or community occupied by that tribe which subsequently acquires the status of reservation as defined in 25 U.S.C. 1903(10) also becomes subject to tribal jurisdiction over Indian child custody matters.

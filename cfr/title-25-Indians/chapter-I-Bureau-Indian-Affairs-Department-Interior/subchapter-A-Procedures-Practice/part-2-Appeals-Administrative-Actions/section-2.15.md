@@ -1,0 +1,3 @@
+##### § 2.15 Computation of time. #####
+
+In computing any period of time prescribed or allowed in this part, calendar days shall be used. Computation shall not include the day on which a decision being appealed was made, service or notice was received, a document was filed, or other event occurred causing time to begin to run. Computation shall include the last day of the period, unless it is a Saturday, a Sunday, or a legal holiday, in which event the period runs until the end of the next day which is not a Saturday, a Sunday, or a legal holiday.

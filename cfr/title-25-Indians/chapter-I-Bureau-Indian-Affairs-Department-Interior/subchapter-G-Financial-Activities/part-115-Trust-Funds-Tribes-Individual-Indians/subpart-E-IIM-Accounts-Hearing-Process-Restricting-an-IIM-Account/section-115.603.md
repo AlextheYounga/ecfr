@@ -1,0 +1,3 @@
+##### § 115.603 What happens if BIA's notice of its decision to place a restriction on your IIM account that is sent by United States certified mail is returned to the BIA as undeliverable for any reason? #####
+
+If BIA's notice of its decision to place a restriction on your IIM account that is sent by United States certified mail is returned to the BIA as undeliverable for any reason, the BIA will remove the restriction on your account, which was placed five days after the notice was mailed, and will publish a notice in accordance with § 115.602(c) and § 115.605(b).

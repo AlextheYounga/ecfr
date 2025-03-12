@@ -1,0 +1,3 @@
+##### § 163.82 Annual status report. #####
+
+The Secretary shall, within 6 months of the end of each fiscal year, submit to the Committee on Interior and Insular Affairs of the United States House of Representatives, the Select Committee on Indian Affairs of the United States Senate, and to the affected Indian tribes, a report on the status of Indian forest land with respect to attaining the standards, goals and objectives set forth in approved forest management plans. The report shall identify the amount of Indian forest land in need of forestation or other silvicultural treatment, and the quantity of timber available for sale, offered for sale, and sold, for each Indian tribe.

@@ -1,0 +1,3 @@
+##### § 900.33 Are all proposals to renew term contracts subject to the declination criteria? #####
+
+Department of Health and Human Services and the Bureau of Indian Affairs will not review the renewal of a term contract for declination issues where no material and substantial change to the scope or funding of a program, functions, services, or activities has been proposed by the Indian tribe or tribal organization. Proposals to renew term contracts with DOI agencies other than the Bureau of Indian Affairs may be reviewed under the declination criteria.

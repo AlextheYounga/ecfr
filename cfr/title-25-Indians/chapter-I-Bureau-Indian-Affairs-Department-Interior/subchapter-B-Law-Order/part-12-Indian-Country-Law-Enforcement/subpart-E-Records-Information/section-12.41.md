@@ -1,0 +1,3 @@
+##### § 12.41 Who keeps statistics for Indian country law enforcement activities? #####
+
+The Director maintains a criminal justice information system for Indian country. The Director will prescribe the types of data to be collected and the reporting format to be used to collect information and assemble reports on crime reported in Indian country. These reports may be provided to the Department of Justice. Any law enforcement program receiving funding from the BIA must use the same reporting format and submit the same statistical reports to the Office of Law Enforcement Services as prescribed by the Director and as are required of all BIA law enforcement programs.

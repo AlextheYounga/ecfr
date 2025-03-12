@@ -1,0 +1,3 @@
+##### § 12.14 Where can I find specific policies and standards for law enforcement functions in Indian country? #####
+
+BIA will ensure that all Indian country law enforcement programs are provided a copy of the most current policy manuals and handbooks. Every Indian country law enforcement program covered by the regulations in this part must maintain an effective and efficient law enforcement program meeting minimal qualitative standards and procedures specified in chapter 68 Bureau of Indian Affairs Manual (BIAM) and the Law Enforcement Handbook.

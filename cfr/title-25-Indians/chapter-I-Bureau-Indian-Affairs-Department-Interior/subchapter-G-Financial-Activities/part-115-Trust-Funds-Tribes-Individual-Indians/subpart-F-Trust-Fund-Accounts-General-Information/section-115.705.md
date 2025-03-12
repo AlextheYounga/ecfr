@@ -1,0 +1,3 @@
+##### § 115.705 May we accept for deposit into a trust account money awarded or assessed by a court of competent jurisdiction? #####
+
+We will accept money awarded or assessed by a court of competent jurisdiction for a cause of action directly related to trust assets to be deposited into a trust account. Other funds awarded by a court of competent jurisdiction may not be deposited into a trust account.

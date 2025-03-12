@@ -1,0 +1,3 @@
+##### § 101.19 Assignment of loans. #####
+
+A borrower of a direct loan from the United States may not assign the loan agreement or any interest in it to a third party without the consent of the Commissioner. Relending organizations which are conducting relending programs may not assign the loan agreements of borrowers, or any interest therein, to third parties without the approval of the Commissioner and the borrower.

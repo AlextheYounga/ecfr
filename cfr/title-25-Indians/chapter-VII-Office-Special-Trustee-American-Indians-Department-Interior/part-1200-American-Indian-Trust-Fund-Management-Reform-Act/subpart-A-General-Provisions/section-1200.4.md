@@ -1,0 +1,3 @@
+##### § 1200.4 May tribes exercise increased direction over their trust funds and retain the protections of Federal trust status? #####
+
+Yes. The Tribal Self-Governance Act (25 U.S.C. 458) and the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 *et seq.*) provide other options for trust funds management. A tribe may choose to manage its trust funds under the provisions of these Acts if it wishes. These options are covered by 25 CFR part 900 (the “Indian Self-Determination and Education Assistance Act Program”) and 25 CFR part 1000 (the “Self-Governance Program”).

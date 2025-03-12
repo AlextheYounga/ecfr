@@ -1,0 +1,3 @@
+##### § 141.27 Trade in imitation Indian crafts prohibited. #####
+
+No person may introduce or possess for disposition or sale within the exterior boundaries of the Hopi, Navajo or Zuni Reservations any object that is represented to be an Indian handicraft unless the object was produced by an Indian or Indians with the help of only such devices as allow the manual skill of the maker to condition the shape and design of each individual's product.

@@ -1,0 +1,3 @@
+##### § 115.618 What happens if at the conclusion of the notice and hearing process we decide to encumber your IIM account because of an administrative error which resulted in funds that you do not own being deposited in your account or distributed to you or to a third party on your behalf? #####
+
+If we decide at the conclusion of the notice and hearing process to encumber your account because of an administrative error which resulted in funds that you do not own being deposited into your IIM account or distributed to you or to a third party on your behalf, we will consult with you or your guardian, as applicable, to determine how the funds will be re-paid.

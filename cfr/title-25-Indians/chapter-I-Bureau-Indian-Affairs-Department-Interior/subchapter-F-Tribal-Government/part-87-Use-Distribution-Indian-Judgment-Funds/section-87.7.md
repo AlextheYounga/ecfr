@@ -1,0 +1,5 @@
+##### § 87.7 Submittal of proposed legislation by Secretary. #####
+
+(a) Within thirty (30) calendar days after the date of a resolution by either House disapproving a plan, the Secretary shall simultaneously submit proposed legislation authorizing the use or distribution of the funds, together with a report thereon, to the Chairmen of both Congressional Committees, at the same time sending copies of the proposed legislation to the governing body of the affected tribe or group. Such proposed legislation shall be developed on the basis of further consultation with the affected tribe or group.
+
+(b) In any instance in which the Secretary determines that circumstances are not conducive to the preparation and submission of a plan, he shall, after appropriate consultation with the affected tribe or group, submit proposed legislation within the 180-day period to both Congressional Committee simultaneously.

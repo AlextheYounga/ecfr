@@ -1,0 +1,3 @@
+##### § 61.13 Decision of the Assistant Secretary on appeals. #####
+
+The decision of the Assistant Secretary on an appeal shall be final and conclusive and written notice of the decision shall be given the individual, parent or guardian having legal custody of a minor, or sponsor, as applicable. The name of any person whose appeal has been sustained will be added to the roll. Unless otherwise specified by law or in a tribal governing document, the determination of the Assistant Secretary shall only affect the individual's eligibility to share in the distribution of the judgment funds.

@@ -1,0 +1,3 @@
+##### § 582.3 How do I appeal the disapproval of a gaming ordinance? #####
+
+Within 30 days after the Chair serves his or her disapproval, the appellant must file with the Commission a notice of appeal. The notice of appeal must reference the decision from which the appeal is taken. Unless the Commission has extended the time for filing an appeal brief pursuant to § 580.4(f) of this subchapter, the appeal brief must be filed within 30 days of service of the record pursuant to § 582.6. The appeal brief shall state succinctly why the appellant believes the Chair's disapproval should be reversed and may include supporting documentation.

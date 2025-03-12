@@ -1,0 +1,3 @@
+##### § 30.109 Will the Secretary provide assistance in developing an alternative AYP definition? #####
+
+Yes, the Secretary through the Bureau, shall provide technical assistance either directly or through contract to the tribal governing body or the school board in developing an alternative AYP definition. A tribal governing body or school board needing assistance must submit a request to the Director of OIEP under § 30.110. In providing assistance, the Secretary may consult with the Secretary of Education and may use funds supplied by the Secretary of Education in accordance with 20 U.S.C. 7301.

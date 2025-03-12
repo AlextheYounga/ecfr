@@ -1,0 +1,3 @@
+##### § 214.12 Time of payment of royalties. #####
+
+Royalties on all minerals produced in any quarter (January-March, April-June, July-September, October-December) shall be paid on or before the 25th day of the month next succeeding, and the remittance shaIl be accompanied by sworn reports covering all operations, whether there has been production or not. Annual advance rentals shall be paid within 10 days after the beginning of the lease year.

@@ -1,0 +1,3 @@
+##### § 152.18 Sale with the consent of natural guardian or person designated by the Secretary. #####
+
+Pursuant to the Act of May 29, 1908 (35 Stat. 444; 25 U.S.C. 404), the Secretary may, with the consent of the natural guardian of a minor, sell trust or restricted land belonging to such minor; and the Secretary may, with the consent of a person designated by him, sell trust or restricted land belonging to Indians who are minor orphans without a natural guardian, and Indians who are non compos mentis or otherwise under legal disability. The authority contained in this act is not applicable to lands in Oklahoma, Minnesota, and South Dakota, nor to lands authorized to be sold by the Act of May 14, 1948 (62 Stat. 236; 25 U.S.C. 483).

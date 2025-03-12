@@ -1,0 +1,3 @@
+##### § 226.23 Easements for wells off leased premises. #####
+
+The Superintendent, with the consent of the Osage Tribal Council, may grant commercial and noncommercial easements for wells off the leased premises to be used for purposes associated with oil and gas production. Rental payable to the Osage Tribe for such easements shall be an amount agreed to by Grantee and the Osage Tribal Council subject to the approval of the Superintendent. Grantee shall be responsible for all damages resulting from the use of such wells and settlement therefor shall be made as provided in § 226.21.

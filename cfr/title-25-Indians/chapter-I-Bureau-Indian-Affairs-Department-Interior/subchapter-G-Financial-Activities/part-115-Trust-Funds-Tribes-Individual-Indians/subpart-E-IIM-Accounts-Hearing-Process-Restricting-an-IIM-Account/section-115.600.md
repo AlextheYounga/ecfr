@@ -1,0 +1,3 @@
+##### § 115.600 If BIA decides to restrict your IIM account under § 115.102 or § 115.104, what procedures must the BIA follow? #####
+
+If under § 115.102 or § 115.104, the BIA has decided to limit your access to your IIM account (*i.e.,* decided to supervise the IIM account), or if the BIA has decided to pay creditors with funds from your IIM account, including creditors with judgments from Courts of Indian Offenses for which preliminary procedures are prescribed in 25 CFR 11.208, the BIA must notify you or your guardian, as applicable, to provide you or your guardian, as applicable, with an opportunity to challenge the BIA's decision to restrict your IIM account as specified in subpart E.

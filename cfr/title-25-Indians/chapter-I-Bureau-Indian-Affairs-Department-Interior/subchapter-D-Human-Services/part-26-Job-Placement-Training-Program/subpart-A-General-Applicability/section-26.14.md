@@ -1,0 +1,3 @@
+##### § 26.14 What or who is a service provider? #####
+
+A service provider is an administrative unit of a BIA Regional Office, a BIA Agency Office, a BIA Field Office, a Tribal contracted office, or Alaska Native federally recognized tribe, or a tribal organization, that provides grants to help offset the cost of vocational or technical training (at approved places), or immediate job placement services. To the extent resources will allow, other kinds of support service may also be available.

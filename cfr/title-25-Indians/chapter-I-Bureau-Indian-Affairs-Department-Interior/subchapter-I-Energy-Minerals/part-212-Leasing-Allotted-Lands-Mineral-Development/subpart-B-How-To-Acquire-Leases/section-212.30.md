@@ -1,0 +1,5 @@
+##### § 212.30 Removal of restrictions. #####
+
+(a) Notwithstanding the provisions of any mineral lease to the contrary, the removal of all restrictions against alienation shall operate to divest the Secretary of all supervisory authority and responsibility with respect to the lease. Thereafter, all payments required to be made under the lease shall be made directly to the owner(s).
+
+(b) In the event restrictions are removed from a part of the land included in any lease approved by the Secretary, the entire lease shall continue to be subject to the supervision of the Secretary until such times as the holder of the lease and the unrestricted Indian owner submits to the Secretary satisfactory evidence that adequate arrangements have been made to account for the mineral resources of the restricted land separately from those of the unrestricted. Thereafter, the unrestricted portion shall be relieved from the supervision of the Secretary, the lease, the regulations of this part, and all other applicable laws and regulations.

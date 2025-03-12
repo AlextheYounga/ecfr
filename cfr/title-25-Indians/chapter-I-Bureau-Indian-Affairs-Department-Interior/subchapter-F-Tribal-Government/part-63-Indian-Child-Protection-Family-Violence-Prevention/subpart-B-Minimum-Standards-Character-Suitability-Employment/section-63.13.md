@@ -1,0 +1,5 @@
+##### § 63.13 What does the Indian Child Protection and Family Violence Prevention Act require of the Bureau of Indian Affairs and Indian tribes or tribal organizations receiving funds under the Indian Self-Determination and Education Assistance Act or the Tribally Controlled Schools Act? #####
+
+(a) The *Bureau of Indian Affairs* must compile a list of all authorized positions which involve regular contact with or control over Indian children; investigate the character of each individual who is employed, or is being considered for employment; and, prescribe minimum standards of character which each individual must meet to be appointed to such positions.
+
+(b) All *Indian tribes or tribal organizations* receiving funds under the authority of the Indian Self-Determination and Education Assistance Act or the Tribally Controlled Schools Act of 1988 must conduct a background investigation for individuals whose duties and responsibilities would allow them regular contact with or control over Indian children, and employ only individuals who meet standards of character that are no less stringent than those prescribed for the Bureau of Indian Affairs.

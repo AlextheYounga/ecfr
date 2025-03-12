@@ -1,0 +1,5 @@
+##### § 11.1115 Information collection. #####
+
+(a) The information collection requirements contained in § 11.600 and § 11.606 have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.,* and assigned approval number 1076-0094. The information is being collected to obtain a marriage license (§ 11.600) and a divorce decree (§ 11.606) from the Courts of Indian Offenses, and will be used by the courts to issue a marriage license or divorce decree. Response to this request is required to obtain a benefit.
+
+(b) Public reporting for this information collection is estimated to average .25 hours per response, including the time for reviewing instructions, gathering and maintaining data, and completing and reviewing the information collection. Direct comments regarding the burden estimate or any other aspect of this information collection to the Bureau of Indian Affairs, Information Collection Clearance Officer, Room 336-SIB, 1849 C Street, NW., Washington, DC 20240; and the Office of Information and Regulatory Affairs [Project 1076-0094], Office of Management and Budget, Washington, DC 20502.

@@ -1,0 +1,3 @@
+##### § 103.7 Must the borrower have equity in the business being financed? #####
+
+The borrower must be projected to have at least 20 percent equity in the business being financed, immediately after the loan is funded. If a substantial portion of the loan is for construction or renovation, the borrower's equity may be calculated based upon the reasonable estimated value of the borrower's assets after completion of the construction or renovation.

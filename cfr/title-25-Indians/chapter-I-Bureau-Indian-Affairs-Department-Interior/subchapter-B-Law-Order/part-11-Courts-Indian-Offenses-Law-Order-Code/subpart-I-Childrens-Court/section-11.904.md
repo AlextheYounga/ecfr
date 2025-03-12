@@ -1,0 +1,3 @@
+##### § 11.904 Guardian ad litem. #####
+
+The children's court, under any proceeding authorized by this part, shall appoint, for the purposes of the proceeding, a guardian ad litem for a minor, where the court finds that the minor does not have a natural or adoptive parent, guardian or custodian willing and able to exercise effective guardianship, or where the parent, guardian, or custodian has been accused of abusing or neglecting the minor.

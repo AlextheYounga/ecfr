@@ -1,0 +1,3 @@
+##### § 584.13 May I file an objection to the recommended decision? #####
+
+Yes. Within 20 days after service of the presiding official's recommended decision, any party may file objections with the Commission to any aspect of the decision and the reasons therefore, unless the recommended decision is to dissolve or make permanent a temporary closure order issued under § 573.4 of this chapter, in which case objections to the recommended decision must be filed within 5 days after service of the recommended decision.

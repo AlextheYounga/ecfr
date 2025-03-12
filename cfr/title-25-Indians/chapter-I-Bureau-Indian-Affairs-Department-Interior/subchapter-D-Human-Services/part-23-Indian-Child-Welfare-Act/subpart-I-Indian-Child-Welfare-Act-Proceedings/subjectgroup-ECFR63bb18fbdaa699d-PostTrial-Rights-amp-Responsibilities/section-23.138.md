@@ -1,0 +1,3 @@
+##### § 23.138 What are the rights to information about adoptees' Tribal affiliations? #####
+
+Upon application by an Indian who has reached age 18 who was the subject of an adoptive placement, the court that entered the final decree of adoption must inform such individual of the Tribal affiliations, if any, of the individual's biological parents and provide such other information necessary to protect any rights, which may include Tribal membership, resulting from the individual's Tribal relationship.

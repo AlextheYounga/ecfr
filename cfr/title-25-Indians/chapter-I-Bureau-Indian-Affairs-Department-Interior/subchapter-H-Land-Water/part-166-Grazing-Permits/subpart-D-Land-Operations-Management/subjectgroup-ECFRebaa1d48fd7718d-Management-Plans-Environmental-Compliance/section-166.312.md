@@ -1,0 +1,3 @@
+##### § 166.312 Is a conservation plan required? #####
+
+A conservation plan must be developed for each permit with the permittee and approved by us prior to the issuance of the permit. The conservation plan must be consistent with the tribe's agricultural resource management plan and must address the permittee's management objectives regarding animal husbandry and resource conservation. The conservation plan must cover the entire permit period and reviewed by us on an annual basis.

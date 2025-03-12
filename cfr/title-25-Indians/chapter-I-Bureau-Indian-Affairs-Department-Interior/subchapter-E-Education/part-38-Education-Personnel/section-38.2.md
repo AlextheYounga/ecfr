@@ -1,0 +1,5 @@
+##### § 38.2 Information collection. #####
+
+(a) The information collection requirements contained in § 38.5 use Standard Form 171 for collection, and have been approved by OMB under 25 U.S.C. 2011 and 2015 and assigned approval number 3206-0012. The sponsoring agency for the Standard Form 171, is the Office of Personnel Management. The information is being collected to determine eligibility for employment. The information will be used to rate the qualifications of applicants for employment. Response is mandatory for employment.
+
+(b) The information collection requirement for § 38.14, Voluntary Services has been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.* and assigned clearance number 1076-0116. The information is being collected to determine an applicants eligibility and selection for appropriate volunteer assignments. Response is voluntary.

@@ -1,0 +1,7 @@
+##### § 103.29 What if the lender transfers the entire loan? #####
+
+(a) A lender may transfer all of its rights in a guaranteed loan to any other person. The acquiring person must send BIA written notice of the transfer, describing the borrower, the loan, BIA's loan guaranty certificate number, and the acquiring person's name and address. Starting on the date of the transfer, only the acquiring person will be entitled to exercise the rights conferred by BIA's loan guaranty certificate, and will from that point forward be considered the lender for purposes of the Program. The acquiring person must service the guaranteed loan and otherwise perform all of the duties required of the lender under the Program and the loan guaranty certificate. Except when a transfer is effected by a merger, any failure by the acquiring person to send BIA proper notice of the transfer within 30 calendar days of the transfer date will void BIA's loan guaranty certificate, without further action.
+
+(b) Transferring an insured loan to another person will void the insurance coverage for that loan, except where the transfer is effected by a merger.
+
+(c) If a lender is not the surviving entity after a merger, the lender's successor must notify BIA in writing of the change within 30 calendar days of the merger. The lender also must re-apply to become an approved lender under the Program, as indicated in § 103.11.

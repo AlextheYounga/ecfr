@@ -1,0 +1,5 @@
+##### § 514.11 Can a tribe or gaming operation appeal a proposed late fee? #####
+
+(a) Proposed late fees assessed by the Chair may be appealed under subchapter H of this chapter.
+
+(b) At any time prior to the filing of a notice of appeal under subchapter H of this chapter, the Chair and the respondent may agree to settle the notice of late submission, including the amount of the proposed late fee. In the event a settlement is reached, a settlement agreement shall be prepared and executed by the Chair and the respondent. If a settlement agreement is executed, the respondent shall be deemed to have waived all rights to further review of the notice or late fee in question, except as otherwise provided expressly in the settlement agreement. In the absence of a settlement of the issues under this paragraph, the respondent may contest the proposed late fee before the Commission in accordance with subchapter H of this chapter.

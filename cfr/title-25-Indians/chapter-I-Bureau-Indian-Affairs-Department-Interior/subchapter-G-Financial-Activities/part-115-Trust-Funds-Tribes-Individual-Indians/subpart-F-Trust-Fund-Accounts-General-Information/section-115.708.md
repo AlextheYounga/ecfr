@@ -1,0 +1,3 @@
+##### § 115.708 How quickly will trust funds received by the Secretary on behalf of tribes or individual Indians be deposited into a trust account? #####
+
+Trust funds received by the Secretary on behalf of a tribe or individual Indians will be deposited into a trust account within twenty-four hours, or no later than the close of business on the next business day following the receipt of funds at a location with a designated federal depository.

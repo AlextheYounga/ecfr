@@ -1,0 +1,3 @@
+##### § 158.53 Order to change designation of homestead. #####
+
+The application of an Osage allottee, or his legal guardian, may be approved by the Secretary of the Interior, or his authorized representative, and an order issued to change designation of homestead, if it is found that the applicant owns an equal area of surplus land. The expense of recording the order shall be borne by the applicant. The order to change designation shall be made on the form “Order to Change Designation of Homestead.”

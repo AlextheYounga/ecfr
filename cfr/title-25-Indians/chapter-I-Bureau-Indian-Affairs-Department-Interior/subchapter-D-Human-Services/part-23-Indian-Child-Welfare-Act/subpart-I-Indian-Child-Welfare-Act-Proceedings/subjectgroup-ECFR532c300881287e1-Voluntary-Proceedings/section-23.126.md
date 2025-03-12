@@ -1,0 +1,5 @@
+##### § 23.126 What information must a consent document contain? #####
+
+(a) If there are any conditions to the consent, the written consent must clearly set out the conditions.
+
+(b) A written consent to foster-care placement should contain, in addition to the information specified in paragraph (a) of this section, the name and birthdate of the Indian child; the name of the Indian child's Tribe; the Tribal enrollment number for the parent and for the Indian child, where known, or some other indication of the child's membership in the Tribe; the name, address, and other identifying information of the consenting parent or Indian custodian; the name and address of the person or entity, if any, who arranged the placement; and the name and address of the prospective foster parents, if known at the time.

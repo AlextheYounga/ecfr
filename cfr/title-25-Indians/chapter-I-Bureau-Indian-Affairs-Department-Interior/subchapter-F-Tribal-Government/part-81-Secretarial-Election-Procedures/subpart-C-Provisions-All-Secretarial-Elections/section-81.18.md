@@ -1,0 +1,3 @@
+##### § 81.18 Who can withdraw a request for a Secretarial election? #####
+
+The tribe may withdraw the request for Secretarial election in the same manner in which the Secretarial election was requested. The petitioners may withdraw the request for Secretarial election by submitting a new petition, with signatures of at least a majority of the signers of the original petition, seeking withdrawal of the original petition. However, the request for a Secretarial election cannot be withdrawn after the established deadline for voter registration.

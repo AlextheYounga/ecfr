@@ -1,0 +1,3 @@
+##### § 161.201 Is environmental compliance required? #####
+
+Actions taken by BIA under this part must comply with the National Environmental Policy Act of 1969, 42 U.S.C. 4321 *et seq.,* applicable provisions of the Council on Environmental Quality, 40 CFR part 1500, and applicable tribal laws and provisions of the Navajo Nation Environmental Policy Act CAP-47-95, where the tribal laws and provisions do not violate a federal or judicial decision or conflict with the Secretary's trust responsibility under federal law.

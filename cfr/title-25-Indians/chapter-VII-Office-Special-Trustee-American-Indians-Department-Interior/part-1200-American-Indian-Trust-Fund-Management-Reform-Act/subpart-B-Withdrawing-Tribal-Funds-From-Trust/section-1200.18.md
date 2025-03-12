@@ -1,0 +1,3 @@
+##### § 1200.18 When does the Department's trust responsibility end? #####
+
+Our trust responsibility for funds withdrawn under this part ends on the date that the funds are withdrawn. However at the time of withdrawal neither we nor the tribe may be deemed to have accepted the account balance at the time of withdrawal as accurate; or waived any rights regarding the balance and our ability to seek compensation.

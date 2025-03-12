@@ -1,0 +1,3 @@
+##### § 152.2 Withholding action on application. #####
+
+Action on any application, which if approved would remove Indian land from restricted or trust status, may be withheld, if the Secretary determines that such removal would adversely affect the best interest of other Indians, or the tribes, until the other Indians or the tribes so affected have had a reasonable opportunity to acquire the land from the applicant. If action on the application is to be withheld, the applicant shall be advised that he has the right to appeal the withholding action pursuant to the provisions of part 2 of this chapter.

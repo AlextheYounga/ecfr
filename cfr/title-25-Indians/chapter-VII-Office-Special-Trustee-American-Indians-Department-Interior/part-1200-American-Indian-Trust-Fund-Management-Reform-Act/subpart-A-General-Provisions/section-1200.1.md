@@ -1,0 +1,3 @@
+##### § 1200.1 Purpose of this regulation. #####
+
+This part describes the processes by which Indian tribes can manage tribal funds currently held in trust by the United States. It defines how tribes may withdraw their funds from trust status; how they may return funds to trust; and how they may request technical assistance or grants to help prepare plans to manage funds or to ensure the capability to manage those funds.

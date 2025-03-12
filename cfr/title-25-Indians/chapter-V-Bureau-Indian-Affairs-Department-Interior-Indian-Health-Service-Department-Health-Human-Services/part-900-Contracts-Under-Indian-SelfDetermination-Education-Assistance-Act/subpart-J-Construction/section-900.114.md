@@ -1,0 +1,3 @@
+##### § 900.114 Why is there a separate subpart in these regulations for construction contracts and grants? #####
+
+There is a separate subpart because the Act differentiates between construction contracts and the model agreement in section 108 of the Act which is required for contracting other activities. Construction contracts are separately defined in the Act and are subject to a separate proposal and review process.

@@ -1,0 +1,3 @@
+##### § 1000.45 How many grants will the Department make each year and what funding will be available? #####
+
+The number and size of grants awarded each year will depend on Congressional appropriations and Tribal interest. By no later than January 1 of each year, the Director will publish a notice in the Federal Register that provides relevant details about the application process, including the funds available, timeframes, and requirements for negotiation grants, advance planning grants, and financial assistance as described in subpart D of this part.

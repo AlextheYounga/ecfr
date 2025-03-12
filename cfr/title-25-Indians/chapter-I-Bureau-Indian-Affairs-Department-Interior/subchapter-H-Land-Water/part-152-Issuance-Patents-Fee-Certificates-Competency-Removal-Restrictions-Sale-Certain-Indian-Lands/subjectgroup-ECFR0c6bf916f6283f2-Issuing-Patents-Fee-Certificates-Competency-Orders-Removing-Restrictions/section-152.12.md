@@ -1,0 +1,7 @@
+##### § 152.12 Removal of restrictions, Five Civilized Tribes, after application under authority other than section 2(a) of the Act of August 11, 1955. #####
+
+When an Indian of the Five Civilized Tribes makes application for removal of restrictions from his restricted lands under authority other than section 2(a) of the Act of August 11, 1955 (69 Stat. 666), such application may be for either unconditional removal of restrictions or conditional removal of restrictions, but shall not include lands or interest in lands acquired by inheritance or devise.
+
+(a) If the application is for unconditional removal of restrictions and the Secretary, in his discretion, determines the applicant should have the unrestricted control of that land described in his application, the Secretary may issue an order removing restrictions therefrom.
+
+(b) When the Secretary, in his discretion, finds that in the best interest of the applicant all or part of the land described in the application should be sold with conditions concerning terms of sale and disposal of the proceeds, the Secretary may issue a conditional order removing restrictions which shall be effective only and simultaneously with the execution of a deed by said applicant upon completion of an advertised sale or negotiated sale acceptable to the Secretary.

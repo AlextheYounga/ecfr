@@ -1,0 +1,3 @@
+##### § 152.20 Sale by Secretary of certain land in multiple ownership. #####
+
+Pursuant to the Act of June 25, 1910 (36 Stat. 855), as amended (25 U.S.C. 372), if the Secretary decides that one or more of the heirs who have inherited trust land are incapable of managing their own affairs, he may sell any or all interests in that land. This authority is not applicable to lands authorized to be sold by the Act of May 14, 1948 (62 Stat. 236; 25 U.S.C. 483).

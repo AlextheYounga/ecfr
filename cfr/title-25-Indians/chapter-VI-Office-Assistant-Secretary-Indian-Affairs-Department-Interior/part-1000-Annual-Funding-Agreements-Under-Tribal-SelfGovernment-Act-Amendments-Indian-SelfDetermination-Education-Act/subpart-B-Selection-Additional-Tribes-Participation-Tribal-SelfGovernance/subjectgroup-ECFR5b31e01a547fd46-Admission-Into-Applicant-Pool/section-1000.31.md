@@ -1,0 +1,3 @@
+##### § 1000.31 May a Tribe/Consortium be selected to negotiate an AFA under section 403(c) without negotiating an AFA under section 403(b)(1) and/or section 403(b)(2)? #####
+
+No, section 403(c) of the Act states that any programs of special geographic, cultural, or historical significance to the Tribe/Consortium must be included in AFAs negotiated under section 403(a) and/or section 403(b). A Tribe may be selected to negotiate an AFA under section 403(c) at the same time that it negotiates an AFA under section 403(b)(1) and/or section 403(b)(2).

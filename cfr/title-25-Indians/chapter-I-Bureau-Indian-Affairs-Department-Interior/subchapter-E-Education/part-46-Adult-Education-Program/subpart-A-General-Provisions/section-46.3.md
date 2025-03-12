@@ -1,0 +1,5 @@
+##### § 46.3 Information collection. #####
+
+Information collection requirements contained in this part have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.* and assigned control number 1076-0120. This information is being collected to assess the need for adult education programs. The information collection is used to manage program resources and for fiscal accountability and appropriate direct services documentation. Response to this request is necessary to obtain or retain a benefit. Public reporting burden for this form is estimated to average 4 hours per response including time for reviewing instructions, gathering, maintaining data, completing and reviewing the form. Direct comments regarding the burden estimate or any other aspect of this form to the BIA Information Collection Clearance Officer, 1849 C Street NW., Washington, DC 20240.
+
+[67 FR 13570, Mar. 25, 2002]

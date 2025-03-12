@@ -1,0 +1,3 @@
+##### § 115.706 When funds are awarded or assessed by a court of competent jurisdiction in a cause of action involving trust assets, what documentation is required to deposit the trust funds into a trust account? #####
+
+When funds are awarded or assessed by a court of competent jurisdiction in a cause of action involving trust assets, we must receive the funds awarded as stipulated in the court order and a copy of the court's order.

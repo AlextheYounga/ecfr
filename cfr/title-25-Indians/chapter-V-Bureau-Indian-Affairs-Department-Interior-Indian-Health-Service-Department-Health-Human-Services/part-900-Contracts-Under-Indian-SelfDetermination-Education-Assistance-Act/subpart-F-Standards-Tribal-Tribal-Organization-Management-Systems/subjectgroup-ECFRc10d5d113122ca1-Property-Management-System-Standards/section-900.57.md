@@ -1,0 +1,3 @@
+##### § 900.57 What if the Indian tribe or tribal organization chooses not to take title to property furnished or acquired under the contract? #####
+
+If the Indian tribe or tribal organization chooses not to take title to property furnished by the government or acquired with contract funds, title to the property remains vested in the Secretary. A list of Federally-owned property to be used under the contract shall be included in the contract.

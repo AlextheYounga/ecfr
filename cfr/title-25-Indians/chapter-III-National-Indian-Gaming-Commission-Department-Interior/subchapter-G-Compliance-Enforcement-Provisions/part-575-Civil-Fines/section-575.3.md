@@ -1,0 +1,3 @@
+##### § 575.3 How assessments are made. #####
+
+The Chairman shall review each notice of violation and order of temporary closure in accordance with § 575.4 of this part to determine whether a civil fine will be assessed, the amount of the fine, and, in the case of continuing violations, whether each daily illegal act or omission will be deemed a separate violation for purposes of the total civil fine assessed.

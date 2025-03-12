@@ -1,0 +1,5 @@
+##### § 115.416 Will the United States post office forward mail regarding a minor's supervised account to a forwarding address left with the United States post office? #####
+
+(a) Federal law does not allow the United States post office to forward checks that are issued by the federal government. Therefore, a check from a minor's supervised account will not be forwarded to an address left with the United States post office. The new address of record must be provided directly to BIA.
+
+(b) Where a forwarding address has been provided to the United States post office, the United States post office will forward a statement of performance and general correspondence regarding a minor's supervised account that is mailed to the minor's address of record for a limited time period. However, it is the responsibility of a custodial parent, legal guardian, or emancipated minor to give BIA the new address of record for the minor's supervised account.

@@ -1,0 +1,3 @@
+##### § 17.11 Inspection of wills and approval as to form during testator's lifetime. #####
+
+When a will has been executed and filed with the superintendent during the lifetime of the testator, the will shall be considered by the special attorney who may endorse on such will “approved as to form.” A will shall be held in absolute confidence and its contents shall not be divulged prior to the death of the testator.

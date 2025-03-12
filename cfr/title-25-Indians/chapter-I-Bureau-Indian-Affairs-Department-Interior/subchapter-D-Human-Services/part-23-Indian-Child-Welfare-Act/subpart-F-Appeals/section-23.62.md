@@ -1,0 +1,3 @@
+##### § 23.62 Appeals from decision or action by Regional Director under subpart D. #####
+
+A grantee or applicant may appeal any decision made or action taken by the Regional Director under subpart D that is alleged to be in violation of the U.S. Constitution, Federal statutes, or the regulations of this part. These appeals shall be filed with the Interior Board of Indian Appeals in accordance with 25 CFR 2.4 (e); 43 CFR 4.310 through 4.318 and 43 CFR 4.330 through 4.340. However, an applicant may not appeal a score assigned to its application or the amount of grant funds awarded.

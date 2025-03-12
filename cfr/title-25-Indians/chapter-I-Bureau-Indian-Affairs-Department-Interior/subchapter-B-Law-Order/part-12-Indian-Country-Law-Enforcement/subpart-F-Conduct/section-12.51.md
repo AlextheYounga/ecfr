@@ -1,0 +1,3 @@
+##### § 12.51 Must Indian country law enforcement officers follow a code of conduct? #####
+
+All law enforcement programs receiving Bureau of Indian Affairs funding or commissioning must establish a law enforcement code of conduct which establishes specific guidelines for conduct on and off duty, impartiality, and professional conduct in the performance of duty, and acceptance of gifts or favors. Each officer must acknowledge in writing receiving and understanding of this code of conduct. The acknowledgment will remain on file with the law enforcement program manager as long as the officer is employed there. Training will be conducted on this code of conduct and other ethics issues at least once each year.

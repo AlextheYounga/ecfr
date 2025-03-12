@@ -1,0 +1,3 @@
+##### § 62.8 Advising the tribal committee. #####
+
+Whenever applicable, the Superintendent or Director shall notify the tribal committee of the receipt of the appeal and shall give the tribal committee the opportunity to examine the appeal and to present such evidence as it may consider pertinent to the action being appealed. The tribal committee shall have not to exceed 30 days from receipt of notification of the appeal in which to present in writing such statements as if may deem pertinent, supported by any tribal records which have a bearing on the case. The Director or Superintendent may grant the tribal committee additional time, upon request, for its review.

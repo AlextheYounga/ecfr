@@ -1,0 +1,3 @@
+##### § 17.5 Minors represented at hearings. #####
+
+Minor heirs at law, who by the terms of the will are devised a lesser interest in the estate than they would take by descent, of whose interests are challenged, shall, with the approval of the special attorney, be represented at the hearing by guardians ad litem. Such minors 14 years of age or over may indicate in writing their choice of guardians ad litem. If no such choice has been indicated on the date of the hearing, the special attorney shall make the selection and appointment.

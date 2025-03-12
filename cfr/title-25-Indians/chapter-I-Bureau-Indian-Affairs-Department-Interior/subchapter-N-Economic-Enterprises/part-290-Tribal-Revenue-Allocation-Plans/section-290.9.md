@@ -1,0 +1,3 @@
+##### § 290.9 How may an Indian tribe use net gaming revenues if it does not have an approved tribal revenue allocation plan? #####
+
+Without an approved tribal revenue allocation plan, you may use net gaming revenues to fund tribal government operations or programs; to provide for the general welfare of your tribe and its members; to promote tribal economic development; to donate to charitable organizations; or to help fund operations of local government agencies.

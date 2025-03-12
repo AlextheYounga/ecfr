@@ -1,0 +1,3 @@
+##### § 167.14 Movement of livestock. #####
+
+Annually, prior to the normal lamb buying season, the Central Grazing Committee after consultation with District Grazing Committees shall issue regulations covering the buying period and the procedures and methods to be used in moving livestock to market. All movements of livestock other than trucking from buying areas to loading or shipping points must be authorized by Trailing Permits issued by the District Grazing Committees on the approved forms. Failure to comply with this section and with annual lamb buying regulations will be considered as trespass.

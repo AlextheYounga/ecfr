@@ -1,0 +1,3 @@
+##### § 18.401 How does the Paperwork Reduction Act affect this part? #####
+
+The collection of information contained in this part has been approved by the Office of Management and Budget under the Paperwork Reduction Act, 44 U.S.C. 3501 *et seq.,* and assigned OMB Control Number 1076-0168. Response is required to obtain a benefit. A Federal agency may not conduct or sponsor, and members of the public are not required to respond to, a collection of information unless the form or regulation requesting the information displays a currently valid OMB Control Number.

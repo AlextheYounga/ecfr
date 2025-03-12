@@ -1,0 +1,3 @@
+##### § 117.6 Allowance for minors. #####
+
+The superintendent may disburse from the surplus funds of an Indian under 21 years of age not to exceed $300 quarterly for the support and maintenance of the minor. Disbursement may be made to the parent, guardian, or other person, school or institution having actual custody of the minor, or, when the minor is 18 years of age or over, disbursement may be made direct to the minor.

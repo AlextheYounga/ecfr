@@ -1,0 +1,3 @@
+##### § 117.20 Purchase orders. #####
+
+Purchase orders may be issued by the superintendent for expenditures authorized by the regulations in this part or for expenditures specifically authorized by the Commissioner. When necessary to prevent hardship or suffering, purchase orders may be issued by the superintendent against the future income of an Indian in an amount not to exceed 80 percent of the anticipated quarterly payment. The payment of purchase orders issued against future income shall be contingent upon the availability of funds.

@@ -1,0 +1,3 @@
+##### § 225.31 Manner of payments. #####
+
+Unless specified otherwise in the minerals agreement, after production has been established, all payments due for royalties, bonuses, rentals and other payments under a minerals agreement shall be made to the Secretary or such other party as may be designated, and shall be made at such time as provided in 30 CFR chapter II, subchapters A and C. Prior to production, all bonus and rental payments, shall be made to the Superintendent or Area Director.

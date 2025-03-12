@@ -1,0 +1,3 @@
+##### § 214.2 Sale of leases. #####
+
+Leases of minerals other than oil and gas may be negotiated with the tribal council after permission to do so has been obtained from the officer in charge. Leases with all papers required, shall be filed with the officer in charge within 30 days from the date of execution by the lessee and the principal chief of the Osage Tribe. The lease will be forwarded to the Commissioner of Indian Affairs for consideration by him and the Secretary of the Interior and will become effective only after approval by the Secretary of the Interior. If any lease should be disapproved through no fault of the lessee, all amounts deposited by him will be promptly refunded.

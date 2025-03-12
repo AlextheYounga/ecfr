@@ -1,0 +1,3 @@
+##### § 20.210 Can eligibility criteria or payments for Burial Assistance, Child Assistance, and Disaster Assistance and Emergency Assistance change? #####
+
+No, unless otherwise provided by law, the Bureau nor a tribe may change eligibility criteria or levels of payment for Burial Assistance, Child Assistance, Disaster Assistance, and Emergency Assistance awarded in Public Law 93-638 contracts, Public Law 102-477 grants, or Public Law 103-413 self-governance annual funding agreements.

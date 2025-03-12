@@ -1,0 +1,23 @@
+##### § 900.45 What specific minimum requirements shall an Indian tribe or tribal organization's financial management system contain to meet these standards? #####
+
+An Indian tribe or tribal organization's financial management system shall include provisions for the following seven elements.
+
+(a) *Financial reports.* The financial management system shall provide for accurate, current, and complete disclosure of the financial results of self-determination contract activities. This includes providing the Secretary a completed Financial Status Report, SF 269A, as negotiated and agreed to in the self-determination contract.
+
+(b) *Accounting records.* The financial management system shall maintain records sufficiently detailed to identify the source and application of self-determination contract funds received by the Indian tribe or tribal organization. The system shall contain sufficient information to identify contract awards, obligations and unobligated balances, assets, liabilities, outlays, or expenditures and income.
+
+(c) *Internal controls.* The financial management system shall maintain effective control and accountability for all self-determination contract funds received and for all Federal real property, personal property, and other assets furnished for use by the Indian tribe or tribal organization under the self-determination contract.
+
+(d) *Budget controls.* The financial management system shall permit the comparison of actual expenditures or outlays with the amounts budgeted by the Indian tribe or tribal organization for each self-determination contract.
+
+(e) *Allowable costs.* The financial management system shall be sufficient to determine the reasonableness, allowability, and allocability of self-determination contract costs based upon the terms of the self-determination contract and the Indian tribe or tribal organization's applicable OMB cost principles, as amended by the Act and these regulations. (The following chart lists certain OMB Circulars and suggests the entities that may use each, but the final selection of the applicable circular may differ from those shown, as agreed to by the Indian tribe or tribal organization and the Secretary. Agreements between an Indian tribe or tribal organization and the Secretary currently in place do not require renegotiation.) Copies of these circulars are available from the Executive Office of the President, Publications Service, 725 17th Street N. W., Washington, D. C. 20503.
+
+|                                                                          Type of tribal organization                                                                           |                     Applicable OMB cost circular                      |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+|                                                                               Tribal Government                                                                                |A-87, “Cost Principles for State, Local and Indian Tribal Governments.”|
+|Tribal private non-profit other than: (1) an institution of higher education, (2) a hospital, or (3) an organization named in OMB Circular A-122 as not subject to that circular|        A-122, “Cost Principles for Non-Profit Organizations.”         |
+|                                                                         Tribal educational institution                                                                         |         A-21, “Cost Principles for Educational Institutions.”         |
+
+(f) *Source documentation.* The financial management system shall contain accounting records that are supported by source documentation, e.g., canceled checks, paid bills, payroll records, time and attendance records, contract award documents, purchase orders, and other primary records that support self-determination contract fund expenditures.
+
+(g) *Cash management.* The financial management system shall provide for accurate, current, and complete disclosure of cash revenues disbursements, cash-on-hand balances, and obligations by source and application for each Indian tribe or tribal organization, and subcontractor if applicable, so that complete and accurate cash transactions may be prepared as required by the self-determination contract.

@@ -1,0 +1,3 @@
+##### § 135.1 Contracts. #####
+
+Under provisions of the act of Congress approved June 28, 1946 (60 Stat. 333-338), contracts were executed June 28, 1951, by the United States with the Lower Little Horn and Lodge Grass Irrigation District and the Upper Little Horn Irrigation District providing for the payment, over a period of 40 years, by each of the Districts of its respective share of the sum of $210,726 expended for the construction of the Willow Creek storage works on account of non-Indian lands within the Districts entitled to share in the storage water, directly or by substitution.

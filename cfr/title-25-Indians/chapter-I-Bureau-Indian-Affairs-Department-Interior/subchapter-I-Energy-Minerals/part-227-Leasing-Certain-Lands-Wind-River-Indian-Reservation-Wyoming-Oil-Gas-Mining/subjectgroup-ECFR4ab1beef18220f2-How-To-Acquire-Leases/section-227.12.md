@@ -1,0 +1,3 @@
+##### § 227.12 Mineral reserves in nonmineral entries. #####
+
+Where lands have been leased under authority of said act of August 21, 1916 (39 Stat. 519), and nonmineral entry is subsequently lawfully made for such lands with a view to obtaining a restricted patent therefor, all such subsequently allowed nonmineral entries shall be with the mineral reservation prescribed by the act of July 17, 1914 (38 Stat. 509).

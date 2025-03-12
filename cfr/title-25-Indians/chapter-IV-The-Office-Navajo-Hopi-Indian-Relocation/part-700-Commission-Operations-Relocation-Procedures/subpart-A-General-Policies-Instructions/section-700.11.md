@@ -1,0 +1,3 @@
+##### § 700.11 Manner of notice. #####
+
+Each notice which the Commission is required to provide under these regulations shall be personally served, receipt documented, or sent by certified or registered first-class mail, return receipt requested. Each notice shall be written in plain understandable language. Recipients who notify the Commission that they are unable to read and understand the notice will be provided with appropriate translation and counseling. Each notice shall indicate the name and telephone number of a person who may be contacted for answers to questions or other needed help.

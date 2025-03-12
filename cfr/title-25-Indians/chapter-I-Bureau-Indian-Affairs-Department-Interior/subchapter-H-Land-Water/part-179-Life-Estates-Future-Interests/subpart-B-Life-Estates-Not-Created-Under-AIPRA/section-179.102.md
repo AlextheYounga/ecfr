@@ -1,0 +1,5 @@
+##### § 179.102 How does the Secretary calculate the value of a remainder and a life estate? #####
+
+(a) If income is subject to division, the Secretary will use Actuarial Table S, Valuation of Annuities, found at 26 CFR 20.2031, to determine the value of the interests of the holders of remainder interests and the life tenant.
+
+(b) Actuarial Table S, Valuation of Annuities, specifies the share attributable to the life estate and remainder interests, given the age of the life tenant and an established rate of return published by the Secretary in the Federal Register. We may periodically review and revise the percent rate of return to be used to determine the share attributable to the interests of the life tenant and the holders of remainder interests. The life tenant will receive the balance of the distribution after the shares of the holders of remainder interests have been calculated.

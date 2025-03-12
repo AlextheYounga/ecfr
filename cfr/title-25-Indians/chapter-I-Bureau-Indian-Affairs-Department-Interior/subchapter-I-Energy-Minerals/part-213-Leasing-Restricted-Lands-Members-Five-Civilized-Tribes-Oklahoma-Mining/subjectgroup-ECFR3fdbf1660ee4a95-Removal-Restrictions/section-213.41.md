@@ -1,0 +1,3 @@
+##### § 213.41 Leases executed but not approved before restrictions removed from land. #####
+
+Leases executed before the removal of restrictions against alienation on land from all of which restrictions against alienation shall be removed after such execution, if such leases contain specific provisions for approval by the Secretary of the Interior, whether now filed with the Department or presented for consideration hereafter, will be considered and acted upon by this Department as heretofore but only for the purpose of approving or disapproving the instrument.

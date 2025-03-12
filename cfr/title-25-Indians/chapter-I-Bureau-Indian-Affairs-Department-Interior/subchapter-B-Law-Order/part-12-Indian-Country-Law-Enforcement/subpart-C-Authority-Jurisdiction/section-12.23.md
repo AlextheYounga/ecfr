@@ -1,0 +1,3 @@
+##### § 12.23 What are the jurisdictional limits in Indian country? #####
+
+The Department of the Interior and the Department of Justice must maintain and periodically review and update a memorandum of understanding describing the relationship between the Federal Bureau of Investigation and the Bureau of Indian Affairs in the investigation and prosecution of major crimes in Indian country. Any law enforcement programs performing duties under the authority of 25 U.S.C. 2803 must follow the guidelines in the memorandum of understanding and any local United States Attorney's guidelines for the investigation and prosecution of Federal crimes.

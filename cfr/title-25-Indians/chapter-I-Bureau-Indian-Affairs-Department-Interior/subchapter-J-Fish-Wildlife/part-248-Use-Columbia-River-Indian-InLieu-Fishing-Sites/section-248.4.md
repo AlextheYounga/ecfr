@@ -1,0 +1,3 @@
+##### § 248.4 Applicability of laws and regulations. #####
+
+No Indian shall use any of the sites for any activity that is contrary to the provisions of any applicable law or regulation of his tribe or contrary to any applicable State or Federal law or regulation. The Area Director may in his discretion suspend or withdraw privileges for future access to or use of the sites for violation of such laws and regulations: *Provided,* That, nothing contained in the regulations in this part is intended or shall be construed as limiting or affecting any treaty rights of any tribe nor as subjecting any Indian properly exercising tribal treaty rights to State fishing laws or regulations which are not compatible with such rights.

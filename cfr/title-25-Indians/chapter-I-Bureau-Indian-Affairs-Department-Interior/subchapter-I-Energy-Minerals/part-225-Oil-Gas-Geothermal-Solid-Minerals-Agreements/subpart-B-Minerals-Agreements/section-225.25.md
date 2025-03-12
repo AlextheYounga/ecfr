@@ -1,0 +1,3 @@
+##### § 225.25 Resolution of disputes. #####
+
+A minerals agreement shall contain provisions for resolving disputes that may arise between the parties. However, no such provision shall limit the Secretary's authority or ability to ensure that the rights of an Indian mineral owner are protected in the event of a violation of the provisions of the minerals agreement by any other party to the minerals agreement.

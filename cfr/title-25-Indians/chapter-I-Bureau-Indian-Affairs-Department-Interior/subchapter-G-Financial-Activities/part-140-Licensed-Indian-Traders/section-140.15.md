@@ -1,0 +1,3 @@
+##### § 140.15 License applicable for trading only by original licensee. #####
+
+No trader will be allowed to lease, sublet, rent, or sell any of the buildings which he occupies, for any purpose to any other person or concern, without the approval of the Commissioner of Indian Affairs. A license to trade with Indians does not confer upon the trader any right or privileges in respect to the herding or raising of livestock upon the reservation. The use of reservation lands, whether tribal or allotted, for such purposes can be obtained by a trader only upon the terms and under the restrictions which apply to other persons. His license gives him no advantage over others in this respect.

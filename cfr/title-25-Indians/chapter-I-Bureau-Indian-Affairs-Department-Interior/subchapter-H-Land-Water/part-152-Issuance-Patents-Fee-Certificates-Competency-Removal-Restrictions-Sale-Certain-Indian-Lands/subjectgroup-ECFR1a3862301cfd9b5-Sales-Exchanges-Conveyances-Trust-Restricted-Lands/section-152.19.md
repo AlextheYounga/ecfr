@@ -1,0 +1,3 @@
+##### § 152.19 Sale by fiduciaries. #####
+
+Guardians, conservators, or other fiduciaries appointed by State courts, or by tribal courts operating under approved constitutions or law and order codes, may, upon order of the court, convey with the approval of the Secretary or consent to the conveyance by the Secretary of trust or restricted land belonging to their Indian wards who are minors, non compos mentis or otherwise under legal disability. This section is subject to the exceptions contained in 25 U.S.C. 954(b).

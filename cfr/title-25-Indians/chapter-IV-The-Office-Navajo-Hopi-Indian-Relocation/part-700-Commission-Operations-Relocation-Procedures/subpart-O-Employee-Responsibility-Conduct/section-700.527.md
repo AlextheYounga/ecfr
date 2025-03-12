@@ -1,0 +1,3 @@
+##### § 700.527 Endorsements. #####
+
+Employees are prohibited from endorsing in an official capacity business products or processes or the services of commercial firms for advertising publicity or sale purposes. Use of materials, products or services, by the Commission does not constitute official endorsement. Employees may not recommend for or against any particular builder, supplier, realtor, contractor or other person or business seeking to sell any product or service to relocatees.

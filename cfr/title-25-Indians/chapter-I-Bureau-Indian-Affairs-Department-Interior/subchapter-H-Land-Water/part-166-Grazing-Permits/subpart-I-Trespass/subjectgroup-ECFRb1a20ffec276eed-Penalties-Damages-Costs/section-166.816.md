@@ -1,0 +1,3 @@
+##### § 166.816 How will the BIA determine the costs associated with enforcement of the trespass? #####
+
+Costs of enforcement may include detection and all actions taken by us through prosecution and collection of damages. This includes field examination and survey, damage appraisal, investigation assistance and report preparation, witness expenses, demand letters, court costs, attorney fees, and other costs.

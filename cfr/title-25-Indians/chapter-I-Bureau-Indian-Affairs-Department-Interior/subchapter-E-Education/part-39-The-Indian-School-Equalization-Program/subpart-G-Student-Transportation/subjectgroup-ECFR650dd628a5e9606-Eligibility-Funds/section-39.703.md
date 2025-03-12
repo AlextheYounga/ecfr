@@ -1,0 +1,3 @@
+##### § 39.703 What ground transportation costs are covered for students traveling by commercial transportation? #####
+
+This section applies only if a school transports residential students by commercial bus, train or airplane from home to school. The school may receive funds for the ground miles that the school has to drive to deliver the students or their luggage from the bus, train, or plane terminal to the school.

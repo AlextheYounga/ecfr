@@ -1,0 +1,3 @@
+##### § 137.8 Indian lands excluded. #####
+
+This public notice, with the exception of that part dealing with payment in advance each year of operation and maintenance charges against lands in Indian ownership operated under lease, does not apply in so far as payments are concerned to Indian lands within the project. The act of July 1, 1932 (47 Stat. 564; 25 U.S.C. 386a) defers the collection of construction costs from Indian owned lands so long as the title to such lands remains in the Indian ownership.

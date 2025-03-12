@@ -1,0 +1,3 @@
+##### § 213.30 Permission to start operations. #####
+
+No operations will be permitted on any lease before it is approved. Written permission must be secured from the supervisor before any operations are started under any oil and gas lease. Operations must be in accordance with the operating regulations promulgated by the Secretary of the Interior. Copies of these regulations may be secured from either the supervisor or the Area Director and no operations should be attempted without a study of the operating regulations.

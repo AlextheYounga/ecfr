@@ -1,0 +1,3 @@
+##### § 166.223 Can I use a permit as collateral for a loan? #####
+
+We may approve a permit containing a provision that authorizes the permittee to encumber the permit interest, known as a leasehold mortgage, for the development and improvement of the permitted Indian land. We must approve the leasehold mortgage that encumbers the permit interest before it can be effective. We will record the approved leasehold mortgage instrument.

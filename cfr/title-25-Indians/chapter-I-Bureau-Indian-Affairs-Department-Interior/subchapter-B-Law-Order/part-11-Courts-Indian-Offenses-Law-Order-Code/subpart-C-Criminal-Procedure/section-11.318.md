@@ -1,0 +1,3 @@
+##### § 11.318 Extradition. #####
+
+Any Court of Indian Offenses may order delivery to the proper state, tribal or BIA law enforcement authorities of any person found within the jurisdiction of the court, who is charged with an offense in another jurisdiction. Prior to delivery to the proper officials, the accused shall be accorded a right to contest the propriety of the court's order in a hearing before the court.

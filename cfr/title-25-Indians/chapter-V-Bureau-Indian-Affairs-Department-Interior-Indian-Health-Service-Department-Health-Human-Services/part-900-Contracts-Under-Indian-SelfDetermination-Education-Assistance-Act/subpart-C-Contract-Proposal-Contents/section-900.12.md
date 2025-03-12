@@ -1,0 +1,3 @@
+##### § 900.12 Are the proposal contents requirements the same for renewal of a contract that is expiring and for securing an annual funding agreement after the first year of the funding agreement? #####
+
+No. In these situations, an Indian tribe or tribal organization should submit a renewal proposal (or notification of intent not to renew) or an annual funding agreement proposal at least 90 days before the expiration date of the contract or existing annual funding agreement. The proposal shall provide funding information in the same detail and format as the original proposal and may also identify any significant proposed changes.

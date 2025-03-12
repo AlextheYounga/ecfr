@@ -1,0 +1,3 @@
+##### § 115.411 What if the individual making a request regarding a minor's supervised account does not have any verifiable photo identification? #####
+
+If the individual making a request regarding a minor's supervised account does not have any verifiable photo identification, the individual may make a request in person at the BIA and we will talk with the individual and review information in the minor's file to see if we can attest to the individual's identity. If we cannot establish the identity of the individual, we will not accept the request.

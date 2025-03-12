@@ -1,0 +1,3 @@
+##### § 134.5 Payments to disbursing officer. #####
+
+Payments under this part shall be made to the disbursing officer for the supervising engineer of the Indian Irrigation Service having jurisdiction over the irrigation system under which the land for which payment is made may lie. The sum so collected will then, after proper credit has been made to the land for which collected, be deposited in the Treasury of the United States to the credit of the respective funds used in constructing irrigation systems toward which reimbursement shall have been made.

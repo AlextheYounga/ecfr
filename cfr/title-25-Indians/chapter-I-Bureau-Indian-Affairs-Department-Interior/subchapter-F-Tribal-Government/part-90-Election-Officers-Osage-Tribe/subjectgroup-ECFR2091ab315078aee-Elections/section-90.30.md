@@ -1,0 +1,5 @@
+##### § 90.30 Nominating conventions and petitions. #####
+
+Conventions shall be held on or before the first Monday in April of the year in which a quadrennial election is held, and there shall be written reports of such conventions, duly certified by the secretary or presiding officer showing total number of qualified voters in attendance, together with the names of candidates nominated for the various offices: *Provided,* That at least 25 qualified voters shall have been in attendance at any such convention; also, names of any independent candidates nominated by petition of not less than 25 qualified voters, each signature to be witnessed by two persons, shall be filed with the supervisor not later than 5 p.m. on the first Monday in April of the year in which a quadrennial election is held in order that such names may be placed on the official ballot. No person shall be considered a candidate for tribal office unless and until the requirements of this section have been met.
+
+[32 FR 10253, July 12, 1967. Redesignated at 47 FR 13327, Mar. 30, 1982]

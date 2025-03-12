@@ -1,0 +1,3 @@
+##### § 117.18 Withdrawal and payment of segregated trust funds. #####
+
+The withdrawal and payment of segregated trust funds will be made only upon application and satisfactory evidence that the withdrawal and payment of such funds would be to the best interest of the Indian in view of all the circumstances shown to exist. The segregated trust funds of an Indian under guardianship or an Indian under 21 years of age shall not be released and paid except to a guardian appointed by a proper court and after the filing of a bond approved by the court conditioned upon the faithful handling of the funds. Applications for the withdrawal and payment of segregated trust funds must be made upon the forms prescribed by the Secretary for that purpose.

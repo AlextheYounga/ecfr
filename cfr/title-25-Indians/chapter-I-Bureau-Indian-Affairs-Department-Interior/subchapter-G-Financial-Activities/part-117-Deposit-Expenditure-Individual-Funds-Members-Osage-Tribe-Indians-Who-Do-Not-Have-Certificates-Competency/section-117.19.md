@@ -1,0 +1,3 @@
+##### § 117.19 Debts of Indians. #####
+
+No indebtedness of Indians will be paid from their funds under the control or supervision of the Secretary unless authorized in writing and obligated against their accounts by the superintendent or some other designated employee except in cases of emergency involving the protection or preservation of life or property, which emergency must be clearly shown. With this exception, no authorization or obligation against the account of any Indian for indebtedness incurred by him shall be made by the superintendent unless specifically authorized by the regulations in this part.

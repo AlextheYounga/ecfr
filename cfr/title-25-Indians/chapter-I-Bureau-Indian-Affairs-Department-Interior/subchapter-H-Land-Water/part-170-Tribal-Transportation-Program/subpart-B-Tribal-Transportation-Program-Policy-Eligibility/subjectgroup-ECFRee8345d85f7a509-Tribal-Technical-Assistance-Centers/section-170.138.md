@@ -1,0 +1,3 @@
+##### § 170.138 What are Tribal Technical Assistance Centers? #####
+
+Tribal Technical Assistance Centers (TTAC), which are also referred to as Tribal Technical Assistance Program Centers are authorized under 23 U.S.C. 504(b)(3). The centers assist Tribal governments and other TTP participants in extending their technical capabilities by providing them greater access to transportation technology, training, and research opportunities. Complete information about the centers and the services they offer is available on at *http://ltap.org/about/ttap.php.*

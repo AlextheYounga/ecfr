@@ -1,0 +1,3 @@
+##### § 81.51 How do tribal members circulate a petition to adopt or amend the tribe's governing document? #####
+
+Tribal members wishing to circulate a petition to adopt or amend the tribe's governing document may submit the proposed document to the Local Bureau Official for review and comment. The Local Bureau Official may help the petitioners in drafting governing documents, bylaws, charters, amendments and revocations. The Bureau may also explain the Secretarial election process.

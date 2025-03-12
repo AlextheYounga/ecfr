@@ -1,0 +1,3 @@
+##### § 75.17 Relinquishment of membership. #####
+
+Any member of the Eastern Band of Cherokee Indians may relinquish his membership in the Band by filing notice in writing that he no longer desires to be enrolled as a member of the Band. On receipt of such notice the name of the members shall be stricken from the roll and he shall no longer be considered as a member of the Band and shall not be entitled to share in any use or in any distribution of tribal assets which may be made in the future to the enrolled members of the Band.

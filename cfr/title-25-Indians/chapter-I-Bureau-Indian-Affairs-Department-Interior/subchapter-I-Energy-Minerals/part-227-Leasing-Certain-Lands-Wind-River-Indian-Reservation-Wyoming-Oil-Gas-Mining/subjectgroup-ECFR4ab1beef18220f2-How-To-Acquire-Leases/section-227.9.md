@@ -1,0 +1,3 @@
+##### § 227.9 Acreage limitation: Leases on noncontiguous tracts. #####
+
+No person, firm, or corporation will be allowed to lease for oil and gas more than 10,240 acres in the aggregate. The land contained in the lease shall be described by legal subdivisions, and leases may be executed to cover only adjoining or contiguous subdivisions. In case a lessee is a successful bidder for two or more tracts of land which are not contiguous, separate leases shall be executed.

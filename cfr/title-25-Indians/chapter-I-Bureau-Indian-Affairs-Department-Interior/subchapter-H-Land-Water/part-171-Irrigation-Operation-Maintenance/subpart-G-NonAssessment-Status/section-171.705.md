@@ -1,0 +1,3 @@
+##### § 171.705 What criteria must be met for my land to be granted an Annual Assessment Waiver? #####
+
+For your land to be granted an Annual Assessment Waiver, we must determine that our irrigation facilities are not capable of delivering adequate irrigation water to your farm unit. Inadequate water supply due to natural conditions or climate is not justification for us to grant an Annual Assessment Waiver.

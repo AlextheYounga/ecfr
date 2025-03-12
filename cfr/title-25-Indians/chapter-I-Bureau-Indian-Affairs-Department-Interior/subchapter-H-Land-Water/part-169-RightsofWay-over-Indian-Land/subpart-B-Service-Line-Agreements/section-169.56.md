@@ -1,0 +1,3 @@
+##### § 169.56 Must I file service line agreements with the BIA? #####
+
+The parties must file an executed copy of service line agreements, together with a plat or diagram, with us within 30 days after the date of execution for recording in the LTRO. The plat or diagram must show the boundary of the ownership parcel and point of connection of the service line with the distribution line. When the plat or diagram is placed on a separate sheet it must include the signatures of the parties.

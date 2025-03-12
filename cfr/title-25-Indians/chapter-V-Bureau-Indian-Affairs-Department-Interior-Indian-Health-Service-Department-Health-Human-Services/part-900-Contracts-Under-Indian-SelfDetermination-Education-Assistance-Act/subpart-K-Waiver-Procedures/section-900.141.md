@@ -1,0 +1,3 @@
+##### § 900.141 How does an Indian tribe or tribal organization get a waiver? #####
+
+To obtain a waiver, an Indian tribe or tribal organization shall submit a written request to the Secretary identifying the regulation to be waived and the basis for the request. The Indian tribe or tribal organization shall explain the intended effect of the waiver, the impact upon the Indian tribe or tribal organization if the waiver is not granted, and the specific contract(s) to which the waiver will apply.

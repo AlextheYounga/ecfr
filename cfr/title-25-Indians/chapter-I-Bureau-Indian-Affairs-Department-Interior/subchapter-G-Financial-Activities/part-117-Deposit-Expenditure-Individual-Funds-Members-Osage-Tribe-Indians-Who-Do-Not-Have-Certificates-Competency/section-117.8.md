@@ -1,0 +1,3 @@
+##### § 117.8 Purchase of land. #####
+
+Upon written application of an adult Indian, the superintendent may disburse not to exceed $10,000 from the surplus funds of such Indian for the purchase of land, the title to which has been examined and accepted by the special attorney for the Osage Indians or other legal officer designated by the Commissioner. In all cases title must be taken by deed containing a clause restricting alienation or encumbrance without the consent of the Secretary of the Interior or his authorized representative.

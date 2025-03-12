@@ -1,0 +1,3 @@
+##### § 273.4 Policy of maximum Indian participation. #####
+
+The meaningful participation in all aspects of educational program development and implementation by those affected by such programs is an essential requisite for success. Such participation not only enhances program responsiveness to the needs of those served, but also provides them with the opportunity to determine and affect the desired level of educational achievement and satisfaction which education can and should provide. Consistent with this concept, maximum Indian participation in the development, approval and implementation of all programs contracted under this part shall be required.

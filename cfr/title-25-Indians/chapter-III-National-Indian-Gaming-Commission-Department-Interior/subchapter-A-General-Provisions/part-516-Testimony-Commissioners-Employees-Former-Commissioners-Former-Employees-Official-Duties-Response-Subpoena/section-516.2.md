@@ -1,0 +1,7 @@
+##### § 516.2 When may a person to whom this part applies give testimony, make a statement or submit to interview? #####
+
+(a) No person to whom this part applies, except as authorized by the Chairman or the General Counsel pursuant to this regulation, shall provide testimony, make a statement or submit to interview.
+
+(b) Whenever a subpoena commanding the giving of any testimony has been lawfully served upon a person to whom this part applies, such individual shall, unless otherwise authorized by the Chairman or the General Counsel, appear in response thereto and respectfully decline to testify on the grounds that it is prohibited by this regulation.
+
+(c) A person who desires testimony or other statement from any person to whom this part applies may make written request therefor, verified by oath, directed to the Chairman setting forth his or her interest in the matter to be disclosed and designating the use to which such statement or testimony will be put in the event of compliance with such request: provided, that a written request therefor by an official of any federal, state or tribal entity, acting in his or her official capacity need not be verified by oath. If it is determined by the Chairman or the General Counsel that such statement or testimony will be in the public interest, the request may be granted. Where a request for a statement or testimony is granted, one or more persons to whom this part applies may be authorized or designated to appear and testify or give a statement with respect thereto.

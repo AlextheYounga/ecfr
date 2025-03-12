@@ -1,0 +1,3 @@
+##### § 138.1 Construction costs and assessable acreage. #####
+
+The construction program has been completed on the Ahtanum Unit of the Wapato Indian Irrigation Project and the construction costs have been established as $79,833.64. The area benefited by this development has been established at 4,765.2 acres. Under the requirements of the acts of February 14, 1920 (41 Stat. 409) and March 7, 1928 (45 Stat. 210), these costs are to be repaid to the United States Treasury by the owners of the lands benefited.

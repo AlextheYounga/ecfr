@@ -1,0 +1,3 @@
+##### § 117.9 Construction and repairs. #####
+
+Upon written application by an adult Indian, the superintendent may disburse not to exceed $1,000 during any one fiscal year from the surplus funds of such Indian to make repairs and improvements to restricted real property and in addition not to exceed $300 for new construction. When such expenditures are being made on property producing an income, reimbursement shall be required from such income unless otherwise directed by the Commissioner. When an Indian refuses to make application for funds to defray the cost of repairs necessary to preserve restricted property, the superintendent may, when authorized by the Commissioner, expend the surplus funds of the Indian for such repairs.

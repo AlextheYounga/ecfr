@@ -1,0 +1,3 @@
+##### § 290.10 Is an Indian tribe in violation of IGRA if it makes per capita payments to its members from net gaming revenues without an approved tribal revenue allocation plan? #####
+
+Yes, you are in violation of IGRA if you make per capita payments to your tribal members from net gaming revenues without an approved tribal revenue allocation plan. If you refuse to comply, the DOJ or NIGC may enforce the per capita requirements of IGRA.

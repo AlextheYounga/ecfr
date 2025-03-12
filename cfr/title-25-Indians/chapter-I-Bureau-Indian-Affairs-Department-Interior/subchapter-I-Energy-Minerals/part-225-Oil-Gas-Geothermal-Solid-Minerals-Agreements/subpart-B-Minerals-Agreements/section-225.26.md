@@ -1,0 +1,3 @@
+##### § 225.26 Auditing and accounting. #####
+
+The Secretary may conduct audits relating to the scope, nature and extent of compliance with the minerals agreement and with applicable regulations and orders to lessees, operators, revenue payors, and other persons with rental, royalty, net profit share and other payment requirements arising from the provisions of a minerals agreement. Procedures and standards used for accounting and auditing of minerals agreements will be in accordance with audit standards established by the Comptroller General of the United States, in “Standards for Auditing of Governmental Organizations, Programs, Activities, and Functions, 1981,” and standards established by the American Institute of Certified Public Accountants.

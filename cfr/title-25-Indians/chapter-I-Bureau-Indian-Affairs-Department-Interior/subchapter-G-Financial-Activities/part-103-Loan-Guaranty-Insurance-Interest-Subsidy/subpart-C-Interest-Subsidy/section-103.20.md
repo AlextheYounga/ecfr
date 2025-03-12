@@ -1,0 +1,3 @@
+##### § 103.20 What is interest subsidy? #####
+
+Interest subsidy is a payment BIA makes for the benefit of the borrower, to reimburse part of the interest payments the borrower has made on a loan guaranteed or insured under the Program. It is available to borrowers whose projected or historical earnings before interest and taxes, after adjustment for extraordinary items, is less than the industry norm.

@@ -1,0 +1,3 @@
+##### § 224.161 How may reassumption affect the tribe's ability to enter into a new TERA or to modify another TERA to administer additional activities or to assume administration of activities that the Secretary previously reassumed? #####
+
+Following reassumption, a tribe may submit a request to enter into a new TERA or modify another TERA to administer additional activities, or assume administration of activities that the Secretary previously reassumed. In reviewing a subsequent tribal request, however, the Secretary may consider the fact that activities were reassumed and any change in circumstances supporting the tribe's request.

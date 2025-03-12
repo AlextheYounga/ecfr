@@ -1,0 +1,3 @@
+##### § 115.413 Who may receive funds from a minor's supervised account? #####
+
+A custodial parent, a legal guardian, a person who has been recognized by the BIA as having control and custody of the minor, or an emancipated minor may be eligible to withdraw funds from a minor's supervised account if there is an authorized disbursement request that is based upon the terms of a BIA-approved distribution plan.

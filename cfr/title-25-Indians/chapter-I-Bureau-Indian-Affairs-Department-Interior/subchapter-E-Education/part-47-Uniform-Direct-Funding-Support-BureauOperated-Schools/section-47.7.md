@@ -1,0 +1,3 @@
+##### § 47.7 What are the expenditure limitations for Bureau-operated schools? #####
+
+Each Bureau-operated school must spend all allotted funds in accordance with applicable Federal regulations and local education financial plans. If a Bureau-operated school and OIEP region or Agency support services staff disagree over expenditures, the Bureau-operated school must appeal to the Director for a decision.

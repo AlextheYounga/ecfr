@@ -1,0 +1,3 @@
+##### § 169.8 May tribes administer this part on BIA's behalf? #####
+
+A tribe or tribal organization may contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450f *et seq.*) to administer on BIA's behalf any portion of this part that is not a grant, approval, or disapproval of a right-of-way document, waiver of a requirement for right-of-way grant or approval (including but not limited to waivers of fair market value and valuation), cancellation of a right-of-way, or an appeal. Applicants may inquire at either the BIA office or the tribal office to determine whether the tribe has compacted or contracted to administer realty functions.

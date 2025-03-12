@@ -1,0 +1,3 @@
+##### § 213.48 Effective date. #####
+
+The regulations in this part shall become effective and in full force from and after the date of approval (Apr. 27, 1938), and shall be subject to change or alteration at any time by the Secretary of the Interior: *Provided,* That no regulations made after the approval of any lease shall operate to affect the term of the lease, rate of royalty, rental, or acreage unless agreed to by both parties to the lease. All former regulations governing the leasing of individually owned lands of the Five Civilized Tribes for mining purposes are superseded by the regulations in this part.

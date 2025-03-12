@@ -1,0 +1,3 @@
+##### § 213.39 Stipulations. #####
+
+The lessee under any lease heretofore approved may by stipulation (Form 5-154i) with the consent of the lessor and the approval of the Secretary of the Interior, make such approved lease subject to all the terms, conditions, and provisions contained in the lease form and regulations currently in use. Stipulations shall be filed with the Area Director within 20 days after the date of execution.

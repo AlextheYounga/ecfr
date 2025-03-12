@@ -1,0 +1,3 @@
+##### § 213.16 Additional information may be requested by Area Director. #####
+
+The Area Director, or other Government officer having the matter in charge or under investigation, may, at any time, either before or after approval of a lease, call for any additional information desired to carry out the purpose of the regulations in this part, and such information shall be furnished within the time specified in the request therefor. If the lessee fails to furnish the information requested, the lease will be subject to disapproval or cancellation, whichever is appropriate.

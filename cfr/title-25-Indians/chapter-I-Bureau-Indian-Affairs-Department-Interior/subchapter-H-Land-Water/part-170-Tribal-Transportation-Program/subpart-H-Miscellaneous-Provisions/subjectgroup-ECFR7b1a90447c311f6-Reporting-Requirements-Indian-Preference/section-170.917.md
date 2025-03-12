@@ -1,0 +1,3 @@
+##### § 170.917 Can Tribes receive direct payment of Tribal employment taxes or fees? #####
+
+This section applies to non-tribally administered TTP projects. Tribes can request that BIA pay Tribal employment taxes or fees directly to them under a voucher or other written payment instrument, based on a negotiated payment schedule. Tribes may consider requesting direct payment of Tribal employment taxes or fees from other transportation departments in lieu of receiving their payment from the contractor.

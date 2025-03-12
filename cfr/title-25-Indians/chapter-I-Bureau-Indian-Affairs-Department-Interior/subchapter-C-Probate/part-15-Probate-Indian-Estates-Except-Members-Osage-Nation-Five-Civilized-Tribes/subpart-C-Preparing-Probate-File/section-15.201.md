@@ -1,0 +1,3 @@
+##### § 15.201 What will the agency do with the documents that I provide? #####
+
+After we receive notice of the death of a person owning trust or restricted land or trust personalty, we will examine the documents provided under §§ 15.104 and 15.105, and other documents and information provided to us to prepare a complete probate file. We may consult with you and other individuals or entities to obtain additional information to complete the probate file. Then we will transfer the probate file to OHA.

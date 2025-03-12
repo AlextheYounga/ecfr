@@ -1,0 +1,3 @@
+##### § 243.10 How does the Paperwork Reduction Act affect this rule? #####
+
+The actions in this rule that are covered by the Paperwork Reduction Act are cleared under OMB Control Number 1076-0047. The parts subject to this control number are 243.4(d), 243.4(e), 243.5(c), 243.7, and 243.9(c). Please note, a Federal agency may not conduct or sponsor, and you are not required to respond to, a collection of information unless it displays a currently valid OMB control number.

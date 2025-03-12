@@ -1,0 +1,3 @@
+##### § 115.429 What do you need to do when you reach 18 years of age to access your trust funds? #####
+
+You must contact OTFM to request withdrawal of any or all of your trust funds that may be available to you. OTFM may require certain information from you to verify your identity, etc. prior to the release of your trust funds. All signatures must be notarized by a notary public or witnessed by a DOI employee. In addition, if you choose to have a check mailed to you, you must provide us with your address of record. If you choose to have your trust funds electronically transferred to you, you must provide your financial institution account information to OTFM.

@@ -1,0 +1,3 @@
+##### § 181.4 How do I obtain an application? #####
+
+BIA mails grant application packages for a given fiscal year to all federally recognized tribes by the end of February of the preceding fiscal year. Additional application packages are available from the Program Administrator, Indian Highway Safety Program, P.O. Box 2003, Albuquerque, New Mexico 87103. Each application package contains the necessary information concerning the application process, including format, content, and filing requirements.

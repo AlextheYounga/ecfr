@@ -1,0 +1,3 @@
+##### § 161.502 Will a special land use require permit modification? #####
+
+Yes. When the Navajo Nation and BIA approve a special land use, the grazing permit will be modified to reflect the change in available forage. If a special land use is inconsistent with grazing activities authorized in the permit, the special land use area will be withdrawn from the permit, and grazing cannot take place on that part of the range unit.

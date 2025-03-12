@@ -1,0 +1,5 @@
+##### § 573.1 What is the purpose of this part? #####
+
+Voluntary compliance is the goal of the Commission. Voluntary compliance is achieved when a tribe and the NIGC staff are able to resolve any potential enforcement issues prior to the Chair issuing an enforcement action. This part sets forth efforts for achieving voluntary compliance and enforcement action when voluntary compliance is not forthcoming. While this part is intended to garner voluntary compliance through a graduated enforcement process, there may be circumstances under which a graduated enforcement process is omitted and an enforcement action must be taken. This part also sets forth general rules governing the Commission's enforcement of the Act, this chapter, and tribal ordinances and resolutions approved by the Chair under part 522 of this chapter. Civil fines in connection with notices of violation issued under this part are addressed in part 575 of this chapter.
+
+[77 FR 47518, Aug. 9, 2012, as amended at 80 FR 31995, June 5, 2015]

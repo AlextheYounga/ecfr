@@ -1,0 +1,3 @@
+##### § 170.119 Are housing site or area entry roads and housing streets eligible for TTP funding? #####
+
+Yes. TTP housing site or area entry roads and housing streets on public rights-of-way are eligible for construction, reconstruction, and rehabilitation funding under the TTP. Tribes, following the transportation planning process as required in subpart D, may include housing site or area entry roads and housing street projects on their TTIP.

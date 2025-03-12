@@ -1,0 +1,3 @@
+##### § 166.2 Can the BIA waive the application of these regulations? #####
+
+Yes. In any case in which these regulations conflict with the objectives of the agricultural resource management plan provided for in § 166.311 of this part, or with a tribal law, the BIA may waive the application of such regulations unless the waiver would constitute a violation of a federal statute or judicial decision or would conflict with the BIA's general trust responsibility under federal law.

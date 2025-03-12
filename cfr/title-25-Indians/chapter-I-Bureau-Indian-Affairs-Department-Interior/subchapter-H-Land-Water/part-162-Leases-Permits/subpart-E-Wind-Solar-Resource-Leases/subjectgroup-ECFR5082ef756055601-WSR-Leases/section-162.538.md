@@ -1,0 +1,3 @@
+##### § 162.538 What is the purpose of a WSR lease? #####
+
+A WSR lease authorizes a lessee to possess Indian land to conduct activities related to the installation, operation, and maintenance of wind and/or solar energy resource development projects. Activities include installing instrumentation facilities and infrastructure associated with the generation, transmission, and storage of electricity and other related activities. Leases for biomass or waste-to-energy purposes are governed by subpart D of this part.

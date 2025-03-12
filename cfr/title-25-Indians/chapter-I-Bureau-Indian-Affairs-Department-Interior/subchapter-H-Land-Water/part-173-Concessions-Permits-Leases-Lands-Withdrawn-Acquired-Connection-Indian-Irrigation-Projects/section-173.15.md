@@ -1,0 +1,3 @@
+##### § 173.15 Permittee subject to State law. #####
+
+The holder of any permit issued under this part shall be subject to and abide by the laws and regulations of the United States and State laws if applicable to the conduct of the particular business or activity conducted by the permittee. Violations of this section shall render the permit void but shall not release the permittee from any obligations arising thereunder.

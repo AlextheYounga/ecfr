@@ -1,0 +1,3 @@
+##### § 700.731 Appeals. #####
+
+Persons who have filed a claim for a grazing permit and whose claim has been denied by the Range Supervisor may appeal to the Commissioner. Appeals must be made in writing and must be received by the Office not more than 30 days after the date the claim was denied. The appeal shall state with specificity why the decision being appealed is in error and shall incorporate all supporting documents. The Commissioner will issue a decision affirming or reversing the decision of the Range Supervisor within 60 days of receipt of the appeal. Such decision will constitute final action by the Office and will be communicated to the appellant by certified mail.

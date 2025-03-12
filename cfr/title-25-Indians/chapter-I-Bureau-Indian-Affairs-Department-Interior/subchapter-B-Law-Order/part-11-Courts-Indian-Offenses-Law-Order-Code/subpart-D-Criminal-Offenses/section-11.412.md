@@ -1,0 +1,3 @@
+##### § 11.412 Theft. #####
+
+A person who, without permission of the owner, shall take, shoplift, possess or exercise unlawful control over movable property not his or her own or under his or her control with the purpose to deprive the owner thereof or who unlawfully transfers immovable property of another or any interest therein with the purpose to benefit himself or herself or another not entitled thereto shall be guilty of theft, a misdemeanor.

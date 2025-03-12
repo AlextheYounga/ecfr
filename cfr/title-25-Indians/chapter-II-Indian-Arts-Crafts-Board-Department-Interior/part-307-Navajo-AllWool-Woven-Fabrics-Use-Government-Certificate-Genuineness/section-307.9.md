@@ -1,0 +1,3 @@
+##### § 307.9 Surrender of license. #####
+
+Any license may be surrendered by the licensee at any time by surrendering to the Board the Government hand seal press and unused certificates of genuineness entrusted to the licensee, accompanied by a copy of the license marked “surrendered” and signed by the licensee. Such surrender shall take effect as of the time that such property and document have been received by the Board.

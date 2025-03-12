@@ -1,0 +1,3 @@
+##### § 518.11 Does a tribe that holds a certificate of self-regulation have a continuing duty to advise the Commission of any additional information? #####
+
+Yes. A tribe that holds a certificate of self-regulation has a continuing duty to advise the Commission within three business days of any changes in circumstances that are material to the approval criteria in § 518.5 and may reasonably cause the Commission to review and revoke the tribe's certificate of self-regulation. Failure to do so is grounds for revocation of a certificate of self-regulation. Such circumstances may include, but are not limited to, a change of primary regulatory official; financial instability; or any other factors that are material to the decision to grant a certificate of self-regulation.

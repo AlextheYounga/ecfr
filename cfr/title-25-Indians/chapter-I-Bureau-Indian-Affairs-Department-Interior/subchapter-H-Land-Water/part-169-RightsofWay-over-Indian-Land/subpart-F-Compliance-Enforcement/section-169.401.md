@@ -1,0 +1,3 @@
+##### § 169.401 What is the purpose and scope of this subpart? #####
+
+This subpart describes the procedures we use to address compliance and enforcement related to rights-of-way on Indian land. Any abandonment, non-use, or violation of the right-of-way grant or right-of-way document, including but not limited to encroachments beyond the defined boundaries, accidental, willful, and/or incidental trespass, unauthorized new construction, changes in use not permitted in the grant, and late or insufficient payment may result in enforcement actions including, but not limited to, cancellation of the grant.

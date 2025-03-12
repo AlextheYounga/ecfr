@@ -1,0 +1,3 @@
+##### § 214.29 Prospecting; abandonment of mines. #####
+
+All prospecting or mining operations or the abandonment of a well or mine shall be subject to the approval of the superintendent, and any disagreement between lessees of mineral leases regarding operations likely to result in injury to either lessee shall be determined by the superintendent, whose decision shall be final, unless an appeal is filed with the Secretary of the Interior within 30 days after notice of such decision.

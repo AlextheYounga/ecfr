@@ -1,0 +1,3 @@
+##### § 166.315 Who is responsible for the completion and maintenance of a conservation practice if the permit expires or is canceled before the completion of the conservation practice? #####
+
+Prior to undertaking a conservation practice, the BIA, landowner, and permittee will negotiate who will complete and maintain a conservation practice if the permit expires or is canceled before the conservation practice is completed. That conservation practice agreement will be reflected in the conservation plan and permit.

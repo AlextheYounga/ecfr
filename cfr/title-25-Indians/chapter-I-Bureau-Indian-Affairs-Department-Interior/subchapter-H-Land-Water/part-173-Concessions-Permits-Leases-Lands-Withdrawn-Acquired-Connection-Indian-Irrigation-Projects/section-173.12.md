@@ -1,0 +1,3 @@
+##### § 173.12 Services from project. #####
+
+When the facilities of the project make it possible to supply water for domestic purposes, electricity or any other type of service to the permittee, the cost of connecting the project facilities shall be borne by the permittee and the work must be in accordance with standard practices and accepted by the project engineer, and as provided for in project regulations. All services rendered by the project to the permittee shall be paid for at the existing or modified schedule of rates; or if no schedule has been approved, at a rate to be approved by the Secretary which will reasonably reimburse the project for the cost of such services.

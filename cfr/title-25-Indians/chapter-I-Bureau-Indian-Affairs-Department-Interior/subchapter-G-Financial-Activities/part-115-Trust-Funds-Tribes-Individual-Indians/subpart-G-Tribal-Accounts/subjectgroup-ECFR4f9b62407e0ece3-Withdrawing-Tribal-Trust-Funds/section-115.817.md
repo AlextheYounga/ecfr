@@ -1,0 +1,3 @@
+##### § 115.817 How does OTFM disburse money to a tribe? #####
+
+Upon receipt of all necessary documentation, OTFM will process the request for disbursement and send the tribe the requested amount of trust funds within one business day. Whenever possible, trust funds will be disbursed electronically to an account in a financial institution designated by the tribe. If there are circumstances that preclude electronic payments, OTFM will mail a check.

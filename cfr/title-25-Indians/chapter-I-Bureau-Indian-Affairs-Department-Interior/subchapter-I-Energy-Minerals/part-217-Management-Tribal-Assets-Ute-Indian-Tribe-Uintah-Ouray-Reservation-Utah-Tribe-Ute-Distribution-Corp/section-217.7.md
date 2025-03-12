@@ -1,0 +1,3 @@
+##### § 217.7 Implementation of decision. #####
+
+The Secretary shall issue such documents as are necessary or expendient to implement the decisions of the joint managers, insofar as such issuance is authorized by law, and he shall execute and/or approve such documents for and on behalf of the joint managers, or either of them, and on behalf of the United States, as necessary. If it becomes necessary for the Secretary to execute an instrument on behalf of one or both of the joint managers and to approve the same instrument as trustee, two different officials having delegated authority from the Secretary shall serve as executing and approving officers, respectively.

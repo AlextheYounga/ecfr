@@ -1,0 +1,3 @@
+##### § 152.10 Application for orders removing restrictions, except Five Civilized Tribes. #####
+
+Any Indian not under legal disability under the laws of the State where he resides or where the land is located, or the court-appointed guardian or conservator of any Indian, may apply for an order removing restrictions from his restricted land or the restricted land of his ward. The application shall be in writing setting forth reasons for removal of restrictions and filed with the agency having immediate jurisdiction over the lands.

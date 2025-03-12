@@ -1,0 +1,3 @@
+##### § 115.819 What steps will be taken to locate an individual whose per capita check is returned as undeliverable or not cashed within twelve (12) months of issuance? #####
+
+The OTFM will notify a tribe of the names of the individuals whose per capita checks were returned as undeliverable or not cashed within twelve (12) months of issuance and will take reasonable action, including utilizing electronic search tools, to locate the individual entitled to receive the per capita funds.

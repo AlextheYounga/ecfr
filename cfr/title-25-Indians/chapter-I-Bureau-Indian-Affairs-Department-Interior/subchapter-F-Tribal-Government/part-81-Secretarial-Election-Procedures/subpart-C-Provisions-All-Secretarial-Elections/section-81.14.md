@@ -1,0 +1,3 @@
+##### § 81.14 May Secretarial elections be scheduled at the same time as tribal elections? #####
+
+The Secretarial Election Board will, generally, avoid scheduling Secretarial elections at the same time as tribal elections to avoid confusion. If the Secretarial Election Board decides to schedule a Secretarial election at the same time as a tribal election, the Secretarial Election Board must clearly inform eligible voters of any differences between the tribal election and the Secretarial election and separate ballots must be used for each type of election.

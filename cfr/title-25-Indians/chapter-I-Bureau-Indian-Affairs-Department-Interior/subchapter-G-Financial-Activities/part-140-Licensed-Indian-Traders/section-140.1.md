@@ -1,0 +1,3 @@
+##### § 140.1 Sole power to appoint. #####
+
+The Commissioner of Indian Affairs shall have the sole power and authority to appoint traders to the Indian tribes. Any person desiring to trade with the Indians on any reservation may, upon establishing the fact, to the satisfaction of the Commissioner of Indian Affairs, that he is a proper person to engage in such trade, be permitted to do so under such rules and regulations as the Commissioner of Indian Affairs may prescribe.

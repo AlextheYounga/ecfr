@@ -1,0 +1,5 @@
+##### § 91.14 Confirmation of permits. #####
+
+The Superintendent shall prepare a certified list of all current permittees with a description of lots held, which descriptions shall conform to the plats certified July 5, 1966. Said list shall be served by certified mail on the individual permittees and the village committee chairman and shall be posted at the Osage Agency and each of the three village squares. Unless a protest is filed with the Superintendent within ninety (90) days of the mailing and posting, said certified list of assigned lots and the individual permittees shall be final and conclusive. Protests may be filed by tribal members claiming an interest in an assigned lot and such protest shall be determined by the Superintendent after notice and hearing.
+
+[33 FR 8271, June 4, 1968. Redesignated at 47 FR 13327, Mar. 30, 1982]

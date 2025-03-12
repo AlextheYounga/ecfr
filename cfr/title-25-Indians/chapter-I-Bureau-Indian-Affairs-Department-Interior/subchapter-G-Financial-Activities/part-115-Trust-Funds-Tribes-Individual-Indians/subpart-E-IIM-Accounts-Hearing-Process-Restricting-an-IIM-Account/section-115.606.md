@@ -1,0 +1,3 @@
+##### § 115.606 What happens if you do not request a hearing to challenge BIA's decision to restrict your IIM account during the allotted time period? #####
+
+If you or your guardian, as applicable, do not request a hearing to challenge BIA's decision to restrict your IIM account during the allotted time period, BIA's decision to restrict your IIM account will become final. BIA will follow the procedures outlined in § 115.616 through § 115.618, and § 115.620, as applicable.

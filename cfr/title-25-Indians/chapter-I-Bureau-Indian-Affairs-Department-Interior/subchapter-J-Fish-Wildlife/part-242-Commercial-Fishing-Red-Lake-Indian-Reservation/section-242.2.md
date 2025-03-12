@@ -1,0 +1,3 @@
+##### § 242.2 Authority to engage in commercial fishing. #####
+
+No person shall engage in commercial fishing in the waters of the Red Lakes on the Red Lake Indian Reservation in the State of Minnesota except the Red Lake Fisheries Association, a corporation organized and incorporated under the laws of Minnesota, and its members, and then only in accordance with the regulations in this part. The authority hereby granted to the Association and its members to engage in commercial fishing may, at any time, be canceled and withdrawn and these regulations may be modified and amended.

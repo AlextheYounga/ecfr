@@ -1,0 +1,3 @@
+##### § 900.96 How can Indian tribes or tribal organizations learn about BIA and IHS excess property? #####
+
+The Secretary shall not less than annually send to Indian tribes and tribal organizations a listing of all excess BIA or IHS personal property before reporting the property to GSA or to any other Federal agency as excess. The listing shall identify the agency official to whom a request for donation shall be submitted.

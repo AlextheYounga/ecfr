@@ -1,0 +1,3 @@
+##### § 162.371 What will BIA do if a lessee remains in possession after a residential lease expires or is terminated or cancelled? #####
+
+If a lessee remains in possession after the expiration, termination, or cancellation of a residential lease, we may treat the unauthorized possession as a trespass under applicable law in consultation with the Indian landowners. Unless the Indian landowners of the applicable percentage of interests under § 162.012 have notified us in writing that they are engaged in good faith negotiations with the holdover lessee to obtain a new lease, we may take action to recover possession on behalf of the Indian landowners, and pursue any additional remedies available under applicable law, such as a forcible entry and detainer action.

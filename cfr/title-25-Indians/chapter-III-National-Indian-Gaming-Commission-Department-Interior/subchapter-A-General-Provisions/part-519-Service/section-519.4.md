@@ -1,0 +1,3 @@
+##### § 519.4 Copy of any official determination, order, or notice of violation. #####
+
+The Commission shall transmit a copy of any official determination, order, or notice of violation to the tribal chairman, the designated tribal agent under § 519.1, and to the relevant tribal gaming authority. The Commission shall transmit such copy as expeditiously as possible. Service under § 519.3 shall not depend on a copy being sent to the appropriate tribal chairman, the designated tribal agent or to the relevant tribal gaming authority.

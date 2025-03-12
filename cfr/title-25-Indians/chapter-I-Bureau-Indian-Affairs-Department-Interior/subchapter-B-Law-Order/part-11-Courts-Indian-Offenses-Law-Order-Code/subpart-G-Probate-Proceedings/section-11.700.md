@@ -1,0 +1,3 @@
+##### § 11.700 Probate jurisdiction. #####
+
+The Court of Indian Offenses shall have jurisdiction to administer in probate the estate of a deceased Indian who, at the time of his or her death, was domiciled or owned real or personal property situated within the Indian country under the jurisdiction of the court to the extent that such estate consists of property which does not come within the jurisdiction of the Secretary of the Interior.

@@ -1,0 +1,5 @@
+##### § 75.14 Appeals. #####
+
+Any person whose application for enrollment has been rejected by the Enrollment Committee shall have the right to appeal to the Tribal Council from the determination made by the Enrollment Committee: *Provided,* That such appeal shall be made in writing and shall be filed in the office of the Principal Chief for presentation to the Tribal Council within sixty (60) days from the date on which the Enrollment Committee issues notice to the applicant of his rejection. The applicant may submit with his appeal any additional data to support his claim to enrollment not previously furnished. The decision of the Tribal Council as to whether the applicant meets the requirements for enrollment set forth in this part shall be final. The Tribal Council shall review no applications for enrollment except in those cases where the rejected applicant appeals to the Council in writing from the determination made by the Enrollment Committee.
+
+[38 FR 9999, Apr. 23, 1973. Redesignated at 47 FR 13327, Mar. 30, 1982]

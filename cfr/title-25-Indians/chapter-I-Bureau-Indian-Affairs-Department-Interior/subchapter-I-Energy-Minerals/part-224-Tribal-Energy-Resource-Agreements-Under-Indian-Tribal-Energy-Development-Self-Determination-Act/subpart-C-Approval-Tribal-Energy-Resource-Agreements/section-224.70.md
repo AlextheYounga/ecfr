@@ -1,0 +1,3 @@
+##### § 224.70 Will the Secretary review a proposed TERA under the National Environmental Policy Act? #####
+
+Yes, the Secretary will conduct a review under the National Environmental Policy Act (NEPA) of the potential impacts on the quality of the human environment that might arise from approving a final proposed TERA. The scope of the Secretary's evaluation will be limited to the scope of the TERA. The public comment period, when required, under the NEPA review will occur concurrently with the public comment period for a TERA under § 224.67.

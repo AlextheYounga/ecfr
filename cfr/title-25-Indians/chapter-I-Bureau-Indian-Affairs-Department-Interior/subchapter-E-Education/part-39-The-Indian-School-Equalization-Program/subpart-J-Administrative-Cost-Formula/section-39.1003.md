@@ -1,0 +1,3 @@
+##### § 39.1003 Allotment exception for FY 1991. #####
+
+For FY 1991 only, the Director may reserve an amount equal to no more than one half of the funds received in FY 1990 by those offices to be closed in FY 1991 to cover severance pay costs, lump sum leave payments and relocation costs for those individuals affected by the closures. Any balance uncommitted by March 31, 1991, shall be distributed in accordance with the formula in § 39.122.

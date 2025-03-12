@@ -1,0 +1,3 @@
+##### § 224.71 What standards will the Secretary use to decide to approve a final proposed TERA? #####
+
+The Secretary will consider the best interests of the tribe and the Federal policy of promoting tribal self-determination in deciding whether to approve a final proposed TERA. The Secretary must approve a final proposed TERA if it contains the provisions required by the Act and this part and the Secretary determines that the tribe has demonstrated sufficient capacity to manage the development of energy resources it proposes to develop.

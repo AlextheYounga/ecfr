@@ -1,0 +1,5 @@
+##### § 262.1 Purpose, scope and information collection. #####
+
+(a) *Purpose and scope.* The purpose of this part is to implement certain provisions of the Archaeological Resources Protection Act (Act) of 1979 (16 U.S.C. 470aa-11), in accordance with section 10(b) and consistent with uniform regulations promulgated under section 10(a) by the Secretaries of the Interior, Agriculture, and Defense and the Chairman of the Board of the Tennessee Valley Authority (43 CFR part 7, 36 CFR part 296, 32 CFR parts 229 and 1312) on February 6, 1984. This part shall provide guidance to officials of the Bureau of Indian Affairs (BIA) on the implementation of the Act as it pertains to this agency.
+
+(b) *Information collection.* The information collection requirements contained in § 262.5 do not require approval by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.*

@@ -1,0 +1,3 @@
+##### § 286.10 Preservation of historical and archeological data. #####
+
+The Assistant Secretary before approving a grant where the grant funds and/or the loan funds will be used to finance activities involving excavations, road construction, and land development or involving the disturbance of land on known or reported historical or archeological sites, will take appropriate action to assure compliance with applicable provisions of the Act of June 27, 1960 (74 Stat. 220 (16 U.S.C. 469)), as amended by the Act of May 24, 1974 (Pub. L. 93-291, 88 Stat. 174), relating to the preservation of historical and archeological data.

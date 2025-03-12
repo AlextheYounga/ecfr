@@ -1,0 +1,5 @@
+##### § 1000.251 What happens when a Tribe/Consortium is suspended for substantial failure to carry out the terms of an AFA without good cause and does not correct the failure during the suspension? #####
+
+(a) Except when the Secretary makes a finding of imminent jeopardy to a physical trust asset, a natural resource, or public health and safety as provided in subpart M of these regulations a finding of substantial failure to carry out the terms of the AFA without good cause must be processed under the suspension of work provision of § 1000.244.
+
+(b) If the substantial failure to carry out the terms of the AFA without good cause is not corrected or resolved during the suspension of work, the Secretary may initiate a reassumption at the end of the 30-day suspension of work if an extension has not been negotiated. Any unresolved dispute will be processed in accordance with the Contract Disputes Act of 1978, 41 U.S.C. 601, *et seq.*

@@ -1,0 +1,5 @@
+##### § 309.10 What are some sample categories and examples of Indian products? #####
+
+What constitutes an Indian product is potentially very broad. However, to provide guidance to persons who produce, market, or purchase items marketed as Indian products, §§ 309.11 through 309.22 contain a sample listing of “specific examples” of objects that meet the definition of Indian products. There is some repetition, due to the interrelated nature of many Indian products when made by Indian artistic labor. The lists in these sections contain examples and are not intended to be all-inclusive. Additionally, although the Indian Arts and Crafts Act of 1990 and the Indian Arts and Crafts Enforcement Act of 2000 do not address materials used in Indian products, some materials are included for their descriptive nature only. This is not intended to restrict materials used or to exclude materials not listed.
+
+[68 FR 35170, June 12, 2003]

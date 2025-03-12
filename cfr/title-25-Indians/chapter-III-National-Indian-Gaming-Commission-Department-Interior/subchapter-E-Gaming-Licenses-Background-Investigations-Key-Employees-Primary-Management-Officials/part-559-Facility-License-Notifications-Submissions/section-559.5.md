@@ -1,0 +1,3 @@
+##### § 559.5 Must a tribe notify the Chair if a facility license is terminated or expires or if a gaming place, facility, or location closes or reopens? #####
+
+A tribe must notify the Chair within 30 days if a facility license is terminated or expires or if a gaming place, facility, or location closes or reopens. A tribe need not provide a notification of seasonal closures or temporary closures with a duration of less than 180 days.

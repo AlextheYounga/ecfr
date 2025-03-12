@@ -1,0 +1,3 @@
+##### § 166.230 When will a BIA decision to approve an amendment, assignment, subpermit, or mortgage under a permit be effective? #####
+
+Our decision to approve an amendment, assignment, subpermit, or mortgage under a permit will be effective immediately, notwithstanding any appeal which may be filed under Part 2 of this title. Copies of approved documents will be provided to the party requesting approval, and made available to the Indian landowners upon request.

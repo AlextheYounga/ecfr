@@ -1,0 +1,3 @@
+##### § 11.419 Unauthorized use of automobiles and other vehicles. #####
+
+A person commits a misdemeanor if he or she operates another person's automobile, airplane, motorcycle, motorboat, or other motor-propelled vehicle without consent of the owner. It is an affirmative defense to prosecution under this section that the actor reasonably believed that the owner would have consented to the operation had he or she known of it.

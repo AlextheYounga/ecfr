@@ -1,0 +1,3 @@
+##### § 215.14 Payments to be made to superintendent. #####
+
+No bonus, rents, royalties, nor other payments accruing under any mineral lease executed in accordance with or subject to the regulations in this part and approved by the Secretary of the Interior shall be paid direct to the Indian lessor; but all such bonus, rents, royalties, and other payments accruing under any such lease shall be paid to the superintendent for the benefit of the Indian lessors, to be deposited by that officer to the credit of the superintendent in some bank designated for the deposit of individual Indian moneys.

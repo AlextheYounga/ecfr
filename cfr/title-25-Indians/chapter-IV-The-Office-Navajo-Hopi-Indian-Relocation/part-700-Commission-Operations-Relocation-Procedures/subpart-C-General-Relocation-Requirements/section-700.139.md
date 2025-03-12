@@ -1,0 +1,3 @@
+##### § 700.139 Referral for action. #####
+
+Upon the expiration of all notice periods and upon the failure or refusal of any relocatees to make timely arrangements to move, the Commission shall forward the names and addresses of such relocatees to the Secretary of the Interior and to the U.S. Attorney for the District of Arizona for such action as they deem appropriate. The Commission will assure the availability of relocation assistance to which the relocatees may be entitled.

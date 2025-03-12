@@ -1,0 +1,3 @@
+##### § 169.53 What should a service line agreement address? #####
+
+A service line agreement should address what utility services the provider will supply, to whom, and other appropriate details. The service line agreement should also address the mitigation of any damages incurred during construction and the restoration (or reclamation, if agreed to by the owners or authorized occupants or users) of the premises at the termination of the agreement.

@@ -1,0 +1,5 @@
+##### § 900.210 If the contractor or contractor's employee receives a summons and/or complaint alleging a non-medical related tort covered by FTCA, what should an Indian tribe or tribal organization do? #####
+
+(a) If the contract is with the DHHS, they should immediately inform the Chief, Litigation Branch, Business and Administrative Law Division, Office of General Counsel, Department of Health and Human Services, 330 Independence Avenue S.W., Room 5362, Washington, DC 20201 and the contractor's tort claims liaison.
+
+(b) If the contract is with the Department of the Interior, they should immediately notify the Assistant Solicitor, Procurement and Patents, Office of the Solicitor, Department of the Interior, Room 6511, 1849 C Street N.W., Washington, DC 20240, and the contractor's tort claims liaison.

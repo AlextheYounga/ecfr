@@ -1,0 +1,3 @@
+##### § 117.15 Collections from insurance companies. #####
+
+Moneys collected from insurance companies for loss or damage to restricted real or personal property shall be deposited to the credit of the Indian owner as surplus funds. Moneys so deposited to the credit of an adult Indian may, upon the written application of the Indian, be disbursed by the superintendent for the purpose of repairing or replacing the property. Moneys collected from insurance companies for loss or damage to unrestricted real or personal property shall be paid to the Indian for his unrestricted use.

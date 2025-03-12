@@ -1,0 +1,3 @@
+##### § 26.38 May I appeal a decision about my application? #####
+
+If the servicing agency denies your application you may appeal under part 2 of this chapter by sending your appeal to your service provider. If your servicing agency is a tribal contractor, you should file your appeal with the tribal contractor under their established procedure. The letter informing you of the decision on your application will include information on how to appeal.

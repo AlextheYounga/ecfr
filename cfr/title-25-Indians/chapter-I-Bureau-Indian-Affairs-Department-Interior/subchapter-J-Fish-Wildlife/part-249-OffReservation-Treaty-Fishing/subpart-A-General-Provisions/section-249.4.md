@@ -1,0 +1,3 @@
+##### § 249.4 Identification of fishing equipment. #####
+
+All fishing gear or other equipment used in the exercise of any off-reservation treaty fishing right shall be marked in such manner as shall be prescribed in regulations issued pursuant to § 249.2 hereof to disclose the identity of its owner or user. In the absence of proof to the contrary, any fishing gear which is not so marked or labeled shall be presumed not to be used in the exercise of an off-reservation treaty fishing right and shall be subject to control or seizure under State law.

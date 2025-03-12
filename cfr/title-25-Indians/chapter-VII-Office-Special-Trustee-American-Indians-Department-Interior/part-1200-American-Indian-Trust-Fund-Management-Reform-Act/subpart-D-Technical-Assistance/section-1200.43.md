@@ -1,0 +1,7 @@
+##### § 1200.43 How can a tribe apply for technical assistance? #####
+
+(a) Tribes wishing technical assistance may request it by sending us a letter along with a tribal resolution outlining the technical assistance required, tribal resources which may be applied to the need, and suggested provider, if known. The resolution must state clearly that the assistance is needed for developing, implementing, or managing an investment plan under the provisions of this authority.
+
+(b) Tribes requesting funds for technical assistance must send a completed SF-424, APPLICATION FOR FEDERAL ASSISTANCE, and SF-424A, BUDGET INFORMATION, along with a tribal resolution, detailing the assistance specifically requested, and the suggested provider to our address in § 1200.13.
+
+(c) We will make grants subject to funds availability. We will publish a notice in the Federal Register concerning the availability of funding, deadlines for grants, the application process, and approval criteria. If funding is limited, grants will be awarded based on criteria that we feel will best meet the intent of the Act. We will consult with tribes in determining annual criteria. Unsolicited grant requests will not be accepted.

@@ -1,0 +1,3 @@
+##### § 213.36 Surrender of leased premises in good condition. #####
+
+On expiration of the term of a lease, or when a lease is surrendered, the lessee shall deliver to the Government the leased ground, with the mine workings in case of leases other than oil and gas, in good order and condition, and the bondsmen will be held for such delivery in good order and condition, unless relieved by the Secretary of the Interior for cause. It shall, however, be stipulated that the machinery necessary to operate any mine is the property of the lessee, but that it may be removed by him only after the condition of the property has been ascertained by inspection by the Secretary of the Interior or his authorized agents, to be in satisfactory condition.

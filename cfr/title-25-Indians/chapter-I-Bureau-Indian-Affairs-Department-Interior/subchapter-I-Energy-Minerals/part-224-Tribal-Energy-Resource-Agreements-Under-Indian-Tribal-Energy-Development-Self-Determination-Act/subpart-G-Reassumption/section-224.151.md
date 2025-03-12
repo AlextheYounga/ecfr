@@ -1,0 +1,3 @@
+##### § 224.151 When may the Secretary reassume activities? #####
+
+Upon issuing a written finding of imminent jeopardy to a physical trust asset, the Secretary may reassume activities under a TERA in accordance with this subpart. The Secretary may also reassume activities approved under a TERA in response to a petition from an interested party under subpart E of this part. Only the Secretary or the Assistant Secretary—Indian Affairs may reassume activities under a TERA.

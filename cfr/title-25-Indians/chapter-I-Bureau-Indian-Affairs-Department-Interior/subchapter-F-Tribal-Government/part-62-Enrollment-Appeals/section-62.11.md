@@ -1,0 +1,3 @@
+##### § 62.11 Action by the Assistant Secretary. #####
+
+The Assistant Secretary will consider the record as presented, together with such additional information as may be considered pertinent. Any additional information relied upon shall be specifically identified in the decision. The Assistant Secretary shall make a decision on the appeal which shall be final for the Department and which shall so state in the decision. The appellant or sponsor will be notified in writing of the decision.

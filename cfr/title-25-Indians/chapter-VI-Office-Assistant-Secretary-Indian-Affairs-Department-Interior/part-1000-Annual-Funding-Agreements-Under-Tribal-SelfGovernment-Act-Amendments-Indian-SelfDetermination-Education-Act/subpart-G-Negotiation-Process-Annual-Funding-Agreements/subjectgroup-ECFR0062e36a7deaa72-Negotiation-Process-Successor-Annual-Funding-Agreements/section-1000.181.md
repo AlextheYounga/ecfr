@@ -1,0 +1,3 @@
+##### § 1000.181 How does the Tribe/Consortium initiate the negotiation of a successor AFA? #####
+
+Although a written request is desirable to document the precise request and date of the request, a written request is not mandatory. If either party anticipates a significant change in an existing program in the AFA, it should notify the other party of the change at the earliest possible date so that the other party may plan accordingly.

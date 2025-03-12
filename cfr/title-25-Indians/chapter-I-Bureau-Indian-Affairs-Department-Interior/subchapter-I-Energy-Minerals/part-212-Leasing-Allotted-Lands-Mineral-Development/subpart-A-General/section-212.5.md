@@ -1,0 +1,3 @@
+##### § 212.5 Authority and responsibility of the Office of Surface Mining Reclamation and Enforcement (OSM). #####
+
+The OSM is the regulatory authority for surface coal mining and reclamation operations on Indian lands pursuant to the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1201 *et seq.*). The relevant regulations for surface coal mining and reclamation operations are found in 30 CFR part 750. Those regulations apply to mining and reclamation on leases issued under this part.

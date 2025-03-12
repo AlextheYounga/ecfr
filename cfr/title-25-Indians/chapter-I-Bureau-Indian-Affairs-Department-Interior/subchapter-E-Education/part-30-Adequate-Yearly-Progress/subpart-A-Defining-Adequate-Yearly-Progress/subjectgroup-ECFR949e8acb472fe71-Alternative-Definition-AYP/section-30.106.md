@@ -1,0 +1,3 @@
+##### § 30.106 How does a tribal governing body or school board propose an alternative definition of AYP? #####
+
+If a tribal governing body or school board decides that the definition of AYP in § 30.104 is inappropriate, it may decide to waive all or part of the definition. Within 60 days of the decision to waive, the tribal governing body or school board must submit to the Secretary a proposal for an alternative definition of AYP. The proposal must meet the requirements of 20 U.S.C. 6311(b) and 34 CFR 200.13-200.20, taking into account the unique circumstances and needs of the school or schools and the students served.

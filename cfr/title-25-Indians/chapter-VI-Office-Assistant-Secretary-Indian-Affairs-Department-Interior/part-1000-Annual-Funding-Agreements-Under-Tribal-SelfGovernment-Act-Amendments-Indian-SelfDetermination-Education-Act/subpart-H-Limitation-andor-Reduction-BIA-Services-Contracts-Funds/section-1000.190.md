@@ -1,0 +1,3 @@
+##### § 1000.190 What is the purpose of this subpart? #####
+
+This subpart prescribes the process that the Secretary uses to determine whether a BIA self-governance funding agreement causes a limitation or reduction in the services, contracts, or funds that any other Tribe/Consortium or Tribal organization is eligible to receive under self-determination contracts, other self-governance compacts, or direct services from BIA. This type of limitation is prohibited by section 406(a) of Pub. L. 93-638. For the purposes of this subpart, Tribal organization means an organization eligible to receive services, contracts, or funds under section 102 of Pub. L. 93-638.

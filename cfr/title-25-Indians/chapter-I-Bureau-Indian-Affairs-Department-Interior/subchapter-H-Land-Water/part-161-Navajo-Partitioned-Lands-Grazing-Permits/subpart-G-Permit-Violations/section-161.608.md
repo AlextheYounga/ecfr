@@ -1,0 +1,3 @@
+##### § 161.608 When will a permit cancellation be effective? #####
+
+A cancellation decision involving a permit will not be effective for 30 days after the permittee receives a written notice of cancellation from BIA. The cancellation decision will remain ineffective if the permittee files an appeal under § 161.607 and part 2 of this title, unless the decision is made immediately effective under part 2. While a cancellation decision is ineffective, the permittee must continue to comply with the other terms of the permit. If an appeal is not filed in accordance with § 161.607 and part 2 of this title, the cancellation decision will be effective on the 31st day after the permittee receives the written notice of cancellation from BIA.

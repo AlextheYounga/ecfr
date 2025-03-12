@@ -1,0 +1,3 @@
+##### § 517.1 General provisions. #####
+
+This part contains the regulations the National Indian Gaming Commission (Commission) follows in implementing the Freedom of Information Act (FOIA) (5 U.S.C. 552) as amended. These regulations provide procedures by which you may obtain access to records compiled, created, and maintained by the Commission, along with procedures the Commission must follow in response to such requests for records. These regulations should be read together with the FOIA, which provides additional information about access to records maintained by the Commission.

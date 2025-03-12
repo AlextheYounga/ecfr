@@ -1,0 +1,3 @@
+##### § 169.51 Is a right-of-way required for service lines? #####
+
+Service lines generally branch off from facilities for which a right-of-way must be obtained. A service line is a utility line running from a main line, transmission line, or distribution line that is used only for supplying telephone, water, electricity, gas, internet service, or other utility service to a house, business, or other structure. In the case of a power line, a service line is limited to a voltage of 14.5 kv or less, or a voltage of 34.5 kv or less if serving irrigation pumps and commercial and industrial uses. To obtain access to Indian land for service lines, the right-of-way grantee must file a service line agreement meeting the requirements of this subpart with BIA.

@@ -1,0 +1,3 @@
+##### § 33.6 Agency education functions. #####
+
+A Bureau Agency Superintendent for Education shall perform those education functions related to elementary and secondary education, early childhood education, peripheral dormitories which have been supervised prior to Pub. L. 95-561, and exceptional education programs as defined in 25 CFR part 32. This section shall not be construed to remove higher education, adult education and/or Johnson-O'Malley programs currently administered at the Agency level. Further, the Director under the authority of § 33.4 will periodically review Area programs such as higher education, adult education, and Johnson-O'Malley for consideration to assign to Agency level administration.

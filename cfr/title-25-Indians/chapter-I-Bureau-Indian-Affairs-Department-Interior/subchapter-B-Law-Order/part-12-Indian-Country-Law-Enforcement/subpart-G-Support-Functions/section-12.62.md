@@ -1,0 +1,3 @@
+##### § 12.62 Who decides what uniform an Indian country law enforcement officer can wear and who pays for it? #####
+
+Each local law enforcement program must establish its own uniform requirements for patrol and detention personnel. Uniformed BIA police officers may be paid an annual uniform allowance not to exceed $400. Local programs may provide uniforms and related equipment to officers in lieu of this payment. All law enforcement officers must also have their official identification on their person at all times when performing law enforcement duties. Uniforms, when worn, will be plainly distinguishable from the uniforms of any non-law enforcement personnel working on the reservation.

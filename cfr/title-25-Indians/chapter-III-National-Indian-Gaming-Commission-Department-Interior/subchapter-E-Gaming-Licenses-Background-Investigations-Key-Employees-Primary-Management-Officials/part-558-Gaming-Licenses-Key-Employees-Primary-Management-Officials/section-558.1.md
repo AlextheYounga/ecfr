@@ -1,0 +1,3 @@
+##### § 558.1 Scope of this part. #####
+
+Unless a tribal-state compact assigns responsibility to an entity other than a tribe, the licensing authority for class II or class III gaming is a tribal authority. The procedures and standards of this part apply only to licenses for primary management officials and key employees. This part does not apply to any license that is intended to expire within 90 days of issuance.

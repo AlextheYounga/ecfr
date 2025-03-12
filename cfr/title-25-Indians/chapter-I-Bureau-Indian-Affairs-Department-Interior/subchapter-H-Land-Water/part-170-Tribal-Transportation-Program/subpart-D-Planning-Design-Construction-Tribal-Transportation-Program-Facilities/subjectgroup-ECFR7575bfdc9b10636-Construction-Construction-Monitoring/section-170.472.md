@@ -1,0 +1,8 @@
+##### § 170.472 What construction records must Tribes and BIA keep? #####
+
+The following table shows which TTP construction records BIA and Tribes must keep and the requirements for access.
+
+|Record keeper|                                         Records that must be kept                                         |                                                                                              Access requirements                                                                                               |
+|-------------|-----------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  (a) Tribe  |   All records required by ISDEAA and 25 CFR 900.130-131 or 25 CFR 1000.243 and 1000.249, as appropriate   |BIA and FHWA are allowed access to Tribal TTP construction and approved project specifications as required under 25 CFR 900.130, 900.131, 25 CFR 1000.243 and 1000.249, or the Program Agreement as appropriate.|
+|   (b) BIA   |Completed daily reports of construction activities appropriate to the type of construction it is performing|                                                           Upon reasonable advance request by a Tribe, BIA must provide reasonable access to records.                                                           |

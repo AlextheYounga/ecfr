@@ -1,0 +1,3 @@
+##### § 171.140 Information collection. #####
+
+The information collection requirements contained in this part have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.* and assigned clearance number 1076-0141. This information collection is specifically found in 25 CFR sections 171.200, 171.225, 171.305, 171.310, 171.405, 171.410, 171.530, 171.550, 171.600, 171.605, 171.610, 171.615, 171.710, 171.715. A Federal agency may not conduct or sponsor, and you are not required to respond to, a collection of information unless it displays a currently valid OMB control number.

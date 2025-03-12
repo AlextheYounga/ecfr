@@ -1,0 +1,3 @@
+##### § 162.237 What insurance is required under an agricultural lease? #####
+
+When necessary to protect the interests of the Indian landowners, an agricultural lease must require that a tenant provide insurance. Such insurance may include property, crop, liability and/or casualty insurance. If insurance is required, it must identify both the Indian landowners and the United States as insured parties, and be sufficient to protect all insurable improvements on the leased premises.

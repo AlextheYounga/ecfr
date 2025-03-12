@@ -1,0 +1,3 @@
+##### § 256.25 How will I find out that the work is done? #####
+
+Your servicing housing office will advise you, in writing, that the work has been completed in compliance with the project contract. Also, you will have a final walk-through of the house with a representative of your servicing housing office. You will be requested to verify that you received the notice of completion of the work by signing a copy of the notice and returning it to your servicing housing office.

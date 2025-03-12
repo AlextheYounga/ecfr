@@ -1,0 +1,3 @@
+##### § 39.413 Can a school appeal the verification of the count? #####
+
+Yes, a school may appeal to the Director any administrative action disallowing any academic, transportation, supplemental program or residential count. In this appeal, the school may provide evidence to indicate the student's eligibility, membership or residency or adequacy of a program for all or a portion of school year. The school must follow the applicable appeals process in 25 CFR part 2 or 25 CFR part 900, subpart L.

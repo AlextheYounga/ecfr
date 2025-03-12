@@ -1,0 +1,3 @@
+##### § 162.564 Will BIA review a proposed WSR lease before or during preparation of the NEPA review documentation? #####
+
+Upon request of the Indian landowners, we will review the proposed WSR lease after negotiation by the parties, before or during preparation of the NEPA review documentation and any valuation. Within 60 days of receiving the proposed lease, we will provide an acknowledgement of the terms of the lease and identify any provisions that, based on this acknowledgment review, would justify disapproval of the lease, pending results of the NEPA review and any valuation.

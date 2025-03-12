@@ -1,0 +1,3 @@
+##### § 226.36 Control devices. #####
+
+In drilling operations in fields where high pressures, lost circulation, or other conditions exist which could result in blowouts, lessee shall install an approved gate valve or other controlling device which is in proper working condition for use until the well is completed. At all times preventative measures must be taken in all well operations to maintain proper control of subsurface strata.

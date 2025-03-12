@@ -1,0 +1,3 @@
+##### § 33.9 Development of procedures. #####
+
+The Director, Office of Indian Education Programs shall prepare and promulgate procedures to govern the provision of support services by the Bureau of Indian Affairs for the education function. These procedures shall be consistent with existing laws, regulations, Executive Orders, and Departmental policies governing administrative support services. These provisions shall be prepared in consultation with those personnel within the Bureau of Indian Affairs who are responsible to the Commissioner of Indian Affairs for providing support services.

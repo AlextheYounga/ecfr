@@ -1,0 +1,3 @@
+##### § 700.123 Expenses incidental to transfer of ownership to the Commission. #####
+
+*Eligible costs.* The Commission shall reimburse the owner for reasonable expenses he/she necessarily incurred incidental to the transfer of habitations and/or improvements to the Commission. The Commission is not required to pay costs solely required to perfect the owner's interest in the habitations and/or improvements.

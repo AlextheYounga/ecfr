@@ -1,0 +1,5 @@
+##### § 10.5 Where can I find the policies and standards for the administration, operation, services, and physical plant/construction of Indian country detention, community residential, and holding facilities? #####
+
+The Bureau of Indian Affairs, Department of the Interior, maintains a manual of policies and procedures called the *Bureau of Indian Affairs Manual (BIAM).* The chapter 69 BIAM titled “Indian Country Detention Facilities and Programs,” contains the BIA's policies, procedures, and standards for detention and holding programs in Indian country. The standards for the programs within the *BIAM* are in handbook format for easy field reference and use. Copies of the chapter 69 *BIAM* and handbooks may be obtained from the Director, Office of Law Enforcement Services.
+
+[61 FR 34374, July 2, 1996; 61 FR 65473, Dec. 13, 1996]

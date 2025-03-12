@@ -1,0 +1,3 @@
+##### § 103.3 Who administers the Program? #####
+
+Authority for administering the Program ultimately rests with the Secretary, who may exercise that authority directly at any time. Absent a direct exercise of authority, however, the Secretary delegates Program authority to BIA officials through the U.S. Department of Interior Departmental Manual. A lender should submit all applications and correspondence to the BIA office serving the borrower's location.

@@ -1,0 +1,3 @@
+##### § 214.19 Cancellation. #####
+
+When a lessee makes application for the cancellation of a lease in whole or in part, all royalties or rentals due up to and including the date of the application for cancellation must be paid, and that part of the lease delivered to the lessee shall be surrendered before such application will be considered. In the event a lease is surrendered for cancellation in whole or in part, after a new lease year has been entered upon, the lessee and his surety shall be liable for the advance rentals required to be paid under the lease for that year, and no part of such rentals which may have been paid shall be refunded.

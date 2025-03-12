@@ -1,0 +1,11 @@
+##### § 226.22 Prohibition of pollution. #####
+
+(a) All operators, contractors, drillers, service companies, pipe pulling and salvaging contractors, or other persons, shall at all times conduct their operations and drill, equip, operate, produce, plug and abandon all wells drilled for oil or gas, service wells or exploratory wells (including seismic, core and stratigraphic holes) in a manner that will prevent pollution and the migration of oil, gas, salt water or other substance from one stratum into another, including any fresh water bearing formation.
+
+(b) Pits for drilling mud or deleterious substance used in the drilling, completion, recompletion, or workover of any well shall be constructed and maintained to prevent pollution of surface and subsurface fresh water. These pits shall be enclosed with a fence of at least four strands of barbed wire, or an approved substitute, stretched taut to adequately braced corner posts, unless the surface owner, user, or the Superintendent gives consent to the contrary. Immediately after completion of operations, pits shall be emptied and leveled unless otherwise requested by surface owner or user.
+
+(c) Drilling pits shall be adequate to contain mud and other material extracted from wells and shall have adequate storage to maintain a supply of mud for use in emergencies.
+
+(d) No earthen pit, except those used in the drilling, completion, recompletion or workover of a well, shall be constructed, enlarged, reconstructed or used without approval of the Superintendent. Unlined earthen pits shall not be used for the continued storage of salt water or other deleterious substances.
+
+(e) Deleterious fluids other than fresh water drilling fluids used in drilling or workover operations, which are displaced or produced in well completion or stimulation procedures, including but not limited to fracturing, acidizing, swabbing, and drill stem tests, shall be collected into a pit lined with plastic of at least 30 mil or a metal tank and maintained separately from above-mentioned drilling fluids to allow for separate disposal.

@@ -1,0 +1,3 @@
+##### § 32.5 Evaluation of implementation of Pub. L. 95-561. #####
+
+The Director, Office Indian Education Programs will develop guidelines for evaluating all functional and programmatic responsibilities associated with title XI of the Education Amendments of 1978 (Pub. L. 95-561), and in the January 1, 1981 annual report, as provided in section 1136, of Pub. L. 95-561 include a statement of the specific program toward implementing these policies.

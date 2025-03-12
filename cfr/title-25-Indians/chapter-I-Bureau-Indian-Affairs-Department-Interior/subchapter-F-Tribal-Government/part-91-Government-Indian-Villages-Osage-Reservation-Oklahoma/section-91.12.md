@@ -1,0 +1,3 @@
+##### § 91.12 Business enterprises and public buildings. #####
+
+No permanent business enterprises shall be carried on within the boundaries of a village reserve and no public buildings shall be erected on lands within the boundaries of a village reserve except on tracts described in § 91.5 maintained for the use and benefit of tribal members. The construction or acquisition of dwellings for rental purposes is prohibited. The village committee may grant permission and charge fees for temporary concessions within the village reserve during Indian celebrations, dances, community gatherings, etc., such temporary permits to last only for the term of activities for which granted.

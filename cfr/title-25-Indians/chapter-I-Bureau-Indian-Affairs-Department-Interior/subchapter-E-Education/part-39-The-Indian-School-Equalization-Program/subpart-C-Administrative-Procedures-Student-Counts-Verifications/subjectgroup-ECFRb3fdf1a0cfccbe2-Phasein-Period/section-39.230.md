@@ -1,0 +1,9 @@
+##### § 39.230 How will the provisions of this subpart be phased in? #####
+
+The calculation of the three-year rolling average of ADM for each school and for the entire Bureau-funded school system will be phased-in as shown in the following table.
+
+|                   Time period                    |                                                                                                 How OIEP must calculate ADM                                                                                                  |
+|--------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     (a) First school year after May 31, 2005     |                                                                        Use the prior 3 years' count period to create membership for funding purposes                                                                         |
+|    (b) Second school year after May 31, 2005     |(1) The academic program will use the previous year's ADM school year and the 2 prior years' count periods; and  <br/>(2) The residential program will use the previous year's count period and the 2 prior years' count weeks|
+|(c) Each succeeding school year after May 31, 2005|         Add one year of ADM or count period and drop one year of prior count weeks until both systems are operating on a 3-year rolling average using the previous 3 years' count after period or ADM, respectively.         |

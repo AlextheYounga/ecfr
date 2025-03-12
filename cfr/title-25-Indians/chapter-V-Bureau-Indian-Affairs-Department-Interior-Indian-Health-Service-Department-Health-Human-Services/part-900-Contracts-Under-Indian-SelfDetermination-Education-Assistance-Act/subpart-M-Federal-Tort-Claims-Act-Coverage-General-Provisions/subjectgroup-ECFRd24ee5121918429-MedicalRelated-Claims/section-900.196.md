@@ -1,0 +1,3 @@
+##### § 900.196 Do covered services include the conduct of clinical studies and investigations and the provision of emergency services, including the operation of emergency motor vehicles? #####
+
+Yes, if the services are provided in carrying out a self-determination contract. (An emergency motor vehicle is a vehicle, whether government, contractor, or employee-owned, used to transport passengers for medical services.)

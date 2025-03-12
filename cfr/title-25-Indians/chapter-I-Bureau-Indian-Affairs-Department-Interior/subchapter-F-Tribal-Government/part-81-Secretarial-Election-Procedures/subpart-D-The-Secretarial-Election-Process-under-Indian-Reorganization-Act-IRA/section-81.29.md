@@ -1,0 +1,3 @@
+##### § 81.29 Why does the Secretarial Election Board compile a Registered Voters List? #####
+
+The Registered Voters List is a list of eligible voters who have registered and are, therefore, entitled to vote in the Secretarial election. We use this list, after all challenges have been resolved, to determine whether voter participation in the Secretarial election satisfies the minimum requirements of the tribe's governing documents and Federal law.

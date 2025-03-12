@@ -1,0 +1,3 @@
+##### § 170.203 How are Tribal transportation planning funds provided to Tribes? #####
+
+Tribal transportation planning funds described in § 170.200(a)(1) are calculated pro rata to each Tribe's final percentage as determined under §§ 170.200 through 170.202. Upon request of a Tribal government and approval by the BIA Regional Office or FHWA, these funds are made available to the Tribes under applicable BIA and FHWA contracting procedures.

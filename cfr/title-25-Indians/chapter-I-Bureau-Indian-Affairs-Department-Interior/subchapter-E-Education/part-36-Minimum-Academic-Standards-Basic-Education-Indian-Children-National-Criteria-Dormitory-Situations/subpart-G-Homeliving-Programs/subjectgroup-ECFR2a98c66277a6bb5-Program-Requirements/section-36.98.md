@@ -1,0 +1,3 @@
+##### § 36.98 Must the homeliving program have an isolation room for ill children? #####
+
+Yes, the homeliving program must have an isolation room(s) available for ill students. The isolation room (or rooms, if needed) must be made available for use by students with contagious conditions. Contagious boys and girls should have separate rooms. The isolation room(s) should have a separate access to shower and restroom facilities. Students isolated for contagious illness must be supervised as frequently and as closely as the circumstances and protocols require, but at least every 30 minutes.

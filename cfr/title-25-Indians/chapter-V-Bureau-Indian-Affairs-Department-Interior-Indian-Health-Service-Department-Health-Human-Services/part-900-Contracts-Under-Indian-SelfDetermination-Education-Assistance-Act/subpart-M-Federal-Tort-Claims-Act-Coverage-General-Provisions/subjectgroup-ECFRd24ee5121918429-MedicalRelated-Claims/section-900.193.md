@@ -1,0 +1,3 @@
+##### § 900.193 Does FTCA coverage extend to individuals who provide health care services under a personal services contract providing services in a facility that is owned, operated, or constructed under the jurisdiction of the IHS? #####
+
+Yes. The coverage extends to individual personal services contractors providing health services in such a facility, including a facility owned by an Indian tribe or tribal organization but operated under a self-determination contract with IHS.

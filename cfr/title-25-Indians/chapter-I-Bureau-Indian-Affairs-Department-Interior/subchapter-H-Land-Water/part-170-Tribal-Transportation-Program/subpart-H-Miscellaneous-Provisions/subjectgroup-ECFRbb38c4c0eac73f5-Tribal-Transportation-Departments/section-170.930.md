@@ -1,0 +1,3 @@
+##### § 170.930 What is a Tribal transportation department? #####
+
+A Tribal transportation department is a department, commission, board, or official of any Tribal government charged by its laws with the responsibility for transportation-related responsibilities, including but not limited to, administration, planning, maintenance, and construction activities. Tribal governments, as sovereign nations, have inherent authority to establish their own transportation departments under their own Tribal laws. Tribes may staff and organize transportation departments in any manner that best suits their needs. Tribes can receive technical assistance from TTACs, BIA regional road engineers, FHWA, or AASHTO to establish a Tribal transportation department.

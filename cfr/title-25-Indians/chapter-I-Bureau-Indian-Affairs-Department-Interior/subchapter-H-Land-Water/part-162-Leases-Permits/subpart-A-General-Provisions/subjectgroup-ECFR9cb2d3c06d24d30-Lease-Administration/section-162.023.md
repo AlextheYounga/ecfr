@@ -1,0 +1,3 @@
+##### § 162.023 What if an individual or entity takes possession of or uses Indian land without an approved lease or other proper authorization? #####
+
+If an individual or entity takes possession of, or uses, Indian land without a lease and a lease is required, the unauthorized possession or use is a trespass. We may take action to recover possession, including eviction, on behalf of the Indian landowners and pursue any additional remedies available under applicable law. The Indian landowners may pursue any available remedies under applicable law.

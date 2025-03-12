@@ -1,0 +1,3 @@
+##### § 214.11 Payment of rents and royalties. #####
+
+All rentals, royalties, damages, or other amounts which may become due under leases approved in accordance with the regulations in this part shall be paid to the disbursing agent at Pawhuska, Okla. The remittances shall be in St. Louis exchange, except that where such exchanges cannot be procured post office or express money orders will be accepted. All royalties or other payments or claims of the Osage Tribe arising under such leases shall be a lien upon the mining plant machinery, and all minerals mined on the property leased or in which the lessee still retains any right, claim, or interest.

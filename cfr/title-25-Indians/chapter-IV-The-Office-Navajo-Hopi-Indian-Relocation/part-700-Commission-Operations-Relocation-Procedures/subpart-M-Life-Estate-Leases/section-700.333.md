@@ -1,0 +1,11 @@
+##### § 700.333 Determination of disability. #####
+
+The Commission shall determine disability pursuant to the following:
+
+(a) An applicant shall be considered to be disabled if he/she is unable to engage in any substantial gainful activity by reason of any medically determined physical or mental impairment which can be expected to result in death or which has lasted or can be expected to last for a continuous period of not less than twelve months. A physical or mental impairment is an impairment that results from anatomical, physiological, or psychological abnormalities which are demonstrable by medically acceptable clinical and laboratory diagnostic techniques.
+
+(b) Each applicant who claims entitlement to a life estate lease by virture of a disability shall be examined by a physician selected by the Commission or one selected by the applicant and approved by the Commission. The reasonable costs of such examinations shall be paid by the Commission. The examining physician shall submit a report of his/her examination to the rating physician who shall be a physician selected by the Commission. The rating physician shall submit to the Commission a report stating his/her opinion as to whether or not the applicant is a least 50% (fifty percent) disabled and if so, the percent of disability. In addition, the rating physician shall state in his/her report the conditions or conditions of the applicant upon which the rating is based.
+
+(c) In performing examinations and in making ratings, the physician shall follow the procedures and adopt the standards set forth in subpart I—Determination of Disability or Blindness, of the Social Security Administration, contained in title 20, Code of Federal Regulations, §§ 416.901 through 416.985, including the appendices, etc., to the extent that such procedures and standards are appropriate to this examination and rating.
+
+(d) In making its determination as to the disability and the percentage thereof of an applicant who claims disability, the Commission shall consider the report of the rating physician and such other matters as the Commission deems relevant.

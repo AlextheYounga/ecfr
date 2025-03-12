@@ -1,0 +1,3 @@
+##### § 166.709 What will the BIA do if a permittee holds over after the expiration or cancellation of a permit? #####
+
+If a permittee remains in possession of Indian land after the expiration or cancellation of a permit, we will treat the unauthorized use as a trespass. Unless we have reason to believe that the permittee is engaged in negotiations with the Indian landowners to obtain a new permit, we will take action to recover possession of the Indian land on behalf of the Indian landowners, and pursue any additional remedies available under applicable law, including the assessment of civil penalties and costs under subpart I of this part.

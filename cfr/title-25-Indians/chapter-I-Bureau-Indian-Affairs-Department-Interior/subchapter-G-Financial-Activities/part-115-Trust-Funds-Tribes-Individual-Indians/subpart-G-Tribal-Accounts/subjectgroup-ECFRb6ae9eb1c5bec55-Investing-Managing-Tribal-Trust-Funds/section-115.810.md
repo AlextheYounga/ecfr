@@ -1,0 +1,3 @@
+##### § 115.810 May a tribe directly invest and manage its trust funds? #####
+
+A tribe may apply to withdraw its trust funds from OTFM for investment and management by the tribe. The tribe's request to withdraw funds must be in accordance with the requirements of the Trust Reform Act and 25 CFR part 1200, subpart B, unless otherwise specified by statutory language or the controlling document which governs the use of the trust funds.

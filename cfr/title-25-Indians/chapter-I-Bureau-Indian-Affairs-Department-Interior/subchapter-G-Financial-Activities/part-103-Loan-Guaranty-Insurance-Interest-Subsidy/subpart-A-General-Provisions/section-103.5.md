@@ -1,0 +1,3 @@
+##### § 103.5 What size loan will BIA guarantee or insure? #####
+
+BIA can guarantee or insure a loan or combination of loans of up to $500,000 for an individual Indian, or more for an acceptable Indian business entity, Tribe, or tribal enterprise involving two or more persons. No individual Indian may have an outstanding principal balance of more than $500,000 in guaranteed or insured loans at any time. BIA can limit the size of loans it will guarantee or insure, depending on the resources BIA has available.

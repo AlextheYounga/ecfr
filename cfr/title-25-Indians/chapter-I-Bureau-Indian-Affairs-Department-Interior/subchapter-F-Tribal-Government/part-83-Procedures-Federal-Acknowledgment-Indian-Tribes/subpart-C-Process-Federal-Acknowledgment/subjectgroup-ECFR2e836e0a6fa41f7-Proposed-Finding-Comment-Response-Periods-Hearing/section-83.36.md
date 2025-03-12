@@ -1,0 +1,5 @@
+##### § 83.36 What procedure follows the end of the comment period on a favorable proposed finding? #####
+
+(a) At the end of the comment period for a favorable proposed finding, AS-IA will automatically issue a final determination acknowledging the petitioner as a federally recognized Indian tribe if OFA does not receive a timely objection with evidence challenging the proposed finding that the petitioner meets the acknowledgment criteria.
+
+(b) If OFA has received a timely objection and evidence challenging the favorable proposed finding, then the petitioner will have 60 days to submit a written response, with citations to and explanations of supporting evidence, and the supporting evidence cited and explained in the response. The Department will not consider additional comments or evidence on the proposed finding submitted by individuals or entities during this response period.

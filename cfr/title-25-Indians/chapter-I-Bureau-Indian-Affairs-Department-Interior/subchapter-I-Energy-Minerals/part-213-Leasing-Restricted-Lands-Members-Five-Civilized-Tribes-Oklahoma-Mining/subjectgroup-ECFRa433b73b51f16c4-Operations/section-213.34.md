@@ -1,0 +1,3 @@
+##### § 213.34 Inspection of premises; books and accounts. #####
+
+Lessees shall agree to allow the lessors and their agents or any authorized representative of the Interior Department to enter, from time to time, upon and into all parts of the leased premises for the purpose of inspection, and shall further agree to keep a full and correct account of all operations and make reports thereof, as required by the applicable regulations of the Department; and their books and records, showing manner of operations and persons interested, shall be open at all times for examination by such officers of the Department as shall be instructed in writing by the Secretary of the Interior or authorized by regulations to make such examination.

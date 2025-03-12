@@ -1,0 +1,3 @@
+##### § 307.7 Suspension of license. #####
+
+In the event that complaint is made to the Board that any provision of any license or of the regulations in this part has been violated by any licensee, the Board may suspend the license and all authority conferred thereby, in its discretion, for a period of 30 days, by notifying the licensee of such suspension, by mail, by telegraph, or in any other manner.

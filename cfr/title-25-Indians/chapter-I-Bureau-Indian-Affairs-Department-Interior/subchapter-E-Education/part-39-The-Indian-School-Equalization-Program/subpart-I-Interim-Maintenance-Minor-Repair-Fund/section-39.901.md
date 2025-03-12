@@ -1,0 +1,3 @@
+##### § 39.901 Conditions for distribution. #####
+
+Funds from the Interim Maintenance and Minor Repair Fund shall be distributed to Bureau operated and funded schools and shall be separately earmarked in local school financial plans solely for expenditure at the discretion of the school supervisor for cost of school facility maintenance and minor repair. These funds shall be used to meet immediate minor repair and maintenance needs.

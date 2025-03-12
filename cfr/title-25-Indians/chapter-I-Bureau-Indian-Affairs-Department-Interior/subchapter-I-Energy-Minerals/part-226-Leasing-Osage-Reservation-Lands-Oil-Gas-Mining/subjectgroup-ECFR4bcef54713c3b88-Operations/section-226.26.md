@@ -1,0 +1,3 @@
+##### § 226.26 Determining cost of well. #####
+
+The term “cost of drilling” as applied where one lessee takes over a well drilled by another, shall include all reasonable, usual, necessary, and proper expenditures. A list of expenses mentioned in this section shall be presented to proposed purchasing lessee within 10 days after the completion of the well. In the event of a disagreement between the parties as to the charges assessed against the well that is to be taken over, such charges shall be determined by the Superintendent.

@@ -1,0 +1,5 @@
+##### § 309.6 When does a commercial product become an Indian product? #####
+
+In addressing Indian embellishments to originally commercial products, the Indian labor expended to add art or craft work to those objects must be sufficient to substantially transform the qualities and appearance of the original commercial item. “Commercial products,” under this part, are consumer goods designed for profit and mass distribution that lend themselves to Indian embellishment, for example clothing and accessories. Through substantial transformation due to Indian labor, a product changes from a commercial product to an Indian product. Examples of formerly commercial products that become Indian products include tennis shoes to which an Indian applies beadwork and denim jackets to which an Indian applies ribbon appliqués.
+
+[68 FR 35170, June 12, 2003]

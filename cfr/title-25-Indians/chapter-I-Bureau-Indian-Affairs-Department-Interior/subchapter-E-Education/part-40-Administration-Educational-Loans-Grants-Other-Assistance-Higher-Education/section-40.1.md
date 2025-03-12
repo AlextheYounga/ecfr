@@ -1,0 +1,5 @@
+##### § 40.1 Appropriations for loans or grants. #####
+
+Funds appropriated by Congress for the education of Indians may be used for making educational loans and grants to aid students of one-fourth or more degree of Indian blood attending accredited institutions of higher education or other accredited schools offering vocational and technical training who reside within the exterior boundaries of Indian reservations under the jurisdiction of the Bureau of Indian Affairs or on trust or restricted lands under the jurisdiction of the Bureau of Indian Affairs. Such educational loans and grants may be made also to students of one-fourth or more degree of Indian blood who reside near the reservation when a denial of such loans or grants would have a direct effect upon Bureau programs within the reservation. After students meeting these eligibility requirements are taken care of, Indian students who do not meet the residency requirements but are otherwise eligible may be considered.
+
+[33 FR 9708, July 4, 1968. Redesignated at 47 FR 13327, Mar. 30, 1982]

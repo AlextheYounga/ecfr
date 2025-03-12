@@ -1,0 +1,3 @@
+##### § 81.9 Will the Secretary give deference to the Tribe's interpretation of its own documents? #####
+
+The Secretary will give deference to the tribe's reasonable interpretation of the amendment and adoption articles of the tribe's governing documents. The Secretary retains authority, however, to interpret tribal law when necessary to carry out the government-to-government relationship with the tribe or when a provision, result, or interpretation may be contrary to Federal law.

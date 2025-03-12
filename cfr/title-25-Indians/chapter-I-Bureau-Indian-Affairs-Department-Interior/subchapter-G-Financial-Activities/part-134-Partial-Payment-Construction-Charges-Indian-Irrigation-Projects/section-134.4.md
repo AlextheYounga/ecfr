@@ -1,0 +1,9 @@
+##### § 134.4 Annual payment reduced. #####
+
+In view of these conditions the regulations governing this matter are hereby modified so as to distribute the unaccrued installments over a period of time so that 21/2 percent of the total amount yet due shall be due and payable on November 15 of each year until further notice. You shall accordingly ascertain the per acre cost after deducting the amount of the accrued charges and take 21/2 percent of that amount and a like sum each year so that the amount of the annual installments will be the same each year. Superintendents are obligated to submit all proposed lists of sales involving allotments containing irrigable allotments to the project or supervising engineer for checking, as to the irrigable acreage and amounts of unpaid construction, operation, and maintenance charges against such allotments. Each sale forwarded to the Bureau for action shall be accompanied by contract executed on Form 5-462b where irrigable acreage is involved and after approval thereof a copy of contract on said form shall be sent to the project engineer for his records and the charges paid by the purchaser shall be turned over to the disbursing agent for credit and deposit as instructed in the next paragraph. The regulations in this part shall not apply to lands in the Wapato project, on the Yakima Indian Reservation, nor to the irrigation projects on the Blackfeet, Fort Peck, Flathead, and Crow Reservations, Montana, for which special regulations have been issued nor to the Fort Hall Reservation, Idaho, or the San Carlos project, Arizona.1
+
+1 The special regulations for Wapato, Fort Peck, and Flathead, were not codified. Operations of the Blackfeet project were discontinued by the Bureau, July 20, 1938, effective September 30, 1933.
+
+Cross References:
+
+For special regulations applying to San Carlos project, see part 137 of this chapter. For further information concerning Form 5-462b, see part 159 of this chapter.

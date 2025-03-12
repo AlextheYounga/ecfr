@@ -1,0 +1,3 @@
+##### § 227.13 Vested rights to be respected. #####
+
+All drilling and other oil and natural gas developments and mining operations, work, and improvements, and all other acts and things necessary to be done, in connection with the exploration for mining and production of oil and natural gas from the leased premises, under the terms and conditions of a lease shall be performed with due regard to the rights, statutory and otherwise, of others, if any, who may have or who may acquire a lawful claim or estate to the leased premises, separate and distinct from the oil and gas or other mineral therein contained. See act of July 17, 1914 (38 Stat. 509).

@@ -1,0 +1,3 @@
+##### § 16.6 Authority of attorneys in State court litigation. #####
+
+Attorneys authorized to perform the duties specified in § 16.3 appearing in State court litigation in their official capacities are authorized to take such action as the Secretary could take if he were personally appearing in his official capacity as counsel therein, including but not limited to the filing or decision against filing of initial, responsive, or supplemental pleadings and appeals from adverse judgments, the exercise or decision against exercise of a preferential right to purchase property subject to sale, the removal or decision against removal of actions to Federal courts, and the waiver or decision against waiver of the failure to make timely service of process or notice.

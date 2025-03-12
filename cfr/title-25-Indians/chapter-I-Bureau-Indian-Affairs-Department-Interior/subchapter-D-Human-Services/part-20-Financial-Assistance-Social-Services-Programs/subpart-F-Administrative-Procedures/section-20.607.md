@@ -1,0 +1,3 @@
+##### § 20.607 What happens when applicants or recipients knowingly and willfully provide false or fraudulent information? #####
+
+Applicants or recipients who knowingly and willfully provide false or fraudulent information are subject to prosecution under 18 U.S.C. § 1001, which carries a fine of not more than $10,000 or imprisonment for not more than 5 years, or both. The social services worker will prepare a written report detailing the information considered to be false and submit the report to the Superintendent or his/her designated representative for appropriate investigative action.

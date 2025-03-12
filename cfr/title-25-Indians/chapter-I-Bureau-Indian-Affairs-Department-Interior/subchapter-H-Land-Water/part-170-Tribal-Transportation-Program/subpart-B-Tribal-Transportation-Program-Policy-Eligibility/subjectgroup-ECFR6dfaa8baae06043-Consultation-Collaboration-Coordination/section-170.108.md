@@ -1,0 +1,3 @@
+##### § 170.108 How do the Secretaries prevent discrimination or adverse impacts? #####
+
+The Secretaries ensure that non-discrimination and environmental justice principles are integral TTP program elements. The Secretaries consult with Tribes early in the program development process to identify potential discrimination and to recommend corrective actions to avoid disproportionately high and adverse effects on Tribes and Indian populations.

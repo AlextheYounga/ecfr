@@ -1,0 +1,3 @@
+##### § 115.101 Individual accounts. #####
+
+Except as otherwise provided in this part, adults shall have the right to withdraw funds from their accounts. Upon their application, or an application made in their behalf by the Secretary or his authorized representative, their funds shall be disbursed to them. All such disbursements will be made at such convenient times and places as the Secretary or his authorized representatives may designate.

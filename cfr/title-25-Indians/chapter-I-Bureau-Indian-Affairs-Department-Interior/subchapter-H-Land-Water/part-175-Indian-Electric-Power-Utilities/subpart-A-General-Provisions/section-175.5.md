@@ -1,0 +1,7 @@
+##### § 175.5 Operations manual. #####
+
+(a) The Area Director shall establish an operations manual for the administration of the utility, consistent with this part and all applicable laws and regulations. The Area Director shall amend the operations manual as needed.
+
+(b) The public shall be notified by the Area Director of a proposed action to establish or amend the operations manual. Notices of the proposed action shall be published in local newspaper(s) of general circulation, posted at the utility office(s), and provided by such other means, if any, as determined by the Area Director. The notice shall contain: A brief description of the proposed action; the effective date; the name, address, and telephone number for addressing comments and inquiries; and the period of time in which comments will be received. Notices shall be published and posted at least 30 days before the scheduled effective date of the operations manual, or amendments thereto.
+
+(c) After giving consideration to all comments received, the Area Director shall establish or amend the operations manual, as appropriate. A notice of the Area Director's decision and the basis for the decision shall be published and posted in the same manner as the previous notices.

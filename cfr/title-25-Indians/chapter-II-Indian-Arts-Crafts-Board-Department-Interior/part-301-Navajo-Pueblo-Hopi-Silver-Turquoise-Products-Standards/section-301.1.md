@@ -1,0 +1,3 @@
+##### § 301.1 Eligibility for use of Government stamp. #####
+
+Subject to the detailed requirements that follow, the Government stamp shall be affixed only to work individually produced and to work entirely hand-made. No object produced under conditions resembling a bench work system, and no object in whose manufacture any power-driven machinery has been used, shall be eligible for the use of the Government stamp.

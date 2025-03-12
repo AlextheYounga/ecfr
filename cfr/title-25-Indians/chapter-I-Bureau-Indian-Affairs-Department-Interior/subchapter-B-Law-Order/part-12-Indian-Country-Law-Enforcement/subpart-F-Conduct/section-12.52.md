@@ -1,0 +1,3 @@
+##### § 12.52 How do I report misconduct? #####
+
+The Director will develop and maintain a reporting system that allows any resident of or visitor to Indian country to report officer misconduct. Each law enforcement program in Indian country will maintain instructions on how to register a complaint. An overview of these steps must be posted for public viewing at each law enforcement facility in Indian country.

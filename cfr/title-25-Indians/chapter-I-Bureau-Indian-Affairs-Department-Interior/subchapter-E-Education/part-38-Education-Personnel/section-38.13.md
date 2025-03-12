@@ -1,0 +1,11 @@
+##### § 38.13 Status quo employees in education positions. #####
+
+(a) *Status quo employees.* Individuals who were Bureau employees on October 31, 1979, with an appointment in either the competitive or excepted service without time limitation, and who are serving in an education position, shall be continued in their positions under the terms and conditions of that appointment with no change in their status or positions. Such employees are entitled to receive any changes in compensation attached to the position. Although such employees occupy “education positions” as defined in this part, the terms and conditions of their appointment, status, and entitlements are determined by competitive service regulations and procedures. Under applicable procedures, these employees are eligible for consideration for movement to other positions that are defined as “contract education” positions. Such movement shall change the terms and conditions of their appointment to the terms and conditions of employment established under this part.
+
+(b) If the tribe or school board waives the Indian preference law, the employee loses the early-out retirement eligibility under Pub. L. 96-135, “early-out for non-Indians,” if they are entitled to the early-out retirement. A memorandum for the record on BIA letterhead shall be signed by the employee and placed on the permanent side of his/her Official Personnel Folder, along with the tribal resolution, if the tribe/school board has waived the Indian preference law to employ the non-Indian.”
+
+(c) *Conversion of status quo employees to contract positions.* Status quo employees may request in writing to the school supervisor, ASE or AEPA, as applicable, that their position be converted to contract. The appropriate school board will be consulted and a determination made by such school board whether such individual should be converted to a contract employee.
+
+(1) Written determination by the school board should be received within a reasonable period, but not to exceed 30 days from receipt of the request. Failure of the school board to act within this period shall have the effect of disapproving the proposed conversion.
+
+(2) With school board approval, an involuntary change in position shall not affect the current status of status quo education employees.

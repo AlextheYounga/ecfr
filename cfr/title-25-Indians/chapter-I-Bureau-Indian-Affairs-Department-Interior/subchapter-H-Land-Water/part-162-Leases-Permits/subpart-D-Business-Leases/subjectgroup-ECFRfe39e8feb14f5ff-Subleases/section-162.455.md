@@ -1,0 +1,7 @@
+##### § 162.455 What is the approval process for a sublease of a business lease? #####
+
+(a) When we receive a sublease that meets the requirements of this subpart, we will notify the parties of the date we receive it. If our approval is required, we have 30 days from receipt of the executed sublease, proof of required consents, and required documentation to approve or disapprove the sublease or inform the parties in writing that we need additional review time. Our determination whether to approve the sublease will be in writing and will state the basis for our approval or disapproval.
+
+(b) Our letter informing the parties that we need additional review time must identify our initial concerns and invite the parties to respond within 15 days of the date of the letter. We have 30 days from sending the letter informing the parties that we need additional time to approve or disapprove the sublease.
+
+(c) If we do not meet the deadline in paragraph (a) of this section, or paragraph (b) of this section if applicable, the sublease is deemed approved to the extent consistent with Federal law. Unless the lease provides otherwise, provisions of the sublease that are inconsistent with Federal law will be severed and unenforceable; all other provisions of the sublease will remain in force.

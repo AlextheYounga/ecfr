@@ -1,0 +1,3 @@
+##### § 1000.27 How does the Director select which Tribes in the applicant pool become self-governance Tribes? #####
+
+The Director selects up to the first 50 Tribes from the applicant pool in any given year ranked according to the earliest postmark date of complete applications. If multiple complete applications have the same postmark date and there are insufficient slots available for that year, the Director will determine priority through random selection. A representative of each Tribe/Consortium that has submitted an application subject to random selection may, at the option of the Tribe/Consortium, be present when the selection is made.

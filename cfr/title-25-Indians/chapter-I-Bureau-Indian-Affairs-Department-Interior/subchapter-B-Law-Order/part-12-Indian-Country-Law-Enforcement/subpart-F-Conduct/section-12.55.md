@@ -1,0 +1,3 @@
+##### § 12.55 Are there any limits on how much force an officer can use when performing law enforcement duties? #####
+
+The Director will develop and maintain the use of force policy for all BIA law enforcement personnel, and for programs receiving BIA funding or authority. Training in the use of force, to include non-lethal measures, will be provided annually. All officers will successfully complete a course of instruction in firearms, to include judgement pistol shooting, approved by the Indian Police Academy before carrying a firearm on or off duty.

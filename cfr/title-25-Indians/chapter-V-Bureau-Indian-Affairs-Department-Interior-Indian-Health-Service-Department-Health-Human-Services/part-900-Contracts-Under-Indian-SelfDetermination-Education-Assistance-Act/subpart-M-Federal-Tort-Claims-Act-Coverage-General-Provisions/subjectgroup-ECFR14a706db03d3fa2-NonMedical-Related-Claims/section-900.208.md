@@ -1,0 +1,3 @@
+##### § 900.208 How are non-medical related tort claims and lawsuits filed for DOI? #####
+
+Non-medical-related claims arising out of the performance of self-determination contracts with the Secretary of the Interior should be filed in the manner described in § 900.201 with the Assistant Solicitor, Procurement and Patents, Office of the Solicitor, Department of the Interior, Room 6511, 1849 C Street NW., Washington, DC 20240.

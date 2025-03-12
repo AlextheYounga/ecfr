@@ -1,0 +1,3 @@
+##### § 12.42 Do Indian country law enforcement programs share information with their own communities or other agencies? #####
+
+At intervals established by the Director, each BIA criminal investigations program, and any investigations program receiving BIA funds will consult with local tribal leaders and managers of local patrol and detention programs. They will discuss the quality of the local investigations program and offer feedback and technical assistance. There will be no requirement to disclose confidential investigative information or to compromise ongoing investigations during this process.

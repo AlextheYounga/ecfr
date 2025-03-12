@@ -1,0 +1,3 @@
+##### § 224.140 What must the Secretary do if the tribe fails to respond to or does not comply with the Director's order? #####
+
+If the tribe does not respond to or does not comply with the Director's order under § 224.138(a)(3), the Secretary may take any actions the Secretary deems appropriate to protect the physical trust asset, which may include the immediate reassumption of all activities the tribe assumed under the TERA. The procedures in subpart G of this part do not apply to reassumption under this section.

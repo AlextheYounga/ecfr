@@ -1,0 +1,3 @@
+##### § 1000.351 Does the Tribal Self-Governance Act of 1994 alter the trust responsibility of the United States to Indian Tribes and individuals under self-governance? #####
+
+No, the Act does, however, permit a Tribe/Consortium to assume management responsibilities for trust assets and resources on its own behalf and on behalf of individual Indians. Under the Act, the Secretary has a trust responsibility to conduct annual trust evaluations of Tribal performance of trust functions to ensure that Tribal and individual trust assets and resources are managed in accordance with the legal principles and standards governing the performance of trust functions if trust assets or resources are found to be in imminent jeopardy.

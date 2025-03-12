@@ -1,0 +1,3 @@
+##### § 117.4 Disbursement of allowance funds. #####
+
+Except as provided in § 117.5, all allowance funds shall be disbursed to the Indian owner unless the Indian owner directs otherwise in writing. At the request of the Indian owner, such funds may be retained by the superintendent as voluntary deposits subject to withdrawal or other disposition upon demand or direction of the Indian owner. The superintendent may recognize a power of attorney executed by the Indian and may disburse the allowance funds of the Indian in conformity therewith so long as the power of attorney remains in force and effect.

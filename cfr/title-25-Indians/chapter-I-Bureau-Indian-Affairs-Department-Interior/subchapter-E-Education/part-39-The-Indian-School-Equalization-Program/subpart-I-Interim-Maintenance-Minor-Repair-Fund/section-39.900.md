@@ -1,0 +1,3 @@
+##### § 39.900 Establishment and funding of an Interim Maintenance and Minor Repair Fund. #####
+
+There is established in the Division of Facilities Management a separate temporary fund entitled the Interim Maintenance and Minor Repair Fund. The Assistant Secretary shall cause the distribution of an amount of $1 million, under the FY 1980 Appropriation for the Bureau, from budget activity 3500, “General Management and Facilities Operation”, to the direct use of schools, and shall create an appropriate account or subaccount for the Interim Maintenance and Minor Repair Fund and credit these funds thereto.

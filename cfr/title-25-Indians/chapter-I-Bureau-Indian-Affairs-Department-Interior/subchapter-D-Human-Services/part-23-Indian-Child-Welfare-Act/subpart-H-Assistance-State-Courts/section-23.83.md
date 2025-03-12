@@ -1,0 +1,3 @@
+##### § 23.83 Assistance in locating biological parents of Indian child after termination of adoption. #####
+
+Upon the request of a child placement agency, the court or an Indian tribe, the Secretary or his/her designee shall assist in locating the biological parents or prior Indian custodians of an adopted Indian child whose adoption has been terminated pursuant to 25 U.S.C. 1914. Such requests for assistance should be sent to the Regional Director designated in § 23.11(c).

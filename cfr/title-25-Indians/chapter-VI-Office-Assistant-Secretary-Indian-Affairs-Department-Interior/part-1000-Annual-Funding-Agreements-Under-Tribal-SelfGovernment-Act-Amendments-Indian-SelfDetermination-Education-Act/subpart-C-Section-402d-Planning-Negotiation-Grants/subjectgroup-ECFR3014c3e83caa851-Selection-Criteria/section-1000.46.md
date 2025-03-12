@@ -1,0 +1,3 @@
+##### § 1000.46 Which Tribes/Consortia may be selected to receive a negotiation grant? #####
+
+Any Tribe/Consortium that has been accepted into the applicant pool and has been accepted to negotiate a self-governance AFA may apply for a negotiation grant. By March 15 of each year, the Director will publish a list of additional Tribes/Consortia that have been selected for negotiation along with information on how to apply for negotiation grants.

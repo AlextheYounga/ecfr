@@ -1,0 +1,3 @@
+##### § 162.529 Will BIA review a proposed WEEL before or during preparation of the NEPA review documentation? #####
+
+Upon request of the Indian landowners, we will review the proposed WEEL after negotiation by the parties, before or during preparation of the NEPA review documentation. Within 10 days of receiving the proposed WEEL, we will provide an acknowledgement of the terms of the lease and identify any provisions that, based on this acknowledgment review, would justify disapproval of the lease, pending results of the NEPA review.

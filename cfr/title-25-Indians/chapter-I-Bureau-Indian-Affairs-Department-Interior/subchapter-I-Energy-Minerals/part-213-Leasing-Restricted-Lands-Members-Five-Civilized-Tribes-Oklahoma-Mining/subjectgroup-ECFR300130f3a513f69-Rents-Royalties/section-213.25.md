@@ -1,0 +1,3 @@
+##### § 213.25 Free use of gas by lessor. #####
+
+If the leased premises produce gas in excess of the lessee's requirements for the development and operation of said premises, then the lessor may use sufficient gas, free of charge, for all stoves and inside lights in the principal dwelling house on said premises, by making his own connections to a regulator, connected to the well and maintained by the lessee, and the lessee shall not be required to pay royalty on gas so used. The use of such gas shall be at the lessor's risk at all times.

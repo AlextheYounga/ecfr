@@ -1,0 +1,3 @@
+##### § 249.5 Use of unauthorized helpers or agents. #####
+
+No Indian shall, while exercising off-reservations treaty-secured fishing rights, permit any person 12 years of age or older other than the authorized holder of a currently valid identification card issued pursuant to this part 249 to fish for him, assist him in fishing, or use any gear of fishing location identified as his gear or location pursuant to this part 249.

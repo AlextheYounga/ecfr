@@ -1,0 +1,9 @@
+##### § 226.20 Settlement of damages claimed. #####
+
+(a) Lessee or his authorized representative or geophysical permittee shall pay for all damages to growing crops, any improvements on the lands, and all other surface damages as may be occasioned by operations. Commencement money shall be a credit toward the settlement of the total damages occasioned by the drilling and completion of the well for which it was paid. Such damages shall be paid to the owner of the surface and by him apportioned among the parties interested in the surface, whether as owner, surface lessee, or otherwise, as the parties may mutually agree or as their interests may appear. If lessee or his authorized representative and surface owner are unable to agree concerning damages, the same shall be determined by arbitration. Nothing herein contained shall be construed to deny any party the right to file an action in a court of competent jurisdiction if he is dissatisfied with the amount of the award.
+
+(b) Surface owners shall notify their lessees or tenants of the regulations in this part and of the necessary procedure to follow in all cases of alleged damages. If so authorized in writing, surface lessees or tenants may represent the surface owners.
+
+(c) In settlement of damages on restricted land all sums due and payable shall be paid to the Superintendent for credit to the account of the Indian entitled thereto. The Superintendent will make the apportionment between the Indian landowner or owners and surface Lessee of record.
+
+(d) Any person claiming an interest in any leased tract or in damages thereto, must furnish to the Superintendent a statement in writing showing said claimed interest. Failure to furnish such statement shall constitute a waiver of notice and estop said person from claiming any part of such damages after the same shall have been disbursed.

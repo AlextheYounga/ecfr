@@ -1,0 +1,3 @@
+##### § 166.401 How does the BIA establish grazing rental rates? #####
+
+An appraisal can be used to determine the rental value of real property. The development and reporting of the valuation will be completed in accordance with the Uniform Standards of Professional Appraisal Practices (USPAP). If an appraisal is not desired, competitive bids, negotiations, advertisements, or any other method can be used in conjunction with a market study, rent survey, or feasibility analysis developed in accordance with the USPAP.

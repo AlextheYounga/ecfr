@@ -1,0 +1,3 @@
+##### § 162.369 How will payment rights relating to a residential lease be allocated? #####
+
+The residential lease may allocate rights to payment for insurance proceeds, trespass damages, condemnation awards, settlement funds, and other payments between the Indian landowners and the lessee. If not specified in the lease, insurance policy, order, award, judgment, or other document, the Indian landowners will be entitled to receive these payments.

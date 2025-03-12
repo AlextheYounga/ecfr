@@ -1,0 +1,7 @@
+##### § 1.4 State and local regulation of the use of Indian property. #####
+
+(a) Except as provided in paragraph (b) of this section, none of the laws, ordinances, codes, resolutions, rules or other regulations of any State or political subdivision thereof limiting, zoning or otherwise governing, regulating, or controlling the use or development of any real or personal property, including water rights, shall be applicable to any such property leased from or held or used under agreement with and belonging to any Indian or Indian tribe, band, or community that is held in trust by the United States or is subject to a restriction against alienation imposed by the United States.
+
+(b) The Secretary of the Interior or his authorized representative may in specific cases or in specific geographic areas adopt or make applicable to Indian lands all or any part of such laws, ordinances, codes, resolutions, rules or other regulations referred to in paragraph (a) of this section as he shall determine to be in the best interest of the Indian owner or owners in achieving the highest and best use of such property. In determining whether, or to what extent, such laws, ordinances, codes, resolutions, rules or other regulations shall be adopted or made applicable, the Secretary or his authorized representative may consult with the Indian owner or owners and may consider the use of, and restrictions or limitations on the use of, other property in the vicinity, and such other factors as he shall deem appropriate.
+
+[30 FR 7520, June 9, 1965]

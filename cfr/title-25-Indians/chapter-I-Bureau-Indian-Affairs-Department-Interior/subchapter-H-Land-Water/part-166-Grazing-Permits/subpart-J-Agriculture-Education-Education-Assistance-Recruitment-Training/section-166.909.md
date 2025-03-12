@@ -1,0 +1,11 @@
+##### § 166.909 What are my obligations to the BIA after I participate in an agriculture education program? #####
+
+(a) Individuals completing agriculture education programs with an obligated service requirement may be offered full time permanent employment with an approved organization to fulfill their obligated service within 90 days of the date all program education requirements have been completed. If employment is not offered within the 90-day period, the student will be relieved of obligated service requirements. Not less than 30 days before the start of employment, the employer must notify the participant of the work assignment, its location and the date work must begin. If the employer is other than the BIA, the employer must also notify us.
+
+(b) Employment time that can be credited toward obligated service requirement will begin the day after all program education requirements have been completed, with the exception of the agriculture intern program which includes the special provisions outlined in § 166.901(f)(4) of this subpart. The minimum service obligation period will be one year of full time employment.
+
+(c) The employer has the right to designate the location of employment for fulfilling the service obligation.
+
+(d) A participant in any of the agriculture education programs with an obligated service requirement may, within 30 days of completing all program education requirements, request a deferment of obligated service to pursue postgraduate or post-doctoral studies. In such cases, we will issue a decision within 30 days of receipt of the request for deferral. We may grant such a request; however, deferments granted in no way waive or otherwise affect obligated service requirements.
+
+(e) A participant in any of the agriculture education programs with an obligated service requirement may, within 30 days of completing all program education requirements, request a waiver of obligated service based on personal or family hardship. We may grant a full or partial waiver or deny the request for wavier. In such cases, we will issue a decision within 30 days of receiving the request for waiver.

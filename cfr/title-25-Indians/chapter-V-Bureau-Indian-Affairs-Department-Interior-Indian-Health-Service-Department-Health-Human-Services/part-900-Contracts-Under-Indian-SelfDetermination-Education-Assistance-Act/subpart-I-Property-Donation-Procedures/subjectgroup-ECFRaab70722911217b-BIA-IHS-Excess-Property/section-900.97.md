@@ -1,0 +1,7 @@
+##### § 900.97 How can an Indian tribe or tribal organization acquire excess BIA or IHS property? #####
+
+(a) The Indian tribe or tribal organization shall submit to the appropriate Secretary a request for specific property that includes a statement of how the property is intended for use in connection with a self-determination contract or grant. The Secretary shall expeditiously process the request and shall exercise discretion in a way that gives maximum effect to the request of Indian tribes or tribal organizations for the donation of excess BIA or IHS property.
+
+(b) If more than one request for the same item of personal property is submitted, the Secretary shall award the item to the requestor whose request is received on the earliest date. If two or more requests are received on the same date, the Secretary shall award the item to the requestor with the lowest transportation costs. The Secretary shall make the donation as expeditiously as possible.
+
+(c) If more than one request for the same parcel of real property is submitted, the Secretary shall award the property to the Indian tribe or tribal organization whose reservation or trust land is closest to the real property requested.

@@ -1,0 +1,3 @@
+##### § 162.016 Will BIA comply with tribal laws in making lease decisions? #####
+
+Unless contrary to Federal law, BIA will comply with tribal laws in making decisions regarding leases, including tribal laws regulating activities on leased land under tribal jurisdiction, including, but not limited to, tribal laws relating to land use, environmental protection, and historic or cultural preservation.

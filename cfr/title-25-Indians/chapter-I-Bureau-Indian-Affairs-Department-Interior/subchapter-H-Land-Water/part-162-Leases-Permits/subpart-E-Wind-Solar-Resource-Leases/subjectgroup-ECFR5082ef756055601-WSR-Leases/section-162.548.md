@@ -1,0 +1,3 @@
+##### § 162.548 May a WSR lease allow compatible uses? #####
+
+The lease may provide for the Indian landowners to use, or authorize others to use, the leased premises for other uses compatible with the purpose of the WSR lease and consistent with the terms of the WSR lease. This may include the right to lease the premises for other compatible purposes. Any such use or authorization by the Indian landowners will not reduce or offset the monetary compensation for the WSR lease.

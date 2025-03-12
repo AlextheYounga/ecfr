@@ -1,0 +1,3 @@
+##### § 63.2 Policy. #####
+
+In enacting the Indian Child Protection and Family Violence Prevention Act, the Congress recognized there is no resource more vital to the continued existence and integrity of Indian tribes than their children and that the United States has a direct interest, as trustee, in protecting Indian children who are members of, or are eligible for membership in, an Indian tribe. The minimum standards of character and suitability of employment for individuals ensure that Indian children are protected, and the Indian child protection and family violence prevention programs will emphasize the unique values of Indian culture and community involvement in the prevention and treatment of child abuse, child neglect and family violence.

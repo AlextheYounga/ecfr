@@ -1,0 +1,3 @@
+##### § 87.2 Purpose. #####
+
+The regulations in this part govern the preparation of proposed plans for the use or distribution, pursuant to the Act, of all judgment funds awarded from the date of the Act to Indian tribes and groups by the Indian Claims Commission or the United States Court of Claims, excepting any tribe or group whose trust relationship with the Federal Government has been terminated and for which there exists legislation authorizing the disposition of its judgment funds; and of all funds deriving from judgments entered prior to the date of the Act for which there has been no enabling legislation.

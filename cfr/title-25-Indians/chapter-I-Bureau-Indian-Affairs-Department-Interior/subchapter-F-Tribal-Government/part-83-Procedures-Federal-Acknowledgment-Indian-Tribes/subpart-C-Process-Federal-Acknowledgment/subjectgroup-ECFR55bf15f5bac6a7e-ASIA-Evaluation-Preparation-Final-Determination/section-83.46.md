@@ -1,0 +1,7 @@
+##### § 83.46 How is a petitioner with a positive final determination integrated into Federal programs as a federally recognized Indian tribe? #####
+
+(a) Upon acknowledgment, the petitioner will be a federally recognized Indian tribe entitled to the privileges and immunities available to federally recognized Indian tribes. It will be included on the list of federally recognized Indian tribes in the next scheduled publication.
+
+(b) Within six months after acknowledgment, the appropriate Bureau of Indian Affairs Regional Office will consult with the newly federally recognized Indian tribe and develop, in cooperation with the federally recognized Indian tribe, a determination of needs and a recommended budget. These will be forwarded to the Assistant Secretary. The recommended budget will then be considered with other recommendations by the Assistant Secretary in the usual budget request process.
+
+(c) While the newly federally acknowledged Indian tribe is eligible for benefits and services available to federally recognized Indian tribes, acknowledgment as a federally recognized Indian tribe does not create immediate access to existing programs. The newly federally acknowledged Indian tribe may participate in existing programs after it meets the specific program requirements, if any, and upon appropriation of funds by Congress. Requests for appropriations will follow a determination of the needs of the newly federally acknowledged Indian tribe.

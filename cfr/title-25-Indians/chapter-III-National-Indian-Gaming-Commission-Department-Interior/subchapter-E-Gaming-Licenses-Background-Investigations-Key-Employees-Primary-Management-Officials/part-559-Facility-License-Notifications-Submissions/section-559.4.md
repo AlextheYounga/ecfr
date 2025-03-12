@@ -1,0 +1,5 @@
+##### § 559.4 What must a tribe submit to the Chair with the copy of each facility license that has been issued or renewed? #####
+
+A tribe shall submit to the Chair with each facility license an attestation certifying that by issuing the facility license, the tribe has determined that the construction and maintenance of the gaming facility, and the operation of that gaming, is conducted in a manner which adequately protects the environment and the public health and safety. This means that a tribe has identified and enforces laws, resolutions, codes, policies, standards or procedures applicable to each gaming place, facility, or location that protect the environment and the public health and safety, including standards, under a tribal-state compact or Secretarial procedures.
+
+[77 FR 58772, Sept. 24, 2012, as amended at 80 FR 31995, June 5, 2015]

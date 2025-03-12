@@ -1,0 +1,3 @@
+##### § 140.18 Intoxicating liquors. #####
+
+No trader shall use or permit to be used his premises for any unlawful conduct or purpose whatsoever. No trader shall use of permit to be used any part of his premises for the manufacture, sale, gift, transportation, drinking or storage of intoxicating liquors or beverages in violation of existing laws relating thereto. Violation of this section will subject the trader to criminal prosecution, revocation of license and such other action as may be necessary.

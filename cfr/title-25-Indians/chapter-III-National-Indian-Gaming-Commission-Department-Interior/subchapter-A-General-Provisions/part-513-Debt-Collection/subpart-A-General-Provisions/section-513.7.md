@@ -1,0 +1,3 @@
+##### § 513.7 What is the Commission's policy on revoking a debtor's ability to engage in Indian gaming for failure to pay a debt? #####
+
+The Chairman of the Commission may revoke a debtor's ability to operate, manage, or otherwise participate in the operation of an Indian gaming facility if the debtor inexcusably or willfully fails to pay a debt. The revocation of ability to engage in gaming may last only as long as the debtor's indebtedness.

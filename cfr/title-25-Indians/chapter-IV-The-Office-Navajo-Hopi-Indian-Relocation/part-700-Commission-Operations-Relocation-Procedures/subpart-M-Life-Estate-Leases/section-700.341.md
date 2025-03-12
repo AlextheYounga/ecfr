@@ -1,0 +1,5 @@
+##### § 700.341 Access to life estate leases. #####
+
+(a) Family members and other persons may enter upon the life estate lease premises for the purpose of visiting the life estate lease residents so long as such visit does not exceed thirty (30) consecutive days in any one visit or ninety (90) days total of all visits within any lease year, except that grandchildren and their descendants who are not minor dependents of the life tenant and who have not attained the age of 18 (eighteen) years may visit for ninety (90) consecutive days in any lease year, the first of which shall commence on the date of issuance of the life estate lease. There shall be no limitation on visits which do not extend overnight.
+
+(b) Visitors and residents shall use the existing road systems and access rights of way when traveling to and from life estate lease premises.

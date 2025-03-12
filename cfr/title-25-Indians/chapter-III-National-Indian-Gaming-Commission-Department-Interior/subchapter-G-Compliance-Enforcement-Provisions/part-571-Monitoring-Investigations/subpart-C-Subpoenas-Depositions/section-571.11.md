@@ -1,0 +1,11 @@
+##### § 571.11 Depositions. #####
+
+(a) Any party wishing to depose a witness shall file a request with the Commission or, if a presiding official has been designated under part 584 of this chapter, to the presiding official. Such a request shall not be granted except for good cause shown. A Commissioner or a presiding official may order testimony to be taken by deposition in any proceeding or investigation pending before the Commission at any stage of such proceeding or investigation, except that Commission personnel may not be questioned by deposition for the purposes of discovery, but may be questioned by written interrogatories as authorized by the Commission or a presiding official. Commission records are not subject to discovery under this chapter. The inspection of Commission records is governed by § 571.3 of this part and the Freedom of Information Act, 5 U.S.C. 552. Depositions under this section may be taken before any person designated by the Commission or a presiding official, and who has the power to administer oaths.
+
+(b) A party or a Commissioner (or a person designated by a Commissioner under paragraph (a) of this section) proposing to take a deposition under this section shall give reasonable notice to the Commission and the parties, if any, of the taking of a deposition. Notice shall include the name of the witness and the time and place of the deposition.
+
+(c) Every person deposed under this part shall be notified of his or her right to be represented by counsel during the deposition, and shall be required to swear or affirm to testify to the whole truth. Testimony shall be reduced to writing and subscribed by the deponent. Depositions shall be filed promptly with the Commission or, if a presiding official has been designated, with the presiding official.
+
+(d) Witnesses whose depositions are taken as authorized in this section, and the persons taking the same, shall be severally entitled to the same fees as are paid for like services in the courts of the United States.
+
+[58 FR 5842, Jan. 22, 1993, as amended at 80 FR 31995, June 5, 2015]

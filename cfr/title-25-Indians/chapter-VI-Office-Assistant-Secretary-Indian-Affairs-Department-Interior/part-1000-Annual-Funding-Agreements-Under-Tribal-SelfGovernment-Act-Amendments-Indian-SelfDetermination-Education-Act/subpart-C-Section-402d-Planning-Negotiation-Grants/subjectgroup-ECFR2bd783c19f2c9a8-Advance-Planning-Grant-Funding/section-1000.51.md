@@ -1,0 +1,3 @@
+##### § 1000.51 How will Tribes/Consortia know when and how to apply for planning grants? #####
+
+The number and size of grants awarded each year will depend on Congressional appropriations. By no later than January 1 of each year, the Director will publish in the Federal Register a notice concerning the availability of planning grants for additional Tribes. This notice must identify the specific details for applying.

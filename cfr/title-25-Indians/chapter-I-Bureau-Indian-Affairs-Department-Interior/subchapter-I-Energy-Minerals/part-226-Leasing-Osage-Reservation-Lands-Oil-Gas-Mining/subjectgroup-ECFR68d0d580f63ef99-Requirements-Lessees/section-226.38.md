@@ -1,0 +1,3 @@
+##### § 226.38 Measuring and storing oil. #####
+
+All production run from the lease shall be measured according to methods and devices approved by the Superintendent. Facilities suitable for containing and measuring accurately all crude oil produced from the wells shall be provided by Lessee and shall be located on the leasehold unless otherwise approved by the Superintendent. Lessee shall furnish to the Superintendent a copy of 100-percent capacity tank table for each tank. Meters and installations for measuring oil must be approved, and tests of their accuracy shall be made when directed by the Superintendent.

@@ -1,0 +1,3 @@
+##### § 900.30 When the Secretary declines all or a portion of a proposal, is the Secretary required to provide an Indian tribe or tribal organization with technical assistance? #####
+
+Yes. The Secretary shall provide additional technical assistance to overcome the stated objections, in accordance with section 102(b) of the Act, and shall provide any necessary requested technical assistance to develop any modifications to overcome the Secretary's stated objections.

@@ -1,0 +1,3 @@
+##### § 1000.361 Will the annual review include a review of the Secretary's residual trust functions? #####
+
+Yes, if the annual evaluation reveals that deficient performance of a trust function is due to the action or inaction of a bureau, the evaluation report will note the deficiency and the appropriate Department official will be notified of the need for corrective action. The review of the Secretary's trust functions shall be based on the standards in this subpart, other applicable law, and other Federal law.

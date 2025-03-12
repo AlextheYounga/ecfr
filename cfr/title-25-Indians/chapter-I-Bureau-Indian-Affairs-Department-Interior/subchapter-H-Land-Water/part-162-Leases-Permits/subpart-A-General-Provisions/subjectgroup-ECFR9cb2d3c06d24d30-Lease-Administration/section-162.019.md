@@ -1,0 +1,3 @@
+##### § 162.019 May a lease address access to the leased premises by roads or other infrastructure? #####
+
+A lease may address access to the leased premises by roads or other infrastructure, as long as the access complies with applicable statutory and regulatory requirements, including 25 CFR part 169. Roads or other infrastructure within the leased premises do not require compliance with 25 CFR part 169 during the term of the lease, unless otherwise stated in the lease.

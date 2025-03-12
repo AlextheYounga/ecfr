@@ -1,0 +1,3 @@
+##### § 111.3 Payments by check. #####
+
+All payments should be made by check. In making payments to competent Indians, each check should be drawn to the order of the enrollee and given or sent directly to him. Powers of attorney and orders given by an Indian to another person for his share in a payment will not be recognized. Superintendents will note in the “Remarks” column on the roll the date of birth of each new enrollee and the date of death of deceased annuitants.

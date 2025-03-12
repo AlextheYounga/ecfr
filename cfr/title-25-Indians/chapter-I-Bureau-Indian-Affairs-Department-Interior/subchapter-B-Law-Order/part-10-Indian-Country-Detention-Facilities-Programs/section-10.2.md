@@ -1,0 +1,3 @@
+##### § 10.2 Who is responsible for developing and maintaining the policies and standards for detention and holding facilities in Indian country? #####
+
+The Director, Office of Law Enforcement Services who reports to the Deputy Commissioner of Indian Affairs, BIA, establishes policies, procedures, and standards for the operations, design, planning, maintenance, renovation, and construction of detention programs in the BIA and by tribal contract under Indian Self-Determination and Education Assistance Act, Public Law 93-638, as amended, 25 U.S.C. 450.

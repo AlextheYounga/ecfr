@@ -1,0 +1,3 @@
+##### § 700.57 Dependent. #####
+
+A dependent is a person who either derives more than one-half of his/her support from another or is under the custody, control and care of another. In instances where there are conflicting claims for the dependent status of a person in more than one household, the household of the person having custody, control and care shall be determined to be the household wherein the person is a dependent.

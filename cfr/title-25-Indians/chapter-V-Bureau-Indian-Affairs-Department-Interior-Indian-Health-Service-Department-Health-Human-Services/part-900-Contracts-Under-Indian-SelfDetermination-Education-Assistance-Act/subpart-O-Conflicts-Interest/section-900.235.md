@@ -1,0 +1,3 @@
+##### § 900.235 What personal conflicts of interest must the standards of conduct regulate? #####
+
+The standards must prohibit an officer, employee, or agent (including a subcontractor) from participating in the review, analysis, or inspection of trust transactions involving an entity in which such persons have a direct financial interest or an employment relationship. It must also prohibit such officers, employees, or agents from accepting any gratuity, favor, or anything of more than nominal value, from a party (other than the Indian tribe) with an interest in the trust transactions under review. Such standards must also provide for sanctions or remedies for violation of the standards.

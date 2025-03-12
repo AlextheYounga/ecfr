@@ -1,0 +1,3 @@
+##### § 900.53 What kind of records shall the property management system maintain? #####
+
+The property management system shall maintain records that accurately describe the property, including any serial number or other identification number. These records should contain information such as the source, titleholder, acquisition date, cost, share of Federal participation in the cost, location, use and condition of the property, and the date of disposal and sale price, if any.

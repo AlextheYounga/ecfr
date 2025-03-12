@@ -1,0 +1,3 @@
+##### § 139.1 Construction costs and assessable acreage. #####
+
+The construction program has been completed on the Wapato-Satus Unit of the Wapato Indian Irrigation Project, and the construction costs have been established by Designation Report dated August 1962 as $7,903,823.12 for the project and $1,499,073.62 for the “B” lands share of the construction costs in the Bureau of Reclamation reservoirs on the Yakima River. The area benefited by this development has been established at 136,559.59 acres divided into 79,025.68 acres of “A” land and 57,533.91 acres of “B” land. Under the requirements of the acts of February 14, 1920 (41 Stat. 409), and March 7, 1928 (45 Stat. 210), these costs are to be repaid to the U.S. Treasury by the owners of the lands benefited.

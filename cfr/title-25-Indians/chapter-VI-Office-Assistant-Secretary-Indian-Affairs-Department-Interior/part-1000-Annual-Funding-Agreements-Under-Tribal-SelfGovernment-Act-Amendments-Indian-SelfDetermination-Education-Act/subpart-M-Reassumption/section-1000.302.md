@@ -1,0 +1,3 @@
+##### § 1000.302 “What is imminent jeopardy” to a trust asset? #####
+
+Imminent jeopardy means an immediate threat and likelihood of significant devaluation, degradation, damage, or loss of a trust asset, or the intended benefit from the asset caused by the actions or inactions of a Tribe/Consortium in performing trust functions. This includes disregarding Federal trust standards and/or Federal law while performing trust functions if the disregard creates such an immediate threat.

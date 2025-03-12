@@ -1,0 +1,7 @@
+##### § 150.6 Recordation of title documents. #####
+
+All title documents shall be submitted to the appropriate Land Titles and Records Office for recording immediately after final approval, issuance, or acceptance. Bureau officials delegated authority by the Secretary to approve title documents or accept title are responsible for prompt compliance with the recording requirement. Documents submitted for recording shall be completed in accordance with prescribed Bureau regulations or instructions.
+
+(a) *Title documents other than probate records.* The original, a signed duplicate, or a certified copy of such documents shall be submitted for recording. Following the recording process, the Land Titles and Records Office will return those title documents that are required to be returned to the originating office with appropriate recording information.
+
+(b) *Probate records.* In accordance with 43 CFR part 4, subpart D, Administrative Law Judges shall forward the original record of Indian probate decisions and copies of petitions for rehearing, reopening, and other appeals to the Land Titles and Records Office which provides service to the originating Agency. If trust land or Indian heirs involved in the probate are located within the jurisdictional area of another Land Titles and Records Office, the Administrative Law Judge shall also send a duplicate copy to that office. Probate records submitted by an Administrative Law Judge for recording will be retained by the Land Titles and Records Office.

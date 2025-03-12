@@ -1,0 +1,3 @@
+##### § 12.61 Can I be paid for information that helps solve a crime? #####
+
+The Director can spend money to purchase evidence or information, or to offer a reward, in the investigation of a crime. This is subject to the availability of funds. This authority may be delegated in writing to supervisory criminal investigators within the Office of Law Enforcement Services in the BIA. The Director must develop policies and procedures for the expenditure, control, and audit of these funds before their use.

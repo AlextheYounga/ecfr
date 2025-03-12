@@ -1,0 +1,3 @@
+##### § 217.3 Referral of questions by superintendent. #####
+
+The superintendent shall refer all questions and problems related to the management of the assets as they come to his attention, together with his analysis of alternative solutions to each question or problem, to the business committee and to the board of directors for resolution. Such referrals shall be in writing and shall be addressed to the joint managers at such addresses as they furnish to the superintendent and to each other from time to time.

@@ -1,0 +1,3 @@
+##### § 170.453 Do the Categorical Exclusions under the National Environmental Policy Act (NEPA) and the regulations at 23 CFR 771 apply to TTP activities? #####
+
+Yes. Regardless of whether BIA or FHWA is responsible for the oversight of a Tribe's TTP activities, the Categorical Exclusions under NEPA at 23 CFR 771.117 governing the use of funds made available through title 23 shall apply to all qualifying TTP projects involving the construction or maintenance of roads.

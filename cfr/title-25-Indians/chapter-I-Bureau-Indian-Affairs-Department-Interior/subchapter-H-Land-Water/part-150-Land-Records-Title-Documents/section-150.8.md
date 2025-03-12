@@ -1,0 +1,3 @@
+##### § 150.8 Title status reports. #####
+
+Land Titles and Records Offices may conduct a title examination of a tract of Indian land provide a title status report upon request to those persons authorized by law to receive such information. Requests for title status reports shall be submitted by or through the Bureau office that has administrative jurisdiction over the Indian land. All requests must clearly identify the tract of Indian land.

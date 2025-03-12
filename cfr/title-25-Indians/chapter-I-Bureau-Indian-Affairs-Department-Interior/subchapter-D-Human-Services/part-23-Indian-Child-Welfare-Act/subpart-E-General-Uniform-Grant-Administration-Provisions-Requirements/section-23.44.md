@@ -1,0 +1,3 @@
+##### § 23.44 Grant administration and monitoring. #####
+
+All grantees under this part shall be responsible for managing day-to-day program operations to ensure that program performance goals are being achieved and to ensure compliance with the provisions of the grant award document and other applicable Federal requirements. Unless delegated to the Agency Superintendent, appropriate area office personnel designated by the Regional Director shall be responsible for all grant program and fiscal monitoring responsibilities.

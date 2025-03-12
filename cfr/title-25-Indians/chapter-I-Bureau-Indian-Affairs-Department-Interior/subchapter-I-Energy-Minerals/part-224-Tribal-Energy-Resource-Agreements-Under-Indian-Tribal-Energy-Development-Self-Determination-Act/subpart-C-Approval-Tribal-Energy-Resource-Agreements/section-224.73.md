@@ -1,0 +1,3 @@
+##### § 224.73 How will the scope of energy resource development affect the Secretary's determination of the tribe's capacity? #####
+
+The Secretary's review under § 224.72 of the tribe's capacity to manage and regulate energy resource development under the TERA will include a determination as to each type of energy resource development subject to the TERA for which the tribe seeks to regulate, and each type of regulatory activity the tribe proposes to assume. The Secretary's review of a TERA must be limited to activities specified by its provisions.

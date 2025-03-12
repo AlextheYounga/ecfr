@@ -1,0 +1,3 @@
+##### § 162.221 How should the land be described in an agricultural lease? #####
+
+An agricultural lease should describe the leased premises by reference to a public or private survey, if possible. If the land cannot be so described, the lease must include a legal description or other description that is sufficient to identify the leased premises, subject to our approval. Where there are undivided interests owned in fee status, the aggregate portion of trust and restricted interests should be identified in the description of the leased premises.

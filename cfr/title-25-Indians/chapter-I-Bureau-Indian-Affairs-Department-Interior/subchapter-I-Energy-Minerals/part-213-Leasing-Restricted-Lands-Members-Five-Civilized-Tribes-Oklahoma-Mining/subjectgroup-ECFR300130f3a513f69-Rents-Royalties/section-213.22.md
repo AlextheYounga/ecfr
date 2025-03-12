@@ -1,0 +1,7 @@
+##### § 213.22 Expenditures under lease other than oil and gas. #####
+
+(a) On all leases for deposits of minerals other than oil and gas, there shall be expended for each calendar year the lease is in force, and for each fraction of a calendar year greater than 6 months, in actual mining operations, development, or improvements upon the lands leased, or for the benefit thereof, a sum which, with the annual rental, shall amount to not less than $5 per acre.
+
+(b) The expenditures for development required by this section upon application may be waived in writing by the Area Director or other officer in charge of the Five Civilized Tribes Agency either before or after the approval of a lease, such waiver to be subject to termination at any time upon 10 days' written notice to the holder of the lease by the said Area Director or other officer in charge.
+
+(c) Each lessee, except oil and gas lessees, shall file with the Area Director an itemized statement in duplicate, within 20 days after the close of each calendar year, of the amount and character of said expenditures during such years the statement to be certified under oath by the lessee or his agent having personal knowledge of the facts contained therein.

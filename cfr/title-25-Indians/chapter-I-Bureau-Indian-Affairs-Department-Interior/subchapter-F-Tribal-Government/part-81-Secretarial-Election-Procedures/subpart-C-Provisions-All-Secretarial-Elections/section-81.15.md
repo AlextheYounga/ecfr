@@ -1,0 +1,3 @@
+##### § 81.15 How are conflicting proposals to amend a single document handled? #####
+
+When conflicting proposals to amend a single provision of a tribal governing document or charter provision are submitted, the proposal first received by the Local Bureau Official, if properly submitted as a complete tribal request, must be voted on before any consideration is given other proposals. Other proposals must be considered in order of their receipt if they are resubmitted following final agency action on the first submission. This procedure applies regardless of whether the proposal is a new or revised tribal governing document.

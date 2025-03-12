@@ -1,0 +1,3 @@
+##### § 160.4 Prompt payment of irrigation charges by lessees. #####
+
+Superintendents will also see that irrigation charges are promptly paid by lessees, and where such charges are not so paid take appropriate and prompt action for their collection. Such unpaid charges are a lien against the land, and accordingly any failure on the part of the superintendents to collect same increases the obligation against the land.

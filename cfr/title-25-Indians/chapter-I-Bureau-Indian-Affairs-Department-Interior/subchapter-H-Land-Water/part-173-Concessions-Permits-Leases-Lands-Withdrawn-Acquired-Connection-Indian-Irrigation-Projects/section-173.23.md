@@ -1,0 +1,3 @@
+##### § 173.23 Organized tribes. #####
+
+Concessions and leases on tribal lands withdrawn or reserved for the purposes specified in the act of April 4, 1938 (52 Stat. 193) and dealt with in this part, of any Indian tribe organized under section 16 of the act of June 18, 1934 (48 Stat. 984; 25 U.S.C. 476) for which the tribe has not been compensated shall be made by the organized tribe pursuant to its constitution or charter: *Provided,* No lease or concession so made shall be inconsistent with the primary purpose for which the lands were reserved or withdrawn.

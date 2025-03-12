@@ -1,0 +1,3 @@
+##### § 23.82 Assistance in identifying language interpreters. #####
+
+Upon the request of a party in an Indian child custody proceeding or of a court, the Secretary or his/her designee shall assist in identifying language interpreters. Such requests for assistance should be sent to the Regional Director designated in § 23.11(c). The BIA is not obligated to pay for the services of such language interpreters.

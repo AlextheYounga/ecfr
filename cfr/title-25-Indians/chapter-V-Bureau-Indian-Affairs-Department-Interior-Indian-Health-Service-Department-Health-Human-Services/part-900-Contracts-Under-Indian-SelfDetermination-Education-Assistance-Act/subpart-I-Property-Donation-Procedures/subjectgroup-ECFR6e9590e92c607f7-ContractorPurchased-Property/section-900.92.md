@@ -1,0 +1,3 @@
+##### § 900.92 What should the Indian tribe or tribal organization do if it wants contractor-purchased real property to be taken into trust? #####
+
+The contractor shall submit a resolution of support from the governing body of the Indian tribe in which the beneficial ownership is to be registered. If the request to take contractor-purchased real property into trust is submitted to the Secretary of Health and Human Services, that Secretary shall transfer the request to the Secretary of the Interior. The Secretary of the Interior shall expeditiously process all requests in accord with applicable Federal law and regulation.

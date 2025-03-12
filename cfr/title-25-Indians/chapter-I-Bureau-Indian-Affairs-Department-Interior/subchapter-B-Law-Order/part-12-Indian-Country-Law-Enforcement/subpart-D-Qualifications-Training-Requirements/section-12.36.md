@@ -1,0 +1,3 @@
+##### § 12.36 Does other law enforcement training count? #####
+
+All requests for evaluation of equivalent training must be submitted to the Indian Police Academy for review, with final determination made by the Director. Requests for a waiver of training requirements to use personnel before completing the required courses of instruction must be submitted to the Director and approved or disapproved by the Commissioner of Indian Affairs. In no case will such a waiver allow personnel to be used in any position for more than one year without achieving training standards. Failure to complete basic training requirements will result in removal from a law enforcement position.

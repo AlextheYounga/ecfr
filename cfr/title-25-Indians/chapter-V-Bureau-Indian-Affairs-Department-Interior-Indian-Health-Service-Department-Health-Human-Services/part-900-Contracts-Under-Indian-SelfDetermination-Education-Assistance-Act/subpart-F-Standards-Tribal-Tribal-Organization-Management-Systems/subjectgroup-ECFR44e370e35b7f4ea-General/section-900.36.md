@@ -1,0 +1,3 @@
+##### § 900.36 What requirements are imposed upon Indian tribes or tribal organizations by this subpart? #####
+
+When carrying out self-determination contracts, Indian tribes and tribal organizations shall develop, implement, and maintain systems that meet these minimum standards, unless one or more of the standards have been waived, in whole or in part, under section 107(e) of the Act and subpart K.

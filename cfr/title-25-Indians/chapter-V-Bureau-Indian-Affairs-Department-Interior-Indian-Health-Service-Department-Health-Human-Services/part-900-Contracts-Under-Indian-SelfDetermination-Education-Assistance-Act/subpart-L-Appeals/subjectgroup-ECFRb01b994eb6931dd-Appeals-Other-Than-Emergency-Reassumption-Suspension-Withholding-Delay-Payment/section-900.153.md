@@ -1,0 +1,3 @@
+##### § 900.153 Does an Indian tribe or tribal organization have any options besides an appeal? #####
+
+Yes. The Indian tribe or tribal organization may request an informal conference. An informal conference is a way to resolve issues as quickly as possible, without the need for a formal hearing. The Indian tribe or tribal organization may also choose to sue in U.S. District Court under section 102(b)(3) and section 110(a) of the Act.

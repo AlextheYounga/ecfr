@@ -1,0 +1,3 @@
+##### § 211.46 Inspection of premises, books and accounts. #####
+
+Lessees shall allow the Indian mineral owner, the Indian mineral owner's representatives, or any authorized representative of the Secretary to enter all parts of the leased premises for the purpose of inspection and audit. Lessees shall keep a full and correct account of all operations and submit all related reports required by the lease and applicable regulations. Books and records shall be available for inspection during regular business hours.

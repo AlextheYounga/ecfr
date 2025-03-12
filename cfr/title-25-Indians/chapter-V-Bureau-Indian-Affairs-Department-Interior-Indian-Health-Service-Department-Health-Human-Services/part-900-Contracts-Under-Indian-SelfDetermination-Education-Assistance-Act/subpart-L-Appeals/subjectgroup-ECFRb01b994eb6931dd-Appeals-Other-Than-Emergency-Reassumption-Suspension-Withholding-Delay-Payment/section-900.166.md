@@ -1,0 +1,3 @@
+##### § 900.166 Is the recommended decision always final? #####
+
+No. Any party to the appeal may file precise and specific written objections to the recommended decision, or any other comments, within 30 days of receiving the recommended decision. Objections shall be served on all other parties. The recommended decision shall become final 30 days after the Indian tribe or tribal organization receives the ALJ's recommended decision, unless a written statement of objections is filed with the Secretary of Health and Human Services or the IBIA during the 30-day period. If no party files a written statement of objections within 30 days, the recommended decision shall become final.

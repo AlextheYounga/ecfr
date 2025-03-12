@@ -1,0 +1,3 @@
+##### § 1000.246 Must an AFA that contains a construction project or activity incorporate provisions of Federal construction standards? #####
+
+No, the Secretary may provide information about Federal standards as early as possible in the construction process. If Tribal construction standards are consistent with or exceed applicable Federal standards, then the Secretary must accept the Indian Tribe/Consortium's proposed standards. The Secretary may accept commonly accepted industry construction standards.

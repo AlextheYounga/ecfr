@@ -1,0 +1,3 @@
+##### § 1000.360 Is the trust evaluation standard or process different when the trust asset is held in trust for an individual Indian or Indian allottee? #####
+
+No, Tribes/Consortia are under the same obligation as the Secretary to perform trust functions and related activities in accordance with trust protection standards and principles whether managing Tribally or individually owned trust assets. The process for conducting annual trust evaluations of Tribal performance of trust functions on behalf of individual Indians is the same as that used in evaluating performance of Tribal trust functions.

@@ -1,0 +1,3 @@
+##### § 1000.142 Instead of the negotiated indirect cost rate, is it possible to establish a fixed amount or another negotiated rate for indirect costs where funds are limited? #####
+
+Yes, OMB Circular A-87 encourages agencies to test fee-for-service alternatives. If the parties agree to a fixed price, fee-for-service agreement, then they must use OMB Circular A-87 as a guide in determining the appropriate price (OMB circulars are available at *http://www.whitehouse.gov/omb/* or see 5 CFR 1310.3). Where limited appropriated funds are available, negotiating the fixed cost option or another rate may facilitate reaching an agreement with that Tribe/Consortium.

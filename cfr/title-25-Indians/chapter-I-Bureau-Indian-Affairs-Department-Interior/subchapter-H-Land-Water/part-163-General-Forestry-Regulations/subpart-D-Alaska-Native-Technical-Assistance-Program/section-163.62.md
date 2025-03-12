@@ -1,0 +1,5 @@
+##### § 163.62 Annual funding needs assessment and rating. #####
+
+(a) Each year, the Secretary will request a technical assistance project needs assessment from ANCSA corporations. The needs assessments will provide information on proposed project goals and estimated costs and benefits and will be rated by the evaluation committee established pursuant to § 163.61 for the purpose of making funding recommendations to the Secretary. To the extent practicable, such recommendations shall achieve an equitable funding distribution between large and small ANCSA corporations and shall give priority for continuation of previously approved multi-year projects.
+
+(b) Based on the recommendations of the evaluation committee, the Secretary shall fund such projects, to the extent available appropriations permit.

@@ -1,0 +1,5 @@
+##### § 10.9 If a person is detained or incarcerated in an Indian country detention, community residential, or holding facility, how would they know what their rights, privileges, safety, protection and expected behavior would be? #####
+
+When an individual is incarcerated in an Indian country detention, community residential, or holding facility, he/she will be given, or in some cases notified of the availability of, an Inmate Handbook. This book of guidelines describes in detail the inmate's rights, privileges, protection and safety, cleanliness and sanitation, and general health and nutritional standards. The Inmate Handbook describes the emergency evacuation procedures, medical, counseling, rehabilitation services, visitation procedures, and other appropriate information. The Inmate Handbook is published by the Director, Office of Law Enforcement Services and maintained by the detention facility administrator at each facility location.
+
+[61 FR 34374, July 2, 1996; 61 FR 65473, Dec. 13, 1996]

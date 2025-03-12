@@ -1,0 +1,9 @@
+##### § 117.2 Payment of taxes of adult Indians. #####
+
+The superintendent may cause to be paid out of any money heretofore accrued or hereafter accruing to the credit of any adult Indian all taxes of every kind and character for which such Indian is or may be liable before paying to or for such person any funds as required by law. All checks in payment of taxes shall be made payable to the proper collector. For the purpose of establishing a fund with which to meet the payment of such taxes when due, the Superintendent may cause the funds of an adult Indian to be hypothecated in the following manner:
+
+(a) For the payment of ad valorem taxes, one-fourth of the estimated amount ad valorem taxes from each quarterly payment unless this procedure would cause the obligation of more than 25 percent of such quarterly payments, in which event the necessary additional funds shall be retained from other allowance funds payable to such person under the law. If there be no other allowance funds available, or if the funds from these sources are insufficient, one-fourth of the estimated amount of such ad valorem taxes may be obligated from each quarterly payment. If an Indian who is liable for ad valorem taxes has no allowance funds, or such funds are insufficient for the payment thereof, surplus funds may be used for such payment.
+
+(b)(1) For the payment of income taxes, one-half of the estimated amount of income taxes from each semi-annual payment of interest on deposits, but if such interest payments are insufficient to meet this obligation, additional funds shall be retained from interest on investments, rentals, or other allowance funds.
+
+(2) Whenever funds are withheld for the purpose of establishing a fund to meet the payment of taxes, the Indian shall be notified of the action taken.

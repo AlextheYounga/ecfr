@@ -1,0 +1,3 @@
+##### § 700.305 Availability of hearings. #####
+
+All persons aggrieved by Initial Commission Determinations concerning eligibility, benefits, or for granting of life estate leases may have a Hearing to present evidence and argument concerning the Determination. Parties seeking such relief from the Commission's Initial Determination shall be known as “Applicants.” When multiple Applicants claim interest in one benefit, determination, or question of eligibility, their hearings may be consolidated at the Presiding Officer's discretion.

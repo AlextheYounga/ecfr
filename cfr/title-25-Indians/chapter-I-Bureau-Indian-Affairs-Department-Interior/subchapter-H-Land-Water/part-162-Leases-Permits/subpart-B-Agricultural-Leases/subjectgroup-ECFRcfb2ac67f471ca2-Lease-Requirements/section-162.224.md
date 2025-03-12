@@ -1,0 +1,3 @@
+##### § 162.224 When are rent payments due under an agricultural lease? #####
+
+An agricultural lease must specify the dates on which all rent payments are due. Unless otherwise provided in the lease, rent payments may not be made or accepted more than one year in advance of the due date. Rent payments are due at the time specified in the lease, regardless of whether the tenant receives an advance billing or other notice that a payment is due.

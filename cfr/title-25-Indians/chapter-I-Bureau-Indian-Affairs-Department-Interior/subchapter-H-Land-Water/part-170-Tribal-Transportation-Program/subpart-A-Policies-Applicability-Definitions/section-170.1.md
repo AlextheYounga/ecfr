@@ -1,0 +1,3 @@
+##### § 170.1 What does this part do? #####
+
+This part provides rules and references to the statutory funding formula for the Department of the Interior (DOI), in cooperation with the Department of Transportation (DOT), to implement the Tribal Transportation Program (TTP). Included in this part are references to other title 23 and title 25 transportation programs administered by the Secretary of the Interior (Secretary) and the Secretary of Transportation (together, the “Secretaries”) and implemented by Tribes and Consortiums in accordance with the Indian Self-Determination and Education Assistance Act of 1975 (ISDEAA), as amended, FHWA program agreements, and other appropriate agreements.

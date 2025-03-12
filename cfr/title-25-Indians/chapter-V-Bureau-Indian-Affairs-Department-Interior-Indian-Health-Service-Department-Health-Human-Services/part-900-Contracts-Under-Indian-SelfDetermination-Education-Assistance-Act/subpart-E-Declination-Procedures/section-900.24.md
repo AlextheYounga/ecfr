@@ -1,0 +1,3 @@
+##### § 900.24 Can a contract proposal for an Indian tribe or tribal organization's share of administrative programs, functions, services, and activities be declined for any reason other than the five reasons specified in § 900.22? #####
+
+No. The Secretary may only decline a proposal based upon one or more of the five reasons listed above. If a contract affects the preexisting level of services to any other tribe, the Secretary shall address that effect in the Secretary's annual report to Congress under section 106(c)(6) of the Act.

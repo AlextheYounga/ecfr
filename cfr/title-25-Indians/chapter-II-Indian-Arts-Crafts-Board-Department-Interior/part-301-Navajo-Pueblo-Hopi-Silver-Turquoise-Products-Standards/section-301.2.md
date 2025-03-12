@@ -1,0 +1,3 @@
+##### § 301.2 Specifications of material. #####
+
+Silver slugs of 1 ounce weight or other silver objects may be used, provided their fineness is at least 900, and provided further that no silver sheet shall be used. Unless cast, the slug or other object is to be hand hammered to thickness and shape desired. The only exceptions here are pins on brooches or similar objects; ear screws for earrings; backs for tie clasps and chains which may be of silver of different fineness and mechanically made.

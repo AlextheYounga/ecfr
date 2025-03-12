@@ -1,0 +1,7 @@
+##### § 101.25 Information collection. #####
+
+(a) The collections of information contained in §§ 101.3, 101.4, 101.12, and 101.25 have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.* and assigned clearance number 1076-0020. The information will be used to rate applicants in accordance with the terms and conditions set forth in section 103 of the Indian Financing Act, as amended. Response is required to obtain a benefit in accordance with 25 U.S.C. 1451.
+
+(b) Public reporting burden for this information is estimated to vary from 15 minutes to 3 hours per response, with an average of one hour per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding this burden estimate or any other aspects of this collection of information, including suggestions for reducing the burden, to the Information Collection Clearance Officer, Bureau of Indian Affairs, Mailstop 337-SIB, 18th and C Streets NW., Washington, DC 20240; and the Paperwork Reduction Project (1076-0020), Office of Management and Budget, Washington, DC 20503.
+
+[54 FR 34975, Aug. 23, 1989. Redesignated at 57 FR 46472, Oct. 8, 1992]

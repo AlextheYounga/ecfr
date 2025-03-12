@@ -1,0 +1,7 @@
+##### § 36.1 Purpose, scope, and information collection requirements. #####
+
+(a) The purpose of this rule is to establish minimum academic standards for the basic education of Indian children for Bureau-operated schools and for those Indian-controlled contract schools which adopt these standards and to establish national criteria for dormitory situations for schools operated by the Bureau of Indian Affairs and for Indian-controlled contract schools operating dormitories.
+
+(b) The information collection requirement contained in § 36.61(a) has been approved by the Office of Management and Budget under 44 U.S.C. 3507 and assigned clearance number 1076-0092. The information is being collected to evaluate waiver request(s) from tribal government(s) and school board(s). The information will be used to ascertain the approval of academic waiver request. The obligation to respond is mandatory under 25 U.S.C. 2001. The information collection requirements contained in §§ 36.71(g), 36.74(f), and 36.76(b) of this rule are not required to be approved by the Office of Management and Budget since less than ten persons or tribes are affected by the information collection requirement of this rule. However, when ten or more persons or tribes become affected by this requirement, the Bureau will submit an approval request.
+
+[50 FR 36816, Sept. 9, 1985, as amended at 70 FR 21951, Apr. 28, 2005]

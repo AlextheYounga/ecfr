@@ -1,0 +1,3 @@
+##### § 213.27 Rate of rental for nonutilized gas wells. #####
+
+If the gas from a gas producing well is not marketed or utilized, other than for operation of the lease, then for each such well the lessee shall pay such rental as may be determined by the supervisor and approved by the Secretary of the Interior, calculated from the date of the completion of the well. Payment of annual gas rentals shall be made within 30 days from the date such payment becomes due.

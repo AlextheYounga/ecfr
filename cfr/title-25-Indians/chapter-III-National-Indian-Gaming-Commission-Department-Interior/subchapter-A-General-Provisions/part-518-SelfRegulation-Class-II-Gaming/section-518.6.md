@@ -1,0 +1,3 @@
+##### § 518.6 What are the responsibilities of the Office of Self-Regulation in the certification process? #####
+
+The Office of Self-Regulation shall be responsible for directing and coordinating the certification process. It shall provide a written report and recommendation to the Commission as to whether a certificate of self-regulation should be issued or denied, and a copy of the report and recommendation to the petitioning tribe.

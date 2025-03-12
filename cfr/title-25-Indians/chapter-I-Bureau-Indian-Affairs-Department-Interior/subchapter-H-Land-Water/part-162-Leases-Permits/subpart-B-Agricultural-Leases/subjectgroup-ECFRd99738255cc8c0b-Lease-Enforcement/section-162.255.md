@@ -1,0 +1,3 @@
+##### § 162.255 Can BIA take emergency action if the leased premises are threatened with immediate and significant harm? #####
+
+If a tenant or any other party causes or threatens to cause immediate and significant harm to the leased premises during the term of an agricultural lease, we will take appropriate emergency action. Emergency action may include trespass proceedings under part 166, subpart I, of this chapter, or judicial action seeking immediate cessation of the activity resulting in or threatening the harm. Reasonable efforts will be made to notify the Indian landowners, either before or after the emergency action is taken.

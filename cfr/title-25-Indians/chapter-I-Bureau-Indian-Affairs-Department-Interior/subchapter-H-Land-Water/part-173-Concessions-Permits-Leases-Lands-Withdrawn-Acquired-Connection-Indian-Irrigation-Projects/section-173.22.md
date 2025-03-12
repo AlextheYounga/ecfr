@@ -1,0 +1,3 @@
+##### § 173.22 Disposition of revenue. #####
+
+Funds derived from concessions or leases under this part except those so derived from Indian tribal property withdrawn for irrigation purposes and for which the tribe has not been compensated, shall be available for expenditure under existing law in the operation and maintenance of the irrigation project on which collected and as provided for in part 161 of this chapter. Funds so derived from Indian tribal property withdrawn for irrigation purposes and for which the tribe has not been compensated, shall be deposited to the credit of the proper tribe.

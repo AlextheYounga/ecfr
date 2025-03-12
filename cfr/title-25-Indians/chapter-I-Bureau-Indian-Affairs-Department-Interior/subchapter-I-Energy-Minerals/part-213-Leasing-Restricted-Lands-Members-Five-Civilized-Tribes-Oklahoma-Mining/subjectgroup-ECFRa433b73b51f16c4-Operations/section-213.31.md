@@ -1,0 +1,5 @@
+##### § 213.31 Restrictions on operations. #####
+
+(a) Oil and gas leases issued under the provisions of this part shall be subject to imposition by the Secretary of the Interior of such restrictions as to time or times for the drilling of wells and as to the production from any well or wells as in his judgment may be necessary or proper for the protection of the natural resources of the leased land and in the interest of the lessor. In the exercise of his judgment the Secretary of the Interior may take into consideration, among other things, the Federal laws, State laws, regulations by competent Federal or State authorities, lawful agreements among operators regulating either drilling or production, or both.
+
+(b) All such leases shall be subject to any cooperative or unit plan of development affecting the leased lands that may be required by the Secretary of the Interior, but no lease shall be included in any cooperative or unit plan without prior approval of the Secretary of the Interior. If said plan effects a change in the lease terms, the consent of the lessor or lessors must be obtained before the plan is effective.

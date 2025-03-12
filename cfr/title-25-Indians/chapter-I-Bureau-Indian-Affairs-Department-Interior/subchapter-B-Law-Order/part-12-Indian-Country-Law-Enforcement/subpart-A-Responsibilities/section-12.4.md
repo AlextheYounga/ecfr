@@ -1,0 +1,3 @@
+##### § 12.4 Who supervises the Bureau of Indian Affairs uniformed police, detention, and conservation enforcement functions? #####
+
+The agency superintendent is directly responsible for the operation and management of BIA uniformed police operations, detention facilities, and conservation enforcement operations at any agency having these programs. The agency superintendent must also ensure technical support is provided to any agency contracting the law enforcement and/or detention program.

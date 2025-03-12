@@ -1,0 +1,3 @@
+##### § 41.49 What is the purpose of this subpart? #####
+
+The purpose of this subpart is to assist the Navajo Nation in providing education to the members of the Tribe and other qualified applicants through a community college, established by that Tribe, known as Diné College. To that end, the regulations in this subpart prescribe procedures for providing financial and technical assistance for Diné College under the NCCA.

@@ -1,0 +1,3 @@
+##### § 61.9 Burden of proof. #####
+
+The burden of proof rests upon the applicant or tribal member to establish eligibility for enrollment. Documentary evidence such as birth certificates, death certificates, baptismal records, copies of probate findings, or affidavits, may be used to support claim of eligibility for enrollment. Records of the Bureau of Indian Affairs may be used to establish eligibility.

@@ -1,0 +1,3 @@
+##### § 36.82 May behavioral health professional(s) provide services during the academic school day? #####
+
+Behavioral health professional(s) must average at least 75 percent of their work hours with students in their dormitories. These work hours must occur outside of the academic school day, except in emergency situations as deemed by the administrative head of the homeliving program or designee. The purpose of this requirement is to maximize contact time with students in their homeliving setting.

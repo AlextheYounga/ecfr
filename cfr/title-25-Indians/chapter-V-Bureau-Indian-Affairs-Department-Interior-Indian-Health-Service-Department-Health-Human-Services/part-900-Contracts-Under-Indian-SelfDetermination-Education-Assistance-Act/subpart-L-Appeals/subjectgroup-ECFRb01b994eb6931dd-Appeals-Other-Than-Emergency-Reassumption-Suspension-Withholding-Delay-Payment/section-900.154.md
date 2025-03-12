@@ -1,0 +1,3 @@
+##### § 900.154 How does an Indian tribe or tribal organization request an informal conference? #####
+
+The Indian tribe or tribal organization shall file its request for an informal conference with the office of the person whose decision it is appealing, within 30 days of the day it receives the decision. The Indian tribe or tribal organization may either hand-deliver the request for an informal conference to that person's office, or mail it by certified mail, return receipt requested. If the Indian tribe or tribal organization mails the request, it will be considered filed on the date the Indian tribe or tribal organization mailed it by certified mail.

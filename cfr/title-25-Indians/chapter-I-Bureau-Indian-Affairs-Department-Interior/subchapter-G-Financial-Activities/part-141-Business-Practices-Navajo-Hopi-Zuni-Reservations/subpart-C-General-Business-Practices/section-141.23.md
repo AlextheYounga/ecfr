@@ -1,0 +1,3 @@
+##### § 141.23 Posted statement of ownership. #####
+
+The licensee of a reservation business shall display in a prominent place a notice that is legible to customers stating the form of the business entity, the names and addresses of all other reservation businesses owned in whole or in part by the business entity, and if the licensee is not a corporation, the names and addresses of the owner or owners of the business. If the licensee is a corporation the notice shall list the names and addresses of the members of the Board of Directors.

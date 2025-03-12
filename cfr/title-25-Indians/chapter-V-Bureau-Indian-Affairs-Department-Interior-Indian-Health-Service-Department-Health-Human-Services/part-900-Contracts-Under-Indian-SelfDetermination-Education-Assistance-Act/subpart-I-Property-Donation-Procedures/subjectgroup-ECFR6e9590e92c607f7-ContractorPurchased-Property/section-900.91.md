@@ -1,0 +1,3 @@
+##### § 900.91 Who takes title to property purchased with funds under a self-determination contract or grant agreement pursuant to section 105(f)(2)(A) of the Act? #####
+
+The contractor takes title to such property, unless the contractor chooses to have the United States take title. In that event, the contractor must inform the Secretary of the purchase and identify the property and its location in such manner as the contractor and the Secretary deem necessary. A request for the United States to take title to any item of contractor-purchased property may be made at any time. A request for the Secretary to take fee title to real property shall be expeditiously processed in accordance with applicable Federal law and regulation.

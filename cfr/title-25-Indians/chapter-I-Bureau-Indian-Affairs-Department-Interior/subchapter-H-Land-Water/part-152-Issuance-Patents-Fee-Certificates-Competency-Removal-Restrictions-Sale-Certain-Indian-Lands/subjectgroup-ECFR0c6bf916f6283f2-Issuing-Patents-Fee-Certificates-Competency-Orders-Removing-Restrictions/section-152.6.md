@@ -1,0 +1,3 @@
+##### § 152.6 Issuance of patents in fee to non-Indians and Indians with whom a special relationship does not exist. #####
+
+Whenever the Secretary determines that trust land, or any interest therein, has been acquired through inheritance or devise by a non-Indian, or by a person of Indian descent to whom the United States owes no trust responsibility, the Secretary may issue a patent in fee for the land or interest therein to such person without application.

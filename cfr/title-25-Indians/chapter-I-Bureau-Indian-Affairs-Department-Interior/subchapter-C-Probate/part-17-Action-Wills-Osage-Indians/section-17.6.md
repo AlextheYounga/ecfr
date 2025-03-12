@@ -1,0 +1,3 @@
+##### § 17.6 Examination of witness. #####
+
+All testimony taken at the hearing shall be reduced to writing. Any interested party may cross-examine any witness. Attorneys and others will be required to adhere to the rules of evidence of the State of Oklahoma. If, in addition to oral testimony, affidavits or dispositions are introduced, they must be read, and any opposing claimant may require the presence of the affiant, if practicable, either at that or a subsequent hearing, and opportunity shall be given for cross-examination or for having counter interrogatories answered.

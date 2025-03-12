@@ -1,0 +1,3 @@
+##### § 900.236 May an Indian tribe elect to negotiate contract provisions on conflict of interest to take the place of this regulation? #####
+
+Yes. An Indian tribe and the Secretary may agree to contract provisions, concerning either personal or organizational conflicts, that address the issues specific to the program and activities contracted in a manner that provides equivalent protection against conflicts of interest to these regulations. Agreed-upon contract provisions shall be followed, rather than the related provisions of this regulation. For example, the Indian tribe and the Secretary may agree that using the Indian tribe's own written code of ethics satisfies the objectives of the personal conflicts provisions of this regulation, in whole or in part.

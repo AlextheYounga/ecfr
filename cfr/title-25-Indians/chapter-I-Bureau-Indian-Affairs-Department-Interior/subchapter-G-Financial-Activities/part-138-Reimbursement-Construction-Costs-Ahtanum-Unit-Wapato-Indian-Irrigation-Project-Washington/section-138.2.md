@@ -1,0 +1,5 @@
+##### § 138.2 Repayment of construction costs. #####
+
+The cost per acre under § 138.1 is, therefore, established at $16.7535. Under the provisions of the acts of February 14, 1920 (41 Stat. 409) and March 7, 1928 (45 Stat. 210) is based on forty equal annual payments, the annual per acre assessment is hereby fixed at $0.42 per acre for the year 1957 and each succeeding year until the entire cost for each tract shall have been repaid to the United States Treasury. On those tracts where payments have been made pursuant to part 134 of this chapter, annual assessments beginning with the year 1957 at the rate of $0.42 per acre will be made until the entire cost of $16.7535 per acre shall have been repaid to the United States Treasury. Landowners may pay at any time the total of the then remaining indebtedness. Under the act of March 10, 1928 (45 Stat. 210) the unpaid charges stand as a lien against the lands until paid.
+
+[22 FR 10646, Dec. 24, 1957. Redesignated at 47 FR 13327, Mar. 30, 1982; 48 FR 13414, Mar. 31, 1983]

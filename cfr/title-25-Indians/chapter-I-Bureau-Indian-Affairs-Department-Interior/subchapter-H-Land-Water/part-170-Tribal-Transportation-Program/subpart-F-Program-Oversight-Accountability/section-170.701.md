@@ -1,0 +1,3 @@
+##### § 170.701 May a direct service Tribe and BIA Region sign a Memorandum of Understanding? #####
+
+Yes. A direct service Tribe and BIA Region may sign a Memorandum of Understanding (MOU). A TTP Tribal/BIA Region MOU is a document that a direct service Tribe and BIA may enter into to help define the roles, responsibilities and consultation process between the BIA regional office and the Indian Tribal government. It describes how the TTP will be carried out by BIA on the Tribe's behalf.

@@ -1,0 +1,3 @@
+##### § 141.15 Consent to jurisdiction of Hopi and Zuni tribal courts. #####
+
+As a condition to doing business on the Hopi or the Zuni Reservation each applicant for license under this part shall, in accordance with the constitutions of those tribes, voluntarily submit the applicant and the applicant's employees or agents to the jurisdiction of the tribal court for the purpose of the adjudication of any dispute, claim or obligation arising under tribal ordinance relating to commerce carried out by the licensee.

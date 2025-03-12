@@ -1,0 +1,3 @@
+##### § 115.414 What is an authorized disbursement request? #####
+
+An authorized disbursement request is the form or letter that must be approved by the BIA that specifies the funds to be disbursed from an IIM account. The authorized disbursement request may not be issued to disburse funds from a minor's supervised account unless an approved distribution plan exists, the amount to be disbursed is in conformity with the distribution plan and the disbursement will be made to an individual or third party specified in the plan.

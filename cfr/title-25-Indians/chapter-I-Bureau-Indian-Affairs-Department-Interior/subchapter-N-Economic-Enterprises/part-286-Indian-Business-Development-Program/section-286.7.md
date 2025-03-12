@@ -1,0 +1,3 @@
+##### § 286.7 Location of enterprise. #####
+
+To be eligible for a grant an economic enterprise must be located on an Indian reservation or located where it makes or will make an economic contribution to a nearby reservation by providing employment to tribal members residing thereon or by expending a portion of its income for materials or services on the reservation. Economic enterprises which are or will be operated on a reservation must comply with the requirements of applicable rules, resolutions or ordinances adopted by the governing body of the tribe, if applicable.

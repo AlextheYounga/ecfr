@@ -1,0 +1,3 @@
+##### § 115.709 Will an annual audit be conducted on trust funds? #####
+
+Yes, in accordance with the Trust Reform Act an annual audit will be conducted on trust funds. Each tribe and IIM account holder will be notified when the Secretary has conducted an annual audit on a fiscal year basis of all the trust funds held by the United States for the benefit of tribes and individual Indians. This notice will be provided in the first quarterly statement of performance following the publication of the audit.

@@ -1,0 +1,7 @@
+##### § 241.2 Annette Islands Reserve; definition; exclusive fishery; licenses. #####
+
+(a) *Definition.* The Annette Islands Reserve is defined as the Annette Islands in Alaska, as set apart as a reservation by section 15 of the Act of March 3, 1891 (26 Stat. 1101, 48 U.S.C. sec. 358), and including the area identified in the Presidential Proclamation of April 28, 1916 (39 Stat. 1777), as the waters within three thousand feet from the shore lines at mean low tide of Annette Island, Ham Island, Walker Island, Lewis Island, Spire Island, Hemlock Island, and adjacent rocks and islets, located within the broken line upon the diagram attached to and made a part of said Proclamation; and also the bays of said islands, rocks, and islets.
+
+(b) *Exclusive fishery.* The Annette Islands Reserve is declared to be exclusively reserved for fishing by the members of the Metlakatla Indian Community and such other Alaskan Natives as have joined or may join them in residence on the aforementioned islands, and any other person fishing therein without authority or permission of the Metlakatla Indian Community shall be subject to prosecution under the provisions of section 2 of the Act of July 2, 1960 (74 Stat. 469, 18 U.S.C. sec. 1165).
+
+(c) *Licenses.* Members of the Metlakatla Indian Community, and such other Alaskan Natives as have joined them or may join them in residence on the aforementioned islands, shall not be required to obtain a license or permit from the State of Alaska to engage in fishing in the waters of the Annette Islands Reserve.

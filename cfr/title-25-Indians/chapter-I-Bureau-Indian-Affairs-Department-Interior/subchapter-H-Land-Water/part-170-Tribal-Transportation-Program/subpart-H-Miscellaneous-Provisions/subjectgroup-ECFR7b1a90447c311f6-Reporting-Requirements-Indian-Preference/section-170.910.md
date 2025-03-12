@@ -1,0 +1,3 @@
+##### § 170.910 What information on the TTP or projects must BIA or FHWA provide? #####
+
+All available public information regarding the TTP can be found on the BIA transportation Web site at *http://www.bia.gov/WhoWeAre/BIA/OIS/Transportation/index.htm* or the Federal Lands Highway—Tribal Transportation Program Web site at *http://flh.fhwa.dot.gov/programs/ttp/*. If a Tribe would like additional information that is not available on the Web sites, the Tribe should contact FHWA or BIA directly. FHWA and BIA will then provide direction or assistance based upon the Tribe's specific request.

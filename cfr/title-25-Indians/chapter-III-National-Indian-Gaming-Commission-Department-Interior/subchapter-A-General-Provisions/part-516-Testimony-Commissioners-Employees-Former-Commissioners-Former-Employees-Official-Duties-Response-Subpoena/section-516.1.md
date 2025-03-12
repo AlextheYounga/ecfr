@@ -1,0 +1,7 @@
+##### § 516.1 What is the purpose of this part and to whom does it apply? #####
+
+(a) The purpose of this part is to promulgate regulations regarding the release of official National Indian Gaming Commission information and provision of testimony by National Indian Gaming Commission personnel with respect to litigation or potential litigation and to prescribe conduct on the part of National Indian Gaming Commission personnel in response to a litigation-related request or demand.
+
+(b) This part applies to requests or demands that are litigation-related or otherwise arise out of judicial, administrative or other legal proceedings (including subpoena, order or other demand) for interview, testimony (including by deposition) or other statement, or for production of documents relating to the business of the National Indian Gaming Commission, whether or not the National Indian Gaming Commission or the United States is a party to the litigation. It does not, however, apply to document requests covered by 25 CFR parts 515 and 517.
+
+(c) To the extent the request or demand seeks official information or documents, the provisions of this part are applicable to Commissioners, employees, and former Commissioners and former employees, of the National Indian Gaming Commission.

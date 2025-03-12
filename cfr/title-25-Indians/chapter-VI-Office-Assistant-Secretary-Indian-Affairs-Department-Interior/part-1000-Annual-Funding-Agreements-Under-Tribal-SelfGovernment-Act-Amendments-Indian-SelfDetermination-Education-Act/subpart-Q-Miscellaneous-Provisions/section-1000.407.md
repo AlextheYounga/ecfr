@@ -1,0 +1,3 @@
+##### § 1000.407 Do the wage and labor standards in the Davis-Bacon Act apply to Tribes and Tribal Consortia? #####
+
+No, wage and labor standards of the Davis-Bacon Act do not apply to employees of Tribes and Tribal Consortia. They do apply to all other laborers and mechanics employed by contractors and subcontractors in the construction, alteration, and repair (including painting or redecorating of buildings or other facilities) in connection with an AFA.

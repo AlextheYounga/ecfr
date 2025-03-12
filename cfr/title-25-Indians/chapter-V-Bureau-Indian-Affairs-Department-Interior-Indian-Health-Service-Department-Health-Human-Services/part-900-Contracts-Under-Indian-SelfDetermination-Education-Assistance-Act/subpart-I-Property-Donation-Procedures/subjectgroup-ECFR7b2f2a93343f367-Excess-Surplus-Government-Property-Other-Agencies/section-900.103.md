@@ -1,0 +1,3 @@
+##### § 900.103 How can Indian tribes or tribal organizations learn about property that has been designated as excess or surplus government property? #####
+
+The Secretary shall furnish, not less than annually, to Indian tribes or tribal organizations listings of such property as may be made available from time to time by GSA or other Federal agencies, and shall obtain listings upon the request of an Indian tribe or tribal organization.

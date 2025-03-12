@@ -1,0 +1,3 @@
+##### § 215.21 Payment of gross production tax on lead and zinc. #####
+
+The superintendent of the Quapaw Indian Agency is hereby authorized and directed to pay at the appropriate times, from the respective individual Indian funds held under his supervision, such gross production tax due the State on production of lead and zinc from restricted lands under his jurisdiction as may be properly assessed under provisions of law against the royalty interests of the respective Indian owners in the mineral produced from their lands.

@@ -1,0 +1,3 @@
+##### § 226.5 Leases subject to current regulations. #####
+
+Leases issued pursuant to this part shall be subject to the current regulations of the Secretary, all of which are made a part of such leases: *Provided,* That no amendment or change of such regulations made after the approval of any lease shall operate to affect the term of the lease, rate of royalty, rental, or acreage unless agreed to by both parties and approved by the Superintendent.

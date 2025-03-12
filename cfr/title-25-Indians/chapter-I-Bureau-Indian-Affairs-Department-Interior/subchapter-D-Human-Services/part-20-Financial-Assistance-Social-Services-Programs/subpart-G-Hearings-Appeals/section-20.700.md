@@ -1,0 +1,3 @@
+##### § 20.700 Can an applicant or recipient appeal the decision of a Bureau official? #####
+
+Yes, if you are an applicant or recipient, and are dissatisfied with a Bureau decision made under this part, you can request a hearing before the Superintendent or his/her designated representative. You must submit your request by the deadline in § 20.604. The Superintendent or his/her designated representative can extend the deadline if you show good cause.

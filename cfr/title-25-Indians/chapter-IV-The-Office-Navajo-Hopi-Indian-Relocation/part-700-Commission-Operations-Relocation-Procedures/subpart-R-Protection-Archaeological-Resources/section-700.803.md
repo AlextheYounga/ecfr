@@ -1,0 +1,3 @@
+##### § 700.803 Authority. #####
+
+The regulations in this part are promulgated pursuant to section 10(b) of the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470ii). Section 10(b) of the Act (16 U.S.C. 470ii) provides that each Federal land manager shall promulgate such rules and regulations, consistent with the uniform rules and regulations in this part, as may be necessary for carrying out the purposes of the Act.

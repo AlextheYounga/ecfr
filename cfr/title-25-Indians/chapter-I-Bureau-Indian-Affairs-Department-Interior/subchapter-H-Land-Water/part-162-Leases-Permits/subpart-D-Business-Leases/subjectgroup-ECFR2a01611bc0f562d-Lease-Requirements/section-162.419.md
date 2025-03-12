@@ -1,0 +1,3 @@
+##### § 162.419 May a business lease allow compatible uses? #####
+
+A business lease may provide for the Indian landowners to use, or authorize others to use, the leased premises for other uses compatible with the purpose of the business lease and consistent with the terms of the business lease. Any such use or authorization by the Indian landowners will not reduce or offset the monetary compensation for the business lease.

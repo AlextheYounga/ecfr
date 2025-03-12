@@ -1,0 +1,3 @@
+##### § 309.1 How do the regulations in this part carry out the Indian Arts and Crafts Act of 1990? #####
+
+These regulations define the nature and Indian origin of products protected by the Indian Arts and Crafts Act of 1990 (18 U.S.C. 1159, 25 U.S.C. 305 *et seq.*) from false representations, and specify how the Indian Arts and Crafts Board will interpret certain conduct for enforcement purposes. The Act makes it unlawful to offer or display for sale or sell any good in a manner that falsely suggests it is Indian produced, an Indian product, or the product of a particular Indian, or Indian tribe, or Indian arts and crafts organization resident within the United States.

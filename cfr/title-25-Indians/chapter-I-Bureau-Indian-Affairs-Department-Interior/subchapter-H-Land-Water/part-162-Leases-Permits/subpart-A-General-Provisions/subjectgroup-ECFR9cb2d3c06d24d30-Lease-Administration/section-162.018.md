@@ -1,0 +1,3 @@
+##### § 162.018 May tribes administer this part on BIA's behalf? #####
+
+A tribe or tribal organization may contract or compact under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450f *et seq.*) to administer any portion of this part that is not an approval or disapproval of a lease document, waiver of a requirement for lease approval (including but not limited to waivers of fair market rental and valuation, bonding, and insurance), cancellation of a lease, or an appeal.

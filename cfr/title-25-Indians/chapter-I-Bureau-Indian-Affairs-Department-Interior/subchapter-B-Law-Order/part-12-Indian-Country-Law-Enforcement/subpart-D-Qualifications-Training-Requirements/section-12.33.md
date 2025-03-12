@@ -1,0 +1,3 @@
+##### § 12.33 Are Indian country law enforcement officers paid less than other law enforcement officers? #####
+
+An officer's pay is determined by his/her grade and classification. The Commissioner of Indian Affairs must ensure that all BIA law enforcement officer positions are established at no lower grade level on the Federal scale than similar Federal law enforcement officer positions in other agencies. No BIA position performing commissioned law enforcement duties will be classified in other than the GS 0083, police officer series, for uniformed officers and the GS 1811, criminal investigating series, for criminal investigators.

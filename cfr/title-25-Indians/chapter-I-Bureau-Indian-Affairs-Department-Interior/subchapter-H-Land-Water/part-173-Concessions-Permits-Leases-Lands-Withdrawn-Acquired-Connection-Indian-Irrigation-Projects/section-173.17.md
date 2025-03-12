@@ -1,0 +1,5 @@
+##### § 173.17 Agricultural and grazing permits and leases. #####
+
+(a) Permits or leases may be granted after the lands set forth in § 173.0 have been classified as to use and then only for the purpose for which the land is classified. Permits for grazing lands suitable for division into range units shall be granted in accordance with part 166 of this chapter; and agricultural lands and all other grazing lands shall be leased in accordance with part 166 of this chapter.
+
+(b) Lands for which leases or permits are granted pursuant to the terms and conditions of this part shall not be eligible for benefit payments under the provisions and conditions of the Crop Control and Soil Conservation Act of April 27, 1935 (49 Stat. 163; 16 U.S.C. 590a), as amended by the act of February 29, 1936 (49 Stat. 1148; 16 U.S.C. 590g), and subsequent amendatory acts.

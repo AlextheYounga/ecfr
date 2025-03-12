@@ -1,0 +1,3 @@
+##### § 140.14 Trade limited to specified premises. #####
+
+No trade with Indians is permitted at any other place than that specified in the license. Licenses to not cover branch stores. A separate license and bond must be furnished for each such store. The business of a licensed trader must be managed by the bonded principal, who must habitually reside upon the reservation, and not by an unbonded subordinate.

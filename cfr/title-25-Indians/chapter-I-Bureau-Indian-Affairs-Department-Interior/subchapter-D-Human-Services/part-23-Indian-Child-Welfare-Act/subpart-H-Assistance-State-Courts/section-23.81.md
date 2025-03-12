@@ -1,0 +1,3 @@
+##### § 23.81 Assistance in identifying witnesses. #####
+
+Upon the request of a party in an involuntary Indian child custody proceeding or of a court, the Secretary or his/her designee shall assist in identifying qualified expert witnesses. Such requests for assistance shall be sent to the Regional Director designated in § 23.11(c). The BIA is not obligated to pay for the services of such expert witnesses.

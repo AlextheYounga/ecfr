@@ -1,0 +1,3 @@
+##### § 535.2 Assignments. #####
+
+Subject to the approval of the Chairman, a management contractor may assign its rights under a management contract to the extent permitted by the contract. A tribe or a management contractor shall submit such assignment to the Chairman upon execution. The Chairman shall approve or disapprove an assignment applying the standards of, and within the time provided by §§ 535.1(d) and 535.1(e) of this part.

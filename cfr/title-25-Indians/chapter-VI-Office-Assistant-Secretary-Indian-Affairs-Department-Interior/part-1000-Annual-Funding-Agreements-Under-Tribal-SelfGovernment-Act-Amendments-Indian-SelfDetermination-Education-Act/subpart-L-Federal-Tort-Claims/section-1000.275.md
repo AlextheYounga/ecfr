@@ -1,0 +1,5 @@
+##### § 1000.275 Is it necessary for a self-governance AFA to include any clauses about FTCA coverage? #####
+
+No, clauses about FTCA coverage are optional. At the request of Tribes/Consortia, self-governance AFA's shall include the following clause to clarify the scope of FTCA coverage:
+
+For purposes of Federal Tort Claims Act coverage, the Tribe/Consortium and its employees (including individuals performing personal services contracts with the tribe/consortium) are deemed to be employees of the Federal government while performing work under this AFA. This status is not changed by the source of the funds used by the Tribe/Consortium to pay the employee's salary and benefits unless the employee receives additional compensation for performing covered services from anyone other than the Tribe/Consortium.

@@ -1,0 +1,3 @@
+##### § 900.189 Does this coverage extend to subcontractors of self-determination contracts? #####
+
+No. Subcontractors or subgrantees providing services to a Public Law 93-638 contractor or grantee are generally not covered. The only exceptions are Indian contractors such as those under subcontract with the California Rural Indian Health Board to carry out IHS programs in geographically defined service areas in California and personal services contracts under § 900.193 (for § 900.183(b)(1)) or § 900.183(b) (for § 900.190).

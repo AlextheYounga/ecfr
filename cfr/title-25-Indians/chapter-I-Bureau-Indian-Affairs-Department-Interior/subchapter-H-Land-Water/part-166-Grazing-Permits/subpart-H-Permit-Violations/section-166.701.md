@@ -1,0 +1,3 @@
+##### § 166.701 How will the BIA determine whether the activities of a permittee under a permit are in compliance with the terms of the permit? #####
+
+Unless the permit provides otherwise, we may enter the range unit at any reasonable time, without prior notice, to protect the interests of the Indian landowners and ensure that the permittee is in compliance with the operating requirements of the permit.

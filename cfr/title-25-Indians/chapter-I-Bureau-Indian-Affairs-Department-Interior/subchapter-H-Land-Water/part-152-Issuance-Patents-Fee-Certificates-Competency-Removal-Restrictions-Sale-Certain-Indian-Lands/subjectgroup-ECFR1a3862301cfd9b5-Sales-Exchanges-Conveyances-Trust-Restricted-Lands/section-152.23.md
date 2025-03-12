@@ -1,0 +1,3 @@
+##### § 152.23 Applications for sale, exchange or gift. #####
+
+Applications for the sale, exchange or gift of trust or restricted land shall be filed in the form approved by the Secretary with the agency having immediate jurisdiction over the land. Applications may be approved if, after careful examination of the circumstances in each case, the transaction appears to be clearly justified in the light of the long-range best interest of the owner or owners or as under conditions set out in § 152.25(d).

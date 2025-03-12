@@ -1,0 +1,3 @@
+##### § 103.9 Who applies to BIA under the Program? #####
+
+The lender is responsible for determining whether it will require a BIA guaranty or insurance coverage, based upon the loan application it receives from an eligible borrower. If the lender requires a BIA guaranty or insurance coverage, the lender is responsible for completing and submitting a guaranty application or complying with a loan insurance agreement under the Program.

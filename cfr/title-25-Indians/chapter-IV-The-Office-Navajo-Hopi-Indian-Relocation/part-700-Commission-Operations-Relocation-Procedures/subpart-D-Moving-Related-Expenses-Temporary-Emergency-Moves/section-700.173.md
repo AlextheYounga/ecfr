@@ -1,0 +1,5 @@
+##### § 700.173 Average net earnings of business or farm. #####
+
+(a) *Computing net earnings.* For purposes of this subpart, the average annual net earnings of a business or farm operation is one-half of its net earnings before Federal, State and local income taxes, during the two taxable years immediately prior to the taxable year in which it was displaced. However, if the business or farm was not in operation for the full two taxable years prior to displacement, net earnings shall be computed on the basis of the actual period of operation on the acquired site, projected to an annual rate. Also, average annual net earnings may be based upon a different period of time when the Commission determines it to be more equitable. Net earnings include any compensation obtained from the business or farm operation by its owner, his spouse, or dependents.
+
+(b) *Documentation.* A displaced person who elects to receive a fixed payment in lieu of actual expenses incurred in moving his business or farm shall furnish the Commission proof of his net earnings through income tax returns, certified financial statements or other reasonable evidence.

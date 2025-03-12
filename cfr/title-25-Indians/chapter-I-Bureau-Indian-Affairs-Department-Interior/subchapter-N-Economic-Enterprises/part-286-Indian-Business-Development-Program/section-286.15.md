@@ -1,0 +1,3 @@
+##### § 286.15 Application procedures. #####
+
+Applications are to be submitted to the Superintendent having administrative jurisdiction over the reservation on which an enterprise will be or is located. If the enterprise site is near two or more reservations, application is to be made to the Superintendent having administrative jurisdiction over the reservation nearest to the location of the enterprise which the enterprise will benefit economically.

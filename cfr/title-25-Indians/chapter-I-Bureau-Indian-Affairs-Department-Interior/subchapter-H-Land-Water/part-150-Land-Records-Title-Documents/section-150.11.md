@@ -1,0 +1,5 @@
+##### § 150.11 Disclosure of land records, title documents, and title reports. #####
+
+(a) The usefulness of a Land Titles and Records Office depends in large measure on the ability of the public to consult the records contained therein. It is therefore, the policy of the Bureau of Indian Affairs to allow access to land records and title documents unless such access would violate the Privacy Act, 5 U.S.C. 552a or other law restricting access to such records, or there are strong policy grounds for denying access where such access is not required by the Freedom of Information Act, 5 U.S.C. 552. It shall be the policy of the Bureau of Indian Affairs that, unless specifically authorized, monetary considerations will not be disclosed insofar as leases of tribal land are concerned.
+
+(b) Before disclosing information concerning any living individual, the Manager, Land Titles and Records Office, shall consult 5 U.S.C. 552a(b) and the notice of routine users then in effect to determine whether the information may be released without the written consent of the person to whom it pertains.

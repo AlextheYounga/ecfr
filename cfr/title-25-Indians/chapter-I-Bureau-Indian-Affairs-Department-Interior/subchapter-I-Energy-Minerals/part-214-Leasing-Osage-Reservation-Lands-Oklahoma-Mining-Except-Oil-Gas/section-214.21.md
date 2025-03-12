@@ -1,0 +1,3 @@
+##### § 214.21 Inspection of lessees' books and records. #####
+
+Lessees shall allow the agents and representatives of the lessor, or any authorized representative of the Interior Department, to enter, from time to time, upon and into all parts of the leased premises for the purpose of inspection, and their books and records showing manner of operations and persons interested, shall be open at all times for the examination of such officers of the department as shall be instructed by the Secretary of the Interior to make such examinations.

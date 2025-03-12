@@ -1,0 +1,3 @@
+##### § 304.6 Responsibility of dealer. #####
+
+All dies will be numbered, and each wholesaler or dealer will be held responsible for any violation of standards in silver that bears his mark. Until such time as the Board relinquishes its sole right to mark silver, the responsibility of the dealer for whom silver is marked will be confined to misrepresentations as to quality of silver and of stones used for ornament and to methods of production.

@@ -1,0 +1,3 @@
+##### § 30.111 When should the tribal governing body or school board request technical assistance? #####
+
+In order to maximize the time the tribal governing body or school board has to develop an alternative definition of AYP and to provide full opportunity for technical assistance, the tribal governing body or school board should request technical assistance before formally notifying the Secretary of its intention to waive the Secretary's definition of AYP.

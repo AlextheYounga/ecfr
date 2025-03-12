@@ -1,0 +1,3 @@
+##### § 47.12 Information collection. #####
+
+Notwithstanding any other provision of law, no person is required to respond to, nor shall any person be subject to a penalty for failure to comply with, a collection of information subject to the requirements of the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 *et seq.*) (PRA), unless that collection of information displays a currently valid Office of Management and Budget (OMB) Control Number. This part contains collections of information subject to the PRA in §§ 47.5, 47.7, 47.9, and 47.10. These collections have been approved by OMB under control number 1076-1063.

@@ -1,0 +1,3 @@
+##### § 273.32 Pro rata requirement. #####
+
+All monies provided by a contract pursuant to this part, shall be expended only for the benefit of eligible Indian students. Where students other than eligible Indian students participate in programs contracted under this part, money expended under such contract shall be prorated to cover the participation of only the eligible Indian students, except where the participation of non-eligible students is so incidental as to be *de minimus.* Such *de minimus* participation must be approved by the Indian Education Committee.

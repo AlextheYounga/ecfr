@@ -1,0 +1,3 @@
+##### § 900.191 Are employees of self-determination contractors providing health services under the self-determination contract protected by FTCA? #####
+
+Yes. For the purpose of Federal Tort Claims Act coverage, an Indian tribe or tribal organization and its employees performing medical-related functions under a self-determination contract are deemed a part of the Public Health Service if the employees are acting within the scope of their employment in carrying out the contract.

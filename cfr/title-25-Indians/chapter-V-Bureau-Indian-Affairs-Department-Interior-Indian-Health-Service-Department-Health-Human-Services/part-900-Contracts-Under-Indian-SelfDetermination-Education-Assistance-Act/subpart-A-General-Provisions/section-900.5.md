@@ -1,0 +1,3 @@
+##### § 900.5 Effect of these regulations on Federal program guidelines, manual, or policy directives. #####
+
+Except as specifically provided in the Act, or as specified in subpart J, an Indian tribe or tribal organization is not required to abide by any unpublished requirements such as program guidelines, manuals, or policy directives of the Secretary, unless otherwise agreed to by the Indian tribe or tribal organization and the Secretary, or otherwise required by law.

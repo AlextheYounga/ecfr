@@ -1,0 +1,3 @@
+##### § 1200.33 How can funds be returned? #####
+
+Funds may be returned either as cash or securities, which meet the requirements for investments in 25 U.S.C. 162a. Cash can be transferred to the US Treasury by Electronic Funds Transfers (EFT), or the Automated Clearing House (ACH) process. Tribes must coordinate the transfer of ownership in securities with us to ensure proper credit to the tribe. The securities must meet investment restrictions contained in 25 U.S.C. 162a.

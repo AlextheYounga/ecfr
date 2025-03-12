@@ -1,0 +1,3 @@
+##### § 1000.229 May a Tribe/Consortium propose a substitute for a regulation it wishes to be waived? #####
+
+Yes, where a Tribe/Consortium wishes to replace the waived regulation with a substitute that otherwise maintains the requirements of the applicable Federal law, the Secretary may be able to approve the waiver request. The Tribe/Consortium and bureau officials must negotiate to develop a suggested substitution.

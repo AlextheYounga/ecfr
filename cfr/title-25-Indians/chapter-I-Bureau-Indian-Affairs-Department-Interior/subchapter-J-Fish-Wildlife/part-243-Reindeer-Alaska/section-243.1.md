@@ -1,0 +1,3 @@
+##### § 243.1 What is the purpose of this part? #####
+
+The Department's policy is to encourage and develop the activity and responsibility of Alaska Natives in all branches of the reindeer industry and business in Alaska, and to preserve the Native character of that industry and business. This part contains requirements governing acquisition and transferring reindeer and reindeer products in Alaska.

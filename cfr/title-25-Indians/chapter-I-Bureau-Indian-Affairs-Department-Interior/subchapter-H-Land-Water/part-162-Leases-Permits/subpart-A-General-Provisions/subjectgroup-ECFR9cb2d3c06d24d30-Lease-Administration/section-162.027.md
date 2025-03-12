@@ -1,0 +1,7 @@
+##### § 162.027 What documentation may BIA require in approving, administering, and enforcing leases? #####
+
+(a) We may require that the parties provide any pertinent environmental and technical records, reports, and other information (e.g., records of lease payments), related to approval of lease documents and enforcement of leases.
+
+(b) We will adopt environmental assessments and environmental impact statements prepared by another Federal agency, Indian tribe, entity, or person under 43 CFR 46.320 and 42 CFR 1506.3, including those prepared under 25 U.S.C. 4115 and 25 CFR part 1000, but may require a supplement. We will use any reasonable evidence that another Federal agency has accepted the environmental report, including but not limited to, letters of approval or acceptance.
+
+(c) Upon our request, the parties must make appropriate records, reports, or information available for our inspection and duplication. We will keep confidential any information that is marked confidential or proprietary and will exempt it from public release to the extent allowed by law and in accordance with 43 CFR part 2. We may, at our discretion, treat a lessee's failure to cooperate with such request, provide data, or grant access to information or records as a lease violation.

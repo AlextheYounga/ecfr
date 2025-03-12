@@ -1,0 +1,3 @@
+##### § 900.147 What appeal rights are available? #####
+
+If the Secretary denies a waiver request, the Indian tribe or tribal organization has the right to appeal the decision and request a hearing on the record under the procedures for hearings and appeals contained in subpart L of these regulations. Alternatively, the Indian tribe or tribal organization may sue in Federal district court to challenge the Secretary's action.

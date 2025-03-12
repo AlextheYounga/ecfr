@@ -1,0 +1,3 @@
+##### § 83.24 What opportunity will the petitioner have to respond to comments before OFA reviews the petition? #####
+
+Before beginning review of a documented petition, OFA will provide the petitioner with any comments on the petition received from individuals or entities under § 83.22(b) and provide the petitioner with 90 days to respond to such comments. OFA will not begin review until it receives the petitioner's response to the comments or the petitioner requests that OFA proceed without its response.

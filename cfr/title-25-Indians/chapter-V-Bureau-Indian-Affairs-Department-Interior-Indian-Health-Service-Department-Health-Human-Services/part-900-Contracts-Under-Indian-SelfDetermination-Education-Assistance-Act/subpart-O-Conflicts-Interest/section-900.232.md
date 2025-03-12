@@ -1,0 +1,3 @@
+##### § 900.232 What must an Indian tribe or tribal organization do if an organizational conflict of interest arises under a contract? #####
+
+This section only applies if the conflict was not addressed when the contract was first negotiated. When an Indian tribe or tribal organization becomes aware of an organizational conflict of interest, the Indian tribe or tribal organization must immediately disclose the conflict to the Secretary.

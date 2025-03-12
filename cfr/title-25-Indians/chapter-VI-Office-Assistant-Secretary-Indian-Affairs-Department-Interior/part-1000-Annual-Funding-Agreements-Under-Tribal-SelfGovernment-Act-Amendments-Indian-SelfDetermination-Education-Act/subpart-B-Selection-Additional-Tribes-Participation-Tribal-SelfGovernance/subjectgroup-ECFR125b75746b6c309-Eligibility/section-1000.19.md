@@ -1,0 +1,3 @@
+##### § 1000.19 What is done during the “planning phase”? #####
+
+The Act requires that all Tribes/Consortia seeking to participate in Tribal self-governance complete a planning phase. During the planning phase, the Tribe/Consortium must conduct legal and budgetary research and internal Tribal government and organizational planning. The availability of BIA grant funds for planning activities will be in accordance with subpart C. The planning phase may be completed without a planning grant.

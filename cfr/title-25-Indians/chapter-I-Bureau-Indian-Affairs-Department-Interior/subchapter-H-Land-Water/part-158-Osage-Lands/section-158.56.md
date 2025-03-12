@@ -1,0 +1,5 @@
+##### § 158.56 Partition records. #####
+
+Upon completion of an action in partition, a copy of the judgment roll showing schedule of costs and owelty moneys having accrued to or from the several parties, together with deeds, or other instruments vesting title on partition, in triplicate, shall be furnished to the Osage Agency. The original allotment number shall follow the legal description on all instruments vesting title. When a grantee is a member of the Osage Tribe who has not received a certificate of competency, deeds or other instruments vesting title shall contain the following clause against alienation:
+
+Subject to the condition that while title to the above-described lands shall remain in the grantee or his Osage Indian heirs or devisees who do not have certificates of competency, the same shall not be alienated or encumbered without approval of the Secretary of the Interior or his authorized representative.

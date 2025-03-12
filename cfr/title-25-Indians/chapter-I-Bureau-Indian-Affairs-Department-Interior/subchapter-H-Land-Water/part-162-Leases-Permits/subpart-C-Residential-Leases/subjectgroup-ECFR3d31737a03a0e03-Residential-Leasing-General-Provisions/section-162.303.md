@@ -1,0 +1,3 @@
+##### § 162.303 Who needs a lease for housing for public purposes? #####
+
+A TDHE or tribal housing authority must obtain an approved residential lease under this subpart from the Indian landowners if, under the terms of its charter, it is a legal entity independent from the tribe, regardless of whether it is owned and operated by the tribe. A TDHE or tribal housing authority does not need an approved residential lease under this subpart if the tribe has authorized the TDHE's or tribal housing authority's possession through a tribal land assignment.

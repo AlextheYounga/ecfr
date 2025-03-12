@@ -1,0 +1,3 @@
+##### § 224.77 Who may appeal the Secretary's decision on a final proposed TERA or a revised final proposed TERA? #####
+
+Only a tribe applying for a TERA may appeal the Secretary's decision to disapprove a final proposed TERA or a revised final proposed TERA in accordance with the appeal procedures contained in subpart I of this part. No other person or entity may appeal the Secretary's decision. The Secretary's decision to approve a final proposed TERA or a revised final proposed TERA is a final agency action.

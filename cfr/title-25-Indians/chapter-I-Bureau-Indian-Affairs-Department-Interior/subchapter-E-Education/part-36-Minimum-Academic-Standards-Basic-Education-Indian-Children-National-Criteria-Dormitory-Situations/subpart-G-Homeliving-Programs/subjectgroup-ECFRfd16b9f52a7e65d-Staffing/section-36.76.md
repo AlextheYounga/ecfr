@@ -1,0 +1,3 @@
+##### § 36.76 Who is in charge of all homeliving operations? #####
+
+One staff member who has the authority to ensure the successful functioning of all phases of the homeliving program should be designated as in charge of all homeliving operations. All staff should be advised of the lines of authority through an organizational chart approved by the local board responsible for operations of the homeliving program.

@@ -1,0 +1,3 @@
+##### § 217.2 Authority and purpose. #####
+
+In accordance with the Ute Partition Act approved August 27, 1954 (68 Stat. 868; 25 U.S.C. 677-677aa), as amended by the Act of August 2, 1956 (70 Stat. 936), and the Act of September 25, 1962 (76 Stat. 597), assets shall be managed jointly by the business committee and the board of directors. These regulations set out the procedures for exercising such joint management.

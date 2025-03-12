@@ -1,0 +1,3 @@
+##### § 211.40 Manner of payments. #####
+
+Unless otherwise specifically provided for in a lease, once production has been established, all payments shall be made to the MMS or such other party as may be designated, and shall be made at such time as provided in 30 CFR chapter II, subchapters A and C. Prior to production, all bonus and rental payments, shall be made to the superintendent or area director.

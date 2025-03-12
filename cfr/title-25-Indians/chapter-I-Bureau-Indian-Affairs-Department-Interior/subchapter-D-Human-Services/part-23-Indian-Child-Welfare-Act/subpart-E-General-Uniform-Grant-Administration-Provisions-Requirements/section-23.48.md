@@ -1,0 +1,5 @@
+##### § 23.48 Matching shares and agreements. #####
+
+(a) Grant funds provided to Indian tribes under subpart C of this part may be used as non-Federal matching shares in connection with funds provided under titles IV-B, IV-E and XX of the Social Security Act or such other Federal programs which contribute to and promote the purposes of the Act as specified in §§ 23.3 and 23.22 (25 U.S.C. 1931).
+
+(b) Pursuant to 25 U.S.C. 1933, in furtherance of the establishment, operation, and funding of programs funded under subparts C and D of this part, the Secretary may enter into agreements with the Secretary of Health and Human Services. The latter Secretary is authorized by the Act to use funds appropriated for the Department of Health and Human Services for programs similar to those funded under subparts C and D of this part (25 U.S.C. 1931 and 1932), provided that authority to make payment pursuant to such agreements shall be effective only to the extent and in such amounts as may be provided in advance by appropriation Acts.

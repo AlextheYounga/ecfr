@@ -1,0 +1,3 @@
+##### § 166.415 What will the BIA do if the permittee fails to make a direct payment to an Indian landowner? #####
+
+Within five business days of the Indian landowner's notification to us that a payment has not been received, we will contact the permittee either in writing or by telephone requesting that the permittee provide documentation (e.g., canceled check, cash receipt voucher, copy of a money order or cashier's check) showing that payment has been made to the Indian landowner. If the permitee fails to provide such documentation, we will follow the procedures identified in § 166.419 of this part to collect the money on behalf of the Indian landowner or to cancel the permit.

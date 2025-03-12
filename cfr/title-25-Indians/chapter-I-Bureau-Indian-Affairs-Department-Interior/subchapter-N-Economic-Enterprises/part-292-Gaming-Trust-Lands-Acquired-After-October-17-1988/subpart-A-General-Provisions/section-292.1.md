@@ -1,0 +1,3 @@
+##### § 292.1 What is the purpose of this part? #####
+
+The Indian Gaming Regulatory Act of 1988 (IGRA) contains several exceptions under which class II or class III gaming may occur on lands acquired by the United States in trust for an Indian tribe after October 17, 1988, if other applicable requirements of IGRA are met. This part contains procedures that the Department of the Interior will use to determine whether these exceptions apply.

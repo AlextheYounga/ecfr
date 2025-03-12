@@ -1,0 +1,5 @@
+##### § 15.503 How must records associated with this part be preserved? #####
+
+(a) Any organization that has records identified in § 15.502(a), including tribes and tribal organizations, must preserve the records in accordance with approved Departmental records retention procedures under the Federal Records Act, 44 U.S.C. chapters 29, 31, and 33; and
+
+(b) A tribe or tribal organization must preserve the records identified in § 15.502(b) for the period authorized by the Archivist of the United States for similar Department of the Interior records under 44 U.S.C. chapter 33. If a tribe or tribal organization does not do so, it may be unable to adequately document essential transactions or furnish information necessary to protect its legal and financial rights or those of persons affected by its activities.

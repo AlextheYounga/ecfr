@@ -1,0 +1,3 @@
+##### § 103.27 Can the borrower get help preparing its loan application or putting its loan funds to use? #####
+
+A borrower may seek BIA's assistance when preparing a loan application or when planning business operations, including assistance identifying and complying with applicable laws as indicated by § 103.17(d). The borrower should contact the BIA field or agency office serving the area in which the borrower's business is to be located, or if there is no separate field or agency office serving the area, then the borrower should contact the BIA regional office serving the area.

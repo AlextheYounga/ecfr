@@ -1,0 +1,3 @@
+##### § 1000.309 How much time will a Tribe/Consortium have to respond to a notice of imminent jeopardy? #####
+
+The Tribe/Consortium will have 5 days to respond to a notice of imminent jeopardy. The response must be written and may be mailed, telefaxed, or sent by electronic mail. If sent by mail, it must be sent by certified mail, return receipt requested; the postmark date will be considered the date of response.

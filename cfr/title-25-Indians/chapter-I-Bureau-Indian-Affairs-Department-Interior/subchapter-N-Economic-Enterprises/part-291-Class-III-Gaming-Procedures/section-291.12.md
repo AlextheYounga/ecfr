@@ -1,0 +1,3 @@
+##### § 291.12 Who will monitor and enforce tribal compliance with the Class III gaming procedures? #####
+
+The Indian tribe and the State may have an agreement regarding monitoring and enforcement of tribal compliance with the Indian tribe's Class III gaming procedures. In addition, under existing law, the NIGC will monitor and enforce tribal compliance with the Indian tribe's Class III gaming procedures.

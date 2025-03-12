@@ -1,0 +1,3 @@
+##### § 900.126 Shall a construction contract proposal incorporate provisions of Federal construction guidelines and manuals? #####
+
+Each agency may provide or the Indian tribe or tribal organization may request Federal construction guidelines and manuals for consideration by the Indian tribe or tribal organization in the preparation of its contract proposal. If tribal construction procedures, standards and methods (including national, regional, State, or tribal building codes or construction industry standards) are consistent with or exceed applicable Federal standards, the Secretary shall accept the tribally proposed standards.

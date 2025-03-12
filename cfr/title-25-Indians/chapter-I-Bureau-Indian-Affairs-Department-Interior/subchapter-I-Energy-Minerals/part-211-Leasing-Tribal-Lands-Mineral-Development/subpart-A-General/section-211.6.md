@@ -1,0 +1,3 @@
+##### § 211.6 Authority and responsibility of the Minerals Management Service (MMS). #####
+
+The functions of the MMS for reporting, accounting, and auditing are found in 30 CFR chapter II, subchapters A and C, which, apply to leases approved under this part. To the extent the parties to a lease or permit are able to provide reasonable provisions satisfactorily addressing the functions governed by MMS regulations, the Secretary may approve alternate provisions in a lease or permit.

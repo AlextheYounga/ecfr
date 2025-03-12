@@ -1,0 +1,13 @@
+##### § 213.15 Bonds. #####
+
+(a) Lessee shall furnish with each mining lease a bond (Form 5-154b), and an assignee of a lease shall furnish with each assignment a bond (Form 5-154m), with an acceptable company authorized to act as sole surety, or with two or more personal sureties and a deposit as collateral security of any public-debt obligations of the United States guaranteed as to principal and interest by the United States, equal to the full amount of such bonds, or other collateral satisfactory to the Secretary of the Interior, or show ownership of unencumbered real estate of the value equal to twice the amount of the bonds. Lessee may file a bond on Form 5-154a without sureties and a deposit as collateral security of Government bonds equal in value to the full amount of the bond. Lease bonds, except as provided in paragraph (c) of this section, shall not be less than the following amounts:
+
+For less than 80 acres$l,000For 80 acres and less than 120 acres1,500For 120 acres and not more than 160 acres2,000For each additional 40 acres, or part thereof, above 160 acres500
+
+*Provided,* That for leases for minerals other than oil and gas the Secretary of the Interior or his authorized representative with the consent of the Indian landowner may authorize a bond for a lesser amount if, in his opinion, the circumstances warrant and the interests of the Indian landowners are fully protected: *Provided further,* That a lessee may file a bond (Form 5-154f), in the sum of $15,000 for all leases of minerals up to 10,240 acres under the jurisdiction of the officer in charge of the Five Civilized Tribe Agency.
+
+(b) In lieu of the bonds required under paragraph (a) of this section, a lessee may furnish a bond (Form 5-156) in the sum of $75,000 for full nationwide coverage with an acceptable company authorized to act as sole surety to cover all oil and gas leases and oil and gas prospecting permits without geographic or acreage limitation to which the lessee or permittee is or may become a party.
+
+(c) The right is specifically reserved to increase the amount of bonds and the collateral security prescribed in paragraph (a) of this section in any particular case when the officer in charge deems it proper to do so. The nationwide bond may be increased at any time in the discretion of the Secretary of the Interior.
+
+[22 FR 10599, Dec. 24, 1957, as amended at 26 FR 164, Jan. 10, 1961. Redesignated at 47 FR 13327, Mar. 30, 1982]

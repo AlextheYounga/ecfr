@@ -1,0 +1,3 @@
+##### § 900.31 When the Secretary declines all or a portion of a proposal, is an Indian tribe or tribal organization entitled to any appeal? #####
+
+Yes. The Indian tribe or tribal organization is entitled to an appeal on the objections raised by the Secretary, with an agency hearing on the record, and the right to engage in full discovery relevant to any issue raised in the matter. The procedures for appeals are in subpart L of these regulations. Alternatively, at its option the Indian tribe or tribal organization has the right to sue in Federal district court to challenge the Secretary's decision.

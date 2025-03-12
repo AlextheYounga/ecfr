@@ -1,0 +1,5 @@
+##### § 10.11 How would someone detained or incarcerated, or their representative, get the BIA policies and standards? #####
+
+At each detention, community residential, or holding facility located in a tribal jurisdiction where federal funds are used for operations or maintenance programs, the BIA's policies, standards, and procedures will be made available upon request. The Inmate Handbook will be made available to all persons at the time they are incarcerated or detained in a facility. There may be times when this may be delayed due to the physical or mental condition of the person at time of incarceration. In these cases, the Inmate Handbook will be made available when the person is deemed receptive and cognizant by the detention officer in charge. All policies, standards, procedures, and guidelines are available at each facility to the public or by writing to the Director, Office of Law Enforcement Services.
+
+[61 FR 34374, July 2, 1996; 61 FR 65473, Dec. 13, 1996]

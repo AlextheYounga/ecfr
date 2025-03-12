@@ -1,0 +1,3 @@
+##### § 900.86 How will the Secretary exercise discretion to acquire and donate BIA or IHS excess property and excess and surplus Federal property to an Indian tribe or tribal organization? #####
+
+The Secretary will exercise discretion in a way that gives maximum effect to the requests of Indian tribes or tribal organizations for donation of BIA or IHS excess property and excess or surplus Federal property, provided that the requesting Indian tribe or tribal organization shall state how the requested property is appropriate for use for any purpose for which a self-determination contract or grant is authorized.

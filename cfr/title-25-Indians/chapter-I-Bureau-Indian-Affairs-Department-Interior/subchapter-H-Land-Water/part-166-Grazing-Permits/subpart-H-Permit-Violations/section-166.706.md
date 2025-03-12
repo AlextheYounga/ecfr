@@ -1,0 +1,5 @@
+##### § 166.706 Will the BIA's regulations concerning appeal bonds apply to cancellation decisions involving permits? #####
+
+(a) The appeal bond provisions in § 2.5 of part 2 of this chapter will not apply to appeals from permit cancellation decisions made under § 166.705 of this subpart. Instead, when we decide to cancel a permit, we may require the permittee to post an appeal bond with an appeal of the cancellation decision. The requirement to post an appeal bond will apply in addition to all of the other requirements in part 2 of this chapter.
+
+(b) An appeal bond should be set in an amount necessary to protect the Indian landowners against financial losses that will likely result from the delay caused by an appeal. Appeal bond requirements will not be separately appealable, but may be contested during the appeal of the permit cancellation decision.

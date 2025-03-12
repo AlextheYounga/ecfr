@@ -1,0 +1,3 @@
+##### § 214.25 Forfeiture of lease. #####
+
+On the failure of any lessee or assignee to comply with any regulation or any obligation in the lease or assignment, the Secretary of the Interior may cancel and annul such lease without resorting to the courts and without any further proceeding: *Provided,* That the party or parties charged with such violation shall be first given not less than 30 days' notice to show cause why such lease should not be canceled and annulled or other order made with reference thereto.

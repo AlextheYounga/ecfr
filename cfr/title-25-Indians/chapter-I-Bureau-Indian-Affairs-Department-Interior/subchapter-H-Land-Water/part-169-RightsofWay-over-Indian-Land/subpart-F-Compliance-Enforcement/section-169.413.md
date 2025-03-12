@@ -1,0 +1,3 @@
+##### § 169.413 What if an individual or entity takes possession of or uses Indian land or BIA land without a right-of-way or other proper authorization? #####
+
+If an individual or entity takes possession of, or uses, Indian land or BIA land without a right-of-way and a right-of-way is required, the unauthorized possession or use is a trespass. An unauthorized use within an existing right-of-way is also a trespass. We may take action to recover possession, including eviction, on behalf of the Indian landowners and pursue any additional remedies available under applicable law. The Indian landowners may pursue any available remedies under applicable law, including applicable tribal law.

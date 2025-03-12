@@ -1,0 +1,3 @@
+##### § 11.601 Marriage licenses. #####
+
+A marriage license shall be issued by the clerk of the court in the absence of any showing that the proposed marriage would be invalid under any provision of this part or tribal custom, and upon written application of an unmarried male and unmarried female, both of whom must be eighteen (18) years or older. If either party to the marriage is under the age of eighteen (18), that party must have the written consent of parent or his or her legal guardian.

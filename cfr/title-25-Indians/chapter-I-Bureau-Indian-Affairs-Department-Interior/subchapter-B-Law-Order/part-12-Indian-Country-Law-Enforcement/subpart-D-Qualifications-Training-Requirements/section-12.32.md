@@ -1,0 +1,3 @@
+##### § 12.32 Do minimum employment standards include a background investigation? #####
+
+Law enforcement authority is only entrusted to personnel possessing adequate education and/or experience, training, aptitude, and high moral character. All Indian country law enforcement programs receiving Federal funding and/or authority must ensure that all law enforcement officers successfully complete a thorough background investigation no less stringent than required of a Federal officer performing the same duties. The background investigations of applicants and employees must be adjudicated by trained and qualified security professionals. All background investigations must be documented and available for inspection by the Bureau of Indian Affairs.

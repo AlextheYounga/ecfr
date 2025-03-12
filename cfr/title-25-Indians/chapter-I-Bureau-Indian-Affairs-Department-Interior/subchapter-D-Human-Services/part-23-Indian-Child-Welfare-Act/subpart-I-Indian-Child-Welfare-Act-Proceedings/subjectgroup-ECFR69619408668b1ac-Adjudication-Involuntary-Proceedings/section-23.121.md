@@ -1,0 +1,9 @@
+##### § 23.121 What are the applicable standards of evidence? #####
+
+(a) The court must not order a foster-care placement of an Indian child unless clear and convincing evidence is presented, including the testimony of one or more qualified expert witnesses, demonstrating that the child's continued custody by the child's parent or Indian custodian is likely to result in serious emotional or physical damage to the child.
+
+(b) The court must not order a termination of parental rights for an Indian child unless evidence beyond a reasonable doubt is presented, including the testimony of one or more qualified expert witnesses, demonstrating that the child's continued custody by the child's parent or Indian custodian is likely to result in serious emotional or physical damage to the child.
+
+(c) For a foster-care placement or termination of parental rights, the evidence must show a causal relationship between the particular conditions in the home and the likelihood that continued custody of the child will result in serious emotional or physical damage to the particular child who is the subject of the child-custody proceeding.
+
+(d) Without a causal relationship identified in paragraph (c) of this section, evidence that shows only the existence of community or family poverty, isolation, single parenthood, custodian age, crowded or inadequate housing, substance abuse, or nonconforming social behavior does not by itself constitute clear and convincing evidence or evidence beyond a reasonable doubt that continued custody is likely to result in serious emotional or physical damage to the child.

@@ -1,0 +1,11 @@
+##### § 30.117 What happens if a Bureau-funded school fails to make AYP? #####
+
+|Number of yrs of failing to make AYP in same academic subject|           Status           |                             Action required by entity operating school for the following school year                             |
+|-------------------------------------------------------------|----------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+|                   1st year of failing AYP                   |      No status change      |                                 Analyze AYP data and consider consultation with outside experts.                                 |
+|                   2nd year of failing AYP                   |School improvement, year one| Develop a plan or revise an existing plan for school improvement in consultation with parents, school staff and outside experts. |
+|                   3rd year of failing AYP                   |School Improvement, year two|  Continue revising or modifying the plan for school improvement in consultation with parents, school staff and outside experts.  |
+|                   4th year of failing AYP                   |     Corrective Action      |                 Implement at least one of the six corrective actions steps found in 20 U.S.C. 6316(b)(7)(C)(iv).                 |
+|                   5th year of failing AYP                   |  Planning to Restructure   |                            Prepare a restructuring plan and make arrangements to implement the plan.                             |
+|                   6th year of failing AYP                   |       Restructuring        |Implement the restructuring plan no later than the beginning of the school year following the year in which it developed the plan.|
+|            7th year (and beyond) of failing AYP             |       Restructuring        |                  Continue implementation of the restructuring plan until AYP is met for two consecutive years.                   |

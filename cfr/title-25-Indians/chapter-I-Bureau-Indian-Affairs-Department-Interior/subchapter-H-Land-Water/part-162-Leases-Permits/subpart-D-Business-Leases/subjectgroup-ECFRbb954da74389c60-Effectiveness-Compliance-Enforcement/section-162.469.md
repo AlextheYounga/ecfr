@@ -1,0 +1,3 @@
+##### § 162.469 How will payment rights relating to a business lease be allocated? #####
+
+The business lease may allocate rights to payment for insurance proceeds, trespass damages, condemnation awards, settlement funds, and other payments between the Indian landowners and the lessee. If not specified in the lease, insurance policy, order, award, judgment, or other document, the Indian landowners or lessees will be entitled to receive these payments.

@@ -1,0 +1,5 @@
+##### § 535.3 Post-approval noncompliance. #####
+
+If the Chairman learns of any action or condition that violates the standards contained in parts 531, 533, 535, or 537 of this chapter, the Chairman may require modifications of, or may void, a management contract or amendment approved by the Chairman under such sections, after providing the parties an opportunity for a hearing before the Chairman and a subsequent appeal to the Commission as set forth in part 584 or part 585 of this chapter. The Chairman will initiate modification or voiding proceedings by serving the parties, specifying the grounds for the modification or voiding. The parties will have thirty (30) days to request a hearing or respond with objections. Within thirty (30) days of receiving a request for a hearing, the Chairman will hold a hearing and receive oral presentations and written submissions. The Chairman will make a decision on the basis of the developed record and notify the parties of the decision and of their right to appeal.
+
+[74 FR 36936, July 27, 2009, as amended at 80 FR 31994, June 5, 2015]

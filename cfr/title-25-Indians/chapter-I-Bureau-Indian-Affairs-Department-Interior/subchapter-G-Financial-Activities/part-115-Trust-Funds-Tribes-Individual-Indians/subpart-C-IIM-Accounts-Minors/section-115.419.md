@@ -1,0 +1,3 @@
+##### § 115.419 Who develops a minor's distribution plan? #####
+
+A social service provider will develop a minor's distribution plan for approval by the BIA after evaluating the needs of the minor in consultation with a custodial parent, a legal guardian, the person who has been recognized by the BIA as having control and custody of the minor, or emancipated minor. A minor's distribution plan may only provide for those expenditures outlined in part § 115.417.

@@ -1,0 +1,5 @@
+##### § 163.23 Advance payment for timber products. #####
+
+(a) Unless otherwise authorized by the Secretary, and except in the case of lump sum (predetermined volume) sales, contracts for the sale of timber from allotted, trust or restricted Indian forest land shall provide for an advance payment of up to 25 percent of the stumpage value, calculated at the bid price, within 30 days from the date of approval and before cutting begins. Additional advance payments may be specified in contracts. However, no advance payment will be required that would make the sum of such payment and of advance deposits and advance payments previously applied against timber cut from each ownership in a sale exceed 50 percent of the bid stumpage value. Advance payments shall be credited against the timber of each ownership in the sale as the timber is cut and scaled at stumpage rates governing at the time of scaling. Advance payments are not refundable.
+
+(b) Advance payments may be required on tribal land. When required, advance payments will operate the same as provided for in § 163.23(a) of this part.

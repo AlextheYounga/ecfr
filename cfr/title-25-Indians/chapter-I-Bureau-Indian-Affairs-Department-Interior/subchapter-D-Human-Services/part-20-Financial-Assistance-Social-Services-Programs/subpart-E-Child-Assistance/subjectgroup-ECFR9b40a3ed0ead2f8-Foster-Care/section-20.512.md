@@ -1,0 +1,3 @@
+##### § 20.512 Can the Bureau/tribal contractors make Indian adoptive placements? #####
+
+The Bureau is not an authorized adoption agency and staff must not arrange adoptive placements. However, long-term permanency planning can involve the Bureau social services workers cooperating with tribal courts to provide an adoption subsidy. Tribal contractors will provide adoption services as authorized by the tribal courts in accordance with tribal codes/law.

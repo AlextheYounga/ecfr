@@ -1,0 +1,9 @@
+##### § 571.13 Copies of audit reports. #####
+
+(a) Each tribe shall prepare and submit to the Commission two paper copies or one electronic copy of the financial statements and audits required by § 571.12, together with management letter(s), and other documented auditor communications and/or reports as a result of the audit setting forth the results of each fiscal year. The submission must be sent to the Commission within 120 days after the end of each fiscal year of the gaming operation.
+
+(b) If a gaming operation changes its fiscal year, the tribe shall prepare and submit to the Commission two paper copies or one electronic copy of the financial statements, reports, and audits required by § 571.12, together with management letter(s), setting forth the results of the stub period from the end of the previous fiscal year to the beginning of the new fiscal year. The submission must be sent to the Commission within 120 days after the end of the stub period, or a tribe may incorporate the financial results of the stub period in the financial statements for the new business year.
+
+(c) When gaming ceases to operate and the tribal gaming regulatory authority has terminated the facility license required by § 559.6, the tribe shall prepare and submit to the Commission two paper copies or one electronic copy of the financial statements, reports, and audits required by § 571.12, together with management letter(s), setting forth the results covering the period since the period covered by the previous financial statements. The submission must be sent to the Commission within 120 days after the cessation of gaming activity or upon completion of the tribe's fiscal year.
+
+[74 FR 36939, July 27, 2009]

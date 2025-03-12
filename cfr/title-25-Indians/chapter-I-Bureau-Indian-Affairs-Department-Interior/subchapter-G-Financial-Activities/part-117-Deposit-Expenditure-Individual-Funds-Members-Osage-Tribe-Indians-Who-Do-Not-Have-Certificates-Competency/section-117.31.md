@@ -1,0 +1,3 @@
+##### § 117.31 Removal of restrictions from personal property. #####
+
+The superintendent may relinquish title to personal property (other than livestock) held by the United States in trust for the Indian when to do so will enable the Indian to use the property as part payment in the purchase of other personal property and when the remainder of the purchase price is to be made from other than surplus funds of the Indian.

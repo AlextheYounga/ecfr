@@ -1,0 +1,3 @@
+##### § 117.16 Reimbursement to surplus funds. #####
+
+When expenditures have been made from surplus funds upon the condition, and with the written agreement of the Indian, that reimbursement or repayment shall be made from future allowance funds, the superintendent is authorized to withhold from succeeding quarterly payments or other allowance funds such amounts as may be necessary to effect reimbursement within a period not exceeding 24 months from date of the first expenditure under the given authority.

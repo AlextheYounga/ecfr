@@ -1,0 +1,5 @@
+##### § 63.22 Can an employer certify an individual with a prior conviction or substantiated misconduct as suitable for employment? #####
+
+(a) The *Bureau of Indian Affairs* must use Federal adjudicative standards which allow the BIA to certify that an individual is suitable for employment in a position that does not involve regular contact with or control over Indian children. The adjudicating officer must determine that the individual's prior conduct will not interfere with the performance of duties and will not create a potential for risk to the safety and well-being of Indian children.
+
+(b) *Indian tribes and tribal organizations* must identify those positions which permit contact with or control over Indian children and establish standards to determine suitability for employment. Those standards should then be used to determine whether an individual is suitable for employment in a position that permits contact with or control over Indian children. If not, the individual may only be placed in a position that does not permit contact with or control over Indian children.

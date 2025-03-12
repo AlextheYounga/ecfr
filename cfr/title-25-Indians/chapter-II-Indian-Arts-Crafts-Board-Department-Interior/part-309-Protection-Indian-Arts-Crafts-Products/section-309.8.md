@@ -1,0 +1,7 @@
+##### § 309.8 For marketing purposes, what is the recommended method of identifying authentic Indian products? #####
+
+(a) The recommended method of marketing authentic Indian products is to include the name of the artist or artisan, the name of the Tribe in which the artist or artisan is enrolled, and the individual's Tribal enrollment number. If the individual is a certified non-member Indian artisan, rather than an enrolled Tribal member, the product identification should include the name of the Tribe providing official written certification that the individual is a non-member Indian artisan and the date upon which such certification was issued by the Tribe. In order for an individual to be certified by an Indian Tribe as a non-member Indian artisan, the individual must be of Indian lineage of one or more members of such Indian Tribe and the certification must be issued in writing by the governing body of an Indian Tribe or by a certifying body delegated this function by the governing body of the Indian Tribe.
+
+(b) For example, the Indian product should include a label, hangtag, provenance card, or similar identification that includes W (name of the artist or artisan), and X (name of the Tribe in which the individual is enrolled) and Y (individual's Tribal enrollment number), or a statement that the individual is a certified non-member Indian artisan of Z (name of the Tribe providing certification and the date upon which the certification was issued by the Tribe).
+
+[68 FR 35170, June 12, 2003]

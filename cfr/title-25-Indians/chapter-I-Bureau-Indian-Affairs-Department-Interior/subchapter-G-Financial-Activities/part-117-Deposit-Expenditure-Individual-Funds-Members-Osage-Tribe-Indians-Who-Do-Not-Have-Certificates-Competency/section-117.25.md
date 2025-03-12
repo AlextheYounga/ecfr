@@ -1,0 +1,3 @@
+##### § 117.25 Charges for services to Indians. #####
+
+The superintendent shall make the following charges for services to Indians: Five per cent of all interest and non-liquidating dividends received from all types of securities, including stocks, bonds, and mortgages held in trust for individual Indians and interest on group investments. Such fees shall be deposited in the Treasury of the United States to the credit of the fund “Proceeds of Oil and Gas Leases, Royalties, etc., Osage Reservation, Oklahoma”.

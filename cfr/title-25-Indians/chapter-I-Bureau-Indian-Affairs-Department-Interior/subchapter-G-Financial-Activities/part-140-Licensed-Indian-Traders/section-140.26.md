@@ -1,0 +1,3 @@
+##### § 140.26 Infectious plants. #####
+
+Traders shall not introduce into, sell, or spread within Indian reservations any plant, plant product, seed, or any type of vegetation, which is infested, or infected or which might act as a carrier of any pests of infectious, transmissible, or contagious diseases, as determined by the laws and regulations of the State for plant quarantine and pest control. For the purpose of enforcement of this provision State officers may enter Indian reservations, with the consent of the superintendent, to inspect the premises of such traders and otherwise to execute such State laws and regulations.

@@ -1,0 +1,3 @@
+##### § 162.225 Will untimely rent payments made under an agricultural lease be subject to interest charges or late payment penalties? #####
+
+An agricultural lease must specify the rate at which interest will accrue on any rent payment not made by the due date or any other date specified in the lease. A lease may also identify additional late payment penalties that will apply if a rent payment is not made by a specified date. Unless otherwise provided in the lease, such interest charges and late payment penalties will apply in the absence of any specific notice to the tenant from us or the Indian landowners, and the failure to pay such amounts will be treated as a lease violation under § 162.251 of this subpart.

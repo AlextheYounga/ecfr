@@ -1,0 +1,3 @@
+##### § 90.31 Applicability. #####
+
+The manner of carrying out elections to be held under the act of June 28, 1906 (34 Stat. 539), as amended by the act of March 2, 1929 (45 Stat. 1478), as amended by the act of August 28, 1957 (71 Stat. 471), is covered in the regulations set forth in this part. The next election will be held on the first Monday in June 1958 and subsequent elections will be held on the first Monday in June each four years thereafter.

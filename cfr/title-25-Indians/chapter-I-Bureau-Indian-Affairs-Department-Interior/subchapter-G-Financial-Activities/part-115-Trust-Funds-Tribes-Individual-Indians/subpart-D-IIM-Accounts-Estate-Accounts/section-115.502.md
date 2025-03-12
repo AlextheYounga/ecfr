@@ -1,0 +1,3 @@
+##### § 115.502 Who inherits the money in an IIM account when an account holder dies? #####
+
+At the end of all probate procedures, funds remaining in a decedent's estate account will be distributed from the decedent's estate account and paid directly to or deposited into an IIM account of the decedent's heirs, beneficiaries, or other persons or entities entitled by law to receive the funds, where applicable. See 25 CFR part 15.

@@ -1,0 +1,3 @@
+##### § 135.3 Annual assessments. #####
+
+Notice is hereby given of an annual assessment of $2,108.05 to be repaid by the Lower Little Horn and Lodge Grass Irrigation District for the 3,196.8 acres of irrigable land of the District, and an annual assessment of $1,025.06 to be repaid by the Upper Little Horn Irrigation District for the 1,554.7 acres of irrigable land of the District. Against the amounts due annually by the Districts under this notice, there shall be allowed any credits due under section 6 of the act of June 28, 1946. Credits due on behalf of any land shall be reflected by the respective Districts when placing against such land the annual assessment on the tax rolls.

@@ -1,0 +1,3 @@
+##### § 158.54 Exchanges of restrictive lands. #####
+
+Upon written application of the Indians involved, the exchange of restricted lands between adult Indians, and between adult Indians and non-Indians, may be approved by the Secretary of the Interior, or his authorized representative. Title to all lands acquired under this part by an Indian who does not have a certificate of competency shall be taken by deed containing a clause restricting alienation or encumbrance without the consent of the Secretary, or his authorized representative. In case of differences in the appraised value of lands under consideration for exchange, the application of an Indian for funds to equalize such differences may be approved to the extent authorized by § 117.8 of this chapter.

@@ -1,0 +1,7 @@
+##### § 162.602 Cabazon, Augustine, and Torres-Martinez Reservations, California. #####
+
+(a) Upon a determination by the Secretary that the owner or owners are not making beneficial use thereof, restricted lands on the Cabazon, Augustine, and Torres-Martinez Indian Reservations which are or may be irrigated from distribution facilities administered by the Coachella Valley County Water District in Riverside County, California, may be leased by the Secretary in accordance with the regulations in this part for the benefit of the owner or owners.
+
+(b) All leases granted or approved on restricted lands of the Cabazon, Augustine, and Torres-Martinez Indian Reservations shall be filed for record in the office of the county recorder of the county in which the land is located, the cost thereof to be paid by the lessee. A copy of each such lease shall be filed by the lessee with the Coachella Valley County Water District or such other irrigation or water district within which the leased lands are located. All such leases shall include a provision that the lessee, in addition to the rentals provided for in the lease, shall pay all irrigation charges properly assessed against the land which became payable during the term of the lease. Act of August 25, 1950 (64 Stat. 470); Act of August 28, 1958 (72 Stat. 968).
+
+[66 FR 7109, Jan. 22, 2001. Redesignated at 77 FR 72494, Dec. 5, 2012 and correctly redesignated at 78 FR 27860, May 13, 2013]

@@ -1,0 +1,3 @@
+##### § 140.13 Power to close unlicensed stores. #####
+
+If persons carry on trade within a reservation with the Indians without a license, or continue to trade after expiration of the license without applying for renewal, the superintendent will immediately report the facts in the case to the Commissioner of Indian Affairs, who may, if necessary, direct the superintendent to close the stores of such traders.

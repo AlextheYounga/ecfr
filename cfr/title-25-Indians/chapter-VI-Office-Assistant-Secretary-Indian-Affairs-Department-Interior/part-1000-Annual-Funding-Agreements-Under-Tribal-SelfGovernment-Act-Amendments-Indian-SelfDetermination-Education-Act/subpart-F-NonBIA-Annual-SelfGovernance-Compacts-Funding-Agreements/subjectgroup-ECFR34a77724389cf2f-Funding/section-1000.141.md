@@ -1,0 +1,3 @@
+##### § 1000.141 Is there a predetermined cap or limit on indirect cost rates or a fixed formula for calculating indirect cost rates? #####
+
+No, indirect cost rates vary from Tribe to Tribe. The Secretary should refer to the appropriate negotiated indirect cost rates for individual Tribes, that apply government-wide. Although this cost rate is not capped, the amount of funds available for inclusion is capped at the level available under the relevant appropriation.

@@ -1,0 +1,3 @@
+##### § 170.602 If a Tribe incurs unforeseen construction costs, can it get additional funds? #####
+
+The TTP is a Tribal shares program based upon a statutory funding formula. Therefore, no additional TTP funding beyond each Tribe's share is available for unforeseen construction costs. However, a Tribe may reprogram their TTP Tribal shares from other projects or activities identified on their FHWA-approved TTIP to cover unforeseen costs. In addition, if a Tribe is operating under a self-determination contract, it may request that additional dollars from its TTP Tribal share funds be made available for that project under 25 CFR 900.130(e).

@@ -1,0 +1,3 @@
+##### § 117.21 Fees and expenses of attorneys. #####
+
+When payment of an attorney fee for services to an Indian is to be made from his surplus funds, the employment of the attorney by the Indian must be approved in advance. All fees will be determined on a quantum merit basis and paid upon completion of the services. The superintendent may approve the employment of an attorney, determine the fee, and disburse the surplus funds of the Indian in payment thereof when the fee does not exceed $500. Upon application by the Indian and upon the presentation of properly authenticated vouchers, the superintendent may disburse the surplus funds of the Indian in an amount not to exceed $200 in payment of necessary expenses incurred by the attorney.

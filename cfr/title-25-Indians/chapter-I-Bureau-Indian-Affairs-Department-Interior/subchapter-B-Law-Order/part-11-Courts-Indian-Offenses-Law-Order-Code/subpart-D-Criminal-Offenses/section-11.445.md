@@ -1,0 +1,9 @@
+##### § 11.445 Driving violations. #####
+
+(a) A person who shall operate any vehicle in a manner dangerous to the public safety is guilty of reckless driving, a petty misdemeanor, unless it is committed while under the influence of alcohol, in which case it is a misdemeanor.
+
+(b) A person who shall drive, operate or be in physical control of any motor vehicle when his or her alcohol concentration is 0.10 or more shall be guilty of driving while intoxicated, a misdemeanor.
+
+(c) Any person who drives, operates, or is in physical control of a motor vehicle within the Indian country under the jurisdiction of a Court of Indian Offenses consents to a chemical test of his or her blood, breath, or urine for the purpose of determining the presence of alcohol, to be administered at the direction of a law enforcement officer. The test may be required when the officer has reasonable cause to believe that a person is driving while intoxicated, and the person has either been lawfully placed under arrest for a violation of this section, or has been involved in a motor vehicle accident or collision resulting in property damage, personal injury, or death.
+
+(d) In the absence of an applicable tribal traffic code, the provisions of state traffic laws applicable in the state where a Court of Indian Offenses is located shall apply to the operation of motor vehicles within the Indian country under the jurisdiction of the Court of Indian Offenses with the exception that any person found guilty of violating such laws shall, in lieu of the penalties provided under state law, be sentenced according to the standards found in § 11.450 depending on the nature of the traffic code violation, and may be deprived of the right to operate any motor vehicle for a period not to exceed 6 months.

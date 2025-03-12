@@ -1,0 +1,3 @@
+##### § 290.18 Where should the Indian tribe submit the tribal revenue allocation plan? #####
+
+You must submit your tribal revenue allocation plan to your respective Superintendent. The Superintendent will review the tribal revenue allocation plan to make sure it has been properly adopted in accordance with applicable tribal law. The Superintendent will then transmit the tribal revenue allocation plan promptly to the ABO.

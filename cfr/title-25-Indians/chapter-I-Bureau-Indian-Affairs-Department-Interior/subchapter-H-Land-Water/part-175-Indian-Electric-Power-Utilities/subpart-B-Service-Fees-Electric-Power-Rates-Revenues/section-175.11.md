@@ -1,0 +1,3 @@
+##### § 175.11 Procedures for setting service fees. #####
+
+The Area Director shall establish, and amend as needed, service fees to cover the expense of customer service. Service fees shall be set by unilateral action of the Area Director and remain in effect until amended by the Area Director pursuant to this section. At least 30 days prior to the effective date, a schedule of the service fees, together with the effective date, shall be published in local newspaper(s) of general circulation and posted in the utility office(s). The Area Director's decision shall be final for the Department of the Interior.

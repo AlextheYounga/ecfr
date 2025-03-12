@@ -1,0 +1,3 @@
+##### § 115.105 Funds of deceased Indians of the Five Civilized Tribes. #####
+
+Funds of a deceased Indian of the Five Civilized Tribes may be disbursed to pay ad valorem and personal property taxes, Federal and State estate and income taxes, obligations approved by the Secretary or his authorized representative prior to death of decedent, expenses of last sickness and burial and claims found to be just and reasonable which are not barred by the statute of limitations, costs of determining heirs to restricted property by the State courts, and claims allowed pursuant to part 16 of this chapter.

@@ -1,0 +1,3 @@
+##### § 39.137 May schools operate a language development program without a specific appropriation from Congress? #####
+
+Yes, a school may operate a language development program without a specific appropriation from Congress, but any funds used for such a program must come from existing ISEP funds. When Congress specifically appropriates funds for Indian or Native languages, the factor to support the language development program will be no more than 0.25 WSU.

@@ -1,0 +1,3 @@
+##### § 224.66 How may a tribe reduce the scope of the TERA? #####
+
+A tribe may reduce the scope of the TERA by negotiating with the Secretary an amendment to the existing TERA to eliminate an activity assumed under the TERA or a type of energy resource development managed under the TERA. Any such reduction in scope must include the return of all relevant Departmental resources transferred under the TERA and any relevant records and documents.

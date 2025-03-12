@@ -1,0 +1,3 @@
+##### § 39.407 How long must a school maintain records? #####
+
+The responsible administrative official for each school must maintain records relating to ISEP, supplemental services, and transportation-related expenditures. The official must maintain these records in appropriate retrievable storage for at least the four years prior to the current school year, unless Federal records retention schedules require a longer period.

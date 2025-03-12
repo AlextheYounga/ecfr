@@ -1,0 +1,3 @@
+##### § 101.16 Default on loans made by relending organizations. #####
+
+Relending organizations conducting relending programs using revolving loan funds will follow prudent lending practices in making and servicing loans and take appropriate actions to protect their interests in the security given to secure repayment of loans. Declarations of policy and plans of operation shall include procedures which will be followed in acting to correct a default, such as modification of loan agreement or foreclosure and liquidation of security. Relending organizations employing a general counsel will refer legal questions on foreclosure procedures and sale of security to their counsel.

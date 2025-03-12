@@ -1,0 +1,3 @@
+##### § 1000.420 What does “Title-I eligible programs” mean in this subpart? #####
+
+Throughout this subpart, the phrase “Title I-eligible programs” is used to refer to all programs, functions, services, and activities that the Secretary provides for the benefit of Indians because of their status as Indians without regard to the agency or office of the Department within which the programs, functions, services, and activities have been performed.

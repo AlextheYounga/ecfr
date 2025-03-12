@@ -1,0 +1,3 @@
+##### § 158.57 Approval of deeds or other instruments vesting title on partition and payment of costs. #####
+
+Upon completion of the partition proceedings in accordance with the law and in conformity with the regulations in this part, the Secretary, or his authorized representative, may approve the deeds, or other instruments vesting title on partition, and may disburse from the restricted (accounts) funds of the Indians concerned, such amounts as may be necessary for payment of their share of court costs, attorney fees, and owelty moneys.

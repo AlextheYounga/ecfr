@@ -1,0 +1,5 @@
+##### § 900.152 How does an Indian tribe or tribal organization know where and when to file its appeal from decisions made by agencies of DOI or DHHS? #####
+
+Every decision in any of the ten areas listed above shall contain information which shall tell the Indian tribe or tribal organization where and when to file the Indian tribe or tribal organization's appeal. Each decision shall include the following statement:
+
+Within 30 days of the receipt of this decision, you may request an informal conference under 25 CFR 900.154, or appeal this decision under 25 CFR 900.158 to the Interior Board of Indian Appeals (IBIA). Should you decide to appeal this decision, you may request a hearing on the record. An appeal to the IBIA under 25 CFR 900.158 shall be filed with the IBIA by certified mail or by hand delivery at the following address: Board of Indian Appeals, U.S. Department of the Interior, 801 North Quincy Street, Arlington, VA 22203. You shall serve copies of your Notice of Appeal on the Secretary and on the official whose decision is being appealed. You shall certify to the IBIA that you have served these copies.

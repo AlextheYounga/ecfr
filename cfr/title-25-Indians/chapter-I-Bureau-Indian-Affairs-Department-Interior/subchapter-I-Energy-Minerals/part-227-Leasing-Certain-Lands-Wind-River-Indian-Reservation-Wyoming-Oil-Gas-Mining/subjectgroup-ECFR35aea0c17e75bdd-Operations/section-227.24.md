@@ -1,0 +1,5 @@
+##### § 227.24 Penalties. #####
+
+Failure of the lessee to comply with any provisions of the lease, of the operating regulations, of the regulations in this part, orders of the superintendent or his representative, or of the orders of the supervisor or his representative, shall subject the lessee to a penalty of not more than $1,250 per day for each day the terms of the lease, the regulations, or such orders are violated: *Provided,* That the lessee shall be entitled to notice, and hearing within 30 days after such notice, with respect to the terms of the lease, regulations, or orders violated, which hearing shall be held by the supervisor, whose findings shall be conclusive unless an appeal be taken to the Secretary of the Interior within 30 days after notice of the supervisor's decision, and the decision of the Secretary of the Interior upon appeal shall be conclusive.
+
+[22 FR 10622, Dec. 24, 1957, as amended at 81 FR 42481, June 30, 2016]

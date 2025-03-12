@@ -1,0 +1,3 @@
+##### § 12.31 Are there any minimum employment standards for Indian country law enforcement personnel? #####
+
+The Director must develop, maintain, and periodically review the qualification standards, including medical qualification standards, for all BIA law enforcement, detention, and conservation enforcement occupational series. The standards will be no less stringent than the minimum standards established by the U.S. Office of Personnel Management (OPM) for these occupational series, and may exceed the OPM standards. BIA standards are available for review at any BIA personnel office. All tribal programs are encouraged to develop standards at least as stringent as those established for BIA officers.

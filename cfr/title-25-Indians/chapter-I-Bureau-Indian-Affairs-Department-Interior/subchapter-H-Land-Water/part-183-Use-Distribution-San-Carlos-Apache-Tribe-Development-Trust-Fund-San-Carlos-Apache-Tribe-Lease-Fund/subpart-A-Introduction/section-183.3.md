@@ -1,0 +1,3 @@
+##### § 183.3 Does the American Indian Trust Fund Management Reform Act of 1994 apply to this part? #####
+
+Yes. We will manage and make distributions from the Trust Fund in accordance with the American Indian Trust Funds Management Act of 1994 (Management Act), except where the Management Act conflicts with the Settlement Act or this part. If there is a conflict, we will follow the provisions of the Settlement Act or this part.

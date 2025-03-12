@@ -1,0 +1,3 @@
+##### § 900.37 What provisions of Office of Management and Budget (OMB) circulars or the “common rule” apply to self-determination contracts? #####
+
+The only provisions of OMB Circulars and the only provisions of the “common rule” that apply to self-determination contracts are the provisions adopted in these regulations, those expressly required or modified by the Act, and those negotiated and agreed to in a self-determination contract.

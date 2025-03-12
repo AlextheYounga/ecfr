@@ -1,0 +1,3 @@
+##### § 12.1 Who is responsible for the Bureau of Indian Affairs law enforcement function? #####
+
+The Commissioner of Indian Affairs, or in the absence of a Commissioner, the Deputy Commissioner, is responsible for Bureau of Indian Affairs-operated and contracted law enforcement programs, and for overall policy development and implementation of the Indian Law Enforcement Reform Act, Public Law 101-379 (25 U.S.C. 2801 *et seq.*).

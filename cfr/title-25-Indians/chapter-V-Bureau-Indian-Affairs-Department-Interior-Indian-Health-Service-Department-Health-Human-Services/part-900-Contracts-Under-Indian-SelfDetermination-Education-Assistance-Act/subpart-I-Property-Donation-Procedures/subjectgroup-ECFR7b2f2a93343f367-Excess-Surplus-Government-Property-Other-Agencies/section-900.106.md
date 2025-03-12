@@ -1,0 +1,3 @@
+##### § 900.106 If a contract or grant agreement or portion thereof is retroceded, reassumed, terminated, or expires, may the Secretary reacquire title to excess or surplus Federal property of other agencies that was donated to an Indian tribe or tribal organization? #####
+
+No. Section 105(f)(3) of the Act does not give the Secretary the authority to reacquire title to excess or surplus government property acquired from other agencies for donation to an Indian tribe or tribal organization.

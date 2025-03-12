@@ -1,0 +1,3 @@
+##### § 700.319 Final agency action. #####
+
+Within 30 (thirty) days after receipt of the Presiding Officer's decision, the Commission shall affirm or reverse the decision and issue its final agency action upon the application in writing; *Provided,* that in the event one Commissioner sits as the Presiding Officer, the final agency action shall be determined by the remaining Commissioners and such other person as they may designate who did not so preside over the hearing. Such decisions shall be communicated in writing to the Applicant by certified mail.

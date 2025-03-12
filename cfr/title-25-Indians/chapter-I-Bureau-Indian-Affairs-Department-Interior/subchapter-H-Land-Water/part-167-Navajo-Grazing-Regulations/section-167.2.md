@@ -1,0 +1,3 @@
+##### § 167.2 General regulations. #####
+
+Part 166 of this subchapter authorizes the Commissioner of Indian Affairs to regulate the grazing of livestock on Indian lands under conditions set forth therein. In accordance with this authority and that of the Navajo Tribal Council, the Central Grazing Committee and the District Grazing Committees, the grazing of livestock on the Navajo Reservation shall be governed by the regulations in this part.

@@ -1,0 +1,3 @@
+##### § 103.19 When must the lender pay BIA the loan guaranty or insurance premium? #####
+
+The premium is due within 30 calendar days of the loan closing. If not paid on time, BIA will send the lender written notice by certified mail (return receipt requested), or by a nationally-recognized overnight delivery service (signature of recipient required), stating that the premium is due immediately. If the lender fails to make the premium payment within 30 calendar days of the date of BIA's notice, BIA's guaranty certificate or insurance coverage with respect to that particular loan is void, without further action.

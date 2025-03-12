@@ -1,0 +1,3 @@
+##### § 307.3 Granting of licenses, contract, and bond requirements. #####
+
+A license may be granted to any person desiring to use the Government certificate of genuineness for Navajo all-wool woven fabrics who shall make application therefor and shall execute a contract acceptable to the Indian Arts and Crafts Board providing for the use of such certificates in conformity with the regulations in this part, which contract shall be accompanied by an indemnity bond acceptable to the Indian Arts and Crafts Board, in the amount of $500, conditioned upon faithful performance of such contract.

@@ -1,0 +1,3 @@
+##### § 30.103 Did the Committee consider a separate Bureau definition of AYP? #####
+
+Yes, the Committee considered having the Bureau of Indian Affairs develop a separate Bureau definition of AYP. For a variety of reasons, the Committee reached consensus on the definition in § 30.104. This definition is in no way intended to diminish the United States' trust responsibility for Indian education nor is it intended to give States authority over Bureau-funded schools.

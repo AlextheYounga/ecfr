@@ -1,0 +1,3 @@
+##### § 900.133 Does the declination process or the Contract Dispute Act apply to construction contract amendments proposed either by an Indian tribe or tribal organization or the Secretary? #####
+
+The Contract Disputes Act generally applies to such amendments. However, the declination process and the procedures in § 900.122 and § 900.123 apply to the proposal by an Indian tribe or tribal organization when the proposal is for a new project, a new phase or discreet stage of a phase of a project, or an expansion of a project resulting from an additional allocation of funds by the Secretary under § 900.120.

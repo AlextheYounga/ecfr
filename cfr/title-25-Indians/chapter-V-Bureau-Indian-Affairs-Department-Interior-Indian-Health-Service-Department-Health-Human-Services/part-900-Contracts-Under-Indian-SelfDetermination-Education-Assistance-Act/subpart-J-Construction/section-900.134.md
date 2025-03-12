@@ -1,0 +1,3 @@
+##### § 900.134 At the end of a self-determination construction contract, what happens to savings on a cost-reimbursement contract? #####
+
+The savings shall be used by the Indian tribe or tribal organization to provide additional services or benefits under the contract. Unexpended contingency funds obligated to the contract, and remaining at the end of the contract, are savings. No further approval or justifying documentation by the Indian tribe or tribal organization shall be required before expenditure of funds.

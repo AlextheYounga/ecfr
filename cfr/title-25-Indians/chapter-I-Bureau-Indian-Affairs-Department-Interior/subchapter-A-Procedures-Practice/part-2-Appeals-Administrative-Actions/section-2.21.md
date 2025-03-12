@@ -1,0 +1,5 @@
+##### § 2.21 Scope of review. #####
+
+(a) When a decision has been appealed, any information available to the reviewing official may be used in reaching a decision whether part of the record or not.
+
+(b) When the official deciding an appeal believes it appropriate to consider documents or information not contained in the record on appeal, the official shall notify all interested parties of the information and they shall be given not less than 10 days to comment on the information before the appeal is decided. The deciding official shall include in the record copies of documents or a description of the information used in arriving at the decision. Except where disclosure of the actual documents used may be prohibited by law, copies of the information shall be made available to the parties upon request and at their expense.

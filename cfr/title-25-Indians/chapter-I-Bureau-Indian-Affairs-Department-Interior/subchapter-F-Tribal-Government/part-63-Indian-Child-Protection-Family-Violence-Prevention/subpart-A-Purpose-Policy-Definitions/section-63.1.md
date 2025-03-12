@@ -1,0 +1,3 @@
+##### § 63.1 Purpose. #####
+
+The purpose of these regulations is to prescribe minimum standards of character and suitability for employment for individuals whose duties and responsibilities allow them regular contact with or control over Indian children, and to establish the method for distribution of funds to support tribally operated programs to protect Indian children and reduce the incidents of family violence in Indian country as authorized by the Indian Child Protection and Family Violence Prevention Act of 1990, Pub. L. 101-630, 104 Stat. 4544, 25 U.S.C. 3201 3211.

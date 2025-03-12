@@ -1,0 +1,3 @@
+##### § 292.25 Do information collections in this part have Office of Management and Budget approval? #####
+
+The information collection requirements in §§ 292.16, 292.17, and 292.18 have been approved by the Office of Management and Budget (OMB). The information collection control number is 1076-0158. A Federal agency may not collect or sponsor and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control.

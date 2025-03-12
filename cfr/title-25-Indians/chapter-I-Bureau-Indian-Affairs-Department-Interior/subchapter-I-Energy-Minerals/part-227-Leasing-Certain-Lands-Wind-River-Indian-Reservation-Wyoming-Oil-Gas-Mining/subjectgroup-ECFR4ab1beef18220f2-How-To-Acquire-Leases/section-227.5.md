@@ -1,0 +1,7 @@
+##### § 227.5 Terms of leases, procedure for renewal and execution. #####
+
+(a) Leases shall be for a period of twenty years with the preferential right in the lessee to renew the same for successive periods of ten years each upon such reasonable terms and conditions as may be prescribed by the Secretary of the Interior or his authorized representative, unless otherwise provided by law at the expiration of any such period. Applications for renewal of leases shall be filed with the superintendent within ninety days prior to the date of expiration of the lease. One copy of the application for renewal shall be filed by the applicant with the Joint Business Council of the Shoshone and Arapahoe Tribes and no lease shall be renewed unless the Joint Business Council or its authorized representative is afforded an opportunity to present the Council's views to the Secretary of the Interior or his authorized representative.
+
+(b) The Secretary of the Interior or his authorized representative may execute oil and gas leases with the consent of the Joint Business Council or its authorized representative, and may execute renewals of leases after consultation with the Joint Business Council or its authorized representative.
+
+[25 FR 7185, July 29, 1960. Redesignated at 47 FR 13327, Mar. 30, 1982]

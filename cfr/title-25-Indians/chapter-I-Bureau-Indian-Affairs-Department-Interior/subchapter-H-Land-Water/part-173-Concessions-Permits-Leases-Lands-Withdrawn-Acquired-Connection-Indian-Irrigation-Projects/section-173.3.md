@@ -1,0 +1,3 @@
+##### § 173.3 Enforcement. #####
+
+The project engineer shall enforce these and all project regulations now or hereafter promulgated by the Secretary. Willful violation or failure to comply with the provisions of this part and all proper orders of the project engineer shall be cause for revocation of the permit by the Secretary who shall be the judge of what constitutes such violation. The project engineer may suspend any permit for cause. The project engineer shall, immediately after suspending a permit, submit to the Secretary through the Commissioner of Indian Affairs a detailed report of the case, accompanied by his reasons for the action and his recommendations, for final action by the Secretary.

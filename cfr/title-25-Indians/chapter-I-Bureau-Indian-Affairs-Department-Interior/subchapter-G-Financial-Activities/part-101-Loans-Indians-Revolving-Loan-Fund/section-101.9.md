@@ -1,0 +1,5 @@
+##### § 101.9 Preservation of historical and archeological data. #####
+
+(a) On United States direct loans from the revolving loan fund and modifications thereof to provide additional loan funds which will involve excavations, road or street construction, land development or disturbance of land on known or reported historical or archeological sites, the Commissioner will take or require appropriate action to assure compliance with the applicable provisions of the Act of June 27, 1960 (74 Stat. 220; (16 U.S.C. 469)), as amended by the Act of May 24, 1974 (Pub. L. 93-291, 88 Stat. 174).
+
+(b) On loans made by relending organizations conducting a relending program using revolving loan funds, the body authorized to act on loan applications and modifications thereof will, at the time of taking action on a loan or request for modification, inform the applicant of the applicability of this Act to the loan and advise the Commissioner of compliance or the need to obtain compliance.

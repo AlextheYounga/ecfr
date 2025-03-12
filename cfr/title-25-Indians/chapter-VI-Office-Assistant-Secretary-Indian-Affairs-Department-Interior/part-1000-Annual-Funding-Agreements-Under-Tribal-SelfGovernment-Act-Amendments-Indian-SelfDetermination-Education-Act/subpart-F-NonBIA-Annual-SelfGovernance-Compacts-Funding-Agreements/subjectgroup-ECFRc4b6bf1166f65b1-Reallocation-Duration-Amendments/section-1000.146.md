@@ -1,0 +1,3 @@
+##### § 1000.146 Can a Tribe/Consortium negotiate an AFA with a non-BIA bureau for which the performance period exceeds one year? #####
+
+Yes, subject to the terms of the AFA, a Tribe/Consortium and a non-BIA bureau may agree to provide for the performance under the AFA to extend beyond the fiscal year. However, the Department may not obligate funds in excess and advance of available appropriations.

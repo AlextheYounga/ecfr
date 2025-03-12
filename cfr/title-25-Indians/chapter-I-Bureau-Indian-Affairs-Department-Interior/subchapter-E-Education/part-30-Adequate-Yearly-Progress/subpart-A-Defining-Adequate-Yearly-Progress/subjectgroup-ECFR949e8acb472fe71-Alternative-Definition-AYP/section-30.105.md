@@ -1,0 +1,3 @@
+##### § 30.105 May a tribal governing body or school board use another definition of AYP? #####
+
+Yes. A tribal governing body or school board may waive all or part of the Secretary's definition of academic content and achievement standards, assessments, and AYP. However, unless an alternative definition is approved under § 30.113, the school must use the Secretary's definition of academic content and achievement standards, assessments, and AYP.

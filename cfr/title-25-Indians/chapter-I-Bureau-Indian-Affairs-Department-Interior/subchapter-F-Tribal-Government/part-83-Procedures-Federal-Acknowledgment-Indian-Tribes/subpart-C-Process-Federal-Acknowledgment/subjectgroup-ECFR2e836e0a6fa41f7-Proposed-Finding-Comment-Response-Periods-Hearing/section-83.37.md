@@ -1,0 +1,3 @@
+##### § 83.37 What procedure follows the end of the comment period on a negative proposed finding? #####
+
+If OFA has received comments on the negative proposed finding, then the petitioner will have 60 days to submit a written response, with citations to and explanations of supporting evidence, and the supporting evidence cited and explained in the response. The Department will not consider additional comments or evidence on the proposed finding submitted by individuals or entities during this response period.

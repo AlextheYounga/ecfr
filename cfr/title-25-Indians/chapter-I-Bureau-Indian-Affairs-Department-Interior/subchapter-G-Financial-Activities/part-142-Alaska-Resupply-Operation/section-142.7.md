@@ -1,0 +1,5 @@
+##### § 142.7 How are transportation and scheduling determined? #####
+
+(a) The Manager must arrange the most economical and efficient transportation available, taking into consideration lifestyle, timing and other needs of the user. Where practical, shipping must be by consolidated shipment that takes advantage of economies of scale and consider geographic disparity and distribution of sites.
+
+(b) Itineraries and scheduling for all deliveries must be in keeping with the needs of the users to the maximum extent possible. Planned itineraries with dates set as to the earliest and latest anticipated delivery dates must be provided to users prior to final commitment by them to utilize the transportation services. Each shipping season the final departure and arrival schedules must be distributed prior to the commencement of deliveries.

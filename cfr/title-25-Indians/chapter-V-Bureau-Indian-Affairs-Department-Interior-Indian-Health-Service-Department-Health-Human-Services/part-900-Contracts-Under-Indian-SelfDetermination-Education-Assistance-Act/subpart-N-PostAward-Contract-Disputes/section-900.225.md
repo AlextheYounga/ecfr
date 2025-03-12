@@ -1,0 +1,3 @@
+##### § 900.225 Does an Indian tribe or tribal organization get paid immediately if the awarding official decides in its favor? #####
+
+Yes. Once the awarding official decides that money should be paid under the contract, the amount due, minus any portion already paid, should be paid as promptly as possible, without waiting for either party to file an appeal. Any payment which is made under this subsection will not affect any other rights either party might have. In addition, it will not create a binding legal precedent as to any future payments.

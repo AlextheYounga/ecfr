@@ -1,0 +1,3 @@
+##### § 900.119 To what extent shall the Secretary consult with affected Indian tribes before spending funds for any construction project? #####
+
+Before spending any funds for a planning, design, construction, or renovation project, whether subject to a competitive application and ranking process or not, the Secretary shall consult with any Indian tribe or tribal organization(s) that would be significantly affected by the expenditure to determine and to follow tribal preferences to the greatest extent feasible concerning: size, location, type, and other characteristics of the project.

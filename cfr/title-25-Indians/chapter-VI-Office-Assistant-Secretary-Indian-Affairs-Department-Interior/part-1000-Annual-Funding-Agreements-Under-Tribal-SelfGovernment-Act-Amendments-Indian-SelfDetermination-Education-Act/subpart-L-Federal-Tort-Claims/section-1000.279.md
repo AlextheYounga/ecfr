@@ -1,0 +1,3 @@
+##### § 1000.279 Is FTCA the exclusive remedy for a tort claim, including a claim concerning personal injury or death, resulting from the performance of a self-governance AFA? #####
+
+Yes, except as explained in § 1000.272(b). No claim may be filed against a self-governance Tribe/Consortium or employee based upon performance of functions under a self-governance AFA. All claims shall be filed against the United States and are subject to the limitations and restrictions of FTCA.

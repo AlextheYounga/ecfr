@@ -1,0 +1,3 @@
+##### § 41.47 Are Tribal colleges or universities eligible for endowments? #####
+
+Yes. Tribal colleges and universities are eligible for endowments under a signed agreement between the Tribal college and university and the Secretary as described in 25 U.S.C. 1832. Endowments must be invested in a trust fund and the Tribal college or university may only use the interest deposited for the purpose of defraying expenses associated with the operation of the Tribal college or university (25 U.S.C. 1833).

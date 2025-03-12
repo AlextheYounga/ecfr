@@ -1,0 +1,3 @@
+##### § 23.61 Appeals from decision or action by Agency Superintendent, Regional Director or Grants Officer. #####
+
+A grantee or prospective applicant may appeal any decision made or action taken by the Agency Superintendent, Regional Director, or grants officer under subpart C or E of this part. Such an appeal shall be made to the Assistant Secretary who shall consider the appeal in accordance with 25 CFR 2.20 (c) through (e). Appeal procedures shall be as set out in part 2 of this chapter.

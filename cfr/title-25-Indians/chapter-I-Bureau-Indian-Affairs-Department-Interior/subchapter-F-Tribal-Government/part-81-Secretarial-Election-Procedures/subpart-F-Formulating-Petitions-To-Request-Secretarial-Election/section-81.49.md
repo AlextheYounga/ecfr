@@ -1,0 +1,3 @@
+##### § 81.49 What is the purpose of this subpart? #####
+
+This subpart establishes requirements for formulating and submitting petitions to request the Secretary to call a Secretarial election as required by the governing documents or charters of incorporation of tribes issued under the Indian Reorganization Act (IRA), 25 U.S.C. 476 and 477, as amended, and the Oklahoma Indian Welfare Act (OIWA), 25 U.S.C. 503. This Subpart may also be used by a federally recognized tribe that is adopting a governing document, under Federal statute, for the first time.

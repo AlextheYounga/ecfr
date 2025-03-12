@@ -1,0 +1,3 @@
+##### § 39.1101 Addition of pre-kindergarten as a weight factor to the Indian School Equalization Formula in fiscal year 1982. #####
+
+The Director, in consultation with the tribes and school boards, shall determine appropriate weight factors needed to include pre-kindergarten programs in the Indian School Equalization Formula in fiscal year 1982. Based on a needs assessment, to be completed by January 1, 1980, pre-kindergarten programs shall be included in the Bureau's education request for fiscal year 1982.

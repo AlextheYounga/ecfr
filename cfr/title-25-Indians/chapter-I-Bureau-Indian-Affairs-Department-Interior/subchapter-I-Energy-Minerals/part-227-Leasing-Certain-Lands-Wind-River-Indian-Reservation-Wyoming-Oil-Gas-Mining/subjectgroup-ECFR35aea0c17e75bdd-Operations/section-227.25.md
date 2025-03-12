@@ -1,0 +1,3 @@
+##### § 227.25 Inspection of premises, books and accounts. #####
+
+Lessee shall agree to allow the lessor and his agents or any authorized representative of the Interior Department to enter, from time to time, upon and into all parts of the leased premises for the purposes of inspection and shall further agree to keep a full and correct account of all operations and make reports thereof, as required by the applicable regulations of the Department; and their books and records, showing manner of operations and persons interested, shall be open at all times for examination of such officers of the Department as shall be instructed in writing by the Secretary of the Interior or authorized by regulations, to make such examination.

@@ -1,0 +1,5 @@
+##### § 167.11 Tenure of grazing permits. #####
+
+(a) All active regular grazing permits shall be for one year and shall be automatically renewed annually until terminated. Any Navajo eligible to hold a grazing permit as defined in § 167.8 may become a livestock operator by obtaining an active grazing permit through negotiability or inheritance or both.
+
+(b) In many Districts, and portions of all districts, unused grazing permits or portions of grazing permits are beneficial in aiding range recovery. Each District Grazing Committee will handle each matter of unused grazing permit or portions of grazing permits on individual merits. Where ample forage is available operators will be encouraged to fill their permits with livestock or dispose of their unused permits through negotiability. In those areas where forage is in need of rehabilitation permittees will not be encouraged to stock to their permitted numbers until the range has sufficiently recovered to justify the grazing of additional livestock.

@@ -1,0 +1,3 @@
+##### § 136.1 Repayment contracts. #####
+
+A rehabilitation program was established on the Fort Hall Unit of the Fort Hall Project in 1936. Based upon the estimated construction costs, contracts were signed by all non-Indian landowners within the project, including such landowners within the Little Indian Unit, now a part of the Fort Hall Unit. Under the terms of their contracts, the landowners agreed to repay to the Government their pro rata share, on an acreage basis, of all expenditures for construction and other necessary improvements for carrying out the approved program, payments not to exceed $7.50 per acre, based upon an estimated expenditure of $450,000.00 for a project then considered as covering approximately 60,000 acres.

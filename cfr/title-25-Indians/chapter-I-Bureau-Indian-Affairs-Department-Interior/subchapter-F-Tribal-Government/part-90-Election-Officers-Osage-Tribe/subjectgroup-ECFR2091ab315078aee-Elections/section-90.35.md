@@ -1,0 +1,5 @@
+##### § 90.35 List of voters. #####
+
+The Superintendent of the Osage Agency shall compile a list of the voters of the Tribe who are qualified under § 90.21. Such list shall set forth only the name and last known address of each voter. The Superintendent shall furnish copies of the list to the Supervisor of the election board and shall post copies at the headquarters of the Osage Agency at Pawhuska, Okla., and such other places as the election board may determine to be appropriate. The compilation, posting and distribution of copies to the Supervisor of the election board shall be done as soon as possible after preparation of the last quarterly annuity roll preceding the election. Copies of the list shall also be made available to all qualified candidates for office and for the purpose of checking off the name of each voter as his ballot is cast and for determining, in the event of question, the right of any individual to vote.
+
+[27 FR 2458, Mar. 15, 1962. Redesignated at 47 FR 13327, Mar. 30, 1982]

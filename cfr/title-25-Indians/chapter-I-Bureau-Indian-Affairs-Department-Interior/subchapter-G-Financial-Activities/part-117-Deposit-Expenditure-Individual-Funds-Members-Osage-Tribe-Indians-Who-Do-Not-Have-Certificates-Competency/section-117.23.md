@@ -1,0 +1,3 @@
+##### § 117.23 Transactions between guardian and ward. #####
+
+Business dealings between the guardian and his ward involving the sale or purchase of any property, real or personal, by the guardian to or from the ward, or to or from any store, company or organization in which the guardian has a direct interest or concern or contrary to the policy of the Department and shall not be approved by the superintendent without specific authority from the Commissioner.

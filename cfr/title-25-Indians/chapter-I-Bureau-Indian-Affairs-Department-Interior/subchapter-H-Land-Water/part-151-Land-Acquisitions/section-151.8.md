@@ -1,0 +1,3 @@
+##### § 151.8 Tribal consent for nonmember acquisitions. #####
+
+An individual Indian or tribe may acquire land in trust status on a reservation other than its own only when the governing body of the tribe having jurisdiction over such reservation consents in writing to the acquisition; provided, that such consent shall not be required if the individual Indian or the tribe already owns an undivided trust or restricted interest in the parcel of land to be acquired.

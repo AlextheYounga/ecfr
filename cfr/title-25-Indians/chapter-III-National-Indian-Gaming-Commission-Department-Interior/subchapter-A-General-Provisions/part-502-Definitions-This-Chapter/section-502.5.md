@@ -1,0 +1,3 @@
+##### § 502.5 Collateral agreement. #####
+
+*Collateral agreement* means any contract, whether or not in writing, that is related, either directly or indirectly, to a management contract, or to any rights, duties or obligations created between a tribe (or any of its members, entities, or organizations) and a management contractor or subcontractor (or any person or entity related to a management contractor or subcontractor).

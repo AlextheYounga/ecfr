@@ -1,0 +1,3 @@
+##### § 166.424 How will the BIA determine the grazing rental payment amount to be distributed to each Indian landowner? #####
+
+Unless otherwise specified in the permit, the grazing rental payment will be distributed to each Indian landowner according to the forage production that each parcel of Indian land contributes to the permit, annual rental rate of each parcel, and the Indian landowner's interest in each parcel.

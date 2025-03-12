@@ -1,0 +1,3 @@
+##### § 115.820 May OTFM transfer money in a returned per capita account to a tribal account? #####
+
+Funds in a returned per capita account will not automatically be returned to a tribe. However, a tribe may apply under 25 U.S.C. 164 and Public Law 87-283, 75 Stat. 584 (1961), to have the unclaimed per capita funds transferred to its account for the tribe's use after six years have passed from the date of distribution.

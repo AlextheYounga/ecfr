@@ -1,0 +1,3 @@
+##### § 1000.163 Can a Tribe/Consortium negotiate other terms and conditions not contained in the model compact? #####
+
+Yes, the Secretary and a self-governance Tribe/Consortium may negotiate into the model compact contained in appendix A additional terms relating to the government-to-government relationship between the Tribe(s) and the United States. For BIA programs, a Tribe/Consortium and the Secretary may agree to include any term in a contract and funding agreement under Title I in the model compact contained in appendix A to this part.

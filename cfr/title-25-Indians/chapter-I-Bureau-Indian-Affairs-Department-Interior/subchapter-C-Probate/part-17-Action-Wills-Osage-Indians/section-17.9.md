@@ -1,0 +1,3 @@
+##### § 17.9 Briefs. #####
+
+When there are two or more parties with conflicting interests, the party upon whom the burden of proof may fall may be allowed a reasonable time, not to exceed 30 days following the conclusion of the hearing, in which to file a brief or other statement of his contentions, showing service on opposing counsel or litigant. The latter shall then be allowed not to exceed 20 days in which to file an answer brief or statement, and his opponent shall have 10 days thereafter to file a reply brief or statement. Upon proper showing the special attorney may grant extensions of time. Each brief or statement shall be filed in duplicate.

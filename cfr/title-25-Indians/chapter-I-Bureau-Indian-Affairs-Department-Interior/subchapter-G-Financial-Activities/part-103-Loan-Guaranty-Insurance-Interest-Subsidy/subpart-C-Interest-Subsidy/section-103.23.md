@@ -1,0 +1,3 @@
+##### § 103.23 How does BIA make interest subsidy payments? #####
+
+The lender must send BIA reports at least quarterly on the borrower's loan payment history, together with a calculation of the interest subsidy then due. The lender's reports and calculation do not have to be in any specific format, but in addition to the calculation the reports must contain at least the information required by § 103.33(a). Based on the lender's reports and calculation, BIA will send interest subsidy payments to the borrower in care of the lender. The payments belong to the borrower, but the borrower and lender may agree in advance on how the borrower will use interest subsidy payments. BIA may verify and correct interest subsidy calculations and payments at any time.

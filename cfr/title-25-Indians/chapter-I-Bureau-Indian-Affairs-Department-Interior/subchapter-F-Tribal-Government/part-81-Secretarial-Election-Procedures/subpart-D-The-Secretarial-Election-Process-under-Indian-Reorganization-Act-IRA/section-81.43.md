@@ -1,0 +1,3 @@
+##### § 81.43 How are the results of the Election challenged? #####
+
+Any person who was listed on the Eligible Voters List and who submitted a voter registration form may challenge the results of the Secretarial election. The written challenge, with substantiating evidence, must be received by the Chairman of the Secretarial Election Board within 5 days after the Certificate of Results of Election is posted, not including the day the Certificate of Results of Election is posted. Challenges received after the deadline for filing challenges will not be considered. If the third day falls on a weekend or Federal holiday, the challenge must be received by close of business on the next business day.

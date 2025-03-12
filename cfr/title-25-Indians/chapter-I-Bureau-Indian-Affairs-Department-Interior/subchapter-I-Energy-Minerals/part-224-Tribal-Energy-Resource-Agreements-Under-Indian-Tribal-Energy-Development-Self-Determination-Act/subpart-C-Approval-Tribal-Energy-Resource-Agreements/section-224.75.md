@@ -1,0 +1,8 @@
+##### § 224.75 What must the Secretary do upon approval or disapproval of a final proposed TERA? #####
+
+Within 10 days of the Secretary's approval or disapproval of a final proposed TERA, the Secretary must notify the tribal governing body in writing and take the following actions:
+
+|  If the Secretary's decision is . . .   |                                                                                                                                       Then the Secretary will . . .                                                                                                                                       |
+|-----------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| (a) To approve the final proposed TERA  |                                       (1) Sign the TERA making it effective on the date of signature, and return the signed TERA to the tribal governing body; and  <br/>(2) Maintain a copy of the TERA and any subsequent amendments or supplements to the TERA.                                        |
+|(b) To disapprove the final proposed TERA|Send the tribe a notice of disapproval that must include:  <br/>(1) The basis of the disapproval;  <br/>(2) The changes or other actions required to address the Secretary's basis for disapproval; and  <br/>(3) A statement that the decision is a final agency action and is subject to judicial review.|

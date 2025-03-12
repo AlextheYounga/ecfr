@@ -1,0 +1,9 @@
+##### § 163.15 Advertisement of sales. #####
+
+Except as provided in §§ 163.13, 163.14, 163.16, and 163.26 of this part, sales of forest products shall be made only after advertising.
+
+(a) The advertisement shall be approved by the officer who will approve the instrument of sale. Advertised sales shall be made under sealed bids, or at public auction, or under a combination thereof. The advertisement may limit sales of Indian forest products to Indian forest enterprises, members of the tribe, or may grant to Indian forest enterprises and/or members of the tribe who submitted bids the right to meet the higher bid of a non-member. If the estimated stumpage value of the forest products offered does not exceed $15,000, the advertisement may be made by posters and circular letters. If the estimated stumpage value exceeds $15,000, the advertisement shall also be made in at least one edition of a newspaper of general circulation in the locality where the forest products are situated. If the estimated stumpage value does not exceed $50,000, the advertisement shall be made for not less than 15 days; if the estimated stumpage value exceeds $50,000 but not $250,000, for not less than 30 days; and if the estimated stumpage value exceeds $250,000, for not less than 60 days.
+
+(b) The approving officer may reduce the advertising period because of emergencies such as fire, insect attack, blowdown, limitation of time, or when there would be no practical advantage in advertising for the prescribed period.
+
+(c) If no instrument of sale is executed after such advertisement, the approving officer may, within one year from the last day on which bids were to be received as defined in the advertisement, permit the sale of such forest products. The sale will be made upon the terms and conditions in the advertisement and at not less than the advertised value or the appraised value at the time of sale, whichever is greater.

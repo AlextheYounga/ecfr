@@ -1,0 +1,7 @@
+##### § 211.25 Acreage limitation. #####
+
+A lessee may acquire more than one lease but no single lease shall be granted for mineral leasing purposes on Indian tribal or restricted lands in excess of the following acreage except where the rule of approximation applies:
+
+(a) Leases for oil and gas and all other minerals except coal are to be contained within one United States Governmental survey section of land and shall be described by legal subdivisions including lots or tract equivalents not to exceed 640 acres; in instances of irregular surveys, including lands not surveyed under the United States Governmental survey, lands shall be considered in multiples of 40 acres or the nearest aliquot equivalent thereof;
+
+(b) Leases for coal shall ordinarily be limited to 2,560 acres in a reasonably compact form and shall be described by legal subdivisions including lots or tract equivalents. In instances of irregular surveys, including lands not surveyed under the United States Governmental survey, lands shall be considered in multiples of 40 acres or the nearest aliquot equivalent thereof. The Secretary may, upon application and with the consent of the Indian mineral owner, approve the issuance of a single lease for more than 2,560 acres, in a reasonably compact form, upon a finding that the issuance is in the best interest of the lessor.

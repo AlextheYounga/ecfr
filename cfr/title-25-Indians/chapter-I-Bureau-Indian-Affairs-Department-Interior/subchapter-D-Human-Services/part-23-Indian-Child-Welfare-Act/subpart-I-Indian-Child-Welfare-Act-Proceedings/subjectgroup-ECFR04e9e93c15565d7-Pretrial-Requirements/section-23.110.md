@@ -1,0 +1,7 @@
+##### § 23.110 When must a State court dismiss an action? #####
+
+Subject to 25 U.S.C. 1919 (Agreements between States and Indian Tribes) and § 23.113 (emergency proceedings), the following limitations on a State court's jurisdiction apply:
+
+(a) The court in any voluntary or involuntary child-custody proceeding involving an Indian child must determine the residence and domicile of the Indian child. If either the residence or domicile is on a reservation where the Tribe exercises exclusive jurisdiction over child-custody proceedings, the State court must expeditiously notify the Tribal court of the pending dismissal based on the Tribe's exclusive jurisdiction, dismiss the State-court child-custody proceeding, and ensure that the Tribal court is sent all information regarding the Indian child-custody proceeding, including, but not limited to, the pleadings and any court record.
+
+(b) If the child is a ward of a Tribal court, the State court must expeditiously notify the Tribal court of the pending dismissal, dismiss the State-court child-custody proceeding, and ensure that the Tribal court is sent all information regarding the Indian child-custody proceeding, including, but not limited to, the pleadings and any court record.

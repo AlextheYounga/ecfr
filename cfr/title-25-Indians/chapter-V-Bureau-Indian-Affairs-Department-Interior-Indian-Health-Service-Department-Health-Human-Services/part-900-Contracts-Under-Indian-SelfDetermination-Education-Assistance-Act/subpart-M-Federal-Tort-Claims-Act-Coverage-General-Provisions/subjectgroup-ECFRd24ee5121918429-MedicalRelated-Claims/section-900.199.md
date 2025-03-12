@@ -1,0 +1,3 @@
+##### § 900.199 Does FTCA coverage extend to health care practitioners to whom staff privileges have been extended in contractor health care facilities operated under a self-determination contract on the condition that such practitioner provide health services to IHS beneficiaries covered by FTCA? #####
+
+Yes, health care practitioners with staff privileges in a facility operated by a contractor are covered when they perform services to IHS beneficiaries. Such personnel are not covered when providing services to non-IHS beneficiaries.

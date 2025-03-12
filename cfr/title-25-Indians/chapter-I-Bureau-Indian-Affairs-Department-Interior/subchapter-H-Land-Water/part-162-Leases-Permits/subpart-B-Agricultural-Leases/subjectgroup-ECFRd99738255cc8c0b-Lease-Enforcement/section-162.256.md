@@ -1,0 +1,3 @@
+##### § 162.256 What will BIA do if a tenant holds over after the expiration or cancellation of an agricultural lease? #####
+
+If a tenant remains in possession after the expiration or cancellation of an agricultural lease, we will treat the unauthorized use as a trespass. Unless we have reason to believe that the tenant is engaged in negotiations with the Indian landowners to obtain a new lease, we will take action to recover possession on behalf of the Indian landowners, and pursue any additional remedies available under applicable law, including the assessment of civil penalties and costs under part 166, subpart I, of this chapter.

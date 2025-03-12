@@ -1,0 +1,3 @@
+##### § 163.27 Free-use harvesting without permits. #####
+
+With the consent of the beneficial Indian owners and the Secretary, Indians may harvest designated types of forest products from Indian forest land without a permit or contract, and without charge. Forest products harvested under this authority shall be for the Indian's personal use, and shall not be sold or exchanged for other goods or services.

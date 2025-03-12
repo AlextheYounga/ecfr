@@ -1,0 +1,3 @@
+##### § 175.32 Collections. #####
+
+The utility shall attempt collection on checks returned by the customer's bank due to insufficient funds or other cause. An administrative fee shall be charged for each collection action taken by the utility other than court proceedings. An unredeemed check shall cause the customer's account to become delinquent, which may be cause for discontinuance of service. Only legal tender, a cashier's check, or a money order shall be accepted by the utility to cover an unredeemed check and associated charges.

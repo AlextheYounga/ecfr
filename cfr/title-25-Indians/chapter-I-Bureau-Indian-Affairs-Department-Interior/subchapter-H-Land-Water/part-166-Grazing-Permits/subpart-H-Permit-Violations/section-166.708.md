@@ -1,0 +1,3 @@
+##### § 166.708 Can the BIA take emergency action if the rangeland is threatened with immediate, significant, and irreparable harm? #####
+
+Yes. If a permittee or any other party causes or threatens to cause immediate, significant and irreparable harm to the Indian land during the term of a permit, we will take appropriate emergency action. Emergency action may include trespass proceedings under subpart I of this part, or judicial action seeking immediate cessation of the activity resulting in or threatening the harm. Reasonable efforts will be made to notify the Indian landowners, either before or after the emergency action is taken.

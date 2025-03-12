@@ -1,0 +1,3 @@
+##### § 142.8 Is economy of operation a requirement for the Alaska Resupply Operation? #####
+
+Yes. The Manager must ensure that purchasing, warehousing and transportation services utilize the most economical delivery. This may be accomplished by memoranda of agreement, formal contracts, or cooperative arrangements. Whenever possible joint arrangements for economy will be entered into with other Federal agencies, the State of Alaska, Alaska Native cooperatives or other entities providing services to rural Alaska communities.

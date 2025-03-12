@@ -1,0 +1,3 @@
+##### § 161.6 Are there any other restrictions on information given to BIA? #####
+
+Information that the BIA collects in connection with permits for NPL in sections 161.102, 161.206, 161.301, 161.302, 161.304, 161.402, 161.500, 161.502, 161.604, 161.606, 161.703, 161.704, 161.708, 161.717, 161.800, 161.801, and 161.802 have been reviewed and approved by the Office of Management and Budget. The OMB Control Number assigned is 1076-0162. Please note that a federal agency may not conduct or sponsor, and you are not required to respond to, a collection of information unless it displays a currently valid OMB control number.

@@ -1,0 +1,3 @@
+##### § 140.16 Trade in annuities or gratuities prohibited. #####
+
+Traders are forbidden to buy, trade for, or have in their possession any annuity or other goods of any description which have been purchased or furnished by the Government for the use or welfare of the Indians. Livestock or their increase purchased by the Government and in possession or control of the Indians may not be purchased by any trader, not a member of the tribe to which the owners or possessors of the cattle belong, except with the written consent of the agent of said tribe.

@@ -1,0 +1,3 @@
+##### § 87.8 Enrollment aspects of plans. #####
+
+An approved plan that includes provisions for enrollment requiring formal adoption of enrollment rules and regulations shall be implemented through the publication of such rules and regulations in the Federal Register. Persons not members of organized or recognized tribes and who are not citizens of the United States shall not, unless otherwise provided by Congress, be eligible to participate in the use or distribution of judgment funds, excepting heirs or legatees of deceased individual beneficiaries.

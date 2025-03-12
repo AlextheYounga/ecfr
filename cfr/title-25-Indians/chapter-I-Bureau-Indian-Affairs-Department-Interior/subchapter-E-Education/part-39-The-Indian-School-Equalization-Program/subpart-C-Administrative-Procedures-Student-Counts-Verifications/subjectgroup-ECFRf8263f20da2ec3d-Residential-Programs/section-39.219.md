@@ -1,0 +1,3 @@
+##### § 39.219 What happens if a residential program does not maintain residency levels required by this subpart? #####
+
+Each school must maintain its declared nights of service per week as certified in its submitted school calendar. For each month that a school does not maintain 25 percent of the residency shown in its submitted calendar, the school will lose one-tenth of its current year allocation.

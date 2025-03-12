@@ -1,0 +1,7 @@
+##### § 226.31 Lessee's process agents. #####
+
+(a) Before actual drilling or development operations are commenced on leased lands, Lessee or Assignee, if not a resident of the State of Oklahoma, shall appoint a local or resident representative within the State of Oklahoma on whom the Superintendent may serve notice or otherwise communicate in securing compliance with the regulations in this part, and shall notify the Superintendent of the name and post office address of the representative appointed.
+
+(b) Where several parties own a lease jointly, one representative or agent shall be designated whose duties shall be to act for all parties concerned. Designation of such representative should be made by the party in charge of operations.
+
+(c) In the event of the incapacity or absence from the State of Oklahoma of such designated local or resident representative, Lessee shall appoint a substitute to serve in his stead. In the absence of such representative or appointed substitute, any employee of Lessee upon the leased premises or person in charge of drilling or related operations thereon shall be considered the representative of Lessee for the purpose of service of orders or notices as herein provided.

@@ -1,0 +1,5 @@
+##### § 162.347 What is the approval process for an amendment of a residential lease? #####
+
+(a) When we receive an amendment that meets the requirements of this subpart, we will notify the parties of the date we receive it. We have 30 days from receipt of the executed amendment, proof of required consents, and required documentation to approve or disapprove the amendment. Our determination whether to approve the amendment will be in writing and will state the basis for our approval or disapproval.
+
+(b) If we do not send a determination within 30 days from receipt of the required documents, the amendment is deemed approved to the extent consistent with Federal law. Unless the lease provides otherwise, provisions of the amendment that are inconsistent with Federal law will be severed and unenforceable; all other provisions of the amendment will remain in force.

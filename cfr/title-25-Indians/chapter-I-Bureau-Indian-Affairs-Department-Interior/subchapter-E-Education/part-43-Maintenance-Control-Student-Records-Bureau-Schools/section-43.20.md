@@ -1,0 +1,5 @@
+##### § 43.20 Directory information. #####
+
+(a) Any educational institution making public directory information shall make a reasonable effort to individually notify the parent or eligible student of the categories of information which it has designated as directory information. The institution shall allow a reasonable period of time after notice has been given for a parent or eligible student to inform the institution that any or all of the information designated should not be released without the prior consent of the parent or eligible student.
+
+(b) Directory information may include the following: A student's name, address, telephone listing, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, and the most recent previous educational agency or institution attended by the student, tribe, agency, area, name of parent, sex, and classification (grade). No other information may be included. Educational institutions have the right to limit the content of directory information.

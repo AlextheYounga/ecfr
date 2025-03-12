@@ -1,0 +1,3 @@
+##### § 900.234 What types of personal conflicts of interest involving tribal officers, employees or subcontractors would have to be regulated by an Indian tribe? #####
+
+The Indian tribe or tribal organization would need a tribally-approved mechanism to ensure that no officer, employee, or agent (including a subcontractor) of the Indian tribe or tribal organization reviews a trust transaction in which that person has a financial or employment interest that conflicts with that of the trust beneficiary, whether the tribe or an allottee. Interests arising from membership in, or employment by, an Indian tribe or rights to share in a tribal claim need not be regulated.

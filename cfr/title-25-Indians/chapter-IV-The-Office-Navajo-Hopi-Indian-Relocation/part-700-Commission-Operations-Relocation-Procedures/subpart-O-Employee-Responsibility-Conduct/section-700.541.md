@@ -1,0 +1,3 @@
+##### § 700.541 Fraud or false statement in a Government matter. #####
+
+“Whoever, in any matter within the jurisdiction of any department or agency of the United States, knowingly or wilfully falsifies, conceals or covers up by a trick, scheme or device a material fact, or makes or uses any false writing or document knowing the same to contain false, fictitious or fraudulent statement or entry, shall be fined not more than $10,000 or imprisoned not more than 5 years or both (18 U.S.C. 1001).” Special attention is required in the certification of time and attendance reports, applications for employment, personnel security forms, requests for travel reimbursement, client certification documents, and purchase orders and receiving forms.

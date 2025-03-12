@@ -1,0 +1,3 @@
+##### § 10.10 What happens if I believe my civil rights have been violated while incarcerated in an Indian country detention or holding facility? #####
+
+All allegations of civil rights violations must be reported immediately to the Internal Affairs Branch of the Office of Law Enforcement Services. This office will ensure that such allegations are immediately reported to the Civil Rights Division of the U.S. Department of Justice through established procedures. The BIA Internal Affairs Branch may also investigate alleged violations and make recommendations for additional action as necessary. Detailed instructions on the procedure to report violations can be found in the Inmate Handbook.

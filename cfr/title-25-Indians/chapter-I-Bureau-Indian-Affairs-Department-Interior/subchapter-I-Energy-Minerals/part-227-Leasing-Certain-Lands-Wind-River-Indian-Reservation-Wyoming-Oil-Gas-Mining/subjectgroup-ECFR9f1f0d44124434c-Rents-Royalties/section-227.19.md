@@ -1,0 +1,9 @@
+##### § 227.19 Division orders. #####
+
+(a) Lessees may make arrangements with the purchasers of oil for the payment of the royalties on production to the superintendent by such purchasers, but such arrangements, if made, shall not operate to relieve a lessee from responsibility should the purchaser fail or refuse to pay such royalties when due. Where lessees avail themselves of this privilege, division orders permitting the pipeline companies or other purchasers of the oil to withhold the royalty interest shall be executed and forwarded to the supervisor for approval, as pipeline companies are not permitted to accept or run oil from leased Indian lands until after the approval of a division order showing that the lessee has a lease regularly approved and in effect. When the lessee company runs its own oil, it shall execute an intracompany division order and forward it to the supervisor for his consideration. The right is reserved for the supervisor to cancel a division order at any time or require the pipeline company to discontinue to run the oil of any lessee who fails to operate the lease properly or otherwise violates the provisions of the lease, of the regulations in this part, or of the operating regulations.
+
+(b) When oil is taken by authority of a division order, the lessee or his representatives shall be actually present when the oil is gaged and records are made of the temperature, gravity and impurities. The lessee will be held responsible for the correctness and the correct recording and reporting of all the foregoing measurements, which except lowest gage, shall be made at the time the oil is turned into the pipeline. Failure of the lessee to perform properly these duties will subject the division order to revocation.
+
+Cross Reference:
+
+For oil and gas operating regulations of the Geological Survey, see 30 CFR part 221.

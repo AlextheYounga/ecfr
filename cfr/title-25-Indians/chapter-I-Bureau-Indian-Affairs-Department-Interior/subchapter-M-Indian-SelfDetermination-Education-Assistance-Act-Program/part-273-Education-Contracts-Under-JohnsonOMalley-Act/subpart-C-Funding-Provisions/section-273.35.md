@@ -1,0 +1,3 @@
+##### § 273.35 Capital outlay or debt retirement. #####
+
+In no instance shall contract funds provided under this part be used as payment for capital outlay or debt retirement expenses; except that, such costs are allowable if they are considered to be a part of the full per capita cost of educating eligible Indian students who reside in Federal boarding facilities for the purpose of attending public schools.

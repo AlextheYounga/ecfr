@@ -1,0 +1,5 @@
+##### § 2.19 Action by Area Directors and Education Programs officials on appeal. #####
+
+(a) Area Directors, Area Education Programs Administrators, Agency Superintendents for Education, Presidents of Post-Secondary Schools and the Deputy to the Assistant Secretary—Indian Affairs/Director (Indian Education Programs) shall render written decisions in all cases appealed to them within 60 days after all time for pleadings (including all extensions granted) has expired. The decision shall include a statement that the decision may be appealed pursuant to this part, identify the official to whom it may be appealed and indicate the appeal procedures, including the 30-day time limit for filing a notice of appeal.
+
+(b) A copy of the decision shall be sent to the appellant and each known interested party by certified or registered mail, return receipt requested. Such receipts shall become a permanent part of the record.

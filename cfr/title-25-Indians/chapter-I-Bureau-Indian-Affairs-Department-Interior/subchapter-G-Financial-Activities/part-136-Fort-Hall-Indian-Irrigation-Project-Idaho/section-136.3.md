@@ -1,0 +1,3 @@
+##### § 136.3 Repayment of construction costs. #####
+
+Under the terms of the contracts, the landowners agreed to repay the construction cost in forty (40) equal annual installments. Therefore, the annual per acre installment is hereby fixed at seventeen and one-half cents (171/2 cents) per acre, due and payable on December 1st of each year, the first payment being due on December 1, 1955. Under section 4 of the repayment contracts of the landowners and the act of March 10, 1928 (45 Stat. 210), the charges remain a lien against the lands until paid.

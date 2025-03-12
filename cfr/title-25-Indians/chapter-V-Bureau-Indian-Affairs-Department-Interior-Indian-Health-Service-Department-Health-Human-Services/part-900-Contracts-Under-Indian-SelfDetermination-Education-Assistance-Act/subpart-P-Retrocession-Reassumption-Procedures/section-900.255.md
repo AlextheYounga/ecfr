@@ -1,0 +1,3 @@
+##### § 900.255 What obligation does the Indian tribe or tribal organization have with respect to returning property that was used in the operation of the rescinded contract? #####
+
+On the effective date of any rescission, the Indian tribe or tribal organization shall, at the request of the Secretary, deliver to the Secretary all property and equipment provided under the contract which has a per item current fair market value, less the cost of improvements borne by the Indian tribe or tribal organization, in excess of $5,000 at the time of the retrocession.

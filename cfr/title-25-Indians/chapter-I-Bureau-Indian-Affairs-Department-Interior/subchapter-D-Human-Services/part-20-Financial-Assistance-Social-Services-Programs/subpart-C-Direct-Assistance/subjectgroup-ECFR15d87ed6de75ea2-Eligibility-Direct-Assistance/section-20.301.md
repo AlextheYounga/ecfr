@@ -1,0 +1,3 @@
+##### § 20.301 What is the goal of General Assistance? #####
+
+The goal of the General Assistance program is to increase self-sufficiency. Each General Assistance recipient must work with the social services worker to develop and sign an Individual Self-Sufficiency Plan (ISP). The plan must outline the specific steps the individual will take to increase independence by meeting the goal of employment.

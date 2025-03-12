@@ -1,0 +1,3 @@
+##### § 26.4 Who administers the Job Placement and Training Program? #####
+
+The Job Placement and Training Program is administered by the Bureau of Indian Affairs or a tribal service provider. Tribes are encouraged to provide services directly to Indians by either entering into a Public Law 93-638 contract with the Bureau or a compact with the Office of Self—Governance. Tribes may also consolidate Job Placement and Training Program funds in accordance with the provisions of the Indian Employment, Training, and Related Services Demonstration Act of 1992, Public Law 102-477.

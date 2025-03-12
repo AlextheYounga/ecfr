@@ -1,0 +1,7 @@
+##### § 160.2 Instructions. #####
+
+All superintendents and other officers are directed to familiarize themselves with this provision of law, and in all cases involving the issuance of patents or deeds direct to the Indian or purchaser of Indian allotments embracing irrigable lands, they will recite in the papers forwarded to the Department for action the fact that the lands involved are within an irrigation project (giving the name) and accordingly are subject to the provisions of this law. This requirement will be in addition to the existing regulations requiring the superintendents in case of sales of irrigable lands to obtain from the project engineer a written statement relative to the irrigability of the lands to be sold, and whether or not there are any unpaid irrigation charges, together with the estimated per acre construction cost assessable against the land involved in the sale. Each sale will also be accompanied by contract executed in accordance with regulations obligating the purchaser to pay the accrued charges, namely, construction, operation, and maintenance, prior to the approval of the sale and to assume and pay the unassessed irrigation charges in accordance with regulations promulgated by the Secretary of the Interior.
+
+Cross References:
+
+For additional regulations pertaining to the payment of fees and charges in connection with the sale of irrigable lands, see part 159 and §§ 134.4 and 152.21 of this chapter.

@@ -1,0 +1,3 @@
+##### § 1000.436 How may a Tribe/Consortium seek reconsideration of the Secretary's decision involving a self-governance compact? #####
+
+A Tribe/Consortium may request reconsideration of the Secretary's decision involving a self-governance compact by sending a written request for reconsideration to the Secretary within 30 days of receipt of the decision. A copy of this request must also be sent to the Director of the Office of Self-Governance.

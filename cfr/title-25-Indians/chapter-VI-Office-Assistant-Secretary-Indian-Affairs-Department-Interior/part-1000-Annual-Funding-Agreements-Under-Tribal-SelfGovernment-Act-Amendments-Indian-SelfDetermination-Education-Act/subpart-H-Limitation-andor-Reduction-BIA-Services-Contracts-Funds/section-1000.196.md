@@ -1,0 +1,3 @@
+##### § 1000.196 What must be included in a finding by BIA or in a claim by an affected Tribe/Consortium or Tribal organization regarding the issue of a limitation or reduction of services? #####
+
+An affected Tribe/Consortium must include in its claim a written explanation identifying the alleged limitation or reduction of services, contracts, or funding for which it is eligible. A finding by BIA must likewise identify the limitation or reduction.

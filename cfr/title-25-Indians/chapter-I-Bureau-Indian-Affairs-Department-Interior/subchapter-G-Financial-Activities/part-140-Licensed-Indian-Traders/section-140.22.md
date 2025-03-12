@@ -1,0 +1,3 @@
+##### § 140.22 Inspection of traders' prices. #####
+
+It is the duty of the superintendent to see that the prices charged by licensed traders are fair and reasonable. To this end the traders shall on request submit to the superintendent or inspecting officials the original invoice, showing cost, together with a statement of transportation charges, retail price of articles sold by them, the amount of Indian accounts carried on their books, the total annual sales, the value of buildings, livestock owned on reservation, the number of employees, and any other business information such officials may desire. The quality of all articles kept on sale must be good and merchantable.

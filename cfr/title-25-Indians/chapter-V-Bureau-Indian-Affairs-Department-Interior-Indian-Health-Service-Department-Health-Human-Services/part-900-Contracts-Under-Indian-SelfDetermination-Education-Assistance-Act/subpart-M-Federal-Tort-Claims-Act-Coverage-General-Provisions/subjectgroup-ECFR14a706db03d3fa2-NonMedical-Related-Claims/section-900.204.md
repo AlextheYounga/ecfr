@@ -1,0 +1,3 @@
+##### § 900.204 Is FTCA the exclusive remedy for a non-medical related tort claim arising out of the performance of a self-determination contract? #####
+
+Yes. Except as explained in § 900.183(b), no claim may be filed against a self-determination contractor or employee based upon performance of non-medical-related functions under a self-determination contract. Claims of this type must be filed against the United States under FTCA.

@@ -1,0 +1,5 @@
+##### § 11.208 May Individual Indian Money accounts be used for payment of judgments? #####
+
+(a) Any Court of Indian Offenses may make application to the superintendent who administers the individual Indian money account of a defendant who has failed to satisfy a money judgment from the court to obtain payment of the judgment from funds in the defendant's account. The court shall certify the record of the case to the superintendent. If the superintendent so directs, the disbursing agent shall pay over to the injured party the amount of the judgment or such lesser amount as may be specified by the superintendent.
+
+(b) A judgment of a Court of Indian Offenses shall be considered a lawful debt in all proceedings held by the Department of the Interior or by a Court of Indian Offenses to distribute decedents' estates.

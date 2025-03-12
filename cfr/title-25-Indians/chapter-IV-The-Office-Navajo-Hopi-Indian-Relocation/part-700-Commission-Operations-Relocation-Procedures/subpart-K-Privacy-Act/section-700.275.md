@@ -1,0 +1,3 @@
+##### § 700.275 Requests for access to records. #####
+
+The Privacy Act permits an individual, upon his request, to gain access to his record or to any information pertaining to him which is contained in a system and to review the record and have a copy made of all or any portion thereof in a form comprehensive to him, 5 U.S.C. 552a(d)(1). A request for access shall be submitted in accordance with the procedures in this subpart.

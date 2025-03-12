@@ -1,0 +1,3 @@
+##### § 224.64 How may a tribe assume management of development of different types of energy resources? #####
+
+In order for a tribe to assume authority for approving leases, business agreements, and rights-of-way for development of another energy resource that is not included in the TERA, a tribe must apply for a new TERA covering the authority for the development of another energy resource it wishes to assume. The Secretary's consideration of a new TERA will include a determination of the tribe's capacity to develop that type of energy resource and will trigger the public notice and opportunity for comment consistent with § 224.67.

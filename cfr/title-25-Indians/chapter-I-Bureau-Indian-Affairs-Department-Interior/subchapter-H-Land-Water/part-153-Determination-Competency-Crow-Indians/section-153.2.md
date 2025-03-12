@@ -1,0 +1,3 @@
+##### § 153.2 Application and examination. #####
+
+The Commissioner of Indian Affairs or his duly authorized representative, upon the application of any unenrolled adult member of the Crow Tribe, shall classify him by placing his name to the competent or incompetent rolls established pursuant to the act of June 4, 1920 (41 Stat. 751), and upon application shall determine whether those persons whose names now or hereafter appear on the incompetent roll shall be reclassified as competent and their names placed on the competent roll.

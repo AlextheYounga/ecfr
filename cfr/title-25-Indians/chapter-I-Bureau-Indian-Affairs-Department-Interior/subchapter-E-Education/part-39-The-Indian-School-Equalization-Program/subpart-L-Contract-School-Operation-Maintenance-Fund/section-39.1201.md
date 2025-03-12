@@ -1,0 +1,3 @@
+##### § 39.1201 Establishment of an interim fiscal year 1980 operation and maintenance fund for contract schools. #####
+
+There is established in the Division of Facilities Management a separate fund entitled the Contract School Operation and Maintenance Fund. The Secretary shall cause the distribution of an amount of $2.5 million, under the fiscal year 1980 appropriation for the Bureau, from budget activity 3500. “General Management and Facilities Operations”, to the schools through this fund and shall create an appropriate account or subaccount for the Contract School Operation and Maintenance Fund.

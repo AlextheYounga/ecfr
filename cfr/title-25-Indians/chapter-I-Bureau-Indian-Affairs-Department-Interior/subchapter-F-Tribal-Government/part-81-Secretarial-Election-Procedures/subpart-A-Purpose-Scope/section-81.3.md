@@ -1,0 +1,3 @@
+##### § 81.3 Information collection. #####
+
+The information collection requirements contained in this part are approved by the Office of Management and Budget under the Paperwork Reduction Act of 1995, 44 U.S.C. 3507(d), and has been assigned OMB control number 1076-0183. This information is collected when, under Federal statute or the tribe's governing documents, the Secretarial election is authorized to adopt, amend, or revoke governing documents; or adopt or amend charters. This information is required to obtain or retain benefits. A Federal agency may not collect or sponsor an information collection without a valid OMB control number.

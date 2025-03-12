@@ -1,0 +1,3 @@
+##### § 62.9 Action by the Superintendent. #####
+
+When an appeal is from an adverse enrollment action taken by a Superintendent or tribal committee, the Superintendent shall acknowledge in writing receipt of the appeal and shall forward the appeal to the Director together with any relevant information or records; the recommendations of the tribal committee, when applicable; and his/her recommendations on the appeal.

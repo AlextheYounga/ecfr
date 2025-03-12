@@ -1,0 +1,3 @@
+##### § 1000.61 Are other funds available to self-governance Tribes/Consortia for planning and negotiating with non-BIA bureaus? #####
+
+Yes, Tribes/Consortia may contact OSG to determine if OSG has funds available for the purpose of planning and negotiating with non-BIA bureaus under this subpart. A Tribe/Consortium may also ask a non-BIA bureau for information on any funds that may be available from that bureau.

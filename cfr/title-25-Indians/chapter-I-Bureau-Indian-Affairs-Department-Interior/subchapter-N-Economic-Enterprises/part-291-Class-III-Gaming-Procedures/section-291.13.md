@@ -1,0 +1,3 @@
+##### § 291.13 When do Class III gaming procedures for an Indian tribe become effective? #####
+
+Upon approval of Class III gaming procedures for the Indian tribe under either § 291.8(b), § 291.8(c), or § 291.11(a), the Indian tribe shall have 90 days in which to approve and execute the Secretarial procedures and forward its approval and execution to the Secretary, who shall publish notice of their approval in the Federal Register. The procedures take effect upon their publication in the Federal Register.

@@ -1,0 +1,7 @@
+##### § 212.41 Rentals and production royalty on oil and gas leases. #####
+
+(a) A lessee shall pay, in advance, beginning with the effective date of the lease, an annual rental of $2.00 per acre or fraction of an acre or such other greater amount as prescribed in the lease. This rental shall not be credited against production royalty nor shall the rental be prorated or refunded because of surrender or cancellation.
+
+(b) The Secretary shall not approve leases with a royalty rate less than 16-2/3 percent of the amount or value of production produced and sold from the lease unless a lower royalty rate is agreed to by the Indian mineral owner and is found to be in the best interest of the Indian mineral owner. Such approval may only be granted by the area director if the approving official is the superintendent and the Assistant Secretary for Indian Affairs if the approving official is the area director.
+
+(c) Value of lease production for royalty purposes shall be determined in accordance with applicable lease provisions and regulations in 30 CFR chapter II, subchapters A and C. If the valuation provisions in the lease are inconsistent with the regulations in 30 CFR chapter II, subchapters A and C, the lease provisions shall govern.

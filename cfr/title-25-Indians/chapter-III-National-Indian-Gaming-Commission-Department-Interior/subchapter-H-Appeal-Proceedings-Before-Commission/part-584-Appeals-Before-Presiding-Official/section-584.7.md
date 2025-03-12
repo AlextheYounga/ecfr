@@ -1,0 +1,3 @@
+##### § 584.7 When will I receive a copy of the record on which the Chair relied? #####
+
+Within 10 days of the timely filing of a notice of appeal, or as soon thereafter as practicable, the record on which the Chair relied will be transmitted to the parties. In appeals dealing with temporary closure orders, the record will be transmitted within 5 days of the timely filing of a notice of appeal. Upon designation of the presiding official, the Commission shall transmit the agency record to the presiding official.

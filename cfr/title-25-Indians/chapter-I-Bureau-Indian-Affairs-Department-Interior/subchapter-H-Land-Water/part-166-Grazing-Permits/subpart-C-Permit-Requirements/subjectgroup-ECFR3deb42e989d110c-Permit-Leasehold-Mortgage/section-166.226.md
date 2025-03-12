@@ -1,0 +1,3 @@
+##### § 166.226 May the holder of a leasehold mortgage assign the leasehold interest after a sale or foreclosure of an approved encumbrance? #####
+
+Yes. The holder of a leasehold mortgage may assign a leasehold interest obtained by a sale or foreclosure of an approved encumbrance without our approval if the assignee agrees in writing to be bound by the terms of the permit. A permit may provide the Indian landowners with a right of first refusal on the conveyance of the permit interest (leasehold).

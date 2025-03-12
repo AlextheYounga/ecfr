@@ -1,0 +1,3 @@
+##### § 161.610 What will BIA do if livestock is not removed when a permit expires or is cancelled? #####
+
+If the livestock is not removed after the expiration or cancellation of a permit, BIA will treat the unauthorized use as a trespass. BIA may remove the livestock on behalf of the Navajo Nation, and pursue any additional remedies available under applicable law, including the assessment of civil penalties and costs under subpart H.

@@ -1,0 +1,3 @@
+##### § 141.49 Usury prohibited. #####
+
+No reservation business may take or receive money, goods, or other things of value for a loan or forbearance on a debt that exceeds in value the principal plus twenty-four percent (24 percent) per annum finance charge. Any reservation business contracting for, reserving, or receiving directly or indirectly, any greater amount shall forfeit the finance charge.

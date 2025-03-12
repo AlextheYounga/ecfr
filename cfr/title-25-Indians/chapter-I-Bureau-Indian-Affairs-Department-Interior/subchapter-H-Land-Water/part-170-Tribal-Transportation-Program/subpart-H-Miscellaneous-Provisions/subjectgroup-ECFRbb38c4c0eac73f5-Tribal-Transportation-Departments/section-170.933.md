@@ -1,0 +1,3 @@
+##### § 170.933 Can Tribes regulate oversize or overweight vehicles? #####
+
+Yes. Tribal governments can regulate travel on roads under their jurisdiction and establish a permitting process to regulate the travel of oversize or overweight vehicles, under applicable Federal law. BIA may, with the consent of the affected Tribe, establish a permitting process to regulate the travel of oversize or overweight vehicles on the BIA road system.

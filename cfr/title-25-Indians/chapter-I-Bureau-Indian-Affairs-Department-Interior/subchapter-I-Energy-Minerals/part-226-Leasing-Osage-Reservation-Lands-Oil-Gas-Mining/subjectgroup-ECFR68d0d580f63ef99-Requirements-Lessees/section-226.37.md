@@ -1,0 +1,3 @@
+##### § 226.37 Waste of oil and gas. #####
+
+Lessee shall conduct all operations in a manner that will prevent waste of oil and gas and shall not wastefully utilize oil or gas. The Superintendent shall have the authority to impose such requirements as he deems necessary to prevent waste of oil and gas and to promote the greatest ultimate recovery of oil and gas. Waste as applied herein includes, but is not limited to, the inefficient excessive or improper use or dissipation of reservoir energy which would reasonably reduce or diminish the quantity of oil or gas that might ultimately be produced, or the unnecessary or excessive surface loss or destruction, without beneficial use, of oil and/or gas.

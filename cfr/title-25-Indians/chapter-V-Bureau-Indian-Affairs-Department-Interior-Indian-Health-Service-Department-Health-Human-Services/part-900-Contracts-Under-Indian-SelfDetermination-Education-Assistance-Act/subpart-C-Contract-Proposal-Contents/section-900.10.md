@@ -1,0 +1,3 @@
+##### § 900.10 How does an Indian tribe or tribal organization secure a list of all Federal property currently in use in carrying out the programs, functions, services, or activities that benefit the Indian tribe or tribal organization to assist in negotiating a contract? #####
+
+The Indian tribe or tribal organization submits a written request to the Secretary. The Secretary shall provide the requested information, including the condition of the property, within 60 days.

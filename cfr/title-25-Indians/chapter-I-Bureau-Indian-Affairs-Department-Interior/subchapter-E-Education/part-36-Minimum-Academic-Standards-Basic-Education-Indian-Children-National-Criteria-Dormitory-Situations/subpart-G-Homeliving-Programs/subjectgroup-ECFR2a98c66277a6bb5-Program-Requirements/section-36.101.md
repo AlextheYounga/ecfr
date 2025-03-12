@@ -1,0 +1,3 @@
+##### § 36.101 How often must students who have been separated for emergency health or behavioral reasons be supervised? #####
+
+Students who have been separated for emergency behavioral or health reasons must be supervised as frequently and as closely as the circumstances and protocols require. No student will be left unsupervised for any period until such factors as the student's health based on a medical assessment, the safety of the student, and any other applicable guidance for dealing with behavior or health emergencies are considered.

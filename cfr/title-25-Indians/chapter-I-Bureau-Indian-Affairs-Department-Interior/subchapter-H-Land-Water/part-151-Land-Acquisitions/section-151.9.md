@@ -1,0 +1,3 @@
+##### § 151.9 Requests for approval of acquisitions. #####
+
+An individual Indian or tribe desiring to acquire land in trust status shall file a written request for approval of such acquisition with the Secretary. The request need not be in any special form but shall set out the identity of the parties, a description of the land to be acquired, and other information which would show that the acquisition comes within the terms of this part.

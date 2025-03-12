@@ -1,0 +1,3 @@
+##### § 160.3 Leases to include description of lands. #####
+
+It is important, also, for superintendents in leasing irrigable lands to present to the project engineer lists containing descriptions of the lands involved for his approval of the irrigable acreage and for checking as to whether or not such lands are in fact irrigable under existing works. Strict compliance with this section is required for the purpose of avoiding error.

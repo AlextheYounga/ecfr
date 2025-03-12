@@ -1,0 +1,3 @@
+##### § 117.3 Payment of taxes of Indians under 21 years of age. #####
+
+All taxes assessed against the restricted lands of Indians less than 21 years of age shall be paid by the superintendent direct to the collector from the rents and income derived from such lands, and the balance, if any, of such rents and income shall be paid to the living parents or parent. If the parents are separated, the balance shall be paid to the parent having custody of the Indian under 21 years of age. All other taxes for which an Indian under 21 years of age may be liable shall be paid from his surplus funds.

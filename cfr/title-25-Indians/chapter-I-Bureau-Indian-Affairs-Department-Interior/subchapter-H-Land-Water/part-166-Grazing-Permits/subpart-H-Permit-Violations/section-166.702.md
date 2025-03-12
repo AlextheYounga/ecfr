@@ -1,0 +1,7 @@
+##### § 166.702 Can a permit provide for negotiated remedies in the event of a permit violation? #####
+
+(a) A permit of tribal land may provide the tribe with certain negotiated remedies in the event of a permit violation, including the power to terminate the permit. A permit of individually-owned Indian land may provide the individual Indian landowners with similar remedies, so long as the permit also specifies the manner in which those remedies may be exercised by or on behalf of the Indian landowners. Any notice of violation must be provided by written notice.
+
+(b) The negotiated remedies described in paragraph (a) of this section will apply in addition to the cancellation remedy available to us under § 166.705(c) of this subpart. If the permit specifically authorizes us to exercise any negotiated remedies on behalf of the Indian landowners, the exercise of such remedies may substitute for cancellation.
+
+(c) A permit may provide for permit disputes to be resolved in tribal court or any other court of competent jurisdiction, or through arbitration or some other alternative dispute resolution method. We may not be bound by decisions made in such forums, but we will defer to any ongoing proceedings, as appropriate, in deciding whether to exercise any of the remedies available to us under § 166.705 of this subpart.

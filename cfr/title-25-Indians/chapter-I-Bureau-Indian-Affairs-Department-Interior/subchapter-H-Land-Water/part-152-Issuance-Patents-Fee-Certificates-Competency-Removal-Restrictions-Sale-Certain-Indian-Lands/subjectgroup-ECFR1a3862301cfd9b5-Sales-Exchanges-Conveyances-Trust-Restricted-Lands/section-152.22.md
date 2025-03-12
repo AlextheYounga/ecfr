@@ -1,0 +1,5 @@
+##### § 152.22 Secretarial approval necessary to convey individual-owned trust or restricted lands or land owned by a tribe. #####
+
+(a) *Individual lands.* Trust or restricted lands, except inherited lands of the Five Civilized Tribes, or any interest therein, may not be conveyed without the approval of the Secretary. Moreover, inducing an Indian to execute an instrument purporting to convey any trust land or interest therein, or the offering of any such instrument for record, is prohibited and criminal penalties may be incurred. (See 25 U.S.C. 202 and 348.)
+
+(b) *Tribal lands.* Lands held in trust by the United States for an Indian tribe, lands owned by a tribe with Federal restrictions against alienation and any other land owned by an Indian tribe may only be conveyed where specific statutory authority exists and then only with the approval of the Secretary unless the Act of Congress authorizing sale provides that approval is unnecessary. (See 25 U.S.C. 177.)

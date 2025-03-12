@@ -1,0 +1,3 @@
+##### § 181.3 Am I eligible to receive a program grant? #####
+
+The Indian Highway Safety Program grant is available to any federally recognized tribe. Because of the limited financial resources available for the program, the Bureau of Indian Affairs (BIA) is unable to award grants to all applicants. Furthermore, some grant recipients may only be awarded a grant to fund certain aspects of their proposed tribal projects.

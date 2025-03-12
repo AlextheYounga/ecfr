@@ -1,0 +1,3 @@
+##### § 700.307 Request for hearings. #####
+
+Hearing requests shall be made in person or by letter and must be received by the Commission within thirty days after the notice letter was received, the personal notice was given, or if an explanatory conference is held, after the decision of the Certifying Officer. The request shall also contain a specific statement indicating the basis for the request.

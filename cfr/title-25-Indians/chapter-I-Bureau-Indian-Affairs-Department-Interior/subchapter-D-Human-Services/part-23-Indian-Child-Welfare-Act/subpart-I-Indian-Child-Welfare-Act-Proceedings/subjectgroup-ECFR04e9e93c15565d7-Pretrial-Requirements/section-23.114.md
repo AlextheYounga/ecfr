@@ -1,0 +1,5 @@
+##### § 23.114 What are the requirements for determining improper removal? #####
+
+(a) If, in the course of any child-custody proceeding, any party asserts or the court has reason to believe that the Indian child may have been improperly removed from the custody of his or her parent or Indian custodian, or that the Indian child has been improperly retained (such as after a visit or other temporary relinquishment of custody), the court must expeditiously determine whether there was improper removal or retention.
+
+(b) If the court finds that the Indian child was improperly removed or retained, the court must terminate the proceeding and the child must be returned immediately to his or her parent or Indian custodian, unless returning the child to his parent or Indian custodian would subject the child to substantial and immediate danger or threat of such danger.

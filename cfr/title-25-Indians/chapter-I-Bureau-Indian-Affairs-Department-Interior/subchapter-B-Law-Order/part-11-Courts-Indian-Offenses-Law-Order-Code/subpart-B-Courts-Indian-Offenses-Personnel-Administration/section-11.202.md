@@ -1,0 +1,3 @@
+##### § 11.202 How is a magistrate of the Court of Indian Offenses removed? #####
+
+Any magistrate of a Court of Indian Offenses may be suspended, dismissed or removed by the Assistant Secretary—Indian Affairs, or his or her designee, for cause, upon the written recommendation of the tribal governing body, and, in the case of multi-tribal courts, upon the recommendation of a majority of the tribal governing bodies of the tribes under the jurisdiction of a Court of Indian Offenses, or pursuant to his or her own discretion.

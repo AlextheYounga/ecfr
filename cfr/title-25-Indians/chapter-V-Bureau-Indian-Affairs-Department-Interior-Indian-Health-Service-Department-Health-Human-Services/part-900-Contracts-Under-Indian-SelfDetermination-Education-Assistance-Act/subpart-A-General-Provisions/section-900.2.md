@@ -1,0 +1,13 @@
+##### § 900.2 Purpose and scope. #####
+
+(a) *General.* These regulations codify uniform and consistent rules for contracts by the Department of Health and Human Services (DHHS) and the Department of the Interior (DOI) in implementing title I of the Indian Self-Determination and Education Assistance Act, Public Law 93-638, 25 U.S.C. 450 *et seq.,* as amended and sections 1 through 9 preceding that title.
+
+(b) *Programs funded by other Departments and agencies.* Included under this part are programs administered (under current or future law or interagency agreement) by the DHHS and the DOI for the benefit of Indians for which appropriations are made to other Federal agencies.
+
+(c) *This part included in contracts by reference.* Each contract, including grants and cooperative agreements in lieu of contracts awarded under section 9 of the Act, shall include by reference the provisions of this part, and any amendment thereto, and they are binding on the Secretary and the contractor except as otherwise specifically authorized by a waiver under section 107(e) of the Act.
+
+(d) *Freedom of Information.* Access to records maintained by the Secretary is governed by the Freedom of Information Act (5 U.S.C. 552) and other applicable Federal law. Except for previously provided copies of tribal records that the Secretary demonstrates are clearly required to be maintained as part of the record keeping systems of the DHHS or the DOI, or both, records of the contractors (including archived records) shall not be considered Federal records for the purpose of the Freedom of Information Act. The Freedom of Information Act does not apply to records maintained solely by Indian tribes and tribal organizations.
+
+(e) *Privacy Act.* Section 108(b) of the Indian Self-Determination Act states that records of the tribal government or tribal organizations shall not be considered Federal records for the purposes of the Privacy Act.
+
+(f) *Information collection.* The Office of Management and Budget has approved, under 44 U.S.C. chapter 35, the information collection requirements in part 900 under assigned control number 1076-0136. The information for part 900 is being collected and used by the Departments to determine applicant eligibility, evaluate applicant capabilities, protect the service population, safeguard Federal funds and other resources, and permit the Departments to administer and evaluate contract programs.

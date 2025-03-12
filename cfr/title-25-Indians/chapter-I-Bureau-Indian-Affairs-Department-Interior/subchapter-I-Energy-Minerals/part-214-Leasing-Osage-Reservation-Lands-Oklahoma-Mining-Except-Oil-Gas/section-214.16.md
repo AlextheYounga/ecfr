@@ -1,0 +1,3 @@
+##### § 214.16 Settlement of damages. #####
+
+Any person, other than a lessee or an allottee or the heirs of a deceased allottee, claiming an interest in any leased tract or in damages thereto must furnish to the officer in charge a statment in writing showing his interest, and failure to furnish such statement shall constitute a waiver of notice and estop said person from claiming any part of such damages after the same shall have been disbursed.

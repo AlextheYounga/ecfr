@@ -1,0 +1,5 @@
+##### § 89.34 Tentative form of contract. #####
+
+The principal officer of any one of the Choctaw, Cherokee, Creek, Seminole, and Chickasaw Tribes may, if he desires, obtain a tentative form of contract by written application to the office of the appropriate Agency Superintendent. Requests for forms for an attorney contract should include a statement reciting whether the attorney is desired as a general legal counsel in connection with the business of the tribe or as counsel in respect to specific problems on which legal counsel is desired, or specific matters requiring representation in court or before committees of Congress and the Departments of Government. Requests for forms for technical service contracts should include a statement of the particular type of service required and the purpose for which it is needed. The anticipated term of each proposed contract should be stated.
+
+[37 FR 10440, May 23, 1972. Redesignated at 47 FR 13327, Mar. 30, 1982]

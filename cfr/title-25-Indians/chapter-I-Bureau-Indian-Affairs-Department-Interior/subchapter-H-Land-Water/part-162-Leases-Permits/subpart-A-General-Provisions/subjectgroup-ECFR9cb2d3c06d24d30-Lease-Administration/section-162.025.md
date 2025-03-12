@@ -1,0 +1,3 @@
+##### § 162.025 May decisions under this part be appealed? #####
+
+Appeals from BIA decisions under this part may be taken under part 2 of this chapter, except for deemed approvals and as otherwise provided in this part. For purposes of appeals from BIA decisions under this part, “interested party” is defined as any person whose own direct economic interest is adversely affected by an action or decision. Our decision to disapprove a lease may be appealed only by an Indian landowner. Our decision to disapprove any other lease document may be appealed only by the Indian landowners or the lessee.

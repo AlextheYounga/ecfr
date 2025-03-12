@@ -1,0 +1,3 @@
+##### § 161.717 What happens if BIA does not collect enough money to satisfy the penalty? #####
+
+BIA will send written notice to the trespasser demanding immediate settlement and advising the trespasser that unless settlement is received within 5 business days from the date of receipt, BIA will forward the case for appropriate legal action. BIA may send a copy of the notice to the Navajo Nation, permittee, and any known lien holders.

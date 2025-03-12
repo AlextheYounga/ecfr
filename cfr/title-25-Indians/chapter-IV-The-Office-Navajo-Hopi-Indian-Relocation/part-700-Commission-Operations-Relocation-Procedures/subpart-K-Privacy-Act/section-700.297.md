@@ -1,0 +1,5 @@
+##### § 700.297 Statements of disagreement. #####
+
+(a) *Filing of statements.* If the determination of the Executive Director under § 700.295 rejects in whole or part, a petitioned for amendment, the individual submitting the petition may file with the system manager for the system containing the challenged record, a concise written statement setting forth the reasons for his disagreement with the determination of the Department.
+
+(b) *Disclosure of statements.* In any disclosure of a record containing information about which an individual has filed a statement of disagreement under this section occurring after the filing of the statement, the disputed portion of the record will be clearly noted and the recipient shall be provided copies of the statement of disagreement. If appropriate, a concise statement of the reasons of the Commission for not making the requested amendments may also be provided to recipient.

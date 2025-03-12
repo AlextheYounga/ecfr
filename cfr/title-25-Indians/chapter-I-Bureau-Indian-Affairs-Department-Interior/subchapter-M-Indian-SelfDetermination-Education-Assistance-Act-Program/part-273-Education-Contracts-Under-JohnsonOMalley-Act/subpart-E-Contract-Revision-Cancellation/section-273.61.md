@@ -1,0 +1,3 @@
+##### § 273.61 Contract revision or amendment. #####
+
+Any contract made under this part may be revised or amended as deemed necessary to carry out the purposes of the program being contracted. A contractor may make a written request for a revision or amendment of a contract to the Bureau contracting officer. However, no program approved by the Indian Education Committee shall be altered from the time of its original approval to the end of the contract period without the written approval of the Committee.

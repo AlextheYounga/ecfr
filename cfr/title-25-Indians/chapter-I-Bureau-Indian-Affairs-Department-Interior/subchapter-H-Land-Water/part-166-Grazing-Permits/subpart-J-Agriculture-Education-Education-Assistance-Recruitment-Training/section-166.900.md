@@ -1,0 +1,9 @@
+##### § 166.900 How are the Indian agriculture education programs operated? #####
+
+(a) The purpose of the Indian agriculture education programs is to recruit and develop promising Indian and Alaska Natives who are enrolled in secondary schools, tribal or Alaska Native community colleges, and other post-secondary schools for employment as professional resource managers and other agriculture-related professionals by approved organizations.
+
+(b) We will operate the student educational employment program as part of our Indian agriculture education programs in accordance with the provisions of 5 CFR 213.3202(a) and (b).
+
+(c) We will establish an education committee to coordinate and carry out the agriculture education assistance programs and to select participants for all agriculture education assistance programs. The committee will include at least one Indian professional educator in the field of natural resources or agriculture, a personnel specialist, a representative of the Intertribal Agriculture Council, and a natural resources or agriculture professional from the BIA and a representative from American Indian Higher Education Consortium. The committee's duties will include the writing of a manual for the Indian and Alaska Native Agriculture Education and Assistance Programs.
+
+(d) We will monitor and evaluate the agriculture education assistance programs to ensure that there are adequate Indian and Alaska Native natural resources and agriculture-related professionals to manage Indian natural resources and agriculture programs by or for tribes and Alaska Native Corporations. We will identify the number of participants in the intern, student educational employment program, scholarship, and outreach programs; the number of participants who completed the requirements to become a natural resources or agriculture-related professional; and the number of participants completing advanced degree requirements.

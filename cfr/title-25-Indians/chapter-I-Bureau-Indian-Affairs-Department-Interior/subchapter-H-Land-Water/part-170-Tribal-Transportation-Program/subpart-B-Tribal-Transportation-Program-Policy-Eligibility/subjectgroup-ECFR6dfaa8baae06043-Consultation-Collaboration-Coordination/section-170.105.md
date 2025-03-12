@@ -1,0 +1,3 @@
+##### § 170.105 When must State governments consult with Tribes? #####
+
+As identified in 23 U.S.C. 134 and 135, States will develop their STIP in consultation with Tribes in the area where the project is located. This includes providing for a process that coordinates transportation planning efforts carried out by the State with similar efforts carried out by Tribes. Regulations governing STIPs can be found at 23 CFR part 450.

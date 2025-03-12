@@ -1,0 +1,3 @@
+##### § 273.12 Eligible students. #####
+
+Indian students, from age 3 years through grade(s) 12, except those who are enrolled in Bureau or sectarian operated schools, shall be eligible for benefits provided by a contract pursuant to this part if they are1/4 or more degree Indian blood and recognized by the Secretary as being eligible for Bureau services. Priority shall be given to contracts (a) which would serve Indian students on or near reservations and (b) where a majority of such Indian students will be members of the tribe(s) of such reservations (as defined in § 273.2(o)).

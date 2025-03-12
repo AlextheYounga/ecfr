@@ -1,0 +1,3 @@
+##### § 11.902 Non-criminal proceedings. #####
+
+No adjudication upon the status of any minor in the jurisdiction of the children's court shall be deemed criminal or be deemed a conviction of a crime, unless the children's court refers the matter to the Court of Indian Offenses. Neither the disposition nor evidence given before the children's court shall be admissible as evidence against the child in any proceeding in another court.

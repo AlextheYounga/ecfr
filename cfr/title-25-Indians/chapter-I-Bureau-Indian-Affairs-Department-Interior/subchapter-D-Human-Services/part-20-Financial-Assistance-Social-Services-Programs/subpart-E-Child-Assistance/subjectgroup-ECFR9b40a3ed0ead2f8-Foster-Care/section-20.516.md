@@ -1,0 +1,3 @@
+##### § 20.516 How are child abuse, neglect or exploitation cases to be handled? #####
+
+Reported child abuse, neglect or exploitation cases and the requirement for background clearances will be handled in accordance with the Indian Child Protection and Family Violence Prevention Act of 1990, Public Law 101-630, 25 CFR part 63, federal and/or state laws where applicable, and tribal codes which protect Indian children and victims of domestic violence. This includes developing and maintaining Child Protection Teams in accordance to Public Law 101-630 and collection of child abuse, neglect and exploitation data according to Public Law 99-570. Those cases referred by the state will be handled according to the Indian Child Welfare Act, Public Law 95-608, and 25 CFR part 23.

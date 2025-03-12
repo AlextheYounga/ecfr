@@ -1,0 +1,3 @@
+##### § 214.22 Serving of notices. #####
+
+Wherever notice is provided for in this part it shall be sufficient if notice has been mailed to the last known place of address of the party, and time shall begin to run with the day next ensuing after the mailing or from the date of delivery of personal notice; but where the party is outside the State of Oklahoma the officer in charge may, in his discretion, increase the time allowed.

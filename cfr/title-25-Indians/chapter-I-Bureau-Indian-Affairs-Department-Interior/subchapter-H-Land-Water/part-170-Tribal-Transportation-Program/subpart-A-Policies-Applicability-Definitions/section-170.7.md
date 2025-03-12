@@ -1,0 +1,3 @@
+##### § 170.7 Information collection. #####
+
+The information collection requirements contained in this part have been approved by the Office of Management and Budget under 44 U.S.C. *et seq.* and assigned control number 1076-0161. A Federal agency may not conduct or sponsor, and you are not required to respond to, a collection of information unless it displays a currently valid OMB control number. Comments and suggestions on the burden estimate or any other aspect of the information collection should be sent to the Information Collection Clearance Officer, Bureau of Indian Affairs, 1849 C Street NW., Washington, DC 20240.

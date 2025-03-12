@@ -1,0 +1,3 @@
+##### § 1000.247 May the Secretary require design provisions and other terms and conditions for construction programs or activities included in an AFA under section 403(c) of the Act? #####
+
+Yes, the relevant bureau may provide to the Tribe/Consortium project design criteria and other terms and conditions that are required for such a project. The project must be completed in accordance with the terms and conditions set forth in the AFA.

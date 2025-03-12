@@ -1,0 +1,3 @@
+##### § 515.9 Fees. #####
+
+The Commission shall not charge an individual for the costs of making a search for a record or the costs of reviewing the record. When the Commission makes a copy of a record as a necessary part of reviewing the record, the Commission shall not charge the individual for the cost of making that copy. Otherwise, the Commission may charge a fee sufficient to cover the cost of duplication.

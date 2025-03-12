@@ -1,0 +1,3 @@
+##### § 900.135 May the time frames for action set out in this subpart be reduced? #####
+
+Yes. The time frames in this subpart are intended to be maximum times and may be reduced based on urgency and need, by agreement of the parties. If the Indian tribe or tribal organization requests reduced time frames for action due to unusual or special conditions (such as limited construction periods), the Secretary shall make a good faith effort to accommodate the requested time frames.

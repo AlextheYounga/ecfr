@@ -1,0 +1,3 @@
+##### § 286.4 Eligible economic enterprises. #####
+
+An economic enterprise as defined in § 286.1(k) is eligible to receive equity capital through non-reimbursable grants if it is or will be self-sustaining and profit-oriented and will create employment for Indians. In the case of Indian-owned cooperative associations, they must distribute or allocate profits for later distribution, to members who are patrons, unless prohibited from doing so by law.

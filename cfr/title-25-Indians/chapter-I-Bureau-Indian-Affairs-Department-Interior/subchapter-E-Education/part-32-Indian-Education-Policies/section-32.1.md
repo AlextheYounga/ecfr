@@ -1,0 +1,3 @@
+##### § 32.1 Purpose and scope. #####
+
+The purpose of this part is to state the policies to be followed by all schools and education programs under the jurisdiction of the Bureau of Indian Affairs. Contract schools operated by Indian Tribes or Alaska Native entities may develop their independent policies, consistent with contractual obligations, or adhere to these. The adherence to the appropriate policies shall reflect the best interests of the student, the Federal government, the Tribes and Alaska Native entities, and shall be based on educationally sound judgment.

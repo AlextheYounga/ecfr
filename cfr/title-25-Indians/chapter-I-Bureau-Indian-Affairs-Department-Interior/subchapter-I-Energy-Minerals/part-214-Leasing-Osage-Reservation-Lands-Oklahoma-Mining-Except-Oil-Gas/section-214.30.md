@@ -1,0 +1,3 @@
+##### § 214.30 Lessees must appoint local representative. #####
+
+Before actual drilling or development operations are commenced on leased lands, the lessee or assignee shall appoint a local or resident representative within the State, on whom the superintendent or other authorized representative of the department may serve notice or otherwise communicate with in securing compliance with the regulations in this part and shall notify the superintendent of the name and post office address of the representative so appointed.

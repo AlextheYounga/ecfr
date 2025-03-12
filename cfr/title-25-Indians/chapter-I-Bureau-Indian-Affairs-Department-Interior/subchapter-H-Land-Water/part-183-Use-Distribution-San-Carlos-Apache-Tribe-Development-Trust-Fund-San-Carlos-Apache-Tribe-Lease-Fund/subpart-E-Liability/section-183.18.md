@@ -1,0 +1,3 @@
+##### § 183.18 Information collection requirements #####
+
+The information collection requirements contained in this part do not meet the requirements of “ten or more persons” annually; therefore, the Office of Management and Budget does not need to clear the collection. You may direct comments concerning this information collection to the Bureau of Indian Affairs, Information Collection Control Officer, 1849 C Street, NW, Washington, DC 20240.

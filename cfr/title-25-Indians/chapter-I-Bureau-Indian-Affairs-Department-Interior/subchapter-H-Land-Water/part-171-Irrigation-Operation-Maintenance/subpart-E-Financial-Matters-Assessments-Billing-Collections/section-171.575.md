@@ -1,0 +1,3 @@
+##### § 171.575 Can BIA charge me a special assessment? #####
+
+Yes. We will make every reasonable effort to avoid charging special assessments. However, if we determine that we have a significant uncontrolled cost due to an urgency, we may charge you a special assessment. We will only charge special assessments when there are inadequate project funds available, including any emergency reserve funds held by the project.The special assessment rate will be calculated by dividing the total uncontrolled cost, or some portion of that cost, by the total number of assessable acres. Your individual special assessment will be equal to the special assessment rate multiplied by the number of assessable acres in your farm unit.

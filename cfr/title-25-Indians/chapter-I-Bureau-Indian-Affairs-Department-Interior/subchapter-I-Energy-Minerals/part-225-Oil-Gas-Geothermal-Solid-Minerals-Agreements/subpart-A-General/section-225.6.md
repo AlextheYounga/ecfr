@@ -1,0 +1,3 @@
+##### § 225.6 Authority and responsibility of the Minerals Management Service (MMS). #####
+
+The functions of the MMS for reporting, accounting, and auditing are found in 30 CFR chapter II, subchapters A and C. These regulations, unless specifically stated otherwise in this part or in other regulations, apply to all minerals agreements approved under this part. To the extent the parties to a minerals agreement are able to provide reasonable provisions satisfactorily addressing the issues or functions governed by the MMS regulations relating to valuation of mineral product, method of payment, accounting procedures, and auditing procedures, the Secretary may approve alternate provisions in a minerals agreement.

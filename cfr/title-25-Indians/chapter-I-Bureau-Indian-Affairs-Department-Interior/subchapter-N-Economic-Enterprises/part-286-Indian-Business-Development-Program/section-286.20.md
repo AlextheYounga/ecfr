@@ -1,0 +1,3 @@
+##### § 286.20 Disbursement of grant funds. #####
+
+Unless otherwise provided by an agreement between a lender and the grantee, the Assistant Secretary may in his discretion advance grant funds directly to a grantee. He may require the funds to be deposited in a special account at the appropriate Agency headquarters office or deposited in a joint account in a bank and disbursed as needed by the grantee. The terms of a lender's loan agreement may require the lender's approval before disbursement of the funds. Grant funds will not be disbursed to a grantee until the Assistant Secretary has been informed by the lender that a loan has been approved for the grantee in the amount of the loan financing needed.

@@ -1,0 +1,5 @@
+##### § 10.1 Why are policies and standards needed for Indian country detention programs? #####
+
+Policies and standards are required to ensure that all Bureau of Indian Affairs (BIA) and tribal entities that receive Federal funding for the operation, maintenance, design and construction or renovation of detention facilities, community residential, or holding facilities are supporting constitutional rights and are complying with the Indian Law Enforcement Reform Act of 1990. Self-governance tribes and tribes with limited jurisdiction are encouraged to follow the regulations in this part, and other BIA manuals and handbooks. The provision for funding tribes for detention programs under the Indian Alcohol and Substance Abuse Prevention and Treatment Act, Public Law 99-570, (25 U.S.C. 2453) requires standards and procedures for such facilities.
+
+[61 FR 34374, July 2, 1996; 61 FR 65473, Dec. 13, 1996]

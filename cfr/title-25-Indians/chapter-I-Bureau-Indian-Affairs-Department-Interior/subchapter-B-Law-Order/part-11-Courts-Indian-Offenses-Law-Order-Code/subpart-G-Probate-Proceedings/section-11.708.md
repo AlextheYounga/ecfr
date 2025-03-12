@@ -1,0 +1,3 @@
+##### § 11.708 Sale of property. #####
+
+After filing the inventory and appraisal, the executor or administrator may petition the court for authority to sell personal property of the estate for purposes of paying the expenses of last illness and burial expenses, expenses of administration, claims, if any, against the estate, and for the purpose of distribution. If, in the court's judgment, such sale is in the best interest of the estate, the court shall order such sale and prescribe the terms upon which the property shall be sold.

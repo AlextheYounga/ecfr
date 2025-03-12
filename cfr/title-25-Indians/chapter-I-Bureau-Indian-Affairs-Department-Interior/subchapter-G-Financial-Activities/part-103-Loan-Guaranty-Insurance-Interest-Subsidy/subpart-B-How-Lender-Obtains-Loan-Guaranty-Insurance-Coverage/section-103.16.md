@@ -1,0 +1,5 @@
+##### § 103.16 How does BIA approve or reject a loan guaranty or insurance application? #####
+
+(a) BIA reviews each guaranty or insurance application, and may evaluate each loan application independently from the lender. BIA bases its loan guaranty or insurance decisions on many factors, including compliance with this part, and whether there is a reasonable prospect of loan repayment from business cash flow, or if necessary, from liquidating loan collateral. Lenders are expected to obtain a first lien security interest in enough collateral to reasonably secure repayment of each loan guaranteed or insured under the Program, to the extent that collateral is available.
+
+(b) BIA approves applications by issuing an approval letter, followed by the procedures in § 103.18. If the guaranty or insurance application is incomplete, BIA may return the application to the lender, or hold the application while the lender submits the missing information. If BIA denies the application, it will provide the lender with a written explanation, with a copy to the borrower.

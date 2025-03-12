@@ -1,0 +1,3 @@
+##### § 226.39 Measurement of gas. #####
+
+All gas, required to be measured, shall be measured by meter (preferably of the orifice meter type) unless otherwise agreed to by the Superintendent. All gas meters must be approved by the Superintendent and installed at the expense of Lessee or purchaser at such places as may be agreed to by the Superintendent. For computing the volume of all gas produced, sold or subject to royalty, the standard of pressure shall be 14.65 pounds to the square inch, and the standard of temperature shall be 60 degrees F. All measurements of gas shall be adjusted by computation to these standards, regardless of the pressure and temperature at which the gas was actually measured, unless otherwise authorized in writing by the Superintendent.

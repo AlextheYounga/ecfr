@@ -1,0 +1,3 @@
+##### § 23.51 Grant carry-over authority. #####
+
+Unless restricted by appropriation, and contingent upon satisfactory program evaluations from the appropriate area or agency office for an existing program, grantees are authorized to carry over unliquidated grant funds which remain at the end of a budget period. Such funds may be carried over for a maximum period of two years beyond the initial grant funding period and must be utilized only for the intent, purpose and scope of the original grant. These carry-over grant funds shall not be reprogrammed into other appropriation activities or subactivities. Funds carried over into another fiscal year will be added to the grantee's new fiscal year funding amount.

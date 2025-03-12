@@ -1,0 +1,3 @@
+##### § 216.5 Basis for denial of a permit or lease. #####
+
+An application for a permit or lease to conduct exploratory or mining operations may be denied any applicant who has forfeited a required bond because of failure to comply with a mining plan. However, a permit or lease may not be denied an applicant because of the forfeiture of a bond if the lands disturbed under his previous permit or lease have subsequently been reclaimed without cost to the lessor or the United States.

@@ -1,0 +1,3 @@
+##### § 286.21 Return of unused funds. #####
+
+Grantees will be required to return unused grant funds to the Assistant Secretary if the economic enterprise for which the grant was approved is not initiated, i.e., lease obtained, if needed, construction started, equipment purchased or other, within the time stated in the grant agreement. The Assistant Secretary may, if warranted by circumstances beyond the control of the grantee, extend the time to allow for initiation of the enterprise, provided there is assurance the enterprise will be initiated forthwith within the extended time period. The Assistant Secretary will notify the lender in writing of a proposed action to require the return of grant funds or of a proposal to extend the time.

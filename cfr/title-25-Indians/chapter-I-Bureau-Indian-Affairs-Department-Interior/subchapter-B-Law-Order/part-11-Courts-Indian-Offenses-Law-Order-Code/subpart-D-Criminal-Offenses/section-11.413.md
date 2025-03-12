@@ -1,0 +1,3 @@
+##### § 11.413 Receiving stolen property. #####
+
+A person is guilty of receiving stolen property, a misdemeanor, if he or she purposely receives, retains, or disposes of movable property of another knowing that it has been stolen, or believing that it has probably been stolen, unless the property is received, retained, or disposed with purpose to restore it to the owner. *Receiving* means acquiring possession, control or title, or lending on the security of the property.

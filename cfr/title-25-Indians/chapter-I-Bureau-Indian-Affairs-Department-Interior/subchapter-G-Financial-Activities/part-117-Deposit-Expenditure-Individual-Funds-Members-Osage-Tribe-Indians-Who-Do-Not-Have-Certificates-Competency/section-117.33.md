@@ -1,0 +1,3 @@
+##### § 117.33 Signature of illiterates. #####
+
+An Indian who cannot write shall be required to endorse checks payable to his order and sign receipts or other documents by making an imprint of the ball of the right thumb (or the left, if he has lost his right) after his name. This imprint shall be clear and distinct, showing the central whorl and striations and witnessed by two reputable persons whose addresses shall be given opposite or following their names. An Indian may sign by marking “X” before two witnesses where he is unable to attach his thumb mark for physical reasons.

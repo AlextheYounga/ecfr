@@ -1,0 +1,5 @@
+##### § 700.801 Purpose. #####
+
+(a) The regulations in this subpart implement provisions of the Archaeological Resources Protection Act of 1979 (16 U.S.C. 470aa-11) by establishing the uniform definitions, standards, and procedures to be followed by the O.N.H.I.R. New Lands Manager in providing protection for archaeological resources, located on the New Lands. The regulations enable Federal land managers to protect archaeological resources, taking into consideration provisions of the American Indian Religious Freedom Act (92 Stat. 469; 43 U.S.C. 1996), through permits authorizing excavation and/or removal of archaeological resources, through civil penalties for unauthorized excavation and/or removal, through provisions for the preservation of archaeological resource collections and data, and through provisions for ensuring confidentiality of information about archaeological resources.
+
+(b) The regulations in this part do not impose any new restrictions on activities permitted under other laws, authorities, and regulations relating to mining, mineral leasing, reclamation, and other multiple uses of the public lands.

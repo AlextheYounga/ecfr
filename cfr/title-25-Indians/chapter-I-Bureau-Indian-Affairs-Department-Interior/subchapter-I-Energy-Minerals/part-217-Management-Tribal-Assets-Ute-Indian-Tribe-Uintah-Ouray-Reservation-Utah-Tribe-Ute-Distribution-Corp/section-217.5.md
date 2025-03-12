@@ -1,0 +1,3 @@
+##### § 217.5 Management decisions. #####
+
+In arriving at management decisions concerning the assets, the business committee shall be entitled to cast 72.83814 votes and the board of directors shall be entitled to cast 27.16186 votes. Any total number of votes cast exceeding 50 shall be sufficient to determine an issue submitted to the joint managers for resolution. A majority of votes cast will decide an issue.

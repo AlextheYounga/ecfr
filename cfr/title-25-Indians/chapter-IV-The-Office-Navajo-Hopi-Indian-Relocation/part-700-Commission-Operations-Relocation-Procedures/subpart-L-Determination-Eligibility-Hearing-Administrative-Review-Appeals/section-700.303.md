@@ -1,0 +1,9 @@
+##### § 700.303 Initial Commission determinations. #####
+
+(a) Initial Commission Determination concerning individual eligibility or benefits for any person who has filed a claim for benefits or for granting of life estate leases shall be made by the Certifying Officer. The Determination shall include the amount, if any, to which the individual is entitled, and shall state the reasons therefor. Such Determination shall be communicated to the Applicant by certified letter or in person by Commission staff. A record of personal notice shall be maintained by the Commission.
+
+(b) An explanatory conference shall be scheduled by and with the Certifying Officer, if requested by the Applicant or the Certifying Officer, within thirty days of the communication of the Determination; the right to a hearing is not dependent on the holding of such a conference. The Certifying Officer may reverse, amend, or leave standing the Initial Determination as a result of such conference: *Provided, however,* his/her decision shall be communicated in writing to the Applicant by certified letter or in person by Commission staff within five days after such conference.
+
+(c) Communications of Determinations to the Applicant as provided for in § 700.303(a) shall include an explanation of the availability of grievance procedures, including hearings and representation of counsel and the fact that a hearing must be requested within 30 (thirty) days of receipt of the determination.
+
+(d) No decision which at the time of its rendition is subject to appeal to the Commission shall be considered final agency action subject to judicial review under 5 U.S.C. 704, *Provided* that in the event of a whole or partial denial, no benefits shall be paid unless and until said Determination is reversed or modified as provided for herein.

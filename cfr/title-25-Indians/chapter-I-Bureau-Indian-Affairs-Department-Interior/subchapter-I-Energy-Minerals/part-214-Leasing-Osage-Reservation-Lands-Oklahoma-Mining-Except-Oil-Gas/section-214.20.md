@@ -1,0 +1,3 @@
+##### § 214.20 Annual reports by corporate lessees. #####
+
+Lessees and assignees must submit to the officer in charge on January 1, of each year and at such other times as may be required by the Secretary of the Interior, a statement containing the information called for in § 214.3(a) and (f) and also showing any changes in officers or changes in or additions to stockholders. At any time individual stockholders may be required to show to the satisfaction of the Secretary of the Interior in what companies or with what persons or firms they are interested in mining leases on the Osage Reservation and whether they hold such stock or interest for themselves or in trust.

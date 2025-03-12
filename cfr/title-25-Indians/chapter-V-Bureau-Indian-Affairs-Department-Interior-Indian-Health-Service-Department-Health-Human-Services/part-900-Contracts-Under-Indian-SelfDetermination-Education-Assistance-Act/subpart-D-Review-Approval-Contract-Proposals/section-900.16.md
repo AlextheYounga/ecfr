@@ -1,0 +1,3 @@
+##### § 900.16 How long does the Secretary have to review and approve the proposal and award the contract, or decline a proposal? #####
+
+The Secretary has 90 days after receipt of a proposal to review and approve the proposal and award the contract or decline the proposal in compliance with section 102 of the Act and subpart E. At any time during the review period the Secretary may approve the proposal and award the requested contract.

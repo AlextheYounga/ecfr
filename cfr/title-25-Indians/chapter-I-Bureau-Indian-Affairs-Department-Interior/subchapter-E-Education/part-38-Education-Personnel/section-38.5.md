@@ -1,0 +1,13 @@
+##### § 38.5 Qualifications for educators. #####
+
+(a) *Qualifications related to positions.* Job qualification requirements shall be at least equivalent to those established by the appropriate licensing and certification authorities of the State in which the position is located.
+
+(b) *Qualifications related to individuals.* An applicant for an education position must establish that he/she meets the requirements of the position by submitting an application and a college transcript, as appropriate, to the local school supervisor, Agency Superintendent for Education (ASE), Area Education Programs Administrator (AEPA), or Director and appearing for an interview if requested by the official involved. The applicant's education and experience will be subject to verification by the ASE or the AEPA. Employees who falsify experience and employment history may be subject to disciplinary action or discharge from the position to which he/she is appointed.
+
+(1) School boards may waive formal education and State certification requirements for tribal members who are hired to teach tribal culture and language.
+
+(2) Tribal members appointed under this waiver may not have their basic pay rate set higher than the rate paid to qualified educators in teaching positions at that school.
+
+(c) *Identification of qualified individuals.* The Director shall require each ASE, AEPA, and other appropriate local official in the education program organization to maintain lists of qualified and interviewed applicants for each of the kinds of established positions. Applications on file shall be purged annually. Applicants whose qualifications are established and who indicate an interest in working in specified locations will be included on those local applicant lists. The Director shall maintain a national list of qualified applicants for each of the kinds of positions established. Applicants whose qualifications are established and who either do not indicate an interest in a specific location or indicate an interest in working in any location will be entered on the national list. The national list is a secondary source of applicants.
+
+(d) *Special recruitment and training for Indian educators.* The Director shall review annually the Bureau's “Recruitment of Indian Educators Program” and update as necessary. The Director will define individual training plans for trainees and subsequent promotional opportunities for advancement based upon satisfactory job performance in this program.

@@ -1,0 +1,3 @@
+##### § 181.1 Purpose. #####
+
+This part will assist the BIA Indian Highway Safety Program Administrator to disperse funds DOT/NHTSA has made available. The funds assist selected tribes with their proposed Highway Safety Projects. These projects are designed to reduce traffic crashes, reduce impaired driving crashes, increase occupant protection education, provide Emergency Medical Service training, and increase police traffic services.

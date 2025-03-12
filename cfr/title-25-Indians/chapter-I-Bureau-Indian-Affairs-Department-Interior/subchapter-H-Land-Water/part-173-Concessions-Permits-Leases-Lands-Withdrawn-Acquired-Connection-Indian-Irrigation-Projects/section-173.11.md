@@ -1,0 +1,3 @@
+##### § 173.11 Supervision of permittees' rates. #####
+
+All rates or charges collected by a permittee for services rendered by the permittee in the operation of the concession granted under a permit, must be submitted through the project engineer to the Secretary for approval. Copies of the approved rate schedule shall be posted in at least two conspicuous places on the premises. Approved rates may not be changed without first obtaining in the same manner a change in the rate schedule. The Secretary shall have the right to readjust rates charged from time to time and to amend or change any permit issued. Failure to comply with the approved rates automatically makes the permit subject to cancellation.

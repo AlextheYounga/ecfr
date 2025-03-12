@@ -1,0 +1,3 @@
+##### § 224.42 How does the Paperwork Reduction Act affect these regulations? #####
+
+The information collected from the public is cleared and covered by OMB Control Number 1076-0167. The sections of this rule which have information collections are §§ 224.53, 224.57(d), 224.61, 224.63, 224.64, 224.65, 224.68(d), 224.76, 224.83, 224.87, 224.109, 224.112, 224.120(a), 224.139(b), 224.156, and 224.173. Please note that a Federal Agency may not conduct or sponsor, and you are not required to respond to, a collection of information unless it displays a currently valid OMB control number.

@@ -1,0 +1,7 @@
+##### § 23.108 Who makes the determination as to whether a child is a member, whether a child is eligible for membership, or whether a biological parent is a member of a Tribe? #####
+
+(a) The Indian Tribe of which it is believed the child is a member (or eligible for membership and of which the biological parent is a member) determines whether the child is a member of the Tribe, or whether the child is eligible for membership in the Tribe and a biological parent of the child is a member of the Tribe, except as otherwise provided by Federal or Tribal law.
+
+(b) The determination by a Tribe of whether a child is a member, whether a child is eligible for membership, or whether a biological parent is a member, is solely within the jurisdiction and authority of the Tribe, except as otherwise provided by Federal or Tribal law. The State court may not substitute its own determination regarding a child's membership in a Tribe, a child's eligibility for membership in a Tribe, or a parent's membership in a Tribe.
+
+(c) The State court may rely on facts or documentation indicating a Tribal determination of membership or eligibility for membership in making a judicial determination as to whether the child is an “Indian child.” An example of documentation indicating membership is a document issued by the Tribe, such as Tribal enrollment documentation.

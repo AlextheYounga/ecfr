@@ -1,0 +1,3 @@
+##### § 90.46 Notification of election of tribal officers. #####
+
+The Superintendent of the Osage Indian Agency shall in due time give written notice to candidates of their election to the various tribal offices and as soon thereafter as practicable such tribal officers shall appear and subscribe to oath of office before an officer qualified to administer oaths and such oaths shall be delivered to the Superintendent and by him transmitted to the Commissioner of Indian Affairs.

@@ -1,0 +1,5 @@
+##### § 161.202 How are range units established? #####
+
+(a) BIA, with the concurrence of the Navajo Nation, will establish range units on the Navajo Partitioned Lands to provide unified areas for which range management plans can be developed to improve and maintain soil and forage resources. Physical land features, watersheds, drainage patterns, vegetation, soil, resident concentration, problem areas, historical land use patterns, chapter boundaries, special land uses and comprehensive land use planning will be considered in the determination of range unit boundaries.
+
+(b) BIA may modify range unit boundaries with the concurrence of the Navajo Nation. This may include small and/or isolated portions of Navajo Partitioned Lands contiguous to Navajo tribal lands in order to develop more efficient land management.

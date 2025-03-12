@@ -1,0 +1,3 @@
+##### § 307.8 Revocation of license. #####
+
+In the event that the Board, after giving a licensee written notice of charges and affording an opportunity to reply to such charges, orally or in writing, is satisfied that any provision of any license or of the regulations in this part has been violated by any licensee, the Board may revoke the license by notifying the licensee of such revocation, by mail, by telegraph, or in any other manner. Upon notice of such revocation all authority conferred by the license so revoked shall forthwith terminate, but the validity of actions taken while the license was in force shall not be affected.

@@ -1,0 +1,3 @@
+##### § 163.32 Forest development. #####
+
+Forest development pertains to forest land management activities undertaken to improve the sustainable productivity of commercial Indian forest land. The program shall consist of reforestation, timber stand improvement projects, and related investments to enhance productivity of commercial forest land with emphasis on accomplishing on-the-ground projects. Forest development funds will be used to re-establish, maintain, and/or improve growth of commercial timber species and control stocking levels on commercial forest land. Forest development activities will be planned and executed using benefit-cost analyses as one of the determinants in establishing priorities for project funding.

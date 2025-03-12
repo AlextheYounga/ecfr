@@ -1,0 +1,3 @@
+##### § 225.5 Authority and responsibility of the Office of Surface Mining Reclamation and Enforcement (OSMRE). #####
+
+The OSMRE is the regulatory authority for surface coal mining and reclamation operations on Indian lands pursuant to the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1201 *et seq.*). The relevant regulations for surface mining and reclamation operations are found in 30 CFR part 750 and 25 CFR part 216. These regulations, as amended, apply to minerals agreements approved under this part.

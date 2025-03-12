@@ -1,0 +1,5 @@
+##### § 103.21 Who applies for interest subsidy payments, and what is the application procedure? #####
+
+(a) An eligible lender must request interest subsidy payments on behalf of an eligible borrower, after determining that the borrower qualifies. Typically, the lender should include a request for interest subsidy at the time it applies for a guaranty or insurance coverage under the Program. A request for interest subsidy must be supported by the information required in §§ 103.12 and 103.13 (relating to loan guaranty and insurance coverage applications). BIA approves, returns, or rejects interest subsidy requests in the same manner indicated in § 103.16, based on the factors in § 103.20 and BIA's available resources.
+
+(b) BIA's approval of interest subsidy for an insured loan may provide for specific limitations on the manner in which the lender and borrower can modify the loan.

@@ -1,0 +1,3 @@
+##### § 103.14 Can BIA request additional information? #####
+
+BIA may require the lender to provide additional information, whenever BIA believes it needs the information to properly evaluate a new lender, guaranty application, or insurance application. After BIA issues a loan guaranty or insurance coverage, the lender must let BIA inspect the lender's records at any reasonable time for information concerning the Program.

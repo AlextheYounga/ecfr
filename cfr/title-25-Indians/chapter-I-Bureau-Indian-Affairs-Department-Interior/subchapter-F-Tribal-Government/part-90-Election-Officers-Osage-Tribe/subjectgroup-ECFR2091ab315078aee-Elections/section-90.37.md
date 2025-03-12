@@ -1,0 +1,3 @@
+##### § 90.37 Election notices. #####
+
+The election notice shall set forth the place, date and time for holding the election, qualification of voters, method of nominating candidates, and closing date for same, method of locating each name on the ballot and the names of each member of the election board. As soon as possible a copy of the notice of the election, after approval by the Superintendent of the Osage Agency, shall be mailed to each qualified voter at his last known address.

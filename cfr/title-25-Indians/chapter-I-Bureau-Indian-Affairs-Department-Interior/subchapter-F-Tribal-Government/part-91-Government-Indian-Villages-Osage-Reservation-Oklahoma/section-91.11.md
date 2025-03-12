@@ -1,0 +1,7 @@
+##### § 91.11 Domestic animals in village reserves. #####
+
+(a) No livestock shall be permitted to trespass in any village reserve except that unassigned lots or unplatted areas enclosed by adequate fences may be leased by the village committee with the approval of the Superintendent and the proceeds therefrom credited to the account of the village committee. Trespassing livestock may be impounded by the village committee. The village committee shall give notice of impoundment to the owner of the animal, if known, by certified mail or by posting in the village square. The notice shall advise the owner that a $10 charge shall be assessed per day for each animal impounded and a reasonable charge for forage consumed and that the animal or animals shall be sold at the expiration of twenty (20) days from the date of mailing or posting the notice. In the event an animal is sold, the balance after deducting $10 per day for impoundment and a reasonable forage charge, shall be deposited at the Osage Agency and the owner may claim said funds if satisfactory proof of ownership is presented to the Superintendent of the Osage Agency within six (6) months of the date of sale. After six (6) months, any funds remaining on deposit will become the property of the village in which the animal was trespassing.
+
+(b) No horses, mules, bovine, hogs, sheep, or goats shall be penned on assigned lots.
+
+[33 FR 8270, June 4, 1968. Redesignated at 47 FR 13327, Mar. 30, 1982]

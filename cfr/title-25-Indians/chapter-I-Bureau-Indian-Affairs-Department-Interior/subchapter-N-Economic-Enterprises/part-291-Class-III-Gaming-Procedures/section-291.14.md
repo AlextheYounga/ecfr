@@ -1,0 +1,3 @@
+##### § 291.14 How can Class III gaming procedures approved by the Secretary be amended? #####
+
+An Indian tribe may ask the Secretary to amend approved Class III gaming procedures by submitting an amendment proposal to the Secretary. The Secretary must review the proposal by following the approval process for initial tribal proposals, except that the requirements of § 291.3 are not applicable and he/she may waive the requirements of § 291.4 to the extent they do not apply to the amendment request.

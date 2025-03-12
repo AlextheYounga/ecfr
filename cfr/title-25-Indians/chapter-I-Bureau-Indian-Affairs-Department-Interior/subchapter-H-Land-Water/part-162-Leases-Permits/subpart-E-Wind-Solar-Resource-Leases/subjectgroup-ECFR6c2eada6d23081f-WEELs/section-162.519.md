@@ -1,0 +1,3 @@
+##### § 162.519 May a WEEL allow for compatible uses by the Indian landowner? #####
+
+The WEEL may provide for the Indian landowners to use, or authorize others to use, the leased premises for other noncompeting uses compatible with the purpose of the WEEL. This may include the right to lease the premises for other compatible purposes. Any such use by the Indian landowners will not reduce or offset the monetary compensation for the WEEL.

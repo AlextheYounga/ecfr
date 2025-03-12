@@ -1,0 +1,3 @@
+##### § 23.144 What happens if some portion of this part is held to be invalid by a court of competent jurisdiction? #####
+
+If any portion of this part is determined to be invalid by a court of competent jurisdiction, the other portions of the part remain in effect. For example, the Department has considered separately whether the provisions of this part apply to involuntary and voluntary proceedings; thus, if a particular provision is held to be invalid as to one type of proceeding, it is the Department's intent that it remains valid as to the other type of proceeding.

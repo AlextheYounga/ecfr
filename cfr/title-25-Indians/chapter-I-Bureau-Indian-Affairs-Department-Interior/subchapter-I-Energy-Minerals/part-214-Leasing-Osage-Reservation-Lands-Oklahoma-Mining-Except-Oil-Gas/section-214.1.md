@@ -1,0 +1,3 @@
+##### § 214.1 Definition. #####
+
+The term “officer in charge” shall refer to the superintendent of the Osage Indian Agency and school or other representative of the Government who may, for the time, be in charge of the Osage Agency and school, or any person who may be detailed by the Secretary of the Interior or the Commissioner of Indian Affairs to take charge of leasing or mining operations under the regulations in this part.

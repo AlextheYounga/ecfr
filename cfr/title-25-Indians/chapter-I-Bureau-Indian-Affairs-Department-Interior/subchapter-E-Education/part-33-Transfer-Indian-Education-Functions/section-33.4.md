@@ -1,0 +1,3 @@
+##### § 33.4 Redelegation of authority. #####
+
+The authorities of the Assistant Secretary—Indian Affairs as delegated to the Director, Office of Indian Education Programs may be redelegated by the Director to a Bureau of Indian Affairs Agency Superintendent for Education, to a Bureau Area Education Programs Director, or to a President of a Bureau of Indian Affairs post-secondary education institution.

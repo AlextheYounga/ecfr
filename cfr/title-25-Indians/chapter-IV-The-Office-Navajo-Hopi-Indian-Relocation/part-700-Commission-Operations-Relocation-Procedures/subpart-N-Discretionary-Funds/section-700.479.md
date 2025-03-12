@@ -1,0 +1,7 @@
+##### § 700.479 Administrative review. #####
+
+(a) If the Commissioners determine that implementation of an application approved according to § 700.471 fails to meet the requirements of this subpart, the Commissioners shall give notice to the recipient of their intent to terminate or suspend financial assistance to the recipient.
+
+(b) The Commission shall issue such notice in written form sent by registered mail, return receipt requested, which notice shall include a statement of the reasons for the findings referred to in paragraph (a) of this section, and an explanation whether any amendments or actions would result in compliance with grant terms and conditions.
+
+(c) Any person whose approved financial assistance is terminated or suspended under paragraph (b) of this section may request a review of such action by the Commission. Such request for review shall be in writing and must be mailed or delivered to the Commission not later than thirty (30) days after receipt of the notice from the Commission by the applicant. Such request for review shall state the reasons for the request and shall include any additional matters not before the Commission which the applicant deems appropriate. The Commission may grant or deny a review at its discretion and shall inform the applicant of its decision in writing.

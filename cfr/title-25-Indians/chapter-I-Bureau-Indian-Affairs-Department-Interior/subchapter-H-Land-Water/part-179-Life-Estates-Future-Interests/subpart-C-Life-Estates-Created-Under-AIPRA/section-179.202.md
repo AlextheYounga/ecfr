@@ -1,0 +1,3 @@
+##### § 179.202 May the holder of a life estate without regard to waste deplete the resources? #####
+
+Yes. The holder of a life estate without regard to waste may cause lawful depletion or benefit from the lawful depletion of the resources. However, a holder of a life estate without regard to waste may not cause or allow damage to the trust property through culpable negligence or an affirmative act of malicious destruction that causes damage to the prejudice of the holders of remainder interests.

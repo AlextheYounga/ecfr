@@ -1,0 +1,3 @@
+##### § 138.5 Assessments after the Indian title has been extinguished. #####
+
+Indian-owned lands passing to non-Indian ownership shall be assessed for construction costs and the first assessment shall be due on December 31 of the year that Indian title is extinguished. Assessments against this land will be at the annual rate of $0.42 per acre and shall be due as provided in § 138.3, and payable promptly thereafter until the total construction cost of $16.7535 per acre chargeable against the land has been paid in full.

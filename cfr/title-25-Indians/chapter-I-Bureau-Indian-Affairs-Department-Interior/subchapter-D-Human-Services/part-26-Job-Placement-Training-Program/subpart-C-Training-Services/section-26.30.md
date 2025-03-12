@@ -1,0 +1,3 @@
+##### § 26.30 Does the Job Training Program provide part-time training or short-term training? #####
+
+Yes, part-time and short-term training are allowable provided the training assists individuals to develop skills necessary to acquire gainful employment, in accordance with the ISP, and depending upon availability of resources. Part-time means no less than six credit units per semester (based on a nine-month school year).

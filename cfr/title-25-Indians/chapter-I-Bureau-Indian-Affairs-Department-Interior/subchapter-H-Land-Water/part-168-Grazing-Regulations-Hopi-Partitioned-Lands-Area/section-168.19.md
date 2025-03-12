@@ -1,0 +1,3 @@
+##### § 168.19 Information collection. #####
+
+The information collection requirement(s) contained in this regulation have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.* and assigned clearance number 1076-0027. The information is being collected in order to ascertain eligibility for the issuance of a grazing permit. Response is mandatory in order to obtain a permit.

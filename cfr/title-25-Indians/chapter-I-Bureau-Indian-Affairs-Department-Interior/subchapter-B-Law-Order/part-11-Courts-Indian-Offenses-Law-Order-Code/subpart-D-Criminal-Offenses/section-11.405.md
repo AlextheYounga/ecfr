@@ -1,0 +1,5 @@
+##### § 11.405 Interference with custody. #####
+
+(a) *Custody of children.* A person commits a misdemeanor if he or she knowingly or recklessly takes or entices any child under the age of 18 from the custody of his or her parent, guardian or other lawful custodian, when he or she has no privilege to do so.
+
+(b) *Custody of committed person.* A person is guilty of a misdemeanor if he or she knowingly or recklessly takes or entices any committed person away from lawful custody when he or she does not have the privilege to do so. *Committed person* means, in addition to anyone committed under judicial warrant, any orphan, neglected or delinquent child, mentally defective or insane person, or other dependent or incompetent person entrusted to another's custody by or through a recognized social agency or otherwise by authority of law.

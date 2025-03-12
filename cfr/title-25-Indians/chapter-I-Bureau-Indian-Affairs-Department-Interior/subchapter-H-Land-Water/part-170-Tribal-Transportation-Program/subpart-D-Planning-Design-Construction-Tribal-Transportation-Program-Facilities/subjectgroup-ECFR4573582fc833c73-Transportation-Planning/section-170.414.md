@@ -1,0 +1,3 @@
+##### § 170.414 How is the Tribal long-range transportation plan used and updated? #####
+
+The Tribal government uses its TTP long-range transportation plan to develop transportation projects as documented in a Tribal priority list or TTIP and to identify and justify the Tribe's updates to the NTTFI. To be consistent with State, Metropolitan Planning Organization (MPO) and Regional Planning Organization (RPO) planning practices, the TTP long-range transportation plan must be reviewed annually and updated at least every five years.

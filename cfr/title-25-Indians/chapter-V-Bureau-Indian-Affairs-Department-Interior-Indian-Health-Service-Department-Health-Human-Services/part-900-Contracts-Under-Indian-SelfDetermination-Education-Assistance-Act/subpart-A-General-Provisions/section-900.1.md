@@ -1,0 +1,3 @@
+##### § 900.1 Authority. #####
+
+These regulations are prepared, issued, and maintained jointly by the Secretary of Health and Human Services and the Secretary of the Interior, with the active participation and representation of Indian tribes, tribal organizations, and individual tribal members pursuant to the guidance of the Negotiated Rulemaking procedures required by section 107 of the Indian Self-Determination and Education Assistance Act.

@@ -1,0 +1,3 @@
+##### § 700.549 Employee organizations. #####
+
+An employee may not knowingly be a member of an organization of Government employees that advocates the overthrow of the United States' constitutional form of government (5 U.S.C. 7311). Employees are also prohibited from striking against the Federal Government. With these restrictions, an employee has the right to form, join, or assist lawful employee organizations. Similarly, an employee has also the right to refrain from such activity. In either case, the employee may exercise his or her right freely and without fear of penalty or reprisal and shall be protected in the exercise of such rights.

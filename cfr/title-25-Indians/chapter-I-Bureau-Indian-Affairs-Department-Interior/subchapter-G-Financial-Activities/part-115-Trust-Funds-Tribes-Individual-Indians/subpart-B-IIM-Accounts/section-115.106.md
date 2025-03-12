@@ -1,0 +1,7 @@
+##### § 115.106 Assets of members of the Agua Caliente Band of Mission Indians. #####
+
+(a) The provisions of this section apply to money or other property, except real property, held by the United States in trust for such Indians, which may be used, advanced, expended, exchanged, deposited, disposed of, invested, and reinvested by the Director, Palm Springs Office, in accordance with the Act of October 17, 1968 (Pub. L. 90-597). The management or disposition of real property is covered in other parts of this chapter.
+
+(b) Investments made by the Director, Palm Springs Office, under the Act of October 17, 1968, supra, shall be of such a nature as will afford reasonable protection of the assets of the individual Indian involved. The Director is authorized to enter into contracts for the management of the assets (except real property) of individual Indians. The consent of the individual Indian concerned must be obtained prior to the taking of actions affecting his assets, unless the Director determines, under the provisions of section (e) of the Act, that consent is not required.
+
+(c) The Director may, consistent with normal business practices, establish appropriate fees for reports he requires from guardians, conservators, or other fiduciaries appointed under State law for members of the Band.

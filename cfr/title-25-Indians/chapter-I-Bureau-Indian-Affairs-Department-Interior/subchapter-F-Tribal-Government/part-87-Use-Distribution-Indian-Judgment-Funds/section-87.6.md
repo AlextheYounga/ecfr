@@ -1,0 +1,3 @@
+##### § 87.6 Extension of period for submitting plans. #####
+
+An extension of the one hundred and eighty (180) day period, not to exceed ninety (90) days, may be requested by the Secretary or by the governing body of any affected tribe or group submitting such request to both Congressional Committees through the Secretary, and any such request shall be subject to the approval of both Congressional Committees.

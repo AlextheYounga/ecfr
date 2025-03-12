@@ -1,0 +1,3 @@
+##### § 11.800 Jurisdiction of appellate division. #####
+
+The jurisdiction of the appellate division shall extend to all appeals from final orders and judgments of the trial division, by any party except the prosecution in a criminal case where there has been a jury verdict. The appellate division shall review all issues of law presented to it which arose in the case, but shall not reverse the trial division decision unless the legal error committed affected a substantial right of a party or the outcome of the case.

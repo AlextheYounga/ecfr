@@ -1,0 +1,5 @@
+##### § 248.6 Structures. #####
+
+Dwellings, camping facilities, and other structures such as fish drying facilities and fishing platforms may be erected, placed, or maintained on the sites for use in the conduct of treaty fishing and related activities. Sites must be used in a manner that conforms to the health, sanitation, and safety requirements of the State or local law, or, in the absence of appropriate State or local laws, to the health, sanitation, and safety recommendations of the U.S. Public Health Service. The privileges or right of access to or use of the sites of any individual may be suspended or withdrawn, in the discretion of the Area Director, when such individual having violated such health, sanitation, and safety requirements repeats such violation after having been given notice to cease and desist therefrom.
+
+[59 FR 16757, Apr. 7, 1994]

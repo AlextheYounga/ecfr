@@ -1,0 +1,3 @@
+##### § 518.1 What does this part cover? #####
+
+This part sets forth requirements for obtaining a certificate of self-regulation of Class II gaming operations under 25 U.S.C. 2710(c). When the Commission issues a certificate of self-regulation, the certificate is issued to the tribe, not to a particular gaming operation. The certificate applies to all Class II gaming activity conducted by the tribe holding the certificate.

@@ -1,0 +1,3 @@
+##### § 150.3 Maintenance of land records and title documents. #####
+
+The Land Titles and Records Offices within the Bureau are hereby designated as the offices of record for land records and title documents and are hereby charged with the Federal responsibility to record, provide custody, and maintain records that affect titles to Indian land, to examine titles, and to provide title status reports.

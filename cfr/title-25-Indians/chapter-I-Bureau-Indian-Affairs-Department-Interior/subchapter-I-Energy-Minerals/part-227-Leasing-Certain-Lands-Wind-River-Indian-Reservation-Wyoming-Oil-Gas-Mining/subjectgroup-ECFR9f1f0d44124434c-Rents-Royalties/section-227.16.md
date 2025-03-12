@@ -1,0 +1,3 @@
+##### § 227.16 Crediting advance annual payments. #####
+
+In the event of discovery of minerals in paying quantities all advance rents and advance royalties shall be allowed as credit on stipulated royalties as they accrue for the year for which such advance payments have been made. No refund of any such advance payment made under any lease will be allowed in the event the royalty on production for the year is not sufficient to equal such advance payment; nor will any part of the moneys so paid be refunded to the lessee because of any subsequent surrender or cancellation of the lease.

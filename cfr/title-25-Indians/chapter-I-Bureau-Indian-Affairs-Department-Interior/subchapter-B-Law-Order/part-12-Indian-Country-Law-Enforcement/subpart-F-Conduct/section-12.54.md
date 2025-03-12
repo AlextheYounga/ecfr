@@ -1,0 +1,3 @@
+##### § 12.54 What can I do if I believe my civil rights have been violated? #####
+
+All allegations of civil rights violations must be reported immediately to the internal affairs unit. That office will ensure that allegations are immediately reported to the Civil Rights Division of the U. S. Department of Justice through established procedures. BIA's internal affairs unit may also investigate the matter and make recommendations for additional action as necessary.

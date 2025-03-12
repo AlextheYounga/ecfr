@@ -1,0 +1,3 @@
+##### § 11.609 Determination of paternity and support. #####
+
+The Court of Indian Offenses shall have jurisdiction of all suits brought to determine the paternity of a child and to obtain a judgment for the support of the child. A judgment of the court establishing the identity of the father of the child shall be conclusive of that fact in all subsequent determinations of inheritance by the Court of Indian Offenses or by the Department of the Interior.

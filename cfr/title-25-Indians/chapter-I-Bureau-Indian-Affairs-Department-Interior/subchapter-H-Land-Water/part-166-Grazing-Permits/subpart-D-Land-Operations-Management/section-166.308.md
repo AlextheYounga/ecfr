@@ -1,0 +1,3 @@
+##### § 166.308 Can the number of animals and/or season of use be modified on the permitted land if I graze adjacent trust or non-trust rangelands under an on-and-off grazing permit? #####
+
+Yes. The number of animals and/or season of use may be modified on permitted Indian land with an on-and-off grazing permit only when a conservation plan includes the use of adjacent trust or non-trust rangelands not covered by the permit and when that land is used in common with permitted land.

@@ -1,0 +1,3 @@
+##### § 226.33 Line drilling. #####
+
+Lessee shall not drill within 300 feet of boundary line of leased lands, nor locate any well or tank within 200 feet of any public highway, any established watering place, or any building used as a dwelling, granary, or barn, except with the written permission of the Superintendent. Failure to obtain advance written permission from the Superintendent shall subject lessee to cancellation of his/her lease and/or plugging of the well.

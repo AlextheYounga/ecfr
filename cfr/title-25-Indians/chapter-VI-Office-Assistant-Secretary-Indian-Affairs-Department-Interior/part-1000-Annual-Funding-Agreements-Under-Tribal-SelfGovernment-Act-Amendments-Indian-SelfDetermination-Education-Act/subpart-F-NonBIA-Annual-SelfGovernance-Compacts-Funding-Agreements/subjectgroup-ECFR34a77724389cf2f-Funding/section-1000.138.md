@@ -1,0 +1,3 @@
+##### § 1000.138 How are indirect cost rates determined? #####
+
+The Department's Office of the Inspector General (OIG) or other cognizant Federal agency and the Tribe/Consortium negotiate indirect cost rates. These rates are based on the provisions of the Office of Management and Budget (OMB) Circular A-87 or other applicable OMB cost circular and the provisions of Title I of Pub. L. 93-638 (See § 1000.142). These rates are used generally by all Federal agencies for contracts and grants with the Tribe/Consortium, including self-governance agreements.

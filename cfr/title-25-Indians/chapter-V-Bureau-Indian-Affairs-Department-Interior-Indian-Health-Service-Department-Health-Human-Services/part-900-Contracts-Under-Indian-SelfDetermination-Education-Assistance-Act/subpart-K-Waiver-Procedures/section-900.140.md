@@ -1,0 +1,3 @@
+##### § 900.140 Can any provision of the regulations under this part be waived? #####
+
+Yes. Upon the request of an Indian tribe or tribal organization, the Secretary shall waive any provision of these regulations, including any cost principles adopted by the regulations under this part, if the Secretary finds that granting the waiver is either in the best interest of the Indians served by the contract, or is consistent with the policies of the Act and is not contrary to statutory law.

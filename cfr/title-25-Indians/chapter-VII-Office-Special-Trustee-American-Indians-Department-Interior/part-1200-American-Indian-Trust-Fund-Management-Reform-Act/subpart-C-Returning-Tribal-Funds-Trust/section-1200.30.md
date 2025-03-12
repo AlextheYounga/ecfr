@@ -1,0 +1,3 @@
+##### § 1200.30 How does a tribe notify the Department if it wishes to return withdrawn funds to Federal trust status? #####
+
+If a tribe elects to return some or all of the funds it has withdrawn from Federal trust status pursuant to this Act, it must first notify us in writing at our address in § 1200.13. This notification must provide a proposed date for the return of the funds, as well as the amount of funds to be returned, or actual securities to be delivered to the appropriate custodian.

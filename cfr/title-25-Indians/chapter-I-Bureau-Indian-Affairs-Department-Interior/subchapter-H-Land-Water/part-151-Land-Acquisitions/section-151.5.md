@@ -1,0 +1,3 @@
+##### § 151.5 Trust acquisitions in Oklahoma under section 5 of the I.R.A. #####
+
+In addition to acquisitions for tribes which did not reject the provisions of the Indian Reorganization Act and their members, land may be acquired in trust status for an individual Indian or a tribe in the State of Oklahoma under section 5 of the Act of June 18, 1934 (48 Stat. 985; 25 U.S.C. 465), if such acquisition comes within the terms of this part. This authority is in addition to all other statutory authority for such an acquisition.

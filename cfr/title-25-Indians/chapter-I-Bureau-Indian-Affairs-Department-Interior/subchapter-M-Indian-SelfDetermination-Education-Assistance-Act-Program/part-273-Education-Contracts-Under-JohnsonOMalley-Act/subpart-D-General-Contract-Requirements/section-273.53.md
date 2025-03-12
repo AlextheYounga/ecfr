@@ -1,0 +1,3 @@
+##### § 273.53 Applicable procurement regulations. #####
+
+States, school districts, or Indian corporations wanting to contract with the Bureau under this part must comply with the applicable requirements in the Federal Procurement Regulations (41 CFR part 1), as supplemented by the Interior Procurement Regulations (41 CFR part 14), and the Bureau of Indian Affairs Procurement Regulations (41 CFR part 14H), except 41 CFR part 14H-70.

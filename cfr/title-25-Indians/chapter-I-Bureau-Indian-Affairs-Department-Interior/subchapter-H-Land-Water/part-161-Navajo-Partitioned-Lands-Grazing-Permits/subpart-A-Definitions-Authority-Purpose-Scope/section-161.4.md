@@ -1,0 +1,3 @@
+##### § 161.4 To what lands does this part apply? #####
+
+The grazing regulations in this part apply to the Navajo Partitioned Lands within the boundaries of the Navajo Indian Reservation held in trust by the United States for the Navajo Nation. Contiguous areas outside of the Navajo Partitioned Lands may be included under this part for management purposes by BIA in consultation with the affected permittees and other affected land users, and with the concurrence of the Resources Committee. Other affected land users include those holding approved assignments, permits, leases, and rights of way for activities such as: home sites, farm plots, roads, utilities, businesses, and schools.

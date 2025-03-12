@@ -1,0 +1,3 @@
+##### § 115.812 Is a tribe responsible for its expenditures of trust funds that are not made in compliance with statutory language or other federal law? #####
+
+If a tribe's use of trust funds is limited by statutory language or other federal law(s) and a tribe uses those trust funds in direct violation of those laws, absent an approved modification which allows for the expenditures, we will require the tribe to reimburse its trust fund account.

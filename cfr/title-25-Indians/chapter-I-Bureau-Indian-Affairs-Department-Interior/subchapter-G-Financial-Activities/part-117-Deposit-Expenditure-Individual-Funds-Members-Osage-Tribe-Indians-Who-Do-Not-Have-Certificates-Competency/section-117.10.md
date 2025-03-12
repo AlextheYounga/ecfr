@@ -1,0 +1,3 @@
+##### § 117.10 Purchase of automotive equipment. #####
+
+The superintendent may disburse from the surplus funds of an adult Indian not to exceed $2,000 for the purchase of automotive equipment when the Indian agrees in writing to carry property and liability insurance on the automotive equipment and to reimburse his surplus funds account from allowance funds within 24 months. No disbursement of surplus funds for the purchase of automotive equipment shall be made if the fulfillment of the reimbursable agreement will endanger the payment of taxes, insurance or other obligations, or result in the inability of the Indian to meet his current living expenses from allowance funds.

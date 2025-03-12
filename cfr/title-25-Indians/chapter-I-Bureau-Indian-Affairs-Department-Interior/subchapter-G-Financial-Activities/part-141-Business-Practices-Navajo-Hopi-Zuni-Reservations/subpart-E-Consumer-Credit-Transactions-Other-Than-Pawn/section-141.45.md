@@ -1,0 +1,3 @@
+##### § 141.45 Consumer credit applications. #####
+
+Any reservation business offering credit which is not secured by pawn shall provide an application for credit to any customer requesting credit. Within thirty (30) days of the date of application, the lender shall act upon the application and notify the customer in writing of the decision with the reason therefor. A business owner who reduces the amount of credit available to a customer or terminates a credit account shall provide written notice to the customer stating the reason for the reduction or termination of such credit.

@@ -1,0 +1,3 @@
+##### § 581.5 How do I file a motion to supplement the record? #####
+
+Upon its own motion or the motion of a party, the Commission may allow the submission of additional evidence. A party may file a motion for leave to submit additional evidence at any time prior to issuance of a final decision by the Commission. Such motion shall show with particularity that such additional evidence is material and that there were reasonable grounds for failure to previously submit such evidence. The Commission may adjust its time for issuing a final decision accordingly, unless the subject of the appeal is a temporary closure order.

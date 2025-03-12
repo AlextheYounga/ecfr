@@ -1,0 +1,3 @@
+##### § 103.41 What happens if a lender violates provisions of this part? #####
+
+In addition to reducing or eliminating payment on a specific claim for loss, BIA may either temporarily suspend, or permanently bar, a lender from making or acquiring loans under the Program if the lender repeatedly fails to abide by the requirements of this part, or if the lender significantly violates the requirements of this part on any single occasion.

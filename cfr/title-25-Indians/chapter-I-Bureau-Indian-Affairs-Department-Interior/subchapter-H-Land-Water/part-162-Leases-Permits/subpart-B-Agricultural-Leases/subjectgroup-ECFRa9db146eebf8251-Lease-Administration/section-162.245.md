@@ -1,0 +1,3 @@
+##### § 162.245 When will a BIA decision to approve an amendment, assignment, sublease, or mortgage under an agricultural lease be effective? #####
+
+Our decision to approve an amendment, assignment, sublease, or mortgage under an agricultural lease will be effective immediately, notwithstanding any appeal that may be filed under part 2 of this chapter. Copies of approved documents will be provided to the party requesting approval, and made available to the Indian landowners upon request.

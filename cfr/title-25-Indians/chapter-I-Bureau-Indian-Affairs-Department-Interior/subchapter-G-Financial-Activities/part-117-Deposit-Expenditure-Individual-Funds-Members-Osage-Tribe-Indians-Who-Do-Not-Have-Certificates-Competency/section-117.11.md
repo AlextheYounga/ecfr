@@ -1,0 +1,3 @@
+##### § 117.11 Insurance. #####
+
+The superintendent may obtain policies of insurance covering the restricted property, real or personal, of minor Indians and pay the premiums thereon from the funds of the minors. Upon application by an adult Indian the superintendent may procure insurance on any restricted property, real or personal, owned by the applicant and pay the necessary premiums from his surplus or allowance funds. When authorized by the Commissioner, the superintendent may also procure insurance on restricted property, real or personal, of any adult Indian who neglects or refuses to take out such insurance.

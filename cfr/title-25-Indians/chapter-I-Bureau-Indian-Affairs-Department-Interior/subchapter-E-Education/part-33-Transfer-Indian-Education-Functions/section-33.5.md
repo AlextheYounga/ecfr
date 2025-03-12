@@ -1,0 +1,3 @@
+##### § 33.5 Area education functions. #####
+
+A Bureau Area Education Programs Director shall perform those Bureau of Indian Affairs education functions related to Johnson-O'Malley aid to non-Bureau schools, higher education, Bureau peripheral dormitories, adult education, off-reservation residential schools, on-reservation functions located at an Agency where no education personnel are assigned, education contract operations, and those education program operations serving Tribes from more than one Agency, except those of the Bureau's post-secondary institutions.

@@ -1,0 +1,9 @@
+##### § 163.28 Fire management measures. #####
+
+(a) The Secretary is authorized to maintain facilities and staff, hire temporary labor, rent fire fighting equipment, purchase tools and supplies, and pay for their transportation as needed, to maintain an adequate level of readiness to meet normal wildfire protection needs and extinguish forest or range fires on Indian land. No expenses for fighting a fire outside Indian lands may be incurred unless the fire threatens Indian land or unless the expenses are incurred pursuant to an approved cooperative agreement with another protection agency. The rates of pay for fire fighters and for equipment rental shall be the rates for fire fighting services that are currently in use by public and private wildfire protection agencies adjacent to Indian reservations on which a fire occurs, unless there are in effect at the time different rates that have been approved by the Secretary. The Secretary may also enter into reciprocal agreements with any fire organization maintaining protection facilities in the vicinity of Indian reservations or other Indian land for mutual aid in wildfire protection. This section does not apply to the rendering of emergency aid, or agreements for mutual aid in fire protection pursuant to the Act of May 27, 1955 (69 Stat. 66).
+
+(b) The Secretary is authorized to conduct a wildfire prevention program to reduce the number of person-caused fires and prevent damage to natural resources on Indian land.
+
+(c) The Secretary is authorized to expend funds for emergency rehabilitation measures needed to stabilize soil and watershed on Indian land damaged by wildfire.
+
+(d) Upon consultation with the beneficial Indian owners, the Secretary may use fire as a management tool on Indian land to achieve land and/or resource management objectives.

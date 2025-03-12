@@ -1,0 +1,3 @@
+##### § 224.103 Must a tribe establish other public participation processes? #####
+
+No. Except for the environmental review process required by the Act and § 224.63(b)(1), a tribe is not required to establish a process for public participation concerning non-environmental issues in a TERA or leases, business agreements or rights-of-way undertaken under a TERA. However, a tribe may elect to establish procedures that permit the public to participate in public hearings or that expand the scope of matters about which the public may comment.

@@ -1,0 +1,3 @@
+##### § 161.609 Can BIA take emergency action if the rangeland is threatened? #####
+
+Yes, if a permittee or any other party causes or threatens to cause immediate, significant and irreparable harm to the Navajo Nation land during the term of a permit, BIA will take appropriate emergency action. Emergency action may include trespass proceedings under subpart H, or judicial action seeking immediate cessation of the activity resulting in or threatening harm. Reasonable efforts will be made to notify the Navajo Nation, either before or after the emergency action is taken.

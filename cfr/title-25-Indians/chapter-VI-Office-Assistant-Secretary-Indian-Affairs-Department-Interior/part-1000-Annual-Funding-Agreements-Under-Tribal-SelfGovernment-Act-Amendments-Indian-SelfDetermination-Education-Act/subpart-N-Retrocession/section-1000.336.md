@@ -1,0 +1,3 @@
+##### § 1000.336 Does the Tribe/Consortium have to return funds used in the operation of a retroceded program? #####
+
+The Tribe/Consortium and the Secretary must negotiate the amount of funding to be returned to the Secretary for the operation of the retroceded program. This amount must be based on such factors as the time remaining or functions remaining in the funding cycle or as provided in the AFA.

@@ -1,0 +1,3 @@
+##### § 307.13 Licensee's responsibility. #####
+
+Certificates may be attached only to products which are in the ownership or possession of the licensee. Certificates will be consecutively numbered and records of the allocation of such certificates will be maintained by the Indian Arts and Crafts Board. Each licensee will be held responsible for the proper use of such certificates and of the Government hand seal press furnished to such licensee.

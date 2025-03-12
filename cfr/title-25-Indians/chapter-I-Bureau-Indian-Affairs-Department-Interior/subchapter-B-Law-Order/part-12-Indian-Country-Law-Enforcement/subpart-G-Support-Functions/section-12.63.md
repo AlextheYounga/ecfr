@@ -1,0 +1,3 @@
+##### § 12.63 Do Indian country law enforcement officers perform other duties as well? #####
+
+Law enforcement commissions will only be issued by the Bureau of Indian Affairs to persons occupying positions as full-time officers. Bureau of Indian Affairs funded or commissioned criminal investigators will not be responsible for supervising or managing any patrol, detention, or other uniformed police programs.

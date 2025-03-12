@@ -1,0 +1,3 @@
+##### § 700.99 Salvage value. #####
+
+Salvage value means the probable sale price of an item, if offered for sale on the condition that it will be removed from the property at the buyer's expense, allowing a reasonable period of time to find a person buying with knowledge of the uses and purposes for which it is adaptable and capable of being used, including separate use of serviceable components and scrap when there is no reasonable prospect of sale except on that basis.

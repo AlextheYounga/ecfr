@@ -1,0 +1,5 @@
+##### § 1.3 Scope. #####
+
+Chapters I and II of this title contain the bulk of the regulations of the Department of the Interior of general application relating to Indian affairs. Subtitle B, chapter I, title 43 of the Code or Federal Regulations contains rules relating to the relationship of Indians to public lands and townsites. Subtitle A of title 43 CFR has application to certain aspects of Indian affairs and, among other things, contains procedural rules for appellate and other administrative review and for practice before the Department of the Interior, of which the Bureau of Indian Affairs is a part. Indian health matters are covered in 42 CFR part 36. Title 30 CFR contains regulations on oil and gas and other mining operations, which, under certain circumstances, may be applicable to Indian resources.
+
+[25 FR 3124, Apr. 12, 1960, as amended at 40 FR 20625, May 12, 1975; 48 FR 13414, Mar. 31, 1983]

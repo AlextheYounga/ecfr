@@ -1,0 +1,3 @@
+##### § 115.904 Where earnest money is paid prior to Secretarial approval of a conveyance or contract instrument involving trust assets, may the BIA deposit that earnest money into a special deposit account? #####
+
+No, any money received prior to Secretarial approval of conveyance or contract instrument involving trust assets must be deposited into a non-interest bearing, non-trust account. After the Secretary approves the conveyance or contract instrument involving trust assets, the money designated by the conveyance or contract instrument will be deposited into a trust fund account.

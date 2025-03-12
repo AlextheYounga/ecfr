@@ -1,0 +1,11 @@
+##### § 700.533 Restrictions affecting travel and travel expense reimbursement. #####
+
+(a) When an employee is on officially authorized travel his or her expenses are reimbursed by the Government. The employee may not request nor accept reimbursement in cash or kind for travel expenses from any other source, even when the employee's expenses exceed the maximum Government allowance.
+
+(b) An employee who is authorized to attend a convention, seminar, or similar meeting while on official duty, whose travel is being paid by the sponsoring association, may not also claim travel expenses from the Government.
+
+(c) An employee may accept accommodations and expense reimbursement for attending meetings, functions, etc. in his or her private capacity and on his or her own time, provided that such acceptance does not produce an actual or apparent conflict of interest. This restriction prohibits an employee from accepting accommodations or reimbursement from anyone having or seeking business with the Commission.
+
+(d) Commission employees traveling on official business, as well as employees traveling on personal business, may not accept the use of private airplanes, cars, or other means of transportation offered at no expense by individuals conducting or seeking business dealings with the Commission, nor from clients of the Commission.
+
+*Exception:* An employee may accept transportation and meals of modest value provided by a contractor or client in connection with official business when it is not practical to make arrangements for Government or commercial accommodations. The employee must receive prior approval of the supervisor in such case. This might occur, for example, if an employee were traveling to a remote area where no Government vehicle were available, or where there are no nearby restaurants or eating places. There is no prohibition against a contractor or private citizen traveling as a passenger in a Government vehicle driven by a Commission employee on official business, provided administrative procedures have been followed in making the travel arrangements.

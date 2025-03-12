@@ -1,0 +1,3 @@
+##### § 900.69 What is the purpose of this subpart? #####
+
+Section 105(l) of the Act requires the Secretary, at the request of an Indian tribe or tribal organization, to enter into a lease with the Indian tribe or tribal organization for a building owned or leased by the tribe or tribal organization that is used for administration or delivery of services under the Act. The lease is to include compensation as provided in the statute as well as “such other reasonable expenses that the Secretary determines, by regulation, to be allowable.” This subpart contains requirements for these leases.

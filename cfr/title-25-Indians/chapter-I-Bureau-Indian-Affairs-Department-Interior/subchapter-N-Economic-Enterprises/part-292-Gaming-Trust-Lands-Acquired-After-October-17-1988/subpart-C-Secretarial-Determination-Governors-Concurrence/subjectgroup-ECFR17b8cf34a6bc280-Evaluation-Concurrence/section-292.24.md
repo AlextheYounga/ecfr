@@ -1,0 +1,3 @@
+##### § 292.24 Can the public review the Secretarial Determination? #####
+
+Subject to restrictions on disclosure required by the Freedom of Information Act (5 U.S.C. 552), the Privacy Act (5 U.S.C. 552a), and the Trade Secrets Act (18 U.S.C. 1905), the Secretarial Determination and the supporting documents will be available for review at the local BIA agency or Regional Office having administrative jurisdiction over the land.

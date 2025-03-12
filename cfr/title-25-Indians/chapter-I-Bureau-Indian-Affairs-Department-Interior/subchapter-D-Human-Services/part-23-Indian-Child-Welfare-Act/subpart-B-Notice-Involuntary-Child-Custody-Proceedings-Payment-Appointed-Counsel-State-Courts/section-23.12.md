@@ -1,0 +1,3 @@
+##### § 23.12 Designated tribal agent for service of notice. #####
+
+Any Indian tribe entitled to notice pursuant to 25 U.S.C. 1912 may designate by resolution, or by such other form as the tribe's constitution or current practice requires, an agent for service of notice other than the tribal chairman and send a copy of the designation to the Secretary or his/her designee. The Secretary or his/her designee shall update and publish as necessary the names and addresses of the designated agents in the Federal Register. A current listing of such agents shall be available through the area offices.

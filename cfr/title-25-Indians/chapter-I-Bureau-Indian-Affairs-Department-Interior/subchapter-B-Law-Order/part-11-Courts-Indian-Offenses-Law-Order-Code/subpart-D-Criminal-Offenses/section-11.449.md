@@ -1,0 +1,3 @@
+##### § 11.449 Violation of an approved tribal ordinance. #####
+
+A person who violates the terms of any tribal ordinance duly enacted by the governing body of the tribe occupying the Indian country under the jurisdiction of the Court of Indian Offenses and approved by the Assistant Secretary—Indian Affairs or his or her designee, is guilty of an offense and upon conviction thereof shall be sentenced as provided in the ordinance.

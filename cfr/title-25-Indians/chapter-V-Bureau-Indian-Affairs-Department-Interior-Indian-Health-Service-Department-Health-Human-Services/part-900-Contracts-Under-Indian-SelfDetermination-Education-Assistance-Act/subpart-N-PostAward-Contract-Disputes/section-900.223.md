@@ -1,0 +1,7 @@
+##### § 900.223 When does an Indian tribe or tribal organization get the decision? #####
+
+(a) If the claim is for more than $100,000, the awarding official shall issue the decision within 60 days of the day he or she receives the claim. If the awarding official cannot issue a decision that quickly, he or she shall tell you when the decision will be issued.
+
+(b) If the claim is for $100,000 or less, and you want a decision within 60 days, you shall advise the awarding official in writing that you want a decision within that period. If you advise the awarding official in writing that you do want a decision within 60 days, the awarding official shall issue the decision within 60 days of the day he or she receives your written notice.
+
+(c) If your claim is for $100,000 or less and you do not advise the awarding official that you want a decision within 60 days, or if your claim exceeds $100,000 and the awarding official has notified you of the time within which a decision will be issued, the awarding official shall issue a decision within a reasonable time. What is “reasonable” depends upon the size and complexity of your claim, and upon the adequacy of the information you have given to the awarding official in support of your claim.

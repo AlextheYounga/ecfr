@@ -1,0 +1,3 @@
+##### § 213.12 Leases executed by guardians of minors. #####
+
+Leases executed by guardians of minors under order of court for a period extending beyond the minority of the minor will be approved unless it appears that such action would be prejudicial to the interests of the minor: *Provided,* That in the event the minor becomes of age within 1 year from the date of execution of lease the consent of the minor to the execution of the lease should be obtained and submitted with the lease for consideration.

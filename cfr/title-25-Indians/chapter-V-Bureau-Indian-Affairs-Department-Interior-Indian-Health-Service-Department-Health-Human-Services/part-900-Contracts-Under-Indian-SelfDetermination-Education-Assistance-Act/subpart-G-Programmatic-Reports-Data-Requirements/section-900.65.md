@@ -1,0 +1,3 @@
+##### § 900.65 What programmatic reports and data shall the Indian tribe or tribal organization provide? #####
+
+Unless required by statute, there are no mandatory reporting requirements. Each Indian tribe or tribal organization shall negotiate with the Secretary the type and frequency of program narrative and program data report(s) which respond to the needs of the contracting parties and that are appropriate for the purposes of the contract. The extent of available resources will be a consideration in the negotiations.

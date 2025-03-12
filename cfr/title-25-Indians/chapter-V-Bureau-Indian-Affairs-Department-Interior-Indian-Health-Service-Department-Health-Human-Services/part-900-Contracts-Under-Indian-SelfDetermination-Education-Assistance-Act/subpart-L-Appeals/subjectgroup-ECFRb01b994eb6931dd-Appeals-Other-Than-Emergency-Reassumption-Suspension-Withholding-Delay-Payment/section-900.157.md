@@ -1,0 +1,3 @@
+##### § 900.157 Is the recommended decision always final? #####
+
+No. If the Indian tribe or tribal organization is dissatisfied with the recommended decision, it may still appeal the initial decision within 30 days of receiving the recommended decision and the report of the informal conference. If the Indian tribe or tribal organization does not file a notice of appeal within 30 days, or before the expiration of the extension it has received under § 900.159, the recommended decision becomes final.

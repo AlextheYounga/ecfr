@@ -1,0 +1,5 @@
+##### § 584.6 When will the hearing be held? #####
+
+(a) The Commission shall designate a presiding official who shall commence a hearing within 30 days after the Commission receives a timely notice of appeal. At the request of the appellant, the presiding official may waive the 30-day hearing requirement upon designation.
+
+(b) If the subject of an appeal is whether an order of temporary closure should be made permanent or dissolved, the presiding official shall be designated within 7 days of the timely filing of the notice of appeal, and the hearing shall be concluded within 30 days after the Commission receives a timely notice of appeal, unless the appellant waives this right. Notwithstanding any other provision of this part, the presiding official shall conduct such hearing in a manner that will enable him or her to conclude the hearing within the period required by this paragraph and consistent with any due process rights of the parties, including any period that the record is kept open following the hearing.

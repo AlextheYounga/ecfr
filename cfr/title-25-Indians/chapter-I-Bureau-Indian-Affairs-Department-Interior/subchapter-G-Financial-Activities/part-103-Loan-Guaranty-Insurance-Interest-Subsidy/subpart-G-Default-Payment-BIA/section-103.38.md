@@ -1,0 +1,3 @@
+##### § 103.38 Is there anything else for BIA or the lender to do after BIA makes payment? #####
+
+When BIA pays the lender on its claim for loss, the lender must sign and deliver to BIA an assignment of rights to its loan agreement with the borrower, in a document acceptable to BIA. Immediately upon payment, BIA is subrogated to all rights of the lender under the loan agreement with the borrower, and must pursue collection efforts against the borrower and any co-maker and guarantor, as required by law.

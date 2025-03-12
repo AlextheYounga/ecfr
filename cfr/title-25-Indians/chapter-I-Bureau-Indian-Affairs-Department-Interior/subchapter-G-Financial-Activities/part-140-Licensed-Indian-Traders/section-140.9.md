@@ -1,0 +1,9 @@
+##### § 140.9 Application for license. #####
+
+(a) Application for license must be made in writing on Form 5-052, setting forth the full name and residence of the applicant; if a firm, the firm name and the name of each member thereof; the place where it is proposed to carry on the trade; the capital to be invested; the names of the clerks to be employed; and the business experience of the applicant. The application must be forwarded through the Superintendent to the Commissioner of Indian Affairs, accompanied by two satisfactory testimonials on Form 2-077 as to the character of the applicant and his employees and their fitness to be in the Indian country, and by an affidavit of the Superintendent on Form 5-053 that neither he nor any person for him has any interest, direct or indirect, present or prospective, in the proposed business or the profits arising therefrom, and that no arrangement for any benefit to himself or to any other person on his behalf is contemplated in case the license is granted. Licensed traders will be held responsible for the conduct of their employees.
+
+(b) Itinerant peddlers or purveyors of foodstuffs and other merchandise shall be considered as traders and shall obtain a license or permit from the Superintendent setting forth the class of trade or peddling to be carried on, furnishing such character or credit references, or both, as may be required by the Superintendent. The period of the license for such itinerant peddlers shall be determined by the Superintendent.
+
+(c) When a license or permit to trade is issued under the regulations in this part 140, a fee of $5, payable when the license is issued, shall be levied against the licensee.
+
+[30 FR 8267, June 29, 1965. Redesignated at 47 FR 13327, Mar. 30, 1982]

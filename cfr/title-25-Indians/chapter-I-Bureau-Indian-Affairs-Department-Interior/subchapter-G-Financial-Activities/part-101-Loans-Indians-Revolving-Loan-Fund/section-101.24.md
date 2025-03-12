@@ -1,0 +1,19 @@
+##### § 101.24 Loans for expert assistance for preparation and trial of Indian claims. #####
+
+(a) Loans may be made to Indian tribes, bands and other identifiable groups of Indians from funds authorized and appropriated under the provisions of section 1 of the Act of November 4, 1963 (Pub. L. 88-168, 77 Stat. 301; 25 U.S.C. 70n-1), as amended by the Act of September 19, 1966 (Pub. L. 89-592, 80 Stat. 814) and section 2 of the Act of May 24, 1973 (Pub. L. 93-37, 87 Stat. 73). Loan proceeds may only be used for the employment of expert assistance, other than the assistance of counsel, for the preparation and trial of claims pending before the Indian Claims Commission. Applications for loans will be submitted on forms approved by the Commissioner and shall include a justification of the need for a loan. The justification shall include a statement from the applicant's claims attorney regarding the need for a loan. The application will be accompanied by a statement signed by an authorized officer of the applicant certifying that the applicant does not have adequate funds available to obtain and pay for the expert assistance needed. The Superintendent and the Area Director will attest to the accuracy of the statement or point out any inaccuracies. Loans will be approved by issuance of a commitment order by the Commissioner.
+
+(b) No loan shall be approved if the applicant has funds available on deposit in the United States Treasury or elsewhere in an amount adequate to obtain the expert assistance needed or if, in the opinion of the Commissioner, the fees to be paid the experts are unreasonable on the basis of the services to be performed by them.
+
+(c) Contracts for the employment of experts are subject to the provisions of 25 U.S.C. 81 and require approval by the Commissioner.
+
+(d) Vouchers or claims submitted by experts for payment for services rendered and reimbursement for expenses will be in accordance with the provisions of the expert assistance contract and shall be sufficiently detailed and itemized to permit an audit to determine that the amounts are in accordance with the contract. Vouchers or claims shall be reviewed by the borrower's claims attorney who will certify on the last page of the voucher or by attachment thereto, that the services have been rendered and payment is due the expert and that expenses and charges for work performed are in accordance with the provisions of the contract.
+
+(e) Requests for advances under the loan agreement shall be accompanied by a certificate signed by an authorized officer of the borrower certifying that the borrower does not have adequate funds available from its own financial resources with which to pay the expert. The Superintendent and Area Director will attest to the accuracy of the statement or point out inaccuracies. A copy of the voucher or claim from the expert will accompany the request for advance.
+
+(f) Loan funds will be advanced only as needed to pay obligations incurred under approved contracts for expert assistance. The funds will be deposited in a separate account, shall not be commingled with other funds of the borrower, and shall not be disbursed for any other purpose.
+
+(g) Loans shall bear interest at the rate of 51/2 percent per annum from the date funds are advanced until the loan is repaid.
+
+(h) The principal amount of the loan advanced plus interest shall be repayable from the proceeds of any judgment received by the borrower at the time funds from the award become available to make the payment.
+
+(77 Stat. 301 (25 U.S.C. 70n-1 to 70n-7))[40 FR 3587, Jan. 23, 1975. Redesignated at 47 FR 13327, Mar. 30, 1982. Further redesignated at 57 FR 46472, Oct. 8, 1992]

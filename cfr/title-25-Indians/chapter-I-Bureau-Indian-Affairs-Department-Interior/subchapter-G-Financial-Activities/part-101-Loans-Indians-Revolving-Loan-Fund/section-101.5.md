@@ -1,0 +1,7 @@
+##### § 101.5 Approval of loans. #####
+
+(a) Loan agreements, including those used by relending organizations in operating a relending program, must be executed on a form approved by the Commissioner. On direct United States loans, the Commissioner will approve the loan by issuing a commitment order covering the terms and conditions for making the loan.
+
+(b) Applications for loans from relending organizations must be approved, if a tribe, by the governing body or designated committee, or other approving committee or body authorized to act on credit matters for a relending organization, before the Commissioner takes action on the application. This designated governing body of the tribe or committee must be authorized to act on behalf of the relending organization as evidenced in the organization's declaration of policy and plan of operation.
+
+(c) Corporations, partnerships and cooperative associations organized for the purpose of establishing, acquiring, expanding, and operating an economic enterprise shall be organized pursuant to federal, state or tribal law. The form of organization shall be acceptable to the Commissioner. Economic enterprises which are or will be operated on a reservation(s) must comply with the requirements of applicable rules, resolutions and ordinances enacted by the governing body of the tribe.

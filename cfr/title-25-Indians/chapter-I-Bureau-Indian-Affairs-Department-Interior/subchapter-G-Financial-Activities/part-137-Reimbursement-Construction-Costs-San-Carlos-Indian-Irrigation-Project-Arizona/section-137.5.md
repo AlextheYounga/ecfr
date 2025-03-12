@@ -1,0 +1,11 @@
+##### § 137.5 Construction costs limited. #####
+
+The repayment contract1 with the San Carlos irrigation and drainage district, page 13 thereof, contains the following:
+
+1 Contract available at the Bureau of Indian Affairs, Washington, D.C.
+
+In accordance with the foregoing the costs of the San Carlos project as fixed by the public notice to be issued as aforesaid, unless further sums shall be agreed to by the Secretary of the Interior and the district after the execution of this instrument, may amount to but shall not exceed the sum of $9,556,313.77, except that said total may be exceeded by the inclusion of any sums expended to safeguard the project as hereinabove provided for, and any sums expended on account of contingent liabilities as in the next paragraph hereof provided.
+
+The foregoing and subsequent statements of project costs, the district's shares of which are to be repaid hereunder, unless otherwise provided by Congress more favorably to the lands of the project, may be increased by the addition of sums not now fixed as project charges but which possibly constitute contingent project liabilities incurred after the date of the San Carlos Act of June 7, 1924 (43 Stat. 476), or incurred on account of the Florence-casa Grande project, and so may become project charges by the judgment of courts of competent jurisdiction or of other proper authority.
+
+The limitations therein fixed has approximately been reached, there remaining but $32,815.02 yet to be expended on project works before reaching that limitation. Upon the expenditure of this additional sum there shall be no further expenditures of funds for construction, operation and maintenance of the San Carlos project so far as the private lands are concerned until the San Carlos irrigation and drainage district shall, through appropriate action, authorize pursuant to the terms of the said repayment contract such additional expenditures. This limitation does not apply to project expenditures for the extension of the distributing and pumping system regardless of where they may arise. This class of expenditures being excepted from the limitation on expenditures contained in the said repayment contract by section 14, page 10, thereof, which section is known as the “Equalization of Expenditures.”

@@ -1,0 +1,3 @@
+##### § 63.32 Under what authority are Indian child protection and family violence prevention program funds awarded? #####
+
+The Secretary is authorized to enter into contracts with Indian tribes, tribal organizations, or tribal consortia pursuant to the Indian Self-Determination and Education Assistance Act, as amended, 25 U.S.C. 450 *et seq.*, for the development and establishment of Indian child protection and family violence prevention programs. This includes compacting with tribes under the Self-Governance program procedures.

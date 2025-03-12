@@ -1,0 +1,3 @@
+##### § 152.30 Bidding by employees. #####
+
+Except as authorized by the provisions of part 140 of this chapter, no person employed in Indian Affairs shall directly or indirectly bid, make, or prepare any bid, or assist any bidder in preparing his bid. Sales between Indians, either of whom is an employee of the U.S. Government, are governed by the provisions of part 140 of this chapter (see 25 U.S.C. 68 and 441).

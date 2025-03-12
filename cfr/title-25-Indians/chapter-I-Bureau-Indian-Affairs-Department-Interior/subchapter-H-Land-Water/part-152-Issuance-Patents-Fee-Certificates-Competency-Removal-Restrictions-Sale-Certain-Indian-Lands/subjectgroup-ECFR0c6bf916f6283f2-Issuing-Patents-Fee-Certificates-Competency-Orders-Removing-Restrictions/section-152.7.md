@@ -1,0 +1,3 @@
+##### § 152.7 Application for certificate of competency. #####
+
+Any Indian 21 years old or over, except certain adult members of the Osage Tribe as provided in § 152.9, who holds land or an interest therein under a restricted fee patent may apply for a certificate of competency. The written application shall be made in the form approved by the Secretary and filed with the agency having immediate jurisdiction over the land.

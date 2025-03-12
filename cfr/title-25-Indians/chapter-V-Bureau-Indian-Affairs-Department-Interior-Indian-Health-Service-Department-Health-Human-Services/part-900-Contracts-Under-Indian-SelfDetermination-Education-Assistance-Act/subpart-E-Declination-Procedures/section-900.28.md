@@ -1,0 +1,3 @@
+##### § 900.28 Is technical assistance available to an Indian tribe or tribal organization to avoid declination of a proposal? #####
+
+Yes. In accordance with section 103(d) of the Act, upon receiving a proposal, the Secretary shall provide any necessary requested technical assistance to an Indian tribe or tribal organization, and shall share all relevant information with the Indian tribe or tribal organization, in order to avoid declination of the proposal.

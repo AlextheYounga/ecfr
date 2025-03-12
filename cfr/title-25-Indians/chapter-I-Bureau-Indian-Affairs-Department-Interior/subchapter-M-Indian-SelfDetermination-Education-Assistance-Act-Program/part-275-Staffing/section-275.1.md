@@ -1,0 +1,3 @@
+##### § 275.1 Purpose and scope. #####
+
+The purpose of this part is to outline methods available to tribes for utilizing the services of Bureau employees. These regulations are not intended to prevent an Indian tribe or tribal organization from staffing their programs by other methods they feel appropriate. However, when an Indian tribe or tribal organization decides to provide Bureau employees certain Federal benefits, Civil Service Commission regulations must be adhered to.

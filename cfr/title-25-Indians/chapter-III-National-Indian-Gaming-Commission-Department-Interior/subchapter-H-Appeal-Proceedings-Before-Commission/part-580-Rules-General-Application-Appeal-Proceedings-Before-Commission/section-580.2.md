@@ -1,0 +1,3 @@
+##### § 580.2 When may the Commission waive its procedural rules governing appellate proceedings before the Commission? #####
+
+The procedural provisions of parts 580 through 585 of this subchapter may be waived, in whole or in part, to promote the orderly conduct of business on motion to the Commission or on its own motion, if the ends of justice so require and if to do so does not substantially prejudice any party, except that the Commission may not extend the time for filing a notice of appeal.

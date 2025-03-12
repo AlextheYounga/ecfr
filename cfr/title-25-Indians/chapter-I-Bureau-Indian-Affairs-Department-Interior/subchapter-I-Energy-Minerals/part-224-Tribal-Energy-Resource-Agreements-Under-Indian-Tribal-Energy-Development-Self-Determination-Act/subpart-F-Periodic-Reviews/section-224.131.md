@@ -1,0 +1,3 @@
+##### § 224.131 What is a periodic review and evaluation? #####
+
+A periodic review and evaluation is an examination the Director performs to monitor a tribe's performance of activities associated with the development of energy resources and to review compliance with a TERA. During the TERA consultation, a tribe and the Director will develop a periodic review and evaluation process that addresses the tribe's specific circumstances and the terms and conditions of the tribe's TERA. The tribe will include the agreed-upon periodic review and evaluation process in its final proposed TERA.
