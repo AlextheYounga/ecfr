@@ -1,5 +1,7 @@
 ##### § 63.16 Change of name; replacement of lost or destroyed certificate. #####
 
+Link to an amendment published at 83 FR 30280, June 27, 2018.
+
 (a) An application for a change of name on a certificate issued under this part must be accompanied by the applicant's current certificate and the marriage license, court order, or other document verifying the change. The documents are returned to the applicant after inspection.
 
 (b) An application for a replacement of a lost or destroyed certificate is made by letter to the Department of Transportation, Federal Aviation Administration, Airman Certification Branch, Post Office Box 25082, Oklahoma City, OK 73125. The letter must -

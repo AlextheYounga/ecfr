@@ -1,5 +1,7 @@
 ##### § 91.109 Flight instruction; Simulated instrument flight and certain flight tests. #####
 
+Link to an amendment published at 83 FR 30281, June 27, 2018.
+
 (a) No person may operate a civil aircraft (except a manned free balloon) that is being used for flight instruction unless that aircraft has fully functioning dual controls. However, instrument flight instruction may be given in an airplane that is equipped with a single, functioning throwover control wheel that controls the elevator and ailerons, in place of fixed, dual controls, when -
 
 (1) The instructor has determined that the flight can be conducted safely; and

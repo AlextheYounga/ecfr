@@ -1,5 +1,7 @@
 ##### § 91.313 Restricted category civil aircraft: Operating limitations. #####
 
+Link to an amendment published at 83 FR 30281, June 27, 2018.
+
 (a) No person may operate a restricted category civil aircraft -
 
 (1) For other than the special purpose for which it is certificated; or

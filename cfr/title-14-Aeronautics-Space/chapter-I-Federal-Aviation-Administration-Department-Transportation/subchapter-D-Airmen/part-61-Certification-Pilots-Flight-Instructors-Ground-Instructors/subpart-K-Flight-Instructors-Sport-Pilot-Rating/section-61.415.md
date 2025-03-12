@@ -1,5 +1,7 @@
 ##### § 61.415 What are the limits of a flight instructor certificate with a sport pilot rating? #####
 
+Link to an amendment published at 83 FR 30280, June 27, 2018.
+
 If you hold a flight instructor certificate with a sport pilot rating, you may only provide flight training in a light-sport aircraft and are subject to the following limits:
 
 (a) You may not provide ground or flight training in any aircraft for which you do not hold:

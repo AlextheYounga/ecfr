@@ -1,5 +1,7 @@
 ##### § 91.531 Second in command requirements. #####
 
+Link to an amendment published at 83 FR 30282, June 27, 2018.
+
 (a) Except as provided in paragraph (b) and (d) of this section, no person may operate the following airplanes without a pilot who is designated as second in command of that airplane:
 
 (1) A large airplane or normal category level 4 airplane, except that a person may operate an airplane certificated under SFAR 41 without a pilot who is designated as second in command if that airplane is certificated for operation with one pilot.

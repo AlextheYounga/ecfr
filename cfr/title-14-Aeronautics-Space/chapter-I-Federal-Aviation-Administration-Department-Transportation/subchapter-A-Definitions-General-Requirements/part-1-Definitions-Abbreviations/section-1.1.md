@@ -1,5 +1,7 @@
 ##### § 1.1 General definitions. #####
 
+Link to an amendment published at 83 FR 30275, June 27, 2018.
+
 As used in Subchapters A through K of this chapter, unless the context requires otherwise:
 
 *Administrator* means the Federal Aviation Administrator or any person to whom he has delegated his authority in the matter concerned.

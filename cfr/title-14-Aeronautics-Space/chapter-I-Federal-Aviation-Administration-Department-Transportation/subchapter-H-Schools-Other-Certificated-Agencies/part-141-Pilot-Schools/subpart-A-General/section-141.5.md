@@ -1,5 +1,7 @@
 ##### § 141.5 Requirements for a pilot school certificate. #####
 
+Link to an amendment published at 83 FR 30283, June 27, 2018.
+
 The FAA may issue a pilot school certificate with the appropriate ratings if, within the 24 calendar months before the date application is made, the applicant -
 
 (a) Completes the application for a pilot school certificate on the form and in the manner prescribed by the FAA;

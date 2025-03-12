@@ -10,6 +10,8 @@
 
 (3) A statement of the reasons why the decision of the MSPB is alleged to be incorrect, in whole or in part, only with regard to issues of discrimination based on race, color, religion, sex, national origin, age, disability, or genetic information;
 
+(4) A copy of the decision issued by the MSPB; and
+
 (5) The signature of the petitioner or representative, if any.
 
 [57 FR 12646, Apr. 10, 1992, as amended at 74 FR 63984, Dec. 7, 2009]

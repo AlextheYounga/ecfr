@@ -8,4 +8,4 @@ Yes, your agency may authorize a higher mileage rate at a rate not to exceed the
 
 (c) The costs of driving the POV to, from, or between official stations located outside CONUS justify a higher mileage rate as advantageous to the Government.
 
-[ FTR Amdt. 98, 66 FR 58196, Nov. 20, 2001, as amended by FTR Amdt. 2017-01, 83 FR 605, Jan. 5, 2018
+[FTR Amdt. 98, 66 FR 58196, Nov. 20, 2001, as amended by FTR Amdt. 2017-01, 83 FR 605, Jan. 5, 2018]

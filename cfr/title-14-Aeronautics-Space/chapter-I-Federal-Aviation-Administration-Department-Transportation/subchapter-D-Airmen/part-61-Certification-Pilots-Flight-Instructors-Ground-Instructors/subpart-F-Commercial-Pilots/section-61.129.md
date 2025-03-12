@@ -1,5 +1,7 @@
 ##### § 61.129 Aeronautical experience. #####
 
+Link to an amendment published at 83 FR 30278, June 27, 2018.
+
 (a) *For an airplane single-engine rating.* Except as provided in paragraph (i) of this section, a person who applies for a commercial pilot certificate with an airplane category and single-engine class rating must log at least 250 hours of flight time as a pilot that consists of at least:
 
 (1) 100 hours in powered aircraft, of which 50 hours must be in airplanes.

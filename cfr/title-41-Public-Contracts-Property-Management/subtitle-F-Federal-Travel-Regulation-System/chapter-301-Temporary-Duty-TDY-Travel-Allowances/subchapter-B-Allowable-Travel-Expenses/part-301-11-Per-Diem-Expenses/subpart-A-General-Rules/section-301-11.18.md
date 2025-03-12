@@ -1,5 +1,7 @@
 ##### § 301-11.18 What M&IE rate will I receive if a meal(s) is furnished by the Government or is included in the registration fee? #####
 
+Link to an amendment published at 83 FR 30078, June 27, 2018.
+
 (a) Except as provided in § 301-11.17 or in paragraph (b) of this section, your M&IE allowance must be adjusted for meals furnished to you by the Government (including meals furnished under the authority of chapter 304 of this title) by deducting the appropriate amount shown at *www.gsa.gov/mie* for travel within CONUS and the chart in appendix B of this chapter for meal deductions for OCONUS and foreign travel. For meals provided on the day of departure and the last day of travel, you must deduct the entire allocated meal cost from the decreased M&IE rate (see § 301-11.101). The total amount of deductions made will not cause you to receive less than the amount allowed for incidental expenses.
 
 (b) Your agency, at its discretion, may allow you to claim the full M&IE allowance if:

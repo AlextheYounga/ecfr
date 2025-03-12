@@ -8,6 +8,6 @@ Your agency may authorize:
 
 (c) POV under subpart D; or
 
-(d) Special conveyance (e.g., taxi, TNC, innovative mobility technology company, or commercial automobile) under Subpart E.
+(d) Special conveyance (e.g., taxi, TNC, innovative mobility technology company, or commercial automobile) under subpart E.
 
 [FTR Amdt. 70, 63 FR 15955, Apr. 1, 1998, as amended by FTR Amdt. 2010-02, 75 FR 24435, May 5, 2010; FTR Amdt. 2017-01, 83 FR 604, Jan. 5, 2018]

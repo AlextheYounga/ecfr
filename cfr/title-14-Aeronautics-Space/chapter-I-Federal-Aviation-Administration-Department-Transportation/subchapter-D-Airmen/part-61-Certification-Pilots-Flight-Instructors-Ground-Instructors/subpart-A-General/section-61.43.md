@@ -1,5 +1,7 @@
 ##### § 61.43 Practical tests: General procedures. #####
 
+Link to an amendment published at 83 FR 30276, June 27, 2018.
+
 (a) Completion of the practical test for a certificate or rating consists of -
 
 (1) Performing the tasks specified in the areas of operation for the airman certificate or rating sought within the approved practical test standards;

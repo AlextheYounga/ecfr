@@ -1,5 +1,7 @@
 ##### § 121.383 Airman: Limitations on use of services. #####
 
+Link to an amendment published at 83 FR 30282, June 27, 2018.
+
 (a) No certificate holder may use any person as an airman nor may any person serve as an airman unless that person -
 
 (1) Holds an appropriate current airman certificate issued by the FAA;

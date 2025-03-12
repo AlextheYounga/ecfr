@@ -1,5 +1,7 @@
 ##### § 63.3 Certificates and ratings required. #####
 
+Link to an amendment published at 83 FR 30280, June 27, 2018.
+
 (a) No person may act as a flight engineer of a civil aircraft of U.S. registry unless he has in his personal possession a current flight engineer certificate with appropriate ratings issued to him under this part and a second-class (or higher) medical certificate issued to him under part 67 of this chapter within the preceding 12 months. However, when the aircraft is operated within a foreign country, a current flight engineer certificate issued by the country in which the aircraft is operated, with evidence of current medical qualification for that certificate, may be used. Also, in the case of a flight engineer certificate issued under § 63.42, evidence of current medical qualification accepted for the issue of that certificate is used in place of a medical certificate.
 
 (b) No person may act as a flight navigator of a civil aircraft of U.S. registry unless he has in his personal possession a current flight navigator certificate issued to him under this part and a second-class (or higher) medical certificate issued to him under part 67 of this chapter within the preceding 12 months. However, when the aircraft is operated within a foreign country, a current flight navigator certificate issued by the country in which the aircraft is operated, with evidence of current medical qualification for that certificate, may be used.

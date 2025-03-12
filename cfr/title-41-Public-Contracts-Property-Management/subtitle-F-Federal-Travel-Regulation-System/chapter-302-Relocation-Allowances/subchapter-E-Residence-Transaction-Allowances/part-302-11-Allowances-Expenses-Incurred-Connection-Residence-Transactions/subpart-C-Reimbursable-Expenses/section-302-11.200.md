@@ -1,5 +1,7 @@
 ##### § 302-11.200 What residence transaction expenses will my agency pay? #####
 
+Link to an amendment published at 83 FR 30079, June 27, 2018.
+
 Provided the residence transaction expenses are customarily charged to the seller of a residence in the locality of the old official station or paid by the purchaser at the new official station, your agency will, with appropriate supporting documentation provided by you, reimburse you for the following residence transaction expenses when they are incurred by you incident to your relocation:
 
 (a) Your broker's fee or real estate commission that you pay in the sale of your residence at the last official station, not to exceed the rates that are generally charged in the locality of your old official station;

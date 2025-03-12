@@ -8,4 +8,4 @@ Your agency may authorize/approve use of:
 
 (c) Any other special conveyance when determined to be advantageous to the Government.
 
-[ FTR Amdt. 70, 63 FR 15955, Apr. 1, 1998, as amended by FTR Amdt. 2017-01, 83 FR 604, Jan. 5, 2018]
+[FTR Amdt. 70, 63 FR 15955, Apr. 1, 1998, as amended by FTR Amdt. 2017-01, 83 FR 604, Jan. 5, 2018]

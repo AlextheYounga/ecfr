@@ -1,5 +1,7 @@
 ##### § 61.99 Aeronautical experience. #####
 
+Link to an amendment published at 83 FR 30277, June 27, 2018.
+
 A person who applies for a recreational pilot certificate must receive and log at least 30 hours of flight time that includes at least -
 
 (a) 15 hours of flight training from an authorized instructor on the areas of operation listed in § 61.98 of this part that consists of at least:

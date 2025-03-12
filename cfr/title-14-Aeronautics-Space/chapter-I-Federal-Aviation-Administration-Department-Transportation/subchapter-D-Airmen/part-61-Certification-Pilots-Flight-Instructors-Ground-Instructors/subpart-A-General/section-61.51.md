@@ -1,5 +1,7 @@
 ##### § 61.51 Pilot logbooks. #####
 
+Link to an amendment published at 83 FR 30277, June 27, 2018.
+
 (a) *Training time and aeronautical experience.* Each person must document and record the following time in a manner acceptable to the Administrator:
 
 (1) Training and aeronautical experience used to meet the requirements for a certificate, rating, or flight review of this part.

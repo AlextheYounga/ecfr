@@ -1,5 +1,7 @@
 ##### § 61.1 Applicability and definitions. #####
 
+Link to an amendment published at 83 FR 30276, June 27, 2018.
+
 (a) Except as provided in part 107 of this chapter, this part prescribes:
 
 (1) The requirements for issuing pilot, flight instructor, and ground instructor certificates and ratings; the conditions under which those certificates and ratings are necessary; and the privileges and limitations of those certificates and ratings.

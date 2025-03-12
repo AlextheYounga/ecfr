@@ -10,7 +10,7 @@
 
 (2) Present the knowledge test report at the time of application for the practical test, if a knowledge test is required;
 
-(3) Have satisfactorily accomplished the required training and obtained the aeronautical experience prescribed by this part for the certificate or rating sought;
+(3) Have satisfactorily accomplished the required training and obtained the aeronautical experience prescribed by this part for the certificate or rating sought, and if applying for the practical test with flight time accomplished under § 61.159(c), present a copy of the records required by § 135.63(a)(4)(vi) and (x) of this chapter;
 
 (4) Hold at least a third-class medical certificate, if a medical certificate is required;
 
@@ -60,4 +60,4 @@
 
 (g) If all increments of the practical test for a certificate or rating are not completed within 2 calendar months after the month the applicant began the test, the applicant must retake the entire practical test.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40897, July 30, 1997, as amended by Amdt. 61-104, 63 FR 20286, Apr. 23, 1998; Amdt. 61-124, 74 FR 42548, Aug. 21, 2009; Amdt. 61-130, 78 FR 42373, July 15, 2013; Amdt. 61-130B, 78 FR 77573, Dec. 24, 2013]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40897, July 30, 1997, as amended by Amdt. 61-104, 63 FR 20286, Apr. 23, 1998; Amdt. 61-124, 74 FR 42548, Aug. 21, 2009; Amdt. 61-130, 78 FR 42373, July 15, 2013; Amdt. 61-130B, 78 FR 77573, Dec. 24, 2013; Amdt. 61-142, 83 FR 30726, June 27, 2018]

@@ -1,5 +1,7 @@
 ##### § 23.21 Definitions. #####
 
+Link to an amendment published at 83 FR 30081, June 27, 2018.
+
 As used in this subpart, terms have the same meanings as those given to them in subpart A, § 23.2. In addition:
 
 *National Health Service Corps scholarship recipient* means an individual receiving a scholarship under the Public Health and National Health Service Corps Scholarship Training Program authorized by section 225 of the Act as in effect on September 30, 1977, and repealed on October 1, 1977, or a scholarship under the NHSC Scholarship Program authorized by section 338A of the Act, formerly section 751 of the Act.

@@ -1,6 +1,6 @@
 ##### § 301-10.420 When may I use a taxi, TNC, innovative mobility technology company, shuttle service or other courtesy transportation? #####
 
-(a) When authorized and approved by your agency, your transportation expenses in the performance of official travel are reimbursable for the usual fare plus tip for use of a taxis, TNCs, or innovative mobility technology companies, shuttle service or other courtesy transportation (if charges result), in the following manner:
+(a) When authorized and approved by your agency, your transportation expenses in the performance of official travel are reimbursable for the usual fare plus tip for use of a taxi, TNC, innovative mobility technology company, shuttle service or other courtesy transportation (if charges result), in the following manner:
 
 (1) *At your official station.* (i) From your residence or other authorized point of departure, e.g., residence to airport;
 
@@ -20,7 +20,7 @@
 
 (b) *Courtesy transportation.* You should use courtesy transportation service furnished by hotels/motels to the maximum extent possible as a first source of transportation between a place of lodging at the TDY station and a common carrier terminal. You will be reimbursed for tips when you use courtesy transportation service.
 
-(c) *Restrictions.* When appropriate, your agency will restrict or place a monetary limit on the amount of reimbursement for the use of taxis, TNCs, or innovative mobility technology companies under this paragraph when -
+(c) *Restrictions.* When appropriate, your agency will restrict or place a monetary limit on the amount of reimbursement for the use of taxis, TNCs, or innovative mobility technology companies under this paragraph when—
 
 (1) Suitable Government or common carrier transportation service, including shuttle service, is available for all or part of the distance involved; or
 
