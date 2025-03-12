@@ -1,7 +1,5 @@
 ##### § 203.11 Fees. #####
 
-Link to an amendment published at 84 FR 3701, February 13, 2019.
-
 (a) *In general.* (1) The fee schedule of this section does not apply with respect to the charging of fees for those records for which the Copyright Act requires a fee to be charged. The fees required to be charged are contained in § 201.3 of this chapter, or have been established by the Register of Copyrights or Library of Congress pursuant to the requirements of that section. The Copyright Office will charge for processing requests under FOIA in accordance with the provisions of this section and with the OMB Guidelines. For purposes of assessing fees for processing requests, FOIA establishes three categories of requesters:
 
 (i) Commercial use requesters;
@@ -66,7 +64,7 @@ Link to an amendment published at 84 FR 3701, February 13, 2019.
 
 (5) No fees will be charged for ordinary packaging and mailing costs.
 
-(e) *Notice of anticipated fees in excess of $25.00.* (1) When the Office determines or estimates that the fees to be assessed will exceed $25.00, the Office shall notify the requester of the actual or estimated amount of the fees, including a breakdown of the fees for search, review or duplication, unless the requester has indicated a willingness to pay fees as high as those anticipated. If only a portion of the fee can be estimated readily, the Office will advise the requester accordingly. If the request is a noncommercial use requester, the notice shall include the services provided without charge indicated in paragraph (d)(3) of this section, and shall advise the requester whether those entitlements have been provided.
+(e) *Notice of anticipated fees in excess of $25.00* (1) When the Office determines or estimates that the fees to be assessed will exceed $25.00, the Office shall notify the requester of the actual or estimated amount of the fees, including a breakdown of the fees for search, review or duplication, unless the requester has indicated a willingness to pay fees as high as those anticipated. If only a portion of the fee can be estimated readily, the Office will advise the requester accordingly. If the request is a noncommercial use requester, the notice shall include the services provided without charge indicated in paragraph (d)(3) of this section, and shall advise the requester whether those entitlements have been provided.
 
 (2) When a requester has been provided notice of anticipated fees in excess of $25.00, the request shall not be considered received and further work will not be completed until the requester commits in writing to pay the actual or estimated total fee, to designate which fees the requester is willing to pay, or, for noncommercial requests, to indicate that the requester seeks only the services that can be provided in paragraph (d)(3) of this section without charge. The Office is not required to accept payment in installments.
 
@@ -88,32 +86,28 @@ Link to an amendment published at 84 FR 3701, February 13, 2019.
 
 (4) In cases in which the Office requires advance payment, the request will not be considered received and further work will not be completed until the required payment is received. If the requester does not pay the advance payment within 30 calendar days after the date of the Office's fee determination, the request will be closed.
 
-(j) *Other statutes specifically providing for fees.* The provisions of this section do not apply with respect to the charging of fees for which the copyright law requires a fee to be charged. Requesters asking for copies of records about themselves shall be processed under the Privacy Act fee schedule found in § 204.6 of this chapter. Fees for services by the Office in the administration of the copyright law are contained in § 201.3 of this chapter. In instances where records responsive to a request are subject to the statutorily-based fee schedule, the Office will inform the requester of the service and appropriate fee.
+(j) *Other statutes specifically providing for fees.* The provisions of this section do not apply with respect to the charging of fees for which the copyright law requires a fee to be charged. Requests processed under the Privacy Act of 1974, 5 U.S.C. 552a, shall be subject to the fee schedule found in § 204.6 of this chapter. Fees for services by the Office in the administration of the copyright law are contained in § 201.3 of this chapter. In instances where records responsive to a request are subject to the statutorily-based fee schedule, the Office will inform the requester of the service and appropriate fee.
 
-(k) *Requirements for waiver or reduction of fees.* (1) Records responsive to a request shall be furnished without charged or at a reduced rate where the Office determines, based on all available information, that the requester has demonstrated that:
+(k) *Requirements for waiver or reduction of fees.* (1) Requesters may seek a waiver of fees by submitting a written application demonstrating how disclosure of the requested information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the government and is not primarily in the commercial interest of the requester.
 
-(i) Disclosure of the requested information is in the public interested because it is likely to contribute significantly to the public understanding of the operations or activities of the government; and
+(2) The Office shall furnish records responsive to a request without charge or at a reduced rate when it determines, based on all available information, that the factors described in paragraphs (k)(2)(i) through (iii) of this section are satisfied:
 
-(ii) Disclosure of the information is not primarily in the commercial interest of the requester.
+(i) Disclosure of the requested information would shed light on the operations or activities of the government. The subject of the request must concern identifiable operations or activities of the Federal Government with a connection that is direct and clear, not remote or attenuated.
 
-(2) In deciding whether the requester has demonstrated the requirement of paragraph (k)(1)(i) of this section, the Office shall consider all four of the following factors:
+(ii) Disclosure of the requested information is likely to contribute significantly to public understanding of those operations or activities. This factor is satisfied when the following criteria are met:
 
-(i) The subject of the request must concern identifiable operations or activities of the Federal Government, with a connection that is direct and clear, not remote or attenuated.
+(A) Disclosure of the requested records must be meaningfully informative about government operations or activities. The disclosure of information that already is in the public domain, in either the same or a substantially identical form, would not be meaningfully informative if nothing new would be added to the public's understanding.
 
-(ii) Disclosure of the requested records must be meaningfully informative about government operations or activities in order to be “likely to contribute” to an increased public understanding of those operations or activities. The disclosure of information that already is in the public domain, in either the same or a substantially identical form, would not contribute to such understanding where nothing new would be added to the public's understanding.
+(B) The disclosure must contribute to the understanding of a reasonably broad audience of persons interested in the subject, as opposed to the individual understanding of the requester. A requester's expertise in the subject area as well as the requester's ability and intention to effectively convey information to the public will be considered. The Office will presume that a representative of the news media will satisfy this consideration.
 
-(iii) The disclosure must contribute to the understanding of a reasonably broad audience of persons interested in the subject, as opposed to the individual understanding of the requester. A requester's expertise in the subject area as well as the requester's ability and intention to effectively convey information to the public shall be considered. It shall be presumed that a representative of the news media will satisfy this consideration.
+(iii) The disclosure must not be primarily in the commercial interest of the requester. To determine whether disclosure of the requested information is primarily in the commercial interest of the requester, the Office will consider the following criteria:
 
-(iv) The public's understanding of the subject in question must be enhanced by the disclosure to a significant extent. However, the Office shall not make value judgments about whether the information at issue is “important” enough to be made public.
+(A) The Office shall identify whether the requester has any commercial interest that would be furthered by the requested disclosure. A commercial interest includes any commercial, trade, or profit interest. Requesters shall be given an opportunity to provide explanatory information regarding this consideration.
 
-(3) In deciding whether the requester has demonstrated the requirement of paragraph (k)(1)(ii) of this section, the Office shall consider the following two factors:
+(B) If there is an identified commercial interest, the Office shall determine whether that is the primary interest furthered by the request. A waiver or reduction of fees is justified when the requirements of paragraphs (k)(2)(i) and (ii) of this section are satisfied and any commercial interest is not the primary interest furthered by the request. The Office ordinarily will presume that when a news media requester has satisfied factors in paragraphs (k)(2)(i) and (ii) of this section, the request is not primarily in the commercial interest of the requester. Disclosure to data brokers or others who merely compile and market government information for direct economic return will not be presumed to primarily serve the public interest.
 
-(i) The Office shall identify any commercial interest of the requester that would be furthered by the requested disclosure. Requesters shall be given an opportunity to provide explanatory information regarding this consideration.
+(3) Where only some of the records to be released satisfy the requirements for a waiver of fees, a waiver shall be granted for those records.
 
-(ii) A waiver or reduction of fees is justified where the public interest is greater than any identified commercial interest in disclosure. The Office ordinarily shall presume that where a news media requester has satisfied the public interest standard, the public interest will be the interest primarily served by disclosure to that requester. Disclosure to data brokers or others who merely compile and market government information for direct economic return shall not be presumed to primarily serve the public interest.
+(4) Requests for a waiver or reduction of fees should be made when the request is first submitted to the Office and should address the criteria referenced above. A requester may submit a fee waiver request at a later time so long as the underlying record request is pending or on administrative appeal. When a requester who has committed to pay fees subsequently asks for a waiver of those fees and that waiver is denied, the requester shall be required to pay any costs incurred up to the date the fee waiver request was received.
 
-(4) Where only some of the records to be released satisfy the requirements for a waiver of fees, a waiver shall be granted for those records.
-
-(5) Requests for a waiver or reduction of fees should be made when the request is first submitted to the Office and should address the criteria referenced above. A requester may submit a fee waiver request at a later time so long as the underlying record request is pending or on administrative appeal. When a requester who has committed to pay fees subsequently asks for a waiver of those fees and that waiver is denied, the requester shall be required to pay any costs incurred up to the date the fee waiver request was received.
-
-[82 FR 9508, Feb. 7, 2017]
+[82 FR 9508, Feb. 7, 2017, as amended at 84 FR 3701, Feb. 13, 2019]

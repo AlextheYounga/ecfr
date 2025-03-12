@@ -1,5 +1,7 @@
 ##### § 30.20 Ethical violations by HUD employees. #####
 
+Link to an amendment published at 84 FR 9453, Mar. 15, 2019.
+
 (a) *General.* The General Counsel, or his or her designee, may initiate a civil money penalty action against HUD employees who improperly disclose information pursuant to section 103 of the HUD Reform Act of 1989 (42 U.S.C. 3537a(c)) and 24 CFR part 4, subpart B.
 
 (b) *Maximum penalty.* The maximum penalty is $19,639 for each violation.

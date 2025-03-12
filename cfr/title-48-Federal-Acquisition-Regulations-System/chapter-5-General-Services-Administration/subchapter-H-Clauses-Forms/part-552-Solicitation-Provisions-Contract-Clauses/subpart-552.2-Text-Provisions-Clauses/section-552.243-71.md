@@ -1,16 +1,14 @@
 ##### 552.243-71 Equitable Adjustments. #####
 
-Link to an amendment published at 84 FR 3723, Feb. 13, 2019.
-
 As prescribed in 543.205, insert the following clause:
 
-Equitable Adjustments (JAN 2009)
+Equitable Adjustments (MAR 2019)
 
-(a) This clause governs the determination of equitable adjustments to which the Contractor may be entitled under the “Changes” clause prescribed by FAR 52.243-4, the “Differing Site Conditions” clause prescribed by FAR 52.236-2, and any other provision of this contract allowing entitlement to an equitable adjustment. This clause does not govern determination of the Contractor's relief allowable under the “Suspension of Work” clause prescribed by FAR 52.242-14.
+(a) This clause governs the determination of equitable adjustments to which the Contractor may be entitled under the “Changes” clause prescribed by FAR 52.243-4, the “Changes and Changed Conditions” clause prescribed by FAR 52.243-5, the “Differing Site Conditions” clause prescribed by FAR 52.236-2, and any other provision of this contract allowing entitlement to an equitable adjustment. This clause does not govern determination of the Contractor's relief allowable under the “Suspension of Work” clause prescribed by FAR 52.242-14.
 
 (b) At the written request of the Contracting Officer, the Contractor shall submit a proposal, in accordance with the requirements set forth herein, for an equitable adjustment to the contract for changes or other conditions that may entitle a Contractor to an equitable adjustment. If the Contractor deems an oral or written order to be a change to the contract, it shall promptly submit to the Contracting Officer a proposal for equitable adjustment attributable to such deemed change. The proposal shall also conform to the requirements set forth herein.
 
-(c) The proposal shall be submitted within the time specified in the “Changes” clause, or such other time as may reasonably be required by the Contracting Officer. In the case of a proposal submitted based on the “Differing Site Conditions” clause, the notice requirement of that clause shall be met.
+(c) The proposal shall be submitted within the time specified in the “Changes”, “Changes and Changed Conditions”, or “Differing Site Conditions” clause, as applicable, or such other time as may reasonably be required by the Contracting Officer.
 
 (d) Proposals for equitable adjustments, including no cost requests for adjustment of the contract's required completion date, shall include a detailed breakdown of the following elements, as applicable:
 
@@ -80,7 +78,7 @@ Equitable Adjustments (JAN 2009)
 
 (3) Written proof of payment of the costs requested. The sufficiency of the proof shall be determined by the Contracting Officer.
 
-(k) Proposal preparation costs shall be allowed only if -
+(k) Proposal preparation costs shall be allowed only if—
 
 (1) The nature and complexity of the change or other condition giving rise to entitlement to an equitable adjustment warrants estimating, scheduling, or other effort not reasonably foreseeable at the time of contract award;
 
@@ -102,4 +100,4 @@ Equitable Adjustments (JAN 2009)
 
 (3) Agreement to an equitable adjustment cannot be reached within 60 days of submission of the Contractor's proposal or receipt of additional requested information, despite the Contracting Officer's diligent efforts to negotiate the equitable adjustment.
 
-(End of clause)[74 FR 864, Jan. 9, 2009]
+(End of clause)[74 FR 864, Jan. 9, 2009, as amended at 84 FR 3723, Feb. 13, 2019]

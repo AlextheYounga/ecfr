@@ -1,7 +1,5 @@
 ##### § 202.3 Registration of copyright. #####
 
-Link to an amendment published at 84 FR 3697, February 13, 2019.
-
 (a) *General.* (1) This section prescribes conditions for the registration of copyright, and the application to be made for registration under sections 408 and 409 of title 17 of the United States Code.
 
 (2) For the purposes of this section, the terms *audiovisual work*, *compilation*, *copy*, *derivative work*, *device*, *fixation*, *literary work*, *motion picture*, *phonorecord*, *pictorial, graphic and sculptural works*, *process*, *sound recording*, and their variant forms, have the meanings set forth in section 101 of title 17. The term *author* includes an employer or other person for whom a work is “made for hire” under section 101 of title 17.
@@ -58,23 +56,7 @@ Link to an amendment published at 84 FR 3697, February 13, 2019.
 
 (3) [Reserved]
 
-(4) *Registration as a single work.* (i) For the purpose of registration on a single application and upon payment of a single registration fee, the following shall be considered a single work:
-
-(A) In the case of published works: all copyrightable elements that are otherwise recognizable as self-contained works, that are included in a single unit of publication, and in which the copyright claimant is the same; and
-
-(B) In the case of unpublished works: all copyrightable elements that are otherwise recognizable as self-contained works, and are combined in a single unpublished “collection.” For these purposes, a combination of such elements shall be considered a “collection” if:
-
-(*1*) The elements are assembled in an orderly form;
-
-(*2*) The combined elements bear a single title identifying the collection as a whole;
-
-(*3*) The copyright claimant in all of the elements, and in the collection as a whole, is the same; and
-
-(*4*) All of the elements are by the same author, or, if they are by different authors, at least one of the authors has contributed copyrightable authorship to each element.
-
-Registration of an unpublished “collection” extends to each copyrightable element in the collection and to the authorship, if any, involved in selecting and assembling the collection.
-
-(ii) In the case of an application for registration made under paragraphs (b)(4) through (10) of this section or under § 202.4, the “year of creation,” “year of completion,” or “year in which creation of this work was completed” means the latest year in which the creation of any copyrightable element was completed.
+(4) *Registration as one work.* For the purpose of registration on one application and upon the payment of one filing fee, the following shall be considered one work: In the case of published works, all copyrightable elements that are otherwise recognizable as self-contained works, that are included in the same unit of publication, and in which the copyright claimant is the same.
 
 (5) *Group registration of related works: Automated databases.* (i) Pursuant to the authority granted by section 408(c)(1) of title 17 of the United States Code, the Register of Copyrights has determined that, on the basis of one application, deposit, and filing fee, a group registration may be made for automated databases and their updates or other derivative versions that are original works of authorship, if, where a database (or updates or other revisions thereof), if unpublished, is (or are) fixed, or if published is (or are) published only in the form of machine-readable copies, all of the following conditions are met:
 
@@ -127,5 +109,7 @@ Registration of an unpublished “collection” extends to each copyrightable el
 (iv) For online applications, the date of the certification shall be automatically assigned by the electronic registration system on the date the application is received by the Copyright Office. For paper applications, the certification shall include the month, day, and year that the certification was signed by the certifying party.
 
 (v) An application for registration of a published work will not be accepted if the date of certification is earlier than the date of publication given in the application.
+
+(4) In the case of applications for registration made under paragraphs (b)(4) through (5) of this section or under § 202.4, the “year of creation,” “year of completion,” or “year in which creation of this work was completed” means the latest year in which the creation of any copyrightable element was completed.
 
 (Pub. L. 94-553; secs. 408, 409, 410, 702)[43 FR 966, Jan. 5, 1978]Editorial Note:For Federal Register citations affecting § 202.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

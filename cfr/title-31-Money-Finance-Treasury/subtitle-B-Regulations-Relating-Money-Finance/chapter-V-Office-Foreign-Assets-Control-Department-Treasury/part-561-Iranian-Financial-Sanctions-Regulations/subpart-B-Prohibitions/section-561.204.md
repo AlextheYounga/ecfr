@@ -10,7 +10,7 @@
 
 Note 1 to paragraph (a) of § 561.204:
 
-The name of any foreign financial institution with respect to which a determination has been made pursuant to this paragraph (a), along with the relevant sanctions to be imposed (prohibition(s) and/or strict condition(s)), will be added to the List of Foreign Financial Institutions Subject to Part 561 (the “Part 561 List”), which is maintained on the Office of Foreign Assets Control's Web site (*www.treasury.gov/ofac*) on the Iran Sanctions page, and published in the Federal Register.
+The name of any foreign financial institution with respect to which a determination has been made pursuant to this paragraph (a), along with the relevant sanctions to be imposed (prohibition(s) and/or strict condition(s)), will be added to the List of Foreign Financial Institutions Subject to Correspondent Account or Payable-Through Account Sanctions (CAPTA List), which is maintained on the Office of Foreign Assets Control's Web site (*www.treasury.gov/ofac*), and published in the Federal Register.
 
 Note 2 to paragraph (a) of § 561.204:
 
@@ -66,4 +66,4 @@ Note to § 561.204:
 
 The sanctions regime described in this section is separate from the sanctions regimes described in §§ 561.201 and 561.203 and applies in addition to, and independently of, the sanctions regimes imposed under §§ 561.201 and 561.203.
 
-[78 FR 16407, Mar. 15, 2013]
+[78 FR 16407, Mar. 15, 2013, as amended at 84 FR 9457, Mar. 15, 2019]

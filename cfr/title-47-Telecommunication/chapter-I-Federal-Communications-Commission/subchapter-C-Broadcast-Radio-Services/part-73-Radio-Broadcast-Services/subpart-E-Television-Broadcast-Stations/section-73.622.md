@@ -1950,8 +1950,8 @@ Attenuation in dB = −11.5(Δf + 3.6);Where: Δf = frequency difference in MHz 
 |     TENNESSEE      |                                                   |
 |    Chattanooga     |                9, 12, 13, \*29, 40                |
 |     Cleveland      |                        42                         |
-|     Cookeville     |                     \*22, 36                      |
 |     Crossville     |                        20                         |
+|      Franklin      |                        36                         |
 |    Greeneville     |                        38                         |
 |   Hendersonville   |                        33                         |
 |      Jackson       |                      39, 43                       |

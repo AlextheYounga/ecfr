@@ -1,12 +1,9 @@
 ##### § 203.7 Timing of responses to requests. #####
 
-Link to an amendment published at 84 FR 3700, February 13, 2019.
-
 (a) *In general.* The Office will respond to all properly addressed emailed and mailed requests and all personally delivered written requests for records within 20 working days of receipt. The Office ordinarily will respond to requests according to their order of receipt. In instances involving a misdirected request rerouted to the Office, the response time will commence on the date that the request is received by the Office, but in any event not later than 10 working days after the request is first received by the Library of Congress.
 
 (b) *Multitrack processing.* The Office will designate a specific track for requests that are granted expedited processing, in accordance with the standards set forth in paragraph (e) of this section. The Office may also designate additional processing tracks that distinguish between simple and more complex requests based on the estimated amount of work or time needed to process the request. Among the factors the Office may consider are the number of records requested, the number of pages involved in processing the request, and the need for consultations or referrals. The Office will advise a requester of the track into which their request falls and, when appropriate, will offer the requester an opportunity to narrow or modify their request so that it can be placed in a different processing track.
-
-(c) *Unusual circumstances.* (1)(i) Whenever the Office cannot meet the statutory time limit for processing a request because of “unusual circumstances,” as defined in paragraph (c)(2) of this section, the Office will notify the requester in writing of the unusual circumstances and the estimated date of determination. Where an extension of time greater than 10 days is required, the Office will give the requester the opportunity to:
+(1)(i) Whenever the Office cannot meet the statutory time limit for processing a request because of “unusual circumstances,” as defined in paragraph (c)(2) of this section, the Office will notify the requester in writing of the unusual circumstances and the estimated date of determination, and alert requesters to the availability of the Office of Government Information Services (OGIS) to provide dispute resolution services. Where an extension of time greater than 10 days is required, the Office will give the requester the opportunity to:
 
 (A) Limit the scope of the request so that it may be processed within 20 working days; or
 
@@ -36,4 +33,4 @@ Link to an amendment published at 84 FR 3700, February 13, 2019.
 
 (4) The Office will notify the requester within 10 calendar days of the receipt of a request for expedited processing of its decision whether to grant or deny expedited processing. If expedited processing is granted, the request will be given priority and processed as soon as is practicable. If a request for expedited processing is denied, the requester may submit an appeal to the Office of the Register of Copyrights. The Office will act expeditiously on any appeal of a denial of expedited processing.
 
-[82 FR 9508, Feb. 7, 2017]
+[82 FR 9508, Feb. 7, 2017, as amended at 84 FR 3700, Feb. 13, 2019]

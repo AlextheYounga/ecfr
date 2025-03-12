@@ -1,7 +1,5 @@
 ##### § 202.6 Supplementary registration. #####
 
-Link to an amendment published at 84 FR 3698, February 13, 2019.
-
 (a) *General.* This section prescribes conditions relating to the filing of an application for supplementary registration under section 408(d) of title 17 of the United States Code to correct an error in a copyright registration or to amplify the information given in a registration. No correction or amplification of the information in a basic registration will be made except pursuant to the provisions of this section. As an exception, where it is discovered that a basic registration contains an error caused by the Copyright Office's own action, the Office will take appropriate measures to rectify its mistake.
 
 (b) *Definitions.* (1) A *basic registration* means any of the following:
@@ -40,17 +38,19 @@ Link to an amendment published at 84 FR 3698, February 13, 2019.
 
 (e) *Application for supplementary registration.* (1) To seek a supplementary registration for a work registered in Class TX, PA, VA, SR, or SE, an unpublished collection, or a unit of publication registered under § 202.3, or a group of related works registered under § 202.4, an applicant must complete and submit the online application designated for supplementary registration.
 
-(2) To seek a supplementary registration for a database that consists predominantly of photographs registered under § 202.3(b)(5), an applicant must complete and submit the online application designated for supplementary registration after consultation with and under the direction of the Visual Arts Division.
+(2) To seek a supplementary registration for a group of unpublished works registered under § 202.4(c), an applicant must complete and submit the online application designated for supplementary registration after consultation with and under the direction of the Office of Registration Policy & Practice.
 
-(3) To seek a supplementary registration for a restored work registered under § 202.12, a database that does not consist predominantly of photographs registered under § 202.3(b)(5), or a renewal registration, an applicant must complete and submit a paper application using Form CA.
+(3) To seek a supplementary registration for a database that consists predominantly of photographs registered under § 202.3(b)(5), an applicant must complete and submit the online application designated for supplementary registration after consultation with and under the direction of the Visual Arts Division.
 
-(4) Before submitting the application, the applicant must sign a certification stating that the applicant reviewed a copy of the certificate of registration for the basic registration that will be corrected or amplified by the supplementary registration. To obtain a copy of the certificate, the applicant may submit a written request to the Records Research and Certification Section using the procedure set forth in Chapter 2400 of the *Compendium of U.S. Copyright Office Practices, Third Edition.*
+(4) To seek a supplementary registration for a restored work registered under § 202.12, a database that does not consist predominantly of photographs registered under § 202.3(b)(5), or a renewal registration, an applicant must complete and submit a paper application using Form CA.
 
-(5) The appropriate filing fee, as required by § 201.3(c) of this chapter, must be included with the application or charged to an active deposit account. At the Office's discretion, the applicant may be required to pay an additional fee to make a copy of the certificate of registration for the basic registration that will be corrected or amplified by the supplementary registration.
+(5) Before submitting the application, the applicant must sign a certification stating that the applicant reviewed a copy of the certificate of registration for the basic registration that will be corrected or amplified by the supplementary registration. To obtain a copy of the certificate, the applicant may submit a written request to the Records Research and Certification Section using the procedure set forth in Chapter 2400 of the *Compendium of U.S. Copyright Office Practices, Third Edition.*
 
-(6) Copies, phonorecords, or supporting documents cannot be made part of the record for a supplementary registration and should not be submitted with the application.
+(6) The appropriate filing fee, as required by § 201.3(c) of this chapter, must be included with the application or charged to an active deposit account. At the Office's discretion, the applicant may be required to pay an additional fee to make a copy of the certificate of registration for the basic registration that will be corrected or amplified by the supplementary registration.
 
-(7) In an exceptional case, the Copyright Office may waive the requirements set forth in paragraph (e)(1) of this section, subject to such conditions as the Associate Register and Director of the Office of Registration Policy and Practice may impose on the applicant.
+(7) Copies, phonorecords, or supporting documents cannot be made part of the record for a supplementary registration and should not be submitted with the application.
+
+(8) In an exceptional case, the Copyright Office may waive the requirements set forth in paragraph (e)(1) or (2)of this section, subject to such conditions as the Associate Register and Director of the Office of Registration Policy and Practice may impose on the applicant.
 
 (f) *Effect of supplementary registration.* (1) When the Copyright Office completes a supplementary registration, it will issue a certificate of supplementary registration bearing a new registration number in the appropriate class. The Office will cross-reference the records for the basic registration and the supplementary registration by placing a note in each record that identifies the registration number and effective date of registration for the related registration.
 

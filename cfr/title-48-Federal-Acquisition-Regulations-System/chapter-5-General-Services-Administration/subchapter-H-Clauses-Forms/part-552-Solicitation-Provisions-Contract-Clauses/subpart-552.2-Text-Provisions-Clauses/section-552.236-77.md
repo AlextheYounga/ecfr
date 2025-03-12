@@ -1,19 +1,11 @@
-##### 552.236-77 Specifications and Drawings #####
+##### 552.236-77 Government's Right to Exercise Options. #####
 
-Link to an amendment published at 84 FR 3722, Feb. 13, 2019.
+As prescribed in 536.270-5(d), insert the following clause:
 
-As prescribed in 536.570-8, insert the following clause:
+Government's Right to Exercise Options (MAR 2019)
 
-Specifications and Drawings (SEP 1999)
+(a) The Government may exercise any option in writing in accordance with the terms and conditions of the contract within \_\_\_ [*insert the period of time within which the Contracting Officer may exercise the option*]. Unless otherwise specified, options may be exercised within 90 calendar days of contract award.
 
-The requirements of the clause entitled “Specifications and Drawings for Construction” at FAR 52.236-21, are supplemented as follows:
+(b) If the Government exercises the option, the contract shall be considered to include this option clause.
 
-(a) In case of difference between small and large-scale drawings, the large-scale drawings shall govern. Schedules on any contract drawing shall take precedence over conflicting information on that or any other contract drawing. On any of the drawings where a portion of the work is detailed or drawn out and the remainder is shown in outline, the parts detailed or drawn out shall apply also to all other like portions of the work.
-
-(b) Where the word “similar” occurs on the drawings, it shall have a general meaning and not be interpreted as being identical, and all details shall be worked out in relation to their location and their connection with other parts of the work.
-
-(c) Standard Details or Specification Drawings are applicable when listed, bound with the specifications, noted on the drawings or referenced elsewhere in the specifications. Where the notes on the drawings indicate modifications, such modifications shall govern.
-
-(d) In case of difference between Standard Details or Specification Drawings and the specifications, the specifications will govern. In case of difference between the Standard Details or Specification Drawings and their drawings prepared specifically for this contract, the later shall govern.
-
-(End of clause)
+(End of clause)[84 FR 3722, Feb. 13, 2019]

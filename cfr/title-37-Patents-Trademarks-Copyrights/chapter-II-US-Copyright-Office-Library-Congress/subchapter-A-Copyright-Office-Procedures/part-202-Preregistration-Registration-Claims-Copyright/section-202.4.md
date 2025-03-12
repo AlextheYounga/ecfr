@@ -1,7 +1,5 @@
 ##### § 202.4 Group registration. #####
 
-Link to an amendment published at 84 FR 3698, February 13, 2019.
-
 (a) *General.* This section prescribes conditions for issuing a registration for a group of related works under section 408(c) of title 17 of the United States Code.
 
 (b) *Definitions.* (1) For purposes of this section, unless otherwise specified, the terms used have the meanings set forth in §§ 202.3, 202.13, and 202.20.
@@ -10,7 +8,27 @@ Link to an amendment published at 84 FR 3698, February 13, 2019.
 
 (3) For purposes of this section, a *periodical* is a collective work that is issued or intended to be issued on an established schedule in successive issues that are intended to be continued indefinitely. In most cases, each issue will bear the same title, as well as numerical or chronological designations.
 
-(c) [Reserved]
+(c) *Group registration of unpublished works.* Pursuant to the authority granted by 17 U.S.C. 408(c)(1), the Register of Copyrights has determined that a group of unpublished works may be registered in Class TX, PA, VA, or SR with one application, the required deposit, and the filing fee required by § 201.3(c) of this chapter, if the following conditions are met:
+
+(1) All the works in the group must be unpublished, and they must be registered in the same administrative class.
+
+(2) Generally, the applicant may include up to ten works in the group. If the conditions set forth in § 202.3(b)(1)(iv)(A) through (C) have been met, the applicant may include up to ten sound recordings and ten musical works, literary works, or dramatic works in the group.
+
+(3) The group may include individual works, joint works, or derivative works, but may not include compilations, collective works, databases, or websites.
+
+(4) The applicant must provide a title for each work in the group.
+
+(5) All the works must be created by the same author or the same joint authors, and the author and claimant information for each work must be the same.
+
+(6) The works may be registered as anonymous works, pseudonymous works, or works made for hire if they are identified in the application as such.
+
+(7) The applicant must identify the authorship that each author or joint author contributed to the works, and the authorship statement for each author or joint author must be the same. Claims in the selection, coordination, or arrangement of the group as a whole will not be permitted on the application.
+
+(8) The applicant must complete and submit the online application designated for a group of unpublished works. The application may be submitted by any of the parties listed in § 202.3(c)(1).
+
+(9) The applicant must submit one complete copy or phonorecord of each work. Each work must be contained in a separate electronic file that complies with § 202.20(b)(2)(iii). The files must be submitted in one of the electronic formats approved by the Office, they must be assembled in an orderly form, and they must be uploaded to the electronic registration system. The file size for each uploaded file must not exceed 500 megabytes; the files may be compressed to comply with this requirement.
+
+(10) In an exceptional case, the Copyright Office may waive the online filing requirement set forth in paragraph (c)(8) of this section or may grant special relief from the deposit requirement under § 202.20(d), subject to such conditions as the Associate Register and Director of the Office of Registration Policy and Practice may impose on the applicant.
 
 (d) *Group registration of serials.* Pursuant to the authority granted by 17 U.S.C. 408(c)(1), the Register of Copyrights has determined that a group of serial issues may be registered with one application, the required deposit, and the filing fee required by § 201.3(c) of this chapter, if the following conditions are met:
 
@@ -106,9 +124,9 @@ Link to an amendment published at 84 FR 3698, February 13, 2019.
 
 (7) The applicant must provide a title for the group as a whole
 
-(8) The applicant must complete and submit the online application designated for a group of unpublished photographs. (The Office will not register a group of unpublished photographs as an unpublished collection under § 202.3(b)(4)(i)(B).) The application may be submitted by any of the parties listed in § 202.3(c)(1).
+(8) The applicant must complete and submit the online application designated for a group of unpublished photographs. The application may be submitted by any of the parties listed in § 202.3(c)(1).
 
-(9) The applicant must submit one copy of each photograph in one of the following formats: JPEG, GIF, or TIFF. The file name for a particular photograph may consist of letters, numbers, and spaces, but the file name should not contain any other form of punctuation. The photographs may be uploaded to the electronic registration system together with the required numbered list, preferably in a .zip file containing all the photographs. The file size for each uploaded file must not exceed 500 megabytes; the photographs may be compressed to comply with this requirement. Alternatively, the photographs and the required numbered list may be saved on a physical storage device, such as a flash drive, CD-R, or DVD-R, and delivered to the Copyright Office together with the required shipping slip generated by the electronic registration system.
+(9) The applicant must submit one copy of each photograph in one of the following formats: JPEG, GIF, or TIFF. The photographs may be uploaded to the electronic registration system together with the required numbered list, preferably in a .zip file containing all the photographs. The file size for each uploaded file must not exceed 500 megabytes; the photographs may be compressed to comply with this requirement. Alternatively, the photographs and the required numbered list may be saved on a physical storage device, such as a flash drive, CD-R, or DVD-R, and delivered to the Copyright Office together with the required shipping slip generated by the electronic registration system.
 
 (10) The applicant must submit a sequentially numbered list containing a title and file name for each photograph in the group (matching the corresponding file names for each photograph specified in paragraph (h)(9) of this section). The title and file name for a particular photograph may be the same. The numbered list must be contained in an electronic file in Excel format (.xls), Portable Document Format (PDF), or other electronic format approved by the Office, and the file name for the list must contain the title of the group and the case number assigned to the application by the electronic registration system (e.g., “Title Of Group Case Number 16283927239.xls”).
 
@@ -132,7 +150,7 @@ Link to an amendment published at 84 FR 3698, February 13, 2019.
 
 (8) The applicant must complete and submit the online application designated for a group of published photographs. The application may be submitted by any of the parties listed in § 202.3(c)(1).
 
-(9) The applicant must submit one copy of each photograph in one of the following formats: JPEG, GIF, or TIFF. The file name for a particular photograph may consist of letters, numbers, and spaces, but the file name should not contain any other form of punctuation. The photographs may be uploaded to the electronic registration system together with the required numbered list, preferably in a .zip file containing all the photographs. The file size for each uploaded file must not exceed 500 megabytes; the photographs may be compressed to comply with this requirement. Alternatively, the photographs and the required numbered list may be saved on a physical storage device, such as a flash drive, CD-R, or DVD-R, and delivered to the Copyright Office together with the required shipping slip generated by the electronic registration system.
+(9) The applicant must submit one copy of each photograph in one of the following formats: JPEG, GIF, or TIFF. The photographs may be uploaded to the electronic registration system together with the required numbered list, preferably in a .zip file containing all the photographs. The file size for each uploaded file must not exceed 500 megabytes; the photographs may be compressed to comply with this requirement. Alternatively, the photographs and the required numbered list may be saved on a physical storage device, such as a flash drive, CD-R, or DVD-R, and delivered to the Copyright Office together with the required shipping slip generated by the electronic registration system.
 
 (10) The applicant must submit a sequentially numbered list containing the title, file name, and month and year of publication for each photograph in the group (matching the corresponding file names for each photograph specified in paragraph (i)(9) of this section). The title and file name for a particular photograph may be the same. The numbered list must be contained in an electronic file in Excel format (.xls), Portable Document Format (PDF), or other electronic format approved by the Office, and the file name for the list must contain the title of the group and the case number assigned to the application by the electronic registration system (e.g., “Title Of Group Case Number 16283927239.xls”).
 
@@ -147,6 +165,6 @@ Link to an amendment published at 84 FR 3698, February 13, 2019.
 (m) *Cancellation.* If the Copyright Office issues a registration for a group of related works and subsequently determines that the requirements for that group option have not been met, and if the claimant fails to cure the deficiency after being notified by the Office, the registration may be cancelled in accordance with § 201.7 of this chapter.
 
 (n) *The scope of a group registration.* When the Office issues a group registration under paragraphs (d), (e), or (f) of this section, the registration covers each issue in the group and each issue is registered as a separate work or a separate collective work (as the case may be).
-When the Office issues a group registration under paragraph (g), (h), (i), or (k) of this section, the registration covers each work in the group and each work is registered as a separate work. For purposes of registration, the group as a whole is not considered a compilation, a collective work, or a derivative work under section 101, 103(b), or 504(c)(1) of title 17 of the United States Code.
+When the Office issues a group registration under paragraphs (c), (g), (h), (i), or (k)of this section, the registration covers each work in the group and each work is registered as a separate work. For purposes of registration, the group as a whole is not considered a compilation, a collective work, or a derivative work under section 101, 103(b), or 504(c)(1) of title 17 of the United States Code.
 
-[82 FR 29413, June 29, 2017, as amended at 82 FR 52228, Nov. 13, 2017; 83 FR 2547, Jan. 18, 2018; 83 FR 4146, Jan. 30, 2018; 83 FR 61549, Nov. 30, 2018; 84 FR 3699, Feb. 13, 2019]
+[82 FR 29413, June 29, 2017, as amended at 82 FR 52228, Nov. 13, 2017; 83 FR 2547, Jan. 18, 2018; 83 FR 4146, Jan. 30, 2018; 83 FR 61549, Nov. 30, 2018; 84 FR 3699, Feb. 13, 2019; 84 FR 3698, Feb. 13, 2019]

@@ -42,7 +42,7 @@ The Media Bureau has responsibility for enforcement of these limits in the broad
 
 (10) Resolve complaints regarding false distress signals under section 325(a) of the Communications Act.
 
-(11) Resolves other complaints against Title III licensees and permittees, including complaints under § 20.12(e) of this chapter.
+(11) Resolves other complaints against Title III licensees and permittees (Title III of the Communications Act of 1934, as amended), including complaints under § 20.12(e) of this chapter, except that the Media Bureau has primary responsibility for complaints regarding children's television programming requirements, and for political and related programming matters involving broadcasters, cable operators and other multichannel video programming distributors. The relevant licensing Bureau has primary responsibility for complaints involving tower siting and the Commission's environmental rules. The Media Bureau has primary responsibility for complaints regarding compliance with conditions imposed on transfers of control and assignments of licenses of Cable Television Relay Service authorizations.
 
 Note to paragraph (a)(11):
 
@@ -50,7 +50,7 @@ The Media Bureau has primary responsibility for complaints regarding children's 
 
 (12) Resolve complaints regarding pole attachments filed under section 224 of the Communications Act.
 
-(13) Resolve complaints regarding multichannel video and cable television service under part 76 of the Commission's rules.
+(13) Resolve complaints regarding multichannel video and cable television service under part 76 of this chapter, except that the Media Bureau has primary responsibility for complaints regarding the following: Subpart A (general), with the exception of § 76.11; subpart B (Registration Statements); subpart C (Cable Franchise Applications); subpart D (carriage of television broadcast signals); subpart F (nonduplication protection and syndicated exclusivity); subpart G, §§ 76.205 and 76.206 (political broadcasting); subpart I ([Reserved]); subpart J (ownership); subpart L (cable television access); subpart N, § 76.944 (basic cable rate appeals), and §§ 76.970, 76.971, and 76.977 (cable leased access rates); subpart O (competitive access to cable programming); subpart P (competitive availability of navigation devices); subpart Q (regulation of carriage agreements); subpart S (Open Video Systems); and subparts T, U, and V to the extent related to the matters listed in this paragraph (a)(13).
 
 Note to paragraph (a)(13):
 
@@ -80,6 +80,8 @@ The Media Bureau has primary responsibility for complaints regarding the followi
 
 (25) Resolve complaints alleging violations of the open Internet rules.
 
+(26) Conduct audits and investigations and resolve issues of compliance concerning equal employment opportunity requirements involving Title III licensees and permittees or multichannel video programming distributors, including cable service providers, under part 76 of this chapter.
+
 (b) Serve as trial staff in formal hearings conducted pursuant to 5 U.S.C. 556 regarding applications, revocation, forfeitures and other matters designated for hearing.
 
 (c) In coordination with the International Bureau, participate in international conferences dealing with monitoring and measurement; serve as the point of contact for the U.S. Government in matters of international monitoring, fixed and mobile direction-finding and interference resolution; and oversee coordination of non-routine communications and materials between the Commission and international or regional public organizations or foreign administrations.
@@ -96,4 +98,4 @@ The Media Bureau has primary responsibility for complaints regarding the followi
 
 (i) Perform such other functions as may be assigned or referred to it by the Commission.
 
-[64 FR 60716, Nov. 8, 1999, as amended at 67 FR 13218, Mar. 21, 2002; 68 FR 36942, June 20, 2003; 69 FR 30233, May 27, 2004; 71 FR 69034, Nov. 29, 2006; 76 FR 24381, May 2, 2011; 76 FR 26220, May 6, 2011; 76 FR 59232, Sept. 23, 2011; 76 FR 60754, Sept. 30, 2011; 78 FR 23151, Apr. 18, 2013; 80 FR 53749, Sept. 8, 2015]
+[64 FR 60716, Nov. 8, 1999, as amended at 67 FR 13218, Mar. 21, 2002; 68 FR 36942, June 20, 2003; 69 FR 30233, May 27, 2004; 71 FR 69034, Nov. 29, 2006; 76 FR 24381, May 2, 2011; 76 FR 26220, May 6, 2011; 76 FR 59232, Sept. 23, 2011; 76 FR 60754, Sept. 30, 2011; 78 FR 23151, Apr. 18, 2013; 80 FR 53749, Sept. 8, 2015; 84 FR 9465, Mar. 15, 2019]

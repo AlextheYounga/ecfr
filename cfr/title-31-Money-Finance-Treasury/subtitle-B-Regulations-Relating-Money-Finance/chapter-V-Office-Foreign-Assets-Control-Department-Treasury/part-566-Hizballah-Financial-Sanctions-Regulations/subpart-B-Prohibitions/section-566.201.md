@@ -30,10 +30,12 @@ The SDN List is accessible through the following page on OFAC's Web site: *www.t
 
 Note to paragraph (b):
 
-The name of the foreign financial institution, together with the actual strict condition(s) to be imposed, will be added to the HFSR List on the Office of Foreign Assets Control's Web site (*www.treasury.gov/ofac*) on the Counter Terrorism Sanctions page, and published in the Federal Register.
+The name of the foreign financial institution, together with the actual strict condition(s) to be imposed, will be added to the List of Foreign Financial Institutions Subject to Correspondent Account or Payable-Through Account Sanctions (CAPTA List) on the Office of Foreign Assets Control's Web site (*www.treasury.gov/ofac*), and published in the Federal Register.
 
 (c) If the Secretary of the Treasury does not impose one or more strict conditions, pursuant to paragraph (b) of this section, on the opening or maintaining by a U.S. financial institution of a correspondent account or a payable-through account in the United States for a foreign financial institution that the Secretary determines engages in one or more of the activities described in paragraph (a) of this section, the Secretary may prohibit the opening or maintaining by a U.S. financial institution of a correspondent account or a payable-through account in the United States for that foreign financial institution. Except as otherwise authorized pursuant to this part, a U.S. financial institution shall not open or maintain a correspondent account or a payable-through account in the United States for a foreign financial institution for which the opening or maintaining of such an account is prohibited pursuant to this paragraph.
 
 Note to paragraph (c):
 
-The names of foreign financial institutions for which the opening or maintaining of a correspondent account or a payable-through account in the United States is prohibited will be listed on the HFSR List on OFAC's Web site (*www.treasury.gov/ofac*) on the Counter Terrorism Sanctions page, and published in the Federal Register.
+The names of foreign financial institutions for which the opening or maintaining of a correspondent account or a payable-through account in the United States is prohibited will be listed on the CAPTA List on OFAC's Web site (*www.treasury.gov/ofac*), and published in the Federal Register.
+
+[81 FR 22186, Apr. 15, 2016, as amended at 84 FR 9457, Mar. 15, 2019]

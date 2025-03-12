@@ -8,7 +8,7 @@ The Media Bureau develops, recommends and administers the policy and licensing p
 
 (c) Conduct comprehensive studies and analyses concerning the legal, engineering, and economic aspects of electronic media services.
 
-(d) Administer and enforce rules and policies regarding equal employment opportunity.
+(d) [Reserved]
 
 (e) Administer and enforce rules and policies regarding political programming and related matters.
 
@@ -48,4 +48,4 @@ The Media Bureau's enforcement authority does not include enforcement in those a
 
 (l) To coordinate with the Public Safety and Homeland Security Bureau on all matters affecting public safety, homeland security, national security, emergency management, disaster management, and related issues.
 
-[67 FR 13217, Mar. 21, 2002, as amended at 71 FR 69034, Nov. 29, 2006]
+[67 FR 13217, Mar. 21, 2002, as amended at 71 FR 69034, Nov. 29, 2006; 84 FR 9465, Mar. 15, 2019]

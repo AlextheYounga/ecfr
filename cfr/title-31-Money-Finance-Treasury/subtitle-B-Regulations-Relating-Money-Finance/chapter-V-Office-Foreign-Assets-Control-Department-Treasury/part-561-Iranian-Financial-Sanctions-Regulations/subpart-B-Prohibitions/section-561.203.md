@@ -14,7 +14,7 @@ The names of *designated Iranian financial institutions* are identified on the S
 
 Note 2 to paragraph (a) of § 561.203:
 
-The name of any foreign financial institution with respect to which a determination has been made pursuant to this paragraph (a), along with the relevant sanctions to be imposed (prohibition(s) and/or strict condition(s)), will be added to the List of Foreign Financial Institutions Subject to Part 561 (the “Part 561 List”), which is maintained on the Office of Foreign Assets Control's Web site (*www.treasury.gov/ofac*) on the Iran Sanctions page, and published in the Federal Register.
+The name of any foreign financial institution with respect to which a determination has been made pursuant to this paragraph (a), along with the relevant sanctions to be imposed (prohibition(s) and/or strict condition(s)), will be added to the List of Foreign Financial Institutions Subject to Correspondent Account or Payable-Through Account Sanctions (CAPTA List), which is maintained on the Office of Foreign Assets Control's Web site (*www.treasury.gov/ofac*), and published in the Federal Register.
 
 (b) *Strict conditions.* The strict conditions that might be imposed on the maintaining of a pre-existing correspondent account or payable-through account for a foreign financial institution pursuant to paragraph (a)(2)(ii) of this section include, but are not limited to, the following:
 
@@ -74,7 +74,7 @@ The Secretary of State is to determine whether a country qualifies for the “si
 
 (3) Any funds owed to Iran as a result of such trade are subject to the terms and conditions set forth in paragraph (k) of this section; and
 
-(4) Funds owed as a result of such trade are not credited to an account held at any financial institution whose name appears on the List of Foreign Financial Institutions Subject to Part 561 (the “Part 561 List”), which is maintained on the Office of Foreign Assets Control's Web site (*www.treasury.gov/ofac*) on the Iran Sanctions page.
+(4) Funds owed as a result of such trade are not credited to an account held at any financial institution whose name appears on the List of Foreign Financial Institutions Subject to Correspondent Account or Payable-Through Account Sanctions (CAPTA List), which is maintained on the Office of Foreign Assets Control's Web site (*www.treasury.gov/ofac*).
 
 (k) In order for a transaction to qualify for the significant reduction exception from the sanctions imposed under paragraph (a) of this section described in paragraph (i), all funds owed to Iran as a result of a trade transaction described in paragraph (j)(1) of this section must be subject to the following conditions and restrictions:
 
@@ -92,7 +92,7 @@ The Secretary of State is to determine whether a country qualifies for the “si
 
 (ii) Entities that are organized under the laws of that country;
 
-(6) The funds may not be withdrawn in cash, remitted to Iran or paid to anyone that is the *Government of**Iran,* as defined in § 561.321, or credited to an account held at a financial institution whose name appears on the Part 561 List (see paragraph (j)(4) of this section); and
+(6) The funds may not be withdrawn in cash, remitted to Iran or paid to anyone that is the *Government of**Iran,* as defined in § 561.321, or credited to an account held at a financial institution whose name appears on the CAPTA List (see paragraph (j)(4) of this section); and
 
 (7) Other than in payment for goods or services exported and sold to Iran as set forth in paragraphs (k)(4) through (k)(6) of this section, the funds may be transferred from the initial account described in paragraphs (k)(1) through (k)(3) of this section only to another account that is held at the same foreign financial institution, located in the country with primary jurisdiction over that foreign financial institution, and subject to the following conditions and restrictions:
 
@@ -112,4 +112,4 @@ Note 2 to § 561.203:
 
 Paragraph (g) of this section excepts transactions for the sale of agricultural commodities, food, medicine, or medical devices to Iran from the imposition of sanctions under paragraph (a) of this section. Therefore, funds owed to Iran as a result of a trade transaction described in paragraph (j)(1) of this section may be used for the purchase and export to Iran of agricultural commodities, food, medicine, or medical devices regardless of the country from which such goods are purchased and regardless of where such goods originate, and payment from the funds for such goods may be made to exporters in countries other than the country with primary jurisdiction over the foreign financial institution holding the funds.
 
-[77 FR 11726, Feb. 27, 2012, as amended at 78 FR 16405, Mar. 15, 2013]
+[77 FR 11726, Feb. 27, 2012, as amended at 78 FR 16405, Mar. 15, 2013; 84 FR 9457, Mar. 15, 2019]

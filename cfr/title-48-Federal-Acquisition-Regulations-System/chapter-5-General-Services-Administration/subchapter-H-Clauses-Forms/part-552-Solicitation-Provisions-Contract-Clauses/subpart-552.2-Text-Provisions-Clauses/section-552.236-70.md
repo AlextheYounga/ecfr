@@ -1,11 +1,13 @@
-##### 552.236-70 Definitions. #####
+##### 552.236-70 Authorities and Limitations. #####
 
-Link to an amendment published at 84 FR 3721, Feb. 13, 2019.
+As prescribed in 536.570, insert the following clause:
 
-As prescribed in 536.570-1, insert the following clause:
+Authorities and Limitations (MAR 2019)
 
-Definitions (APR 1984)
+(a) All work shall be performed under the general direction of the Contracting Officer. The Contracting Officer alone shall have the power to bind the Government and to exercise the rights, responsibilities, authorities and functions vested in him by the contract documents. The Contracting Officer may designate contracting officer's representatives (CORs) to act for him. Wherever any provision in this contract specifies an individual (such as, but not limited to, Construction Engineer, Resident Engineer, Inspector or Custodian) or organization, whether Governmental or private, to perform any act on behalf of or in the interests of the Government, that individual or organization shall be deemed to be the COR under this contract but only to the extent so specified. The Contracting Officer may, at any time during the performance of this contract, vest in any such COR additional power and authority to act for him or designate additional CORs, specifying the extent of their authority to act for him. A copy of each document vesting additional authority in a COR or designating an additional COR shall be furnished to the Contractor.
 
-The terms “Administration” and “Service” as used in this contract shall mean the General Services Administration (GSA) and the Public Buildings Service (PBS), respectively.
+(b) The Contractor shall perform the contract in accordance with any order (including but not limited to instruction, direction, interpretation, or determination) issued by a COR in accordance with his authority to act for the Contracting Officer; but the Contractor assumes all the risk and consequences of performing the contract in accordance with any order (including but not limited to instruction, direction, interpretation, or determination) of anyone not authorized to issue such order.
 
-(End of clause)
+(c) If the Contractor receives written notice from the Contracting Officer of non-compliance with any requirement of this contract, the Contractor must initiate action as may be appropriate to comply with the specified requirement as defined in the notice. In the event the Contractor fails to initiate such action within a reasonable period of time as defined in the notice, the Contracting Officer shall have the right to order the Contractor to stop any or all work under the contract until the Contractor has complied or has initiated such action as may be appropriate to comply within a reasonable period of time. The Contractor will not be entitled to any extension of contract time or payment for any costs incurred as a result of being ordered to stop work for such cause.
+
+(End of clause)[84 FR 3721, Feb. 13, 2019]
