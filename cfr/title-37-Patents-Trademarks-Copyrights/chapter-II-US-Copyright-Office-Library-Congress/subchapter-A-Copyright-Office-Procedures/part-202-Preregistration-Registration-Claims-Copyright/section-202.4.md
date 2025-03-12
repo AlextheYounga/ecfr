@@ -1,7 +1,5 @@
 ##### § 202.4 Group registration. #####
 
-Link to an amendment published at 85 FR 37346, June 22, 2020.
-
 (a) *General.* This section prescribes conditions for issuing a registration for a group of related works under section 408(c) of title 17 of the United States Code.
 
 (b) *Definitions.* (1) For purposes of this section, unless otherwise specified, the terms used have the meanings set forth in §§ 202.3, 202.13, and 202.20.
@@ -152,7 +150,25 @@ Link to an amendment published at 85 FR 37346, June 22, 2020.
 
 (11) In an exceptional case, the Copyright Office may waive the online filing requirement set forth in paragraph (i)(8) of this section or may grant special relief from the deposit requirement under § 202.20(d), subject to such conditions as the Associate Register of Copyrights and Director of the Office of Registration Policy and Practice may impose on the applicant.
 
-(j) [Reserved]
+(j) *Group registration of short online literary works.* Pursuant to the authority granted by 17 U.S.C. 408(c)(2), the Register of Copyrights has determined that a group of literary works may be registered in Class TX with one application, the required deposit, and the filing fee required by § 201.3(c) if the following conditions are met:
+
+(1) The group may include up to 50 short online literary works, and the application must specify the total number of short online literary works that are included in the group. For purposes of this section, a *short online literary work* is a work consisting of text that contains at least 50 words and no more than 17,500 words, such as a poem, short story, article, essay, column, blog entry, or social media post. The work must be published as part of a website or online platform, including online newspapers, social media websites, and social networking platforms. The group may not include computer programs, audiobooks, podcasts, or emails. Claims in any form of authorship other than “text” or claims in the selection, coordination, or arrangement of the group as a whole will not be permitted on the application.
+
+(2) All of the works must be published within a three-calendar-month period, and the application must identify the earliest and latest date that the works were published.
+
+(3) All the works must be created by the same individual, or jointly by the same individuals, and each creator must be named as the copyright claimant or claimants for each work in the group.
+
+(4) The works must not be works made for hire.
+
+(5) The applicant must provide a title for each work and a title for the group as a whole.
+
+(6) The applicant must complete and submit the online application designated for a group of short online literary works. The application may be submitted by any of the parties listed in § 202.3(c)(1).
+
+(7) The applicant must submit one complete copy of each work. The works must be assembled in an orderly form with each work in a separate digital file. The file name for each work must match the title as submitted on the application. All of the works must be submitted in one of the electronic formats approved by the Office, and must be uploaded to the electronic registration system in a .ZIP file. The file size for each uploaded .ZIP file must not exceed 500 megabytes.
+
+(8) The applicant must submit a sequentially numbered list containing a title/file name for each work in the group. The list must also include the publication date and word count for each work. The numbered list must be contained in an electronic file in Excel format (.xls), Portable Document Format (PDF), or other electronic format approved by the Office, and the file name for the list must contain the title of the group and the case number assigned to the application by the electronic registration system (*e.g.,* “Title Of Group Case Number 16283927239.xls”).
+
+(9) In an exceptional case, the Copyright Office may waive the online filing requirement set forth in paragraph (j)(6) of this section or may grant special relief from the deposit requirement under § 202.20(d), subject to such conditions as the Associate Register of Copyrights and Director of the Office of Registration Policy and Practice may impose on the applicant.
 
 (k) *Secure test items.* Pursuant to the authority granted by 17 U.S.C. 408(c)(1), the Register of Copyrights has determined that a group of test items may be registered in Class TX with one application, one filing fee, and identifying material, if the conditions set forth in § 202.13(c) and (d) have been met.
 
@@ -160,7 +176,7 @@ Link to an amendment published at 85 FR 37346, June 22, 2020.
 
 (m) *Cancellation.* If the Copyright Office issues a registration for a group of related works and subsequently determines that the requirements for that group option have not been met, and if the claimant fails to cure the deficiency after being notified by the Office, the registration may be cancelled in accordance with § 201.7 of this chapter.
 
-(n) *The scope of a group registration.* When the Office issues a group registration under paragraphs (d), (e), or (f) of this section, the registration covers each issue in the group and each issue is registered as a separate work or a separate collective work (as the case may be).
-When the Office issues a group registration under paragraphs (c), (g), (h), (i), or (k)of this section, the registration covers each work in the group and each work is registered as a separate work. For purposes of registration, the group as a whole is not considered a compilation, a collective work, or a derivative work under section 101, 103(b), or 504(c)(1) of title 17 of the United States Code.
+(n) *The scope of a group registration.* When the Office issues a group registration under paragraph (d), (e), or (f) of this section, the registration covers each issue in the group and each issue is registered as a separate work or a separate collective work (as the case may be).
+When the Office issues a group registration under paragraph (c), (g), (h), (i), (j), or (k) of this section, the registration covers each work in the group and each work is registered as a separate work. For purposes of registration, the group as a whole is not considered a compilation, a collective work, or a derivative work under section 101, 103(b), or 504(c)(1) of title 17 of the United States Code.
 
-[82 FR 29413, June 29, 2017, as amended at 82 FR 52228, Nov. 13, 2017; 83 FR 2547, Jan. 18, 2018; 83 FR 4146, Jan. 30, 2018; 83 FR 61549, Nov. 30, 2018; 84 FR 3699, Feb. 13, 2019; 84 FR 3698, Feb. 13, 2019; 84 FR 60918, 60919, Nov. 12, 2019; 85 FR 31982, May 28, 2020]
+[82 FR 29413, June 29, 2017, as amended at 82 FR 52228, Nov. 13, 2017; 83 FR 2547, Jan. 18, 2018; 83 FR 4146, Jan. 30, 2018; 83 FR 61549, Nov. 30, 2018; 84 FR 3699, Feb. 13, 2019; 84 FR 3698, Feb. 13, 2019; 84 FR 60918, 60919, Nov. 12, 2019; 85 FR 31982, May 28, 2020; 85 FR 37346, June 22, 2020]

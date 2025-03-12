@@ -28,11 +28,95 @@ Link to an amendment published at 85 FR 47111, Aug. 4, 2020.
 
 (4) [Reserved]
 
-(b) *Vessel owners or operators* - (1) *Fishing Vessel Trip Reports* - (i) The owner or operator of any vessel issued a valid permit or eligible to renew a limited access permit under this part must maintain on board the vessel, and submit, an accurate fishing log report for each fishing trip, regardless of species fished for or taken, on forms supplied by or approved by the Regional Administrator. The reporting requirements specified in this paragraph (b)(1)(i) for an owner or operator of a vessels fishing for, possessing, or landing Atlantic chub mackerel are effective through December 31, 2020. If authorized in writing by the Regional Administrator, a vessel owner or operator may submit reports electronically, for example by using a VMS or other media. With the exception of those vessel owners or operators fishing under a surfclam or ocean quahog permit, at least the following information and any other information required by the Regional Administrator must be provided: Vessel name; USCG documentation number (or state registration number, if undocumented); permit number; date/time sailed; date/time landed; trip type; number of crew; number of anglers (if a charter or party boat); gear fished; quantity and size of gear; mesh/ring size; chart area fished; average depth; latitude/longitude (or loran station and bearings); total hauls per area fished; average tow time duration; hail weight, in pounds (or count of individual fish, if a party or charter vessel), by species, of all species, or parts of species, such as monkfish livers, landed or discarded; and, in the case of skate discards, “small” (*i.e.,* less than 23 inches (58.42 cm), total length) or “large” (*i.e.,* 23 inches (58.42 cm) or greater, total length) skates; dealer permit number; dealer name; date sold, port and state landed; and vessel operator's name, signature, and operator's permit number (if applicable).
+(b) *Vessel owners or operators* - (1) *Fishing Vessel Trip Reports* - (i) *General.* The reporting requirements specified in this paragraph (b)(1)(i) for an owner or operator of a vessel fishing for, possessing, or landing Atlantic chub mackerel are effective through December 31, 2020. If authorized in writing by the Regional Administrator, a vessel owner or operator may submit reports electronically, for example by using a VMS or other media. Except for vessel owners or operators fishing under a surfclam or ocean quahog permit, or fishing under a private recreational tilefish permit, the owner or operator of any vessel issued a valid permit or eligible to renew a limited access permit under this part must:
+
+(A) Maintain on board the vessel, and submit, an accurate fishing log report for each fishing trip, regardless of species fished for or taken, on forms supplied by or approved by the Regional Administrator.
+
+(B) If authorized in writing by the Regional Administrator, a vessel owner or operator may submit reports electronically, for example by using a VMS or other media.
+
+(C) At least the following information and any other information required by the Regional Administrator must be provided:
+
+(*1*) Vessel name;
+
+(*2*) USCG documentation number (or state registration number, if undocumented);
+
+(*3*) Permit number;
+
+(*4*) Date/time sailed;
+
+(*5*) Date/time landed;
+
+(*6*) Trip type;
+
+(*7*) Number of crew;
+
+(*8*) Number of anglers (if a charter or party boat);
+
+(*9*) Gear fished;
+
+(*10*) Quantity and size of gear;
+
+(*11*) Mesh/ring size;
+
+(*12*) Chart area fished;
+
+(*13*) Average depth;
+
+(*14*) Latitude/longitude (or loran station and bearings);
+
+(*15*) Total hauls per area fished;
+
+(*16*) Average tow time duration;
+
+(*17*) Hail weight, in pounds (or count of individual fish, if a party or charter vessel), by species, of all species, or parts of species, such as monkfish livers, landed or discarded; and,
+
+(*18*) In the case of skate discards, “small” (*i.e.,* less than 23 inches (58.42 cm), total length) or “large” (*i.e.,* 23 inches (58.42 cm) or greater, total length) skates;
+
+(*19*) Dealer permit number;
+
+(*20*) Dealer name;
+
+(*21*) Date sold, port and state landed; and
+
+(*22*) Vessel operator's name, signature, and operator's permit number (if applicable).
 
 (ii) *Surfclam and ocean quahog vessel owners and operators.* The owner or operator of any vessel conducting any surfclam and ocean quahog fishing operations, except those conducted exclusively in waters of a state that requires cage tags or when he/she has surrendered the surfclam and ocean quahog fishing vessel permit, shall maintain, on board the vessel, an accurate daily fishing log for each fishing trip, on forms supplied by the Regional Administrator, showing at least: Name and permit number of the vessel, total amount in bushels of each species taken, date(s) caught, time at sea, duration of fishing time, locality fished, crew size, crew share by percentage, landing port, date sold, price per bushel, buyer, tag numbers from cages used, quantity of surfclams and ocean quahogs discarded, and allocation permit number.
 
-(iii) *Charter/Party vessel permit owners and operators.* The owner or operator of any fishing vessel that holds a Federal charter/party (for-hire) permit to fish for Atlantic bluefish, black sea bass, scup, summer flounder, tilefish, Atlantic mackerel, squid, and/or butterfish, when on a trip carrying passengers for hire, must submit the required Vessel Trip Report by electronic means. This report must be submitted through a software application approved by NMFS, and must contain all applicable information outlined in paragraph (b)(1)(i) of this section.
+(iii) *Charter/Party vessel permit owners and operators.* The owner or operator of any fishing vessel that holds a Federal charter/party (for-hire) permit to fish for Atlantic bluefish, black sea bass, scup, summer flounder, tilefish, Atlantic mackerel, squid, and/or butterfish, when on a trip carrying passengers for hire, must submit the required Vessel Trip Report by electronic means. This report must be submitted through a software application approved by NMFS and must contain all applicable information outlined in paragraph (b)(1)(i)(C) of this section.
+
+(iv) *Private tilefish recreational vessel owners and operators.* The owner or operator of any fishing vessel that holds a Federal private recreational tilefish permit, must report for each recreational trip fishing for or retaining blueline or golden tilefish in the Tilefish Management Unit. The required Vessel Trip Report must be submitted by electronic means. This report must be submitted through a NMFS-approved electronic reporting system within 24 hours of the trip returning to port. The vessel operator may keep paper records while onboard and upload the data after landing. The report must contain the following information:
+
+(A) Vessel name;
+
+(B) USCG documentation number (or state registration number, if undocumented);
+
+(C) Permit number;
+
+(D) Date/time sailed;
+
+(E) Date/time landed;
+
+(F) Trip type;
+
+(G) Number of anglers;
+
+(H) Species
+
+(I) Gear fished;
+
+(J) Quantity and size of gear;
+
+(K) Soak time;
+
+(L) Depth;
+
+(M) Chart Area;
+
+(N) Latitude/longitude where fishing occurred;
+
+(O) Count of individual golden and blueline tilefish landed or discarded; and
+
+(P) Port and state landed.
 
 (2) *IVR system reports* - (i) *Atlantic herring vessel owners or operators issued a Category D Herring Permit.* The owner or operator of a vessel issued a Category D Herring Permit to fish for herring must report catch (retained and discarded) of herring via an IVR system for each week herring was caught, unless exempted by the Regional Administrator. IVR reports are not required for weeks when no herring was caught. The report shall include at least the following information, and any other information required by the Regional Administrator: Vessel identification; week in which herring are caught; management areas fished; and pounds retained and pounds discarded of herring caught in each management area. The IVR reporting week begins on Sunday at 0001 hour (hr) (12:01 a.m.) local time and ends Saturday at 2400 hr (12 midnight). Weekly Atlantic herring catch reports must be submitted via the IVR system by midnight each Tuesday, eastern time, for the previous week. Reports are required even if herring caught during the week has not yet been landed. This report does not exempt the owner or operator from other applicable reporting requirements of this section.
 
@@ -85,6 +169,8 @@ Link to an amendment published at 85 FR 47111, Aug. 4, 2020.
 (ii) Surfclam and ocean quahog log reports, required by paragraph (b)(1)(ii) of this section, must be postmarked or received within 3 days after the end of each reporting week.
 
 (iii) Charter/Party vessel electronic log reports, required by paragraph (b)(1)(iii) of this section, must be submitted within 48 hours after entering port at the conclusion of a trip.
+
+(iv) Private recreational tilefish electronic log reports, required by paragraph (b)(1)(iv) of this section, must be submitted within 24 hours after entering port at the conclusion of a trip.
 
 (3) *At-sea purchasers and processors.* With the exception of the owner or operator of an Atlantic herring carrier vessel, the owner or operator of an at-sea purchaser or processor that purchases or processes any Atlantic herring, Atlantic mackerel, squid, butterfish, scup, or black sea bass at sea must submit information identical to that required by paragraph (a)(1) of this section and provide those reports to the Regional Administrator or designee by the same mechanism and on the same frequency basis.
 

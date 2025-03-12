@@ -1,7 +1,5 @@
 ##### § 300.24 Prohibitions. #####
 
-Link to an amendment published at 85 FR 29669, May 18, 2020.
-
 In addition to the prohibitions in § 300.4, it is unlawful for any person or vessel subject to the jurisdiction of the United States to:
 
 (a) Land any species of tuna during the closed season for that species in excess of the amount allowed by the Regional Administrator.
@@ -66,11 +64,11 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 
 (ee) Fail to ensure characters of a unique code are marked indelibly on a FAD deployed or modified on or after January 1, 2017, in accordance with § 300.28(a)(2).
 
-(ff) Fail to record or report data on FADs as required in § 300.22(a)(3).
+(ff) Fail to provide information to an observer or record or report data on FADs as required in § 300.22(a)(3).
 
-(gg) Use a commercial purse seine fishing vessel of the United States to retain on board, transship, store, or land any part or whole carcass of a silky shark (*Carcharhinus falciformis*) in contravention of § 300.27(e).
+(gg) Use a commercial purse seine or longline fishing vessel of the United States to retain on board, transship, store, or land any part or whole carcass of a silky shark (*Carcharhinus falciformis*) in contravention of § 300.27(e).
 
-(hh) Use a U.S. longline vessel to catch silky shark in contravention of § 300.27(f).
+(hh) Fail to follow observer safety requirements as specified under § 300.29.
 
 (ii) Fail to handle or release a shark as required in § 300.27(k).
 

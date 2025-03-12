@@ -1,7 +1,5 @@
 ##### § 90.7 Definitions. #####
 
-Link to an amendment published at 85 FR 43138, July 16, 2020.
-
 *220 MHz service.* The radio service for the licensing of frequencies in the 220-222 MHz band.
 
 *800 MHz Cellular System.* In the 806-824 MHz/ 851-869 MHz band, a system that uses multiple, interconnected, multi-channel transmit/receive cells capable of frequency reuse and automatic handoff between cell sites to serve a larger number of subscribers than is possible using non-cellular technology.
@@ -11,6 +9,14 @@ Link to an amendment published at 85 FR 43138, July 16, 2020.
 (1) Has more than five overlapping interactive sites featuring hand-off capability; and
 
 (2) Any one of such sites has an antenna height of less than 30.4 meters (100 feet) above ground level with an antenna height above average terrain (HAAT) of less than 152.4 meters (500 feet) and twenty or more paired frequencies.
+
+*900 MHz broadband.* See 47 CFR 27.1501.
+
+*900 MHz broadband licensee.* See 47 CFR 27.1501.
+
+*900 MHz broadband segment.* See 47 CFR 27.1501.
+
+*900 MHz narrowband segment.* See 47 CFR 27.1501.
 
 *900 MHz SMR MTA-based license* or *MTA license.* A license authorizing the right to use a specified block of 900 MHz SMR spectrum within one of the 47 Major Trading Areas (“MTAs”), as embodied in Rand McNally's Trading Areas System MTA Diskette and geographically represented in the map contained in Rand McNally's Commercial Atlas & Marketing Guide (the “MTA Map”), with the following exceptions and additions:
 
@@ -281,6 +287,8 @@ REAG 1 (Northeast): REAG 1 consists of the following EAs: EA 001 (Bangor, ME) th
 *Telemetering (also telemetry).* The transmission of non-voice signals for the purpose of automatically indicating or recording measurements at a distance from the measuring instrument.
 
 *Telephone maintenance licensee.* Communications common carriers engaged in the provision of landline local exchange telephone service, or inter-exchange communications service, and radio communications common carriers authorized under part 21 of this chapter. Resellers that do not own or control transmission facilities are not included in this category.
+
+*Transitioned market.* A geographic area in which the 900 MHz band has been reconfigured to consist of a 900 MHz broadband license in the 900 MHz broadband segment and two 900 MHz narrowband segments pursuant to part 27 of this chapter.
 
 *Travelers' information station.* A base station in the Public Safety Pool used to transmit non-commercial, voice information pertaining to traffic and road conditions, traffic hazard and traveler advisories, directions, availability of lodging, rest stops, and service stations, and descriptions of local points of interest.
 

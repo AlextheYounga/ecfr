@@ -1,7 +1,5 @@
 ##### § 201.3 Fees for registration, recordation, and related services, special services, and services performed by the Licensing Division. #####
 
-Link to an amendment published at 85 FR 37346, June 22, 2020.
-
 (a) *General.* This section prescribes the fees for registration, recordation, and related services, special services, and services performed by the Licensing Division.
 
 (b) *Definitions.* For purposes of this section, the following definitions apply:
@@ -37,23 +35,24 @@ Table 1 to Paragraph (c)
 |                                                                       (ii) Paper filing                                                                       |      70      |
 |                                        (8) Registration of a claim in a group of newspapers or a group of newsletters                                         |      95      |
 |                                                  (9) Registration of a claim in a group of unpublished works                                                  |      85      |
-|                                               (10) Registration of a claim in a restored copyright (Form GATT)                                                |     100      |
-|                                                       (11) Preregistration of certain unpublished works                                                       |     200      |
-|                                                (12) Registration of a correction or amplification to a claim:                                                 |              |
+|                                            (10) Registration of a claim in a group of short online literary works                                             |      65      |
+|                                               (11) Registration of a claim in a restored copyright (Form GATT)                                                |     100      |
+|                                                       (12) Preregistration of certain unpublished works                                                       |     200      |
+|                                                (13) Registration of a correction or amplification to a claim:                                                 |              |
 |                                                                (i) Supplementary registration:                                                                |              |
 |                                                                     (A) Electronic filing                                                                     |     100      |
 |(B) Paper Filing for correction or amplification of renewal registrations, GATT registrations, and group registrations for non-photographic databases (Form CA)|     150      |
 |                                                       (ii) Correction of a design registration: Form DC                                                       |     100      |
-|                                                     (13) Registration of a claim in a mask work (Form MW)                                                     |     150      |
-|                                                  (14) Registration of a claim in a vessel design (Form D/VH)                                                  |     500      |
-|                                                  (15) Provision of an additional certificate of registration                                                  |      55      |
-|                                   (16) Certification of other Copyright Office records, including search reports (per hour)                                   |     200      |
-|                      (17) Search report prepared from official records other than Licensing Division records (per hour, 2 hour minimum)                       |     200      |
-|                                        (18) Estimate of retrieval or search fee (credited to retrieval or search fee)                                         |     200      |
-|                            (19) Retrieval of in-process or completed Copyright Office records or other Copyright Office materials:                            |              |
+|                                                     (14) Registration of a claim in a mask work (Form MW)                                                     |     150      |
+|                                                  (15) Registration of a claim in a vessel design (Form D/VH)                                                  |     500      |
+|                                                  (16) Provision of an additional certificate of registration                                                  |      55      |
+|                                   (17) Certification of other Copyright Office records, including search reports (per hour)                                   |     200      |
+|                      (18) Search report prepared from official records other than Licensing Division records (per hour, 2 hour minimum)                       |     200      |
+|                                        (19) Estimate of retrieval or search fee (credited to retrieval or search fee)                                         |     200      |
+|                            (20) Retrieval of in-process or completed Copyright Office records or other Copyright Office materials:                            |              |
 |                                                   (i) Retrieval of paper records (per hour, 1 hour minimum)                                                   |     200      |
 |                                   (ii) Retrieval of digital records (per hour, half hour minimum, quarter hour increments)                                    |     200      |
-|                 (20) Recordation of a document, including a notice of termination and a notice of intention to enforce a restored copyright:                  |              |
+|                 (21) Recordation of a document, including a notice of termination and a notice of intention to enforce a restored copyright:                  |              |
 |                                       (i) Base fee (includes 1 work identified by 1 title and/or registration number):                                        |              |
 |                                                                           (A) Paper                                                                           |     125      |
 |                                                                        (B) Electronic                                                                         |      95      |
@@ -67,14 +66,14 @@ Table 1 to Paragraph (c)
 |                                                (4) 1,001 to 10,000 additional works and alternate identifiers                                                 |     555      |
 |                                                 (5) 10,001 or more additional works and alternate identifiers                                                 |    5,500     |
 |                            (iv) Correction of online Public Catalog data due to erroneous electronic title submission (per title)                             |      7       |
-|       (21) Designation of agent under 17 U.S.C. 512(c)(2) to receive notification of claimed infringement, or amendment or resubmission of designation        |      6       |
-|                 (22)(i) Schedule of pre-1972 sound recordings, or supplemental schedule of pre-1972 sound recordings (single sound recording)                 |      75      |
+|       (22) Designation of agent under 17 U.S.C. 512(c)(2) to receive notification of claimed infringement, or amendment or resubmission of designation        |      6       |
+|                 (23)(i) Schedule of pre-1972 sound recordings, or supplemental schedule of pre-1972 sound recordings (single sound recording)                 |      75      |
 |                                           (ii) Additional sound recordings (per group of 1 to 100 sound recordings)                                           |      10      |
-|                         (23) Removal of pre-1972 sound recording from Office's database of indexed schedules (single sound recording)                         |      75      |
-|                                                 (24) Notice of noncommercial use of pre-1972 sound recording                                                  |      50      |
-|                                             (25) Opt-out notice of noncommercial use of pre-1972 sound recording                                              |      50      |
-|                                                     (26) Issuance of a receipt for a section 407 deposit                                                      |      30      |
-|                                                        (27) Removal of PII from Registration Records:                                                         |              |
+|                         (24) Removal of pre-1972 sound recording from Office's database of indexed schedules (single sound recording)                         |      75      |
+|                                                 (25) Notice of noncommercial use of pre-1972 sound recording                                                  |      50      |
+|                                             (26) Opt-out notice of noncommercial use of pre-1972 sound recording                                              |      50      |
+|                                                     (27) Issuance of a receipt for a section 407 deposit                                                      |      30      |
+|                                                        (28) Removal of PII from Registration Records:                                                         |              |
 |                                                         (i) Initial request, per registration record                                                          |     100      |
 |                                                       (ii) Reconsideration of denied requests, flat fee                                                       |      60      |
 
@@ -129,4 +128,4 @@ Table 1 to Paragraph (e)
 
 (f) *Fees for travel in connection with educational activities.* For travel expenses in connection with Copyright Office educational activities when participation by Copyright Office personnel has been requested by another organization or person and that organization or person has agreed to pay such expenses, collection of the fee shall be subject to, and the amount of the fee shall be no greater than, the amount authorized under the Federal Travel Regulations found in Chapters 300 through 304 of Title 41.
 
-[64 FR 29520, June 1, 1999, as amended at 64 FR 36574, July 7, 1999; 65 FR 39819, June 28, 2000; 67 FR 38005, May 31, 2002; 71 FR 31090, June 1, 2006; 71 FR 46402, Aug. 14, 2006; 72 FR 33691, June 19, 2007; 74 FR 12556, Mar. 25, 2009, 74 FR 32807, July 9, 2009; 77 FR 18705, Mar. 28, 2012; 77 FR 18707, Mar. 28, 2012; 78 FR 71501, Nov. 29, 2013; 79 FR 15918, Mar. 24, 2014; 79 FR 24334, Apr. 30, 2014; 79 FR 68623, Nov. 18, 2014; 81 FR 75707, Nov. 1, 2016; 82 FR 9008, Feb. 2, 2017; 82 FR 9356, Feb. 6, 2017; 82 FR 26853, June 12, 2017; 82 FR 29413, June 29, 2017; 82 FR 52223, Nov. 13, 2017; 83 FR 2547, Jan. 18, 2018; 83 FR 4146, Jan. 30, 2018; 83 FR 52153, Oct. 16, 2018; 83 FR 61549, Nov. 30, 2018; 83 FR 66628, Dec. 27, 2018; 84 FR 3697, Feb. 13, 2019; 84 FR 10684, Mar. 22, 2019; 84 FR 14255, Apr. 9, 2019; 84 FR 20273, May 9, 2019; 85 FR 9386, Feb. 19, 2020]
+[64 FR 29520, June 1, 1999, as amended at 64 FR 36574, July 7, 1999; 65 FR 39819, June 28, 2000; 67 FR 38005, May 31, 2002; 71 FR 31090, June 1, 2006; 71 FR 46402, Aug. 14, 2006; 72 FR 33691, June 19, 2007; 74 FR 12556, Mar. 25, 2009, 74 FR 32807, July 9, 2009; 77 FR 18705, Mar. 28, 2012; 77 FR 18707, Mar. 28, 2012; 78 FR 71501, Nov. 29, 2013; 79 FR 15918, Mar. 24, 2014; 79 FR 24334, Apr. 30, 2014; 79 FR 68623, Nov. 18, 2014; 81 FR 75707, Nov. 1, 2016; 82 FR 9008, Feb. 2, 2017; 82 FR 9356, Feb. 6, 2017; 82 FR 26853, June 12, 2017; 82 FR 29413, June 29, 2017; 82 FR 52223, Nov. 13, 2017; 83 FR 2547, Jan. 18, 2018; 83 FR 4146, Jan. 30, 2018; 83 FR 52153, Oct. 16, 2018; 83 FR 61549, Nov. 30, 2018; 83 FR 66628, Dec. 27, 2018; 84 FR 3697, Feb. 13, 2019; 84 FR 10684, Mar. 22, 2019; 84 FR 14255, Apr. 9, 2019; 84 FR 20273, May 9, 2019; 85 FR 9386, Feb. 19, 2020; 85 FR 37346, June 22, 2020]

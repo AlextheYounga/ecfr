@@ -8,7 +8,7 @@
 
 (b) *Numerals.* Except as provided in paragraph (d) of this section, the official number must be displayed in block arabic numerals in contrasting color at least 18 inches (45.7 cm) in height for fishing vessels over 65 ft (19.8 m) in registered length, and at least 10 inches (25.4 cm) in height for all other vessels over 25 ft (7.6 m) in registered length. The registered length of a vessel, for purposes of this section, is that registered length set forth in USCG or state records.
 
-(c) *Duties of owner.* The owner of each vessel subject to this part shall ensure that -
+(c) *Duties of owner.* The owner of each vessel subject to this part shall ensure that—
 
 (1) The vessel's name and official number are kept clearly legible and in good repair.
 
@@ -18,4 +18,6 @@
 
 (e) *New Jersey surfclam or ocean quahog vessels.* Instead of complying with paragraph (a) of this section, surfclam or ocean quahog vessels licensed under New Jersey law may use the appropriate vessel identification markings established by that state.
 
-[61 FR 34968, July 3, 1996, as amended at 76 FR 60649, Sept. 29, 2011]
+(f) *Private Recreational Tilefish Vessels.* Vessels issued only a Federal private recreational tilefish permit are not subject to the requirements of § 648.8, but must comply with any other applicable state or Federal vessel identification requirements.
+
+[61 FR 34968, July 3, 1996, as amended at 76 FR 60649, Sept. 29, 2011; 85 FR 43152, July 15, 2020]

@@ -1,10 +1,10 @@
 ##### § 90.213 Frequency stability. #####
 
-Link to an amendment published at 85 FR 43139, July 16, 2020.
+Link to an amendment published at 86 FR 23297, May 3, 2021.
 
 (a) Unless noted elsewhere, transmitters used in the services governed by this part must have a minimum frequency stability as specified in the following table.
 
-Minimum Frequency Stability
+Table 1 to § 90.213(a) - Minimum Frequency Stability
 
 [Parts per million (ppm)]
 
@@ -60,4 +60,4 @@ Minimum Frequency Stability
 
 (b) For the purpose of determining the frequency stability limits, the power of a transmitter is considered to be the maximum rated output power as specified by the manufacturer.
 
-[60 FR 37266, July 19, 1995, as amended at 61 FR 4235, Feb. 5, 1996; 61 FR 18986, Apr. 30, 1996; 61 FR 38403, July 24, 1996; 62 FR 2040, Jan. 15, 1997; 62 FR 18927, Apr. 17, 1997; 67 FR 41860, June 20, 2002; 69 FR 46443, Aug. 3, 2004; 69 FR 67838, Nov. 22, 2004]
+[60 FR 37266, July 19, 1995, as amended at 61 FR 4235, Feb. 5, 1996; 61 FR 18986, Apr. 30, 1996; 61 FR 38403, July 24, 1996; 62 FR 2040, Jan. 15, 1997; 62 FR 18927, Apr. 17, 1997; 67 FR 41860, June 20, 2002; 69 FR 46443, Aug. 3, 2004; 69 FR 67838, Nov. 22, 2004; 85 FR 43139, July 15, 2020]Editorial Note:At 85 FR 43139, July 16, 2020, § 90.613 was amended in the table by adding entries in numerical order for “896-901” and “935-940”, however due to an inaccurate amendatory instruction, this amendment could not be incorporated.

@@ -1233,13 +1233,15 @@ For vessels with a limited access Atlantic mackerel permit, fail to immediately 
 
 (B) Operate a vessel that takes recreational fishermen for hire to fish for golden or blueline tilefish in the Tilefish Management Unit without a valid tilefish charter/party vessel permit, as required in § 648.4(a)(12)(i).
 
+(C) Operate a private recreational vessel to fish for, retain, and/or possess blueline or golden tilefish, in the Tilefish Management Unit, without a valid tilefish private recreational permit as required in § 648.4(a)(12)(iii).
+
 (2) *Possession and landing.* (i) Fish for, possess, retain, or land golden or blueline tilefish, unless:
 
 (A) The tilefish are being fished for or were harvested in or from the Tilefish Management Unit by a vessel holding a valid tilefish permit under this part, and the operator on board such vessel has been issued an operator permit that is on board the vessel.
 
 (B) The tilefish were harvested by a vessel that has not been issued a tilefish permit and that was fishing exclusively in State waters.
 
-(C) The tilefish were harvested in or from the Tilefish Management Unit by a vessel, other than a charter/party vessel, that is engaged in recreational fishing.
+(C) The tilefish were harvested in or from the Tilefish Management Unit by a vessel with a Federal private recreational tilefish permit or a Federal charter/party tilefish permit.
 
 (ii) Land or possess golden or blueline tilefish harvested in or from the Tilefish Management Unit, in excess of either:
 

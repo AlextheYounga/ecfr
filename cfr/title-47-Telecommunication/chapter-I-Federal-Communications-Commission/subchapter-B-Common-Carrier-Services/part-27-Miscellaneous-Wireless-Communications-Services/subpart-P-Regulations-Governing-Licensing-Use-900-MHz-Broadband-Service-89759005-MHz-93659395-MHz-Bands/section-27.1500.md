@@ -1,0 +1,3 @@
+##### § 27.1500 Scope. #####
+
+This subpart sets out the regulations governing the licensing and operations of 900 MHz broadband systems operating in the 897.5-900.5/936.5-939.5 MHz band. It includes eligibility requirements and operational and technical standards for stations licensed in this band. It also supplements the rules regarding application procedures contained in part 1, subpart F of this chapter. The rules in this subpart are to be read in conjunction with the applicable requirements contained elsewhere in this part; however, in case of conflict, the provisions of this subpart shall govern with respect to licensing and operation in this frequency band.

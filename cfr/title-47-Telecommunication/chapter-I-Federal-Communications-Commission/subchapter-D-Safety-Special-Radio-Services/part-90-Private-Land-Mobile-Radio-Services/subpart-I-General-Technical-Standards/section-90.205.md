@@ -1,6 +1,6 @@
 ##### § 90.205 Power and antenna height limits. #####
 
-Link to an amendment published at 85 FR 43138, July 16, 2020.
+Link to an amendment published at 86 FR 23297, May 3, 2021.
 
 Applicants for licenses must request and use no more power than the actual power necessary for satisfactory operation. Except where otherwise specifically provided for, the maximum power that will be authorized to applicants whose license applications for new stations are filed after August 18, 1995 is as follows:
 
@@ -64,7 +64,7 @@ Table 2 - 450-470 MHz - Maximum ERP/Reference HAAT for a Specific Service Area R
 
 (j) *758-775 MHz and 788-805 MHz.* Power and height limitations are specified in §§ 90.541 and 90.542.
 
-(k) *806-824 MHz, 851-869 MHz, 896-901 MHz and 935-940 MHz.* Power and height limitations are specified in § 90.635
+(k) *806-824 MHz, 851-869 MHz, 896-901 MHz and 935-940 MHz.* Power and height limitations for frequencies in the 806-824 MHz and 851-869 MHz bands and for narrowband operations in the 896-901/935-940 MHz band are specified in § 90.635.
 
 (l) *902-928 MHz.* LMS systems operating pursuant to subpart M of this part in the 902-927.25 MHz band will be authorized a maximum of 30 watts ERP. LMS equipment operating in the 927.25-928 MHz band will be authorized a maximum of 300 watts ERP. ERP must be measured as peak envelope power. Antenna heights will be as specified in § 90.353(h).
 
@@ -82,4 +82,4 @@ Table 2 - 450-470 MHz - Maximum ERP/Reference HAAT for a Specific Service Area R
 
 (s) The output power shall not exceed by more than 20 percent either the output power shown in the Radio Equipment List [available in accordance with § 90.203(a)(1)] for transmitters included in this list or when not so listed, the manufacturer's rated output power for the particular transmitter specifically listed on the authorization.
 
-[60 FR 37262, July 19, 1995, as amended at 62 FR 2039, Jan. 15, 1997; 63 FR 58651, Nov. 2, 1998; 64 FR 66409, Nov. 26, 1999; 67 FR 41860, June 20, 2002; 68 FR 38639, June 30, 2003; 69 FR 46443, Aug. 3, 2004; 72 FR 48860, Aug. 24, 2007; 79 FR 600, Jan. 6, 2014]
+[60 FR 37262, July 19, 1995, as amended at 62 FR 2039, Jan. 15, 1997; 63 FR 58651, Nov. 2, 1998; 64 FR 66409, Nov. 26, 1999; 67 FR 41860, June 20, 2002; 68 FR 38639, June 30, 2003; 69 FR 46443, Aug. 3, 2004; 72 FR 48860, Aug. 24, 2007; 79 FR 600, Jan. 6, 2014; 85 FR 43138, July 15, 2020]

@@ -1,6 +1,6 @@
 ##### § 214.11 Alien victims of severe forms of trafficking in persons. #####
 
-Link to an amendment published at 85 FR 46925, Aug. 3, 2020.
+Link to an amendment published at 85 FR 46925, Aug. 3, 2020.Link to a correction published at 85 FR 49941, Aug. 17, 2020.
 
 (a) *Definitions.* Where applicable, USCIS will apply the definitions provided in section 103 and 107(e) of the Trafficking Victims Protection Act (TVPA) with due regard for the definitions and application of these terms in 28 CFR part 1100 and the provisions of 18 U.S.C. 77. As used in this section the term:
 

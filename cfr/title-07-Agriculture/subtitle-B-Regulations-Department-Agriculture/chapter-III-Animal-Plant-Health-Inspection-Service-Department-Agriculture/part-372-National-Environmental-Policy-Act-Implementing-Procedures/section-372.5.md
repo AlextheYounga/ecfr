@@ -1,7 +1,5 @@
 ##### § 372.5 Classification of actions. #####
 
-Link to an amendment published at 85 FR 29838, May 18, 2020.
-
 (a) *Actions normally requiring environmental impact statements.* This class of policymakings and rulemakings seeks to establish programmatic approaches to animal and plant health issues. Actions in this class typically involve the agency, an entire program, or a substantial program component and are characterized by their broad scope (often global or nationwide) and potential effect (impacting a wide range of environmental quality values or indicators, whether or not affected individuals or systems may be completely identified at the time). Ordinarily, new or untried methodologies, strategies, or techniques to deal with pervasive threats to animal and plant health are the subjects of this class of actions. Alternative means of dealing with those threats usually have not been well developed. Actions in this class include:
 
 (1) Formulation of contingent response strategies to combat future widespread outbreaks of animal and plant diseases; and
@@ -26,11 +24,9 @@ Link to an amendment published at 85 FR 29838, May 18, 2020.
 
 (6) Research or testing that will be conducted outside of a laboratory or other containment area or reaches a stage of development (e.g., formulation of premarketing strategies) that forecasts an irretrievable commitment to the resulting products or technology.
 
-(7) Determination of nonregulated status for genetically engineered organisms.
+(c) *Categorically excluded actions.* This class of APHIS actions shares many of the same characteristics—particularly in terms of the extent of program involvement, as well as the scope, effect of, and the availability of alternatives to proposed actions—as the class of actions that normally requires environmental assessments but not necessarily environmental impact statements. The major difference is that the means through which adverse environmental impacts may be avoided or minimized have actually been built right into the actions themselves. The efficacy of this approach generally has been established through testing and/or monitoring. The Department of Agriculture has also promulgated a listing of categorical exclusions that are applicable to all agencies within the department unless their procedures provide otherwise. Those categorical exclusions, codified at 7 CFR 1b.3(a), are entirely appropriate for APHIS. Other actions in this class include:
 
-(c) *Categorically excluded actions.* This class of APHIS actions shares many of the same characteristics - particularly in terms of the extent of program involvement, as well as the scope, effect of, and the availability of alternatives to proposed actions - as the class of actions that normally requires environmental assessments but not necessarily environmental impact statements. The major difference is that the means through which adverse environmental impacts may be avoided or minimized have actually been built right into the actions themselves. The efficacy of this approach generally has been established through testing and/or monitoring. The Department of Agriculture has also promulgated a listing of categorical exclusions that are applicable to all agencies within the department unless their procedures provide otherwise. Those categorical exclusions, codified at 7 CFR 1b.3(a), are entirely appropriate for APHIS. Other actions in this class include:
-
-(1) *Routine measures.* (i) Routine measures, such as identifications, inspections, surveys, sampling that does not cause physical alteration of the environment, testing, seizures, quarantines, removals, sanitizing, inoculations, control, and monitoring employed by agency programs to pursue their missions and functions. Such measures may include the use - according to any label instructions or other lawful requirements and consistent with standard, published program practices and precautions - of chemicals, pesticides, or other potentially hazardous or harmful substances, materials, and target-specific devices or remedies, provided that such use meets all of the following criteria (insofar as they may pertain to a particular action):
+(1) *Routine measures.* (i) Routine measures, such as identifications, inspections, surveys, sampling that does not cause physical alteration of the environment, testing, seizures, quarantines, removals, sanitizing, inoculations, control, and monitoring employed by agency programs to pursue their missions and functions. Such measures may include the use—according to any label instructions or other lawful requirements and consistent with standard, published program practices and precautions—of chemicals, pesticides, or other potentially hazardous or harmful substances, materials, and target-specific devices or remedies, provided that such use meets all of the following criteria (insofar as they may pertain to a particular action):
 
 (A) The use is localized or contained in areas where humans are not likely to be exposed, and is limited in terms of quantity, i.e., individualized dosages and remedies;
 
@@ -66,7 +62,7 @@ Link to an amendment published at 85 FR 29838, May 18, 2020.
 
 (ii) Issuance of a license, permit, authorization, or approval for movement or uses of pure cultures of organisms (relatively free of extraneous micro-organisms and extraneous material) that are not strains of quarantine concern and occur, or are likely to occur, in a State's environment; or
 
-(iii) Permitting, or acknowledgment of notifications for, confined field releases of genetically engineered organisms and products; and
+(iii) Permitting for confined field releases of genetically engineered organisms and products; and
 
 (iv) Permitting of:
 
@@ -76,7 +72,7 @@ Link to an amendment published at 85 FR 29838, May 18, 2020.
 
 (C) Releases into a State's environment of pure cultures of organisms that are either native or are established introductions.
 
-(4) *Extending deregulations for genetically engineered organisms.* Extension of nonregulated status under part 340 of this chapter to organisms similar to those already deregulated.
+(4) [Reserved]
 
 (5) *Minor renovation, improvement, and maintenance of facilities.* Examples are:
 
@@ -96,4 +92,4 @@ Link to an amendment published at 85 FR 29838, May 18, 2020.
 
 (3) When a confined field release of genetically engineered organisms or products involves new species or organisms or novel modifications that raise new issues.
 
-[60 FR 6002, Feb. 1, 1995; 60 FR 13212, Mar. 10, 1995; 83 FR 24010, May 24, 2018]
+[60 FR 6002, Feb. 1, 1995; 60 FR 13212, Mar. 10, 1995; 83 FR 24010, May 24, 2018; 85 FR 29838, May 18, 2020]

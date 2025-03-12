@@ -1,7 +1,5 @@
 ##### § 27.13 License period. #####
 
-Link to an amendment published at 85 FR 43134, July 16, 2020.
-
 (a) *2305-2320 MHz and 2345-2360 MHz bands.* Initial WCS authorizations for the 2305-2320 MHz and 2345-2360 MHz bands will have a term not to exceed ten years from the date of original issuance or renewal.
 
 (b) *698-763 MHz, 776-793, 775-776, and 805-806 MHz bands.* Initial authorizations for the 698-758 MHz and 776-788 MHz bands will extend for a term not to exceed ten years from June 13, 2009, except that initial authorizations for a part 27 licensee that provides broadcast services, whether exclusively or in combination with other services, will not exceed eight years. Initial authorizations for the 775-776 MHz and 805-806 MHz bands shall not exceed April 27, 2015. Licensees that initiate the provision of a broadcast service, whether exclusively or in combination with other services, may not provide this service for more than eight years or beyond the end of the license term if no broadcast service had been provided, whichever period is shorter in length.
@@ -27,5 +25,7 @@ Link to an amendment published at 85 FR 43134, July 16, 2020.
 (l) *600 MHz band.* Authorizations for the 600 MHz band will have an initial term not to exceed twelve years from the date of issuance and ten years from the date of any subsequent license renewal.
 
 (m) *3700-3980 MHz band.* Authorizations for licenses in the 3.7 GHz Service in the 3700-3980 MHz band will have a term not to exceed 15 years from the date of issuance or renewal.
+
+(n) *900 MHz broadband.* Authorizations for broadband licenses in the 897.5-900.5 MHz and 936.5-939.5 MHz bands will have a term not to exceed 15 years from the date of initial issuance and ten (10) years from the date of any subsequent renewal.
 
 [65 FR 3146, Jan. 20, 2000]Editorial Note:For Federal Register citations affecting § 27.13, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

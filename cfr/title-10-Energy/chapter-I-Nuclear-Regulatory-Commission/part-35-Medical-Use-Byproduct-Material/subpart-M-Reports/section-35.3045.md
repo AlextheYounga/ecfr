@@ -1,10 +1,8 @@
 ##### § 35.3045 Report and notification of a medical event. #####
 
-Link to an amendment published at 85 FR 33530, June 2, 2020.
+(a) A licensee shall report any event as a medical event, except for an event that results from patient intervention, in which—
 
-(a) A licensee shall report any event as a medical event, except for an event that results from patient intervention, in which -
-
-(1) The administration of byproduct material or radiation from byproduct material, except permanent implant brachytherapy, results in -
+(1) The administration of byproduct material or radiation from byproduct material, except permanent implant brachytherapy, results in—
 
 (i) A dose that differs from the prescribed dose or dose that would have resulted from the prescribed dosage by more than 0.05 Sv (5 rem) effective dose equivalent, 0.5 Sv (50 rem) to an organ or tissue, or 0.5 Sv (50 rem) shallow dose equivalent to the skin; and
 
@@ -14,7 +12,7 @@ Link to an amendment published at 85 FR 33530, June 2, 2020.
 
 (C) The fractionated dose delivered differs from the prescribed dose for a single fraction, by 50 percent or more.
 
-(ii) A dose that exceeds 0.05 Sv (5 rem) effective dose equivalent, 0.5 Sv (50 rem) to an organ or tissue, or 0.5 Sv (50 rem) shallow dose equivalent to the skin from any of the following -
+(ii) A dose that exceeds 0.05 Sv (5 rem) effective dose equivalent, 0.5 Sv (50 rem) to an organ or tissue, or 0.5 Sv (50 rem) shallow dose equivalent to the skin from any of the following—
 
 (A) An administration of a wrong radioactive drug containing byproduct material or the wrong radionuclide for a brachytherapy procedure;
 
@@ -32,7 +30,7 @@ Link to an amendment published at 85 FR 33530, June 2, 2020.
 
 (B) 50 percent or more the expected dose to that site from the procedure if the administration had been given in accordance with the written directive prepared or revised before administration.
 
-(2) For permanent implant brachytherapy, the administration of byproduct material or radiation from byproduct material (excluding sources that were implanted in the correct site but migrated outside the treatment site) that results in -
+(2) For permanent implant brachytherapy, the administration of byproduct material or radiation from byproduct material (excluding sources that were implanted in the correct site but migrated outside the treatment site) that results in—
 
 (i) The total source strength administered differing by 20 percent or more from the total source strength documented in the post-implantation portion of the written directive;
 
@@ -56,7 +54,7 @@ Link to an amendment published at 85 FR 33530, June 2, 2020.
 
 (d) By an appropriate method listed in § 30.6(a) of this chapter, the licensee shall submit a written report to the appropriate NRC Regional Office listed in § 30.6 of this chapter within 15 days after discovery of the medical event.
 
-(1) The written report must include -
+(1) The written report must include—
 
 (i) The licensee's name;
 
@@ -84,8 +82,8 @@ Link to an amendment published at 85 FR 33530, June 2, 2020.
 
 (i) Name of the individual who is the subject of the event; and
 
-(ii) Social security number or other identification number, if one has been assigned, of the individual who is the subject of the event; and
+(ii) Identification number or if no other identification number is available, the social security number of the individual who is the subject of the event; and
 
 (2) Provide a copy of the annotated report to the referring physician, if other than the licensee, no later than 15 days after the discovery of the event.
 
-[67 FR 20370, Apr. 24, 2002, as amended at 68 FR 58805, Oct. 10, 2003; 76 FR 72085, Nov. 22, 2011; 83 FR 33111, July 16, 2018]
+[67 FR 20370, Apr. 24, 2002, as amended at 68 FR 58805, Oct. 10, 2003; 76 FR 72085, Nov. 22, 2011; 83 FR 33111, July 16, 2018; 85 FR 33530, June 2, 2020]

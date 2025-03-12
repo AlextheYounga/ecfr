@@ -1,0 +1,3 @@
+##### § 27.1502 Permanent discontinuance of 900 MHz broadband licenses. #####
+
+A 900 MHz broadband licensee that permanently discontinues service as defined in § 1.953 must notify the Commission of the discontinuance within 10 days by filing FCC Form 601 requesting license cancelation. An authorization will automatically terminate, without specific Commission action, if service is permanently discontinued as defined in this chapter, even if a licensee fails to file the required form requesting license cancelation.

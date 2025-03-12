@@ -1,41 +1,8 @@
 ##### § 90.210 Emission masks. #####
 
-Link to an amendment published at 85 FR 43139, July 16, 2020.
+Link to an amendment published at 86 FR 23297, May 3, 2021.
 
 Except as indicated elsewhere in this part, transmitters used in the radio services governed by this part must comply with the emission masks outlined in this section. Unless otherwise stated, per paragraphs (d)(4), (e)(4), and (o) of this section, measurements of emission power can be expressed in either peak or average values provided that emission powers are expressed with the same parameters used to specify the unmodulated transmitter carrier power. For transmitters that do not produce a full power unmodulated carrier, reference to the unmodulated transmitter carrier power refers to the total power contained in the channel bandwidth. Unless indicated elsewhere in this part, the table in this section specifies the emission masks for equipment operating under this part.
-
-Applicable Emission Masks
-
-|         Frequency band (MHz)          |Mask for equipment  <br/>with audio low  <br/>pass filter|Mask for equipment  <br/>without audio low  <br/>pass filter|
-|---------------------------------------|---------------------------------------------------------|------------------------------------------------------------|
-|         Below 25<sup>1</sup>          |                         A or B                          |                           A or C                           |
-|                 25-50                 |                            B                            |                             C                              |
-|                 72-76                 |                            B                            |                             C                              |
-|          150-174<sup>2</sup>          |                       B, D, or E                        |                         C, D or E                          |
-|            150 paging only            |                            B                            |                             C                              |
-|                220-222                |                            F                            |                             F                              |
-|         421-512<sup>2 5</sup>         |                       B, D, or E                        |                         C, D, or E                         |
-|            450 paging only            |                            B                            |                             G                              |
-|      806-809/851-854<sup>6</sup>      |                            B                            |                             H                              |
-|809-824/854-869<sup>3</sup><sup>5</sup>|                          B, D                           |                           D, G.                            |
-|            896-901/935-940            |                            I                            |                             J                              |
-|                902-928                |                            K                            |                             K                              |
-|                929-930                |                            B                            |                             G                              |
-|             4940-4990 MHz             |                         L or M                          |                           L or M                           |
-|         5850-5925<sup>4</sup>         |                                                         |                                                            |
-|            All other bands            |                            B                            |                             C                              |
-
-<sup>1</sup> Equipment using single sideband J3E emission must meet the requirements of Emission Mask A. Equipment using other emissions must meet the requirements of Emission Mask B or C, as applicable.
-
-<sup>2</sup> Equipment designed to operate with a 25 kHz channel bandwidth must meet the requirements of Emission Mask B or C, as applicable. Equipment designed to operate with a 12.5 kHz channel bandwidth must meet the requirements of Emission Mask D, and equipment designed to operate with a 6.25 kHz channel bandwidth must meet the requirements of Emission Mask E.
-
-<sup>3</sup> Equipment used in this licensed to EA or non-EA systems shall comply with the emission mask provisions of § 90.691 of this chapter.
-
-<sup>4</sup> DSRCS Roadside Units equipment in the 5850-5925 MHz band is governed under subpart M of this part.
-
-<sup>5</sup> Equipment designed to operate on 25 kilohertz bandwidth channels must meet the requirements of either Emission Mask B or G, whichever is applicable, while equipment designed to operate on 12.5 kilohertz bandwidth channels must meet the requirements of Emission Mask D. Equipment designed to operate on 25 kilohertz bandwidth channels may alternatively meet the Adjacent Channel Power limits of § 90.221.
-
-<sup>6</sup> Transmitters utilizing analog emissions that are equipped with an audio low-pass filter must meet Emission Mask B. All transmitters utilizing digital emissions and those transmitters using analog emissions without an audio low-pass filter must meet Emission Mask H.
 
 (a) *Emission Mask A.* For transmitters utilizing J3E emission, the carrier must be at least 40 dB below the peak envelope power and the power of emissions must be reduced below the output power (P in watts) of the transmitter as follows:
 
@@ -189,4 +156,39 @@ Low power devices may as an option, comply with paragraph (m).
 
 (o) *Instrumentation.* The reference level for showing compliance with the emission mask shall be established, except as indicated in §§ 90.210 (d), (e), and (k), using standard engineering practices for the modulation characteristic used by the equipment under test. When measuring emissions in the 150-174 MHz and 421-512 MHz bands the following procedures will apply. A sufficient number of sweeps must be measured to insure that the emission profile is developed. If video filtering is used, its bandwidth must not be less than the instrument resolution bandwidth. For frequencies more than 50 kHz removed from the edge of the authorized bandwidth a resolution of at least 100 kHz must be used for frequencies below 1000 MHz. Above 1000 MHz the resolution bandwidth of the instrumentation must be at least 1 MHz. If it can be shown that use of the above instrumentation settings do not accurately represent the true interference potential of the equipment under test, then an alternate procedure may be used provided prior Commission approval is obtained.
 
-[60 FR 37264, July 19, 1995]Editorial Note:For Federal Register citations affecting § 90.210, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+Table 1 to § 90.210 - Applicable Emission Masks
+
+|         Frequency band (MHz)          |Mask for equipment  <br/>with audio low  <br/>pass filter|Mask for equipment  <br/>without audio low  <br/>pass filter|
+|---------------------------------------|---------------------------------------------------------|------------------------------------------------------------|
+|         Below 25<sup>1</sup>          |                         A or B                          |                           A or C                           |
+|                 25-50                 |                            B                            |                             C                              |
+|                 72-76                 |                            B                            |                             C                              |
+|          150-174<sup>2</sup>          |                       B, D, or E                        |                         C, D or E                          |
+|            150 paging only            |                            B                            |                             C                              |
+|                220-222                |                            F                            |                             F                              |
+|         421-512<sup>2 5</sup>         |                       B, D, or E                        |                         C, D, or E                         |
+|            450 paging only            |                            B                            |                             G                              |
+|      806-809/851-854<sup>6</sup>      |                            B                            |                             H                              |
+|809-824/854-869<sup>3</sup><sup>5</sup>|                          B, D                           |                           D, G.                            |
+|            896-901/935-940            |                            I                            |                             J                              |
+|                902-928                |                            K                            |                             K                              |
+|                929-930                |                            B                            |                             G                              |
+|             4940-4990 MHz             |                         L or M                          |                           L or M                           |
+|         5850-5925<sup>4</sup>         |                                                         |                                                            |
+|            All other bands            |                            B                            |                             C                              |
+
+<sup>1</sup> Equipment using single sideband J3E emission must meet the requirements of Emission Mask A. Equipment using other emissions must meet the requirements of Emission Mask B or C, as applicable.
+
+<sup>2</sup> Equipment designed to operate with a 25 kHz channel bandwidth must meet the requirements of Emission Mask B or C, as applicable. Equipment designed to operate with a 12.5 kHz channel bandwidth must meet the requirements of Emission Mask D, and equipment designed to operate with a 6.25 kHz channel bandwidth must meet the requirements of Emission Mask E.
+
+<sup>3</sup> Equipment used in this licensed to EA or non-EA systems shall comply with the emission mask provisions of § 90.691 of this chapter.
+
+<sup>4</sup> DSRCS Roadside Units equipment in the 5850-5925 MHz band is governed under subpart M of this part.
+
+<sup>5</sup> Equipment designed to operate on 25 kilohertz bandwidth channels must meet the requirements of either Emission Mask B or G, whichever is applicable, while equipment designed to operate on 12.5 kilohertz bandwidth channels must meet the requirements of Emission Mask D. Equipment designed to operate on 25 kilohertz bandwidth channels may alternatively meet the Adjacent Channel Power limits of § 90.221.
+
+<sup>6</sup> Transmitters utilizing analog emissions that are equipped with an audio low-pass filter must meet Emission Mask B. All transmitters utilizing digital emissions and those transmitters using analog emissions without an audio low-pass filter must meet Emission Mask H.
+
+[60 FR 37264, July 19, 1995]Editorial Notes:1. For Federal Register citations affecting § 90.210, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+
+2. At 85 FR 43139, July 16, 2020, § 90.610 was amended in the table by adding an entry in numerical order for “896-901/935-940”, however due to an inaccurate amendatory instruction, this amendment could not be incorporated.

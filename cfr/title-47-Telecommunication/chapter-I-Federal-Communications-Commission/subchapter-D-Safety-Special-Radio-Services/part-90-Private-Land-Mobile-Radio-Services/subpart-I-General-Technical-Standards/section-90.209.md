@@ -1,7 +1,5 @@
 ##### § 90.209 Bandwidth limitations. #####
 
-Link to an amendment published at 85 FR 43138, July 16, 2020.
-
 (a) Each authorization issued to a station licensed under this part will show an emission designator representing the class of emission authorized. The designator will be prefixed by a specified necessary bandwidth. This number does not necessarily indicate the bandwidth occupied by the emission at any instant. In those cases where § 2.202 of this chapter does not provide a formula for the computation of necessary bandwidth, the occupied bandwidth, as defined in part 2 of this chapter, may be used in lieu of the necessary bandwidth.
 
 (b) The maximum authorized single channel bandwidth of emission corresponding to the type of emission specified in § 90.207 is as follows:
@@ -16,7 +14,7 @@ Link to an amendment published at 85 FR 43138, July 16, 2020.
 
 (5) Unless specified elsewhere, channel spacings and bandwidths that will be authorized in the following frequency bands are given in the following table.
 
-Standard Channel Spacing/Bandwidth
+Table 1 to § 90.209(b)(5)—Standard Channel Spacing/Bandwidth
 
 |        Frequency band (MHz)        |Channel spacing (kHz)|Authorized bandwidth (kHz) |
 |------------------------------------|---------------------|---------------------------|
@@ -57,4 +55,6 @@ Standard Channel Spacing/Bandwidth
 
 (8) Applicants may begin to license 12.5 kilohertz bandwidth channels in the 809-817/854-862 MHz band segment only after the Wireless Telecommunications Bureau and the Public Safety and Homeland Security Bureau jointly release a public notice announcing the availability of those channels for licensing in a National Public Safety Planning Advisory Committee region.
 
-[60 FR 37263, July 19, 1995, as amended at 67 FR 41860, June 20, 2002; 68 FR 42314, July 17, 2003; 68 FR 54769, Sept. 18, 2003; 69 FR 39867, July 1, 2004; 69 FR 67837, Nov. 22, 2004; 70 FR 21661, Apr. 27, 2005; 70 FR 34693, June 15, 2005; 72 FR 35194, June 27, 2007; 73 FR 34201, June 17, 2008; 77 FR 33979, June 8, 2012; 77 FR 61537, Oct. 10, 2012; 81 FR 66832, Sept. 29, 2016; 83 FR 61096, Nov. 27, 2018]
+[60 FR 37263, July 19, 1995, as amended at 67 FR 41860, June 20, 2002; 68 FR 42314, July 17, 2003; 68 FR 54769, Sept. 18, 2003; 69 FR 39867, July 1, 2004; 69 FR 67837, Nov. 22, 2004; 70 FR 21661, Apr. 27, 2005; 70 FR 34693, June 15, 2005; 72 FR 35194, June 27, 2007; 73 FR 34201, June 17, 2008; 77 FR 33979, June 8, 2012; 77 FR 61537, Oct. 10, 2012; 81 FR 66832, Sept. 29, 2016; 83 FR 61096, Nov. 27, 2018; 85 FR 43138, July 15, 2020]Editorial Note:
+
+At 85 FR 43138, July 15, 2020, § 90.610 was amended in the table to paragraph (b)(5) by adding an entry in numerical order for “896-901/935-940”, however due to an inaccurate amendatory instruction, this amendment could not be incorporated.

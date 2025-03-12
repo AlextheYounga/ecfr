@@ -1,0 +1,3 @@
+##### § 340.7 Confidential business information. #####
+
+Persons including confidential business information (CBI) in any document submitted to APHIS under this part should do so in the following manner. If there are portions of a document deemed to contain confidential business information, those portions must be identified, and each page containing such information must be marked “CBI Copy.” A second copy of the document must be submitted with all such CBI deleted, and each page where the CBI was deleted must be marked “CBI Deleted.” In addition, any person submitting CBI must justify how each piece of information requested to be treated as CBI is a trade secret or, if not a trade secret, is either commercial or financial information that is privileged or confidential.

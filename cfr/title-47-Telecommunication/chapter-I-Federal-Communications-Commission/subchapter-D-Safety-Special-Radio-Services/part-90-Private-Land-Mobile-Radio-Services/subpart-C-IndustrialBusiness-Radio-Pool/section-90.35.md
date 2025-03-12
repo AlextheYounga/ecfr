@@ -1,6 +1,6 @@
 ##### § 90.35 Industrial/Business Pool. #####
 
-Link to an amendment published at 85 FR 43138, July 16, 2020.
+Link to an amendment published at 86 FR 23296, May 3, 2021.
 
 (a) *Eligibility.* Persons primarily engaged in any of the following activities are eligible to hold authorizations in the Industrial/Business Pool to provide commercial mobile radio service as defined in part 20 of this chapter or to operate stations for transmission of communications necessary to such activities of the licensee:
 
@@ -3484,7 +3484,7 @@ Coordinates followed by an “E” are east longitude.
 
 (70) Subpart L of this part contains rules for assignment of frequencies in the 470-512 MHz band.
 
-(71) Subpart S of this part contains rules for assignment of frequencies in the 806-821/851-866 and 896-901/935-940 MHz bands.
+(71) Subpart S of this part contains rules for assignment of frequencies in the 806-824/851-869 MHz band and for narrowband operations in the 896-901/935-940 MHz band.
 
 (72) Assignment of frequencies above 928 MHz for operational-fixed stations is governed by part 101 of this chapter.
 
