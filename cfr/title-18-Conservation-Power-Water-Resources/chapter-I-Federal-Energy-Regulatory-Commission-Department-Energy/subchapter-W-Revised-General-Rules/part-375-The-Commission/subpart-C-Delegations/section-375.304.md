@@ -1,5 +1,7 @@
 ##### § 375.304 Delegations to the Chief Administrative Law Judge. #####
 
+Link to an amendment published at 87 FR 31730, May 25, 2022.
+
 (a) The Commission authorizes the Chief Administrative Law Judge and the Administrative Law Judge designated by the Chief Administrative Law Judge to exercise the power granted to a Presiding Officer by part 385, particularly § 385.504 of this chapter.
 
 (b) The Commission authorizes the Chief Administrative Law Judge to
