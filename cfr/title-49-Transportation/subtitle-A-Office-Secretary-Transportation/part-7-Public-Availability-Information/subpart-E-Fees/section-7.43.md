@@ -1,7 +1,5 @@
 ##### § 7.43 When are fees waived or reduced for records requested under subpart C of this part? #####
 
-Link to an amendment published at 82 FR 21140, May 5, 2017.
-
 (a) DOT does not charge fees to any requester making a request under subpart C of this part for the following services:
 
 (1) Services for which the total amount of fees that could be charged for the particular request (or aggregation of requests) is less than US $20, after taking into account all services that must be provided free of charge or at a reduced charge.
@@ -30,8 +28,12 @@ Link to an amendment published at 82 FR 21140, May 5, 2017.
 
 (e) DOT furnishes documents without charge or at a reduced charge when the official having initial denial authority determines that the request is by the victim of a crime who seeks the record of the trial at which the requester testified.
 
-(f) DOT does not assess the following fees when DOT fails to comply with the time limits under § 7.31 or § 7.33 and no unusual or exceptional circumstances (see § 7.34(a) and (c)) apply to the processing of the request or appeal:
+(f) Except as provided in paragraphs (f)(1) through (3) of this section, DOT does not assess search fees otherwise chargeable under § 7.42(h) and (j) or duplication fees otherwise chargeable under § 7.42(i) when DOT fails to comply with the time limits under § 7.31 or § 7.33.
 
-(1) Search fees otherwise chargeable under § 7.42(h) and (j); and
+(1) If DOT has determined that unusual circumstances apply (as defined in § 7.34(a)), 5,000 pages or less are necessary to respond to the request, and DOT has provided a timely written notice to the requester in accordance with § 7.34(a), a failure to comply with the time limits under § 7.31 or § 7.33 is excused for an additional 10 days. If DOT does not comply with the extended time limit, DOT does not assess search fees otherwise chargeable under § 7.42(h) and (j) or duplication fees otherwise chargeable under § 7.24(i);
 
-(2) Duplication fees otherwise chargeable under § 7.42(i).
+(2) If DOT has determined that unusual circumstances apply (as defined under § 7.34(a)) and more than 5,000 pages are necessary to respond to the request, DOT may charge search fees under § 7.42(h) and (j) or duplication fees under § 7.42(j) if DOT has provided timely written notice to the requester in accordance with § 7.34(a) and (b), and DOT has discussed with the requester via written mail, electronic mail, or telephone (or made not less than three good faith attempts to do so) how the requester could effectively limit the scope of the request.
+
+(3) If a court determines that exceptional circumstances exist (as that term is defined in 5 U.S.C. 552(a)(6)(C)), failure to comply with time limits under § 7.31 or § 7.33 shall be excused for the length of time provided by the court order.
+
+[79 FR 16209, Mar. 25, 2014, as amended at 82 FR 21140, May 5, 2017]

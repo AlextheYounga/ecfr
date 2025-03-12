@@ -1,5 +1,7 @@
 ##### § 1263.2 Membership application requirements. #####
 
+Link to an amendment published at 82 FR 25722, June 5, 2017.
+
 (a) *Application.* Except as otherwise specified in this part, no institution may become a member of a Bank unless it has submitted to that Bank an application that satisfies the requirements of this part. The application shall include a written resolution or certification duly adopted by the applicant's board of directors, or by an individual with authority to act on behalf of the applicant's board of directors, of the following:
 
 (1) *Applicant review.* The applicant has reviewed the requirements of this part and, as required by this part, has provided to the best of its knowledge the most recent, accurate, and complete information available; and

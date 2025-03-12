@@ -1,5 +1,7 @@
 ##### § 1263.3 Decision on application. #####
 
+Link to an amendment published at 82 FR 25722, June 5, 2017.
+
 (a) *Authority.* FHFA hereby authorizes the Banks to approve or deny all applications for membership, subject to the requirements of this part. The authority to approve membership applications may be exercised only by a committee of the Bank's board of directors, the Bank president, or a senior officer who reports directly to the Bank president, other than an officer with responsibility for business development.
 
 (b) *Decision resolution.* For each applicant, the Bank shall prepare a written resolution duly adopted by the Bank's board of directors, by a committee of the board of directors, or by an officer with delegated authority to approve membership applications. The decision resolution shall state:

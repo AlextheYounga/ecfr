@@ -1,7 +1,5 @@
 ##### § 73.3555 Multiple ownership. #####
 
-Link to an amendment published at 82 FR 21127, May 5, 2017.
-
 (a)(1) *Local radio ownership rule.* A person or single entity (or entities under common control) may have a cognizable interest in licenses for AM or FM radio broadcast stations in accordance with the following limits:
 
 (i) In a radio market with 45 or more full-power, commercial and noncommercial radio stations, not more than 8 commercial radio stations in total and not more than 5 commercial stations in the same service (AM or FM);
@@ -72,7 +70,7 @@ Link to an amendment published at 82 FR 21127, May 5, 2017.
 
 (2) *For purposes of this paragraph (e)*:
 
-(i) National audience reach means the total number of television households in the Nielsen Designated Market Areas (DMAs) in which the relevant stations are located divided by the total national television households as measured by DMA data at the time of a grant, transfer, or assignment of a license.
+(i) *National audience reach means* the total number of television households in the Nielsen Designated Market Areas (DMAs) in which the relevant stations are located divided by the total national television households as measured by DMA data at the time of a grant, transfer, or assignment of a license. For purposes of making this calculation, UHF television stations shall be attributed with 50 percent of the television households in their DMA market.
 
 (ii) No market shall be counted more than once in making this calculation.
 
@@ -198,4 +196,4 @@ Note 12 to § 73.3555:
 
 Parties seeking waiver of paragraph (d)(1) of this section, or an exception pursuant to paragraph (d)(2) of this section involving failed or failing properties, should refer to the Second Report and Order in MB Docket No. 14-50, FCC 16-107 (released August 25, 2016).
 
-[73 FR 9487, Feb. 21, 2008, as amended at 73 FR 28369, May 16, 2008; 75 FR 27199, May 14, 2010; 79 FR 29006, May 20, 2014; 81 FR 73041, Oct. 24, 2016; 81 FR 76262, Nov. 1, 2016]
+[73 FR 9487, Feb. 21, 2008, as amended at 73 FR 28369, May 16, 2008; 75 FR 27199, May 14, 2010; 79 FR 29006, May 20, 2014; 81 FR 73041, Oct. 24, 2016; 81 FR 76262, Nov. 1, 2016; 82 FR 21127, May 5, 2017]

@@ -1,7 +1,5 @@
 ##### § 7.23 What limitations apply to disclosure? #####
 
-Link to an amendment published at 82 FR 21139, May 5, 2017.
-
 (a) *Policy.* It is DOT policy to make its records available to the public to the greatest extent possible, in keeping with the spirit of FOIA. This includes releasing reasonably segregable and meaningful nonexempt information in a document from which exempt information is withheld.
 
 (b) *Statutory disclosure requirement.* As provided in 5 U.S.C. 552(a)(3)(A), DOT makes reasonably described records available upon request from a member of the public, when the request is submitted in accordance with this subpart, except to the extent that the records contain information exempt from FOIA's mandate of disclosure as provided in 5 U.S.C. 552(b).
@@ -20,11 +18,11 @@ Link to an amendment published at 82 FR 21139, May 5, 2017.
 
 (4) Trade secrets and commercial or financial information obtained from a person and privileged or confidential;
 
-(5) Inter-agency or intra-agency memorandums or letters which would not be available by law to a party other than an agency in litigation with the agency;
+(5) Inter-agency or intra-agency memorandums or letters that would not be available by law to a party other than an agency in litigation with the agency, provided that the deliberative process privilege shall not apply to records created 25 years or more before the date on which the records were requested;
 
 (6) Personnel and medical files and similar files the disclosure of which would constitute a clearly unwarranted invasion of personal privacy;
 
-(7) Records or information compiled for law enforcement purposes, but only to the extent that the production of such law enforcement records or information -
+(7) Records or information compiled for law enforcement purposes, but only to the extent that the production of such law enforcement records or information—
 
 (i) Could reasonably be expected to interfere with enforcement proceedings;
 
@@ -42,6 +40,14 @@ Link to an amendment published at 82 FR 21139, May 5, 2017.
 
 (9) Geological and geophysical information and data, including maps, concerning wells.
 
-(d) *Redacted information.* DOT indicates the amount of information redacted from records released under the FOIA and the exemption(s) relied upon in redacting the information, at the place in the record where the redaction is made, when technically feasible and when doing so does not harm an interest protected by the exemption concerned.
+(d) *Application of exemptions.* DOT shall withhold information pursuant to a statutory exemption only if:
 
-(e) *Non-confidentiality of requests.* DOT releases the names of FOIA requesters and descriptions of the records they have sought, as shown on DOT FOIA logs, except to the extent that a statutory exemption authorizes or requires withholding of the log information.
+(1) DOT reasonably foresees that disclosure would harm an interest protected by an exemption under paragraph (c) of this section; or
+
+(2) Disclosure is prohibited by law or otherwise exempted from disclosure under paragraph (c)(3) of this section.
+
+(e) *Redacted information.* DOT indicates the amount of information redacted from records released under the FOIA and the exemption(s) relied upon in redacting the information, at the place in the record where the redaction is made, when technically feasible and when doing so does not harm an interest protected by the exemption concerned.
+
+(f) *Non-confidentiality of requests.* DOT releases the names of FOIA requesters and descriptions of the records they have sought, as shown on DOT FOIA logs, except to the extent that a statutory exemption authorizes or requires withholding of the log information.
+
+[79 FR 16209, Mar. 25, 2014, as amended at 82 FR 21139, May 5, 2017; 82 FR 25740, June 5, 2017]

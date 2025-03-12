@@ -1,5 +1,7 @@
 ##### § 1263.11 Financial condition requirement for depository institutions and CDFI credit unions. #####
 
+Link to an amendment published at 82 FR 25722, June 5, 2017.
+
 (a) *Review requirement.* In determining whether a building and loan association, savings and loan association, cooperative bank, homestead association, savings bank, insured depository institution, or CDFI credit union has complied with the financial condition requirements of section 4(a)(2)(B) of the Bank Act (12 U.S.C. 1424(a)(2)(B)) and § 1263.6(a)(4), the Bank shall obtain as a part of the membership application and review each of the following documents:
 
 (1) *Regulatory financial reports.* The regulatory financial reports filed by the applicant with its appropriate regulator for the last six calendar quarters and three year-ends preceding the date the Bank receives the application;

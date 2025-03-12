@@ -108,11 +108,11 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (49) Sell any HMS that was offloaded from an individual vessel in excess of the retention limits specified in §§ 635.23 and 635.24.
 
-(50) Fish without being certified for completion of a NMFS protected species safe handling, release, and identification workshop, as required in § 635.8.
+(50) Fish without a NMFS safe handling, release, and identification workshop certificate, as required in § 635.8.
 
-(51) Fish without having a valid protected species workshop certificates issued to the vessel owner and operator on board the vessel as required in § 635.8.
+(51) Fish without having on board the vessel a valid safe handling, release, and identification workshop certificate issued to the vessel owner and operator as required in § 635.8.
 
-(52) Falsify a NMFS protected species workshop certificate or a NMFS Atlantic shark identification workshop certificate as specified at § 635.8.
+(52) Falsify a NMFS safe handling, release, and identification workshop certificate or a NMFS Atlantic shark identification workshop certificate as specified at § 635.8.
 
 (53) Fish for, catch, possess, retain, or land an Atlantic swordfish using, or captured on, “buoy gear” as defined at § 635.2, unless the vessel owner has been issued a swordfish directed limited access permit or a swordfish handgear limited access permit in accordance with § 635.4(f) or a valid HMS Commercial Caribbean Small Boat permit in accordance with § 635.4(o).
 
@@ -311,6 +311,12 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 (19) Retain, possess, transship, land, store, sell or purchase silky sharks, oceanic whitetip sharks, or scalloped, smooth, or great hammerhead sharks as specified in § 635.21(c)(1)(ii), § 635.22(a)(2), § 635.24, and § 635.31(c)(6).
 
 (20) Retain, possess, or land porbeagle sharks that were alive at the time of haulback as specified in §§ 635.21(c)(1)(iii), 635.22(a)(3), and 635.24 (a)(10).
+
+(21) - (23) [Reserved]
+
+(24) Release sharks with more than 3 feet (91.4 cm) of trailing gear, as specified in § 635.21(c)(6).
+
+(25) Fail to follow the fleet communication and relocation protocol for dusky sharks as specified at § 635.21(c)(6), (d)(2), and (g)(5).
 
 (e) *Swordfish.* It is unlawful for any person or vessel subject to the jurisdiction of the United States to:
 

@@ -1,8 +1,6 @@
 ##### § 7.27 What are the designated DOT FOIA Requester Service Centers? #####
 
-Link to an amendment published at 82 FR 21139, May 5, 2017.
-
-(a) A request for a record under this subpart may be submitted via paper, facsimile, or electronic mail to the FOIA Requester Service Center designated for the DOT component where the records are located, at the electronic mail addresses or facsimile numbers identified at *http://www.dot.gov/foia* or the mailing addresses indicated below (unless a more up-to-date mailing address has been designated at *http://www.dot.gov/foia*):
+(a) A request for a record under this subpart may be submitted via paper, facsimile, or electronic mail to the FOIA Requester Service Center designated for the DOT component where the records are located, at the electronic mail addresses or facsimile numbers identified at *https://www.transportation.gov/foia* or the mailing addresses indicated below (unless a more up-to-date mailing address has been designated at *https://www.transportation.gov/foia*):
 
 (1) FOIA Requester Service Centers at 1200 New Jersey Avenue SE., Washington, DC 20590:
 
@@ -30,4 +28,6 @@ Link to an amendment published at 82 FR 21139, May 5, 2017.
 
 (b) If the person making the request does not know where in DOT the records are located, the person may submit the request to the FOIA Requester Service Center at Office of the Secretary of Transportation, 1200 New Jersey Avenue SE., Room W94-122, Washington, DC 20590 or by facsimile: 202-366-8536. Requesters also may contact the FOIA Requester Service Center at the Office of the Secretary of Transportation at 202-366-4542 with questions about how to submit a FOIA request or to confirm the mailing addresses indicated in this part.
 
-(c) Requests for records under this part, and FOIA inquiries generally, may be made by accessing the DOT Home Page on the Internet (*http://www.dot.gov*) and clicking on the Freedom of Information Act link (*http://www.dot.gov/foia*).
+(c) Requests for records under this part, and FOIA inquiries generally, may be made by accessing the DOT Home Page on the Internet (*https://www.transportation.gov*) and clicking on the Freedom of Information Act link (*https://www.transportation.gov/foia*).
+
+[79 FR 16209, Mar. 25, 2014, as amended at 82 FR 21139, May 5, 2017]

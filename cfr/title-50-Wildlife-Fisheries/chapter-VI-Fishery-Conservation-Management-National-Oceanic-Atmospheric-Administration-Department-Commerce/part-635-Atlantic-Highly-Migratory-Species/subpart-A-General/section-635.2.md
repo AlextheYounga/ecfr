@@ -1,7 +1,5 @@
 ##### § 635.2 Definitions. #####
 
-Link to an amendment published at 82 FR 16505, Apr. 4, 2017.
-
 In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 of this chapter, the terms used in this part have following meanings. If applicable, the terms used in this part supercede those used in § 600.10:
 
 *Archival tag* means a device that is implanted or affixed to a fish to electronically record scientific information about the migratory behavior of that fish.
@@ -194,8 +192,6 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *Prohibited shark* means one of the species, or a part thereof, listed in paragraph (d) of table 1 in appendix A to this part.
 
-*Protected species safe handling, release, and identification workshop certificate* means the document issued by NMFS, or its designee, indicating that the person named on the certificate has successfully completed the Atlantic HMS protected species safe handling, release, and identification workshop.
-
 *Reporting week* means the period of time beginning at 0001 local time on Sunday and ending at 2400 hours local time the following Saturday.
 
 *Research LCS* means one of the species, or part thereof, listed under heading A of table 1 in appendix A of this part, other than sandbar sharks.
@@ -204,9 +200,13 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 *Round wire stock* means round metal wire, typically used in the manufacturing of fishing hooks, that has not been forged, or otherwise modified or treated in any way to increase the original factory tensile strength set by the hook manufacturer.
 
+*Safe handling, release, and identification workshop certificate* means the document issued by NMFS, or its designee, indicating that the person named on the certificate has successfully completed the Atlantic HMS safe handling, release, and identification workshop.
+
 *School BFT* means a BFT measuring at least 27 inches (69 cm) and less than 47 inches (119 cm) CFL.
 
 *Shark* means one of the oceanic species, or a part thereof, listed in Table 1 of Appendix A to this part.
+
+*Shark endorsement* means an authorization added to an HMS Angling, HMS Charter/Headboat, Atlantic Tunas General, or Swordfish General Commercial permit that allows for the retention of authorized Atlantic sharks consistent with all other applicable regulations in this part.
 
 *Shark research permit* means a permit issued to catch and land a limited number of sharks to maintain time series for stock assessments and for other scientific research purposes. These permits may be issued only to the owner of a vessel who has been issued either a directed or incidental shark LAP. The permit is specific to the commercial shark vessel and owner combination and is valid only per the terms and conditions listed on the permit.
 

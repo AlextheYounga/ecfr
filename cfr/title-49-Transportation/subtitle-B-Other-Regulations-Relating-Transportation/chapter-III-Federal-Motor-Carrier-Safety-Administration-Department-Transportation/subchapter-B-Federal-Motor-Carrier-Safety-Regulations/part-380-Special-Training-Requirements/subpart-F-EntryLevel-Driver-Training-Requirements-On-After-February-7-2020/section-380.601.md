@@ -1,0 +1,3 @@
+##### § 380.601 Purpose and scope. #####
+
+This subpart establishes training requirements for entry-level drivers, as defined in this subpart, and minimum content for theory and Behind-the-Wheel (BTW) training curricula. Entry-level driver training, as defined in this subpart, applies only to those individuals who apply for a commercial driver's license (CDL) or a CDL upgrade or endorsement and does not otherwise amend substantive CDL requirements in part 383 of this chapter.

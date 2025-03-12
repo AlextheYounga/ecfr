@@ -1,5 +1,7 @@
 ##### § 1263.1 Definitions. #####
 
+Link to an amendment published at 82 FR 25722, June 5, 2017.
+
 For purposes of this part:
 
 *Adjusted net income* means net income, excluding extraordinary items such as income received from, or expense incurred in, sales of securities or fixed assets, reported on a regulatory financial report.

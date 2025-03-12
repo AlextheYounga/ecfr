@@ -1,14 +1,12 @@
 ##### § 7.2 Definitions. #####
 
-Link to an amendment published at 82 FR 21139, May 5, 2017.
-
 Unless the context requires otherwise, the following definitions apply in this part:
 
 *Act* and *FOIA* mean the Freedom of Information Act, 5 U.S.C. 552, as amended.
 
 *Administrator* means the head of each Operating Administration.
 
-*Components* - see the definition of Department in this section.
+*Components*—see the definition of Department in this section.
 
 *Concurrence* means that the approval of the individual being consulted is required in order for the subject action to be taken.
 
@@ -16,7 +14,7 @@ Unless the context requires otherwise, the following definitions apply in this p
 
 *Consultation* has its ordinary meaning; the approval of the individual being consulted is not required in order for the subject action to be taken.
 
-*Department* or *DOT* means the Department of Transportation, including the Office of the Secretary, the Office of Inspector General, and all DOT Operating Administrations, any of which may be referred to as a DOT component. This definition specifically excludes the Surface Transportation Board, which has its own FOIA regulations at 49 CFR part 1001.
+*Department* or *DOT* means the Department of Transportation, including the Office of the Secretary, the Office of Inspector General, and all DOT Operating Administrations, any of which may be referred to as a DOT component.
 
 *First-party request* means a request by an individual for records pertaining to that individual.
 
@@ -42,7 +40,7 @@ Unless the context requires otherwise, the following definitions apply in this p
 
 (9) Saint Lawrence Seaway Development Corporation.
 
-*Reading room records* are those records required to be made available to the public without a specific request under 5 U.S.C. 552(a)(2), as described in § 7.12 of subpart B of this part. DOT makes reading room records available to the public electronically through its FOIA Web pages (*http://www.dot.gov/foia*) and at the physical locations identified in § 7.12(b). Other records may also be made available at DOT's discretion through DOT Web pages (*http://www.dot.gov*).
+*Reading room records* are those records required to be made available to the public without a specific request under 5 U.S.C. 552(a)(2), as described in § 7.12.
 
 *Record* includes any writing, drawing, map, recording, diskette, DVD, CD-ROM, tape, film, photograph, or other documentary material, regardless of medium, by which information is preserved. The term also includes any such documentary material stored electronically by computer.
 
@@ -55,3 +53,5 @@ Unless the context requires otherwise, the following definitions apply in this p
 *Secretary* means the Secretary of Transportation or any individual to whom the Secretary has delegated authority in the matter concerned.
 
 *Toll* means temporarily stop the running of a time limit.
+
+[79 FR 16209, Mar. 25, 2014, as amended at 82 FR 21139, May 5, 2017]

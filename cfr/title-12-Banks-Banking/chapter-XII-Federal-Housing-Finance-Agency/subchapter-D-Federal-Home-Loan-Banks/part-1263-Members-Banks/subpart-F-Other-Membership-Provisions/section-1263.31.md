@@ -1,5 +1,7 @@
 ##### § 1263.31 Reports and examinations. #####
 
+Link to an amendment published at 82 FR 25723, June 5, 2017.
+
 As a condition precedent to Bank membership, each member:
 
 (a) Consents to such examinations as the Bank or FHFA may require for purposes of the Bank Act;

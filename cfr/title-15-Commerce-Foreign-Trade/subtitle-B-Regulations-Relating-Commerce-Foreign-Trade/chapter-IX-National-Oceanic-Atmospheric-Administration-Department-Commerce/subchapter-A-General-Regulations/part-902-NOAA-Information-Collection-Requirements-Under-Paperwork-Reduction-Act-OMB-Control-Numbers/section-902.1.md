@@ -1,7 +1,5 @@
 ##### § 902.1 OMB control numbers assigned pursuant to the Paperwork Reduction Act. #####
 
-Link to an amendment published at 82 FR 16505, Apr. 4, 2017.
-
 (a) *Purpose.* This part collects and displays the control numbers assigned to information collection requirements of the National Oceanic and Atmospheric Administration (NOAA) by the Office of Management and Budget (OMB) pursuant to the Paperwork Reduction Act (PRA). NOAA intends that this part comply with the requirements of section 3507(c)(B)(i) of the PRA, which requires that agencies inventory and display a current control number assigned by the Director of OMB for each agency information collection requirement.
 
 (b) *Display.*
@@ -134,9 +132,6 @@ Link to an amendment published at 82 FR 16505, Apr. 4, 2017.
 |                                          300.218                                           |                                          \-0649                                          |
 |                                          300.219                                           |                                          \-0596                                          |
 |                                          300.225                                           |                                          \-0649                                          |
-|                                          600.205                                           |                                          \-0314                                          |
-|                                          600.215                                           |                                          \-0314                                          |
-|                                          600.235                                           |                                          \-0192                                          |
 |                                          300.322                                           |                                          \-0732                                          |
 |                                          300.323                                           |                                          \-0732                                          |
 |                                          300.324                                           |                                          \-0739                                          |
@@ -146,6 +141,9 @@ Link to an amendment published at 82 FR 16505, Apr. 4, 2017.
 |                                          300.338                                           |                                          \-0304                                          |
 |                                          300.339                                           |                                          \-0304                                          |
 |                                          300.341                                           |                                          \-0304                                          |
+|                                          600.205                                           |                                          \-0314                                          |
+|                                          600.215                                           |                                          \-0314                                          |
+|                                          600.235                                           |                                          \-0192                                          |
 |                                          600.501                                           |                                          \-0089                                          |
 |                                          600.502                                           |                                          \-0075                                          |
 |                                          600.503                                           |                                     \-0354 and -0356                                     |
@@ -253,10 +251,13 @@ Link to an amendment published at 82 FR 16505, Apr. 4, 2017.
 |                                          622.450                                           |                                          \-0359                                          |
 |                                          622.470                                           |                                          \-0205                                          |
 |                                          622.473                                           |                                          \-0013                                          |
+|                                           635.2                                            |                                          \-0327                                          |
 |                                          635.4(b)                                          |                                          \-0327                                          |
+|                                          635.4(c)                                          |                                          \-0327                                          |
 |                                          635.4(d)                                          |                                          \-0327                                          |
 |                                        635.4(e)(4)                                         |                                          \-0205                                          |
 |                                          635.4(g)                                          |                                     \-0202 and -0205                                     |
+|                                          635.4(j)                                          |                                          \-0327                                          |
 |                                          635.5(a)                                          |                                 \-0371, -0328, and -0452                                 |
 |                                        635.5(a)(4)                                         |                                          \-0328                                          |
 |                                          635.5(b)                                          |                                     \-0013 and -0239                                     |
