@@ -4,7 +4,7 @@ The Director of the Office of Government Ethics, in his or her sole discretion, 
 
 (a) *Employee benefit plans.* The Director will not issue a Certificate of Divestiture if the property is held in a pension, profit-sharing, stock bonus, or other employee benefit plan and can otherwise be rolled over into an eligible tax-deferred retirement plan within the 60-day reinvestment period.
 
-(b) *Tax-Deferred and Tax-Advantaged Accounts.* The Director will not issue a Certificate of Divestiture if the property is held in an Individual Retirement Account, college savings plan (529 plan), or other tax-deferred or tax-advantaged account (*e.g.,* 401(k), 403(b), 457 plans, etc.), which allow the account holder to exchange the property for permissible property without incurring a capital gain.
+(b) *Tax-Deferred and Tax-Advantaged Accounts.* The Director will not issue a Certificate of Divestiture if the property is held in an Individual Retirement Account, college savings plan (529 plan), or other tax-deferred or tax-advantaged account (e.g., 401(k), 403(b), 457 plans, etc.), which allow the account holder to exchange the property for permissible property without incurring a capital gain.
 
 (c) *Complete divestiture.* The Director will not issue a Certificate of Divestiture unless the employee agrees to divest all of the property that presents a conflict of interest, as well as other similar or related property that presents a conflict of interest under a Federal conflict of interest statute, regulation, rule, or Executive order. However, any property that qualifies for a regulatory exemption at part 2640 of this chapter need not be divested for a Certificate of Divestiture to be issued.
 
