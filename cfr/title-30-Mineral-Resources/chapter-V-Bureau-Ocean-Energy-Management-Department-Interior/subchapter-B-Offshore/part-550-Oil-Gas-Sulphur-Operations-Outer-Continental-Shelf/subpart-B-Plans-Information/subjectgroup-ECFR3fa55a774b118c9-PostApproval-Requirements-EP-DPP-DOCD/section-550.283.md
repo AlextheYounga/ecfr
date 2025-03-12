@@ -1,5 +1,7 @@
 ##### § 550.283 When must I revise or supplement the approved EP, DPP, or DOCD? #####
 
+Link to an amendment published at 85 FR 34936, June 5, 2020.
+
 (a) *Revised OCS plans.* You must revise your approved EP, DPP, or DOCD when you propose to:
 
 (1) Change the type of drilling rig (e.g., jack-up, platform rig, barge, submersible, semisubmersible, or drillship), production facility (e.g., caisson, fixed platform with piles, tension leg platform), or transportation mode (e.g., pipeline, barge);

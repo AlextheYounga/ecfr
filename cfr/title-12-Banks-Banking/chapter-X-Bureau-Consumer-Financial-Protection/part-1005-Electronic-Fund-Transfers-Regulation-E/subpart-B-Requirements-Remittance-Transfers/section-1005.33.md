@@ -1,5 +1,7 @@
 ##### § 1005.33 Procedures for resolving errors. #####
 
+Link to an amendment published at 85 FR 34904, June 5, 2020.
+
 (a) *Definition of error* - (1) *Types of transfers or inquiries covered.* For purposes of this section, the term *error* means:
 
 (i) An incorrect amount paid by a sender in connection with a remittance transfer unless the disclosure stated an estimate of the amount paid by a sender in accordance with § 1005.32(b)(2) and the difference results from application of the actual exchange rate, fees, and taxes, rather than any estimated amount;

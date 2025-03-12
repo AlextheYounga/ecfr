@@ -1,5 +1,7 @@
 ##### § 550.304 Existing facilities. #####
 
+Link to an amendment published at 85 FR 34937, June 5, 2020.
+
 (a) *Process leading to review of an existing facility.* (1) An affected State may request that the Regional Supervisor supply basic emission data from existing facilities when such data are needed for the updating of the State's emission inventory. In submitting the request, the State must demonstrate that similar offshore and onshore facilities in areas under the State's jurisdiction are also included in the emission inventory.
 
 (2) The Regional Supervisor may require lessees of existing facilities to submit basic emission data to a State submitting a request under paragraph (a)(1) of this section.

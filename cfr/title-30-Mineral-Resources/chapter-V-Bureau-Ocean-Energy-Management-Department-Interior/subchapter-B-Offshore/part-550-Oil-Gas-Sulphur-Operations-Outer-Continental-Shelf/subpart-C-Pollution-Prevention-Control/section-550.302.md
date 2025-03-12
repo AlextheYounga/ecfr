@@ -1,5 +1,7 @@
 ##### § 550.302 Definitions concerning air quality. #####
 
+Link to an amendment published at 85 FR 34936, June 5, 2020.
+
 For purposes of §§ 550.303 and 550.304 of this part:
 
 *Air pollutant* means any combination of agents for which the Environmental Protection Agency (EPA) has established, pursuant to section 109 of the Clean Air Act, national primary or secondary ambient air quality standards.

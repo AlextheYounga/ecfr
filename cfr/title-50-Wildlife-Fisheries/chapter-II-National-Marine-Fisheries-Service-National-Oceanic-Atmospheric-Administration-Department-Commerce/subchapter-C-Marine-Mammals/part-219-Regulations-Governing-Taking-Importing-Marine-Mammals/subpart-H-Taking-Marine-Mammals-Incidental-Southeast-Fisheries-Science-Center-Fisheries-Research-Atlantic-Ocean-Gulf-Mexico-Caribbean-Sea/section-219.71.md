@@ -1,0 +1,5 @@
+##### § 219.71 Specified activity and specified geographical region. #####
+
+(a) Regulations in this subpart apply only to the National Marine Fisheries Service's (NMFS) Southeast Fisheries Science Center (SEFSC) and those persons it authorizes or funds to conduct fishery-independent research surveys on its behalf for the taking of marine mammals that occurs in the area outlined in paragraph (b) of this section and that occurs incidental to SEFSC and partner research survey program operations. Hereafter, “SEFSC” refers to both the SEFSC and all designated partners.
+
+(b) The taking of marine mammals by the SEFSC and partners may be authorized in a 5-year Letter of Authorization (LOA) only if it occurs during fishery research surveys in the Atlantic Ocean, Gulf of Mexico, and Caribbean Sea and their associated estuaries.

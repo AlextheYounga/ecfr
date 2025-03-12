@@ -26,22 +26,20 @@ The Office of Economics and Analytics advises and makes recommendations to the C
 
 (l) Seeks to ensure that FCC policy encourages and promotes competitive markets by providing Bureaus and Offices with the necessary support to identify, evaluate, and resolve competition issues.
 
-(m) In conjunction with the relevant subject matter Bureau, serves as the Commission's principal policy and administrative staff resource with regard to the design, implementation, and administration of auctions and other types of competitive bidding.
+(m) Serves as the Commission's principal policy and administrative staff resource with regard to auction design and implementation issues. Jointly with the Wireless Telecommunications Bureau, Media Bureau, Wireline Competition Bureau, and/or other relevant Bureaus and Offices, develops, recommends, and administers policies, programs and rules, and advises the Commission on policy, engineering, and technical matters, concerning auctions of spectrum for wireless telecommunications and broadcast services and uses of competitive bidding to achieve other Commission policy objectives, including universal service support. Administers procurement of auction-related services from outside contractors. Oversees auctions conducted on behalf of the Commission by third parties at the direction of the Commission. Provides policy, administrative, and technical assistance to other Bureaus and Offices on auction issues. Advises and makes recommendations to the Commission, or acts for the Commission under delegated authority, in all matters pertaining to auction implementation. These activities include: Conducting auctions, policy development and coordination; conducting rulemaking and adjudicatory proceedings, including complaint proceedings for matters not within the responsibility of the Enforcement Bureau; acting on waivers of rules; compliance and enforcement activities for matters not within the responsibility of the Enforcement Bureau; determining resource impacts of existing, planned or recommended Commission activities concerning auctions, and developing and recommending resource deployment priorities. Exercises such authority as may be assigned, delegated, or referred to it by the Commission.
 
-(n) Administers Commission spectrum auctions for wireless telecommunications in conjunction with the Wireless Telecommunications Bureau. Administers Commission spectrum auctions for broadcasting in conjunction with the Media Bureau. Works with the Wireless Telecommunications Bureau to develop recommendations to the Commission on policies, programs and rules concerning auctions of spectrum for wireless telecommunications. In conjunction with the Wireless Telecommunications Bureau, Media Bureau, Wireline Competition Bureau, and other relevant Bureaus and Offices, advises the Commission on policy relating to auctions and competitive bidding to achieve other Commission policy objectives. Administers procurement of auction-related services from outside contractors. Provides policy, administrative and technical assistance to other Bureaus and Offices on auction issues.
+(n) With respect to applicable data and reporting duties assigned to the Office, coordinates with the Public Safety and Homeland Security Bureau and other relevant Bureaus and Offices on all matters affecting public safety, homeland security, national security, emergency management, disaster management, and related issues.
 
-(o) In conjunction with the Wireline Competition Bureau and Wireless Telecommunications Bureau, provides policy and administrative staff resources for the use of market-based mechanisms, including competitive bidding, to distribute universal service support.
+(o) With respect to applicable data and reporting duties assigned to the Office, and in coordination with the Wireline Competition Bureau and the Wireless Telecommunications Bureau, provides federal staff support for the Federal-State Joint Board on Universal Service and the Federal-State Joint Board on Jurisdictional Separations.
 
-(p) With respect to applicable data and reporting duties assigned to the Office, coordinates with the Public Safety and Homeland Security Bureau and other relevant Bureaus and Offices on all matters affecting public safety, homeland security, national security, emergency management, disaster management, and related issues.
+(p) In coordination with other relevant Bureaus and Offices, provides economic, financial, and technical analyses of communications markets and provider performance.
 
-(q) With respect to applicable data and reporting duties assigned to the Office, and in coordination with the Wireline Competition Bureau and the Wireless Telecommunications Bureau, provides federal staff support for the Federal-State Joint Board on Universal Service and the Federal-State Joint Board on Jurisdictional Separations.
+(q) In coordination with the Wireline Competition Bureau, provides technical support for *de novo* review of decisions of the Administrative Council for Terminal Attachments regarding technical criteria pursuant to § 68.614 of this chapter.
 
-(r) In coordination with other relevant Bureaus and Offices, provides economic, financial, and technical analyses of communications markets and provider performance.
+(r) Prepares briefings, position papers, and proposed Commission actions, as appropriate.
 
-(s) In coordination with the Wireline Competition Bureau, provides technical support for *de novo* review of decisions of the Administrative Council for Terminal Attachments regarding technical criteria pursuant to § 68.614.
+(s) In coordination with other relevant Bureaus and Offices, develops and recommends responses to legislative, regulatory or judicial inquiries and proposals concerning or affecting matters within the purview of its functions.
 
-(t) Prepares briefings, position papers, and proposed Commission actions, as appropriate.
+(t) Administers part 1, subparts V and W, of this chapter, including rulemaking.
 
-(u) In coordination with other relevant Bureaus and Offices, develops and recommends responses to legislative, regulatory or judicial inquiries and proposals concerning or affecting matters within the purview of its functions.
-
-[83 FR 63075, Dec. 7, 2018]
+[83 FR 63075, Dec. 7, 2018, as amended at 85 FR 34526, June 5, 2020]

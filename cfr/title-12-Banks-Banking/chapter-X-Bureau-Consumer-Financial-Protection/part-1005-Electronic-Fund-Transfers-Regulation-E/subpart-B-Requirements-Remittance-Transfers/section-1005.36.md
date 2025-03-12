@@ -1,5 +1,7 @@
 ##### § 1005.36 Transfers scheduled before the date of transfer. #####
 
+Link to an amendment published at 85 FR 34904, June 5, 2020.
+
 (a) *Timing.* (1) For a one-time transfer scheduled five or more business days before the date of transfer or for the first in a series of preauthorized remittance transfers, the remittance transfer provider must:
 
 (i) Provide either the pre-payment disclosure described in § 1005.31(b)(1) and the receipt described in § 1005.31(b)(2) or the combined disclosure described in § 1005.31(b)(3), in accordance with the timing requirements set forth in § 1005.31(e); and

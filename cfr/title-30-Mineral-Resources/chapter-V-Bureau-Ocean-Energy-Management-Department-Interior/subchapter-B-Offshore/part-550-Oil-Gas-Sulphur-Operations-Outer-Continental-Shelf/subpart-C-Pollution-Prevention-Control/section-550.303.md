@@ -1,5 +1,7 @@
 ##### § 550.303 Facilities described in a new or revised Exploration Plan or Development and Production Plan. #####
 
+Link to an amendment published at 85 FR 34937, June 5, 2020.
+
 (a) *New plans.* All Exploration Plans and Development and Production Plans shall include the information required to make the necessary findings under paragraphs (d) through (i) of this section, and the lessee shall comply with the requirements of this section as necessary.
 
 (b) *Applicability of § 550.303 to existing facilities.* (1) The Regional Supervisor may review any Exploration Plan or Development and Production Plan to determine whether any facility described in the plan should be subject to review under this section and has the potential to significantly affect the air quality of an onshore area. To make these decisions, the Regional Supervisor shall consider the distance of the facility from shore, the size of the facility, the number of sources planned for the facility and their operational status, and the air quality status of the onshore area.

@@ -16,6 +16,6 @@
 
 (b) The party submitting the annual report must certify that they have been authorized to do so by the winning bidder.
 
-(c) Each annual report shall be submitted to the Office of the Secretary of the Commission, clearly referencing WT Docket No. 10-208; the Administrator; and the relevant state commissions, relevant authority in a U.S. Territory, or Tribal governments, as appropriate.
+(c) Each annual report shall be submitted to the Office of the Secretary of the Commission, clearly referencing GN Docket No. 20-104; the Administrator; and the relevant state commissions, relevant authority in a U.S. Territory, or Tribal governments, as appropriate.
 
-[76 FR 73877, Nov. 29, 2011, as amended at 77 FR 30915, May 24, 2012]
+[76 FR 73877, Nov. 29, 2011, as amended at 77 FR 30915, May 24, 2012; 85 FR 34527, June 5, 2020]

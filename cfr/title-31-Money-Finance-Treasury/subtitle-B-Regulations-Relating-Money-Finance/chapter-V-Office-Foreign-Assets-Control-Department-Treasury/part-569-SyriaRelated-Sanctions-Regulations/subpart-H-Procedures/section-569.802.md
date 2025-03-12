@@ -1,0 +1,3 @@
+##### § 569.802 Delegation of certain authorities of the Secretary of the Treasury. #####
+
+Any action that the Secretary of the Treasury is authorized to take pursuant to Executive Order 13894 of October 14, 2019 (E.O. 13894), and any further Executive orders issued pursuant to the national emergency declared in E.O. 13894, may be taken by the Director of OFAC or by any other person to whom the Secretary of the Treasury has delegated authority so to act.

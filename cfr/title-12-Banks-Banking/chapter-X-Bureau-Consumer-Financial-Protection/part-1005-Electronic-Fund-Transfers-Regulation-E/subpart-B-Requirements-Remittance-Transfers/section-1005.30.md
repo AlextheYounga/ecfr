@@ -1,5 +1,7 @@
 ##### § 1005.30 Remittance transfer definitions. #####
 
+Link to an amendment published at 85 FR 34904, June 5, 2020.
+
 Except as otherwise provided, for purposes of this subpart, the following definitions apply:
 
 (a) “Agent” means an agent, authorized delegate, or person affiliated with a remittance transfer provider, as defined under State or other applicable law, when such agent, authorized delegate, or affiliate acts for that remittance transfer provider.

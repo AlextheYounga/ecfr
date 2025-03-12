@@ -1,0 +1,3 @@
+##### § 219.73 Permissible methods of taking. #####
+
+Under an LOA issued pursuant to §§ 216.106 of this chapter and 219.77, the Holder of the LOA (hereinafter “SEFSC”) may incidentally, but not intentionally, take marine mammals within the areas described in § 219.71 by Level A harassment, serious injury, or mortality associated with fisheries research gear including trawls, gillnets, and hook and line, and Level B harassment associated with use of active acoustic systems provided the activity is in compliance with all terms, conditions, and requirements of the regulations in this subpart and the relevant LOA.
