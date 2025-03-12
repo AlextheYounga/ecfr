@@ -1,6 +1,4 @@
-##### § 111.30 Notification of change of business address, organization, name, or location of business records; status report; termination of brokerage business. #####
-
-Link to an amendment published at 88 FR 41258, June 23, 2023.
+##### § 111.30 Notification of change in address, organization, name, or location of business records; status report; termination of brokerage business. #####
 
 (a) *Change of address.* A broker is responsible for providing CBP with the broker's current addresses, which include the broker's office of record address as defined in § 111.1, an email address, and, if the broker is not actively engaged in transacting business as a broker, the broker's non-business address. If a broker does not receive mail at the broker's office of record or non-business address, the broker must also provide CBP with a valid address at which he or she receives mail. When address information (the broker's office of record address, mailing address, email address) changes, or the broker is no longer actively engaged in transacting business as a broker, he or she must update his or her address information within ten (10) calendar days through a CBP-authorized electronic data interchange (EDI) system. If a CBP-authorized EDI system is not available, then address updates must be provided in writing within ten (10) calendar days to the processing Center.
 
@@ -16,15 +14,25 @@ Link to an amendment published at 88 FR 41258, June 23, 2023.
 
 (d) *Triennial status report*—(1) *General.* Each broker must file a triennial status report with CBP on February 1 of each third year after 1985. The report must be filed through a CBP-authorized EDI system and will not be considered received by CBP until payment of the triennial status report fee prescribed in § 111.96(d) is received. If a CBP-authorized EDI system is not available, the triennial status report must be filed with the processing Center. A report received during the month of February will be considered filed timely. No form or particular format is required.
 
-(2) *Individual*. (i) Each individual broker must state in the report required under paragraph (d)(1) of this section whether he or she is actively engaged in transacting business as a broker. If he or she is so actively engaged, the broker must also:
+(2) *Individual.* Each individual broker must state in the report required under paragraph (d)(1) of this section whether he or she is actively engaged in transacting business as a broker.
+
+(i) If the individual broker is actively engaged in transacting business as a broker, the individual broker must also:
 
 (A) State the name under which, and the address at which, the broker's business is conducted if he or she is a sole proprietor, and an email address;
 
-(B) State the name and address of his or her employer if he or she is employed by another broker, unless his or her employer is a partnership, association or corporation broker for which he or she is a qualifying member or officer for purposes of § 111.11(b) or (c)(2); and
+(B) State the name and address of his or her employer if he or she is employed by another broker, unless his or her employer is a partnership, association or corporation broker for which he or she is a qualifying member or officer for purposes of § 111.11(b) or (c)(2);
 
-(C) State whether or not he or she still meets the applicable requirements of §§ 111.11 and 111.19 and has not engaged in any conduct that could constitute grounds for suspension or revocation under § 111.53.
+(C) State whether or not he or she still meets the applicable requirements of §§ 111.11 and 111.19 and has not engaged in any conduct that could constitute grounds for suspension or revocation under § 111.53; and
 
-(ii) An individual broker not actively engaged in transacting business as a broker must provide CBP with the broker's current mailing address and email address, and state whether or not he or she still meets the applicable requirements of §§ 111.11 and 111.19 and has not engaged in any conduct that could constitute grounds for suspension or revocation under § 111.53.
+(D) Report and certify the broker's compliance with the continuing broker education requirement as set forth in § 111.102.
+
+(ii) If the individual broker is not actively engaged in transacting business as a broker, the individual broker must also:
+
+(A) State the broker's current mailing address and email address;
+
+(B) State whether or not he or she still meets the applicable requirements of §§ 111.11 and 111.19 and has not engaged in any conduct that could constitute grounds for suspension or revocation under § 111.53; and
+
+(C) Report and certify the broker's compliance with the continuing broker education requirement as set forth in § 111.102.
 
 (3) *Partnership, association, or corporation*. (i) Each partnership, association, or corporation broker must state in the report required under paragraph (d)(1) of this section the name under which its business as a broker is being transacted, the broker's office of record (*see* § 111.1), the name, address and email address of each licensed member of the partnership or licensed officer of the association or corporation, including the license qualifier under § 111.11(b) or (c)(2) and the name of the licensed employee who is the national permit qualifier under § 111.19(a), and whether the partnership, association, or corporation is actively engaged in transacting business as a broker. The report must be signed by a licensed member or officer.
 
@@ -40,4 +48,4 @@ Link to an amendment published at 88 FR 41258, June 23, 2023.
 
 (3) Each association or corporate officer who holds an individual broker's license, upon the permanent termination of an association or corporate brokerage business.
 
-[T.D. 00-17, 65 FR 13891, Mar. 15, 2000, as amended by CBP Dec. 22-21, 87 FR 63317, Oct. 18, 2022]
+[T.D. 00-17, 65 FR 13891, Mar. 15, 2000, as amended by CBP Dec. 22-21, 87 FR 63317, Oct. 18, 2022; CBP Dec. 23-04, 88 FR 41258, June 23, 2023]

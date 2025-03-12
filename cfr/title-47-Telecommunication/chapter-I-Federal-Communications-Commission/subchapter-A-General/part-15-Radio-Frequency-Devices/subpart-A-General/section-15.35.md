@@ -1,5 +1,7 @@
 ##### § 15.35 Measurement detector functions and bandwidths. #####
 
+Link to an amendment published at 88 FR 47394, July 24, 2023.
+
 The conducted and radiated emission limits shown in this part are based on the following, unless otherwise specified in this part:
 
 (a) On any frequency or frequencies below or equal to 1000 MHz, the limits shown are based on measuring equipment employing a CISPR quasi-peak detector function and related measurement bandwidths, unless otherwise specified. The specifications for the measuring instrumentation using the CISPR quasi-peak detector can be found in ANSI C63.4-2014, clause 4 (incorporated by reference, see § 15.38). As an alternative to CISPR quasi-peak measurements, the responsible party, at its option, may demonstrate compliance with the emission limits using measuring equipment employing a peak detector function as long at the same bandwidth as indicated for CISPR quasi-peak measurements are employed.

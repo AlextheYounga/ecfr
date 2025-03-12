@@ -1,7 +1,5 @@
 ##### § 503.50 Fees for services. #####
 
-Link to an amendment published at 88 FR 41040, June 23, 2023.
-
 (a) *Definitions.* The following definitions apply to the terms when used in this subpart:
 
 (1) *Search* means all time spent looking for material that is responsive to a request, including page-by-page or line-by-line identification of material within documents. Search for material will be done in the most efficient and least expensive manner so as to minimize costs for both the agency and the requester. Search is distinguished, moreover, from *review* of material in order to determine whether the material is exempt from disclosure. Searches may be done manually or by computer using existing programming.
@@ -82,8 +80,8 @@ Link to an amendment published at 88 FR 41040, June 23, 2023.
 
 (iv) No charge will be made by the Commission for notices, decisions, orders, etc., required by law to be served on a party to any proceeding or matter before the Commission. No charge will be made for single copies of such Commission issuances individually requested in person or by mail.
 
-(4) The certification and validation (with Federal Maritime Commission seal) of documents filed with or issued by the Commission will be available at $93 for each certification.
+(4) The certification and validation (with Federal Maritime Commission seal) of documents filed with or issued by the Commission will be available at $107 for each certification.
 
-(d) Applications for admission to practice before the Commission for persons not attorneys at law must be accompanied by a fee of $195 pursuant to § 502.27 of this chapter.
+(d) Applications for admission to practice before the Commission for persons not attorneys at law must be accompanied by a fee of $229 pursuant to § 502.27 of this chapter.
 
-[49 FR 44401, Nov. 6, 1984, as amended at 52 FR 13683, Apr. 24, 1987; 59 FR 59170, Nov. 16, 1994; 63 FR 50535, Sept. 22, 1998; 67 FR 39859, June 11, 2002; 70 FR 10329, Mar. 3, 2005. Redesignated at 79 FR 24351, Apr. 30, 2014; as amended at 81 FR 59144, Aug. 29, 2016; 83 FR 50294, Oct. 5, 2018; 85 FR 72578, Nov. 13, 2020; 88 FR 16897, Mar. 21, 2023]
+[49 FR 44401, Nov. 6, 1984, as amended at 52 FR 13683, Apr. 24, 1987; 59 FR 59170, Nov. 16, 1994; 63 FR 50535, Sept. 22, 1998; 67 FR 39859, June 11, 2002; 70 FR 10329, Mar. 3, 2005. Redesignated at 79 FR 24351, Apr. 30, 2014; as amended at 81 FR 59144, Aug. 29, 2016; 83 FR 50294, Oct. 5, 2018; 85 FR 72578, Nov. 13, 2020; 88 FR 16897, Mar. 21, 2023; 88 FR 41040, June 23, 2023]

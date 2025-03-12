@@ -1,0 +1,3 @@
+##### § 111.101 Scope. #####
+
+This subpart sets forth regulations providing for a continuing education requirement for individual brokers and the framework for administering this requirement. The continuing broker education requirement is for individual brokers, in order to maintain sufficient knowledge of customs and related laws, regulations, and procedures, bookkeeping, accounting, and all other appropriate matters necessary to render valuable service to importers and drawback claimants. Individual brokers will be required to certify completion of the continuing broker education requirement with the filing of their 2027 status report, required under § 111.30(d), and every status report thereafter, in accordance with the provisions of this subpart.

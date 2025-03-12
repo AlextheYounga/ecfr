@@ -1,7 +1,5 @@
 ##### § 111.19 National permit. #####
 
-Link to an amendment published at 88 FR 41258, June 23, 2023.
-
 (a) *General.* A national permit is required for the purpose of transacting customs business throughout the customs territory of the United States as defined in § 101.1 of this chapter.
 
 (b) *Application for a national permit.* An applicant who obtains a passing grade on the examination for an individual broker's license may apply for a national permit. The applicant will exercise responsible supervision and control (as described in § 111.28) over the activities conducted under that national permit. The national permit application may be submitted concurrently with or after the submission of an application for a broker's license. An applicant applying for a national permit on behalf of a partnership, association, or corporation must be a licensed broker employed by the partnership, association, or corporation. An application for a national permit under this paragraph must be submitted in the form of a letter to the processing Center or to a CBP-authorized electronic data interchange (EDI) system. The application must set forth or attach the following:
@@ -28,7 +26,7 @@ Link to an amendment published at 88 FR 41258, June 23, 2023.
 
 (11) A receipt or other evidence showing that the fees specified in § 111.96(b) and (c) have been paid in accordance with paragraph (b) of this section.
 
-(c) *Fees.* A national permit issued under paragraph (a) of this section is subject to the permit application fee specified in § 111.96(b) and to the customs user permit fee specified in § 111.96(c). The fees must be paid at the processing Center (*see* § 111.1) or through a CBP-authorized EDI system at the time the permit application is submitted.
+(c) *Fees.* A national permit issued under paragraph (a) of this section is subject to the permit application fee specified in § 111.96(b) and to the customs permit user fee specified in § 111.96(c). The fees must be paid at the processing Center (*see* § 111.1) or through a CBP-authorized EDI system at the time the permit application is submitted.
 
 (d) *Action on application; list of permitted brokers.* The processing Center that receives the application will review the application to determine whether the applicant meets the requirements of paragraphs (a) and (b) of this section. If the processing Center is of the opinion that the national permit should not be issued, the processing Center will submit written reasons for that opinion to the appropriate Executive Director, Office of Trade, CBP Headquarters, for appropriate instructions on whether to grant or deny the national permit. The appropriate Executive Director, Office of Trade, CBP Headquarters, will notify the applicant if his or her application is denied. CBP will issue a national permit to an applicant who meets the requirements of paragraphs (a) and (b) of this section. CBP will maintain and make available to the public an alphabetical list of permitted brokers.
 
@@ -38,4 +36,4 @@ Link to an amendment published at 88 FR 41258, June 23, 2023.
 
 (f) *Responsible supervision and control.* The individual broker who qualifies for the national permit will exercise responsible supervision and control (as described in § 111.28) over the activities conducted under that national permit.
 
-[T.D. 00-17, 65 FR 13891, Mar. 15, 2000, as amended by CBP Dec. 22-22, 87 FR 63267, Oct. 18, 2022; CBP Dec. 22-21, 87 FR 63315, Oct. 18, 2022]
+[T.D. 00-17, 65 FR 13891, Mar. 15, 2000, as amended by CBP Dec. 22-22, 87 FR 63267, Oct. 18, 2022; CBP Dec. 22-21, 87 FR 63315, Oct. 18, 2022; CBP Dec. 23-04, 88 FR 41258, June 23, 2023]

@@ -1,0 +1,13 @@
+##### § 111.104 Failure to report and certify compliance with continuing broker education requirement. #####
+
+(a) *Notification by CBP.* If an individual broker is subject to the continuing broker education requirement pursuant to § 111.102 and submits a status report as required under § 111.30(d)(2) but fails to report and certify compliance with the continuing broker education requirement as part of the submission of the status report, then CBP will notify the individual broker of the broker's failure to report and certify compliance in accordance with § 111.30(d). The notification will be sent to the address reflected in CBP's records or transmitted electronically pursuant to any electronic means authorized by CBP for that purpose.
+
+(b) *Required response to notice.* Upon the issuance of such notification, the individual broker must on or before 30 calendar days:
+
+(1) Submit a corrected status report that, in accordance with § 111.30(d), reflects the individual broker's compliance with the continuing broker education requirement, if the individual broker completed the required number of continuing education credits but failed to report and certify compliance with the requirement as part of the submission of the status report; or
+
+(2) Complete the required number of continuing education credits of qualifying continuing broker education and submit a corrected status report that, in accordance with § 111.30(d), reflects the individual broker's compliance with the continuing broker education requirement, if the individual broker had not completed the required number of continuing education credits at the time the status report was due.
+
+(c) *Suspension of license.* Unless the individual broker takes the corrective actions described in paragraph (b)(1) or (b)(2) of this section on or before 30 calendar days from the issuance date of the notification described in paragraph (a) of this section, CBP will take actions to suspend the individual broker's license in accordance with subpart D of this part.
+
+(d) *Revocation of license.* If the individual broker's license has been suspended pursuant to paragraph (c) of this section and the individual broker fails to take the corrective actions described in paragraph (b)(1) or (b)(2) of this section on or before 120 calendar days from the issuance date of the order of suspension, CBP will take actions to revoke the individual broker's license without prejudice to the filing of an application for a new license in accordance with subpart D of this part.

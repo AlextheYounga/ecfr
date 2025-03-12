@@ -1,5 +1,7 @@
 ##### § 15.3 Definitions. #####
 
+Link to an amendment published at 88 FR 47394, July 24, 2023.
+
 (a) *Auditory assistance device.* An intentional radiator used to provide auditory assistance communications (including but not limited to applications such as assistive listening, auricular training, audio description for the blind, and simultaneous language translation) for:
 
 (1) Persons with disabilities: In the context of part 15 rules (47 CFR part 15), the term “disability,” with respect to the individual, has the meaning given to it by section 3(2)(A) of the Americans with Disabilities Act of 1990 (42 U.S.C. 12102(2)(A)), *i.e.,* a physical or mental impairment that substantially limits one or more of the major life activities of such individuals;

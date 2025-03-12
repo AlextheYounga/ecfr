@@ -1,5 +1,7 @@
 ##### § 15.31 Measurement standards. #####
 
+Link to an amendment published at 88 FR 47394, July 24, 2023.
+
 (a) The following measurement procedures are used by the Commission to determine compliance with the technical requirements in this part. Except where noted, copies of these procedures are available from the Commission's current duplicating contractor whose name and address are available from the Commission's Consumer and Governmental Affairs Bureau at 1-888-CALL-FCC (1-888-225-5322).
 
 (1) FCC/OET MP-2: Measurement of UHF Noise Figures of TV Receivers.

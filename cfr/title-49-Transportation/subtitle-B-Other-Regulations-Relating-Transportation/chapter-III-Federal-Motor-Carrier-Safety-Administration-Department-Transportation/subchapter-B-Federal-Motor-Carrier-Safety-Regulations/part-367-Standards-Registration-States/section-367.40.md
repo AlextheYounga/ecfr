@@ -1,3 +1,12 @@
-##### § 367.40 xxx #####
+##### § 367.40 Fees under the Unified Carrier Registration Plan and Agreement for Registration Years beginning in 2024 and each subsequent registration year thereafter. #####
 
-Link to an amendment published at 88 FR 40723, June 22, 2023.
+|Bracket|Number of commercial motor vehicles owned or operated by exempt or non-exempt motor carrier, motor private carrier, or freight forwarder|Fee per entity for exempt or non-  <br/>exempt motor  <br/>carrier, motor  <br/>private carrier, or  <br/>freight forwarder|Fee per entity for broker or leasing company|
+|-------|----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+|  B1   |                                                                  0-2                                                                   |                                                            $37                                                            |                    $37                     |
+|  B2   |                                                                  3-5                                                                   |                                                            111                                                            |                                            |
+|  B3   |                                                                  6-20                                                                  |                                                            221                                                            |                                            |
+|  B4   |                                                                 21-100                                                                 |                                                            769                                                            |                                            |
+|  B5   |                                                               101-1,000                                                                |                                                           3,670                                                           |                                            |
+|  B6   |                                                            1,001 and above                                                             |                                                          35,836                                                           |                                            |
+
+[88 FR 40723, June 22, 2023]
