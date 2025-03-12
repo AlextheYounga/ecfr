@@ -1,5 +1,7 @@
 ##### § 1739.15 Completed application. #####
 
+Link to an amendment published at 85 FR 14409, Mar. 12, 2020.
+
 Applications should be prepared in conformance with the provisions of this part and all applicable regulations, including 2 CFR part 200, as adopted by USDA through 2 CFR part 400. Applicants must also conform to the requirements of the FOA posted on *www.Grants.gov*, the RUS Community Connect Grant program application guide, and the Community Connect Grant program website. Applicants should refer to the FOA and the application guide for submission directions. The application guide contains instructions and forms, as well as other important information needed to prepare an application and is updated on an annual basis. Paper copies of the application guide can be requested by contacting the Loan Origination and Approval Division at 202-720-0800. Completed applications must include the following documentation, studies, reports and information, in form and substance satisfactory to the Agency:
 
 (a) *An Application for Federal Assistance.* A completed Standard Form 424;

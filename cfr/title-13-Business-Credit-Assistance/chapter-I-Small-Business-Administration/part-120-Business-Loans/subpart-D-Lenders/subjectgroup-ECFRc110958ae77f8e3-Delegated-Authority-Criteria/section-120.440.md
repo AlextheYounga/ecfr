@@ -18,6 +18,4 @@
 
 (c) If delegated authority is approved or renewed, Lender must execute a supplemental guarantee agreement, which will specify a term not to exceed two years. As provided in § 120.442(c)(2)(i), when SBA renews a Lender's authority to participate in SBA Express, SBA may grant a longer term, but not to exceed three years. For approval or renewal of any delegated authority, SBA may grant shortened approvals or renewals based on risk or any of the other delegated authority criteria. Lenders with less than three years of SBA lending experience will be limited to an initial term of one year or less.
 
-(c) If delegated authority is approved or renewed, Lender must execute a supplemental guarantee agreement, which will specify a term not to exceed two years. As provided in § 120.442(c)(2)(i), when SBA renews a Lender's authority to participate in SBA Express, SBA may grant a longer term, but not to exceed three years. For approval or renewal of any delegated authority, SBA may grant shortened approvals or renewals based on risk or any of the other delegated authority criteria. Lenders with less than three years of SBA lending experience will be limited to an initial term of one year or less.
-
 [82 FR 39503, Aug. 21, 2017, as amended at 85 FR 7648, Feb. 10, 2020]

@@ -1,5 +1,7 @@
 ##### § 1739.19 Reporting and oversight requirements. #####
 
+Link to an amendment published at 85 FR 14409, Mar. 12, 2020.
+
 (a) A project performance activity report will be required of all recipients on an annual basis until the Project is complete and the funds are expended by the applicant. The reporting period will start with the calendar year the award is made and continue for every calendar year through the term of the award. The report must be submitted by January 31 of the following year of the reporting period. Recipients are to submit an original and one copy of all project performance reports, including, but not limited to, the following:
 
 (1) A comparison of actual accomplishments to the objectives established for that period;

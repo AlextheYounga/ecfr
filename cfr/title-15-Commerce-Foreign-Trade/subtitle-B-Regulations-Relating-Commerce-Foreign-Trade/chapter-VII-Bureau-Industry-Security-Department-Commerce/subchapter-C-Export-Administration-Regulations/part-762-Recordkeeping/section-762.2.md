@@ -136,4 +136,4 @@
 
 (2) [Reserved]
 
-[61 FR 12900, Mar. 25, 1996]Editorial Note:For Federal Register citations affecting § 762.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 85 FR 8725, Feb. 18, 2020, § 762.2, was amended by adding paragraph (b)(55), effective until Apr. 1, 2020.
+[61 FR 12900, Mar. 25, 1996]Editorial Note:For Federal Register citations affecting § 762.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 85 FR 8725, Feb. 18, 2020, § 762.2, was amended by adding paragraph (b)(55), effective until Apr. 1, 2020. At 85 FR 14416, Mar. 12, 2020, the effective date was extended to May 15, 2020.

@@ -1,5 +1,7 @@
 ##### § 1739.3 Definitions. #####
 
+Link to an amendment published at 85 FR 14408, Mar. 12, 2020.
+
 As used in this subpart:
 
 *Agency* or *RUS* shall mean the Rural Utilities Service, which administers the United States Department of Agriculture (USDA) Rural Development Utilities Programs.
