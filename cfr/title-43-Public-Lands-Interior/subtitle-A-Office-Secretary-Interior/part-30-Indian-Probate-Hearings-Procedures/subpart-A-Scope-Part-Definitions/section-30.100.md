@@ -23,10 +23,10 @@
 
 (2) §§ 30.400 through 30.424 (purchases at probate);
 
-(3) §§ 30.183 through 30.188, except for §§ 30.186(a), (b)(2), and (d) and 30.187;
+(3) §§ 30.183 through 30.189, except for §§ 30.186(a), (b)(2), and (c) and 30.187.
 
 (4) § 30.213; and
 
 (5) § 30.214(f) and (g).
 
-[73 FR 67289, Nov. 13, 2008, as amended at 76 FR 7506, Feb. 10, 2011; 86 FR 72083, Dec. 20, 2021]
+[73 FR 67289, Nov. 13, 2008, as amended at 76 FR 7506, Feb. 10, 2011; 86 FR 72083, Dec. 20, 2021; 88 FR 39769, June 20, 2023]

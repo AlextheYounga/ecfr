@@ -1,5 +1,7 @@
 ##### § 25.151 Public notice. #####
 
+Link to an amendment published at 88 FR 39792, June 20, 2023.
+
 (a) At regular intervals, the Commission will issue public notices listing:
 
 (1) The receipt of applications for new station authorizations, except applications for space station licenses filed pursuant to § 25.110(b)(3)(i) or (ii) of this part;

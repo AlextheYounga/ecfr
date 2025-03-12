@@ -6,7 +6,7 @@
 
 (1) ERP Phase 1 for program year 2020 and ERP Phase 2 for program year 2020, combined; and
 
-(2) ERP Phase 1 for program years 2021 and 2022 and ERP Phase 2 for program year 2021, combined.
+(2) ERP Phase 1 for program year 2021 and ERP Phase 2 for program year 2021, combined.
 
 (b) If at least 75 percent of the person or legal entity's average AGI is derived from farming, ranching, or forestry related activities and the producer provides the required certification and documentation, as discussed below, the person or legal entity, other than a joint venture or general partnership, is eligible to receive, directly or indirectly, up to:
 
@@ -14,13 +14,13 @@
 
 (i) ERP Phase 1 for program year 2020 and ERP Phase 2 for program year 2020, combined; and
 
-(ii) ERP Phase 1 for program years 2021 and 2022 and ERP Phase 2 for program year 2021, combined.; and
+(ii) ERP Phase 1 for program year 2021 and ERP Phase 2 for program year 2021, combined.; and
 
 (2) $250,000 for all other crops for:
 
 (i) ERP Phase 1 for program year 2020 and ERP Phase 2 for program year 2020, combined; and
 
-(ii) ERP Phase 1 for program years 2021 and 2022 and ERP Phase 2 for program year 2021, combined.
+(ii) ERP Phase 1 for program year 2021 and ERP Phase 2 for program year 2021, combined.
 
 (c) The relevant tax years for establishing a producer's AGI and percentage derived from farming, ranching, or forestry related activities are:
 
@@ -49,3 +49,5 @@
 (i) If an individual or legal entity is not eligible to receive ERP Phase 2 payments due to the individual or legal entity failing to satisfy payment eligibility provisions, the payment made either directly or indirectly to the individual or legal entity will be reduced to zero. The amount of the reduction for the direct payment to the producer will be commensurate with the direct or indirect ownership interest of the ineligible individual or ineligible legal entity.
 
 (j) Like other programs administered by FSA, payments made to an Indian Tribe or Tribal organization, as defined in section 4(b) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 5304), will not be subject to payment limitation.
+
+[88 FR 1883, Jan. 11, 2023 as amended at 88 FR 39768, June 20, 2023]

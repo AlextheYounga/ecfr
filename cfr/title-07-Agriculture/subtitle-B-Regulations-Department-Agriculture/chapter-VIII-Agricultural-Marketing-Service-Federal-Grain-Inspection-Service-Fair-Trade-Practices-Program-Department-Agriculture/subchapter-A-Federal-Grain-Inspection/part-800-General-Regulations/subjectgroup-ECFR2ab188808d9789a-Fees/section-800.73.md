@@ -12,7 +12,7 @@
 
 (2) A service representative is on duty and ready to provide service but is unable to do so because of a delay not caused by the Service; and
 
-(3 FGIS officials determine that the service representative cannot be utilized to provide service elsewhere without cost to the Service.
+(3) FGIS officials determine that the service representative cannot be utilized to provide service elsewhere without cost to the Service.
 
 (c) *Application of fees when an application for service is withdrawn or dismissed.* The applicable hourly rate will be assessed to the applicant for the entire period of scheduled service if the request is withdrawn or dismissed after the service representative departs for the service point, or if the service request is not canceled by 2 p.m., local time, the business day preceding the date of scheduled service. However, the applicable hourly rate will not be assessed to the applicant if FGIS officials determine that the service representative can be utilized elsewhere or released without cost to the Service.
 

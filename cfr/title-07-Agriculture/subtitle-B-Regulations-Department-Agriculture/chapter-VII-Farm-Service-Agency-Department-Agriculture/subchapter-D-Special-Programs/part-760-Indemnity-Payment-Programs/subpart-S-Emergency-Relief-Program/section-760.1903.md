@@ -8,9 +8,9 @@
 
 (3) The taxable amount of cooperative distributions directly related to the sale of the eligible crops produced by the producer;
 
-(4) Benefits under the following agricultural programs: 2017 WHIP, ARC and PLC, BCAP, LDP, MLG, MFP, the On-Farm Storage Loss Program, and STRP;
+(4) Benefits for eligible crops under the following agricultural programs: 2017 WHIP, ARC and PLC, BCAP, LDP, MLG, MFP, the On-Farm Storage Loss Program, and STRP;
 
-(5) CCC loans, if treated as income and reported to IRS;
+(5) CCC loans for eligible crops, if treated as income and reported to IRS;
 
 (6) Crop insurance proceeds for eligible crops, minus the amount of administrative fees and premiums;
 
@@ -81,3 +81,7 @@
 (h) Producers who file or would be eligible to file a joint tax return will certify their allowable gross revenue based on what it would have been had they filed taxes separately for the applicable year.
 
 (i) On form FSA-521, for each applicable disaster year, producers must indicate the percentage of their allowable gross revenue from specialty and high value crops and the percentage from other crops. The percentages certified must be equal to the percentages that the producer would have reasonably expected to receive for the disaster year if not for the qualifying disaster event.
+
+(j) The Deputy Administrator may determine that certain eligible crops produced by a producer that do not generate revenue for the producer directly from the sale of the crop and that the producer uses within their ordinary operation may be included in a producer's allowable gross revenue. This determination is at the Deputy Administrator's discretion. The value of the eligible crop reported in the producer's allowable gross revenue will be based on the producer's actual production of the crop and a price for the crop based on the best available data for each crop, as determined by the Deputy Administrator and published through guidance on FSA's website.
+
+[88 FR 1883, Jan. 11, 2023 as amended at 88 FR 39768, June 20, 2023]

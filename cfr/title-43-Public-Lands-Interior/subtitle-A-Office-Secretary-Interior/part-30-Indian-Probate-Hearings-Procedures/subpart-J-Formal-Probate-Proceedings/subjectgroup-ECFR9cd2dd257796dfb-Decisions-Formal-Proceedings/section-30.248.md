@@ -10,7 +10,7 @@
 
 (4) The petition is based on newly discovered evidence and fails to meet the requirements of § 30.238(e); or
 
-(5) The petition is based solely on issues or evidence described in § 30.245(c).
+(5) The petition is based solely on issues or evidence described in § 30.247(c).
 
 (b) If a summary denial is not warranted, the judge will review the merits of the petition to determine if the petition asserts proper grounds for reopening.
 
@@ -20,7 +20,7 @@
 
 (i) Cause copies of the petition and all papers filed by the petitioner to be served on those persons whose interest in the estate may be affected if the petition is granted;
 
-(ii) Allow all persons served a reasonable, specified time in which to respond to the petition for reopening by filling responses, cross-petitions, or briefs;
+(ii) Allow all persons served a reasonable, specified time in which to respond to the petition for reopening by filing responses, cross-petitions, or briefs;
 
 (iii) Suspend further distribution of the estate or income during the reopening proceedings, if appropriate, by order to the affected agencies;
 
@@ -30,4 +30,4 @@
 
 (c) On entry of a final order, including a summary denial, the judge must distribute the order to the petitioner, the agencies, and the interested parties. The order must include a notice stating that interested parties who are adversely affected, or BIA, have the right to appeal the final order to the Board, within 30 days of the mailing date, and giving the Board's address.
 
-[86 FR 72088, Dec. 20, 2021]
+[86 FR 72088, Dec. 20, 2021, as amended at 88 FR 39769, June 20, 2023]

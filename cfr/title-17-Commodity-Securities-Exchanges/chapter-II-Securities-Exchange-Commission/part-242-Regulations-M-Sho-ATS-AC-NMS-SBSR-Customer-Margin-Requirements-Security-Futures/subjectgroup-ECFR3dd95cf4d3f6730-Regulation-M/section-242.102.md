@@ -1,5 +1,8 @@
 ##### § 242.102 Activities by issuers and selling security holders during a distribution. #####
 
+Link to an amendment published at 88
+FR 39994, June 20, 2023.
+
 (a) *Unlawful Activity.* In connection with a distribution of securities effected by or on behalf of an issuer or selling security holder, it shall be unlawful for such person, or any affiliated purchaser of such person, directly or indirectly, to bid for, purchase, or attempt to induce any person to bid for or purchase, a covered security during the applicable restricted period; *Except That* if an affiliated purchaser is a distribution participant, such affiliated purchaser may comply with § 242.101, rather than this section.
 
 (b) *Excepted Activity.* The following activities shall not be prohibited by paragraph (a) of this section:

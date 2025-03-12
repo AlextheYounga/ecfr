@@ -1,5 +1,7 @@
 ##### § 25.261 Sharing among NGSO FSS space stations. #####
 
+Link to an amendment published at 88 FR 39792, June 20, 2023.
+
 (a) *Scope.* This section applies to NGSO FSS operation with earth stations with directional antennas anywhere in the world under a Commission license, or in the United States under a grant of U.S. market access.
 
 (b) *Coordination.* NGSO FSS operators must coordinate in good faith the use of commonly authorized frequencies.

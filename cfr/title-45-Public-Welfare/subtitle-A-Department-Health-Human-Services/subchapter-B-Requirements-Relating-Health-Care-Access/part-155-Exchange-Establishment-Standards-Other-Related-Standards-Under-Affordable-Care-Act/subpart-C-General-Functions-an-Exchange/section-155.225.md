@@ -1,7 +1,5 @@
 ##### § 155.225 Certified application counselors. #####
 
-Link to an amendment published at 88 FR 25918, Apr. 27, 2023.
-
 (a) *General rule.* The Exchange must have a certified application counselor program that complies with the requirements of this section.
 
 (b) *Exchange designation of organizations.* (1) The Exchange may designate an organization, including an organization designated as a Medicaid certified application counselor organization by a state Medicaid or CHIP agency, to certify its staff members or volunteers to act as certified application counselors who perform the duties and meet the standards and requirements for certified application counselors in this section if the organization—
@@ -78,10 +76,10 @@ Link to an amendment published at 88 FR 25918, Apr. 27, 2023.
 
 (3) Beginning November 15, 2014, if operating in a Federally-facilitated Exchange, provide compensation to individual certified application counselors on a per-application, per-individual-assisted, or per-enrollment basis;
 
-(4) Provide to an applicant or potential enrollee gifts of any value as an inducement for enrollment. The value of gifts provided to applicants and potential enrollees for purposes other than as an inducement for enrollment must not exceed nominal value, either individually or in the aggregate, when provided to that individual during a single encounter. For purposes of this paragraph (g)(4), the term gifts includes gift items, gift cards, cash cards, cash, and promotional items that market or promote the products or services of a third party, but does not include the reimbursement of legitimate expenses incurred by a consumer in an effort to receive Exchange application assistance, such as travel or postage expenses;
+(4) Provide to an applicant or potential enrollee gifts of any value as an inducement for enrollment. The value of gifts provided to applicants and potential enrollees for purposes other than as an inducement for enrollment must not exceed nominal value, either individually or in the aggregate, when provided to that individual during a single encounter. For purposes of this paragraph (g)(4), the term gifts includes gift items, gift cards, cash cards, cash, and promotional items that market or promote the products or services of a third party, but does not include the reimbursement of legitimate expenses incurred by a consumer in an effort to receive Exchange application assistance, such as travel or postage expenses; or
 
-(5) Solicit any consumer for application or enrollment assistance by going door-to-door or through other unsolicited means of direct contact, including calling a consumer to provide application or enrollment assistance without the consumer initiating the contact, unless the individual has a pre-existing relationship with the individual certified application counselor or designated organization and other applicable State and Federal laws are otherwise complied with. Outreach and education activities may be conducted by going door-to-door or through other unsolicited means of direct contact, including calling a consumer; or
+(5) [Reserved]
 
 (6) Initiate any telephone call to a consumer using an automatic telephone dialing system or an artificial or prerecorded voice, except in cases where the individual certified application counselor or designated organization has a relationship with the consumer and so long as other applicable State and Federal laws are otherwise complied with.
 
-[78 FR 42861, July 17, 2013, as amended at 79 FR 30345, May 27, 2014; 79 FR 42986, July 24, 2014; 81 FR 12341, Mar. 8, 2016]
+[78 FR 42861, July 17, 2013, as amended at 79 FR 30345, May 27, 2014; 79 FR 42986, July 24, 2014; 81 FR 12341, Mar. 8, 2016; 88 FR 25918, Apr. 27, 2023]

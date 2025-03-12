@@ -16,6 +16,6 @@ If, after OHA issues the probate decision, BIA identifies additional trust or re
 
 (b) BIA may submit the petition at any time after issuance of the decision.
 
-(c) BIA must send a copy of the petition and all supporting documentation to each interested party at the time of filing and include certification of service.
+(c) BIA must send a copy of the petition and all supporting documentation to each interested party at the time of filing and include a certification of service.
 
-[86 FR 72082, Dec. 20, 2021]
+[86 FR 72082, Dec. 20, 2021, amended at 88 FR 39769, June 20, 2023]

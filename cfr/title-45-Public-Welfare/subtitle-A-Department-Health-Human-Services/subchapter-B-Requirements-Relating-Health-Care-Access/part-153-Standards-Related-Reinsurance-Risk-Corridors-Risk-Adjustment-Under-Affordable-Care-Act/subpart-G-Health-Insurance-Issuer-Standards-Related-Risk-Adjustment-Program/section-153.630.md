@@ -1,7 +1,5 @@
 ##### § 153.630 Data validation requirements when HHS operates risk adjustment. #####
 
-Link to an amendment published at 88 FR 25916, Apr. 27, 2023.
-
 (a) *General requirement.* An issuer of a risk adjustment covered plan in a State where HHS is operating risk adjustment on behalf of the State for the applicable benefit year must have an initial and second validation audit performed on its risk adjustment data as described in this section.
 
 (b) *Initial validation audit.* (1) An issuer of a risk adjustment covered plan must engage one or more independent auditors to perform an initial validation audit of a sample of its risk adjustment data selected by HHS. The issuer must provide HHS with the identity of the initial validation auditor, and must attest to the absence of conflicts of interest between the initial validation auditor (or the members of its audit team, owners, directors, officers, or employees) and the issuer (or its owners, directors, officers, or employees), to its knowledge, following reasonable investigation, and must attest that it has obtained an equivalent representation from the initial validation auditor, in a timeframe and manner to be specified by HHS.
@@ -46,9 +44,11 @@ Link to an amendment published at 88 FR 25916, Apr. 27, 2023.
 
 (d) *Risk adjustment data validation disputes and appeals.* (1) Within 15 calendar days of notification of the initial validation audit sample determined by HHS, in the manner set forth by HHS, an issuer must confirm the sample or file a discrepancy report to dispute the initial validation audit sample determined by HHS.
 
-(2) Within 30 calendar days of the notification by HHS of the findings of a second validation audit (if applicable) or the calculation of a risk score error rate, in the manner set forth by HHS, an issuer must confirm the findings of the second validation audit (if applicable) or the calculation of the risk score error rate as a result of risk adjustment data validation, or file a discrepancy report to dispute the findings of a second validation audit (if applicable) or the calculation of a risk score error rate as a result of risk adjustment data validation.
+(2) Within 15 calendar days of the notification of the findings of a second validation audit (if applicable) by HHS, in the manner set forth by HHS, an issuer must confirm the findings of the second validation audit (if applicable), or file a discrepancy report to dispute the findings of a second validation audit (if applicable).
 
-(3) An issuer may appeal the findings of a second validation audit (if applicable) or the calculation of a risk score error rate as result of risk adjustment data validation, under the process set forth in § 156.1220 of this subchapter.
+(3) Within 30 calendar days of the notification by HHS of the calculation of a risk score error rate, in the manner set forth by HHS, an issuer must confirm the calculation of the risk score error rate as a result of risk adjustment data validation, or file a discrepancy report to dispute the calculation of a risk score error rate as a result of risk adjustment data validation.
+
+(4) An issuer may appeal the findings of a second validation audit (if applicable) or the calculation of a risk score error rate as result of risk adjustment data validation, under the process set forth in § 156.1220 of this subchapter.
 
 (e) *Adjustment of payments and charges.* HHS may adjust payments and charges for issuers that do not comply with audit requirements and standards, as specified in paragraphs (b) and (c) of this section.
 
@@ -74,4 +74,4 @@ Link to an amendment published at 88 FR 25916, Apr. 27, 2023.
 
 (5) The issuer was the sole issuer in the state market risk pool during the benefit year that is being audited and did not participate in any other market risk pools in the State during the benefit year that is being audited.
 
-[78 FR 15531, Mar. 11, 2013, as amended at 79 FR 13836, Mar. 11, 2014; 81 FR 94174, Dec. 22, 2016; 83 FR 17059, Apr. 17, 2018; 84 FR 17562, Apr. 25, 2019; 86 FR 24287, May 5, 2021]
+[78 FR 15531, Mar. 11, 2013, as amended at 79 FR 13836, Mar. 11, 2014; 81 FR 94174, Dec. 22, 2016; 83 FR 17059, Apr. 17, 2018; 84 FR 17562, Apr. 25, 2019; 86 FR 24287, May 5, 2021; 88 FR 25916, Apr. 27, 2023]

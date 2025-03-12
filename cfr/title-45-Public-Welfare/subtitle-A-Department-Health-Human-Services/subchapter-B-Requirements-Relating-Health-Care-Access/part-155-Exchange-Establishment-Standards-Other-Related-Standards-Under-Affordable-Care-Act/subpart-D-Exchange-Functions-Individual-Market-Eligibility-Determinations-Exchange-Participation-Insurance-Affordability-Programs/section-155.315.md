@@ -1,7 +1,5 @@
 ##### § 155.315 Verification process related to eligibility for enrollment in a QHP through the Exchange. #####
 
-Link to an amendment published at 88 FR 25918, Apr. 27, 2023.
-
 (a) *General requirement.* Unless a request for modification is granted in accordance with paragraph (h) of this section, the Exchange must verify or obtain information as provided in this section in order to determine that an applicant is eligible for enrollment in a QHP through the Exchange.
 
 (b) *Validation of Social Security number.* (1) For any individual who provides his or her Social Security number to the Exchange, the Exchange must transmit the Social Security number and other identifying information to HHS, which will submit it to the Social Security Administration.
@@ -54,6 +52,8 @@ Link to an amendment published at 88 FR 25918, Apr. 27, 2023.
 
 (6) When electronic data to support the verifications specified in § 155.315(d) or § 155.320(b) is required but it is not reasonably expected that data sources will be available within 1 day of the initial request to the data source, the Exchange must accept the applicant's attestation regarding the factor of eligibility for which the unavailable data source is relevant.
 
+(7) Must extend the period described in paragraph (f)(2)(ii) of this section by a period of 60 days for an applicant if the applicant is required to present satisfactory documentary evidence to verify household income.
+
 (g) *Exception for special circumstances.* For an applicant who does not have documentation with which to resolve the inconsistency through the process described in paragraph (f)(2) of this section because such documentation does not exist or is not reasonably available and for whom the Exchange is unable to otherwise resolve the inconsistency, with the exception of an inconsistency related to citizenship or immigration status, the Exchange must provide an exception, on a case-by-case basis, to accept an applicant's attestation as to the information which cannot otherwise be verified along with an explanation of circumstances as to why the applicant does not have documentation.
 
 (h) *Flexibility in information collection and verification.* HHS may approve an Exchange Blueprint in accordance with § 155.105(d) or a significant change to the Exchange Blueprint in accordance with § 155.105(e) to modify the methods to be used for collection of information and verification of information as set forth in this subpart, as well as the specific information required to be collected, provided that HHS finds that such modification would reduce the administrative costs and burdens on individuals while maintaining accuracy and minimizing delay, that it would not undermine coordination with Medicaid and CHIP, and that applicable requirements under §§ 155.260, 155.270, paragraph (i) of this section, and section 6103 of the Code with respect to the confidentiality, disclosure, maintenance, or use of such information will be met.
@@ -74,4 +74,4 @@ Link to an amendment published at 88 FR 25918, Apr. 27, 2023.
 
 (3) To the extent that the Exchange is unable to verify the information required to determine eligibility for enrollment through the Exchange in a QHP that is a catastrophic plan as described in paragraphs (j)(1) and (2) of this section, the Exchange must follow the procedures specified in § 155.315(f), except for § 155.315(f)(4).
 
-[77 FR 18444, Mar. 27, 2012, as amended at 77 FR 31515, May 29, 2012; 78 FR 42316, July 15, 2013]
+[77 FR 18444, Mar. 27, 2012, as amended at 77 FR 31515, May 29, 2012; 78 FR 42316, July 15, 2013; 88 FR 25918, Apr. 27, 2023]

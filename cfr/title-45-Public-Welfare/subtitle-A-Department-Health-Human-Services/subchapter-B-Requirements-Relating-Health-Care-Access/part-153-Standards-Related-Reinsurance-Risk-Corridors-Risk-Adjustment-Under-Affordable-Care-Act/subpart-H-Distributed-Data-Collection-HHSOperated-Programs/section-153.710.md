@@ -1,7 +1,5 @@
 ##### § 153.710 Data requirements. #####
 
-Link to an amendment published at 88 FR 25916, Apr. 27, 2023.
-
 (a) *Enrollment, claims, and encounter data.* An issuer of a risk adjustment covered plan or a reinsurance-eligible plan in a State in which HHS is operating the risk adjustment or reinsurance program, as applicable, must provide to HHS, through the dedicated data environment, access to enrollee-level plan enrollment data, enrollee claims data, and enrollee encounter data as specified by HHS.
 
 (b) *Claims data.* All claims data submitted by an issuer of a risk adjustment covered plan or a reinsurance-eligible plan in a State in which HHS is operating the risk adjustment or reinsurance program, as applicable, must have resulted in payment by the issuer (or payment of cost sharing by the enrollee).
@@ -14,7 +12,7 @@ Link to an amendment published at 88 FR 25916, Apr. 27, 2023.
 
 (2) Describe to HHS any discrepancy it identifies in the final dedicated distributed data environment report.
 
-(e) *Materiality threshold.* HHS will consider a discrepancy reported under paragraph (d)(2) of this section to be material if the amount in dispute is equal to or exceeds 1 percent of the applicable payment or charge payable to or due from the issuer for the benefit year, or $100,000, whichever is less.
+(e) *Materiality threshold.* HHS will consider a discrepancy reported under paragraph (d)(2) of this section to be material if the amount in dispute is equal to or exceeds $100,000 or 1 percent of the total estimated transfer amount in the applicable State market risk pool, whichever is less.
 
 (f) *Unresolved discrepancies.* If a discrepancy first identified in a final dedicated distributed data environment report in accordance with paragraph (d)(2) of this section remains unresolved after the issuance of the notification of risk adjustment payments and charges or reinsurance payments under § 153.310(e) or § 153.240(b)(1)(ii), respectively, an issuer of a risk adjustment covered plan or reinsurance-eligible plan may make a request for reconsideration regarding such discrepancy under the process set forth in § 156.1220(a) of this subchapter.
 
@@ -26,7 +24,7 @@ Link to an amendment published at 88 FR 25916, Apr. 27, 2023.
 
 (h) *Risk corridors and MLR reporting.* Except as provided in paragraph (h)(3) of this section:
 
-(1) Notwithstanding any discrepancy report made under paragraph (d)(2) of this section, any discrepancy filed under § 153.630(d)(2), or any request for reconsideration under § 156.1220(a) of this subchapter with respect to any risk adjustment payment or charge, including an assessment of risk adjustment user fees and risk adjustment data validation adjustments; reinsurance payment; cost-sharing reduction payment or charge; or risk corridors payment or charge, unless the dispute has been resolved, an issuer must report, for purposes of the risk corridors and MLR programs:
+(1) Notwithstanding any discrepancy report made under paragraph (d)(2) of this section, any discrepancy filed under § 153.630(d)(2) or (3), or any request for reconsideration under § 156.1220(a) of this subchapter with respect to any risk adjustment payment or charge, including an assessment of risk adjustment user fees and risk adjustment data validation adjustments; reinsurance payment; cost-sharing reduction payment or charge; or risk corridors payment or charge, unless the dispute has been resolved, an issuer must report, for purposes of the risk corridors and medical loss ratio (MLR) programs:
 
 (i) The risk adjustment payment to be made or charge assessed, including an assessment of risk adjustment user fees, by HHS in the notification provided under § 153.310(e);
 
@@ -42,4 +40,4 @@ Link to an amendment published at 88 FR 25916, Apr. 27, 2023.
 
 (3) In cases where HHS reasonably determines that the reporting instructions in paragraph (h)(1) or (2) of this section would lead to unfair or misleading financial reporting, issuers must correct their data submissions in a form and manner to be specified by HHS.
 
-[78 FR 15531, Mar. 11, 2013, as amended at 79 FR 13837, Mar. 11, 2014; 81 FR 12335, Mar. 8, 2016; 86 FR 24288, May 5, 2021; 87 FR 27387, May 6, 2022]
+[78 FR 15531, Mar. 11, 2013, as amended at 79 FR 13837, Mar. 11, 2014; 81 FR 12335, Mar. 8, 2016; 86 FR 24288, May 5, 2021; 87 FR 27387, May 6, 2022; 88 FR 25916, Apr. 27, 2023]

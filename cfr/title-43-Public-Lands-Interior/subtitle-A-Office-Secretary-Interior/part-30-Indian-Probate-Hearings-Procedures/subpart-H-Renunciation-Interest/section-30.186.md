@@ -6,8 +6,10 @@ To renounce an interest under § 30.180, you must file with the judge a written 
 
 (b) If you renounce an interest in trust or restricted land, you may either:
 
-(1) Designate an eligible person or entity meeting the requirements of § 30.182 or § 30.183 as the recipient; or
+(1) Designate an eligible person or entity meeting the requirements of § 30.183 or § 30.184 as the recipient; or
 
 (2) Renounce without making a designation.
 
 (c) If a distribution order to add property to the decedent's estate is issued, you may renounce an inherited interest in the property to be added by notifying the judge in writing of your intent to renounce the interest within 30 days of the mailing date of the distribution order.
+
+[86 FR 72084, Dec. 20, 2021, as amended at 88 FR 39769, June 20, 2023]

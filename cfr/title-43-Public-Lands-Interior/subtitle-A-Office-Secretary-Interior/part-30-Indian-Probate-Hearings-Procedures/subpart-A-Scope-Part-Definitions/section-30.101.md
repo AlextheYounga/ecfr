@@ -102,7 +102,7 @@
 
 *Judge* means an ALJ or IPJ.
 
-*Lineal descendent* means a blood relative of a person in that person's direct line of descent.
+*Lineal descendant* means a blood relative of a person in that person's direct line of descent.
 
 *Lockbox* means a centralized system within OST for receiving and depositing trust fund remittances collected by BIA.
 
@@ -158,4 +158,4 @@
 
 *You or I* means an interested party, as defined herein, with an interest in the decedent's estate unless a specific section states otherwise.
 
-[73 FR 67289, Nov. 13, 2008, as amended at 76 FR 7506, Feb. 10, 2011; 86 FR 72083, Dec. 20, 2021]
+[73 FR 67289, Nov. 13, 2008, as amended at 76 FR 7506, Feb. 10, 2011; 86 FR 72083, Dec. 20, 2021; 88 FR 39769, June 20, 2023]

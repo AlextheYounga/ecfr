@@ -1,7 +1,5 @@
 ##### § 155.320 Verification process related to eligibility for insurance affordability programs. #####
 
-Link to an amendment published at 88 FR 25918, Apr. 27, 2023.
-
 (a) *General requirements.* (1) The Exchange must verify information in accordance with this section only for an applicant or tax filer who requested an eligibility determination for insurance affordability programs in accordance with § 155.310(b).
 
 (2) Unless a request for modification is granted in accordance with § 155.315(h), the Exchange must verify or obtain information in accordance with this section before making an eligibility determination for insurance affordability programs, and must use such information in such determination.
@@ -96,6 +94,8 @@ Link to an amendment published at 88 FR 25918, Apr. 27, 2023.
 
 (4) The Exchange must provide education and assistance to an applicant regarding the process specified in this paragraph.
 
+(5) *Acceptance of attestation.* Notwithstanding any other requirement described in this paragraph (c) to the contrary, when the Exchange requests tax return data and family size from the Secretary of Treasury as described in paragraph (c)(1)(i)(A) of this section but no such data is returned for an applicant, the Exchange will accept that applicant's attestation of income and family size without further verification.
+
 (d) *Verification related to enrollment in an eligible employer-sponsored plan and eligibility for qualifying coverage in an eligible employer-sponsored plan*—(1) *General requirement.* The Exchange must verify whether an applicant reasonably expects to be enrolled in an eligible employer-sponsored plan or is eligible for qualifying coverage in an eligible employer-sponsored plan for the benefit year for which coverage is requested.
 
 (2) *Data.* The Exchange must—
@@ -130,4 +130,4 @@ Link to an amendment published at 88 FR 25918, Apr. 27, 2023.
 
 (2) For purposes of determining eligibility for CHIP, the Exchange must verify whether an applicant who does not attest to being a citizen or a national has satisfactory immigration status to be eligible for CHIP, in accordance with 42 CFR 457.320(b) and if applicable under the State Child Health Plan, section 2107(e)(1)(J) of the Act.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42316, July 15, 2013; 78 FR 54136, Aug. 30, 2013; 79 FR 30347, May 27, 2014; 81 FR 12341, Mar. 8, 2016; 83 FR 17061, Apr. 17, 2018; 86 FR 24289, May 5, 2021; 87 FR 27389, May 6, 2022]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42316, July 15, 2013; 78 FR 54136, Aug. 30, 2013; 79 FR 30347, May 27, 2014; 81 FR 12341, Mar. 8, 2016; 83 FR 17061, Apr. 17, 2018; 86 FR 24289, May 5, 2021; 87 FR 27389, May 6, 2022; 88 FR 25918, Apr. 27, 2023]

@@ -1,5 +1,7 @@
 ##### § 242.100 Preliminary note; definitions. #####
 
+Link to an amendment published at 88 FR 39994, June 20, 2023.
+
 (a) *Preliminary note:* Any transaction or series of transactions, whether or not effected pursuant to the provisions of Regulation M (§§ 242.100-242.105 of this chapter), remain subject to the antifraud and antimanipulation provisions of the securities laws, including, without limitation, Section 17(a) of the Securities Act of 1933 [15 U.S.C. 77q(a)] and Sections 9, 10(b), and 15(c) of the Securities Exchange Act of 1934 [15 U.S.C. 78i, 78j(b), and 78o(c)].
 
 (b) For purposes of regulation M (§§ 242.100 through 242.105 of this chapter) the following definitions shall apply:

@@ -1,7 +1,5 @@
 ##### § 155.430 Termination of Exchange enrollment or coverage. #####
 
-Link to an amendment published at 88 FR 25920, Apr. 27, 2023.
-
 (a) *General requirements.* The Exchange must determine the form and manner in which enrollment in a QHP through the Exchange may be terminated.
 
 (b) *Termination events*—(1) *Enrollee-initiated terminations.* (i) The Exchange must permit an enrollee to terminate his or her coverage or enrollment in a QHP through the Exchange, including as a result of the enrollee obtaining other minimum essential coverage. To the extent the enrollee has the right to terminate the coverage under applicable State laws, including “free look” cancellation laws, the enrollee may do so, in accordance with such laws.
@@ -37,6 +35,8 @@ Link to an amendment published at 88 FR 25920, Apr. 27, 2023.
 (vi) The enrollee was enrolled in a QHP without his or her knowledge or consent by a third party, including by a third party with no connection with the Exchange.
 
 (vii) Any other reason for termination of coverage described in § 147.106 of this subchapter.
+
+(3) *Prohibition of issuer-initiated terminations due to aging-off.* Exchanges on the Federal platform must, and State Exchanges using their own platform may, prohibit QHP issuers from terminating dependent coverage of a child before the end of the plan year in which the child attains age 26 (or, if higher, the maximum age a QHP issuer is required to make available dependent coverage of children under applicable State law or the issuer's business rules), on the basis of the child's age, unless otherwise permitted.
 
 (c) *Termination of coverage or enrollment tracking and approval.* The Exchange must—
 
@@ -96,4 +96,4 @@ Link to an amendment published at 88 FR 25920, Apr. 27, 2023.
 
 (3) *Reinstatement.* A reinstatement is a correction of an erroneous termination or cancellation action and results in restoration of an enrollment with no break in coverage.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 77 FR 31515, May 29, 2012; 78 FR 42322, July 15, 2013; 79 FR 30348, May 27, 2014; 80 FR 10867, Feb. 27, 2015; 81 FR 12343, Mar. 8, 2016; 81 FR 94179, Dec. 22, 2016; 83 FR 17063, Apr. 17, 2018; 85 FR 29260, May 14, 2020]
+[77 FR 18444, Mar. 27, 2012, as amended at 77 FR 31515, May 29, 2012; 78 FR 42322, July 15, 2013; 79 FR 30348, May 27, 2014; 80 FR 10867, Feb. 27, 2015; 81 FR 12343, Mar. 8, 2016; 81 FR 94179, Dec. 22, 2016; 83 FR 17063, Apr. 17, 2018; 85 FR 29260, May 14, 2020; 88 FR 25920, Apr. 27, 2023]

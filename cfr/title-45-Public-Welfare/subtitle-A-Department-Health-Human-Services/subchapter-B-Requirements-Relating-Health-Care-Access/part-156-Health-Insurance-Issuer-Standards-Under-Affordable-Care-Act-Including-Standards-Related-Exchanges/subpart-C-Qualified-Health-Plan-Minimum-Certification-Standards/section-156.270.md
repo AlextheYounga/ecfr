@@ -1,7 +1,5 @@
 ##### § 156.270 Termination of coverage or enrollment for qualified individuals. #####
 
-Link to an amendment published at 88 FR 25923, Apr. 27, 2023.
-
 (a) *General requirement.* A QHP issuer may only terminate enrollment in a QHP through the Exchange as permitted by the Exchange in accordance with § 155.430(b) of this subchapter. (See also § 147.106 of this subchapter for termination of coverage.)
 
 (b) *Termination of coverage or enrollment notice requirement.* If a QHP issuer terminates an enrollee's coverage or enrollment in a QHP through the Exchange in accordance with § 155.430(b) of this subchapter, the QHP issuer must, promptly and without undue delay:
@@ -30,7 +28,7 @@ Link to an amendment published at 88 FR 25923, Apr. 27, 2023.
 
 (2) Return advance payments of the premium tax credit paid on the behalf of such enrollee for the second and third months of the grace period if the enrollee exhausts the grace period as described in paragraph (g) of this section.
 
-(f) *Notice of non-payment of premiums.* If an enrollee is delinquent on premium payment, the QHP issuer must provide the enrollee with notice of such payment delinquency.
+(f) *Notice of non-payment of premiums.* If an enrollee is delinquent on premium payment, the QHP issuer must provide the enrollee with notice of such payment delinquency. Issuers offering QHPs in Exchanges on the Federal platform must provide such notices promptly and without undue delay, within 10 business days of the date the issuer should have discovered the delinquency.
 
 (g) *Exhaustion of grace period.* If an enrollee receiving advance payments of the premium tax credit exhausts the 3-month grace period in paragraph (d) of this section without paying all outstanding premiums, subject to a premium payment threshold implemented under § 155.400(g) of this subchapter, if applicable, the QHP issuer must terminate the enrollee's enrollment through the Exchange on the effective date described in § 155.430(d)(4) of this subchapter, provided that the QHP issuer meets the notice requirement specified in paragraph (b) of this section.
 
@@ -40,4 +38,4 @@ Link to an amendment published at 88 FR 25923, Apr. 27, 2023.
 
 (j) *Operational instructions.* QHP issuers must follow the transaction rules established by the Exchange in accordance with § 155.430(e) of this subchapter.
 
-[77 FR 18469, Mar. 27, 2012, as amended at 78 FR 42322, July 15, 2013; 78 FR 54143, Aug. 30, 2013; 79 FR 30351, May 27, 2014; 80 FR 10874, Feb. 27, 2015; 81 FR 12350, Mar. 8, 2016; 81 FR 53032, Aug. 11, 2016; 85 FR 29261, May 14, 2020]
+[77 FR 18469, Mar. 27, 2012, as amended at 78 FR 42322, July 15, 2013; 78 FR 54143, Aug. 30, 2013; 79 FR 30351, May 27, 2014; 80 FR 10874, Feb. 27, 2015; 81 FR 12350, Mar. 8, 2016; 81 FR 53032, Aug. 11, 2016; 85 FR 29261, May 14, 2020; 88 FR 25923, Apr. 27, 2023]

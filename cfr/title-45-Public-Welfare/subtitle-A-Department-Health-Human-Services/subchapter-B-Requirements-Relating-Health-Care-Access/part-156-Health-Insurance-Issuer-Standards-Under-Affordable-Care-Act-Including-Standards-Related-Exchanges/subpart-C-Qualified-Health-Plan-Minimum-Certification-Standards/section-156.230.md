@@ -1,8 +1,6 @@
 ##### § 156.230 Network adequacy standards. #####
 
-Link to an amendment published at 88 FR 25922, Apr. 27, 2023.
-
-(a) *General requirement.* (1) Each QHP issuer that uses a provider network must ensure that the provider network consisting of in-network providers, as available to all enrollees, meets the following standards:
+(a) *General requirement.* (1) Each QHP issuer must use a provider network and ensure that the provider network consisting of in-network providers, as available to all enrollees, meets the following standards:
 
 (i) Includes essential community providers in accordance with § 156.235;
 
@@ -14,11 +12,13 @@ Link to an amendment published at 88 FR 25922, Apr. 27, 2023.
 
 (A) For plan years beginning on or after January 1, 2023, meeting time and distance standards established by the Federally-facilitated Exchange. Such time and distance standards will be developed for consistency with industry standards and published in guidance. Quantitative reviews of compliance with time and distance standards will be conducted using issuer-submitted data; and
 
-(B) For plan years beginning on or after January 1, 2024, meeting appointment wait time standards established by the Federally-facilitated Exchange. Such appointment wait time standards will be developed for consistency with industry standards and published in guidance.
+(B) For plan years beginning on or after January 1, 2025, meeting appointment wait time standards established by the Federally-facilitated Exchange. Such appointment wait time standards will be developed for consistency with industry standards and published in guidance.
 
 (ii) *Written justification.* If a plan applying for QHP certification to be offered through a Federally-facilitated Exchanges does not satisfy the network adequacy standards described in paragraphs (a)(2)(i)(A) and (B) of this section, the issuer must include it as part of its QHP application a justification describing how the plan's provider network provides an adequate level of service for enrollees and how the plan's provider network will be strengthened and brought closer to compliance with the network adequacy standards prior to the start of the plan year. The issuer must provide information as requested by the FFE to support this justification.
 
 (3) The Federally-facilitated Exchange may grant an exception to the requirements in paragraphs (a)(2)(i)(A) and (B) of this section if the Exchange determines that making such health plan available through such Exchange is in the interests of qualified individuals in the State or States in which such Exchange operates.
+
+(4) A limited exception to the requirement described under paragraph (a)(1) of this section that each QHP issuer use a provider network is available to stand-alone dental plans issuers that sell plans in areas where it is prohibitively difficult for the issuer to establish a network of dental providers; this exception is not available to medical QHP issuers. Under this exception, an area is considered “prohibitively difficult” for the stand-alone dental plan issuer to establish a network of dental providers based on attestations from State departments of insurance in States with at least 80 percent of counties classified as Counties with Extreme Access Considerations (CEAC) that at least one of the following factors exists in the area of concern: a significant shortage of dental providers, a significant number of dental providers unwilling to contract with Exchange issuers, or significant geographic limitations impacting consumer access to dental providers.
 
 (b) *Access to provider directory.* (1) A QHP issuer must make its provider directory for a QHP available to the Exchange for publication online in accordance with guidance from HHS and to potential enrollees in hard copy upon request. In the provider directory, a QHP issuer must identify providers that are not accepting new patients.
 
@@ -48,12 +48,12 @@ Link to an amendment published at 88 FR 25922, Apr. 27, 2023.
 
 (ii) Any QHP issuer decision made for a request for continuity of care under paragraph (d)(2) of this section must be subject to the health benefit plan's internal and external grievance and appeal processes in accordance with applicable State or Federal law or regulations.
 
-(e) *Out-of-network cost sharing.* Beginning for the 2018 and later benefit years, for a network to be deemed adequate, each QHP that uses a provider network must:
+(e) *Out-of-network cost-sharing.* Beginning for the 2018 and later benefit years, for a network to be deemed adequate, each QHP must:
 
 (1) Notwithstanding § 156.130(c), count the cost sharing paid by an enrollee for an essential health benefit provided by an out-of-network ancillary provider in an in-network setting towards the enrollee's annual limitation on cost sharing; or
 
 (2) Provide a written notice to the enrollee by the longer of when the issuer would typically respond to a prior authorization request timely submitted, or 48 hours before the provision of the benefit, that additional costs may be incurred for an essential health benefit provided by an out-of- network ancillary provider in an in-network setting, including balance billing charges, unless such costs are prohibited under State law, and that any additional charges may not count toward the in-network annual limitation on cost sharing.
 
-(f) *Exception.* Paragraphs (a) through (e) of this section do not apply to a plan for which an issuer seeks QHP certification or to any certified QHP that does not use a provider network, meaning that the plan or QHP does not condition or differentiate benefits based on whether the issuer has a network participation agreement with the provider that furnishes covered services.
+(f) [Reserved]
 
-[77 FR 18469, Mar. 27, 2012, as amended at 80 FR 10873, Feb. 27, 2015; 81 FR 12349, Mar. 8, 2016; 86 FR 6178, Jan. 19, 2021; 87 FR 27391, May 6, 2022]
+[77 FR 18469, Mar. 27, 2012, as amended at 80 FR 10873, Feb. 27, 2015; 81 FR 12349, Mar. 8, 2016; 86 FR 6178, Jan. 19, 2021; 87 FR 27391, May 6, 2022; 88 FR 25922, Apr. 27, 2023]

@@ -1,7 +1,5 @@
 ##### § 105-64.001 What terms are defined in this part? #####
 
-Link to an amendment published at 88 FR 32140, May 19, 2023.
-
 GSA defines the following terms to ensure consistency of use and understanding of their meaning under this part:
 
 *Agency* means any organization covered by the Privacy Act as defined in 5 U.S.C. 551(1) and 5 U.S.C. 552a (a)(1). GSA is such an agency.
@@ -27,3 +25,7 @@ GSA defines the following terms to ensure consistency of use and understanding o
 *System of records* means a group of records from which information is retrieved by the name of an individual, or by any number, symbol, or other identifier assigned to that individual.
 
 *System manager* means the GSA associate responsible for a system of records and the information in it, as noted in the Federal Register systems of records notices.
+
+*Un-redacted SSN Mailed Documents Listing* (USMDL) means the Agency approved list, as posted at *www.gsa.gov/reference/gsa-privacy-program,* designating those documents for which the inclusion of the Social Security account number (SSN) is determined to be necessary to fulfill a compelling Agency business need when the documents are requested by individuals outside the Agency or other Federal agencies, as determined by the Administrator or their designee.
+
+[74 FR 66246, Dec. 15, 2009, as amended at 88 FR 32140, May 19, 2023]

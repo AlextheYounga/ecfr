@@ -42,7 +42,7 @@
 
 (16) Valuation reports for those interests to which the special circumstances listed in 43 CFR 30.264 apply.
 
-(b) If the estate includes only cash and the total value of the estate does not exceed $300 on the date of death, including funds deposited and accruing on or before the date of death, then we will include only the following the probate file.
+(b) If the estate includes only cash and the total value of the estate does not exceed $300 on the date of death, including funds deposited and accruing on or before the date of death, then we will include only the following in the probate file.
 
 (1) The evidence of death of the decedent as provided under § 15.104.
 
@@ -60,4 +60,4 @@
 
 (8) All the documents acquired under § 15.105.
 
-[86 FR 72081, Dec. 20, 2021]
+[86 FR 72081, Dec. 20, 2021, as amended at 88 FR 39769, June 20, 2023]

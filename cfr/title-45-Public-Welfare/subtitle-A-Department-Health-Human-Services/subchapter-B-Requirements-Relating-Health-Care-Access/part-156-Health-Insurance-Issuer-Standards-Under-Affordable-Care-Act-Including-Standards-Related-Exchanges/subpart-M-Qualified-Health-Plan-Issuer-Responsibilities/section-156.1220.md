@@ -1,7 +1,5 @@
 ##### § 156.1220 Administrative appeals. #####
 
-Link to an amendment published at 88 FR 25923, Apr. 27, 2023.
-
 (a) *Requests for reconsideration*—(1) *Matters for reconsideration.* An issuer may file a request for reconsideration under this section to contest a processing error by HHS, HHS's incorrect application of the relevant methodology, or HHS's mathematical error only with respect to the following:
 
 (i) The amount of advance payment of the premium tax credit, advance payment of cost-sharing reductions or Federally-facilitated Exchange user fees charge for a benefit year;
@@ -40,7 +38,7 @@ Link to an amendment published at 88 FR 25923, Apr. 27, 2023.
 
 (4) *Content of request.* (i) The request for reconsideration must specify the findings or issues specified in paragraph (a)(1) of this section that the issuer challenges, and the reasons for the challenge.
 
-(ii) Notwithstanding paragraph (a)(1) of this section, a reconsideration with respect to a processing error by HHS, HHS's incorrect application of the relevant methodology, or HHS's mathematical error may be requested only if, to the extent the issue could have been previously identified, the issuer notified HHS of the dispute through the applicable process for reporting a discrepancy set forth in §§ 153.630(d)(2), 153.710(d)(2), and 156.430(h)(1) of this subchapter, it was so identified and remains unresolved.
+(ii) Notwithstanding paragraph (a)(1) of this section, a reconsideration with respect to a processing error by HHS, HHS's incorrect application of the relevant methodology, or HHS's mathematical error may be requested only if, to the extent the issue could have been previously identified, the issuer notified HHS of the dispute through the applicable process for reporting a discrepancy set forth in §§ 153.630(d)(2) and (3) and 153.710(d)(2) of this subchapter and § 156.430(h)(1), it was so identified and remains unresolved.
 
 (iii) Notwithstanding paragraph (a)(1) of this section, a reconsideration with respect to advance payments of the premium tax credit, advance payments of cost-sharing reductions, and Federally-facilitated Exchange user fees may be requested only if, to extent the issue could have been previously identified by the issuer to HHS under § 156.1210, it was so identified and remains unresolved. An issuer may request reconsideration if it previously identified an issue under § 156.1210 after the 15-calendar-day deadline, but late discovery of the issue was not due to misconduct on the part of the issuer.
 
@@ -52,7 +50,7 @@ Link to an amendment published at 88 FR 25923, Apr. 27, 2023.
 
 (b) *Informal hearing.* An issuer may request an informal hearing before a CMS hearing officer to appeal HHS's reconsideration decision.
 
-(1) *Manner and timing for request.* A request for an informal hearing must be made in writing and filed with HHS within 30 calendar days of the date of the reconsideration decision under paragraph (a)(5) of this section.
+(1) *Manner and timing for request.* A request for an informal hearing must be made in writing and filed with HHS within 30 calendar days of the date of the reconsideration decision under paragraph (a)(5) of this section. If the last day of this period is not a business day, the request for an informal hearing must be made in writing and filed by the next applicable business day.
 
 (2) *Content of request.* The request for informal hearing must include a copy of the reconsideration decision and must specify the findings or issues in the decision that the issuer challenges, and its reasons for the challenge. HHS may submit for review by the CMS hearing officer a statement of its reasons for the reconsideration decision.
 
@@ -68,4 +66,4 @@ Link to an amendment published at 88 FR 25923, Apr. 27, 2023.
 
 (3) The Administrator of CMS's determination is final and binding.
 
-[79 FR 13841, Mar. 11, 2014, as amended at 80 FR 10876, Feb. 27, 2015; 81 FR 12352, Mar. 8, 2016; 81 FR 94182, Dec. 22, 2016; 86 FR 24294, May 5, 2021]
+[79 FR 13841, Mar. 11, 2014, as amended at 80 FR 10876, Feb. 27, 2015; 81 FR 12352, Mar. 8, 2016; 81 FR 94182, Dec. 22, 2016; 86 FR 24294, May 5, 2021; 88 FR 25923, Apr. 27, 2023]

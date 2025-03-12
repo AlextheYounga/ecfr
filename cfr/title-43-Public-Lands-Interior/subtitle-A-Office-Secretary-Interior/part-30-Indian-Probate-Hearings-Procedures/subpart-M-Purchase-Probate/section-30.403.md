@@ -1,6 +1,6 @@
 ##### § 30.403 Is consent required for a purchase at probate? #####
 
-(a) Except as provided in paragraphs (b) and (c) of this section, to purchase at probate a decedent's interest in trust or restricted property, the eligible purchaser must have the consent of:
+(a) Except as provided in paragraph (e) of this section, to purchase at probate a decedent's interest in trust or restricted property, the eligible purchaser must have the consent of:
 
 (1) The heir or devisee of the share to be purchased;
 
@@ -34,4 +34,6 @@
 
 (5) The interest is not included in an approved consolidation agreement.
 
-(f) BIA may purchase an interest in trust or restricted land on behalf of the Tribe with jurisdiction over the parcel containing the interest if BIA obtains consent under paragraph (a) of this section or the conditions in paragraph (c) of this section are met.
+(f) BIA may purchase an interest in trust or restricted land on behalf of the Tribe with jurisdiction over the parcel containing the interest if BIA obtains consent under paragraph (a) of this section or the conditions in paragraph (e) of this section are met.
+
+[86 FR 72090, Dec. 20, 2021, as amended at 88 FR 39769, June 20, 2023]

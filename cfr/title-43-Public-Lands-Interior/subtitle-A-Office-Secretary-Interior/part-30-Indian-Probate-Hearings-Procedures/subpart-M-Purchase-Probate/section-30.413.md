@@ -4,7 +4,7 @@
 
 (1) The Tribe with jurisdiction over the property submits the only request to purchase within the deadline; and
 
-(2) The requirements of § 30.403(c) (*i.e.,* consent of the heir is not required) are met.
+(2) The requirements of § 30.403(e) (*i.e.,* consent of the heir is not required) are met.
 
 (b) In other situations, potential bidders may include:
 
@@ -17,3 +17,5 @@
 (4) The Indian Tribe with jurisdiction over the property interest; and
 
 (5) Co-owners who have previously notified BIA in writing that they wish to receive probate notices concerning that allotment.
+
+[86 FR 72090, Dec. 20, 2021, as amended at 88 FR 39769, June 20, 2023]

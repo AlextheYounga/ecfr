@@ -1,7 +1,5 @@
 ##### § 155.210 Navigator program standards. #####
 
-Link to an amendment published at 88 FR 25917, Apr. 27, 2023.
-
 (a) *General requirements.* The Exchange must establish a Navigator program consistent with this section through which it awards grants to eligible public or private entities or individuals described in paragraph (c) of this section.
 
 (b) *Standards.* The Exchange must develop and publicly disseminate—
@@ -70,11 +68,11 @@ Link to an amendment published at 88 FR 25917, Apr. 27, 2023.
 
 (5) Charge any applicant or enrollee, or request or receive any form of remuneration from or on behalf of an individual applicant or enrollee, for application or other assistance related to Navigator duties;
 
-(6) Provide to an applicant or potential enrollee gifts of any value as an inducement for enrollment. The value of gifts provided to applicants and potential enrollees for purposes other than as an inducement for enrollment must not exceed nominal value, either individually or in the aggregate, when provided to that individual during a single encounter. For purposes of this paragraph (d)(6), the term gifts includes gift items, gift cards, cash cards, cash, and promotional items that market or promote the products or services of a third party, but does not include the reimbursement of legitimate expenses incurred by a consumer in an effort to receive Exchange application assistance, such as travel or postage expenses.
+(6) Provide to an applicant or potential enrollee gifts of any value as an inducement for enrollment. The value of gifts provided to applicants and potential enrollees for purposes other than as an inducement for enrollment must not exceed nominal value, either individually or in the aggregate, when provided to that individual during a single encounter. For purposes of this paragraph (d)(6), the term gifts includes gift items, gift cards, cash cards, cash, and promotional items that market or promote the products or services of a third party, but does not include the reimbursement of legitimate expenses incurred by a consumer in an effort to receive Exchange application assistance, such as travel or postage expenses;
 
-(7) Use Exchange funds to purchase gifts or gift cards, or promotional items that market or promote the products or services of a third party, that would be provided to any applicant or potential enrollee;
+(7) Use Exchange funds to purchase gifts or gift cards, or promotional items that market or promote the products or services of a third party, that would be provided to any applicant or potential enrollee; or
 
-(8) Solicit any consumer for application or enrollment assistance by going door-to-door or through other unsolicited means of direct contact, including calling a consumer to provide application or enrollment assistance without the consumer initiating the contact, unless the individual has a pre-existing relationship with the individual Navigator or Navigator entity and other applicable State and Federal laws are otherwise complied with. Outreach and education activities may be conducted by going door-to-door or through other unsolicited means of direct contact, including calling a consumer; or
+(8) [Reserved]
 
 (9) Initiate any telephone call to a consumer using an automatic telephone dialing system or an artificial or prerecorded voice, except in cases where the individual Navigator or Navigator entity has a relationship with the consumer and so long as other applicable State and Federal laws are otherwise complied with.
 
@@ -120,4 +118,4 @@ Link to an amendment published at 88 FR 25917, Apr. 27, 2023.
 
 (f) *Funding for Navigator grants.* Funding for Navigator grants may not be from Federal funds received by the State to establish the Exchange.
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42859, July 17, 2013; 79 FR 30344, May 27, 2014; 79 FR 42986, July 24, 2014; 81 FR 12337, Mar. 8, 2016; 83 FR 17061, Apr. 17, 2018; 84 FR 17563, Apr. 25, 2019; 86 FR 53503, Sept. 27, 2021]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 42859, July 17, 2013; 79 FR 30344, May 27, 2014; 79 FR 42986, July 24, 2014; 81 FR 12337, Mar. 8, 2016; 83 FR 17061, Apr. 17, 2018; 84 FR 17563, Apr. 25, 2019; 86 FR 53503, Sept. 27, 2021; 88 FR 25917, Apr. 27, 2023]

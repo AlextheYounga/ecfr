@@ -6,7 +6,7 @@
 
 (2) You filed a written request to purchase; or
 
-(3) Any potential bidder or other party who may be affected by the determination of the fair market value.
+(3) You are any potential bidder or other party who may be affected by the determination of the fair market value.
 
 (b) To object to the determination of fair market value:
 
@@ -25,3 +25,5 @@
 (d) The judge will consider any timely submitted written objection and responses, and will determine whether to modify the finding of fair market value, with or without a valuation hearing. OHA will issue a Modified Order to Submit Bids that addresses the objection and responses.
 
 (e) If you were directed to submit a bid, you may preserve your right to submit a bid by filing the written objection instead of a bid.
+
+[86 FR 72090, Dec. 20, 2021, as amended at 88 FR 39769, June 20, 2023]
