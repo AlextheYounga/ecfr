@@ -1,5 +1,7 @@
 ##### § 301.75-10 Interstate movement of regulated articles through a quarantined area. #####
 
+Link to an amendment published at 87 FR 80010, Dec. 29, 2022.
+
 Any regulated article not produced in a quarantined area may be moved interstate through a quarantined area, without a certificate, limited permit, or Departmental permit, if all of the following conditions are met:
 
 (a) The regulated article is accompanied by either: A receipt showing that the regulated article was purchased outside the quarantined area, or a bill of lading stating the location of the premises where the shipment originated, the type and quantity of regulated articles being moved interstate, and the date the interstate movement began.

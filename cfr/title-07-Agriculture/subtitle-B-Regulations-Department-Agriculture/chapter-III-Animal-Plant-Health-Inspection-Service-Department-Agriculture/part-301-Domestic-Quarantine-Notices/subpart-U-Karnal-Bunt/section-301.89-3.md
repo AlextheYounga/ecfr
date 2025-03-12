@@ -1,5 +1,7 @@
 ##### § 301.89-3 Regulated areas. #####
 
+Link to an amendment published at 87 FR 80016, Dec. 29, 2022.
+
 (a) The Administrator will regulate each State or each portion of a State that is infected.
 
 (b) Less than an entire State will be listed as a regulated area only if the Administrator:

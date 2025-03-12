@@ -1,5 +1,7 @@
 ##### § 301.81-8 Assembly and inspection of regulated articles. #####
 
+Link to an amendment published at 87 FR 80013, Dec. 29, 2022.
+
 (a) Persons requiring certification or other services must request the services from an inspector7 at least 48 hours before the services are needed.
 
 7 See footnote 4 to § 301.81-5(a).

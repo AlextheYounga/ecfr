@@ -1,5 +1,7 @@
 ##### § 301.76-6 Additional conditions for issuance of certificates and limited permits for regulated articles moved interstate from areas quarantined for Asian citrus psyllid, but not for citrus greening. #####
 
+Link to an amendment published at 87 FR 80011, Dec. 29, 2022.
+
 (a) *Additional conditions for issuance of a certificate; any regulated article.* In addition to the general conditions for issuance of a certificate contained in § 301.76-5(a), an inspector or person operating under a compliance agreement may issue a certificate for the interstate movement of any regulated article to any State if:
 
 (1) The article is treated with methyl bromide3 in accordance with 7 CFR part 305 of this chapter.

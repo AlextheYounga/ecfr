@@ -1,5 +1,7 @@
 ##### § 301.51-6 Compliance agreements and cancellation. #####
 
+Link to an amendment published at 87 FR 80006, Dec. 29, 2022.
+
 (a) Persons engaged in growing, handling, or moving regulated articles interstate may enter into a compliance agreement3 if such persons review with an inspector each stipulation of the compliance agreement. Any person who enters into a compliance agreement with APHIS must agree to comply with the provisions of this subpart and any conditions imposed under this subpart.
 
 3 Compliance agreements may be initiated by contacting a local office of APHIS. The addresses and telephone numbers of local offices are listed in local telephone directories and may also be obtained from the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Domestic and Emergency Operations, 4700 River Road Unit 134, Riverdale, Maryland 20737-1236.

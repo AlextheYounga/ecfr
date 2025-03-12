@@ -1,5 +1,7 @@
 ##### § 240.16a-3 Reporting transactions and holdings. #####
 
+Link to an amendment published at 87 FR 80430, Dec. 29, 2022.
+
 (a) Initial statements of beneficial ownership of equity securities required by section 16(a) of the Act shall be filed on Form 3. Statements of changes in beneficial ownership required by that section shall be filed on Form 4. Annual statements shall be filed on Form 5. At the election of the reporting person, any transaction required to be reported on Form 5 may be reported on an earlier filed Form 4. All such statements shall be prepared and filed in accordance with the requirements of the applicable form.
 
 (b) A person filing statements pursuant to section 16(a) of the Act with respect to any class of equity securities registered pursuant to section 12 of the Act need not file an additional statement on Form 3:

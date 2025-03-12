@@ -1,5 +1,7 @@
 ##### § 301.74-3 Quarantined areas. #####
 
+Link to an amendment published at 87 FR 80008, Dec. 29, 2022.
+
 (a) Except as otherwise provided in paragraph (b) of this section, the Administrator will list as a quarantined area in paragraph (c) of this section each State, or each portion of a State, in which plum pox has been detected through inspection and laboratory testing, or in which the Administrator has reason to believe that plum pox is present, or that the Administrator considers necessary to quarantine because of its inseparability for quarantine enforcement purposes from localities in which plum pox has been detected. Less than an entire State will be designated as a quarantined area if the Administrator determines that:
 
 (1) The State has adopted and is enforcing restrictions on the intrastate movement of the regulated articles that are substantially the same as those imposed by this subpart on the interstate movement of regulated articles; and

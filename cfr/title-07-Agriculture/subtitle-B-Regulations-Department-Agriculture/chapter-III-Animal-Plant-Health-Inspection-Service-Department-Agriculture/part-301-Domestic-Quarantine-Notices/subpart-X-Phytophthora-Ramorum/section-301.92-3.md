@@ -1,5 +1,7 @@
 ##### § 301.92-3 Quarantined areas and regulated establishments. #####
 
+Link to an amendment published at 87 FR 80019, Dec. 29, 2022.
+
 (a) *Quarantined areas.* (1) Except as otherwise provided in paragraph (a)(2) of this section, the Administrator will designate as a quarantined area in paragraph (a)(3) of this section each State, or each portion of a State, in which *Phytophthora ramorum* has been confirmed by an inspector to be established in the natural environment, in which the Administrator has reason to believe that *Phytophthora ramorum* is present in the natural environment, or that the Administrator considers it necessary to quarantine because of its inseparability for quarantine enforcement purposes from localities in which *Phytophthora ramorum* has been found in the natural environment. Less than an entire area will be designated as a quarantined area only if the Administrator determines that:
 
 (i) The State has adopted and is enforcing restrictions on the intrastate movement of regulated, restricted, and associated articles that are substantially the same as those imposed by this subpart on the interstate movement of regulated, restricted, and associated articles; and

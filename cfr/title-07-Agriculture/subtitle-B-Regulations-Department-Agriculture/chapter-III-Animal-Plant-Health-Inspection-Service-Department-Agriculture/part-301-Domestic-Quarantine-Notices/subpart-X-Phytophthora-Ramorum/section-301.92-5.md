@@ -1,5 +1,7 @@
 ##### § 301.92-5 Issuance and cancellation of certificates. #####
 
+Link to an amendment published at 87 FR 80019, Dec. 29, 2022.
+
 (a) *Movements from quarantined areas.* (1) An inspector8 may issue a certificate for the interstate movement of regulated articles, associated articles, or non-host nursery stock9 from a quarantined area if the inspector determines that:
 
 8 Services of an inspector may be requested by contacting local offices of Plant Protection and Quarantine, which are listed in telephone directories. The addresses and telephone numbers of local offices may also be obtained from the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Invasive Species and Pest Management, 4700 River Road Unit 160, Riverdale, MD 20737, or the APHIS Web site at *http://www.aphis.usda.gov/ppq/sphd/.*

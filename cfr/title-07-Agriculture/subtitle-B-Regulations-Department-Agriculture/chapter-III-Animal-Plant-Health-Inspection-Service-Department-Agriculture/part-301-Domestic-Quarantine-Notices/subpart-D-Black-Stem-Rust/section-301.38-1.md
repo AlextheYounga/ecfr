@@ -1,5 +1,7 @@
 ##### § 301.38-1 Definitions. #####
 
+Link to an amendment published at 87 FR 80004, Dec. 29, 2022.
+
 In this subpart the following definitions apply:
 
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service (APHIS), or any person authorized to act for the Administrator.

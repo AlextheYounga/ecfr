@@ -1,5 +1,7 @@
 ##### § 301.81-5 Issuance of a certificate or limited permit. #####
 
+Link to an amendment published at 87 FR 80013, Dec. 29, 2022.
+
 (a) An inspector4 or person operating under a compliance agreement will issue a certificate for the interstate movement of a regulated article approved under such compliance agreement if he or she determines that the regulated article:
 
 4 Inspectors are assigned to local offices of APHIS, which are listed in local telephone directories. Information on local offices may also be obtained from the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Domestic and Emergency Operations, 4700 River Road Unit 134, Riverdale, Maryland 20737-1236.

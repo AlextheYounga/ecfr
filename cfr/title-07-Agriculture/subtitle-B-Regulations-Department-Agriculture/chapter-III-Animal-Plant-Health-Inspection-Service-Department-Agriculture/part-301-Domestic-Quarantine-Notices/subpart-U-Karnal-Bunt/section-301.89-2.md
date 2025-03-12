@@ -1,5 +1,7 @@
 ##### § 301.89-2 Regulated articles. #####
 
+Link to an amendment published at 87 FR 80016, Dec. 29, 2022.
+
 The following are regulated articles:
 
 (a) Conveyances, including trucks, railroad cars, and other containers used to move host crops produced in a regulated area that have tested positive for Karnal bunt through the presence of bunted kernels;

@@ -1,5 +1,7 @@
 ##### § 301.74-1 Definitions. #####
 
+Link to an amendment published at 87 FR 80008, Dec. 29, 2022.
+
 The following definitions apply to this subpart.
 
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any person authorized to act for the Administrator.

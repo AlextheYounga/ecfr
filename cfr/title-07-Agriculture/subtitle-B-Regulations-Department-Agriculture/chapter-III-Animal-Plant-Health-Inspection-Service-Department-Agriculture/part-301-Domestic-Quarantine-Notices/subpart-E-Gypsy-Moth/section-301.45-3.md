@@ -1,5 +1,7 @@
 ##### § 301.45-3 Generally infested areas. #####
 
+Link to an amendment published at 87 FR 80006, Dec. 29, 2022.
+
 (a) The areas described below are designated as generally infested areas:
 
 Connecticut

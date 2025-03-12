@@ -1,5 +1,7 @@
 ##### § 301.92-4 Conditions governing the interstate movement of regulated, restricted, and associated articles, and non-host nursery stock from quarantined and regulated establishments. #####
 
+Link to an amendment published at 87 FR 80019, Dec. 29, 2022.
+
 (a) *Interstate movement of regulated and associated articles from quarantined areas.* Regulated and associated articles may be moved interstate from a quarantined area5 only in accordance with this subpart.
 
 5 Requirements under all other applicable Federal domestic plant quarantines and regulations must also be met.

@@ -1,5 +1,7 @@
 ##### § 301.89-9 Assembly and inspection of regulated articles. #####
 
+Link to an amendment published at 87 FR 80017, Dec. 29, 2022.
+
 (a) Persons requiring certification or other services must request the services of an inspector4 at least 24 hours before the services are needed.
 
 4 See footnote 1.

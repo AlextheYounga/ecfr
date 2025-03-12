@@ -1,5 +1,7 @@
 ##### § 301.76-1 Definitions. #####
 
+Link to an amendment published at 87 FR 80010, Dec. 29, 2022.
+
 *Administrator.* The Administrator of the Animal and Plant Health Inspection Service or any individual authorized to act for the Administrator.
 
 *Animal and Plant Health Inspection Service (APHIS).* The Animal and Plant Health Inspection Service of the United States Department of Agriculture.

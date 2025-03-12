@@ -1,5 +1,7 @@
 ##### § 301.51-2 Regulated articles. #####
 
+Link to an amendment published at 87 FR 80006, Dec. 29, 2022.
+
 The following are regulated articles:
 
 (a) Firewood (all hardwood species), and green lumber and other material living, dead, cut, or fallen, inclusive of nursery stock, logs, stumps, roots, branches, and debris of half an inch or more in diameter of the following genera: *Acer* (maple), *Aesculus* (horse chestnut), *Albizia* (mimosa), *Betula* (birch), *Cercidiphyllum* (katsura), *Fraxinus* (ash), *Koelreuteria* (golden rain tree), *Platanus* (sycamore), *Populus* (poplar), *Salix* (willow), *Sorbus* (mountain ash), and *Ulmus* (elm).

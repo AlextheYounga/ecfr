@@ -1,5 +1,7 @@
 ##### § 301.55-2 Regulated articles. #####
 
+Link to an amendment published at 87 FR 80007, Dec. 29, 2022.
+
 The following are regulated articles:
 
 (a) The South American cactus moth, in any living stage of its development.2

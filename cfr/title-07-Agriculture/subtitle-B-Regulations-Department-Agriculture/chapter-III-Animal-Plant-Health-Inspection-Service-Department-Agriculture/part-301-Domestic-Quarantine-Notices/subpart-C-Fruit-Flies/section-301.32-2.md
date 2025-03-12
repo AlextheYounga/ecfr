@@ -1,5 +1,7 @@
 ##### § 301.32-2 Regulated articles. #####
 
+Link to an amendment published at 87 FR 80003, Dec. 29, 2022.
+
 (a) In the following table, the berry, fruit, nut, or vegetable listed in each row in the left column is a regulated article for each of the fruit fly species listed in that row in the right column, unless the article is canned, dried, or frozen below −17.8 °C (0 °F):
 
 |                    Botanical name                    |              Common name(s)               |                           Fruit fly                            |

@@ -1,5 +1,7 @@
 ##### § 301.76-7 Additional conditions for issuance of certificates and limited permits for regulated articles moved interstate from areas quarantined for citrus greening. #####
 
+Link to an amendment published at 87 FR 80011, Dec. 29, 2022.
+
 (a) *Additional conditions for the issuance of a certificate; regulated nursery stock produced within a nursery located in the quarantined area.* In addition to the general conditions for issuance of a certificate contained in § 301.76-5(a), an inspector or person operating under a compliance agreement may issue a certificate for interstate movement of regulated nursery stock to any State if all of the following conditions are met:
 
 (1) The nursery in which the nursery stock is produced has entered into a compliance agreement with APHIS in which it agrees to meet the relevant construction standards, sourcing and certification requirements, cleaning, disinfecting, and safeguarding requirements, labeling requirements, and recordkeeping and inspection requirements specified in a PPQ protocol document. The protocol document will be provided to the person at the time he or she enters into the compliance agreement.6 The compliance agreement may also specify additional conditions determined by APHIS to be necessary in order to prevent the dissemination of citrus greening under which the nursery stock must be grown, maintained, and shipped in order to obtain a certificate for its movement. The compliance agreement will also specify that APHIS may amend the agreement.

@@ -1,5 +1,7 @@
 ##### § 301.80-1 Definitions. #####
 
+Link to an amendment published at 87 FR 80011, Dec. 29, 2022.
+
 Terms used in the singular form in this subpart shall be deemed to import the plural, and vice versa, as the case may demand. The following terms, when used in this subpart, shall be construed, respectively, to mean:
 
 *Certificate.* A document issued or authorized to be issued under this subpart by an inspector to allow the interstate movement of regulated articles to any destination.

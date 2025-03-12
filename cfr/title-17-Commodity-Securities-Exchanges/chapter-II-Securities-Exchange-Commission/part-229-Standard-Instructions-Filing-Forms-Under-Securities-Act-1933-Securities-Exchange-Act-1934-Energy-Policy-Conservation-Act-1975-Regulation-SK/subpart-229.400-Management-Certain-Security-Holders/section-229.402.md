@@ -1,6 +1,6 @@
 ##### § 229.402 (Item 402) Executive compensation. #####
 
-Link to an amendment published at 87 FR 73136, Nov. 28, 2022.
+Link to an amendment published at 87 FR 73136, Nov. 28, 2022.Link to an amendment published at 87 FR 80427, Dec. 29, 2022.
 
 (a) *General* - (1) *Treatment of foreign private issuers.* A foreign private issuer will be deemed to comply with this Item if it provides the information required by Items 6.B and 6.E.2 of Form 20-F (17 CFR 249.220f), with more detailed information provided if otherwise made publicly available or required to be disclosed by the issuer's home jurisdiction or a market in which its securities are listed or traded.
 

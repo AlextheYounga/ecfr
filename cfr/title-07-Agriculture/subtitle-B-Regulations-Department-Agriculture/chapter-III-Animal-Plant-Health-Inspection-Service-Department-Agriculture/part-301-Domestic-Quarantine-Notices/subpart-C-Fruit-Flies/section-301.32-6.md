@@ -1,5 +1,7 @@
 ##### § 301.32-6 Compliance agreements and cancellation. #####
 
+Link to an amendment published at 87 FR 80004, Dec. 29, 2022.
+
 (a) Any person engaged in growing, handling, or moving regulated articles may enter into a compliance agreement when an inspector determines that the person is aware of this subpart, agrees to comply with its provisions, and agrees to comply with all the provisions contained in the compliance agreement.5
 
 5 Compliance agreement forms are available without charge from the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Emergency and Domestic Programs, 4700 River Road Unit 134, Riverdale, MD 20737-1236, and from local PPQ offices, which are listed in telephone directories.

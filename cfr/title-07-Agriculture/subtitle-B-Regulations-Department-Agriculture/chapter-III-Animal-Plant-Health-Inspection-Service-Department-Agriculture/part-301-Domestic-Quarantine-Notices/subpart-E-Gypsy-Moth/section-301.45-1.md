@@ -1,5 +1,7 @@
 ##### § 301.45-1 Definitions. #####
 
+Link to an amendment published at 87 FR 80005, Dec. 29, 2022.
+
 Terms used in the singular form in this subpart shall be construed as the plural, and vice versa, as the case may demand. The following terms, when used in this subpart, shall be construed, respectively, to mean:
 
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any person authorized to act for the Administrator.

@@ -1,5 +1,7 @@
 ##### § 301.38-4 Interstate movement of regulated articles. #####
 
+Link to an amendment published at 87 FR 80005, Dec. 29, 2022.
+
 (a) *Non-protected areas.* Interstate movement of regulated articles into or through any State or area that is not designated as a protected area under § 301.38-3(d) is allowed without restriction under this subpart.
 
 (b) *Protected areas* - (1) *Prohibited movement.* The following regulated articles are prohibited from moving interstate into or through any protected area:

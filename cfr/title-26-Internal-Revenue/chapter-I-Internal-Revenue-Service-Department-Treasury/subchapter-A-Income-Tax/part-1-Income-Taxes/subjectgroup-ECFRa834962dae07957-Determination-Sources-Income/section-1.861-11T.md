@@ -2,7 +2,7 @@
 
 (a) *In general.* Sections 1.861-9T, 1.861-10T, 1.861-12T, and 1.861-13T provide rules that are generally applicable in apportioning interest expense. The rules of this section relate to affiliated groups of corporations and implement section 864(e) (1) and (5), which requires affiliated group allocation and apportionment of interest expense. The rules of this section apply to taxable years beginning after December 31, 1986, except as otherwise provided in § 1.861-13T. Paragraph (b) of this section describes the scope of the application of the rule for the allocation and apportionment of interest expense of affiliated groups of corporations, which is contained in paragraph (c) of this section. Paragraph (d) of this section sets forth the definition of the term “affiliated group” for purposes of this section. Paragraph (e) describes the treatment of loans between members of an affiliated group. Paragraph (f) of this section provides rules concerning the affiliated group allocation and apportionment of interest expense in computing the combined taxable income of a FSC or DISC and its related supplier. Paragraph (g) of this section describes the treatment of losses caused by apportionment of interest expense in the case of an affiliated group that does not file a consolidated return.
 
-(b) *Scope of application* - (1) *Application of section 864(e)(1) and (5) (concerning the definition and treatment of affiliated groups).* For further guidance, see § 1.861-11(b)(1).
+(b) *Scope of application*—(1) *Application of section 864(e)(1) and (5) (concerning the definition and treatment of affiliated groups).* For further guidance, see § 1.861-11(b)(1).
 
 (2) *Nonapplication of section 864(e) (1) and (5) (concerning the definition and treatment of affiliated groups).* Section 864(e) (1) and (5) and the portions of this section implementing section 864(e) (1) and (5) do not apply to the computation of subpart F income of controlled foreign corporations (under sections 951 through 964), the computation of combined taxable income of a possessions corporation and its affiliates (under section 936), or the computation of effectively connected taxable income of foreign corporations. For the rules with respect to the allocation and apportionment of interest expenses of foreign corporations other than controlled foreign corporations, see §§ 1.882-4 and 1.882-5.
 
@@ -10,11 +10,11 @@
 
 (d)(1)-(2) [Reserved]. For further guidance, see § 1.861-11(d)(1) and (2).
 
-(3) *Treatment of life insurance companies subject to taxation under section 801* - (i) *General rule.* A life insurance company that is subject to taxation under section 801 shall be considered to constitute a member of the affiliated group composed of companies not taxable under section 801 only if a parent corporation so elects under section 1504(c)(2)(A) of the Code. If a parent does not so elect, no adjustments shall be required with respect to such an insurance company under paragraph (g) of this section.
+(3) *Treatment of life insurance companies subject to taxation under section 801*—(i) *General rule.* A life insurance company that is subject to taxation under section 801 shall be considered to constitute a member of the affiliated group composed of companies not taxable under section 801 only if a parent corporation so elects under section 1504(c)(2)(A) of the Code. If a parent does not so elect, no adjustments shall be required with respect to such an insurance company under paragraph (g) of this section.
 
 (ii) *Treatment of stock.* Stock of a life insurance company that is subject to taxation under section 801 that is not included in an affiliated group shall be disregarded in the allocation and apportionment of the interest expense of such affiliated group.
 
-(4) *Treatment of certain financial corporations* - (i) *In general.* In the case of an affiliated group (as defined in paragraph (d)(1) of this section), any member that constitutes financial corporations as defined in paragraph (d)(4)(ii) of this section shall be treated as a separate affiliated group consisting of financial corporations (the “financial group”). The members of the group that do not constitute financial corporations shall be treated as members of a separate affiliated group consisting of nonfinancial corporations (“the nonfinancial group”).
+(4) *Treatment of certain financial corporations*—(i) *In general.* In the case of an affiliated group (as defined in paragraph (d)(1) of this section), any member that constitutes financial corporations as defined in paragraph (d)(4)(ii) of this section shall be treated as a separate affiliated group consisting of financial corporations (the “financial group”). The members of the group that do not constitute financial corporations shall be treated as members of a separate affiliated group consisting of nonfinancial corporations (“the nonfinancial group”).
 
 (ii) *Financial corporation defined.* The term “financial corporation” means any corporation which meets all of the following conditions:
 
@@ -31,7 +31,7 @@
 (5) *Example.* (i) *Facts.* X, a domestic corporation which is not a bank holding company, is the parent of domestic corporations Y and Z. Z owns 100 percent of the stock Z1, which is also a domestic corporation. X, Y, Z, and Z1 were organized after January 1, 1987, and constitute an affiliated group within the meaning of paragraph (d)(1) of this section. Y and Z are financial corporations described in paragraph (d)(4) of this section. X also owns 25 percent of the stock of A, a domestic corporation. Y owns 25 percent of the voting stock of B, a foreign corporation that is not a controlled foreign corporation. Z owns less than 10 percent of the voting stock of C, another foreign corporation. The foreign source income generated by Y's or Z's direct assets is exclusively financial services income. The foreign source income generated by X's or Z1's direct assets is exclusively general limitation income. X and Z1 are not financial corporations described in paragraph (d)(4)(ii) of this section. Y and Z, therefore, constitute a separate affiliated group apart from X and Z1 for purposes of section 864(e). The combined interest expense of Y and Z of $100,000 ($50,000 each) is apportioned separately on the basis of their assets. The combined interest expense of X and Z1 of $50,000 ($25,000 each) is allocated on the basis of the assets of the XZ1 group.
 
 |                                                                                                                                                              Analysis of the YZ group assets                                                                                                                                                               |          |
-|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|----------|
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
 |                                                                                     Adjusted basis of assets of the YZ group that generate foreign source financial services income (excluding stock of foreign subsidiaries not included in the YZ affiliated group)                                                                                      | $200,000 |
 |Z's basis in the C stock (not adjusted by the allocable amount of C's earnings and profits because Z owns less than 10 percent of the stock) which would be considered to generate passive income in the hands of a nonfinancial services entity but is considered to generate financial services income when in the hands of Z, a financial services entity| $100,000 |
 |                                                                                             Y's basis in the B stock (adjusted by the allocable amount of B's earnings and profits) which generates dividends subject to a separate limitation for B dividends                                                                                             | $100,000 |
@@ -62,9 +62,9 @@ To gross general limitation income from sources outside the United States:![](/g
 
 (7) *Special rules for the application of § 1.861-11T(d)(6).* [Reserved]. For special rules for the application of § 1.861-11T(d)(6), see § 1.861-11(d)(7).
 
-(e) *Loans between members of an affiliated group* - (1) *General rule.* In the case of loans (including any receivable) between members of an affiliated group, as defined in paragraph (d) of this section, for purposes of apportioning interest expense, the indebtedness of the member borrower shall not be considered an asset of the member lender. However, in the case of members of separate financial and nonfinancial groups under paragraph (d)(4) of this section, the indebtedness of the member borrower shall be considered an asset of the member lender and such asset shall be characterized by reference to the member lender's income from the asset as determined under paragraph (e)(2)(ii) of this section. For purposes of this paragraph (e), the terms “related person interest income” and “related person interest payment” refer to interest paid and received by members of the same affiliated group as defined in paragraph (d) of this section.
+(e) *Loans between members of an affiliated group*—(1) *General rule.* In the case of loans (including any receivable) between members of an affiliated group, as defined in paragraph (d) of this section, for purposes of apportioning interest expense, the indebtedness of the member borrower shall not be considered an asset of the member lender. However, in the case of members of separate financial and nonfinancial groups under paragraph (d)(4) of this section, the indebtedness of the member borrower shall be considered an asset of the member lender and such asset shall be characterized by reference to the member lender's income from the asset as determined under paragraph (e)(2)(ii) of this section. For purposes of this paragraph (e), the terms “related person interest income” and “related person interest payment” refer to interest paid and received by members of the same affiliated group as defined in paragraph (d) of this section.
 
-(2) *Treatment of interest expense within the affiliated group* - (i) *General rule.* A member borrower shall deduct related person interest payments in the same manner as unrelated person interest expense using group apportionment fractions computed under § 1.861-9T(f). A member lender shall include related person interest income in the same class of gross income as the class of gross income from which the member borrower deducts the related person interest payment.
+(2) *Treatment of interest expense within the affiliated group*—(i) *General rule.* A member borrower shall deduct related person interest payments in the same manner as unrelated person interest expense using group apportionment fractions computed under § 1.861-9T(f). A member lender shall include related person interest income in the same class of gross income as the class of gross income from which the member borrower deducts the related person interest payment.
 
 (ii) *Special rule for loans between financial and nonfinancial affiliated corporations.* In the case of a loan between two affiliated corporations only one of which constitutes a financial corporation under paragraph (d)(4) of this section, the member borrower shall allocate and apportion related person interest payments in the same manner as unrelated person interest expense using group apportionment fractions computed under § 1.861-9T(f). The source of the related person interest income to the member lender shall be determined under section 861(a)(1).
 
@@ -78,7 +78,7 @@ Example 1.X, a domestic corporation, is the parent of Y, a domestic corporation.
 
 (f) *Computations of combined taxable income.* In the computation of the combined taxable income of any FSC or DISC and its related supplier which is a member of an affiliated group under the pricing rules of sections 925 or 994, the combined taxable income of such FSC or DISC and its related supplier shall be reduced by the portion of the total interest expense of the affiliated group that is incurred in connection with those assets of the group used in connection with export sales involving that FSC or DISC. This amount shall be computed by multiplying the total interest expense of the affiliated group and interest expense of the FSC or DISC by a fraction the numerator of which is the assets of the affiliated group and of the FSC or DISC generating foreign trade income or gross income attributable to qualified export receipts, as the case may be, and the denominator of which is the total assets of the affiliated group and the FSC or DISC. Under this rule, interest of other group members may be attributed to the combined taxable income of a FSC or DISC and its related supplier without affecting the amount of interest otherwise deductible by the FSC or DISC, the related supplier or other member of the affiliated group. The FSC or DISC is entitled to only the statutory portion of the combined taxable income, net of any deemed interest expense, which determines the commission paid to the FSC or DISC or the transfer price of qualifying export property sold to the FSC or DISC.
 
-(g) *Losses created through apportionment* - (1) *General rules.* In the case of an affiliated group that is eligible to file, but does not file, a consolidated return and in the case of any corporation described in paragraph (d)(6) of this section, the foreign tax credits in any separate limitation category are limited to the credits computed under the rules of this paragraph (g). As a consequence of the affiliated group allocation and apportionment of interest expense required by section 864(e)(1) and this section, interest expense of a group member may be apportioned for section 904 purposes to a limitation category in which that member has no gross income, resulting in a loss in that limitation category. The same is true in connection with any expense other than interest that is subject to apportionment under the rules of section 864(e)(6) of the Code. Any reference to “interest expense” in this paragraph (g) shall be treated as including such expenses. For purposes of this paragraph, the term “limitation category” includes domestic source income, as well as the types of income described in section 904(d)(1) (A) through (I). A loss of one affiliate in a limitation category will reduce the income of another member in the same limitation category if a consolidated return is filed. (See § 1.1502-4.) If a consolidated return is not filed, this netting does not occur. Accordingly, in such a case, the following adjustments among members are required in order to give effect to the group allocation of interest expense:
+(g) *Losses created through apportionment*—(1) *General rules.* In the case of an affiliated group that is eligible to file, but does not file, a consolidated return and in the case of any corporation described in paragraph (d)(6) of this section, the foreign tax credits in any separate limitation category are limited to the credits computed under the rules of this paragraph (g). As a consequence of the affiliated group allocation and apportionment of interest expense required by section 864(e)(1) and this section, interest expense of a group member may be apportioned for section 904 purposes to a limitation category in which that member has no gross income, resulting in a loss in that limitation category. The same is true in connection with any expense other than interest that is subject to apportionment under the rules of section 864(e)(6) of the Code. Any reference to “interest expense” in this paragraph (g) shall be treated as including such expenses. For purposes of this paragraph, the term “limitation category” includes domestic source income, as well as the types of income described in section 904(d)(1) (A) through (I). A loss of one affiliate in a limitation category will reduce the income of another member in the same limitation category if a consolidated return is filed. (See § 1.1502-4.) If a consolidated return is not filed, this netting does not occur. Accordingly, in such a case, the following adjustments among members are required in order to give effect to the group allocation of interest expense:
 
 (i) Losses created through group apportionment of interest expense in one or more limitation categories within a given member must be eliminated; and
 
@@ -86,7 +86,7 @@ Example 1.X, a domestic corporation, is the parent of Y, a domestic corporation.
 
 Such adjustments shall be accomplished, in accordance with paragraph (g)(2) of this section, without changing the total taxable income of any member and before the application of section 904(f). Section 904(f) (including section 904(f)(5)) does not apply to a loss created through the apportionment of interest expense to the extent that the loss is eliminated pursuant to paragraph (g)(2)(ii) of this section. For purposes of this section, the terms “limitation adjustment” and “recharacterization” mean the recharacterization of income in one limitation category as income in another limitation category.
 
-(2) *Mechanics of computation* - (i) *Step 1: Computation of consolidated taxable income.* The members of an affiliated group must first allocate and apportion all other deductible expenses other than interest. The members must then deduct from their respective gross incomes within each limitation category interest expense apportioned under the rules of § 1.861-9T(f). The taxable income of the entire affiliated group within each limitation category is then totalled.
+(2) *Mechanics of computation*—(i) *Step 1: Computation of consolidated taxable income.* The members of an affiliated group must first allocate and apportion all other deductible expenses other than interest. The members must then deduct from their respective gross incomes within each limitation category interest expense apportioned under the rules of § 1.861-9T(f). The taxable income of the entire affiliated group within each limitation category is then totalled.
 
 (ii) *Step 2: Loss offset adjustments.* If, after step 1, a member has losses in a given limitation category or limitation categories created through apportionment of interest expense, any such loss (*i.e.,* the portion of such loss equal to interest expense) shall be eliminated by offsetting that loss against taxable income in other limitation categories of that member to the extent of the taxable income of other members within the same limitation category as the loss. If the member has taxable income in more than one limitation category, then the loss shall offset taxable income in all such limitation categories on a pro rata basis. If there is insufficient domestic income of the member to offset the net losses in all foreign limitation categories caused by the apportionment of interest expense, the losses in each limitation category shall be recharacterized as domestic losses to the extent of the taxable income of other members in the same respective limitation categories. After these adjustments are made, the income of the entire affiliated group within each limitation category is totalled again.
 
@@ -133,11 +133,11 @@ The members of the group then compute taxable income within each category by ded
 
 (iii) *Step 2: Loss offset adjustments.* Because X and Y have losses created through apportionment, these losses must be eliminated by reducing taxable income of the member in other limitation categories. Because X has a total of $12 in apportionment losses and because it has only one limitation category with income (*i.e.,* domestic), domestic income must be reduced by $12, thus eliminating its apportionment losses. Because Y has a total of $9 in apportionment losses and because it has two limitation categories with income (*i.e.,* foreign passive and foreign general limitation), the income in these two limitation categories must be reduced on a pro rata basis in order to eliminate its apportionment losses. In summary, the following adjustments are required:
 
-|Loss offset adjustments|    X    |   Y    | Z | Total  |
-|-----------------------|---------|--------|---|--------|
-|       Domestic        | −12.00  | \+ 9.00| 0 | −3.00  |
-|    Foreign Passive    | \+ 1.20 | −0.68  | 0 | \+ 0.52|
-|    Foreign General    | \+ 10.80| −8.32  | 0 | \+ 2.48|
+|Loss offset adjustments|   X    |   Y   | Z | Total |
+|-----------------------|--------|-------|---|-------|
+|       Domestic        | −12.00 |\+ 9.00| 0 | −3.00 |
+|    Foreign Passive    |\+ 1.20 | −0.68 | 0 |\+ 0.52|
+|    Foreign General    |\+ 10.80| −8.32 | 0 |\+ 2.48|
 
 These adjustments yield the following adjusted taxable income figures:
 
@@ -154,11 +154,11 @@ These adjustments yield the following adjusted taxable income figures:
 
 The members must then separately compute the sum of the limitation reductions. Y has limitation reductions of $0.30 in the foreign passive limitation category and $1.84 in the foreign general limitation category, yielding total limitation reduction of $2.14. Under these facts, domestic income is the only limitation category requiring a positive adjustment. Accordingly, Y's domestic income is increased by $2.14. Z has limitation reductions of $0.22 in the foreign passive limitation category and $0.64 in the foreign general limitation category, yielding total limitation reductions of $0.86. Under these facts, domestic income is the only limitation category of Z requiring a positive adjustment. Accordingly, Z's domestic income is increased by $0.86.
 
-|Recharacterization adjustments| X |   Y    |   Z    | Total  |
-|------------------------------|---|--------|--------|--------|
-|           Domestic           | 0 | \+ 2.14| \+ 0.86| \+ 3.00|
-|       Foreign Passive        | 0 | −0.30  | −0.22  | −0.52  |
-|       Foreign General        | 0 | −1.84  | −0.64  | −2.48  |
+|Recharacterization adjustments| X |   Y   |   Z   | Total |
+|------------------------------|---|-------|-------|-------|
+|           Domestic           | 0 |\+ 2.14|\+ 0.86|\+ 3.00|
+|       Foreign Passive        | 0 | −0.30 | −0.22 | −0.52 |
+|       Foreign General        | 0 | −1.84 | −0.64 | −2.48 |
 
 These recharacterization adjustments yield the following final taxable income figures:
 
@@ -202,11 +202,11 @@ The members of the group then compute taxable income within each category by ded
 
 (iii) *Step 2: Loss offset adjustment.* Because X has insufficient domestic income to offset the sum of the losses in the foreign limitation categories caused by apportionment, the amount of apportionment losses in each limitation category shall be recharacterized as domestic losses to the extent of taxable income of other members in the same limitation category. This is accomplished by adding to each foreign limitation categories an amount equal to the loss therein and by subtracting the sum of such foreign losses from domestic income, as follows:
 
-|Loss offset adjustments|    X    | Y | Z |  Total  |
-|-----------------------|---------|---|---|---------|
-|       Domestic        | −35.00  | 0 | 0 | −35.00  |
-|    Foreign Passive    | \+ 3.50 | 0 | 0 | \+ 3.50 |
-|    Foreign General    | \+ 31.50| 0 | 0 | \+ 31.50|
+|Loss offset adjustments|   X    | Y | Z | Total  |
+|-----------------------|--------|---|---|--------|
+|       Domestic        | −35.00 | 0 | 0 | −35.00 |
+|    Foreign Passive    |\+ 3.50 | 0 | 0 |\+ 3.50 |
+|    Foreign General    |\+ 31.50| 0 | 0 |\+ 31.50|
 
 These adjustments yield the following adjusted taxable income figures:
 
@@ -223,11 +223,11 @@ These adjustments yield the following adjusted taxable income figures:
 
 The members must then separately compute the sum of the limitation reductions. Y has limitation reductions of $1.75 in the foreign passive limitation category and $21 in the foreign general limitation category, yielding total limitation reductions of $22.75. Under these facts, domestic income is the only limitation category requiring a positive adjustment. Accordingly, Y's domestic income is increased by $22.75. Z has limitation reductions of $1.75 in the foreign passive limitation category and $10.50 in the foreign general limitation category, yielding total limitation reductions of $12.25. Under these facts, domestic income is the only limitation category requiring a positive adjustment. Accordingly, Z's domestic income is increased by $12.25.
 
-|Recharacterization adjustments| X |    Y    |    Z    |  Total  |
-|------------------------------|---|---------|---------|---------|
-|           Domestic           | 0 | \+ 22.75| \+ 12.25| \+ 35.00|
-|       Foreign Passive        | 0 |  −1.75  |  −1.75  |  −3.50  |
-|       Foreign General        | 0 | −21.00  | −10.50  | −31.50  |
+|Recharacterization adjustments| X |   Y    |   Z    | Total  |
+|------------------------------|---|--------|--------|--------|
+|           Domestic           | 0 |\+ 22.75|\+ 12.25|\+ 35.00|
+|       Foreign Passive        | 0 | −1.75  | −1.75  | −3.50  |
+|       Foreign General        | 0 | −21.00 | −10.50 | −31.50 |
 
 These recharacterization adjustments yield the following final taxable income figures:
 

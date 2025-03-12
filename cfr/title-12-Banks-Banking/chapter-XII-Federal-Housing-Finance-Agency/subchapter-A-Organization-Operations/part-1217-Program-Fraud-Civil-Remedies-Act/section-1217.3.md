@@ -2,7 +2,7 @@
 
 (a) *False, fictitious or fraudulent claims.*
 
-(1) A civil penalty of not more than $12,537 may be imposed upon a person who makes a claim to FHFA for property, services, or money where the person knows or has reason to know that the claim:
+(1) A civil penalty of not more than $13,508 may be imposed upon a person who makes a claim to FHFA for property, services, or money where the person knows or has reason to know that the claim:
 
 (i) Is false, fictitious, or fraudulent;
 
@@ -26,7 +26,7 @@
 
 (b) *False, fictitious or fraudulent statements.*
 
-(1) A civil penalty of up to $12,537 may be imposed upon a person who makes a written statement to FHFA with respect to a claim, contract, bid or proposal for a contract, or benefit from FHFA that:
+(1) A civil penalty of up to $13,508 may be imposed upon a person who makes a written statement to FHFA with respect to a claim, contract, bid or proposal for a contract, or benefit from FHFA that:
 
 (i) The person knows or has reason to know:
 
@@ -42,4 +42,4 @@
 
 (c) *Joint and several liability.* A civil penalty or assessment may be imposed jointly and severally if more than one person is determined to be liable.
 
-[81 FR 43034, July 1, 2016, as amended at 83 FR 43968, Aug. 29, 2018; 84 FR 9704, Mar. 18, 2019; 85 FR 4905, Jan. 28, 2020; 86 FR 7496, Jan. 29, 2021; 87 FR 1661, Jan. 12, 2022]
+[81 FR 43034, July 1, 2016, as amended at 83 FR 43968, Aug. 29, 2018; 84 FR 9704, Mar. 18, 2019; 85 FR 4905, Jan. 28, 2020; 86 FR 7496, Jan. 29, 2021; 87 FR 1661, Jan. 12, 2022; 87 FR 80025, Dec. 29, 2022]

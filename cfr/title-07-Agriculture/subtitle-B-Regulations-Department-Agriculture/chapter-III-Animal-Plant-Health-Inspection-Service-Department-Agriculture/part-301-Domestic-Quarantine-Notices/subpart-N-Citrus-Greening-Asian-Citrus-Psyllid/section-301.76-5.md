@@ -1,5 +1,7 @@
 ##### § 301.76-5 General conditions governing the issuance of any certificate or limited permit; provisions for cancellation of a certificate or limited permit. #####
 
+Link to an amendment published at 87 FR 80011, Dec. 29, 2022.
+
 (a) *Certificates.* In addition to all other relevant conditions within this subpart, an inspector or person operating under a compliance agreement will issue a certificate only if a regulated article:
 
 (1) Will be moved in compliance with any additional emergency conditions that the Administrator may impose under section 414 of the Plant Protection Act (7 U.S.C. 7714)2 to prevent the spread of Asian citrus psyllid; and

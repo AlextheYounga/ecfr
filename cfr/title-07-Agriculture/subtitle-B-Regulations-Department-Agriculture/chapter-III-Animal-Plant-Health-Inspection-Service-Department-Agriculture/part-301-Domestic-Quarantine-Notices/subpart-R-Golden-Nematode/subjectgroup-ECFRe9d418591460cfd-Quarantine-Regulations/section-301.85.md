@@ -1,5 +1,7 @@
 ##### § 301.85 Quarantine; restriction on interstate movement of specified regulated articles. #####
 
+Link to an amendment published at 87 FR 80013, Dec. 29, 2022.
+
 (a) *Notice of quarantine.* Under the authority of sections 411, 412, 414, and 434 of the Plant Protection Act (7 U.S.C. 7711, 7712, 7714, and 7754), the Secretary of Agriculture quarantines the State of New York in order to prevent the spread of the golden nematode (*Globodera rostochiensis*), which causes a dangerous disease of potatoes and certain other plants and is not widely prevalent or distributed within and throughout the United States. Through the aforementioned authorities, the Secretary imposes a quarantine on the State of New York with respect to the interstate movement from that State of the articles described in paragraph (b) of this section, issues regulations in this subpart governing the movement of such articles, and gives notice of this quarantine action.
 
 (b) *Quarantine restrictions on interstate movement of specified regulated articles.* No common carrier or other person shall move interstate from any quarantined State any of the following articles (defined in § 301.85-1 as regulated articles), except in accordance with the conditions prescribed in this subpart:

@@ -1,7 +1,7 @@
 ##### § 11.2 Federal Register. #####
 
-(a) The subscription price for the paper edition of the daily Federal Register is $749 per year. A combined subscription to the daily Federal Register, the monthly Federal Register Index, and the monthly LSA (List of CFR Sections Affected) is $808 per year for the paper edition, or $165 per year for the microfiche edition. Six-month subscriptions for the paper and microfiche editions are also available at one-half the annual rate. Those prices exclude postage. The prevailing postal rates will be applied to orders according to the delivery method requested. The price of a single copy of the daily Federal Register, including postage, is based on the number of pages: $11 for an issue containing less than 200 pages; $22 for an issue containing 200 to 400 pages; and $33 for an issue containing more than 400 pages. Single issues of the microfiche edition may be purchased for $3 per copy, including postage.
+(a) The subscription price for the paper format of the daily Federal Register is $749 per year. A combined subscription to the daily Federal Register, the monthly Federal Register Index, and the monthly LSA (List of CFR Sections Affected) is $808 per year for the paper format. Six-month subscriptions for the paper format are also available at one-half the annual rate. Those prices exclude postage. The prevailing postal rates will be applied to orders according to the delivery method requested. The price of a single copy of the daily Federal Register, including postage, is based on the number of pages: $11 for an issue containing fewer than 200 pages; $22 for an issue containing 200 to 400 pages; and $33 for an issue containing more than 400 pages.
 
-(b) The online edition of the Federal Register, issued under the authority of the Administrative Committee, is available on GPO Access, a service of the Government Printing Office (44 U.S.C. 4101).
+(b) The online format of the Federal Register is available on Government Publishing Office websites.
 
-[61 FR 68119, Dec. 27, 1996, as amended at 65 FR 8843, Feb. 23, 2000; 66 FR 44524, Aug. 24, 2001; 69 FR 12783, Mar. 18, 2004]
+[87 FR 80002, Dec. 29, 2022]

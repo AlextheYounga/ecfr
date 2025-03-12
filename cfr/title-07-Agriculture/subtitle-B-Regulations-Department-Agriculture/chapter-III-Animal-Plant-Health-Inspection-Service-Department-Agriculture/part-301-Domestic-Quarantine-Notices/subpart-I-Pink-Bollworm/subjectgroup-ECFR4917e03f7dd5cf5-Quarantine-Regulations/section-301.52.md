@@ -1,5 +1,7 @@
 ##### § 301.52 Quarantine; restriction on interstate movement of specified regulated articles. #####
 
+Link to an amendment published at 87 FR 80006, Dec. 29, 2022.
+
 (a) *Notice of quarantine.* The following States are quarantined to prevent the spread of the pink bollworm (*Pectinophora gossypiella* (Saund.)): Arizona, California, New Mexico, and Texas.
 
 (b) *Regulated articles.* No common carrier or other person shall move interstate from any quarantined State any regulated article, except in accordance with this subpart. The following are regulated articles:

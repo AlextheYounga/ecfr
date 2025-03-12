@@ -1,5 +1,7 @@
 ##### § 301.81-4 Interstate movement of regulated articles from quarantined areas. #####
 
+Link to an amendment published at 87 FR 80013, Dec. 29, 2022.
+
 (a) Any regulated article may be moved interstate from a quarantined area into or through an area that is not quarantined only if moved under the following conditions:
 
 (1) With a certificate or limited permit issued and attached in accordance with §§ 301.81-5 and 301.81-9 of this subpart;

@@ -1,5 +1,7 @@
 ##### § 301.74-2 Regulated articles. #####
 
+Link to an amendment published at 87 FR 80008, Dec. 29, 2022.
+
 The following are regulated articles:
 
 (a) All plant material and plant parts of *Prunus* (stone fruit) species other than *P. avium, P. cerasus, P. effusa, P. laurocerasus, P. mahaleb, P. padus, P. sargentii, P. serotina, P. serrula, P. serrulata, P. subhirtella, P. yedoensis,* and *P. virginiana,* except for seeds and fruit that is free of leaves and other plant parts. This includes, but is not limited to, trees, seedlings, root stock, budwood, branches, twigs, and leaves.

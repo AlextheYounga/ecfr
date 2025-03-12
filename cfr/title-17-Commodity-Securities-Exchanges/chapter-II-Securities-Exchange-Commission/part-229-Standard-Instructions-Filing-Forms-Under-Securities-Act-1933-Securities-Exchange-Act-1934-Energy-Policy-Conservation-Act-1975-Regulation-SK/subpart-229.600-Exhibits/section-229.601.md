@@ -1,6 +1,6 @@
 ##### § 229.601 (Item 601) Exhibits. #####
 
-Link to an amendment published at 87 FR 73137, Nov. 28, 2022.
+Link to an amendment published at 87 FR 73137, Nov. 28, 2022.Link to an amendment published at 87 FR 80428, Dec. 29, 2022.
 
 (a) *Exhibits and index required.* (1) Subject to Rule 411(c) (§ 230.411(c) of this chapter) under the Securities Act and Rule 12b-23(c) (§ 240.12b-23(c) of this chapter) under the Exchange Act regarding incorporation of exhibits by reference, the exhibits required in the exhibit table must be filed as indicated, as part of the registration statement or report.
 

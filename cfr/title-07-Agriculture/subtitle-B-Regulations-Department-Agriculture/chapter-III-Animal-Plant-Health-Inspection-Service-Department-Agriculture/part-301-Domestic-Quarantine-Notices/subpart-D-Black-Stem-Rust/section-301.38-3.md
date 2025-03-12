@@ -1,5 +1,7 @@
 ##### § 301.38-3 Protected areas. #####
 
+Link to an amendment published at 87 FR 80004, Dec. 29, 2022.
+
 (a) The Administrator may designate as a protected area in paragraph (d) of this section any State that has eradicated rust-susceptible plants of the genera *Berberis, Mahoberberis,* and *Mahonia* under the cooperative Federal-State eradication program. In addition, the State must employ personnel with responsibility for the issuance and withdrawal of certificates in accordance with § 301.38-5, and maintain and enforce an inspection program under which every plant nursery within the State is inspected at least once each year to ensure that they are free of rust-susceptible plants. During the requisite nursery inspections, all nursery stock shall be examined to determine that it consists only of rust-resistant varieties of the genera *Berberis, Mahoberberis,* and *Mahonia,* and that the plants are true to type. Plants that do not meet this criteria must be destroyed.
 
 (b) The Administrator may designate as a protected area any county within a State, rather than the entire State, if areas within the State have eradicated rust-susceptible plants of the genera *Berberis, Mahoberberis,* and *Mahonia* under the cooperative Federal-State program, and;

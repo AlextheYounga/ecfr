@@ -1,5 +1,7 @@
 ##### § 301.52-2a Regulated areas; suppressive and generally infested areas. #####
 
+Link to an amendment published at 87 FR 80007, Dec. 29, 2022.
+
 The civil divisions and part of civil divisions described below are designated as pink bollworm regulated areas within the meaning of the provisions of this subpart; and such regulated areas are hereby divided into generally infested areas or suppressive areas as indicated below.
 
 Arizona

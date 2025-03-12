@@ -1,5 +1,7 @@
 ##### § 301.85-2a Regulated areas; suppressive and generally infested areas. #####
 
+Link to an amendment published at 87 FR 80014, Dec. 29, 2022.
+
 The civil divisions and parts of civil divisions described below are designated as golden nematode regulated areas within the meaning of the provisions of this subpart; and such regulated areas are hereby divided into generally infested areas or suppressive areas as indicated below:
 
 New York

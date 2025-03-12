@@ -1,5 +1,7 @@
 ##### § 301.55-3 Quarantined areas. #####
 
+Link to an amendment published at 87 FR 80007, Dec. 29, 2022.
+
 (a) Except as otherwise provided in paragraph (b) of this section, the Administrator will list as a quarantined area in paragraph (c) of this section each State, or each portion of a State, in which the South American cactus moth has been found by an inspector, in which the Administrator has reason to believe that the South American cactus moth is present, or that the Administrator considers necessary to quarantine because of its inseparability for quarantine enforcement purposes from localities where South American cactus moth has been found. Less than an entire State will be designated as a quarantined area only if the Administrator determines that:
 
 (1) The State has adopted and is enforcing restrictions on the intrastate movement of the regulated articles that are equivalent to those imposed by this subpart on the interstate movement of regulated articles; and

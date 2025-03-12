@@ -1,5 +1,7 @@
 ##### § 301.85-2 Authorization to designate, and terminate designation of, regulated areas and suppressive or generally infested areas; and to exempt articles from certification, permit, or other requirements. #####
 
+Link to an amendment published at 87 FR 80014, Dec. 29, 2022.
+
 (a) *Regulated areas and suppressive or generally infested areas.* The Deputy Administrator shall list as regulated areas, in a supplemental regulation designated as § 301.85-2a, each quarantined State; or each portion thereof in which golden nematode has been found or in which there is reason to believe that golden nematode is present, or which it is deemed necessary to regulate because of their proximity to infestation or their inseparability for quarantine enforcement purposes from infested localities. The Deputy Administrator, in the supplemental regulation, may divide any regulated area into a suppressive area or a generally infested area in accordance with the definitions thereof in § 301.85-1. Less than an entire quarantined State will be designated as a regulated area only if the Deputy Administrator is of the opinion that:
 
 (1) The State has adopted and is enforcing a quarantine or regulation which imposes restrictions on the intrastate movement of the regulated articles which are substantially the same as those which are imposed with respect to the interstate movement of such articles under this subpart; and

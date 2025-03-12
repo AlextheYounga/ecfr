@@ -1,5 +1,7 @@
 ##### § 301.76-2 Regulated articles for Asian citrus psyllid and citrus greening. #####
 
+Link to an amendment published at 87 FR 80010, Dec. 29, 2022.
+
 The following are regulated articles for Asian citrus psyllid and citrus greening:
 
 (a) All plants and plant parts (including leaves), except fruit, of: *Aegle marmelos*, *Aeglopsis chevalieri*, *Afraegle gabonensis*, *A.**paniculata*, *Amyris madrensis*, *Atalantia* spp. (including *Atalantia monophylla*), *Balsamocitrus dawei*, *Bergera* (=*Murraya*) *koenigii*, *Calodendrum capense*, *Choisya ternate*, *C.**arizonica*, X *Citroncirus webberi*, *Citropsis articulata*, *Citropsis gilletiana*, *Citrus madurensis* (= X *Citrofortunella microcarpa*), *Citrus* spp., *Clausena anisum-olens*, *C.**excavata*, *C.**indica*, *C.**lansium*, *Eremocitrus glauca*, *Eremocitrus* hybrid, *Esenbeckia berlandieri*, *Fortunella* spp., *Limonia acidissima*, *Merrillia caloxylon*, *Microcitrus australasica, M.**australis*, *M.**papuana,* X *Microcitronella* spp., *Murraya* spp., *Naringi crenulata*, *Pamburus missionis*, *Poncirus trifoliata*, *Severinia buxifolia*, *Swinglea glutinosa*, *Tetradium ruticarpum*, *Toddalia asiatica*, *Triphasia trifolia*, *Vepris* (=*Toddalia*) *lanceolata*, and *Zanthoxylum fagara.*

@@ -1,6 +1,6 @@
 ##### § 240.10b5-1 Trading “on the basis of” material nonpublic information in insider trading cases. #####
 
-Preliminary Note to § 240.10b5-1:
+Link to an amendment published at 87 FR 80429, Dec. 29, 2022.Preliminary Note to § 240.10b5-1:
 
 This provision defines when a purchase or sale constitutes trading “on the basis of” material nonpublic information in insider trading cases brought under Section 10(b) of the Act and Rule 10b-5 thereunder. The law of insider trading is otherwise defined by judicial opinions construing Rule 10b-5, and Rule 10b5-1 does not modify the scope of insider trading law in any other respect.
 

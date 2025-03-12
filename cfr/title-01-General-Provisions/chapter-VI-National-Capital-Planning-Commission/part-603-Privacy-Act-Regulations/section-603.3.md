@@ -18,8 +18,7 @@
 
 (2) Maintaining Privacy Act program Records and documentation;
 
-(3) Responding to Privacy Act Requests for Records and coordinating appeals of Adverse Determinations for Requests for access to Records, Requests for Amendment or
-Correction of Records, and Requests for accounting for disclosures;
+(3) Responding to Privacy Act Requests for Records and coordinating appeals of Adverse Determinations for Requests for access to Records, Requests for Amendment or Correction of Records, and Requests for accounting for disclosures;
 
 (4) Informing Individuals of information disclosures;
 
@@ -37,8 +36,7 @@ Correction of Records, and Requests for accounting for disclosures;
 
 (11) Evaluating PIA to ensure compliance with E-Government Act requirements.
 
-(c) Other Privacy related responsibilities shall be shared by the NCPC Division Directors, the NCPC Chief Information Officer (CIO), the NCPC System Developers and Designers, the NCPC Configuration Control Board, the NCPC employees, and the
-Chairman of the Commission.
+(c) Other Privacy related responsibilities shall be shared by the NCPC Division Directors, the NCPC Chief Information Officer (CIO), the NCPC System Developers and Designers, the NCPC Configuration Control Board, the NCPC employees, and the Chairman of the Commission.
 
 (1) The NCPC Division Directors shall be responsible for coordinating with the PAO the implementation of the requirements set forth in this part for Systems of Records applicable to their area of management and the preparation of PIA prior to development or procurement of new systems that collect, maintain or disseminate IIF. Specific responsibilities include:
 
@@ -62,8 +60,7 @@ Chairman of the Commission.
 
 (x) Working with the SAOP, the PAO and Configuration Control Board (CCB) on SORs, preparing a PIA, if needed, and obtaining SAOP approval for a PIA prior to its publication on the NCPC Web site.
 
-(2) The CIO shall be responsible for implementing IT security management to include security for information protected by the Privacy Act and the E-Government Act of 2002.
-Specific responsibilities include:
+(2) The CIO shall be responsible for implementing IT security management to include security for information protected by the Privacy Act and the E-Government Act of 2002. Specific responsibilities include:
 
 (i) Overseeing security policy for privacy data; and
 

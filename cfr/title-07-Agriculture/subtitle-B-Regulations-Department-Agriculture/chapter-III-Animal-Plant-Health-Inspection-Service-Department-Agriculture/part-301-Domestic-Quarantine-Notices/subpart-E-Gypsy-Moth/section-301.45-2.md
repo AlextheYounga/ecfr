@@ -1,5 +1,7 @@
 ##### § 301.45-2 Authorization to designate and terminate designation of generally infested areas. #####
 
+Link to an amendment published at 87 FR 80005, Dec. 29, 2022.
+
 (a) Generally infested areas. The Administrator shall list as generally infested areas in § 301.45-3 each State or each portion thereof in which a gypsy moth general infestation has been found by an inspector, or each portion of a State which the Administrator deems necessary to regulate because of its proximity to infestation or its inseparability for quarantine enforcement purposes from infested localities; Except that, an area shall not be listed as a generally infested area if the Administrator has determined that:
 
 (1) The area is subject to a gypsy moth eradication program conducted by the Federal government or a State government in accordance with the Eradication, Suppression, and Slow the Spread alternative of the Final Environmental Impact Statement (FEIS) on Gypsy Moth Suppression and Eradication Projects that was filed with the United States Environmental Protection Agency on January 16, 1996; and,

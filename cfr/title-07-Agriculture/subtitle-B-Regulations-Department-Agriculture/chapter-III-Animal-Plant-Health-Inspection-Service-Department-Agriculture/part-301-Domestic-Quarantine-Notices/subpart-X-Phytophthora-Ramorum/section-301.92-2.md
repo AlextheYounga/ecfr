@@ -1,5 +1,7 @@
 ##### § 301.92-2 Restricted, regulated, and associated articles; lists of proven hosts and associated plant taxa. #####
 
+Link to an amendment published at 87 FR 80018, Dec. 29, 2022.
+
 (a) *Restricted articles.* The following are restricted articles:
 
 (1) Bark chips or mulch3 located in a quarantined area and that are proven host plant taxa listed in paragraph (d) of this section.

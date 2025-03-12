@@ -611,7 +611,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |      Bozeman       |                     \* 8, 27                      |   |
 |       Butte        |                  15, 19, 20, 24                   |   |
 |      Glendive      |                         5                         |   |
-|    Great Falls     |                7, 8, 17, \*21, 26                 |   |
+|    Great Falls     |               8, 17, \* 21, 22, 26                |   |
 |       Hardin       |                        22                         |   |
 |       Havre        |                         9                         |   |
 |       Helena       |                      29, 31                       |   |

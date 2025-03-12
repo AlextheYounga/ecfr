@@ -1,5 +1,7 @@
 ##### § 301.86-5 Issuance and cancellation of certificates and limited permits. #####
 
+Link to an amendment published at 87 FR 80015, Dec. 29, 2022.
+
 (a) *Certificates.* An inspector3 or person operating under a compliance agreement may issue a certificate for the interstate movement of a regulated article if the inspector determines that the regulated article satisfies the general requirements for a certificate in paragraph (a)(1) of this section and any requirements that may apply to the regulated article under paragraphs (a)(2) through (a)(7) of this section.
 
 3 Inspectors are assigned to local offices of APHIS, which are listed in local telephone directories. Information concerning such local offices may also be obtained from the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Domestic and Emergency Operations, 4700 River Road Unit 134, Riverdale, Maryland 20737-1236.

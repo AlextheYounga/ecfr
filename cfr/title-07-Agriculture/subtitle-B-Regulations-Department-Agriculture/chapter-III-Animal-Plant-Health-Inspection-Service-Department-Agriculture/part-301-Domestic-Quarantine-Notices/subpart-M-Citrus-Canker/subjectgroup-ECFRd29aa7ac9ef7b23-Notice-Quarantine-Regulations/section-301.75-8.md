@@ -1,5 +1,7 @@
 ##### § 301.75-8 Interstate movement of regulated seed from a quarantined area. #####
 
+Link to an amendment published at 87 FR 80010, Dec. 29, 2022.
+
 Regulated seed may be moved interstate from a quarantined area into any area of the United States if all of the following conditions are met:
 
 (a) During the 2 years before the interstate movement, no plants or plant parts infected with or exposed to citrus canker were found in the grove or nursery producing the fruit from which the regulated seed was extracted.

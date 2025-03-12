@@ -1,5 +1,7 @@
 ##### § 301.32-5 Issuance and cancellation of certificates and limited permits. #####
 
+Link to an amendment published at 87 FR 80004, Dec. 29, 2022.
+
 (a) A certificate may be issued by an inspector3 for the interstate movement of a regulated article if the inspector determines that:
 
 3 Services of an inspector may be requested by contacting local PPQ offices, which are listed in telephone directories.

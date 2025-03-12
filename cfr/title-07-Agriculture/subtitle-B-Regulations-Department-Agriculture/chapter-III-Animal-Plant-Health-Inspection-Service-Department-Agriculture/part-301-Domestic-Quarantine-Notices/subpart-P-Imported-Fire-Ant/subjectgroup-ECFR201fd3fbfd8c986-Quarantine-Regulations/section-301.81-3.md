@@ -1,5 +1,7 @@
 ##### § 301.81-3 Quarantined areas. #####
 
+Link to an amendment published at 87 FR 80012, Dec. 29, 2022.
+
 (a) The Administrator will quarantine each State or each portion of a State that is infested.
 
 (b) Less than an entire State will be listed as a quarantined area only if the Administrator determines that:

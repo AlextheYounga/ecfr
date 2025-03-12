@@ -1,5 +1,7 @@
 ##### § 301.76-8 Compliance agreements and cancellation. #####
 
+Link to an amendment published at 87 FR 80011, Dec. 29, 2022.
+
 (a) Any person involved in the growing, maintaining, processing, handling, packing, treating, or moving of regulating articles from areas quarantined for citrus greening or Asian citrus psyllid may enter into a compliance agreement when an inspector determines that the person understands this subpart, agrees to comply with its provisions, and agrees to comply with all the provisions contained in the compliance agreement. The person must also agree to maintain and offer for inspection such records as are necessary to demonstrate continual adherence to the requirements of the regulations and the provisions of the compliance agreement.7
 
 7 Compliance agreement forms are available without charge from the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Domestic and Emergency Operations, 4700 River Road Unit 134, Riverdale, MD 20737-1236, and from local offices of the Plant Protection and Quarantine offices, which are listed in telephone directories.

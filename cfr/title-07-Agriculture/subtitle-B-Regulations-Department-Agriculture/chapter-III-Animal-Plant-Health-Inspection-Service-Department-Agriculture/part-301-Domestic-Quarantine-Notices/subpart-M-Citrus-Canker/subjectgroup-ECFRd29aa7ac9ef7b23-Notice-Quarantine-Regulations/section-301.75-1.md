@@ -1,5 +1,7 @@
 ##### § 301.75-1 Definitions. #####
 
+Link to an amendment published at 87 FR 80009, Dec. 29, 2022.
+
 *ACC coverage.* The crop insurance coverage against Asiatic citrus canker (ACC) provided under the Florida Fruit Tree Pilot Crop Insurance Program authorized by the Federal Crop Insurance Corporation.
 
 *Administrator.* The Administrator of the Animal and Plant Health Inspection Service or any individual authorized to act for the Administrator.

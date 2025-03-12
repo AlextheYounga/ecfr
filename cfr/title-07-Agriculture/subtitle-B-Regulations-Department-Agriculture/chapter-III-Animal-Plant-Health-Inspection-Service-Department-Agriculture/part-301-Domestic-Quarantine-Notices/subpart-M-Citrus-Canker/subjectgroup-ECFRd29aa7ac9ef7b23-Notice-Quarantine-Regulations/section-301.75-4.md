@@ -1,5 +1,7 @@
 ##### § 301.75-4 Quarantined areas. #####
 
+Link to an amendment published at 87 FR 80009, Dec. 29, 2022.
+
 (a) The following States or portions of States are designated as quarantined areas: The State of Florida.
 
 (b) The Administrator may designate any non-quarantined area as a quarantined area in accordance with paragraphs (c) and (d) of this section upon giving written notice of this designation to the owner or persons in possession of the non-quarantined area. Thereafter, regulated articles may be moved interstate from that area only in accordance with this subpart. As soon as practicable, this area will be added to the list in paragraph (a) of this section, or the Administrator will terminate the designation. The owner or person in possession of an area for which designation is terminated will be given written notice as soon as practicable.

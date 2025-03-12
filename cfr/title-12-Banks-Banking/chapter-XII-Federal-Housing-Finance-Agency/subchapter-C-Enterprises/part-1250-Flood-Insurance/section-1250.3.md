@@ -4,7 +4,7 @@
 
 (b) *Notice and hearing.* A civil money penalty under this section may be assessed only after notice and an opportunity for a hearing on the record has been provided to the Enterprise.
 
-(c) *Amount.* The maximum civil money penalty amount is $621 for each violation that occurs before January 15, 2022, with total penalties not to exceed $179,123. For violations that occur on or after January 15, 2022, the civil money penalty under this section may not exceed $621 for each violation, with total penalties assessed under this section against an Enterprise during any calendar year not to exceed $179,123.
+(c) *Amount.* The maximum civil money penalty amount is $621 for each violation that occurs before January 15, 2023, with total penalties not to exceed $179,123. For violations that occur on or after January 15, 2023, the civil money penalty under this section may not exceed $669 for each violation, with total penalties assessed under this section against an Enterprise during any calendar year not to exceed $192,996.
 
 (d) *Deposit of penalties.* Any penalties under this section shall be paid into the National Flood Mitigation Fund in accordance with section 1367 of the National Flood Insurance Act of 1968 (42 U.S.C. 4104d.), as amended.
 
@@ -12,4 +12,4 @@
 
 (f) *Statute of limitations.* No civil money penalty may be imposed under this section after the expiration of the four-year period beginning on the date of the occurrence of the violation for which the penalty is authorized under this section.
 
-[74 FR 2349, Jan. 15, 2009, as amended at 81 FR 8642, Feb. 22, 2016; 81 FR 43031, July 1, 2016; 83 FR 43968, Aug. 29, 2018; 84 FR 9704, Mar. 18, 2019; 85 FR 4905, Jan. 28, 2020; 86 FR 7496, Jan. 29, 2021; 87 FR 1662, Jan. 12, 2022; 87 FR 14770, Mar. 16, 2022]
+[74 FR 2349, Jan. 15, 2009, as amended at 81 FR 8642, Feb. 22, 2016; 81 FR 43031, July 1, 2016; 83 FR 43968, Aug. 29, 2018; 84 FR 9704, Mar. 18, 2019; 85 FR 4905, Jan. 28, 2020; 86 FR 7496, Jan. 29, 2021; 87 FR 1662, Jan. 12, 2022; 87 FR 14770, Mar. 16, 2022; 87 FR 80025, Dec. 29, 2022]

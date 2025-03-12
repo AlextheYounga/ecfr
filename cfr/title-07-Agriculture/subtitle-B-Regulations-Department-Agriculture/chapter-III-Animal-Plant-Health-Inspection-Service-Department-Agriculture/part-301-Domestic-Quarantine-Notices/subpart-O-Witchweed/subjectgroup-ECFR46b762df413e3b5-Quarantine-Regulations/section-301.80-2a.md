@@ -1,5 +1,7 @@
 ##### § 301.80-2a Regulated areas; generally infested and suppressive areas. #####
 
+Link to an amendment published at 87 FR 80012, Dec. 29, 2022.
+
 The civil divisions and parts of civil divisions described below are designated as witchweed regulated areas within the meaning of this subpart.
 
 North Carolina

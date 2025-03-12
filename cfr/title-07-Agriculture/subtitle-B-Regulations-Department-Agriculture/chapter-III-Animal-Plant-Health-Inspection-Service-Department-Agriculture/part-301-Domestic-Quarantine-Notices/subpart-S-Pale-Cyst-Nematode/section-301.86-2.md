@@ -1,5 +1,7 @@
 ##### § 301.86-2 Regulated articles. #####
 
+Link to an amendment published at 87 FR 80015, Dec. 29, 2022.
+
 The following are regulated articles:
 
 (a) Pale cyst nematodes.2

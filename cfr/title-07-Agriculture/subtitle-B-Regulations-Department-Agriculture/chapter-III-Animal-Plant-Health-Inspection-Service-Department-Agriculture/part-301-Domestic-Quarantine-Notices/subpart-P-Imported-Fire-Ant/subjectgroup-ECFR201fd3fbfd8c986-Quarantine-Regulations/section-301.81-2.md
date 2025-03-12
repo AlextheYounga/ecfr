@@ -1,5 +1,7 @@
 ##### § 301.81-2 Regulated articles. #####
 
+Link to an amendment published at 87 FR 80012, Dec. 29, 2022.
+
 The following are regulated articles:
 
 (a) Imported fire ant queens and reproducing colonies of imported fire ants.1
