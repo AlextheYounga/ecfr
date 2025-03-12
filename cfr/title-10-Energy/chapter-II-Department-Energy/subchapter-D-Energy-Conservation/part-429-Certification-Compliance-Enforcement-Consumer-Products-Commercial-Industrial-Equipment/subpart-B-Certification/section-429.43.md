@@ -1,7 +1,5 @@
 ##### § 429.43 Commercial heating, ventilating, air conditioning (HVAC) equipment. #####
 
-Link to an amendment published at 87 FR 45195, July 27, 2022.
-
 (a) *Determination of represented value.* Manufacturers must determine the represented value, which includes the certified rating, for each basic model of commercial HVAC equipment either by testing, in conjunction with the applicable sampling provisions, or by applying an AEDM.
 
 (1) *Units to be tested.* (i) If the represented value is determined through testing, the general requirements of § 429.11 are applicable; and
@@ -39,6 +37,23 @@ Link to an amendment published at 87 FR 45195, July 27, 2022.
 (B) Any represented value of energy efficiency or other measure of energy consumption of a basic model for which consumers would favor higher values shall be less than or equal to the output of the AEDM and greater than or equal to the Federal standard for that basic model.
 
 (ii) For air-cooled commercial package air-conditioning and heating equipment, the represented value of cooling capacity must be the cooling capacity output simulated by the AEDM as described in paragraph (a)(2) of this section.
+
+(3) *Product-specific provisions for determination of represented values.* (i) Direct-expansion-dedicated outdoor air systems (DX-DOASes):
+
+(A) Individual model selection:
+
+(*1*) Representations for a basic model must be based on the least efficient individual model(s) distributed in commerce among all otherwise comparable model groups comprising the basic model, considering only individual models as provided in paragraph (a)(3)(i)(A)(*2*) of this section. For the purpose of this paragraph (a)(3), an “otherwise comparable model group” means a group of individual models distributed in commerce within the basic model that do not differ in components that affect energy consumption as measured according to the applicable test procedure specified at 10 CFR 431.96 other than those listed in Table 1 to paragraph (a)(3) of this section. An otherwise comparable model group may include individual models distributed in commerce with any combination of the components listed in Table 1 (or none of the components listed in Table 1). An otherwise comparable model group may consist of only one individual model.
+
+(*2*) For a basic model that includes individual models distributed in commerce with components listed in Table 1 to paragraph (a)(3) of this section, the requirements for determining representations apply only to the individual model(s) of a specific otherwise comparable model group distributed in commerce with the least number (which could be zero) of components listed in Table 1 included in individual models of the group. Testing under this paragraph shall be consistent with any component-specific test provisions specified in section 2.2.2 of appendix B to subpart F of part 431.
+
+Table 1 to Paragraph (a)(3)
+
+|              Component               |                                                                                                                                         Description                                                                                                                                         |
+|--------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Furnaces and Steam/Hydronic Heat Coils|                                                                                                  Furnaces and steam/hydronic heat coils used to provide primary or supplementary heating.                                                                                                   |
+|        Ducted Condenser Fans         |                       A condenser fan/motor assembly designed for optional external ducting of condenser air that provides greater pressure rise and has a higher rated motor horsepower than the condenser fan provided as a standard component with the equipment.                        |
+|    Sound Traps/Sound Attenuators     |An assembly of structures through which the supply air passes before leaving the equipment or through which the return air from the building passes immediately after entering the equipment, for which the sound insertion loss is at least 6 dB for the 125 Hz octave band frequency range.|
+|             VERS Preheat             |                                                                                           Electric resistance, hydronic, or steam heating coils used for preheating outdoor air entering a VERS.                                                                                            |
 
 (b) *Certification reports.* (1) The requirements of § 429.12 are applicable to commercial HVAC equipment; and
 
@@ -120,4 +135,4 @@ Link to an amendment published at 87 FR 45195, July 27, 2022.
 
 (c) Alternative methods for determining efficiency or energy use for commercial HVAC equipment can be found in § 429.70 of this subpart.
 
-[76 FR 12451, Mar. 7, 2011; 76 FR 24775, May 2, 2011, as amended at 78 FR 79594, Dec. 31, 2013; 79 FR 25501, May 5, 2014; 80 FR 151, Jan. 5, 2015; 80 FR 37147, June 30, 2015; 80 FR 79668, Dec. 23, 2015]
+[76 FR 12451, Mar. 7, 2011; 76 FR 24775, May 2, 2011, as amended at 78 FR 79594, Dec. 31, 2013; 79 FR 25501, May 5, 2014; 80 FR 151, Jan. 5, 2015; 80 FR 37147, June 30, 2015; 80 FR 79668, Dec. 23, 2015; 87 FR 45195, July 27, 2022]

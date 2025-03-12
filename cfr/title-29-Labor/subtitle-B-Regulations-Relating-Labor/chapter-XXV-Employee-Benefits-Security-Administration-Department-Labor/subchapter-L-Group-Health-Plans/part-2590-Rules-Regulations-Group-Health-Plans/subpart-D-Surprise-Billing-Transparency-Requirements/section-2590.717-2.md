@@ -1,5 +1,7 @@
 ##### § 2590.717-2 Independent dispute resolution process for air ambulance services. #####
 
+Link to an amendment published at 87 FR 52651, Aug. 26, 2022.
+
 (a) *Definitions.* Unless otherwise stated, the definitions in § 2590.716-3 apply.
 
 (b) *Determination of out-of-network rates to be paid by health plans and health insurance issuers; independent dispute resolution process* - (1) *In general.* Except as provided in paragraphs (b)(2) and (3) of this section, in determining the out-of-network rate to be paid by group health plans and health insurance issuers offering group health insurance coverage for out-of-network air ambulance services, plans and issuers must comply with the requirements of § 2590.716-8, except that references in § 2590.716-8 to the additional circumstances in § 2590.716-8(c)(4)(iii)(C) shall be understood to refer to paragraph (b)(2) of this section.

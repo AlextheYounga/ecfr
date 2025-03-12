@@ -1,5 +1,7 @@
 ##### § 2590.716-6 Methodology for calculating qualifying payment amount. #####
 
+Link to an amendment published at 87 FR 52648, Aug. 26, 2022.
+
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 (1) *Contracted rate* means the total amount (including cost sharing) that a group health plan or health insurance issuer has contractually agreed to pay a participating provider, facility, or provider of air ambulance services for covered items and services, whether directly or indirectly, including through a third-party administrator or pharmacy benefit manager. Solely for purposes of this definition, a single case agreement, letter of agreement, or other similar arrangement between a provider, facility, or air ambulance provider and a plan or issuer, used to supplement the network of the plan or coverage for a specific participant or beneficiary in unique circumstances, does not constitute a contract.

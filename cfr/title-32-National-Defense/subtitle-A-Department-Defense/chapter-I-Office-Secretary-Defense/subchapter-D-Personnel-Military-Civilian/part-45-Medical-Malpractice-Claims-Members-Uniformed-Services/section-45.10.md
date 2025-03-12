@@ -1,5 +1,7 @@
 ##### § 45.10 Calculation of damages: non-economic damages. #####
 
+Link to an amendment published at 87 FR 52462, Aug. 26, 2022.
+
 (a) *In general.* Non-economic damages are one component of a potential damages award. The claimant has the burden of proof on the amount of non-economic damages by a preponderance of evidence.
 
 (b) *Elements of non-economic damages.* Elements of non-economic damage are limited to the following:

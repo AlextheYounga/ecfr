@@ -16,4 +16,4 @@
 
 (3) Health reimbursement arrangements or other account-based group health plans as described in § 147.126(d) of this subchapter.
 
-[86 FR 36970, July 13, 2021, as amended at 86 FR 56124, Oct. 6, 2021; 86 FR 66702, Nov. 23, 2021]
+[86 FR 36970, July 13, 2021, as amended at 86 FR 56124, Oct. 7, 2021; 86 FR 66702, Nov. 23, 2021]

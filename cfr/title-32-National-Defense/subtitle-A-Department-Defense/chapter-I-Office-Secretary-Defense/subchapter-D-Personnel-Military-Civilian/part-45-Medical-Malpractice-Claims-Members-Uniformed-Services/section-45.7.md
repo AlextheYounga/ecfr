@@ -1,5 +1,7 @@
 ##### § 45.7 Element of payable claim: proximate cause. #####
 
+Link to an amendment published at 87 FR 52462, Aug. 26, 2022.
+
 (a) *In general.* (1) In a case otherwise payable under this part, a claimant must prove by a preponderance of evidence that a negligent or wrongful act or omission by one or more DoD health care providers was the proximate cause of the harm suffered by the member.
 
 (2) Under section 2733a(c)(1), DoD is liable for only the portion of compensable injury, loss, or damages attributable to the medical malpractice of a DoD health care provider. To the extent other causes contributed to the personal injury or death of the member, whether pre-existing, concurrent, or subsequent, the potential amount of compensation under this regulation will be reduced by that proportion of the alternative cause(s).

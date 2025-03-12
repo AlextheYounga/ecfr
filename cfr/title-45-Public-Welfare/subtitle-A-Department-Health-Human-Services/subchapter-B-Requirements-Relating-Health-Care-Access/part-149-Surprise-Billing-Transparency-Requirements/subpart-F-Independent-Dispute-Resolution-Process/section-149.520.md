@@ -1,5 +1,7 @@
 ##### § 149.520 Independent dispute resolution process for air ambulance services. #####
 
+Link to an amendment published at 87 FR 52654, Aug. 26, 2022.
+
 (a) *Definitions.* Unless otherwise stated, the definitions in § 149.30 apply.
 
 (b) *Determination of out-of-network rates to be paid by health plans and health insurance issuers; independent dispute resolution process* - (1) *In general.* Except as provided in paragraphs (b)(2) and (3) of this section, in determining the out-of-network rate to be paid by group health plans and health insurance issuers offering group or individual health insurance coverage for out-of-network air ambulance services, plans and issuers must comply with the requirements of § 149.510, except that references in § 149.510 to the additional circumstances in § 149.510(c)(4)(iii)(C) shall be understood to refer to paragraph (b)(2) of this section.

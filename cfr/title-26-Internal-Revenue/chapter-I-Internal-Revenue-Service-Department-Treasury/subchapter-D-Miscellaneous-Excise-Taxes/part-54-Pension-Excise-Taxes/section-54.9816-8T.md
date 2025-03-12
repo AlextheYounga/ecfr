@@ -1,5 +1,7 @@
 ##### § 54.9816-8T Independent dispute resolution process (temporary). #####
 
+Link to an amendment published at 87 FR 52647, Aug. 26, 2022.
+
 (a) *Scope and definitions* - (1) *Scope.* This section sets forth requirements with respect to the independent dispute resolution (IDR) process (referred to in this section as the Federal IDR process) under which a nonparticipating provider, nonparticipating emergency facility, or nonparticipating provider of air ambulance services (as applicable); and a group health plan complete a requisite open negotiation period, and at least one party submits a notification under paragraph (b) of this section to initiate the Federal IDR process under paragraph (c) of this section, and under which an IDR entity (as certified under paragraph (e) of this section) determines the amount of payment under the plan for an item or service furnished by the provider or facility.
 
 (2) *Definitions.* Unless otherwise stated, the definitions in § 54.9816-3T apply to this section. Additionally, for purposes of this section, the following definitions apply:

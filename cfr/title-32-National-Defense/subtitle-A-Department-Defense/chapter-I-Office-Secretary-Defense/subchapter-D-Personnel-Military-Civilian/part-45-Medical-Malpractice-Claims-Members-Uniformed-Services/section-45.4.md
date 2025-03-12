@@ -1,5 +1,7 @@
 ##### § 45.4 Filing a claim. #####
 
+Link to an amendment published at 87 FR 52462, Aug. 26, 2022.
+
 (a) *In general.* A member of a uniformed service or, when applicable, an authorized representative may file a claim in writing. Any written claim will suffice as long as it is meets the requirements below and is signed by the claimant or authorized representative.
 
 (b) *Contents of the claim.* The filed claim must include the following:

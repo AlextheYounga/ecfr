@@ -1,5 +1,7 @@
 ##### § 45.12 Initial and Final Determinations. #####
 
+Link to an amendment published at 87 FR 52463, Aug. 26, 2022.
+
 (a) *Denial of claim - deficient filing.* If a claim does not contain the information required by § 45.4(b), DoD will issue an Initial Determination stating that DoD will issue a Final Determination denying the claim unless the deficiency is cured.
 
 (1) DoD will provide the claimant 30 calendar days following receipt of the Initial Determination to cure the deficiency, unless an extension of time is granted for good cause. The date of receipt of the Initial Determination will be presumed to be five calendar days after the date the Initial Determination was mailed or emailed, unless there is evidence to the contrary.

@@ -1,5 +1,7 @@
 ##### § 54.9817-2T Independent dispute resolution process for air ambulance services (temporary). #####
 
+Link to an amendment published at 87 FR 52648, Aug. 26, 2022.
+
 (a) *Definitions.* Unless otherwise stated, the definitions in § 54.9816-3T apply.
 
 (b) *Determination of out-of-network rates to be paid by group health plans; independent dispute resolution process* - (1) *In general.* Except as provided in paragraphs (b)(2) and (3) of this section, in determining the out-of-network rate to be paid by group health plans for out-of-network air ambulance services, plans must comply with the requirements of § 54.9816-8T, except that references in § 54.9816-8T to the additional circumstances in § 54.9816-8T(c)(4)(iii)(C) shall be understood to refer to § 54.9817-2T(b)(2).

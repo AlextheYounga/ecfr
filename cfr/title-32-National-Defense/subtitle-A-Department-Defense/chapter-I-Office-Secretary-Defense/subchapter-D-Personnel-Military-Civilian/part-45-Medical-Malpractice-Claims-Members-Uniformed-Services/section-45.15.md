@@ -1,5 +1,7 @@
 ##### § 45.15 Other claims procedures and administrative matters. #####
 
+Link to an amendment published at 87 FR 52463, Aug. 26, 2022.
+
 (a) *Payment of damages.* In the event damages are awarded, the claimant or the claimant's estate is entitled to payment of those damages.
 
 (b) *Communication through counsel.* If the claimant is represented by counsel, all communications will be through the claimant's counsel.
