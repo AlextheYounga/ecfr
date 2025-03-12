@@ -138,7 +138,7 @@
 
 (2) When participating in a commercial and subsistence fishery at the same time, you may not use an amount of combined fishing gear in excess of that allowed under the appropriate commercial fishing regulations.
 
-(e) *Fishery management area restrictions.* (1) *Kotzebue Area.* The Kotzebue Area includes all waters of Alaska between the latitude of the westernmost tip of Point Hope and the latitude of the westernmost tip of Cape Prince of Wales, including those waters draining into the Chukchi Sea.
+(e) *Fishery management area restrictions* - (1) *Kotzebue Area.* The Kotzebue Area includes all waters of Alaska between the latitude of the westernmost tip of Point Hope and the latitude of the westernmost tip of Cape Prince of Wales, including those waters draining into the Chukchi Sea.
 
 (i) You may take fish for subsistence purposes without a permit.
 
@@ -428,9 +428,7 @@
 
 (8) *Chignik Area.* The Chignik Area includes all waters of Alaska on the south side of the Alaska Peninsula bounded by a line extending 135° southeast for 3 miles from a point near Kilokak Rocks at 57°10.34′ North latitude, 156°20.22′ West longitude (the longitude of the southern entrance to Imuya Bay) then due south, and a line extending 135° southeast from Kupreanof Point at 55°33.98′ North latitude, 159°35.88′ West longitude.
 
-(i) You may take fish other than salmon, rainbow/steelhead trout, or char at any time, except as may be specified by a subsistence fishing permit. For salmon, Federal subsistence fishing openings, closings and fishing methods are the same as those issued for the subsistence taking of fish under Alaska Statutes (AS 16.05.060), unless superseded by a Federal Special Action. Within the Chignik Area, depending upon the area that you may fish, in addition to a State subsistence fishing permit, you may be required to also have a Federal subsistence permit.
-
-If you take rainbow/steelhead trout incidentally in other subsistence net fisheries, you may retain them for subsistence purposes.
+(i) You may take fish other than salmon, rainbow/steelhead trout, or char at any time, except as may be specified by a subsistence fishing permit. For salmon, Federal subsistence fishing openings, closings and fishing methods are the same as those issued for the subsistence taking of fish under Alaska Statutes (AS 16.05.060), unless superseded by a Federal Special Action. Within the Chignik Area, depending upon the area that you may fish, in addition to a State subsistence fishing permit, you may be required to also have a Federal subsistence permit. If you take rainbow/steelhead trout incidentally in other subsistence net fisheries, you may retain them for subsistence purposes.
 
 (ii) You may take salmon in the Chignik River, with rod and reel, from a point 300 feet upstream of the ADF&G weir to Chignik Lake from January 1 through August 9, with no daily harvest or possession limit under the authority of a Federal subsistence fishing permit. You may take salmon by gillnet in Black Lake or any tributary to Black or Chignik Lakes with a Federal subsistence fishing permit. You may take salmon in the waters of Clark River and Home Creek from their confluence with Chignik Lake upstream 1 mile. In the open waters of Clark River and Home Creek you may take salmon by snagging (handline or rod and reel), spear, bow and arrow, or capture by hand without a permit. The daily harvest and possession limits using these methods are five per day and five in possession.
 
@@ -486,215 +484,299 @@ If you take rainbow/steelhead trout incidentally in other subsistence net fisher
 
 (ix) You must be physically present at the net when the net is being fished.
 
-(10) *Cook Inlet Area.* The Cook Inlet Area includes all waters of Alaska enclosed by a line extending east from Cape Douglas (58°51.10′ N. Lat.) and a line extending south from Cape Fairfield (148°50.25′ W. Long.).
+(10) *Cook Inlet Area.* The Cook Inlet Area includes all waters of Alaska enclosed by a line extending east from Cape Douglas (58°51.10′ N Lat.) and a line extending south from Cape Fairfield (148°50.25′ W Long.).
 
-(i) Unless restricted in this section, or unless restricted under the terms of a subsistence fishing permit, you may take fish at any time in the Cook Inlet Area. If you take rainbow/steelhead trout incidentally in subsistence net fisheries, you may retain them for subsistence purposes, unless otherwise prohibited or provided for in this section. With jigging gear through the ice or rod and reel gear in open waters there is an annual limit of two rainbow/steelhead trout 20 inches or longer, taken from Kenai Peninsula fresh waters.
+(i) *General area regulations.* (A) Unless restricted by regulations in this section, or unless restricted under the terms of a subsistence fishing permit, you may take fish at any time in the Cook Inlet Area.
 
-(ii) You may take fish by gear listed in this part unless restricted in this section or under the terms of a subsistence fishing permit (as may be modified by this section). For all fish that must be marked and recorded on a permit in this section, they must be marked and recorded prior to leaving the fishing site. The fishing site includes the particular Federal public waters and/or adjacent shoreline from which the fish were harvested.
+(B) If you take rainbow or steelhead trout incidentally in subsistence net fisheries, you may retain them for subsistence purposes, unless otherwise prohibited or provided for in this section. With jigging gear through the ice or rod-and-reel gear in open waters, there is an annual limit of two rainbow or steelhead trout 20 inches or longer, taken from Kenai Peninsula fresh waters.
 
-(iii) You may not take grayling or burbot for subsistence purposes.
+(C) Under the authority of a Federal subsistence fishing permit, you may take only salmon, trout, Dolly Varden, and other char. Permits will be issued by the in-season manager or designated representative and will be valid for that regulatory year, except as otherwise provided for in this section, or as stated under the permit conditions, unless the season is closed or restricted by a special action.
 
-(iv) You may take only salmon, trout, Dolly Varden, and other char under authority of a Federal subsistence fishing permit. Seasons, harvest and possession limits, and methods and means for take are the same as for the taking of those species under Alaska sport fishing regulations (5 AAC 56 and 5 AAC 57) unless modified herein. Additionally for Federally managed waters of the Kasilof and Kenai River drainages:
+(D) All fish taken under the authority of a Federal subsistence fishing permit must be marked and recorded prior to leaving the fishing site.
 
-(A) Residents of Ninilchik may take sockeye, Chinook, coho, and pink salmon through a dip net and a rod and reel fishery on the upper mainstem of the Kasilof River from a Federal regulatory marker on the river below the outlet of Tustumena Lake downstream to a marker on the river approximately 2.8 miles below the Tustumena Lake boat ramp. Residents using rod and reel gear may fish with up to two baited single or treble hooks. Other species incidentally caught during the dip net and rod and reel fishery may be retained for subsistence uses, including up to 200 rainbow/steelhead trout taken through August 15. After 200 rainbow/steelhead trout have been taken in this fishery or after August 15, all rainbow/steelhead trout must be released unless otherwise provided for in this section. Before leaving the fishing site, all retained fish must be recorded on the permit and marked by removing the dorsal fin. Harvests must be reported within 72 hours to the Federal fisheries manager upon leaving the fishing site.
+(*1*) The fishing site includes the particular Federal public waters and/or adjacent shoreline from which the fish were harvested.
 
-(*1*) Fishing for sockeye and Chinook salmon will be allowed June 16-August 15.
+(*2*) Marking means removing the dorsal fin.
 
-(*2*) Fishing for coho and pink salmon will be allowed June 16-October 31.
+(E) You may not take grayling or burbot for subsistence purposes.
 
-(*3*) Fishing for sockeye, Chinook, coho, or pink salmon will end prior to regulatory end dates if the annual total harvest limit for that species is reached or superseded by Federal special action.
+(F) You may take smelt with dip nets in fresh water only from April 1 through June 15. There are no harvest or possession limits for smelt.
 
-(*4*) Each household may harvest their annual sockeye, Chinook, coho, or pink salmon limits in one or more days, and each household member may fish with a dip net or a rod and reel during this time. Salmon taken in the Kenai River system dip net and rod and reel fishery will be included as part of each household's annual limit for the Kasilof River.
+(G) You may take whitefish in the Tyone River drainage using gillnets.
 
-(*i*) For sockeye salmon - annual total harvest limit of 4,000; annual household limits of 25 for each permit holder and 5 additional for each household member;
+(H) You may take fish by gear listed in this section unless restricted by other regulations in this section or under the terms of a Federal subsistence fishing permit (as may be modified by regulations in this section).
 
-(*ii*) For Chinook salmon - annual harvest limit of 500; annual household limit of 10 for each permit holder and 2 additional for each household member;
+(I) Seasons, harvest and possession limits, and methods and means for take are the same as for the taking of those species under Alaska sport fishing regulations (5 AAC 56 and 5 AAC 57) unless modified herein or by issuance of a Federal special action.
 
-(*iii*) For coho salmon - annual total harvest limit of 500; annual household limits of 10 for each permit holder and 2 additional for each household member; and
+(J) Applicable harvest provisions are as follows:
 
-(*iv*) For pink salmon - annual total harvest limit of 500; annual household limits of 10 for each permit holder and 2 additional for each household member.
+|       Location       |                                                      Methods and means                                                      |                         Permit type                         |
+|----------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|
+|Kasilof River Drainage|   Kasilof River dip net or rod and reel for salmon; Kasilof River fish wheel for salmon; Kasilof River gillnet for salmon   |                  Household Annual Permit.                   |
+| Kenai River Drainage |                       Kenai River dip net or rod and reel for salmon; Kenai River gillnet for salmon                        |                  Household Annual Permit.                   |
+|Kasilof River Drainage|              Tustumena Lake rod and reel for salmon; Kasilof River drainage rod and reel for resident species               |General Subsistence Fishing Permit (Daily/Possession Limits).|
+| Kenai River Drainage |Kenai River rod and reel only for salmon; Kenai River and tributaries under ice jigging and rod and reel for resident species|General Subsistence Fishing Permit (Daily/Possession Limits).|
+|    Tustumena Lake    |                                              Tustumena Lake under ice fishery                                               |                Tustumena Lake Winter Permit.                |
 
-(B) In addition to the dip net and rod and reel fishery on the upper mainstem of the Kasilof River described under paragraph (e)(10)(iv)(A) of this section, residents of Ninilchik may also take coho and pink salmon through a rod and reel fishery in Tustumena Lake. Before leaving the fishing site, all retained salmon must be recorded on the permit and marked by removing the dorsal fin. Seasons, areas, harvest and possession limits, and methods and means for take are the same as for the taking of these species under Alaska sport fishing regulations (5 AAC 56), except for the following methods and means, and harvest and possession limits:
+(*1*) Harvest limits may not be accumulated.
 
-(*1*) Fishing will be allowed with up to two baited single or treble hooks.
+(*2*) Each household may harvest its annual salmon limits in one or more days.
 
-(*2*) For coho salmon 16 inches and longer, the daily harvest and possession limits are four per day and four in possession.
+(*3*) All salmon harvested as part of a household annual limit must be reported to the Federal in-season manager within 72 hours of leaving the fishing site.
 
-(*3*) For pink salmon 16 inches and longer, daily harvest and possession limits are six per day and six in possession.
+(*4*) For Ninilchik residents, the household annual limits for Chinook salmon in the Kasilof River and for late-run Chinook salmon in the Kenai River are combined.
 
-(C) Resident fish species including lake trout, rainbow/steelhead trout, and Dolly Varden/Arctic char may be harvested in Federally managed waters of the Kasilof River drainage. Resident fish species harvested in the Kasilof River drainage under the conditions of a Federal subsistence permit must be marked by removing the dorsal fin immediately after harvest and recorded on the permit prior to leaving the fishing site.
+(ii) *Seasons, harvest limits, and methods and means for Kasilof River fisheries.* Household annual limits for salmon in Kasilof River fisheries are as follows:
 
-(*1*) Lake trout may be harvested with rod and reel gear the entire year. For fish 20 inches or longer, daily harvest and possession limits are four per day and four in possession. For fish less than 20 inches, daily harvest and possession limits are 15 per day and 15 in possession.
+|Species|Number of fish  <br/>allowed for each  <br/>permit holder|Additional fish  <br/>allowed for each  <br/>household member|
+|-------|---------------------------------------------------------|-------------------------------------------------------------|
+|Sockeye|                           25                            |                              5                              |
+|Chinook|                           10                            |                              2                              |
+| Coho  |                           10                            |                              2                              |
+| Pink  |                           10                            |                              2                              |
 
-(*2*) Dolly Varden/Arctic char may be harvested with rod and reel gear the entire year. In flowing waters, daily harvest and possession limits are four per day and four in possession. In lakes and ponds, daily harvest and possession limits are 10 fish per day and 10 in possession.
+(A) *Kasilof River dip net or rod and reel; salmon.* (*1*) Residents of Ninilchik may take sockeye, Chinook, coho, and pink salmon through a dip net or rod and reel fishery on the upper mainstem of the Kasilof River from a Federal regulatory marker on the river below the outlet of Tustumena Lake downstream to a marker on the river approximately 2.8 miles below the Tustumena Lake boat ramp.
 
-(*3*) Rainbow trout may be harvested with rod and reel gear the entire year for fish less than 20 inches in length. In flowing waters, daily harvest and possession limits are two per day and two in possession. In lakes and ponds, daily harvest and possession limits are five per day and five in possession.
+(*2*) Residents using rod-and-reel gear may fish with up to two baited single or treble hooks.
 
-(*4*) You may fish in Tustumena Lake with a gillnet, no longer than 10 fathoms, fished under the ice or jigging gear used through the ice under authority of a Federal subsistence fishing permit. The total annual harvest quota for this fishery is 200 lake trout, 200 rainbow trout, and 500 Dolly Varden/Arctic char. The use of a gillnet will be prohibited by special action after the harvest quota of any species has been met. For the jig fishery, annual household limits are 30 fish in any combination of lake trout, rainbow trout or Dolly Varden/Arctic char.
+(*3*) Other species incidentally caught during the dip net and rod and reel fishery may be retained for subsistence uses, including up to 200 rainbow/steelhead trout taken through August 15. After 200 rainbow/steelhead trout have been taken in this fishery or after August 15, all rainbow/steelhead trout must be released unless otherwise provided for in this section.
 
-(*i*) You may harvest fish under the ice only in Tustumena Lake. Gillnets are not allowed within a1/4 mile radius of the mouth of any tributary to Tustumena Lake, or the outlet of Tustumena Lake.
+(*4*) Harvest seasons are as follows:
 
-(*ii*) Permits will be issued by the Federal fisheries manager or designated representative, and will be valid for the winter season, unless the season is closed by special action.
+|   Species    |      Season       |
+|--------------|-------------------|
+|Sockeye salmon|June 16-August 15. |
+|Chinook salmon|June 16-August 15. |
+| Coho salmon  |June 16-October 31.|
+| Pink salmon  |June 16-October 31.|
 
-(*iii*) All harvests must be reported within 72 hours to the Federal fisheries manager upon leaving the fishing site. Reported information must include number of each species caught; number of each species retained; length, depth (number of meshes deep) and mesh size of gillnet fished; fishing site; and total hours fished. Harvest data on the permit must be filled out before transporting fish from the fishing site.
+(B) *Kasilof River fish wheel; salmon.* (*1*) Residents of Ninilchik may harvest sockeye, Chinook, coho, and pink salmon through a fish wheel fishery in the Federal public waters of the upper mainstem of the Kasilof River.
 
-(*iv*) The gillnet must be checked at least once in every 48-hour period.
+(*2*) Residents of Ninilchik may retain other species incidentally caught in the Kasilof River fish wheel except for rainbow or steelhead trout, which must be released and returned unharmed to the water.
 
-(*v*) For unattended gear, the permittee's name and address must be plainly and legibly inscribed on a stake at one end of the gillnet.
+(*3*) Only one fish wheel may be operated on the Kasilof River. The fish wheel must: Have a live box, be monitored when fishing, be stopped from fishing when it is not being monitored or used, and be installed and operated in compliance with any regulations and restrictions for its use within the Kenai National Wildlife Refuge.
 
-(*vi*) Incidentally caught fish may be retained and must be recorded on the permit before transporting fish from the fishing site.
+(*4*) One registration permit will be available and will be awarded by the Federal in-season fishery manager, in consultation with the Kenai National Wildlife Refuge manager, based on the merits of the operational plan. The registration permit will be issued to an organization that, as the fish wheel owner, will be responsible for its construction, installation, operation, use, and removal in consultation with the Federal fishery manager. The owner may not rent or lease the fish wheel for personal gain. As part of the permit, the organization must:
 
-(*vii*) Failure to return the completed harvest permit by May 31 may result in issuance of a violation notice and/or denial of a future subsistence permit.
+(*i*) *Prior to the season.* Provide a written operational plan to the Federal fishery manager including a description of how fishing time and fish will be offered and distributed among households and residents of Ninilchik.
 
-(D) Residents of Hope, Cooper Landing, and Ninilchik may take only sockeye salmon through a dip net and a rod and reel fishery at one specified site on the Russian River, and sockeye, late-run Chinook, coho, and pink salmon through a dip net/rod and reel fishery at two specified sites on the Kenai River below Skilak Lake and as provided in this section. For Ninilchik residents, salmon taken in the Kasilof River Federal subsistence fish wheel, and dip net/rod and reel fishery will be included as part of each household's annual limit for the Kenai and Russian Rivers' dip net and rod and reel fishery. For both Kenai River fishing sites below Skilak Lake, incidentally caught fish may be retained for subsistence uses, except for early-run Chinook salmon (unless otherwise provided for), rainbow trout 18 inches or longer, and Dolly Varden 18 inches or longer, which must be released. For the Russian River fishing site, incidentally caught fish may be retained for subsistence uses, except for early- and late-run Chinook salmon, coho salmon, rainbow trout, and Dolly Varden, which must be released. Before leaving the fishing site, all retained fish must be recorded on the permit and marked by removing the dorsal fin. Harvests must be reported within 72 hours to the Federal fisheries manager upon leaving the fishing site, and permits must be returned to the manager by the due date listed on the permit. Chum salmon that are retained are to be included within the annual limit for sockeye salmon. Only residents of Cooper Landing, Hope, and Ninilchik may retain incidentally caught resident species.
+(*ii*) *During the season.* Mark the fish wheel with a wood, metal, or plastic plate that is at least 12 inches high by 12 inches wide, permanently affixed, and plainly visible and that contains the following information in letters and numerals at least 1 inch high: Registration permit number; organization's name and address; and primary contact person name and telephone number.
 
-(*1*) The household dip net and rod and reel gear fishery is limited to three sites:
+(*iii*) *After the season.* Provide written documentation of required evaluation information to the Federal fishery manager including, but not limited to, persons or households operating the gear, hours of operation, and number of each species caught and retained or released.
 
-(*i*) At the Kenai River Moose Range Meadows site, dip netting is allowed only from a boat from a Federal regulatory marker on the Kenai River at about river mile 29 downstream approximately 2.5 miles to another marker on the Kenai River at about river mile 26.5. Residents using rod and reel gear at this fishery site may fish from boats or from shore with up to two baited single or treble hooks June 15-August 31. Seasonal riverbank closures and motor boat restrictions are the same as those listed in State of Alaska fishing regulations (5 AAC 56 and 5 AAC 57 and 5 AAC 77.540).
+(*5*) People operating the fish wheel must:
 
-(*ii*) At the Kenai River Mile 48 site, dip netting is allowed while either standing in the river or from a boat, from Federal regulatory markers on both sides of the Kenai River at about river mile 48 (approximately 2 miles below the outlet of Skilak Lake) downstream approximately 2.5 miles to a marker on the Kenai River at about river mile 45.5. Residents using rod and reel gear at this fishery site may fish from boats or from shore with up to two baited single or treble hooks June 15-August 31. Seasonal riverbank closures and motor boat restrictions are the same as those listed in State of Alaska fishing regulations (5 AAC 56, 5 AAC 57, and 5 AAC 77.540).
+(*i*) Have in possession a valid Federal subsistence fishing permit and remain onsite to monitor the fish wheel and remove all fish at least every hour.
 
-(*iii*) At the Russian River Falls site, dip netting is allowed from a Federal regulatory marker near the upstream end of the fish ladder at Russian River Falls downstream to a Federal regulatory marker approximately 600 yards below Russian River Falls. Residents using rod and reel gear at this fishery site may not fish with bait at any time.
+(*ii*) In addition, any person operating the fish wheel who is not the owner must attach to the fish wheel an additional wood, metal, or plastic plate that is at least 12 inches high by 12 inches wide, is plainly visible, and contains the person's fishing permit number, name, and address in letters and numerals at least 1 inch high.
 
-(*2*) Fishing seasons are as follows:
+(*6*) The organization owning the fish wheel may operate the fish wheel for subsistence purposes on behalf of residents of Ninilchik by requesting a subsistence fishing permit that:
 
-(*i*) For sockeye salmon at all fishery sites: June 15-August 15;
-
-(*ii*) For late-run Chinook, pink, and coho salmon at both Kenai River fishery sites only: July 16-September 30; and
-
-(*iii*) Fishing for sockeye, late-run Chinook, coho, or pink salmon will close by special action prior to regulatory end dates if the annual total harvest limit for that species is reached or superseded by Federal special action.
-
-(*3*) Each household may harvest their annual sockeye, late-run Chinook, coho, or pink salmon limits in one or more days, and each household member may fish with a dip net or rod and reel during this time. Salmon taken in the Kenai River system dip net and rod and reel fishery by Ninilchik households will be included as part of those household's annual limits for the Kasilof River.
-
-(*i*) For sockeye salmon - annual total harvest limit of 4,000 (including any retained chum salmon); annual household limits of 25 for each permit holder and 5 additional for each household member;
-
-(*ii*) For late-run Chinook salmon - annual total harvest limit of 1,000; annual household limits of 10 for each permit holder and 2 additional for each household member;
-
-(*iii*) For coho salmon - annual total harvest limit of 3,000; annual household limits of 20 for each permit holder and 5 additional for each household member; and
-
-(*iv*) For pink salmon - annual total harvest limit of 2,000; annual household limits of 15 for each permit holder and 5 additional for each household member.
-
-(E) For Federally managed waters of the Kenai River and its tributaries, in addition to the dip net and rod and reel fisheries on the Kenai and Russian rivers described under paragraph (e)(10)(iv)(D) of this section, residents of Hope, Cooper Landing, and Ninilchik may take sockeye, Chinook, coho, pink, and chum salmon through a separate rod and reel fishery in the Kenai River drainage. Before leaving the fishing site, all retained fish must be recorded on the permit and marked by removing the dorsal fin. Permits must be returned to the Federal fisheries manager by the due date listed on the permit. Incidentally caught fish, other than salmon, are subject to regulations found in paragraphs (e)(10)(iv)(F) and (G) of this section. Seasons, areas (including seasonal riverbank closures), harvest and possession limits, and methods and means (including motor boat restrictions) for take are the same as for the taking of these salmon species under State of Alaska fishing regulations (5 AAC 56, 5 AAC 57 and 5 AAC 77.54), except for the following harvest and possession limits:
-
-(*1*) In the Kenai River below Skilak Lake, fishing is allowed with up to two baited single or treble hooks June 15-August 31.
-
-(*2*) For early-run Chinook salmon less than 46 inches or 55 inches or longer, daily harvest and possession limits are two per day and two in possession.
-
-(*3*) For late-run Chinook salmon 20 inches and longer, daily harvest and possession limits are two per day and two in possession.
-
-(*4*) Annual harvest limits for any combination of early- and late-run Chinook salmon are four for each permit holder.
-
-(*5*) For other salmon 16 inches and longer, the combined daily harvest and possession limits are six per day and six in possession, of which no more than four per day and four in possession may be coho salmon, except for the Sanctuary Area and Russian River, for which no more than two per day and two in possession may be coho salmon.
-
-(F) For Federally managed waters of the Kenai River and its tributaries below Skilak Lake outlet at river mile 50, residents of Cooper Landing, Hope, and Ninilchik may take resident fish species including lake trout, rainbow trout, and Dolly Varden/Arctic char with jigging gear through the ice or rod and reel gear in open waters. Resident fish species harvested in the Kenai River drainage under the conditions of a Federal subsistence permit must be marked by removal of the dorsal fin immediately after harvest and recorded on the permit prior to leaving the fishing site. Seasons, areas (including seasonal riverbank closures), harvest and possession limits, and methods and means (including motor boat restrictions) for take are the same as for the taking of these resident species under State of Alaska fishing regulations (5 AAC 56, 5 AAC 57, and 5 AAC 77.54), except for the following harvest and possession limits:
-
-(*1*) For lake trout 20 inches or longer, daily harvest and possession limits are four per day and four in possession. For fish less than 20 inches, daily harvest and possession limits are 15 per day and 15 in possession.
-
-(*2*) In flowing waters, daily harvest and possession limits for Dolly Varden/Arctic char less than 18 inches in length are one per day and one in possession. In lakes and ponds, daily harvest and possession limits are two per day and two in possession. Only one of these fish can be 20 inches or longer.
-
-(*3*) In flowing waters, daily harvest and possession limits for rainbow/steelhead trout are one per day and one in possession and must be less than 18 inches in length. In lakes and ponds, daily harvest and possession limits are two per day and two in possession of which only one fish 20 inches or longer may be harvested daily.
-
-(G) For Federally managed waters of the upper Kenai River and its tributaries above Skilak Lake outlet at river mile 50, residents of Cooper Landing, Hope, and Ninilchik may take resident fish species including lake trout, rainbow trout, and Dolly Varden/Arctic char with jigging gear through the ice or rod and reel gear in open waters. Resident fish species harvested in the Kenai River drainage under the conditions of a Federal subsistence permit must be marked by removal of the dorsal fin immediately after harvest and recorded on the permit prior to leaving the fishing site. Seasons, areas (including seasonal riverbank closures), harvest and possession limits, and methods and means (including motor boat restrictions) for take are the same as for the taking of these resident species under Alaska fishing regulations (5 AAC 56, 5 AAC 57, 5 AAC 77.54), except for the following harvest and possession limits:
-
-(*1*) For lake trout 20 inches or longer, daily harvest and possession limits are four per day and four in possession. For fish less than 20 inches, daily harvest and possession limits are 15 fish per day and 15 in possession. For Hidden Lake, daily harvest and possession limits are two per day and two in possession regardless of size.
-
-(*2*) In flowing waters, daily harvest and possession limits for Dolly Varden/Arctic char less than 16 inches are one per day and one in possession. In lakes and ponds, daily harvest and possession limits are two per day and two in possession of which only one fish 20 inches or longer may be harvested daily.
-
-(*3*) In flowing waters, daily harvest and possession limits for rainbow/steelhead trout are one per day and one in possession and it must be less than 16 inches in length. In lakes and ponds, daily harvest and possession limits are two per day and two in possession of which only one fish 20 inches or longer may be harvested daily.
-
-(H) Residents of Ninilchik may harvest sockeye, Chinook, coho, and pink salmon through a fish wheel fishery in the Federal public waters of the upper mainstem of the Kasilof River. Residents of Ninilchik may retain other species incidentally caught in the Kasilof River except for rainbow/steelhead trout, which must be released and returned unharmed to the water.
-
-(*1*) Only one fish wheel can be operated on the Kasilof River. The fish wheel must have a live box, must be monitored when fishing, must be stopped from fishing when it is not being monitored or used, and must be installed and operated in compliance with any regulations and restrictions for its use within the Kenai National Wildlife Refuge.
-
-(*2*) One registration permit will be available and will be awarded by the Federal in-season fishery manager, in consultation with the Kenai National Wildlife Refuge manager, based on the merits of the operation plan. The registration permit will be issued to an organization that, as the fish wheel owner, will be responsible for its construction, installation, operation, use, and removal in consultation with the Federal fishery manager. The owner may not rent or lease the fish wheel for personal gain. As part of the permit, the organization must:
-
-(*i*) Prior to the season, provide a written operation plan to the Federal fishery manager including a description of how fishing time and fish will be offered and distributed among households and residents of Ninilchik;
-
-(*ii*) During the season, mark the fish wheel with a wood, metal, or plastic plate at least 12 inches high by 12 inches wide that is permanently affixed and plainly visible, and that contains the following information in letters and numerals at least 1 inch high: registration permit number; organization's name and address; and primary contact person name and telephone number;
-
-(*iii*) After the season, provide written documentation of required evaluation information to the Federal fishery manager including, but not limited to, person or households operating the gear, hours of operation, and number of each species caught and retained or released.
-
-(*3*) People operating the fish wheel must:
-
-(*i*) Have a valid Federal subsistence fishing permit in their possession;
-
-(*ii*) If they are not the fish wheel owner, attach an additional wood, metal, or plastic plate at least 12 inches high by 12 inches wide to the fish wheel that is plainly visible, and that contains their fishing permit number, name, and address in letters and numerals at least 1 inch high;
-
-(*iii*) Remain on site to monitor the fish wheel and remove all fish at least every hour;
-
-(*iv*) Before leaving the site, mark all retained fish by removing their dorsal fin and record all retained fish on their fishing permit; and
-
-(*v*) Within 72 hours of leaving the site, report their harvest to the Federal fisheries manager.
-
-(*4*) The fish wheel owner (organization) may operate the fish wheel for subsistence purposes on behalf of residents of Ninilchik by requesting a subsistence fishing permit that:
-
-(*i*) Identifies a person who will be responsible for operating the fish wheel;
+(*i*) Identifies a person who will be responsible for operating the fish wheel; and
 
 (*ii*) Includes provisions for recording daily catches, the household to whom the catch was given, and other information determined to be necessary for effective resource management by the Federal fishery manager.
 
-(*5*) Fishing will be allowed from June 16 through October 31 on the Kasilof River unless closed or otherwise restricted by Federal special action.
+(*7*) Fishing is allowed from June 16 through October 31 on the Kasilof River unless closed or otherwise restricted by Federal special action.
 
-(*6*) Salmon taken in the fish wheel fishery will be included as part of dip net/rod and reel fishery annual total harvest limits for the Kasilof River and as part of dip net/rod and reel household annual limits of participating households.
+(C) *Kasilof River gillnet; salmon.*
 
-(*7*) Fishing for each salmon species will end and the fishery will be closed by Federal special action prior to regulatory end dates if the annual total harvest limit for that species is reached or superseded by Federal special action.
+(*1*) Residents of Ninilchik may harvest sockeye, Chinook, coho, and pink salmon in the Federal public waters of the upper mainstem of the Kasilof River from a Federal regulatory marker on the river below the outlet of Tustumena Lake downstream to the Tustumena Lake boat launch with a single gillnet from June 16 through August 15.
 
-(*8*) You may take smelt with dip nets in fresh water only from April 1-June 15. There are no harvest or possession limits for smelt.
+(*2*) Only one community gillnet may be operated on the Kasilof River.
 
-(*9*) Gillnets may not be used in fresh water, except for the taking of whitefish in the Tyone River drainage and as otherwise provided for in this Cook Inlet section.
+(*i*) The gillnet may not: Be over 10 fathoms in length, be larger than 5.25-inch mesh, and obstruct more than half of the river width with stationary fishing gear.
 
-(I) Residents of Ninilchik may harvest sockeye, Chinook, coho, and pink salmon through an experimental community gillnet fishery in the Federal public waters of the upper mainstem of the Kasilof River from a Federal regulatory marker on the river below the outlet of Tustumena Lake downstream to the Tustumena Lake boat launch June 16-August 15. The experimental community gillnet fishery will expire 5 years after approval of the first operational plan.
+(*ii*) Subsistence stationary gillnet gear may not be set within 200 feet of other subsistence stationary gear.
 
-*(1)* Only one community gillnet can be operated on the Kasilof River. The gillnet cannot be over 10 fathoms in length, and may not obstruct more than half of the river width with stationary fishing gear. Subsistence stationary gillnet gear may not be set within 200 feet of other subsistence stationary gear.
+(*iii*) The gillnet may be operated as a set gillnet in a fixed location, as a pole-net system drifted through an area while wading, or as a drift net from a boat.
 
-*(2)* One registration permit will be available and will be awarded by the Federal in-season fishery manager, in consultation with the Kenai National Wildlife Refuge manager, based on the merits of the operational plan. The registration permit will be issued to an organization that, as the community gillnet owner, will be responsible for its use in consultation with the Federal fishery manager. The experimental community gillnet will be subject to compliance with Kenai National Wildlife Refuge regulations and restrictions.
+(*3*) One registration permit will be available and will be issued by the Federal in-season fishery manager, in consultation with the Kenai National Wildlife Refuge manager, to the Ninilchik Traditional Council. As the community gillnet owner, the Ninilchik Traditional Council will be responsible for its use and removal in consultation with the Federal in-season manager. As part of the permit, after the season, the Ninilchik Traditional Council must provide written documentation of required evaluation information to the Federal fishery manager including, but not limited to:
 
-*(i)* Prior to the season, provide a written operational plan to the Federal fishery manager including a description of fishing method, mesh size requirements, fishing time and location, and how fish will be offered and distributed among households and residents of Ninilchik;
+(*i*) Persons or households operating the gear;
 
-*(ii)* After the season, provide written documentation of required evaluation information to the Federal fishery manager including, but not limited to, persons or households operating the gear, hours of operation, and number of each species caught and retained or released.
+(*ii*) Hours of operation; and
 
-*(3)* The gillnet owner (organization) may operate the net for subsistence purposes on behalf of residents of Ninilchik by requesting a subsistence fishing permit that:
+(*iii*) Number of each species caught and retained or released.
 
-*(i)* Identifies a person who will be responsible for fishing the gillnet;
+(*4*) The community gillnet is subject to compliance with applicable Kenai National Wildlife Refuge regulations and restrictions.
 
-*(ii)* Includes provisions for recording daily catches, the household to whom the catch was given, and other information determined to be necessary for effective resource management by the Federal fishery manager.
+(*5*) The Ninilchik Traditional Council may operate the net for subsistence purposes on behalf of residents of Ninilchik by requesting a subsistence fishing permit that:
 
-*(4)* Fishing for Sockeye, Chinook, Coho and Pink salmon will be closed by Federal Special Action prior to the operational plan end dates if the annual total harvest limits for any salmon species is reached or suspended.
+(*i*) Identifies a person who will be responsible for fishing the gillnet; and
 
-*(5)* Salmon taken in the gillnet fishery will be included as part of dip net/rod and reel fishery annual total harvest limits for the Kasilof River. All fish harvested must be reported to the in-season manager within 72 hours of leaving the fishing location.
+(*ii*) Includes provisions for recording daily catches within 72 hours, the household to whom the catch was given, and other information determined to be necessary for effective resource management by the Federal in-season manager.
 
-*(i)* A portion of the total annual harvest limits for the Kasilof River will be allocated to the experimental community gillnet fishery.
+(*6*) Residents of Ninilchik may retain other species incidentally caught in the Kasilof River community gillnet fishery. The gillnet fishery will be closed when the retention of rainbow or steelhead trout has been restricted under Federal subsistence regulations.
 
-*(ii)* The gillnet fishery will be closed once the allocation limit is reached.
+(D) *Tustumena Lake rod and reel; salmon.*
 
-*(6)* Salmon taken in the experimental community gillnet fishery will be included as part of the dip net/rod and reel fishery annual household limits for the Kasilof River.
+(*1*) In addition to the dip net and rod and reel fishery on the upper mainstem of the Kasilof River described under paragraph (e)(10)(ii)(A)(*1*) of this section, residents of Ninilchik may also take coho and pink salmon through a rod and reel fishery in Tustumena Lake. Fishing is allowed with up to two baited single or treble hooks.
 
-*(7)* Residents of Ninilchik may retain other species incidentally caught in the Kasilof River. When the retention of rainbow/steelhead trout has been restricted under Federal subsistence regulations, the gillnet fishery will be closed.
+(*2*) Seasons, areas, harvest and possession limits, and methods and means for take are the same as for the taking of these species under Alaska sport fishing regulations (5 AAC 56), except for the following harvest and possession limits:
 
-*(8)* Before leaving the site, all harvested fish must be marked by removing their dorsal fin, and all retained fish must be recorded on the fishing permit.
+|  Species  |        Size        |            Limits            |
+|-----------|--------------------|------------------------------|
+|Coho salmon|16 inches and longer|4 per day and 4 in possession.|
+|Pink salmon|16 inches and longer|6 per day and 6 in possession.|
 
-*(9)* Failure to respond to reporting requirements or return the completed harvest permit by the due date listed on the permit may result in issuance of a violation notice and will make you ineligible to receive a subsistence permit during the following regulatory year.
+(E) *Kasilof drainage rod and reel; resident species.* Resident fish species including lake trout, rainbow or steelhead trout, and Dolly Varden or Arctic char may be harvested by rod and reel in Federally managed waters of the Kasilof River drainage the entire year as follows:
 
-(J) Residents of Ninilchik may harvest sockeye, Chinook, coho, and pink salmon in the Federal public waters of the Kenai River with a single gillnet to be managed and operated by the Ninilchik Traditional Council. Ninilchik residents may retain other species incidentally caught in the Kenai River except for rainbow trout and Dolly Varden; all rainbow trout and Dolly Varden must be released.
+|          Species           |          Specifications          |             Limits             |
+|----------------------------|----------------------------------|--------------------------------|
+|         Lake trout         |    Fish 20 inches and longer     | 4 per day and 4 in possession. |
+|                            |Fish less than 20 inches in length|15 per day and 15 in possession.|
+|Dolly Varden and Arctic char|        In flowing waters         | 4 per day and 4 in possession. |
+|                            |        In lakes and ponds        |10 per day and 10 in possession.|
+| Rainbow or steelhead trout |        In flowing waters         | 2 per day and 2 in possession. |
+|                            |        In lakes and ponds        | 5 per day and 5 in possession. |
 
-*(1)* Only one community gillnet can be operated on the Kenai River. The gillnet cannot be over 10 fathoms in length, must be no larger than 5.25-inch mesh, and may not obstruct more than half of the river width with stationary fishing gear. Subsistence stationary gillnet gear may not be set within 200 feet of other subsistence stationary gear.
+(F) *Tustumena Lake under ice fishery; resident species.*
 
-*(2)* One registration permit will be available and will be awarded by the Federal in-season fishery manager, in consultation with the Kenai National Wildlife Refuge manager. The registration permit will be issued to the Ninilchik Traditional Council.
+(*1*) You may fish in Tustumena Lake with a gillnet under the ice, or with jigging gear used through the ice. The gillnet may not be longer than 10 fathoms.
 
-*(i)* As the community gillnet owner, the Ninilchik Traditional Council will be responsible for its use and removal in consultation with the Federal fishery manager.
+(*2*) Harvest limits are as follows:
 
-*(ii)* As part of the permit, after the season, the Ninilchik Traditional Council must provide written documentation of required evaluation information to the Federal fishery manager including, but not limited to, persons or households operating the gear, hours of operation, and number of each species caught and retained or released.
+|          Methods           |                                                      Limits                                                      |                                          Additional provisions                                           |
+|----------------------------|------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|
+|Jigging gear through the ice|Household annual limit of 30 fish in any combination of lake trout, rainbow trout, and Dolly Varden or Arctic char|                 Household limits are included in the overall total annual harvest quota.                 |
+|   Gillnet under the ice    |       Total annual harvest quota of 200 lake trout, 200 rainbow trout, and 500 Dolly Varden or Arctic char       |The Federal in-season manager will issue a closure for this fishery once any of these quotas has been met.|
 
-*(3)* The Ninilchik Traditional Council may operate the net for subsistence purposes on behalf of residents of Ninilchik by requesting a subsistence fishing permit that:
+(*3*) You may harvest fish under the ice only in Tustumena Lake. Gillnets are not allowed within a1/4 mile radius of the mouth of any tributary to Tustumena Lake, or the outlet of Tustumena Lake.
 
-*(i)* Identifies a person who will be responsible for fishing the gillnet;
+(*4*) A permit is required. The permit will be issued by the Federal in-season manager or designated representative and will be valid for the winter season unless the season is closed by special action.
 
-*(ii)* Includes provisions for recording daily catches within 72 hours, the household to whom the catch was given, and other information determined to be necessary for effective resource management by the Federal fishery manager.
+(*i*) The permittee must report the following information: The number of each species caught; the number of each species retained; the length, depth (number of meshes deep), and mesh size of gillnet fished; the fishing site; and the total hours fished.
 
-*(4)* Fishing will be allowed from July 1 through August 15 and September 10-30 on the Kenai River unless closed or otherwise restricted by Federal special action.
+(*ii*) The gillnet must be checked at least once in every 48-hour period.
 
-*(5)* Salmon taken in the gillnet fishery will be included as part of the dip net/rod and reel household annual limits for the Kenai River of participating households.
+(*iii*) For unattended gear, the permittee's name and address must be plainly and legibly inscribed on a stake at one end of the gillnet.
 
-*(6)* Fishing for each salmon species will end and the fishery will be closed by Federal special action prior to regulatory end dates if the annual total harvest limit for that species is reached or superseded by Federal special action.
+(*5*) Incidentally caught fish may be retained and must be recorded on the permit before transporting fish from the fishing site.
+
+(*6*) Failure to return the completed harvest permit by May 31 may result in issuance of a violation notice and/or denial of a future subsistence permit.
+
+(iii) *Seasons, harvest limits, and methods and means for Kenai River fisheries.* Household annual limits for salmon in Kenai River fisheries are as follows:
+
+|                       Species                       |Number of fish  <br/>allowed for each  <br/>permit holder|Additional fish  <br/>allowed for each household member|                                         Additional provisions                                          |
+|-----------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+|                   Sockeye salmon                    |                           25                            |                           5                           |      Chum salmon that are retained are to be included within the annual limit for sockeye salmon.      |
+| Chinook salmon - Early-run (July 1 through July 15) |                            2                            |                           1                           |For the Kenai River community gillnet fishery described under paragraph (e)(10)(iii)(B) of this section.|
+|Chinook salmon - Late-run (July 16 through August 31)|                           10                            |                           2                           |                                                                                                        |
+|                     Coho salmon                     |                           20                            |                           5                           |                                                                                                        |
+|                     Pink salmon                     |                           15                            |                           5                           |                                                                                                        |
+
+(A) *Kenai River dip net or rod and reel; salmon.*
+
+(*1*) You may take only sockeye salmon through a dip net or rod and reel fishery at one specified site on the Russian River.
+
+(*i*) For the Russian River fishing site, incidentally caught fish may be retained for subsistence uses, except for early- and late-run Chinook salmon, coho salmon, rainbow trout, and Dolly Varden, which must be released.
+
+(*ii*) At the Russian River Falls site, dip netting is allowed from a Federal regulatory marker near the upstream end of the fish ladder at Russian River Falls downstream to a Federal regulatory marker approximately 600 yards below Russian River Falls. Residents using rod and reel gear at this fishery site may not fish with bait at any time.
+
+(*2*) You may take sockeye, late-run Chinook, coho, and pink salmon through a dip net or rod and reel fishery at two specified sites on the Kenai River below Skilak Lake and as provided in this section.
+
+(*i*) For both Kenai River fishing sites below Skilak Lake, incidentally caught fish may be retained for subsistence uses, except for early-run Chinook salmon (unless otherwise provided for in this section), rainbow trout 18 inches or longer, and Dolly Varden 18 inches or longer, which must be released.
+
+(*ii*) At the Kenai River Moose Range Meadows site, dip netting is allowed only from a boat from a Federal regulatory marker on the Kenai River at about river mile 29 downstream approximately 2.5 miles to another marker on the Kenai River at about river mile 26.5. Residents using rod and reel gear at this fishery site may fish from boats or from shore with up to two baited single or treble hooks June 15 through August 31.
+
+(*iii*) At the Kenai River mile 48 site, dip netting is allowed while either standing in the river or from a boat, from Federal regulatory markers on both sides of the Kenai River at about river mile 48 (approximately 2 miles below the outlet of Skilak Lake) downstream approximately 2.5 miles to a marker on the Kenai River at about river mile 45.5. Residents using rod and reel gear at this fishery site may fish from boats or from shore with up to two baited single or treble hooks June 15 through August 31.
+
+(*3*) Fishing seasons are as follows:
+
+|        Species        |       Season       |       Location        |
+|-----------------------|--------------------|-----------------------|
+|    Sockeye salmon     | June 15-August 15  |   All three sites.    |
+|Late-run Chinook salmon|July 16-September 30|Kenai River sites only.|
+|      Pink salmon      |July 16-September 30|Kenai River sites only.|
+|      Coho salmon      |July 16-September 30|Kenai River sites only.|
+
+(B) *Kenai River gillnet; salmon.*
+
+(*1*) Residents of Ninilchik may harvest sockeye, Chinook, coho, and pink salmon in the Moose Range Meadows area of the Federal public waters of the Kenai River with a single gillnet to be managed and operated by the Ninilchik Traditional Council.
+
+(*2*) Fishing will be allowed July 1 through August 15 and September 10-30 on the Kenai River unless closed or otherwise restricted by Federal special action. The following conditions apply to harvest in the Kenai River community gillnet fishery:
+
+(*i*) Salmon taken in this fishery will be included as household annual limits of participating households.
+
+(*ii*) The Ninilchik Traditional Council will report all harvested fish within 72 hours of leaving the gillnet location.
+
+(*iii*) Additional harvest restrictions for this fishery are as follows:
+
+|                                         Species                                          |               Period                |                                                                                                                               Harvest                                                                                                                                |                                                                                        Fishery limits                                                                                         |
+|------------------------------------------------------------------------------------------|-------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                      Sockeye salmon                                      |July 1-August 15 and September 10-30 |                                                                                                                                                                                                                                                                      |                                                                                                                                                                                               |
+|Early-run Chinook salmon less than 46 inches in length or greater than 55 inches in length|              July 1-15              |Fish may be retained if the most current preseason forecast from the State of Alaska Department of Fish and Game projects the in-river run to be within or above the optimal escapement goal range for early-run Chinook salmon; otherwise, live fish must be released|                                               Fishery will close until July 16 once 50 early-run Chinook salmon have been retained or released.                                               |
+|                                 Late-run Chinook salmon                                  |          July 16-August 15          |                                                                                                                                                                                                                                                                      |Fishery will close prior to August 15 if 200 late-run Chinook salmon have been retained or released prior to that date. Fishery will reopen September 10-30 for species available at that time.|
+|                                       Pink salmon                                        |July 16-August 15 and September 10-30|                                                                                                                                                                                                                                                                      |                                                                                                                                                                                               |
+|                                       Coho salmon                                        |July 16-August 15 and September 10-30|                                                                                                                                                                                                                                                                      |                                                                                                                                                                                               |
+|                    Incidentally caught rainbow trout and Dolly Varden                    |                                     |                                                                                                 All live fish must be released. Fish that die in net may be retained                                                                                                 |                                         Fishery will close for the season once 100 rainbow trout or 150 Dolly Varden have been released or retained.                                          |
+
+(*iv*) Chinook salmon less than 20 inches in length may be retained and do not count towards retained or released totals.
+
+(*v*) Other incidentally caught species may be retained; however, all incidental fish mortalities, except for Chinook salmon less than 20 inches in length, count towards released or retained totals specified in this section.
+
+(*3*) Only one community gillnet may be operated on the Kenai River.
+
+(*i*) The gillnet may not: Be over 10 fathoms in length to take salmon; be larger than 5.25-inch mesh; and obstruct more than half of the river width with stationary fishing gear.
+
+(*ii*) Subsistence stationary gillnet gear may not be set within 200 feet of other subsistence stationary gear.
+
+(*4*) One registration permit will be available and will be issued by the Federal in-season manager, in consultation with the Kenai National Wildlife Refuge manager, to the Ninilchik Traditional Council. As the community gillnet owner, the Ninilchik Traditional Council will be responsible for its use and removal in consultation with the Federal in-season manager. As part of the permit, the Ninilchik Traditional Council must provide post-season written documentation of required evaluation information to the Federal in-season manager including, but not limited to:
+
+(*i*) Persons or households operating the gear;
+
+(*ii*) Hours of operation; and
+
+(*iii*) Number of each species caught and retained or released.
+
+(*5*) The Ninilchik Traditional Council may operate the net for subsistence purposes on behalf of residents of Ninilchik by requesting a subsistence fishing permit that:
+
+(*i*) Identifies a person who will be responsible for fishing the gillnet; and
+
+(*ii*) Includes provisions for recording daily catches, the household to whom the catch was given, and other information determined to be necessary for effective resource management by the Federal in-season manager.
+
+(C) *Kenai River rod and reel only; salmon.*
+
+(*1*) For Federally managed waters of the Kenai River and its tributaries, you may take sockeye, Chinook, coho, pink, and chum salmon through a separate rod and reel fishery in the Kenai River drainage.
+
+(*2*) Seasons, areas, harvest and possession limits, and methods and means for take are the same as for the taking of these salmon species under State of Alaska fishing regulations (5 AAC 56, 5 AAC 57 and 5 AAC 77.540), except for the following harvest and possession limits:
+
+|                       Species                        |                   Size                    |                                                                                                          Limits                                                                                                           |
+|------------------------------------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Chinook salmon - Early-run (January 1 through July 15)|Less than 46 inches or 55 inches and longer|                                                                                              2 per day and 2 in possession.                                                                                               |
+|Chinook salmon - Late-run (July 16 through August 31) |           20 inches and longer            |                                                                                              2 per day and 2 in possession.                                                                                               |
+|                   All other salmon                   |           16 inches and longer            |6 per day and 6 in possession, of which no more than 4 per day and 4 in possession may be Coho salmon, except for the Sanctuary Area and Russian River where no more than 2 per day and 2 in possession may be Coho salmon.|
+
+(*i*) In the Kenai River below Skilak Lake, fishing is allowed with up to two baited single or treble hooks June 15 through August 31.
+
+(*ii*) Annual harvest limits for any combination of early- and late-run Chinook salmon are four for each permit holder.
+
+(*iii*) Incidentally caught fish, other than salmon, are subject to regulations found in paragraph (e)(10)(iii)(D) of this section.
+
+(D) *Kenai River and tributaries under ice jigging and rod and reel; resident species.*
+
+(*1*) For Federally managed waters of the Kenai River and its tributaries below Skilak Lake outlet at river mile 50, you may take resident fish species including lake trout, rainbow trout, and Dolly Varden or Arctic char with jigging gear through the ice or rod and reel gear in open waters. Seasons, areas, harvest and possession limits, and methods and means for take are the same as for the taking of these resident species under State of Alaska fishing regulations (5 AAC 56, 5 AAC 57, and 5 AAC 77.540), except for the following harvest and possession limits:
+
+|          Species          |  Specifications   |                                               Limits                                               |
+|---------------------------|-------------------|----------------------------------------------------------------------------------------------------|
+|        Lake trout         |20 inches or longer|                                   4 per day and 4 in possession.                                   |
+|                           |Less than 20 inches|                                  15 per day and 15 in possession.                                  |
+|Dolly Varden or Arctic char| In flowing waters |                    For fish less than 18 inches, 1 per day and 1 in possession.                    |
+|                           |In lakes and ponds |2 per day and 2 in possession, of which only one may be 20 inches or longer, may be harvested daily.|
+|Rainbow or steelhead trout | In flowing waters |               For fish less than 18 inches in length, 1 per day and 1 in possession.               |
+|                           |In lakes and ponds | 2 per day and 2 in possession, of which only one fish 20 inches or longer may be harvested daily.  |
+
+(*2*) For Federally managed waters of the upper Kenai River and its tributaries above Skilak Lake outlet at river mile 50, you may take resident fish species including lake trout, rainbow trout, and Dolly Varden or Arctic char with jigging gear through the ice or rod and reel gear in open waters. Seasons, areas, harvest and possession limits, and methods and means for take are the same as for the taking of these resident species under Alaska fishing regulations (5 AAC 56, 5 AAC 57, 5 AAC 77.540), except for the following harvest and possession limits:
+
+|          Species          |  Specifications   |                                             Limits                                              |
+|---------------------------|-------------------|-------------------------------------------------------------------------------------------------|
+|        Lake trout         |20 inches or longer|                                 4 per day and 4 in possession.                                  |
+|                           |Less than 20 inches|                                15 per day and 15 in possession.                                 |
+|                           | From Hidden Lake  |                       2 per day and 2 in possession regardless of length.                       |
+|Dolly Varden or Arctic char| In flowing waters |             For fish less than 16 inches in length, 1 per day and 1 in possession.              |
+|                           |In lakes and ponds |2 per day and 2 in possession, of which only one fish 20 inches or longer may be harvested daily.|
+|Rainbow or steelhead trout | In flowing waters |             For fish less than 16 inches in length, 1 per day and 1 in possession.              |
+|                           |In lakes and ponds |2 per day and 2 in possession, of which only one fish 20 inches or longer may be harvested daily.|
 
 (11) *Prince William Sound Area.* The Prince William Sound Area includes all waters and drainages of Alaska between the longitude of Cape Fairfield and the longitude of Cape Suckling.
 
@@ -892,4 +974,4 @@ If you take rainbow/steelhead trout incidentally in other subsistence net fisher
 
 (xxi) The Federal public waters in the Makhnati Island area, as defined in § 242.3(b)(5) are closed to the harvest of herring and herring spawn except by Federally qualified users.
 
-[78 FR 19112, Mar. 29, 2013, as amended at 80 FR 28192, May 18, 2015; 83 FR 3084, Jan. 23, 2018]
+[78 FR 19112, Mar. 29, 2013, as amended at 80 FR 28192, May 18, 2015; 83 FR 3084, Jan. 23, 2018; 84 FR 39191, Aug. 9, 2019]

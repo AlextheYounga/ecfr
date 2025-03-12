@@ -2,7 +2,7 @@
 
                                                                                                             As prescribed in 225.7017-4(a), use the following clause:
 
-                                                                                                            Photovoltaic Devices (DEC 2018)
+                                                                                                            Photovoltaic Devices (AUG 2019)
 
                                                                                                             (a) *Definitions.* As used in this clause -
 
@@ -22,7 +22,7 @@
 
                                                                                                             *Designated country* means -
 
-                                                                                                            (1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan (known in the World Trade Organization as “the Separate Customs Territory of Taiwan, Penghu, Kinmen, and Matsu” (Chinese Taipei)), Ukraine, or the United Kingdom);
+                                                                                                            (1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan (known in the World Trade Organization as “the Separate Customs Territory of Taiwan, Penghu, Kinmen, and Matsu” (Chinese Taipei)), Ukraine, or the United Kingdom);
 
                                                                                                             (2) A Free Trade Agreement country (Australia, Bahrain, Canada, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Panama, Peru, or Singapore);
 
@@ -110,4 +110,4 @@
 
 (5) $180,000 or more, then the Contractor shall utilize under this contract only U.S.-made, designated country, or qualifying country photovoltaic devices.
 
-(End of clause)[76 FR 78861, Dec. 20, 2011, as amended at 77 FR 13013, Mar. 5, 2012; 77 FR 30357, 30361, May 22, 2012; 77 FR 31537, May 29, 2012; 77 FR 38737, June 29, 2012; 77 FR 52254, Aug. 29, 2012; 77 FR 68700, Nov. 16, 2012; 77 FR 76942, Dec. 31, 2012; 78 FR 48334, Aug. 8, 2013; 78 FR 65221, Oct. 31, 2013; 78 FR 76995, Dec. 20, 2013; 78 FR 79621, Dec. 31, 2013; 80 FR 36905, June 26, 2015; 80 FR 67254, Oct. 30, 2015; 80 FR 72604, Nov. 20, 2015; 80 FR 81471, Dec. 30, 2015; 81 FR 42563, June 30, 2016; 81 FR 50651, Aug. 2, 2016; 81 FR 65568, Sept. 23, 2016; 81 FR 93841, Dec. 22, 2016; 82 FR 61483; 82 FR 61484, Dec. 28, 2017; 83 FR 62500, Dec. 4, 2018]
+(End of clause)[76 FR 78861, Dec. 20, 2011, as amended at 77 FR 13013, Mar. 5, 2012; 77 FR 30357, 30361, May 22, 2012; 77 FR 31537, May 29, 2012; 77 FR 38737, June 29, 2012; 77 FR 52254, Aug. 29, 2012; 77 FR 68700, Nov. 16, 2012; 77 FR 76942, Dec. 31, 2012; 78 FR 48334, Aug. 8, 2013; 78 FR 65221, Oct. 31, 2013; 78 FR 76995, Dec. 20, 2013; 78 FR 79621, Dec. 31, 2013; 80 FR 36905, June 26, 2015; 80 FR 67254, Oct. 30, 2015; 80 FR 72604, Nov. 20, 2015; 80 FR 81471, Dec. 30, 2015; 81 FR 42563, June 30, 2016; 81 FR 50651, Aug. 2, 2016; 81 FR 65568, Sept. 23, 2016; 81 FR 93841, Dec. 22, 2016; 82 FR 61483; 82 FR 61484, Dec. 28, 2017; 83 FR 62500, Dec. 4, 2018; 84 FR 39208, Aug. 9, 2019]

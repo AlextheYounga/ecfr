@@ -1,5 +1,7 @@
 ##### § 52.80 Contents of applications; additional technical information. #####
 
+Link to an amendment published at 84 FR 39719, Aug. 9, 2019.
+
 The application must contain:
 
 (a) The proposed inspections, tests, and analyses, including those applicable to emergency planning, that the licensee shall perform, and the acceptance criteria that are necessary and sufficient to provide reasonable assurance that, if the inspections, tests, and analyses are performed and the acceptance criteria met, the facility has been constructed and will be operated in conformity with the combined license, the provisions of the Act, and the Commission's rules and regulations.

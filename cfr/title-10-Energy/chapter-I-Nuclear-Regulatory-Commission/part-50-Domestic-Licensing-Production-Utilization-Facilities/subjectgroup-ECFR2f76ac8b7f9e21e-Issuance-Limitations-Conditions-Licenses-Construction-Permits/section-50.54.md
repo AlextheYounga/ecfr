@@ -1,5 +1,7 @@
 ##### § 50.54 Conditions of licenses. #####
 
+Link to an amendment published at 84 FR 39718, August 9, 2019.
+
 The following paragraphs of this section, with the exception of paragraphs (r) and (gg), and the applicable requirements of 10 CFR 50.55a, are conditions in every nuclear power reactor operating license issued under this part. The following paragraphs with the exception of paragraph (r), (s), and (u) of this section are conditions in every combined license issued under part 52 of this chapter, provided, however, that paragraphs (i) introductory text, (i)(1), (j), (k), (l), (m), (n), (w), (x), (y), (z), and (hh) of this section are only applicable after the Commission makes the finding under § 52.103(g) of this chapter.
 
 (a)(1) Each nuclear power plant or fuel reprocessing plant licensee subject to the quality assurance criteria in appendix B of this part shall implement, under § 50.34(b)(6)(ii) or § 52.79 of this chapter, the quality assurance program described or referenced in the safety analysis report, including changes to that report. However, a holder of a combined license under part 52 of this chapter shall implement the quality assurance program described or referenced in the safety analysis report applicable to operation 30 days prior to the scheduled date for the initial loading of fuel.

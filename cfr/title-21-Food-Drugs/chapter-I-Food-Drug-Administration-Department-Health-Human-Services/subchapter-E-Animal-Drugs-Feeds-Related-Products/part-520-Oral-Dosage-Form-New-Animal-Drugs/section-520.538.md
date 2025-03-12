@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Each tablet contains 12, 25, 50, 75, or 100 milligrams (mg) deracoxib.
 
-(b) *Sponsor.* See No. 058198 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See Nos. 013744 and 058198 in § 510.600(c) of this chapter.
 
 (c) [Reserved]
 
@@ -22,4 +22,4 @@
 
 (3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[67 FR 68760, Nov. 13, 2002, as amended at 68 FR 18882, Apr. 17, 2003; 72 FR 37437, July 10, 2007; 73 FR 33692, June 13, 2008; 77 FR 3928, Jan. 26, 2012]
+[67 FR 68760, Nov. 13, 2002, as amended at 68 FR 18882, Apr. 17, 2003; 72 FR 37437, July 10, 2007; 73 FR 33692, June 13, 2008; 77 FR 3928, Jan. 26, 2012; 84 FR 39183, Aug. 9, 2019]

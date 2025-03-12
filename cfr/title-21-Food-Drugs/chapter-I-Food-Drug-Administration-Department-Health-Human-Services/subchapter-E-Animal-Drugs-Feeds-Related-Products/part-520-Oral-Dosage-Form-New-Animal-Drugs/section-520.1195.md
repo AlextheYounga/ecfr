@@ -6,11 +6,11 @@
 
 (b) *Sponsors.* See sponsor numbers in § 510.600(c) of this chapter.
 
-(1) Nos. 000859, 050604, 054925, and 058005 for use of product described in paragraph (a)(1) of this section as in paragraphs (e)(1)(i), (e)(1)(ii)(A), and (e)(1)(iii) of this section.
+(1) Nos. 000010, 000859, 054925, and 058005 for use of product described in paragraph (a)(1) of this section as in paragraphs (e)(1)(i), (e)(1)(ii)(A), and (e)(1)(iii) of this section.
 
 (2) No. 058829 for use of product described in paragraph (a)(1) of this section as in paragraphs (e)(1)(i), (e)(1)(ii)(B), and (e)(1)(iii) of this section.
 
-(3) Nos. 050604 and 058829 for use of product described in paragraph (a)(2) of this section as in paragraph (e)(2) of this section.
+(3) Nos. 000010 and 058829 for use of product described in paragraph (a)(2) of this section as in paragraph (e)(2) of this section.
 
 (c) *Related tolerances.* See § 556.344 of this chapter.
 
@@ -32,4 +32,4 @@
 
 (iii) *Limitations.* For use in sheep only. Do not use in other animal species as severe adverse reactions, including fatalities in dogs, may result. Do not treat sheep within 11 days of slaughter.
 
-[67 FR 50597, Aug. 5, 2002, as amended at 69 FR 57173, Sept. 24, 2004; 71 FR 13542, Mar. 16, 2006; 71 FR 38072, July 5, 2006; 72 FR 9456, Feb. 21, 2008; 78 FR 17596, Mar. 22, 2013; 79 FR 10964, Feb. 27, 2014]
+[67 FR 50597, Aug. 5, 2002, as amended at 69 FR 57173, Sept. 24, 2004; 71 FR 13542, Mar. 16, 2006; 71 FR 38072, July 5, 2006; 72 FR 9456, Feb. 21, 2008; 78 FR 17596, Mar. 22, 2013; 79 FR 10964, Feb. 27, 2014; 84 FR 39183, Aug. 9, 2019]

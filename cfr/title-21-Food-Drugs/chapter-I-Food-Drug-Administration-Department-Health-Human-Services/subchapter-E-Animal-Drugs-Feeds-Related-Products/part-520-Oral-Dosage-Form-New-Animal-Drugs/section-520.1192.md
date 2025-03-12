@@ -4,7 +4,7 @@
 
 (b) *Sponsors.* See sponsors in § 510.600(c) of this chapter for use as in paragraph (e) of this section:
 
-(1) No. 050604 for use of a 1.87 percent paste as in (e)(1) of this section and a 0.153 percent paste for use as in paragraph (e)(2) of this section.
+(1) No. 000010 for use of a 1.87 percent paste as in (e)(1) of this section and a 0.153 percent paste for use as in paragraph (e)(2) of this section.
 
 (2) Nos. 000859, 051311, 054925, and 061133 for use of a 1.87 percent paste for use as in paragraph (e)(1) of this section.
 
@@ -24,4 +24,4 @@
 
 (iii) *Limitations.* For oral use only. Do not treat cattle within 24 days of slaughter. Because withdrawal time in milk has not been established, do not use in female dairy cattle of breeding age.
 
-[49 FR 22275, May 29, 1984, as amended at 50 FR 27819, July 8, 1985; 51 FR 44449, Dec. 10, 1986; 53 FR 51273, Dec. 21, 1988; 62 FR 63270, Nov. 28, 1997; 65 FR 70661, Nov. 27, 2000; 67 FR 71820, Dec. 3, 2002; 68 FR 43294, July 22, 2003; 69 FR 59131, Oct. 4, 2004; 70 FR 8514, Feb. 22, 2005; 71 FR 40010, July 14, 2006; 71 FR 67298, Nov. 21, 2006; 73 FR 34184, June 17, 2008; 74 FR 6542, Feb. 10, 2009; 78 FR 17596, Mar. 22, 2013; 84 FR 8972, Mar. 13, 2019]
+[49 FR 22275, May 29, 1984, as amended at 50 FR 27819, July 8, 1985; 51 FR 44449, Dec. 10, 1986; 53 FR 51273, Dec. 21, 1988; 62 FR 63270, Nov. 28, 1997; 65 FR 70661, Nov. 27, 2000; 67 FR 71820, Dec. 3, 2002; 68 FR 43294, July 22, 2003; 69 FR 59131, Oct. 4, 2004; 70 FR 8514, Feb. 22, 2005; 71 FR 40010, July 14, 2006; 71 FR 67298, Nov. 21, 2006; 73 FR 34184, June 17, 2008; 74 FR 6542, Feb. 10, 2009; 78 FR 17596, Mar. 22, 2013; 84 FR 8972, Mar. 13, 2019; 84 FR 39183, Aug. 9, 2019]

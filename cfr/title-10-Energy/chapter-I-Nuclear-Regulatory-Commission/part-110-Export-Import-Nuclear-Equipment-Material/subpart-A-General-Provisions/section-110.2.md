@@ -224,4 +224,4 @@ The definition of *radioactive waste* in this part does not include spent or irr
 
 (3) A utilization facility does not include the steam turbine generator portion of a nuclear power plant.
 
-[43 FR 21691, May 19, 1978]Editorial Note:For Federal Register citations affecting § 110.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*
+[43 FR 21691, May 19, 1978]Editorial Note:For Federal Register citations affecting § 110.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

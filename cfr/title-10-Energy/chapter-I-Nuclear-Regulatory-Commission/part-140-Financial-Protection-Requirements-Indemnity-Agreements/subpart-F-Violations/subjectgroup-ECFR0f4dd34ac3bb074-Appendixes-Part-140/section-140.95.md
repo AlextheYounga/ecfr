@@ -1,6 +1,6 @@
-##### § 140.95 Appendix E - Form of indemnity agreement with nonprofit educational institutions. #####
+##### § 140.95 Appendix E—Form of indemnity agreement with nonprofit educational institutions. #####
 
-This indemnity agreement No. E-\_\_\_ is entered into by and between the \_\_\_\_ (hereinafter referred to as the *licensee*) and the United States Nuclear Regulatory Commission (hereinafter referred to as the *Commission*) pursuant to subsection 170(k) of the Atomic Energy Act of 1954, as amended (hereinafter referred to as *the Act*).
+This indemnity agreement No. E-\_\_\_\_\_\_ is entered into by and between the \_\_\_\_\_\_\_\_ (hereinafter referred to as the *licensee*) and the United States Nuclear Regulatory Commission (hereinafter referred to as the *Commission*) pursuant to subsection 170(k) of the Atomic Energy Act of 1954, as amended (hereinafter referred to as *the Act*).
 
 Article I
 
@@ -126,12 +126,12 @@ Article VII
 
 The term of this agreement shall commence as of the date and time specified in Item 4 of the Attachment and shall terminate at the time of expiration of that license specified in Item 2 of the Attachment, which is the last to expire; provided that, except as may otherwise be provided in applicable regulations or orders of the Commission, the term of this agreement shall not terminate until all the radioactive material has been removed from the location and transportation of the radioactive material from the location has ended as defined in subparagraph 4(b), Article I. Termination of the term of this agreement shall not affect any obligation of the licensee or any obligation of the Commission under this agreement with respect to any nuclear incident occurring during the term of this agreement.
 
-United States Nuclear Regulatory Commission Indemnity Agreement No. E-\_\_attachmentItem 1 - Licensee \_\_\_\_\_\_\_\_\_\_\_\_\_Address \_\_\_\_\_\_\_\_\_\_\_\_\_Item 2 - License number or numbers \_\_\_Item 3 - Location \_\_\_\_\_\_\_\_\_\_\_\_\_Item 4 - The indemnity agreement designated above, of which this Attachment is a part, is effective as of \_\_\_ m., on the \_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_, 19\_\_.
+United States Nuclear Regulatory Commission Indemnity Agreement No. E-\_\_\_\_attachmentItem 1—Licensee \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Address \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Item 2—License number or numbers \_\_\_\_\_\_Item 3—Location \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Item 4—The indemnity agreement designated above, of which this Attachment is a part, is effective as of \_\_\_\_\_\_ m., on the \_\_\_\_\_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.
 
 For the United States Nuclear Regulatory Commission.
 
-By \_\_\_\_\_\_\_\_\_\_\_\_\_\_For the \_\_\_\_\_\_\_\_\_\_\_\_\_\_By \_\_\_\_\_\_\_\_\_\_\_\_\_\_(Name of licensee)
+By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_For the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Name of licensee)
 
-Dated at Bethesda, MD, the \_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_, 19\_\_.
+Dated at Bethesda, MD, the \_\_\_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.
 
-[27 FR 2887, Mar. 29, 1962]Editorial Note:For Federal Register citations affecting § 140.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*
+[27 FR 2887, Mar. 29, 1962]Editorial Note:For Federal Register citations affecting § 140.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

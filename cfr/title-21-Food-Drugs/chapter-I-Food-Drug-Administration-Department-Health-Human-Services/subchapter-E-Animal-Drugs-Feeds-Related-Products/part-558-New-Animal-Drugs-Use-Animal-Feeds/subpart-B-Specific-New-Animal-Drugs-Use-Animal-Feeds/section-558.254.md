@@ -1,23 +1,20 @@
 ##### § 558.254 Famphur. #####
 
-(a) *Approvals.* Type A medicated articles: 13.2 and 33.3 percent to 000061 in § 510.600(c) of this chapter.
+(a) *Specifications.* Type A medicated articles containing 13.2 or 33.3 percent famphur.
 
-(b) *Special considerations.* Famphur is a cholinesterase inhibitor. Do not use this product in animals simultaneously or within a few days before or after treatment with or exposure to cholinesterase-inhibiting drugs, pesticides, or chemicals.
+(b) *Sponsor.* See No. 000061 in § 510.600(c) of this chapter.
 
 (c) *Related tolerances.* See § 556.273 of this chapter.
 
-(d) *Conditions of use.* It is used in the feed for cattle as follows:
+(d) *Special considerations.* Famphur is a cholinesterase inhibitor. Do not use this product in animals simultaneously or within a few days before or after treatment with or exposure to cholinesterase-inhibiting drugs, pesticides, or chemicals.
 
-(1) *Amount.* 1.1 milligrams per pound body weight per day.
+(e) *Conditions of use.* It is used in cattle feed as follows:
 
-(i) *Indications for use.* For control of grubs and as an aid in control of sucking lice.
+Table 2 - Size Proxies for SRCs in 2016
 
-(ii) *Limitations.* For beef cattle and nonlactating dairy cows; feed for 30 days; withdraw from dry dairy cows and heifers 21 days prior to freshening; withdraw 4 days prior to slaughter.
+|                  Famphur in grams/ton                  |                                         Indications for use                                          |                                                       Limitations                                                        |Sponsor|
+|--------------------------------------------------------|------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|-------|
+|(i) 1.1 milligrams per pound (mg/lb) body weight per day|Beef cattle and nonlactating dairy cows: For control of grubs and as an aid in control of sucking lice|Feed for 30 days. Withdraw from dry dairy cows and heifers 21 days prior to freshening. Withdraw 4 days prior to slaughter|000061 |
+|           (ii) 2.3 mg/lb body weight per day           |                    Beef cattle and nonlactating dairy cows: For control of grubs                     |Feed for 10 days. Withdraw from dry dairy cows and heifers 21 days prior to freshening. Withdraw 4 days prior to slaughter|000061 |
 
-(2) *Amount.* 2.3 milligrams per pound body weight per day.
-
-(i) *Indications for use.* For control of grubs.
-
-(ii) *Limitations.* For beef cattle and nonlactating dairy cows; feed for 10 days; withdraw from dry dairy cows and heifers 21 days prior to freshening; withdraw 4 days prior to slaughter.
-
-[41 FR 11000, Mar. 15, 1976, as amended at 51 FR 7397, Mar. 3, 1986; 57 FR 7652, Mar. 4, 1992; 62 FR 55161, Oct. 23, 1997; 62 FR 61626, Nov. 19, 1997]
+[84 FR 39185, Aug. 9, 2019]

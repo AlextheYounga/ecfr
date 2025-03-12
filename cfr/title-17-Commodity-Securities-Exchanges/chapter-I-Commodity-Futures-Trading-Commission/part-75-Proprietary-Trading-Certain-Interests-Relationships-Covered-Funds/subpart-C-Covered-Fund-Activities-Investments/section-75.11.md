@@ -14,7 +14,11 @@
 
 (6) The covered fund, for corporate, marketing, promotional, or other purposes:
 
-(i) Does not share the same name or a variation of the same name with the banking entity (or an affiliate thereof); and
+(i) Does not share the same name or a variation of the same name with the banking entity (or an affiliate thereof), except that a covered fund may share the same name or a variation of the same name with a banking entity that is an investment adviser to the covered fund if:
+
+(A) The investment adviser is not an insured depository institution, a company that controls an insured depository institution, or a company that is treated as a bank holding company for purposes of section 8 of the International Banking Act of 1978 (12 U.S.C. 3106); and
+
+(B) The investment adviser does not share the same name or a variation of the same name as an insured depository institution, a company that controls an insured depository institution, or a company that is treated as a bank holding company for purposes of section 8 of the International Banking Act of 1978 (12 U.S.C. 3106); and
 
 (ii) Does not use the word “bank” in its name;
 
@@ -46,4 +50,4 @@
 
 (3) With respect to any banking entity, the aggregate value of all ownership interests of the banking entity and its affiliates in all covered funds acquired and retained under § 75.11, including all covered funds in which the banking entity holds an ownership interest in connection with underwriting and market making related activities permitted under paragraph (c) of this section, are included in the calculation of all ownership interests under § 75.12(a)(2)(iii) and (d).
 
-Editorial Note:At 84 FR 35022, July 22, 2019, § 75.11 was amended however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[79 FR 6048, Jan. 31, 2014, as amended at 84 FR 35022, July 22, 2019]

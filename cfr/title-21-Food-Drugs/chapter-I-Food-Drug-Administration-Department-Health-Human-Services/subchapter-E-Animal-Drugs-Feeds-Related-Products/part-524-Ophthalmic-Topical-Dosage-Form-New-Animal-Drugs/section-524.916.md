@@ -1,5 +1,7 @@
 ##### § 524.916 Fentanyl. #####
 
+Link to an amendment published at 84 FR 39184, Aug. 9, 2019.
+
 (a) *Specifications.* Each milliliter of solution contains 50 milligrams (mg) fentanyl.
 
 (b) *Sponsor.* See No. 058198 in § 510.600(c) of this chapter.

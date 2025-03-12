@@ -1,5 +1,7 @@
 ##### § 50.34 Contents of applications; technical information. #####
 
+Link to an amendment published at 84 FR 39718, August 9, 2019.
+
 (a) *Preliminary safety analysis report.* Each application for a construction permit shall include a preliminary safety analysis report. The minimum information5 to be included shall consist of the following:
 
 5 The applicant may provide information required by this paragraph in the form of a discussion, with specific references, of similarities to and differences from, facilities of similar design for which applications have previously been filed with the Commission.

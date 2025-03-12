@@ -1,6 +1,6 @@
-##### § 140.92 Appendix B - Form of indemnity agreement with licensees furnishing insurance policies as proof of financial protection. #####
+##### § 140.92 Appendix B—Form of indemnity agreement with licensees furnishing insurance policies as proof of financial protection. #####
 
-This indemnity agreement \_\_\_\_ is entered into by and between the \_\_\_\_ (hereinafter referred to as the *licensee*) and the United States Nuclear Regulatory Commission (hereinafter referred to as the *Commission*) pursuant to subsection 170c of the Atomic Energy Act of 1954, as amended (hereinafter referred to as *the Act*).
+This indemnity agreement \_\_\_\_\_\_\_\_ is entered into by and between the \_\_\_\_\_\_\_\_ (hereinafter referred to as the *licensee*) and the United States Nuclear Regulatory Commission (hereinafter referred to as the *Commission*) pursuant to subsection 170c of the Atomic Energy Act of 1954, as amended (hereinafter referred to as *the Act*).
 
 Article I
 
@@ -162,16 +162,16 @@ The following provisions are applicable to each licensee operating a facility de
 
 4. If the Commission determines that the licensee is financially able to reimburse the Commission for a deferred premium payment made in its behalf, and the licensee, after notice of such determination by the Commission fails to make such reimbursement within 120 days, the Commission will take appropriate steps to suspend the license for 30 days. The Commission may take any further action as necessary if reimbursement is not made within the 30-day suspension period including, but not limited to termination of the operating license.
 
-United States Nuclear Regulatory CommissionIndemnity Agreement No.Item 1 - LicenseeAddressItem 2 - a. Amount of financial protection
+United States Nuclear Regulatory CommissionIndemnity Agreement No.Item 1—LicenseeAddressItem 2—a. Amount of financial protection
 
 b. With respect to any nuclear incident, the amount specified in Item 2a of this Attachment shall be deemed to be (i) reduced to the extent that any payment made by the insurer or insurers under a policy or policies specified in Item 5 of this Attachment reduces the aggregate amount of such insurance policies below the amount specified in Item 2a and (ii) restored to the extent that, following such reduction, the aggregate amount of such insurance policies is reinstated.
 
-Item 3 - License number or numbersItem 4 - LocationItem 5 - Insurance Policy No.(s)Item 6 - The indemnity agreement designated above, of which this Attachment is a part, is effective as of \_ m., on the \_ day of \_\_\_\_\_\_, 19\_\_.
+Item 3—License number or numbersItem 4—LocationItem 5—Insurance Policy No.(s)Item 6—The indemnity agreement designated above, of which this Attachment is a part, is effective as of \_\_ m., on the \_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.
 
 For the United States Nuclear Regulatory Commission.
 
-By \_\_\_\_\_\_\_\_\_For the \_\_\_\_\_\_\_\_\_(Name of licensee)By \_\_\_\_\_\_\_\_\_
+By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_For the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Name of licensee)By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Dated at Bethesda, MD, the \_\_\_\_\_\_\_ day of \_\_\_\_\_\_, 19\_\_.
+Dated at Bethesda, MD, the \_\_\_\_\_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.
 
-[26 FR 3457, Apr. 22, 1961]Editorial Note:For Federal Register citations affecting § 140.92, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*
+[26 FR 3457, Apr. 22, 1961]Editorial Note:For Federal Register citations affecting § 140.92, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

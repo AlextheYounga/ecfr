@@ -74,4 +74,4 @@
 
 (k) No person may commence operation of a uranium enrichment facility until the Commission verifies through inspection that the facility has been constructed in accordance with the requirements of the license. The Commission shall publish notice of the inspection results in the Federal Register.
 
-[21 FR 764, Feb. 3, 1956]Editorial Note:For Federal Register citations affecting § 70.32, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*
+[21 FR 764, Feb. 3, 1956]Editorial Note:For Federal Register citations affecting § 70.32, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

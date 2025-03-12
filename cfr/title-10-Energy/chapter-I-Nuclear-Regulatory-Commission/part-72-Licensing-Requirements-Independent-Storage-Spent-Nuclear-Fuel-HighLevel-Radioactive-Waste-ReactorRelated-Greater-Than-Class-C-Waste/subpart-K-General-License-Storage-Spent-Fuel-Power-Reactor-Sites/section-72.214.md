@@ -1,7 +1,5 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 84 FR 21691, May 15, 2019.
-
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
 Certificate Number: 1004.
@@ -78,7 +76,63 @@ Renewed Certificate Expiration Date: January 23, 2055.
 
 Model Number: NUHOMS®-24P, -24PHB, -24PTH, -32PT, -32PTH1, -37PTH, -52B, -61BT, -61BTH, and -69BTH.
 
-Certificate Number: 1007.Initial Certificate Effective Date: May 7, 1993, superseded by Renewed Initial Certificate, on September 20, 2017.Renewed Initial Certificate Effective Date: September 20, 2017.Amendment Number 1 Effective Date: May 30, 2000, superseded by Renewed Amendment Number 1, on September 20, 2017.Renewed Amendment Number 1 Effective Date: September 20, 2017.Amendment Number 2 Effective Date: September 5, 2000, superseded by Renewed Amendment Number 2, on September 20, 2017.Renewed Amendment Number 2 Effective Date: September 20, 2017.Amendment Number 3 Effective Date: May 21, 2001, superseded by Renewed Amendment Number 3, on September 20, 2017.Renewed Amendment Number 3 Effective Date: September 20, 2017.Amendment Number 4 Effective Date: February 3, 2003, superseded by Renewed Amendment Number 4, on September 20, 2017.Renewed Amendment Number 4 Effective Date: September 20, 2017.Amendment Number 5 Effective Date: September 13, 2005, superseded by Renewed Amendment Number 5, on September 20, 2017.Renewed Amendment Number 5 Effective Date: September 20, 2017.Amendment Number 6 Effective Date: June 5, 2006, superseded by Renewed Amendment Number 6, on September 20, 2017.Renewed Amendment Number 6 Effective Date: September 20, 2017.SAR Submitted by: EnergySolutionsTM Corporation.SAR Title: Final Safety Analysis Report for the VSC-24 Ventilated Storage Cask System.Docket Number: 72-1007.Renewed Certificate Expiration Date: May 7, 2053.Model Number: VSC-24.Certificate Number: 1008.Initial Certificate Effective Date: October 4, 1999.Amendment Number 1 Effective Date: December 26, 2000.Amendment Number 2 Effective Date: May 29, 2001.SAR Submitted by: Holtec International.SAR Title: Final Safety Analysis Report for the HI-STAR 100 Cask System.Docket Number: 72-1008.Certificate Expiration Date: October 4, 2019.Model Number: HI-STAR 100.
+Certificate Number: 1007.
+
+Initial Certificate Effective Date: May 7, 1993, superseded by Renewed Initial Certificate, on September 20, 2017.
+
+Renewed Initial Certificate Effective Date: September 20, 2017.
+
+Amendment Number 1 Effective Date: May 30, 2000, superseded by Renewed Amendment Number 1, on September 20, 2017.
+
+Renewed Amendment Number 1 Effective Date: September 20, 2017.
+
+Amendment Number 2 Effective Date: September 5, 2000, superseded by Renewed Amendment Number 2, on September 20, 2017.
+
+Renewed Amendment Number 2 Effective Date: September 20, 2017.
+
+Amendment Number 3 Effective Date: May 21, 2001, superseded by Renewed Amendment Number 3, on September 20, 2017.
+
+Renewed Amendment Number 3 Effective Date: September 20, 2017.
+
+Amendment Number 4 Effective Date: February 3, 2003, superseded by Renewed Amendment Number 4, on September 20, 2017.
+
+Renewed Amendment Number 4 Effective Date: September 20, 2017.
+
+Amendment Number 5 Effective Date: September 13, 2005, superseded by Renewed Amendment Number 5, on September 20, 2017.
+
+Renewed Amendment Number 5 Effective Date: September 20, 2017.
+
+Amendment Number 6 Effective Date: June 5, 2006, superseded by Renewed Amendment Number 6, on September 20, 2017.
+
+Renewed Amendment Number 6 Effective Date: September 20, 2017.
+
+SAR Submitted by: EnergySolutionsTM Corporation.
+
+SAR Title: Final Safety Analysis Report for the VSC-24 Ventilated Storage Cask System.
+
+Docket Number: 72-1007.
+
+Renewed Certificate Expiration Date: May 7, 2053.
+
+Model Number: VSC-24.
+
+Certificate Number: 1008.
+
+Initial Certificate Effective Date: October 4, 1999.
+
+Amendment Number 1 Effective Date: December 26, 2000.
+
+Amendment Number 2 Effective Date: May 29, 2001.
+
+SAR Submitted by: Holtec International.
+
+SAR Title: Final Safety Analysis Report for the HI-STAR 100 Cask System.
+
+Docket Number: 72-1008.
+
+Certificate Expiration Date: October 4, 2019.
+
+Model Number: HI-STAR 100.
 
 Certificate Number: 1014.
 
@@ -124,60 +178,248 @@ Certificate Expiration Date: May 31, 2020.
 
 Model Number: HI-STORM 100.
 
-Certificate Number: 1021.Initial Certificate Effective Date: April 19, 2000.Amendment Number 1 Effective Date: February 20, 2001.SAR Submitted by: Transnuclear, Inc.SAR Title: Final Safety Analysis Report for the TN-32 Dry Storage Cask.Docket Number: 72-1021.Certificate Expiration Date: April 19, 2020.Model Number: TN-32, TN-32A, TN-32B.
+Certificate Number: 1015.
 
-*Certificate Number:* 1025.
+Initial Certificate Effective Date: November 20, 2000.
 
-*Initial Certificate Effective Date:* April 10, 2000.
+Amendment Number 1 Effective Date: February 20, 2001.
 
-*Amendment Number 1 Effective Date:* November 13, 2001.
+Amendment Number 2 Effective Date: December 31, 2001.
 
-*Amendment Number 2 Effective Date:* May 29, 2002.
+Amendment Number 3 Effective Date: March 31, 2004.
 
-*Amendment Number 3 Effective Date:* October 1, 2003.
+Amendment Number 4 Effective Date: October 11, 2005.
 
-*Amendment Number 4 Effective Date:* October 27, 2004.
+Amendment Number 5 Effective Date: January 12, 2009.
 
-*Amendment Number 5 Effective Date:* July 24, 2007.
+Amendment Number 6 Effective Date: January 7, 2019.
 
-*Amendment Number 6 Effective Date:* October 4, 2010.
+Amendment Number 7 Effective Date: July 29, 2019.
 
-*Amendment Number 7 Effective Date:* March 4, 2019.
+SAR Submitted by: NAC International, Inc.
 
-*Amendment Number 8 Effective Date:* March 4, 2019.
+SAR Title: Final Safety Analysis Report for the NAC-UMS Universal Storage System.
 
-*SAR Submitted by:* NAC International, Inc.
+Docket Number: 72-1015.
 
-*SAR Title:* Final Safety Analysis Report for the NAC Multi-Purpose Canister System (NAC-MPC System).
+Certificate Expiration Date: November 20, 2020.
 
-*Docket Number:* 72-1025.
+Model Number: NAC-UMS.
 
-*Certificate Expiration Date:* April 10, 2020.
+Certificate Number: 1021.
 
-*Model Number:* NAC-MPC.
+Initial Certificate Effective Date: April 19, 2000.
 
-Certificate Number: 1026.Initial Certificate Effective Date: February 15, 2001.Amendment Number 1 Effective Date: May 14, 2001.Amendment Number 2 Effective Date: January 28, 2002.Amendment Number 3 Effective Date: May 7, 2003.Amendment Number 4 Effective Date: July 3, 2006.SAR Submitted by: BNG Fuel Solutions Corporation.SAR Title: Final Safety Analysis Report for the FuelSolutionsTM Spent Fuel Management System.Docket Number: 72-1026.Certificate Expiration Date: February 15, 2021.Model Number: WSNF-220, WSNF-221, and WSNF-223 systems; W-150 storage cask; W-100 transfer cask; and the W-21 and W-74 canisters.Certificate Number: 1027.Initial Certificate Effective Date: May 30, 2000.Amendment Number 1 Effective Date: October 30, 2007.SAR Submitted by: Transnuclear, Inc.SAR Title: Final Safety Analysis Report for the TN-68 Dry Storage Cask.Docket Number: 72-1027.Certificate Expiration Date: May 28, 2020.Model Number: TN-68.
+Amendment Number 1 Effective Date: February 20, 2001.
 
-*Certificate Number:* 1029.
+SAR Submitted by: Transnuclear, Inc.
 
-*Initial Certificate Effective Date:* February 5, 2003.
+SAR Title: Final Safety Analysis Report for the TN-32 Dry Storage Cask.
 
-*Amendment Number 1 Effective Date:* May 16, 2005.
+Docket Number: 72-1021.
 
-*Amendment Number 2 Effective Date:* Amendment not issued by the NRC.
+Certificate Expiration Date: April 19, 2020.
 
-*Amendment Number 3 Effective Date*: February 23, 2015.
+Model Number: TN-32, TN-32A, TN-32B.
 
-*Amendment Number 4 Effective Date:* March 12, 2019.
+Certificate Number: 1025.
 
-*SAR Submitted by:* Transnuclear, Inc.
+Initial Certificate Effective Date: April 10, 2000.
 
-*SAR Title:* Final Safety Analysis Report for the Standardized Advanced NUHOMS® Horizontal Modular Storage System for Irradiated Nuclear Fuel.
+Amendment Number 1 Effective Date: November 13, 2001.
 
-*Docket Number:* 72-1029.
+Amendment Number 2 Effective Date: May 29, 2002.
 
-*Certificate Expiration Date:* February 5, 2023.
+Amendment Number 3 Effective Date: October 1, 2003.
 
-*Model Number:* Standardized Advanced NUHOMS®−24PT1, −24PT4, and −32PTH2.
+Amendment Number 4 Effective Date: October 27, 2004.
 
-Certificate Number: 1030.Initial Certificate Effective Date: January 10, 2007.Amendment Number 1 Effective Date: March 29, 2011.Amendment Number 2 Effective Date: October 14, 2014.SAR Submitted by: Transnuclear, Inc.SAR Title: Final Safety Analysis Report for the NUHOMS® HD Horizontal Modular Storage System for Irradiated Nuclear Fuel.Docket Number: 72-1030.Certificate Expiration Date: January 10, 2027.Model Number: NUHOMS® HD-32PTH.*Certificate Number:* 1031.*Initial Certificate Effective Date:* February 4, 2009, superseded by Initial Certificate, Revision 1, on February 1, 2016.*Initial Certificate, Revision 1, Effective Date:* February 1, 2016.*Amendment Number 1 Effective Date:* August 30, 2010, superseded by Amendment Number 1, Revision 1, on February 1, 2016.*Amendment Number 1, Revision 1, Effective Date:* February 1, 2016.*Amendment Number 2 Effective Date:* January 30, 2012, superseded by Amendment Number 2, Revision 1, on February 1, 2016.*Amendment Number 2, Revision 1, Effective Date:* February 1, 2016.*Amendment Number 3 Effective Date:* July 25, 2013, superseded by Amendment Number 3, Revision 1, on February 1, 2016.*Amendment Number 3, Revision 1, Effective Date:* February 1, 2016.*Amendment Number 4 Effective Date:* April 14, 2015.*Amendment Number 5 Effective Date:* June 29, 2015.*Amendment Number 6 Effective Date:* December 21, 2016.*Amendment Number 7 Effective Date:* August 21, 2017, as corrected (ADAMS Accession No. ML19045A346).*SAR Submitted by:* NAC International, Inc.*SAR Title:* Final Safety Analysis Report for the MAGNASTOR® System.*Docket Number:* 72-1031.*Certificate Expiration Date:* February 4, 2029.*Model Number:* MAGNASTOR®.Certificate Number: 1032.Initial Certificate Effective Date: June 13, 2011, superseded by Amendment Number 0, Revision 1, on April 25, 2016.Amendment Number 0, Revision 1, Effective Date: April 25, 2016.Amendment Number 1 Effective Date: December 17, 2014, superseded by Amendment Number 1, Revision 1, on June 2, 2015.Amendment Number 1, Revision 1, Effective Date: June 2, 2015.Amendment Number 2 Effective Date: November 7, 2016.Amendment Number 3 Effective Date: September 11, 2017.SAR Submitted by: Holtec International, Inc.SAR Title: Final Safety Analysis Report for the Holtec International HI-STORM FW System.Docket Number: 72-1032.Certificate Expiration Date: June 12, 2031.Model Number: HI-STORM FW MPC-37, MPC-89.Certificate Number: 1040.Initial Certificate Effective Date: April 6, 2015.Amendment Number 1 Effective Date: September 8, 2015.Amendment Number 2, Effective Date: January 9, 2017.SAR Submitted by: Holtec International, Inc.SAR Title: Final Safety Analysis Report for the Holtec International HI-STORM UMAX Canister Storage System.Docket Number: 72-1040.Certificate Expiration Date: April 6, 2035.Model Number: MPC-37, MPC-89.Certificate Number: 1042.Initial Certificate Effective Date: June 7, 2017.SAR Submitted by: TN Americas LLC.SAR Title: Final Safety Analysis Report for the NUHOMS® EOS Dry Spent Fuel Storage System.Docket Number: 72-1042.Certificate Expiration Date: June 7, 2037.Model Number: EOS-37PTH, EOS-89BTH.[55 FR 29191, July 18, 1990]Editorial Note:For Federal Register citations affecting § 72.214, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*
+Amendment Number 5 Effective Date: July 24, 2007.
+
+Amendment Number 6 Effective Date: October 4, 2010.
+
+Amendment Number 7 Effective Date: March 4, 2019.
+
+Amendment Number 8 Effective Date: March 4, 2019.
+
+SAR Submitted by: NAC International, Inc.
+
+SAR Title: Final Safety Analysis Report for the NAC Multi-Purpose Canister System (NAC-MPC System).
+
+Docket Number: 72-1025.
+
+Certificate Expiration Date: April 10, 2020.
+
+Model Number: NAC-MPC.
+
+Certificate Number: 1026.
+
+Initial Certificate Effective Date: February 15, 2001.
+
+Amendment Number 1 Effective Date: May 14, 2001.
+
+Amendment Number 2 Effective Date: January 28, 2002.
+
+Amendment Number 3 Effective Date: May 7, 2003.
+
+Amendment Number 4 Effective Date: July 3, 2006.
+
+SAR Submitted by: BNG Fuel Solutions Corporation.
+
+SAR Title: Final Safety Analysis Report for the FuelSolutionsTM Spent Fuel Management System.
+
+Docket Number: 72-1026.
+
+Certificate Expiration Date: February 15, 2021.
+
+Model Number: WSNF-220, WSNF-221, and WSNF-223 systems; W-150 storage cask; W-100 transfer cask; and the W-21 and W-74 canisters.
+
+Certificate Number: 1027.
+
+Initial Certificate Effective Date: May 30, 2000.
+
+Amendment Number 1 Effective Date: October 30, 2007.
+
+SAR Submitted by: Transnuclear, Inc.
+
+SAR Title: Final Safety Analysis Report for the TN-68 Dry Storage Cask.
+
+Docket Number: 72-1027.
+
+Certificate Expiration Date: May 28, 2020.
+
+Model Number: TN-68.
+
+Certificate Number: 1029.
+
+Initial Certificate Effective Date: February 5, 2003.
+
+Amendment Number 1 Effective Date: May 16, 2005.
+
+Amendment Number 2 Effective Date: Amendment not issued by the NRC.
+
+Amendment Number 3 Effective Date: February 23, 2015.
+
+Amendment Number 4 Effective Date: March 12, 2019.
+
+SAR Submitted by: Transnuclear, Inc.
+
+SAR Title: Final Safety Analysis Report for the Standardized Advanced NUHOMS® Horizontal Modular Storage System for Irradiated Nuclear Fuel.
+
+Docket Number: 72-1029.
+
+Certificate Expiration Date: February 5, 2023.
+
+Model Number: Standardized Advanced NUHOMS®−24PT1, −24PT4, and −32PTH2.
+
+Certificate Number: 1030.
+
+Initial Certificate Effective Date: January 10, 2007.
+
+Amendment Number 1 Effective Date: March 29, 2011.
+
+Amendment Number 2 Effective Date: October 14, 2014.
+
+SAR Submitted by: Transnuclear, Inc.
+
+SAR Title: Final Safety Analysis Report for the NUHOMS® HD Horizontal Modular Storage System for Irradiated Nuclear Fuel.
+
+Docket Number: 72-1030.
+
+Certificate Expiration Date: January 10, 2027.
+
+Model Number: NUHOMS® HD-32PTH.
+
+Certificate Number: 1031.
+
+Initial Certificate Effective Date: February 4, 2009, superseded by Initial Certificate, Revision 1, on February 1, 2016.
+
+Initial Certificate, Revision 1, Effective Date: February 1, 2016.
+
+Amendment Number 1 Effective Date: August 30, 2010, superseded by Amendment Number 1, Revision 1, on February 1, 2016.
+
+Amendment Number 1, Revision 1, Effective Date: February 1, 2016.
+
+Amendment Number 2 Effective Date: January 30, 2012, superseded by Amendment Number 2, Revision 1, on February 1, 2016.
+
+Amendment Number 2, Revision 1, Effective Date: February 1, 2016.
+
+Amendment Number 3 Effective Date: July 25, 2013, superseded by Amendment Number 3, Revision 1, on February 1, 2016.
+
+Amendment Number 3, Revision 1, Effective Date: February 1, 2016.
+
+Amendment Number 4 Effective Date: April 14, 2015.
+
+Amendment Number 5 Effective Date: June 29, 2015.
+
+Amendment Number 6 Effective Date: December 21, 2016.
+
+Amendment Number 7 Effective Date: August 21, 2017, as corrected (ADAMS Accession No. ML19045A346).
+
+SAR Submitted by: NAC International, Inc.
+
+SAR Title: Final Safety Analysis Report for the MAGNASTOR® System.
+
+Docket Number: 72-1031.
+
+Certificate Expiration Date: February 4, 2029.
+
+Model Number: MAGNASTOR®.
+
+Certificate Number: 1032.
+
+Initial Certificate Effective Date: June 13, 2011, superseded by Amendment Number 0, Revision 1, on April 25, 2016.
+
+Amendment Number 0, Revision 1, Effective Date: April 25, 2016.
+
+Amendment Number 1 Effective Date: December 17, 2014, superseded by Amendment Number 1, Revision 1, on June 2, 2015.
+
+Amendment Number 1, Revision 1, Effective Date: June 2, 2015.
+
+Amendment Number 2 Effective Date: November 7, 2016.
+
+Amendment Number 3 Effective Date: September 11, 2017.
+
+SAR Submitted by: Holtec International, Inc.
+
+SAR Title: Final Safety Analysis Report for the Holtec International HI-STORM FW System.
+
+Docket Number: 72-1032.
+
+Certificate Expiration Date: June 12, 2031.
+
+Model Number: HI-STORM FW MPC-37, MPC-89.
+
+Certificate Number: 1040.
+
+Initial Certificate Effective Date: April 6, 2015.
+
+Amendment Number 1 Effective Date: September 8, 2015.
+
+Amendment Number 2, Effective Date: January 9, 2017.
+
+SAR Submitted by: Holtec International, Inc.
+
+SAR Title: Final Safety Analysis Report for the Holtec International HI-STORM UMAX Canister Storage System.
+
+Docket Number: 72-1040.
+
+Certificate Expiration Date: April 6, 2035.
+
+Model Number: MPC-37, MPC-89.
+
+Certificate Number: 1042.
+
+Initial Certificate Effective Date: June 7, 2017.
+
+SAR Submitted by: TN Americas LLC.
+
+SAR Title: Final Safety Analysis Report for the NUHOMS® EOS Dry Spent Fuel Storage System.
+
+Docket Number: 72-1042.
+
+Certificate Expiration Date: June 7, 2037.
+
+Model Number: EOS-37PTH, EOS-89BTH.
+
+[55 FR 29191, July 18, 1990]Editorial Note:For Federal Register citations affecting § 72.214, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

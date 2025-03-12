@@ -20,7 +20,7 @@ Link to an amendment published at 84 FR 32992, July 11, 2019.
 
 (3) No. 061133 for use of the 43-µg/mL product described in paragraph (a)(3) as in paragraphs (d)(1)(i) and (d)(2) of this section.
 
-(4) No. 050604 for use of the 43-µg/mL product described in paragraph (a)(3) as in paragraphs (d)(1)(i), (d)(1)(vi), and (d)(2) of this section.
+(4) No. 000010 for use of the 43-µg/mL product described in paragraph (a)(3) as in paragraphs (d)(1)(i), (d)(1)(vi), and (d)(2) of this section.
 
 (5) No. 054771 for use of the 50-µg/mL product described in paragraph (a)(4) as in paragraphs (d)(1)(iii), (d)(1)(vii), and (d)(2) of this section.
 
@@ -48,4 +48,4 @@ Link to an amendment published at 84 FR 32992, July 11, 2019.
 
 (2) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[83 FR 64740, Dec. 18, 2018, as amended at 84 FR 8973, Mar. 13, 2019]
+[83 FR 64740, Dec. 18, 2018, as amended at 84 FR 8973, Mar. 13, 2019; 84 FR 39184, Aug. 9, 2019]

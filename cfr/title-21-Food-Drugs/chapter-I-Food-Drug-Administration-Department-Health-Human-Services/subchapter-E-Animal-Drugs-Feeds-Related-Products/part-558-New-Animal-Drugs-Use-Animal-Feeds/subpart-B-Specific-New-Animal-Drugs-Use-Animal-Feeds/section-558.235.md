@@ -1,6 +1,6 @@
 ##### § 558.235 Efrotomycin. #####
 
-Link to an amendment published at 84 FR 33001, July 11, 2019.
+Link to an amendment published at 84 FR 33001, July 11, 2019.Link to an amendment published at 84 FR 39185, Aug. 9, 2019.
 
 (a) *Approvals.* Type A medicated article: 14.5 grams per pound to 050604 in § 510.600(c) of this chapter.
 

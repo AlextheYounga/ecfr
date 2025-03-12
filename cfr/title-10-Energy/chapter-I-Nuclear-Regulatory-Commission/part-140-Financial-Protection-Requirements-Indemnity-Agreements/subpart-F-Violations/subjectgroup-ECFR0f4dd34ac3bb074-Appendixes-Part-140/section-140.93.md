@@ -1,6 +1,6 @@
-##### § 140.93 Appendix C - Form of indemnity agreement with licensees furnishing proof of financial protection in the form of licensee's resources. #####
+##### § 140.93 Appendix C—Form of indemnity agreement with licensees furnishing proof of financial protection in the form of licensee's resources. #####
 
-This indemnity agreement No. \_\_\_\_\_ is entered into by and between the \_\_\_\_ (hereinafter referred to as the *licensee*) and the United States Nuclear Regulatory Commission (hereinafter referred to as the *Commission* pursuant to subsection 170(c) of the Atomic Energy Act of 1954, as amended (hereinafter referred to as *the Act*).
+This indemnity agreement No. \_\_\_\_\_\_\_\_\_\_ is entered into by and between the \_\_\_\_\_\_\_\_ (hereinafter referred to as the *licensee*) and the United States Nuclear Regulatory Commission (hereinafter referred to as the *Commission* pursuant to subsection 170(c) of the Atomic Energy Act of 1954, as amended (hereinafter referred to as *the Act*).
 
 Article I
 
@@ -14,7 +14,7 @@ As used in this agreement,
 
 3. (a) *Nuclear incident* means any occurrence including an extraordinary nuclear occurrence or series of occurrences at the location or in the course of transportation causing bodily injury, sickness, disease, or death, or loss of or damage to property, or loss of use of property, arising out of or resulting from the radioactive, toxic, explosive, or other hazardous properties of the radioactive material.
 
-(b) Any occurrence including an extraordinary nuclear occurrence or series of occurrences causing bodily injury, sickness, disease or death, or loss of or damage to property, or loss of use of property, arising out of or resulting from the radioactive, toxic, explosive or other hazardous properties of -
+(b) Any occurrence including an extraordinary nuclear occurrence or series of occurrences causing bodily injury, sickness, disease or death, or loss of or damage to property, or loss of use of property, arising out of or resulting from the radioactive, toxic, explosive or other hazardous properties of—
 
 i. The radioactive material discharged or dispersed from the location over a period of days, weeks, months or longer and also arising out of such properties of other material defined as *the radioactive material* in any other agreement or agreements entered into by the Commission under subsection 170(c) or (k) of the Act and so discharged or dispersed from *the location* as defined in any such other agreement; or
 
@@ -160,12 +160,12 @@ The following provisions are applicable to each licensee operating a facility de
 
 4. If the Commission determines that the licensee is financially able to reimburse the Commission for a deferred premium payment made in its behalf, and the licensee, after notice of such determination by the Commission fails to make such reimbursement within 120 days, the Commission will take appropriate steps to suspend the license for 30 days. The Commission may take any further action as necessary if reimbursement is not made within the 30-day suspension period including, but not limited to, termination of the operating license or combined license.
 
-United States Nuclear Regulatory CommissionIndemnity Agreement No. \_\_\_AttachmentItem 1 - LicenseeAddressItem 2 - Amount of financial protectionItem 3 - License number or numbersItem 4 - LocationItem 5 - The Indemnity Agreement designated above, of which this Attachment is a part, is effective as of \_\_\_M., on the \_\_\_\_\_\_ day of \_\_\_\_\_, 19\_\_.
+United States Nuclear Regulatory CommissionIndemnity Agreement No. \_\_\_\_\_\_AttachmentItem 1—LicenseeAddressItem 2—Amount of financial protectionItem 3—License number or numbersItem 4—LocationItem 5—The Indemnity Agreement designated above, of which this Attachment is a part, is effective as of \_\_\_\_\_\_M., on the \_\_\_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.
 
 For the United States Nuclear Regulatory Commission.
 
-By \_\_\_\_\_\_\_\_\_\_\_\_For the \_\_\_\_\_\_\_\_\_\_\_\_(Name of licensee)By \_\_\_\_\_\_\_\_\_\_\_\_
+By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_For the \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_(Name of licensee)By \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Dated at Bethesda, MD, the \_\_\_\_\_\_ day of \_\_\_\_\_, 19\_\_.
+Dated at Bethesda, MD, the \_\_\_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.
 
-[26 FR 3459, Apr. 22, 1961]Editorial Note:For Federal Register citations affecting § 140.93, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*
+[26 FR 3459, Apr. 22, 1961]Editorial Note:For Federal Register citations affecting § 140.93, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

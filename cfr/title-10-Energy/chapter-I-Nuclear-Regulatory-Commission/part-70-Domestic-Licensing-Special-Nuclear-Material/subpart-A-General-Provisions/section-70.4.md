@@ -56,7 +56,7 @@
 
 *Critical mass of special nuclear material (SNM),* as used in Subpart H, means special nuclear material in a quantity exceeding 700 grams of contained uranium-235; 520 grams of uranium-233; 450 grams of plutonium; 1500 grams of contained uranium-235, if no uranium enriched to more than 4 percent by weight of uranium-235 is present; 450 grams of any combination thereof; or one-half such quantities if massive moderators or reflectors made of graphite, heavy water, or beryllium may be present.
 
-*Decommission* means to remove a facility or site safely from service and reduce residual radioactivity to a level that permits -
+*Decommission* means to remove a facility or site safely from service and reduce residual radioactivity to a level that permits—
 
 (1) Release of the property for unrestricted use and termination of the license; or
 
@@ -142,4 +142,4 @@ This class of material is sometimes referred to as a Category II quantity of mat
 
 *Worker,* when used in Subpart H of this Part, means an individual who receives an occupational dose as defined in 10 CFR 20.1003.
 
-[21 FR 764, Feb. 3, 1956]Editorial Note:For Federal Register citations affecting § 70.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*
+[21 FR 764, Feb. 3, 1956]Editorial Note:For Federal Register citations affecting § 70.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

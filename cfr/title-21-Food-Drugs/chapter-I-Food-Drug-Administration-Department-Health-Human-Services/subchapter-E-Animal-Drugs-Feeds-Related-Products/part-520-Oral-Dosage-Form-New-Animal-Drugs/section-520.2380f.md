@@ -1,13 +1,13 @@
-##### § 520.2380f Thiabendazole and piperazine phosphate. #####
+##### § 520.2380f Thiabendazole and triclorfon. #####
 
-(a) *Specifications.* Each ounce of water dispersible powder contains 6.67 grams of thiabendazole and 8.33 grams of piperazine (as piperazine phosphate).
+(a) *Specifications.* The drug contains 5 grams of thiabendazole with 4.5 grams of trichlorfon, or 20 grams of thiabendazole with 18 grams of trichlorfon.
 
-(b) *Sponsor.* See No. 050604 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 017135 in § 510.600(c) of this chapter.
 
-(c) *Conditions of use in horses* - (1) *Amount.* 2 grams of thiabendazole and 2.5 grams of piperazine (0.3 ounce of powder) per 100 pounds of body weight. Use a single oral dose. Administer as a drench or by stomach tube suspended in 1 pint of warm water; by dose syringe suspended in1/2 ounce of water for each 100 pounds of body weight; or sprinkled over a small amount of daily feed.
+(c) *Conditions of use in horses*—(1) *Amount.* Administer 2 grams of thiabendazole with 1.8 grams of trichlorfon per 100 pounds of body weight sprinkled on the animals' usual daily ration of feed, or may be mixed in 5 to 10 fluid ounces of water and administered by stomach tube or drench.
 
-(2) *Indications for use.* Treatment of infections of large strongyles (genus *Strongylus*), small strongyles (genera *Cyathostomum, Cylicobrachytus,* and related genera *Craterostomum, Oesophagodontus, Poteriostomum*), pinworms (*Oxyuris*), threadworms (*Strongyloides*), and ascarids (*Parascaris*) in horses.
+(2) *Indications for use.* For the treatment and control of bots (*Gasterophilus* spp.), large strongyles (*Strongylus* spp.), small strongyles (genera *Cyathostomum, Cylicobrachytus,**Craterostomum, Oesophagodontus,**Poteriostomum*), pinworms (*Oxyuris* spp., *Strongyloides* spp.), and ascarids (*Parascaris* spp.).
 
-(3) *Limitations.* Do not use in horses intended for human consumption. If the label bears directions for administration by stomach tube or drench, it shall also bear the statement “Caution: Federal law restricts this drug to use by or on the order of a licensed veterinarian.”; if not labeled for use by stomach tube or drench, the label shall bear the statement, “Consult your veterinarian for assistance in the diagnosis, treatment, and control of parasitism.”
+(3) *Limitations.* Do not use in horses intended for human consumption. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[46 FR 18963, Mar. 27, 1981, as amended at 46 FR 52330, Oct. 27, 1981; 62 FR 63271, Nov. 28, 1997; 79 FR 28832, May 20, 2014]
+[40 FR 23071, May 28, 1975, as amended at 48 FR 48229, Oct. 18, 1983; 79 FR 28832, May 20, 2014. Redesignated at 84 FR 39183, Aug. 9, 2019]

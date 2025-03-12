@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Each chewable tablet contains 57 or 227 milligrams (mg) firocoxib.
 
-(b) *Sponsor.* See No. 050604 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 000010 in § 510.600(c) of this chapter.
 
 (c) *Conditions of use* - (1) *Dogs* - (i) *Amount.* 5 mg/kg (2.27 mg/lb) body weight. Administer once daily for osteoarthritis. Administer approximately 2 hours before soft tissue or orthopedic surgery.
 
@@ -16,4 +16,4 @@
 
 (iii) *Limitations.* Do not use in horses intended for human consumption. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[69 FR 51171, Aug. 18, 2004, as amended at 73 FR 2808, Jan. 16, 2008; 73 FR 64885, Oct. 31, 2008; 81 FR 67151, Sept. 30, 2016]
+[69 FR 51171, Aug. 18, 2004, as amended at 73 FR 2808, Jan. 16, 2008; 73 FR 64885, Oct. 31, 2008; 81 FR 67151, Sept. 30, 2016; 84 FR 39183, Aug. 9, 2019]

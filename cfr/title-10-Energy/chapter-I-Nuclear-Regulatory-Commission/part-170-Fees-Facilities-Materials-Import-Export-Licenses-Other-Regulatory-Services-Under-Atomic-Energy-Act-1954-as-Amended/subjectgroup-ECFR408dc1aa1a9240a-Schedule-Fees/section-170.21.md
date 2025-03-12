@@ -66,4 +66,4 @@ Schedule of Facility Fees
 
 <sup>6</sup> Because the Energy and Water, Legislative Branch, and Military Construction and Veterans Affairs Appropriations Act, 2019, excludes international activities from the fee-recoverable budget in FY 2019, import and export licensing actions will not be charged fees.
 
-[53 FR 52648, Dec. 29, 1988]Editorial Note:For Federal Register citations affecting § 170.21, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*
+[53 FR 52648, Dec. 29, 1988]Editorial Note:For Federal Register citations affecting § 170.21, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

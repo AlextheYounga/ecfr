@@ -48,4 +48,4 @@
 
 (c) For purposes of paragraph (a)(1) of this section, a request for a fee exemption must be submitted to the CFO within 90 days of the date of the NRC's receipt of the work.
 
-[33 FR 10924, Aug. 1, 1968]Editorial Note:For Federal Register citations affecting § 170.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*
+[33 FR 10924, Aug. 1, 1968]Editorial Note:For Federal Register citations affecting § 170.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

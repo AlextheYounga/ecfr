@@ -1,0 +1,33 @@
+##### § 330.202 Biological control organisms. #####
+
+(a) *General conditions for importation, interstate movement, and release of biological control organisms.* Except as provided in paragraph (b) of this section, no biological control organism regulated under this subpart may be imported, moved in interstate commerce, or released into the environment unless a permit has been issued in accordance with § 330.201 authorizing such importation, interstate movement, or release, and the organism is moved or released in accordance with this permit and the regulations in this subpart. The regulations in 40 CFR parts 1500 through 1508, part 1b of this title, and part 372 of this chapter may require APHIS to request additional information from an applicant regarding the proposed release of a biological control organism as part of its evaluation of a permit application. Further information regarding the types of information that may be requested, and the manner in which this information will be evaluated, is found at *http://www.aphis.usda.gov/plant\_health/permits/index.shtml.*
+
+(b) *Exceptions from permitting requirements for certain biological control organisms.* APHIS has determined that certain biological control organisms have become established throughout their geographical or ecological range in the continental United States, such that the additional release of pure cultures derived from field populations of taxa of such organisms into the environment of the continental United States will present no additional plant pest risk (direct or indirect) to plants or plant products. Lists of biological control organisms for invertebrate plant pests and for weeds are maintained on the PPQ Permits and Certifications website at *https://www.aphis.usda.gov/aphis/resources/permits.*
+
+(1) *Importation and interstate movement of listed organisms.* Pure cultures of organisms excepted from permit requirements, unless otherwise indicated, may be imported or moved interstate within the continental United States without further restriction under this subpart.
+
+(2) *Release of listed organisms.* Pure cultures of organisms on the list may be released into the environment of the continental United States without further restriction under this subpart.
+
+(c) *Additions to the list of organisms granted exceptions from permitting requirements for their importation, interstate movement, or release.* Any person may request that APHIS add a biological control organism to the list referred to in paragraph (b) of this section by submitting a petition to APHIS via email to *pest.permits@usda.gov* or through any means listed at *http://www.aphis.usda.gov/plant\_health/permits/index.shtml.* The petition must include the following information:
+
+(1) Evidence indicating that the organism is indigenous to the continental United States throughout its geographical or ecological range, or evidence indicating that the organism has produced self-replicating populations within the continental United States for an amount of time sufficient, based on the organism's taxon, to consider that taxon established throughout its geographical or ecological range in the continental United States; or
+
+(2) Evidence that the organism's geographical or ecological range includes an extremely limited area of or none of the continental United States based on its inability to maintain year to year self-replicating populations despite repeated introductions over a sufficient range of time; or
+
+(3) The petition would include evidence that the organism cannot establish anywhere in the continental United States; or
+
+(4) Results from a field study where data were collected from representative habitats occupied by the biological control organism. Studies must include sampling for any direct or indirect impacts on target and non-target hosts of the biological control organism in these habitats. Supporting scientific literature must be cited; or
+
+(5) Any other data, including published scientific reports, that suggest that subsequent releases of the organism into the environment of the continental United States will present no additional plant pest risk (direct or indirect) to plants or plant products.
+
+(d) *APHIS review of petitions*—(1) *Evaluation.* APHIS will review the petition to determine whether it is complete. If APHIS determines that the petition is complete, it will conduct an evaluation of the petition to determine whether there is sufficient evidence that the organism exists throughout its geographical or ecological range in the continental United States and that subsequent releases of pure cultures of field populations of the organism into the environment of the continental United States will present no additional plant pest risk (direct or indirect) to plants or plant products.
+
+(2) *Notice of availability of the petition.* If APHIS determines that there is sufficient evidence that the organism exists throughout its geographical or ecological range in the continental United States and that subsequent releases of pure cultures of the organism into the environment of the continental United States will present no additional plant pest risk to plants or plant products, APHIS will publish a notice in the Federal Register announcing the availability of the petition and requesting public comment on that document.
+
+(3) *Notice of determination.* (i) If no comments are received, or if the comments received do not lead APHIS to reconsider its determination, APHIS will publish in the Federal Register a subsequent notice describing the comments received and stating that the organism has been added to the list referred to in paragraph (b) of this section.
+
+(ii) If the comments received lead APHIS to reconsider its determination, APHIS will publish in the Federal Register a subsequent notice describing the comments received and stating its reasons for determining not to add the organism to the list referred to in paragraph (b) of this section.
+
+(e) *Removal of organisms from the list of exempt organisms.* Any biological control organism may be removed from the list referred to in paragraph (b) of this section if information emerges that would have otherwise led APHIS to deny the petition to add the organism to the list. Whenever an organism is removed from the list, APHIS will publish a notice in the Federal Register announcing that action and the basis for it.
+
+(Approved by the Office of Management and Budget under control number 0579-0187)

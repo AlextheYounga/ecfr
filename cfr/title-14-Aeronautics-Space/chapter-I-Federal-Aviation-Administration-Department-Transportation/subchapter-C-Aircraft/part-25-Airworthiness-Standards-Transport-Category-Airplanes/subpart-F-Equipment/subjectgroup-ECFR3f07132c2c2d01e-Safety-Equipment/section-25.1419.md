@@ -1,6 +1,6 @@
 ##### § 25.1419 Ice protection. #####
 
-If the applicant seeks certification for flight in icing conditions, the airplane must be able to safely operate in the continuous maximum and intermittent maximum icing conditions of appendix C. To establish this -
+If the applicant seeks certification for flight in icing conditions, the airplane must be able to safely operate in the continuous maximum and intermittent maximum icing conditions of appendix C. To establish this—
 
 (a) An analysis must be performed to establish that the ice protection for the various components of the airplane is adequate, taking into account the various airplane operational configurations; and
 
@@ -14,7 +14,9 @@ If the applicant seeks certification for flight in icing conditions, the airplan
 
 (c) Caution information, such as an amber caution light or equivalent, must be provided to alert the flightcrew when the anti-ice or de-ice system is not functioning normally.
 
-(d) For turbine engine powered airplanes, the ice protection provisions of this section are considered to be applicable primarily to the airframe. For the powerplant installation, certain additional provisions of subpart E of this part may be found applicable. (e) One of the following methods of icing detection and activation of the airframe ice protection system must be provided:
+(d) For turbine engine powered airplanes, the ice protection provisions of this section are considered to be applicable primarily to the airframe. For the powerplant installation, certain additional provisions of subpart E of this part may be found applicable.
+
+(e) One of the following methods of icing detection and activation of the airframe ice protection system must be provided:
 
 (1) A primary ice detection system that automatically activates or alerts the flightcrew to activate the airframe ice protection system;
 
@@ -24,7 +26,7 @@ If the applicant seeks certification for flight in icing conditions, the airplan
 
 (f) Unless the applicant shows that the airframe ice protection system need not be operated during specific phases of flight, the requirements of paragraph (e) of this section are applicable to all phases of flight.
 
-(g) After the initial activation of the airframe ice protection system -
+(g) After the initial activation of the airframe ice protection system—
 
 (1) The ice protection system must be designed to operate continuously;
 

@@ -153,7 +153,7 @@
 
 (C) Has critically important milestones.
 
-(iii) If the contractor demonstrates efficient management and cost control through the submittal of a timely, qualifying proposal (as defined in 217.7401(c)) in furtherance of definitization of an undefinitized contract action, and the proposal demonstrates effective cost control from the time of award to the present, the contracting officer may add 1 percentage point to the value determined for management/cost control up to the maximum of 7 percent.
+(iii) If the contractor demonstrates efficient management and cost control through the submittal of a timely, qualifying proposal (as defined in217.7401) in furtherance of definitization of an undefinitized contract action, and the proposal demonstrates effective cost control from the time of award to the present, the contracting officer may add 1 percentage point to the value determined for management/cost control up to the maximum of 7 percent.
 
 (3) *Below normal conditions.* (i) The contracting officer may assign a lower than normal value when the management effort is minimal. Indicators of this are -
 
@@ -185,4 +185,4 @@
 
 (B) The effort requires an unusually low degree of management involvement.
 
-[67 FR 20689, Apr. 26, 2002, as amended at 67 FR 49254, July 30, 2002; 78 FR 13543, Feb. 28, 2013; 83 FR 30586, June 29, 2018]
+[67 FR 20689, Apr. 26, 2002, as amended at 67 FR 49254, July 30, 2002; 78 FR 13543, Feb. 28, 2013; 83 FR 30586, June 29, 2018; 84 FR 39205, Aug. 9, 2019]

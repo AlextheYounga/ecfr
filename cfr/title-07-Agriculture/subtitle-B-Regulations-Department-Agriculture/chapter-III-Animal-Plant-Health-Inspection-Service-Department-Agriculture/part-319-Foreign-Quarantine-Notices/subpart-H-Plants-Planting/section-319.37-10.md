@@ -1,13 +1,13 @@
 ##### § 319.37-10 Growing media. #####
 
-Link to an amendment published at 84 FR 29958, June 25, 2019.
-
 (a) Any plants for planting at the time of importation or offer for importation into the United States shall be free of sand, soil, earth, and other growing media, except as provided in paragraph (b), (c), or (d) of this section.
 
-(b) Plants for planting from Canada may be imported in any growing medium, except as restricted in the Plants for Planting Manual. Restrictions on growing media for specific types of plants for planting imported from Canada will be added, changed, or removed in accordance with § 319.37-20.
+(b)(1) Plants for planting from Canada may be imported in any growing medium, except as restricted in the Plants for Planting Manual. Restrictions on growing media for specific types of plants for planting imported from Canada will be added, changed, or removed in accordance with § 319.37-20.
+
+(2) Plants for planting from an area of Canada regulated by the national plant protection organization of Canada for a soil-borne plant pest may only be imported in an approved growing medium if the phytosanitary certificate accompanying it contains an additional declaration that the plant was grown in a manner to prevent infestation by that soil-borne plant pest.
 
 (c) Certain types of plants for planting growing solely in certain growing media listed in the Plants for Planting Manual may be imported established in such growing media. The Administrator has determined that the importation of the specified types of plants for planting in these growing media does not pose a risk of introducing quarantine pests into the United States. If the Administrator determines that a new growing medium may be added to the list of growing media in which imported plants for planting may be established, or that a growing medium currently listed for such purposes is no longer suitable for establishment of imported plants for planting, APHIS will publish in the Federal Register a notice that announces our proposed determination and requests comment on the change. After the close of the comment period, APHIS will publish another notice informing the public of the Administrator's decision on the change to the list of growing media in which imported types of plants for planting may be established.
 
 (d) Certain types of plants for planting, as listed in the Plants for Planting Manual, may be imported when they are established in a growing medium approved by the Administrator and they are produced in accordance with additional requirements specified in the Plants for Planting Manual. Changes to the list of plants for planting that may be imported in growing media, and to the requirements for the importation of those types of plants for planting, will be made in accordance with § 319.37-20.
 
-(Approved by the Office of Management and Budget under control numbers 0579-0190, 0579-0439, 0579-0454, 0579-0458, and 0579-0463)
+(Approved by the Office of Management and Budget under control numbers 0579-0190, 0579-0439, 0579-0454, 0579-0458, and 0579-0463)[83 FR 11856, Mar. 19, 2018, as amended at 84 FR 29958, June 25, 2019]

@@ -1,11 +1,9 @@
 ##### § 319.77-4 Conditions for the importation of regulated articles. #####
 
-Link to an amendment published at 84 FR 29958, June 25, 2019.
-
 (a) *Trees and shrubs.*1 (1) Trees without roots (*e.g.,* Christmas trees) may be imported into the United States from any area of Canada without restriction under this subpart if they:
 
 1 Trees and Shrubs from Canada may be subject to additional restrictions under “
-Subpart I - Logs, Lumber, and Other Wood Articles” (§§ 319.40-1 through 319.40-11).
+Subpart I—Logs, Lumber, and Other Wood Articles” (§§ 319.40-1 through 319.40-11).
 
 (i) Were greenhouse-grown throughout the year;
 
@@ -21,7 +19,7 @@ Subpart I - Logs, Lumber, and Other Wood Articles” (§§ 319.40-1 through 319.
 
 (b) *Bark and bark products and logs and pulpwood with bark attached.*2 (1) Bark and bark products or logs or pulpwood with bark attached that are destined for a U.S. infested area and that will not be moved through any U.S. noninfested area other than noninfested areas in the counties of Aroostock, Franklin, Oxford, Piscataquis, Penobscot, and Somerset, ME (*i.e.*, areas in those counties that are not listed in § 301.45-3 of this chapter) may be imported from any area of Canada without restriction under this subpart.
 
-2 Bark, bark products, and logs from Canada are also subject to restrictions under “ Subpart I - Logs, Lumber, and Other Wood Articles” (§§ 319.40 through 319.40-11 of this part).
+2 Bark, bark products, and logs from Canada are also subject to restrictions under “ Subpart I—Logs, Lumber, and Other Wood Articles” (§§ 319.40 through 319.40-11 of this part).
 
 (2) Bark and bark products or logs or pulpwood with bark attached that are destined for a U.S. noninfested area or will be moved through a U.S. noninfested area may be imported into the United States from Canada only under the following conditions:
 
@@ -39,4 +37,6 @@ Subpart I - Logs, Lumber, and Other Wood Articles” (§§ 319.40-1 through 319.
 
 (3) Outdoor household articles and mobile homes and their associated equipment that are being moved from a Canadian infested area into a U.S. noninfested area, or that will be moved through a U.S. noninfested area, may be imported into the United States only if they are accompanied by a statement, signed by their owner, stating that they have been inspected and found free of gypsy moth.
 
-(Approved by the Office of Management and Budget under control number 0579-0142)[64 FR 45866, Aug. 23, 1999, as amended at 65 FR 38176, June 20, 2000; 69 FR 61589, Oct. 20, 2004; 70 FR 33326, June 7, 2005; 71 FR 40878, July 19, 2006; 83 FR 11866, Mar. 19, 2018; 84 FR 2429, Feb. 7, 2019]
+(d) *Stone and quarry products.* Stone and quarry products originating in a Canadian infested area may be imported into the United States only if they are destined for an infested area of the United States and will not be moved through any noninfested areas of the United States, and may be moved through the United States if they are moved only through infested areas.
+
+(Approved by the Office of Management and Budget under control number 0579-0142)[64 FR 45866, Aug. 23, 1999, as amended at 65 FR 38176, June 20, 2000; 69 FR 61589, Oct. 20, 2004; 70 FR 33326, June 7, 2005; 71 FR 40878, July 19, 2006; 83 FR 11866, Mar. 19, 2018; 84 FR 2429, Feb. 7, 2019; 84 FR 29958, June 25, 2019]

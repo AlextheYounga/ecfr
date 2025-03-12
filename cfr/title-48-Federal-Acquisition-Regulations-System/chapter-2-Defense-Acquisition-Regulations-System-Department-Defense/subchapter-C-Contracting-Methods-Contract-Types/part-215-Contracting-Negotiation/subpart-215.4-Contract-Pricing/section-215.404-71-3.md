@@ -85,7 +85,7 @@
 
 (C) The risk of the payment schedule to the contractor.
 
-(2) *Mandatory.* (i) The contracting officer shall assess the extent to which costs have been incurred prior to definitization of the contract action (also see 217.7404-6(a) and 243.204-70-6). When costs have been incurred prior to definitization, generally regard the contract type risk to be in the low end of the designated range. If a substantial portion of the costs have been incurred prior to definitization, the contracting officer may assign a value as low as 0 percent, regardless of contract type.
+(2) *Mandatory.*(i) The contracting officer shall assess the extent to which costs have been incurred prior to definitization of the contract action (also see 217.7404-6(a) and 243.204-70-6). When costs have been incurred prior to definitization, generally regard the contract type risk to be in the low end of the designated range. If a substantial portion of the costs have been incurred prior to definitization, the contracting officer may assign a value as low as zero percent, regardless of contract type. However, if a contractor submits a qualifying proposal to definitize an undefinitized contract action and the contracting officer for such action definitizes the contract after the end of the 180-day period beginning on the date on which the contractor submitted the qualifying proposal (as defined in 217.7401), the profit allowed on the contract shall accurately reflect the cost risk of the contractor as such risk existed on the date the contractor submitted the qualifying proposal.
 
 (ii) Contracting officers shall document in the price negotiation memorandum the reason for assigning a specific contract type risk value, to include the extent to which any reduced cost risk during the undefinitized period of performance was considered, in determining the negotiation objective.
 
@@ -163,4 +163,4 @@ Table
 
 (3) Example: A prospective contract has a performance period of 40 months with end items being delivered in the 34th, 36th, 38th, and 40th months of the contract. The average period is 37 months and the contract length factor is 1.15.
 
-[63 FR 55040, Oct. 14, 1998, as amended at 64 FR 61032, Nov. 9, 1999; 66 FR 63335, Dec. 6, 2001; 67 FR 20691, Apr. 26, 2002; 67 FR 49255, July 30, 2002; 72 FR 14239, Mar. 27, 2007; 75 FR 48277, Aug. 10, 2010; 80 FR 56929, Sept. 21, 2015; 83 FR 30586, June 29, 2018]
+[63 FR 55040, Oct. 14, 1998, as amended at 64 FR 61032, Nov. 9, 1999; 66 FR 63335, Dec. 6, 2001; 67 FR 20691, Apr. 26, 2002; 67 FR 49255, July 30, 2002; 72 FR 14239, Mar. 27, 2007; 75 FR 48277, Aug. 10, 2010; 80 FR 56929, Sept. 21, 2015; 83 FR 30586, June 29, 2018; 84 FR 39205, Aug. 9, 2019]

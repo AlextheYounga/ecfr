@@ -1,10 +1,8 @@
 ##### § 352.30 Untreated oranges, tangerines, and grapefruit from Mexico. #####
 
-Link to an amendment published at 84 FR 29967, June 25, 2019.
-
 The following provisions shall apply to the movement into or through the United States under this part of untreated oranges, tangerines, and grapefruit from Mexico in transit to foreign countries via United States ports on the Mexican border.
 
-(a) *Untreated fruit; general* - (1) *Permit and notice of arrival required.* The owner shall, in advance of shipment of untreated oranges, tangerines, or grapefruit from Mexico via United States ports to any foreign country, procure a formal permit as provided in § 352.6, or application for permit may be submitted to the inspector at the port in the United States through which the shipment will move. Notice of arrival of such fruit shall be submitted as required by § 352.7.
+(a) *Untreated fruit; general*—(1) *Permit and notice of arrival required.* The owner shall, in advance of shipment of untreated oranges, tangerines, or grapefruit from Mexico via United States ports to any foreign country, procure a formal permit as provided in § 352.6, or application for permit may be submitted to the inspector at the port in the United States through which the shipment will move. Notice of arrival of such fruit shall be submitted as required by § 352.7.
 
 (2) *Origin: period of entry.* Such fruit may enter from any State in Mexico throughout the year, in accordance with requirements of this section and other applicable provisions in this part.
 
@@ -22,9 +20,9 @@ The following provisions shall apply to the movement into or through the United 
 
 (2) *General transit conditions.* The following conditions apply to all shipments of untreated oranges, tangerines, and grapefruit from Mexico transiting the United States for movement to a foreign country:
 
-(i) The fruit must be packed in insect-proof boxes or crates that prevent the escape or entry of adult, larval, or pupal fruit flies.4
+(i) The fruit must be packed in insect-proof boxes or crates that prevent the escape or entry of adult, larval, or pupal fruit flies.3
 
-4 If there is a question as to whether packaging is adequate, send a request for approval of the packaging, together with a sample of the packaging, to the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Center for Plant Health Science and Technology, 1730 Varsity Drive, Suite 400, Raleigh, NC 27606.
+3 If there is a question as to whether packaging is adequate, send a request for approval of the packaging, together with a sample of the packaging, to the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Center for Plant Health Science and Technology, 1730 Varsity Drive, Suite 400, Raleigh, NC 27606.
 
 (ii) Boxes or cartons of fruit must be enclosed in sealed, refrigerated containers of the type commonly used by the maritime or commercial trucking industry. An official seal must be applied to the container at the port of entry. The seal must not be removed except by an inspector, or after the shipment has left the United States.
 
@@ -32,9 +30,9 @@ The following provisions shall apply to the movement into or through the United 
 
 (iv) If the seal on the containers in which such fruit is shipped is found to have been broken, for any reason, before the container leaves the United States, or if the cooling system in the containers fails at any point during transit, an inspector at the port of entry must be contacted immediately.
 
-(v) A transportation and exportation permit must be issued by an inspector for each shipment. This permit can be obtained from APHIS headquarters.5
+(v) A transportation and exportation permit must be issued by an inspector for each shipment. This permit can be obtained from APHIS headquarters.4
 
-5 To obtain this permit, contact the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Permit Unit, 4700 River Road Unit 133, Riverdale, MD 20737.
+4 To obtain this permit, contact the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Permit Unit, 4700 River Road Unit 133, Riverdale, MD 20737.
 
 (vi) If untreated fruit is transloaded to another container while in the United States, the transloading must be supervised by an inspector and a replacement official seal must be applied to the container to which the fruit is moved.
 
@@ -62,4 +60,4 @@ The following provisions shall apply to the movement into or through the United 
 
 (g) *Costs.* Costs shall be borne by the owner of the fruit as provided in § 352.14. This includes all costs for preinspection and convoying of loaded trucks and supervision of transloading from trucks to approved carriers or storage in United States ports when augmented inspection service has to be provided for such preinspection, convoying, and supervision.
 
-(Approved by the Office of Management and Budget under control number 0579-0303)[25 FR 1929, Mar. 5, 1960, as amended at 36 FR 24917, Dec. 24, 1971; 37 FR 10554, May 25, 1972; 55 FR 23066, June 6, 1990; 56 FR 13066, Mar. 29, 1991; 67 FR 46578, July 16, 2002; 71 FR 49325, Aug. 23, 2006; 72 FR 39528, July 18, 2007; 75 FR 4253, Jan. 26, 2010]
+(Approved by the Office of Management and Budget under control number 0579-0303)[25 FR 1929, Mar. 5, 1960, as amended at 36 FR 24917, Dec. 24, 1971; 37 FR 10554, May 25, 1972; 55 FR 23066, June 6, 1990; 56 FR 13066, Mar. 29, 1991; 67 FR 46578, July 16, 2002; 71 FR 49325, Aug. 23, 2006; 72 FR 39528, July 18, 2007; 75 FR 4253, Jan. 26, 2010; 84 FR 29967, June 25, 2019]

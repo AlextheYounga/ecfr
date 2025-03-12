@@ -1,8 +1,18 @@
 ##### § 522.313b Ceftiofur hydrochloride. #####
 
-(a) *Specifications.* Each milliliter of ceftiofur hydrochloride suspension contains 50 milligrams (mg) ceftiofur equivalents.
+(a) *Specifications.* Each milliliter of suspension contains:
 
-(b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
+(1) Ceftiofur hydrochloride equivalent to 50 milligrams (mg) of ceftiofur equivalents in the inactive vehicles phospholipan 90H, sorbitan monooleate, and cottonseed oil;
+
+(2) Ceftiofur hydrochloride equivalent to 50 mg ceftiofur equivalents in the inactive vehicle miglyol oil 812; or
+
+(3) Ceftiofur hydrochloride equivalent to 50 mg ceftiofur equivalents in the inactive vehicles aluminum monostearate, sorbitan monooleate, and medium chain triglycerides.
+
+(b) *Sponsors.* See sponsors in § 510.600(c) of this chapter as follows:
+
+(1) No. 054771 for products described in paragraphs (a)(1) and (2) of this section; and
+
+(2) No. 055529 for the product described in paragraph (a)(3) of this section.
 
 (c) *Related tolerances.* See § 556.113 of this chapter.
 
@@ -24,6 +34,8 @@
 
 (ii) *Indications for use.* For treatment of bovine respiratory disease (BRD, shipping fever, pneumonia) associated with *Mannheimia haemolytica*, *P. multocida*, and *Histophilus somni*; acute bovine interdigital necrobacillosis (foot rot, pododermatitis) associated with *Fusobacterium necrophorum* and *Bacteroides melaninogenicus*; and acute metritis (0 to 14 days post-partum) associated with bacteria susceptible to ceftiofur.
 
-(iii) *Limitations.* Treated cattle must not be slaughtered for 4 days following the last treatment. A withdrawal period has not been established in preruminating calves. Do not use in calves to be processed for veal.
+(iii) *Limitations.* (A) For products described in paragraphs (a)(2) and (3) of this section: Treated cattle must not be slaughtered for 3 days following the last treatment. For products described in paragraph (a)(2) of this section: Treated cattle must not be slaughtered for 4 days following the last treatment.
 
-[61 FR 29479, June 11, 1996, as amended at 63 FR 53578, Oct. 6, 1998; 67 FR 45901, July 11, 2002; 69 FR 47362, Aug. 5, 2004. Redesignated and amended at 71 FR 39544, July 13, 2006; 73 FR 45612, Aug. 6, 2008; 76 FR 17338, Mar. 29, 2011; 78 FR 66264, Nov. 5, 2013]
+(B) A withdrawal period has not been established in preruminating calves. Do not use in calves to be processed for veal.
+
+[61 FR 29479, June 11, 1996, as amended at 63 FR 53578, Oct. 6, 1998; 67 FR 45901, July 11, 2002; 69 FR 47362, Aug. 5, 2004. Redesignated and amended at 71 FR 39544, July 13, 2006; 73 FR 45612, Aug. 6, 2008; 76 FR 17338, Mar. 29, 2011; 78 FR 66264, Nov. 5, 2013; 84 FR 39183, Aug. 9, 2019]

@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Each gram of paste contains 0.37 gram omeprazole.
 
-(b) *Sponsor.* See No. 050604 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 000010 in § 510.600(c) of this chapter.
 
 (c) *Special considerations.* When labeled for use as in paragraph (d)(2)(i) of this section, product labeling shall bear: “Federal law restricts this drug to use by or on the order of a licensed veterinarian.”
 
@@ -16,4 +16,4 @@
 
 (3) *Limitations.* Do not use in horses intended for human consumption.
 
-[69 FR 13220, Mar. 22, 2004, as amended at 71 FR 59374, Oct. 10, 2006]
+[69 FR 13220, Mar. 22, 2004, as amended at 71 FR 59374, Oct. 10, 2006; 84 FR 39183, Aug. 9, 2019]

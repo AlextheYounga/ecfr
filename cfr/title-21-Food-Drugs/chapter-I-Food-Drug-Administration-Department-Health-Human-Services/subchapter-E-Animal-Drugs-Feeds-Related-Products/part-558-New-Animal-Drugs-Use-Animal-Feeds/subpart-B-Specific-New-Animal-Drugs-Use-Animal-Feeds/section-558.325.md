@@ -1,5 +1,7 @@
 ##### § 558.325 Lincomycin. #####
 
+Link to an amendment published at 84 FR 39185, Aug. 9, 2019.
+
 (a) *Specifications.* Type A medicated articles containing 20 or 50 grams of lincomycin (as lincomycin hydrochloride) per pound.
 
 (b) *Sponsors.* See No. 054771 in § 510.600(c) of this chapter.

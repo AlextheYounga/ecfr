@@ -19,18 +19,19 @@
 |                                                       Alaco, Inc., 1500 North Wilmot Rd., suite 290-C, Tucson, AZ 85712                                                        |     064146      |
 |                                                      Alexion Pharmaceuticals, Inc., 100 College St., New Haven, CT 06510                                                       |     069334      |
 |                                             American Pharmaceuticals and Cosmetics, Inc., 1401 Joel East Rd., Fort Worth, TX 76140                                             |     065531      |
+|                                                        American Regent, Inc., Animal Health Division, Shirley, NY 11967                                                        |     010797      |
 |                                                       Anika Therapeutics Inc., 236 West Cummings Park, Woburn, MA 01801                                                        |     060865      |
 |                                                Anzac Animal Health, LLC, 218 Millwell Dr., Suite B, Maryland Heights, MO 63043                                                 |     086073      |
 |                                                AquaBounty Technologies, Inc., 2 Mill and Main Pl., Suite 395, Maynard, MA 01754                                                |     086053      |
 |                                                   Aratana Therapeutics, Inc., 11400 Tomahawk Creek Pkwy., Leawood, KS 66211                                                    |     086026      |
 |                                                    Ark Sciences, Inc., 1101 East 33rd St., suite B304, Baltimore, MD 21218                                                     |     076175      |
-|                                                  Aurora Pharmaceutical, LLC, 1196 Highway 3 South, Northfield, MN 55057-3009                                                   |     051072      |
+|                                                  Aurora Pharmaceutical, Inc., 1196 Highway 3 South, Northfield, MN 55057-3009                                                  |     051072      |
 |                                               Axcentive SARL, Chemin de Champouse, Quartier Violesi, 13320 Bouc Bel Air, France                                                |     086009      |
 |                                                             B.L. Mitchell, Inc., 103 Hwy. 82 E., Leland, MS 38756                                                              |     067188      |
 |                                             Bayer HealthCare LLC, Animal Health Division, P.O. Box 390, Shawnee Mission, KS 66201                                              |     000859      |
 |                                                      Belcher Pharmaceuticals, LLC, 6911 Bryan Dairy Rd., Largo, FL 33777                                                       |     062250      |
 |                                         Bimeda Animal Health Ltd., 1B The Herbert Building, The Park, Carrickmines, Dublin 18, Ireland                                         |     061133      |
-|                                            Boehringer Ingelheim Vetmedica, Inc., 2621 North Belt Highway, St. Joseph, MO 64506-2002                                            |     000010      |
+|                                              Boehringer Ingelheim Animal Health USA, Inc., 3239 Satellite Blvd., Duluth, GA 30096                                              |     000010      |
 |                                                         Cephazone Pharma, LLC, 250 East Bonita Ave., Pomona, CA 91767                                                          |     068330      |
 |                                                    Ceva Sante Animale, 10 Avenue de la Ballastière, 33500 Libourne, France                                                     |     013744      |
 |                                                 Chanelle Pharmaceuticals Manufacturing Ltd., Loughrea, County Galway, Ireland                                                  |     061651      |
@@ -53,7 +54,6 @@
 |                                        Hikma International Pharmaceuticals LLC, P.O. Box 182400, Bayader Wadi Seer, Amman, Jordan 11118                                        |     059115      |
 |                                                   HQ Specialty Pharma Corp., 120 Rte. 17 North, suite 130, Paramus, NJ 07652                                                   |     042791      |
 |                                                    Huvepharma EOOD, 5th Floor, 3A Nikolay Haytov Str., 1113 Sofia, Bulgaria                                                    |     016592      |
-|                                                    IDEXX Pharmaceuticals, Inc., 7009 Albert Pick Rd., Greensboro, NC 27409                                                     |     065274      |
 |                                                        IMPAX Laboratories, Inc., 30831 Huntwood Ave., Hayward, CA 94544                                                        |     000115      |
 |                                                               Intervet, Inc., 2 Giralda Farms, Madison, NJ 07940                                                               |     000061      |
 |                                                      Ivaoes Animal Health, 4300 SW 73rd Ave., suite 110, Miami, FL 33155                                                       |     086064      |
@@ -62,10 +62,8 @@
 |                                                   Kinetic Technologies, LLC, 961 Beasley St., suite 270, Lexington, KY 40509                                                   |     051031      |
 |                                                            LFB USA, Inc., 175 Crossing Blvd., Framingham, MA 01702                                                             |     086047      |
 |                                                             Lloyd, Inc., 604 W. Thomas Ave., Shenandoah, IA 51601                                                              |     061690      |
-|                                                   Luitpold Pharmaceuticals, Inc., Animal Health Division, Shirley, NY 11967                                                    |     010797      |
 |                                                       Med-Pharmex, Inc., 2727 Thompson Creek Rd., Pomona, CA 91767-1861                                                        |     054925      |
 |                                                    Medicis Dermatologics, Inc., 8125 North Hayden Rd., Scottsdale, AZ 85258                                                    |     099207      |
-|                                                      Merial, Inc., 3239 Satellite Blvd., bldg. 500, Duluth, GA 30096-4640                                                      |     050604      |
 |                                                   Modern Veterinary Therapeutics, LLC, 14343 SW 119th Ave., Miami, FL 33186                                                    |     015914      |
 |                                                    Mylan Institutional, Inc., 12720 Dairy Ashford Rd., Sugar Land, TX 77478                                                    |     051079      |
 |                                                         Mylan Institutional LLC, 4901 Hiawatha Dr., Rockford, IL 61103                                                         |     063286      |
@@ -80,7 +78,7 @@
 |                                                        Pharmaceutical Ventures, Ltd., P.O. Box D1400, Pomona, NY 10970                                                         |     050057      |
 |                                                           Pharmacosmos, Inc., 776 Mountain Blvd., Watchung, NJ 07069                                                           |     042552      |
 |                                                          Pharmaq AS, Skogmo Industriomrade, N-7863 Overhalla, Norway                                                           |     015331      |
-|                                                            Pharmgate LLC, 1800 Sir Tyler Dr., Wilmington, NC 28405                                                             |     069254      |
+|                                                           Pharmgate, Inc., 1800 Sir Tyler Dr., Wilmington, NC 28405                                                            |     069254      |
 |                               Phibro Animal Health Corp., GlenPointe Centre East, 3d floor, 300 Frank W. Burr Blvd., suite 21, Teaneck, NJ 07666                               |     066104      |
 |                                                     Piramal Critical Care, Inc., 3850 Schelden Circle, Bethlehem, PA 18017                                                     |     066794      |
 |                    Piramal Enterprises Ltd., Ananta, Agastya Corporate Park, Opp Fire Brigade, Kamani Junction, LBS Mag Kurla (West), Mumbai, 400070, India                    |     065085      |
@@ -113,12 +111,12 @@
 
 |Drug labeler code|                                                                              Firm name and address                                                                              |
 |-----------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     000010      |                                            Boehringer Ingelheim Vetmedica, Inc., 2621 North Belt Highway, St. Joseph, MO 64506-2002.                                            |
+|     000010      |                                              Boehringer Ingelheim Animal Health USA, Inc., 3239 Satellite Blvd., Duluth, GA 30096.                                              |
 |     000061      |                                                               Intervet, Inc., 2 Giralda Farms, Madison, NJ 07940.                                                               |
 |     000115      |                                                        IMPAX Laboratories, Inc., 30831 Huntwood Ave., Hayward, CA 94544.                                                        |
 |     000859      |                                             Bayer HealthCare LLC, Animal Health Division, P.O. Box 390, Shawnee Mission, KS 66201.                                              |
 |     010515      |                                                       G. C. Hanford Manufacturing Co., P.O. Box 1017, Syracuse, NY 13201.                                                       |
-|     010797      |                                                   Luitpold Pharmaceuticals, Inc., Animal Health Division, Shirley, NY 11967.                                                    |
+|     010797      |                                                        American Regent, Inc., Animal Health Division, Shirley, NY 11967.                                                        |
 |     012164      |                                                     Halocarbon Products Corp., 887 Kinderkamack Rd., River Edge, NJ 07661.                                                      |
 |     012286      |                                                     ADM Animal Nutrition, Inc., 1000 North 30th St., Quincy, IL 62305-3115.                                                     |
 |     012578      |                                                       Janssen Pharmaceutica NV, Turnhoutseweg 30, B-2340 Beerse, Belgium.                                                       |
@@ -149,9 +147,8 @@
 |     049968      |                                                      Natchez Animal Supply Co., 201 John R. Junkin Dr., Natchez, MS 39120.                                                      |
 |     050057      |                                                        Pharmaceutical Ventures, Ltd., P.O. Box D1400, Pomona, NY 10970.                                                         |
 |     050378      |                                                               Syndel USA, 1441 W. Smith Rd., Ferndale, WA 98248.                                                                |
-|     050604      |                                                      Merial, Inc., 3239 Satellite Blvd., bldg. 500, Duluth, GA 30096-4640.                                                      |
 |     051031      |                                                   Kinetic Technologies, LLC, 961 Beasley St., suite 270, Lexington, KY 40509.                                                   |
-|     051072      |                                                  Aurora Pharmaceutical, LLC, 1196 Highway 3 South, Northfield, MN 55057-3009.                                                   |
+|     051072      |                                                  Aurora Pharmaceutical, Inc., 1196 Highway 3 South, Northfield, MN 55057-3009.                                                  |
 |     051079      |                                                    Mylan Institutional, Inc., 12720 Dairy Ashford Rd., Sugar Land, TX 77478.                                                    |
 |     051233      |                                                              United-AH II LLC, 322 S Main St., Sheridan, IN 46069.                                                              |
 |     051267      |                                                          Cooperative Research Farms, Box 69, Charlotteville, NY 12036.                                                          |
@@ -189,7 +186,6 @@
 |     063604      |                                                           Heska Corp., 1825 Sharp Point Dr., Fort Collins, CO 80525.                                                            |
 |     064146      |                                                       Alaco, Inc., 1500 North Wilmot Rd., suite 290-C, Tucson, AZ 85712.                                                        |
 |     065085      |                    Piramal Enterprises Ltd., Ananta, Agastya Corporate Park, Opp Fire Brigade, Kamani Junction, LBS Mag Kurla (West), Mumbai, 400070, India.                    |
-|     065274      |                                                    IDEXX Pharmaceuticals, Inc., 7009 Albert Pick Rd., Greensboro, NC 27409.                                                     |
 |     065531      |                                             American Pharmaceuticals and Cosmetics, Inc., 1401 Joel East Rd., Fort Worth, TX 76140.                                             |
 |     066104      |                               Phibro Animal Health Corp., GlenPointe Centre East, 3d floor, 300 Frank W. Burr Blvd., suite 21, Teaneck, NJ 07666.                               |
 |     066794      |                                                     Piramal Critical Care, Inc., 3850 Schelden Circle, Bethlehem, PA 18017.                                                     |
@@ -199,7 +195,7 @@
 |     068330      |                                                         Cephazone Pharma, LLC, 250 East Bonita Ave., Pomona, CA 91767.                                                          |
 |     068504      |                                     Parnell Technologies Pty. Ltd., unit 4, 476 Gardeners Rd., Alexandria, New South Wales 2015, Australia.                                     |
 |     069043      |Cronus Pharma Specialities India Private Ltd., Sy No: 99/1, M/s GMR Hyderabad Aviation SEZ L, Mamidipalli Village, Shamshabad Mandal, Ranga, Hyderabad, Telangana, 501218, India.|
-|     069254      |                                                            Pharmgate LLC, 1800 Sir Tyler Dr., Wilmington, NC 28405.                                                             |
+|     069254      |                                                           Pharmgate, Inc., 1800 Sir Tyler Dr., Wilmington, NC 28405.                                                            |
 |     069334      |                                                      Alexion Pharmaceuticals, Inc., 100 College St., New Haven, CT 06510.                                                       |
 |     076033      |                                                    Dragon Fire Holding Co., Inc., 2619 Skyway Dr., Grand Prairie, TX 75052.                                                     |
 |     076175      |                                                    Ark Sciences, Inc., 1101 East 33rd St., suite B304, Baltimore, MD 21218.                                                     |

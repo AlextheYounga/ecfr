@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Conforms to N.F. XII.
 
-(b) *Sponsor.* See No. 050604 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 000010 in § 510.600(c) of this chapter.
 
 (c) *Related tolerances.* See § 556.730 of this chapter.
 
@@ -60,4 +60,4 @@
 
 (iii) *Limitations.* As a single oral dose; do not treat animals within 30 days of slaughter; milk taken from treated animals within 96 hours (8 milkings) after the latest treatment must not be used for food; treatment should be repeated in 2 to 3 weeks.
 
-[40 FR 13838, Mar. 27, 1975, as amended at 41 FR 9149, Mar. 3, 1976; 41 FR 47424, Oct. 29, 1976; 62 FR 63271, Nov. 28, 1997; 79 FR 28832, May 20, 2014]
+[40 FR 13838, Mar. 27, 1975, as amended at 41 FR 9149, Mar. 3, 1976; 41 FR 47424, Oct. 29, 1976; 62 FR 63271, Nov. 28, 1997; 79 FR 28832, May 20, 2014; 84 FR 39183, Aug. 9, 2019]

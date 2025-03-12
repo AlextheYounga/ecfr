@@ -10,11 +10,11 @@
 
 (b) *Sponsors.* See sponsors in § 510.600(c) of this chapter for uses as in paragraph (d) of this section. -
 
-(1) No. 050604 for use of product described in paragraph (a)(1) of this section as in paragraphs (d)(1)(i), (d)(2)(i) and (d)(3) of this section.
+(1) No. 000010 for use of product described in paragraph (a)(1) of this section as in paragraphs (d)(1)(i), (d)(2)(i) and (d)(3) of this section.
 
 (2) No. 051311 for use of product described in paragraph (a)(2) of this section as in paragraphs (d)(1)(ii), (d)(2)(ii), and (d)(3) of this section.
 
-(3) No. 050604 for use of products described in paragraph (a)(3) of this section as in paragraphs (d)(1)(iii), (d)(2)(iii) and (d)(3) of this section.
+(3) No. 000010 for use of products described in paragraph (a)(3) of this section as in paragraphs (d)(1)(iii), (d)(2)(iii) and (d)(3) of this section.
 
 (c) *Special considerations.* See § 500.25 of this chapter.
 
@@ -32,4 +32,4 @@
 
 (3) *Limitations.* For oral use only. Do not use in horses intended for human consumption.
 
-[68 FR 55309, Sept. 25, 2003, as amended at 69 FR 49808, Aug. 12, 2004; 70 FR 65835, Nov. 1, 2005; 79 FR 37619, July 2, 2014]
+[68 FR 55309, Sept. 25, 2003, as amended at 69 FR 49808, Aug. 12, 2004; 70 FR 65835, Nov. 1, 2005; 79 FR 37619, July 2, 2014; 84 FR 39183, Aug. 9, 2019]

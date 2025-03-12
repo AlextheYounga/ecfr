@@ -114,4 +114,4 @@ Where the nature of the proposed activities is such as to require consideration 
 
 (n) A license application that involves the use of special nuclear material in a uranium enrichment facility must include the applicant's provisions for liability insurance.
 
-[21 FR 764, Feb. 3, 1956]Editorial Note:For Federal Register citations affecting § 70.22, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*
+[21 FR 764, Feb. 3, 1956]Editorial Note:For Federal Register citations affecting § 70.22, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

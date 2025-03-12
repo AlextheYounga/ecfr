@@ -124,4 +124,4 @@ This class of material is sometimes referred to as a Category II quantity of mat
 
 *Watchman* means an individual, not necessarily uniformed or armed with a firearm, who provides protection for a plant and the special nuclear material therein in the course of performing other duties.
 
-[38 FR 35430, Dec. 28, 1973]Editorial Note:For Federal Register citations affecting § 73.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*
+[38 FR 35430, Dec. 28, 1973]Editorial Note:For Federal Register citations affecting § 73.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

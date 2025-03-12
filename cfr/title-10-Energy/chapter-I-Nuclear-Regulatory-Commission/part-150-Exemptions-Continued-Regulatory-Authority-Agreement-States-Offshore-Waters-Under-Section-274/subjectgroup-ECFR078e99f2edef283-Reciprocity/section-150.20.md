@@ -1,6 +1,6 @@
 ##### § 150.20 Recognition of Agreement State licenses. #####
 
-(a)(1) Provided that the provisions of paragraph (b) of this section have been met, any person who holds a specific license from an Agreement State, where the licensee maintains an office for directing the licensed activity and retaining radiation safety records, is granted a general license to conduct the same activity in -
+(a)(1) Provided that the provisions of paragraph (b) of this section have been met, any person who holds a specific license from an Agreement State, where the licensee maintains an office for directing the licensed activity and retaining radiation safety records, is granted a general license to conduct the same activity in—
 
 (i) Non-Agreement States;
 
@@ -28,4 +28,4 @@
 
 (5) Shall comply with all terms and conditions of the specific license issued by an Agreement State except such terms or conditions as are contrary to the requirements of this section.
 
-[35 FR 7725, May 20, 1970]Editorial Note:For Federal Register citations affecting § 150.20, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*
+[35 FR 7725, May 20, 1970]Editorial Note:For Federal Register citations affecting § 150.20, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

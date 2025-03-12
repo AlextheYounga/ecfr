@@ -12,4 +12,4 @@
 
 (b) In any case where a person is authorized under parts 50, 52, or 54 of this chapter to operate two or more nuclear reactors at the same location, the total primary financial protection required of the licensee for all such reactors is the highest amount which would otherwise be required for any one of those reactors; provided, that such primary financial protection covers all reactors at the location.
 
-[25 FR 2944, Apr. 7, 1960]Editorial Note:For Federal Register citations affecting § 140.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*
+[25 FR 2944, Apr. 7, 1960]Editorial Note:For Federal Register citations affecting § 140.11, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

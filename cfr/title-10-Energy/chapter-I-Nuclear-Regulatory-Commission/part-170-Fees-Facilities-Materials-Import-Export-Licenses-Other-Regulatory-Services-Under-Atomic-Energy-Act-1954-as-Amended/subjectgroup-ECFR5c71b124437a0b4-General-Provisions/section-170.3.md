@@ -146,4 +146,4 @@ The phrase *review is completed* as used in this part means that the review has 
 
 (2) An accelerator-driven subcritical operating assembly used for the irradiation of materials containing special nuclear material and described in the application assigned docket number 50-608.
 
-[33 FR 10924, Aug. 1, 1968]Editorial Note:For Federal Register citations affecting § 170.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*
+[33 FR 10924, Aug. 1, 1968]Editorial Note:For Federal Register citations affecting § 170.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -2,7 +2,7 @@
 
 As prescribed in 203.1004(b)(2)(ii), use the following clause:
 
-Display of Hotline Posters (MAY 2019)
+Display of Hotline Posters (AUG 2019)
 
 (a) *Definition.* As used in this clause -
 
@@ -18,7 +18,7 @@ Display of Hotline Posters (MAY 2019)
 
 (ii) Via the Internet at *https://www.oig.dhs.gov/assets/Hotline/DHS\_OIG\_Hotline-optimized.jpg.*
 
-(c)(1) These DoD hotline poster may be obtained from: Defense Hotline, The Pentagon, Washington, DC 20301-1900, or is also available via the internet at *http://www.dodig.mil/hotline/hotline\_posters.htm.*
+(c)(1) These DoD hotline poster may be obtained from: Defense Hotline, The Pentagon, Washington, DC 20301-1900, or is also available via the internet at *https://www.dodig.mil/Resources/Posters-and-Brochures/.*
 
 (2) If a significant portion of the employee workforce does not speak English, then the poster is to be displayed in the foreign languages that a significant portion of the employees speak.
 
@@ -26,4 +26,4 @@ Display of Hotline Posters (MAY 2019)
 
 (d) *Subcontracts.* The Contractor shall include the substance of this clause, including this paragraph (d), in all subcontracts that exceed the threshold specified in Defense Federal Acquisition Regulation Supplement 203.1004(b)(2)(ii) on the date of subcontract award, except when the subcontract is for the acquisition of a commercial item.
 
-(End of clause)[80 FR 5001, Jan. 29, 2015, as amended at 80 FR 36905, June 26, 2015; 81 FR 73006, Oct. 21, 2016; 84 FR 25187, May 31, 2019]
+(End of clause)[80 FR 5001, Jan. 29, 2015, as amended at 80 FR 36905, June 26, 2015; 81 FR 73006, Oct. 21, 2016; 84 FR 25187, May 31, 2019; 84 FR 39203, Aug. 9, 2019]

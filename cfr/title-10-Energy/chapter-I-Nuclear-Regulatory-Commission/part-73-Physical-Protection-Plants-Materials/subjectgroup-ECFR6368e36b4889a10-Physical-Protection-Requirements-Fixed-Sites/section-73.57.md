@@ -82,4 +82,4 @@
 
 (ii) Unescorted access to special nuclear material in the non-power reactor facility provided the individual who is seeking or permitted unescorted access possesses the capability and knowledge to make unauthorized use of the special nuclear material in the non-power reactor facility or to remove the special nuclear material from the non-power reactor in an unauthorized manner.
 
-[52 FR 6314, Mar. 2, 1987; 52 FR 7821, Mar. 13, 1987]Editorial Note:For Federal Register citations affecting § 73.57, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfogovinfo.gov.*
+[52 FR 6314, Mar. 2, 1987; 52 FR 7821, Mar. 13, 1987]Editorial Note:For Federal Register citations affecting § 73.57, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
