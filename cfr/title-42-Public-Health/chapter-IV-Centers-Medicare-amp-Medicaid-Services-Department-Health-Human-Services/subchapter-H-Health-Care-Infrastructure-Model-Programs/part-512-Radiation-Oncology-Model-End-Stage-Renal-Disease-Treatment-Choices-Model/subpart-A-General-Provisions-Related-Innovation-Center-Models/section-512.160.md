@@ -1,5 +1,7 @@
 ##### § 512.160 Remedial action. #####
 
+Link to an amendment published at 86 FR 62020, Nov. 8, 2021.
+
 (a) *Grounds for remedial action.* CMS may take one or more remedial actions described in paragraph (b) of this section if CMS determines that the model participant or a downstream participant:
 
 (1) Has failed to comply with any of the terms of the Innovation Center Model, including this subpart.

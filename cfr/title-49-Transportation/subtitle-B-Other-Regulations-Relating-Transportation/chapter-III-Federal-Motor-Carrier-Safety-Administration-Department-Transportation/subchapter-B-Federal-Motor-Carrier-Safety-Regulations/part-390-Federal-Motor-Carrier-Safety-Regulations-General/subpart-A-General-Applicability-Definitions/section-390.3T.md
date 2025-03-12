@@ -1,7 +1,5 @@
 ##### § 390.3T General applicability. #####
 
-Link to an amendment published at 86 FR 55743, Oct. 7, 2021.
-
 (a)(1) The rules in this subchapter are applicable to all employers, employees, and commercial motor vehicles that transport property or passengers in interstate commerce.
 
 (2) The rules in 49 CFR 386.12(c) and 390.6 prohibiting the coercion of drivers of commercial motor vehicles operating in interstate commerce:
@@ -22,9 +20,9 @@ Link to an amendment published at 86 FR 55743, Oct. 7, 2021.
 
 (3) All motor vehicle equipment and accessories required by this subchapter shall be maintained in compliance with all applicable performance and design criteria set forth in this subchapter.
 
-(f) *Exceptions.* Unless otherwise specifically provided, the rules in this subchapter do not apply to -
+(f) *Exceptions.* Unless otherwise specifically provided, the rules in this subchapter do not apply to—
 
-(1) All school bus operations as defined in § 390.5T, except for the provisions of §§ 391.15(e) and (f), 392.80, and 392.82 of this chapter.
+(1) All school bus operations as defined in § 390.5T, except for §§ 391.15(e) and (f), 392.15, 392.80, and 392.82 of this chapter;
 
 (2) Transportation performed by the Federal government, a State, or any political subdivision of a State, or an agency established under a compact between States that has been approved by the Congress of the United States;
 
@@ -60,4 +58,4 @@ Link to an amendment published at 86 FR 55743, Oct. 7, 2021.
 
 (5) Part 396 of this chapter, Inspection, Repair, and Maintenance.
 
-[82 FR 5310, Jan. 17, 2017, as amended at 83 FR 22877, May 17, 2018; 86 FR 57072, Oct. 14, 2021]
+[82 FR 5310, Jan. 17, 2017, as amended at 83 FR 22877, May 17, 2018; 86 FR 55743, Oct. 7, 2021; 86 FR 57072, Oct. 14, 2021]

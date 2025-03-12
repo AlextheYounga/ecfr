@@ -8,4 +8,6 @@
 
 (2) *Swine.* Kidney (target tissue): 15 ppm.
 
-(c) *Related conditions of use.* See § 522.2630 of this chapter.
+(c) *Related conditions of use.* See §§ 522.2630 and 522.2632 of this chapter.
+
+[84 FR 32993, July 11, 2019, as amended at 86 FR 61686, Nov. 8, 2021]

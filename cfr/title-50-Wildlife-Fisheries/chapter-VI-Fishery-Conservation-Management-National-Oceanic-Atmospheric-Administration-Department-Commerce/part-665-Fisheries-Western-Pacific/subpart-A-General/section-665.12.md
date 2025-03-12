@@ -1,7 +1,5 @@
 ##### § 665.12 Definitions. #####
 
-Link to an amendment published at 86 FR 55745, Oct. 7, 2021.
-
 In addition to the definitions in the Magnuson-Stevens Act, § 600.10 of this chapter, and subparts B through F of this part, general definitions for western Pacific fisheries have the following meanings:
 
 *American Samoa FEP* means the Fishery Ecosystem Plan for American Samoa, available from the Western Pacific Fishery Management Council or PIRO.
@@ -124,6 +122,8 @@ In addition to the definitions in the Magnuson-Stevens Act, § 600.10 of this ch
 
 *Selective gear* means any gear used for harvesting coral that can discriminate or differentiate between type, size, quality, or characteristics of living or dead coral.
 
+*Small vessel* means, as used in this part, any vessel less than 50 ft (15.2 m) in length overall.
+
 *Special Agent-In-Charge (SAC)* means the Special Agent-In-Charge, NMFS, Pacific Islands Enforcement Division, located at 1845 Wasp Blvd., Bldg. 176, Honolulu, HI 96818; telephone number: 808-725-6100, or a designee.
 
 *Special permit* means a permit issued to allow fishing for coral reef ECS in low-use MPAs or with any gear not specifically allowed under § 665.127, § 665.227, or § 665.427.
@@ -142,4 +142,4 @@ In addition to the definitions in the Magnuson-Stevens Act, § 600.10 of this ch
 
 *Western Pacific fishery management area* means those waters shoreward of the outer boundary of the EEZ around American Samoa, Guam, Hawaii, CNMI, Midway, Johnston and Palmyra Atolls, Kingman Reef, and Wake, Jarvis, Baker, and Howland Islands.
 
-[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 37286, June 27, 2011; 78 FR 33003, June 3, 2013; 79 FR 64111, Oct. 28, 2014; 84 FR 2768, Feb. 8, 2019; 84 FR 29396, June 24, 2019]
+[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 37286, June 27, 2011; 78 FR 33003, June 3, 2013; 79 FR 64111, Oct. 28, 2014; 84 FR 2768, Feb. 8, 2019; 84 FR 29396, June 24, 2019; 86 FR 55745, Oct. 7, 2021]

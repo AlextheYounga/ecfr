@@ -1,5 +1,3 @@
-##### § 59.11 Confidentiality. #####
+##### § 59.11 Additional conditions. #####
 
-All information as to personal facts and circumstances obtained by the project staff about individuals receiving services must be held confidential and not be disclosed without the individual's documented consent, except as may be necessary to provide services to the patient or as required by law, with appropriate safeguards for confidentiality; concern with respect to the confidentiality of information, however, may not be used as a rationale for noncompliance with laws requiring notification or reporting of child abuse, child molestation, sexual abuse, rape, incest, intimate partner violence, human trafficking, or similar reporting laws. Otherwise, information may be disclosed only in summary, statistical, or other form which does not identify particular individuals.
-
-[84 FR 7788, Mar. 4, 2019]
+The Secretary may, with respect to any grant, impose additional conditions prior to, at the time of, or during any award, when in the Department's judgment these conditions are necessary to assure or protect advancement of the approved program, the interests of public health, or the proper use of grant funds.

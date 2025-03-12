@@ -1,10 +1,8 @@
 ##### § 880.607 Termination of tenancy and modification of lease. #####
 
-Link to an amendment published at 86 FR 55701, Oct. 7, 2021.
-
 (a) *Applicability.* The provisions of this section apply to all decisions by an owner to terminate the tenancy of a family residing in a unit under Contract during or at the end of the family's lease term.
 
-(b) *Entitlement of Families to occupancy* - (1) *Grounds.* The owner may not terminate any tenancy except upon the following grounds:
+(b) *Entitlement of Families to occupancy*—(1) *Grounds.* The owner may not terminate any tenancy except upon the following grounds:
 
 (i) Material noncompliance with the lease;
 
@@ -34,6 +32,12 @@ Link to an amendment published at 86 FR 55701, Oct. 7, 2021.
 
 (5) In actions or potential actions to terminate tenancy, the owner shall follow 24 CFR part 5, subpart L (Protection for Victims of Domestic Violence, Dating Violence, Sexual Assault, or Stalking).
 
+(6) In the case of failure to pay rent, if the Secretary determines that tenants must be provided with adequate notice to secure Federal funding that is available due to a Presidential declaration of a national emergency:
+
+(i) The termination notice must provide such information as required by the Secretary; and
+
+(ii) The notice must provide the tenant with at least 30 days before termination.
+
 (d) *Modification of Lease form.* The owner, with the prior approval of HUD or, for a 24 CFR part 883 project, the Agency, may modify the terms and conditions of the lease form effective at the end of the initial term or a successive term, by serving an appropriate notice on the family, together with the offer of a revised lease or an addendum revising the existing lease. This notice and offer must be received by the family at least 30 days prior to the last date on which the family has the right to terminate the tenancy without being bound by the modified terms and conditions. The family may accept the modified terms and conditions by executing the offered revised lease or addendum, or may reject the modified terms and conditions by giving the owner written notice in accordance with the lease that the family intends to terminate the tenancy. Any increase in rent must in all cases be governed by § 880.609 and other applicable HUD regulations.
 
-(Approved by the Office of Management and Budget under control number 2502-0204)[44 FR 59410, Oct. 15, 1979, as amended at 51 FR 11225, Apr. 1, 1986; 53 FR 846, Jan. 13, 1988; 53 FR 6601, Mar. 2, 1988; 54 FR 39703, Sept. 27, 1989; 56 FR 7537, Feb. 22, 1991; 60 FR 14842, Mar. 20, 1995; 61 FR 13590, Mar. 27, 1996; 61 FR 47382, Sept. 6, 1996; 66 FR 28797, May 24, 2001; 73 FR 72342, Nov. 28, 2008; 75 FR 66260, Oct. 27, 2010; 81 FR 80811, Nov. 16, 2016]
+(Approved by the Office of Management and Budget under control number 2502-0204)[44 FR 59410, Oct. 15, 1979, as amended at 51 FR 11225, Apr. 1, 1986; 53 FR 846, Jan. 13, 1988; 53 FR 6601, Mar. 2, 1988; 54 FR 39703, Sept. 27, 1989; 56 FR 7537, Feb. 22, 1991; 60 FR 14842, Mar. 20, 1995; 61 FR 13590, Mar. 27, 1996; 61 FR 47382, Sept. 6, 1996; 66 FR 28797, May 24, 2001; 73 FR 72342, Nov. 28, 2008; 75 FR 66260, Oct. 27, 2010; 81 FR 80811, Nov. 16, 2016; 86 FR 55701, Oct. 7, 2021]

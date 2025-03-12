@@ -1,5 +1,7 @@
 ##### § 413.177 Quality incentive program payment. #####
 
+Link to an amendment published at 86 FR 62020, Nov. 8, 2021.
+
 (a) With respect to renal dialysis services as defined under § 413.171, in the case of an ESRD facility that does not earn enough points under the program described at § 413.178 to meet or exceed the minimum total performance score (as defined at § 413.178(a)(8)) established by CMS for a payment year (as defined at § 413.178(a)(10)), payments otherwise made to the facility under § 413.230 for renal dialysis services during the payment year will be reduced by up to 2 percent as follows:
 
 (1) For every 10 points that the total performance score (as defined at § 413.178(a)(14)) earned by the ESRD facility falls below the minimum total performance score, the payments otherwise made will be reduced by 0.5 percent.

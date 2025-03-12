@@ -1,5 +1,7 @@
 ##### § 126.612 When may a CO award sole source contracts to HUBZone small business concerns? #####
 
+Link to an amendment published at 86 FR 61673, Nov. 8, 2021.
+
 A contracting officer may award a sole source contract to a HUBZone small business concern only when the contracting officer determines that:
 
 (a) None of the provisions of §§ 126.605 or 126.607 apply;

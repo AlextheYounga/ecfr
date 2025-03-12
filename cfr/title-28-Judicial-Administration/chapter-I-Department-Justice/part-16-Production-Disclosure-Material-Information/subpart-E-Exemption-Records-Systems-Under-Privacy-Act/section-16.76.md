@@ -1,5 +1,7 @@
 ##### § 16.76 Exemption of Justice Management Division. #####
 
+Link to an amendment published at 86 FR 61691, Nov. 8, 2021.
+
 (a) The following system of records is exempt from 5 U.S.C. 552a(d):
 
 (1) Controlled Substances Act Nonpublic Records (JUSTICE/JMD-002).

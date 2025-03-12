@@ -1,5 +1,7 @@
 ##### § 512.360 Beneficiary population and attribution. #####
 
+Link to an amendment published at 86 FR 62021, Nov. 8, 2021.
+
 (a) *General.* Except as provided in paragraph (b) of this section, CMS attributes ESRD Beneficiaries to an ETC Participant for each month during a MY based on the ESRD Beneficiary's receipt of services specified in paragraph (c) of this section during that month, for the purpose of assessing the ETC Participant's performance on the home dialysis rate and transplant rate during that MY. Except as provided in paragraph (b) of this section, CMS attributes Pre-emptive LDT Beneficiaries to a Managing Clinician for one or more months during a MY based on the Pre-emptive LDT Beneficiary's receipt of services specified in paragraph (c)(2) of this section during that MY, for the purpose of assessing the Managing Clinician's performance on the living donor transplant rate during that MY. CMS attributes ESRD Beneficiaries and, if applicable, Pre-emptive LDT Beneficiaries to the ETC Participant for each month during a MY retrospectively after the end of the MY. CMS attributes an ESRD Beneficiary to no more than one ESRD facility and no more than one Managing Clinician for a given month during a given MY. CMS attributes a Pre-emptive LDT Beneficiary to no more than one Managing Clinician for a given MY.
 
 (b) *Exclusions from attribution.* CMS does not attribute an ESRD Beneficiary or Pre-emptive LDT Beneficiary to an ETC Participant for a month if, at any point during the month, the beneficiary -

@@ -1,6 +1,6 @@
 ##### 517.208 Solicitation provisions. #####
 
-(a) Insert a provision substantially the same as the provision at 552.227217-70, Evaluation of Options, in solicitations for the Special Order Program when the following conditions apply:
+(a) Insert a provision substantially the same as the provision at 217-70, Evaluation of Options, in solicitations for the Special Order Program when the following conditions apply:
 
 (1) The solicitation contains an option clause to extend the term of the contract; and
 

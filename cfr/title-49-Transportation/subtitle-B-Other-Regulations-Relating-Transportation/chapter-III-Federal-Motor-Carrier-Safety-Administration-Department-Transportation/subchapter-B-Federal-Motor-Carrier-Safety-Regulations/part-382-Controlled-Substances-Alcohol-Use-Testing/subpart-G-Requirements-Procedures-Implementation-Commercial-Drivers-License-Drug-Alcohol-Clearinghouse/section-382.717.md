@@ -1,10 +1,8 @@
 ##### § 382.717 Procedures for correcting certain information in the database. #####
 
-Link to an amendment published at 86 FR 55742, Oct. 7, 2021.
-
 (a) *Petitions limited to incorrectly reported information.* (1) Under this section, petitioners may request only that administrative errors be corrected (*e.g.,* errors in data entry or a duplicate report of a positive test result); petitioners may not contest the accuracy of test results, test refusals, or other violation information, under this section.
 
-(2) *Exceptions.* (i) Petitioners may request that FMCSA remove from the Clearinghouse an employer's report of actual knowledge that the driver received a traffic citation for driving a commercial motor vehicle while under the influence of alcohol or controlled substances if the citation did not result in a conviction. For the purposes of this section, conviction has the same meaning as used in 49 CFR part 383.
+(2) *Exceptions.* (i) Petitioners may request that FMCSA add documentary evidence of a non-conviction to an employer's report of actual knowledge that the driver received a traffic citation for driving a commercial motor vehicle while under the influence of alcohol or controlled substances if the citation did not result in a conviction. For the purposes of this section, conviction has the same meaning as used in 49 CFR part 383.
 
 (ii) Petitioners may request that FMCSA remove from the Clearinghouse an employer's report of actual knowledge (other than as provided for in paragraph (a)(2)(i) of this section) if that report does not comply with the reporting requirements in § 382.705(b)(5).
 
@@ -36,4 +34,4 @@ Link to an amendment published at 86 FR 55742, Oct. 7, 2021.
 
 (g) *Subsequent notification to employers.* When information is corrected or removed in accordance with this section, or in accordance with 49 CFR part 10, FMCSA will notify any employer that accessed the incorrect information that a correction or removal was made.
 
-[81 FR 87725, Dec. 5, 2016, as amended at 86 FR 35640, July 7, 2021; 86 FR 57069, Oct. 14, 2021]
+[81 FR 87725, Dec. 5, 2016, as amended at 86 FR 35640, July 7, 2021; 86 FR 55742, Oct. 7, 2021; 86 FR 57069, Oct. 14, 2021]

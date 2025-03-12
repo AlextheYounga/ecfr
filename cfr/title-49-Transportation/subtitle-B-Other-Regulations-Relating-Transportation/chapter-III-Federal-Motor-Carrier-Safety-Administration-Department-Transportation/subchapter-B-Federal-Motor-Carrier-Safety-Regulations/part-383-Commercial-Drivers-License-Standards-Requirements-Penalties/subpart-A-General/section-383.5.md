@@ -1,7 +1,5 @@
 ##### § 383.5 Definitions. #####
 
-Link to an amendment published at 86 FR 55742, Oct. 7, 2021.
-
 As used in this part:
 
 *Administrator* means the Federal Motor Carrier Safety Administrator, the chief executive of the Federal Motor Carrier Safety Administration, an agency within the Department of Transportation.
@@ -26,7 +24,7 @@ As used in this part:
 
 (3) A State allows the driver to change his or her certification to intrastate, but operating exclusively in transportation or operations excepted from all or part of the State driver qualification requirements, or
 
-(4) A State removes the CDL privilege from the driver license.
+(4) A State removes the CLP or CDL privilege from the driver's license.
 
 *CDL driver* means a person holding a CDL or a person required to hold a CDL.
 
@@ -44,13 +42,13 @@ As used in this part:
 
 *Commercial learner's permit (CLP)* means a permit issued to an individual by a State or other jurisdiction of domicile, in accordance with the standards contained in this part, which, when carried with a valid driver's license issued by the same State or jurisdiction, authorizes the individual to operate a class of a commercial motor vehicle when accompanied by a holder of a valid CDL for purposes of behind-the-wheel training. When issued to a CDL holder, a CLP serves as authorization for accompanied behind-the-wheel training in a CMV for which the holder's current CDL is not valid.
 
-*Commercial motor vehicle (CMV)* means a motor vehicle or combination of motor vehicles used in commerce to transport passengers or property if the motor vehicle is a -
+*Commercial motor vehicle (CMV)* means a motor vehicle or combination of motor vehicles used in commerce to transport passengers or property if the motor vehicle is a—
 
-(1) Combination Vehicle (Group A) - having a gross combination weight rating or gross combination weight of 11,794 kilograms or more (26,001 pounds or more), whichever is greater, inclusive of a towed unit(s) with a gross vehicle weight rating or gross vehicle weight of more than 4,536 kilograms (10,000 pounds), whichever is greater; or
+(1) Combination Vehicle (Group A)—having a gross combination weight rating or gross combination weight of 11,794 kilograms or more (26,001 pounds or more), whichever is greater, inclusive of a towed unit(s) with a gross vehicle weight rating or gross vehicle weight of more than 4,536 kilograms (10,000 pounds), whichever is greater; or
 
-(2) Heavy Straight Vehicle (Group B) - having a gross vehicle weight rating or gross vehicle weight of 11,794 or more kilograms (26,001 pounds or more), whichever is greater; or
+(2) Heavy Straight Vehicle (Group B)—having a gross vehicle weight rating or gross vehicle weight of 11,794 or more kilograms (26,001 pounds or more), whichever is greater; or
 
-(3) Small Vehicle (Group C) that does not meet Group A or B requirements but that either -
+(3) Small Vehicle (Group C) that does not meet Group A or B requirements but that either—
 
 (i) Is designed to transport 16 or more passengers, including the driver; or
 
@@ -72,7 +70,7 @@ As used in this part:
 
 *Driver's license* means a license issued by a State or other jurisdiction, to an individual which authorizes the individual to operate a motor vehicle on the highways.
 
-*Driving a commercial motor vehicle while under the influence of alcohol* means committing any one or more of the following acts in a CMV -
+*Driving a commercial motor vehicle while under the influence of alcohol* means committing any one or more of the following acts in a CMV—
 
 (1) Driving a CMV while the person's alcohol concentration is 0.04 or more;
 

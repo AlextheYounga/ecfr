@@ -30,44 +30,53 @@
 |(i) 5 mg/kg body weight (2.27 mg/lb)|Dairy and beef cattle: For the removal and control of: Lungworms (Dictyocaulus viviparus); Stomach worms: barberpole worms (Haemonchus contortus), brown stomach worms (Ostertagia ostertagi), small stomach worms (Trichostrongylus axei); Intestinal worms: hookworms (Bunostomum phlebotomum), thread-necked intestinal worms (Nematodirus helvetianus), small intestinal worms (Cooperia oncophora and C. punctata); Bankrupt worms (Trichostrongylus colubriformis); and Nodular worms (Oesophagostomum radiatum).|Feed as the sole ration or as a top dress for one day. Retreatment may be needed after 4 to 6 weeks. Cattle must not be slaughtered within 13 days following last treatment. For dairy cattle the milk discard time is zero hours. A withdrawal period has not been established for this product in pre-ruminating calves. Do not use in calves to be processed for veal.|000061 |
 |          (ii) [Reserved]           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |                                                                                                                                                                                                                                                                                                                                                                         |       |
 
-(iii) *Free-choice feeds* - (A) *Amount.* 5 mg/kg body weight (2.27 mg/lb), including the following formulations:
+(iii) *Free-choice medicated feeds* - (A) *Proprietary formulas (§ 510.455(e)(2) of this chapter).* The following feeds can be manufactured only per an approved proprietary formula and specifications:
 
-|       Ingredient<sup>1</sup>       |Percent|International Feed No.|
-|------------------------------------|-------|----------------------|
-| (1) Free-choice, dry Type C feed:  |       |                      |
-|       Salt (sodium chloride)       | 59.00 |       6-04-152       |
-|        Monosodium phosphate        | 31.16 |       6-04-288       |
-|         Dried cane molasses        | 3.12  |       4-04-695       |
-|            Zinc sulfate            | 0.76  |       6-05-556       |
-|           Copper sulfate           | 0.45  |       6-01-720       |
-|   Fenbendazole 20% Type A article  | 5.51  |         n/a          |
-| (2) Free-choice, dry Type C feed:  |       |                      |
-|       Salt (sodium chloride)       | 35.93 |       6-04-152       |
-|    Dicalcium phosphate (18.5% P)   | 32.44 |       6-00-080       |
-|     Calcium carbonate (38% Ca)     | 15.93 |       6-01-069       |
-|      Magnesium oxide (56% Mg)      | 10.14 |       6-02-756       |
-|            Zinc sulfate            | 1.47  |       6-05-556       |
-|             Mineral oil            | 1.00  |       8-03-123       |
-|  Dried cane molasses (46% sugars)  | 0.98  |       4-04-695       |
-|          Potassium iodide          | 0.01  |       6-03-759       |
-|   Fenbendazole 20% Type A article  | 2.10  |         n/a          |
-|(3) Free-choice, liquid Type C feed:|       |                      |
-|      Cane molasses<sup>2</sup>     |80.902 |       4-13-251       |
-|                Water               | 9.36  |         n/a          |
-|         Urea solution, 55%         | 7.05  |       5-05-707       |
-|  Phosphoric acid 75% (feed grade)  | 2.00  |       6-03-707       |
-|             Xantham gum            | 0.20  |       8-15-818       |
-|           Trace minerals           | 0.20  |         n/a          |
-|           Vitamin premix           | 0.01  |         n/a          |
-|   Fenbendazole 20% Type A article  | 0.278 |         n/a          |
+|                             Amount fenbendazole                             |                                                                                                                                                                                                                                                                                                                             Indications for use                                                                                                                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                            Limitations                                                                                                                                                                                                                                                                                                                            |Sponsor|
+|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|
+|(1) 750 mg/lb of protein block (to provide 5 mg/kg body weight (2.27 mg/lb)) |Beef cattle: For the treatment and control of: Lungworms: adult (Dictyocaulus viviparus); Stomach worms: Adult brown stomach worms (Ostertagia ostertagi), adult and fourth-stage larvae barberpole worms (Haemonchus contortus), fourth-stage larvae barberpole worms (H. placei), and adult and fourth-stage larvae small stomach worms (Trichostrongylus axei); Intestinal worms (adult and fourth-stage larvae): Hookworms (Bunostomum phlebotomum), thread-necked intestinal worms (Nematodirus helvetianus), small intestinal worms (Cooperia punctata and C. oncophora), bankrupt worms (Trichostrongylus colubriformis), and nodular worms (Oesophagostomum radiatum)|Feed free choice at a rate of 0.1 pound of block per 100 pounds of body weight per day for 3 days to deliver a total of 2.27 mg fenbendazole per pound of body weight. Cattle must not be slaughtered for human consumption within 16 days following last treatment with this drug product. Not for use in female dairy cattle 20 months of age or older, including dry dairy cows. Use in these cattle may cause drug residues in milk and/or in calves born to these cows or heifers. Not for use in beef calves less than 2 months of age, dairy calves, and veal calves. A withdrawal period has not been established for this product in pre-ruminating calves|000061 |
+|(2) 750 mg/lb of molasses block (to provide 5 mg/kg body weight (2.27 mg/lb))|Beef cattle: For the treatment and control of: Lungworms: adult (Dictyocaulus viviparus); Stomach worms: Adult brown stomach worms (Ostertagia ostertagi), adult and fourth-stage larvae barberpole worms (Haemonchus contortus), fourth-stage larvae barberpole worms (H. placei), and adult and fourth-stage larvae small stomach worms (Trichostrongylus axei); Intestinal worms (adult and fourth-stage larvae): Hookworms (Bunostomum phlebotomum), thread-necked intestinal worms (Nematodirus helvetianus), small intestinal worms (Cooperia punctata and C. oncophora), bankrupt worms (Trichostrongylus colubriformis), and nodular worms (Oesophagostomum radiatum)|Feed free choice at a rate of 0.1 pound of block per 100 pounds of body weight per day for 3 days to deliver a total of 2.27 mg fenbendazole per pound of body weight. Cattle must not be slaughtered for human consumption within 11 days following last treatment with this drug product. Not for use in female dairy cattle 20 months of age or older, including dry dairy cows. Use in these cattle may cause drug residues in milk and/or in calves born to these cows or heifers. Not for use in beef calves less than 2 months of age, dairy calves, and veal calves. A withdrawal period has not been established for this product in pre-ruminating calves|000061 |
 
-<sup>1</sup>The content of any added vitamin and trace mineral may be varied; however, they should be comparable to those used by the manufacturer for other free-choice cattle feeds. Formulation modifications require FDA approval prior to marketing. Selenium is not approved for the free-choice formulations described in paragraph (e)(3)(iii) of this section. Free-choice cattle feeds containing selenium must comply with published regulations (see 21 CFR 573.920).
+(B) *Published formulas (§ 510.455(e)(1) of this chapter).* The following feeds can be manufactured only per one of the formulas and specifications published below:
 
-<sup>2</sup>The percentage of cane molasses and water in the formulation may be adjusted as needed in order to bring the brix value of the molasses to the industry standard of 79.5 brix.
+(*1*) *Amount.* 5 mg/kg body weight (2.27 mg/lb), including the following formulations:
 
-(B) *Indications for use.* As in paragraph (e)(3)(i) of this section.
+|        Ingredient<sup>1</sup>        |Percent|International  <br/>feed No.|
+|--------------------------------------|-------|----------------------------|
+|  (i) Free-choice, dry Type C feed:   |       |                            |
+|        Salt (sodium chloride)        | 59.00 |          6-04-152          |
+|         Monosodium phosphate         | 31.16 |          6-04-288          |
+|         Dried cane molasses          | 3.12  |          4-04-695          |
+|             Zinc sulfate             | 0.76  |          6-05-556          |
+|            Copper sulfate            | 0.45  |          6-01-720          |
+|   Fenbendazole 20% Type A article    | 5.51  |            n/a             |
+|  (ii) Free-choice, dry Type C feed:  |       |                            |
+|        Salt (sodium chloride)        | 35.93 |          6-04-152          |
+|    Dicalcium phosphate (18.5% P)     | 32.44 |          6-00-080          |
+|      Calcium carbonate (38% Ca)      | 15.93 |          6-01-069          |
+|       Magnesium oxide (56% Mg)       | 10.14 |          6-02-756          |
+|             Zinc sulfate             | 1.47  |          6-05-556          |
+|             Mineral oil              | 1.00  |          8-03-123          |
+|   Dried cane molasses (46% sugars)   | 0.98  |          4-04-695          |
+|           Potassium iodide           | 0.01  |          6-03-759          |
+|   Fenbendazole 20% Type A article    | 2.10  |            n/a             |
+|(iii) Free-choice, liquid Type C feed:|       |                            |
+|      Cane molasses<sup>2</sup>       |80.902 |          4-13-251          |
+|                Water                 | 9.36  |            n/a             |
+|          Urea solution, 55%          | 7.05  |          5-05-707          |
+|   Phosphoric acid 75% (feed grade)   | 2.00  |          6-03-707          |
+|             Xantham gum              | 0.20  |          8-15-818          |
+|            Trace minerals            | 0.20  |            n/a             |
+|            Vitamin premix            | 0.01  |            n/a             |
+|   Fenbendazole 20% Type A article    | 0.278 |            n/a             |
 
-(C) *Limitations.* Feed a total of 5 mg of fenbendazole per kg (2.27 mg/lb) of body weight to cattle over a 3- to 6-day period. Retreatment may be needed after 4 to 6 weeks. Cattle must not be slaughtered within 13 days following last treatment. For dairy cattle the milk discard time is zero hours. A withdrawal period has not been established for this product in pre-ruminating calves. Do not use in calves to be processed for veal.
+<sup>1</sup> The content of any added vitamin and trace mineral may be varied; however, they should be comparable to those used by the manufacturer for other free-choice cattle feeds. Formulation modifications require FDA approval prior to marketing. Selenium is not approved for the free-choice formulations described in paragraph (e)(3)(iii) of this section. Free-choice cattle feeds containing selenium must comply with published regulations (see 21 CFR 573.920).
+
+<sup>2</sup> The percentage of cane molasses and water in the formulation may be adjusted as needed in order to bring the brix value of the molasses to the industry standard of 79.5 brix.
+
+(*2*) *Indications for use.* As in paragraph (e)(3)(i) of this section.
+
+(*3*) *Limitations.* Feed a total of 5 mg of fenbendazole per kg (2.27 mg/lb) of body weight to cattle over a 3- to 6-day period. Retreatment may be needed after 4 to 6 weeks. Cattle must not be slaughtered within 13 days following last treatment. For dairy cattle the milk discard time is zero hours. A withdrawal period has not been established for this product in pre-ruminating calves. Do not use in calves to be processed for veal.
 
 (4) *Horses.*
 
@@ -90,4 +99,4 @@
 
 (ii) Lincomycin as in § 558.325.
 
-[66 FR 58935, Nov. 26, 2001, as amended at 68 FR 34534, June 10, 2003; 72 FR 66046, Nov. 27, 2007; 73 FR 58873, Oct. 8, 2008; 74 FR 61517, Nov. 25, 2009; 79 FR 13545, Mar. 11, 2014; 81 FR 17609, Mar. 30, 2016; 81 FR 95005, Dec. 27, 2016; 84 FR 12499, Apr. 2, 2019; 86 FR 14822, Mar. 19, 2021]
+[66 FR 58935, Nov. 26, 2001, as amended at 68 FR 34534, June 10, 2003; 72 FR 66046, Nov. 27, 2007; 73 FR 58873, Oct. 8, 2008; 74 FR 61517, Nov. 25, 2009; 79 FR 13545, Mar. 11, 2014; 81 FR 17609, Mar. 30, 2016; 81 FR 95005, Dec. 27, 2016; 84 FR 12499, Apr. 2, 2019; 86 FR 14822, Mar. 19, 2021; 86 FR 61686, Nov. 8, 2021]

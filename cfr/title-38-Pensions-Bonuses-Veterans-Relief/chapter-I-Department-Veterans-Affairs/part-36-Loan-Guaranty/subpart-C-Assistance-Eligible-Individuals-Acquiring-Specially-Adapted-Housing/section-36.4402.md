@@ -1,7 +1,5 @@
 ##### § 36.4402 Grant types. #####
 
-Link to an amendment published at 86 FR 56216, Oct. 8, 2021.
-
 (a) *2101(a) grant.* The 2101(a) grant provides monetary assistance for the purpose of acquiring specially adapted housing pursuant to one of the following plans:
 
 (1) Where an eligible individual elects to construct a dwelling on land to be acquired by the eligible individual, the Secretary will pay, up to the aggregate amount of assistance available for 2101(a) grants, not more than 50 percent of the eligible individual's total costs for acquiring the land and constructing the dwelling.
@@ -48,8 +46,8 @@ Link to an amendment published at 86 FR 56216, Oct. 8, 2021.
 
 (d) *Duplication of benefits.* (1) If an individual is determined eligible for a 2101(a) grant, he or she may not subsequently receive a 2101(b) grant.
 
-(2) If an individual is determined eligible for a 2101(b) grant, and becomes eligible for a 2101(a) grant, he or she may receive 2101(a) grants and TRA grants up to the aggregate amount of assistance available for 2101(a) grants. However, any 2101(b) or TRA grants received by the individual before he or she was determined eligible for the 2101(a) grant will count towards the three grant limit in § 36.4403.
+(2) If an individual is determined eligible for a 2101(b) grant, and becomes eligible for a 2101(a) grant, he or she may receive 2101(a) grants and TRA grants up to the aggregate amount of assistance available for 2101(a) grants. However, any 2101(b) or TRA grants received by the individual before he or she was determined eligible for the 2101(a) grant will count towards the six grant limit in § 36.4403.
 
 (3) If the Secretary has provided assistance to an eligible individual under 38 U.S.C. 1717, the Secretary will not provide assistance under this subpart that would result in duplicate payments for the same adaptations. However, nothing in this subpart prohibits an eligible individual from utilizing the assistance authorized under 38 U.S.C. 1717 and 38 U.S.C. chapter 21 simultaneously, provided that no duplicate payments result.
 
-(Authority: 38 U.S.C. 2102, 2102A, 2104)
+(Authority: 38 U.S.C. 2102, 2102A, 2104)[75 FR 56876, Sept. 17, 2010, as amended at 86 FR 56216, Oct. 8, 2021]

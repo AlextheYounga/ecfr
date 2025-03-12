@@ -1,7 +1,5 @@
 ##### § 383.73 State procedures. #####
 
-Link to an amendment published at 86 FR 55742, Oct. 7, 2021.Link to an amendment, correcting the above amendment, published at 86 FR 59872, Oct. 29, 2021.
-
 (a) *Commercial Learner's Permit.* Prior to issuing a CLP to a person, a State must:
 
 (1) Require the applicant to make the certifications, pass the tests, and provide the information as described in § 383.71(a).
@@ -19,6 +17,8 @@ Link to an amendment published at 86 FR 55742, Oct. 7, 2021.Link to an amendment
 (7)(i) Before June 23, 2025, for drivers who certified their type of driving according to § 383.71(b)(1)(i) (non-excepted interstate) and, if the CLP applicant submits a current medical examiner's certificate, date-stamp the medical examiner's certificate, and post all required information from the medical examiner's certificate to the CDLIS driver record in accordance with paragraph (o) of this section.
 
 (ii) On or after June 23, 2025, for drivers who certified their type of driving according to § 383.71(b)(1)(i) (non-excepted interstate) and, if FMCSA provides current medical examiner's certificate information electronically, post all required information matching the medical examiner's certificate to the CDLIS driver record in accordance with paragraph (o) of this section.
+
+(8) Beginning November 18, 2024, the State must request information from the Drug and Alcohol Clearinghouse, and if, in response to the request, the State receives notification that pursuant to § 382.501(a) of this chapter the applicant is prohibited from operating a commercial motor vehicle, the State must not issue, renew, or upgrade the CLP. If the applicant currently holds a CLP issued by the State, the State must also comply with the procedures set forth in paragraph (q) of this section.
 
 (b) *Initial CDL.* Prior to issuing a CDL to a person, a State must:
 
@@ -58,7 +58,7 @@ Link to an amendment published at 86 FR 55742, Oct. 7, 2021.Link to an amendment
 
 (9) Make the CDL valid for no more than 8 years from the date of issuance; and
 
-(10) Beginning January 6, 2023, request information from the Drug and Alcohol Clearinghouse in accordance with § 382.725 of this chapter.
+(10) Beginning November 18, 2024, the State must request information from the Drug and Alcohol Clearinghouse. If, in response to that request, the State receives notification that pursuant to § 382.501(a) of this chapter the applicant is prohibited from operating a commercial motor vehicle, the State must not issue the CDL.
 
 (11) Beginning on February 7, 2022, not conduct a skills test of an applicant for a Class A or Class B CDL, or a passenger (P) or school bus (S) endorsement until the State verifies electronically that the applicant completed the training prescribed in subpart F of part 380 of this subchapter.
 
@@ -86,7 +86,7 @@ Link to an amendment published at 86 FR 55742, Oct. 7, 2021.Link to an amendment
 
 (9) Make the CDL valid for no more than 8 years from the date of issuance; and
 
-(10) Beginning January 6, 2023, request information from the Drug and Alcohol Clearinghouse in accordance with § 382.725 of this chapter.
+(10) Beginning November 18, 2024, the State must request information from the Drug and Alcohol Clearinghouse. If, in response to that request, the State receives notification that pursuant to § 382.501(a) of this chapter the applicant is prohibited from operating a commercial motor vehicle, the State must not transfer the CDL.
 
 (d) *License Renewals.* Prior to renewing any CDL a State must:
 
@@ -106,7 +106,7 @@ Link to an amendment published at 86 FR 55742, Oct. 7, 2021.Link to an amendment
 
 (8) Beginning January 30, 2012, verify from the CDLIS driver record that the medical certification status is “certified” for drivers who self-certified according to § 383.71(b)(1)(i). *Exception:* A driver who certified according to § 383.71(b)(1)(i) may present a current medical examiner's certificate issued prior to January 30, 2012. The medical examiner's certificate provided by the driver must be posted to the CDLIS driver record in accordance with paragraph (o) of this section; and
 
-(9) Beginning January 6, 2023, request information from the Drug and Alcohol Clearinghouse in accordance with § 382.725 of this chapter.
+(9) Beginning November 18, 2024, the State must request information from the Drug and Alcohol Clearinghouse. If, in response to that request, the State receives notification that pursuant to § 382.501(a) of this chapter the applicant is prohibited from operating a commercial motor vehicle, the State must not renew the CDL or H endorsement and must comply with the procedures set forth in paragraph (q) of this section.
 
 (e) *License upgrades.* Prior to issuing an upgrade of a CDL, a State must:
 
@@ -124,7 +124,7 @@ Link to an amendment published at 86 FR 55742, Oct. 7, 2021.Link to an amendment
 
 (7) Make the CDL valid for no more than 8 years from the date of issuance; and
 
-(8) Beginning January 6, 2023, request information from the Drug and Alcohol Clearinghouse in accordance with § 382.725 of this chapter.
+(8) Beginning November 18, 2024, the State must request information from the Drug and Alcohol Clearinghouse. If, in response to that request, the State receives notification that pursuant to § 382.501(a) of this chapter the applicant is prohibited from operating a commercial motor vehicle, the State must not issue an upgrade of the CDL and must comply with the procedures set forth in paragraph (q) of this section.
 
 (9) Beginning on February 7, 2022, not conduct a skills test of an applicant for an upgrade to a Class A or Class B CDL, or a passenger (P), school bus (S) endorsement, or administer the knowledge test to an applicant for the hazardous materials (H) endorsement, unless the applicant has completed the training required by subpart F of part 380 of this subchapter.
 
@@ -140,7 +140,7 @@ Link to an amendment published at 86 FR 55742, Oct. 7, 2021.Link to an amendment
 
 (3) The State must require compliance with the standards for providing proof of legal presence specified in § 383.71(b)(9) and § 383.71(f)(2)(i).
 
-(4) Beginning January 6, 2023, for drivers seeking issuance, renewal, upgrade or transfer of a non-domiciled CDL, request information from the Drug and Alcohol Clearinghouse in accordance with § 382.725 of this chapter.
+(4) Beginning November 18, 2024, the State must request information from the Drug and Alcohol Clearinghouse. If, in response to that request, the State receives notification that pursuant to § 382.501(a) of this chapter the applicant is prohibited from operating a commercial motor vehicle, the State must not issue, renew, transfer or upgrade a non-domiciled CLP or CDL and must comply with the procedures set forth in paragraph (q) of this section, as applicable.
 
 (g) *Social Security Number verification.* (1) Prior to issuing a CLP or a CDL to a person the State must verify the name, date of birth, and Social Security Number provided by the applicant with the information on file with the Social Security Administration. The State is prohibited from issuing, renewing, upgrading, or transferring a CLP or CDL if the Social Security Administration database does not match the applicant-provided data.
 
@@ -266,4 +266,16 @@ Link to an amendment published at 86 FR 55742, Oct. 7, 2021.Link to an amendment
 
 (p) After February 7, 2022, the State must notify FMCSA that a training provider in the State does not meet applicable State requirements for CMV instruction.
 
-[76 FR 26883, May 9, 2011, as amended at 77 FR 24127, Apr. 20, 2012; 78 FR 17880, Mar. 25, 2013; 78 FR 58480, Sept. 24, 2013; 79 FR 59456, Oct. 2, 2014; 80 FR 22810, Apr. 23, 2015; 80 FR 35577, June 22, 2015; 80 FR 59072, Oct. 1, 2015; 81 FR 87730, Dec. 5, 2016; 81 FR 88803, Dec. 8, 2016; 82 FR 2916, Jan. 10, 2017; 83 FR 22876, May 17, 2018; 83 FR 28781, June 21, 2018; 83 FR 65571, Dec. 21, 2018; 84 FR 68057, Dec. 13, 2019; 85 FR 6100, Feb. 4, 2020; 86 FR 32649, June 22, 2021; 86 FR 57070, Oct. 14, 2021]
+(q) *Drug and Alcohol Clearinghouse.* Beginning November 18, 2024, the State must, upon receiving notification that pursuant to § 382.501(a) of this chapter, the CLP or CDL holder is prohibited from operating a commercial motor vehicle, initiate established State procedures for downgrading the CLP or CDL. The downgrade must be completed and recorded on the CDLIS driver record within 60 days of the State's receipt of such notification.
+
+(1) *Termination of downgrade process when the driver is no longer prohibited.* If, before the State completes and records the downgrade on the CDLIS driver record, the State receives notification that pursuant to § 382.503(a) of this chapter the CLP or CDL holder is no longer prohibited from operating a commercial motor vehicle, the State must, if permitted by State law, terminate the downgrade process without removing the CLP or CDL privilege from the driver's license.
+
+(2) *Reinstatement after FMCSA notification that the driver is no longer prohibited.* If, after the State completes and records the downgrade on the CDLIS driver record, FMCSA notifies the State that pursuant to § 382.503(a) of this chapter a driver is no longer prohibited from operating a commercial motor vehicle, the State must make the driver eligible for reinstatement of the CLP or CDL privilege to the driver's license, if permitted by State law.
+
+(3) *Reinstatement after Clearinghouse error correction.* If, after the State completes and records the downgrade on the CDLIS driver record, FMCSA notifies the State that the driver was erroneously identified as prohibited from operating a commercial motor vehicle, the State shall:
+
+(i) Reinstate the CLP or CDL privilege to the driver's license as expeditiously as possible; and
+
+(ii) Expunge from the CDLIS driver record and, if applicable, the motor vehicle record, as defined in § 390.5T of this chapter, any reference related to the driver's erroneous prohibited status.
+
+[76 FR 26883, May 9, 2011, as amended at 77 FR 24127, Apr. 20, 2012; 78 FR 17880, Mar. 25, 2013; 78 FR 58480, Sept. 24, 2013; 79 FR 59456, Oct. 2, 2014; 80 FR 22810, Apr. 23, 2015; 80 FR 35577, June 22, 2015; 80 FR 59072, Oct. 1, 2015; 81 FR 87730, Dec. 5, 2016; 81 FR 88803, Dec. 8, 2016; 82 FR 2916, Jan. 10, 2017; 83 FR 22876, May 17, 2018; 83 FR 28781, June 21, 2018; 83 FR 65571, Dec. 21, 2018; 84 FR 68057, Dec. 13, 2019; 85 FR 6100, Feb. 4, 2020; 86 FR 32649, June 22, 2021; 86 FR 55742, Oct. 7, 2021; 86 FR 57070, Oct. 14, 2021; 86 FR 59872, Oct. 29, 2021]

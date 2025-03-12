@@ -16,7 +16,7 @@
 |                                                              Agri Laboratories, Ltd., P.O. Box 3103, St. Joseph, MO 64503                                                              |     057561      |
 |                                                                 Agri-Tech, Inc., 4722 Broadway, Kansas City, MO 64112                                                                  |     017762      |
 |                                                    Akorn Animal Health, Inc., 1925 West Field Ct., suite 300, Lake Forest, IL 60045                                                    |     059399      |
-|                                                          Alexion Pharmaceuticals, Inc., 100 College St., New Haven, CT 06510                                                           |     069334      |
+|                                                           Alexion Pharmaceuticals, Inc., 121 Seaport Blvd., Boston, MA 02210                                                           |     069334      |
 |                                                            American Regent, Inc., Animal Health Division, Shirley, NY 11967                                                            |     010797      |
 |                                                           Anika Therapeutics Inc., 236 West Cummings Park, Woburn, MA 01801                                                            |     060865      |
 |                                                     Anivive Lifesciences, Inc., 3250 Airflite Way, Suite 400, Long Beach, CA 90807                                                     |     086121      |
@@ -77,7 +77,7 @@
 |                                                         Piramal Critical Care, Inc., 3850 Schelden Circle, Bethlehem, PA 18017                                                         |     066794      |
 |                                     Piramal Pharma Ltd., Ground Floor, Piramal Ananta, Agastya Corporate Park, Mumbai, Maharashtra, 400070, India                                      |     065085      |
 |                              Planalquimica Industrial Ltda., Rua das Magnolias nr. 2405, Jardim das Bandeiras, CEP 13053-120, Campinas, Sao Paulo, Brazil                              |     060728      |
-|                                                     Purina Animal Nutrition LLC, 1080 County Road F West, Shoreview, MN 55126-2910                                                     |     017800      |
+|                                                   Purina Animal Nutrition LLC, 4001 Lexington Ave., North Arden Hills, MN 55126-2910                                                   |     017800      |
 |                                              QBiotics Group Ltd., Suite 3A, Level 1, 165 Moggill Rd., Taringa, Queensland 4068, Australia                                              |     086132      |
 |                                                            Quo Vademus, LLC, 277 Faison McGowan Rd., Kenansville, NC 28349                                                             |     076475      |
 |                               Revivicor, Inc., a wholly owned subsidiary of United Therapeutics Corp., 1700 Kraft Dr., Suite 2400, Blacksburg, VA 24060                                |     086134      |
@@ -122,7 +122,7 @@
 |     017135      |                                                            Farnam Companies, Inc., 301 West Osborn, Phoenix, AZ 85013-3928.                                                             |
 |     017153      |                                                               Squire Laboratories, Inc., 100 Mill St., Revere, MA 02151.                                                                |
 |     017762      |                                                                 Agri-Tech, Inc., 4722 Broadway, Kansas City, MO 64112.                                                                  |
-|     017800      |                                                       Purina Animal Nutrition, 1080 County Road F West, Shoreview, MN 55126-2910.                                                       |
+|     017800      |                                                   Purina Animal Nutrition LLC, 4001 Lexington Ave., North Arden Hills, MN 55126-2910.                                                   |
 |     021091      |                                                        Sergeant's Pet Care Products, Inc., 10077 S. 134th St., Omaha, NE 68138.                                                         |
 |     023851      |                                                                         Happy Jack, Inc., Snow Hill, NC 28580.                                                                          |
 |     025463      |                                                    Fougera Pharmaceuticals, Inc., P.O. Box 2006, 60 Baylis Rd., Melville, NY 11747.                                                     |
@@ -179,7 +179,7 @@
 |     068504      |                                         Parnell Technologies Pty. Ltd., unit 4, 476 Gardeners Rd., Alexandria, New South Wales 2015, Australia.                                         |
 |     069043      |Cronus Pharma Specialities India Private Ltd., Sy No-99/1, M/s GMR Hyderabad Aviation SEZ Ltd., Mamidipalli Village, Shamshabad Mandal, Ranga Reddy, Hyderabad, Telangana, 501218, India.|
 |     069254      |                                                                Pharmgate Inc., 1800 Sir Tyler Dr., Wilmington, NC 28405.                                                                |
-|     069334      |                                                          Alexion Pharmaceuticals, Inc., 100 College St., New Haven, CT 06510.                                                           |
+|     069334      |                                                           Alexion Pharmaceuticals, Inc., 121 Seaport Blvd., Boston, MA 02210.                                                           |
 |     076175      |                                                        Ark Sciences, Inc., 1101 East 33rd St., suite B304, Baltimore, MD 21218.                                                         |
 |     076475      |                                                            Quo Vademus, LLC, 277 Faison McGowan Rd., Kenansville, NC 28349.                                                             |
 |     086009      |                                                   Axcentive SARL, Chemin de Champouse, Quartier Violesi, 13320 Bouc Bel Air, France.                                                    |

@@ -1,7 +1,11 @@
 ##### § 384.235 Commercial driver's license Drug and Alcohol Clearinghouse. #####
 
-Link to an amendment published at 86 FR 55743, Oct. 7, 2021.
+Beginning November 18, 2024, the State must:
 
-Beginning January 6, 2023, the State must request information from the Clearinghouse in accordance with § 383.73 of this chapter.
+(a) Request information from the Drug and Alcohol Clearinghouse in accordance with § 383.73 of this chapter and comply with the applicable provisions therein; and
 
-[81 FR 87730, Dec. 5, 2016, as amended at 84 FR 68057, Dec. 13, 2019]
+(b)(1) Comply with § 383.73(q) of this chapter upon receiving notification from FMCSA that, pursuant to § 382.501(a) of this chapter, the driver is prohibited from operating a commercial motor vehicle; and
+
+(2) Comply with § 383.73(q) of this chapter upon receiving notification from FMCSA that, pursuant to § 382.503(a) of this chapter, the driver is no longer prohibited from operating a commercial motor vehicle; or that FMCSA erroneously identified the driver as prohibited from operating a commercial motor vehicle.
+
+[86 FR 55743, Oct. 7, 2021]

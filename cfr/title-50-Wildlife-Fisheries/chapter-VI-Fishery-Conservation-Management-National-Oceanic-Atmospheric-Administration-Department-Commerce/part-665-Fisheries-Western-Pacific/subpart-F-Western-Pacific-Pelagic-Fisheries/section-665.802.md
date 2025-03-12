@@ -1,7 +1,5 @@
 ##### § 665.802 Prohibitions. #####
 
-Link to an amendment published at 86 FR 55745, Oct. 7, 2021.
-
 In addition to the prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (a) Falsify or fail to make and/or file all reports of western Pacific pelagic MUS landings, containing all data and in the exact manner, as required by applicable state law or regulation, as specified in § 665.14(a), provided that the person is required to do so by applicable state law or regulation.
@@ -40,7 +38,7 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (w) Fish for western Pacific pelagic MUS with longline gear within the protected species zone, in violation of § 665.806(b).
 
-(x) Fail to comply with a term or condition governing the observer program established in § 665.808, if using a vessel registered for use with a Hawaii longline limited access permit, or a vessel registered for use with a size Class B, C or D American Samoa longline limited access permit, to fish for western Pacific pelagic MUS using longline gear.
+(x) Fail to comply with a term or condition governing the observer program established in § 665.808, if using a vessel registered for use with a Hawaii longline limited access permit, or a vessel greater than 40 ft (12.2 m) LOA registered for use with an American Samoa longline limited access permit to fish for western Pacific pelagic MUS using longline gear.
 
 (y) Fail to comply with other terms and conditions that the Regional Administrator imposes by written notice to either the permit holder or the designated agent of the permit holder to facilitate the details of observer placement.
 
@@ -92,4 +90,4 @@ In addition to the prohibitions specified in § 600.725 of this chapter, it is u
 
 (zz) Use a vessel that is greater than 50 ft (15.4 m) LOA to squid jig fish in EEZ waters around American Samoa, CNMI, Guam, Hawaii, or PRIA, without a Western Pacific squid jig fishing permit registered for use with that vessel, in violation of § 665.801(g).
 
-[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 37288, June 27, 2011; 76 FR 52889, Aug. 24, 2011; 77 FR 60649, Oct. 4, 2012; 79 FR 64111, Oct. 28, 2014; 85 FR 57997, Sept. 17, 2020]
+[75 FR 2205, Jan. 14, 2010, as amended at 76 FR 37288, June 27, 2011; 76 FR 52889, Aug. 24, 2011; 77 FR 60649, Oct. 4, 2012; 79 FR 64111, Oct. 28, 2014; 85 FR 57997, Sept. 17, 2020; 86 FR 55745, Oct. 7, 2021]

@@ -1,7 +1,5 @@
 ##### § 390.3 General applicability. #####
 
-Link to an amendment published at 86 FR 55743, Oct. 7, 2021.
-
 (a) The rules in subchapter B of this chapter are applicable to all employers, employees, and commercial motor vehicles that transport property or passengers in interstate commerce.
 
 (b) The rules in part 383 of this chapter, Commercial Driver's License Standards; Requirements and Penalties, are applicable to every person who operates a commercial motor vehicle, as defined in § 383.5 of this subchapter, in interstate or intrastate commerce and to all employers of such persons.
@@ -16,9 +14,9 @@ Link to an amendment published at 86 FR 55743, Oct. 7, 2021.
 
 (3) All motor vehicle equipment and accessories required by this chapter shall be maintained in compliance with all applicable performance and design criteria set forth in this subchapter.
 
-(f) *Exceptions.* Unless otherwise specifically provided, the rules in this subchapter do not apply to -
+(f) *Exceptions.* Unless otherwise specifically provided, the rules in this subchapter do not apply to—
 
-(1) All school bus operations as defined in § 390.5 except for the provisions of §§ 391.15(e) and (f), 392.80, and 392.82 of this chapter;
+(1) All school bus operations as defined in § 390.5, except for §§ 391.15(e) and (f), 392.15, 392.80, and 392.82 of this chapter;
 
 (2) Transportation performed by the Federal government, a State, or any political subdivision of a State, or an agency established under a compact between States that has been approved by the Congress of the United States;
 
@@ -76,4 +74,4 @@ Link to an amendment published at 86 FR 55743, Oct. 7, 2021.
 
 (l) *Shippers, receivers, consignees, and transportation intermediaries.* The rules in 49 CFR 386.12(c) and 390.6 prohibiting the coercion of drivers of commercial motor vehicles operating in interstate commerce to violate certain safety regulations are applicable to shippers, receivers, and transportation intermediaries.
 
-[80 FR 63710, Oct. 21, 2015, as amended at 83 FR 22877, May 17, 2018]Effective Date Note:At 82 FR 5310, Jan. 17, 2017, § 390.3 was suspended, effective Jan. 14, 2017.
+[80 FR 63710, Oct. 21, 2015, as amended at 83 FR 22877, May 17, 2018; 86 FR 55743, Oct. 7, 2021]Effective Date Note:At 82 FR 5310, Jan. 17, 2017, § 390.3 was suspended, effective Jan. 14, 2017. At 86 FR 55743, Oct. 7, 2021, the suspension was lifted, § 390.3(f)(1) was revised, and the section was again suspended indefinitely, effective Nov. 8, 2021.

@@ -1,6 +1,6 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 86 FR 56639, Oct. 8, 2021.Link to an amendment published at 86 FR 56820, Oct. 12, 2021.
+Link to an amendment published at 86 FR 56820, Oct. 12, 2021.
 
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 
@@ -182,29 +182,29 @@ M, MWS, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this section, and 
 
 (4) Other useful measures of energy consumption for dishwashers are those which the Secretary determines are likely to assist consumers in making purchasing decisions and which are derived from the application of appendix C1 to this subpart.
 
-(d) *Clothes dryers.* (1) The estimated annual operating cost for clothes dryers shall be -
+(d) *Clothes dryers.* (1) The estimated annual energy consumption for clothes dryers, expressed in kilowatt-hours per year, shall be the product of the annual representative average number of clothes dryer cycles as specified in appendix D1 or D2 to this subpart, as appropriate, and the per-cycle combined total energy consumption in kilowatt-hours per cycle, determined according to section 4.6 of appendix D1 or section 4.6 of appendix D2 to this subpart, as appropriate.
 
-(i) For an electric clothes dryer, the product of the following three factors:
+(2) The estimated annual operating cost for clothes dryers shall be -
 
-(A) The representative average-use cycle of 283 cycles per year,
+(i) For an electric clothes dryer, the product of the following three factors, with the resulting product then being rounded off to the nearest dollar per year:
 
-(B) The per-cycle combined total energy consumption in kilowatt-hours per-cycle, determined according to 4.6 of appendix D1 to this subpart, and
+(A) The annual representative average number of clothes dryer cycles as specified in appendix D1 or appendix D2 to this subpart, as appropriate;
 
-(C) The representative average unit cost of electrical energy in dollars per kilowatt-hour as provided by the Secretary, the resulting product then being rounded off to the nearest dollar per year, and
+(B) The per-cycle combined total energy consumption in kilowatt-hours per cycle, determined according to section 4.6 of appendix D1 or section 4.6 of appendix D2 to this subpart, as appropriate; and
 
-(ii) For a gas clothes dryer, the product of the representative average-use cycle of 283 cycles per year times the sum of:
+(C) The representative average unit cost of electrical energy in dollars per kilowatt-hour as provided by the Secretary; and
 
-(A) The product of the per-cycle gas dryer electric energy consumption in kilowatt-hours per cycle, determined according to 4.2 of appendix D1 to this subpart, times the representative average unit cost of electrical energy in dollars per kilowatt-hour as provided by the Secretary plus,
+(ii) For a gas clothes dryer, the product of the annual representative average number of clothes dryer cycles as specified in appendix D1 or D2 to this subpart, as appropriate, times the sum of the following three factors, with the resulting product then being rounded off to the nearest dollar per year:
 
-(B) The product of the per-cycle gas dryer gas energy consumption, in Btus per cycle, determined according to 4.3 of appendix D1 to this subpart, times the representative average unit cost for natural gas or propane, as appropriate, in dollars per Btu as provided by the Secretary, the resulting product then being rounded off to the nearest dollar per year plus,
+(A) The product of the per-cycle gas dryer electric energy consumption in kilowatt-hours per cycle, determined according to section 4.2 of appendix D1 or section 4.2 of appendix D2 to this subpart, as appropriate, times the representative average unit cost of electrical energy in dollars per kilowatt-hour as provided by the Secretary; plus,
 
-(C) The product of the per-cycle standby mode and off mode energy consumption in kilowatt-hours per cycle, determined according to 4.5 of appendix D1 to this subpart, times the representative average unit cost of electrical energy in dollars per kilowatt-hour as provided by the Secretary.
+(B) The product of the per-cycle gas dryer gas energy consumption, in Btus per cycle, determined according to section 4.3 of appendix D1 or section 4.3 of appendix D2 to this subpart, as appropriate, times the representative average unit cost for natural gas or propane, as appropriate, in dollars per Btu as provided by the Secretary; plus,
 
-(2) The energy factor, expressed in pounds of clothes per kilowatt-hour, for clothes dryers shall be either the quotient of a 3-pound bone-dry test load for compact dryers, as defined by 2.7.1 of appendix D to this subpart before the date that appendix D1 becomes mandatory, or the quotient of a 7-pound bone-dry test load for standard dryers, as defined by 2.7.2 of appendix D to this subpart before the date that appendix D1 becomes mandatory, as applicable, divided by the clothes dryer energy consumption per cycle, as determined according to 4.1 for electric clothes dryers and 4.6 for gas clothes dryers of appendix D to this subpart before the date that appendix D1 becomes mandatory, the resulting quotient then being rounded off to the nearest hundredth (.01). Upon the date that appendix D1 to this subpart becomes mandatory, the energy factor is determined in accordance with 4.7 of appendix D1, the result then being rounded off to the nearest hundredth (.01).
+(C) The product of the per-cycle standby mode and off mode energy consumption in kilowatt-hours per cycle, determined according to section 4.5 of appendix D1 or section 4.5 of appendix D2 to this subpart, as appropriate, times the representative average unit cost of electrical energy in dollars per kilowatt-hour as provided by the Secretary.
 
-(3) Upon the date that appendix D1 to this subpart becomes mandatory, the combined energy factor is determined in accordance with 4.8 of appendix D1, the result then being rounded off to the nearest hundredth (.01).
+(3) The combined energy factor, expressed in pounds per kilowatt-hour is determined in accordance with section 4.7 of appendix D1 or section 4.7 of appendix D2 to this subpart, as appropriate, the result then being rounded off to the nearest hundredth (0.01).
 
-(4) Other useful measures of energy consumption for clothes dryers shall be those measures of energy consumption for clothes dryers which the Secretary determines are likely to assist consumers in making purchasing decisions and which are derived from the application of appendix D to this subpart before the date that appendix D1 becomes mandatory and appendix D1 upon the date that appendix D1 to this subpart becomes mandatory.
+(4) Other useful measures of energy consumption for clothes dryers shall be those measures of energy consumption for clothes dryers which the Secretary determines are likely to assist consumers in making purchasing decisions and which are derived from the application of appendix D1 or D2 to this subpart, as appropriate.
 
 (e) *Water heaters.* (1) The estimated annual operating cost is calculated as:
 

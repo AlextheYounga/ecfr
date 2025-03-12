@@ -1,5 +1,7 @@
 ##### § 512.390 Notification and targeted review. #####
 
+Link to an amendment published at 86 FR 62024, Nov. 8, 2021.
+
 (a) *Notification.* CMS will notify each ETC Participant, in a form and manner determined by CMS, of the ETC Participant's attributed beneficiaries, MPS, and PPA for a PPA Period no later than one month before the start of the applicable PPA Period.
 
 (b) *Targeted review process.* An ETC Participant may request a targeted review of the calculation of the MPS. Requests for targeted review are limited to the calculation of the MPS, and may not be submitted in regards to: The methodology used to determine the MPS; or the establishment of the home dialysis rate methodology, transplant rate methodology, achievement and improvement benchmarks and benchmarking methodology, or PPA amounts. The process for targeted reviews is as follows:

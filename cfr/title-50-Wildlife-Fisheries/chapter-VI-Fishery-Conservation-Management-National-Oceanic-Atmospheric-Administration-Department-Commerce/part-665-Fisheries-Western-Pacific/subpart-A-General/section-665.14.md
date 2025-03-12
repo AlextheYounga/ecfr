@@ -1,12 +1,10 @@
 ##### § 665.14 Reporting and recordkeeping. #####
 
-Link to an amendment published at 86 FR 55745, Oct. 7, 2021.
-
 (a) *State reporting.* Except for precious coral and crustacean fisheries, any person who is required to do so by applicable state law or regulation must make and/or file all reports of MUS or ECS landings containing all data and in the exact manner required by applicable state law or regulation.
 
-(b) *Fishing record forms* - (1) *Applicability* - (i) *Paper records.* The operator of a fishing vessel subject to the requirements of § 665.124, § 665.142, § 665.162, § 665.203(a)(2), § 665.224, § 665.242, § 665.262, § 665.404, § 665.424, § 665.442, § 665.462, § 665.603, § 665.624, § 665.642, § 665.662, § 665.801, § 665.905, § 665.935, or § 665.965 must maintain on board the vessel an accurate and complete record of catch, effort, and other data on paper report forms provided by the Regional Administrator, or electronically as specified and approved by the Regional Administrator, except as required in paragraph (b)(1)(ii) of this section or as allowed in paragraph (b)(1)(iv) of this section.
+(b) *Fishing record forms*—(1) *Applicability*—(i) *Paper records.* The operator of a fishing vessel subject to the requirements of § 665.124, § 665.142, § 665.162, § 665.203(a)(2), § 665.224, § 665.242, § 665.262, § 665.404, § 665.424, § 665.442, § 665.462, § 665.603, § 665.624, § 665.642, § 665.662, § 665.801, § 665.905, § 665.935, or § 665.965 must maintain on board the vessel an accurate and complete record of catch, effort, and other data on paper report forms provided by the Regional Administrator, or electronically as specified and approved by the Regional Administrator, except as required in paragraph (b)(1)(ii) of this section or as allowed in paragraph (b)(1)(iv) of this section.
 
-(ii) *Electronic records.* (A) The operator of a fishing vessel subject to the requirements of § 665.801(b) or a Class C or D vessel subject to the requirements of § 665.801(c) must maintain on board the vessel an accurate and complete record of catch, effort, and other data electronically using a NMFS-certified electronic logbook, and must record and transmit electronically all information specified by the Regional Administrator within 24 hours after the completion of each fishing day.
+(ii) *Electronic records.* (A) The operator of a fishing vessel subject to the requirements of § 665.801(b) or a large vessel subject to the requirements of § 665.801(c) must maintain on board the vessel an accurate and complete record of catch, effort, and other data electronically using a NMFS-certified electronic logbook, and must record and transmit electronically all information specified by the Regional Administrator within 24 hours after the completion of each fishing day.
 
 (B) After the Regional Administrator has notified a permit holder subject to this section of the requirement to submit records electronically, and after the vessel has acquired the necessary NMFS-certified equipment, the vessel and any vessel operator must use the electronic logbook. A vessel operator must obtain an individually assigned user account from NMFS for use with the electronic logbook.
 
@@ -56,4 +54,4 @@ Link to an amendment published at 86 FR 55745, Oct. 7, 2021.
 
 (h) *State reporting.* Any person who has a permit under §§ 665.124, 665.203, 665.224, 665.404, 665.424, 665.603, or 665.624 and who is regulated by state laws and regulations to maintain and submit records of catch and effort, landings and sales for vessels regulated by subparts B through F of this part must maintain and submit those records in the exact manner required by state laws and regulations.
 
-[75 FR 2205, Jan. 14, 2010, as amended at 78 FR 33003, June 3, 2013; 78 FR 39583, July 2, 2013; 84 FR 2769, Feb. 8, 2019; 86 FR 42745, Aug. 5, 2021; 86 FR 60182, Nov. 1, 2021]
+[75 FR 2205, Jan. 14, 2010, as amended at 78 FR 33003, June 3, 2013; 78 FR 39583, July 2, 2013; 84 FR 2769, Feb. 8, 2019; 86 FR 42745, Aug. 5, 2021; 86 FR 60182, Nov. 1, 2021; 86 FR 55745, Oct. 7, 2021]

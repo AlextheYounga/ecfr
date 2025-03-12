@@ -1,5 +1,7 @@
 ##### § 127.503 When is a contracting officer authorized to restrict competition or award a sole source contract or order under this part? #####
 
+Link to an amendment published at 86 FR 61673, Nov. 8, 2021.
+
 (a) *Competition restricted to EDWOSBs.* For requirements in industries designated by SBA as underrepresented pursuant to § 127.501, a contracting officer may restrict competition to EDWOSBs if the contracting officer has a reasonable expectation based on market research that:
 
 (1) Two or more EDWOSBs will submit offers for the contract; and

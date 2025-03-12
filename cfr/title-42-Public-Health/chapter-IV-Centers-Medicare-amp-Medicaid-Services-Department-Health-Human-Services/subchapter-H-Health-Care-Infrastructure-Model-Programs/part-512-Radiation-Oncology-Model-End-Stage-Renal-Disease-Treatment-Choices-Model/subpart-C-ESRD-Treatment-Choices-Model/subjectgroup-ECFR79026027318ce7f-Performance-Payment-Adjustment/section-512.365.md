@@ -1,5 +1,7 @@
 ##### § 512.365 Performance assessment. #####
 
+Link to an amendment published at 86 FR 62021, Nov. 8, 2021.
+
 (a) *General.* For each MY, CMS separately assesses the home dialysis rate and the transplant rate for each ETC Participant based on the population of ESRD Beneficiaries and, if applicable, Pre-emptive LDT Beneficiaries attributed to the ETC Participant under § 512.360. Information used to calculate the home dialysis rate and the transplant rate includes Medicare claims data, Medicare administrative data, and data from the Scientific Registry of Transplant Recipients.
 
 (b) *Home dialysis rate.* CMS calculates the home dialysis rate for ESRD facilities and Managing Clinicians as follows.

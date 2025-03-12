@@ -1,5 +1,7 @@
 ##### § 126.200 What requirements must a concern meet to be eligible as a certified HUBZone small business concern? #####
 
+Link to an amendment published at 86 FR 61673, Nov. 8, 2021.
+
 (a) *Ownership.* In order to be eligible for HUBZone certification and to remain certified, a small business concern must be owned in accordance with this paragraph. The concern must be:
 
 (1) At least 51% owned and controlled by one or more individuals who are United States citizens;

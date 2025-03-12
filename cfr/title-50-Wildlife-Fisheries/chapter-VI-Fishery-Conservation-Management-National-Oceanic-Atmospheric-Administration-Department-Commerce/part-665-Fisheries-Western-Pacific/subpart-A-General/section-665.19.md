@@ -1,12 +1,10 @@
 ##### § 665.19 Vessel monitoring system. #####
 
-Link to an amendment published at 86 FR 55745, Oct. 7, 2021.
-
 (a) *Applicability.* The holder of any of the following permits is subject to the vessel monitoring system requirements in this part:
 
 (1) Hawaii longline limited access permit issued pursuant to § 665.801(b);
 
-(2) American Samoa longline limited entry permit, for vessel size Class C or D, issued pursuant to § 665.801(c);
+(2) American Samoa large vessel longline limited entry permit issued pursuant to § 665.801(c);
 
 (3) Vessels permitted to fish in Crustacean Permit Area 1 VMS Subarea; or
 
@@ -27,3 +25,5 @@ Link to an amendment published at 86 FR 55745, Oct. 7, 2021.
 (3) Not remove, relocate, or make non-operational the VMS unit without prior approval from the SAC.
 
 (f) *Authorization by the SAC.* The SAC has authority over the installation and operation of the VMS unit. The SAC may authorize the connection or order the disconnection of additional equipment, including a computer, to any VMS unit when deemed appropriate by the SAC.
+
+[75 FR 2205, Jan. 14, 2010, as amended at 86 FR 55745, Oct. 7, 2021]

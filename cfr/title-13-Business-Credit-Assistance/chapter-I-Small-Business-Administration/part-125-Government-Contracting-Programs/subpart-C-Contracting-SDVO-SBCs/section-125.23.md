@@ -1,5 +1,7 @@
 ##### § 125.23 When may a contracting officer award sole source contracts to SDVO SBCs? #####
 
+Link to an amendment published at 86 FR 61672, Nov. 8, 2021.
+
 A contracting officer may award a sole source contract to an SDVO SBC only when the contracting officer determines that:
 
 (a) None of the provisions of §§ 125.21 or 125.22 apply;

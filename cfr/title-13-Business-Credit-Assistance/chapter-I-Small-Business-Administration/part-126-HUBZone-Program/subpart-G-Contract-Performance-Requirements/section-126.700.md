@@ -1,5 +1,7 @@
 ##### § 126.700 What are the limitations on subcontracting requirements for HUBZone contracts? #####
 
+Link to an amendment published at 86 FR 61673, Nov. 8, 2021.
+
 (a) *Other than Multiple Award Contracts.* For other than a Multiple Award Contract, a prime contractor receiving an award as a certified HUBZone small business concern must meet the limitations on subcontracting requirements set forth in § 125.6 of this chapter.
 
 (b) *Multiple Award Contracts* - (1) *Total Set-Aside Contracts.* For a Multiple Award Contract that is totally set aside for certified HUBZone small business concerns, a certified HUBZone small business concern must comply with the applicable limitations on subcontracting (*see* § 126.5), or if applicable, the nonmanufacturer rule (*see* § 121.406 of this chapter), during the base term and during each subsequent option period. However, the contracting officer, at his or her discretion, may also require the concern to comply with the limitations on subcontracting or the nonmanufacturer rule for each individual order awarded under the Multiple Award Contract.

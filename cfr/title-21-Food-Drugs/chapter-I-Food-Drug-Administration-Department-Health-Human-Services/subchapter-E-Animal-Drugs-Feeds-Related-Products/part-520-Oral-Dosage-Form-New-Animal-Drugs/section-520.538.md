@@ -2,11 +2,9 @@
 
 (a) *Specifications.* Each tablet contains 12, 25, 50, 75, or 100 milligrams (mg) deracoxib.
 
-(b) *Sponsor.* See Nos. 013744 and 058198 in § 510.600(c) of this chapter.
+(b) *Sponsors.* See Nos. 013744, 058198, and 086101 in § 510.600(c) of this chapter.
 
-(c) [Reserved]
-
-(d) *Conditions of use in dogs* - (1) *Amount.* Administer orally as needed, as a single daily dose based on body weight:
+(c) *Conditions of use in dogs*—(1) *Amount.* Administer orally as needed, as a single daily dose based on body weight:
 
 (i) 1 to 2 mg/kilogram (kg) (0.45 to 0.91 mg/pound (lb)), for use as in paragraph (d)(2)(i) of this section.
 
@@ -22,4 +20,4 @@
 
 (3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[67 FR 68760, Nov. 13, 2002, as amended at 68 FR 18882, Apr. 17, 2003; 72 FR 37437, July 10, 2007; 73 FR 33692, June 13, 2008; 77 FR 3928, Jan. 26, 2012; 84 FR 39183, Aug. 9, 2019]
+[67 FR 68760, Nov. 13, 2002, as amended at 68 FR 18882, Apr. 17, 2003; 72 FR 37437, July 10, 2007; 73 FR 33692, June 13, 2008; 77 FR 3928, Jan. 26, 2012; 84 FR 39183, Aug. 9, 2019; 86 FR 61684, Nov. 8, 2021]
