@@ -1,14 +1,12 @@
 ##### § 4.71 Contents of application. #####
 
-Link to an amendment published at 86 FR 42714, Aug. 5, 2021.
-
 An application for license for transmission line only must contain the following information in the form specified.
 
 (a) *Initial statement.*
 
 Before the Federal Energy Regulation CommissionApplication for License for Transmission Line Only
 
-(1) [Name of applicant] applies to the Federal Energy Regulatory Commission for a [license or new license, as appropriate] for the [name of project] transmission line only, as described in the attached exhibits, that is connected with FERC Project No. \_\_\_, for which a license [was issued, or application was made, as appropriate] on the \_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_, 19\_\_.
+(1) [Name of applicant] applies to the Federal Energy Regulatory Commission for a [license or new license, as appropriate] for the [name of project] transmission line only, as described in the attached exhibits, that is connected with FERC Project No. \_\_\_\_\_\_, for which a license [was issued, or application was made, as appropriate] on the \_\_\_\_\_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.
 
 (2) The location of the transmission line would be:
 
@@ -28,10 +26,10 @@ State or territory:County:Township or nearby town:
 
 (b) *Required exhibits.* The application must contain the following exhibits, as appropriate:
 
-(1) For any transmission line that, at the time the application is filed, is not constructed and is proposed to be connected to a licensed water power project with an installed generating capacity of more than 5 MW - Exhibits A, B, C, D, E, F, and G under § 4.41 of this chapter;
+(1) For any transmission line that, at the time the application is filed, is not constructed and is proposed to be connected to a licensed water power project with an installed generating capacity of more than 10 MW—Exhibits A, B, C, D, E, F, and G under § 4.41;
 
-(2) For any transmission line that, at the time the application is filed, is not constructed and is proposed to be connected to a licensed water power project with an installed generating capacity of 5 MW or less - Exhibits E, F, and G under § 4.61 of this chapter; and
+(2) For any transmission line that, at the time the application is filed, is not constructed and is proposed to be connected to a licensed water power project with an installed generating capacity of 10 MW or less—Exhibits E, F, and G under § 4.61; and
 
-(3) For any transmission line that, at the time the application is filed, has been constructed and is proposed to be connected to any licensed water power project - Exhibits E, F, and G under § 4.61 of this chapter.
+(3) For any transmission line that, at the time the application is filed, has been constructed and is proposed to be connected to any licensed water power project—Exhibits E, F, and G under § 4.61 of this chapter.
 
-[Order 184, 46 FR 55942, Nov. 13, 1981, as amended by Order 413, 50 FR 11685, Mar. 25, 1985; Order 699, 72 FR 45324, Aug. 14, 2007]
+[Order 184, 46 FR 55942, Nov. 13, 1981, as amended by Order 413, 50 FR 11685, Mar. 25, 1985; Order 699, 72 FR 45324, Aug. 14, 2007; Order 877, 86 FR 42714, Aug. 5, 2021]

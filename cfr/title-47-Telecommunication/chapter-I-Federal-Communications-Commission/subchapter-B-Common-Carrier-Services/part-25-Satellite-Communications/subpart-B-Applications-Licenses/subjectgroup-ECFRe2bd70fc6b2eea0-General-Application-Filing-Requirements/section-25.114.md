@@ -142,7 +142,7 @@ Link to an amendment published at 85 FR 52450, Aug. 25, 2020.Link to an amendmen
 
 (18) For space stations in the Direct Broadcast Satellite service or the 17/24 GHz broadcasting-satellite service, maximum orbital eccentricity.
 
-[68 FR 63997, Nov. 12, 2003, as amended at 69 FR 29901, May 26, 2004; 69 FR 47794, Aug. 6, 2004; 69 FR 54587, Sept. 9, 2004; 72 FR 50027, Aug. 29, 2007; 72 FR 60278, Oct. 24, 2007; 76 FR 50431, Aug. 15, 2011; 78 FR 8421, Feb. 6, 2013; 79 FR 8314, Feb. 12, 2014; 81 FR 55326, Aug. 18, 2016; 82 FR 59984, Dec. 18, 2017; 83 FR 34489, July 20, 2018; 85 FR 43733, July 20, 2020]Effective Date Note:At 85 FR 52450, Aug. 25, 2020, § 25.114 was amended by revising paragraph (d)(14). This amendment contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget. For the convenience of the user, the revised text is set forth below:
+[68 FR 63997, Nov. 12, 2003, as amended at 69 FR 29901, May 26, 2004; 69 FR 47794, Aug. 6, 2004; 69 FR 54587, Sept. 9, 2004; 72 FR 50027, Aug. 29, 2007; 72 FR 60278, Oct. 24, 2007; 76 FR 50431, Aug. 15, 2011; 78 FR 8421, Feb. 6, 2013; 79 FR 8314, Feb. 12, 2014; 81 FR 55326, Aug. 18, 2016; 82 FR 59984, Dec. 18, 2017; 83 FR 34489, July 20, 2018; 85 FR 43733, July 20, 2020]Effective Date Notes:1. At 85 FR 52450, Aug. 25, 2020, § 25.114 was amended by revising paragraph (d)(14). This amendment contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget. For the convenience of the user, the revised text is set forth below:
 
 ##### § 25.114 Applications for space station authorizations. #####
 

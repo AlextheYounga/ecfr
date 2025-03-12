@@ -6,4 +6,4 @@
 
 (c) Operation in the 1695-1710 MHz, 1710-1755 MHz, 1755-1780 MHz, 1915-1920 MHz, 1995-2000 MHz, 2000-2020 MHz, 2110-2155 MHz, 2155-2180 MHz, 2180-2200 MHz, 3450-3550 MHz, and 3700-3980 MHz bands is subject to international agreements with Mexico and Canada.
 
-[62 FR 9658, Mar. 3, 1997, as amended at 67 FR 5511, Feb. 6, 2002; 69 FR 5715, Feb. 6, 2004; 72 FR 48852, Aug. 24, 2007; 79 FR 599, Jan. 6, 2014; 79 FR 32413, June 4, 2014; 79 FR 48539, Aug. 15, 2014; 85 FR 22882, Apr. 23, 2020; 86 FR 17954, Apr. 7, 2021]
+[62 FR 9658, Mar. 3, 1997, as amended at 67 FR 5511, Feb. 6, 2002; 69 FR 5715, Feb. 6, 2004; 72 FR 48852, Aug. 24, 2007; 79 FR 599, Jan. 6, 2014; 79 FR 32413, June 4, 2014; 79 FR 48539, Aug. 15, 2014; 86 FR 17954, Apr. 7, 2021]

@@ -1,7 +1,5 @@
 ##### § 5.18 Application content. #####
 
-Link to an amendment published at 86 FR 42715, Aug. 5, 2021.
-
 (a) *General content requirements.* Each license application filed pursuant to this part must:
 
 (1) Identify every person, citizen, association of citizens, domestic corporation, municipality, or state that has or intends to obtain and will maintain any proprietary right necessary to construct, operate, or maintain the project;
@@ -38,23 +36,23 @@ Link to an amendment published at 86 FR 42715, Aug. 5, 2021.
 
 (ii) This application is executed in the:
 
-State ofCounty ofBy:(Name)(Address)being duly sworn, depose(s) and say(s) that the contents of this application are true to the best of (his or her) knowledge or belief. The undersigned Applicant(s) has (have) signed the application this \_\_ day of \_\_\_\_\_\_\_\_\_, 2\_\_\_.(Applicant(s))By:
+State ofCounty ofBy:(Name)(Address)being duly sworn, depose(s) and say(s) that the contents of this application are true to the best of (his or her) knowledge or belief. The undersigned Applicant(s) has (have) signed the application this \_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2\_\_\_\_\_\_.(Applicant(s))By:
 
-Subscribed and sworn to before me, a [Notary Public, or title of other official authorized by the state to notarize documents, as appropriate] this \_\_ day of \_\_\_\_\_\_\_\_\_\_, 2\_\_\_.
+Subscribed and sworn to before me, a [Notary Public, or title of other official authorized by the state to notarize documents, as appropriate] this \_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 2\_\_\_\_\_\_.
 
 /SEAL [if any](Notary Public, or other authorized official)
 
 (5) Contain the information and documents prescribed in the following Sections of this chapter, except as provided in paragraph (b) of this Section, according to the type of application:
 
-(i) License for a minor water power project and a major water power project 5 MW or less: § 4.61 (General instructions, initial statement, and Exhibits A, F, and G);
+(i) License for a minor water power project and a major water power project 10 MW or less: § 4.61 of this chapter (General instructions, initial statement, and Exhibits A, F, and G);
 
 (ii) License for a major unconstructed project and a major modified project: § 4.41 of this chapter (General instructions, initial statement, Exhibits A, B, C, D, F, and G);
 
-(iii) License for a major project - existing dam: § 4.51 of this chapter (General instructions, initial statement, Exhibits A, B, C, D, F, and G); or
+(iii) License for a major project—existing dam: § 4.51 of this chapter (General instructions, initial statement, Exhibits A, B, C, D, F, and G); or
 
 (iv) License for a project located at a new dam or diversion where the applicant seeks PURPA benefits: § 292.208 of this chapter.
 
-(b) *Exhibit E - Environmental Exhibit.* The specifications for Exhibit E in §§ 4.41, 4.51, or 4.61 of this chapter shall not apply to applications filed under this part. The Exhibit E included in any license application filed under this part must address the resources listed in the Pre-Application Document provided for in § 5.6; follow the Commission's “Preparing Environmental Assessments: Guidelines for Applicants, Contractors, and Staff,” as they may be updated from time-to-time; and meet the following format and content requirements:
+(b) *Exhibit E—Environmental Exhibit.* The specifications for Exhibit E in §§ 4.41, 4.51, or 4.61 of this chapter shall not apply to applications filed under this part. The Exhibit E included in any license application filed under this part must address the resources listed in the Pre-Application Document provided for in § 5.6; follow the Commission's “Preparing Environmental Assessments: Guidelines for Applicants, Contractors, and Staff,” as they may be updated from time-to-time; and meet the following format and content requirements:
 
 (1) *General description of the river basin.* Describe the river system, including relevant tributaries; give measurements of the area of the basin and length of stream; identify the project's river mile designation or other reference point; describe the topography and climate; and discuss major land uses and economic activities.
 
@@ -130,7 +128,7 @@ Subscribed and sworn to before me, a [Notary Public, or title of other official 
 
 (c) *Exhibit H.* The information required to be provided by this paragraph (c) must be included in the application as a separate exhibit labeled “Exhibit H.”
 
-(1) *Information to be provided by an applicant for new license: Filing requirements* - (i) *Information to be supplied by all applicants.* All Applicants for a new license under this part must file the following information with the Commission:
+(1) *Information to be provided by an applicant for new license: Filing requirements*—(i) *Information to be supplied by all applicants.* All Applicants for a new license under this part must file the following information with the Commission:
 
 (A) A discussion of the plans and ability of the applicant to operate and maintain the project in a manner most likely to provide efficient and reliable electric service, including efforts and plans to:
 
@@ -246,4 +244,4 @@ Subscribed and sworn to before me, a [Notary Public, or title of other official 
 
 (f) *Maps and drawings.* All required maps and drawings must conform to the specifications of § 4.39 of this chapter.
 
-[Order 2002, 68 FR 51121, Aug. 25, 2003; 68 FR 61742, Oct. 30, 2003; 68 FR 69957, Dec. 16, 2003; Order 699, 72 FR 45324, Aug. 14, 2007; Order 756, 77 FR 4894, Feb. 1, 2012]
+[Order 2002, 68 FR 51121, Aug. 25, 2003; 68 FR 61742, Oct. 30, 2003; 68 FR 69957, Dec. 16, 2003; Order 699, 72 FR 45324, Aug. 14, 2007; Order 756, 77 FR 4894, Feb. 1, 2012; Order 877, 86 FR 42715, Aug. 5, 2021]

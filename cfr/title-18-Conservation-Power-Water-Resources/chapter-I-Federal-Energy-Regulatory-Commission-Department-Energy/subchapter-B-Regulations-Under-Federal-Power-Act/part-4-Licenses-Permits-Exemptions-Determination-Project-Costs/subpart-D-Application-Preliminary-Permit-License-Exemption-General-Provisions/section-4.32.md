@@ -1,7 +1,5 @@
 ##### § 4.32 Acceptance for filing or rejection; information to be made available to the public; requests for additional studies. #####
 
-Link to an amendment published at 86 FR 42714, Aug. 5, 2021.
-
 (a) Each application must:
 
 (1) For a preliminary permit or license, identify every person, citizen, association of citizens, domestic corporation, municipality, or state that has or intends to obtain and will maintain any proprietary right necessary to construct, operate, or maintain the project;
@@ -38,9 +36,9 @@ Link to an amendment published at 86 FR 42714, Aug. 5, 2021.
 
 (ii) This (application, etc.) is executed in the
 
-State ofCounty ofby:\_\_\_\_\_\_\_\_\_\_(Name)\_\_\_\_\_\_\_\_\_\_(Address)being duly sworn, depose(s) and say(s) that the contents of this (application, etc.) are true to the best of (his or her) knowledge or belief. The undersigned applicant(s) has (have) signed the (application, etc.) this \_\_\_\_\_\_ day of \_\_\_\_\_\_\_, 19\_\_.(Applicant(s))By:
+State ofCounty ofby(Name)(Address)being duly sworn, depose(s) and say(s) that the contents of this (application, etc.) are true to the best of (his or her) knowledge or belief. The undersigned applicant(s) has (have) signed the (application, etc.) this \_\_\_\_\_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.(Applicant(s))By:
 
-Subscribed and sworn to before me, a [Notary Public, or title of other official authorized by the state to notarize documents, as appropriate] of the State of \_\_\_\_\_\_\_\_ this day of \_\_\_\_\_\_\_, 19\_\_.
+Subscribed and sworn to before me, a [Notary Public, or title of other official authorized by the state to notarize documents, as appropriate] of the State of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ this day of \_\_\_\_\_\_\_\_\_\_\_\_\_\_, 19\_\_\_\_.
 
 /SEAL/ [if any](Notary Public, or other authorized official)
 
@@ -48,11 +46,11 @@ Subscribed and sworn to before me, a [Notary Public, or title of other official 
 
 (i) Preliminary permit: § 4.81;
 
-(ii) License for a minor water power project and a major water power project 5 MW or less: § 4.61;
+(ii) License for a minor water power project and a major water power project 10 MW or less: § 4.61;
 
 (iii) License for a major unconstructed project and a major modified project: § 4.41;
 
-(iv) License for a major project - existing dam: § 4.51;
+(iv) License for a major project—existing dam: § 4.51;
 
 (v) License for a transmission line only: § 4.71;
 

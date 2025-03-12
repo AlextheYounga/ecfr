@@ -1,7 +1,5 @@
 ##### § 4.401 Contents of notice of intent to construct a qualifying conduit hydropower facility. #####
 
-Link to an amendment published at 86 FR 42715, Aug. 5, 2021.
-
 (a) A notice of intent to construct a qualifying conduit hydropower facility submitted under this subpart must contain the following:
 
 (1) An introductory statement as described in paragraph (b) of this section;
@@ -76,24 +74,22 @@ The [facility name] has not been licensed or exempted from the licensing require
 
 (ii) The nearest town, if possible, or other permanent monuments or objects, such as roads or other structures that can be easily noted on the map and identified in the field.
 
-(3) If a dam would be constructed in association with the facility, a profile drawing showing the conduit, and not the dam, creates the hydroelectric potential.
-
 (g) *Verification.* Provide verification using either a sworn, notarized statement set forth in paragraph (g)(1) of this section or an unsworn statement set forth in paragraph (g)(2) of this section.
 
 (1) As to any facts alleged in the notice of intent to construct or other materials filed, be subscribed and verified under oath in the form set forth below by the person filing, an officer thereof, or other person having knowledge of the matters set forth. If the subscription and verification is by anyone other than the person filing or an officer thereof, it shall include a statement of the reasons therefor.
 
 This (notice of intent to construct, etc.) is executed in the:
 
-State of:County of:by:(Name)(Address)being duly sworn, depose(s) and say(s) that the contents of this (notice of intent to construct, etc.) are true to the best of (his or her) knowledge or belief. The undersigned applicant(s) has (have) signed the (notice of intent to construct, etc.) this \_\_\_\_\_day of \_\_\_\_\_\_, 20\_\_.By:
+State of:County of:by:(Name)(Address)being duly sworn, depose(s) and say(s) that the contents of this (notice of intent to construct, etc.) are true to the best of (his or her) knowledge or belief. The undersigned applicant(s) has (have) signed the (notice of intent to construct, etc.) this \_\_\_\_\_\_\_\_\_\_day of \_\_\_\_\_\_\_\_\_\_\_\_, 20\_\_\_\_.By:
 
-Subscribed and sworn to before me, a \_\_\_\_\_\_ [Notary Public, or title of other official authorized by the state to notarize documents, as appropriate] of the State of \_\_\_\_\_\_this day of \_\_\_\_\_\_, 20\_\_.
+Subscribed and sworn to before me, a \_\_\_\_\_\_\_\_\_\_\_\_ [Notary Public, or title of other official authorized by the state to notarize documents, as appropriate] of the State of \_\_\_\_\_\_\_\_\_\_\_\_this day of \_\_\_\_\_\_\_\_\_\_\_\_, 20\_\_\_\_.
 
 /SEAL/[if any]
 
 (Notary Public, or other authorized official)
 
-(2) I declare (or certify, verify, or state) under penalty of perjury that the foregoing is true and correct. Executed on \_\_\_\_\_\_[date].
+(2) I declare (or certify, verify, or state) under penalty of perjury that the foregoing is true and correct. Executed on \_\_\_\_\_\_\_\_\_\_\_\_[date].
 
 (Signature)
 
-[Order 800, 79 FR 59111, Oct. 1, 2014, as amended by Order 857, 84 FR 7991, Mar. 6, 2019]
+[Order 800, 79 FR 59111, Oct. 1, 2014, as amended by Order 857, 84 FR 7991, Mar. 6, 2019; Order 877, 86 FR 42715, Aug. 5, 2021]
