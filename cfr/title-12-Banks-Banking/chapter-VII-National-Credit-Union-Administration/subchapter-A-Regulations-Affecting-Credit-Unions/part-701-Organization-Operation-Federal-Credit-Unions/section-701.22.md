@@ -1,7 +1,5 @@
 ##### § 701.22 Loan participations. #####
 
-Link to an amendment published at 84 FR 10976, Mar. 25, 2019.
-
 This section applies only to loan participations as defined in paragraph (a) of this section. It does not apply to the purchase of an investment interest in a pool of loans. This section establishes the requirements a federally insured credit union must satisfy to purchase a participation in a loan. This section applies only to a federally insured credit union's purchase of a loan participation where the borrower is not a member of that credit union and where a continuing contractual obligation between the seller and purchaser is contemplated. Generally, a federal credit union's purchase of all or part of a loan made to one of its own members, subject to a limited exception for certain well capitalized federal credit unions in § 701.23(b)(2), where no continuing contractual obligation between the seller and purchaser is contemplated, is governed by § 701.23 of this part. Federally insured state-chartered credit unions are required by § 741.225 of this chapter to comply with the loan participation requirements of this section. This section does not apply to corporate credit unions, as that term is defined in § 704.2 of this chapter.
 
 (a) For purposes of this section, the following definitions apply:
@@ -50,7 +48,7 @@ This section applies only to loan participations as defined in paragraph (a) of 
 
 (b) A federally insured credit union may purchase a participation interest in a loan from an eligible organization only if the loan is one the purchasing credit union is empowered to grant and the following additional conditions are satisfied:
 
-(1) The purchase complies with all regulatory requirements to the same extent as if the purchasing federally insured credit union had originated the loan, including, for example, the loans-to-one-borrower provisions in § 701.21(c)(5) of this part for federal credit unions and § 723.8 of the member business loans rule in part 723 of this chapter for all federally insured credit unions;
+(1) The purchase complies with all regulatory requirements to the same extent as if the purchasing federally insured credit union had originated the loan, including, for example, the loans-to-one-borrower provisions in § 701.21(c)(5) of this part for federal credit unions and § 723.4 of the member business loans rule in part 723 of this chapter for all federally insured credit unions;
 
 (2) The purchasing federally insured credit union has executed a written loan participation agreement with the originating lender and the agreement meets the minimum requirements for a loan participation agreement as described in paragraph (d) of this section;
 
@@ -92,4 +90,4 @@ This section applies only to loan participations as defined in paragraph (a) of 
 
 (vi) Circumstances and conditions under which participants may replace the servicer.
 
-[78 FR 37956, June 25, 2013, as amended at 81 FR 13553, Mar. 14, 2016; 82 FR 50291, Oct. 30, 2017; 84 FR 1605, Feb. 5, 2019]
+[78 FR 37956, June 25, 2013, as amended at 81 FR 13553, Mar. 14, 2016; 82 FR 50291, Oct. 30, 2017; 84 FR 1605, Feb. 5, 2019; 84 FR 10976, Mar. 25, 2019]

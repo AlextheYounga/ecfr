@@ -1,33 +1,41 @@
-##### § 79.5 Issuance of certificates. #####
+##### § 79.5 Issuance of Interstate Certificates of Veterinary Inspection (ICVI). #####
 
-Link to an amendment published at 84 FR 11195, Mar. 25, 2019.
+(a) ICVIs are required as specified by § 79.3 for certain interstate movements of sheep or goats and may be used to meet the requirements for entry into terminal feedlots. An ICVI and all copies must be legible and must show the following information, except when § 79.3 states that the information is not required for the specific type of interstate movement:
 
-(a) Certificates are required as specified by § 79.3 for certain interstate movements of animals. A certificate must show the official ear tag number, individual animal registered breed association registration tattoo, individual animal registered breed association registration brand, individual animal registered breed association registration number, and any other official individual identification of each animal to be moved; *provided that,* in the case of animals identified with premises identification4 that is assigned to the flock of origin and that meets the requirements for individual animal identification, the premises number may be recorded instead of the individual identification numbers. A certificate must also show the number of animals covered by the certificate; the purpose for which the animals are to be moved; the points of origin and destination; the consignor, and the consignee. Certificates must indicate the flock of birth for any breeding sheep born after January 1, 2002, that are covered by the certificate. The certificate must include a statement by the issuing accredited or State or Federal veterinarian that the animals were not exhibiting clinical signs associated with scrapie at the time of examination and an owner statement indicating whether the animal is or is not a scrapie-positive, suspect, high-risk or exposed animal and whether it originated in an infected, source, exposed, or noncompliant flock. Except as provided in paragraphs (b) and (c) of this section, all of the information required by this paragraph must be typed or written on the certificate. Note that in accordance with § 79.3(a), (b), and (c), scrapie-positive, suspect, and high-risk animals, some exposed animals, and animals that originated in an infected or source flock require permits rather than certificates.
+(1) The ICVI must show the species, breed or, if breed is unknown, the face color of sheep or the type of goats (milk, fiber, or meat), and class of animal, such as replacement ewe lambs, slaughter lambs or kids, cull ewes, club lambs, bred ewes, etc.; the number of animals covered by the ICVI; the purpose for which the animals are to be moved; the address at which the animals were loaded for interstate movement or for movement to a terminal feedlot when an ICVI is required; the address to which the animals are destined; and the names of the consignor and the consignee and their addresses if different from the address at which the animals were loaded or the address to which the animals are destined; and if different the current owner;
 
-4 Ownership brands may be used on certificates for sheep and goats moved interstate when premises identification is required under this part, provided the ownership brands are legible and are registered with the official brand recording agency and the animals are accompanied by a brand inspection certificate.
+(2) Each animal's official individual identification numbers: *Provided,* that, in the case of animals identified with official identifications devices or methods that include the flock identification number(s) assigned to the flock(s) of origin in the National Scrapie Database and an individual animal number unique within the flock, the flock identification number(s) may be recorded instead of the individual identification numbers, and for animals allowed by § 79.3 to move with group lot identification, the group lot number may be recorded instead of the individual identification numbers. An ICVI may not be issued for any animal that is not officially identified if official identification is required. If the animals are not required by the regulations to be officially identified, the ICVI must state the exemption that applies (*e.g.,* sheep and goats moving for grazing without change of ownership). If the animals are required to be officially identified but the identification number is not required to be recorded on the ICVI, the ICVI must state that all animals to be moved under the ICVI are officially identified and state the exemption that applies (*e.g.* the ewes are identified with flock of origin tags so only the flock ID must be recorded on the ICVI); and
 
-(b) *Animal identification documents attached to certificates.* As an alternative to typing or writing individual animal identification on a certificate, another document may be used to provide this information, but only under the following conditions:
+(3) A statement by the issuing accredited, State, or Federal veterinarian to the effect that on the date of issuance the animals were free of evidence of infectious or contagious disease and insofar as can be determined exposure thereto. This statement may be made with respect to scrapie for animals exposed to scrapie that's movement is not restricted that have been designated genetically resistant or less susceptible sheep or low-risk exposed animals. Except as provided in paragraphs (b) and (c) of this section, all information required by this paragraph must be typed or legibly written on the ICVI. Note that in accordance with paragraphs (a), (b), and (e) of § 79.3, scrapie-positive, suspect, and high-risk animals, some exposed animals, and some animals that originated in an infected or source flock require permits rather than ICVIs.
 
-(1) The document must be a State form or APHIS form that requires individual identification of animals;
+(4) The ICVI must be signed by the issuing State, Federal, Tribal or accredited veterinarian and must be legible on all copies.
 
-(2) A legible copy of the document must be stapled to the original and each copy of the certificate;
+(b) As an alternative to typing or writing individual animal identification on an ICVI, if agreed to by the receiving State or Tribe, another document may be used to provide this information, but only under the following conditions:
 
-(3) Each copy of the document must identify each animal to be moved with the certificate, but any information pertaining to other animals, and any unused space on the document for recording animal identification, must be crossed out in ink; and
+(1) The document must be a State form or APHIS form that requires individual identification of animals or a printout of official identification numbers generated by computer or other means;
 
-(4) The following information must be typed or written in ink in the identification column on the original and each copy of the certificate and must be circled or boxed, also in ink, so that no additional information can be added:
+(2) A legible copy of the document must be stapled to the original and each copy of the ICVI;
+
+(3) Each copy of the document must identify each animal to be moved with the ICVI, but any information pertaining to other animals, and any unused space on the document for recording animal identification, must be crossed out in ink; and
+
+(4) The following information must be written in ink in the identification column on the original and each copy of the ICVI and must be circled or boxed, also in ink, so that no additional information can be added:
 
 (i) The name of the document; and
 
-(ii) Either the serial number on the document or, if the document is not imprinted with a serial number, both the name of the person who prepared the document and the date the document was signed.
+(ii) Either the unique serial number on the document or, if the document is not imprinted with a serial number, both the name of the person who prepared the document and the date the document was signed.
 
-(c) *Ownership brands documents attached to certificates.* As an alternative to typing or writing ownership brands on a certificate, an official brand inspection certificate may be used to provide this information, but only under the following conditions:
+(c) Ownership brands documents attached to ICVIs. As an alternative to typing or writing ownership brands on an ICVI, an official brand inspection certificate may be used to provide this information, but only under the following conditions:
 
-(1) A legible copy of the official brand inspection certificate must be stapled to the original and each copy of the certificate;
+(1) A legible copy of the official brand inspection certificate must be stapled to the original and each copy of the ICVI;
 
-(2) Each copy of the official brand inspection certificate must show the ownership brand of each animal to be moved with the certificate, but any other ownership brands, and any unused space for recording ownership brands, must be crossed out in ink; and
+(2) Each copy of the official brand inspection certificate must show the ownership brand of each animal to be moved with the ICVI, but any other ownership brands, and any unused space for recording ownership brands, must be crossed out in ink; and
 
-(3) The following information must be typed or written in ink in the official identification column on the original and each copy of the certificate and must be circled or boxed, also in ink, so that no additional information can be added:
+(3) The following information must be typed or written in ink in the official identification column on the original and each copy of the ICVI and must be circled or boxed, also in ink, so that no additional information can be added:
 
 (i) The name of the attached document; and
 
 (ii) Either the serial number on the official brand inspection certificate or, if the official brand inspection certificate is not imprinted with a serial number, both the name of the person who prepared the official brand inspection certificate and the date it was signed.
+
+(d) If more than one page is used each page must be sequentially numbered with the page number and the total number of pages (for example 1 of 2, 2 of 2).
+
+(Approved by the Office of Management and Budget under control numbers 0579-0101 and 0579-0469)[84 FR 11195, Mar. 25, 2019]

@@ -30,7 +30,7 @@ Primary enclosures for dogs and cats must meet the following minimum requirement
 
 (xii) If the suspended floor of a primary enclosure is constructed of metal strands, the strands must either be greater than1/8 of an inch in diameter (9 gauge) or coated with a material such as plastic or fiberglass. The suspended floor of any primary enclosure must be strong enough so that the floor does not sag or bend between the structural supports.
 
-(b) *Additional requirements for cats* - (1)*Space.* Each cat, including weaned kittens, that is housed in any primary enclosure must be provided minimum vertical space and floor space as follows:
+(b) *Additional requirements for cats* - (1) *Space.* Each cat, including weaned kittens, that is housed in any primary enclosure must be provided minimum vertical space and floor space as follows:
 
 (i) Each primary enclosure housing cats must be at least 24 in. high (60.96 cm);
 

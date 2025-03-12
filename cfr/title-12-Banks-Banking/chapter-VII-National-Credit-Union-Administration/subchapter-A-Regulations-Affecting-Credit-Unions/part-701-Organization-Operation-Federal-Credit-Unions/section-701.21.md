@@ -1,6 +1,6 @@
 ##### § 701.21 Loans to members and lines of credit to members. #####
 
-Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.Link to an amendment published at 84 FR 10975, Mar. 25, 2019.
+Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.
 
 (a) *Statement of scope and purpose.* Section 701.21 complements the provisions of section 107(5) of the Federal Credit Union Act (12 U.S.C. 1757(5)) authorizing Federal credit unions to make loans to members and issue lines of credit (including credit cards) to members. Section 107(5) of the Act contains limitations on matters such as loan maturity, rate of interest, security, and prepayment penalties. Section 701.21 interprets and implements those provisions. In addition, § 701.21 states the NCUA Board's intent concerning preemption of state laws, and expands the authority of Federal credit unions to enforce due-on-sale clauses in real property loans. Also, while § 701.21 generally applies to Federal credit unions only, certain provisions apply to loans made by federally insured, state-chartered credit unions as specified in § 741.203 of this chapter. Part 722 of this chapter sets forth requirements for appraisals for certain real estate secured loans made under § 701.21 and any other applicable lending authority. Finally, it is noted that § 701.21 does not apply to loans by Federal credit unions to other credit unions (although certain statutory limitations in section 107 of the Act apply), nor to loans to credit union organizations which are governed by section 107(5)(D) of the Act and part 712 of this chapter.
 
@@ -68,9 +68,17 @@ Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was 
 
 (3) *Credit applications and overdrafts.* Consistent with policies established by the board of directors, the credit committee or loan officer shall ensure that a credit application is kept on file for each borrower supporting the decision to make a loan or establish a line of credit. A credit union may advance money to a member to cover an account deficit without having a credit application from the borrower on file if the credit union has a written overdraft policy. The policy must: set a cap on the total dollar amount of all overdrafts the credit union will honor consistent with the credit union's ability to absorb losses; establish a time limit not to exceed forty-five calendar days for a member either to deposit funds or obtain an approved loan from the credit union to cover each overdraft; limit the dollar amount of overdrafts the credit union will honor per member; and establish the fee and interest rate, if any, the credit union will charge members for honoring overdrafts.
 
-(4) *Maturity.* The maturity of a loan to a member may not exceed 15 years. Lines of credit are not subject to a statutory or regulatory maturity limit. Amortization of line of credit balances and the type and amount of security on any line of credit shall be as determined by contract between the Federal credit union and the member/borrower.
+(4) *Maturity* - (i) *In general.* The maturity of a loan to a member may not exceed 15 years. Lines of credit are not subject to a statutory or regulatory maturity limit. Amortization of line of credit balances and the type and amount of security on any line of credit shall be as determined by contract between the Federal credit union and the member/borrower. In the case of a lending action that qualifies as a “new loan” under GAAP, the new loan's maturity is calculated from the new date of origination.
 
-(5) *Ten percent limit.* No loan or line of credit advance may be made to any member if such loan or advance would cause that member to be indebted to the Federal credit union upon loans and advances made to the member in an aggregate amount exceeding 10% of the credit union's total unimpaired capital and surplus. In the case of member business loans as defined in § 723.1 of this chapter, additional limitations apply as set forth in §§ 723.8 and 723.9 of this chapter.
+(ii) *Exceptions.* Notwithstanding the general 15-year maturity limit on loans to members, a federal credit union may make loans with maturities:
+
+(A) As specified in the law, regulations or program under which a loan is secured, in full or in part, by the insurance or guarantee of, or with an advance commitment to purchase the loan, in full or in part, by the Federal Government, a State government or any agency of either, as provided in paragraph (e) of this section;
+
+(B) of up to 20 years or such longer term as is provided in paragraph (f) of this section; and
+
+(C) of up to 40 years or such longer term as is provided in paragraph (g) of this section.
+
+(5) *Ten percent limit.* No loan or line of credit advance may be made to any member if such loan or advance would cause that member to be indebted to the Federal credit union upon loans and advances made to the member in an aggregate amount exceeding 10% of the credit union's total unimpaired capital and surplus. In the case of loan participations as defined in § 701.22(a) of this part and commercial loans as defined in § 723.2 of this chapter, additional limitations apply as set forth in § 701.22(b)(5)(iv) of this part and § 723.4(c) of this chapter.
 
 (6) *Early payment.* A member may repay a loan, or outstanding balance on a line of credit, prior to maturity in whole or in part on any business day without penalty.
 
@@ -172,9 +180,9 @@ Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was 
 
 shall not be more favorable than the rates, terms and conditions for comparable loans or lines of credit to other credit union members. “Immediate family member” means a spouse or other family member living in the same household.
 
-(e) *Insured, Guaranteed and Advance Commitment Loans.* A loan secured, in full or in part, by the insurance or guarantee of, or with an advance commitment to purchase the loan, in full or in part, by the Federal Government, a State government or any agency of either, may be made for the maturity and under the terms and conditions, including rate of interest, specified in the law, regulations or program under which the insurance, guarantee or commitment is provided.
+(e) *Insured, guaranteed, and advance commitment loans.* Notwithstanding the general 15-year maturity limit on loans to members in paragraph (c)(4) of this section, a loan secured, in full or in part, by the insurance or guarantee of, or with an advance commitment to purchase the loan, in full or in part, by the Federal Government, a State government or any agency of either, may be made for the maturity and under the terms and conditions, including rate of interest, specified in the law, regulations or program under which the insurance, guarantee or commitment is provided.
 
-(f) *20-Year Loans.* (1) Notwithstanding the general 15-year maturity limit on loans to members, a federal credit union may make loans with maturities of up to 20 years in the case of:
+(f) *20-Year Loans.* (1) Notwithstanding the general 15-year maturity limit on loans to members in paragraph (c)(4) of this section, a federal credit union may make loans with maturities of up to 20 years in the case of:
 
 (i) A loan to finance the purchase of a mobile home if the mobile home will be used as the member-borrower's residence and the loan is secured by a first lien on the mobile home, and the mobile home meets the requirements for the home mortgage interest deduction under the Internal Revenue Code,
 
@@ -186,7 +194,7 @@ shall not be more favorable than the rates, terms and conditions for comparable 
 
 (3) Notwithstanding the general 20-year maturity limit on second mortgage loans, a federal credit union participating in the Department of the Treasury's Making Home Affordable Program may extend the term of a modified second mortgage to match the term of a modified first mortgage, in accordance with applicable program guidelines.
 
-(g) *Long-Term Mortgage Loans* - (1) *Authority.* A federal credit union may make residential real estate loans to members, including loans secured by manufactured homes permanently affixed to the land, with maturities of up to 40 years, or such longer period as may be permitted by the NCUA Board on a case-by-case basis, subject to the conditions of this paragraph (g).
+(g) *Long-Term Mortgage Loans* - (1) *Authority.* Notwithstanding the general 15-year maturity limit on loans to members in paragraph (c)(4) of this section, a federal credit union may make residential real estate loans to members, including loans secured by manufactured homes permanently affixed to the land, with maturities of up to 40 years, or such longer period as may be permitted by the NCUA Board on a case-by-case basis, subject to the conditions of this paragraph (g).
 
 (2) *Statutory limits.* The loan shall be made on a one to four family dwelling that is or will be the principal residence of the member-borrower and the loan shall be secured by a perfected first lien in favor of the credit union on such dwelling (or a perfected first security interest in the case of either a residential cooperative or a leasehold or ground rent estate).
 

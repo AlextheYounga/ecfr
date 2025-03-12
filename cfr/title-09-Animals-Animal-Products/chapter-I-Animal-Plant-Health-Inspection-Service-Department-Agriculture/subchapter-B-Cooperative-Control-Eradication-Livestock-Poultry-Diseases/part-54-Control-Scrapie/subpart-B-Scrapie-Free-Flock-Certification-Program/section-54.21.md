@@ -1,0 +1,5 @@
+##### § 54.21 Participation. #####
+
+Any owner of a sheep or goat flock may apply to enter the Scrapie Free Flock Certification Program by sending a written request to a State scrapie certification board or to the Veterinary Services, Field Operations, AVIC responsible for the State involved. A notice containing a current list of flocks participating in the Scrapie Free Flock Certification Program, and the certification status of each flock, may be obtained from the APHIS website at *http://www.aphis.usda.gov/animal-health/scrapie.* A list of noncompliant flocks and a list of flocks that sold exposed animals that could not be traced may also be obtained from this site, and these lists may be obtained by writing to the National Scrapie Program Coordinator, Strategy and Policy, VS, APHIS, 4700 River Road Unit 43, Riverdale, MD 20737-1235.
+
+(Approved by the Office of Management and Budget under control number 0579-0101)[84 FR 11185, Mar. 25, 2019]

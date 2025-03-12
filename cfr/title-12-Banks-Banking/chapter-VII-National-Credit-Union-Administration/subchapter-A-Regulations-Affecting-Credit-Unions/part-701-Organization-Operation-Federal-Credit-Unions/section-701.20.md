@@ -1,7 +1,5 @@
 ##### § 701.20 Suretyship and guaranty. #####
 
-Link to an amendment published at 84 FR 10975, Mar. 25, 2019.
-
 (a) *Scope.* This section authorizes a federal credit union to enter into a suretyship or guaranty agreement as an incidental powers activity. This section does not apply to the guaranty of public deposits or the assumption of liability for member accounts.
 
 (b) *Definitions.* A *suretyship* binds a federal credit union with its principal to pay or perform an obligation to a third person. Under a *guaranty* agreement, a federal credit union agrees to satisfy the obligation of the principal only if the principal fails to pay or perform. The *principal* is the person primarily liable, for whose performance of his obligation the surety or guarantor has become bound.
@@ -10,7 +8,7 @@ Link to an amendment published at 84 FR 10975, Mar. 25, 2019.
 
 (1) The federal credit union limits its obligations under the agreement to a fixed dollar amount and a specified duration;
 
-(2) The federal credit union's performance under the agreement creates an authorized loan that complies with the applicable lending regulations, including the limitations on loans to one member or associated members or officials for purposes of §§ 701.21(c)(5), (d); 723.2 and 723.8; and
+(2) The federal credit union's performance under the agreement creates an authorized loan that complies with the applicable lending regulations, including the limitations on loans to one member or associated members or officials for purposes of §§ 701.21(c)(5), (d); 723.4(c); and
 
 (3) The federal credit union obtains a segregated deposit from the member that is sufficient in amount to cover the federal credit union's total potential liability.
 
@@ -34,4 +32,4 @@ Link to an amendment published at 84 FR 10975, Mar. 25, 2019.
 
 (ii) Marketable securities that the federal credit union is authorized to invest in. The federal credit union must ensure that the value of the security is 110 percent of the obligation at all times during the term of the agreement.
 
-[69 FR 8547, Feb. 25, 2004]
+[69 FR 8547, Feb. 25, 2004, as amended at 84 FR 10975, Mar. 25, 2019]

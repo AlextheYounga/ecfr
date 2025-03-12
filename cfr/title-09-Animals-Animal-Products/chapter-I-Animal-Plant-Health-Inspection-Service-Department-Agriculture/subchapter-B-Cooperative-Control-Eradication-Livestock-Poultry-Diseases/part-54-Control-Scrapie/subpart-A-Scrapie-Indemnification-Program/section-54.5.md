@@ -1,7 +1,5 @@
 ##### § 54.5 Certification by owners. #####
 
-Link to an amendment published at 84 FR 11183, Mar. 25, 2019.
-
 Before any indemnity is paid to an owner, the owner must sign a written agreement with APHIS, certifying the following:
 
 (a) The owner will make available for review upon request by a State or APHIS representative all bills of sale, pedigree registration certificates, and other records regarding movement of animals into and from the flock;
@@ -10,4 +8,6 @@ Before any indemnity is paid to an owner, the owner must sign a written agreemen
 
 (c) If the animal for which indemnity is paid is subject to any mortgage, the owner consents to the payment of the indemnity, up to the value of the mortgage, to the person(s) holding the mortgage;
 
-(d) That the animal may be removed to a U.S. Department of Agriculture facility or a quarantined research facility, slaughtered, or euthanized and necropsied and tissues removed for diagnostic or other purposes.
+(d) That the animal may be removed to a U.S. Department of Agriculture facility or a quarantined research facility, or euthanized and necropsied and tissues removed for diagnostic or other purposes.
+
+(Approved by the Office of Management and Budget under control number 0579-0101)[66 FR 43982, Aug. 21, 2001, as amended at 84 FR 11183, Mar. 25, 2019]

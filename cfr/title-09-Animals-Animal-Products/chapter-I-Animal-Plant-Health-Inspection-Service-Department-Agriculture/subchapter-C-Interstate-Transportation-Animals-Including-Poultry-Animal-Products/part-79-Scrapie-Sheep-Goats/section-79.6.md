@@ -1,8 +1,6 @@
 ##### § 79.6 Standards for States to qualify as Consistent States. #####
 
-Link to an amendment published at 84 FR 11196, Mar. 25, 2019.
-
-(a) In reviewing a State for Consistent State status, the Administrator will evaluate the State statutes, regulations, and directives pertaining to animal health activities; reports and publications of the State animal health agency; and a written statement from the State animal health agency describing State scrapie control activities and certifying that these activities meet the requirements of this section. In determining whether a State is a Consistent State, the Administrator will determine whether the State:
+(a) In reviewing a State for Consistent State status, the Administrator will evaluate the State statutes, regulations, and directives pertaining to animal health activities; reports and publications of the State animal health agency; and a written statement from the State animal health agency describing State scrapie control activities, including scrapie surveillance activities, and certifying that these activities meet the requirements of this section. In determining whether a State is a Consistent State, the Administrator will determine whether the State:
 
 (1) Has the authority, based on State law or regulation, to restrict the movement of all scrapie-infected and source flocks.
 
@@ -36,34 +34,47 @@ Link to an amendment published at 84 FR 11196, Mar. 25, 2019.
 
 (9) Has educated those engaged in the interstate movement of sheep and goats regarding the identification and recordkeeping requirements of this part.
 
-(10) Has provided APHIS with a plan and timeline for complying with the following additional requirements, which must be met within 2 years of designation of the State as a Consistent State5:
+(10) Has effectively implemented ongoing scrapie surveillance that meets the following criteria:
 
-5 This provision would apply until January 1, 2003. Any State designated as a Consistent State after that date would have to meet all requirements prior to designation.
+(i) Collects and submits surveillance samples from targeted animals slaughtered in State-inspected establishments and from slaughter establishments within the State that are not covered under § 71.21 of this subchapter, or allows and facilitates the collection of such samples by USDA personnel or contractors; and
 
-(i) Requires, based on State law or regulation, and effectively enforces official identification upon change of ownership of all animals of any age not in slaughter channels and any sheep over 18 months of age as evidenced by eruption of the second incisor such that the animal may be traced to its flock of birth; provided that:
+(ii) Transmits required submission and epidemiological information for all scrapie samples using the electronic submission system provided by APHIS for inclusion in the National Scrapie Database and for transmission of the submission information to an approved laboratory; and
 
-(A) A State may exempt commercial goats in intrastate commerce that have not been in contact with sheep from this identification requirement if there has been in that State no case of scrapie in a commercial goat in the past 10 years that originated in that State and cannot be attributed to exposure to infected sheep, and there are no exposed commercial goat herds in that State; and
+(iii) Achieves the annual State-level scrapie surveillance minimums for sheep and goats originating from the State as determined annually by the Administrator with input from the States and made available to the public at *http://www.aphis.usda.gov/animal-health/scrapie* at least 6 months before the start of the collection period; or
 
-(B) A State may exempt commercial whitefaced sheep or commercial hair sheep under 18 months of age in intrastate commerce from this identification requirement if there has been in that State no case of scrapie in the exempted class that originated from that State, and there are no exposed commercial whitefaced or hair sheep flocks in that State that have been exposed by a female animal.
+(iv) Conducts annual surveillance at a level that will detect scrapie if it is present at a prevalence of 0.1 percent in the population of targeted animals originating in the State, with a 95 percent confidence.
 
-(C) States that exempt these types of commercial animals must put in place the regulations necessary to require identification of these animals within 90 days of these conditions no longer existing.
+(11) If a State does not meet the requirements of paragraph (a)(10) of this section as of April 24, 2019, the State must provide APHIS with a plan and a timeline for complying with all the requirements of paragraph (a)(10) by April 24, 2020, and must meet the requirements of paragraph (a)(10) of this section by April 26, 2021.
 
-(ii) Maintains in the National Scrapie Database administered by APHIS, or in a State database approved by the Administrator as compatible with the National Scrapie Database, the State's:
+(12) Requires, based on State law or regulation, and effectively enforces official identification upon change of ownership of all animals of any age not in slaughter channels and any sheep over 18 months of age as evidenced by eruption of the second incisor such that the animal may be traced to its flock of birth; provided that:
 
-(A) Premises information and assigned premises numbers and individual identification number sequences assigned for use as premises identification;
+(i) A State may exempt commercial goats in intrastate commerce that have not been in contact with sheep from this identification requirement if there has been in that State no case of scrapie in a commercial goat in the past 10 years that originated in that State and cannot be attributed to exposure to infected sheep, and there are no exposed commercial goat herds in that State; and
 
-(B) Individual animal information on all scrapie-positive, suspect, high-risk, and exposed animals in the State;
+(ii) A State may exempt commercial whitefaced sheep or commercial hair sheep under 18 months of age in intrastate commerce from this identification requirement if there has been in that State no case of scrapie in the exempted class that originated from that State, and there are no exposed commercial whitefaced or hair sheep flocks in that State that have been exposed by a female animal.
 
-(C) Individual animal information on all out-of-State animals to be traced; and
+(iii) States that exempt these types of commercial animals must put in place the regulations necessary to require identification of these animals within 90 days of these conditions no longer existing.
 
-(D) Accurate flock status data.
+(13) Maintains in the National Scrapie Database administered by APHIS, or in a State database approved by the Administrator as compatible with the National Scrapie Database, the State's:
 
-(iii) Requires official individual identification of any live scrapie-positive, suspect, or high-risk animal of any age and of any sexually intact exposed animal of more than 1 year of age or any sexually intact exposed animal of less than 1 year of age upon change of ownership (except for exposed animals moving in slaughter channels at less than 1 year of age), whether or not the animal resides in a source or infected flock.
+(i) Premises information and assigned premises numbers and individual identification number sequences assigned for use as premises identification;
 
-(iv) Effectively enforces movement restrictions on all scrapie-positive, suspect, and high-risk animals throughout their lives unless they are moved in accordance with § 79.3.
+(ii) Individual animal information on all scrapie-positive, suspect, high-risk, and exposed animals in the State;
 
-(v) Requires that tissues from all scrapie-positive or suspect animals and female high-risk animals that have lambed (when they have died or have been destroyed) be submitted to a laboratory authorized by the Administrator to conduct scrapie tests and requires complete destruction of the carcasses of scrapie-positive and suspect animals.
+(iii) Individual animal information on all out-of-State animals to be traced; and
 
-(vi) Prohibits any animal from being removed from slaughter channels unless it is identified to the flock of birth, is not from an Inconsistent State, and is not scrapie-exposed or from an infected or source flock.
+(iv) Accurate flock status data.
 
-(b) If the Administrator determines that statutory changes are needed to bring a State into full compliance, the Administrator may grant up to a 2-year extension to allow a State to acquire additional authorities before removing a State's Consistent Status. The decision to grant an extension will be based on the State's ability to prevent the movement of scrapie-infected animals out of the State and on the progress being made in making the needed statutory changes.
+(14) Requires official individual identification of any live scrapie-positive, suspect, or high-risk animal of any age and of any sexually intact exposed animal of more than 1 year of age or any sexually intact exposed animal of less than 1 year of age upon change of ownership (except for exposed animals moving in slaughter channels at less than 1 year of age), whether or not the animal resides in a source or infected flock.
+
+(15) Effectively enforces movement restrictions on all scrapie-positive, suspect, and high-risk animals throughout their lives unless they are moved in accordance with § 79.3.
+
+(16) Requires that tissues from all scrapie-positive or suspect animals and female high-risk animals that have lambed (when they have died or have been destroyed) be submitted to a laboratory authorized by the Administrator to conduct scrapie tests and requires complete destruction of the carcasses of scrapie-positive and suspect animals.
+
+(17) Prohibits any animal from being removed from slaughter channels unless it is identified to the flock of birth, is not from an Inconsistent State, and is not scrapie-exposed or from an infected or source flock.
+
+(b) If the Administrator determines that statutory changes are needed to bring a State into full compliance, the Administrator may grant up to a 2-year extension from the date the State is notified of the deficiency to allow a State to acquire additional authorities before removing a State's Consistent Status. The decision to grant an extension will be based on the State's ability to prevent the movement of scrapie-infected animals out of the State and on the progress being made in making the needed statutory changes.
+
+(c) When the Administrator determines that a State should be added to or removed from the list of Consistent States, APHIS will publish a notice in the Federal Register advising the public of the Administrator's determination, providing the reasons for that determination, and soliciting public comments. After considering any comments we receive, APHIS will publish a second notice either advising the public that the Administrator has decided to add or remove the
+State from the list of Consistent States or notifying the public that the Administrator has decided not to make any changes to the list of Consistent States, depending on the information presented in the comments.
+
+(Approved by the Office of Management and Budget under control number 0579-0101)[66 FR 43990, Aug. 21, 2001, as amended at 84 FR 11196, Mar. 25, 2019]

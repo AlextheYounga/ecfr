@@ -1,0 +1,3 @@
+##### § 54.20 Administration. #####
+
+The Scrapie Flock Certification Program is a cooperative effort between APHIS; members of the sheep and goat industry, including owners of flocks, slaughtering and rendering establishments, and breed associations and registries; accredited veterinarians; and State governments. APHIS coordinates with State scrapie certification boards and State animal health agencies to encourage flock owners to certify their flocks as free of scrapie by being in continuous compliance with the Scrapie Flock Certification Program standards.
