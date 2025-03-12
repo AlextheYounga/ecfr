@@ -1,5 +1,7 @@
 ##### § 170.12 Payment of fees. #####
 
+Link to an amendment published at 87 FR 37214, June 22, 2022.
+
 (a) *Application and registration fees.* Each application or registration for which a fee is prescribed must be accompanied by a remittance for the full amount of the fee. The NRC will not issue a new license or an amendment increasing the scope of an existing license to a higher fee category before receiving the prescribed application fee. The application or registration fee(s) is charged whether the Commission approves the application or not. The application or registration fee(s) is also charged if the applicant withdraws the application or registration.
 
 (b) *Licensing fees.* (1) Licensing fees will be assessed to recover full costs for -

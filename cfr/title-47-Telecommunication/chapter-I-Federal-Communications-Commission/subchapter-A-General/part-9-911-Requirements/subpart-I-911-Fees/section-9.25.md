@@ -4,4 +4,4 @@
 
 (b) Each State or taxing jurisdiction subject to paragraph (a) of this section must file the information requested by the Commission and in the form specified by the Public Safety and Homeland Security Bureau.
 
-(c) Paragraph (b) of this section contains information collection and recordkeeping requirements. Compliance will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing that compliance date and revising this paragraph (c) accordingly.
+[86 FR 45908, Aug. 17, 2021, as amended at 87 FR 37239, June 22, 2022]
