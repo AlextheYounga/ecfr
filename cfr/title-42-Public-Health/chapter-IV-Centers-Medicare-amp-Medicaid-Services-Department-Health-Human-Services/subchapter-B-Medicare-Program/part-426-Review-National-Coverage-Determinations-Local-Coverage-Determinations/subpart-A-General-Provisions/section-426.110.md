@@ -1,5 +1,7 @@
 ##### § 426.110 Definitions. #####
 
+Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
+
 For the purposes of this part, the following definitions apply:
 
 *Aggrieved party* means a Medicare beneficiary, or the estate of a Medicare beneficiary, who -

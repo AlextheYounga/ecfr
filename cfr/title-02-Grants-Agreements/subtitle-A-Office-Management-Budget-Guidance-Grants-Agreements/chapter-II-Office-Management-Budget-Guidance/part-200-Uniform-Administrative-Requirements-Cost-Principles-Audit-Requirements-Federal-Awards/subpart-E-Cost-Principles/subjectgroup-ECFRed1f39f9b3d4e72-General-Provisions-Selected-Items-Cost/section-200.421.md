@@ -1,12 +1,10 @@
 ##### § 200.421 Advertising and public relations. #####
 
-Link to an amendment published at 85 FR 49564, Aug. 13, 2020.
-
 (a) The term advertising costs means the costs of advertising media and corollary administrative costs. Advertising media include magazines, newspapers, radio and television, direct mail, exhibits, electronic or computer transmittals, and the like.
 
 (b) The only allowable advertising costs are those which are solely for:
 
-(1) The recruitment of personnel required by the non-Federal entity for performance of a Federal award (See also § 200.463 Recruiting costs);
+(1) The recruitment of personnel required by the non-Federal entity for performance of a Federal award (See also § 200.463);
 
 (2) The procurement of goods and services for the performance of a Federal award;
 
@@ -28,7 +26,7 @@ Link to an amendment published at 85 FR 49564, Aug. 13, 2020.
 
 (1) All advertising and public relations costs other than as specified in paragraphs (b) and (d) of this section;
 
-(2) Costs of meetings, conventions, convocations, or other events related to other activities of the entity (see also § 200.432 Conferences), including:
+(2) Costs of meetings, conventions, convocations, or other events related to other activities of the entity (see also § 200.432), including:
 
 (i) Costs of displays, demonstrations, and exhibits;
 
@@ -39,3 +37,5 @@ Link to an amendment published at 85 FR 49564, Aug. 13, 2020.
 (3) Costs of promotional items and memorabilia, including models, gifts, and souvenirs;
 
 (4) Costs of advertising and public relations designed solely to promote the non-Federal entity.
+
+[78 FR 76808, Dec. 26, 2013, as amended at 85 FR 49564, Aug. 13, 2020]

@@ -1,7 +1,5 @@
 ##### § 752.401 Coverage. #####
 
-Link to an amendment published at 85 FR 65986, Oct. 16, 2020.
-
 (a) *Adverse actions covered.* This subpart applies to the following actions:
 
 (1) Removals;
@@ -42,15 +40,21 @@ Link to an amendment published at 85 FR 65986, Oct. 16, 2020.
 
 (13) Cancellation of a promotion to a position not classified prior to the promotion;
 
-(14) Placement of an employee serving on an intermittent or seasonal basis in a temporary nonduty, nonpay status in accordance with conditions established at the time of appointment; or
+(14) Placement of an employee serving on an intermittent or seasonal basis in a temporary nonduty, nonpay status in accordance with conditions established at the time of appointment;
 
-(15) Reduction of an employee's rate of basic pay from a rate that is contrary to law or regulation, including a reduction necessary to comply with the amendments made by Public Law 108-411, regarding pay-setting under the General Schedule and Federal Wage System and regulations implementing those amendments.
+(15) Reduction of an employee's rate of basic pay from a rate that is contrary to law or regulation, including a reduction necessary to comply with the amendments made by Public Law 108-411, regarding pay-setting under the General Schedule and Federal Wage System and regulations implementing those amendments; or
+
+(16) An action taken under 5 U.S.C. 7515.
 
 (c) *Employees covered.* This subpart covers:
 
 (1) A career or career conditional employee in the competitive service who is not serving a probationary or trial period;
 
-(2) An employee in the competitive service who has completed 1 year of current continuous service under other than a temporary appointment limited to 1 year or less;
+(2) An employee in the competitive service -
+
+(i) Who is not serving a probationary or trial period under an initial appointment; or
+
+(ii) Except as provided in section 1599e of title 10, United States Code, who has completed one year of current continuous service under other than a temporary appointment limited to one year or less;
 
 (3) An employee in the excepted service who is a preference eligible in an Executive agency as defined at section 105 of title 5, United States Code, the U.S. Postal Service, or the Postal Regulatory Commission and who has completed 1 year of current continuous service in the same or similar positions;
 
@@ -93,3 +97,5 @@ Link to an amendment published at 85 FR 65986, Oct. 16, 2020.
 (12) An employee whose agency or position has been excluded from the appointing provisions of title 5, United States Code, by separate statutory authority in the absence of any provision to place the employee within the coverage of chapter 75 of title 5, United States Code; and
 
 (13) An employee in the competitive service serving a probationary or trial period, unless he or she meets the requirements of paragraph (c)(2) of this section.
+
+[74 FR 63532, Dec. 4, 2009, as amended at 85 FR 65986, Oct. 16, 2020]

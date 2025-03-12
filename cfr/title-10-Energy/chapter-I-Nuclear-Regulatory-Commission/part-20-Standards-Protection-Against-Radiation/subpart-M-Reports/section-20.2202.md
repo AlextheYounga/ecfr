@@ -1,10 +1,8 @@
 ##### § 20.2202 Notification of incidents. #####
 
-Link to an amendment published at 85 FR 65661, Oct. 16, 2020.
+(a) Immediate notification. Notwithstanding any other requirements for notification, each licensee shall immediately report any event involving byproduct, source, or special nuclear material possessed by the licensee that may have caused or threatens to cause any of the following conditions—
 
-(a) Immediate notification. Notwithstanding any other requirements for notification, each licensee shall immediately report any event involving byproduct, source, or special nuclear material possessed by the licensee that may have caused or threatens to cause any of the following conditions -
-
-(1) An individual to receive -
+(1) An individual to receive—
 
 (i) A total effective dose equivalent of 25 rems (0.25 Sv) or more; or
 
@@ -16,7 +14,7 @@ Link to an amendment published at 85 FR 65661, Oct. 16, 2020.
 
 (b) Twenty-four hour notification. Each licensee shall, within 24 hours of discovery of the event, report any event involving loss of control of licensed material possessed by the licensee that may have caused, or threatens to cause, any of the following conditions:
 
-(1) An individual to receive, in a period of 24 hours -
+(1) An individual to receive, in a period of 24 hours—
 
 (i) A total effective dose equivalent exceeding 5 rems (0.05 Sv); or
 
@@ -32,8 +30,8 @@ Link to an amendment published at 85 FR 65661, Oct. 16, 2020.
 
 (1) Licensees having an installed Emergency Notification System shall make the reports required by paragraphs (a) and (b) of this section to the NRC Operations Center in accordance with 10 CFR 50.72; and
 
-(2) All other licensees shall make the reports required by paragraphs (a) and (b) of this section by telephone to the NRC Operations Center (301) 816-5100.
+(2) All other licensees shall make the reports required by paragraphs (a) and (b) of this section by telephone to the NRC Headquarters Operations Center at the numbers specified in appendix A to part 73 of this chapter.
 
 (e) The provisions of this section do not include doses that result from planned special exposures, that are within the limits for planned special exposures, and that are reported under § 20.2204.
 
-[56 FR 23406, May 21, 1991, as amended at 56 FR 40766, Aug. 16, 1991; 57 FR 57879, Dec. 8, 1992; 59 FR 14086, Mar. 25, 1994; 63 FR 39483, July 23, 1998]
+[56 FR 23406, May 21, 1991, as amended at 56 FR 40766, Aug. 16, 1991; 57 FR 57879, Dec. 8, 1992; 59 FR 14086, Mar. 25, 1994; 63 FR 39483, July 23, 1998; 85 FR 65661, Oct. 16, 2020]

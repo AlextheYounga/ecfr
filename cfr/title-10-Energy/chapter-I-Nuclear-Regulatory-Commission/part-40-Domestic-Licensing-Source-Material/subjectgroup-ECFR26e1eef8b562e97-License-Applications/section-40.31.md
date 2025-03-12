@@ -1,7 +1,5 @@
 ##### § 40.31 Application for specific licenses. #####
 
-Link to an amendment published at 85 FR 65662, Oct. 16, 2020.
-
 (a) A person may file an application for specific license on NRC Form 313, “Application for Material License,” in accordance with the instructions in § 40.5 of this chapter. Information contained in previous applications, statements or reports filed with the Commission may be incorporated by reference provided that the reference is clear and specific.
 
 (b) The Commission may at any time after the filing of the original application, and before the expiration of the license, require further statements in order to enable the Commission to determine whether the application should be granted or denied or whether a license should be modified or revoked. All applications and statements shall be signed by the applicant or licensee or a person duly authorized to act for and on his behalf.
@@ -16,7 +14,7 @@ Link to an amendment published at 85 FR 65662, Oct. 16, 2020.
 
 (g) An applicant for a license to possess and use source material, or the recipient of such a license shall report information to the Commission as follows:
 
-(1) In response to a written request by the Commission, a uranium or thorium processing plant, and any other applicant for a license to possess and use source material, shall submit facility information described in § 75.10 of this chapter on Form N-71 and associated forms and site information on DOC/NRC Form AP-A, and associated forms;
+(1) In response to a written request by the Commission, a uranium or thorium processing plant, and any other applicant for a license to possess and use source material, shall submit facility information described in § 75.10 of this chapter on IAEA Design Information Questionnaire forms and site information on DOC/NRC Form AP-A, and associated forms;
 
 (2) As required by the Additional Protocol, a uranium or thorium processing plant, and any other applicant for a license to possess and use source material, shall submit location information described in § 75.11 of this chapter on DOC/NRC Form AP-1 and associated forms; shall permit verification of this information by the International Atomic Energy Agency (IAEA); and shall take other actions as may be necessary to implement the US/IAEA Safeguards Agreement, as described in part 75 of this chapter; or
 
@@ -78,4 +76,4 @@ Link to an amendment published at 85 FR 65662, Oct. 16, 2020.
 
 (m) Each applicant for a license for the possession of source material at a facility for the production or conversion of uranium hexafluoride shall protect Safeguards Information against unauthorized disclosure in accordance with the requirements in §§ 73.21 and 73.22 of this chapter, as applicable. Each applicant for a license for source material shall protect Safeguards Information against unauthorized disclosure in accordance with the requirements in § 73.21 and the requirements of § 73.22 or § 73.23 of this chapter, as applicable.
 
-[26 FR 284, Jan. 14, 1961, as amended at 31 FR 4669, Mar. 19, 1966; 34 FR 19546, Dec. 11, 1969; 36 FR 145, Jan. 6, 1971; 37 FR 5748, Mar. 21, 1972; 46 FR 13497, Feb. 23, 1981; 49 FR 9403, Mar. 12, 1984; 49 FR 19626, May 9, 1984; 49 FR 21699, May 23, 1984; 49 FR 27924, July 9, 1984; 53 FR 24047, June 27, 1988; 54 FR 14061, Apr. 7, 1989; 57 FR 18390, Apr. 30, 1992; 68 FR 58807, Oct. 10, 2003; 73 FR 63570, Oct. 24, 2008; 73 FR 78604, Dec. 23, 2008]
+[26 FR 284, Jan. 14, 1961, as amended at 31 FR 4669, Mar. 19, 1966; 34 FR 19546, Dec. 11, 1969; 36 FR 145, Jan. 6, 1971; 37 FR 5748, Mar. 21, 1972; 46 FR 13497, Feb. 23, 1981; 49 FR 9403, Mar. 12, 1984; 49 FR 19626, May 9, 1984; 49 FR 21699, May 23, 1984; 49 FR 27924, July 9, 1984; 53 FR 24047, June 27, 1988; 54 FR 14061, Apr. 7, 1989; 57 FR 18390, Apr. 30, 1992; 68 FR 58807, Oct. 10, 2003; 73 FR 63570, Oct. 24, 2008; 73 FR 78604, Dec. 23, 2008; 85 FR 65662, Oct. 16, 2020]

@@ -1,8 +1,8 @@
 ##### § 432.105 Proposing and taking action based on unacceptable performance. #####
 
-Link to an amendment published at 85 FR 65982, Oct. 16, 2020.
+(a) *Proposing action based on unacceptable performance.*
 
-(a) *Proposing action based on unacceptable performance.* (1) Once an employee has been afforded a reasonable opportunity to demonstrate acceptable performance pursuant to § 432.104, an agency may propose a reduction-in-grade or removal action if the employee's performance during or following the opportunity to demonstrate acceptable performance is unacceptable in 1 or more of the critical elements for which the employee was afforded an opportunity to demonstrate acceptable performance.
+(1) Once an employee has been afforded a reasonable opportunity to demonstrate acceptable performance pursuant to § 432.104, an agency may propose a reduction-in-grade or removal action if the employee's performance during or following the opportunity to demonstrate acceptable performance is unacceptable in one or more of the critical elements for which the employee was afforded an opportunity to demonstrate acceptable performance. For the purposes of this section, the agency's obligation to provide assistance, under 5 U.S.C. 4302(c)(5), may be discharged through measures, such as supervisory assistance, taken prior to the beginning of the opportunity period in addition to measures taken during the opportunity period. The agency must take some measures to provide assistance during the opportunity period in order to both comply with section 4302(c)(5) and provide an opportunity to demonstrate acceptable performance under 4302(c)(6).
 
 (2) If an employee has performed acceptably for 1 year from the beginning of an opportunity to demonstrate acceptable performance (in the critical element(s) for which the employee was afforded an opportunity to demonstrate acceptable performance), and the employee's performance again becomes unacceptable, the agency shall afford the employee an additional opportunity to demonstrate acceptable performance before determining whether to propose a reduction in grade or removal under this part.
 
@@ -18,15 +18,15 @@ Link to an amendment published at 85 FR 65982, Oct. 16, 2020.
 
 (*2*) To arrange for the employee's travel to make an oral reply to an appropriate agency official, or the travel of an agency official to hear the employee's oral reply;
 
-(*3*) To consider the employee's answer if an extention to the period for an answer has been granted (e.g., because of the employee's illness or incapacitation);
+(*3*) To consider the employee's answer if an extension to the period for an answer has been granted (e.g., because of the employee's illness or incapacitation);
 
-(*4*) To consider reasonable accommodation of a handicapping condition;
+(*4*) To consider reasonable accommodation of a disability;
 
 (*5*) If agency procedures so require, to consider positions to which the employee might be reassigned or reduced in grade; or
 
 (*6*) To comply with a stay ordered by a member of the Merit Systems Protection Board under 5 U.S.C. 1208(b).
 
-(C) If an agency believes that an extension of the advance notice period is necessary for another reason, it may request prior approval for such extension from the Chief, Family Programs and Employee Relations Division, Office of Labor Relations and Workforce Performance, Personnel Systems and Oversight Group, Office of Personnel Management, 1900 E Street NW., Washington, DC 20415.
+(C) If an agency believes that an extension of the advance notice period is necessary for another reason, it may request prior approval for such extension from the Manager, Employee Accountability, Accountability and Workforce Relations, Employee Services, Office of Personnel Management, 1900 E Street NW, Washington, DC 20415.
 
 (ii) *Opportunity to answer.* The agency shall afford the employee a reasonable time to answer the agency's notice of proposed action orally and in writing.
 
@@ -36,4 +36,4 @@ Link to an amendment published at 85 FR 65982, Oct. 16, 2020.
 
 (b) *Final written decision.* The agency shall make its final decision within 30 days after expiration of the advance notice period. Unless proposed by the head of the agency, such written decision shall be concurred in by an employee who is in a higher position than the person who proposed the action. In arriving at its decision, the agency shall consider any answer of the employee and/or his or her representative furnished in response to the agency's proposal. A decision to reduce in grade or remove an employee for unacceptable performance may be based only on those instances of unacceptable performance that occurred during the 1 year period ending on the date of issuance of the advance notice of proposed action under § 432.105(a)(4)(i). The agency shall issue written notice of its decision to the employee at or before the time the action will be effective. Such notice shall specify the instances of unacceptable performance by the employee on which the action is based and shall inform the employee of any applicable appeal and/or grievance rights.
 
-[54 FR 26179, June 21, 1989. Redesignated and amended at 54 FR 49076, Nov. 29, 1989. Redesignated and amended at 58 FR 65534, Dec. 15, 1993]
+[54 FR 26179, June 21, 1989. Redesignated and amended at 54 FR 49076, Nov. 29, 1989. Redesignated and amended at 58 FR 65534, Dec. 15, 1993; 85 FR 65982, Oct. 16, 2020]

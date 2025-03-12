@@ -1,7 +1,5 @@
 ##### § 210.9-03 Balance sheets. #####
 
-Link to an amendment published at 85 FR 66140, Oct. 16, 2020.
-
 The purpose of this rule is to indicate the various items which, if applicable, should appear on the face of the balance sheets or in the notes thereto.
 
 Assets
@@ -22,33 +20,13 @@ Assets
 
 7. *Loans.* Disclose separately (1) total loans, (2) the related allowance for losses and (3) unearned income.
 
-(a) Disclose on the balance sheet or in a note the amount of total loans in each of the following categories:
-
-(1) Commercial, financial and agricultural
-
-(2) Real estate - construction
-
-(3) Real estate - mortgage
-
-(4) Installment loans to individuals
-
-(5) Lease financing
-
-(6) Foreign
-
-(7) Other (State separately any other loan category regardless of relative size if necessary to reflect any unusual risk concentration).
-
-(b) A series of categories other than those specified in (a) above may be used to present details of loans if considered a more appropriate presentation.
-
-(c) The amount of foreign loans must be presented if the disclosures provided by § 210.9-05 are required.
-
-(d) [Reserved]
+(a)-(d) [Reserved]
 
 (e)(1)(i) As of each balance sheet date, disclose in a note the aggregate dollar amount of loans (exclusive of loans to any such persons which in the aggregate do not exceed $60,000 during the latest year) made by the registrant or any of its subsidiaries to directors, executive officers, or principal holders of equity securities (§ 210.1-02) of the registrant or any of its significant subsidiaries (§ 210.1-02), or to any associate of such persons. For the latest fiscal year, an analysis of activity with respect to such aggregate loans to related parties should be provided. The analysis should include the aggregate amount at the beginning of the period, new loans, repayments, and other changes. (Other changes, if significant, should be explained.)
 
 (ii) This disclosure need not be furnished when the aggregate amount of such loans at the balance sheet date (or with respect to the latest fiscal year, the maximum amount outstanding during the period) does not exceed 5 percent of stockholders equity at the balance sheet date.
 
-(2) If a significant portion of the aggregate amount of loans outstanding at the end of the fiscal year disclosed pursuant to (e)(1)(i) above relates to loans which are disclosed as nonaccrual, past due, restructured or potential problems (see Item III.C. 1. or 2. of Industry Guide 3, Statistical Disclosure by Bank Holding Companies), so state and disclose the aggregate amounts of such loans along with such other information necessary to an understanding of the effects of the transactions on the financial statements.
+(2) If a significant portion of the aggregate amount of loans outstanding at the end of the fiscal year disclosed pursuant to (e)(1)(i) above relates to loans that are disclosed as past due, nonaccrual or troubled debt restructurings in the consolidated financial statements, so state and disclose the aggregate amounts of such loans along with such other information necessary to an understanding of the effects of the transactions on the financial statements.
 
 (3) Notwithstanding the aggregate disclosure called for by paragraph (e)(1) of this section, if any loans were not made in the ordinary course of business during any period for which a statement of comprehensive income is required to be filed, provide an appropriate description of each such loan.
 
@@ -64,7 +42,7 @@ Assets
 
 8. *Premises and equipment.*
 
-9. *Due from customers on acceptances.* Include amounts receivable from customers on unmatured drafts and bills of exchange that have been accepted by a bank subsidiary or by other banks for the account of a subsidiary and that are outstanding - that is, not held by a subsidiary bank, on the reporting date. (If held by a bank subsidiary, they should be reported as “loans” under § 210.9-03.7.)
+9. *Due from customers on acceptances.* Include amounts receivable from customers on unmatured drafts and bills of exchange that have been accepted by a bank subsidiary or by other banks for the account of a subsidiary and that are outstanding—that is, not held by a subsidiary bank, on the reporting date. (If held by a bank subsidiary, they should be reported as “loans” under § 210.9-03.7.)
 
 10. *Other assets.* Disclose separately on the balance sheet or in a note thereto any of the following assets or any other asset the amount of which exceeds thirty percent of stockholders equity. The remaining assets may be shown as one amount.
 
@@ -130,4 +108,4 @@ Noncontrolling Interests
 
 23. *Total liabilities and equity.*
 
-[48 FR 11107, Mar. 16, 1983, as amended at 48 FR 37612, Aug. 19, 1983; 50 FR 25215, June 18, 1985; 74 FR 18616, Apr. 23, 2009; 83 FR 50205, Oct. 4, 2018]
+[48 FR 11107, Mar. 16, 1983, as amended at 48 FR 37612, Aug. 19, 1983; 50 FR 25215, June 18, 1985; 74 FR 18616, Apr. 23, 2009; 83 FR 50205, Oct. 4, 2018; 85 FR 66140, Oct. 16, 2020]

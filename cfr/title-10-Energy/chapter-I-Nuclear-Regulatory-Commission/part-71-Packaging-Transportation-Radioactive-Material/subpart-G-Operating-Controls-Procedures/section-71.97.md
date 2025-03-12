@@ -1,7 +1,5 @@
 ##### § 71.97 Advance notification of shipment of irradiated reactor fuel and nuclear waste. #####
 
-Link to an amendment published at 85 FR 65664, Oct. 16, 2020.
-
 (a)(1) As specified in paragraphs (b), (c), and (d) of this section, each licensee shall provide advance notification to the governor of a State, or the governor's designee, of the shipment of licensed material, within or across the boundary of the State, before the transport, or delivery to a carrier, for transport, of licensed material outside the confines of the licensee's plant or other place of use or storage.
 
 (2) As specified in paragraphs (b), (c), and (d) of this section, after June 11, 2013, each licensee shall provide advance notification to the Tribal official of participating Tribes referenced in paragraph (c)(3)(iii) of this section, or the official's designee, of the shipment of licensed material, within or across the boundary of the Tribe's reservation, before the transport, or delivery to a carrier, for transport, of licensed material outside the confines of the licensee's plant or other place of use or storage.
@@ -32,7 +30,7 @@ Link to an amendment published at 85 FR 65664, Oct. 16, 2020.
 
 (3) A notification delivered by any other means than mail must reach the office of the governor or of the governor's designee or the Tribal official or Tribal official's designee at least 4 days before the beginning of the 7-day period during which departure of the shipment is estimated to occur.
 
-(i) A list of the names and mailing addresses of the governors' designees receiving advance notification of transportation of nuclear waste was published in the Federal Register on June 30, 1995 (60 FR 34306).
+(i) [Reserved]
 
 (ii) Contact information for each State, including telephone and mailing addresses of governors and governors' designees, and participating Tribes, including telephone and mailing addresses of Tribal officials and Tribal official's designees, is available on the NRC Web site at: *https://scp.nrc.gov/special/designee.pdf.*
 
@@ -60,4 +58,4 @@ Link to an amendment published at 85 FR 65664, Oct. 16, 2020.
 
 (2) The licensee shall state in the notice that it is a cancellation and identify the advance notification that is being canceled. The licensee shall retain a copy of the notice as a record for 3 years.
 
-[60 FR 50264, Sept. 28, 1995, as amended at 67 FR 3586, Jan. 25, 2002; 68 FR 14529, Mar. 26, 2003; 68 FR 23575, May 5, 2003; 68 FR 58818, Oct. 10, 2003; 74 FR 62683, Dec. 1, 2009; 75 FR 73945, Nov. 30, 2010; 77 FR 34204, June 11, 2012; 78 FR 17021, Mar. 19, 2013; 79 FR 75741, Dec. 19, 2014; 80 FR 74981, Dec. 1, 2015; 83 FR 30288, June 28, 2018; 83 FR 58723, Nov. 21, 2018]
+[60 FR 50264, Sept. 28, 1995, as amended at 67 FR 3586, Jan. 25, 2002; 68 FR 14529, Mar. 26, 2003; 68 FR 23575, May 5, 2003; 68 FR 58818, Oct. 10, 2003; 74 FR 62683, Dec. 1, 2009; 75 FR 73945, Nov. 30, 2010; 77 FR 34204, June 11, 2012; 78 FR 17021, Mar. 19, 2013; 79 FR 75741, Dec. 19, 2014; 80 FR 74981, Dec. 1, 2015; 83 FR 30288, June 28, 2018; 83 FR 58723, Nov. 21, 2018; 85 FR 65663, Oct. 16, 2020]

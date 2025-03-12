@@ -1,7 +1,9 @@
-##### § 1500.16 Determination of Appeal. #####
+##### § 1500.16 Notice of receipt of Dispute to Affected Entity. #####
 
-Link to an amendment published at 85 FR 61573, Sept. 30, 2020.Link to an amendment published at 85 FR 61575, Sept. 30, 2020.
+Within 15 calendar days of receiving the Dispute, the DDO will provide the Affected Entity a written notice, sent electronically, acknowledging receipt of the Dispute.
 
-(a) *Record on Appeal.* In determining the merits of the Appeal, the DDO will consider the record related to the Agency Decision, any documentation that the Affected Entity submits with its Appeal, any additional documentation submitted by the Affected Entity in response to the DDO's request under § 1500.14(a), and any other information the DDO determines is relevant to the Appeal provided the DDO gives notice of that information to the Affected Entity. The Affected Entity may not on its own initiative submit any additional documents.
+(a) *Timely Disputes.* If the Dispute was timely submitted, the notice of acknowledgement may identify any additional information or documentation that is required for a thorough consideration of the Dispute. The notice should provide no more than 30 calendar days for the Affected Entity to provide the requested information. If it is not feasible to identify such information or documentation in the notice the DDO may request it at a later point in time prior to issuance of the Dispute decision.
 
-(b) *Appeal decision.* The DDO will issue the Appeal decision within 180 calendar days from the date the Appeal is received by the DDO unless a longer period is necessary based on the complexity of the legal, technical and factual issues presented. The DDO will notify the Affected Entity if the expected decision will not be issued within the 180 day period and if feasible will indicate when the decision is expected to be issued. The Appeal decision will also identify the Review Official. The DDO will issue the Appeal decision electronically. The DDO's decision will constitute the final agency action unless the Affected Entity files a timely request for review in accordance with the Request for Review procedures in § 1500.17.
+(b) *Untimely Disputes.* If the DDO did not receive the Dispute within the required 30-day period, or any extension of it, the DDO will notify the Affected Entity that the Dispute is being dismissed as untimely and the Agency Decision of the AO becomes final. The dismissal of an untimely Dispute constitutes the final agency action. In appropriate circumstances, the DDO may, as a matter of discretion, consider an untimely Dispute if doing so would be in the interests of fairness and equity.
+
+[85 FR 61575, Sept. 30, 2020]

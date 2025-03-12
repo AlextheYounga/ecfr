@@ -1,10 +1,8 @@
 ##### § 200.449 Interest. #####
 
-Link to an amendment published at 85 FR 49569, Aug. 13, 2020.
-
 (a) *General.* Costs incurred for interest on borrowed capital, temporary use of endowment funds, or the use of the non-Federal entity's own funds, however represented, are unallowable. Financing costs (including interest) to acquire, construct, or replace capital assets are allowable, subject to the conditions in this section.
 
-(b)(1) Capital assets is defined as noted in § 200.12 Capital assets. An asset cost includes (as applicable) acquisition costs, construction costs, and other costs capitalized in accordance with GAAP.
+(b) *Capital assets.* (1) Capital assets is defined as noted in § 200.1 of this part. An asset cost includes (as applicable) acquisition costs, construction costs, and other costs capitalized in accordance with GAAP.
 
 (2) For non-Federal entity fiscal years beginning on or after January 1, 2016, intangible assets include patents and computer software. For software development projects, only interest attributable to the portion of the project costs capitalized in accordance with GAAP is allowable.
 
@@ -14,7 +12,7 @@ Link to an amendment published at 85 FR 49569, Aug. 13, 2020.
 
 (3) The non-Federal entity obtains the financing via an arm's-length transaction (that is, a transaction with an unrelated third party); or claims reimbursement of actual interest cost at a rate available via such a transaction.
 
-(4) The non-Federal entity limits claims for Federal reimbursement of interest costs to the least expensive alternative. For example, a capital lease may be determined less costly than purchasing through debt financing, in which case reimbursement must be limited to the amount of interest determined if leasing had been used.
+(4) The non-Federal entity limits claims for Federal reimbursement of interest costs to the least expensive alternative. For example, a lease contract that transfers ownership by the end of the contract may be determined less costly than purchasing through other types of debt financing, in which case reimbursement must be limited to the amount of interest determined if leasing had been used.
 
 (5) The non-Federal entity expenses or capitalizes allowable interest cost in accordance with GAAP.
 
@@ -46,4 +44,4 @@ Link to an amendment published at 85 FR 49569, Aug. 13, 2020.
 
 (g) The interest allowability provisions of this section do not apply to a nonprofit organization subject to “full coverage” under the Cost Accounting Standards (CAS), as defined at 48 CFR 9903.201-2(a). The non-Federal entity's Federal awards are instead subject to CAS 414 (48 CFR 9904.414), “Cost of Money as an Element of the Cost of Facilities Capital”, and CAS 417 (48 CFR 9904.417), “Cost of Money as an Element of the Cost of Capital Assets Under Construction”.
 
-[78 FR 78608, Dec. 26, 2013, as amended at 80 FR 54409, Sept. 10, 2015]
+[78 FR 78608, Dec. 26, 2013, as amended at 80 FR 54409, Sept. 10, 2015; 85 FR 49569, Aug. 13, 2020]

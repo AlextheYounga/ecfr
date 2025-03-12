@@ -1,5 +1,7 @@
 ##### § 501.105 Declaration of net quantity of contents when exempt. #####
 
+                            Link to an amendment published at 85 FR 72908, Nov. 16, 2020.
+
                             (a) The principal display panel of a food in package form shall bear a declaration of the net quantity of contents. This shall be expressed in the terms of weight, measure, numerical count, or a combination of numerical count and weight or measure. The statement shall be in terms of fluid measure if the food is liquid, or in terms of weight if the food is solid, semisolid, or viscous, or a mixture of solid and liquid; except that such statement may be in terms of dry measure if the food is a fresh fruit, fresh vegetable, or other dry commodity that is customarily sold by dry measure. If there is a firmly established general consumer usage and trade custom of declaring the contents of a liquid by weight, or a solid, semisolid, or viscous product by fluid measure, it may be used. Whenever the Commissioner determines that an existing practice of declaring net quantity of contents by weight, measure, numerical count, or a combination in the case of a specific packaged food does not facilitate value comparisons by consumers and offers opportunity for consumer confusion, he will by regulation designate the appropriate term or terms to be used for such commodity.
 
                             (b)(1) Statements of weight shall be in terms of avoirdupois pound and ounce.

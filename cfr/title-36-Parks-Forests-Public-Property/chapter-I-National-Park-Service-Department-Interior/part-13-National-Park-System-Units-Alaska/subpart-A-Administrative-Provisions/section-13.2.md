@@ -1,5 +1,7 @@
 ##### § 13.2 Applicability and scope. #####
 
+Link to an amendment published at 85 FR 72961, Nov. 16, 2020.
+
 (a) The regulations contained in part 13 are prescribed for the proper use and management of park areas in Alaska and supplement the general regulations of this chapter. The general regulations contained in this chapter are applicable except as modified by part 13.
 
 (b) Subparts A through F contain regulations applicable to park areas. Such regulations amend in part the general regulations contained in this chapter. The regulations in subparts A through F govern use and management, including subsistence activities, within the park areas, except as modified by special park regulations in subparts H through V.

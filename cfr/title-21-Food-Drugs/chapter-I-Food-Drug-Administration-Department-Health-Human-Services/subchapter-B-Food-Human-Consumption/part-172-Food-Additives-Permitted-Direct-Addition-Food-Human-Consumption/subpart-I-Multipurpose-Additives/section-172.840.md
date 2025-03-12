@@ -1,5 +1,7 @@
 ##### § 172.840 Polysorbate 80. #####
 
+Link to an amendment published at 85 FR 72907, Nov. 16, 2020.
+
 The food additive polysorbate 80 (polyoxyethylene (20) sorbitan monooleate), which is a mixture of polyoxyethylene ethers of mixed partial oleic acid esters of sorbitol anhydrides and related compounds, may be safely used in food in accordance with the following prescribed conditions:
 
 (a) The food additive is manufactured by reacting oleic acid (usually containing associated fatty acids) with sorbitol to yield a product with a maximum acid number of 7.5 and a maximum water content of 0.5 percent, which is then reacted with ethylene oxide.

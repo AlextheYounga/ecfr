@@ -78,8 +78,6 @@
 
 (iii) Safety factors:
 
-Minimum Factors of Safety for Suspension Wire Ropes
-
 |Rope speed in feet per minute|Minimum factor of safety|
 |-----------------------------|------------------------|
 |             50              |          7.60          |
@@ -103,7 +101,7 @@ Minimum Factors of Safety for Suspension Wire Ropes
 
 (16) All personnel hoists used by employees shall be constructed of materials and components which meet the specifications for materials, construction, safety devices, assembly, and structural integrity as stated in the American National Standard A10.4-1963, Safety Requirements for Workmen's Hoists. The requirements of this paragraph (c)(16) do not apply to cantilever type personnel hoists.
 
-(17) (i) Personnel hoists used in bridge tower construction shall be approved by a registered professional engineer and erected under the supervision of a qualified engineer competent in this field.
+(17)(i) Personnel hoists used in bridge tower construction shall be approved by a registered professional engineer and erected under the supervision of a qualified engineer competent in this field.
 
 (ii) When a hoist tower is not enclosed, the hoist platform or car shall be totally enclosed (caged) on all sides for the full height between the floor and the overhead protective covering with3/4-inch mesh of No. 14 U.S. gauge wire or equivalent. The hoist platform enclosure shall include the required gates for loading and unloading.
 
@@ -111,15 +109,15 @@ Minimum Factors of Safety for Suspension Wire Ropes
 
 (iv) Wire rope shall be taken out of service when any of the following conditions exist:
 
-(*A*) In running ropes, six randomly distributed broken wires in one lay or three broken wires in one strand in one lay;
+(A) In running ropes, six randomly distributed broken wires in one lay or three broken wires in one strand in one lay;
 
-(*B*) Wear of one-third the original diameter of outside individual wires. Kinking, crushing, bird caging, or any other damage resulting in distortion of the rope structure;
+(B) Wear of one-third the original diameter of outside individual wires. Kinking, crushing, bird caging, or any other damage resulting in distortion of the rope structure;
 
-(*C*) Evidence of any heat damage from any cause;
+(C) Evidence of any heat damage from any cause;
 
-(*D*) Reductions from nominal diameter of more than three-sixty-fourths inch for diameters to and including three-fourths inch, one-sixteenth inch for diameters seven-eights inch to 11/8 inches inclusive, three-thirty-seconds inch for diameters 11/4 to 11/2 inches inclusive;
+(D) Reductions from nominal diameter of more than three-sixty-fourths inch for diameters to and including three-fourths inch, one-sixteenth inch for diameters seven-eights inch to 11/8 inches inclusive, three-thirty-seconds inch for diameters 11/4 to 11/2 inches inclusive;
 
-(*E*) In standing ropes, more than two broken wires in one lay in sections beyond end connections or more than one broken wire at an end connection.
+(E) In standing ropes, more than two broken wires in one lay in sections beyond end connections or more than one broken wire at an end connection.
 
 (d) Permanent elevators under the care and custody of the employer and used by employees for work covered by this Act shall comply with the requirements of American National Standards Institute A17.1-1965 with addenda A17.1a-1967, A17.1b-1968, A17.1c-1969, A17.1d-1970, and inspected in accordance with A17.2-1960 with addenda A17.2a-1965, A17.2b-1967.
 

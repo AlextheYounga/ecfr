@@ -1,5 +1,7 @@
 ##### § 13.430 Determination of resident zones. #####
 
+Link to an amendment published at 85 FR 72961, Nov. 16, 2020.
+
 (a) A resident zone shall include -
 
 (1) The area within a national park or monument; and

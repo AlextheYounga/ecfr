@@ -1,9 +1,7 @@
-##### § 1500.3 Exceptions. #####
+##### § 1500.3 Applicability. #####
 
-Link to an amendment published at 85 FR 61573, Sept. 30, 2020.
+(a) Uniform administrative requirements and cost principles (subparts A through E of 2 CFR part 200 as supplemented by this part) apply to foreign public entities or foreign organizations, except where EPA determines that the application of this part would be inconsistent with the international obligations of the United States or the statutes or regulations of a foreign government.
 
-Consistent with 2 CFR 200.102(b):
+(b) Requirements for subrecipient monitoring and management at 2 CFR 200.331 through 200.333 do not apply to loan, loan guarantees, interest subsidies and principal forgiveness, purchases of insurance or local government debt or similar transactions with borrowers by recipients of Clean Water State Revolving Fund (CWSRF) capitalization grants and Drinking Water State Revolving Fund (DWSRF) capitalization grants. Requirements for reporting subaward and executive compensation in 2 CFR part 170 and internal controls described at 2 CFR 200.303 continue to apply to CWSRF and DWSRF grant recipients and borrowers.
 
-(a) In the EPA, the Director, Office of Grants and Debarment or designee, is authorized to grant exceptions on a case-by-case basis for non-Federal entities.
-
-(b) The EPA Director or designee is also authorized to approve exceptions, on a class or an individual case basis, to EPA program specific assistance regulations other than those which implement statutory and executive order requirements.
+[85 FR 61573, Sept. 30, 2020]

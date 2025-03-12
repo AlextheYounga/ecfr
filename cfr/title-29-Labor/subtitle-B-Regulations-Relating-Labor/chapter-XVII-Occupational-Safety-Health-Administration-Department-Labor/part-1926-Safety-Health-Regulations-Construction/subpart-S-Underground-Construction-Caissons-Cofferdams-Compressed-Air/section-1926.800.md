@@ -52,7 +52,7 @@
 
 (5) Any employee working alone underground in a hazardous location, who is both out of the range of natural unassisted voice communication and not under observation by other persons, shall be provided with an effective means of obtaining assistance in an emergency.
 
-(g) *Emergency provisions* - (1) *Hoisting capability.* When a shaft is used as a means of egress, the employer shall make advance arrangements for power-assisted hoisting capability to be readily available in an emergency, unless the regular hoisting means can continue to function in the event of an electrical power failure at the jobsite. Such hoisting means shall be designed so that the load hoist drum is powered in both directions of rotation and so that the brake is automatically applied upon power release or failure.
+(g) *Emergency provisions*—(1) *Hoisting capability.* When a shaft is used as a means of egress, the employer shall make advance arrangements for power-assisted hoisting capability to be readily available in an emergency, unless the regular hoisting means can continue to function in the event of an electrical power failure at the jobsite. Such hoisting means shall be designed so that the load hoist drum is powered in both directions of rotation and so that the brake is automatically applied upon power release or failure.
 
 (2) *Self-rescuers.* The employer must provide self-rescuers approved by the National Institute for Occupational Safety and Health under 42 CFR part 84. The respirators must be immediately available to all employees at work stations in underground areas where employees might be trapped by smoke or gas. The selection, issuance, use, and care of respirators must be in accordance with 29 CFR 1926.103.
 
@@ -70,7 +70,7 @@
 
 (v) The employer shall ensure that rescue teams are familiar with conditions at the jobsite.
 
-(h) *Hazardous classifications* - (1) *Potentially gassy operations.* Underground construction operations shall be classified as potentially gassy if either:
+(h) *Hazardous classifications*—(1) *Potentially gassy operations.* Underground construction operations shall be classified as potentially gassy if either:
 
 (i) Air monitoring discloses 10 percent or more of the lower explosive limit for methane or other flammable gases measured at 12 inches (304.8 mm) ±0.25 inch (6.35 mm) from the roof, face, floor or walls in any underground work area for more than a 24-hour period; or
 
@@ -104,7 +104,7 @@
 
 (iii) Installation of above-ground controls for reversing the air flow.
 
-(j) *Air quality and monitoring* - (1) *General.* Air quality limits and control requirements for construction are found in § 1926.55, except as modified by this section.
+(j) *Air quality and monitoring*—(1) *General.* Air quality limits and control requirements for construction are found in § 1926.55, except as modified by this section.
 
 (i)(A) The employer shall assign a competent person who shall perform all air monitoring required by this section.
 
@@ -268,7 +268,7 @@
 
 (2) Noncombustible barriers shall be installed below welding, cutting, or other hot work being done in or over a shaft or raise.
 
-(o) *Ground support* - (1) *Portal areas.* Portal openings and access areas shall be guarded by shoring, fencing, head walls, shotcreting or other equivalent protection to ensure safe access of employees and equipment. Adjacent areas shall be scaled or otherwise secured to prevent loose soil, rock, or fractured materials from endangering the portal and access area.
+(o) *Ground support*—(1) *Portal areas.* Portal openings and access areas shall be guarded by shoring, fencing, head walls, shotcreting or other equivalent protection to ensure safe access of employees and equipment. Adjacent areas shall be scaled or otherwise secured to prevent loose soil, rock, or fractured materials from endangering the portal and access area.
 
 (2) *Subsidence areas.* The employer shall ensure ground stability in hazardous subsidence areas by shoring, by filling in, or by erecting barricades and posting warning signs to prevent entry.
 
@@ -336,7 +336,7 @@
 
 (9) Scaling bars shall be available at scaling operations and shall be maintained in good condition at all times. Blunted or severely worn bars shall not be used.
 
-(10) (i) Blasting holes shall not be drilled through blasted rock (muck) or water.
+(10)(i) Blasting holes shall not be drilled through blasted rock (muck) or water.
 
 (ii) Employees in a shaft shall be protected either by location or by suitable barrier(s) if powered mechanical loading equipment is used to remove muck containing unfired explosives.
 
@@ -494,8 +494,8 @@
 
 (ix) The personnel platform may travel at rated speeds greater than 600 feet (182.88 m) per minute in completed shafts.
 
-(u) *Definitions.* “Accept” - Any device, equipment, or appliance that is either approved by MSHA and maintained in permissible condition, or is listed or labeled for the class and location under subpart K of this part.
+(u) *Definitions.* “Accept”—Any device, equipment, or appliance that is either approved by MSHA and maintained in permissible condition, or is listed or labeled for the class and location under subpart K of this part.
 
-“Rapid Excavation Machine” - Tunnel boring machines, shields, roadheaders, or any other similar excavation machine.
+“Rapid Excavation Machine”—Tunnel boring machines, shields, roadheaders, or any other similar excavation machine.
 
 [54 FR 23850, June 2, 1989; 58 FR 35311, June 30, 1993, as amended at 61 FR 5510, Feb. 13, 1996; 63 FR 1297, Jan. 8, 1998; 71 FR 16674, Apr. 3, 2006; 75 FR 48135, Aug. 9, 2010; 77 FR 49728, Aug. 17, 2012; 78 FR 23841, Apr. 24, 2013; 84 FR 21577, May 14, 2019]

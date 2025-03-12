@@ -1,7 +1,5 @@
 ##### § 17.47 Special rules - insects. #####
 
-Link to an amendment published at 85 FR 65260, Oct. 15, 2020.
-
 (a) Cassius blue butterfly (*Leptotes cassius theonus*), Ceraunus blue butterfly (*Hemiargus ceraunus antibubastus*), and Nickerbean blue butterfly (*Cyclargus ammon*).
 
 (1) The provisions of § 17.31(c) apply to these species (cassius blue butterfly, ceraunus blue butterfly, nickerbean blue butterfly), regardless of whether in the wild or in captivity, and also apply to the progeny of any such butterfly.
@@ -54,4 +52,46 @@ Link to an amendment published at 85 FR 65260, Oct. 15, 2020.
 
 (iv) In addition to any other provisions of this part, any employee or agent of the Service, of the National Marine Fisheries Service, or of a State conservation agency that is operating a conservation program pursuant to the terms of a cooperative agreement with the Service in accordance with section 6(c) of the Act, who is designated by that agency for such purposes, may, when acting in the course of official duties, take those threatened species of wildlife that are covered by an approved cooperative agreement to carry out conservation programs.
 
-[77 FR 20986, Apr. 6, 2012, as amended at 79 FR 67348, Oct. 24, 2014; 84 FR 64227, Nov. 21, 2019]
+(d) American burying beetle (*Nicrophorus americanus*) - (1) *Prohibitions.* The following prohibitions apply to the American burying beetle:
+
+(i) *Take of the American burying beetle.* Take of the American burying beetle, except that take that is incidental to otherwise lawful activity (incidental take) is prohibited only when the take occurs on suitable American burying beetle habitat:
+
+(A) In the New England and Northern Plains Analysis Areas where the incidental take results from soil disturbance; or
+
+(B) In the Southern Plains Analysis Areas where the incidental take occurs on defined conservation lands, except where incidental take is in compliance with a Service-approved conservation plan.
+
+(ii) *Possession and other acts with unlawfully taken American burying beetles.* It is unlawful to possess, sell, deliver, carry, transport, or ship, by any means whatsoever, any American burying beetle that was taken in violation of paragraph (d)(1)(i) of this section or State law. Notwithstanding the preceding sentence, Federal and State law enforcement officers may possess, deliver, carry, transport, or ship any American burying beetle taken in violation of the Act as necessary in performing their official duties.
+
+(iii) *Import and export of the American burying beetle.* It is unlawful to import or export the American burying beetle.
+
+(iv) *Interstate or foreign commerce.* It is unlawful to deliver, receive, carry, transport, or ship in interstate or foreign commerce, by any means whatsoever, and in the course of a commercial activity, the American burying beetle.
+
+(v) *Sale or offer for sale.* It is unlawful to sell or to offer for sale in interstate or foreign commerce any American burying beetle.
+
+(2) *Exceptions from prohibitions.* (i) Any employee or agent of the Service or of a State conservation agency that is operating a conservation program pursuant to the terms of a cooperative agreement with the Service in accordance with section 6(c) of the Act, who is designated by his or her agency for such purposes, may, when acting in the course of his or her official duties, take American burying beetles, provided that, for State conservation agencies, the American burying beetle is covered by an approved cooperative agreement to carry out conservation programs.
+
+(ii) Federal or State government agencies may incidentally take American burying beetles when conducting wildlife management activities in the Northern Plains Analysis Areas.
+
+(iii) Incidental take of American burying beetles resulting from ranching and grazing activities is allowed.
+
+(3) *Definitions.* For the purposes of this paragraph (d), we define the following terms:
+
+(i) *Conservation lands* means lands included within the existing boundaries:
+
+(A) In Arkansas, of Fort Chaffee (approximately 64,000 acres); and
+
+(B) In Oklahoma, of McAlester Army Ammunition Plant (approximately 45,000 acres) and Camp Gruber/Cherokee Wildlife Management Area (approximately 64,000 acres).
+
+(ii) *New England Analysis Area* means Block Island in Rhode Island and Nantucket Island in Massachusetts.
+
+(iii) *Northern Plains Analysis Areas* means portions of Nebraska and South Dakota, as presented in the map at paragraph (d)(4) of this section, to initially include an 18.6-mile buffer around each capture location to determine the outside boundaries of the analysis area. For specific information regarding whether a parcel of land is inside the Northern Plains Analysis Areas, contact your local Service ecological services field office. Field office contact information may be obtained from the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(iv) *Ranching and grazing* means activities involved in grazing livestock (e.g., cattle, bison, horse, sheep, goats, or other grazing animals) such as: Gathering of livestock; construction and maintenance of fences associated with livestock grazing; installation and maintenance of corrals, loading chutes, and other livestock working facilities; development and maintenance of livestock watering facilities; placement of supplements such as salt blocks for grazing livestock; and, when associated with livestock grazing, the control of noxious weeds, haying, mowing, and prescribed burning. Ranching and grazing does not include any form of farming, conversion of grassland to cropland, or management of cropland.
+
+(v) *Soil disturbance* means movement or alteration of soil. Soil disturbance includes actions such as grading, filling, soil excavating, or topsoil stripping. Soil disturbance also includes non-physical alterations such as chemical treatment.
+
+(vi) *Southern Plains Analysis Areas* means portions of Arkansas, Kansas, Oklahoma, and Texas, as presented in the map at paragraph (d)(4) of this section, to initially include an 18.6-mile buffer around each capture location to determine the outside boundaries of the analysis area. For specific information regarding whether a parcel of land is inside the Southern Plains Analysis Areas, contact your local Service ecological services field office. Field office contact information may be obtained from the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(4) *Map of American Burying Beetle Analysis Areas.*
+
+![](/graphics/er15oc20.001.gif)[77 FR 20986, Apr. 6, 2012, as amended at 79 FR 67348, Oct. 24, 2014; 84 FR 64227, Nov. 21, 2019; 85 FR 65260, Oct. 15, 2020]

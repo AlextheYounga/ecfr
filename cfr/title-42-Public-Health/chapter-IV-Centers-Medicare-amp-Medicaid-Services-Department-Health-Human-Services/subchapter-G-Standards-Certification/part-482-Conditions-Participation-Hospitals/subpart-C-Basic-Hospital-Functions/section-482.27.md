@@ -1,5 +1,7 @@
 ##### § 482.27 Condition of participation: Laboratory services. #####
 
+Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
+
 The hospital must maintain, or have available, adequate laboratory services to meet the needs of its patients. The hospital must ensure that all laboratory services provided to its patients are performed in a facility certified in accordance with part 493 of this chapter.
 
 (a) *Standard: Adequacy of laboratory services.* The hospital must have laboratory services available, either directly or through a contractual agreement with a certified laboratory that meets requirements of part 493 of this chapter.

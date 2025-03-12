@@ -1,7 +1,5 @@
 ##### § 125.2 What are SBA's and the procuring agency's responsibilities when providing contracting assistance to small businesses? #####
 
-Link to an amendment published at 85 FR 66191, Oct. 16, 2020.
-
 (a)(1) *General.* The objective of the SBA's contracting programs is to assist small business concerns, including 8(a) BD Participants, HUBZone small business concerns, Service-Disabled Veteran-Owned Small Business Concerns, Women-Owned Small Businesses and Economically Disadvantaged Women-Owned Small Businesses, in obtaining a fair share of Federal Government prime contracts, subcontracts, orders, and property sales. Therefore, these regulations apply to all types of Federal Government contracts, including Multiple Award Contracts, and contracts for architectural and engineering services, research, development, test and evaluation. Small business concerns must receive any award (including orders, and orders placed against Multiple Award Contracts) or contract, part of any such award or contract, any contract for the sale of Government property, or any contract resulting from a reverse auction, regardless of the place of performance, which SBA and the procuring or disposal agency determine to be in the interest of:
 
 (i) Maintaining or mobilizing the Nation's full productive capacity;
@@ -242,9 +240,7 @@ Unless the contracting agency requests a review, PCRs will not review an acquisi
 
 (iii) Whether such savings and benefits would be greater if the procurement requirements were divided into separate solicitations suitable for award to small business concerns.
 
-(e) *Multiple Award Contract* - (1) *General.*
-
-(i) The contracting officer must set-aside a Multiple Award Contract if the requirements for a set-aside are met. This includes set-asides for small businesses, 8(a) Participants, HUBZone SBCs, SDVO SBCs, WOSBs or EDWOSBs.
+(e) *Multiple Award Contract* - (1) *General.*(i) The contracting officer must set-aside a Multiple Award Contract if the requirements for a set-aside are met. This includes set-asides for small businesses, 8(a) Participants, HUBZone SBCs, SDVO SBCs, WOSBs or EDWOSBs.
 
 (ii) The contracting officer in his or her discretion may partially set-aside or reserve a Multiple Award Contract, or set aside, or preserve the right to set aside, orders against a Multiple Award Contract that was not itself set aside for small business. The ultimate decision of whether to use any of the above-mentioned tools in any given procurement action is a decision of the contracting agency.
 
@@ -318,7 +314,7 @@ Unless the contracting agency requests a review, PCRs will not review an acquisi
 
 (6) *Set-aside of orders against Multiple Award Contracts.*
 
-(i) Notwithstanding the fair opportunity requirements set forth in 10 U.S.C. 2304c and 41 U.S.C. 253j, the contracting officer has the authority to set aside orders against Multiple Award Contracts, including contracts that were set aside for small business. This includes order set-asides for 8(a) Participants, HUBZone SBCs, SDVO SBCs, and WOSBs (and where appropriate EDWOSBs).
+(i) Notwithstanding the fair opportunity requirements set forth in 10 U.S.C. 2304c and 41 U.S.C. 4106(c), a contracting officer may set aside orders for small businesses, eligible 8(a) Participants, certified HUBZone small business concerns, SDVO small business concerns, WOSBs, and EDWOSBs against full and open Multiple Award Contracts. In addition, a contracting officer may set aside orders for eligible 8(a) Participants, certified HUBZone small business concerns, SDVO small business concerns, WOSBs, and EDWOSBs against total small business set-aside Multiple Award Contracts, partial small business set-aside Multiple Award Contracts, and small business reserves of Multiple Award Contracts awarded in full and open competition. Although a contracting officer can set aside orders issued under a small business set-aside Multiple Award Contract or reserve to any subcategory of small businesses, contracting officers are encouraged to review the award dollars under the Multiple Award Contract and aim to make available for award at least 50% of the award dollars under the Multiple Award Contract to all contract holders of the underlying small business set-aside Multiple Award Contract or reserve. However, a contracting officer may not further set aside orders for specific types of small business concerns against Multiple Award Contracts that are set-aside or reserved for eligible 8(a) Participants, certified HUBZone small business concerns, SDVO small business concerns, WOSBs, and EDWOSBs (*e.g.,* a contracting officer cannot set-aside an order for 8(a) Participants that are also certified HUBZone small business concerns against an 8(a) Multiple Award Contract).
 
 (ii) The contracting officer may state in the solicitation and resulting contract for the Multiple Award Contract that:
 
@@ -340,4 +336,6 @@ Unless the contracting agency requests a review, PCRs will not review an acquisi
 
 (ii) SBA believes that Progress in fulfilling the various small business goals, as well as other factors such as the results of market research, programmatic needs specific to the procuring agency, anticipated award price, and the acquisition history, will be considered in making a decision as to which program to use for the acquisition.
 
-[61 FR 3312, Jan. 31, 1996, as amended at 63 FR 31908, June 11, 1998; 64 FR 57370, Oct. 25, 1999; 65 FR 45833, July 26, 2000; 68 FR 60012, Oct. 20, 2003; 74 FR 46887, Sept. 14, 2009; 75 FR 62281, Oct. 7, 2010; 76 FR 63547, Oct. 12, 2011; 77 FR 1860, Jan. 12, 2012; 78 FR 61135, Oct. 2, 2013; 81 FR 34261, May 31, 2016; 81 FR 48585, July 25, 2016; 84 FR 65239, Nov. 26, 2019; 84 FR 65662, Nov. 29, 2019]
+(g) *Capabilities, past performance, and experience.* When an offer of a small business prime contractor includes a proposed team of small business subcontractors and specifically identifies the first-tier subcontractor(s) in the proposal, the head of the agency must consider the capabilities, past performance, and experience of each first tier subcontractor that is part of the team as the capabilities, past performance, and experience of the small business prime contractor if the capabilities, past performance, and experience of the small business prime does not independently demonstrate capabilities and past performance necessary for award.
+
+[61 FR 3312, Jan. 31, 1996, as amended at 63 FR 31908, June 11, 1998; 64 FR 57370, Oct. 25, 1999; 65 FR 45833, July 26, 2000; 68 FR 60012, Oct. 20, 2003; 74 FR 46887, Sept. 14, 2009; 75 FR 62281, Oct. 7, 2010; 76 FR 63547, Oct. 12, 2011; 77 FR 1860, Jan. 12, 2012; 78 FR 61135, Oct. 2, 2013; 81 FR 34261, May 31, 2016; 81 FR 48585, July 25, 2016; 84 FR 65239, Nov. 26, 2019; 84 FR 65662, Nov. 29, 2019; 85 FR 66191, Oct. 16, 2020]

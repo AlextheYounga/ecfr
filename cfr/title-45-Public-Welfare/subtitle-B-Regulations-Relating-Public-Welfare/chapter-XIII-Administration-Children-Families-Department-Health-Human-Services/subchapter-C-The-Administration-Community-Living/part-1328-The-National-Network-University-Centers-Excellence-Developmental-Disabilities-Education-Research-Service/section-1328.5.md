@@ -1,5 +1,7 @@
 ##### § 1328.5 Applications. #####
 
+Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
+
 (a) To be eligible to receive a grant under § 1388.2 for a Center, an entity shall submit to the Secretary, or his or her designee, an application at such time, in such manner, and containing such information, as the Secretary, or his or her designee, may require for approval.
 
 (b) Each application shall describe a five-year plan that must include:

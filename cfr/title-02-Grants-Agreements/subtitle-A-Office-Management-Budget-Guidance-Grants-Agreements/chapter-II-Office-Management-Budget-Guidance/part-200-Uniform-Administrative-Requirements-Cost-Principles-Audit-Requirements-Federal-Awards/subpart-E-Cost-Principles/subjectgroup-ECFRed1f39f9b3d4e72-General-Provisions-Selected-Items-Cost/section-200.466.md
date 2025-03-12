@@ -1,7 +1,5 @@
 ##### § 200.466 Scholarships and student aid costs. #####
 
-Link to an amendment published at 85 FR 49570, Aug. 13, 2020.
-
 (a) Costs of scholarships, fellowships, and other programs of student aid at IHEs are allowable only when the purpose of the Federal award is to provide training to selected participants and the charge is approved by the Federal awarding agency. However, tuition remission and other forms of compensation paid as, or in lieu of, wages to students performing necessary work are allowable provided that:
 
 (1) The individual is conducting activities necessary to the Federal award;
@@ -14,4 +12,6 @@ Link to an amendment published at 85 FR 49570, Aug. 13, 2020.
 
 (5) It is the IHE's practice to similarly compensate students under Federal awards as well as other activities.
 
-(b) Charges for tuition remission and other forms of compensation paid to students as, or in lieu of, salaries and wages must be subject to the reporting requirements in § 200.430 Compensation - personal services, and must be treated as direct or indirect cost in accordance with the actual work being performed. Tuition remission may be charged on an average rate basis. See also § 200.431 Compensation - fringe benefits.
+(b) Charges for tuition remission and other forms of compensation paid to students as, or in lieu of, salaries and wages must be subject to the reporting requirements in § 200.430, and must be treated as direct or indirect cost in accordance with the actual work being performed. Tuition remission may be charged on an average rate basis. See also § 200.431.
+
+[78 FR 78608, Dec. 26, 2013, as amended at 85 FR 49569, Aug. 13, 2020]

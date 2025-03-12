@@ -1,8 +1,6 @@
 ##### § 124.204 How does SBA process applications for 8(a) BD program admission? #####
 
-Link to an amendment published at 85 FR 66185, Oct. 16, 2020.
-
-(a) The AA/BD is authorized to approve or decline applications for admission to the 8(a) BD program. The DPCE will receive, review and evaluate all 8(a) BD applications. SBA will advise each program applicant within 15 days after the receipt of an application whether the application is complete and suitable for evaluation and, if not, what additional information or clarification is required to complete the application. SBA will process an application for 8(a) BD program participation within 90 days of receipt of a complete application package by the DPCE. Incomplete packages will not be processed.
+(a) The AA/BD is authorized to approve or decline applications for admission to the 8(a) BD program. The DPCE will receive, review and evaluate all 8(a) BD applications. SBA will advise each program applicant within 15 days after the receipt of an application whether the application is complete and suitable for evaluation and, if not, what additional information or clarification is required to complete the application. SBA will process an application for 8(a) BD program participation within 90 days of receipt of a complete application package by the DPCE. Incomplete packages will not be processed. Where during its screening or review SBA requests clarifying, revised or other information from the applicant, SBA's processing time for the application will be suspended pending the receipt of such information.
 
 (b) SBA, in its sole discretion, may request clarification of information contained in the application at any time in the application process. SBA will take into account any clarifications made by an applicant in response to a request for such by SBA.
 
@@ -16,4 +14,4 @@ Link to an amendment published at 85 FR 66185, Oct. 16, 2020.
 
 (g) If the AA/BD approves the application, the date of the approval letter is the date of program certification for purposes of determining the concern's program term.
 
-[63 FR 35739, June 30, 1998, as amended at 74 FR 45753, Sept. 4, 2009; 76 FR 8258, Feb. 11, 2011]
+[63 FR 35739, June 30, 1998, as amended at 74 FR 45753, Sept. 4, 2009; 76 FR 8258, Feb. 11, 2011; 85 FR 66185, Oct. 16, 2020]

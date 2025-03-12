@@ -1,5 +1,7 @@
 ##### § 13.1 Definitions. #####
 
+Link to an amendment published at 85 FR 72961, Nov. 16, 2020.
+
 The following definitions shall apply to all regulations contained in this part:
 
 *Aircraft* means a machine or device that is used or intended to be used to carry persons or objects in flight through the air, including, but not limited to airplanes, helicopters and gliders.

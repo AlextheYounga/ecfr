@@ -1,7 +1,5 @@
 ##### § 50.72 Immediate notification requirements for operating nuclear power reactors. #####
 
-Link to an amendment published at 85 FR 65662, Oct. 16, 2020.
-
 (a) *General requirements.*1 (1) Each nuclear power reactor licensee licensed under §§ 50.21(b) or 50.22 holding an operating license under this part or a combined license under part 52 of this chapter after the Commission makes the finding under § 52.103(g), shall notify the NRC Operations Center via the Emergency Notification System of:
 
 1 Other requirements for immediate notification of the NRC by licensed operating nuclear power reactors are contained elsewhere in this chapter, in particular §§ 20.1906, 20.2202, 50.36, 72.216, and 73.71.
@@ -12,15 +10,13 @@ Link to an amendment published at 85 FR 65662, Oct. 16, 2020.
 
 (ii) Those non-emergency events specified in paragraph (b) of this section that occurred within three years of the date of discovery.
 
-(2) If the Emergency Notification System is inoperative, the licensee shall make the required notifications via commercial telephone service, other dedicated telephone system, or any other method which will ensure that a report is made as soon as practical to the NRC Operations Center.3
-
-3 Commercial telephone number of the NRC Operations Center is (301) 816-5100.
+(2) If the Emergency Notification System is inoperative, the licensee shall make the required notifications via commercial telephone service, other dedicated telephone system, or any other method which will ensure that a report is made as soon as practical to the NRC Headquarters Operations Center at the numbers specified in appendix A to part 73 of this chapter.
 
 (3) The licensee shall notify the NRC immediately after notification of the appropriate State or local agencies and not later than one hour after the time the licensee declares one of the Emergency Classes.
 
-(4) The licensee shall activate the Emergency Response Data System (ERDS)4 as soon as possible but not later than one hour after declaring an Emergency Class of alert, site area emergency, or general emergency. The ERDS may also be activated by the licensee during emergency drills or exercises if the licensee's computer system has the capability to transmit the exercise data.
+(4) The licensee shall activate the Emergency Response Data System (ERDS)3 as soon as possible but not later than one hour after declaring an Emergency Class of alert, site area emergency, or general emergency. The ERDS may also be activated by the licensee during emergency drills or exercises if the licensee's computer system has the capability to transmit the exercise data.
 
-4 Requirements for ERDS are addressed in Appendix E, Section VI.
+3 Requirements for ERDS are addressed in Appendix E, Section VI.
 
 (5) When making a report under paragraph (a)(1) of this section, the licensee shall identify:
 
@@ -60,9 +56,9 @@ Link to an amendment published at 85 FR 65662, Oct. 16, 2020.
 
 (B) The systems to which the requirements of paragraph (b)(3)(iv)(A) of this section apply are:
 
-(*1*) Reactor protection system (RPS) including: Reactor scram and reactor trip.5
+(*1*) Reactor protection system (RPS) including: Reactor scram and reactor trip.4
 
-5 Actuation of the RPS when the reactor is critical is reportable under paragraph (b)(2)(iv)(B) of this section.
+4 Actuation of the RPS when the reactor is critical is reportable under paragraph (b)(2)(iv)(B) of this section.
 
 (*2*) General containment isolation signals affecting containment isolation valves in more than one system or multiple main steam isolation valves (MSIVs).
 
@@ -104,4 +100,4 @@ Link to an amendment published at 85 FR 65662, Oct. 16, 2020.
 
 (3) Maintain an open, continuous communication channel with the NRC Operations Center upon request by the NRC.
 
-[48 FR 39046, Aug. 29, 1983; 48 FR 40882, Sept. 12, 1983; 55 FR 29194, July 18, 1990, as amended at 56 FR 944, Jan. 10, 1991; 56 FR 23473, May 21, 1991; 56 FR 40184, Aug. 13, 1991; 57 FR 41381, Sept. 10, 1992; 58 FR 67661, Dec. 22, 1993; 59 FR 14087, Mar. 25, 1994; 65 FR 63786, Oct. 25, 2000; 72 FR 49502, Aug. 28, 2007]
+[48 FR 39046, Aug. 29, 1983; 48 FR 40882, Sept. 12, 1983; 55 FR 29194, July 18, 1990, as amended at 56 FR 944, Jan. 10, 1991; 56 FR 23473, May 21, 1991; 56 FR 40184, Aug. 13, 1991; 57 FR 41381, Sept. 10, 1992; 58 FR 67661, Dec. 22, 1993; 59 FR 14087, Mar. 25, 1994; 65 FR 63786, Oct. 25, 2000; 72 FR 49502, Aug. 28, 2007; 85 FR 65662, Oct. 16, 2020]

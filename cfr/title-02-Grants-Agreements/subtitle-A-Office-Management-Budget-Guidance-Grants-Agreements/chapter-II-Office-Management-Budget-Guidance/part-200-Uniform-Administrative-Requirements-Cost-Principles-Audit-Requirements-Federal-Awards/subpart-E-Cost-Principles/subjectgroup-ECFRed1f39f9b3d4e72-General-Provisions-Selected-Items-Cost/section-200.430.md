@@ -1,14 +1,12 @@
-##### § 200.430 Compensation - personal services. #####
+##### § 200.430 Compensation—personal services. #####
 
-Link to an amendment published at 85 FR 49565, Aug. 13, 2020.
-
-(a) *General.* Compensation for personal services includes all remuneration, paid currently or accrued, for services of employees rendered during the period of performance under the Federal award, including but not necessarily limited to wages and salaries. Compensation for personal services may also include fringe benefits which are addressed in § 200.431 Compensation - fringe benefits. Costs of compensation are allowable to the extent that they satisfy the specific requirements of this part, and that the total compensation for individual employees:
+(a) *General.* Compensation for personal services includes all remuneration, paid currently or accrued, for services of employees rendered during the period of performance under the Federal award, including but not necessarily limited to wages and salaries. Compensation for personal services may also include fringe benefits which are addressed in § 200.431. Costs of compensation are allowable to the extent that they satisfy the specific requirements of this part, and that the total compensation for individual employees:
 
 (1) Is reasonable for the services rendered and conforms to the established written policy of the non-Federal entity consistently applied to both Federal and non-Federal activities;
 
 (2) Follows an appointment made in accordance with a non-Federal entity's laws and/or rules or written policies and meets the requirements of Federal statute, where applicable; and
 
-(3) Is determined and supported as provided in paragraph (i) of this section, Standards for Documentation of Personnel Expenses, when applicable.
+(3) Is determined and supported as provided in paragraph (i) of this section, when applicable.
 
 (b) *Reasonableness.* Compensation for employees engaged in work on Federal awards will be considered reasonable to the extent that it is consistent with that paid for similar work in other activities of the non-Federal entity. In cases where the kinds of employees required for Federal awards are not found in the other activities of the non-Federal entity, compensation will be considered reasonable to the extent that it is comparable to that paid for similar work in the labor market in which the non-Federal entity competes for the kind of employees involved.
 
@@ -28,7 +26,7 @@ Link to an amendment published at 85 FR 49565, Aug. 13, 2020.
 
 (g) *Nonprofit organizations.* For compensation to members of nonprofit organizations, trustees, directors, associates, officers, or the immediate families thereof, determination must be made that such compensation is reasonable for the actual personal services rendered rather than a distribution of earnings in excess of costs. This may include director's and executive committee member's fees, incentive awards, allowances for off-site pay, incentive pay, location allowances, hardship pay, and cost-of-living differentials.
 
-(h) *Institutions of higher education (IHEs).* (1) Certain conditions require special consideration and possible limitations in determining allowable personnel compensation costs under Federal awards. Among such conditions are the following:
+(h) *Institutions of Higher Education (IHEs).* (1) Certain conditions require special consideration and possible limitations in determining allowable personnel compensation costs under Federal awards. Among such conditions are the following:
 
 (i) Allowable activities. Charges to Federal awards may include reasonable amounts for activities contributing and directly related to work under an agreement, such as delivering special lectures about specific aspects of the ongoing activity, writing reports and articles, developing and maintaining protocols (human, animals, etc.), managing substances/chemicals, managing and securing project-specific data, coordinating research subjects, participating in appropriate seminars, consulting with colleagues and graduate students, and attending meetings and conferences.
 
@@ -36,7 +34,7 @@ Link to an amendment published at 85 FR 49565, Aug. 13, 2020.
 
 (2) *Salary basis.* Charges for work performed on Federal awards by faculty members during the academic year are allowable at the IBS rate. Except as noted in paragraph (h)(1)(ii) of this section, in no event will charges to Federal awards, irrespective of the basis of computation, exceed the proportionate share of the IBS for that period. This principle applies to all members of faculty at an institution. IBS is defined as the annual compensation paid by an IHE for an individual's appointment, whether that individual's time is spent on research, instruction, administration, or other activities. IBS excludes any income that an individual earns outside of duties performed for the IHE. Unless there is prior approval by the Federal awarding agency, charges of a faculty member's salary to a Federal award must not exceed the proportionate share of the IBS for the period during which the faculty member worked on the award.
 
-(3) *Intra-Institution of Higher Education (IHE) consulting.* Intra-IHE consulting by faculty is assumed to be undertaken as an IHE obligation requiring no compensation in addition to IBS. However, in unusual cases where consultation is across departmental lines or involves a separate or remote operation, and the work performed by the faculty member is in addition to his or her regular responsibilities, any charges for such work representing additional compensation above IBS are allowable provided that such consulting arrangements are specifically provided for in the Federal award or approved in writing by the Federal awarding agency.
+(3) *Intra-Institution of Higher Education (IHE) consulting.* Intra-IHE consulting by faculty should be undertaken as an IHE responsibility requiring no compensation in addition to IBS. However, in unusual cases where consultation is across departmental lines or involves a separate or remote operation, and the work performed by the faculty member is in addition to his or her regular responsibilities, any charges for such work representing additional compensation above IBS are allowable provided that such consulting arrangements are specifically provided for in the Federal award or approved in writing by the Federal awarding agency.
 
 (4) Extra Service Pay normally represents overload compensation, subject to institutional compensation policies for services above and beyond IBS. Where extra service pay is a result of Intra-IHE consulting, it is subject to the same requirements of paragraph (b) above. It is allowable if all of the following conditions are met:
 
@@ -72,7 +70,7 @@ Link to an amendment published at 85 FR 49565, Aug. 13, 2020.
 
 (iii) Reasonably reflect the total activity for which the employee is compensated by the non-Federal entity, not exceeding 100% of compensated activities (for IHE, this per the IHE's definition of IBS);
 
-(iv) Encompass both federally assisted and all other activities compensated by the non-Federal entity on an integrated basis, but may include the use of subsidiary records as defined in the non-Federal entity's written policy;
+(iv) Encompass federally-assisted and all other activities compensated by the non-Federal entity on an integrated basis, but may include the use of subsidiary records as defined in the non-Federal entity's written policy;
 
 (v) Comply with the established accounting policies and practices of the non-Federal entity (See paragraph (h)(1)(ii) above for treatment of incidental work for IHEs.); and
 
@@ -86,7 +84,7 @@ Link to an amendment published at 85 FR 49565, Aug. 13, 2020.
 
 (B) Significant changes in the corresponding work activity (as defined by the non-Federal entity's written policies) are identified and entered into the records in a timely manner. Short term (such as one or two months) fluctuation between workload categories need not be considered as long as the distribution of salaries and wages is reasonable over the longer term; and
 
-(C) The non-Federal entity's system of internal controls includes processes to review after-the-fact interim charges made to a Federal awards based on budget estimates. All necessary adjustment must be made such that the final amount charged to the Federal award is accurate, allowable, and properly allocated.
+(C) The non-Federal entity's system of internal controls includes processes to review after-the-fact interim charges made to a Federal award based on budget estimates. All necessary adjustment must be made such that the final amount charged to the Federal award is accurate, allowable, and properly allocated.
 
 (ix) Because practices vary as to the activity constituting a full workload (for IHEs, IBS), records may reflect categories of activities expressed as a percentage distribution of total activities.
 
@@ -118,4 +116,4 @@ Link to an amendment published at 85 FR 49565, Aug. 13, 2020.
 
 (8) For a non-Federal entity where the records do not meet the standards described in this section, the Federal Government may require personnel activity reports, including prescribed certifications, or equivalent documentation that support the records as required in this section.
 
-[78 FR 78608, Dec. 26, 2013, as amended at 79 FR 75886, Dec. 19, 2014]
+[78 FR 78608, Dec. 26, 2013, as amended at 79 FR 75886, Dec. 19, 2014; 85 FR 49565, Aug. 13, 2020]

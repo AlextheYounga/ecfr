@@ -1,5 +1,7 @@
 ##### § 56.603 Project elements. #####
 
+Link to an amendment published at 85 FR 72908, Nov. 16, 2020.
+
 A project for operating a migrant health program supported under this subpart must:
 
 (a) Provide to migratory and seasonal agricultural workers and the members of their families in its catchment area one or more of the following groups of services so that such services are available and accessible promptly as appropriate, and in a manner which will assure continuity of care, as approved by the Secretary and set forth (including specific services to be provided) in the grant award:

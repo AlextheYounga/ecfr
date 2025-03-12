@@ -1,0 +1,3 @@
+##### § 200.214 Suspension and debarment. #####
+
+Non-Federal entities are subject to the non-procurement debarment and suspension regulations implementing Executive Orders 12549 and 12689, 2 CFR part 180. The regulations in 2 CFR part 180 restrict awards, subawards, and contracts with certain parties that are debarred, suspended, or otherwise excluded from or ineligible for participation in Federal assistance programs or activities.

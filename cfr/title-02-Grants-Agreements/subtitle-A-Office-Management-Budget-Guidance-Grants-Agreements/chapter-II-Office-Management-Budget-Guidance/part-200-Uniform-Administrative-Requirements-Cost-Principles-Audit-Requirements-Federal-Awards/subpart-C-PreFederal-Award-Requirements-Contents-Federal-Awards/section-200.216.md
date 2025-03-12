@@ -19,5 +19,3 @@
 (c) See Public Law 115-232, section 889 for additional information.
 
 (d) See also § 200.471.
-
-[85 FR 49539, Aug. 13, 2020]

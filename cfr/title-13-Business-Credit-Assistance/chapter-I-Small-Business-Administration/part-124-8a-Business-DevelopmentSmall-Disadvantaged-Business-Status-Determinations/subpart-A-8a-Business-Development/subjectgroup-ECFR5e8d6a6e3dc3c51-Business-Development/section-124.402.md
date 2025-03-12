@@ -1,10 +1,8 @@
 ##### § 124.402 How does a Participant develop a business plan? #####
 
-Link to an amendment published at 85 FR 66186, Oct. 16, 2020.
-
 (a) *General.* In order to assist the SBA servicing office in determining the business development needs of its portfolio Participants, each Participant must develop a comprehensive business plan setting forth its business targets, objectives, and goals.
 
-(b) *Submission of initial business plan.* Each Participant must submit a business plan to its SBA servicing office as soon as possible after program admission. The Participant will not be eligible for 8(a) BD program benefits, including 8(a) contracts, until SBA approves its business plan.
+(b) *Submission of initial business plan.* Each Participant must submit a business plan to its SBA servicing office as soon as possible after program admission. SBA will suspend a Participant from receiving 8(a) BD program benefits, including 8(a) contracts, if it has not submitted its business plan to the servicing district office within 60 days after program admission.
 
 (c) *Contents of business plan.* The business plan must contain at least the following:
 
@@ -21,3 +19,5 @@ Link to an amendment published at 85 FR 66186, Oct. 16, 2020.
 (6) Estimates of both 8(a) and non-8(a) contract awards that will be needed to meet its targets, objectives and goals; and
 
 (7) Such other information as SBA may require.
+
+[63 FR 35739, June 30, 1998, as amended at 85 FR 66186, Oct. 16, 2020]

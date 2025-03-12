@@ -1,5 +1,7 @@
 ##### § 422.201 Material included in this subpart. #####
 
+Link to an amendment published at 85 FR 73161, Nov. 16, 2020.
+
 This subpart describes in general the procedures relating to hearings before an administrative law judge of the Office of Disability Adjudication and Review, review by the Appeals Council of the hearing decision or dismissal, and court review in cases decided under the procedures in parts 404, 405, 408, 410, and 416 of this chapter. It also describes the procedures for requesting such hearing or Appeals Council review, and for instituting a civil action for court review for cases decided under these parts. Procedures related to hearings before an administrative law judge, review by the Appeals Council, or court review in claims adjudicated under the procedures in part 405 of this chapter are explained in subparts D, E, and F of part 405 of this chapter. For detailed provisions relating to hearings before an administrative law judge, review by the Appeals Council, and court review, see the following references as appropriate to the matter involved:
 
 (a) Title II of the Act, §§ 404.929 through 404.983 of this chapter;

@@ -1,18 +1,18 @@
 ##### § 635.21 Gear operation and deployment restrictions. #####
 
-Link to an amendment published at 85 FR 65749, Oct. 16, 2020.
-
 (a) *All Atlantic HMS fishing gears.* (1) An Atlantic HMS harvested from its management unit that is not retained must be released in a manner that will ensure maximum probability of survival, but without removing the fish from the water.
 
 (2) If a billfish is caught by a hook and not retained, the fish must be released by cutting the line near the hook or by using a dehooking device, in either case without removing the fish from the water.
 
-(3) *Restricted gear and closed areas for all Atlantic HMS fishing gears.* (i) No person may fish for, catch, possess, or retain any Atlantic HMS or anchor a fishing vessel that has been issued a permit or is required to be permitted under this part, in the areas and seasons designated at § 622.34(a)(3) of this chapter, and in the Tortugas marine reserves HAPC designated at § 622.74(c) of this chapter.
+(3) *Restricted gear and closed areas for all Atlantic HMS fishing gears.* (i) No person may fish for, catch, possess, or retain any Atlantic HMS or anchor a fishing vessel that has been issued a permit or is required to be permitted under this part, in the areas and seasons designated at § 622.34(a)(3) of this chapter.
 
 (ii) From November through April of each year, no vessel issued, or required to be issued, a permit under this part may fish or deploy any type of fishing gear in the Madison-Swanson closed area or the Steamboat Lumps closed area, as defined in § 635.2.
 
 (iii) From May through October of each year, no vessel issued, or required to be issued, a permit under this part may fish or deploy any type of fishing gear in the Madison-Swanson or the Steamboat Lumps closed areas except for surface trolling. For the purposes of this section, surface trolling is defined as fishing with lines trailing behind a vessel which is in constant motion at speeds in excess of four knots with a visible wake. Such trolling may not involve the use of down riggers, wire lines, planers, or similar devices.
 
 (iv) From January through April of each year, no vessel issued, or required to be issued, a permit under this part may fish or deploy any type of fishing gear in the Edges 40 Fathom Contour closed area, as defined in § 635.2.
+
+(v) Within the areas of the Gulf coral HAPCs designated at § 622.74 of this chapter, no person may bottom anchor a fishing vessel or deploy fishing gear that may not be deployed pursuant to § 622.74 of this chapter. For purposes of this provision, fishing gear is deployed if any part of the gear is in contact with the water.
 
 (4) Any person on board a vessel that is issued a commercial shark permit must release all shortfin mako sharks, whether alive or dead, caught with any gear other than pelagic longline, bottom longline, or gillnet gear, except that any person on board a vessel that is issued a commercial shark permit in combination with a permit that has a shark endorsement may retain shortfin mako sharks subject to the recreational minimum size limits in § 635.20, the recreational retention limits in § 635.22, and authorized gear requirements in § 635.19.
 
@@ -254,4 +254,4 @@ Link to an amendment published at 85 FR 65749, Oct. 16, 2020.
 
 (2) A person on board a vessel that has been issued or is required to be issued an HMS Angling permit with a shark endorsement or a person on board a vessel with an HMS Charter/Headboat permit with a shark endorsement must deploy only non-offset, corrodible circle hooks when fishing for, retaining, possessing, or landing, except when fishing with flies or artificial lures.
 
-[79 FR 71594, Dec. 2, 2014, as amended at 80 FR 60567, Oct. 7, 2015; 80 FR 73145, Nov. 24, 2015; 81 FR 57806, Aug. 24, 2016; 82 FR 16507, Apr. 4, 2017; 83 FR 33154, July 17, 2018; 84 FR 5376, Feb. 21, 2019; 85 FR 18841, Apr. 2, 2020]
+[79 FR 71594, Dec. 2, 2014, as amended at 80 FR 60567, Oct. 7, 2015; 80 FR 73145, Nov. 24, 2015; 81 FR 57806, Aug. 24, 2016; 82 FR 16507, Apr. 4, 2017; 83 FR 33154, July 17, 2018; 84 FR 5376, Feb. 21, 2019; 85 FR 18841, Apr. 2, 2020; 85 FR 65479, Oct. 16, 2020]

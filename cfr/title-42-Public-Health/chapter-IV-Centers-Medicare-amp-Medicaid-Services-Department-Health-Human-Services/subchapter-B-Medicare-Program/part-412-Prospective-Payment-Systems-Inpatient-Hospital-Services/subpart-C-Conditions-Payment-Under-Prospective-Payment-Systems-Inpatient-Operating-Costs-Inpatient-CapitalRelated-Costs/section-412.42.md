@@ -1,5 +1,7 @@
 ##### § 412.42 Limitations on charges to beneficiaries. #####
 
+Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
+
 (a) *Prohibited charges.* A hospital may not charge a beneficiary for any services for which payment is made by Medicare, even if the hospital's costs of furnishing services to that beneficiary are greater than the amount the hospital is paid under the prospective payment systems.
 
 (b) *Permitted charges - Stay covered.* A hospital receiving payment under the prospective payment systems for a covered hospital stay (that is, a stay that includes at least one covered day) may charge the Medicare beneficiary or other person only for the following:

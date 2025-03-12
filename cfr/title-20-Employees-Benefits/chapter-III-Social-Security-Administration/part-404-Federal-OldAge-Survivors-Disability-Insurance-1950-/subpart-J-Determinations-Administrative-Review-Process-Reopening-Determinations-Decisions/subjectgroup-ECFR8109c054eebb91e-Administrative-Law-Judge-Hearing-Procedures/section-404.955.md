@@ -1,5 +1,7 @@
 ##### § 404.955 The effect of an administrative law judge's decision. #####
 
+Link to an amendment published at 85 FR 73157, Nov. 16, 2020.
+
 The decision of the administrative law judge is binding on all parties to the hearing unless -
 
 (a) You or another party request a review of the decision by the Appeals Council within the stated time period, and the Appeals Council reviews your case;

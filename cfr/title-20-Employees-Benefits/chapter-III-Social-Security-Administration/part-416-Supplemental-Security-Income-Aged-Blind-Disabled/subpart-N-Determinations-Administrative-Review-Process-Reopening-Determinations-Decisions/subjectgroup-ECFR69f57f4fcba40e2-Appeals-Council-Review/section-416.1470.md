@@ -1,5 +1,7 @@
 ##### § 416.1470 Cases the Appeals Council will review. #####
 
+Link to an amendment published at 85 FR 73160, Nov. 16, 2020.
+
 (a) The Appeals Council will review a case if -
 
 (1) There appears to be an abuse of discretion by the administrative law judge;

@@ -1,7 +1,5 @@
 ##### § 121.1103 What are the procedures for appealing a NAICS code or size standard designation? #####
 
-Link to an amendment published at 85 FR 66183, Oct. 16, 2020.
-
 (a)(1) Any interested party adversely affected by a NAICS code designation may appeal the designation to OHA. An interested party would include a business concern seeking to change the NAICS code designation in order to be considered a small business for the challenged procurement, regardless of whether the procurement is reserved for small businesses or unrestricted. The only exception is that, for a sole source contract reserved under SBA's 8(a) Business Development program (*see* part 124 of this chapter), only SBA's Associate Administrator for Business Development may appeal the NAICS code designation.
 
 (2) A NAICS code appeal may include an appeal involving the applicable size standard, such as where more than one size standard corresponds to the selected NAICS code, or a question relating to the size standard in effect at the time the solicitation was issued or amended.
@@ -18,7 +16,7 @@ Link to an amendment published at 85 FR 66183, Oct. 16, 2020.
 
 (c) *Procedure after a NAICS code appeal is filed and served.* (1) Upon receipt of the service copy of a NAICS code appeal, the contracting officer shall:
 
-(i) Stay the solicitation;
+(i) Stay the date for the closing of receipt of offers;
 
 (ii) Advise the public, by amendment to the solicitation or other method, of the existence of the NAICS code appeal and the procedures and deadline for interested parties to file and serve arguments concerning the appeal;
 
@@ -36,4 +34,4 @@ Link to an amendment published at 85 FR 66183, Oct. 16, 2020.
 
 (3) Any interested party may file and serve its response to the NAICS code appeal.
 
-[69 FR 29207, May 21, 2004; 74 FR 45753, Sept. 4, 2009, as amended at 76 FR 5683, Feb. 2, 2011; 78 FR 61132, Oct. 2, 2013]
+[69 FR 29207, May 21, 2004; 74 FR 45753, Sept. 4, 2009, as amended at 76 FR 5683, Feb. 2, 2011; 78 FR 61132, Oct. 2, 2013; 85 FR 66183, Oct. 16, 2020]

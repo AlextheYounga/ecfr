@@ -1,20 +1,18 @@
 ##### § 200.436 Depreciation. #####
 
-Link to an amendment published at 85 FR 49568, Aug. 13, 2020.
-
 (a) Depreciation is the method for allocating the cost of fixed assets to periods benefitting from asset use. The non-Federal entity may be compensated for the use of its buildings, capital improvements, equipment, and software projects capitalized in accordance with GAAP, provided that they are used, needed in the non-Federal entity's activities, and properly allocated to Federal awards. Such compensation must be made by computing depreciation.
 
 (b) The allocation for depreciation must be made in accordance with Appendices III through IX.
 
-(c) Depreciation is computed applying the following rules. The computation of depreciation must be based on the acquisition cost of the assets involved. For an asset donated to the non-Federal entity by a third party, its fair market value at the time of the donation must be considered as the acquisition cost. Such assets may be depreciated or claimed as matching but not both. For the purpose of computing depreciation, the acquisition cost will exclude:
+(c) Depreciation is computed applying the following rules. The computation of depreciation must be based on the acquisition cost of the assets involved. For an asset donated to the non-Federal entity by a third party, its fair market value at the time of the donation must be considered as the acquisition cost. Such assets may be depreciated or claimed as matching but not both. For the computation of depreciation, the acquisition cost will exclude:
 
 (1) The cost of land;
 
 (2) Any portion of the cost of buildings and equipment borne by or donated by the Federal Government, irrespective of where title was originally vested or where it is presently located;
 
-(3) Any portion of the cost of buildings and equipment contributed by or for the non-Federal entity where law or agreement prohibits recovery; and
+(3) Any portion of the cost of buildings and equipment contributed by or for the non-Federal entity that are already claimed as matching or where law or agreement prohibits recovery;
 
-(4) Any asset acquired solely for the performance of a non-Federal award.
+(4) Any asset acquired solely for the performance of a non-Federal award; and
 
 (d) When computing depreciation charges, the following must be observed:
 
@@ -28,6 +26,6 @@ Link to an amendment published at 85 FR 49568, Aug. 13, 2020.
 
 (5) Where the depreciation method is introduced to replace the use allowance method, depreciation must be computed as if the asset had been depreciated over its entire life (i.e., from the date the asset was acquired and ready for use to the date of disposal or withdrawal from service). The total amount of use allowance and depreciation for an asset (including imputed depreciation applicable to periods prior to the conversion from the use allowance method as well as depreciation after the conversion) may not exceed the total acquisition cost of the asset.
 
-(e) Charges for depreciation must be supported by adequate property records, and physical inventories must be taken at least once every two years to ensure that the assets exist and are usable, used, and needed. Statistical sampling techniques may be used in taking these inventories. In addition, adequate depreciation records showing the amount of depreciation taken each period must also be maintained.
+(e) Charges for depreciation must be supported by adequate property records, and physical inventories must be taken at least once every two years to ensure that the assets exist and are usable, used, and needed. Statistical sampling techniques may be used in taking these inventories. In addition, adequate depreciation records showing the amount of depreciation must be maintained.
 
-[78 FR 78608, Dec. 26, 2013, as amended at 79 FR 75886, Dec. 19, 2014]
+[78 FR 78608, Dec. 26, 2013, as amended at 79 FR 75886, Dec. 19, 2014; 85 FR 49568, Aug. 13, 2020]

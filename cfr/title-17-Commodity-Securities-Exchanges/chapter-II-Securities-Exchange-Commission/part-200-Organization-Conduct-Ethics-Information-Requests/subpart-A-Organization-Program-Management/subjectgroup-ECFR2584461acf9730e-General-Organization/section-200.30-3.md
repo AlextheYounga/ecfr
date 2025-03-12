@@ -1,7 +1,5 @@
 ##### § 200.30-3 Delegation of authority to Director of Division of Trading and Markets. #####
 
-Link to an amendment published at 85 FR 65494, Oct. 15, 2020.
-
 Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d-2), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the Director of the Division of Trading and Markets to be performed by him or under his direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
 
 (a) With respect to the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*):
@@ -106,11 +104,11 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d
 
 (26) [Reserved]
 
-(27) To approve amendments to the joint industry plan governing consolidated transaction reporting declared effective by the Commission pursuant to Rule 601 (17 CFR 242.601) or its predecessors, Rule 11Aa3-1 and Rule 17a-15, and to grant exemptions from Rule 601 pursuant to Rule 601(f) (17 CFR 242.601(f)) to exchanges trading listed securities that are designated as national market system securities until such times as a Joint Reporting Plan for such securities is filed and approved by the Commission.
+(27) [Reserved]
 
 (28) To grant exemptions from Rule 602 (17 CFR 242.602), pursuant to Rule 602(d) (17 CFR 242.602(d)).
 
-(29) To issue supplemental orders modifying the terms upon which self-regulatory organizations are authorized to act jointly in planning, developing, operating or regulating facilities of a national market system in accordance with the terms of amendments to plans which plans have been previously approved by the Commission under section 11A(a)(3)(B) of the Securities Exchange Act of 1934.
+(29) [Reserved]
 
 (30) Pursuant to section 17(a) of the Act, 15 U.S.C. 78q, to approve amendments to the plans which are consistent with the reporting structure of §§ 240.17a-5(a)(2) and 240.17a-10(b) of this chapter (Rules 17a-5(a)(2) and 17a-10(b)) filed by self-regulatory organizations pursuant to §§ 240.17a-5(a)(3) and 240.17a-10(b) of this chapter (Rules 17a-5(a)(3) and 17a-10(b)).
 
@@ -144,7 +142,7 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d
 
 (41) Pursuant to Rule 6a-2(c) (§ 240.6a-2 of this chapter) to exempt registered national securities exchanges from the filing requirements imposed by Rule 6a-2 with respect to certain affiliates and subsidiaries of the exchange.
 
-(42) Under 17 CFR 242.608(e), to grant or deny exemptions from 17 CFR 242.608, and pursuant to 17 CFR 242.608(b) to extend for a period not exceeding 180 days from the date of publication of notice of filing of a national market system plan or an amendment to an effective national market system plan the time for Commission consideration of the national market system plan or the amendment to an effective national market system plan and to determine whether such longer period is appropriate and publish the reasons for such determination.
+(42) Under 17 CFR 242.608(e), to grant or deny exemptions from 17 CFR 242.608.
 
 (43) To grant or deny exemptions from Rule 17Ad-14 (§ 240.17Ad-14 of this chapter), pursuant to Rule 17Ad-14(d) (§ 240.17Ad-14(d) of this chapter). (Pub. L. 87-592, 76 Stat. 394, 15 U.S.C 78d-1, 78d-2).
 
@@ -249,6 +247,8 @@ Pursuant to the provisions of Pub. L. 87-592, 76 Stat. 394, 15 U.S.C. 78d-1, 78d
 (83) To grant or deny exemptions from Rule 612 (17 CFR 242.612), pursuant to Rule 612(c) (17 CFR 242.612(c)).
 
 (84) To issue notices pursuant to 17 CFR 242.610T(b)(1)(i) and (c) (Rule 610T(b)(1)(i) and (c)).
+
+(85) Pursuant to Rule 608(b)(1)(ii) (17 CFR 242.608(b)(1)(ii)), to publish notice of the filing of a proposed amendment to an effective national market system plan; pursuant to Rule 608(b)(1)(iii) (17 CFR 242.608(b)(1)(iii)), to notify plan participants that the filing of a national market system plan or a proposed amendment to an effective national market system plan does not comply with paragraph (a) of Rule 608 (17 CFR 242.608) or plan filing requirements in other sections of Regulation NMS and 17 CFR 240, subpart A, and to determine that such plan or amendment is unusually lengthy and complex or raises novel regulatory issues and to inform the plan participants of such determination; pursuant to Rule 608(b)(2)(i) (17 CFR 242.608(b)(2)(i)), to institute proceedings to determine whether such plan or amendment should be disapproved, to provide the plan participants notice of the grounds for disapproval under consideration, and to extend for a period not exceeding 240 days from the date of publication of notice of the filing of such plan or amendment the period during which the Commission must issue an order approving or disapproving such plan or amendment and to determine whether such longer period is appropriate and publish the reasons for such determination; pursuant to Rule 608(b)(3)(iii) (17 CFR 242.608(b)(3)(iii)), to summarily abrogate a proposed amendment put into effect upon filing with the Commission and require that such amendment be refiled in accordance with paragraph (a)(1) of Rule 608 and reviewed in accordance with paragraph (b)(2) of Rule 608; and pursuant to Rule 608(b)(4) (17 CFR 242.608(b)(4), to put a proposed amendment into effect summarily upon publication of notice and on a temporary basis not to exceed 120 days.
 
 (b) To designate officers empowered to administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, contracts, agreements, or other records in the course of investigations instituted by the Commission pursuant to section 21(b) of the Securities Exchange Act of 1934 (15 U.S.C. 78u(b)).
 

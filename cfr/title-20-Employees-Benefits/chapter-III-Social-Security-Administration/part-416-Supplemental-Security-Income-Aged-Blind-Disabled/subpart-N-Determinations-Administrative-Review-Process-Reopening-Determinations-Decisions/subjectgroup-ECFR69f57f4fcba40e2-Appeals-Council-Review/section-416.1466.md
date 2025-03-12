@@ -1,5 +1,7 @@
 ##### § 416.1466 Testing elimination of the request for Appeals Council review. #####
 
+Link to an amendment published at 85 FR 73159, Nov. 16, 2020.
+
 (a) *Applicability and scope.* Notwithstanding any other provision in this part or part 422 of this chapter, we are establishing the procedures set out in this section to test elimination of the request for review by the Appeals Council. These procedures will apply in randomly selected cases in which we have tested a combination of model procedures for modifying the disability claim process as authorized under §§ 416.1406 and 416.1443, and in which an administrative law judge has issued a decision (not including a recommended decision) that is less than fully favorable to you.
 
 (b) *Effect of an administrative law judge's decision.* In a case to which the procedures of this section apply, the decision of an administrative law judge will be binding on all the parties to the hearing unless -

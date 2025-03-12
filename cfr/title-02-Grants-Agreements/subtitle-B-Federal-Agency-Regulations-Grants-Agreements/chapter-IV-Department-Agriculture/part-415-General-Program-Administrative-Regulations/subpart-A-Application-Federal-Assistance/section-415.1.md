@@ -2,7 +2,7 @@
 
 (a) *Standards for competition.* Except as provided in paragraph (d) of this section, awarding agencies shall enter into discretionary grants and cooperative agreements only after competition. An awarding agency's competitive award process shall adhere to the following standards:
 
-(1) Potential applicants must be invited to submit proposals through publications such as the Federal Register, OMB-designated governmentwide Web site as described in 2 CFR 200.203, professional trade journals, agency or program handbooks, the Catalog of Federal Domestic Assistance, or any other appropriate means of solicitation. In so doing, awarding agencies should consider the broadest dissemination of project solicitations in order to reach the highest number of potential applicants.
+(1) Potential applicants must be invited to submit proposals through publications such as the Federal Register, OMB-designated governmentwide website as described in 2 CFR 200.204, professional trade journals, agency or program handbooks, the Assistance Listings, or any other appropriate means of solicitation. In so doing, awarding agencies should consider the broadest dissemination of project solicitations in order to reach the highest number of potential applicants.
 
 (2) Proposals are to be evaluated objectively by independent reviewers in accordance with written criteria set forth by the awarding agency. Reviewers should make written comments, as appropriate, on each application. Independent reviewers may be from the private sector, another agency, or within the awarding agency, as long as they do not include anyone who has approval authority for the applications being reviewed or anyone who might appear to have a conflict of interest in the role of reviewer of applications. A conflict of interest might arise when the reviewer or the reviewer's immediate family members have been associated with the applicant or applicant organization within the past two years as an owner, partner, officer, director, employee, or consultant; has any financial interest in the applicant or applicant organization; or is negotiating for, or has any arrangement, concerning prospective employment.
 
@@ -28,7 +28,7 @@
 
 (9) Type of funding instrument intended to be used (grant or cooperative agreement); and
 
-(10) The Catalog of Federal Domestic Assistance number and title.
+(10) The Assistance Listings number and title.
 
 (c) *Approval of applications.* The final decision to award is at the discretion of the awarding/approving official in each agency. The awarding/approving official shall consider the ranking, comments, and recommendations from the independent review group, and any other pertinent information before deciding which applications to approve and their order of approval. Any appeals by applicants regarding the award decision shall be handled by the awarding agency using existing agency appeal procedures or good administrative practice and sound business judgment.
 
@@ -45,3 +45,5 @@
 (5) Awards when it is impracticable to secure competition; or
 
 (6) Awards to fund unique and innovative unsolicited applications.
+
+[79 FR 75982, Dec. 19, 2014, as amended at 85 FR 72912, Nov. 16, 2020]

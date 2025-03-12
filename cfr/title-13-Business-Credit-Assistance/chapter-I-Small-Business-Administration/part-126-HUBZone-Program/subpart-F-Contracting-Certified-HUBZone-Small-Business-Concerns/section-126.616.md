@@ -1,8 +1,6 @@
 ##### § 126.616 What requirements must a joint venture satisfy to submit an offer and be eligible to perform on a HUBZone contract? #####
 
-Link to an amendment published at 85 FR 66197, Oct. 16, 2020.
-
-(a) *General.* A certified HUBZone small business concern may enter into a joint venture agreement with one or more other small business concerns, or with an approved mentor authorized by § 125.9 of this chapter (or, if also an 8(a) BD Participant, with an approved mentor authorized by § 124.520 of this chapter), for the purpose of submitting an offer for a HUBZone contract. The joint venture itself need not be a certified HUBZone small business concern.
+(a) *General.* A certified HUBZone small business concern may enter into a joint venture agreement with one or more other small business concerns, or with an approved mentor authorized by § 125.9 of this chapter , for the purpose of submitting an offer for a HUBZone contract. The joint venture itself need not be a certified HUBZone small business concern.
 
 (b) *Size.* (1) A joint venture of at least one certified HUBZone small business concern and one or more other business concerns may submit an offer as a small business for a HUBZone procurement or sale so long as each concern is small under the size standard corresponding to the NAICS code assigned to the procurement or sale.
 
@@ -12,13 +10,19 @@ Link to an amendment published at 85 FR 66197, Oct. 16, 2020.
 
 (1) Setting forth the purpose of the joint venture;
 
-(2) Designating a certified HUBZone small business concern as the managing venturer of the joint venture, and an employee of the certified HUBZone small business concern managing venturer as the project manager responsible for performance of the contract. The individual identified as the project manager of the joint venture need not be an employee of the certified HUBZone small business concern at the time the joint venture submits an offer, but, if he or she is not, there must be a signed letter of intent that the individual commits to be employed by the certified HUBZone small business concern if the joint venture is the successful offeror. The individual identified as the project manager cannot be employed by the mentor and become an employee of the certified HUBZone small business concern for purposes of performance under the joint venture;
+(2) Designating a certified HUBZone small business concern as the managing venturer of the joint venture, and designating a named employee of the certified HUBZone small business managing venturer as the manager with ultimate responsibility for performance of the contract (the “Responsible Manager”).
+
+(i) The managing venturer is responsible for controlling the day-to-day management and administration of the contractual performance of the joint venture, but other partners to the joint venture may participate in all corporate governance activities and decisions of the joint venture as is commercially customary.
+
+(ii) The individual identified as the Responsible Manager of the joint venture need not be an employee of the certified HUBZone small business concern at the time the joint venture submits an offer, but, if he or she is not, there must be a signed letter of intent that the individual commits to be employed by the certified HUBZone small business concern if the joint venture is the successful offeror. The individual identified as the Responsible Manager cannot be employed by the mentor and become an employee of the certified HUBZone small business concern for purposes of performance under the joint venture.
+
+(iii) Although the joint venture managers responsible for orders issued under an IDIQ contract need not be employees of the protégé, those managers must report to and be supervised by the joint venture's Responsible Manager.
 
 (3) Stating that with respect to a separate legal entity joint venture, the certified HUBZone small business concern must own at least 51% of the joint venture entity;
 
-(4) Stating that the certified HUBZone small business concern(s) must receive profits from the joint venture commensurate with the work performed by the certified HUBZone small business concern;
+(4) Stating that the certified HUBZone small business concern must receive profits from the joint venture commensurate with the work performed by the certified HUBZone small business concern, or a percentage agreed to by the parties to the joint venture whereby the certified HUBZone small business concern receives profits from the joint venture that exceed the percentage commensurate with the work performed by the certified HUBZone small business concern;
 
-(5) Providing for the establishment and administration of a special bank account in the name of the joint venture. This account must require the signature of all parties to the joint venture or designees for withdrawal purposes. All payments due the joint venture for performance on a HUBZone contract will be deposited in the special account; all expenses incurred under the contract will be paid from the account as well;
+(5) Providing for the establishment and administration of a special bank account in the name of the joint venture. This account must require the signature or consent of all parties to the joint venture for any payments made by the joint venture to its members for services performed. All payments due the joint venture for performance on a HUBZone contract will be deposited in the special account; all expenses incurred under the contract will be paid from the account as well;
 
 (6) Itemizing all major equipment, facilities, and other resources to be furnished by each party to the joint venture, with a detailed schedule of cost or value of each, where practical. If a contract is indefinite in nature, such as an indefinite quantity contract or a multiple award contract where the level of effort or scope of work is not known, the joint venture must provide a general description of the anticipated major equipment, facilities, and other resources to be furnished by each party to the joint venture, without a detailed schedule of cost or value of each, or in the alternative, specify how the parties to the joint venture will furnish such resources to the joint venture once a definite scope of work is made publicly available;
 
@@ -80,4 +84,4 @@ Link to an amendment published at 85 FR 66197, Oct. 16, 2020.
 
 (k) Any person with information concerning a joint venture's compliance with the limitations on subcontracting requirements may report that information to SBA and/or the SBA Office of Inspector General.
 
-[81 FR 48591, July 25, 2016, as amended at 81 FR 94942, Dec. 27, 2016; 83 FR 12852, Mar. 26, 2018; 84 FR 65248, Nov. 29, 2019]
+[81 FR 48591, July 25, 2016, as amended at 81 FR 94942, Dec. 27, 2016; 83 FR 12852, Mar. 26, 2018; 84 FR 65248, Nov. 29, 2019; 85 FR 66197, Oct. 16, 2020]

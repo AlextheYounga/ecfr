@@ -1,5 +1,5 @@
-##### § 200.473 Transportation costs. #####
+##### § 200.473 Training and education costs. #####
 
-Link to an amendment published at 85 FR 49570, Aug. 13, 2020.
+The cost of training and education provided for employee development is allowable.
 
-Costs incurred for freight, express, cartage, postage, and other transportation services relating either to goods purchased, in process, or delivered, are allowable. When such costs can readily be identified with the items involved, they may be charged directly as transportation costs or added to the cost of such items. Where identification with the materials received cannot readily be made, inbound transportation cost may be charged to the appropriate indirect (F&A) cost accounts if the non-Federal entity follows a consistent, equitable procedure in this respect. Outbound freight, if reimbursable under the terms and conditions of the Federal award, should be treated as a direct cost.
+[78 FR 78608, Dec. 26, 2013. Redesignated at 85 FR 49570, Aug. 13, 2020]

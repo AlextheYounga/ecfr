@@ -102,7 +102,7 @@
 
 *Thermal system insulation ACM* is thermal system insulation which contains more than 1% asbestos.
 
-(c) *Permissible exposure limits (PELS)* - (1) *Time-weighted average limit (TWA).* The employer shall ensure that no employee is exposed to an airborne concentration of asbestos in excess of 0.1 fiber per cubic centimeter of air as an eight (8) hour time-weighted average (TWA), as determined by the method prescribed in appendix A to this section, or by an equivalent method.
+(c) *Permissible exposure limits (PELS)*—(1) *Time-weighted average limit (TWA).* The employer shall ensure that no employee is exposed to an airborne concentration of asbestos in excess of 0.1 fiber per cubic centimeter of air as an eight (8) hour time-weighted average (TWA), as determined by the method prescribed in appendix A to this section, or by an equivalent method.
 
 (2) *Excursion limit.* The employer shall ensure that no employee is exposed to an airborne concentration of asbestos in excess of 1.0 fiber per cubic centimeter of air (1 f/cc) as averaged over a sampling period of thirty (30) minutes, as determined by the method prescribed in appendix A to this section, or by an equivalent method.
 
@@ -128,7 +128,7 @@
 
 (6) *Competent Persons.* The employer shall ensure that all asbestos work performed within regulated areas is supervised by a competent person, as defined in paragraph (b) of this section. The duties of the competent person are set out in paragraph (o) of this section.
 
-(f) *Exposure assessments and monitoring* - (1) *General monitoring criteria.* (i) Each employer who has a workplace or work operation where exposure monitoring is required under this section shall perform monitoring to determine accurately the airborne concentrations of asbestos to which employees may be exposed.
+(f) *Exposure assessments and monitoring*—(1) *General monitoring criteria.* (i) Each employer who has a workplace or work operation where exposure monitoring is required under this section shall perform monitoring to determine accurately the airborne concentrations of asbestos to which employees may be exposed.
 
 (ii) Determinations of employee exposure shall be made from breathing zone air samples that are representative of the 8-hour TWA and 30-minute short-term exposures of each employee.
 
@@ -146,7 +146,7 @@
 
 (C) The results of initial exposure monitoring of the current job made from breathing zone air samples that are representative of the 8-hour TWA and 30-minute short-term exposures of each employee covering operations which are most likely during the performance of the entire asbestos job to result in exposures over the PELs.
 
-(3) *Periodic monitoring* - (i) *Class I and II operations.* The employer shall conduct daily monitoring that is representative of the exposure of each employee who is assigned to work within a regulated area who is performing Class I or II work, unless the employer pursuant to (f)(2)(iii) of this section, has made a negative exposure assessment for the entire operation.
+(3) *Periodic monitoring*—(i) *Class I and II operations.* The employer shall conduct daily monitoring that is representative of the exposure of each employee who is assigned to work within a regulated area who is performing Class I or II work, unless the employer pursuant to (f)(2)(iii) of this section, has made a negative exposure assessment for the entire operation.
 
 (ii) All operations under the standard other than Class I and II operations. The employer shall conduct periodic monitoring of all work where exposures are expected to exceed a PEL, at intervals sufficient to document the validity of the exposure prediction.
 
@@ -344,9 +344,7 @@
 
 (B) The evaluation of employee exposure required in paragraph (g)(6) of this section, shall include and be based on sampling and analytical data representing employee exposure during the use of such method under worst-case conditions and by employees whose training and experience are equivalent to employees who are to perform the current job.
 
-(7) *Work Practices and Engineering Controls for Class II work.*
-
-(i) All Class II work shall be supervised by a competent person as defined in paragraph (b) of this section.
+(7) *Work practices and engineering controls for Class II work.* (i) All Class II work shall be supervised by a competent person as defined in paragraph (b) of this section.
 
 (ii) For all indoor Class II jobs, where the employer has not produced a negative exposure assessment pursuant to paragraph (f)(2)(iii) of this section, or where during the job, changed conditions indicate there may be exposure above the PEL or where the employer does not remove the ACM in a substantially intact state, the employer shall use one of the following methods to ensure that airborne asbestos does not migrate from the regulated area;
 
@@ -472,7 +470,7 @@
 
 (vi) All removal or disturbance of pipeline asphaltic wrap shall be performed using wet methods.
 
-(h) *Respiratory protection* - (1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
+(h) *Respiratory protection*—(1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
 
 (i) Class I asbestos work.
 
@@ -514,7 +512,7 @@
 
 (B) A full facepiece supplied-air respirator operated in the pressure-demand mode and equipped with an auxiliary positive-pressure SCBA whenever the employees are in a regulated area performing Class I asbestos work for which a negative exposure assessment is not available and the exposure assessment indicates that the exposure level will be above 1 f/cc as an 8-hour TWA.
 
-(i) *Protective clothing* - (1) *General.* The employer shall provide or require the use of protective clothing, such as coveralls or similar whole-body clothing, head coverings, gloves, and foot coverings for any employee exposed to airborne concentrations of asbestos that exceed the TWA and/or excursion limit prescribed in paragraph (c) of this section, or for which a required negative exposure assessment is not produced, or for any employee performing Class I operations which involve the removal of over 25 linear or 10 square feet of TSI or surfacing ACM and PACM.
+(i) *Protective clothing*—(1) *General.* The employer shall provide or require the use of protective clothing, such as coveralls or similar whole-body clothing, head coverings, gloves, and foot coverings for any employee exposed to airborne concentrations of asbestos that exceed the TWA and/or excursion limit prescribed in paragraph (c) of this section, or for which a required negative exposure assessment is not produced, or for any employee performing Class I operations which involve the removal of over 25 linear or 10 square feet of TSI or surfacing ACM and PACM.
 
 (2) *Laundering.* (i) The employer shall ensure that laundering of contaminated clothing is done so as to prevent the release of airborne asbestos in excess of the TWA or excursion limit prescribed in paragraph (c) of this section.
 
@@ -580,7 +578,7 @@
 
 (4) *Smoking in work areas.* The employer shall ensure that employees do not smoke in work areas where they are occupationally exposed to asbestos because of activities in that work area.
 
-(k) *Communication of hazards* - (1) *Hazard communication.* (i) This section applies to the communication of information concerning asbestos hazards in construction activities to facilitate compliance with this standard. Most asbestos-related construction activities involve previously installed building materials. Building owners often are the only and/or best sources of information concerning them. Therefore, they, along with employers of potentially exposed employees, are assigned specific information conveying and retention duties under this section. Installed Asbestos Containing Building Material. Employers and building owners shall identify TSI and sprayed or troweled on surfacing materials in buildings as asbestos-containing, unless they determine in compliance with paragraph (k)(5) of this section that the material is not asbestos-containing. Asphalt and vinyl flooring material installed no later than 1980 must also be considered as asbestos containing unless the employer, pursuant to paragraph (g)(8)(i)(I) of this section determines that it is not asbestos-containing. If the employer/building owner has actual knowledge, or should have known through the exercise of due diligence, that other materials are asbestos-containing, they too must be treated as such. When communicating information to employees pursuant to this standard, owners and employers shall identify “PACM” as ACM. Additional requirements relating to communication of asbestos work on multi-employer worksites are set out in paragraph (d) of this section.
+(k) *Communication of hazards*—(1) *Hazard communication.* (i) This section applies to the communication of information concerning asbestos hazards in construction activities to facilitate compliance with this standard. Most asbestos-related construction activities involve previously installed building materials. Building owners often are the only and/or best sources of information concerning them. Therefore, they, along with employers of potentially exposed employees, are assigned specific information conveying and retention duties under this section. Installed Asbestos Containing Building Material. Employers and building owners shall identify TSI and sprayed or troweled on surfacing materials in buildings as asbestos-containing, unless they determine in compliance with paragraph (k)(5) of this section that the material is not asbestos-containing. Asphalt and vinyl flooring material installed no later than 1980 must also be considered as asbestos containing unless the employer, pursuant to paragraph (g)(8)(i)(I) of this section determines that it is not asbestos-containing. If the employer/building owner has actual knowledge, or should have known through the exercise of due diligence, that other materials are asbestos-containing, they too must be treated as such. When communicating information to employees pursuant to this standard, owners and employers shall identify “PACM” as ACM. Additional requirements relating to communication of asbestos work on multi-employer worksites are set out in paragraph (d) of this section.
 
 (ii) The employer shall include asbestos in the program established to comply with the Hazard Communication Standard (HCS) (§ 1910.1200). The employer shall ensure that each employee has access to labels on containers of asbestos and safety data sheets, and is trained in accordance with the provisions of HCS and paragraphs (k)(9) and (10) of this section. The employer shall provide information on at least the following hazards: Cancer and lung effects.
 
@@ -712,7 +710,7 @@ DANGERCONTAINS ASBESTOS FIBERSAVOID CREATING DUSTCANCER AND LUNG DISEASE HAZARD
 
 (iii) The employer shall inform all employees concerning the availability of self-help smoking cessation program material. Upon employee request, the employer shall distribute such material, consisting of NIH Publication No, 89-1647, or equivalent self-help material, which is approved or published by a public health organization listed in appendix J to this section.
 
-(l) *Housekeeping* - (1) *Vacuuming.* Where vacuuming methods are selected, HEPA filtered vacuuming equipment must be used. The equipment shall be used and emptied in a manner that minimizes the reentry of asbestos into the workplace.
+(l) *Housekeeping*—(1) *Vacuuming.* Where vacuuming methods are selected, HEPA filtered vacuuming equipment must be used. The equipment shall be used and emptied in a manner that minimizes the reentry of asbestos into the workplace.
 
 (2) *Waste disposal.* Asbestos waste, scrap, debris, bags, containers, equipment, and contaminated clothing consigned for disposal shall be collected and disposed of in sealed, labeled, impermeable bags or other closed, labeled, impermeable containers except in roofing operations, where the procedures specified in paragraph (g)(8)(ii) of this section apply.
 
@@ -730,7 +728,7 @@ DANGERCONTAINS ASBESTOS FIBERSAVOID CREATING DUSTCANCER AND LUNG DISEASE HAZARD
 
 (ii) Shall be promptly cleaned up and disposed of in leak tight containers.
 
-(m) *Medical surveillance -*  (1) *General* - (i) *Employees covered.* (A) The employer shall institute a medical surveillance program for all employees who for a combined total of 30 or more days per year are engaged in Class I, II and III work or are exposed at or above a permissible exposure limit. For purposes of this paragraph, any day in which a worker engages in Class II or Class III operations or a combination thereof on intact material for one hour or less (taking into account the entire time spent on the removal operation, including cleanup) and, while doing so, adheres fully to the work practices specified in this standard, shall not be counted.
+(m) *Medical surveillance—* (1) *General*—(i) *Employees covered.* (A) The employer shall institute a medical surveillance program for all employees who for a combined total of 30 or more days per year are engaged in Class I, II and III work or are exposed at or above a permissible exposure limit. For purposes of this paragraph, any day in which a worker engages in Class II or Class III operations or a combination thereof on intact material for one hour or less (taking into account the entire time spent on the removal operation, including cleanup) and, while doing so, adheres fully to the work practices specified in this standard, shall not be counted.
 
 (B) For employees otherwise required by this standard to wear a negative pressure respirator, employers shall ensure employees are physically able to perform the work and use the equipment. This determination shall be made under the supervision of a physician.
 
@@ -738,7 +736,7 @@ DANGERCONTAINS ASBESTOS FIBERSAVOID CREATING DUSTCANCER AND LUNG DISEASE HAZARD
 
 (B) Persons other than such licensed physicians who administer the pulmonary function testing required by this section shall complete a training course in spirometry sponsored by an appropriate academic or professional institution.
 
-(2) *Medical examinations and consultations* - (i) *Frequency.* The employer shall make available medical examinations and consultations to each employee covered under paragraph (m)(1)(i) of this section on the following schedules:
+(2) *Medical examinations and consultations*—(i) *Frequency.* The employer shall make available medical examinations and consultations to each employee covered under paragraph (m)(1)(i) of this section on the following schedules:
 
 (A) Prior to assignment of the employee to an area where negative-pressure respirators are worn;
 
@@ -786,7 +784,7 @@ DANGERCONTAINS ASBESTOS FIBERSAVOID CREATING DUSTCANCER AND LUNG DISEASE HAZARD
 
 (iii) The employer shall provide a copy of the physician's written opinion to the affected employee within 30 days from its receipt.
 
-(n) *Recordkeeping* - (1) *Objective data relied on pursuant to paragraph (f) to this section.* (i) Where the employer has relied on objective data that demonstrates that products made from or containing asbestos or the activity involving such products or material are not capable of releasing fibers of asbestos in concentrations at or above the permissible exposure limit and/or excursion limit under the expected conditions of processing, use, or handling to satisfy the requirements of paragraph (f), the employer shall establish and maintain an accurate record of objective data reasonably relied upon in support of the exemption.
+(n) *Recordkeeping*—(1) *Objective data relied on pursuant to paragraph (f) to this section.* (i) Where the employer has relied on objective data that demonstrates that products made from or containing asbestos or the activity involving such products or material are not capable of releasing fibers of asbestos in concentrations at or above the permissible exposure limit and/or excursion limit under the expected conditions of processing, use, or handling to satisfy the requirements of paragraph (f), the employer shall establish and maintain an accurate record of objective data reasonably relied upon in support of the exemption.
 
 (ii) The record shall include at least the following information:
 
@@ -848,7 +846,7 @@ DANGERCONTAINS ASBESTOS FIBERSAVOID CREATING DUSTCANCER AND LUNG DISEASE HAZARD
 
 (8) *Transfer of records.* The employer must comply with the requirements concerning transfer of records set forth in 29 CFR 1910.1020(h).
 
-(o) *Competent person* - (1) *General.* On all construction worksites covered by this standard, the employer shall designate a competent person, having the qualifications and authorities for ensuring worker safety and health required by subpart C, General Safety and Health Provisions for Construction (29 CFR 1926.20 through 1926.32).
+(o) *Competent person*—(1) *General.* On all construction worksites covered by this standard, the employer shall designate a competent person, having the qualifications and authorities for ensuring worker safety and health required by subpart C, General Safety and Health Provisions for Construction (29 CFR 1926.20 through 1926.32).
 
 (2) *Required inspections by the competent person.* Section 1926.20(b)(2) which requires health and safety prevention programs to provide for frequent and regular inspections of the job sites, materials, and equipment to be made by competent persons, is incorporated.
 
@@ -884,7 +882,7 @@ DANGERCONTAINS ASBESTOS FIBERSAVOID CREATING DUSTCANCER AND LUNG DISEASE HAZARD
 
 (2) Appendices B, F, H, I, J, and K to this section are informational and are not intended to create any additional obligations not otherwise imposed or to detract from any existing obligations.
 
-Appendix A to § 1926.1101 - OSHA Reference Method - Mandatory
+Appendix A to § 1926.1101—OSHA Reference Method—Mandatory
 
 This mandatory appendix specifies the procedure for analyzing air samples for asbestos and specifies quality control procedures that must be implemented by laboratories performing the analysis. The sampling and analytical methods described below represent the elements of the available monitoring methods (such as appendix B of this regulation, the most current version of the OSHA method ID-160, or the most current version of the NIOSH Method 7400). All employers who are required to conduct air monitoring under paragraph (f) of the standard are required to utilize analytical laboratories that use this procedure, or an equivalent method, for collecting and analyzing samples.
 
@@ -952,10 +950,10 @@ b. All laboratories should also participate in a national sample testing scheme 
 
 5. Current results of these quality assurance programs shall be posted in each laboratory to keep the microscopists informed.
 
-Appendix B to § 1926.1101 - Sampling and Analysis (Non-Mandatory)
+Appendix B to § 1926.1101—Sampling and Analysis (Non-Mandatory)
 
 |                                                                                                                                                  Matrix Air:                                                                                                                                                  |            |
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
 |                                                                                                                                       OSHA Permissible Exposure Limits:                                                                                                                                       |            |
 |                                                                                                                                             Time Weighted Average                                                                                                                                             |0.1 fiber/cc|
 |                                                                                                                                         Excursion Level (30 minutes)                                                                                                                                          |1.0 fiber/cc|
@@ -963,7 +961,7 @@ Appendix B to § 1926.1101 - Sampling and Analysis (Non-Mandatory)
 |A known volume of air is drawn through a 25-mm diameter cassette containing a mixed-cellulose ester filter. The cassette must be equipped with an electrically conductive 50-mm extension cowl. The sampling time and rate are chosen to give a fiber density of between 100 to 1,300 fibers/mm2 on the filter.|            |
 
 |Recommended Sampling Rate|0.5 to 5.0 liters/minute (L/min)|
-|:------------------------|:-------------------------------|
+|-------------------------|--------------------------------|
 |Recommended Air Volumes: |                                |
 |         Minimum         |              25 L              |
 |         Maximum         |            2,400 L             |
@@ -978,12 +976,12 @@ Commercial manufacturers and products mentioned in this method are for descripti
 
 This method describes the collection of airborne asbestos fibers using calibrated sampling pumps with mixed-cellulose ester (MCE) filters and analysis by phase contrast microscopy (PCM). Some terms used are unique to this method and are defined below: *Asbestos:* A term for naturally occurring fibrous minerals. Asbestos includes chrysotile, crocidolite, amosite (cummingtonite-grunerite asbestos), tremolite asbestos, actinolite asbestos, anthophyllite asbestos, and any of these minerals that have been chemically treated and/or altered. The precise chemical formulation of each species will vary with the location from which it was mined. Nominal compositions are listed:
 
-|     Chrysotile     |                   Mg3 Si2 O5(OH)4                    |
-|:-------------------|-----------------------------------------------------:|
-|    Crocidolite     |Na2 Fe3<sup>2 + </sup> Fe2<sup>3 + </sup> Si8 O22(OH)2|
-|      Amosite       |                (Mg,Fe)7 Si8 O22(OH)2                 |
-|Tremolite-actinolite|               Ca2(Mg,Fe)5 Si8 O22(OH)2               |
-|   Anthophyllite    |                (Mg,Fe)7 Si8 O22(OH)2                 |
+|     Chrysotile     |                              Mg<sub>3</sub> Si<sub>2</sub> O<sub>5</sub> (OH)<sub>4</sub>                               |
+|--------------------|-------------------------------------------------------------------------------------------------------------------------|
+|    Crocidolite     |Na<sub>2</sub> Fe<sub>3</sub><sup>2 + </sup> Fe<sub>2</sub><sup>3 + </sup> Si<sub>8</sub> O<sub>22</sub> (OH)<sub>2</sub>|
+|      Amosite       |                           (Mg,Fe)<sub>7</sub> Si<sub>8</sub> O<sub>22</sub> (OH)<sub>2</sub>                            |
+|Tremolite-actinolite|                    Ca<sub>2</sub> (Mg,Fe)<sub>5</sub> Si<sub>8</sub> O<sub>22</sub> (OH)<sub>2</sub>                    |
+|   Anthophyllite    |                           (Mg,Fe)<sub>7</sub> Si<sub>8</sub> O<sub>22</sub> (OH)<sub>2</sub>                            |
 
 *Asbestos Fiber:* A fiber of asbestos which meets the criteria specified below for a fiber.
 
@@ -1043,11 +1041,11 @@ Asbestos fiber possesses a high tensile strength along its axis, is chemically i
 
 2.2. The detection limit for this method is 4.0 fibers per 100 fields or 5.5 fibers/mm2. This was determined using an equation to estimate the maximum CV possible at a specific concentration (95% confidence) and a Lower Control Limit of zero. The CV value was then used to determine a corresponding concentration from historical CV vs fiber relationships. As an example:
 
-Lower Control Limit (95% Confidence) = AC - 1.645(CV)(AC)Where:AC = Estimate of the airborne fiber concentration (fibers/cc) Setting the Lower Control Limit = 0 and solving for CV:0 = AC - 1.645(CV)(AC)CV = 0.61
+Lower Control Limit (95% Confidence) = AC—1.645(CV)(AC)Where:AC = Estimate of the airborne fiber concentration (fibers/cc) Setting the Lower Control Limit = 0 and solving for CV:0 = AC—1.645(CV)(AC)CV = 0.61
 
 This value was compared with CV vs. count curves. The count at which CV = 0.61 for Leidel-Busch counting statistics or for an OSHA Salt Lake Technical Center (OSHA-SLTC) CV curve (see appendix A for further information) was 4.4 fibers or 3.9 fibers per 100 fields, respectively. Although a lower detection limit of 4 fibers per 100 fields is supported by the OSHA-SLTC data, both data sets support the 4.5 fibers per 100 fields value.
 
-3. Method Performance - Precision and Accuracy
+3. Method Performance—Precision and Accuracy
 
 Precision is dependent upon the total number of fibers counted and the uniformity of the fiber distribution on the filter. A general rule is to count at least 20 and not more than 100 fields. The count is discontinued when 100 fibers are counted, provided that 20 fields have already been counted. Counting more than 100 fibers results in only a small gain in precision. As the total count drops below 10 fibers, an accelerated loss of precision is noted.
 
@@ -1097,7 +1095,7 @@ Stopwatch and bubble tube/burette or electronic meter.
 
 *5.2.2.* Charge the pumps completely before beginning.
 
-*5.2.3.* Connect each pump to a calibration cassette with an appropriate length of 6-mm bore plastic tubing. Do not use luer connectors - the type of cassette specified above has built-in adapters.
+*5.2.3.* Connect each pump to a calibration cassette with an appropriate length of 6-mm bore plastic tubing. Do not use luer connectors—the type of cassette specified above has built-in adapters.
 
 *5.2.4.* Select an appropriate flow rate for the situation being monitored. The sampling flow rate must be between 0.5 and 5.0 L/min for personal sampling and is commonly set between 1 and 2 L/min. Always choose a flow rate that will not produce overloaded filters.
 
@@ -1141,7 +1139,7 @@ While sampling, observe the filter with a small flashlight. If there is a visibl
 
 *6.1.2.* Any asbestos spills should be cleaned up immediately to prevent dispersal of fibers. Prudence should be exercised to avoid contamination of laboratory facilities or exposure of personnel to asbestos. Asbestos spills should be cleaned up with wet methods and/or a High Efficiency Particulate-Air (HEPA) filtered vacuum.
 
-*CAUTION:* Do not use a vacuum without a HEPA filter - It will disperse fine asbestos fibers in the air.
+*CAUTION:* Do not use a vacuum without a HEPA filter—It will disperse fine asbestos fibers in the air.
 
 6.2. Equipment
 
@@ -1267,7 +1265,7 @@ If there is a question whether a fiber is asbestos or not, follow the rule:
 
 “WHEN IN DOUBT, COUNT.”
 
-6.8. Analytical Recommendations - Quality Control System
+6.8. Analytical Recommendations—Quality Control System
 
 *6.8.1.* All individuals performing asbestos analysis must have taken the NIOSH course for sampling and evaluating airborne asbestos or an equivalent course.
 
@@ -1317,7 +1315,7 @@ Report results to the industrial hygienist as fibers/cc. Use two significant fig
 
 8.3. Bayer, S.G., Zumwalde, R.D., Brown, T.A., *Equipment and Procedure for Mounting Millipore Filters and Counting Asbestos Fibers by Phase Contrast Microscopy,* Bureau of Occupational Health, U.S. Dept. of Health, Education and Welfare, Cincinnati, OH, 1969.
 
-8.4. *NIOSH Manual of Analytical Methods,* 2nd ed., Vol. 1 (DHEW/NIOSH Pub. No. 77-157-A). National Institute for Occupational Safety and Health, Cincinnati, OH, 1977. pp. 239-1 - 239-21.
+8.4. *NIOSH Manual of Analytical Methods,* 2nd ed., Vol. 1 (DHEW/NIOSH Pub. No. 77-157-A). National Institute for Occupational Safety and Health, Cincinnati, OH, 1977. pp. 239-1—239-21.
 
 8.5. *Asbestos,* Code of Federal Regulations 29 CFR 1910.1001. 1971.
 
@@ -1325,7 +1323,7 @@ Report results to the industrial hygienist as fibers/cc. Use two significant fig
 
 8.7. *Asbestos, Tremolite, Anthophyllite, and Actinolite,* Code of Federal Regulations 1910.1001. 1988. pp. 711-752.
 
-8.8. *Criteria for a Recommended Standard - Occupational Exposure to Asbestos* (DHEW/NIOSH Pub. No. HSM 72-10267), National Institute for Occupational Safety and Health, NIOSH, Cincinnati, OH, 1972. pp. III-1 - III-24.
+8.8. *Criteria for a Recommended Standard—Occupational Exposure to Asbestos* (DHEW/NIOSH Pub. No. HSM 72-10267), National Institute for Occupational Safety and Health, NIOSH, Cincinnati, OH, 1972. pp. III-1—III-24.
 
 8.9. Leidel, N.A., Bayer, S.G., Zumwalde, R.D., Busch, K.A., *USPHS/NIOSH Membrane Filter Method for Evaluating Airborne Asbestos Fibers* (DHEW/NIOSH Pub. No. 79-127). National Institute for Occupational Safety and Health, Cincinnati, OH, 1979.
 
@@ -1377,8 +1375,6 @@ The Graticule is available from: Graticules Ltd., Morley Road, Tonbridge TN9 IRN
 
 ![](/graphics/er10au94.025.gif)
 
-Counts for the Fibers in the Figure
-
 |Structure No.|Count|                 Explanation                  |
 |-------------|-----|----------------------------------------------|
 |   1 to 6    |  1  |Single fibers all contained within the Circle.|
@@ -1389,7 +1385,7 @@ Counts for the Fibers in the Figure
 |     11      |  0  |        Fiber crosses graticule twice.        |
 |     12      | 1/2 |   Although split, fiber only crosses once.   |
 
-Appendix C to § 1926.1101 [Reserved]![](/graphics/er14my19.112.gif)![](/graphics/er14my19.113.gif)![](/graphics/er14my19.114.gif)![](/graphics/er14my19.115.gif)![](/graphics/er14my19.116.gif)![](/graphics/er14my19.117.gif)![](/graphics/er14my19.118.gif)![](/graphics/er14my19.119.gif)![](/graphics/er14my19.120.gif)![](/graphics/er14my19.121.gif)![](/graphics/er14my19.122.gif)![](/graphics/er14my19.123.gif)![](/graphics/er14my19.124.gif)![](/graphics/er14my19.125.gif)![](/graphics/er14my19.126.gif)![](/graphics/er14my19.127.gif)![](/graphics/er14my19.128.gif)Appendix E to § 1926.1101 - Classification of Chest X-Rays - Mandatory
+Appendix C to § 1926.1101 [Reserved]![](/graphics/er14my19.112.gif)![](/graphics/er14my19.113.gif)![](/graphics/er14my19.114.gif)![](/graphics/er14my19.115.gif)![](/graphics/er14my19.116.gif)![](/graphics/er14my19.117.gif)![](/graphics/er14my19.118.gif)![](/graphics/er14my19.119.gif)![](/graphics/er14my19.120.gif)![](/graphics/er14my19.121.gif)![](/graphics/er14my19.122.gif)![](/graphics/er14my19.123.gif)![](/graphics/er14my19.124.gif)![](/graphics/er14my19.125.gif)![](/graphics/er14my19.126.gif)![](/graphics/er14my19.127.gif)![](/graphics/er14my19.128.gif)Appendix E to § 1926.1101—Classification of Chest X-Rays—Mandatory
 
 (a) Chest X-rays shall be classified in accordance with the Guidelines for the use of the ILO International Classification of Radiographs of Pneumoconioses (revised edition 2011) (incorporated by reference, see § 1926.6), and recorded on a classification form following the format of the CDC/NIOSH (M) 2.8 form. As a minimum, the content within the bold lines of this form (items 1 through 4) shall be included. This form is not to be submitted to NIOSH.
 
@@ -1399,7 +1395,7 @@ Appendix C to § 1926.1101 [Reserved]![](/graphics/er14my19.112.gif)![](/graphic
 
 (d) Whenever classifying digitally-acquired chest X-rays, the physician shall have immediately available for reference a complete set of ILO standard digital chest radiographic images provided for use with the Guidelines for the Use of the ILO International Classification of Radiographs of Pneumoconioses (revised edition 2011). Classification of digitally-acquired chest X-rays shall be based on the viewing of images displayed as electronic copies and shall not be based on the viewing of hard copy printed transparencies of images.
 
-Appendix F to § 1926.1101 - Work Practices and Engineering Controls for Class I Asbestos Operations (Non-Mandatory)
+Appendix F to § 1926.1101—Work Practices and Engineering Controls for Class I Asbestos Operations (Non-Mandatory)
 
 This is a non-mandatory appendix to the asbestos standards for construction and for shipyards. It describes criteria and procedures for erecting and using negative pressure enclosures for Class I Asbestos Work, when NPEs are used as an allowable control method to comply with paragraph (g)(5)(i) of this section. Many small and variable details are involved in the erection of a negative pressure enclosure. OSHA and most participants in the rulemaking agreed that only the major, more performance oriented criteria should be made mandatory. These criteria are set out in paragraph (g) of this section. In addition, this appendix includes these mandatory specifications and procedures in its guidelines in order to make this appendix coherent and helpful. The mandatory nature of the criteria which appear in the regulatory text is not changed because they are included in this “non-mandatory” appendix. Similarly, the additional criteria and procedures included as guidelines in the appendix, do not become mandatory because mandatory criteria are also included in these comprehensive guidelines.
 
@@ -1439,7 +1435,7 @@ Plastic sheeting used to protect horizontal surfaces, seal HVAC openings or to s
 
 Other equipment and materials which should be available at the beginning of each project are:
 
- \- HEPA Filtered Vacuum is essential for cleaning the work area after the asbestos has been removed. It should have a long hose capable of reaching out-of-the-way places, such as areas above ceiling tiles, behind pipes, etc. - Portable air ventilation systems installed to provide the negative air pressure and air removal from the enclosure must be equipped with a HEPA filter. The number and capacity of units required to ventilate an enclosure depend on the size of the area to be ventilated. The filters for these systems should be designed in such a manner that they can be replaced when the air flow volume is reduced by the build-up of dust in the filtration material. Pressure monitoring devices with alarms and strip chart recorders attached to each system to indicate the pressure differential and the loss due to dust buildup on the filter are recommended. - Water sprayers should be used to keep the asbestos material as saturated as possible during removal; the sprayers will provide a fine mist that minimizes the impact of the spray on the material. - Water used to saturate the asbestos containing material can be amended by adding at least 15 milliliters (1/4 ounce) of wetting agent in 1 liter (1 pint) of water. An example of a wetting agent is a 50/50 mixture of polyoxyethylene ether and polyoxyethylene polyglycol ester. - Backup power supplies are recommended, especially for ventilation systems. - Shower and bath water should be with mixed hot and cold water faucets. Water that has been used to clean personnel or equipment should either be filtered or be collected and discarded as asbestos waste. Soap and shampoo should be provided to aid in removing dust from the workers' skin and hair. - See paragraphs (h) and (i) of this section for appropriate respiratory protection and protective clothing. - See paragraph (k) of this section for required signs and labels.Preparing the Work Area
+—HEPA Filtered Vacuum is essential for cleaning the work area after the asbestos has been removed. It should have a long hose capable of reaching out-of-the-way places, such as areas above ceiling tiles, behind pipes, etc.—Portable air ventilation systems installed to provide the negative air pressure and air removal from the enclosure must be equipped with a HEPA filter. The number and capacity of units required to ventilate an enclosure depend on the size of the area to be ventilated. The filters for these systems should be designed in such a manner that they can be replaced when the air flow volume is reduced by the build-up of dust in the filtration material. Pressure monitoring devices with alarms and strip chart recorders attached to each system to indicate the pressure differential and the loss due to dust buildup on the filter are recommended.—Water sprayers should be used to keep the asbestos material as saturated as possible during removal; the sprayers will provide a fine mist that minimizes the impact of the spray on the material.—Water used to saturate the asbestos containing material can be amended by adding at least 15 milliliters (1/4 ounce) of wetting agent in 1 liter (1 pint) of water. An example of a wetting agent is a 50/50 mixture of polyoxyethylene ether and polyoxyethylene polyglycol ester.—Backup power supplies are recommended, especially for ventilation systems.—Shower and bath water should be with mixed hot and cold water faucets. Water that has been used to clean personnel or equipment should either be filtered or be collected and discarded as asbestos waste. Soap and shampoo should be provided to aid in removing dust from the workers' skin and hair.—See paragraphs (h) and (i) of this section for appropriate respiratory protection and protective clothing.—See paragraph (k) of this section for required signs and labels.Preparing the Work Area
 
 Disabling HVAC Systems: The power to the heating, ventilation, and air conditioning systems that service the restricted area must be deactivated and locked off. All ducts, grills, access ports, windows and vents must be sealed off with two layers of plastic to prevent entrainment of contaminated air.
 
@@ -1521,7 +1517,7 @@ Surfaces within the work area should be kept free of visible dust and debris to 
 
 All surfaces within the enclosure should be cleaned before the exhaust ventilation system is deactivated and the enclosure is disassembled. An approved encapsulant may be sprayed onto areas after the visible dust has been removed.
 
-Appendix G to § 1926.1101 [Reserved]Appendix H to § 1926.1101 - Substance Technical Information for Asbestos. Non-MandatoryI. Substance Identification
+Appendix G to § 1926.1101 [Reserved]Appendix H to § 1926.1101—Substance Technical Information for Asbestos. Non-MandatoryI. Substance Identification
 
 A. Substance: “Asbestos” is the name of a class of magnesium-silicate minerals that occur in fibrous form. Minerals that are included in this group are chrysotile, crocidolite, amosite, anthophyllite asbestos, tremolite asbestos, and actinolite asbestos.
 
@@ -1577,7 +1573,7 @@ C. Your employer is required to keep records of your exposures and medical exami
 
 D. Your employer is required to release your exposure and medical records to your physician or designated representative upon your written request.
 
-Appendix I to § 1926.1101 - Medical Surveillance Guidelines for Asbestos, Non-MandatoryI. Route of Entry
+Appendix I to § 1926.1101—Medical Surveillance Guidelines for Asbestos, Non-MandatoryI. Route of Entry
 
 Inhalation, ingestion.
 
@@ -1615,7 +1611,7 @@ The employer is required to provide the physician with the following information
 
 The employer is required to obtain a written opinion from the examining physician containing the results of the medical examination; the physician's opinion as to whether the employee has any detected medical conditions that would place the employee at an increased risk of exposure-related disease; any recommended limitations on the employee or on the use of personal protective equipment; and a statement that the employee has been informed by the physician of the results of the medical examination and of any medical conditions related to asbestos exposure that require further explanation or treatment. This written opinion must not reveal specific findings or diagnoses unrelated to exposure to asbestos, and a copy of the opinion must be provided to the affected employee.
 
-Appendix J to § 1926.1101 - Smoking Cessation Program Information for Asbestos - Non-Mandatory
+Appendix J to § 1926.1101—Smoking Cessation Program Information for Asbestos—Non-Mandatory
 
 The following organizations provide smoking cessation information.
 
@@ -1641,7 +1637,7 @@ The Office on Smoking and Health (OSH) is the Department of Health and Human Ser
 
 Spanish-speaking staff members are available during daytime hours to callers from the following areas: California, Florida, Georgia, Illinois, New Jersey (area code 201), New York, and Texas. Consult your local telephone directory for listings of local chapters.
 
-Appendix K to § 1926.1101 - Polarized Light Microscopy of Asbestos (Non-Mandatory)Method number:ID-191Matrix: BulkCollection Procedure:Collect approximately 1 to 2 grams of each type of material and place into separate 20 mL scintillation vials.Analytical Procedure:A portion of each separate phase is analyzed by gross examination, phase-polar examination, and central stop dispersion microscopy.
+Appendix K to § 1926.1101—Polarized Light Microscopy of Asbestos (Non-Mandatory)Method number:ID-191Matrix: BulkCollection Procedure:Collect approximately 1 to 2 grams of each type of material and place into separate 20 mL scintillation vials.Analytical Procedure:A portion of each separate phase is analyzed by gross examination, phase-polar examination, and central stop dispersion microscopy.
 
 Commercial manufacturers and products mentioned in this method are for descriptive use only and do not constitute endorsements by USDOL-OSHA. Similar products from other sources may be substituted.
 
@@ -1653,12 +1649,12 @@ This method describes the collection and analysis of asbestos bulk materials by 
 
 *Asbestos:* A term for naturally occurring fibrous minerals. Asbestos includes chrysotile, cummingtonite-grunerite asbestos (amosite), anthophyllite asbestos, tremolite asbestos, crocidolite, actinolite asbestos and any of these minerals which have been chemically treated or altered. The precise chemical formulation of each species varies with the location from which it was mined. Nominal compositions are listed:
 
-|                Chrysotile                |       Mg3 Si2 O5(OH)4        |
-|:-----------------------------------------|-----------------------------:|
-|    Crocidolite (Riebeckite asbestos)     |Na2 Fe32 + Fe23 + Si8 O22(OH)2|
-|Cummingtonite-Grunerite asbestos (Amosite)|    (Mg,Fe)7 Si8 O22(OH)2     |
-|      Tremolite-Actinolite asbestos       |   Ca2(Mg,Fe)5 Si8 O22(OH)2   |
-|          Anthophyllite asbestos          |    (Mg,Fe)7 Si8 O22(OH)2     |
+|                Chrysotile                |                   Mg<sub>3</sub> Si<sub>2</sub> O<sub>5</sub> (OH)<sub>4</sub>                    |
+|------------------------------------------|---------------------------------------------------------------------------------------------------|
+|    Crocidolite (Riebeckite asbestos)     |Na<sub>2</sub> Fe<sub>3</sub> 2 + Fe<sub>2</sub> 3 + Si<sub>8</sub> O<sub>22</sub> (OH)<sub>2</sub>|
+|Cummingtonite-Grunerite asbestos (Amosite)|                (Mg,Fe)<sub>7</sub> Si<sub>8</sub> O<sub>22</sub> (OH)<sub>2</sub>                 |
+|      Tremolite-Actinolite asbestos       |         Ca<sub>2</sub> (Mg,Fe)<sub>5</sub> Si<sub>8</sub> O<sub>22</sub> (OH)<sub>2</sub>         |
+|          Anthophyllite asbestos          |                (Mg,Fe)<sub>7</sub> Si<sub>8</sub> O<sub>22</sub> (OH)<sub>2</sub>                 |
 
 *Asbestos Fiber:* A fiber of asbestos meeting the criteria for a fiber. (See section 3.5. of this Appendix)
 
@@ -1690,7 +1686,7 @@ This method describes the collection and analysis of asbestos bulk materials by 
 
 Light microscopy has been used for well over 100 years for the determination of mineral species. This analysis is carried out using specialized polarizing microscopes as well as bright field microscopes. The identification of minerals is an on-going process with many new minerals described each year. The first recorded use of asbestos was in Finland about 2500 B.C. where the material was used in the mud wattle for the wooden huts the people lived in as well as strengthening for pottery. Adverse health aspects of the mineral were noted nearly 2000 years ago when Pliny the Younger wrote about the poor health of slaves in the asbestos mines. Although known to be injurious for centuries, the first modern references to its toxicity were by the British Labor Inspectorate when it banned asbestos dust from the workplace in 1898. Asbestosis cases were described in the literature after the turn of the century. Cancer was first suspected in the mid 1930's and a causal link to mesothelioma was made in 1965. Because of the public concern for worker and public safety with the use of this material, several different types of analysis were applied to the determination of asbestos content. Light microscopy requires a great deal of experience and craft. Attempts were made to apply less subjective methods to the analysis. X-ray diffraction was partially successful in determining the mineral types but was unable to separate out the fibrous portions from the non-fibrous portions. Also, the minimum detection limit for asbestos analysis by X-ray diffraction (XRD) is about 1%. Differential Thermal Analysis (DTA) was no more successful. These provide useful corroborating information when the presence of asbestos has been shown by microscopy; however, neither can determine the difference between fibrous and non-fibrous minerals when both habits are present. The same is true of Infrared Absorption (IR).
 
-When electron microscopy was applied to asbestos analysis, hundreds of fibers were discovered present too small to be visible in any light microscope. There are two different types of electron microscope used for asbestos analysis: Scanning Electron Microscope (SEM) and Transmission Electron Microscope (TEM). Scanning Electron Microscopy is useful in identifying minerals. The SEM can provide two of the three pieces of information required to identify fibers by electron microscopy: morphology and chemistry. The third is structure as determined by Selected Area Electron Diffraction - SAED which is performed in the TEM. Although the resolution of the SEM is sufficient for very fine fibers to be seen, accuracy of chemical analysis that can be performed on the fibers varies with fiber diameter in fibers of less than 0.2 µm diameter. The TEM is a powerful tool to identify fibers too small to be resolved by light microscopy and should be used in conjunction with this method when necessary. The TEM can provide all three pieces of information required for fiber identification. Most fibers thicker than 1 µm can adequately be defined in the light microscope. The light microscope remains as the best instrument for the determination of mineral type. This is because the minerals under investigation were first described analytically with the light microscope. It is inexpensive and gives positive identification for most samples analyzed. Further, when optical techniques are inadequate, there is ample indication that alternative techniques should be used for complete identification of the sample.
+When electron microscopy was applied to asbestos analysis, hundreds of fibers were discovered present too small to be visible in any light microscope. There are two different types of electron microscope used for asbestos analysis: Scanning Electron Microscope (SEM) and Transmission Electron Microscope (TEM). Scanning Electron Microscopy is useful in identifying minerals. The SEM can provide two of the three pieces of information required to identify fibers by electron microscopy: morphology and chemistry. The third is structure as determined by Selected Area Electron Diffraction—SAED which is performed in the TEM. Although the resolution of the SEM is sufficient for very fine fibers to be seen, accuracy of chemical analysis that can be performed on the fibers varies with fiber diameter in fibers of less than 0.2 µm diameter. The TEM is a powerful tool to identify fibers too small to be resolved by light microscopy and should be used in conjunction with this method when necessary. The TEM can provide all three pieces of information required for fiber identification. Most fibers thicker than 1 µm can adequately be defined in the light microscope. The light microscope remains as the best instrument for the determination of mineral type. This is because the minerals under investigation were first described analytically with the light microscope. It is inexpensive and gives positive identification for most samples analyzed. Further, when optical techniques are inadequate, there is ample indication that alternative techniques should be used for complete identification of the sample.
 
 1.2. Principle
 
@@ -1862,7 +1858,7 @@ Sample preparation begins with pre-preparation which may include chemical reduct
 
 Samples with a high water content will not give the proper dispersion colors and must be dried prior to sample mounting. Remove the lid of the scintillation vial, place the bottle in the drying oven and heat at 100 °C to dryness (usually about 2 h). Samples which are not submitted to the lab in glass must be removed and placed in glass vials or aluminum weighing pans before placing them in the drying oven.
 
-(b) *Samples With Organic Interference - Muffle Furnace*
+(b) *Samples With Organic Interference—Muffle Furnace*
 
 These may include samples with tar as a matrix, vinyl asbestos tile, or any other organic that can be reduced by heating. Remove the sample from the vial and weigh in a balance to determine the weight of the submitted portion. Place the sample in a muffle furnace at 500 °C for 1 to 2 h or until all obvious organic material has been removed. Retrieve, cool and weigh again to determine the weight loss on ignition. This is necessary to determine the asbestos content of the submitted sample, because the analyst will be looking at a reduced sample.
 
@@ -1870,7 +1866,7 @@ Note:
 
 Heating above 600 °C will cause the sample to undergo a structural change which, given sufficient time, will convert the chrysotile to forsterite. Heating even at lower temperatures for 1 to 2 h may have a measurable effect on the optical properties of the minerals. If the analyst is unsure of what to expect, a sample of standard asbestos should be heated to the same temperature for the same length of time so that it can be examined for the proper interpretation.
 
-(c) *Samples With Organic Interference - THF*
+(c) *Samples With Organic Interference—THF*
 
 Vinyl asbestos tile is the most common material treated with this solvent, although, substances containing tar will sometimes yield to this treatment. Select a portion of the material and then grind it up if possible. Weigh the sample and place it in a test tube. Add sufficient THF to dissolve the organic matrix. This is usually about 4 to 5 mL. *Remember, THF is highly flammable.* Filter the remaining material through a tared silver membrane, dry and weigh to determine how much is left after the solvent extraction. Further process the sample to remove carbonate or mount directly.
 
@@ -2015,4 +2011,4 @@ Dispersion microscopy or dispersion staining is the method of choice for the ide
 
 Make a preparation in the suspected matching high dispersion oil, e.g., n = 1.550 for chrysotile. Perform the preliminary tests to determine whether the fibers are birefringent or not. Take note of the morphological character. Wavy fibers are indicative of chrysotile while long, straight, thin, frayed fibers are indicative of amphibole asbestos. This can aid in the selection of the appropriate matching oil. The microscope is set up and the polarization direction is noted as in Section 4.4. Align a fiber with the polarization direction. Note the color. This is the color parallel to the polarizer. Then rotate the fiber rotating the stage 90° so that the polarization direction is across the fiber. This is the perpendicular position. Again note the color. Both colors must be consistent with standard asbestos minerals in the correct direction for a positive identification of asbestos. If only one of the colors is correct while the other is not, the identification is not positive. If the colors in both directions are bluish-white, the analyst has chosen a matching index oil which is higher than the correct matching oil, e.g. the analyst has used n = 1.620 where chrysotile is present. The next lower oil (Section 3.5.) should be used to prepare another specimen. If the color in both directions is yellow-white to straw-yellow-white, this indicates that the index of the oil is lower than the index of the fiber, e.g. the preparation is in n = 1.550 while anthophyllite is present. Select the next higher oil (Section 3.5.) and prepare another slide. Continue in this fashion until a positive identification of all asbestos species present has been made or all possible asbestos species have been ruled out by negative results in this test. Certain plant fibers can have similar dispersion colors as asbestos. Take care to note and evaluate the morphology of the fibers or remove the plant fibers in pre-preparation. Coating material on the fibers such as carbonate or vinyl may destroy the dispersion color. Usually, there will be some outcropping of fiber which will show the colors sufficient for identification. When this is not the case, treat the sample as described in Section 3.3. and then perform dispersion staining. Some samples will yield to Becke line analysis if they are coated or electron microscopy can be used for identification.
 
-5. References5.1. Crane, D.T., *Asbestos in Air,* OSHA method ID160, Revised November 1992.5.2. Ford, W.E., *Dana's Textbook of Mineralogy;* Fourth Ed.; John Wiley and Son, New York, 1950, p. vii.5.3. Selikoff, I.J., Lee, D.H.K., *Asbestos and Disease,* Academic Press, New York, 1978, pp. 3,20.5.4. *Women Inspectors of Factories.* Annual Report for 1898, H.M. Statistical Office, London, p. 170 (1898).5.5. Selikoff,.I.J., Lee, D.H.K., *Asbestos and Disease,* Academic Press, New York, 1978, pp. 26,30.5.6. Campbell, W.J., et al, *Selected Silicate Minerals and Their Asbestiform Varieties,* United States Department of the Interior, Bureau of Mines, Information Circular 8751, 1977.5.7. *Asbestos,* Code of Federal Regulations, 29 CFR 1910.1001 and 29 CFR 1926.58.5.8. *National Emission Standards for Hazardous Air Pollutants; Asbestos NESHAP Revision,*Federal Register, Vol. 55, No. 224, 20 November 1990, p. 48410.5.9. Ross, M. *The Asbestos Minerals: Definitions, Description, Modes of Formation, Physical and Chemical Properties and Health Risk to the Mining Community,* Nation Bureau of Standards Special Publication, Washington, DC, 1977.5.10. Lilis, R., Fibrous Zeolites and Endemic Mesothelioma in Cappadocia, Turkey, *J. Occ Medicine,* 1981, 23,(8),548-550.5.11. *Occupational Exposure to Asbestos - 1972,* U.S. Department of Health Education and Welfare, Public Health Service, Center for Disease Control, National Institute for Occupational Safety and Health, HSM-72-10267.5.12. Campbell,W.J., et al, Relationship of Mineral Habit to Size *Characteristics for Tremolite Fragments and Fibers,* United States Department of the Interior, Bureau of Mines, Information Circular 8367, 1979.5.13. Mefford, D., DCM Laboratory, Denver, private communication, July 1987.5.14. Deer, W.A., Howie, R.A., Zussman, J., *Rock Forming Minerals,* Longman, Thetford, UK, 1974.5.15. Kerr, P.F., *Optical Mineralogy;* Third Ed. McGraw-Hill, New York, 1959.5.16. Veblen, D.R. (Ed.), *Amphiboles and Other Hydrous Pyriboles - Mineralogy, Reviews in Mineralogy,* Vol 9A, Michigan, 1982, pp 1-102.5.17. Dixon, W.C., *Applications of Optical Microscopy in the Analysis of Asbestos* and Quartz, ACS Symposium Series, No. 120, Analytical Techniques in Occupational Health Chemistry, 1979.5.18. Polarized Light Microscopy, McCrone Research Institute, Chicago, 1976.5.19. Asbestos Identification, McCrone Research Institute, G & G printers, Chicago, 1987.5.20. McCrone, W.C., Calculation of Refractive Indices from Dispersion Staining Data, The Microscope, No 37, Chicago, 1989.5.21. Levadie, B. (Ed.), *Asbestos and Other Health Related Silicates,* ASTM Technical Publication 834, ASTM, Philadelphia 1982.5.22. Steel, E. and Wylie, A., Riordan, P.H. (Ed.), Mineralogical Characteristics of Asbestos, *Geology of Asbestos Deposits,* pp. 93-101, SME-AIME, 1981.5.23. Zussman, J., The Mineralogy of Asbestos, *Asbestos: Properties, Applications and Hazards,* pp. 45-67 Wiley, 1979.[51 FR 22756, June 20, 1986]Editorial Note:For Federal Register citations affecting § 1926.1101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+5. References5.1. Crane, D.T., *Asbestos in Air,* OSHA method ID160, Revised November 1992.5.2. Ford, W.E., *Dana's Textbook of Mineralogy;* Fourth Ed.; John Wiley and Son, New York, 1950, p. vii.5.3. Selikoff, I.J., Lee, D.H.K., *Asbestos and Disease,* Academic Press, New York, 1978, pp. 3,20.5.4. *Women Inspectors of Factories.* Annual Report for 1898, H.M. Statistical Office, London, p. 170 (1898).5.5. Selikoff,.I.J., Lee, D.H.K., *Asbestos and Disease,* Academic Press, New York, 1978, pp. 26,30.5.6. Campbell, W.J., et al, *Selected Silicate Minerals and Their Asbestiform Varieties,* United States Department of the Interior, Bureau of Mines, Information Circular 8751, 1977.5.7. *Asbestos,* Code of Federal Regulations, 29 CFR 1910.1001 and 29 CFR 1926.58.5.8. *National Emission Standards for Hazardous Air Pollutants; Asbestos NESHAP Revision,*Federal Register, Vol. 55, No. 224, 20 November 1990, p. 48410.5.9. Ross, M. *The Asbestos Minerals: Definitions, Description, Modes of Formation, Physical and Chemical Properties and Health Risk to the Mining Community,* Nation Bureau of Standards Special Publication, Washington, DC, 1977.5.10. Lilis, R., Fibrous Zeolites and Endemic Mesothelioma in Cappadocia, Turkey, *J. Occ Medicine,* 1981, 23,(8),548-550.5.11. *Occupational Exposure to Asbestos—1972,* U.S. Department of Health Education and Welfare, Public Health Service, Center for Disease Control, National Institute for Occupational Safety and Health, HSM-72-10267.5.12. Campbell,W.J., et al, Relationship of Mineral Habit to Size *Characteristics for Tremolite Fragments and Fibers,* United States Department of the Interior, Bureau of Mines, Information Circular 8367, 1979.5.13. Mefford, D., DCM Laboratory, Denver, private communication, July 1987.5.14. Deer, W.A., Howie, R.A., Zussman, J., *Rock Forming Minerals,* Longman, Thetford, UK, 1974.5.15. Kerr, P.F., *Optical Mineralogy;* Third Ed. McGraw-Hill, New York, 1959.5.16. Veblen, D.R. (Ed.), *Amphiboles and Other Hydrous Pyriboles—Mineralogy, Reviews in Mineralogy,* Vol 9A, Michigan, 1982, pp 1-102.5.17. Dixon, W.C., *Applications of Optical Microscopy in the Analysis of Asbestos* and Quartz, ACS Symposium Series, No. 120, Analytical Techniques in Occupational Health Chemistry, 1979.5.18. Polarized Light Microscopy, McCrone Research Institute, Chicago, 1976.5.19. Asbestos Identification, McCrone Research Institute, G & G printers, Chicago, 1987.5.20. McCrone, W.C., Calculation of Refractive Indices from Dispersion Staining Data, The Microscope, No 37, Chicago, 1989.5.21. Levadie, B. (Ed.), *Asbestos and Other Health Related Silicates,* ASTM Technical Publication 834, ASTM, Philadelphia 1982.5.22. Steel, E. and Wylie, A., Riordan, P.H. (Ed.), Mineralogical Characteristics of Asbestos, *Geology of Asbestos Deposits,* pp. 93-101, SME-AIME, 1981.5.23. Zussman, J., The Mineralogy of Asbestos, *Asbestos: Properties, Applications and Hazards,* pp. 45-67 Wiley, 1979.[51 FR 22756, June 20, 1986]Editorial Note:For Federal Register citations affecting § 1926.1101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,5 +1,7 @@
 ##### § 12.21 Initiation of a hearing involving the issuance, amendment, or revocation of an order. #####
 
+Link to an amendment published at 85 FR 72906, Nov. 16, 2020.
+
 (a) A proceeding under section 505 (d) or (e), 512 (d), (e), (m) (3) or (4), of section 515(g)(1) of the act, or section 351(a) of the Public Health Service Act, may be initiated -
 
 (1) By the Commissioner on the Commissioner's own initiative;

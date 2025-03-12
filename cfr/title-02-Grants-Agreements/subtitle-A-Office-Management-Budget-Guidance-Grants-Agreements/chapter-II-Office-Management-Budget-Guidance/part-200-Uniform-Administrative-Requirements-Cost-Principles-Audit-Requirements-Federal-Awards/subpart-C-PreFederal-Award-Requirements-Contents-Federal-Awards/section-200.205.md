@@ -1,23 +1,3 @@
-##### § 200.205 Federal awarding agency review of risk posed by applicants. #####
+##### § 200.205 Federal awarding agency review of merit of proposals. #####
 
-(a) *Review of OMB-designated repositories of governmentwide data.* (1) Prior to making a Federal award, the Federal awarding agency is required by 31 U.S.C. 3321 and 41 U.S.C. 2313 note to review information available through any OMB-designated repositories of governmentwide eligibility qualification or financial integrity information as appropriate. See also suspension and debarment requirements at 2 CFR part 180 as well as individual Federal agency suspension and debarment regulations in title 2 of the Code of Federal Regulations.
-
-(2) In accordance 41 U.S.C. 2313, the Federal awarding agency is required to review the non-public segment of the OMB-designated integrity and performance system accessible through SAM (currently the Federal Awardee Performance and Integrity Information System (FAPIIS)) prior to making a Federal award where the Federal share is expected to exceed the simplified acquisition threshold, defined in 41 U.S.C. 134, over the period of performance. At a minimum, the information in the system for a prior Federal award recipient must demonstrate a satisfactory record of executing programs or activities under Federal grants, cooperative agreements, or procurement awards; and integrity and business ethics. The Federal awarding agency may make a Federal award to a recipient who does not fully meet these standards, if it is determined that the information is not relevant to the current Federal award under consideration or there are specific conditions that can appropriately mitigate the effects of the non-Federal entity's risk in accordance with § 200.207 Specific conditions.
-
-(b) In addition, for competitive grants or cooperative agreements, the Federal awarding agency must have in place a framework for evaluating the risks posed by applicants before they receive Federal awards. This evaluation may incorporate results of the evaluation of the applicant's eligibility or the quality of its application. If the Federal awarding agency determines that a Federal award will be made, special conditions that correspond to the degree of risk assessed may be applied to the Federal award. Criteria to be evaluated must be described in the announcement of funding opportunity described in § 200.203 Notices of funding opportunities.
-
-(c) In evaluating risks posed by applicants, the Federal awarding agency may use a risk-based approach and may consider any items such as the following:
-
-(1) Financial stability;
-
-(2) Quality of management systems and ability to meet the management standards prescribed in this part;
-
-(3) History of performance. The applicant's record in managing Federal awards, if it is a prior recipient of Federal awards, including timeliness of compliance with applicable reporting requirements, conformance to the terms and conditions of previous Federal awards, and if applicable, the extent to which any previously awarded amounts will be expended prior to future awards;
-
-(4) Reports and findings from audits performed under Subpart F - Audit Requirements of this part or the reports and findings of any other available audits; and
-
-(5) The applicant's ability to effectively implement statutory, regulatory, or other requirements imposed on non-Federal entities.
-
-(d) In addition to this review, the Federal awarding agency must comply with the guidelines on governmentwide suspension and debarment in 2 CFR part 180, and must require non-Federal entities to comply with these provisions. These provisions restrict Federal awards, subawards and contracts with certain parties that are debarred, suspended or otherwise excluded from or ineligible for participation in Federal programs or activities.
-
-[78 FR 78608, Dec. 26, 2013, as amended at 79 FR 75882, Dec. 19, 2014; 80 FR 43308, July 22, 2015; 80 FR 69111, Nov. 9, 2015]
+For discretionary Federal awards, unless prohibited by Federal statute, the Federal awarding agency must design and execute a merit review process for applications, with the objective of selecting recipients most likely to be successful in delivering results based on the program objectives outlined in section § 200.202. A merit review is an objective process of evaluating Federal award applications in accordance with written standards set forth by the Federal awarding agency. This process must be described or incorporated by reference in the applicable funding opportunity (see appendix I to this part.). See also § 200.204. The Federal awarding agency must also periodically review its merit review process.

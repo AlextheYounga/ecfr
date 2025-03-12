@@ -1,5 +1,7 @@
 ##### § 422.1094 Notice and effect of revised decision. #####
 
+Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
+
 (a) *Notice.* The notice mailed to the parties states the basis or reason for the revised decision and informs them of their right to Departmental Appeals Board review of an ALJ revised decision, or to judicial review of a Board reviewed decision.
 
 (b) *Effect* - (1) *ALJ revised decision.* An ALJ revised decision is binding unless it is reviewed by the Departmental Appeals Board.

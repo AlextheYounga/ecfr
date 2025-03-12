@@ -4,7 +4,7 @@
 
 Note to paragraph (a):
 
-Federal Highway Administration (FHWA) regulations incorporate by reference a number of standards, policies, and standard specifications published by the American Association of State Highway and Transportation Officials (AASHTO) and other organizations. (*See* 23 CFR 625.4). Many of these incorporated provisions may be relevant to maintaining structural stability during the erection process. For instance, as of May 17, 2010, in many cases FHWA requires a Registered Engineer to prepare and seal working drawings for falsework used in highway bridge construction. (*See* AASHTO Specifications for Highway Bridges, Div. II, § 3.2.1, 15th edition, 1992, which FHWA incorporates by reference in 23 CFR 625.4). FHWA also encourages compliance with AASHTO Specifications that the FHWA regulations do not currently incorporate by reference. (*See http://www.fhwa.dot.gov/bridge/lrfd/index.htm.*)
+Federal Highway Administration (FHWA) regulations incorporate by reference a number of standards, policies, and standard specifications published by the American Association of State Highway and Transportation Officials (AASHTO) and other organizations. (*See* 23 CFR 625.4). Many of these incorporated provisions may be relevant to maintaining structural stability during the erection process. For instance, as of May 17, 2010, in many cases FHWA requires a Registered Engineer to prepare and seal working drawings for falsework used in highway bridge construction. (*See* AASHTO Specifications for Highway Bridges, Div. II, § 3.2.1, 15th edition, 1992, which FHWA incorporates by reference in 23 CFR 625.4). FHWA also encourages compliance with AASHTO Specifications that the FHWA regulations do not currently incorporate by reference. (*See**http://www.fhwa.dot.gov/bridge/lrfd/index.htm.*)
 
 (b) The following additional requirements shall apply for multi-story structures:
 
@@ -14,7 +14,7 @@ Federal Highway Administration (FHWA) regulations incorporate by reference a num
 
 (3) A fully planked or decked floor or nets shall be maintained within two stories or 30 feet (9.1 m), whichever is less, directly under any erection work being performed.
 
-(c) *Walking/working surfaces - shear connectors and other similar devices* - (1) *Tripping hazards.* Shear connectors (such as headed steel studs, steel bars or steel lugs), reinforcing bars, deformed anchors or threaded studs shall not be attached to the top flanges of beams, joists or beam attachments so that they project vertically from or horizontally across the top flange of the member until after the metal decking, or other walking/working surface, has been installed.
+(c) *Walking/working surfaces—shear connectors and other similar devices*—(1) *Tripping hazards.* Shear connectors (such as headed steel studs, steel bars or steel lugs), reinforcing bars, deformed anchors or threaded studs shall not be attached to the top flanges of beams, joists or beam attachments so that they project vertically from or horizontally across the top flange of the member until after the metal decking, or other walking/working surface, has been installed.
 
 (2) *Installation of shear connectors on composite floors, roofs and bridge decks.* When shear connectors are used in construction of composite floors, roofs and bridge decks, employees shall lay out and install the shear connectors after the metal decking has been installed, using the metal decking as a working platform. Shear connectors shall not be installed from within a controlled decking zone (CDZ), as specified in § 1926.760(c)(7).
 
@@ -24,7 +24,7 @@ Federal Highway Administration (FHWA) regulations incorporate by reference a num
 
 (3) Plumbing-up equipment shall be removed only with the approval of a competent person.
 
-(e) *Metal decking* - (1) *Hoisting, landing and placing of metal decking bundles.* (i) Bundle packaging and strapping shall not be used for hoisting unless specifically designed for that purpose.
+(e) *Metal decking*—(1) *Hoisting, landing and placing of metal decking bundles.* (i) Bundle packaging and strapping shall not be used for hoisting unless specifically designed for that purpose.
 
 (ii) If loose items such as dunnage, flashing, or other materials are placed on the top of metal decking bundles to be hoisted, such items shall be secured to the bundles.
 

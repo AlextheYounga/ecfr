@@ -1,6 +1,6 @@
 ##### § 200.311 Real property. #####
 
-(a) *Title.* Subject to the obligations and conditions set forth in this section, title to real property acquired or improved under a Federal award will vest upon acquisition in the non-Federal entity.
+(a) *Title.* Subject to the requirements and conditions set forth in this section, title to real property acquired or improved under a Federal award will vest upon acquisition in the non-Federal entity.
 
 (b) *Use.* Except as otherwise provided by Federal statutes or by the Federal awarding agency, real property will be used for the originally authorized purpose as long as needed for that purpose, during which time the non-Federal entity must not dispose of or encumber its title or other interests.
 
@@ -11,5 +11,3 @@
 (2) Sell the property and compensate the Federal awarding agency. The amount due to the Federal awarding agency will be calculated by applying the Federal awarding agency's percentage of participation in the cost of the original purchase (and cost of any improvements) to the proceeds of the sale after deduction of any actual and reasonable selling and fixing-up expenses. If the Federal award has not been closed out, the net proceeds from sale may be offset against the original cost of the property. When the non-Federal entity is directed to sell property, sales procedures must be followed that provide for competition to the extent practicable and result in the highest possible return.
 
 (3) Transfer title to the Federal awarding agency or to a third party designated/approved by the Federal awarding agency. The non-Federal entity is entitled to be paid an amount calculated by applying the non-Federal entity's percentage of participation in the purchase of the real property (and cost of any improvements) to the current fair market value of the property.
-
-[78 FR 78608, Dec. 26, 2013, as amended at 79 FR 75884, Dec. 19, 2014]

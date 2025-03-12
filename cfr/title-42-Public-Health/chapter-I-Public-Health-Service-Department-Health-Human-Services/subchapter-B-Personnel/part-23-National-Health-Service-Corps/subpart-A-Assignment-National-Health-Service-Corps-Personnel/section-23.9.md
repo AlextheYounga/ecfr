@@ -1,5 +1,7 @@
 ##### § 23.9 What must an entity to which National Health Service Corps personnel are assigned (i.e., a National Health Service Corps site) charge for the provision of health services by assigned personnel? #####
 
+Link to an amendment published at 85 FR 72908, Nov. 16, 2020.
+
 (a) Except as provided in paragraph (b) of this section, individuals receiving services from assigned National Health Service Corps personnel must be charged on a fee-for-service or other basis at a rate which is computed to permit recovery of the value of the services and is approved by the Secretary.
 
 (b) In determining whether to approve fees to be charged for health services, the Secretary will consider: The costs to the National Health Service Corps of providing the health services; the costs to the health manpower shortage area for providing the services; and the charges for similar services by other practitioners or facilities in or nearby the health manpower shortage area. However, if assigned National Health Service Corps personnel are providing services within the framework of an established health services delivery system, the Secretary may approve the fees charged under that system without regard to the foregoing factors.

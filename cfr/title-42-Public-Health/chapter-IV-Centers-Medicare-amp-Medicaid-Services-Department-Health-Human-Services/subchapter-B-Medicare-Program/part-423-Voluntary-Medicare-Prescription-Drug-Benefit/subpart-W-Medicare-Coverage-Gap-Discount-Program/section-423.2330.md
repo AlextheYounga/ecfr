@@ -1,5 +1,7 @@
 ##### § 423.2330 Manufacturer discount payment audit and dispute resolution. #####
 
+Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
+
 (a) *Third-party Administration (TPA) audits.* (1) Manufacturers participating in the Discount Program may conduct periodic audits, no more often than annually, directly or through third parties as specified in this section.
 
 (2) The manufacturer must provide the TPA with 60 days notice of the reasonable basis for the audit and a description of the information required for the audit.

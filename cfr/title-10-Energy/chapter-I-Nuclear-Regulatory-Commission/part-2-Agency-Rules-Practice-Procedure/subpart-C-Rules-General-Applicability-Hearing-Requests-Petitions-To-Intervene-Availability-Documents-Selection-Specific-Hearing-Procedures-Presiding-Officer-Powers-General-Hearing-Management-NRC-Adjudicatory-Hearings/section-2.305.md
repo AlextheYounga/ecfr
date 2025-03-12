@@ -1,7 +1,5 @@
 ##### § 2.305 Service of documents, methods, proof. #####
 
-Link to an amendment published at 85 FR 65661, Oct. 16, 2020.
-
 (a) *Service of documents by the Commission.* Except for subpoenas, the Commission shall serve all orders, decisions, notices, and other documents to all participants, by the same delivery method those participants use to file and accept service.
 
 (b) *Who may be served.* Any document required to be served upon a participant shall be served upon that person or upon the representative designated by the participant or by law to receive service of documents. When a participant has appeared by attorney, service shall be made upon the attorney of record.
@@ -32,7 +30,7 @@ Link to an amendment published at 85 FR 65661, Oct. 16, 2020.
 
 (4) The addresses for the Secretary are:
 
-(i) Internet: The E-Filing system at *http://www.nrc.gov.*
+(i) Internet: The E-Filing system at *https://www.nrc.gov/site-help/e-submittals.html*
 
 (ii) First-class mail: Office of the Secretary, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001, Attention: Rulemakings and Adjudications Staff; and
 
@@ -52,8 +50,8 @@ Link to an amendment published at 85 FR 65661, Oct. 16, 2020.
 
 (6) When two or more methods of service are required, service is considered complete when service by each method is complete under paragraphs (f)(1)-(4) of this section.
 
-(g) *Service on the NRC staff.* (1) Service shall be made upon the NRC staff of all documents required to be filed with participants and the presiding officer in all proceedings, including those proceedings where the NRC staff informs the presiding officer of its determination not to participate as a party. Service upon the NRC staff shall be by the same or equivalent method as service upon the Office of the Secretary and the presiding officer, e.g., electronically, personal delivery or courier, express mail, or expedited delivery service. If no attorney representing the NRC Staff has filed a notice of appearance in the proceeding and service is not being made through the E-Filing System, service will be made using the following addresses, as applicable: by delivery to the Associate General Counsel for Hearings, Enforcement & Administration, One White Flint North, 11555 Rockville Pike, Rockville MD 20852-0001; by mail addressed to the Associate General Counsel for Hearings, Enforcement & Administration, U.S. Nuclear Regulatory Commission, Washington DC 20555-0001; by email to *OgcMailCenter.Resource@nrc.gov;* or by facsimile to 301-415-3200.
+(g) *Service on the NRC staff.* (1) Service shall be made upon the NRC staff of all documents required to be filed with participants and the presiding officer in all proceedings, including those proceedings where the NRC staff informs the presiding officer of its determination not to participate as a party. Service upon the NRC staff shall be by the same or equivalent method as service upon the Office of the Secretary and the presiding officer, e.g., electronically, personal delivery or courier, express mail, or expedited delivery service. If no attorney representing the NRC Staff has filed a notice of appearance in the proceeding and service is not being made through the E-Filing System, service will be made using the following addresses, as applicable: by delivery to the Deputy General Counsel, One White Flint North, 11555 Rockville Pike, Rockville MD 20852-0001; by mail addressed to the Deputy General Counsel, U.S. Nuclear Regulatory Commission, Washington DC 20555-0001; by email to *RidsOgcMailCenter.Resource@nrc.gov;*  or by facsimile to 301-415-3200.
 
 (2) If the NRC staff decides not to participate as a party in a proceeding, it shall, in its notification to the presiding officer and participants of its determination not to participate, designate a person and address for service of documents.
 
-[72 FR 49150, Aug. 28, 2007, as amended at 77 FR 46590, Aug. 3, 2012; 81 FR 86909, Dec. 2, 2016]
+[72 FR 49150, Aug. 28, 2007, as amended at 77 FR 46590, Aug. 3, 2012; 81 FR 86909, Dec. 2, 2016; 85 FR 65661, Oct. 16, 2020]

@@ -1,7 +1,5 @@
 ##### § 200.447 Insurance and indemnification. #####
 
-Link to an amendment published at 85 FR 49568, Aug. 13, 2020.
-
 (a) Costs of insurance required or approved and maintained, pursuant to the Federal award, are allowable.
 
 (b) Costs of other insurance in connection with the general conduct of activities are allowable subject to the following limitations:
@@ -12,7 +10,7 @@ Link to an amendment published at 85 FR 49568, Aug. 13, 2020.
 
 (3) Costs allowed for business interruption or other similar insurance must exclude coverage of management fees.
 
-(4) Costs of insurance on the lives of trustees, officers, or other employees holding positions of similar responsibilities are allowable only to the extent that the insurance represents additional compensation (see § 200.431 Compensation - fringe benefits). The cost of such insurance when the non-Federal entity is identified as the beneficiary is unallowable.
+(4) Costs of insurance on the lives of trustees, officers, or other employees holding positions of similar responsibilities are allowable only to the extent that the insurance represents additional compensation (see § 200.431). The cost of such insurance when the non-Federal entity is identified as the beneficiary is unallowable.
 
 (5) Insurance against defects. Costs of insurance with respect to any costs incurred to correct defects in the non-Federal entity's materials or workmanship are unallowable.
 
@@ -43,3 +41,5 @@ Link to an amendment published at 85 FR 49568, Aug. 13, 2020.
 (e) Insurance refunds must be credited against insurance costs in the year the refund is received.
 
 (f) Indemnification includes securing the non-Federal entity against liabilities to third persons and other losses not compensated by insurance or otherwise. The Federal Government is obligated to indemnify the non-Federal entity only to the extent expressly provided for in the Federal award, except as provided in paragraph (c) of this section.
+
+[78 FR 78608, Dec. 26, 2013, as amended at 85 FR 49568, Aug. 13, 2020]

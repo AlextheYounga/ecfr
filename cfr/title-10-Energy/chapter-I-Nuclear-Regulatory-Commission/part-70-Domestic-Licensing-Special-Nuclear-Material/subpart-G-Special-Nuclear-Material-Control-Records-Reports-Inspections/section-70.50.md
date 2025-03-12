@@ -1,7 +1,5 @@
 ##### § 70.50 Reporting requirements. #####
 
-Link to an amendment published at 85 FR 65664, Oct. 16, 2020.
-
 (a) *Immediate report.* Each licensee shall notify the NRC as soon as possible but not later than 4 hours after the discovery of an event that prevents immediate protective actions necessary to avoid exposures to radiation or radioactive materials that could exceed regulatory limits or releases of licensed material that could exceed regulatory limits (events may include fires, explosions, toxic gas releases, etc.).
 
 (b) *Twenty-four hour report.* Each licensee shall notify the NRC within 24 hours after the discovery of any of the following events involving licensed material:
@@ -32,9 +30,7 @@ Link to an amendment published at 85 FR 65664, Oct. 16, 2020.
 
 (c) *Preparation and submission of reports.* Reports made by licensees in response to the requirements of this section must be made as follows:
 
-(1) Licensees shall make reports required by paragraphs (a) and (b) of this section, and by § 70.74 and Appendix A of this part, if applicable, by telephone to the NRC Operations Center.1 To the extent that the information is available at the time of notification, the information provided in these reports must include:
-
-1 The commercial telephone number for the NRC Operations Center is (301) 816-5100.
+(1) Licensees shall make reports required by paragraphs (a) and (b) of this section, and by § 70.74 and appendix A of this part, if applicable, by telephone to the NRC Headquarters Operations Center at the numbers specified in appendix A to part 73 of this chapter. To the extent that the information is available at the time of notification, the information provided in these reports must include:
 
 (i) Caller's name, position title, and call-back telephone number;
 
@@ -74,4 +70,4 @@ Link to an amendment published at 85 FR 65664, Oct. 16, 2020.
 
 (d) The provisions of § 70.50 do not apply to licensees subject to § 50.72. They do apply to those Part 50 licensees possessing material licensed under Part 70 that are not subject to the notification requirements in § 50.72.
 
-[56 FR 40769, Aug. 16, 1991; 56 FR 64980, Dec. 13, 1991, as amended at 59 FR 14087, Mar. 25, 1994; 65 FR 56226, Sept. 18, 2000; 68 FR 58817, Oct. 10, 2003; 79 FR 57725, Sept. 26, 2014]
+[56 FR 40769, Aug. 16, 1991; 56 FR 64980, Dec. 13, 1991, as amended at 59 FR 14087, Mar. 25, 1994; 65 FR 56226, Sept. 18, 2000; 68 FR 58817, Oct. 10, 2003; 79 FR 57725, Sept. 26, 2014; 85 FR 65663, Oct. 16, 2020]

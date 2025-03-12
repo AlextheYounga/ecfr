@@ -1,7 +1,5 @@
 ##### § 75.10 Facilities. #####
 
-Link to an amendment published at 85 FR 65665, Oct. 16, 2020.
-
 (a) Each applicant, licensee, or certificate holder subject to the provisions of this Part shall submit facility information, in response to written notification from the NRC, with respect to any facility that the NRC indicates has been identified under the U.S.-IAEA Safeguards Agreement, the Initial Protocol to the Agreement, or meets the Additional Protocol reporting criteria, and in which the applicant, licensee, or certificate holder carries out licensed activities. (The NRC request must state whether the facility has been identified under Article 39(b) of the principal text of the U.S.-IAEA Safeguards Agreement or Article 2(a) of the Initial protocol.) The applicant, licensee, or certificate holder shall submit the requested information to the NRC within the period specified in the NRC's request.
 
 (b) Facility information includes:
@@ -22,7 +20,7 @@ Link to an amendment published at 85 FR 65665, Oct. 16, 2020.
 
 (2) Regarding any other modification relevant to the application of the provisions of the U.S.-IAEA Safeguards Agreement: At the time the first inventory change report is submitted after the modification is completed.
 
-(d) The information specified in paragraphs (b) and (c) of this section, except for the information specified in paragraph (b)(5) of this section, must be prepared on IAEA approved Design Information Questionnaire forms (Form N-71 and associated forms or other forms supplied by the NRC). The information must be sufficiently detailed to enable knowledgeable determinations to be made in the development of Facility Attachments or amendments thereto, including:
+(d) The information specified in paragraphs (b) and (c) of this section, except for the information specified in paragraph (b)(5) of this section, must be prepared on IAEA Design Information Questionnaire forms or other forms supplied by the NRC. The information must be sufficiently detailed to enable knowledgeable determinations to be made in the development of Facility Attachments or amendments thereto, including:
 
 (1) Identification of the features of facilities and nuclear material relevant to the application of safeguards to nuclear material in sufficient detail to facilitate verification;
 
@@ -46,4 +44,4 @@ Link to an amendment published at 85 FR 65665, Oct. 16, 2020.
 
 (h) Information must be provided on the need to manage IAEA access to the facility to protect health and safety or to protect classified, proprietary, or other sensitive information, and on other protective measures that should be implemented should an IAEA access be requested.
 
-[73 FR 78611, Dec. 23, 2008, as amended at 83 FR 19611, May 4, 2018]
+[73 FR 78611, Dec. 23, 2008, as amended at 83 FR 19611, May 4, 2018; 85 FR 65664, Oct. 16, 2020]

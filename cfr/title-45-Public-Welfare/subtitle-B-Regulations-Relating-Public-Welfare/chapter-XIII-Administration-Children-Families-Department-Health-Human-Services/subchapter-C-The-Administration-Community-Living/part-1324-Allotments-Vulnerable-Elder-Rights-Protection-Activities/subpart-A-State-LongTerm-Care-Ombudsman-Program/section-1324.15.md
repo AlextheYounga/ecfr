@@ -1,5 +1,7 @@
 ##### § 1324.15 State agency responsibilities related to the Ombudsman program. #####
 
+Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
+
 (a) In addition to the responsibilities set forth in part 1321 of this chapter, the State agency shall ensure that the Ombudsman complies with the relevant provisions of the Act and of this rule.
 
 (b) The State agency shall ensure, through the development of policies, procedures, and other means, consistent with § 1324.11(e)(2), that the Ombudsman program has sufficient authority and access to facilities, residents, and information needed to fully perform all of the functions, responsibilities, and duties of the Office.

@@ -1,5 +1,7 @@
 ##### § 25.33 Animal drugs. #####
 
+Link to an amendment published at 85 FR 72907, Nov. 16, 2020.
+
 The classes of actions listed in this section are categorically excluded and, therefore, ordinarily do not require the preparation of an EA or an EIS:
 
 (a) Action on an NADA, abbreviated application, request for determination of eligibility for indexing, a supplement to such applications, or a modification of an index listing, if the action does not increase the use of the drug. Actions to which this categorical exclusion applies may include:

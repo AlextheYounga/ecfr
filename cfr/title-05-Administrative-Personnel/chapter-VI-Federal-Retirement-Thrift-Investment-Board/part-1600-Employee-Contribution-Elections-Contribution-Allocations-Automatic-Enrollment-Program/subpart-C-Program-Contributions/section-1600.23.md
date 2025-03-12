@@ -1,5 +1,7 @@
 ##### § 1600.23 Catch-up contributions. #####
 
+Link to an amendment published at 85 FR 72914, Nov. 16, 2020.
+
 (a) A participant may make traditional catch-up contributions or Roth catch-up contributions from basic pay at any time during the calendar year if he or she:
 
 (1) Is at least age 50 by the end of the calendar year;

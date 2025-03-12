@@ -1,5 +1,7 @@
 ##### § 1324.21 Conflicts of interest. #####
 
+Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
+
 The State agency and the Ombudsman shall consider both the organizational and individual conflicts of interest that may impact the effectiveness and credibility of the work of the Office. In so doing, both the State agency and the Ombudsman shall be responsible to identify actual and potential conflicts and, where a conflict has been identified, to remove or remedy such conflict as set forth in paragraphs (b) and (d) of this section.
 
 (a) *Identification of organizational conflicts.* In identifying conflicts of interest pursuant to section 712(f) of the Act, the State agency and the Ombudsman shall consider the organizational conflicts that may impact the effectiveness and credibility of the work of the Office. Organizational conflicts of interest include, but are not limited to, placement of the Office, or requiring that an Ombudsman or representative of the Office perform conflicting activities, in an organization that:

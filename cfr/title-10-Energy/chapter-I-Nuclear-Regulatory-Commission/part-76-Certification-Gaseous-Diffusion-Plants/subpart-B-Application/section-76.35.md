@@ -1,7 +1,5 @@
 ##### § 76.35 Contents of application. #####
 
-Link to an amendment published at 85 FR 65665, Oct. 16, 2020.
-
 The application for a certificate of compliance must include the information identified in this section.
 
 (a) A safety analysis report which must include the following information:
@@ -62,7 +60,7 @@ The application for a certificate of compliance must include the information ide
 
 (k) A plan describing the facility's proposed security procedures and controls as set forth in § 95.15(b) of this chapter for protection of classified matter.
 
-(l)(1) In response to a written request by the Commission, each applicant for a certificate and each recipient of a certificate shall submit facility information, as described in § 75.10 of this chapter, on Form N-71 and associated forms and site information on DOC/NRC Form AP-A and associated forms;
+(l)(1) In response to a written request by the Commission, each applicant for a certificate and each recipient of a certificate shall submit facility information, as described in § 75.10 of this chapter, on IAEA Design Information Questionnaire forms and site information on DOC/NRC Form AP-A and associated forms;
 
 (2) As required by the Additional Protocol, shall submit location information described in § 75.11 of this chapter on DOC/NRC Form AP-1 and associated forms; and
 
@@ -72,4 +70,4 @@ The application for a certificate of compliance must include the information ide
 
 (n) A description of the funding program to be established to ensure that funds will be set aside and available for those aspects of the ultimate disposal of waste and depleted uranium, decontamination and decommissioning, relating to the gaseous diffusion plants leased to the Corporation by the Department of Energy, which are the financial responsibility of the Corporation. The Corporation shall establish financial surety arrangements to ensure that sufficient funds will be available for the ultimate disposal of waste and depleted uranium, and decontamination and decommissioning activities which are the financial responsibility of the Corporation. The funding mechanism, such as prepayment, surety, insurance, or external sinking fund, must ensure availability of funds for any activities which are required to be completed both before or after the return of the gaseous diffusion facilities to the department of Energy in accordance with the lease between the Department and the Corporation. The funding program must contain a basis for cost estimates used to establish funding levels and must contain means of adjusting cost estimates and associated funding levels over the duration of the lease. The funding program need not address funding for those aspects of decontamination and decommissioning of the gaseous diffusion plants assigned to the Department of Energy under the Atomic Energy Act of 1954, as amended. The Corporation should address the adequacy of the financing mechanism selected in its periodic application for certification.
 
-[59 FR 48960, Sept. 23, 1994, as amended at 62 FR 6670, Feb. 12, 1997; 64 FR 44649, Aug. 17, 1999; 73 FR 78614, Dec. 23, 2008]
+[59 FR 48960, Sept. 23, 1994, as amended at 62 FR 6670, Feb. 12, 1997; 64 FR 44649, Aug. 17, 1999; 73 FR 78614, Dec. 23, 2008; 85 FR 65664, Oct. 16, 2020]

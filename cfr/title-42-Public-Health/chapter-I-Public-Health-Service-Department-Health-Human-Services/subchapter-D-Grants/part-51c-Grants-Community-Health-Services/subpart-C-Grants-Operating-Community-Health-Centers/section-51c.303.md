@@ -1,5 +1,7 @@
 ##### § 51c.303 Project elements. #####
 
+Link to an amendment published at 85 FR 72908, Nov. 16, 2020.
+
 A community health center supported under this subpart must:
 
 (a) Provide the health services of the center so that such services are available and accessible promptly, as appropriate, and in a manner which will assure continuity of service to the residents of the center's catchment area.

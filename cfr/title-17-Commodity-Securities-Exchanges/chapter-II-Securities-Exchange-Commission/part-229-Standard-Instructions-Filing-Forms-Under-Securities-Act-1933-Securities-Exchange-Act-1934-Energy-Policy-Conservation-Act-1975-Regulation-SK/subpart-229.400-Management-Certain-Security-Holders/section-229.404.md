@@ -1,7 +1,5 @@
 ##### § 229.404 (Item 404) Transactions with related persons, promoters and certain control persons. #####
 
-Link to an amendment published at 85 FR 66140, Oct. 16, 2020.
-
 (a) *Transactions with related persons.* Describe any transaction, since the beginning of the registrant's last fiscal year, or any currently proposed transaction, in which the registrant was or is to be a participant and the amount involved exceeds $120,000, and in which any related person had or will have a direct or indirect material interest. Disclose the following information regarding the transaction:
 
 (1) The name of the related person and the basis on which the person is a related person.
@@ -46,7 +44,7 @@ a. The following items of indebtedness may be excluded from the calculation of t
 
 b. Disclosure need not be provided of any indebtedness transaction for the related persons specified in Instruction 1.b. to paragraph (a) of this Item; and
 
-c. If the lender is a bank, savings and loan association, or broker-dealer extending credit under Federal Reserve Regulation T (12 CFR part 220) and the loans are not disclosed as nonaccrual, past due, restructured or potential problems (see Item III.C.1. and 2. of Industry Guide 3, Statistical Disclosure by Bank Holding Companies (17 CFR 229.802(c))), disclosure under paragraph (a) of this Item may consist of a statement, if such is the case, that the loans to such persons:
+c. If the lender is a bank, savings and loan association, or broker-dealer extending credit under Federal Reserve Regulation T (12 CFR part 220) and the loans are not disclosed as past due, nonaccrual or troubled debt restructurings in the consolidated financial statements, disclosure under paragraph (a) of this Item may consist of a statement, if such is the case, that the loans to such persons:
 
 i. Were made in the ordinary course of business;
 
@@ -120,4 +118,4 @@ c. The interest of the related person arises solely from the ownership of a clas
 
 2. A foreign private issuer will be deemed to comply with this Item if it provides the information required by Item 7.B. of Form 20-F (17 CFR 249.220f) with more detailed information provided if otherwise made publicly available or required to be disclosed by the issuer's home jurisdiction or a market in which its securities are listed or traded.
 
-[71 FR 53252, Sept. 8, 2006, as amended at 73 FR 964, Jan. 4, 2008]
+[71 FR 53252, Sept. 8, 2006, as amended at 73 FR 964, Jan. 4, 2008; 85 FR 66140, Oct. 16, 2020]

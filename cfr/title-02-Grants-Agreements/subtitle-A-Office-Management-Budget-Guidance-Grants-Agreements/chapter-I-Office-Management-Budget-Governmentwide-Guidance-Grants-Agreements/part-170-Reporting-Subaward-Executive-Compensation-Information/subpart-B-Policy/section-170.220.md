@@ -1,9 +1,7 @@
 ##### § 170.220 Award term. #####
 
-Link to an amendment published at 85 FR 49526, Aug. 13, 2020.
+(a) To accomplish the purposes described in § 170.100, a Federal awarding agency must include the award term in appendix A to this part in each Federal award to a recipient under which the total funding is anticipated to equal or exceed $30,000 in Federal funding.
 
-(a) To accomplish the purposes described in § 170.100, an agency must include the award term in Appendix A to this part in each award to a non-Federal entity under which the total funding will include $25,000 or more in Federal funding at any time during the project or program period.
+(b) A Federal awarding agency, consistent with paragraph (a) of this section, is not required to include the award term in appendix A to this part if it determines that there is no possibility that the total amount of Federal funding under the Federal award will equal or exceed $30,000. However, the Federal awarding agency must subsequently modify the award to add the award term if changes in circumstances increase the total Federal funding under the award is anticipated to equal or exceed $30,000 during the period of performance.
 
-(b) An agency -
-
-(1) Consistent with paragraph (a) of this section, is not required to include the award term in Appendix A to this part if it determines that there is no possibility that the total amount of Federal funding under the award will equal or exceed $25,000. However, the agency must subsequently amend the award to add the award term if changes in circumstances increase the total Federal funding under the award to $25,000 or more during the project or program period.
+[85 FR 49526, Aug. 13, 2020]

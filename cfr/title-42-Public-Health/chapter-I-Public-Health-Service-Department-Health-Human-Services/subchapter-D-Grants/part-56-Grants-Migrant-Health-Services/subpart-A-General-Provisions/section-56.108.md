@@ -1,5 +1,7 @@
 ##### § 56.108 Use of grant funds. #####
 
+Link to an amendment published at 85 FR 72908, Nov. 16, 2020.
+
 (a) Any funds granted pursuant to this part, as well as other funds to be used in performance of the approved project, may be expended solely for carrying out the approved project in accordance with section 319 of the Act, the applicable regulations of this part, the terms and conditions of the award, and the applicable cost principles prescribed in 45 CFR part 75, subpart E.
 
 (b) Project funds awarded under this part may be used for, but need not be limited to, the following:

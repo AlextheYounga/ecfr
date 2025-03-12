@@ -1,6 +1,4 @@
-##### § 124.111 Do Community Development Corporations (CDCs) have any special rules for applying to the 8(a) BD program? #####
-
-Link to an amendment published at 85 FR 66184, Oct. 16, 2020.
+##### § 124.111 Do Community Development Corporations (CDCs) have any special rules for applying to and remaining eligible for the 8(a) BD program? #####
 
 (a) Concerns owned at least 51 percent by CDCs (or a wholly owned business entity of a CDC) are eligible for participation in the 8(a) BD program and other federal programs requiring SBA to determine social and economic disadvantage as a condition of eligibility. These concerns must meet all eligibility criteria set forth in § 124.101 through § 124.108 and § 124.112 to the extent that they are not inconsistent with this section.
 
@@ -12,7 +10,13 @@ Link to an amendment published at 85 FR 66184, Oct. 16, 2020.
 
 (2) SBA does not contemplate a finding of affiliation where a CDC-owned concern appears to have obtained an unfair competitive advantage in a local market, but remains competitive, but not dominant, on a national basis.
 
-(d) A CDC cannot own 51% or more of another firm which, either at the time of application or within the previous two years, has been operating in the 8(a) program under the same primary NAICS code as the applicant. A CDC may, however, own a Participant or an applicant that conducts or will conduct secondary business in the 8(a) BD program under the same NAICS code that a current Participant owned by the CDC operates in the 8(a) BD program as its primary SIC code. In addition, once an applicant is admitted to the 8(a) BD program, it may not receive an 8(a) sole source contract that is a follow-on contract to an 8(a) contract that was performed immediately previously by another Participant (or former Participant) owned by the same CDC. For purposes of this paragraph, the same primary NAICS code means the six digit NAICS code having the same corresponding size standard.
+(3) Notwithstanding § 124.105(i), where a CDC merely reorganizes its ownership of a Participant in the 8(a) BD program by inserting or removing a wholly-owned business entity between the CDC and the Participant, the Participant need not request a change of ownership from SBA. The Participant must, however, notify SBA of the change within 30 days of the transfer.
+
+(d) A CDC cannot own 51% or more of another firm which, either at the time of application or within the previous two years, has been operating in the 8(a) program under the same primary NAICS code as the applicant. For purposes of this paragraph, the same primary NAICS code means the six-digit NAICS code having the same corresponding size standard. A CDC may, however, own a Participant or an applicant that conducts or will conduct secondary business in the 8(a) BD program under the same NAICS code that a current Participant owned by the CDC operates in the 8(a) BD program as its primary SIC code.
+
+(1) Once an applicant is admitted to the 8(a) BD program, it may not receive an 8(a) sole source contract that is a follow-on contract to an 8(a) contract that was performed immediately previously by another Participant (or former Participant) owned by the same CDC. However, a CDC-owned concern may receive a follow-on sole source 8(a) contract to a requirement that it performed through the 8(a) program.
+
+(2) If the primary NAICS code of a Participant owned by a CDC is changed pursuant to § 124.112(e), the CDC can submit an application and qualify another firm owned by the CDC for participation in the 8(a) BD program under the NAICS code that was the previous primary NAICS code of the Participant whose primary NAICS code was changed.
 
 (e) SBA does not deem an individual involved in the management or daily business operations of a CDC-owned concern to have used his or her individual eligibility within the meaning of § 124.108(b).
 
@@ -26,4 +30,4 @@ Link to an amendment published at 85 FR 66184, Oct. 16, 2020.
 
 (g) A CDC-owned applicant and all of its principals must have good character as set forth in § 124.108(a).
 
-[63 FR 35739, June 30, 1998, as amended at 76 FR 8257, Feb. 11, 2011; 77 FR 28237, May 14, 2012; 81 FR 48581, July 25, 2016]
+[63 FR 35739, June 30, 1998, as amended at 76 FR 8257, Feb. 11, 2011; 77 FR 28237, May 14, 2012; 81 FR 48581, July 25, 2016; 85 FR 66184, Oct. 16, 2020]

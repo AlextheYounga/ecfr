@@ -1,10 +1,8 @@
 ##### § 200.516 Audit findings. #####
 
-Link to an amendment published at 85 FR 49574, Aug. 13, 2020.
-
 (a) *Audit findings reported.* The auditor must report the following as audit findings in a schedule of findings and questioned costs:
 
-(1) Significant deficiencies and material weaknesses in internal control over major programs and significant instances of abuse relating to major programs. The auditor's determination of whether a deficiency in internal control is a significant deficiency or material weakness for the purpose of reporting an audit finding is in relation to a type of compliance requirement for a major program identified in the Compliance Supplement.
+(1) Significant deficiencies and material weaknesses in internal control over major programs and significant instances of abuse relating to major programs. The auditor's determination of whether a deficiency in internal control is a significant deficiency or a material weakness for the purpose of reporting an audit finding is in relation to a type of compliance requirement for a major program identified in the Compliance Supplement.
 
 (2) Material noncompliance with the provisions of Federal statutes, regulations, or the terms and conditions of Federal awards related to a major program. The auditor's determination of whether a noncompliance with the provisions of Federal statutes, regulations, or the terms and conditions of Federal awards is material for the purpose of reporting an audit finding is in relation to a type of compliance requirement for a major program identified in the compliance supplement.
 
@@ -16,11 +14,11 @@ Link to an amendment published at 85 FR 49574, Aug. 13, 2020.
 
 (6) Known or likely fraud affecting a Federal award, unless such fraud is otherwise reported as an audit finding in the schedule of findings and questioned costs for Federal awards. This paragraph does not require the auditor to report publicly information which could compromise investigative or legal proceedings or to make an additional reporting when the auditor confirms that the fraud was reported outside the auditor's reports under the direct reporting requirements of GAGAS.
 
-(7) Instances where the results of audit follow-up procedures disclosed that the summary schedule of prior audit findings prepared by the auditee in accordance with § 200.511 Audit findings follow-up, paragraph (b) materially misrepresents the status of any prior audit finding.
+(7) Instances where the results of audit follow-up procedures disclosed that the summary schedule of prior audit findings prepared by the auditee in accordance with § 200.511(b) materially misrepresents the status of any prior audit finding.
 
 (b) *Audit finding detail and clarity.* Audit findings must be presented in sufficient detail and clarity for the auditee to prepare a corrective action plan and take corrective action, and for Federal agencies and pass-through entities to arrive at a management decision. The following specific information must be included, as applicable, in audit findings:
 
-(1) Federal program and specific Federal award identification including the CFDA title and number, Federal award identification number and year, name of Federal agency, and name of the applicable pass-through entity. When information, such as the CFDA title and number or Federal award identification number, is not available, the auditor must provide the best information available to describe the Federal award.
+(1) Federal program and specific Federal award identification including the Assistance Listings title and number, Federal award identification number and year, name of Federal agency, and name of the applicable pass-through entity. When information, such as the Assistance Listings title and number or Federal award identification number, is not available, the auditor must provide the best information available to describe the Federal award.
 
 (2) The criteria or specific requirement upon which the audit finding is based, including the Federal statutes, regulations, or the terms and conditions of the Federal awards. Criteria generally identify the required or desired state or expectation with respect to the program or operation. Criteria provide a context for evaluating evidence and understanding findings.
 
@@ -30,7 +28,7 @@ Link to an amendment published at 85 FR 49574, Aug. 13, 2020.
 
 (5) The possible asserted effect to provide sufficient information to the auditee and Federal agency, or pass-through entity in the case of a subrecipient, to permit them to determine the cause and effect to facilitate prompt and proper corrective action. A statement of the effect or potential effect should provide a clear, logical link to establish the impact or potential impact of the difference between the condition and the criteria.
 
-(6) Identification of questioned costs and how they were computed. Known questioned costs must be identified by applicable CFDA number(s) and applicable Federal award identification number(s).
+(6) Identification of questioned costs and how they were computed. Known questioned costs must be identified by applicable Assistance Listings number(s) and applicable Federal award identification number(s).
 
 (7) Information to provide proper perspective for judging the prevalence and consequences of the audit findings, such as whether the audit findings represent an isolated instance or a systemic problem. Where appropriate, instances identified must be related to the universe and the number of cases examined and be quantified in terms of dollar value. The auditor should report whether the sampling was a statistically valid sample.
 
@@ -40,4 +38,6 @@ Link to an amendment published at 85 FR 49574, Aug. 13, 2020.
 
 (10) Views of responsible officials of the auditee.
 
-(c) *Reference numbers.* Each audit finding in the schedule of findings and questioned costs must include a reference number in the format meeting the requirements of the data collection form submission required by § 200.512 Report submission, paragraph (b) to allow for easy referencing of the audit findings during follow-up.
+(c) *Reference numbers.* Each audit finding in the schedule of findings and questioned costs must include a reference number in the format meeting the requirements of the data collection form submission required by § 200.512(b) to allow for easy referencing of the audit findings during follow-up.
+
+[78 FR 78608, Dec. 26, 2013, as amended at 85 FR 49574, Aug. 13, 2020]

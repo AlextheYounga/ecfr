@@ -1,6 +1,6 @@
 ##### § 1926.65 Hazardous waste operations and emergency response. #####
 
-(a) *Scope, application, and definitions* - (1) *Scope.* This section covers the following operations, unless the employer can demonstrate that the operation does not involve employee exposure or the reasonable possibility for employee exposure to safety or health hazards:
+(a) *Scope, application, and definitions*—(1) *Scope.* This section covers the following operations, unless the employer can demonstrate that the operation does not involve employee exposure or the reasonable possibility for employee exposure to safety or health hazards:
 
 (i) Clean-up operations required by a governmental body, whether Federal, state, local or other involving hazardous substances that are conducted at uncontrolled hazardous waste sites (including, but not limited to, the EPA's National Priority Site List (NPL), state priority site lists, sites recommended for the EPA NPL, and initial investigations of government identified sites which are conducted before the presence or absence of hazardous substances has been ascertained);
 
@@ -12,9 +12,7 @@
 
 (v) Emergency response operations for releases of, or substantial threats of releases of, hazardous substances without regard to the location of the hazard.
 
-(2) *Application.*
-
-(i) All requirements of 29 CFR parts 1910 and 1926 apply pursuant to their terms to hazardous waste and emergency response operations whether covered by this section or not. If there is a conflict or overlap, the provision more protective of employee safety and health shall apply without regard to 29 CFR 1926.20(e).
+(2) *Application.* (i) All requirements of 29 CFR parts 1910 and 1926 apply pursuant to their terms to hazardous waste and emergency response operations whether covered by this section or not. If there is a conflict or overlap, the provision more protective of employee safety and health shall apply without regard to 29 CFR 1926.20(e).
 
 (ii) Hazardous substance clean-up operations within the scope of paragraphs (a)(1)(i) through (a)(1)(iii) of this section must comply with all paragraphs of this section except paragraphs (p) and (q).
 
@@ -30,7 +28,7 @@ Notes and Exceptions:
 
 (iv) Emergency response operations for releases of, or substantial threats of releases of, hazardous substances which are not covered by paragraphs (a)(1)(i) through (a)(1)(iv) of this section must only comply with the requirements of paragraph (q) of this section.
 
-(3) *Definitions - Buddy system* means a system of organizing employees into work groups in such a manner that each employee of the work group is designated to be observed by at least one other employee in the work group. The purpose of the buddy system is to provide rapid assistance to employees in the event of an emergency.
+(3) *Definitions—Buddy system* means a system of organizing employees into work groups in such a manner that each employee of the work group is designated to be observed by at least one other employee in the work group. The purpose of the buddy system is to provide rapid assistance to employees in the event of an emergency.
 
 *Clean-up operation* means an operation where hazardous substances are removed, contained, incinerated, neutralized, stabilized, cleared-up, or in any other manner processed or handled with the ultimate goal of making the site safer for people or the environment.
 
@@ -52,7 +50,7 @@ Notes and Exceptions:
 
 (D) Hazardous waste as herein defined.
 
-*Hazardous waste* means - (A) A waste or combination of wastes as defined in 40 CFR 261.3, or
+*Hazardous waste* means—(A) A waste or combination of wastes as defined in 40 CFR 261.3, or
 
 (B) Those substances defined as hazardous wastes in 49 CFR 171.8.
 
@@ -60,7 +58,7 @@ Notes and Exceptions:
 
 *Hazardous waste site* or *Site* means any facility or location within the scope of this standard at which hazardous waste operations take place.
 
-*Health hazard* means a chemical or a pathogen where acute or chronic health effects may occur in exposed employees. It also includes stress due to temperature extremes. The term *health hazard* includes chemicals that are classified in accordance with the Hazard Communication Standard, § 1910.1200, as posing one of the following hazardous effects: acute toxicity (any route of exposure); skin corrosion or irritation; serious eye damage or eye irritation; respiratory or skin sensitization; germ cell mutagenicity; carcinogenicity; reproductive toxicity; specific target organ toxicity (single or repeated exposure); aspiration toxicity or simple asphyxiant. (*See* Appendix A to § 1910.1200 - Health Hazard Criteria (Mandatory) for the criteria for determining whether a chemical is classified as a health hazard.)
+*Health hazard* means a chemical or a pathogen where acute or chronic health effects may occur in exposed employees. It also includes stress due to temperature extremes. The term *health hazard* includes chemicals that are classified in accordance with the Hazard Communication Standard, § 1910.1200, as posing one of the following hazardous effects: acute toxicity (any route of exposure); skin corrosion or irritation; serious eye damage or eye irritation; respiratory or skin sensitization; germ cell mutagenicity; carcinogenicity; reproductive toxicity; specific target organ toxicity (single or repeated exposure); aspiration toxicity or simple asphyxiant. (*See* Appendix A to § 1910.1200—Health Hazard Criteria (Mandatory) for the criteria for determining whether a chemical is classified as a health hazard.)
 
 *IDLH* or *Immediately dangerous to life or health* means an atmospheric concentration of any toxic, corrosive or asphyxiant substance that poses an immediate threat to life or would cause irreversible or delayed adverse health effects or would interfere with an individual's ability to escape from a dangerous atmosphere.
 
@@ -110,7 +108,7 @@ Safety and health programs developed and implemented to meet other Federal, stat
 
 (v) *Program availability.* The written safety and health program shall be made available to any contractor or subcontractor or their representative who will be involved with the hazardous waste operation; to employees; to employee designated representatives; to OSHA personnel, and to personnel of other Federal, state, or local agencies with regulatory authority over the site.
 
-(2) *Organizational structure part of the site program* - (i) The organizationa1 structure part of the program shall establish the specific chain of command and specify the overall responsibilities of supervisors and employees. It shall include, at a minimum, the following elements:
+(2) *Organizational structure part of the site program.* (i) The organizationa1 structure part of the program shall establish the specific chain of command and specify the overall responsibilities of supervisors and employees. It shall include, at a minimum, the following elements:
 
 (A) A general supervisor who has the responsibility and authority to direct all hazardous waste operations.
 
@@ -136,7 +134,7 @@ Safety and health programs developed and implemented to meet other Federal, stat
 
 (vi) The comprehensive workplan shall provide for the implementation of the medical surveillance program described in paragraph (f) of this section.
 
-(4) *Site-specific safety and health plan part of the program* - (i) *General.* The site safety and health plan, which must be kept on site, shall address the safety and health hazards of each phase of site operation and include the requirements and procedures for employee protection.
+(4) *Site-specific safety and health plan part of the program*—(i) *General.* The site safety and health plan, which must be kept on site, shall address the safety and health hazards of each phase of site operation and include the requirements and procedures for employee protection.
 
 (ii) *Elements.* The site safety and health plan, as a minimum, shall address the following:
 
@@ -164,7 +162,7 @@ Safety and health programs developed and implemented to meet other Federal, stat
 
 (iv) *Effectiveness of site safety and health plan.* Inspections shall be conducted by the site safety and health supervisor or, in the absence of that individual, another individual who is knowledgeable in occupational safety and health, acting on behalf of the employer as necessary to determine the effectiveness of the site safety and health plan. Any deficiencies in the effectiveness of the site safety and health plan shall be corrected by the employer.
 
-(c) *Site characterization and analysis* - (1) *General.* Hazardous waste sites shall be evaluated in accordance with this paragraph to identify specific site hazards and to determine the appropriate safety and health control procedures needed to protect employees from the identified hazards.
+(c) *Site characterization and analysis*—(1) *General.* Hazardous waste sites shall be evaluated in accordance with this paragraph to identify specific site hazards and to determine the appropriate safety and health control procedures needed to protect employees from the identified hazards.
 
 (2) *Preliminary evaluation.* A preliminary evaluation of a site's characteristics shall be performed prior to site entry by a qualified person in order to aid in the selection of appropriate employee protection methods prior to site entry. Immediately after initial site entry, a more detailed evaluation of the site's specific characteristics shall be performed by a qualified person in order to further identify existing site hazards and to further aid in the selection of the appropriate engineering controls and personal protective equipment for the tasks to be performed.
 
@@ -228,13 +226,13 @@ Risks to consider include, but are not limited to:
 
 (8) *Employee notification.* Any information concerning the chemical, physical, and toxicologic properties of each substance known or expected to be present on site that is available to the employer and relevant to the duties an employee is expected to perform shall be made available to the affected employees prior to the commencement of their work activities. The employer may utilize information developed for the hazard communication standard for this purpose.
 
-(d) *Site control* - (1) *General.* Appropriate site control procedures shall be implemented to control employee exposure to hazardous substances before clean-up work begins.
+(d) *Site control*—(1) *General.* Appropriate site control procedures shall be implemented to control employee exposure to hazardous substances before clean-up work begins.
 
 (2) *Site control program.* A site control program for protecting employees which is part of the employer's site safety and health program required in paragraph (b) of this section shall be developed during the planning stages of a hazardous waste clean-up operation and modified as necessary as new information becomes available.
 
 (3) *Elements of the site control program.* The site control program shall, as a minimum, include: A site map; site work zones; the use of a “buddy system”; site communications including alerting means for emergencies; the standard operating procedures or safe work practices; and, identification of the nearest medical assistance. Where these requirements are covered elsewhere they need not be repeated.
 
-(e) *Training* - (1) *General.* (i) All employees working on site (such as but not limited to equipment operators, general laborers and others) exposed to hazardous substances, health hazards, or safety hazards and their supervisors and management responsible for the site shall receive training meeting the requirements of this paragraph before they are permitted to engage in hazardous waste operations that could expose them to hazardous substances, safety, or health hazards, and they shall receive review training as specified in this paragraph.
+(e) *Training*—(1) *General.* (i) All employees working on site (such as but not limited to equipment operators, general laborers and others) exposed to hazardous substances, health hazards, or safety hazards and their supervisors and management responsible for the site shall receive training meeting the requirements of this paragraph before they are permitted to engage in hazardous waste operations that could expose them to hazardous substances, safety, or health hazards, and they shall receive review training as specified in this paragraph.
 
 (ii) Employees shall not be permitted to participate in or supervise field activities until they have been trained to a level required by their job function and responsibility.
 
@@ -274,7 +272,7 @@ Risks to consider include, but are not limited to:
 
 (9) *Equivalent training.* Employers who can show by documentation or certification that an employee's work experience and/or training has resulted in training equivalent to that training required in paragraphs (e)(1) through (e)(4) of this section shall not be required to provide the initial training requirements of those paragraphs to such employees and shall provide a copy of the certification or documentation to the employee upon request. However, certified employees or employees with equivalent training new to a site shall receive appropriate, site specific training before site entry and have appropriate supervised field experience at the new site. Equivalent training includes any academic training or the training that existing employees might have already received from actual hazardous waste site work experience.
 
-(f) *Medical surveillance* - (1) *General.* Employers engaged in operations specified in paragraphs (a)(1)(i) through (a)(1)(iv) of this section and not covered by (a)(2)(iii) exceptions and employers of employees specified in paragraph (q)(9) shall institute a medical surveillance program in accordance with this paragraph.
+(f) *Medical surveillance*—(1) *General.* Employers engaged in operations specified in paragraphs (a)(1)(i) through (a)(1)(iv) of this section and not covered by (a)(2)(iii) exceptions and employers of employees specified in paragraph (q)(9) shall institute a medical surveillance program in accordance with this paragraph.
 
 (2) *Employees covered.* The medical surveillance program shall be instituted by the employer for the following employees:
 
@@ -408,7 +406,7 @@ The level of employee protection provided may be decreased when additional infor
 
 (x) Limitations during temperature extremes, heat stress, and other appropriate medical considerations.
 
-(h) *Monitoring* - (1) *General.* (i) Monitoring shall be performed in accordance with this paragraph where there may be a question of employee exposure to hazardous concentrations of hazardous substances in order to assure proper selection of engineering controls, work practices and personal protective equipment so that employees are not exposed to levels which exceed permissible exposure limits, or published exposure levels if there are no permissible exposure limits, for hazardous substances.
+(h) *Monitoring*—(1) *General.* (i) Monitoring shall be performed in accordance with this paragraph where there may be a question of employee exposure to hazardous concentrations of hazardous substances in order to assure proper selection of engineering controls, work practices and personal protective equipment so that employees are not exposed to levels which exceed permissible exposure limits, or published exposure levels if there are no permissible exposure limits, for hazardous substances.
 
 (ii) Air monitoring shall be used to identify and quantify airborne levels of hazardous substances and safety and health hazards in order to determine the appropriate level of employee protection needed on site.
 
@@ -432,7 +430,7 @@ It is not required to monitor employees engaged in site characterization operati
 
 (i) *Informational programs.* Employers shall develop and implement a program, which is part of the employer's safety and health program required in paragraph (b) of this section, to inform employees, contractors, and subcontractors (or their representative) actually engaged in hazardous waste operations of the nature, level and degree of exposure likely as a result of participation in such hazardous waste operations. Employees, contractors and subcontractors working outside of the operations part of a site are not covered by this standard.
 
-(j) *Handling drums and containers* - (1) *General.* (i) Hazardous substances and contaminated soils, liquids, and other residues shall be handled, transported, labeled, and disposed of in accordance with this paragraph.
+(j) *Handling drums and containers*—(1) *General.* (i) Hazardous substances and contaminated soils, liquids, and other residues shall be handled, transported, labeled, and disposed of in accordance with this paragraph.
 
 (ii) Drums and containers used during the clean-up shall meet the appropriate DOT, OSHA, and EPA regulations for the wastes that they contain.
 
@@ -512,7 +510,7 @@ Caution: Shipping of shock sensitive wastes may be prohibited under U.S. Departm
 
 (ii) Appropriate tank or vault entry procedures as described in the employer's safety and health plan shall be followed whenever employees must enter a tank or vault.
 
-(k) *Decontamination* - (1) *General.* Procedures for all phases of decontamination shall be developed and implemented in accordance with this paragraph.
+(k) *Decontamination*—(1) *General.* Procedures for all phases of decontamination shall be developed and implemented in accordance with this paragraph.
 
 (2) *Decontamination procedures.* (i) A decontamination procedure shall be developed, communicated to employees and implemented before any employees or equipment may enter areas on site where potential for exposure to hazardous substances exists.
 
@@ -536,7 +534,7 @@ Caution: Shipping of shock sensitive wastes may be prohibited under U.S. Departm
 
 (8) *Showers and change rooms.* Where the decontamination procedure indicates a need for regular showers and change rooms outside of a contaminated area, they shall be provided and meet the requirements of 29 CFR 1910.141. If temperature conditions prevent the effective use of water, then other effective means for cleansing shall be provided and used.
 
-(l) *Emergency response by employees at uncontrolled hazardous waste sites* - (1) *Emergency response plan.* (i) An emergency response plan shall be developed and implemented by all employers within the scope of paragraphs (a)(1) (i)-(ii) of this section to handle anticipated emergencies prior to the commencement of hazardous waste operations. The plan shall be in writing and available for inspection and copying by employees, their representatives, OSHA personnel and other governmental agencies with relevant responsibilities.
+(l) *Emergency response by employees at uncontrolled hazardous waste sites*—(1) *Emergency response plan.* (i) An emergency response plan shall be developed and implemented by all employers within the scope of paragraphs (a)(1) (i)-(ii) of this section to handle anticipated emergencies prior to the commencement of hazardous waste operations. The plan shall be in writing and available for inspection and copying by employees, their representatives, OSHA personnel and other governmental agencies with relevant responsibilities.
 
 (ii) Employers who will evacuate their employees from the danger area when an emergency occurs, and who do not permit any of their employees to assist in handling the emergency, are exempt from the requirements of this paragraph if they provide an emergency action plan complying with § 1926.35 of this part.
 
@@ -584,8 +582,6 @@ Caution: Shipping of shock sensitive wastes may be prohibited under U.S. Departm
 
 (m) *Illumination.* Areas accessible to employees shall be lighted to not less than the minimum illumination intensities listed in the following Table D-65.1 while any work is in progress:
 
-Table D-65.1 - Minimum Illumination Intensities in Foot-Candles
-
 |Foot-candles|                                                                                                                                  Area or operations                                                                                                                                   |
 |------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     5      |                                                                                                                                  General site areas.                                                                                                                                  |
@@ -595,7 +591,7 @@ Table D-65.1 - Minimum Illumination Intensities in Foot-Candles
 |     10     |                                              General shops (e.g., mechanical and electrical equipment rooms, active storerooms, barracks or living quarters, locker or dressing rooms, dining areas, and indoor toilets and workrooms.)                                               |
 |     30     |                                                                                                                     First aid stations, infirmaries, and offices.                                                                                                                     |
 
-(n) *Sanitation at temporary workplaces* - (1) *Potable water.* (i) An adequate supply of potable water shall be provided on the site.
+(n) *Sanitation at temporary workplaces*—(1) *Potable water.* (i) An adequate supply of potable water shall be provided on the site.
 
 (ii) Portable containers used to dispense drinking water shall be capable of being tightly closed, and equipped with a tap. Water shall not be dipped from containers.
 
@@ -608,8 +604,6 @@ Table D-65.1 - Minimum Illumination Intensities in Foot-Candles
 (ii) There shall be no cross-connection, open or potential, between a system furnishing potable water and a system furnishing nonpotable water.
 
 (3) *Toilet facilities.* (i) Toilets shall be provided for employees according to the following Table D-65.2.
-
-Table D-65.2 - Toilet Facilities
 
 |    Number of employees     |          Minimum number of facilities          |
 |----------------------------|------------------------------------------------|
@@ -671,13 +665,13 @@ The exemption for hazardous waste provided in § 1926.59 is applicable to this s
 
 (6) *Material handling program.* Where employees will be handling drums or containers, the employer shall develop and implement procedures meeting the requirements of paragraphs (j)(1) (ii) through (viii) and (xi) of this section, as well as (j)(3) and (j)(8) of this section prior to starting such work.
 
-(7) *Training program* - (i) *New employees.* The employer shall develop and implement a training program, which is part of the employer's safety and health program, for employees exposed to health hazards or hazardous substances at TSD operations to enable the employees to perform their assigned duties and functions in a safe and healthful manner so as not endanger themselves or other employees. The initial training shall be for 24 hours and refresher training shall be for eight hours annually. Employees who have received the initial training required by this paragraph shall be given a written certificate attesting that they have successfully completed the necessary training.
+(7) *Training program*—(i) *New employees.* The employer shall develop and implement a training program, which is part of the employer's safety and health program, for employees exposed to health hazards or hazardous substances at TSD operations to enable the employees to perform their assigned duties and functions in a safe and healthful manner so as not endanger themselves or other employees. The initial training shall be for 24 hours and refresher training shall be for eight hours annually. Employees who have received the initial training required by this paragraph shall be given a written certificate attesting that they have successfully completed the necessary training.
 
 (ii) *Current employees.* Employers who can show by an employee's previous work experience and/or training that the employee has had training equivalent to the initial training required by this paragraph, shall be considered as meeting the initial training requirements of this paragraph as to that employee. Equivalent training includes the training that existing employees might have already received from actual site work experience. Current employees shall receive eight hours of refresher training annually.
 
 (iii) *Trainers.* Trainers who teach initial training shall have satisfactorily completed a training course for teaching the subjects they are expected to teach or they shall have the academic credentials and instruction experience necessary to demonstrate a good command of the subject matter of the courses and competent instructional skills.
 
-(8) *Emergency response program* - (i) *Emergency response plan.* An emergency response plan shall be developed and implemented by all employers. Such plans need not duplicate any of the subjects fully addressed in the employer's contingency planning required by permits, such as those issued by the U.S. Environmental Protection Agency, provided that the contingency plan is made part of the emergency response plan. The emergency response plan shall be a written portion of the employers safety and health program required in paragraph (p)(1) of this section. Employers who will evacuate their employees from the worksite location when an emergency occurs and who do not permit any of their employees to assist in handling the emergency are exempt from the requirements of paragraph (p)(8) if they provide an emergency action plan complying with § 1926.35 of this part.
+(8) *Emergency response program*—(i) *Emergency response plan.* An emergency response plan shall be developed and implemented by all employers. Such plans need not duplicate any of the subjects fully addressed in the employer's contingency planning required by permits, such as those issued by the U.S. Environmental Protection Agency, provided that the contingency plan is made part of the emergency response plan. The emergency response plan shall be a written portion of the employers safety and health program required in paragraph (p)(1) of this section. Employers who will evacuate their employees from the worksite location when an emergency occurs and who do not permit any of their employees to assist in handling the emergency are exempt from the requirements of paragraph (p)(8) if they provide an emergency action plan complying with § 1926.35 of this part.
 
 (ii) *Elements of an emergency response plan.* The employer shall develop an emergency response plan for emergencies which shall address, as a minimum, the following areas to the extent that they are not addressed in any specific program required in this paragraph:
 
@@ -887,23 +881,23 @@ The *senior official* at an emergency response is the most senior official on th
 
 (ii) Where the clean-up is done on plant property using plant or workplace employees, such employees shall have completed the training requirements of the following: 29 CFR 1926.35, 1926.59, and 1926.103, and other appropriate safety and health training made necessary by the tasks that they are expected to be performed such as personal protective equipment and decontamination procedures. All equipment to be used in the performance of the clean-up work shall be in serviceable condition and shall have been inspected prior to use.
 
-Appendices to § 1926.65 - Hazardous Waste Operations and Emergency ResponseNote:
+Appendices to § 1926.65—Hazardous Waste Operations and Emergency ResponseNote:
 
 The following appendices serve as non-mandatory guidelines to assist employees and employers in complying with the appropriate requirements of this section. However § 1926.65(g) makes mandatory in certain circumstances the use of Level A and Level B PPE protection.
 
-Appendix A to § 1926.65 - Personal Protective Equipment Test Methods
+Appendix A to § 1926.65—Personal Protective Equipment Test Methods
 
 This appendix sets forth the non-mandatory examples of tests which may be used to evaluate compliance with § 1926.65(g)(4) (ii) and (iii). Other tests and other challenge agents may be used to evaluate compliance.
 
 A. Totally-encapsulating chemical protective suit pressure test
 
-1.0 - Scope
+1.0—Scope
 
 1.1 This practice measures the ability of a gas tight totally-encapsulating chemical protective suit material, seams, and closures to maintain a fixed positive pressure. The results of this practice allow the gas tight integrity of a totally-encapsulating chemical protective suit to be evaluated.
 
 1.2 Resistance of the suit materials to permeation, penetration, and degradation by specific hazardous substances is not determined by this test method.
 
-2.0 - Definition of terms
+2.0—Definition of terms
 
 2.1 *Totally-encapsulated chemical protective suit (TECP suit)* means a full body garment which is constructed of protective clothing materials; covers the wearer's torso, head, arms, legs and respirator; may cover the wearer's hands and feet with tightly attached gloves and boots; completely encloses the wearer and respirator by itself or in combination with the wearer's gloves and boots.
 
@@ -911,11 +905,11 @@ A. Totally-encapsulating chemical protective suit pressure test
 
 2.3 *Gas tight* means, for the purpose of this test method, the limited flow of a gas under pressure from the inside of a TECP suit to atmosphere at a prescribed pressure and time interval.
 
-3.0 - Summary of test method
+3.0—Summary of test method
 
 3.1 The TECP suit is visually inspected and modified for the test. The test apparatus is attached to the suit to permit inflation to the pre-test suit expansion pressure for removal of suit wrinkles and creases. The pressure is lowered to the test pressure and monitored for three minutes. If the pressure drop is excessive, the TECP suit fails the test and is removed from service. The test is repeated after leak location and repair.
 
-4.0 - Required Supplies
+4.0—Required Supplies
 
 4.1 Source of compressed air.
 
@@ -927,11 +921,11 @@ A. Totally-encapsulating chemical protective suit pressure test
 
 4.5 Stop watch or appropriate timing device.
 
-5.0 - Safety Precautions
+5.0—Safety Precautions
 
 5.1 Care shall be taken to provide the correct pressure safety devices required for the source of compressed air used.
 
-6.0 - Test Procedure
+6.0—Test Procedure
 
 6.1 Prior to each test, the tester shall perform a visual inspection of the suit. Check the suit for seam integrity by visually examining the seams and gently pulling on the seams. Ensure that all air supply lines, fittings, visor, zippers, and valves are secure and show no signs of deterioration.
 
@@ -947,13 +941,13 @@ A. Totally-encapsulating chemical protective suit pressure test
 
 6.1.6 If the suit pressure drop is more than 20 percent of the suit test pressure (B) during the three-minute test period, the suit fails the test and shall be removed from service.
 
-7.0 - Retest Procedure
+7.0—Retest Procedure
 
 7.1 If the suit fails the test check for leaks by inflating the suit to pressure (A) and brushing or wiping the entire suit (including seams, closures, lens gaskets, glove-to-sleeve joints, etc.) with a mild soap and water solution. Observe the suit for the formation of soap bubbles, which is an indication of a leak. Repair all identified leaks.
 
 7.2 Retest the TECP suit as outlined in Test procedure 6.0.
 
-8.0 - Report
+8.0—Report
 
 8.1 Each TECP suit tested by this practice shall have the following information recorded:
 
@@ -973,13 +967,13 @@ Care should also be exercised to assure that the inside and outside of the suit 
 
 B. Totally-encapsulating chemical protective suit qualitative leak test
 
-1.0 - Scope
+1.0—Scope
 
 1.1 This practice semi-qualitatively tests gas tight totally-encapsulating chemical protective suit integrity by detecting inward leakage of ammonia vapor. Since no modifications are made to the suit to carry out this test, the results from this practice provide a realistic test for the integrity of the entire suit.
 
 1.2 Resistance of the suit materials to permeation, penetration, and degradation is not determined by this test method. ASTM test methods are available to test suit materials for these characteristics and the tests are usually conducted by the manufacturers of the suits.
 
-2.0 - Definition of terms
+2.0—Definition of terms
 
 2.1 *Totally-encapsulated chemical protective suit (TECP suit)* means a full body garment which is constructed of protective clothing materials; covers the wearer's torso, head, arms, legs and respirator; may cover the wearer's hands and feet with tightly attached gloves and boots; completely encloses the wearer and respirator by itself or in combination with the wearer's gloves, and boots.
 
@@ -989,11 +983,11 @@ B. Totally-encapsulating chemical protective suit qualitative leak test
 
 2.4 *Intrusion Coefficient* means a number expressing the level of protection provided by a gas tight totally-encapsulating chemical protective suit. The intrusion coefficient is calculated by dividing the test room challenge agent concentration by the concentration of challenge agent found inside the suit. The accuracy of the intrusion coefficient is dependent on the challenge agent monitoring methods. The larger the intrusion coefficient the greater the protection provided by the TECP suit.
 
-3.0 - Summary of recommended practice
+3.0—Summary of recommended practice
 
 3.1 The volume of concentrated aqueous ammonia solution (ammonia hydroxide NH4 OH) required to generate the test atmosphere is determined using the directions outlined in 6.1. The suit is donned by a person wearing the appropriate respiratory equipment (either a positive pressure self-contained breathing apparatus or a positive pressure supplied air respirator) and worn inside the enclosed test room. The concentrated aqueous ammonia solution is taken by the suited individual into the test room and poured into an open plastic pan. A two-minute evaporation period is observed before the test room concentration is measured, using a high range ammonia length of stain detector tube. When the ammonia vapor reaches a concentration of between 1000 and 1200 ppm, the suited individual starts a standardized exercise protocol to stress and flex the suit. After this protocol is completed, the test room concentration is measured again. The suited individual exits the test room and his stand-by person measures the ammonia concentration inside the suit using a low range ammonia length of stain detector tube or other more sensitive ammonia detector. A stand-by person is required to observe the test individual during the test procedure; aid the person in donning and doffing the TECP suit; and monitor the suit interior. The intrusion coefficient of the suit can be calculated by dividing the average test area concentration by the interior suit concentration. A colorimetric ammonia indicator strip of bromophenol blue or equivalent is placed on the inside of the suit face piece lens so that the suited individual is able to detect a color change and know if the suit has a significant leak. If a color change is observed the individual shall leave the test room immediately.
 
-4.0 - Required supplies
+4.0—Required supplies
 
 4.1 A supply of concentrated aqueous ammonium hydroxide (58% by weight).
 
@@ -1005,7 +999,7 @@ B. Totally-encapsulating chemical protective suit qualitative leak test
 
 4.5 A graduated cylinder or other volumetric measuring device of at least 50 milliliters in volume with an accuracy of at least ±1 milliliters.
 
-5.0 - Safety precautions
+5.0—Safety precautions
 
 5.1 Concentrated aqueous ammonium hydroxide, NH4 OH, is a corrosive volatile liquid requiring eye, skin, and respiratory protection. The person conducting the test shall review the Safety Data Sheet (SDS) for aqueous ammonia.
 
@@ -1017,7 +1011,7 @@ B. Totally-encapsulating chemical protective suit qualitative leak test
 
 5.5 Individuals shall be medically screened for the use of respiratory protection and checked for allergies to ammonia before participating in this test procedure.
 
-6.0 - Test procedure
+6.0—Test procedure
 
 6.1.1 Measure the test area to the nearest foot and calculate its volume in cubic feet. Multiply the test area volume by 0.2 milliliters of concentrated aqueous ammonia solution per cubic foot of test area volume to determine the approximate volume of concentrated aqueous ammonia required to generate 1000 ppm in the test area.
 
@@ -1063,13 +1057,13 @@ B. Totally-encapsulating chemical protective suit qualitative leak test
 
 6.15 By following this test method, an intrusion coefficient of approximately 200 or more can be measured with the suit in a completely operational condition. If the intrusion coefficient is 200 or more, then the suit is suitable for emergency response and field use.
 
-7.0 - Retest procedures
+7.0—Retest procedures
 
 7.1 If the suit fails this test, check for leaks by following the pressure test in test A above.
 
 7.2 Retest the TECP suit as outlined in the test procedure 6.0.
 
-8.0 - Report
+8.0—Report
 
 8.1 Each gas tight totally-encapsulating chemical protective suit tested by this practice shall have the following information recorded.
 
@@ -1091,7 +1085,7 @@ Visually inspect all parts of the suit to be sure they are positioned correctly 
 
 Care should also be exercised to assure that the inside and outside of the suit is completely dry before it is put into storage.
 
-Appendix B to § 1926.65 - General Description and Discussion of the Levels of Protection and Protective Gear
+Appendix B to § 1926.65—General Description and Discussion of the Levels of Protection and Protective Gear
 
 This appendix sets forth information about personal protective equipment (PPE) protection levels which may be used to assist employers in complying with the PPE requirements of this section.
 
@@ -1107,7 +1101,7 @@ The following are guidelines which an employer can use to begin the selection of
 
 *Part A.* Personal protective equipment is divided into four categories based on the degree of protection afforded. (See part B of this appendix for further explanation of Levels A, B, C, and D hazards.)
 
-I. *Level A -*  To be selected when the greatest level of skin, respiratory, and eye protection is required.
+I. *Level A—* To be selected when the greatest level of skin, respiratory, and eye protection is required.
 
 The following constitute Level A equipment; it may be used as appropriate;
 
@@ -1129,7 +1123,7 @@ The following constitute Level A equipment; it may be used as appropriate;
 
 9. Disposable protective suit, gloves and boots (depending on suit construction, may be worn over totally-encapsulating suit).
 
-II. *Level B* - The highest level of respiratory protection is necessary but a lesser level of skin protection is needed.
+II. *Level B*—The highest level of respiratory protection is necessary but a lesser level of skin protection is needed.
 
 The following constitute Level B equipment; it may be used as appropriate.
 
@@ -1153,7 +1147,7 @@ The following constitute Level B equipment; it may be used as appropriate.
 
 10. Face shield.1
 
-III. *Level C* - The concentration(s) and type(s) of airborne substance(s) is known and the criteria for using air purifying respirators are met.
+III. *Level C*—The concentration(s) and type(s) of airborne substance(s) is known and the criteria for using air purifying respirators are met.
 
 The following constitute Level C equipment; it may be used as appropriate.
 
@@ -1179,7 +1173,7 @@ The following constitute Level C equipment; it may be used as appropriate.
 
 10. Face shield.1
 
-IV. *Level D* - A work uniform affording minimal protection, used for nuisance contamination only.
+IV. *Level D*—A work uniform affording minimal protection, used for nuisance contamination only.
 
 The following constitute Level D equipment; it may be used as appropriate:
 
@@ -1201,7 +1195,7 @@ The following constitute Level D equipment; it may be used as appropriate:
 
 *Part B.* The types of hazards for which levels A, B, C, and D protection are appropriate are described below:
 
-I. *Level A* - Level A protection should be used when:
+I. *Level A*—Level A protection should be used when:
 
 1. The hazardous substance has been identified and requires the highest level of protection for skin, eyes, and the respiratory system based on either the measured (or potential for) high concentration of atmospheric vapors, gases, or particulates; or the site operations and work functions involve a high potential for splash, immersion, or exposure to unexpected vapors, gases, or particulates of materials that are harmful to skin or capable of being absorbed through the skin;
 
@@ -1209,7 +1203,7 @@ I. *Level A* - Level A protection should be used when:
 
 3. Operations are being conducted in confined, poorly ventilated areas, and the absence of conditions requiring Level A have not yet been determined.
 
-II. *Level B* - Level B protection should be used when:
+II. *Level B*—Level B protection should be used when:
 
 1. The type and atmospheric concentration of substances have been identified and require a high level of respiratory protection, but less skin protection;
 
@@ -1221,7 +1215,7 @@ Note:
 
 This involves atmospheres with IDLH concentrations of specific substances that present severe inhalation hazards and that do not represent a severe skin hazard; or that do not meet the criteria for use of air-purifying respirators.
 
-III. *Level C* - Level C protection should be used when:
+III. *Level C*—Level C protection should be used when:
 
 1. The atmospheric contaminants, liquid splashes, or other direct contact will not adversely affect or be absorbed through any exposed skin;
 
@@ -1229,7 +1223,7 @@ III. *Level C* - Level C protection should be used when:
 
 3. All criteria for the use of air-purifying respirators are met.
 
-IV. *Level D* - Level D protection should be used when:
+IV. *Level D*—Level D protection should be used when:
 
 1. The atmosphere contains no known hazard; and
 
@@ -1241,15 +1235,15 @@ As stated before, combinations of personal protective equipment other than those
 
 As an aid in selecting suitable chemical protective clothing, it should be noted that the National Fire Protection Association (NFPA) has developed standards on chemical protective clothing. The standards that have been adopted by include:
 
-NFPA 1991 - Standard on Vapor-Protective Suits for Hazardous Chemical Emergencies (EPA Level A Protective Clothing).
+NFPA 1991—Standard on Vapor-Protective Suits for Hazardous Chemical Emergencies (EPA Level A Protective Clothing).
 
-NFPA 1992 - Standard on Liquid Splash-Protective Suits for Hazardous Chemical Emergencies (EPA Level B Protective Clothing).
+NFPA 1992—Standard on Liquid Splash-Protective Suits for Hazardous Chemical Emergencies (EPA Level B Protective Clothing).
 
-NFPA 1993 - Standard on Liquid Splash-Protective Suits for Non-emergency, Non-flammable Hazardous Chemical Situations (EPA Level B Protective Clothing).
+NFPA 1993—Standard on Liquid Splash-Protective Suits for Non-emergency, Non-flammable Hazardous Chemical Situations (EPA Level B Protective Clothing).
 
 These standards apply documentation and performance requirements to the manufacture of chemical protective suits. Chemical protective suits meeting these requirements are labelled as compliant with the appropriate standard. It is recommended that chemical protective suits that meet these standards be used.
 
-Appendix C to § 1926.65 - Compliance Guidelines
+Appendix C to § 1926.65—Compliance Guidelines
 
 1. *Occupational Safety and Health Program.* Each hazardous waste site clean-up effort will require an occupational safety and health program headed by the site coordinator or the employer's representative. The purpose of the program will be the protection of employees at the site and will be an extension of the employer's overall safety and health program. The program will need to be developed before work begins on the site and implemented as work proceeds as stated in paragraph (b). The program is to facilitate coordination and communication of safety and health issues among personnel responsible for the various activities which will take place at the site. It will provide the overall means for planning and implementing the needed safety and health training and job orientation of employees who will be working at the site. The program will provide the means for identifying and controlling worksite hazards and the means for monitoring program effectiveness. The program will need to cover the responsibilities and authority of the site coordinator or the employer's manager on the site for the safety and health of employees at the site, and the relationships with contractors or support services as to what each employer's safety and health responsibilities are for their employees on the site. Each contractor on the site needs to have its own safety and health program so structured that it will smoothly interface with the program of the site coordinator or principal contractor.
 
@@ -1275,7 +1269,7 @@ Specialist employees such as technical experts, medical experts or environmental
 
 Those skilled support personnel, such as employees who work for public works departments or equipment operators who operate bulldozers, sand trucks, backhoes, etc., who may be called to the incident scene to provide emergency support assistance, should have at least a safety and health briefing before entering the area of potential or actual exposure. These skilled support personnel, who have not been a part of the emergency response plan and do not meet the training requirements, should be made aware of the hazards they face and should be provided all necessary protective clothing and equipment required for their tasks.
 
-There are two National Fire Protection Association standards, NFPA 472 - “Standard for Professional Competence of Responders to Hazardous Material Incidents” and NFPA 471 - “Recommended Practice for Responding to Hazardous Material Incidents”, which are excellent resource documents to aid fire departments and other emergency response organizations in developing their training program materials. NFPA 472 provides guidance on the skills and knowledge needed for first responder awareness level, first responder operations level, hazmat technicians, and hazmat specialist. It also offers guidance for the officer corp who will be in charge of hazardous substance incidents.
+There are two National Fire Protection Association standards, NFPA 472—“Standard for Professional Competence of Responders to Hazardous Material Incidents” and NFPA 471—“Recommended Practice for Responding to Hazardous Material Incidents”, which are excellent resource documents to aid fire departments and other emergency response organizations in developing their training program materials. NFPA 472 provides guidance on the skills and knowledge needed for first responder awareness level, first responder operations level, hazmat technicians, and hazmat specialist. It also offers guidance for the officer corp who will be in charge of hazardous substance incidents.
 
 3. *Decontamination.* Decontamination procedures should be tailored to the specific hazards of the site, and may vary in complexity and number of steps, depending on the level of hazard and the employee's exposure to the hazard. Decontamination procedures and PPE decontamination methods will vary depending upon the specific substance, since one procedure or method may not work for all substances. Evaluation of decontamination methods and procedures should be performed, as necessary, to assure that employees are not exposed to hazards by re-using PPE. References in appendix D may be used for guidance in establishing an effective decontamination program. In addition, the U.S. Coast Guard's Manual, “Policy Guidance for Response to Hazardous Chemical Releases,” U.S. Department of Transportation, Washington, DC (COMDTINST M16465.30) is a good reference for establishing an effective decontamination program.
 
@@ -1333,15 +1327,15 @@ All workers performing hazardous substance spill control work are expected to we
 
 These new tools and agents are the things that employers will want to evaluate as part of their new technology program. The treatment of spills of hazardous substances or wastes at an emergency incident as part of the immediate spill containment and control efforts is sometimes acceptable to EPA and a permit exception is described in 40 CFR 264.1(g)(8) and 265.1(c)(11).
 
-Appendix D to § 1926.65 - References
+Appendix D to § 1926.65—References
 
 The following references may be consulted for further information on the subject of this standard:
 
-1. OSHA Instruction DFO CPL 2.70 - January 29, 1986, *Special Emphasis Program: Hazardous Waste Sites.*
+1. OSHA Instruction DFO CPL 2.70—January 29, 1986, *Special Emphasis Program: Hazardous Waste Sites.*
 
-2. OSHA Instruction DFO CPL 2-2.37A - January 29, 1986, *Technical Assistance and Guidelines for Superfund and Other Hazardous Waste Site Activities.*
+2. OSHA Instruction DFO CPL 2-2.37A—January 29, 1986, *Technical Assistance and Guidelines for Superfund and Other Hazardous Waste Site Activities.*
 
-3. OSHA Instruction DTS CPL 2.74 - January 29, 1986, *Hazardous Waste Activity Form, OSHA 175.*
+3. OSHA Instruction DTS CPL 2.74—January 29, 1986, *Hazardous Waste Activity Form, OSHA 175.*
 
 4. *Hazardous Waste Inspections Reference Manual,* U.S. Department of Labor, Occupational Safety and Health Administration, 1986.
 
@@ -1383,7 +1377,7 @@ The following references may be consulted for further information on the subject
 
 23. *Disaster Planning Guide for Business and Industry,* Federal Emergency Management Agency, Publication No. FEMA 141, August 1987.
 
-Appendix E to § 1926.65 - Training Curriculum Guidelines
+Appendix E to § 1926.65—Training Curriculum Guidelines
 
 The following non-mandatory general criteria may be used for assistance in developing site-specific training curriculum used to meet the training requirements of 29 CFR 1926.65(e); 29 CFR 1926.65(p)(7), (p)(8)(iii); and 29 CFR 1926.65(q)(6), (q)(7), and (q)(8). These are generic guidelines and they are not presented as a complete training curriculum for any specific employer. Site-specific training programs must be developed on the basis of a needs assessment of the hazardous waste site, RCRA/TSDF, or emergency response operation in accordance with 29 CFR 1926.65.
 
@@ -1605,7 +1599,7 @@ The following training curriculum guidelines are for those operations specifical
 
 1. General Hazardous Waste Operations
 
-2. RCRA operations - Treatment, storage, and disposal facilities.
+2. RCRA operations—Treatment, storage, and disposal facilities.
 
 3. Emergency Response.
 

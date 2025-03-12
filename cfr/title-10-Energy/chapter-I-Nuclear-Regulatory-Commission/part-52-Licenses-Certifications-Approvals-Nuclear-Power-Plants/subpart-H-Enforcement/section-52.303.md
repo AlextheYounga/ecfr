@@ -1,7 +1,7 @@
 ##### § 52.303 Criminal penalties. #####
 
-Link to an amendment published at 85 FR 65663, Oct. 16, 2020.
-
 (a) Section 223 of the Atomic Energy Act of 1954, as amended, provides for criminal sanctions for willful violation of, attempted violation of, or conspiracy to violate, any regulation issued under Sections 161b, 161i, or 161o of the Act. For purposes of Section 223, all the regulations in part 52 are issued under one or more of Sections 161b, 161i, or 160o, except for the sections listed in paragraph (b) of this section.
 
-(b) The regulations in part 52 that are not issued under Sections 161b, 161i, or 161o for the purposes of Section 223 are as follows: §§ 52.0, 52.1, 52.2, 52.3, 52.7, 52.8, 52.9, 52.10, 52.11, 52.12, 52.13, 52.15, 52.16, 52.17, 52.18, 52.21, 52.23, 52.24, 52.27, 52.28, 52.29, 52.31, 52.33, 52.39, 52.41, 52.43, 52.45, 52.46, 52.47, 52.48, 52.51, 52.53, 52.54, 52.55, 52.57, 52.59, 52.61, 52.63, 52.71, 52.73, 52.75, 52.77, 52.79, 52.80, 52.81, 52.83, 52.85, 52.87, 52.93, 52.97, 52.98, 52.103, 52.104, 52.105, 52.107, 52.109, 52.131, 52.133, 52.135, 52.136, 52.137, 52.139, 52.141, 52.143, 52.145, 52.147, 52.151, 52.153, 52.155, 52.156, 52.157, 52.158, 52.159, 52.161, 52.163, 52.165, 52.167, 52.171, 52.173, 52.175, 52.177, 52.179, 52.181, 52.301, and 52.303.
+(b) The regulations in part 52 that are not issued under Sections 161b, 161i, or 161o for the purposes of Section 223 are as follows: §§ 52.0, 52.1, 52.2, 52.3, 52.7, 52.8, 52.9, 52.10, 52.11, 52.12, 52.13, 52.15, 52.16, 52.17, 52.18, 52.21, 52.23, 52.24, 52.26 52.28, 52.29, 52.31, 52.33, 52.39, 52.41, 52.43, 52.45, 52.46, 52.47, 52.48, 52.51, 52.53, 52.54, 52.55, 52.57, 52.59, 52.61, 52.63, 52.71, 52.73, 52.75, 52.77, 52.79, 52.80, 52.81, 52.83, 52.85, 52.87, 52.93, 52.97, 52.98, 52.103, 52.104, 52.105, 52.107, 52.109, 52.131, 52.133, 52.135, 52.136, 52.137, 52.139, 52.141, 52.143, 52.145, 52.147, 52.151, 52.153, 52.155, 52.156, 52.157, 52.158, 52.159, 52.161, 52.163, 52.165, 52.167, 52.171, 52.173, 52.175, 52.177, 52.179, 52.181, 52.301, and 52.303.
+
+[72 FR 49517, Aug. 28, 2007, as amended at 85 FR 65663, Oct. 16, 2020]

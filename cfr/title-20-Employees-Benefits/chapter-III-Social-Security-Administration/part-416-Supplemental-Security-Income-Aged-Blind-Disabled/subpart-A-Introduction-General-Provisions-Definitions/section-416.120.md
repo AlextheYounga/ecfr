@@ -1,5 +1,7 @@
 ##### § 416.120 General definitions and use of terms. #####
 
+Link to an amendment published at 85 FR 73159, Nov. 16, 2020.
+
 (a) *Terms relating to acts and regulations.* As used in this part:
 
 (1) *The Act* means the Social Security Act as amended (42 U.S.C. Chap. 7).

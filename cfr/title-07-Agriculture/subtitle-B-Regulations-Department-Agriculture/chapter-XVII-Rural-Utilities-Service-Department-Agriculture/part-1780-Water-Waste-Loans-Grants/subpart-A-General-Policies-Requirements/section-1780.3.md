@@ -32,7 +32,7 @@
 
 *Similar system cost* means the average annual EDU user cost of a system within a community having similar economic conditions and being served by the same type of established system. Similar system cost shall include all charges, taxes, and assessments attributable to the system including debt service, reserves and operation and maintenance costs.
 
-*Simplified acquisition threshold* means the dollar amount below which an applicant or owner may purchase property or services using small purchase methods as defined further at 2 CFR 200.88.
+*Simplified acquisition threshold* means the dollar amount below which an applicant or owner may purchase property or services using small purchase methods as defined further at 2 CFR 200.1.
 
 *State program official* means the USDA official at the State level who has been delegated the responsibility of administering the water and waste disposal programs under this regulation for a particular State or States.
 
@@ -40,4 +40,4 @@
 
 (b) *Rules of grammatical construction.* Unless the context otherwise indicates, “includes” and “including” are not limiting, and “or” is not exclusive. The terms defined in paragraph (a) of this section include the plural as well as the singular, and the singular as well as the plural.
 
-[62 FR 33478, June 19, 1997, as amended at 69 FR 65519, Nov. 15, 2004; 80 FR 9863, Feb. 24, 2015; 81 FR 7697, Feb. 16, 2016]
+[62 FR 33478, June 19, 1997, as amended at 69 FR 65519, Nov. 15, 2004; 80 FR 9863, Feb. 24, 2015; 81 FR 7697, Feb. 16, 2016; 85 FR 72913, Nov. 16, 2020]

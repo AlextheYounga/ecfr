@@ -1,5 +1,7 @@
 ##### § 124.602 Definitions. #####
 
+Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
+
 As used in this subpart:
 
 *Act* means the Public Health Service Act, as amended.

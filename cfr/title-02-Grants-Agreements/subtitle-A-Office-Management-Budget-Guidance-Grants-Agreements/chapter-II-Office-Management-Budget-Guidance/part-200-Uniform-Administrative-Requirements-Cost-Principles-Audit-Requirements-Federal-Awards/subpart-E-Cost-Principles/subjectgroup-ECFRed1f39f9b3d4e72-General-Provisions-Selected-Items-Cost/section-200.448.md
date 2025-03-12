@@ -1,14 +1,12 @@
 ##### § 200.448 Intellectual property. #####
 
-Link to an amendment published at 85 FR 49569, Aug. 13, 2020.
-
 (a) *Patent costs.* (1) The following costs related to securing patents and copyrights are allowable:
 
 (i) Costs of preparing disclosures, reports, and other documents required by the Federal award, and of searching the art to the extent necessary to make such disclosures;
 
 (ii) Costs of preparing documents and any other patent costs in connection with the filing and prosecution of a United States patent application where title or royalty-free license is required by the Federal Government to be conveyed to the Federal Government; and
 
-(iii) General counseling services relating to patent and copyright matters, such as advice on patent and copyright laws, regulations, clauses, and employee intellectual property agreements (See also § 200.459 Professional service costs).
+(iii) General counseling services relating to patent and copyright matters, such as advice on patent and copyright laws, regulations, clauses, and employee intellectual property agreements (See also § 200.459).
 
 (2) The following costs related to securing patents and copyrights are unallowable:
 
@@ -36,4 +34,4 @@ Link to an amendment published at 85 FR 49569, Aug. 13, 2020.
 
 (3) In any case involving a patent or copyright formerly owned by the non-Federal entity, the amount of royalty allowed must not exceed the cost which would have been allowed had the non-Federal entity retained title thereto.
 
-[78 FR 78608, Dec. 26, 2013, as amended at 79 FR 75886, Dec. 19, 2014]
+[78 FR 78608, Dec. 26, 2013, as amended at 79 FR 75886, Dec. 19, 2014; 85 FR 49569, Aug. 13, 2020]

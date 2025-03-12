@@ -1,3 +1,5 @@
-##### § 170.308 xxx #####
+##### § 170.308 Foreign public entity. #####
 
-Link to an amendment published at 85 FR 49526, Aug. 13, 2020.
+*Foreign public entity* has the meaning given in 2 CFR 200.1.
+
+[85 FR 49526, Aug. 13, 2020]

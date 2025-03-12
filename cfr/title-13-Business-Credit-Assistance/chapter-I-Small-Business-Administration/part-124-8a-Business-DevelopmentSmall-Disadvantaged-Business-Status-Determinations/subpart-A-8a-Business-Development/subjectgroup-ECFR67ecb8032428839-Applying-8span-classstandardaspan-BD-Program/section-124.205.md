@@ -1,11 +1,5 @@
 ##### § 124.205 Can an applicant ask SBA to reconsider SBA's initial decision to decline its application? #####
 
-Link to an amendment published at 85 FR 66185, Oct. 16, 2020.
+There is no reconsideration process for applications that have been declined. An applicant which has been declined may file an appeal with SBA's Office of Hearings and Appeals pursuant to § 124.206, or reapply to the program pursuant to § 124.207.
 
-(a) An applicant may request the AA/BD to reconsider his or her initial decline decision by filing a request for reconsideration with SBA. The applicant may submit a revised electronic application or submit its request for reconsideration to the SBA DPCE unit that originally processed its application by personal delivery, first class mail, express mail, facsimile transmission followed by first class mail, or commercial delivery service. The applicant must submit its request for reconsideration within 45 days of its receipt of written notice that its application was declined. If the date of actual receipt of such written notice cannot be determined, SBA will presume receipt to have occurred ten calendar days after the date the notice was sent to the applicant. The applicant must provide any additional information and documentation pertinent to overcoming the reason(s) for the initial decline, whether or not available at the time of initial application, including information and documentation regarding changed circumstances.
-
-(b) The AA/BD will issue a written decision within 45 days of SBA's receipt of the applicant's request. The AA/BD may either approve the application, deny it on the same grounds as the original decision, or deny it on other grounds. If denied, the AA/BD will explain why the applicant is not eligible for admission to the 8(a) BD program and give specific reasons for the decline.
-
-(c) If the AA/BD declines the application solely on issues not raised in the initial decline, the applicant can ask for reconsideration as if it were an initial decline.
-
-[63 FR 35739, June 30, 1998, as amended at 74 FR 45753, Sept. 4, 2009; 76 FR 8258, Feb. 11, 2011]
+[85 FR 66185, Oct. 16, 2020]

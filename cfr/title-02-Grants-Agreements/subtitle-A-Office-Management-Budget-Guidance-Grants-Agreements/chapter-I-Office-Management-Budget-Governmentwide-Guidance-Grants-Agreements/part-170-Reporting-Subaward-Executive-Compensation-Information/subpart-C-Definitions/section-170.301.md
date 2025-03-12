@@ -1,3 +1,5 @@
-##### § 170.301 xxx #####
+##### § 170.301 Federal awarding agency. #####
 
-Link to an amendment published at 85 FR 49526, Aug. 13, 2020.
+*Federal awarding agency* has the meaning given in 2 CFR 200.1.
+
+[85 FR 49526, Aug. 13, 2020]

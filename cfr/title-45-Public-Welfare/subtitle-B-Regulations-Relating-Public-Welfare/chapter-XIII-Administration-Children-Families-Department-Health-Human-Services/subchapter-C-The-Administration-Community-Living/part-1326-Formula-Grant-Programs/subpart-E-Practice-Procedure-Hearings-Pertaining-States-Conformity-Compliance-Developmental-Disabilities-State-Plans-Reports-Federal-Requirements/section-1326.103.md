@@ -1,3 +1,5 @@
 ##### § 1326.103 Discovery. #####
 
+Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
+
 The Department and any party named in the notice issued pursuant to § 1386.90 has the right to conduct discovery (including depositions) against opposing parties as provided by the Federal Rules of Civil Procedure. There is no fixed rule on priority of discovery. Upon written motion, the presiding officer must promptly rule upon any objection to discovery action. The presiding officer also has the power to grant a protective order or relief to any party against whom discovery is sought and to restrict or control discovery so as to prevent undue delay in the conduct of the hearing. Upon the failure of any party to make discovery, the presiding officer may issue any order and impose any sanction other than contempt orders authorized by Rule 37 of the Federal Rules of Civil Procedure.

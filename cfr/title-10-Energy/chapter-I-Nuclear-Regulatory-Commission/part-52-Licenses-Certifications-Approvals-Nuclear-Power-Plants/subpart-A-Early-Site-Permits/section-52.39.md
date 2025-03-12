@@ -1,8 +1,6 @@
 ##### § 52.39 Finality of early site permit determinations. #####
 
-Link to an amendment published at 85 FR 65663, Oct. 16, 2020.
-
-(a) *Commission finality.* (1) Notwithstanding any provision in 10 CFR 50.109, while an early site permit is in effect under §§ 52.27 or 52.33, the Commission may not change or impose new site characteristics, design parameters, or terms and conditions, including emergency planning requirements, on the early site permit unless the Commission:
+(a) *Commission finality.* (1) Notwithstanding any provision in 10 CFR 50.109, while an early site permit is in effect under §§ 52.26 or 52.33, the Commission may not change or impose new site characteristics, design parameters, or terms and conditions, including emergency planning requirements, on the early site permit unless the Commission:
 
 (i) Determines that a modification is necessary to bring the permit or the site into compliance with the Commission's regulations and orders applicable and in effect at the time the permit was issued;
 
@@ -39,3 +37,5 @@ Link to an amendment published at 85 FR 65663, Oct. 16, 2020.
 (e) *Early site permit amendment.* The holder of an early site permit may not make changes to the early site permit, including the site safety analysis report, without prior Commission approval. The request for a change to the early site permit must be in the form of an application for a license amendment, and must meet the requirements of 10 CFR 50.90 and 50.92.
 
 (f) *Information requests.* Except for information requests seeking to verify compliance with the current licensing basis of the early site permit, information requests to the holder of an early site permit must be evaluated before issuance to ensure that the burden to be imposed on respondents is justified in view of the potential safety significance of the issue to be addressed in the requested information. Each evaluation performed by the NRC staff must be in accordance with 10 CFR 50.54(f), and must be approved by the Executive Director for Operations or his or her designee before issuance of the request.
+
+[72 FR 49517, Aug. 28, 2007, as amended at 85 FR 65663, Oct. 16, 2020]

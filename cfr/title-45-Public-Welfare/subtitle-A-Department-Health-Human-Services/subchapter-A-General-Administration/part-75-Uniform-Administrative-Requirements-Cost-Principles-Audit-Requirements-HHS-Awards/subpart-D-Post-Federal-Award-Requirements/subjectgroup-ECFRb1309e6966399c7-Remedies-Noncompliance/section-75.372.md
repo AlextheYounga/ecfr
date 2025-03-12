@@ -1,5 +1,7 @@
 ##### § 75.372 Termination. #####
 
+Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
+
 (a) The Federal award may be terminated in whole or in part as follows:
 
 (1) By the HHS awarding agency or pass-through entity, if the non-Federal entity fails to comply with the terms and conditions of the award;

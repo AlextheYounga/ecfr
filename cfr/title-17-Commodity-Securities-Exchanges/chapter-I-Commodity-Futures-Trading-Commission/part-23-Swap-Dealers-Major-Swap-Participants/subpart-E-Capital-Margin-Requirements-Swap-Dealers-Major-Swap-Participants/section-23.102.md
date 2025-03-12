@@ -1,3 +1,33 @@
-##### § 23.102 xxx #####
+##### § 23.102 Calculation of market risk exposure requirement and credit risk exposure requirement using internal models #####
 
-Link to an amendment published at 85 FR 57550, Sept. 15, 2020.
+(a) A swap dealer may apply to the Commission or to a registered futures association of which the swap dealer is a member to obtain approval to use internal models under terms and conditions required by the Commission or the registered futures association and by these regulations, when calculating the swap dealer's market risk exposure and credit risk exposure under §§ 23.101(a)(1)(i)(B), 23.101(a)(1)(ii)(A), or 23.101(a)(2)(ii)(A); *Provided however,* that the Commission must issue a determination that the registered futures association's model requirements and review process are comparable to the Commission's requirements and review process in order for the registered futures association's model approval to be accepted as an alternative means of compliance with this section.
+
+(b) The swap dealer's application to use internal models to compute market risk exposure and credit risk exposure must be in writing and must be filed with the Commission and with a registered futures association of which the swap dealer is a member. The swap dealer must file the application in accordance with instructions established by the Commission and the registered futures association.
+
+(c) A swap dealer's application must include the following:
+
+(1) In the case of a swap dealer subject to the minimum capital requirements in § 23.101(a)(1)(i) applying to use internal models to compute market risk exposure, the information required under subpart F of 12 CFR part 217, as if the swap dealer were itself a bank holding company subject to 12 CFR part 217.
+
+(2) In the case of a swap dealer subject to the minimum capital requirements in § 23.101(a)(1)(i) applying to use internal models to compute credit risk exposure, the information required under subpart E of 12 CFR part 217 in order to calculate credit risk-weighted assets in accordance with sections 217.131 through 217.155 of that subpart, as if the swap dealer were itself a bank holding company subject to 12 CFR part 217.
+
+(3) In the case of a swap dealer subject to the minimum capital requirements in § 23.101(a)(ii) or § 23.101(a)(2), the information set forth in Appendix A to Subpart E of Part 23.
+
+(d) The Commission, or registered futures association upon obtaining the Commission's determination that its requirements and model approval process are comparable to the Commission's requirements and process, may approve or deny the application, or approve or deny an amendment to the application, in whole or in part, subject to any conditions or limitations the Commission or registered futures association may require, if the Commission or registered futures association finds the approval to be appropriate in the public interest, after determining, among other things, whether the applicant has met the requirements of this section. A swap dealer that has received Commission or registered futures association approval to compute market risk exposure requirements and credit risk exposure requirements pursuant to internal models must compute such charges in accordance with Appendix A to Subpart E of Part 23.
+
+(e) A swap dealer must cease using internal models to compute its market risk exposure requirement and credit risk exposure requirement, upon the occurrence of any of the following:
+
+(1) The swap dealer has materially changed a mathematical model described in the application or materially changed its internal risk management control system without first submitting amendments identifying such changes and obtaining the approval of the Commission or the registered futures association for such changes;
+
+(2) The Commission or the registered futures association of which the swap dealer is a member determines that the internal models are no longer sufficient for purposes of the capital calculations of the swap dealer as a result of changes in the operations of the swap dealer;
+
+(3) The swap dealer fails to come into compliance with its requirements under this section, after having received from the Director of the Commission's Division of Swap Dealer and Intermediary Oversight, or from the registered futures association of which the swap dealer is a member, written notification that the swap dealer is not in compliance with its requirements, and must come into compliance by a date specified in the notice; or
+
+(4) The Commission by written order finds that permitting the swap dealer to continue to use the internal models is no longer appropriate.
+
+(f)(1) Notwithstanding paragraphs (a) through (d) of this section, a swap dealer may use internal market risk or credit risk models upon the submission to the Commission and the registered futures association of which the swap dealer is a member a certification, signed by the Chief Executive Officer, Chief Financial Officer, or other appropriate official with knowledge of the swap dealer's capital requirements and the capital models, that such models are in substantial compliance with Commission's model requirements and have been approved for use in computing capital by the swap dealer, or an affiliate of the swap dealer, by the Securities and Exchange Commission, a prudential regulator (as defined in § 1.3 of this chapter), a foreign regulatory authority in a jurisdiction that the Commission has found to be eligible for substituted compliance under § 23.106, or a foreign regulatory authority whose capital adequacy requirements are consistent with the capital requirements issued by the Basel Committee on Banking Supervision. A swap dealer also must file an application containing the information required under paragraph (c) of this section with the Commission with its certification. A swap dealer may use such models pending the subsequent approval or denial of the swap dealer's capital model application by the Commission or the registered futures association of which the swap dealer is a member.
+
+(2) A swap dealer shall revise the certification required under paragraph (f)(1) of this section to address any material changes or revisions to the models, or to reflect any regulatory restrictions placed on the models since the certification was submitted.
+
+(3) A swap dealer shall cease using capital models subject to the certification under paragraph (f)(1) of this section if the regulatory authority that previously approved the models for use by the swap dealer, or by the swap dealer's affiliate, has withdrawn its approval and the Commission or a registered futures association has not approved the models.
+
+[85 FR 57550, Sept. 15, 2020]

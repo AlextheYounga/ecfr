@@ -1,5 +1,7 @@
 ##### § 184.1097 Tannic acid. #####
 
+Link to an amendment published at 85 FR 72907, Nov. 16, 2020.
+
 (a) Tannic acid (CAS Reg. No. 1401-55-4), or hydrolyzable gallotannin, is a complex polyphenolic organic structure that yields gallic acid and either glucose or quinic acid as hydrolysis products. It is a yellowish-white to light brown substance in the form of an amorphous, bulky powder, glistening scales, or spongy masses. It is also ordorless, or has a faint characteristic odor, and has an astringent taste. Tannic acid is obtained by solvent extraction of nutgalls or excrescences that form on the young twigs of *Quercus infectoria Oliver* and related species of *Quercus.* Tannic acid is also obtained by solvent extraction of the seed pods of Tara (*Caesalpinia spinosa*) or the nutgalls of various sumac species, including *Rhus semialata, R. coriaria, R. galabra,* and *R. typhia.*
 
 (b) The ingredient meets the specifications of the Food Chemicals Codex, 3d Ed. (1981), p. 319, which is incorporated by reference. Copies are available from the National Academy Press, 2101 Constitution Ave. NW., Washington, DC 20418, or available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*

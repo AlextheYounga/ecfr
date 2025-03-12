@@ -1,12 +1,10 @@
-##### § 1020.220 Customer identification programs for banks, savings associations, credit unions, and certain non-Federally regulated banks. #####
+##### § 1020.220 Customer identification program requirements for banks. #####
 
-Link to an amendment published at 85 FR 57138, Sept. 15, 2020.
-
-(a) *Customer Identification Program: minimum requirements* - (1) *In general.* A bank must implement a written Customer Identification Program (CIP) appropriate for its size and type of business that, at a minimum, includes each of the requirements of paragraphs (a)(1) through (5) of this section. If a bank is required to have an anti-money laundering compliance program under the regulations implementing 31 U.S.C. 5318(h), 12 U.S.C. 1818(s), or 12 U.S.C. 1786(q)(1), then the CIP must be a part of the anti-money laundering compliance program. Until such time as credit unions, private banks, and trust companies without a Federal functional regulator are subject to such a program, their CIPs must be approved by their boards of directors.
+(a) *Customer Identification Program: minimum requirements*—(1) *In general.* A bank required to have an anti-money laundering compliance program under the regulations implementing 31 U.S.C. 5318(h), 12 U.S.C. 1818(s), or 12 U.S.C. 1786(q)(1) must implement a written Customer Identification Program (CIP) appropriate for the bank's size and type of business that, at a minimum, includes each of the requirements of paragraphs (a)(1) through (5) of this section. The CIP must be a part of the anti-money laundering compliance program.
 
 (2) *Identity verification procedures.* The CIP must include risk-based procedures for verifying the identity of each customer to the extent reasonable and practicable. The procedures must enable the bank to form a reasonable belief that it knows the true identity of each customer. These procedures must be based on the bank's assessment of the relevant risks, including those presented by the various types of accounts maintained by the bank, the various methods of opening accounts provided by the bank, the various types of identifying information available, and the bank's size, location, and customer base. At a minimum, these procedures must contain the elements described in this paragraph (a)(2).
 
-(i) *Customer information required* - (A) *In general.* The CIP must contain procedures for opening an account that specify the identifying information that will be obtained from each customer. Except as permitted by paragraphs (a)(2)(i)(B) and (C) of this section, the bank must obtain, at a minimum, the following information from the customer prior to opening an account:
+(i) *Customer information required*—(A) *In general.* The CIP must contain procedures for opening an account that specify the identifying information that will be obtained from each customer. Except as permitted by paragraphs (a)(2)(i)(B) and (C) of this section, the bank must obtain, at a minimum, the following information from the customer prior to opening an account:
 
 (*1*) Name;
 
@@ -99,3 +97,5 @@ What this means for you: When you open an account, we will ask for your name, ad
 (b) *Exemptions.* The appropriate Federal functional regulator, with the concurrence of the Secretary, may, by order or regulation, exempt any bank or type of account from the requirements of this section. The Federal functional regulator and the Secretary shall consider whether the exemption is consistent with the purposes of the Bank Secrecy Act and with safe and sound banking, and may consider other appropriate factors. The Secretary will make these determinations for any bank or type of account that is not subject to the authority of a Federal functional regulator.
 
 (c) *Other requirements unaffected.* Nothing in this section relieves a bank of its obligation to comply with any other provision in this chapter, including provisions concerning information that must be obtained, verified, or maintained in connection with any account or transaction.
+
+[75 FR 65812, Oct. 26, 2010, as amended at 85 FR 57138, Sept. 16, 2020]

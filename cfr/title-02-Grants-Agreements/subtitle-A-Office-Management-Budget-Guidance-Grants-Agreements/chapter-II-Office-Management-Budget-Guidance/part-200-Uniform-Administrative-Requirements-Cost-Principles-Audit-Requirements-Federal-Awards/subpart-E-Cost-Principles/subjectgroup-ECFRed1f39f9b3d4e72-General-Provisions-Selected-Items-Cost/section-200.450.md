@@ -1,8 +1,6 @@
 ##### § 200.450 Lobbying. #####
 
-Link to an amendment published at 85 FR 49569, Aug. 13, 2020.
-
-(a) The cost of certain influencing activities associated with obtaining grants, contracts, cooperative agreements, or loans is an unallowable cost. Lobbying with respect to certain grants, contracts, cooperative agreements, and loans is governed by relevant statutes, including among others, the provisions of 31 U.S.C. 1352, as well as the common rule, “New Restrictions on Lobbying” published at 55 FR 6736 (February 26, 1990), including definitions, and the Office of Management and Budget “Governmentwide Guidance for New Restrictions on Lobbying” and notices published at 54 FR 52306 (December 20, 1989), 55 FR 24540 (June 15, 1990), 57 FR 1772 (January 15, 1992), and 61 FR 1412 (January 19, 1996).
+(a) The cost of certain influencing activities associated with obtaining grants, contracts, or cooperative agreements, or loans is an unallowable cost. Lobbying with respect to certain grants, contracts, cooperative agreements, and loans is governed by relevant statutes, including among others, the provisions of 31 U.S.C. 1352, as well as the common rule, “New Restrictions on Lobbying” published on February 26, 1990, including definitions, and the Office of Management and Budget “Governmentwide Guidance for New Restrictions on Lobbying” and notices published on December 20, 1989, June 15, 1990, January 15, 1992, and January 19, 1996.
 
 (b) Executive lobbying costs. Costs incurred in attempting to improperly influence either directly or indirectly, an employee or officer of the executive branch of the Federal Government to give consideration or to act regarding a Federal award or a regulatory matter are unallowable. Improper influence means any influence that induces or tends to induce a Federal employee or officer to give consideration or to act regarding a Federal award or regulatory matter on any basis other than the merits of the matter.
 
@@ -42,11 +40,11 @@ Link to an amendment published at 85 FR 49569, Aug. 13, 2020.
 
 (C) Information provided upon request by a legislator for technical advice and assistance, as defined by I.R.C. § 4911(d)(2) and 26 CFR 56.4911-2(c)(1)-(c)(3).
 
-(v) When a non-Federal entity seeks reimbursement for indirect (F&A) costs, total lobbying costs must be separately identified in the indirect (F&A) cost rate proposal, and thereafter treated as other unallowable activity costs in accordance with the procedures of § 200.413 Direct costs.
+(v) When a non-Federal entity seeks reimbursement for indirect (F&A) costs, total lobbying costs must be separately identified in the indirect (F&A) cost rate proposal, and thereafter treated as other unallowable activity costs in accordance with the procedures of § 200.413.
 
-(vi) The non-Federal entity must submit as part of its annual indirect (F&A) cost rate proposal a certification that the requirements and standards of this section have been complied with. (See also § 200.415 Required certifications.)
+(vi) The non-Federal entity must submit as part of its annual indirect (F&A) cost rate proposal a certification that the requirements and standards of this section have been complied with. (See also § 200.415.)
 
-(vii)(A) Time logs, calendars, or similar records are not required to be created for purposes of complying with the record keeping requirements in § 200.302 Financial management with respect to lobbying costs during any particular calendar month when:
+(vii)(A) Time logs, calendars, or similar records are not required to be created for purposes of complying with the record keeping requirements in § 200.302 with respect to lobbying costs during any particular calendar month when:
 
 (*1*) The employee engages in lobbying (as defined in paragraphs (c)(1) and (c)(2) of this section) 25 percent or less of the employee's compensated hours of employment during that calendar month; and
 
@@ -55,3 +53,5 @@ Link to an amendment published at 85 FR 49569, Aug. 13, 2020.
 (B) When conditions in paragraph (c)(2)(vii)(A)(*1*) and (*2*) of this section are met, non-Federal entities are not required to establish records to support the allowability of claimed costs in addition to records already required or maintained. Also, when conditions in paragraphs (c)(2)(vii)(A)(*1*) and (*2*) of this section are met, the absence of time logs, calendars, or similar records will not serve as a basis for disallowing costs by contesting estimates of lobbying time spent by employees during a calendar month.
 
 (viii) The Federal awarding agency must establish procedures for resolving in advance, in consultation with OMB, any significant questions or disagreements concerning the interpretation or application of this section. Any such advance resolutions must be binding in any subsequent settlements, audits, or investigations with respect to that grant or contract for purposes of interpretation of this part, provided, however, that this must not be construed to prevent a contractor or non-Federal entity from contesting the lawfulness of such a determination.
+
+[78 FR 78608, Dec. 26, 2013, as amended at 85 FR 49569, Aug. 13, 2020]

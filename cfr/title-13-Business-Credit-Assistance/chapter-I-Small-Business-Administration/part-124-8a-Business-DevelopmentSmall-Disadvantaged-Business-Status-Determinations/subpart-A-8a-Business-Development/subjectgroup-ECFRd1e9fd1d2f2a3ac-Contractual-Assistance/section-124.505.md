@@ -1,14 +1,14 @@
 ##### § 124.505 When will SBA appeal the terms or conditions of a particular 8(a) contract or a procuring activity decision not to use the 8(a) BD program? #####
 
-Link to an amendment published at 85 FR 66189, Oct. 16, 2020.
-
 (a) *What SBA may appeal.* The Administrator of SBA may appeal the following matters to the head of the procuring agency:
 
 (1) A contracting officer's decision not to make a particular procurement available for award as an 8(a) contract;
 
-(2) A contracting officer's decision to reject a specific Participant for award of an 8(a) contract after SBA's acceptance of the requirement for the 8(a) BD program; and
+(2) A contracting officer's decision to reject a specific Participant for award of an 8(a) contract after SBA's acceptance of the requirement for the 8(a) BD program;
 
-(3) The terms and conditions of a proposed 8(a) contract, including the procuring activity's NAICS code designation and estimate of the fair market price.
+(3) A decision by a contracting officer that a particular procurement is a new requirement that is not subject to the release requirements set forth in § 124.504(d); and
+
+(4) The terms and conditions of a proposed 8(a) contract, including the procuring activity's NAICS code designation and estimate of the fair market price.
 
 (b) *Procedures for appeal.* (1) SBA must notify the contracting officer of the SBA Administrator's intent to appeal an adverse decision within 5 working days of SBA's receipt of the decision.
 
@@ -17,3 +17,5 @@ Link to an amendment published at 85 FR 66189, Oct. 16, 2020.
 (3) The SBA Administrator must send a written appeal of the adverse decision to the head of the procuring agency within 15 working days of SBA's notification of intent to appeal or the appeal may be considered withdrawn.
 
 (4) By statute (15 U.S.C. 637(a)(1)(A)), the procuring agency head must specify in writing the reasons for a denial of an appeal brought by the Administrator under this section.
+
+[63 FR 35739, June 30, 1998, as amended at 85 FR 66189, Oct. 16, 2020]

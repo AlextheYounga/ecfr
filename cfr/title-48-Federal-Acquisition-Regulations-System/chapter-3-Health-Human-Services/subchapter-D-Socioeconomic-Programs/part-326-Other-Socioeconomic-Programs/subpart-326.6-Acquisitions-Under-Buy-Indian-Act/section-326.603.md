@@ -1,5 +1,7 @@
 ##### 326.603 Requirements. #####
 
+Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
+
 (a) *Indian ownership.* Indian ownership shall constitute at least 51 percent of an Indian firm during the period covered by a Buy Indian contract.
 
 (b) *Joint ventures.* An Indian firm may enter into a joint venture with other entities for specific projects as long as the Indian firm is the managing partner. However, the contracting officer shall approve the joint venture prior to the award of a contract under the Buy Indian Act.

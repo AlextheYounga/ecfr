@@ -1,5 +1,7 @@
 ##### § 1328.3 Core functions. #####
 
+Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
+
 The Centers described in § 1388.2 must engage in the core functions referred to in this section, which shall include:
 
 (a) Provision of interdisciplinary pre-service preparation and continuing education of students and fellows, which may include the preparation and continuing education of leadership, direct service, clinical, or other personnel to strengthen and increase the capacity of States and communities to achieve the purpose of the DD Act of 2000.

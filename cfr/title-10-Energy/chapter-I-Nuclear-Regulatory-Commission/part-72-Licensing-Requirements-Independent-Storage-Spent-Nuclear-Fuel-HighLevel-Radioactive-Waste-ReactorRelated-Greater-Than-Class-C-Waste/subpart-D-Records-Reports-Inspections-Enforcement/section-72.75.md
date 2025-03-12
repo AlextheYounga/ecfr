@@ -1,7 +1,5 @@
 ##### § 72.75 Reporting requirements for specific events and conditions. #####
 
-Link to an amendment published at 85 FR 65664, Oct. 16, 2020.
-
 (a) *Emergency notifications:* Each licensee shall notify the NRC Headquarters Operations Center upon the declaration of an emergency as specified in the licensee's approved emergency plan addressed in § 72.32. The licensee shall notify the NRC immediately after notification of the appropriate State or local agencies, but not later than one hour after the time the licensee declares an emergency.
 
 (b) *Non-emergency notifications:* Four-hour reports. Each licensee shall notify the NRC as soon as possible but not later than four hours after the discovery of any of the following events or conditions involving spent fuel, HLW, or reactor-related GTCC waste:
@@ -30,9 +28,9 @@ Link to an amendment published at 85 FR 65664, Oct. 16, 2020.
 
 (e) *Initial notification:* Reports made by licensees in response to the requirements of this section must be made as follows:
 
-(1) Licensees shall make reports required by paragraphs (a), (b), (c), or (d) of this section by telephone to the NRC Headquarters Operations Center.2
+(1) Licensees shall make reports required by paragraphs (a), (b), (c), or (d) of this section by telephone to the NRC Headquarters Operations Center at the numbers specified in appendix A to part 73 of this chapter.1
 
-2 The commercial telephone number of the NRC Headquarters Operations Center is (301) 816-5100. Those licensees with an available Emergency Notification System (ENS) shall use the ENS to notify the NRC Headquarters Operations Center.
+1 Those licensees with an available Emergency Notification System (ENS) shall use the ENS to notify the NRC Headquarters Operations Center.
 
 (2) When making a report under paragraphs (a), (b), (c), or (d) of this section, the licensee shall identify:
 
@@ -110,4 +108,4 @@ Link to an amendment published at 85 FR 65664, Oct. 16, 2020.
 
 (2) Those non-emergency events specified in paragraphs (b), (c), and (d) of this section that occurred within 3 years of the date of discovery.
 
-[68 FR 33615, June 5, 2003]
+[68 FR 33615, June 5, 2003, as amended at 85 FR 65664, Oct. 16, 2020]

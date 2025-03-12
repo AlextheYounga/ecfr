@@ -1,6 +1,4 @@
-##### § 124.110 Do Native Hawaiian Organizations have any special rules for applying to the 8(a) BD program? #####
-
-Link to an amendment published at 85 FR 66184, Oct. 16, 2020.
+##### § 124.110 Do Native Hawaiian Organizations (NHOs) have any special rules for applying to and remaining eligible for the 8(a) BD program? #####
 
 (a) Concerns owned by economically disadvantaged Native Hawaiian Organizations, as defined in § 124.3, are eligible for participation in the 8(a) program and other federal programs requiring SBA to determine social and economic disadvantage as a condition of eligibility. Such concerns must meet all eligibility criteria set forth in §§ 124.101 through 124.108 and § 124.112 to the extent that they are not inconsistent with this section.
 
@@ -32,7 +30,11 @@ Link to an amendment published at 85 FR 66184, Oct. 16, 2020.
 
 (2) An individual responsible for the day-to-day management of an NHO-owned firm need not establish personal social and economic disadvantage.
 
-(e) A Native Hawaiian Organization cannot own 51% or more of another firm which, either at the time of application or within the previous two years, has been operating in the 8(a) program under the same primary NAICS code as the applicant. A Native Hawaiian Organization may, however, own a Participant or an applicant that conducts or will conduct secondary business in the 8(a) BD program under the same NAICS code that a current Participant owned by the Native Hawaiian Organization operates in the 8(a) BD program as its primary NAICS code. In addition, once an applicant is admitted to the 8(a) BD program, it may not receive an 8(a) sole source contract that is a follow-on contract to an 8(a) contract that was performed immediately previously by another Participant (or former Participant) owned by the same Native Hawaiian Organization. For purposes of this paragraph, the same primary NAICS code means the six digit NAICS code having the same corresponding size standard.
+(e) An NHO cannot own 51% or more of another firm which, either at the time of application or within the previous two years, has been operating in the 8(a) program under the same primary NAICS code as the applicant. For purposes of this paragraph, the same primary NAICS code means the six-digit NAICS code having the same corresponding size standard. An NHO may, however, own a Participant or an applicant that conducts or will conduct secondary business in the 8(a) BD program under the same NAICS code that a current Participant owned by the NHO operates in the 8(a) BD program as its primary NAICS code.
+
+(1) Once an applicant is admitted to the 8(a) BD program, it may not receive an 8(a) sole source contract that is a follow-on contract to an 8(a) contract that was performed immediately previously by another Participant (or former Participant) owned by the same NHO. However, an NHO-owned concern may receive a follow-on sole source 8(a) contract to a requirement that it performed through the 8(a) program (either as a competitive or sole source contract).
+
+(2) If the primary NAICS code of a Participant owned by an NHO is changed pursuant to § 124.112(e), the NHO can submit an application and qualify another firm owned by the NHO for participation in the 8(a) BD program under the NAICS code that was the previous primary NAICS code of the Participant whose primary NAICS code was changed.
 
 (f) SBA does not deem an individual involved in the management or daily business operations of a Participant owned by a Native Hawaiian Organization to have used his or her individual eligibility within the meaning of § 124.108(b).
 
@@ -46,4 +48,4 @@ Link to an amendment published at 85 FR 66184, Oct. 16, 2020.
 
 (3) The NHO has made a firm written commitment to support the operations of the applicant concern and it has the financial ability to do so.
 
-[63 FR 35739, June 30, 1998, as amended at 76 FR 8256, Feb. 11, 2011; 77 FR 28237, May 14, 2012; 81 FR 48580, July 25, 2016; 81 FR 71983, Oct. 19, 2016]
+[63 FR 35739, June 30, 1998, as amended at 76 FR 8256, Feb. 11, 2011; 77 FR 28237, May 14, 2012; 81 FR 48580, July 25, 2016; 81 FR 71983, Oct. 19, 2016; 85 FR 66184, Oct. 16, 2020]

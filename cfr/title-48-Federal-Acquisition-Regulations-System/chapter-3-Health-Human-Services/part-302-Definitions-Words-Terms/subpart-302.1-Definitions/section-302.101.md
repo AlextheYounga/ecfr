@@ -1,5 +1,7 @@
 ##### 302.101 Definitions. #####
 
+Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
+
 (a) *Agency head or head of the agency,* unless otherwise stated, means the Secretary of Health and Human Services or specified designee.
 
 (b) *Contracting Officer's Representative (COR)* is a Federal employee designated in writing by a contracting officer to act as the contracting officer's representative in monitoring and administering specified aspects of contractor performance *after* award of a contract or order. In accordance with local procedures, operating divisions (OPDIVs) or staff divisions (STAFFDIVs) may designate CORs for firm fixed-price contracts or orders. COR's responsibilities may include verifying that:

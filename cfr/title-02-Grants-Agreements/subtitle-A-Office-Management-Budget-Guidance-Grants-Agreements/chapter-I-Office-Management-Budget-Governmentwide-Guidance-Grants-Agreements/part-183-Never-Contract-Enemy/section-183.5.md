@@ -1,0 +1,3 @@
+##### § 183.5 Purpose of this part. #####
+
+This part provides guidance to Federal awarding agencies on the implementation of the Never Contract with the Enemy requirements applicable to certain grants and cooperative agreements, as specified in subtitle E, title VIII of the National Defense Authorization Act (NDAA) for Fiscal Year (FY) 2015 (Pub. L. 113-291), as amended by Sec. 822 of the National Defense Authorization Act for Fiscal Year 2020 (Pub. L. 116-92).

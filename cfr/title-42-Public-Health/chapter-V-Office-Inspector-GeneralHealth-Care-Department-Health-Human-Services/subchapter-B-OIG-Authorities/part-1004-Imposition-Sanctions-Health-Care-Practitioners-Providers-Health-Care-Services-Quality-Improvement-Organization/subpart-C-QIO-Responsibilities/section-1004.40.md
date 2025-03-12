@@ -1,5 +1,7 @@
 ##### § 1004.40 Action on identification of a violation. #####
 
+Link to an amendment published at 85 FR 72910, Nov. 16, 2020.
+
 When a QIO identifies a violation, it must -
 
 (a) Indicate whether the violation is a gross and flagrant violation or is a substantial violation in a substantial number of cases; and

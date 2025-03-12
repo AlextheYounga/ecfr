@@ -1,7 +1,5 @@
 ##### § 73.67 Licensee fixed site and in-transit requirements for the physical protection of special nuclear material of moderate and low strategic significance. #####
 
-Link to an amendment published at 85 FR 65664, Oct. 16, 2020.
-
 (a) *General performance objectives.* (1) Each licensee who possesses, uses or transports special nuclear material of moderate or low strategic significance shall establish and maintain a physical protection system that will achieve the following objectives:
 
 (i) Minimize the possibilities for unauthorized removal of special nuclear material consistent with the potential consequences of such actions; and
@@ -90,9 +88,7 @@ Link to an amendment published at 85 FR 65664, Oct. 16, 2020.
 
 (vi) Initiate immediately a trace investigation of any shipment that is determined to be lost or unaccounted for after a reasonable time beyond the estimated arrival time.
 
-(vii) Notify the NRC Operations Center1 within one hour after the discovery of the loss of the shipment and within one hour after recovery of or accounting for such lost shipment in accordance with the provisions of § 73.71 of this part.
-
-1 Commercial telephone number of the NRC Operations Center is (301) 816-5100.
+(vii) Notify the NRC Headquarters Operations Center by telephone at the numbers specified in appendix A to this part within one hour after the discovery of the loss of the shipment and within one hour after recovery of or accounting for such lost shipment in accordance with the provisions of § 73.71 of this part.
 
 (4) Each licensee who arranges the physical protection of strategic special nuclear material in quantities of moderate strategic significance while in transit or who takes delivery of this material free on board (f.o.b.) the point at which it is delivered to a carrier for transport shall comply with the requirements of paragraphs (e) (1), (2), and (3) of this section. The licensee shall retain each record required by paragraphs (e) (1), (2), (3), and (4) (i) and (ii) of this section for three years after close of period licensee possesses special nuclear material under each license that authorizes these licensee activities. Copies of superseded material must be retained for three years after each change. In addition, the licensee shall -
 
@@ -154,9 +150,7 @@ Link to an amendment published at 85 FR 65664, Oct. 16, 2020.
 
 (ii) Make arrangements to be notified immediately of the arrival of the shipment at its destination, or of any such shipment that is lost or unaccounted for after the estimated time of arrival at its destination, and
 
-(iii) Conduct immediately a trace investigation of any shipment that is lost or unaccounted for after the estimated arrival time and notify the NRC Operations Center1 within one hour after the discovery of the loss of the shipment and within one hour after recovery of or accounting for such lost shipment in accordance with the provisions of § 73.71 of this part.
-
-1 Commercial telephone number of the NRC Operation Center is (301) 816-5100.
+(iii) Conduct immediately a trace investigation of any shipment that is lost or unaccounted for after the estimated arrival time and notify the NRC Headquarters Operations Center by telephone at the numbers specified in appendix A to this part within 1 hour after the discovery of the loss of the shipment and within 1 hour after recovery of or accounting for such lost shipment in accordance with the provisions of § 73.71 of this part.
 
 (4) Each licensee who exports special nuclear material of low strategic significance shall comply with the appropriate requirements specified in paragraphs (c) and (g) (1) and (3) of this section. The licensee shall retain each record required by these sections for three years after the close of period for which the licensee possesses the special nuclear material under each license that authorizes the licensee to export this material. Copies of superseded material must be retained for three years after each change.
 
@@ -166,4 +160,4 @@ Link to an amendment published at 85 FR 65664, Oct. 16, 2020.
 
 (ii) Notify the person who delivered the material to a carrier for transport of the arrival of such material.
 
-[44 FR 43283, July 24, 1979. Redesignated at 44 FR 68198, Nov. 28, 1979, as amended at 45 FR 19215, Mar. 25, 1980; 47 FR 19114, May 4, 1982; 52 FR 21657, June 9, 1987; 53 FR 19260, May 27, 1988; 57 FR 33431, July 29, 1992, 59 FR 14087, Mar. 25, 1994; 67 FR 3586, Jan. 25, 2002; 67 FR 78143, Dec. 23, 2002; 68 FR 14530, Mar. 26, 2003; 68 FR 23575, May 5, 2003; 73 FR 32463, June 9, 2008; 74 FR 62684, Dec. 1, 2009; 83 FR 58723, Nov. 21, 2018]
+[44 FR 43283, July 24, 1979. Redesignated at 44 FR 68198, Nov. 28, 1979, as amended at 45 FR 19215, Mar. 25, 1980; 47 FR 19114, May 4, 1982; 52 FR 21657, June 9, 1987; 53 FR 19260, May 27, 1988; 57 FR 33431, July 29, 1992, 59 FR 14087, Mar. 25, 1994; 67 FR 3586, Jan. 25, 2002; 67 FR 78143, Dec. 23, 2002; 68 FR 14530, Mar. 26, 2003; 68 FR 23575, May 5, 2003; 73 FR 32463, June 9, 2008; 74 FR 62684, Dec. 1, 2009; 83 FR 58723, Nov. 21, 2018; 85 FR 65664, Oct. 16, 2020]

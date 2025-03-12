@@ -1,6 +1,6 @@
 ##### § 5.1100 Headquarters. #####
 
-*Office of the Commissioner*.1
+Link to an amendment published at 85 FR 72906, Nov. 16, 2020.*Office of the Commissioner*.1
 
 1 Mailing address: 10903 New Hampshire Ave., Silver Spring, MD 20993.
 

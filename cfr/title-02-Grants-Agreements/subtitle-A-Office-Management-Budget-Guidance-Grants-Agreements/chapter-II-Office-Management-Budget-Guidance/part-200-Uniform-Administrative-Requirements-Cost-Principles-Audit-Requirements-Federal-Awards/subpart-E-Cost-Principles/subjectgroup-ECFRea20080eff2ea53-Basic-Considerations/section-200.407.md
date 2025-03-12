@@ -1,7 +1,5 @@
 ##### § 200.407 Prior written approval (prior approval). #####
 
-Link to an amendment published at 85 FR 49562, Aug. 13, 2020.
-
 Under any given Federal award, the reasonableness and allocability of certain items of costs may be difficult to determine. In order to avoid subsequent disallowance or dispute based on unreasonableness or nonallocability, the non-Federal entity may seek the prior written approval of the cognizant agency for indirect costs or the Federal awarding agency in advance of the incurrence of special or unusual costs. Prior written approval should include the timeframe or scope of the agreement. The absence of prior written approval on any element of cost will not, in itself, affect the reasonableness or allocability of that element, unless prior approval is specifically required for allowability as described under certain circumstances in the following sections of this part:
 
 (a) § 200.201 Use of grant agreements (including fixed amount awards), cooperative agreements, and contracts, paragraph (b)(5);
@@ -16,13 +14,13 @@ Under any given Federal award, the reasonableness and allocability of certain it
 
 (f) § 200.313 Equipment;
 
-(g) § 200.332 Fixed amount subawards;
+(g) § 200.333 Fixed amount subawards;
 
 (h) § 200.413 Direct costs, paragraph (c);
 
-(i) § 200.430 Compensation - personal services, paragraph (h);
+(i) § 200.430 Compensation—personal services, paragraph (h);
 
-(j) § 200.431 Compensation - fringe benefits;
+(j) § 200.431 Compensation—fringe benefits;
 
 (k) § 200.438 Entertainment costs;
 
@@ -52,6 +50,6 @@ Under any given Federal award, the reasonableness and allocability of certain it
 
 (x) § 200.470 Taxes (including Value Added Tax); and
 
-(y) § 200.474 Travel costs.
+(y) § 200.475 Travel costs.
 
-[78 FR 78608, Dec. 26, 2013, as amended at 79 FR 75885, Dec. 19, 2014]
+[78 FR 78608, Dec. 26, 2013, as amended at 79 FR 75885, Dec. 19, 2014; 85 FR 49562, Aug. 13, 2020]

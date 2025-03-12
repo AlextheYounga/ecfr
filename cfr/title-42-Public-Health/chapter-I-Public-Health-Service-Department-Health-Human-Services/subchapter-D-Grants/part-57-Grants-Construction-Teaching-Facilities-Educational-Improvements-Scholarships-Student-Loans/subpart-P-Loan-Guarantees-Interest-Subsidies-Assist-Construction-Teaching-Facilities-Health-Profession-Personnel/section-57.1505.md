@@ -1,5 +1,7 @@
 ##### § 57.1505 Approval of applications. #####
 
+Link to an amendment published at 85 FR 72908, Nov. 16, 2020.
+
 (a) *General.* Any application for loan guarantee or interest subsidies, or for a combination of both, may be approved by the Secretary, after consultation with the Council, only if he makes each of the applicable determinations set forth in section 721(c) of the Act. In addition:
 
 (1) Any such approval shall be subject to compliance by the applicant with the applicable provisions set forth in §§ 57.106, 57.107, 57.108, and 57.110: *Provided however,* That for purposes of the title assurance in § 57.107(a) the period shall be not less than 20 years or the term of the guaranteed loan, whichever is longer or in the case of interim facilities, the term of the guaranteed loan, and

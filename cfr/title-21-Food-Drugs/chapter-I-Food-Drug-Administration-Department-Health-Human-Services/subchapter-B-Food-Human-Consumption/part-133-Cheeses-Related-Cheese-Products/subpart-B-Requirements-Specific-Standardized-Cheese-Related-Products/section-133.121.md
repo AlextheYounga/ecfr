@@ -1,5 +1,7 @@
 ##### § 133.121 Low sodium colby cheese. #####
 
+Link to an amendment published at 85 FR 72907, Nov. 16, 2020.
+
 Low sodium colby cheese is the food prepared from the same ingredients and in the same manner prescribed in § 133.118 for colby cheese and complies with all the provisions of § 133.118, including the requirements for label statement of ingredients, except that:
 
 (a) Salt is not used. Any safe and suitable ingredient or combination of ingredients that contains no sodium and that is recognized as a salt substitute may be used.

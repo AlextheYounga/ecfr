@@ -1,9 +1,9 @@
-##### § 1500.4 Supersession. #####
+##### § 1500.4 Exceptions. #####
 
-Link to an amendment published at 85 FR 61573, Sept. 30, 2020.
+Consistent with 2 CFR 200.102(b):
 
-Effective December 26, 2014, this part supersedes the following regulations under Title 40 of the Code of Federal Regulations:
+(a) In the EPA, the Director, Office of Grants and Debarment or designee, is authorized to grant exceptions on a case-by-case basis for non-Federal entities.
 
-(a) 40 CFR part 30, “Uniform Administrative Requirements for Grants and Agreements with Institutions of Higher Education, Hospitals, and other Non-profit Organizations.”
+(b) The EPA Director or designee is also authorized to approve exceptions, on a class or an individual case basis, to EPA program specific assistance regulations other than those which implement statutory and executive order requirements.
 
-(b) 40 CFR part 31, “Uniform Administrative Requirements for Grants and Cooperative Agreements to State and Local Governments.”
+[79 FR 76050, Dec. 19, 2014. Redesignated at 85 FR 61573, Sept. 30, 2020]

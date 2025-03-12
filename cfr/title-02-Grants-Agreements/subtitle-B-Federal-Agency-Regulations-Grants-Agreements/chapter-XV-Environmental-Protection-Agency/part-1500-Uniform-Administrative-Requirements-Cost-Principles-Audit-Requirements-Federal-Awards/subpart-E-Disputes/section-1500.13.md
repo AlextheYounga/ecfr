@@ -1,25 +1,31 @@
-##### § 1500.13 Definitions. #####
+##### § 1500.13 Purpose and scope of this subpart. #####
 
-Link to an amendment published at 85 FR 61573, Sept. 30, 2020.Link to an amendment published at 85 FR 61574, Sept. 30, 2020.
+(a) This section provides the process for the resolution of pre-award and post-award assistance agreement disputes as described in § 1500.14, except for:
 
-As used in this subpart:
+(1) Assistance agreement competition-related disputes which are covered by EPA's Grant Competition Dispute Resolution Procedures; and,
 
-(a) *Action Official (AO)* is the EPA official who authors the Agency Decision to the Affected Entity regarding a pre-award or post-award matter.
+(2) Any appeal process relating to an award official's determination that an entity is not qualified for award that may be developed pursuant to guidance implementing Section 872 of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 (Pub. L. 110-417, as amended).
 
-(b) *Affected Entity* is an entity that applies for and/or receives Federal financial assistance from EPA including but not limited to: State and local governments, Indian Tribes, Intertribal Consortia, Institutions of Higher Education, Hospitals, and other Non-profit Organizations, and Individuals.
+(b) Pre-award and post-award disagreements between affected entities and EPA related to an assistance agreement should be resolved at the lowest level possible. If an agreement cannot be reached, absent any other applicable statutory or regulatory dispute provisions, affected entities must follow the dispute procedures outlined in this subpart.
 
-(c) *Agency Decision* is the Agency's initial pre-award or post-award determination. The Agency Decision is sent by the Action Official (AO) to the Affected Entity electronically and informs them of their dispute rights including appealing the Agency Decision to the DDO. Assistance Agreement Appeal (or Appeal) is the letter an Affected Entity submits to the DDO to challenge an Agency Decision.
+(c) Determinations affecting assistance agreements made under certain Agency decision-making processes are not subject to review under the procedures in this subpart or the Agency's procedures for resolving assistance agreement competition-related disputes. These determinations include, but are not limited to:
 
-(d) *Dispute* is a disagreement by an Affected Entity with a specific Agency Decision regarding a pre-award or post-award action.
+(1) Decisions on requests for exceptions under § 1500.4;
 
-(e) *Disputes Decision Official (DDO)* is the designated agency official responsible for issuing a decision resolving an Appeal.
+(2) Bid protest decisions under 2 CFR 200.318(k);
 
-(1) The DDO for a Headquarters Assistance Agreement Appeal is the Director of the Grants and Interagency Agreement Management Division in the Office of Grants and Debarment or designee. To help provide for a fair and impartial review, the AO for the challenged Agency Decision may not serve as the Headquarters DDO and the DDO cannot serve as the Review Official for the Appeal decision.
+(3) National Environmental Policy Act decisions under 40 CFR part 6;
 
-(2) The DDO for a Regional Assistance Agreement Appeal is the official designated by the Regional Administrator to issue the written decision resolving the Appeal. To help provide for a fair and impartial review, the AO for the challenged Agency Decision may not serve as the Regional DDO and the DDO cannot serve as the Review Official for the Appeal decision. Request for Review is the letter an Affected Entity submits to the designated Review Official to challenge the DDO's Appeal decision.
+(4) Policy decisions of the EPA Internal Audit Dispute Resolution Process (formerly known as Audit Resolution Board);
 
-(f) *Review Official* is the EPA official responsible for issuing a decision resolving an Affected Entity's request for review of a DDO's Appeal decision.
+(5) Suspension and Debarment Decisions under 2 CFR parts 180 and 1532;
 
-(1) For a Headquarters DDO Appeal decision, the Review Official is the Director of the Office of Grants and Debarment or designee.
+(6) Decisions to decline to fund non-competitive applications or not to award incremental or supplemental funding based on the availability of funds or agency priorities;
 
-(2) For a Regional DDO Appeal decision, the Review Official is the Regional Administrator or designee.
+(7) Decisions on requests for reconsideration of specific award conditions under 2 CFR 200.208;
+
+(8) Decisions to deny requests for no-cost extensions under 2 CFR 200.308(e)(2), 40 CFR 35.114(b), and 40 CFR 35.514(b); and
+
+(9) Denials of requests for EPA approval of procurement through noncompetitive proposals under 2 CFR 200.320(c)(4).
+
+[79 FR 76050, Dec. 19, 2014. Redesignated at 85 FR 61573, Sept. 30, 2020]

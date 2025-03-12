@@ -1,5 +1,7 @@
 ##### § 184.1143 Ammonium sulfate. #####
 
+Link to an amendment published at 85 FR 72907, Nov. 16, 2020.
+
 (a) Ammonium sulfate ((NH4)2SO4, CAS Reg. No. 7783-20-2) occurs naturally and consists of colorless or white, odorless crystals or granules. It is prepared by the neutralization of sulfuric acid with ammonium hydroxide.
 
 (b) The ingredient meets the specifications of the “Food Chemicals Codex,” 3d Ed. (1981), pp. 22-23, which is incorporated by reference. Copies may be obtained from the National Academy Press, 2101 Constitution Ave. NW., Washington, DC 20418, or may be examined at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*

@@ -1,5 +1,7 @@
 ##### § 3.2 Applicability. #####
 
+Link to an amendment published at 85 FR 72910, Nov. 16, 2020.
+
 (a) The regulations in this part apply to all areas in the enclave and to all persons on or within the enclave, except as otherwise provided.
 
 (b) The regulations in this part do not apply to occupants, their visitors, and other authorized persons in areas used as living quarters:

@@ -14,4 +14,4 @@
 
 (5) Using the services and assistance, as appropriate, of such organizations as the Small Business Administration and the Minority Business Development Agency of the Department of Commerce; and
 
-(6) Requiring the prime contractor, if subcontracts are to be let, to take the affirmative steps listed in paragraphs (1) through (5) of this section.
+(6) Requiring the prime contractor, if subcontracts are to be let, to take the affirmative steps listed in paragraphs (b)(1) through (5) of this section.

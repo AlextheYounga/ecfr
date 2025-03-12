@@ -210,7 +210,7 @@
 
 (*2*) Is not currently exposed by the employer in those tasks on 30 or more days per year (twelve consecutive months).
 
-(B) *Previously exposed -*  The employer shall also institute a medical surveillance program for all employees who might previously have been exposed to cadmium by the employer prior to the effective date of this standard in tasks specified under paragraph (l)(1)(i)(A) of this section, unless the employer demonstrates that the employee did not in the years prior to the effective date of this section work in those tasks for the employer with exposure to cadmium for an aggregated total of more than 12 months.
+(B) *Previously exposed -* The employer shall also institute a medical surveillance program for all employees who might previously have been exposed to cadmium by the employer prior to the effective date of this standard in tasks specified under paragraph (l)(1)(i)(A) of this section, unless the employer demonstrates that the employee did not in the years prior to the effective date of this section work in those tasks for the employer with exposure to cadmium for an aggregated total of more than 12 months.
 
 (ii) To determine an employee's fitness for using a respirator, the employer shall provide the limited medical examination specified in paragraph (l)(6) of this section.
 

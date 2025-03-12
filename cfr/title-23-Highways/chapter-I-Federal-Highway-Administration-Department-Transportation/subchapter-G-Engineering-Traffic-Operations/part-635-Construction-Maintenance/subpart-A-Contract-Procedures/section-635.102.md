@@ -20,6 +20,8 @@ As used in this subpart:
 
 *Incentive/disincentive for early completion* as used in this subpart, describes a contract provision which compensates the contractor a certain amount of money for each day identified critical work is completed ahead of schedule and assesses a deduction for each day the contractor overruns the incentive/disincentive time. Its use is primarily intended for those critical projects where traffic inconvenience and delays are to be held to a minimum. The amounts are based upon estimates of such items as traffic safety, traffic maintenance, and road user delay costs.
 
+*Indefinite Delivery/Indefinite Quantity (ID/IQ) Project* means a project to be developed using one or more ID/IQ contracts.
+
 *Liquidated damages* means the daily amount set forth in the contract to be deducted from the contract price to cover additional costs incurred by a State transportation department because of the contractor's failure to complete the contract work within the number of calendar days or workdays specified. The term may also mean the total of all daily amounts deducted under the terms of a particular contract.
 
 *Local public agency* means any city, county, township, municipality, or other political subdivision that may be empowered to cooperate with the State transportation department in highway matters.
@@ -36,8 +38,8 @@ As used in this subpart:
 
 *Specialty items* means work items identified in the contract which are not normally associated with highway construction and require highly specialized knowledge, abilities or equipment not ordinarily available in the type of contracting organizations qualified and expected to bid on the contract; in general, these items are to be limited to minor components of the overall contract.
 
-*State transportation department (STD)* means that department, commission, board, or official of any State charged by its laws with the responsibility for highway construction. The term “State” should be considered equivalent to “State transportation department” if the context so implies.
+*State department of transportation (State DOT)* means that department, commission, board, or official of any State charged by its laws with the responsibility for highway construction. The term “State” should be considered equivalent to State DOT if the context so implies. In addition, State Highway Agency (SHA), State Transportation Agency (STA), State Transportation Department, or other similar terms should be considered equivalent to State DOT if the context so implies.
 
 *Workday* means a calendar day during which construction operations could proceed for a major part of a shift, normally excluding Saturdays, Sundays, and State-recognized legal holidays.
 
-[62 FR 6873, Feb. 14, 1997, as amended at 67 FR 75924, Dec. 10, 2002; 81 FR 86942, Dec. 2, 2016]
+[62 FR 6873, Feb. 14, 1997, as amended at 67 FR 75924, Dec. 10, 2002; 81 FR 86942, Dec. 2, 2016; 85 FR 72931, Nov. 16, 2020]

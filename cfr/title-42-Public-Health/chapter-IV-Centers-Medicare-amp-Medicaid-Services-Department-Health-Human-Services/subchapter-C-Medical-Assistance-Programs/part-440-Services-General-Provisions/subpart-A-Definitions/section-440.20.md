@@ -1,5 +1,7 @@
 ##### § 440.20 Outpatient hospital services and rural health clinic services. #####
 
+Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
+
 (a) *Outpatient hospital services* means preventive, diagnostic, therapeutic, rehabilitative, or palliative services that -
 
 (1) Are furnished to outpatients;

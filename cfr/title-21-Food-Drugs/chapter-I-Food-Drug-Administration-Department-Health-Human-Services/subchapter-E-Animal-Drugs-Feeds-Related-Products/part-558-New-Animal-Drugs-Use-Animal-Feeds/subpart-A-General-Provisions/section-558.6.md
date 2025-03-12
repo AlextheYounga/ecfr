@@ -100,4 +100,4 @@
 
 (8) A distributor is permitted to distribute a VFD feed to another distributor only if the originating distributor (consignor) first obtains a written (nonverbal) acknowledgment letter, as defined in § 558.3(b)(11), from the receiving distributor (consignee) before the feed is shipped. Consignor distributors must retain a copy of each consignee distributor's acknowledgment letter for 2 years.
 
-[80 FR 31733, June 3, 2015; 80 FR 35841, June 23, 2015; 85 FR 50784, Aug. 18, 2020]
+[80 FR 31733, June 3, 2015; 80 FR 35841, June 23, 2015, as amended at 85 FR 50784, Aug. 18, 2020]

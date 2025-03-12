@@ -1,7 +1,5 @@
 ##### § 1010.605 Definitions. #####
 
-Link to an amendment published at 85 FR 57137, Sept. 15, 2020.
-
 Except as otherwise provided, the following definitions apply for purposes of §§ 1010.610 through 1010.630 and § 1010.670:
 
 (a) *Beneficial owner* of an account means an individual who has a level of control over, or entitlement to, the funds or assets in the account that, as a practical matter, enables the individual, directly or indirectly, to control, manage or direct the account. The ability to fund the account or the entitlement to the funds of the account alone, however, without any corresponding authority to control, manage or direct the account (such as in the case of a minor child beneficiary), does not cause the individual to be a beneficial owner.
@@ -30,27 +28,17 @@ Except as otherwise provided, the following definitions apply for purposes of §
 
 (d) *Correspondent relationship* has the same meaning as correspondent account for purposes of §§ 1010.630 and 1010.670.
 
-(e) *Covered financial institution* means: (1) For purposes of § 1010.610 and 1010.620:
+(e) *Covered financial institution* means:
 
-(i) An insured bank (as defined in section 3(h) of the Federal Deposit Insurance Act (12 U.S.C. 1813(h)));
+(1) For purposes of § 1010.610 and 1010.620:
 
-(ii) A commercial bank;
+(i) A bank required to have an anti-money laundering compliance program under the regulations implementing 31 U.S.C. 5318(h), 12 U.S.C. 1818(s), or 12 U.S.C. 1786(q)(1);
 
-(iii) An agency or branch of a foreign bank in the United States;
+(ii) A broker or dealer in securities registered, or required to be registered, with the Securities and Exchange Commission under the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*), except persons who register pursuant to section 15(b)(11) of the Securities Exchange Act of 1934;
 
-(iv) A federally insured credit union;
+(iii) A futures commission merchant or an introducing broker registered, or required to be registered, with the Commodity Futures Trading Commission under the Commodity Exchange Act (7 U.S.C. 1 *et seq.*), except persons who register pursuant to section 4(f)(a)(2) of the Commodity Exchange Act; and
 
-(v) A savings association;
-
-(vi) A corporation acting under section 25A of the Federal Reserve Act (12 U.S.C. 611 *et seq.*);
-
-(vii) A trust bank or trust company that is federally regulated and is subject to an anti-money laundering program requirement;
-
-(viii) A broker or dealer in securities registered, or required to be registered, with the Securities and Exchange Commission under the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*), except persons who register pursuant to section 15(b)(11) of the Securities Exchange Act of 1934;
-
-(ix) A futures commission merchant or an introducing broker registered, or required to be registered, with the Commodity Futures Trading Commission under the Commodity Exchange Act (7 U.S.C. 1 *et seq.*), except persons who register pursuant to section 4(f)(a)(2) of the Commodity Exchange Act; and
-
-(x) A mutual fund;
+(iv) A mutual fund;
 
 (2) For purposes of §§ 1010.630 and 1010.670:
 
@@ -170,4 +158,4 @@ Except as otherwise provided, the following definitions apply for purposes of §
 
 (ii) *Immediate family member* means spouses, parents, siblings, children and a spouse's parents and siblings.
 
-[75 FR 65812, Oct. 26, 2010, as amended at 76 FR 43596, July 21, 2011]
+[75 FR 65812, Oct. 26, 2010, as amended at 76 FR 43596, July 21, 2011; 85 FR 57137, Sept. 15, 2020]

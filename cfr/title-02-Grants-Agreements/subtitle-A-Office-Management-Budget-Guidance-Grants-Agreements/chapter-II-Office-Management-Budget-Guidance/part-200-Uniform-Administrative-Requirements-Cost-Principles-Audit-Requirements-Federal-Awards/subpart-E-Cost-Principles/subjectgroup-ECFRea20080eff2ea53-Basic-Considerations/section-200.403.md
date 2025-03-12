@@ -1,7 +1,5 @@
 ##### § 200.403 Factors affecting allowability of costs. #####
 
-Link to an amendment published at 85 FR 49562, Aug. 13, 2020.
-
 Except where otherwise authorized by statute, costs must meet the following general criteria in order to be allowable under Federal awards:
 
 (a) Be necessary and reasonable for the performance of the Federal award and be allocable thereto under these principles.
@@ -14,6 +12,10 @@ Except where otherwise authorized by statute, costs must meet the following gene
 
 (e) Be determined in accordance with generally accepted accounting principles (GAAP), except, for state and local governments and Indian tribes only, as otherwise provided for in this part.
 
-(f) Not be included as a cost or used to meet cost sharing or matching requirements of any other federally-financed program in either the current or a prior period. See also § 200.306 Cost sharing or matching paragraph (b).
+(f) Not be included as a cost or used to meet cost sharing or matching requirements of any other federally-financed program in either the current or a prior period. See also § 200.306(b).
 
-(g) Be adequately documented. See also §§ 200.300 Statutory and national policy requirements through 200.309 Period of performance of this part.
+(g) Be adequately documented. See also §§ 200.300 through 200.309 of this part.
+
+(h) Cost must be incurred during the approved budget period. The Federal awarding agency is authorized, at its discretion, to waive prior written approvals to carry forward unobligated balances to subsequent budget periods pursuant to § 200.308(e)(3).
+
+[78 FR 78608, Dec. 26, 2013, as amended at 85 FR 49562, Aug. 13, 2020]

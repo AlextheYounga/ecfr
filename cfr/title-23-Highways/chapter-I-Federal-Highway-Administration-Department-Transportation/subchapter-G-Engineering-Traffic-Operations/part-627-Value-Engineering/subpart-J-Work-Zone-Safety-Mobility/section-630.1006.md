@@ -1,0 +1,3 @@
+##### § 630.1006 Work zone safety and mobility policy. #####
+
+Each State shall implement a policy for the systematic consideration and management of work zone impacts on all Federal-aid highway projects. This policy shall address work zone impacts throughout the various stages of the project development and implementation process. This policy may take the form of processes, procedures, and/or guidance, and may vary based on the characteristics and expected work zone impacts of individual projects or classes of projects. The States should institute this policy using a multi-disciplinary team and in partnership with the FHWA. The States are encouraged to implement this policy for non-Federal-aid projects as well.

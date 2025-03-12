@@ -1,18 +1,12 @@
-##### § 124.504 What circumstances limit SBA's ability to accept a procurement for award as an 8(a) contract? #####
-
-Link to an amendment published at 85 FR 66188, Oct. 16, 2020.
+##### § 124.504 What circumstances limit SBA's ability to accept a procurement for award as an 8(a) contract, and when can a requirement be released from the 8(a) BD program? #####
 
 SBA will not accept a procurement for award as an 8(a) contract if the circumstances identified in paragraphs (a) through (d) of this section exist.
 
 (a) *Prior intent to award as a small business set-aside, or use the HUBZone, Service Disabled Veteran-Owned Small Business, or Women-Owned Small Business programs.* The procuring activity issued a solicitation for or otherwise expressed publicly a clear intent to award the contract as a small business set-aside, or to use the HUBZone, Service Disabled Veteran-Owned Small Business, or Women-Owned Small Business programs prior to offering the requirement to SBA for award as an 8(a) contract. However, the AA/BD may permit the acceptance of the requirement under extraordinary circumstances.
 
-(b) *Competition prior to offer and acceptance.* The procuring activity competed a requirement among Participants prior to offering the requirement to SBA and receiving SBA's formal acceptance of the requirement.
+(b) *Competition prior to offer and acceptance.* The procuring activity competed a requirement among 8(a) Participants prior to offering the requirement to SBA and did not clearly evidence its intent to conduct an 8(a) competitive acquisition.
 
-(1) Any competition conducted without first obtaining SBA's formal acceptance of the procurement for the 8(a) BD program will not be considered an 8(a) competitive requirement.
-
-(2) SBA may accept the requirement for the 8(a) BD program as a competitive 8(a) requirement, but only if the procuring activity agrees to resolicit the requirement using appropriate competitive 8(a) procedures.
-
-(c) *Adverse impact.* SBA has made a written determination that acceptance of the procurement for 8(a) award would have an adverse impact on an individual small business, a group of small businesses located in a specific geographical location, or other small business programs. The adverse impact concept is designed to protect small business concerns which are performing Government contracts awarded outside the 8(a) BD program, and does not apply to follow-on or renewal 8(a) acquisitions. SBA will not consider adverse impact with respect to any requirement offered to the 8(a) program under Simplified Acquisition Procedures.
+(c) *Adverse impact.* SBA has made a written determination that acceptance of the procurement for 8(a) award would have an adverse impact on an individual small business, a group of small businesses located in a specific geographical location, or other small business programs. The adverse impact concept is designed to protect small business concerns which are performing Government contracts awarded outside the 8(a) BD program, and does not apply to follow-on or renewal 8(a) acquisitions. SBA will not consider adverse impact with respect to any requirement offered to the 8(a) program under the simplified acquisition threshold (as defined in the FAR at 48 CFR 2.101).
 
 (1) In determining whether the acceptance of a requirement would have an adverse impact on an individual small business, SBA will consider all relevant factors.
 
@@ -30,7 +24,7 @@ SBA will not accept a procurement for award as an 8(a) contract if the circumsta
 
 (B) Procurements for construction services (*e.g.,* the building of a specific structure) are generally deemed to be new requirements. However, recurring indefinite delivery or indefinite quantity task or delivery order construction services are not considered new (*e.g.,* a recurring procurement requiring all construction work at base X).
 
-(C) The expansion or modification of an existing requirement will be considered a new requirement where the magnitude of change is significant enough to cause a price adjustment of at least 25 percent (adjusted for inflation) or to require significant additional or different types of capabilities or work.
+(C) The expansion or modification of an existing requirement may be considered a new requirement where the magnitude of change is significant enough to cause a price adjustment of at least 25 percent (adjusted for inflation) or to require significant additional or different types of capabilities or work.
 
 (D) SBA need not perform an impact determination where a new requirement is offered to the 8(a) BD program.
 
@@ -38,7 +32,9 @@ SBA will not accept a procurement for award as an 8(a) contract if the circumsta
 
 (3) In determining whether the acceptance of a requirement would have an adverse impact on other small business programs, SBA will consider all relevant factors, including but not limited to, the number and value of contracts in the subject industry in the 8(a) BD program as compared with other small business programs.
 
-(d) *Release for non-8(a) competition.* (1) Except as set forth in (d)(4) of this section, where a procurement is awarded as an 8(a) contract, its follow-on or renewable acquisition must remain in the 8(a) BD program unless SBA agrees to release it for non-8(a) competition. If a procuring agency would like to fulfill a follow-on or renewable acquisition outside of the 8(a) BD program, it must make a written request to and receive the concurrence of the AA/BD to do so. In determining whether to release a requirement from the 8(a) BD program, SBA will consider:
+(4) SBA does not typically consider the value of a bridge contract when determining whether an offered procurement is a new requirement. A bridge contract is meant to be a temporary stop-gap measure intended to ensure the continuation of service while an agency finalizes a long-term procurement approach.
+
+(d) *Release for non-8(a) or limited 8(a) competition.* (1) Except as set forth in paragraph (d)(4) of this section, where a procurement is awarded as an 8(a) contract, its follow-on requirement must remain in the 8(a) BD program unless SBA agrees to release it for non-8(a) competition. Where a procurement will contain work currently performed under one or more 8(a) contracts, and the procuring agency determines that the procurement should not be considered a follow-on requirement to the 8(a) contract(s), the procuring agency must notify SBA that it intends to procure such specified work outside the 8(a) BD program through a requirement that it considers to be new. Additionally, a procuring agency must notify SBA where it seeks to reprocure a follow-on requirement through a pre-existing limited contracting vehicle which is not available to all 8(a) BD Program Participants and the previous/current 8(a) award was not so limited. If a procuring agency would like to fulfill a follow-on requirement outside of the 8(a) BD program, it must make a written request to and receive the concurrence of the AA/BD to do so. In determining whether to release a requirement from the 8(a) BD program, SBA will consider:
 
 (i) Whether the agency has achieved its SDB goal;
 
@@ -60,6 +56,10 @@ SBA will not accept a procurement for award as an 8(a) contract if the circumsta
 
 (3) SBA will release a requirement under this paragraph only where the procuring activity agrees to procure the requirement as a small business, HUBZone, SDVO small business, or WOSB set-aside.
 
-(4) The requirement that a follow-on procurement must be released from the 8(a) BD program in order for it to be fulfilled outside the 8(a) BD program does not apply to orders offered to and accepted for the 8(a) BD program pursuant to § 124.50(3)(h)(2).
+(4) The requirement that a follow-on procurement must be released from the 8(a) BD program in order for it to be fulfilled outside the 8(a) BD program does not apply:
 
-[63 FR 35739, 35772, June 30, 1998, as amended at 74 FR 45753, Sept. 4, 2009; 76 FR 8259, Feb. 11, 2011; 78 FR 61133, Oct. 2, 2013; 81 FR 34260, May 31, 2016; 81 FR 48582, July 25, 2016]
+(i) Where previous orders were offered to and accepted for the 8(a) BD program pursuant to § 124.503(i)(2); or
+
+(ii) Where a procuring agency will use a mandatory source (*see* FAR Subparts 8.6 and 8.7(48 CFR subparts 8.6 and 8.7)). In such a case, the procuring agency should notify SBA at least 30 days prior to the end of the contract or order.
+
+[63 FR 35739, 35772, June 30, 1998, as amended at 74 FR 45753, Sept. 4, 2009; 76 FR 8259, Feb. 11, 2011; 78 FR 61133, Oct. 2, 2013; 81 FR 34260, May 31, 2016; 81 FR 48582, July 25, 2016; 85 FR 66188, Oct. 16, 2020]

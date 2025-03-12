@@ -1,5 +1,5 @@
-##### § 170.305 Award. #####
+##### § 170.305 Federal award. #####
 
-Link to an amendment published at 85 FR 49526, Aug. 13, 2020.
+*Federal award,* for the purposes of this part, means an award of Federal financial assistance that a recipient receives directly from a Federal awarding agency.
 
-*Award,* for the purposes of this part, effective October 1, 2010, means a grant or cooperative agreement. On future dates to be specified by OMB in policy memoranda available at the OMB Web site, award also will include other types of awards of Federal financial assistance subject to the Transparency Act, as defined in § 170.320.
+[85 FR 49526, Aug. 13, 2020]

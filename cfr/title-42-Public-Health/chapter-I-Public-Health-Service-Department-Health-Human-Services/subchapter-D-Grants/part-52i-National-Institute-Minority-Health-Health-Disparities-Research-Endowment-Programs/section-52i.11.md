@@ -1,5 +1,7 @@
 ##### § 52i.11 What shall a grantee record and report? #####
 
+Link to an amendment published at 85 FR 72908, Nov. 16, 2020.
+
 A grantee awarded funds under this part shall:
 
 (a) Maintain appropriate records in compliance with this part and other requirements as referenced in terms of the award, including documentation of:

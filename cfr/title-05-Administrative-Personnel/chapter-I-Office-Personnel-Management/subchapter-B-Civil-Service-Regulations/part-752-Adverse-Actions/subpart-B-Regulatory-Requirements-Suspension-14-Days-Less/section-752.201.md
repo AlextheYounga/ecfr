@@ -1,7 +1,5 @@
 ##### § 752.201 Coverage. #####
 
-Link to an amendment published at 85 FR 65985, Oct. 16, 2020.
-
 (a) *Adverse actions covered.* This subpart covers suspension for 14 days or less.
 
 (b) *Employees covered.* This subpart covers:
@@ -26,11 +24,13 @@ Link to an amendment published at 85 FR 65985, Oct. 16, 2020.
 
 (3) Taken under any other provision of law which excepts the action from subchapter I, chapter 75, of title 5, U.S. Code;
 
-(4) Of a reemployed annuitant; or
+(4) Of a re-employed annuitant;
 
-(5) Of a National Guard Technician.
+(5) Of a National Guard Technician; or
 
-(d) *Definitions.* In this subpart -
+(6) Taken under 5 U.S.C. 7515.
+
+(d) *Definitions.* In this subpart—
 
 *Current continuous employment* means a period of employment immediately preceding a suspension action without a break in Federal civilian employment of a workday.
 
@@ -39,3 +39,5 @@ Link to an amendment published at 85 FR 65985, Oct. 16, 2020.
 *Similar positions* means positions in which the duties performed are similar in nature and character and require substantially the same or similar qualifications, so that the incumbent could be interchanged between the positions without significant training or undue interruption to the work.
 
 *Suspension* means the placing of an employee, for disciplinary reasons, in a temporary status without duties and pay.
+
+[74 FR 63532, Dec. 4, 2009, as amended at 85 FR 65985, Oct. 16, 2020]

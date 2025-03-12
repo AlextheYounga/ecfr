@@ -1,5 +1,7 @@
 ##### § 485.639 Condition of participation: Surgical services. #####
 
+Link to an amendment published at 85 FR 72910, Nov. 16, 2020.
+
 If a CAH provides surgical services, surgical procedures must be performed in a safe manner by qualified practitioners who have been granted clinical privileges by the governing body, or responsible individual, of the CAH in accordance with the designation requirements under paragraph (a) of this section.
 
 (a) *Designation of qualified practitioners.* The CAH designates the practitioners who are allowed to perform surgery for CAH patients, in accordance with its approved policies and procedures, and with State scope of practice laws. Surgery is performed only by -

@@ -1,8 +1,6 @@
 ##### § 121.1004 What time limits apply to size protests? #####
 
-Link to an amendment published at 85 FR 66182, Oct. 16, 2020.
-
-(a) *Protests by entities other than contracting officers or SBA* - (1) *Sealed bids or sales (including protests on partial set-asides and reserves of Multiple Award Contracts and set-asides of orders against Multiple Award Contracts).* A protest must be received by the contracting officer prior to the close of business on the 5th day, exclusive of Saturdays, Sundays, and legal holidays, after bid opening for
+(a) *Protests by entities other than contracting officers or SBA*—(1) *Sealed bids or sales (including protests on partial set-asides and reserves of Multiple Award Contracts and set-asides of orders against Multiple Award Contracts).* A protest must be received by the contracting officer prior to the close of business on the 5th day, exclusive of Saturdays, Sundays, and legal holidays, after bid opening for
 
 (i) The contract; or
 
@@ -12,7 +10,9 @@ Link to an amendment published at 85 FR 66182, Oct. 16, 2020.
 
 (i) The contract; or
 
-(ii) An order issued against a Multiple Award Contract if the contracting officer requested a new size certification in connection with that order.
+(ii) An order issued against a Multiple Award Contract if the contracting officer requested a size recertification in connection with that order; or
+
+(iii) Except for orders or Blanket Purchase Agreements issued under any Federal Supply Schedule contract, an order or Blanket Purchase Agreement set-aside for small business (*i.e.,* small business set-aside, 8(a) small business, service-disabled veteran-owned small business, HUBZone small business, or women-owned small business) where the underlying Multiple Award Contract was awarded on an unrestricted basis.
 
 (3) *Long-Term Contracts.* For contracts with durations greater than five years (including options), including all existing long-term contracts, Multi-agency contracts, Governmentwide Acquisition Contracts and Multiple Award Contracts:
 
@@ -38,4 +38,4 @@ Link to an amendment published at 85 FR 66182, Oct. 16, 2020.
 
 (e) *Premature protests.* A protest filed by any party, including the contracting officer, before bid opening or notification to offerors of the selection of the apparent successful offer will be dismissed as premature.
 
-[61 FR 3286, Jan. 31, 1996, as amended at 69 FR 29206, May 21, 2004; 71 FR 66444, Nov. 15, 2006; 77 FR 76227, Dec. 27, 2012; 78 FR 61132, Oct. 2, 2013]
+[61 FR 3286, Jan. 31, 1996, as amended at 69 FR 29206, May 21, 2004; 71 FR 66444, Nov. 15, 2006; 77 FR 76227, Dec. 27, 2012; 78 FR 61132, Oct. 2, 2013; 85 FR 66182, Oct. 16, 2020]

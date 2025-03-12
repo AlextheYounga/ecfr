@@ -1,5 +1,7 @@
 ##### § 133.116 Low sodium cheddar cheese. #####
 
+Link to an amendment published at 85 FR 72907, Nov. 16, 2020.
+
 Low sodium cheddar cheese is the food prepared from the same ingredients and in the same manner prescribed in § 133.113 for cheddar cheese and complies with all the provisions of § 133.113, including the requirements for label statement of ingredients, except that:
 
 (a) It contains not more than 96 milligrams of sodium per pound of finished food.

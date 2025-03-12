@@ -1,7 +1,5 @@
 ##### § 51.22 Criterion for categorical exclusion; identification of licensing and regulatory actions eligible for categorical exclusion or otherwise not requiring environmental review. #####
 
-Link to an amendment published at 85 FR 65663, Oct. 16, 2020.
-
 (a) Licensing, regulatory, and administrative actions eligible for categorical exclusion shall meet the following criterion: The action belongs to a category of actions which the Commission, by rule or regulation, has declared to be a categorical exclusion, after first finding that the category of actions does not individually or cumulatively have a significant effect on the human environment.
 
 (b) Except in special circumstances, as determined by the Commission upon its own initiative or upon request of any interested person, an environmental assessment or an environmental impact statement is not required for any action within a category of actions included in the list of categorical exclusions set out in paragraph (c) of this section. Special circumstances include the circumstance where the proposed action involves unresolved conflicts concerning alternative uses of available resources within the meaning of section 102(2)(E) of NEPA.
@@ -12,7 +10,7 @@ Link to an amendment published at 85 FR 65663, Oct. 16, 2020.
 
 (2) Amendments to the regulations in this chapter which are corrective or of a minor or nonpolicy nature and do not substantially modify existing regulations, and actions on petitions for rulemaking relating to these amendments.
 
-(3) Amendments to parts 20, 30, 31, 32, 33, 34, 35, 37, 39, 40, 50, 51, 52, 54, 60, 61, 63, 70, 71, 72, 73, 74, 81, and 100 of this chapter which relate to -
+(3) Amendments to parts 20, 30, 31, 32, 33, 34, 35, 37, 39, 40, 50, 51, 52, 54, 60, 61, 63, 70, 71, 72, 73, 74, 81, and 100 of this chapter which relate to—
 
 (i) Procedures for filing and reviewing applications for licenses or construction permits or early site permits or other forms of permission or for amendments to or renewals of licenses or construction permits or early site permits or other forms of permission;
 
@@ -42,7 +40,7 @@ Link to an amendment published at 85 FR 65663, Oct. 16, 2020.
 
 (iii) There is no significant increase in individual or cumulative occupational radiation exposure.
 
-(10) Issuance of an amendment to a permit or license issued under this chapter which -
+(10) Issuance of an amendment to a permit or license issued under this chapter which—
 
 (i) Changes surety, insurance and/or indemnity requirements;
 
@@ -56,7 +54,7 @@ Link to an amendment published at 85 FR 65663, Oct. 16, 2020.
 
 (11) Issuance of amendments to licenses for fuel cycle plants and radioactive waste disposal sites and amendments to materials licenses identified in § 51.60(b)(1) which are administrative, organizational, or procedural in nature, or which result in a change in process operations or equipment, provided that (i) there is no significant change in the types or significant increase in the amounts of any effluents that may be released offsite, (ii) there is no significant increase in individual or cumulative occupational radiation exposure, (iii) there is no significant construction impact, and (iv) there is no significant increase in the potential for or consequences from radiological accidents.
 
-(12) Issuance of an amendment to a license under parts 50, 52, 60, 61, 63, 70, 72, or 75 of this chapter relating solely to safeguards matters (*i.e.*, protection against sabotage or loss or diversion of special nuclear material) or issuance of an approval of a safeguards plan submitted under parts 50, 52, 70, 72, and 73 of this chapter, provided that the amendment or approval does not involve any significant construction impacts. These amendments and approvals are confined to -
+(12) Issuance of an amendment to a license under parts 50, 52, 60, 61, 63, 70, 72, or 75 of this chapter relating solely to safeguards matters (*i.e.*, protection against sabotage or loss or diversion of special nuclear material) or issuance of an approval of a safeguards plan submitted under parts 50, 52, 70, 72, and 73 of this chapter, provided that the amendment or approval does not involve any significant construction impacts. These amendments and approvals are confined to—
 
 (i) Organizational and procedural matters;
 
@@ -100,7 +98,7 @@ Link to an amendment published at 85 FR 65663, Oct. 16, 2020.
 
 (xv) Possession, manufacturing, processing, shipment, testing, or other use of depleted uranium military munitions.
 
-(xvi) Any use of source, byproduct, or special nuclear material not listed above which involves quantities and forms of source, byproduct, or special nuclear material similar to those listed in paragraphs (c)(14) (i) through (xv) of this section (Category 14).
+(xvi) Any use of source, byproduct, or special nuclear material not listed above which involves quantities and forms of source, byproduct, or special nuclear material similar to those listed in paragraphs (c)(14) (i) through (xv) of this section.
 
 (15) Issuance, amendment or renewal of licenses for import of nuclear facilities and materials pursuant to part 110 of this chapter, except for import of spent power reactor fuel.
 
@@ -112,7 +110,7 @@ Link to an amendment published at 85 FR 65663, Oct. 16, 2020.
 
 (19) Issuance, amendment, modification, or renewal of a certificate of compliance of gaseous diffusion enrichment facilities pursuant to 10 CFR part 76.
 
-(20) Decommissioning of sites where licensed operations have been limited to the use of -
+(20) Decommissioning of sites where licensed operations have been limited to the use of—
 
 (i) Small quantities of short-lived radioactive materials;
 
@@ -136,7 +134,7 @@ Link to an amendment published at 85 FR 65663, Oct. 16, 2020.
 
 (iv) The release of radioactive material.
 
-(25) Granting of an exemption from the requirements of any regulation of this chapter, provided that -
+(25) Granting of an exemption from the requirements of any regulation of this chapter, provided that—
 
 (i) There is no significant hazards consideration;
 

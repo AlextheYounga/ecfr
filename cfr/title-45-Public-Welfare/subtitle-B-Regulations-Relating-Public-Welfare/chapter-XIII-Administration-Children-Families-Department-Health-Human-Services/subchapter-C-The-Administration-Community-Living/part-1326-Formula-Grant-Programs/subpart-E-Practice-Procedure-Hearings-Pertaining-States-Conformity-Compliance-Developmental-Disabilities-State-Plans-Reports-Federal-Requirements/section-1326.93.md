@@ -1,5 +1,7 @@
 ##### § 1326.93 Issues at hearing. #####
 
+Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
+
 (a) Prior to a hearing, the Secretary or his or her designee may notify the State in writing of additional issues which will be considered at the hearing. That notice must be published in the Federal Register. If that notice is mailed to the State less than 20 days before the date of the hearing, the State or any other party, at its request, must be granted a postponement of the hearing to a date 20 days after the notice was mailed or such later date as may be agreed to by the Secretary or his or her designee.
 
 (b) If any issue is resolved in whole or in part, but new or modified issues are presented, the hearing must proceed on the new or modified issues.

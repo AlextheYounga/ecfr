@@ -1,5 +1,7 @@
 ##### § 1.24 Exemptions from required label statements. #####
 
+Link to an amendment published at 85 FR 72906, Nov. 16, 2020.
+
 The following exemptions are granted from label statements required by this part:
 
 (a) *Foods.* (1) While held for sale, a food shall be exempt from the required declaration of net quantity of contents specified in this part if said food is received in bulk containers at a retail establishment and is accurately weighed, measured, or counted either within the view of the purchaser or in compliance with the purchaser's order.

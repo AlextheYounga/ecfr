@@ -1,7 +1,5 @@
 ##### § 72.32 Emergency Plan. #####
 
-Link to an amendment published at 85 FR 65664, Oct. 16, 2020.
-
 (a) Each application for an ISFSI that is licensed under this part which is: Not located on the site of a nuclear power reactor, or not located within the exclusion area as defined in 10 CFR part 100 of a nuclear power reactor, or located on the site of a nuclear power reactor which does not have an operating license, or located on the site of a nuclear power reactor that is not authorized to operate must be accompanied by an Emergency Plan that includes the following information:
 
 (1) *Facility description.* A brief description of the licensee's facility and area near the site.
@@ -20,7 +18,7 @@ Link to an amendment published at 85 FR 65664, Oct. 16, 2020.
 
 (8) *Notification and coordination.* A commitment to and a brief description of the means to promptly notify offsite response organizations and request offsite assistance, including medical assistance for the treatment of contaminated injured onsite workers when appropriate. A control point must be established. The notification and coordination must be planned so that unavailability of some personnel, parts of the facility, and some equipment will not prevent the notification and coordination. The licensee shall also commit to notify the NRC operations center immediately after notifications of the appropriate offsite response organizations and not later than one hour after the licensee declares an emergency.10
 
-10 These reporting requirements do not supersede or release licensees of complying with the requirements under the Emergency Planning and Community Right-to-Know Act of 1986, Title III, Pub. L. 99-499 or other State or Federal reporting requirements.
+1 These reporting requirements do not supersede or release licensees of complying with the requirements under the Emergency Planning and Community Right-to-Know Act of 1986, Title III, Pub. L. 99-499 or other State or Federal reporting requirements.
 
 (9) *Information to be communicated.* A brief description of the types of information on facility status; radioactive releases; and recommended protective actions, if necessary, to be given to offsite response organizations and to the NRC.
 
@@ -58,7 +56,7 @@ Link to an amendment published at 85 FR 65664, Oct. 16, 2020.
 
 (8) *Notification and coordination.* A commitment to and a brief description of the means to promptly notify offsite response organizations and request offsite assistance, including medical assistance for the treatment of contaminated injured onsite workers when appropriate. A control point must be established. The notification and coordination must be planned so that unavailability of some personnel, parts of the facility, and some equipment will not prevent the notification and coordination. The licensee shall also commit to notify the NRC operations center immediately after notifications of the appropriate offsite response organizations and not later than one hour after the licensee declares an emergency.11
 
-11 These reporting requirements do not supersede or release licensees of complying with the requirements under the Emergency Planning and Community Right-to-Know Act of 1986, Title III, Pub. L. 99-499 or other State or Federal reporting requirements.
+2 These reporting requirements do not supersede or release licensees of complying with the requirements under the Emergency Planning and Community Right-to-Know Act of 1986, Title III, Pub. L. 99-499 or other State or Federal reporting requirements.
 
 (9) *Information to be communicated.* A brief description of the types of information on facility status; radioactive releases; and recommended protective actions, if necessary, to be given to offsite response organizations and to the NRC.
 
@@ -98,4 +96,4 @@ Link to an amendment published at 85 FR 65664, Oct. 16, 2020.
 
 (d) A licensee with a license issued under this part may take reasonable action that departs from a license condition or a technical specification (contained in a license issued under this part) in an emergency when this action is immediately needed to protect the public health and safety and no action consistent with license conditions and technical specifications that can provide adequate or equivalent protection is immediately apparent.
 
-[60 FR 32441, June 22, 1995]
+[60 FR 32441, June 22, 1995, as amended at 85 FR 65663, Oct. 16, 2020]

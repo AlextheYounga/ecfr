@@ -1,8 +1,6 @@
 ##### § 170.320 Federal financial assistance subject to the Transparency Act. #####
 
-Link to an amendment published at 85 FR 49526, Aug. 13, 2020.
-
-*Federal financial assistance subject to the Transparency Act* means assistance that non-Federal entities described in § 170.105 receive or administer in the form of -
+*Federal financial assistance subject to the Transparency Act* means assistance that non-Federal entities described in § 170.105 receive or administer in the form of—
 
 (a) Grants;
 
@@ -24,14 +22,14 @@ Link to an amendment published at 85 FR 49526, Aug. 13, 2020.
 
 (j) Other financial assistance transactions that authorize the non-Federal entities' expenditure of Federal funds.
 
-(b) Does not include -
+(k) Federal financial assistance subject to the Transparency Act, does not include—
 
 (1) Technical assistance, which provides services in lieu of money;
 
-(2) A transfer of title to Federally owned property provided in lieu of money, even if the award is called a grant;
+(2) A transfer of title to federally-owned property provided in lieu of money, even if the award is called a grant;
 
 (3) Any classified award; or
 
 (4) Any award funded in whole or in part with Recovery funds, as defined in section 1512 of the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5).
 
-Editorial Note:At 75 FR 55669, Sept. 14, 2010, § 170.320 was added with two paragraph (b)s.
+[75 FR 55669, Sept. 14, 2010, as amended at 85 FR 49526, Aug. 13, 2020]

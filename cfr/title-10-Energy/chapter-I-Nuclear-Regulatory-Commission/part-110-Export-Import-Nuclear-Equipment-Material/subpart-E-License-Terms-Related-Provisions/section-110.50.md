@@ -1,7 +1,5 @@
 ##### § 110.50 Terms. #####
 
-Link to an amendment published at 85 FR 65665, Oct. 16, 2020.
-
 (a) *General and specific licenses.* (1) Each license is subject to all applicable provisions of the Atomic Energy Act and other applicable law and to all applicable rules, regulations, decisions and orders of the Commission.
 
 (2) Each license is subject to amendment, suspension, revocation or incorporation of separate conditions when required by amendments of the Atomic Energy Act or other applicable law, or by other rules, regulations, decisions or orders issued in accordance with the terms of the Atomic Energy Act or other applicable law.
@@ -36,7 +34,7 @@ Link to an amendment published at 85 FR 65665, Oct. 16, 2020.
 
 (c) *Advanced notification.* (1) A licensee authorized to export or import the radioactive material listed in Appendix P to this part is responsible for notifying NRC and, in cases of exports, the government of the importing country in advance of each shipment. A list of points of contact in importing countries is available at NRC's Office of International Programs Web site, accessible on the NRC Public Web site at *http://www.nrc.gov.*
 
-(2) The NRC's office responsible for receiving advance notifications for all export and import shipments is the NRC Operations Center. Notifications are to be e-mailed to *Hoo.Hoc@nrc.gov* (preferred method) or faxed to (301) 816-5151. In the subject line of the e-mail or on the fax cover page include “10 CFR 110.50(c) Notification.” To contact the NRC Operations Center, use the same e-mail address or call (301) 816-5100. Difficulties notifying the NRC Operations Center must be promptly reported to the Office of International Programs at (301) 415-2336.
+(2) The NRC's office responsible for receiving advance notifications for all export and import shipments is the NRC Headquarters Operations Center. Notifications to the NRC Headquarters Operations Center are to be submitted by email (preferred method) or faxed using the contact information specified in appendix A to 10 CFR part 73 of this chapter. In the subject line of the email or on the fax cover page include “10 CFR 110.50(c) Notification.” To contact the NRC Operations Center, use the same email address or call the telephone number in appendix A to 10 CFR part 73. For questions or concerns on submitting these advance notifications to the NRC, please contact the Office of International Programs at 301-287-9056.
 
 (3) Notifications may be electronic or in writing on business stationary, and must contain or be accompanied by the information which follows.
 
@@ -82,4 +80,4 @@ Link to an amendment published at 85 FR 65665, Oct. 16, 2020.
 
 (d) A specific license may be transferred, disposed of or assigned to another person only with the approval of the Commission by license amendment.
 
-[75 FR 44091, July 28, 2010]
+[75 FR 44091, July 28, 2010, as amended at 85 FR 65664, Oct. 16, 2020]

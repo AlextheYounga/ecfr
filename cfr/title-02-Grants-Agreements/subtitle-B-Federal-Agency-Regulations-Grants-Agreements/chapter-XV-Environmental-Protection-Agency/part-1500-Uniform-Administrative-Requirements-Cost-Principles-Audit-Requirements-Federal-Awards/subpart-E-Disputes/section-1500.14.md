@@ -1,19 +1,25 @@
-##### § 1500.14 Submission of Appeal. #####
+##### § 1500.14 Definitions. #####
 
-Link to an amendment published at 85 FR 61573, Sept. 30, 2020.Link to an amendment published at 85 FR 61574, Sept. 30, 2020.
+As used in this subpart:
 
-An Affected Entity or its authorized representative may dispute an Agency Decision by electronically submitting an Appeal to the DDO identified in the Agency Decision. In order for the DDO to consider the Appeal, it must satisfy the following requirements:
+(a) *Action Official (AO)* is the EPA official who authors the Agency Decision to the Affected Entity regarding a pre-award or post-award matter.
 
-(a) *Timeliness.* The DDO must receive the Appeal no later than 30 calendar days from the date the Agency Decision is electronically sent to the Affected Entity. The DDO will dismiss any Appeal received after the 30-day period unless the DDO grants an extension of time to submit the Appeal. The Affected Entity must submit a written request for extension to the DDO before the expiration of the 30-day period. The DDO may grant a one-time extension of up to 30 calendar days when justified by the situation, which may include the unusual complexity of the Appeal or because of exigent circumstances.
+(b) *Affected Entity* is an entity that applies for and/or receives Federal financial assistance from EPA including but not limited to: State and local governments, Indian Tribes, Intertribal Consortia, Institutions of Higher Education, Hospitals, and other Non-profit Organizations, and Individuals.
 
-(b) *Method of submission.* The Affected Entity must submit the Appeal electronically via email to the DDO, with a copy to the AO, using the email addresses specified in the Agency Decision within the 30-day period stated in paragraph (a) of this section.
+(c) *Agency Decision* is the agency's initial pre-award or post-award assistance agreement determination that may be disputed in accordance with this subpart. The Agency Decision is sent by the Action Official (AO) to the Affected Entity electronically and informs them of their dispute rights and identifies the Dispute Decision Official (DDO). An Agency Decision based on audit findings serves as EPA's *Management decision* as defined in 2 CFR part 200.1.
 
-(c) *Contents of Appeal.* The Appeal submitted to the DDO must include:
+(d) *Dispute* is a disagreement by an Affected Entity with a specific Agency Decision submitted to the DDO in accordance with this subpart.
 
-(1) A copy of the disputed Agency Decision;
+(e) *Dispute Decision Official (DDO)* is the designated agency official responsible for issuing a decision resolving a Dispute.
 
-(2) A detailed statement of the specific legal and factual grounds for the Appeal, including copies of any supporting documents;
+(1) The DDO for a Headquarters Dispute is the Director of the Grants and Interagency Agreement Management Division in the Office of Grants and Debarment or designee. To provide for a fair and impartial review, the AO for the challenged Agency Decision may not serve as the Headquarters DDO.
 
-(3) The specific remedy or relief the Affected Entity seeks under the Appeal; and
+(2) The DDO for a Regional Assistance Agreement Dispute is the Regional Administrator or the official designated by the Regional Administrator to issue the written decision resolving the Dispute. To provide for a fair and impartial review, the AO for the challenged Agency Decision may not serve as the Regional DDO.
 
-(4) The name and contact information, including email address, of the Affected Entity's designated point of contact for the Appeal.
+(f) *Review Official* is the EPA official responsible for issuing a decision resolving an Affected Entity's request for review of a DDO's Appeal decision.
+
+(1) For a Headquarters DDO Appeal decision, the Review Official is the Director of the Office of Grants and Debarment or designee.
+
+(2) For a Regional DDO Appeal decision, the Review Official is the Regional Administrator or designee.
+
+[79 FR 76050, Dec. 19, 2014. Redesignated at 85 FR 61573, Sept. 30, 2020]

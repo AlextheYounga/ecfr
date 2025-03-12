@@ -1,5 +1,7 @@
 ##### § 1008.36 Submission of a request. #####
 
+Link to an amendment published at 85 FR 72910, Nov. 16, 2020.
+
 (a) A request for a formal advisory opinion must be submitted in writing. An original and 2 copies of the request should be addressed to the headquarter offices of the OIG.
 
 (b) Each request for an advisory opinion must include -

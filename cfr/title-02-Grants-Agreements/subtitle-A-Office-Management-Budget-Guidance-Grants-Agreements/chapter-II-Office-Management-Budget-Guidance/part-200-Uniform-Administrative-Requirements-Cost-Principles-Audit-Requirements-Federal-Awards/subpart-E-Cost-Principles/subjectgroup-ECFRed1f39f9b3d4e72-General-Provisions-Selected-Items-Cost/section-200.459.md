@@ -1,8 +1,6 @@
 ##### § 200.459 Professional service costs. #####
 
-Link to an amendment published at 85 FR 49569, Aug. 13, 2020.
-
-(a) Costs of professional and consultant services rendered by persons who are members of a particular profession or possess a special skill, and who are not officers or employees of the non-Federal entity, are allowable, subject to paragraphs (b) and (c) when reasonable in relation to the services rendered and when not contingent upon recovery of the costs from the Federal Government. In addition, legal and related services are limited under § 200.435 Defense and prosecution of criminal and civil proceedings, claims, appeals and patent infringements.
+(a) Costs of professional and consultant services rendered by persons who are members of a particular profession or possess a special skill, and who are not officers or employees of the non-Federal entity, are allowable, subject to paragraphs (b) and (c) of this section when reasonable in relation to the services rendered and when not contingent upon recovery of the costs from the Federal Government. In addition, legal and related services are limited under § 200.435.
 
 (b) In determining the allowability of costs in a particular case, no single factor or any special combination of factors is necessarily determinative. However, the following factors are relevant:
 
@@ -23,3 +21,5 @@ Link to an amendment published at 85 FR 49569, Aug. 13, 2020.
 (8) Adequacy of the contractual agreement for the service (e.g., description of the service, estimate of time required, rate of compensation, and termination provisions).
 
 (c) In addition to the factors in paragraph (b) of this section, to be allowable, retainer fees must be supported by evidence of bona fide services available or rendered.
+
+[78 FR 78608, Dec. 26, 2013, as amended at 85 FR 49569, Aug. 13, 2020]

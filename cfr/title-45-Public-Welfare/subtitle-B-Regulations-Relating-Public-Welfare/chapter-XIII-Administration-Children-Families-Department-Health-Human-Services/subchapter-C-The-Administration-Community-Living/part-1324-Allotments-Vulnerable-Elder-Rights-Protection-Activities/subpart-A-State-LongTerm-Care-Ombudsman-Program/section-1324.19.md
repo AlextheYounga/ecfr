@@ -1,5 +1,7 @@
 ##### § 1324.19 Duties of the representatives of the Office. #####
 
+Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
+
 In carrying out the duties of the Office, the Ombudsman may designate an entity as a local Ombudsman entity and may designate an employee or volunteer of the local Ombudsman entity as a representative of the Office. Representatives of the Office may also be designated employees or volunteers within the Office.
 
 (a) *Duties.* An individual so designated as a representative of the Office shall, in accordance with the policies and procedures established by the Office and the State agency:

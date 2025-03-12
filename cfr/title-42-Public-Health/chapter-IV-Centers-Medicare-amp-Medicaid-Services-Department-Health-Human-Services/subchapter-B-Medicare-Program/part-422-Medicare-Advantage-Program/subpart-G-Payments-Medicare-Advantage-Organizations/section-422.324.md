@@ -1,5 +1,7 @@
 ##### § 422.324 Payments to MA organizations for graduate medical education costs. #####
 
+Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
+
 (a) MA organizations may receive direct graduate medical education payments for the time that residents spend in non-hospital provider settings such as freestanding clinics, nursing homes, and physicians' offices in connection with approved programs.
 
 (b) MA organizations may receive direct graduate medical education payments if all of the following conditions are met:

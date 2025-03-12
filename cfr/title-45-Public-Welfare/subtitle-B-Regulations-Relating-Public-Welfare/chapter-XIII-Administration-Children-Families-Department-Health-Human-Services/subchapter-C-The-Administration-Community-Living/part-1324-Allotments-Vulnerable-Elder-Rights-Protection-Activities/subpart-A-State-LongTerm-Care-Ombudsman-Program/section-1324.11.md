@@ -1,5 +1,7 @@
 ##### § 1324.11 Establishment of the Office of the State Long-Term Care Ombudsman. #####
 
+Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
+
 (a) The Office of the State Long-Term Care Ombudsman shall be an entity which shall be headed by the State Long-Term Care Ombudsman, who shall carry out all of the functions and responsibilities set forth in § 1324.13 and shall carry out, directly and/or through local Ombudsman entities, the duties set forth in § 1324.19.
 
 (b) The State agency shall establish the Office and, thereby carry out the Long-Term Care Ombudsman program in any of the following ways:

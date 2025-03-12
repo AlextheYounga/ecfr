@@ -1,5 +1,7 @@
 ##### § 441.18 Case management services. #####
 
+Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
+
 (a) If a State plan provides for case management services (including targeted case management services), as defined in § 440.169 of this chapter, the State must meet the following requirements:
 
 (1) Allow individuals the free choice of any qualified Medicaid provider within the specified geographic area identified in the plan when obtaining case management services, in accordance with § 431.51 of this chapter, except as specified in paragraph (b) of this section.

@@ -1,7 +1,5 @@
 ##### § 1.65 Notice of bulk transfers and disclosure obligations to customers. #####
 
-Link to an amendment published at 85 FR 57547, Sept. 15, 2020.
-
 (a) *Notice and Disclosure to Customers.* (1) Prior to transferring a customer account to another futures commission merchant or introducing broker other than at the request of the customer, a futures commission merchant or introducing broker must obtain the customer's specific consent to the transfer.
 
 (2) If the customer account agreement contains a valid consent by the customer to prospective transfers of the account, the transferor futures commission merchant or introducing broker may transfer the account if the customer is provided with written notice of, and a reasonable opportunity to object to, the transfer and the customer has not asserted an objection to the transfer or given other instructions as to the disposition of the account. The notice to the customer must include:
@@ -24,7 +22,7 @@ Link to an amendment published at 85 FR 57547, Sept. 15, 2020.
 
 (iii) If the transfer of accounts is made from one introducing broker to another introducing broker guaranteed by the same futures commission merchant pursuant to a guarantee agreement in accordance with the requirements of § 1.10(j) and such futures commission merchant maintains the relevant acknowledgments required by §§ 1.55(a)(1)(ii) and 33.7(a)(1)(ii) of this chapter and can establish compliance with § 190.10(c) of this chapter.
 
-(b) *Notice to the Commission.* Each futures commission merchant or introducing broker shall file with the Commission, at least five business days in advance of the transfer, notice of any transfer of customer accounts carried or introduced by such futures commission merchant or introducing broker that is not initiated at the request of the customer, where the transfer involves the lesser of:
+(b) *Notice to the Commission.* Each futures commission merchant or introducing broker shall file with the Commission, at least ten business days in advance of the transfer, notice of any transfer of customer accounts carried or introduced by such futures commission merchant or introducing broker that is not initiated at the request of the customer, where the transfer involves the lesser of:
 
 (1) 25 percent of the total number of customer accounts carried or introduced by such firm if that percentage represents at least 100 accounts; or
 
@@ -44,12 +42,12 @@ Link to an amendment published at 85 FR 57547, Sept. 15, 2020.
 
 (6) A statement of the number of accounts to be transferred and the estimated liquidating equity of the accounts to be transferred.
 
-(d) The notice required by paragraph (b) of this section shall be filed with the Deputy Director, Compliance and Registration Section, Division of Swap Dealer and Intermediary Oversight, Commodity Futures Trading Commission, Three Lafayette Centre, 1155 21st Street, NW., Washington, DC 20581; the National Futures Association Attn: Vice President-Compliance; and the designated self-regulatory organization for the transferor firm.
+(d) The notice required by paragraph (b) of this section shall be considered filed when submitted to the Director of the Division of Swap Dealer and Intermediary Oversight, in electronic form using a form of user authentication assigned in accordance with procedures established by or approved by the Commission, and otherwise in accordance with instructions issued by or approved by the Commission.
 
-(e) In the event that the notice required by paragraph (b) of this section cannot be filed with the Commission at least five days prior to the account transfer, the transferee futures commission merchant or introducing broker shall file such notice as soon as practicable and no later than the day of the transfer. Such notice shall include a brief statement explaining the circumstances necessitating the delay in filing.
+(e) In the event that the notice required by paragraph (b) of this section cannot be filed with the Commission at least ten days prior to the account transfer, the Commission hereby delegates to the Director of the Division of Swap Dealer and Intermediary Oversight, or such other employee or employees as the Director may designate from time to time, the authority to accept a lesser time period for such notification at the Director's or designee's discretion. In any event, however, the transferee futures commission merchant or introducing broker shall file such notice as soon as practicable and no later than the day of the transfer. Such notice shall include a brief statement explaining the circumstances necessitating the delay in filing.
 
 (f) The requirements of this section shall not affect the obligations of a futures commission merchant or introducing broker under the rules of a self-regulatory organization or applicable customer account agreement with respect to transfer of accounts.
 
 (g) If a proposed transfer is not completed in accordance with the notice required to be filed by paragraph (b) of this section, a corrective notice shall be filed within five business days of the date such proposed transfer was to occur explaining why the proposed transfer was not completed.
 
-[58 FR 17504, Apr. 5, 1993, as amended at 60 FR 49334, Sept. 25, 1995; 63 FR 8571, Feb. 20, 1998; 67 FR 62351, Oct. 7, 2002; 78 FR 22419, Apr. 16, 2013]
+[58 FR 17504, Apr. 5, 1993, as amended at 60 FR 49334, Sept. 25, 1995; 63 FR 8571, Feb. 20, 1998; 67 FR 62351, Oct. 7, 2002; 78 FR 22419, Apr. 16, 2013; 85 FR 57547, Sept. 15, 2020]

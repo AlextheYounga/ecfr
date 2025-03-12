@@ -1,5 +1,7 @@
 ##### § 422.304 Monthly payments. #####
 
+Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
+
 (a) *General rules.* Except as provided in paragraph (b) of this section, CMS makes advance monthly payments of the amounts determined under paragraphs (a)(1) and (a)(2) of this section for coverage of original fee-for-service benefits for an individual in an MA payment area for a month.
 
 (1) *Payment of bid for plans with bids below benchmark.* For MA plans that have average per capita monthly savings (as described at § 422.264(b) for local plans and § 422.264(d) for regional plans), CMS pays:

@@ -1,5 +1,7 @@
 ##### § 1.2 Applicability and scope. #####
 
+Link to an amendment published at 85 FR 72961, Nov. 16, 2020.
+
 (a) The regulations contained in this chapter apply to all persons entering, using, visiting, or otherwise within:
 
 (1) The boundaries of federally owned lands and waters administered by the National Park Service;

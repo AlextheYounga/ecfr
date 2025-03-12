@@ -1,3 +1,3 @@
-##### § 200.209 Pre-award costs. #####
+##### § 200.209 Certifications and representations. #####
 
-For requirements on costs incurred by the applicant prior to the start date of the period of performance of the Federal award, see § 200.458 Pre-award costs.
+Unless prohibited by the U.S. Constitution, Federal statutes or regulations, each Federal awarding agency or pass-through entity is authorized to require the non-Federal entity to submit certifications and representations required by Federal statutes, or regulations on an annual basis. Submission may be required more frequently if the non-Federal entity fails to meet a requirement of a Federal award.

@@ -1,7 +1,5 @@
 ##### § 200.464 Relocation costs of employees. #####
 
-Link to an amendment published at 85 FR 49570, Aug. 13, 2020.
-
 (a) Relocation costs are costs incident to the permanent change of duty assignment (for an indefinite period or for a stated period of not less than 12 months) of an existing employee or upon recruitment of a new employee. Relocation costs are allowable, subject to the limitations described in paragraphs (b), (c), and (d) of this section, provided that:
 
 (1) The move is for the benefit of the employer.
@@ -22,7 +20,7 @@ Link to an amendment published at 85 FR 49570, Aug. 13, 2020.
 
 (5) Other necessary and reasonable expenses normally incident to relocation, such as the costs of canceling an unexpired lease, transportation of personal property, and purchasing insurance against loss of or damages to personal property. The cost of canceling an unexpired lease is limited to three times the monthly rental.
 
-(c) Allowable relocation costs for new employees are limited to those described in paragraphs (b)(1) and (2) of this section. When relocation costs incurred incident to the recruitment of new employees have been charged to a Federal award and the employee resigns for reasons within the employee's control within 12 months after hire, the non-Federal entity must refund or credit the Federal Government for its share of the cost. However, the costs of travel to an overseas location must be considered travel costs in accordance with § 200.474 Travel costs, and not this § 200.464 Relocation costs of employees, for the purpose of this paragraph if dependents are not permitted at the location for any reason and the costs do not include costs of transporting household goods.
+(c) Allowable relocation costs for new employees are limited to those described in paragraphs (b)(1) and (2) of this section. When relocation costs incurred incident to the recruitment of new employees have been charged to a Federal award and the employee resigns for reasons within the employee's control within 12 months after hire, the non-Federal entity must refund or credit the Federal Government for its share of the cost. If dependents are not permitted at the location for any reason and the costs do not include costs of transporting household goods, the costs of travel to an overseas location must be considered travel costs in accordance with § 200.474 Travel costs, and not this relocations costs of employees (See also § 200.464).
 
 (d) The following costs related to relocation are unallowable:
 
@@ -34,4 +32,4 @@ Link to an amendment published at 85 FR 49570, Aug. 13, 2020.
 
 (4) Income taxes paid by an employee related to reimbursed relocation costs.
 
-[78 FR 78608, Dec. 26, 2013, as amended at 79 FR 75887, Dec. 19, 2014]
+[78 FR 78608, Dec. 26, 2013, as amended at 79 FR 75887, Dec. 19, 2014; 85 FR 49570, Aug. 13, 2020]

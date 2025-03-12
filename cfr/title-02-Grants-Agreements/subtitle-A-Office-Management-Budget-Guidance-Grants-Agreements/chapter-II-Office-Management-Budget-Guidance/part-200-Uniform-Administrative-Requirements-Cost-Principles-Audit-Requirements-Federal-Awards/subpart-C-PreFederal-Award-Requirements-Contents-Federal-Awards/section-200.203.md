@@ -1,35 +1,23 @@
-##### § 200.203 Notices of funding opportunities. #####
+##### § 200.203 Requirement to provide public notice of Federal financial assistance programs. #####
 
-For competitive grants and cooperative agreements, the Federal awarding agency must announce specific funding opportunities by providing the following information in a public notice:
+(a) The Federal awarding agency must notify the public of Federal programs in the Federal Assistance Listings maintained by the General Services Administration (GSA).
 
-(a) *Summary Information in Notices of Funding Opportunities.* The Federal awarding agency must display the following information posted on the OMB-designated governmentwide Web site for finding and applying for Federal financial assistance, in a location preceding the full text of the announcement:
+(1) The Federal Assistance Listings is the single, authoritative, governmentwide comprehensive source of Federal financial assistance program information produced by the executive branch of the Federal Government.
 
-(1) Federal Awarding Agency Name;
+(2) The information that the Federal awarding agency must submit to GSA for approval by OMB is listed in paragraph (b) of this section. GSA must prescribe the format for the submission in coordination with OMB.
 
-(2) Funding Opportunity Title;
+(3) The Federal awarding agency may not award Federal financial assistance without assigning it to a program that has been included in the Federal Assistance Listings as required in this section unless there are exigent circumstances requiring otherwise, such as timing requirements imposed by statute.
 
-(3) Announcement Type (whether the funding opportunity is the initial announcement of this funding opportunity or a modification of a previously announced opportunity);
+(b) For each program that awards discretionary Federal awards, non-discretionary Federal awards, loans, insurance, or any other type of Federal financial assistance, the Federal awarding agency must, to the extent practicable, create, update, and manage Assistance Listings entries based on the authorizing statute for the program and comply with additional guidance provided by GSA in consultation with OMB to ensure consistent, accurate information is available to prospective applicants. Accordingly, Federal awarding agencies must submit the following information to GSA:
 
-(4) Funding Opportunity Number (required, if applicable). If the Federal awarding agency has assigned or will assign a number to the funding opportunity announcement, this number must be provided;
+(1) *Program Description, Purpose, Goals, and Measurement.* A brief summary of the statutory or regulatory requirements of the program and its intended outcome. Where appropriate, the Program Description, Purpose, Goals, and Measurement should align with the strategic goals and objectives within the Federal awarding agency's performance plan and should support the Federal awarding agency's performance measurement, management, and reporting as required by Part 6 of OMB Circular A-11;
 
-(5) Catalog of Federal Domestic Assistance (CFDA) Number(s);
+(2) *Identification.* Identification of whether the program makes Federal awards on a discretionary basis or the Federal awards are prescribed by Federal statute, such as in the case of formula grants.
 
-(6) Key Dates. Key dates include due dates for applications or Executive Order 12372 submissions, as well as for any letters of intent or pre-applications. For any announcement issued before a program's application materials are available, key dates also include the date on which those materials will be released; and any other additional information, as deemed applicable by the relevant Federal awarding agency.
+(3) *Projected total amount of funds available for the program.* Estimates based on previous year funding are acceptable if current appropriations are not available at the time of the submission;
 
-(b) The Federal awarding agency must generally make all funding opportunities available for application for at least 60 calendar days. The Federal awarding agency may make a determination to have a less than 60 calendar day availability period but no funding opportunity should be available for less than 30 calendar days unless exigent circumstances require as determined by the Federal awarding agency head or delegate.
+(4) *Anticipated source of available funds.* The statutory authority for funding the program and, to the extent possible, agency, sub-agency, or, if known, the specific program unit that will issue the Federal awards, and associated funding identifier (*e.g.,* Treasury Account Symbol(s));
 
-(c) *Full Text of Funding Opportunities.* The Federal awarding agency must include the following information in the full text of each funding opportunity. For specific instructions on the content required in this section, refer to Appendix I to Part 200 - Full Text of Notice of Funding Opportunity to this part.
+(5) *General eligibility requirements.* The statutory, regulatory or other eligibility factors or considerations that determine the applicant's qualification for Federal awards under the program (*e.g.,* type of non-Federal entity); and
 
-(1) Full programmatic description of the funding opportunity.
-
-(2) Federal award information, including sufficient information to help an applicant make an informed decision about whether to submit an application. (See also § 200.414 Indirect (F&A) costs, paragraph (c)(4)).
-
-(3) Specific eligibility information, including any factors or priorities that affect an applicant's or its application's eligibility for selection.
-
-(4) Application Preparation and Submission Information, including the applicable submission dates and time.
-
-(5) Application Review Information including the criteria and process to be used to evaluate applications. See also §§ 200.204 Federal awarding agency review of merit proposals and 200.205 Federal awarding agency review of risk posed by applicants.
-
-(6) Federal Award Administration Information. See also § 200.210 Information contained in a Federal award.
-
-[78 FR 78608, Dec. 26, 2013, as amended at 79 FR 75882, Dec. 19, 2014; 80 FR 43308, July 22, 2015; 80 FR 54408, Sept. 10, 2015]
+(6) *Applicability of Single Audit Requirements.* Applicability of Single Audit Requirements as required by subpart F of this part.

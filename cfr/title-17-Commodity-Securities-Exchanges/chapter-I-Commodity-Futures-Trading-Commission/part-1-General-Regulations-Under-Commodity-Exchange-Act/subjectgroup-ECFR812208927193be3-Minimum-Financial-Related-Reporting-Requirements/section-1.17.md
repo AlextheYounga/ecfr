@@ -1,18 +1,20 @@
 ##### § 1.17 Minimum financial requirements for futures commission merchants and introducing brokers. #####
 
-Link to an amendment published at 85 FR 57544, Sept. 15, 2020.
-
 (a)(1)(i) Except as provided in paragraph (a)(2)(i) of this section, each person registered as a futures commission merchant must maintain adjusted net capital equal to or in excess of the greatest of:
 
-(A) $1,000,000;
+(A) $1,000,000, *Provided, however,* that if the futures commission merchant also is a swap dealer, the minimum amount shall be $20,000,000;
 
-(B) The futures commission merchant's risk-based capital requirement, computed as eight percent of the total risk margin requirement for positions carried by the futures commission merchant in customer accounts and noncustomer accounts.
+(B) The futures commission merchant's risk-based capital requirement, computed as the sum of:
+
+(*1*) Eight percent of the total risk margin requirement (as defined in § 1.17(b)(8) of this section) for positions carried by the futures commission merchant in customer accounts and noncustomer accounts; and
+
+(*2*) For a futures commission merchant that is also a registered swap dealer, two percent of the total uncleared swap margin, as that term is defined in paragraph (b)(11) of this section.
 
 (C) The amount of adjusted net capital required by a registered futures association of which it is a member; or
 
 (D) For securities brokers and dealers, the amount of net capital required by Rule 15c3-1(a) of the Securities and Exchange Commission (17 CFR 240.15c3-1(a)).
 
-(ii) [Reserved]
+(ii) A futures commission merchant that is registered as a swap dealer and has received approval to use internal models to compute market risk and credit risk charges for uncleared swaps must maintain net capital equal to or in excess of $100 million and adjusted net capital equal to or in excess of $20 million.
 
 (iii) Except as provided in paragraph (a)(2) of this section, each person registered as an introducing broker must maintain adjusted net capital equal to or in excess of the greatest of:
 
@@ -62,15 +64,17 @@ Link to an amendment published at 85 FR 57544, Sept. 15, 2020.
 
 (iv) If a futures commission merchant does not possess sufficient information to determine what portion of an account's total margin requirement represents risk margin, all of the margin required by the exchange or the clearing organization that requires collection of such margin for that account, shall be treated as risk margin.
 
-(9) *Cleared over the counter derivative positions* means “over the counter derivative instrument” (as defined in 12 U.S.C. 4421) positions of any person in accounts carried on the books of the futures commission merchant and cleared by any organization permitted to clear such instruments under the laws of the relevant jurisdiction.
+(9) *Cleared over the counter derivative positions* means a swap cleared by a derivatives clearing organization or a clearing organization exempted by the Commission from registering as a derivatives clearing organization, and further includes positions cleared by any organization permitted to clear such positions under the laws of the relevant jurisdiction.
 
-(10) *Cleared over the counter customer* means any person that is not a proprietary person as defined in § 1.3 and for whom the futures commission merchant carries on its books one or more accounts for the over the counter-cleared derivative positions of such person.
+(10) *Cleared over the counter customer* means any person for whom the futures commission merchant carries on its books one or more accounts for the cleared over the counter derivative positions of such person, and such account or accounts are not proprietary accounts as defined in § 1.3 of this part.
+
+(11) *Uncleared swap margin:* This term means the amount of initial margin, computed in accordance with § 23.154 of this chapter, that a dually-registered futures commission merchant and swap dealer would be required to collect from each counterparty for each outstanding swap position of the dually-registered futures commission merchant and swap dealer. A dually-registered futures commission merchant and swap dealer must include all swap positions in the calculation of the uncleared swap margin amount, including swaps that are exempt or excluded from the scope of the Commission's margin regulations for uncleared swaps pursuant to § 23.150 of this chapter, exempt foreign exchange swaps or foreign exchange forwards, or netting set of swaps or foreign exchange swaps, for each counterparty, as if the counterparty was an unaffiliated swap dealer. Furthermore, in computing the uncleared swap margin amount, a dually-registered futures commission merchant and swap dealer may not exclude the *initial margin threshold amount* or the *minimum transfer amount* as such terms are defined in § 23.151 of this chapter.
 
 (c) Definitions: For the purposes of this section:
 
 (1) *Net capital* means the amount by which current assets exceed liabilities. In determining “net capital”:
 
-(i) Unrealized profits shall be added and unrealized losses shall be deducted in the accounts of the applicant or registrant, including unrealized profits and losses on fixed price commitments and forward contracts;
+(i) Unrealized profits shall be added and unrealized losses shall be deducted in the accounts of the applicant or registrant, including unrealized profits and losses on fixed price commitments, uncleared swaps, uncleared security-based swaps, and forward contracts;
 
 (ii) All long and all short positions in commodity options which are traded on a contract market and listed security options shall be marked to their market value and all long and all short securities and commodities positions shall be marked to their market value;
 
@@ -80,21 +84,27 @@ Link to an amendment published at 85 FR 57544, Sept. 15, 2020.
 
 (2) The term *current assets* means cash and other assets or resources commonly identified as those which are reasonably expected to be realized in cash or sold during the next 12 months. “Current assets” shall:
 
-(i) Exclude any unsecured commodity futures or option account containing a ledger balance and open trades, the combination of which liquidates to a deficit or containing a debit ledger balance only: *Provided, however,* Deficits or debit ledger balances in unsecured customers', non-customers', and proprietary accounts, which are the subject of calls for margin or other required deposits may be included in current assets until the close of business on the business day following the date on which such deficit or debit ledger balance originated providing that the account had timely satisfied, through the deposit of new funds, the previous day's debit or deficits, if any, in its entirety.
+(i) Exclude any unsecured commodity futures, options, cleared swaps, or other Commission regulated account containing a ledger balance and open trades, the combination of which liquidates to a deficit or containing a debit ledger balance only: *Provided, however,* deficits or debit ledger balances in unsecured customers', noncustomers', and proprietary accounts, which are the subject of calls for margin or other required deposits may be included in current assets until the close of business on the business day following the date on which such deficit or debit ledger balance originated providing that the account had timely satisfied, through the deposit of new funds, the previous day's debit or deficits, if any, in its entirety.
 
 (ii) Exclude all unsecured receivables, advances and loans except for:
 
 (A) Receivables resulting from the marketing of inventories commonly associated with the business activities of the applicant or registrant and advances on fixed price purchases commitments: *Provided,* Such receivables or advances are outstanding no longer than 3 calendar months from the date that they are accrued;
 
-(B) Interest receivable, floor brokerage receivable, commissions receivable from other brokers or dealers (other than syndicate profits), mutual fund concessions receivable and management fees receivable from registered investment companies and commodity pools: *Provided,* Such receivables are outstanding no longer than thirty (30) days from the date they are due; and dividends receivable outstanding no longer than thirty (30) days from the payable date;
+(B)(*1*) Interest receivable, floor brokerage receivable, commissions receivable from other brokers or dealers (other than syndicate profits), mutual fund concessions receivable and management fees receivable from registered investment companies and commodity pools that are not outstanding more than thirty (30) days from the date they are due;
+
+(*2*) Dividends receivable that are not outstanding more than thirty (30) days from the payable date; and
+
+(*3*) Commissions or fees receivable, including from other brokers or dealers, resulting from swap transactions that are not outstanding more than sixty (60) days from the month end accrual date provided they are billed promptly after the close of the month of their inception;
 
 (C) Receivables from clearing organizations and securities clearing organizations;
 
-(D) Receivables from registered futures commission merchants or brokers, resulting from commodity futures or option transactions, except those specifically excluded under paragraph (c)(2)(i) of this section;
+(D) Receivables from registered futures commission merchants or brokers, resulting from commodity futures, options, cleared swaps, foreign futures or foreign options transactions, except those specifically excluded under paragraph (c)(2)(i) of this section;
 
 (E) Insurance claims which arise from a reportable segment of the applicant's or registrant's overall business activities, as defined in generally accepted accounting principles, other than in the commodity futures, commodity option, security and security option segments of the applicant's or registrant's business activities which are not outstanding more than 3 calendar months after the date they are recorded as a receivable;
 
 (F) All other insurance claims not subject to paragraph (c)(2)(ii)(E) of this section, which are not older than seven (7) business days from the date the loss giving rise to the claim is discovered; insurance claims which are not older than twenty (20) business days from the date the loss giving rise to the claim is discovered and which are covered by an option of outside counsel that the claim is valid and is covered by insurance policies presently in effect; insurance claims which are older than twenty (20) business days from the date the loss giving rise to the claim is discovered and which are covered by an opinion of outside counsel that the claim is valid and is covered by insurance policies presently in effect and which have been acknowledged in writing by the insurance carrier as due and payable: *Provided,* Such claims are not outstanding longer than twenty (20) business days from the date they are so acknowledged by the carrier;
+
+(G) Receivables from third-party custodians that maintain the futures commission merchant's initial margin deposits associated with uncleared swap and security-based swap transactions pursuant to the margin rules of the Commission, the Securities and Exchange Commission, a prudential regulator, as defined in section 1a(39) of the Act, or a foreign jurisdiction that has received a Comparability Determination under § 23.160 of this chapter.
 
 (iii) Exclude all prepaid expenses and deferred charges;
 
@@ -156,21 +166,58 @@ Link to an amendment published at 85 FR 57544, Sept. 15, 2020.
 
 (ii) In the case of all inventory, fixed price commitments and forward contracts, the applicable percentage of the net position specified below:
 
-(A) Inventory which is currently registered as deliverable on a contract market and covered by an open futures contract or by a commodity option on a physical commodity - No charge.
+(A) Inventory which is currently registered as deliverable on a contract market and covered by an open futures contract or by a commodity option on a physical commodity—No charge.
 
-(B) Inventory which is covered by an open futures contract or commodity option. - 5 percent of the market value.
+(B) Inventory which is covered by an open futures contract or commodity option.—5 percent of the market value.
 
-(C) Inventory which is not covered. - 20 percent of the market value.
+(C) Inventory which is not covered.—20 percent of the market value.
 
-(D) Inventory and forward contracts in those foreign currencies that are purchased or sold for future delivery on or subject to the rules of a contract market, and which are covered by an open futures contract. - No charge
+(D) Inventory and forward contracts in those foreign currencies that are purchased or sold for future delivery on or subject to the rules of a contract market, and which are covered by an open futures contract.—No charge
 
-(E) Inventory and forward contracts in euros, British pounds, Canadian dollars, Japanese yen, or Swiss francs, and which are not covered by an open futures contract or commodity option. - 6 percent of the market value.
+(E) Inventory and forward contracts in euros, British pounds, Canadian dollars, Japanese yen, or Swiss francs, and which are not covered by an open futures contract or commodity option.—6 percent of the market value.
 
-(F) Fixed price commitments (open purchases and sales) and forward contracts which are covered by an open futures contract or commodity option. - 10 percent of the market value.
+(F) Fixed price commitments (open purchases and sales) and forward contracts which are covered by an open futures contract or commodity option.—10 percent of the market value.
 
-(G) Fixed price commitments (open purchases and sales) and forward contracts which are not covered by an open futures contract or commodity option. - 20 percent of the market value.
+(G) Fixed price commitments (open purchases and sales) and forward contracts which are not covered by an open futures contract or commodity option.—20 percent of the market value.
 
-(iii)-(iv) [Reserved]
+(iii) Swaps:
+
+(A) *Uncleared swaps that are credit-default swaps referencing broad-based securities indices.*(*1*) *Short positions (selling protection).* In the case of an uncleared short credit default swap that references a broad-based securities index, deducting the percentage of the notional amount based upon the current basis point spread of the credit default swap and the maturity of the credit default swap in accordance with the following table:
+
+|Length of time to maturity  <br/>of CDS contract|Basis point spread  <br/>(%)|       |       |       |           |     |
+|------------------------------------------------|----------------------------|-------|-------|-------|-----------|-----|
+|                  100 or less                   |          101-300           |301-400|401-500|501-699|700 or more|     |
+|              Less than 12 months               |            0.67            | 1.33  | 3.33  | 5.00  |   6.67    |10.00|
+|       12 months but less than 24 months        |            1.00            | 2.33  | 5.00  | 6.67  |   8.33    |11.67|
+|       24 months but less than 36 months        |            1.33            | 3.33  | 6.67  | 8.33  |   10.00   |13.33|
+|       36 months but less than 48 months        |            2.00            | 4.00  | 8.33  | 10.00 |   11.67   |15.00|
+|       48 months but less than 60 months        |            2.67            | 4.67  | 10.00 | 11.67 |   13.33   |16.67|
+|       60 months but less than 72 months        |            3.67            | 5.67  | 11.67 | 13.33 |   15.00   |18.33|
+|       72 months but less than 84 months        |            4.67            | 6.67  | 13.33 | 15.00 |   16.67   |20.00|
+|       84 months but less than 120 months       |            5.67            | 10.00 | 15.00 | 16.67 |   18.33   |26.67|
+|             120 months and longer              |            6.67            | 13.33 | 16.67 | 18.33 |   20.00   |33.33|
+
+(*2*) *Long positions (purchasing protection).* In the case of an uncleared swap that is a long credit default swap referencing a broad-based security index, deducting 50 percent of the deduction that would be required by paragraph (c)(5)(iii)(A)(*1*) of this section if the swap was a short credit default swap, each such deduction not to exceed the current market value of the long position.
+
+(*3*) *Long and short positions.* (*i*) *Long and short uncleared credit default swaps referencing the same broad-based security index.* In the case of uncleared swaps that are long and short credit default swaps referencing the same broad-based security index, have the same credit events which would trigger payment by the seller of protection, have the same basket of obligations which would determine the amount of payment by the seller of protection upon the occurrence of a credit event, that are in the same or adjacent spread category and have a maturity date within three months of the other maturity category, deducting the percentage of the notional amounts specified in the higher maturity category under paragraph (c)(5)(iii)(A)(*1*) or (c)(5)(iii)(A)(*2*) of this section on the excess of the long or short position.
+
+(*ii*) *Long basket of obligors and uncleared long credit default swap referencing a broad-based securities index.* In the case of an uncleared swap that is a long credit default swap referencing a broad-based security index and the futures commission merchant is long a basket of debt securities comprising all of the components of the security index, deducting 50 percent of the amount specified in § 240.15c3-1(c)(2)(vi) of this title for the component of securities, provided the futures commission merchant can deliver the component securities to satisfy the obligation of the futures commission merchant on the credit default swap.
+
+(*iii*) *Short basket of obligors and uncleared short credit default swap referencing a broad-based securities index.* In the case of an uncleared swap that is a short credit default swap referencing a broad-based security index and the futures commission merchant is short a basket of debt securities comprising all of the components of the security index, deducting the amount specified in § 240.15c3-1(c)(2)(vi) of this title for the component securities.
+
+(B) *Interest rate swaps.* In the case of an uncleared interest rate swap, deducting the percentage deduction specified in § 240.15c3-1(c)(2)(vi)(A) of this title based on the maturity of the interest rate swap, provided that the percentage deduction must be no less than one eighth of 1 percent of the amount of a long position that is netted against a short position in the case of an uncleared interest rate swap with a maturity of three months or more;
+
+(C) *All other uncleared swaps.* (*1*) In the case of any uncleared swap that is not a credit default swap or interest rate swap, deducting the amount calculated by multiplying the notional value of the uncleared swap by:
+
+(*i*) The percentage specified in § 240.15c3-1 of this title applicable to the reference asset if § 240.15c3-1 of this title specifies a percentage deduction for the type of asset and this section does not specify a percentage deduction;
+
+(*ii*) Six percent in the case of a currency swap that references euros, British pounds, Canadian dollars, Japanese yen, or Swiss francs, and twenty percent in the case of currency swaps that reference any other foreign currencies; or
+
+(*iii*) In the case of over-the-counter swap transactions involving commodities, 20 percent of the market value of the amount of the underlying commodities.
+
+(D) *Netting of Swap Market Risk Charges.* The deductions under paragraphs (c)(5)(iii)(B) and (C) of this section may be reduced by an amount equal to any reduction recognized for a comparable long or short position in the reference asset or interest rate under this section or in § 240.15c3-1 of this title.
+
+(iv) Security-based Swaps: In the case of security-based swaps as defined in section 3(a) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)), the percentage as specified in § 240.15c3-1 of this title.
 
 (v) In the case of securities and obligations used by the applicant or registrant in computing net capital, and in the case of a futures commission merchant that invests funds deposited by futures customers as defined in § 1.3, Cleared Swaps Customers as defined in § 22.1 of this chapter, and 30.7 customers as defined in § 30.1 of this chapter in securities as permitted investments under § 1.25, the deductions specified in Rule 240.15c3-1(c)(2)(vi) or Rule 240.15c3-1(c)(2)(vii) of the Securities and Exchange Commission (17 CFR 240.15c3-1(c)(2)(vi) and 17 CFR 240.15c3-1(c)(2)(vii)) (“securities haircuts”). Futures commission merchants that establish and enforce written policies and procedures to assess the credit risk of commercial paper, convertible debt instruments, or nonconvertible debt instruments in accordance with Rule 240.15c3-1(c)(2)(vi) of the Securities and Exchange Commission (17 CFR 240.15c3-1(c)(2)(vi)) may apply the lower haircut percentages specified in Rule 240.15c3-1(c)(2)(vi) for such commercial paper, convertible debt instruments and nonconvertible debt instruments. Futures commission merchants must maintain their written policies and procedures in accordance with § 1.31;
 
@@ -178,23 +225,23 @@ Link to an amendment published at 85 FR 57544, Sept. 15, 2020.
 
 (vii) In the case of an applicant or registrant who has open contractual commitments, as hereinafter defined, the deductions specified in § 240.15c3-1(c)(2)(viii) of this title;
 
-(viii) In the case of a futures commission merchant, for undermargined customer commodity futures accounts and commodity option customer accounts the amount of funds required in each such account to meet maintenance margin requirements of the applicable board of trade or if there are no such maintenance margin requirements, clearing organization margin requirements applicable to such positions, after application of calls for margin or other required deposits which are outstanding no more than one business day. If there are no such maintenance margin requirements or clearing organization margin requirements, then the amount of funds required to provide margin equal to the amount necessary, after application of calls for margin or other required deposits outstanding no more than one business day, to restore original margin when the original margin has been depleted by 50 percent or more: *Provided,* To the extent a deficit is excluded from current assets in accordance with paragraph (c)(2)(i) of this section such amount shall not also be deducted under this paragraph. In the event that an owner of a customer account has deposited an asset other than cash to margin, guarantee or secure his account, the value attributable to such asset for purposes of this subparagraph shall be the lesser of:
+(viii) In the case of a futures commission merchant, for undermargined customer accounts, the amount of funds required in each such account to meet maintenance margin requirements of the applicable board of trade or if there are no such maintenance margin requirements, clearing organization margin requirements applicable to such positions, after application of calls for margin or other required deposits which are outstanding no more than one business day. If there are no such maintenance margin requirements or clearing organization margin requirements, then the amount of funds required to provide margin equal to the amount necessary, after application of calls for margin or other required deposits outstanding no more than one business day, to restore original margin when the original margin has been depleted by 50 percent or more: *Provided,* to the extent a deficit is excluded from current assets in accordance with paragraph (c)(2)(i) of this section such amount shall not also be deducted under this paragraph. In the event that an owner of a customer account has deposited an asset other than cash to margin, guarantee or secure his account, the value attributable to such asset for purposes of this subparagraph shall be the lesser of:
 
 (A) The value attributable to the asset pursuant to the margin rules of the applicable board of trade, or
 
 (B) The market value of the asset after application of the percentage deductions specified in paragraph (c)(5) of this section;
 
-(ix) In the case of a futures commission merchant, for undermargined commodity futures and commodity option noncustomer and omnibus accounts the amount of funds required in each such account to meet maintenance margin requirements of the applicable board of trade or if there are no such maintenance margin requirements, clearing organization margin requirements applicable to such positions, after application of calls for margin or other required deposits which are outstanding no more than one business day. If there are no such maintenance margin requirements or clearing organization margin requirements, then the amount of funds required to provide margin equal to the amount necessary after application of calls for margin or other required deposits outstanding no more than one business day to restore original margin when the original margin has been depleted by 50 percent or more: *Provided,* To the extent a deficit is excluded from current assets in accordance with paragraph (c)(2)(i) of this section such amount shall not also be deducted under this paragraph. In the event that an owner of a noncustomer or omnibus account has deposited an asset other than cash to margin, guarantee or secure his account the value attributable to such asset for purposes of this paragraph shall be the lesser of the value attributable to such asset pursuant to the margin rules of the applicable board of trade, or the market value of such asset after application of the percentage deductions specified in paragraph (c)(5) of this section;
+(ix) In the case of a futures commission merchant, for undermargined noncustomer and omnibus accounts the amount of funds required in each such account to meet maintenance margin requirements of the applicable board of trade or if there are no such maintenance margin requirements, clearing organization margin requirements applicable to such positions, after application of calls for margin or other required deposits which are outstanding no more than one business day. If there are no such maintenance margin requirements or clearing organization margin requirements, then the amount of funds required to provide margin equal to the amount necessary after application of calls for margin or other required deposits outstanding no more than one business day to restore original margin when the original margin has been depleted by 50 percent or more: *Provided,* to the extent a deficit is excluded from current assets in accordance with paragraph (c)(2)(i) of this section such amount shall not also be deducted under this paragraph. In the event that an owner of a noncustomer or omnibus account has deposited an asset other than cash to margin, guarantee or secure his account the value attributable to such asset for purposes of this paragraph shall be the lesser of the value attributable to such asset pursuant to the margin rules of the applicable board of trade, or the market value of such asset after application of the percentage deductions specified in paragraph (c)(5) of this section;
 
-(x) In the case of open futures contracts or cleared OTC derivative positions and granted (sold) commodity options held in proprietary accounts carried by the applicant or registrant which are not covered by a position held by the applicant or registrant or which are not the result of a “changer trade” made in accordance with the rules of a contract market:
+(x) In the case of open futures contracts, cleared swaps, and granted (sold) commodity options held in proprietary accounts carried by the applicant or registrant which are not covered by a position held by the applicant or registrant or which are not the result of a “changer trade” made in accordance with the rules of a contract market:
 
 (A) For an applicant or registrant which is a clearing member of a clearing organization for the positions cleared by such member, the applicable margin requirement of the applicable clearing organization;
 
-(B) For an applicant or registrant which is a member of a self-regulatory organization 150 percent of the applicable maintenance margin requirement of the applicable board of trade, or clearing organization, whichever is greater;
+(B) For an applicant or registrant which is a member of a self-regulatory organization, 150 percent of the applicable maintenance margin requirement of the applicable board of trade, or clearing organization, whichever is greater;
 
 (C) For all other applicants or registrants, 200 percent of the applicable maintenance margin requirements of the applicable board of trade or clearing organization, whichever is greater; or
 
-(D) For open contracts or granted (sold) commodity options for which there are no applicable maintenance margin requirements, 200 percent of the applicable initial margin requirement: *Provided,* The equity in any such proprietary account shall reduce the deduction required by this paragraph (c)(5)(x) if such equity is not otherwise includable in adjusted net capital;
+(D) For open contracts or granted (sold) commodity options for which there are no applicable maintenance margin requirements, 200 percent of the applicable initial margin requirement: *Provided,* the equity in any such proprietary account shall reduce the deduction required by this paragraph (c)(5)(x) if such equity is not otherwise includable in adjusted net capital;
 
 (xi) In the case of an applicant or registrant which is a purchaser of a commodity option not traded on a contract market which has value and such value is used to increase adjusted net capital, ten percent of the market value of the commodity or futures contract which is the subject of such option but in no event more than the value attributed to such option;
 
@@ -208,11 +255,13 @@ Link to an amendment published at 85 FR 57544, Sept. 15, 2020.
 
 (C) A foreign broker that has been granted comparability relief pursuant to § 30.10 of this chapter, *Provided, however,* that the amount of the unsecured receivable not subject to the five percent capital charge is no greater than 150 percent of the current amount required to maintain futures and options positions in accounts with the foreign broker, or 100 percent of such greater amount required to maintain futures and option positions in the accounts at any time during the previous six-month period, and *Provided, that,* in the case of the foreign futures or foreign options secured amount, as § 1.3 defines such term, such account is treated in accordance with the special requirements of the applicable Commission order issued under § 30.10 of this chapter.
 
-(xiv) For securities brokers and dealers, all other deductions specified in § 240.15c3-1 of this title.
+(xiv) For securities brokers and dealers, all other deductions specified in § 240.15c3-1 of this title;
 
-(6) Election of alternative capital deductions that have received approval of Securities and Exchange Commission pursuant to § 240.15c3-1(a)(7) of this title.
+(xv) In the case of a futures commission merchant that is also a registered swap dealer, the amount of funds required from each swap counterparty and security-based swap counterparty to meet initial margin requirements of the Commission or Securities and Exchange Commission, as applicable, after application of calls for margin or other required deposits which are outstanding within the required time frame to collect margin or other required deposits;
 
-(i) Any futures commission merchant that is also registered with the Securities and Exchange Commission as a securities broker or dealer, and who also satisfies the other requirements of this paragraph (c)(6), may elect to compute its adjusted net capital using the alternative capital deductions that, under § 240.15c3-1(a)(7) of this title, the Securities and Exchange Commission has approved by written order. To the extent that a futures commission merchant is permitted by the Securities and Exchange Commission to use alternative capital deductions for its unsecured receivables from over-the-counter transactions in derivatives, or for its proprietary positions in securities, forward contracts, or futures contracts, the futures commission merchant may use these same alternative capital deductions when computing its adjusted net capital, in lieu of the deductions that would otherwise be required by paragraph (c)(2)(ii) of this section for its unsecured receivables from over-the-counter derivatives transactions; by paragraph (c)(5)(ii) of this section for its proprietary positions in forward contracts; by paragraph (c)(5)(v) of this section for its proprietary positions in securities; and by paragraph (c)(5)(x) of this section for its proprietary positions in futures contracts.
+(xvi) In the case of a futures commission merchant that is also a registered swap dealer, the amount of initial margin calculated pursuant to § 23.154 of this chapter for the account of a swap counterparty that is subject to a margin exception or exemption under § 23.150 of this chapter, less any margin posted on such account, and the amount of initial margin calculated pursuant to § 240.18a-3(c)(1)(i)(B) of this title for the account of a security-based swap counterparty that is subject to a margin exception or exemption under the rules of the Securities and Exchange Commission, less any margin posted on such account.
+
+(6)(i) *Election of alternative capital deductions that have received approval of Securities and Exchange Commission pursuant to § 240.15c3-1(a)(7) of this title.* Any futures commission merchant that is also registered with the Securities and Exchange Commission as a securities broker or dealer, and who also satisfies the other requirements of this paragraph (c)(6), may elect to compute its adjusted net capital using the alternative capital deductions that, under § 240.15c3-1(a)(7) of this title, the Securities and Exchange Commission has approved by written order in lieu of the deductions that would otherwise be required under this section.
 
 (ii) *Notifications of election or of changes to election.* (A) No election to use the alternative market risk and credit risk deductions referenced in paragraph (c)(6)(i) of this section shall be effective unless and until the futures commission merchant has filed with the Commission, addressed to the Director of the Division of Swap Dealer and Intermediary Oversight, a notice that is to include a copy of the approval order of the Securities and Exchange Commission referenced in paragraph (c)(6)(i) of this section, and to include also a statement that identifies the amount of tentative net capital below which the futures commission merchant is required to provide notice to the Securities and Exchange Commission, and which also provides the following information: a list of the categories of positions that the futures commission merchant holds in its proprietary accounts, and, for each such category, a description of the methods that the futures commission merchant will use to calculate its deductions for market risk and credit risk, and also, if calculated separately, deductions for specific risk; a description of the value at risk (VaR) models to be used for its market risk and credit risk deductions, and an overview of the integration of the models into the internal risk management control system of the futures commission merchant; a description of how the futures commission merchant will calculate current exposure and maximum potential exposure for its deductions for credit risk; a description of how the futures commission merchant will determine internal credit ratings of counterparties and internal credit risk weights of counterparties, if applicable; and a description of the estimated effect of the alternative market risk and credit risk deductions on the amounts reported by the futures commission merchant as net capital and adjusted net capital.
 
@@ -236,7 +285,7 @@ Link to an amendment published at 85 FR 57544, Sept. 15, 2020.
 
 (iv) *Additional filing requirements.* Any futures commission merchant that elects to use the alternative market risk and credit risk deductions referenced in paragraph (c)(6)(i) of this section must file with the Commission, in addition to the filings required by paragraph (c)(6)(ii) of this section, copies of any and all of the following documents, at such time as the originals are filed with the Securities and Exchange Commission:
 
-(A) Information that the futures commission merchant files on a monthly basis with its designated examining authority or the Securities and Exchange Commission, whether by way of schedules to its FOCUS reports or by other filings, in satisfaction of 17 CFR 240.17a-5(a)(5)(i);
+(A) Information that the futures commission merchant files on a monthly basis with its designated examining authority or the Securities and Exchange Commission, whether by way of schedules to its FOCUS reports or by other filings, in satisfaction of § 240.17a-5(a)(5) of this title;
 
 (B) The quarterly reports required by 17 CFR 240.17a-5(a)(5)(ii);
 
@@ -245,6 +294,14 @@ Link to an amendment published at 85 FR 57544, Sept. 15, 2020.
 (D) Any notification to the Securities and Exchange Commission or the futures commission merchant's designated examining authority of planned withdrawals of excess net capital; and
 
 (E) Any notification that the futures commission merchant is required to file with the Securities and Exchange Commission when its tentative net capital is below an amount specified by the Securities and Exchange Commission.
+
+(v) *Election of alternative market risk and credit risk capital deductions for a futures commission merchant that is registered as a swap dealer and has received approval of the Commission or a registered futures association for which the futures commission merchant is a member.* For purposes of this paragraph (c)(6)(v) only, all references to futures commission merchant means a futures commission merchant that is also registered as a swap dealer.
+
+(A) A futures commission merchant may apply in writing to the Commission or a registered futures association of which it is a member for approval to compute deductions for market risk and credit risk using internal models in lieu of the standardized deductions otherwise required under this section; *Provided however,* that the Commission must issue a determination that the registered futures association's model requirements and review process are comparable to the Commission's requirements and review process in order for the registered futures association's model approval to be accepted as an alternative means of compliance with this section. The futures commission merchant must file the application in accordance with instructions approved by the Commission and specified on the website of the registered futures association.
+
+(B) A futures commission merchant's application must include the information set forth in Appendix A to Subpart E of Part 23 and the market risk and credit risk charges must be computed in accordance with § 23.102 of this chapter.
+
+(C) The Commission or registered futures association upon obtaining the Commission's determination that its requirements and model approval process are comparable to the Commission's requirements and process, may approve or deny the application, in whole or in part, or approve or deny an amendment to the application, in whole or in part, subject to any conditions or limitations the Commission or registered futures association may require, if the Commission or registered futures association finds the approval to be appropriate in the public interest, after determining, among other things, whether the applicant has met the requirements of § 23.102 of this chapter.
 
 (7) *Liabilities* are “adequately collateralized” when, pursuant to a legally enforceable written instrument, such liabilities are secured by identified assets that are otherwise unencumbered and the market value of which exceeds the amount of such liabilities.
 
@@ -302,11 +359,7 @@ Link to an amendment published at 85 FR 57544, Sept. 15, 2020.
 
 (4) No applicant or registrant shall guarantee, endorse, or assume directly or indirectly any obligation or liability of a subsidiary or affiliate unless the obligation or liability is reflected in the computation of adjusted net capital pursuant to this section except as provided in paragraph (f)(2)(i) of this section.
 
-(g)(1) The Commission may by order restrict, for a period up to twenty business days, any withdrawal by a futures commission merchant of equity capital, or any unsecured advance or loan to a stockholder, partner, limited liability company member, sole proprietor, employee or affiliate, if:
-
-(i) Such withdrawal, advance or loan would cause, when aggregated with all other withdrawals, advances or loans during a 30 calendar day period from the futures commission merchant or a subsidiary or affiliate of the futures commission merchant consolidated pursuant to § 1.17(f) (or 17 CFR 240.15c3-1e), a net reduction in excess adjusted net capital (or, if the futures commission merchant is qualified to use the filing option available under § 1.10(h), excess net capital as defined in the rules of the Securities and Exchange Commission) of 30 percent or more, and
-
-(ii) The Commission, based on the facts and information available, concludes that any such withdrawal, advance or loan may be detrimental to the financial integrity of the futures commission merchant, or may unduly jeopardize its ability to meet customer obligations or other liabilities that may cause a significant impact on the markets.
+(g)(1) The Commission may by order restrict, for a period of up to twenty business days, any withdrawal by a futures commission merchant of equity capital, or any unsecured advance or loan to a stockholder, partner, limited liability company member, sole proprietor, employee or affiliate if the Commission, based on the facts and information available, concludes that any such withdrawal, advance or loan may be detrimental to the financial integrity of the futures commission merchant, or may unduly jeopardize its ability to meet customer obligations or other liabilities that may cause a significant impact on the markets.
 
 (2) The futures commission merchant may file with the Secretary of the Commission a written petition to request rescission of the order issued under paragraph (g)(1) of this section. The petition filed by the futures commission merchant must specify the facts and circumstances supporting its request for rescission. The Commission shall respond in writing to deny the futures commission merchant's petition for rescission, or, if the Commission determines that the order issued under paragraph (g)(1) of this section should not remain in effect, the order shall be rescinded.
 
@@ -446,7 +499,7 @@ Link to an amendment published at 85 FR 57544, Sept. 15, 2020.
 
 (*5*) Any receivership, insolvency, liquidation pursuant to the Securities Investor Protection Act of 1970 or otherwise, bankruptcy, assignment for the benefit of creditors, reorganization whether or not pursuant to bankruptcy laws, or any other marshalling of the assets and liabilities of the applicant or registrant. A subordination agreement which contains any of the provisions permitted by this subparagraph (2)(x) shall not contain the provision otherwise permitted by paragraph (h)(2)(ix)(A) of this section.
 
-(3) *Miscellaneous provisions -* (i) *Prohibited cancellation.* The subordination agreement shall not be subject to cancellation by either party; no payment shall be made with respect thereto and the agreement shall not be terminated, rescinded or modified by mutual consent or otherwise if the effect thereof would be inconsistent with the requirements of paragraph (h) of this section.
+(3) *Miscellaneous provisions—*(i) *Prohibited cancellation.* The subordination agreement shall not be subject to cancellation by either party; no payment shall be made with respect thereto and the agreement shall not be terminated, rescinded or modified by mutual consent or otherwise if the effect thereof would be inconsistent with the requirements of paragraph (h) of this section.
 
 (ii) *Notice of maturity or accelerated maturity.* Every applicant or registrant shall immediately notify the National Futures Association, and the registrant shall immediately notify the designated self-regulatory organization, if any, and the Commission if, after giving effect to all payments of payment obligations under subordination agreements then outstanding which are then due or mature within the following six months without reference to any projected profit or loss of the applicant or registrant, its adjusted net capital would be less than:
 

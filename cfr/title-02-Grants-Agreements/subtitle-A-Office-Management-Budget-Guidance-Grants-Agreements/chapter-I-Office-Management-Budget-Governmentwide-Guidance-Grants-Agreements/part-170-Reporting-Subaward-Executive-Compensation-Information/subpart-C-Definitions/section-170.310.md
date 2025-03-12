@@ -1,5 +1,11 @@
-##### § 170.310 Entity. #####
+##### § 170.310 Non-Federal entity. #####
 
-Link to an amendment published at 85 FR 49526, Aug. 13, 2020.
+*Non-Federal entity* has the meaning given in 2 CFR 200.1 and also includes all of the following, for the purposes of this part:
 
-*Entity* has the meaning given in 2 CFR part 25.
+(a) A foreign organization;
+
+(b) A foreign public entity; and
+
+(c) A domestic or foreign for-profit organization.
+
+[85 FR 49526, Aug. 13, 2020]

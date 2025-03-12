@@ -1,5 +1,7 @@
 ##### § 63.1 Purpose and scope. #####
 
+Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
+
 (a) *Applicability.* Except to the extent inconsistent with an applicable Federal statute the regulations in this part apply to all grant awards of Federal assistance made by the Assistant Secretary for Planning and Evaluation or his designee, hereinafter referred to in this part as the Assistant Secretary. Such grants include those under section 232 of the Community Services Act (42 U.S.C. 2835), section 1110 of the Social Security Act (42 U.S.C. 1310), section 392A of the Communications Act of 1934, and such other authority as may be delegated to the Assistant Secretary for policy research activities.
 
 (b) *Exceptions to applicability.* The award and administration of contracts and cooperative agreements by the Assistant Secretary shall not be covered by this subchapter. Contracts entered into by the Assistant Secretary shall be subject to the regulations in 41 CFR Chapters 1 and 3. Generally, the Assistant Secretary will select between grant and contract procedures and instruments, both with regard to the solicitation process and with respect to unsolicited proposals, on the basis of criteria set forth in the proposed revision of 41 CFR 3-1.53 published at 39 FR 27469 at any subsequent revision thereof.

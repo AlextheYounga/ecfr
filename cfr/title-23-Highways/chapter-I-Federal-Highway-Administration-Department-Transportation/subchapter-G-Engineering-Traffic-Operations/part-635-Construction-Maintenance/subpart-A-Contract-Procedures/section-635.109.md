@@ -8,7 +8,7 @@
 
 (iii) No contract adjustment which results in a benefit to the contractor will be allowed unless the contractor has provided the required written notice.
 
-(iv) No contract adjustment will be allowed under this clause for any effects caused on unchanged work. (This provision may be omitted by the STD's at their option.)
+(iv) No contract adjustment will be allowed under this clause for any effects caused on unchanged work. (This provision may be omitted by the State DOT's at their option.)
 
 (2) *Suspensions of work ordered by the engineer.* (i) If the performance of all or any portion of the work is suspended or delayed by the engineer in writing for an unreasonable period of time (not originally anticipated, customary, or inherent to the construction industry) and the contractor believes that additional compensation and/or contract time is due as a result of such suspension or delay, the contractor shall submit to the engineer in writing a request for adjustment within 7 calendar days of receipt of the notice to resume work. The request shall set forth the reasons and support for such adjustment.
 
@@ -36,6 +36,8 @@
 
 (2) Where the State transportation department has developed and implemented one or more of the contract clauses included in paragraph (a) of this section, such clause or clauses, as developed by the State transportation department may be included in Federal-aid highway contracts in lieu of the corresponding clause or clauses in paragraph (a) of this section. The State's action must be pursuant to a specific State statute requiring differing contract conditions clauses. Such State developed clause or clauses, however, must be in conformance with 23 U.S.C., 23 CFR and other applicable Federal statutes and regulations as appropriate and shall be subject to the Division Administrator's approval as part of the PS&E.
 
-(c) In the case of a design-build project, STDs are strongly encouraged to use “suspensions of work ordered by the engineer” clauses, and may consider “differing site condition” clauses and “significant changes in the character of work” clauses which are appropriate for the risk and responsibilities that are shared with the design-builder.
+(c) In the case of a design-build project, State DOTs are strongly encouraged to use “suspensions of work ordered by the engineer” clauses, and may consider “differing site condition” clauses and “significant changes in the character of work” clauses which are appropriate for the risk and responsibilities that are shared with the design-builder.
 
-[56 FR 37004, Aug. 2, 1991; 57 FR 10062, Mar. 23, 1992, as amended at 67 FR 75925, Dec. 10, 2002; 81 FR 86943, Dec. 2, 2016]
+(d) For ID/IQ projects, State DOTs are strongly encouraged to use “suspensions of work ordered by the engineer” clauses, and may consider “differing site condition” clauses and “significant changes in the character of work” clauses, as appropriate.
+
+[56 FR 37004, Aug. 2, 1991; 57 FR 10062, Mar. 23, 1992, as amended at 67 FR 75925, Dec. 10, 2002; 81 FR 86943, Dec. 2, 2016; 85 FR 72931, Nov. 16, 2020]

@@ -1,9 +1,7 @@
 ##### § 200.110 Effective/applicability date. #####
 
-Link to an amendment published at 85 FR 49538, Aug. 13, 2020.
+(a) The standards set forth in this part that affect the administration of Federal awards issued by Federal awarding agencies become effective once implemented by Federal awarding agencies or when any future amendment to this part becomes final.
 
-(a) The standards set forth in this part that affect the administration of Federal awards issued by Federal awarding agencies become effective once implemented by Federal awarding agencies or when any future amendment to this part becomes final. Federal awarding agencies must implement the policies and procedures applicable to Federal awards by promulgating a regulation to be effective by December 26, 2014, unless different provisions are required by statute or approved by OMB. For the procurement standards in §§ 200.317 through 200.326, non-Federal entities may continue to comply with the procurement standards in previous OMB guidance (as reflected in § 200.104) for a total of three fiscal years after this part goes into effect. As such, the effective date for implementation of the procurement standards for non-Federal entities will start for fiscal years beginning on or after December 26, 2017. If a non-Federal entity chooses to use the previous procurement standards for all or part of these three fiscal years before adopting the procurement standards in this part, the non-Federal entity must document this decision in its internal procurement policies.
+(b) Existing negotiated indirect cost rates (as of the publication date of the revisions to the guidance) will remain in place until they expire. The effective date of changes to indirect cost rates must be based upon the date that a newly re-negotiated rate goes into effect for a specific non-Federal entity's fiscal year. Therefore, for indirect cost rates and cost allocation plans, the revised Uniform Guidance (as of the publication date for revisions to the guidance) become effective in generating proposals and negotiating a new rate (when the rate is re-negotiated).
 
-(b) The standards set forth in Subpart F - Audit Requirements of this part and any other standards which apply directly to Federal agencies will be effective December 26, 2013 and will apply to audits of fiscal years beginning on or after December 26, 2014.
-
-[78 FR 78608, Dec. 26, 2013, as amended at 79 FR 75882, Dec. 19, 2014; 80 FR 54408, Sept. 10, 2015; 82 FR 22609, May 17, 2017]
+[85 FR 49538, Aug. 13, 2020]

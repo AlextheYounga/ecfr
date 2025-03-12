@@ -1,5 +1,5 @@
-##### § 170.300 Agency. #####
+##### § 170.300 Federal agency. #####
 
-Link to an amendment published at 85 FR 49526, Aug. 13, 2020.
+*Federal agency* means a Federal agency as defined at 5 U.S.C. 551(1) and further clarified by 5 U.S.C. 552(f).
 
-*Agency* means a Federal agency as defined at 5 U.S.C. 551(1) and further clarified by 5 U.S.C. 552(f).
+[85 FR 49526, Aug. 13, 2020]

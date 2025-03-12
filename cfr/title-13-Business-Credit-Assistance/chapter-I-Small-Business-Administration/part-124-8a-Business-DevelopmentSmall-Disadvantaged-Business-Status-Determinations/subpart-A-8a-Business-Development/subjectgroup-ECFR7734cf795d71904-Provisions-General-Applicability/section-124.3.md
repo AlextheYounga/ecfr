@@ -1,7 +1,5 @@
 ##### § 124.3 What definitions are important in the 8(a) BD program? #####
 
-Link to an amendment published at 85 FR 66183, Oct. 16, 2020.
-
 *Alaska Native*, as defined by the Alaska Native Claims Settlement Act (43 U.S.C. 1602), means a citizen of the United States who is a person of one-fourth degree or more Alaskan Indian (including Tsimshian Indians not enrolled in the Metlaktla Indian Community), Eskimo, or Aleut blood, or a combination of those bloodlines. The term includes, in the absence of proof of a minimum blood quantum, any citizen whom a Native village or Native group regards as an Alaska Native if their father or mother is regarded as an Alaska Native.
 
 *Alaska Native Corporation or ANC* means any Regional Corporation, Village Corporation, Urban Corporation, or Group Corporation organized under the laws of the State of Alaska in accordance with the Alaska Native Claims Settlement Act, as amended (43 U.S.C. 1601, *et seq.*)
@@ -15,6 +13,8 @@ Link to an amendment published at 85 FR 66183, Oct. 16, 2020.
 *Days* means calendar days unless otherwise specified.
 
 *Day-to-day operations* of a firm means the marketing, production, sales, and administrative functions of the firm.
+
+*Follow-on requirement or contract.* The determination of whether a particular requirement or contract is a follow-on includes consideration of whether the scope has changed significantly, requiring meaningful different types of work or different capabilities; whether the magnitude or value of the requirement has changed by at least 25 percent for equivalent periods of performance; and whether the end user of the requirement has changed. As a general guide, if the procurement satisfies at least one of these three conditions, it may be considered a new requirement. However, meeting any one of these conditions is not dispositive that a requirement is new. In particular, the 25 percent rule cannot be applied rigidly in all cases. Conversely, if the requirement satisfies none of these conditions, it is considered a follow-on procurement.
 
 *Immediate family member* means father, mother, husband, wife, son, daughter, brother, sister, grandfather, grandmother, grandson, granddaughter, father-in-law, and mother-in-law.
 
@@ -48,4 +48,4 @@ Link to an amendment published at 85 FR 66183, Oct. 16, 2020.
 
 *Unconditional ownership* means ownership that is not subject to conditions precedent, conditions subsequent, executory agreements, voting trusts, restrictions on or assignments of voting rights, or other arrangements causing or potentially causing ownership benefits to go to another (other than after death or incapacity). The pledge or encumbrance of stock or other ownership interest as collateral, including seller-financed transactions, does not affect the unconditional nature of ownership if the terms follow normal commercial practices and the owner retains control absent violations of the terms.
 
-[63 FR 35739, June 30, 1998, as amended at 76 FR 8253, Feb. 11, 2011; 77 FR 28237, May 14, 2012]
+[63 FR 35739, June 30, 1998, as amended at 76 FR 8253, Feb. 11, 2011; 77 FR 28237, May 14, 2012; 85 FR 66183, Oct. 16, 2020]

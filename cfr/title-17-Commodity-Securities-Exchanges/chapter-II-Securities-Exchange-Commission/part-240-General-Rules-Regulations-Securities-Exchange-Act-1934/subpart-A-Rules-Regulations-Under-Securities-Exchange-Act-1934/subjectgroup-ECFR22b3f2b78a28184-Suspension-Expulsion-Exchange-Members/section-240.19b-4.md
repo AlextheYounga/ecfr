@@ -1,7 +1,5 @@
 ##### § 240.19b-4 Filings with respect to proposed rule changes by self-regulatory organizations. #####
 
-Link to an amendment published at 85 FR 65497, Oct. 15, 2020.
-
 (a) *Definitions.* As used in this section:
 
 (1) The term *advance notice* means a notice required to be made by a designated clearing agency pursuant to Section 806(e) of the Payment, Clearing and Settlement Supervision Act (12 U.S.C. 5465(e));
@@ -80,7 +78,7 @@ Link to an amendment published at 85 FR 65497, Oct. 15, 2020.
 
 (iii) By its terms, does not become operative for 30 days after the date of the filing, or such shorter time as the Commission may designate if consistent with the protection of investors and the public interest; provided that the self-regulatory organization has given the Commission written notice of its intent to file the proposed rule change, along with a brief description and text of the proposed rule change, at least five business days prior to the date of filing of the proposed rule change, or such shorter time as designated by the Commission.
 
-(g) Proceedings to determine whether a proposed rule change should be disapproved will be conducted pursuant to 17 CFR 201.700-701 (Initiation of Proceedings for SRO Proposed Rule Changes).
+(g) Proceedings to determine whether a proposed rule change should be disapproved will be conducted pursuant to 17 CFR 201.700 and 201.701 (Initiation of Proceedings for SRO Proposed Rule Changes and for Proposed NMS Plans and Plan Amendments).
 
 (h) Notice of orders issued pursuant to section 19(b) of the Act will be given by prompt publication thereof, together with a statement of written reasons therefor.
 
@@ -178,4 +176,4 @@ Link to an amendment published at 85 FR 65497, Oct. 15, 2020.
 
 (7) Notices of orders issued pursuant to Section 3C of the Act (15 U.S.C. 78c-3), regarding security-based swap submissions will be given by prompt publication thereof, together with a statement of written reasons therefor.
 
-[45 FR 73914, Nov. 7, 1980, as amended at 59 FR 66701, Dec. 28, 1994; 63 FR 70967, Dec. 22, 1998; 66 FR 43742, Aug. 20, 2001; 69 FR 60300, Oct. 8, 2004; 73 FR 16189, Mar. 27, 2008; 76 FR 4072, Jan. 24, 2011; 76 FR 20509, Apr. 13, 2011; 76 FR 41092, July 13, 2011; 77 FR 41648, July 13, 2012; 77 FR 73305, Dec. 10, 2012; 78 FR 21057, Apr. 9, 2013]
+[45 FR 73914, Nov. 7, 1980, as amended at 59 FR 66701, Dec. 28, 1994; 63 FR 70967, Dec. 22, 1998; 66 FR 43742, Aug. 20, 2001; 69 FR 60300, Oct. 8, 2004; 73 FR 16189, Mar. 27, 2008; 76 FR 4072, Jan. 24, 2011; 76 FR 20509, Apr. 13, 2011; 76 FR 41092, July 13, 2011; 77 FR 41648, July 13, 2012; 77 FR 73305, Dec. 10, 2012; 78 FR 21057, Apr. 9, 2013; 85 FR 65497, Oct. 15, 2020]

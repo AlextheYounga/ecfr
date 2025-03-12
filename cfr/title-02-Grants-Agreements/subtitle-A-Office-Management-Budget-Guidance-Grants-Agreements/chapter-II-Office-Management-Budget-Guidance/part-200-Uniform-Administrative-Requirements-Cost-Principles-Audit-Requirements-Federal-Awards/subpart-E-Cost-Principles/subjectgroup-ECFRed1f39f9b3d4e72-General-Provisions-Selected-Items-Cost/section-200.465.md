@@ -1,7 +1,5 @@
 ##### § 200.465 Rental costs of real property and equipment. #####
 
-Link to an amendment published at 85 FR 49570, Aug. 13, 2020.
-
 (a) Subject to the limitations described in paragraphs (b) through (d) of this section, rental costs are allowable to the extent that the rates are reasonable in light of such factors as: rental costs of comparable property, if any; market conditions in the area; alternatives available; and the type, life expectancy, condition, and value of the property leased. Rental arrangements should be reviewed periodically to determine if circumstances have changed and other options are available.
 
 (b) Rental costs under “sale and lease back” arrangements are allowable only up to the amount that would be allowed had the non-Federal entity continued to own the property. This amount would include expenses such as depreciation, maintenance, taxes, and insurance.
@@ -33,3 +31,11 @@ Link to an amendment published at 85 FR 49570, Aug. 13, 2020.
 (5) Rental costs under leases which are required to be treated as capital leases under GAAP are allowable only up to the amount (as explained in paragraph (b) of this section) that would be allowed had the non-Federal entity purchased the property on the date the lease agreement was executed. The provisions of GAAP must be used to determine whether a lease is a capital lease. Interest costs related to capital leases are allowable to the extent they meet the criteria in § 200.449 Interest. Unallowable costs include amounts paid for profit, management fees, and taxes that would not have been incurred had the non-Federal entity purchased the property.
 
 (6) The rental of any property owned by any individuals or entities affiliated with the non-Federal entity, to include commercial or residential real estate, for purposes such as the home office workspace is unallowable.
+
+(d) Rental costs under leases which are required to be accounted for as a financed purchase under GASB standards or a finance lease under FASB standards under GAAP are allowable only up to the amount (as explained in paragraph (b) of this section) that would be allowed had the non-Federal entity purchased the property on the date the lease agreement was executed. Interest costs related to these leases are allowable to the extent they meet the criteria in § 200.449. Unallowable costs include amounts paid for profit, management fees, and taxes that would not have been incurred had the non-Federal entity purchased the property.
+
+(e) Rental or lease payments are allowable under lease contracts where the non-Federal entity is required to recognize an intangible right-to-use lease asset (per GASB) or right of use operating lease asset (per FASB) for purposes of financial reporting in accordance with GAAP.
+
+(f) The rental of any property owned by any individuals or entities affiliated with the non-Federal entity, to include commercial or residential real estate, for purposes such as the home office workspace is unallowable.
+
+[78 FR 78608, Dec. 26, 2013, as amended at 85 FR 49569, Aug. 13, 2020]

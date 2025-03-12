@@ -1,6 +1,6 @@
 ##### 30.202-7 Determinations. #####
 
-Link to an amendment published at 85 FR 67614, Oct. 23, 2020.
+Link to an amendment published at 85 FR 67614, Oct. 23, 2020.Link to a correction published at 85 FR 72971, Nov. 16, 2020.
 
 (a) *Adequacy determination.* (1) As prescribed by 48 CFR 9903.202-6 (FAR Appendix), the auditor shall -
 

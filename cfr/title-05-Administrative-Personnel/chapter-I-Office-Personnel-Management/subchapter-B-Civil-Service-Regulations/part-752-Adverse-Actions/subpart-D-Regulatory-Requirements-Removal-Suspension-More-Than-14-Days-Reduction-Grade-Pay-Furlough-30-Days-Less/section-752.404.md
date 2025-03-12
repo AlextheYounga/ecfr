@@ -1,10 +1,8 @@
 ##### § 752.404 Procedures. #####
 
-Link to an amendment published at 85 FR 65986, Oct. 16, 2020.
-
 (a) *Statutory entitlements.* An employee against whom action is proposed under this subpart is entitled to the procedures provided in 5 U.S.C. 7513(b).
 
-(b) *Notice of proposed action.* (1) An employee against whom an action is proposed is entitled to at least 30 days' advance written notice unless there is an exception pursuant to paragraph (d) of this section. The notice must state the specific reason(s) for the proposed action, and inform the employee of his or her right to review the material which is relied on to support the reasons for action given in the notice.
+(b) *Notice of proposed action.* (1) An employee against whom an action is proposed is entitled to at least 30 days' advance written notice unless there is an exception pursuant to paragraph (d) of this section. However, to the extent an agency in its sole and exclusive discretion deems practicable, agencies should limit a written notice of an adverse action to the 30 days prescribed in section 7513(b)(1) of title 5, United States Code. Advance notices of greater than 30 days must be reported to the Office of Personnel Management. The notice must state the specific reason(s) for the proposed action and inform the employee of his or her right to review the material which is relied on to support the reasons for action given in the notice. The notice must further include detailed information with respect to any right to appeal the action pursuant to section 1097(b)(2)(A) of Public Law 115-91, the forums in which the employee may file an appeal, and any limitations on the rights of the employee that would apply because of the forum in which the employee decides to file.
 
 (2) When some but not all employees in a given competitive level are being furloughed, the notice of proposed action must state the basis for selecting a particular employee for furlough, as well as the reasons for the furlough.
 
@@ -16,7 +14,7 @@ Link to an amendment published at 85 FR 65986, Oct. 16, 2020.
 
 (iii) Curtailing the notice period when the agency can invoke the provisions of paragraph (d)(1) of this section; or
 
-(iv) Placing the employee in a paid, nonduty status for such time as is necessary to effect the action.
+(iv) Placing the employee in a paid, nonduty status for such time as is necessary to effect the action. After publication of regulations for 5 U.S.C. 6329b, and the subsequent agency implementation period in accordance with 5 U.S.C. 6329b, an agency may place the employee in a notice leave status when applicable.
 
 (c) *Employee's answer.* (1) An employee may answer orally and in writing except as provided in paragraph (c)(2) of this section. The agency must give the employee a reasonable amount of official time to review the material relied on to support its proposed action, to prepare an answer orally and in writing, and to secure affidavits, if the employee is in an active duty status. The agency may require the employee to furnish any answer to the proposed action, and affidavits and other documentary evidence in support of the answer, within such time as would be reasonable, but not less than 7 days.
 
@@ -36,4 +34,8 @@ Link to an amendment published at 85 FR 65986, Oct. 16, 2020.
 
 (2) The notice must specify in writing the reasons for the decision and advise the employee of any appeal or grievance rights under § 752.405 of this part. The agency must deliver the notice of decision to the employee on or before the effective date of the action.
 
+(3) To the extent practicable, an agency should issue the decision on a proposed removal under this subpart within 15 business days of the conclusion of the employee's opportunity to respond under paragraph (c) of this section.
+
 (h) *Applications for disability retirement.* Section 831.1204(e) of this chapter provides that an employee's application for disability retirement need not delay any other appropriate personnel action. Section 831.1205 and § 844.202 of this chapter set forth the basis under which an agency must file an application for disability retirement on behalf of an employee.
+
+[74 FR 63532, Dec. 4, 2009, as amended at 85 FR 65986, Oct. 16, 2020]

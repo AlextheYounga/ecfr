@@ -1,5 +1,7 @@
 ##### § 63.9 How may NIH terminate awards? #####
 
+Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
+
 The Director may terminate a traineeship at any time:
 
 (a) Upon written request of the awardee; or

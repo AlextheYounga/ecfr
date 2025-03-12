@@ -1,5 +1,7 @@
 ##### § 124.511 Investigation and determination of compliance. #####
 
+Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
+
 (a) *Complaints.* A complaint that a facility is out of compliance with the requirements of this subpart may be filed with the Secretary by any person.
 
 (1) A complaint is considered to be filed with the Secretary on the date the following information is received in the Office of the HHS Regional Health Administrator for the Region in which the facility is located:

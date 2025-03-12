@@ -1,5 +1,7 @@
 ##### § 404.2 General definitions and use of terms. #####
 
+Link to an amendment published at 85 FR 73156, Nov. 16, 2020.
+
 (a) *Terms relating to the Act and regulations.* (1) *The Act* means the Social Security Act, as amended (42 U.S.C. Chapter 7).
 
 (2) *Section* means a section of the regulations in part 404 of this chapter unless the context indicates otherwise.

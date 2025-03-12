@@ -1,5 +1,7 @@
 ##### § 404.999c What travel expenses are reimbursable. #####
 
+Link to an amendment published at 85 FR 73158, Nov. 16, 2020.
+
 Reimbursable travel expenses include the ordinary expenses of public or private transportation as well as unusual costs due to special circumstances.
 
 (a) Reimbursement for ordinary travel expenses is limited -
