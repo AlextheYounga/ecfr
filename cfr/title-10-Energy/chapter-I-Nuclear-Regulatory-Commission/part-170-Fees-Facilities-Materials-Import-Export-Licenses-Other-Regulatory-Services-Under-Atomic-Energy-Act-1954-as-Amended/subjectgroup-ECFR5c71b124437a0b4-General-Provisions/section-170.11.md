@@ -6,7 +6,7 @@
 
 (i) In response to a generic letter or NRC bulletin, where the request/report does not result in an amendment to the license, does not result in the review of an alternate method or reanalysis to meet the requirements of the generic letter, or does not involve an unreviewed safety issue;
 
-(ii) When the NRC, at the time the request/report is submitted, plans to use the information to assist the NRC in generic regulatory improvements or efforts (*e.g.,* rules, regulatory guides, regulations, policy statements, generic letters, or bulletins); or
+(ii) When the NRC, at the time the request/report is submitted, plans to use the information to assist the NRC in generic regulatory improvements or efforts (e.g., rules, regulatory guides, regulations, policy statements, generic letters, or bulletins); or
 
 (iii) When the NRC, at the time the request/report is submitted, plans to use the information in response to an NRC request from the Office Director level or above to resolve an identified safety, safeguards, or environmental issue.
 

@@ -1,7 +1,5 @@
 ##### § 20.2201 Reports of theft or loss of licensed material. #####
 
-Link to an amendment published at 88 FR 15880, Mar. 14, 2023.
-
 (a) *Telephone reports.* (1) Each licensee shall report by telephone as follows:
 
 (i) Immediately after its occurrence becomes known to the licensee, any lost, stolen, or missing licensed material in an aggregate quantity equal to or greater than 1,000 times the quantity specified in appendix C to part 20 under such circumstances that it appears to the licensee that an exposure could result to persons in unrestricted areas; or
@@ -34,10 +32,10 @@ Link to an amendment published at 88 FR 15880, Mar. 14, 2023.
 
 (ii) All other licensees shall make reports to the Administrator of the appropriate NRC Regional Office listed in appendix D to part 20.
 
-(c) A duplicate report is not required under paragraph (b) of this section if the licensee is also required to submit a report pursuant to §§ 30.55(c), 37.57, 37.81, 40.64(c), 50.72, 50.73, 70.52, 73.27(b), 73.67(e)(3)(vii), 73.67(g)(3)(iii), 73.71, or 150.19(c) of this chapter.
+(c) A duplicate report is not required under paragraph (b) of this section if the licensee is also required to submit a report pursuant to §§ 30.55(c), 37.57, 37.81, 40.64(c), 50.72, 50.73, 70.52, 73.27(b), 73.67(e)(3)(vii), 73.67(g)(3)(iii), 73.1205, or 150.19(c) of this chapter.
 
 (d) Subsequent to filing the written report, the licensee shall also report any additional substantive information on the loss or theft within 30 days after the licensee learns of such information.
 
 (e) The licensee shall prepare any report filed with the Commission pursuant to this section so that names of individuals who may have received exposure to radiation are stated in a separate and detachable part of the report.
 
-[56 FR 23406, May 21, 1991, as amended at 58 FR 69220, Dec. 30, 1993; 60 FR 20186, Apr. 25, 1995; 66 FR 64738, Dec. 14, 2001; 67 FR 3585, Jan. 25, 2002; 78 FR 17006, Mar. 19, 2013; 85 FR 65661, Oct. 16, 2020]
+[56 FR 23406, May 21, 1991, as amended at 58 FR 69220, Dec. 30, 1993; 60 FR 20186, Apr. 25, 1995; 66 FR 64738, Dec. 14, 2001; 67 FR 3585, Jan. 25, 2002; 78 FR 17006, Mar. 19, 2013; 85 FR 65661, Oct. 16, 2020; 88 FR 15880, Mar. 14, 2023]

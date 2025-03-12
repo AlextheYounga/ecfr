@@ -16,7 +16,7 @@
 
 (c) Holders of licenses for construction or operation of a nuclear reactor issued pursuant to part 50 of this chapter, except critical assembly reactors, are exempt for the requirements of paragraph (b) of this section with respect to special nuclear material used or to be used in the reactor.
 
-(d)(1) The requirements in paragraphs (a) through (c) of this section do not apply to a holder of a construction permit or operating license for a nuclear power reactor issued under part 50 of this chapter or a combined license issued under part 52 of this chapter, if the holder complies with the requirements of paragraph (b) of 10 CFR 50.68.
+(d)(1) The requirements in paragraphs (a) through (c) of this section do not apply to a holder of a construction permit or operating license for a nuclear power reactor issued under part 50 of this chapter or a ombined license issued under part 52 of this chapter, if the holder complies with the requirements of paragraph (b) of 10 CFR 50.68.
 
 (2) An exemption from § 70.24 held by a licensee who thereafter elects to comply with requirements of paragraph (b) of 10 CFR 50.68 does not exempt that licensee from complying with any of the requirements in § 50.68, but shall be ineffective so long as the licensee elects to comply with § 50.68.
 

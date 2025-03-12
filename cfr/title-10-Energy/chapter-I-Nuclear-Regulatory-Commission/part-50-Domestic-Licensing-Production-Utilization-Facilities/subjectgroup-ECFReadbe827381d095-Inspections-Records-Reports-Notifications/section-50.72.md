@@ -1,10 +1,8 @@
 ##### § 50.72 Immediate notification requirements for operating nuclear power reactors. #####
 
-Link to an amendment published at 88 FR 15880, Mar. 14, 2023.
-
 (a) *General requirements.*1 (1) Each nuclear power reactor licensee licensed under §§ 50.21(b) or 50.22 holding an operating license under this part or a combined license under part 52 of this chapter after the Commission makes the finding under § 52.103(g), shall notify the NRC Operations Center via the Emergency Notification System of:
 
-1 Other requirements for immediate notification of the NRC by licensed operating nuclear power reactors are contained elsewhere in this chapter, in particular §§ 20.1906, 20.2202, 50.36, 72.74, 72.75, and 73.71.
+1 Other requirements for immediate notification of the NRC by licensed operating nuclear power reactors are contained elsewhere in this chapter, in particular §§ 20.1906, 20.2202, 50.36, 72.74, 72.75, and 73.1200.
 
 (i) The declaration of any of the Emergency Classes specified in the licensee's approved Emergency Plan;2 or
 
@@ -102,4 +100,4 @@ Link to an amendment published at 88 FR 15880, Mar. 14, 2023.
 
 (3) Maintain an open, continuous communication channel with the NRC Operations Center upon request by the NRC.
 
-[48 FR 39046, Aug. 29, 1983; 48 FR 40882, Sept. 12, 1983; 55 FR 29194, July 18, 1990, as amended at 56 FR 944, Jan. 10, 1991; 56 FR 23473, May 21, 1991; 56 FR 40184, Aug. 13, 1991; 57 FR 41381, Sept. 10, 1992; 58 FR 67661, Dec. 22, 1993; 59 FR 14087, Mar. 25, 1994; 65 FR 63786, Oct. 25, 2000; 72 FR 49502, Aug. 28, 2007; 85 FR 65662, Oct. 16, 2020; 87 FR 20697, Apr. 8, 2022]
+[48 FR 39046, Aug. 29, 1983; 48 FR 40882, Sept. 12, 1983; 55 FR 29194, July 18, 1990, as amended at 56 FR 944, Jan. 10, 1991; 56 FR 23473, May 21, 1991; 56 FR 40184, Aug. 13, 1991; 57 FR 41381, Sept. 10, 1992; 58 FR 67661, Dec. 22, 1993; 59 FR 14087, Mar. 25, 1994; 65 FR 63786, Oct. 25, 2000; 72 FR 49502, Aug. 28, 2007; 85 FR 65662, Oct. 16, 2020; 87 FR 20697, Apr. 8, 2022; 88 FR 15880, Mar. 14, 2023]

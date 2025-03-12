@@ -2,7 +2,7 @@
 
 (a) After issuance of a combined license, the Commission may not modify, add, or delete any term or condition of the combined license, the design of the facility, the inspections, tests, analyses, and acceptance criteria contained in the license which are not derived from a referenced standard design certification or manufacturing license, except in accordance with the provisions of § 52.103 or § 50.109 of this chapter, as applicable.
 
-(b) If the combined license does not reference a design certification or a reactor manufactured under a manufacturing license issued under subpart F of this part, then a licensee may make changes in the facility as described in the final safety analysis report (as updated), make changes in the procedures as described in the final safety analysis report (as updated), and conduct tests or experiments not described in the final safety analysis report (as updated) under the applicable change processes in 10 CFR part 50 (*e.g.,* § 50.54, § 50.59, or § 50.90 of this chapter).
+(b) If the combined license does not reference a design certification or a reactor manufactured under a manufacturing license issued under subpart F of this part, then a licensee may make changes in the facility as described in the final safety analysis report (as updated), make changes in the procedures as described in the final safety analysis report (as updated), and conduct tests or experiments not described in the final safety analysis report (as updated) under the applicable change processes in 10 CFR part 50 (e.g., § 50.54, § 50.59, or § 50.90 of this chapter).
 
 (c) If the combined license references a certified design, then—
 

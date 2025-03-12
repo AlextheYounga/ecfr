@@ -1,7 +1,5 @@
 ##### § 70.20b General license for carriers of transient shipments of formula quantities of strategic special nuclear material, special nuclear material of moderate strategic significance, special nuclear material of low strategic significance, and irradiated reactor fuel. #####
 
-Link to an amendment published at 88 FR 15881, Mar. 14, 2023.
-
 (a) A general license is hereby issued to any person to possess transient shipments of the following kinds and quantities of special nuclear material:
 
 (1) A formula quantity of special nuclear material of the types and quantities subject to the requirements of §§ 73.20, 73.25, 73.26, and 73.27 of this chapter.
@@ -12,11 +10,11 @@ Link to an amendment published at 88 FR 15881, Mar. 14, 2023.
 
 (b) Persons generally licensed under this section are exempt from the requirements of parts 19 and 20 of this chapter and the requirements of this part, except §§ 70.32 (a) and (b), 70.52, 70.55, 70.91, 70.81, and 70.82.
 
-(c) Persons generally licensed under this section to possess a transient shipment of special nuclear material of the kind and quantity specified in paragraph (a)(1) of this section shall provide physical protection for that shipment in accordance with or equivalent to §§ 73.20(a), 73.20(b), 73.25, and 73.71(b) of this chapter from the time a shipment enters a United States port until it exits that or another United States port.
+(c) Persons generally licensed under this section to possess a transient shipment of special nuclear material of the kind and quantity specified in paragraph (a)(1) of this section shall provide physical protection for that shipment in accordance with or equivalent to §§ 73.20(a), 73.20(b), 73.25, and 73.1200 of this chapter from the time a shipment enters a United States port until it exits that or another United States port.
 
-(d) Persons generally licensed under this section to possess a transient shipment of special nuclear material of moderate or low strategic significance of the kind and quantity specified in paragraph (a)(2) of this section shall provide physical protection for that shipment in accordance with or equivalent to § 73.67 of this chapter and shall comply with the requirements of § 73.71(b) of this chapter.
+(d) Persons generally licensed under this section to possess a transient shipment of special nuclear material of moderate or low strategic significance of the kind and quantity specified in paragraph (a)(2) of this section shall provide physical protection for that shipment in accordance with or equivalent to § 73.67 of this chapter and shall comply with the requirements of § 73.1200 of this chapter.
 
-(e) Persons generally licensed under this section to possess a transient shipment of irradiated reactor fuel of the kind and quantity specified in paragraph (a)(3) of this section shall provide physical protection for that shipment in accordance with or equivalent to § 73.37 of this chapter and shall comply with the requirements of § 73.71(b) of this chapter.
+(e) Persons generally licensed under this section to possess a transient shipment of irradiated reactor fuel of the kind and quantity specified in paragraph (a)(3) of this section shall provide physical protection for that shipment in accordance with or equivalent to § 73.37 of this chapter and shall comply with the requirements of § 73.1200 of this chapter.
 
 (f)(1) Persons generally licensed under this section, who plan to carry transient shipments with scheduled stops at United States ports, shall notify in writing the Director, Office of Nuclear Security and Incident Response, using an appropriate method listed in § 70.5(a). Classified notifications shall be sent to the NRC headquarters classified mailing address listed in appendix A to part 73 of this chapter.
 
@@ -60,4 +58,4 @@ Link to an amendment published at 88 FR 15881, Mar. 14, 2023.
 
 (5) Implement these arrangements within a reasonable time after the arrival of the shipment at a United States port to remain in effect until the shipment exits that or another United States port.
 
-[52 FR 9652, Mar. 26, 1987, as amended at 60 FR 24552, May 9, 1995; 67 FR 3585, Jan. 25, 2002; 68 FR 14529, Mar. 26, 2003; 68 FR 23575, May 5, 2003; 68 FR 58817, Oct. 10, 2003; 72 FR 35145, June 27, 2007; 74 FR 62683, Dec. 1, 2009; 83 FR 58723, Nov. 21, 2018]
+[52 FR 9652, Mar. 26, 1987, as amended at 60 FR 24552, May 9, 1995; 67 FR 3585, Jan. 25, 2002; 68 FR 14529, Mar. 26, 2003; 68 FR 23575, May 5, 2003; 68 FR 58817, Oct. 10, 2003; 72 FR 35145, June 27, 2007; 74 FR 62683, Dec. 1, 2009; 83 FR 58723, Nov. 21, 2018; 88 FR 15881, Mar. 14, 2023]
