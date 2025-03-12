@@ -1,8 +1,6 @@
 ##### § 232.105 Use of HTML and hyperlinks. #####
 
-Link to an amendment published at 81 FR 82019, Nov. 18, 2016.
-
-(a) Electronic filers must submit the following documents in ASCII: Form N-SAR (§ 274.101 of this chapter) and Form 13F (§ 249.325 of this chapter). Notwithstanding the provisions of this section, electronic filers may submit exhibits to Form N-SAR in HTML.
+(a) [Reserved]
 
 (b) Electronic filers may not include in any HTML document hyperlinks to sites, locations, or documents outside the HTML document, except links to officially filed documents within the current submission and to documents previously filed electronically and located in the EDGAR database on the Commission's public Web site (*www.sec.gov*). Electronic filers also may include within an HTML document links to different sections within that single HTML document.
 
@@ -14,4 +12,4 @@ Instructions to paragraph (d): (1) No hyperlink is required for any exhibit inco
 
 (2) An electronic filer must correct an inaccurate or nonfunctioning link or hyperlink to an exhibit, in the case of a registration statement that is not yet effective, by filing an amendment to the registration statement containing the inaccurate or nonfunctioning link or hyperlink; or, in the case of a registration statement that has become effective or an Exchange Act report, an electronic filer must correct the inaccurate or nonfunctioning link or hyperlink in the next Exchange Act periodic report that requires, or includes, an exhibit pursuant to Item 601 of Regulation S-K (§ 229.601 of this chapter) or, in the case of a foreign private issuer (as defined in § 229.405 of this chapter), Form 20-F (§ 249.220f of this chapter) or Form F-10 (§ 239.40 of this chapter). Alternatively, an electronic filer may correct an inaccurate or nonfunctioning link or hyperlink in a registration statement that has become effective by filing a post-effective amendment to the registration statement.
 
-[65 FR 24800, Apr. 27, 2000, as amended at 82 FR 14142, Mar. 17, 2017]
+[65 FR 24800, Apr. 27, 2000, as amended at 81 FR 82019, Nov. 18, 2016; 82 FR 14142, Mar. 17, 2017]

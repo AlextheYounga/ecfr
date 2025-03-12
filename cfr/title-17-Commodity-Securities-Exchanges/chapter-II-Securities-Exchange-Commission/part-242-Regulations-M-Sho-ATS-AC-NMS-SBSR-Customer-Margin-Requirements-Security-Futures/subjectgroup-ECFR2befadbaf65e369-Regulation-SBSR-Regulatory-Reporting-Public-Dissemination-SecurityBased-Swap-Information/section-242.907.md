@@ -34,4 +34,4 @@
 
 (e) A registered security-based swap data repository shall provide to the Commission, upon request, information or reports related to the timeliness, accuracy, and completeness of data reported to it pursuant to §§ 242.900 through 242.909 and the registered security-based swap data repository's policies and procedures thereunder.
 
-[80 FR 14728, Mar. 19, 2015, as amended at 81 FR 53655, Aug. 12, 2016}
+[80 FR 14728, Mar. 19, 2015, as amended at 81 FR 53655, Aug. 12, 2016]

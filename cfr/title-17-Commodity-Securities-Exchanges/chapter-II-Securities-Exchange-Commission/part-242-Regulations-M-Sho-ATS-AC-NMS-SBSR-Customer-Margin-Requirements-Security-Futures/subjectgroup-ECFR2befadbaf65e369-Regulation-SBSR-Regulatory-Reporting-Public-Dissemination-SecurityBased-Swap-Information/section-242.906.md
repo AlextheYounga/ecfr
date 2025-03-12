@@ -6,4 +6,4 @@
 
 (c) *Policies and procedures to support reporting compliance.* Each participant of a registered security-based swap data repository that is a registered security-based swap dealer, registered major security-based swap participant, registered clearing agency, platform, or registered broker-dealer (including a registered security-based swap execution facility) that becomes a participant solely as a result of making a report to satisfy an obligation under § 242.901(a)(2)(ii)(E)(*4*) shall establish, maintain, and enforce written policies and procedures that are reasonably designed to ensure that it complies with any obligations to report information to a registered security-based swap data repository in a manner consistent with §§ 242.900 through 242.909. Each such participant shall review and update its policies and procedures at least annually.
 
-[81 FR 53654, Aug. 12, 2016}
+[81 FR 53654, Aug. 12, 2016]

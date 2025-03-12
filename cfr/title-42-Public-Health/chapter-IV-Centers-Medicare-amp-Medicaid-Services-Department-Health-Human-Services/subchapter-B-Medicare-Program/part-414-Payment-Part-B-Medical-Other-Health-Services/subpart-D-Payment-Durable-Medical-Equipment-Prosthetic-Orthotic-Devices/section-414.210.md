@@ -1,7 +1,5 @@
 ##### § 414.210 General payment rules. #####
 
-Link to an amendment published at 83 FR 21925, May 11, 2018.
-
 (a) *General rule.* For items furnished on or after January 1, 1989, except as provided in paragraphs (c), (d), and (g) of this section, Medicare pays for durable medical equipment, prosthetics and orthotics, including a separate payment for maintenance and servicing of the items as described in paragraph (e) of this section, on the basis of 80 percent of the lesser of -
 
 (1) The actual charge for the item;
@@ -122,8 +120,12 @@ Link to an amendment published at 83 FR 21925, May 11, 2018.
 
 (9) *Transition rules.* The payment adjustments described above are phased in as follows:
 
-(i) For applicable items and services furnished with dates of service from January 1, 2016, through June 30, 2016, based on the fee schedule amount for the area is equal to 50 percent of the adjusted payment amount established under this section and 50 percent of the unadjusted fee schedule amount.
+(i) For applicable items and services furnished with dates of service from January 1, 2016 through December 31, 2016, based on the fee schedule amount for the area is equal to 50 percent of the adjusted payment amount established under this section and 50 percent of the unadjusted fee schedule amount.
 
-(ii) For items and services furnished with dates of service on or after July 1, 2016, the fee schedule amount for the area is equal to 100 percent of the adjusted payment amount established under this section.
+(ii) For items and services furnished with dates of service from January 1, 2017, through May 31, 2018, and on or after January 1, 2019, the fee schedule amount for the area is equal to 100 percent of the adjusted payment amount established under this section.
 
-[57 FR 57689, Dec. 7, 1992, as amended at 71 FR 65932, Nov. 9, 2006; 73 FR 69936, Nov. 19, 2008; 73 FR 80304, Dec. 31, 2008; 74 FR 62009, Nov. 25, 2009; 79 FR 66262, Nov. 6, 2013; 81 FR 77965, Nov. 4, 2016]
+(iii) For items and services furnished in rural areas and non-contiguous areas (Alaska, Hawaii, and U.S. territories) with dates of service from June 1, 2018 through December 31, 2018, based on the fee schedule amount for the area is equal to 50 percent of the adjusted payment amount established under this section and 50 percent of the unadjusted fee schedule amount.
+
+(iv) For items and services furnished in areas other than rural or non-contiguous areas with dates of service from June 1, 2018 through December 31, 2018, based on the fee schedule amount for the area is equal to 100 percent of the adjusted payment amount established under this section.
+
+[57 FR 57689, Dec. 7, 1992, as amended at 71 FR 65932, Nov. 9, 2006; 73 FR 69936, Nov. 19, 2008; 73 FR 80304, Dec. 31, 2008; 74 FR 62009, Nov. 25, 2009; 79 FR 66262, Nov. 6, 2013; 81 FR 77965, Nov. 4, 2016; 83 FR 21925, May 11, 2018]

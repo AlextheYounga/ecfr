@@ -1,7 +1,5 @@
 ##### § 414.402 Definitions. #####
 
-Link to an amendment published at 83 FR 21925, May 11, 2018.
-
 For purposes of this subpart, the following definitions apply:
 
 *Affected party* means a contract supplier that has been notified that their DMEPOS CBP contract will be terminated for a breach of contract.
@@ -60,7 +58,7 @@ For purposes of this subpart, the following definitions apply:
 
 (iv) Other DME (capped rental items), as specified in § 414.229.
 
-(2) Supplies necessary for the effective use of DME other than inhalation drugs.
+(2) Supplies necessary for the effective use of DME other than inhalation and infusion drugs.
 
 (3) Enteral nutrients, equipment, and supplies.
 
@@ -114,4 +112,4 @@ For purposes of this subpart, the following definitions apply:
 
 *Weighted bid* means the item weight multiplied by the bid price submitted for that item.
 
-[72 FR 18084, Apr. 10, 2007, as amended at 74 FR 2880, Jan. 16, 2009; 74 FR 62009, Nov. 25, 2009; 75 FR 73622, Nov. 29, 2010; 76 FR 70314, Nov. 10, 2011; 81 FR 77966, Nov. 4, 2016]
+[72 FR 18084, Apr. 10, 2007, as amended at 74 FR 2880, Jan. 16, 2009; 74 FR 62009, Nov. 25, 2009; 75 FR 73622, Nov. 29, 2010; 76 FR 70314, Nov. 10, 2011; 81 FR 77966, Nov. 4, 2016; 83 FR 21925, May 11, 2018]

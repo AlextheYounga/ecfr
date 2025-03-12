@@ -12,4 +12,4 @@
 
 (2) If such erroneous information relates to a security-based swap that the registered security-based swap data repository previously disseminated and falls into any of the categories of information enumerated in § 242.901(c), publicly disseminate a corrected transaction report of the security-based swap promptly following verification of the trade by the counterparties to the security-based swap, with an indication that the report relates to a previously disseminated transaction.
 
-[80 FR 14728, Mar. 19, 2015, as amended at 81 FR 53654, Aug. 12, 2016}
+[80 FR 14728, Mar. 19, 2015, as amended at 81 FR 53654, Aug. 12, 2016]

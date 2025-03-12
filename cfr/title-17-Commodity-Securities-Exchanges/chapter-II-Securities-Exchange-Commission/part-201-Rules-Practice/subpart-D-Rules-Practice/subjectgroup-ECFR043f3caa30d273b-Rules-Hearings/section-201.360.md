@@ -2,7 +2,7 @@
 
 (a)(1) *When required.* Unless the Commission directs otherwise, the hearing officer shall prepare an initial decision in any proceeding in which the Commission directs a hearing officer to preside at a hearing, provided, however, that an initial decision may be waived by the parties with the consent of the hearing officer pursuant to § 201.202.
 
-(2) *Time period for filing initial decision and for hearing* - (i) *Initial decision.* In the order instituting proceedings, the Commission will specify a time period in which the hearing officer's initial decision must be filed with the Secretary. In the Commission's discretion, after consideration of the nature, complexity, and urgency of the subject matter, and with due regard for the public interest and the protection of investors, this time period will be either 30, 75, or 120 days. The time period will run from the occurrence of the following events:
+(2) *Time period for filing initial decision and for hearing*—(i) *Initial decision.* In the order instituting proceedings, the Commission will specify a time period in which the hearing officer's initial decision must be filed with the Secretary. In the Commission's discretion, after consideration of the nature, complexity, and urgency of the subject matter, and with due regard for the public interest and the protection of investors, this time period will be either 30, 75, or 120 days. The time period will run from the occurrence of the following events:
 
 (A) The completion of post-hearing briefing in a proceeding where the hearing has been completed; or
 
@@ -24,10 +24,10 @@
 
 (2) If a party or an aggrieved person entitled to review timely files a petition for review or a motion to correct a manifest error of fact in the initial decision with the hearing officer, or if the Commission takes action to review as to a party or an aggrieved person entitled to review, the initial decision shall not become final as to that party or person.
 
-(c) *Filing, service and publication.* The Secretary shall promptly serve the initial decision upon the parties and shall promptly publish notice of the filing thereof on the SEC Web site. Thereafter, the Secretary shall publish the initial decision in the SEC Docket; provided, however, that in nonpublic proceedings no notice shall be published unless the Commission otherwise directs.
+(c) *Filing, service and publication.* The Secretary shall promptly serve the initial decision upon the parties and shall promptly publish notice of the filing thereof on the SEC website; provided, however, that in nonpublic proceedings no notice shall be published unless the Commission otherwise directs.
 
 (d) *Finality.* (1) If a party or an aggrieved person entitled to review timely files a petition for review or a motion to correct a manifest error of fact in the initial decision, or if the Commission on its own initiative orders review of a decision with respect to a party or a person aggrieved who would be entitled to review, the initial decision shall not become final as to that party or person.
 
-(2) If a party or aggrieved person entitled to review fails to file timely a petition for review or a motion to correct a manifest error of fact in the initial decision, and if the Commission does not order review of a decision on its own initiative, the Commission will issue an order that the decision has become final as to that party. The decision becomes final upon issuance of the order. The order of finality shall state the date on which sanctions, if any, take effect. Notice of the order shall be published in the *SEC Docket* and on the SEC Web site.
+(2) If a party or aggrieved person entitled to review fails to file timely a petition for review or a motion to correct a manifest error of fact in the initial decision, and if the Commission does not order review of a decision on its own initiative, the Commission will issue an order that the decision has become final as to that party. The decision becomes final upon issuance of the order. The order of finality shall state the date on which sanctions, if any, take effect. Notice of the order shall be published on the SEC website.
 
-[60 FR 32796, June 23, 1995, as amended at 68 FR 35789, June 17, 2003; 69 FR 13178, Mar. 19, 2004; 81 FR 50239, July 29, 2016]
+[60 FR 32796, June 23, 1995, as amended at 68 FR 35789, June 17, 2003; 69 FR 13178, Mar. 19, 2004; 81 FR 50239, July 29, 2016; 83 FR 25366, June 1, 2018]

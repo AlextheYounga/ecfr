@@ -26,7 +26,7 @@
 
 (5) A non-U.S. person that, in connection with such person's security-based swap dealing activity, arranged, negotiated, or executed the security-based swap using its personnel located in a U.S. branch or office, or using personnel of an agent located in a U.S. branch or office.
 
-(c) *Substituted compliance* - (1) *General.* Compliance with the regulatory reporting and public dissemination requirements in sections 13(m) and 13A of the Act (15 U.S.C. 78m(m) and 78m-1), and the rules and regulations thereunder, may be satisfied by compliance with the rules of a foreign jurisdiction that is the subject of a Commission order described in paragraph (c)(2) of this section, provided that at least one of the direct counterparties to the security-based swap is either a non-U.S. person or a foreign branch.
+(c) *Substituted compliance*—(1) *General.* Compliance with the regulatory reporting and public dissemination requirements in sections 13(m) and 13A of the Act (15 U.S.C. 78m(m) and 78m-1), and the rules and regulations thereunder, may be satisfied by compliance with the rules of a foreign jurisdiction that is the subject of a Commission order described in paragraph (c)(2) of this section, provided that at least one of the direct counterparties to the security-based swap is either a non-U.S. person or a foreign branch.
 
 (2) *Procedure.* (i) The Commission may, conditionally or unconditionally, by order, make a substituted compliance determination regarding regulatory reporting and public dissemination of security-based swaps with respect to a foreign jurisdiction if that jurisdiction's requirements for the regulatory reporting and public dissemination of security-based swaps are comparable to otherwise applicable requirements. The Commission may, conditionally or unconditionally, by order, make a substituted compliance determination regarding regulatory reporting of security-based swaps that are subject to § 242.908(a)(2) with respect to a foreign jurisdiction if that jurisdiction's requirements for the regulatory reporting of security-based swaps are comparable to otherwise applicable requirements.
 
@@ -46,4 +46,4 @@
 
 (v) The Commission may, on its own initiative, modify or withdraw such order at any time, after appropriate notice and opportunity for comment.
 
-[80 FR 14728, Mar. 19, 2015, as amended at 81 FR 53655, Aug. 12, 2016}
+[80 FR 14728, Mar. 19, 2015, as amended at 81 FR 53655, Aug. 12, 2016]

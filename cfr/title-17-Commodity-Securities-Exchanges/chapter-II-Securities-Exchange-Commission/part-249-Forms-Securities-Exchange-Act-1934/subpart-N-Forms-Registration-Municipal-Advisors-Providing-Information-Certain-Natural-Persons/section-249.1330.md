@@ -1,3 +1,5 @@
 ##### § 249.1330 Form MA-NR, for appointment of agent for service of process by non-resident municipal advisor, non-resident general partner or managing agent of a municipal advisor, and non-resident natural person associated with a municipal advisor. #####
 
 The form shall be used to furnish information pertaining to the appointment of agent for service of process by a non-resident municipal advisor and by registered municipal advisors to furnish the same for each of its non-resident general partner or managing agent, or non-resident natural person associated with a municipal advisor pursuant to section 15B of the Securities Exchange Act of 1934 (15 U.S.C. 78*o*-4).
+
+Editorial Note:For Federal Register citations affecting Form MA-NR, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

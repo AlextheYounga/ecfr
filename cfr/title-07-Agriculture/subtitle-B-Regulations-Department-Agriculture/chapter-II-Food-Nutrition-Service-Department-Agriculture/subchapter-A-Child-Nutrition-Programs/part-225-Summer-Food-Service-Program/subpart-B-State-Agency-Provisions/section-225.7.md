@@ -1,5 +1,7 @@
 ##### § 225.7 Program monitoring and assistance. #####
 
+Link to an amendment published at 83 FR 25358, June 1, 2018.
+
 (a) *Training.* Prior to the beginning of Program operations, each State agency shall make available training in all necessary areas of Program administration to sponsor personnel, food service management company representatives, auditors, and health inspectors who will participate in the Program in that State. Prior to Program operations, the State agency shall ensure that the sponsor's supervisory personnel responsible for the food service receive training in all necessary areas of Program administration and operations. This training shall reflect the fact that individual sponsors or groups of sponsors require different levels and areas of Program training. State agencies are encouraged to utilize in such training, and in the training of site personnel, sponsor personnel who have previously participated in the Program. Training should be made available at convenient locations. State agencies are not required to conduct this training for sponsors operating the Program during unanticipated school closures during the period from October through April (or at any time of the year in an area with a continuous school calendar).
 
 (b) *Program materials.* Each State agency shall develop and make available all necessary Program materials in sufficient time to enable applicant sponsors to prepare adequately for the Program.

@@ -1,5 +1,7 @@
 ##### § 225.12 Claims against sponsors. #####
 
+Link to an amendment published at 83 FR 25360, June 1, 2018.
+
 (a) The State agency shall disallow any portion of a claim for reimbursement and recover any payment to a sponsor not properly payable under this part, except as provided for in § 225.10(c). State agencies may consider claims for reimbursement not properly payable if a sponsor's records do not justify all costs and meals claimed. However, the State agency shall notify the sponsor of the reasons for any disallowance or demand for repayment.
 
 (b) Minimum State agency collection procedures for unearned payments shall include:

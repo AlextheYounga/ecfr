@@ -116,4 +116,4 @@ This appendix sets forth guidelines applicable to reports that the Commission ha
 
 (c) *Public comment on the report.* Following completion of the report, the report shall be published in the Federal Register for public comment.
 
-[80 FR 14728, Mar. 19, 2015, as amended at 81 FR 53653, Aug. 12, 2016}
+[80 FR 14728, Mar. 19, 2015, as amended at 81 FR 53653, Aug. 12, 2016]

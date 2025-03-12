@@ -1,8 +1,6 @@
 ##### § 270.8b-16 Amendments to registration statement. #####
 
-Link to an amendment published at 81 FR 82020, Nov. 18, 2016.
-
-(a) Every registered management investment company which is required to file a semi-annual report on Form N-SAR, as prescribed by rule 30b1-1 (17 CFR 270.30b1-1), shall amend the registration statement required pursuant to Section 8(b) by filing, not more than 120 days after the close of each fiscal year ending on or after the date upon which such registration statement was filed, the appropriate form prescribed for such amendments.
+(a) Every registered management investment company which is required to file an annual report on Form N-CEN, as prescribed by § 270.30a-1 of this chaptershall amend the registration statement required pursuant to Section 8(b) by filing, not more than 120 days after the close of each fiscal year ending on or after the date upon which such registration statement was filed, the appropriate form prescribed for such amendments.
 
 (b) Paragraph (a) of this section shall not apply to a registered closed-end management investment company whose registration statement was filed on Form N-2; provided that the following information is transmitted to shareholders in its annual report to shareholders:
 
@@ -20,4 +18,4 @@ Link to an amendment published at 81 FR 82020, Nov. 18, 2016.
 
 (d) The changes required to be disclosed by paragraphs (b)(2) through (b)(5) of this section are those that occurred since the later of either the effective date of the company's registration statement relating to its initial offering of securities under the Securities Act of 1933 (15 U.S.C. 77a *et seq.*) (or the most recent post-effective amendment thereto) or the close of the period covered by the previously transmitted annual shareholder report.
 
-[54 FR 10321, Mar. 13, 1989, as amended at 57 FR 56836, Dec. 1, 1992]
+[54 FR 10321, Mar. 13, 1989, as amended at 57 FR 56836, Dec. 1, 1992; 81 FR 82020, Nov. 18, 2016]

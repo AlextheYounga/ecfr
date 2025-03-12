@@ -1,5 +1,7 @@
 ##### § 225.11 Corrective action procedures. #####
 
+Link to an amendment published at 83 FR 25360, June 1, 2018.
+
 (a) *Purpose.* The provisions in this section shall be used by the State agency to improve Program performance.
 
 (b) *Investigations.* Each State agency shall promptly investigate complaints received or irregularities noted in connection with the operation of the Program, and shall take appropriate action to correct any irregularities. The State agency shall maintain on file all evidence relating to such investigations and actions. The State agency shall inform the appropriate FNSRO of any suspected fraud or criminal abuse in the Program which would result in a loss or misuse of Federal funds. The Department may make investigations at the request of the State agency, or where the Department determines investigations are appropriate.

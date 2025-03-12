@@ -1,7 +1,5 @@
 ##### § 414.414 Conditions for awarding contracts. #####
 
-Link to an amendment published at 83 FR 21925, May 11, 2018.
-
 (a) *General rule.* The rules set forth in this section govern the evaluation and selection of suppliers for contract award purposes under a competitive bidding program.
 
 (b) *Basic supplier eligibility.* (1) Each supplier must meet the enrollment standards specified in § 424.57(c) of this chapter.
@@ -44,7 +42,7 @@ Link to an amendment published at 83 FR 21925, May 11, 2018.
 
 (6) Selecting all suppliers and networks whose composite bids are less than or equal to the pivotal bid for that product category, and that meet the requirements in paragraphs (b) through (d) of this section.
 
-(f) *Expected savings.* A contract is not awarded under this subpart unless CMS determines that the amounts to be paid to contract suppliers for an item or drug under a competitive bidding program are expected to be less than the amounts that would otherwise be paid for the same item under subpart C or subpart D or the same drug under subpart I.
+(f) *Expected savings.* A contract is not awarded under this subpart unless CMS determines that the amounts to be paid to contract suppliers for an item under a competitive bidding program are expected to be less than the amounts that would otherwise be paid for the same item under subpart C or subpart D.
 
 (g) *Special rules for small suppliers* - (1) *Target for small supplier participation.* CMS ensures that small suppliers have the opportunity to participate in a competitive bidding program by taking the following steps:
 
@@ -70,4 +68,4 @@ Link to an amendment published at 83 FR 21925, May 11, 2018.
 
 (2) Before CMS awards additional contracts under paragraph (i)(1) of this section, a supplier must submit updated information demonstrating that the supplier meets the requirements under paragraphs (b) through (d) of this section.
 
-[72 FR 18085, Apr. 10, 2007, as amended at 74 FR 2880, Jan. 16, 2009; 76 FR 70315, Nov. 10, 2011; 79 FR 66264, Nov. 6, 2014; 81 FR 77967, Nov. 4, 2016]
+[72 FR 18085, Apr. 10, 2007, as amended at 74 FR 2880, Jan. 16, 2009; 76 FR 70315, Nov. 10, 2011; 79 FR 66264, Nov. 6, 2014; 81 FR 77967, Nov. 4, 2016; 83 FR 21925, May 11, 2018]

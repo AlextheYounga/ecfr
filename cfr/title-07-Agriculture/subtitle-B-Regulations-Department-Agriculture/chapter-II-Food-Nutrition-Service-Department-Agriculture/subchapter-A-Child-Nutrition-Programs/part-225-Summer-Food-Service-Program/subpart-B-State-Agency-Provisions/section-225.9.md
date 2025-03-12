@@ -1,5 +1,7 @@
 ##### § 225.9 Program assistance to sponsors. #####
 
+Link to an amendment published at 83 FR 25358, June 1, 2018.
+
 (a) *Start-up payments.* At their discretion, State agencies may make start-up payments to sponsors which have executed Program agreements. Start-up payments shall not be made more than two months before the sponsor is scheduled to begin food service operations and shall not exceed 20 percent of the sponsor's approved administrative budget. The amount of the start-up payment shall be deducted from the first advance payment for administrative costs or, if the sponsor does not receive advance payments, from the first administrative reimbursement.
 
 (b) *Commodity assistance.* (1) Sponsors eligible to receive commodities under the Program include: Self-preparation sponsors; sponsors which have entered into an agreement with a school or school food authority for the preparation of meals; and sponsors which are school food authorities and have competitively procured Program meals from the same food service management company from which they competitively procured meals for the National School Lunch Program during the last period in which school was in session. The State agency shall make available to these sponsors information on available commodities. Sponsors shall use in the Program food donated by the Department and accepted by sponsors.

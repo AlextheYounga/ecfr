@@ -108,4 +108,4 @@ Terms used in §§ 242.900 through 242.909 that appear in Section 3 of the Excha
 
 (tt) *Widely accessible,* as used in paragraph (cc) of this section, means widely available to users of the information on a non-fee basis.
 
-[80 FR 14728, Mar. 19, 2015, as amended at 81 FR 53653, Aug. 12, 2016}
+[80 FR 14728, Mar. 19, 2015, as amended at 81 FR 53653, Aug. 12, 2016]

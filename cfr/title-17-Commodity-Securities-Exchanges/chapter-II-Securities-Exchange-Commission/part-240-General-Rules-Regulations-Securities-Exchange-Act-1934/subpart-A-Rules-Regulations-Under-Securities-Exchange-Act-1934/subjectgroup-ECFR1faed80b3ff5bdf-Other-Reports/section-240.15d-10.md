@@ -1,7 +1,5 @@
 ##### § 240.15d-10 Transition reports. #####
 
-Link to an amendment published at 81 FR 82020, Nov. 18, 2016.
-
 (a) Every issuer that changes its fiscal closing date shall file a report covering the resulting transition period between the closing date of its most recent fiscal year and the opening date of its new fiscal year; *Provided, however,* that an issuer shall file an annual report for any fiscal year that ended before the date on which the issuer determined to change its fiscal year end. In no event shall the transition report cover a period of 12 or more months.
 
 (b) The report pursuant to this section shall be filed for the transition period not more than the number of days specified in paragraph (j) of this section after either the close of the transition period or the date of the determination to change the fiscal closing date, whichever is later. The report shall be filed on the form appropriate for annual reports of the issuer, shall cover the period from the close of the last fiscal year end and shall indicate clearly the period covered. The financial statements for the transition period filed therewith shall be audited. Financial statements, which may be unaudited, shall be filed for the comparable period of the prior year, or a footnote, which may be unaudited, shall state for the comparable period of the prior year, revenues, gross profits, income taxes, income or loss from continuing operations before extraordinary items and cumulative effect of a change in accounting principles and net income or loss. The effects of any discontinued operations and/or extraordinary items as classified under the provisions of generally accepted accounting principles also shall be shown, if applicable. Per share data based upon such income or loss and net income or loss shall be presented in conformity with applicable accounting standards. Where called for by the time span to be covered, the comparable period financial statements or footnote shall be included in subsequent filings.
@@ -48,7 +46,7 @@ If it is not practicable or cannot be cost-justified to furnish in a transition 
 
 (5) Notwithstanding the foregoing in paragraphs (g)(2), (g)(3), and (g)(4) of this section, if the transition period covers a period of one month or less, a foreign private issuer need not file a separate transition report if the first annual report for the newly adopted fiscal year covers the transition period as well as the fiscal year.
 
-(h) The provisions of this rule shall not apply to investment companies required to file reports pursuant to Rule 30b1-1 (§ 270.30b1-1 of this chapter) under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*).
+(h) The provisions of this rule shall not apply to investment companies required to file reports pursuant to Rule 30a-1 (§ 270.30a-1 of this chapter) under the Investment Company Act of 1940 (15 U.S.C. 80a-1 *et seq.*).
 
 (i) No filing fee shall be required for a transition report filed pursuant to this section.
 
@@ -84,4 +82,4 @@ Note 2:
 
 The report or reports to be filed pursuant to this section must include the certification required by § 240.15d-14.
 
-[54 FR 10318, Mar. 13, 1989, as amended at 56 FR 30075, July 1, 1991; 64 FR 53912, Oct. 5, 1999; 67 FR 57289, Sept. 9, 2002; 67 FR 58505, Sept. 16, 2002; 69 FR 15618, Mar. 25, 2004; 69 FR 68236, Nov. 23, 2004; 70 FR 1622, Jan. 7, 2005; 70 FR 76642, Dec. 27, 2005; 73 FR 978, Jan. 4, 2008; 73 FR 58324, Oct. 6, 2008]
+[54 FR 10318, Mar. 13, 1989, as amended at 56 FR 30075, July 1, 1991; 64 FR 53912, Oct. 5, 1999; 67 FR 57289, Sept. 9, 2002; 67 FR 58505, Sept. 16, 2002; 69 FR 15618, Mar. 25, 2004; 69 FR 68236, Nov. 23, 2004; 70 FR 1622, Jan. 7, 2005; 70 FR 76642, Dec. 27, 2005; 73 FR 978, Jan. 4, 2008; 73 FR 58324, Oct. 6, 2008; 81 FR 82020, Nov. 18, 2016]

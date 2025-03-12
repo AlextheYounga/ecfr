@@ -1,7 +1,5 @@
 ##### § 240.10A-1 Notice to the Commission Pursuant to Section 10A of the Act. #####
 
-Link to an amendment published at 81 FR 82020, Nov. 18, 2016.
-
 (a)(1) If any issuer with a reporting obligation under the Act receives a report requiring a notice to the Commission in accordance with section 10A(b)(3) of the Act, 15 U.S.C. 78j-1(b)(3), the issuer shall submit such notice to the Commission's Office of the Chief Accountant within the time period prescribed in that section. The notice may be provided by facsimile, telegraph, personal delivery, or any other means, *provided* it is received by the Office of the Chief Accountant within the required time period.
 
 (2) The notice specified in paragraph (a)(1) of this section shall be in writing and:
@@ -22,7 +20,7 @@ Link to an amendment published at 81 FR 82020, Nov. 18, 2016.
 
 (4) Submission of the notice in paragraphs (a)(1) and (a)(2) of this section shall not relieve the issuer from its obligations to comply fully with all other reporting requirements, including, without limitation:
 
-(i) The filing requirements of Form 8-K, § 249.308 of this chapter, and Form N-SAR, § 274.101 of this chapter, regarding a change in the issuer's certifying accountant and
+(i) The filing requirements of Form 8-K, § 249.308 of this chapter, and Form N-CSR, § 274.128 of this chapter, regarding a change in the issuer's certifying accountant and
 
 (ii) The disclosure requirements of Item 304 of Regulation S-K, § 229.304 of this chapter.
 
@@ -38,4 +36,4 @@ Instruction to paragraph (c):
 
 Issuers and independent accountants may apply for additional bases for confidential treatment for a notice, report, or part thereof, in accordance with § 200.83 of this chapter. That section indicates, in part, that any person who, pursuant to any requirement of law, submits any information or causes or permits any information to be submitted to the Commission, may request that the Commission afford it confidential treatment by reason of personal privacy or business confidentiality, or for any other reason permitted by Federal law.
 
-[62 FR 12749, Mar. 18, 1997, as amended at 73 FR 973, Jan. 4, 2008]
+[62 FR 12749, Mar. 18, 1997, as amended at 73 FR 973, Jan. 4, 2008; 81 FR 82020, Nov. 18, 2016]

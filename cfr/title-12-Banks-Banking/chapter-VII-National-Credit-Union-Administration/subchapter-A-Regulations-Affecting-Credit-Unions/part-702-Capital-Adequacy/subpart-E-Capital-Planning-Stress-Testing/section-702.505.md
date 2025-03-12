@@ -1,8 +1,10 @@
 ##### § 702.505 NCUA action on capital plans. #####
 
-Link to an amendment published at 80 FR 66722, Oct. 29, 2015.Link to an amendment published at 83 FR 17910, Apr. 25, 2018.
+Link to an amendment published at 80 FR 66722, Oct. 29, 2015.
 
-(a) *Timing.* NCUA will notify the covered credit union of the acceptance or rejection of its capital plan by August 31 of the year in which the credit union submitted its plan.
+(a) *Timing* - (1) *Tier I & tier II credit unions.* NCUA will address any deficiencies in the capital plans submitted by tier I and tier II credit unions through the supervisory process.
+
+(2) *Tier III credit unions.* NCUA will notify tier III credit unions of the acceptance or rejection of their capital plans by August 31 of the year in which their plan is submitted.
 
 (b) *Grounds for rejection of capital plan.* NCUA may reject a capital plan if it determines that:
 
@@ -20,14 +22,14 @@ Link to an amendment published at 80 FR 66722, Oct. 29, 2015.Link to an amendmen
 
 (c) *Notification in writing.* NCUA will notify the credit union in writing of the reasons for a decision to reject a capital plan.
 
-(d) *Resubmission of a capital plan.* If NCUA rejects a credit union's capital plan, the credit union must update and resubmit an acceptable capital plan to NCUA by November 30 of the year in which the credit union submitted its plan. The resubmitted capital plan must, at a minimum, address:
+(d) *Resubmission of a capital plan.* If NCUA rejects a tier III credit union's capital plan, the credit union must update and resubmit an acceptable capital plan to NCUA by November 30 of the year in which the credit union submitted its plan. The resubmitted capital plan must, at a minimum, address:
 
 (1) NCUA-noted deficiencies in the credit union's original capital plan or policy; and
 
 (2) Remediation plans for unresolved supervisory issues contributing to the rejection of the credit union's original capital plan.
 
-(e) *Supervisory actions.* Any covered credit union operating without a capital plan accepted by NCUA may be subject to supervisory actions on the part of NCUA.
+(e) *Supervisory actions.* Any tier III credit union operating without a capital plan accepted by NCUA may be subject to supervisory actions on the part of NCUA.
 
 (f) *Consultation on proposed action.* Before taking any action under this section on the capital plan of a federally insured, state-chartered credit union, NCUA will consult and work cooperatively with the appropriate State official.
 
-[79 FR 24315, Apr. 30, 2014, as amended at 80 FR 48012, Aug. 11, 2015]
+[79 FR 24315, Apr. 30, 2014, as amended at 80 FR 48012, Aug. 11, 2015; 83 FR 17910, Apr. 25, 2018]

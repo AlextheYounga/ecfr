@@ -1,5 +1,7 @@
 ##### § 225.14 Requirements for sponsor participation. #####
 
+Link to an amendment published at 83 FR 25360, June 1, 2018.
+
 (a) *Applications.* Sponsors shall make written application to the State agency to participate in the Program. Such application shall be made on a timely basis in accordance with the requirements of § 225.6(b)(1). Sponsors proposing to operate a site during an unanticipated school closure during the period from October through April (or at any time of the year in an area with a continuous school calendar) may be exempt, at the discretion of the State agency, from submitting a new application if they have participated in the program at any time during the current year or in either of the prior two calendar years.
 
 (b) *Sponsor eligibility.* Applicants eligible to sponsor the Program include:

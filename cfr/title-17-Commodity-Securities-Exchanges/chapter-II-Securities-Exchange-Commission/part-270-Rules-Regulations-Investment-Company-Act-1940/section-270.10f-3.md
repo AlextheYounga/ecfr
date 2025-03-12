@@ -1,8 +1,6 @@
 ##### § 270.10f-3 Exemption for the acquisition of securities during the existence of an underwriting or selling syndicate. #####
 
-Link to an amendment published at 81 FR 82020, Nov. 18, 2016.
-
-(a) *Definitions* - (1) *Domestic Issuer* means any issuer other than a foreign government, a national of any foreign country, or a corporation or other organization incorporated or organized under the laws of any foreign country.
+(a) *Definitions*—(1) *Domestic Issuer* means any issuer other than a foreign government, a national of any foreign country, or a corporation or other organization incorporated or organized under the laws of any foreign country.
 
 (2) *Eligible Foreign Offering* means a public offering of securities, conducted under the laws of a country other than the United States, that meets the following conditions:
 
@@ -52,7 +50,7 @@ Link to an amendment published at 81 FR 82020, Nov. 18, 2016.
 
 (1) *Type of Security.* The securities to be purchased are:
 
-(i) Part of an issue registered under the Securities Act of 1933 (15 U.S.C. 77a - aa) that is being offered to the public;
+(i) Part of an issue registered under the Securities Act of 1933 (15 U.S.C. 77a—aa) that is being offered to the public;
 
 (ii) Part of an issue of government securities, as defined in section 2(a)(16) of the Act (15 U.S.C. 80a-2(a)(16));
 
@@ -74,7 +72,7 @@ Link to an amendment published at 81 FR 82020, Nov. 18, 2016.
 
 (6) *Reasonable commission.* The commission, spread or profit received or to be received by the principal underwriters is reasonable and fair compared to the commission, spread or profit received by other such persons in connection with the underwriting of similar securities being sold during a comparable period of time.
 
-(7) *Percentage limit* - (i) *Generally.* The amount of securities of any class of such issue to be purchased by the investment company, aggregated with purchases by any other investment company advised by the investment company's investment adviser, and any purchases by another account with respect to which the investment adviser has investment discretion if the investment adviser exercised such investment discretion with respect to the purchase, does not exceed the following limits:
+(7) *Percentage limit*—(i) *Generally.* The amount of securities of any class of such issue to be purchased by the investment company, aggregated with purchases by any other investment company advised by the investment company's investment adviser, and any purchases by another account with respect to which the investment adviser has investment discretion if the investment adviser exercised such investment discretion with respect to the purchase, does not exceed the following limits:
 
 (A) If purchased in an offering other than an Eligible Rule 144A Offering, 25 percent of the principal amount of the offering of such class; or
 
@@ -94,7 +92,7 @@ Link to an amendment published at 81 FR 82020, Nov. 18, 2016.
 
 (ii) In respect to the purchase of Eligible Municipal Securities, such purchase is not designated as a group sale or otherwise allocated to the account of any person from whom this paragraph prohibits the purchase.
 
-(9) *Periodic reporting.* The existence of any transactions effected pursuant to this section shall be reported on the Form N-SAR [§ 274.101 of this chapter] of the investment company and a written record of each such transaction, setting forth from whom the securities were acquired, the identity of the underwriting syndicate's members, the terms of the transaction, and the information or materials upon which the determination described in paragraph (c)(10)(iii) of this section was made shall be attached thereto.
+(9) [Reserved]
 
 (10) *Board review.* The board of directors of the investment company, including a majority of the directors who are not interested persons of the investment company:
 
@@ -112,4 +110,4 @@ Link to an amendment published at 81 FR 82020, Nov. 18, 2016.
 
 (ii) Shall maintain and preserve for a period not less than six years from the end of the fiscal year in which any transactions occurred, the first two years in an easily accessible place, a written record of each such transaction, setting forth from whom the securities were acquired, the identity of the underwriting syndicate's members, the terms of the transaction, and the information or materials upon which the determination described in paragraph (c)(10)(iii) of this section was made.
 
-[62 FR 42408, Aug. 7, 1997, as amended at 66 FR 3758, Jan. 16, 2001; 67 FR 31079, May 8, 2002; 68 FR 3152, Jan. 22, 2003; 69 FR 46389, Aug. 7, 2004; 74 FR 52373, Oct. 9, 2009]
+[62 FR 42408, Aug. 7, 1997, as amended at 66 FR 3758, Jan. 16, 2001; 67 FR 31079, May 8, 2002; 68 FR 3152, Jan. 22, 2003; 69 FR 46389, Aug. 7, 2004; 74 FR 52373, Oct. 9, 2009; 81 FR 82020, Nov. 18, 2016]

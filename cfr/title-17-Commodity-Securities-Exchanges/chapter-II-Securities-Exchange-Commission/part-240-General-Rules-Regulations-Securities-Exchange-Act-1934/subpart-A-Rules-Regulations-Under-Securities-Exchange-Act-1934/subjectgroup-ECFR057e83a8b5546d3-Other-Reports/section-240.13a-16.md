@@ -1,10 +1,8 @@
 ##### § 240.13a-16 Reports of foreign private issuers on Form 6-K (17 CFR 249.306). #####
 
-Link to an amendment published at 81 FR 82020, Nov. 18, 2016.
-
 (a) Every foreign private issuer which is subject to Rule 13a-1 (17 CFR 240.13a-1) shall make reports on Form 6-K, except that this rule shall not apply to:
 
-(1) Investment companies required to file reports pursuant to Rule 30b1-1 (17 CFR 270.30b1-1);
+(1) Investment companies required to file reports pursuant to § 270.30a-1 of this chapter ;
 
 (2) Issuers of American depositary receipts for securities of any foreign issuer;
 
@@ -16,4 +14,4 @@ Link to an amendment published at 81 FR 82020, Nov. 18, 2016.
 
 (c) Reports furnished pursuant to this rule shall not be deemed to be “filed” for the purpose of section 18 of the Act or otherwise subject to the liabilities of that section.
 
-[32 FR 7849, May 30, 1967, as amended at 44 FR 70137, Dec. 6, 1979; 47 FR 54781, Dec. 6, 1982; 50 FR 27939, July 9, 1985; 57 FR 10615, Mar. 27, 1991; 70 FR 1621, Jan. 7, 2005; 73 FR 976, Jan. 4, 2008]
+[32 FR 7849, May 30, 1967, as amended at 44 FR 70137, Dec. 6, 1979; 47 FR 54781, Dec. 6, 1982; 50 FR 27939, July 9, 1985; 57 FR 10615, Mar. 27, 1991; 70 FR 1621, Jan. 7, 2005; 73 FR 976, Jan. 4, 2008; 81 FR 82020, Nov. 18, 2016]

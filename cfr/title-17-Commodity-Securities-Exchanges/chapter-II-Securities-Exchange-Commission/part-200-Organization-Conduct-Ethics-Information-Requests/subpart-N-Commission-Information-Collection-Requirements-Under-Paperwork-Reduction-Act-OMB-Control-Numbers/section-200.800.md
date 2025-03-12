@@ -1,7 +1,5 @@
 ##### § 200.800 OMB control numbers assigned pursuant to the Paperwork Reduction Act. #####
 
-Link to an amendment published at 81 FR 82009, Nov. 18, 2016.
-
 (a) *Purpose:* This subpart collects and displays the control numbers assigned to information collection requirements of the Commission by the Office of Management and Budget pursuant to the Paperwork Reduction Act of 1980, 44 U.S.C. 3500 *et seq.* This subpart displays current OMB control numbers for those information collection requirements of the Commission that are rules and regulations and codified in 17 CFR either in full text or incorporated by reference with the approval of the Director of the Office of the Federal Register.
 
 (b) *Display.*
@@ -302,9 +300,10 @@ Link to an amendment published at 81 FR 82009, Nov. 18, 2016.
 |                   Form N-18F-1                   |                       274.51                        |       3235-0211       |
 |                    Form N-54A                    |                       274.53                        |       3235-0237       |
 |                    Form N-54C                    |                       274.54                        |       3235-0236       |
-|                    Form N-SAR                    |                       274.101                       |       3235-0330       |
+|                    Form N-CEN                    |                       274.101                       |       3235-0729       |
 |                   Form N-27E-1                   |                     274.127e-1                      |       3235-0545       |
 |                   Form N-27F-1                   |                     274.127f-1                      |       3235-0546       |
+|                   Form N-PORT                    |                       274.150                       |       3235-0730       |
 |                   Form N-17D-1                   |                       274.200                       |       3235-0229       |
 |                   Form N-23C-1                   |                       274.201                       |       3235-0230       |
 |                    Form N-8F                     |                       274.218                       |       3235-0157       |
@@ -331,4 +330,4 @@ Link to an amendment published at 81 FR 82009, Nov. 18, 2016.
 |                     Form 7-R                     |                        279.7                        |       3235-0240       |
 |                    Form ADV-E                    |                        279.8                        |       3235-0361       |
 
-[67 FR 14634, Mar. 27, 2002, as amended at 70 FR 37611, June 29, 2005; 76 FR 46616, Aug. 3, 2011; 77 FR 18684, Mar. 28, 2012; 80 FR 6902, Feb. 9, 2015]
+[67 FR 14634, Mar. 27, 2002, as amended at 70 FR 37611, June 29, 2005; 76 FR 46616, Aug. 3, 2011; 77 FR 18684, Mar. 28, 2012; 80 FR 6902, Feb. 9, 2015; 82 FR 82009, Nov. 18, 2016]

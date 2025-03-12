@@ -106,7 +106,9 @@
 
 (D) Blue line copies (diazo or ozalid process). If photographs are submitted, they should be 8 × 10 inches and should clearly show several exterior and interior views. The deposit should disclose the name(s) of the architect(s) and draftsperson(s) and the building site.
 
-(ix) In the case of published newspapers, a deposit submitted pursuant to and in compliance with the group registration option under § 202.4(e) shall be deemed to satisfy the mandatory deposit obligation under this section.
+(ix) In the case of published literary monographs, the deposit of one complete copy of the best edition of the work will suffice in lieu of the two copies required by paragraph (d)(1) of this section, unless the Copyright Office issues a demand for a second copy pursuant to 17 U.S.C. 407(d).
+
+(x) In the case of published newspapers, a deposit submitted pursuant to and in compliance with the group registration option under § 202.4(e) shall be deemed to satisfy the mandatory deposit obligation under this section.
 
 (e) *Special relief.* (1) In the case of any published work not exempt from deposit under paragraph (c) of this section, the Register of Copyrights may, after consultation with other appropriate officials of the Library of Congress and upon such conditions as the Register may determine after such consultation:
 
@@ -130,4 +132,4 @@
 
 (3) Upon request by the depositor made at the time of the deposit, the Copyright Office will issue a certificate of receipt for the deposit of copies or phonorecords of a work under this section. Certificates of receipt will be issued in response to requests made after the date of deposit only if the requesting party is identified in the records of the Copyright Office as having made the deposit. In either case, requests for a certificate of receipt must be in writing and accompanied by the appropriate fee, as required in § 201.3(c). A certificate of receipt will include identification of the depositor, the work deposited, and the nature and format of the copy or phonorecord deposited, together with the date of receipt.
 
-[51 FR 6403, Feb. 24, 1986, as amended at 54 FR 42299, Oct. 16, 1989; 56 FR 47403, Sept. 19, 1991; 56 FR 59885, Nov. 26, 1991; 57 FR 45310, Oct. 1, 1992; 60 FR 34168, June 30, 1995; 64 FR 29522, June 1, 1999; 64 FR 62978, Nov. 18, 1999; 66 FR 34373, June 28, 2001; 73 FR 37839, July 2, 2008; 75 FR 3869, Jan. 25, 2010; 82 FR 9360, Feb. 6, 2017; 83 FR 2372, Jan. 17, 2018; 83 FR 4147, Jan. 30, 2018]
+[51 FR 6403, Feb. 24, 1986, as amended at 54 FR 42299, Oct. 16, 1989; 56 FR 47403, Sept. 19, 1991; 56 FR 59885, Nov. 26, 1991; 57 FR 45310, Oct. 1, 1992; 60 FR 34168, June 30, 1995; 64 FR 29522, June 1, 1999; 64 FR 62978, Nov. 18, 1999; 66 FR 34373, June 28, 2001; 73 FR 37839, July 2, 2008; 75 FR 3869, Jan. 25, 2010; 82 FR 9360, Feb. 6, 2017; 83 FR 2372, Jan. 17, 2018; 83 FR 4147, Jan. 30, 2018; 83 FR 25375, June 1, 2018]

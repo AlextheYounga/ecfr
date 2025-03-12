@@ -24,4 +24,4 @@
 
 (d) *Temporary restriction on other market data sources.* No person shall make available to one or more persons (other than a counterparty or a post-trade processor) transaction information relating to a security-based swap before the primary trade information about the security-based swap is sent to a registered security-based swap data repository.
 
-[80 FR 14728, Mar. 19, 2015, as amended at 81 FR 53654, Aug. 12, 2016}
+[80 FR 14728, Mar. 19, 2015, as amended at 81 FR 53654, Aug. 12, 2016]
