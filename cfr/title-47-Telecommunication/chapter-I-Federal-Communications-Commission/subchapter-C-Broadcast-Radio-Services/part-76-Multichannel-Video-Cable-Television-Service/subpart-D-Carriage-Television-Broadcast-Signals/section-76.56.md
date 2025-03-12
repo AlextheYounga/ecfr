@@ -1,6 +1,6 @@
 ##### § 76.56 Signal carriage obligations. #####
 
-Link to an amendment published at 83 FR 5028, Feb. 2, 2018.Link to an amendment published at 83 FR 7626, Feb. 22, 2018.
+Link to an amendment published at 83 FR 7626, Feb. 22, 2018.
 
 (a) *Carriage of qualified noncommercial educational stations.* A cable television system shall carry qualified NCE television stations in accordance with the following provisions:
 
@@ -58,6 +58,14 @@ For purposes of this paragraph, a station will be deemed to “substantially dup
 
 (g) *Channel sharing carriage rights.* A broadcast television station that voluntarily relinquishes spectrum usage rights under 73.3700 of this chapter in order to share a television channel and that possessed carriage rights under section 338, 614, or 615 of the Communications Act of 1934 (47 U.S.C. 338; 534; 535) on November 30, 2010, shall have, at its shared location, the carriage rights under such section that would apply to such station at such location if it were not sharing a channel.
 
+(h) *Next Gen TV carriage rights.* (1) A broadcast television station that chooses to deploy Next Gen TV service, see § 73.682(f) of this chapter, may assert mandatory carriage rights under this section only with respect to its ATSC 1.0 signal and may not assert mandatory carriage rights with respect to its ATSC 3.0 signal.
+
+(2) With respect to a Next Gen TV station that moves its 1.0 simulcast signal to a host station's (*i.e.,* a station whose facilities are being used to transmit programming originated by another station) facilities, the station may assert mandatory carriage rights under this section only if it:
+
+(i) Qualified for, and has been exercising, mandatory carriage rights at its original location; and
+
+(ii) Continues to qualify for mandatory carriage at the host station's facilities, including (but not limited to) delivering a good quality 1.0 signal to the cable system principal headend, or agreeing to be responsible for the costs of delivering such 1.0 signal to the cable system.
+
 Note 1 to § 76.56:
 
 Section 76.1620 provides notification requirements for a cable operator who authorizes subscribers to install additional receiver connections, but does not provide the subscriber with such connections, or with the equipment and materials for such connections.
@@ -70,4 +78,4 @@ Note 3 to § 76.56:
 
 Section 76.1709 provides recordkeeping requirements with regard to a cable operator's list of must-carry signals.
 
-[58 FR 17360, Apr. 2, 1993, as amended at 58 FR 39161, July 22, 1993; 58 FR 40368, July 28, 1993; 59 FR 62344, Dec. 5, 1994; 65 FR 53614, Sept. 5, 2000; 66 FR 16553, Mar. 26, 2001; 73 FR 6054, Feb. 1, 2008; 77 FR 30426, May 23, 2012; 77 FR 36192, June 18, 2012]
+[58 FR 17360, Apr. 2, 1993, as amended at 58 FR 39161, July 22, 1993; 58 FR 40368, July 28, 1993; 59 FR 62344, Dec. 5, 1994; 65 FR 53614, Sept. 5, 2000; 66 FR 16553, Mar. 26, 2001; 73 FR 6054, Feb. 1, 2008; 77 FR 30426, May 23, 2012; 77 FR 36192, June 18, 2012; 83 FR 5028, Feb. 2, 2018]

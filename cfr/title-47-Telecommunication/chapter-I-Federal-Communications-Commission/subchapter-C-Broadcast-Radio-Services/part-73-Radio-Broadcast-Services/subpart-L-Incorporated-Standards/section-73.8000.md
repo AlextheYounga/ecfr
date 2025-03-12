@@ -1,7 +1,5 @@
 ##### § 73.8000 Incorporation by reference. #####
 
-Link to an amendment published at 83 FR 5026, Feb. 2, 2018.
-
 (a) The materials listed in this section are incorporated by reference in this part. These incorporations by reference were approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. These materials are incorporated as they exist on the date of the approval, and notice of any change in these materials will be published in the Federal Register. The materials are available for inspection at the Federal Communications Commission (FCC), 445 12th St., SW., Reference Information Center, Room CY-A257, Washington, DC 20554 and at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
 (b) The following materials are available from Advanced Television Systems Committee (ATSC), 1776 K Street NW., 8th Floor, Washington, DC 20006; or at the ATSC Web site: *http://www.atsc.org/standards.html.*
@@ -28,6 +26,10 @@ Link to an amendment published at 83 FR 5026, Feb. 2, 2018.
 
 (5) ATSC A/85:2013 “ATSC Recommended Practice: Techniques for Establishing and Maintaining Audio Loudness for Digital Television,” (March 12, 2013) (“ATSC A/85 RP”), IBR approved for § 73.682.
 
+(6) ATSC A/321:2016, “System Discovery and Signaling” (March 23, 2016), IBR approved for § 73.682.
+
+(7) ATSC A/322:2017 “Physical Layer Protocol” (June 6, 2017), IBR approved for § 73.682.
+
 (c) [Reserved]
 
 (d) The following materials are available at the FCC, 445 12th St., SW., Reference Information Center, Room CY-A257, Washington, DC 20554, or at the FCC's Office of Engineering and Technology (OET) Web site: *http://www.fcc.gov/oet/info/documents/bulletins/.*
@@ -36,4 +38,4 @@ Link to an amendment published at 83 FR 5026, Feb. 2, 2018.
 
 (2) [Reserved]
 
-[76 FR 62642, Oct. 11, 2011, as amended at 76 FR 55604, Sept. 8, 2011; 77 FR 40299, July 9, 2012; 79 FR 51113, Aug. 27, 2014]
+[76 FR 62642, Oct. 11, 2011, as amended at 76 FR 55604, Sept. 8, 2011; 77 FR 40299, July 9, 2012; 79 FR 51113, Aug. 27, 2014; 83 FR 5026, Feb. 2, 2018]

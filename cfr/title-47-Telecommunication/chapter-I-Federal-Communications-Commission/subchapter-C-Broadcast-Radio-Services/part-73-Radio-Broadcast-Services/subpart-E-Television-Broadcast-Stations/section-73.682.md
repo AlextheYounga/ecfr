@@ -1,7 +1,5 @@
 ##### § 73.682 TV transmission standards. #####
 
-Link to an amendment published at 83 FR 5022, Feb. 2, 2018.
-
 (a) *Transmission standards.* (1) The width of the television broadcast channel shall be 6 MHz.
 
 (2) The visual carrier frequency shall be nominally 1.25 MHz above the lower boundary of the channel.
@@ -261,6 +259,10 @@ The signals on Fields 1 and 2 shall be distinct data streams, for example, to su
 (iii) The television broadcast station performs a spot check, as defined in § 73.682(e)(3)(iv)(A), (B), (D), and (E), on the programming at issue in response to an enforcement inquiry concerning a pattern or trend of complaints regarding commercials inserted by that third party.
 
 (6) Instead of demonstrating compliance pursuant to paragraphs (e)(2) through (5) of this section, a station may demonstrate compliance with paragraph (e)(1) of this section in response to an enforcement inquiry prompted by a pattern or trend of complaints by demonstrating actual compliance with ATSC A/85 RP with regard to the commercial advertisements that are the subject of the inquiry, and certifying that its own transmission equipment is not at fault for any such pattern or trend of complaints.
+
+(f) *Next Gen TV broadcast television transmission standard authorized.* (1) As an alternative to broadcasting only an ATSC 1.0 signal using the DTV transmission standard set forth in paragraph (d) of this section, DTV licensees or permittees may choose to broadcast an ATSC 3.0 signal using the Next Gen TV transmission standard set forth in this paragraph (f), provided it also broadcasts a simulcast signal in ATSC 1.0 (using the DTV transmission standard in § 73.682(d)).
+
+(2) Effective March 5, 2018, transmission of Next Gen TV broadcast television (ATSC 3.0) signals shall comply with the standards for such transmissions set forth in ATSC A/321:2016, “System Discovery and Signaling” (March 23, 2016) (incorporated by reference, see § 73.8000). To the extent that virtual channels (specified in the DTV transmission standard referenced in ATSC A/65C:2006 in paragraph (d) of this section) are used in the transmission of Next Gen TV broadcasting, major channel numbers shall be assigned as required by ATSC A/65C:2006 Annex B (incorporated by reference, see § 73.8000). In addition, until February 2, 2023, such signals shall also comply with the standards set forth in ATSC A/322:2017 “Physical Layer Protocol” (June 6, 2017) (incorporated by reference, see § 73.8000) with respect to the transmission of at least one free over the air primary video programming stream.
 
 Note to § 73.682:
 

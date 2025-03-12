@@ -1,10 +1,8 @@
 ##### § 15.117 TV broadcast receivers. #####
 
-Link to an amendment published at 83 FR 5021, February 2, 2018.
-
 (a) All TV broadcast receivers shipped in interstate commerce or imported into the United States, for sale or resale to the public, shall comply with the provisions of this section, except that paragraphs (f) and (g) of this section shall not apply to the features of such sets that provide for reception of digital television signals. The reference in this section to TV broadcast receivers also includes devices, such as TV interface devices and set-top devices that are intended to provide audio-video signals to a video monitor, that incorporate the tuner portion of a TV broadcast receiver and that are equipped with an antenna or antenna terminals that can be used for off-the-air reception of TV broadcast signals, as authorized under part 73 of this chapter.
 
-(b) Until August 31, 2017, TV broadcast receivers shall be capable of adequately receiving all channels allocated by the Commission to the television broadcast service. After August 31, 2017, TV broadcast receivers shall be capable of adequately receiving all channels allocated by the Commission to the television broadcast service that broadcast digital signals, buy they need not be capable of receiving analog signals.
+(b) TV broadcast receivers shall be capable of adequately receiving all channels allocated by the Commission to the television broadcast service that broadcast digital signals using the DTV transmission standard in § 73.682(d) of this chapter, but need not be capable of receiving analog signals or signals using the Next Gen TV transmission standard in § 73.682(f) of this chapter.
 
 (c) On a given receiver, use of the UHF and VHF tuning systems shall provide approximately the same degree of tuning accuracy with approximately the same expenditure of time and effort: *Provided, however,* That this requirement will be considered to be met if the need for routine fine tuning is eliminated on UHF channels.
 
@@ -52,4 +50,4 @@ Differences between UHF and VHF channel readout that follow directly from the la
 
 (3) *Consumer alert.* This television receiver has only an analog broadcast tuner and will require a converter box after February 17, 2009, to receive over-the-air broadcasts with an antenna because of the Nation's transition to digital broadcasting. Analog-only TVs should continue to work as before with cable and satellite TV services, gaming consoles, VCRs, DVD players, and similar products. For more information, call the Federal Communications Commission at 1-888-225-5322 (TTY: 1-888-835-5322) or visit the Commission's digital television Web site at: *http://www.dtv.gov.*
 
-[54 FR 17714, Apr. 25, 1993, as amended at 59 FR 25341, May 16, 1994; 61 FR 30532, June 17, 1996; 67 FR 63294, Oct. 11, 2002; 70 FR 38804, July 6, 2005; 70 FR 75743, Dec. 21, 2005; 72 FR 26560, May 10, 2007; 73 FR 5681, Jan. 30, 2008; 77 FR 4913, Feb. 1, 2012; 81 FR 5052, Feb. 1, 2016]
+[54 FR 17714, Apr. 25, 1993, as amended at 59 FR 25341, May 16, 1994; 61 FR 30532, June 17, 1996; 67 FR 63294, Oct. 11, 2002; 70 FR 38804, July 6, 2005; 70 FR 75743, Dec. 21, 2005; 72 FR 26560, May 10, 2007; 73 FR 5681, Jan. 30, 2008; 77 FR 4913, Feb. 1, 2012; 81 FR 5052, Feb. 1, 2016; 83 FR 5021, Feb. 2, 2018]

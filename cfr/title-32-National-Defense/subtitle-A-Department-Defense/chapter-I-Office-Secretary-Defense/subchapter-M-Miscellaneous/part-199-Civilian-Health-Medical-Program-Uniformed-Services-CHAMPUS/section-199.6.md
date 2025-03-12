@@ -1,7 +1,5 @@
 ##### § 199.6 TRICARE - authorized providers. #####
 
-Link to an amendment published at 82 FR 61692, Dec. 29, 2017.
-
 (a) *General.* This section sets forth general policies and procedures that are the basis for the CHAMPUS cost-sharing of medical services and supplies provided by institutions, individuals, or other types of providers. Providers seeking payment from the Federal Government through programs such as CHAMPUS have a duty to familiarize themselves with, and comply with, the program requirements.
 
 (1) *Listing of provider does not guarantee payment of benefits.* The fact that a type of provider is listed in this section is not to be construed to mean that CHAMPUS will automatically pay a claim for services or supplies provided by such a provider. The provider who actually furnishes the service(s) must, in fact, meet all licensing and other requirements established by this part to be an authorized provider; the provider must not be the subject of sanction under § 199.9; and, cost-sharing of the services must not otherwise be prohibited by this part. In addition, the patient must in fact be an eligible beneficiary and the services or supplies billed must be authorized and medically necessary, regardless of the standing of the provider.
@@ -182,13 +180,13 @@ Only the Secretary of Defense, the Secretary of Health and Human Services, or th
 
 (D) Although psychiatric hospitals are accredited under an accrediting organization approved by Director, their medical records must be maintained in accordance with accrediting organization's current standards manual, along with the requirements set forth in § 199.7(b)(3). The hospital is responsible for assuring that patient services and all treatment are accurately documented and completed in a timely manner.
 
-(v) *Hospitals, long-term (tuberculosis, chronic care, or rehabilitation).* To be considered a long-term hospital, an institution for patients that have tuberculosis or chronic diseases must be an institution (or distinct part of an institution) primarily engaged in providing by or under the supervision of a physician appropriate medical or surgical services for the diagnosis and active treatment of the illness or condition in which the institution specializes.
+(v) *Long Term Care Hospital (LTCH).* LTCHs must meet all the criteria for classification as an LTCH under 42 CFR part 412, subpart O, as well as all of the requirements of this part in order to be considered an authorized LTCH under the TRICARE program.
 
-(A) In order for the service of long-term hospitals to be covered, the hospital must comply with the provisions outlined in paragraph (b)(4)(i) of this section. In addition, in order for services provided by such hospitals to be covered by CHAMPUS, they must be primarily for the treatment of the presenting illness.
+(A) In order for the services of LTCHs to be covered, the hospitals must comply with the provisions outlined in paragraph (b)(4)(i) of this section. In addition, in order for services provided by such hospitals to be covered by TRICARE, they must be primarily for the treatment of the presenting illness.
 
-(B) Custodial or domiciliary care is not coverable under CHAMPUS, even if rendered in an otherwise authorized long-term hospital.
+(B) Custodial or domiciliary care is not coverable under TRICARE, even if rendered in an otherwise authorized LTCH.
 
-(C) The controlling factor in determining whether a beneficiary's stay in a long-term hospital is coverable by CHAMPUS is the level of professional care, supervision, and skilled nursing care that the beneficiary requires, in addition to the diagnosis, type of condition, or degree of functional limitations. The type and level of medical services required or rendered is controlling for purposes of extending CHAMPUS benefits; not the type of provider or condition of the beneficiary.
+(C) The controlling factor in determining whether a beneficiary's stay in a LTCH is coverable by TRICARE is the level of professional care, supervision, and skilled nursing care that the beneficiary requires, in addition to the diagnosis, type of condition, or degree of functional limitations. The type and level of medical services required or rendered is controlling for purposes of extending TRICARE benefits; not the type of provider or condition of the beneficiary.
 
 (vi) *Skilled nursing facility.* A skilled nursing facility is an institution (or a distinct part of an institution) that is engaged primarily in providing to inpatients medically necessary skilled nursing care, which is other than a nursing home or intermediate facility, and which:
 
@@ -614,7 +612,7 @@ rendered. The audits may be conducted on a scheduled or unscheduled (unannounced
 
 (G) Meet such other requirements as the Secretary of Health and Human Services and/or Secretary of Defense may find necessary in the interest of the health and safety of the individuals who are provided care and services by such agency or organization.
 
-(xvi) *CAHs.* CAHs must meet all conditions of participation under 42 CFR 485.601 through 485.645 in relation to TRICARE beneficiaries in order to receive payment under the TRICARE program. If a CAH provides inpatient psychiatric services or inpatient rehabilitation services in a distinct part unit, these distinct part units must meet the conditions of participation in 42 CFR 485.647, with the exception of being paid under the inpatient prospective payment system for psychiatric facilities as specified in 42 CFR 412.1(a)(2) or the inpatient prospective payment system for rehabilitation hospitals or rehabilitation units as specified in 42 CFR 412(a)(3).
+(xvi) *Critical Access Hospitals (CAHs).* CAHs must meet all conditions of participation under 42 CFR 485.601 through 485.645 in relation to TRICARE beneficiaries in order to receive payment under the TRICARE program. If a CAH provides inpatient psychiatric services or inpatient rehabilitation services in a distinct part unit, the distinct part unit must meet the conditions of participation in 42 CFR 485.647, with the exception of being paid under the inpatient prospective payment system for psychiatric facilities as specified in 42 CFR 412.1(a)(2) or the inpatient prospective payment system for rehabilitation hospitals or rehabilitation units as specified in 42 CFR 412.1(a)(3). Upon implementation of TRICARE's IRF PPS in § 199.14(a)(10), if a CAH provides inpatient rehabilitation services in a distinct part unit, the distinct part unit shall be paid under TRICARE's IRF PPS.
 
 (xvii) *Sole community hospitals (SCHs).* SCHs must meet all the criteria for classification as an SCH under 42 CFR 412.92, in order to be considered an SCH under the TRICARE program.
 
@@ -725,6 +723,14 @@ rendered. The audits may be conducted on a scheduled or unscheduled (unannounced
 (*2*) OTPs may not discriminate against CHAMPUS beneficiaries in any manner, including admission practices or provisions of special or limited treatment.
 
 (*3*) OTPs shall assure that all certifications and information provided to the Director incident to the process of obtaining and retaining authorized provider status is accurate and that is has no material errors or omissions. In the case of any misrepresentations, whether by inaccurate information being provided or material facts withheld, authorized provider status will be denied or terminated, and OTPs will be ineligible for consideration for authorized provider status for a two year period.
+
+(xx) *Inpatient Rehabilitation Facility (IRF).* IRFs must meet all the criteria for classification as an IRF under 42 CFR part 412, subpart B, and meet all applicable requirements established in this part in order to be considered an authorized IRF under the TRICARE program.
+
+(A) In order for the services of inpatient rehabilitation facilities to be covered, the facility must comply with the provisions outlined in paragraph (b)(4)(i) of this section. In addition, in order for services provided by these facilities to be covered by TRICARE, they must be primarily for the treatment of the presenting illness.
+
+(B) Custodial or domiciliary care is not coverable under TRICARE, even if rendered in an otherwise authorized inpatient rehabilitation facility.
+
+(C) The controlling factor in determining whether a beneficiary's stay in an inpatient rehabilitation facility is coverable by TRICARE is the level of professional care, supervision, and skilled nursing care that the beneficiary requires, in addition to the diagnosis, type of condition, or degree of functional limitations. The type and level of medical services required or rendered is controlling for purposes of extending TRICARE benefits; not the type of provider or condition of the beneficiary.
 
 (c) *Individual professional providers of care* - (1) *General* - (i) *Purpose.* This individual professional provider class is established to accommodate individuals who are recognized by 10 U.S.C. 1079(a) as authorized to assess or diagnose illness, injury, or bodily malfunction as a prerequisite for CHAMPUS cost-share of otherwise allowable related preventive or treatment services or supplies, and to accommodate such other qualified individuals who the Director, OCHAMPUS, or designee, may authorize to render otherwise allowable services essential to the efficient implementation of a plan-of-care established and managed by a 10 U.S.C. 1079(a) authorized professional.
 
@@ -1082,4 +1088,4 @@ No dual status will be recognized by the Office of CHAMPUS. Pastoral counselors 
 
 (5) *Termination of participation agreement.* A provider may terminate a participation agreement upon 45 days written notice to the Director, OCHAMPUS, or designee, and to the public.
 
-[51 FR 24008, July 1, 1986]Editorial Note:For Federal Register citations affecting § 199.6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[51 FR 24008, July 1, 1986]Editorial Note:For Federal Register citations affecting § 199.6, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

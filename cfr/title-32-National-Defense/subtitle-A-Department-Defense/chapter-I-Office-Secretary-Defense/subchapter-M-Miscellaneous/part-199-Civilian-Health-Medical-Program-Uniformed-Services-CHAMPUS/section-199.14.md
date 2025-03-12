@@ -1,7 +1,5 @@
 ##### § 199.14 Provider reimbursement methods. #####
 
-Link to an amendment published at 82 FR 61692, Dec. 29, 2017.
-
 (a) *Hospitals.* The CHAMPUS-determined allowable cost for reimbursement of a hospital shall be determined on the basis of one of the following methodologies.
 
 (1) *CHAMPUS Diagnosis Related Group (DRG)-based payment system.* Under the CHAMPUS DRG-based payment system, payment for the operating costs of inpatient hospital services furnished by hospitals subject to the system is made on the basis of prospectively-determined rates and applied on a per discharge basis using DRGs. Payments under this system will include a differentiation for urban (using large urban and other urban areas) and rural hospitals and an adjustment for area wage differences and indirect medical education costs. Additional payments will be made for capital costs, direct medical education costs, and outlier cases.
@@ -60,7 +58,7 @@ Link to an amendment published at 82 FR 61692, Dec. 29, 2017.
 
 (B) *Services subject to the DRG-based payment system.* All normally covered inpatient hospital services furnished to CHAMPUS beneficiaries by hospitals are subject to the CHAMPUS DRG-based payment system.
 
-(C) *Services exempt from the DRG-based payment system.* The following hospital services, even when provided in a hospital subject to the CHAMPUS DRG-based payment system, are exempt from the CHAMPUS DRG-based payment system. The services in paragraphs (a)(1)(ii)(C)(*1*) through (a)(1)(ii)(C)(*4*) and (a)(1)(ii)(C)(*7*) through (a)(1)(ii)(C)(*9*) of this section shall be reimbursed under the procedures in paragraph (a)(3) of this section, and the services in paragraphs (a)(1)(ii)(C)(*5*) and (a)(1)(ii)(C)(*6*) of this section shall be reimbursed under the procedures in paragraph (g) of this section.
+(C) *Services exempt from the DRG-based payment system.* The following hospital services, even when provided in a hospital subject to the CHAMPUS DRG-based payment system, are exempt from the CHAMPUS DRG-based payment system. The services in paragraphs (a)(1)(ii)(C)(*1*) through (a)(1)(ii)(C)(*4*) and (a)(1)(ii)(C)(*7*) through (a)(1)(ii)(C)(*9*) of this section shall be reimbursed under the procedures in paragraph (a)(4) of this section, and the services in paragraphs (a)(1)(ii)(C)(*5*) and (a)(1)(ii)(C)(*6*) of this section shall be reimbursed under the procedures in paragraph (j) of this section.
 
 (*1*) Services provided by hospitals exempt from the DRG-based payment system.
 
@@ -86,11 +84,11 @@ Link to an amendment published at 82 FR 61692, Dec. 29, 2017.
 
 (*1*) *Psychiatric hospitals.* A psychiatric hospital which is exempt from the Medicare Prospective Payment System is also exempt from the CHAMPUS DRG-based payment system. In order for a psychiatric hospital which does not participate in Medicare to be exempt from the CHAMPUS DRG-based payment system, it must meet the same criteria (as determined by the Director, OCHAMPUS, or a designee) as required for exemption from the Medicare Prospective Payment System as contained in 42 CFR 412.23.
 
-(*2*) *Rehabilitation hospitals.* A rehabilitation hospital which is exempt from the Medicare Prospective Payment System is also exempt from the CHAMPUS DRG-based payment system. In order for a rehabilitation hospital which does not participate in Medicare to be exempt from the CHAMPUS DRG-based payment system, it must meet the same criteria (as determined by the Director, OCHAMPUS, or a designee) as required for exemption from the Medicare Prospective Payment System as contained in 42 CFR 412.23.
+(*2*) *Inpatient Rehabilitation Facilities (IRF).* Prior to implementation of the IRF PPS methodology described in paragraph (a)(10) of this section, an inpatient rehabilitation facility which is exempt from the Medicare prospective payment system is also exempt from the TRICARE DRG-based payment system.
 
-(*3*) *Psychiatric and rehabilitation units (distinct parts).* A psychiatric or rehabilitation unit which is exempt from the Medicare prospective payment system is also exempt from the CHAMPUS DRG-based payment system. In order for a distinct unit which does not participate in Medicare to be exempt from the CHAMPUS DRG-based payment system, it must meet the same criteria (as determined by the Director, OCHAMPUS, or a designee) as required for exemption from the Medicare Prospective Payment System as contained in 42 CFR 412.23.
+(*3*) *Psychiatric and rehabilitation units (distinct parts).* Prior to implementation of the IRF PPS methodology described in paragraph (a)(10) of this section, a rehabilitation unit which is exempt from the Medicare prospective payment system is also exempt from the TRICARE DRG-based payment system. A psychiatric unit which is exempt from the Medicare prospective payment system is also exempt from the TRICARE DRG-based payment system.
 
-(*4*) *Long-term hospitals.* A long-term hospital which is exempt from the Medicare prospective payment system is also exempt from the CHAMPUS DRG-based payment system. In order for a long-term hospital which does not participate in Medicare to be exempt from the CHAMPUS DRG-based payment system, it must meet the same criteria (as determined by the Director, TSO, or a designee) as required for exemption from the Medicare Prospective Payment System as contained in § 412.23 of Title 42 CFR.
+(*4*) *Long Term Care Hospitals.* Prior to implementation of the LTCH PPS methodology described in paragraph (a)(9) of this section, a long-term care hospital which is exempt from the Medicare prospective payment system is also exempt from the CHAMPUS DRG-based payment system.
 
 (*5*) *Hospitals within hospitals.* A hospital within a hospital which is exempt from the Medicare prospective payment system is also exempt from the CHAMPUS DRG-based payment system. In order for a hospital within a hospital which does not participate in Medicare to be exempt from the CHAMPUS DRG-based payment system, it must meet the same criteria (as determined by the Director, TSO, or a designee) as required for exemption from the Medicare Prospective Payment System as contained in 42 CFR 412.22 and the criteria for one or more of the excluded hospital classifications described in § 412.23 of Title 42 CFR.
 
@@ -104,7 +102,7 @@ Link to an amendment published at 82 FR 61692, Dec. 29, 2017.
 
 (*10*) *CAHs.* Effective December 1, 2009, any facility which has been designated and certified as a CAH as contained in 42 CFR Part 485.606 is exempt from the CHAMPUS DRG-based payment system.
 
-(E) *Hospitals which do not participate in Medicare.* It is not required that a hospital be a Medicare-participating provider in order to be an authorized CHAMPUS provider. However, any hospital which is subject to the CHAMPUS DRG-based payment system and which otherwise meets CHAMPUS requirements but which is not a Medicare-participating provider (having completed a form HCFA-1514, Hospital Request for Certification in the Medicare/Medicaid Program and a form HCFA-1561, Health Insurance Benefit Agreement) must complete a participation agreement with OCHAMPUS. By completing the participation agreement, the hospital agrees to participate on all CHAMPUS inpatient claims and to accept the CHAMPUS-determined allowable amount as payment in full for these claims. Any hospital which does not participate in Medicare and does not complete a participation agreement with OCHAMPUS will not be authorized to provide services to CHAMPUS beneficiaries.
+(E) *Hospitals which do not participate in Medicare.* Any hospital which is subject to the CHAMPUS DRG-based payment system and which otherwise meets CHAMPUS requirements but which is not a Medicare-participating provider (having completed a form HCA-1514, Hospital Request for Certification in the Medicare/Medicaid Program and a form HCFA-1561, Health Insurance Benefit Agreement) must complete a participation agreement with TRICARE. By completing the participation agreement, the hospital agrees to participate on all CHAMPUS inpatient claims and to accept the CHAMPUS-determined allowable amount as payment in full for these claims. Any hospital which does not participate in Medicare and does not complete a participation agreement with TRICARE will not be authorized to provide services to TRICARE beneficiaries.
 
 (F) *Substance Use Disorder Rehabilitation facilities.* With admissions on or after July 1, 1995, substance use disorder rehabilitation facilities, authorized under § 199.6(b)(4)(xiv), are subject to the DRG-based payment system.
 
@@ -336,11 +334,11 @@ Link to an amendment published at 82 FR 61692, Dec. 29, 2017.
 
 (B) *Services which may be billed separately.* Psychotherapy sessions and non-mental health related medical services not normally included in the evaluation and assessment of PHP, IOP or OTPs, provided by authorized independent professional providers who are not employed by, or under contract with, PHP, IOP or OTPs for the purposes of providing clinical patient care are not included in the per diem rate and may be billed separately. This includes ambulance services when medically necessary for emergency transport.
 
-(3) *Reimbursement for inpatient services provided by a CAH.* (i) For admissions on or after December 1, 2009, inpatient services provided by a CAH, other than services provided in psychiatric and rehabilitation distinct part units, shall be reimbursed at allowable cost (*i.e.*, 101 percent of reasonable cost) under procedures, guidelines and instructions issued by the TMA Director, or designee. This does not include any costs of physician services or other professional services provided to CAH inpatients. Inpatient services provided in psychiatric distinct part units would be subject to the CHAMPUS mental health payment system. Inpatient services provided in rehabilitation distinct part units would be subject to billed charges.
+(3) *Reimbursement for inpatient services provided by a CAH.* (i) For admissions on or after December 1, 2009, inpatient services provided by a CAH, other than services provided in psychiatric and rehabilitation distinct part units, shall be reimbursed at allowable cost (*i.e.,* 101 percent of reasonable cost) under procedures, guidelines, and instructions issued by the Director, DHA, or designee. This does not include any costs of physicians' services or other professional services provided to CAH inpatients. Inpatient services provided in psychiatric distinct part units would be subject to the TRICARE mental health payment system. Inpatient services provided in rehabilitation distinct part units would be subject to billed charges. Upon implementation of TRICARE's IRF PPS, inpatient services provided in rehabilitation distinct part units would be subject to the TRICARE IRF PPS methodology in paragraph (a)(10) of this section.
 
 (ii) The percentage amount stated in paragraph (a)(3)(i) of this section is subject to possible upward adjustment based on a inpatient GTMCPA for TRICARE network hospitals deemed essential for military readiness and support during contingency operations under paragraph (a)(8) of this section.
 
-(4) *Billed charges and set rates.* The allowable costs for authorized care in all hospitals not subject to the CHAMPUS DRG-based payment system, the CHAMPUS mental health per-diem system, the reasonable cost method for CAHs, or the reimbursement rules for SCHs shall be determined on the basis of billed charges or set rates. Under this procedure the allowable costs may not exceed the lower of:
+(4) The allowable cost for authorized care in all hospitals not subject to the TRICARE DRG-based payment system, the TRICARE mental health per-diem system, the TRICARE reasonable cost method for CAHs, the TRICARE reimbursement rules for SCHs, the TRICARE LTCH-PPS, or the TRICARE IRF PPS shall be determined on the basis of billed charges or set rates.
 
 (i) The actual charge for such service made to the general public; or
 
@@ -433,6 +431,44 @@ An additional temporary military contingency payment adjustment (TMCPA) will als
 (D) Without the GTMCPA, DoD's ability to meet military contingency mission requirements will be significantly compromised.
 
 (ii) Policy and procedural instructions implementing the GTMCPA will be issued as deemed appropriate by the Director, TMA, or a designee. As with other discretionary authority under this Part, a decision to allow or deny a GTMCPA to a hospital is not subject to the appeal and hearing procedures of § 199.10.
+
+(9) *Reimbursement for inpatient services provided by a Long Term Care Hospital (LTCH).* (i) In accordance with 10 U.S.C. 1079(i)(2), TRICARE payment methods for institutional care shall be determined, to the extent practicable, in accordance with the same reimbursement rules as those that apply to payments to providers of services of the same type under Medicare. The TRICARE-LTC-DRG reimbursement methodology shall be in accordance with Medicare's Medicare Severity Long Term Care Diagnosis Related Groups (MS-LTC-DRGs) as found in regulation at 42 CFR part 412, subpart O. Inpatient services provided in hospitals subject to the Medicare LTCH Prospective Payment System (PPS) and classified as LTCHs and also as specified in 42 CFR parts 412 and 413 will be paid in accordance with the provisions outlined in sections 1886(d)(1)(B)(IV) and 1886(m)(6) of the Social Security Act and its implementing Medicare regulation (42 CFR parts 412, 413, and 170) to the extent practicable. Under the above governing provisions, TRICARE will recognize, to the extent practicable, in accordance with 10 U.S.C. 1079(i)(2), Medicare's LTCH PPS methodology to include the relative weights, inpatient operating and capital costs of furnishing covered services (including routine and ancillary services), interrupted stay policy, short-stay and high cost outlier payments, site-neutral payments, wage adjustments for variations in labor-related costs across geographical regions, cost-of-living adjustments, payment adjustments associated with the quality reporting program, method of payment for preadmission services, and updates to the system. TRICARE will not be adopting Medicare's 25 percent threshold payment adjustment.
+
+(ii) Implementation of the TRICARE LTCH PPS will include a gradual transition to full implementation of the Medicare LTCH PPS rates as follows:
+
+(A) For the first 12 months following implementation, the TRICARE LTCH PPS allowable cost will be 135 percent of Medicare LTCH PPS amounts.
+
+(B) For the second 12 months of implementation, TRICARE LTCH PPS allowable cost will be 115 percent of the Medicare LTCH PPS amounts.
+
+(C) For the third 12 months of implementation, and subsequent years, TRICARE LTCH PPS allowable cost will be 100 percent of the Medicare LTCH PPS amounts.
+
+(iii) *Exemption.* The TRICARE LTCH PPS methodology under this paragraph does not apply to hospitals in States that are reimbursed by Medicare and TRICARE under a waiver that exempts them from Medicare's inpatient prospective payment system or the TRICARE DRG-based payment system, to Children's Hospitals, or to Neoplastic Disease Care Hospitals, respectively.
+
+(10) *Reimbursement for inpatient services provided by Inpatient Rehabilitation Facilities (IRF).* (i) In accordance with 10 U.S.C. 1079(i)(2), TRICARE payment methods for institutional care shall be determined to the extent practicable, in accordance with the same reimbursement rules as those that apply to payments to providers of services of the same type under Medicare. The TRICARE IRF PPS reimbursement methodology shall be in accordance with Medicare's IRF PPS as found in 42 CFR part 412. Inpatient services provided in IRFs subject to the Medicare IRF prospective payment system (PPS) and classified as IRFs and also as specified in 42 CFR 412.604 will be paid in accordance with the provisions outlined in section 1886(j) of the Social Security Act and its implementing Medicare regulation found at 42 CFR part 412, subpart P to the extent practicable. Under the above governing provisions, TRICARE will recognize, to the extent practicable, in accordance with 10 U.S.C. 1079(i)(2), Medicare's IRF PPS methodology to include the relative weights, payment rates covering all operating and capitals costs of furnishing rehabilitative services adjusted for wage variations in labor-related costs across geographical regions, adjustments for the 60 percent compliance threshold, teaching adjustment, rural adjustment, high-cost outlier payments, low income payment adjustment, payment adjustments associated with the quality reporting program, and updates to the system.
+
+(ii) Implementation of the TRICARE IRF PPS will include a gradual transition to full implementation of the Medicare IRF PPS rates as follows:
+
+(A) For the first 12 months of implementation, the TRICARE IRF PPS allowable cost will be 135 percent of Medicare IRF PPS amounts.
+
+(B) For the second 12 months of implementation, the TRICARE IRF PPS allowable cost will be 115 percent of the Medicare IRF PPS amounts.
+
+(C) For the third 12 months of implementation, and subsequent years, the TRICARE IRF PPS allowable cost will be 100 percent of the Medicare IRF PPS amounts.
+
+(iii) The IRF PPS allowable cost in paragraph (a)(10)(ii) of this section may be supplemented by an inpatient general temporary military contingency payment adjustment (GTMCPA) for TRICARE authorized IRFs.
+
+(A) This is a year-end discretionary, temporary adjustment that the Director, DHA (or designee) may approve based on the following criteria:
+
+(*1*) The IRF serves a disproportionate share of ADSMs and ADDs;
+
+(*2*) The IRF is a TRICARE network hospital;
+
+(*3*) The IRF's actual costs for inpatient services exceed TRICARE payments or other extraordinary economic circumstance exists; and
+
+(*4*) Without the GTMCPA, DoD's ability to meet military contingency mission requirements will be significantly compromised.
+
+(B) Policy and procedural instructions implementing the GTMCPA will be issued as deemed appropriate by the Director, DHA (or designee). As with other discretionary authority under this part, a decision to allow or deny a GTMCPA to an IRF is not subject to the appeal and hearing procedures of § 199.10.
+
+(iv) *Exemption.* The TRICARE IRF PPS methodology under this paragraph does not apply to hospitals in States that are reimbursed by Medicare and TRICARE under a waiver that exempts them from Medicare's inpatient prospective payment system or the TRICARE DRG-based payment system, to Children's hospitals, or to VA hospitals, respectively.
 
 (b) *Skilled nursing facilities (SNFs)* - (1) *Use of Medicare prospective payment system and rates.* TRICARE payments to SNFs are determined using the same methods and rates used under the Medicare prospective payment system for SNFs under 42 CFR part 413, subpart J, except for children under age ten. SNFs receive a per diem payment of a predetermined Federal payment rate appropriate for the case based on patient classification (using the RUG classification system), urban or rural location of the facility, and area wage index.
 

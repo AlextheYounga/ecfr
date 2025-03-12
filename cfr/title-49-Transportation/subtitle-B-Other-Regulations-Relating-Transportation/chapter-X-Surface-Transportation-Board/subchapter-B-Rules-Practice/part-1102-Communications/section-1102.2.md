@@ -1,5 +1,7 @@
 ##### § 1102.2 Ex parte communications prohibited; penalties provided. #####
 
+Link to an amendment published at 83 FR 9231, Mar. 5, 2018.
+
 (a) *Definitions.* (1) “On-the-record proceeding” means any matter described in Sections 556-557 of the Administrative Procedure Act (5 U.S.C. 556-557) or any matter required by the Constitution, statute, Board rule, or by decision in the particular case, that is decided solely on the record made in a Board proceeding.
 
 (2) “Person who intercedes in any proceeding” means any person, partnership, corporation, or association, private or public, outside of the Board which is neither a party nor party's agent, that volunteers a communication that it has reason to know may advance or adversely affect the interest of a party or party's agent in any proceeding before the Board.

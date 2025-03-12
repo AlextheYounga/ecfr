@@ -1,7 +1,5 @@
 ##### § 199.2 Definitions. #####
 
-Link to an amendment published at 82 FR 61692, Dec. 29, 2017.
-
 (a) *General.* In an effort to be as specific as possible as to the word and intent of CHAMPUS, the following definitions have been developed. While many of the definitions are general and some assign meaning to relatively common terms within the health insurance environment, others are applicable only to CHAMPUS; however, they all appear in this part solely for the purpose of the Program. Except when otherwise specified, the definitions in this section apply generally throughout this part.
 
 (b) *Specific definitions. Abortion.* Abortion means the intentional termination of a pregnancy by artificial means done for a purpose other than that of producing a live birth. A spontaneous, missed or threatened abortion or termination of an ectopic (tubal) pregnancy are not included within the term “abortion” as used herein.
@@ -356,8 +354,6 @@ Staff consultations required by rules and regulations of the medical staff of a 
 
 *Hospital, acute care (general and special).* An institution that meets the criteria as set forth in § 199.6(b)(4)(i) of this part.
 
-*Hospital, long-term (tuberculosis, chronic care, or rehabilitation).* An institution that meets the criteria as set forth in § 199.6(b)(4)(iii) of this part.
-
 *Hospital, psychiatric.* An institution that meets the criteria as set forth in § 199.6(b)(4)(ii) of this part.
 
 *Illegitimate child.* A child not recognized as a lawful offspring; that is, a child born of parents not married to each other.
@@ -373,6 +369,8 @@ Staff consultations required by rules and regulations of the medical staff of a 
 *In-out surgery.* Surgery performed in the outpatient department of a hospital or other institutional provider, in a physician's office or the office of another individual professional provider, in a clinic, or in a “freestanding” ambulatory surgical center which does not involve a formal inpatient admission for a period of 24 hours or more.
 
 *Inpatient.* A patient who has been admitted to a hospital or other authorized institution for bed occupancy for purposes of receiving necessary medical care, with the reasonable expectation that the patient will remain in the institution at least 24 hours, and with the registration and assignment of an inpatient number or designation. Institutional care in connection with in and out (ambulatory) surgery is not included within the meaning of inpatient whether or not an inpatient number or designation is made by the hospital or other institution. If the patient has been received at the hospital, but death occurs before the actual admission occurs, an inpatient admission exists as if the patient had lived and had been formally admitted.
+
+*Inpatient Rehabilitation Facility (IRF).* A facility classified by CMS as an IRF and meets the applicable requirements established by § 199.6(b)(4)(xx) (which includes the requirement to be a Medicare participating provider).
 
 *Institution-affiliated.* Related to a CHAMPUS-authorized institutional provider through a shared governing body but operating under a separate and distinct license or accreditation.
 
@@ -399,6 +397,8 @@ Staff consultations required by rules and regulations of the medical staff of a 
 *Licensed practical nurse (L.P.N.).* A person who is prepared specially in the scientific basis of nursing; who is a graduate of a school of practical nursing; whose qualifications have been examined by a state board of nursing; and who has been authorized legally to practice as an L.P.N. under the supervision of a physician.
 
 *Licensed vocational nurse (L.V.N.)* A person who specifically is prepared in the scientific basis or nursing; who is a graduate of a school of vocational nursing; whose qualifications have been examined by a state board of nursing; and who has been authorized legally to practice as a L.V.N. under the supervision of a physician.
+
+*Long Term Care Hospital (LTCH).* A hospital that is classified by the Centers for Medicare and Medicaid Services (CMS) as an LTCH and meets the applicable requirements established by § 199.6(b)(4)(v) (which includes the requirement to be a Medicare participating provider).
 
 *Long-term hospital care.* Any inpatient hospital stay that exceeds 30 days.
 

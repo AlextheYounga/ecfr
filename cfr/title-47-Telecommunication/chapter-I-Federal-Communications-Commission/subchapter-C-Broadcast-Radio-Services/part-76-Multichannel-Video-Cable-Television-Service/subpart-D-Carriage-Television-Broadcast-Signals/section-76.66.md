@@ -1,7 +1,5 @@
 ##### § 76.66 Satellite broadcast signal carriage. #####
 
-Link to an amendment published at 83 FR 5028, Feb. 2, 2018.
-
 (a) *Definitions* - (1) *Satellite carrier.* A satellite carrier is an entity that uses the facilities of a satellite or satellite service licensed by the Federal Communications Commission, and operates in the Fixed-Satellite Service under part 25 of title 47 of the Code of Federal Regulations or the Direct Broadcast Satellite Service under part 100 of title 47 of the Code of Federal Regulations, to establish and operate a channel of communications for point-to-multipoint distribution of television station signals, and that owns or leases a capacity or a service on a satellite in order to provide such point-to-multipoint distribution, except to the extent that such entity provides such distribution pursuant to tariff under the Communications Act of 1934, other than for private home viewing.
 
 (2) *Secondary transmission.* A secondary transmission is the further transmitting of a primary transmission simultaneously with the primary transmission.
@@ -186,4 +184,12 @@ Link to an amendment published at 83 FR 5028, Feb. 2, 2018.
 
 (n) *Channel sharing carriage rights.* A broadcast television station that voluntarily relinquishes spectrum usage rights under § 73.3700 of this chapter in order to share a television channel and that possessed carriage rights under section 338, 614, or 615 of the Communications Act of 1934 (47 U.S.C. 338; 534; 535) on November 30, 2010, shall have, at its shared location, the carriage rights under such section that would apply to such station at such location if it were not sharing a channel.
 
-[66 FR 7430, Jan. 23, 2001, as amended at 66 FR 49135, Sept. 26, 2001; 70 FR 21670, Apr. 27, 2005; 70 FR 51668, Aug. 31, 2005; 70 FR 53079, Sept. 7, 2005; 73 FR 24508, May 5, 2008; 77 FR 30426, May 23, 2012; 80 FR 59664, Oct. 2, 2015]
+(o) *Next Gen TV carriage rights.* (1) A broadcast television station that chooses to deploy Next Gen TV service, see § 73.682(f) of this chapter, may assert mandatory carriage rights under this section only with respect to its ATSC 1.0 signal and may not assert mandatory carriage rights with respect to its ATSC 3.0 signal.
+
+(2) With respect to a Next Gen TV station that moves its 1.0 simulcast signal to a host station's (*i.e.,* a station whose facilities are being used to transmit programming originated by another station) facilities, the station may assert mandatory carriage rights under this section only if it:
+
+(i) Qualified for, and has been exercising, mandatory carriage rights at its original location; and
+
+(ii) Continues to qualify for mandatory carriage at the host station's facilities, including (but not limited to) delivering a good quality 1.0 signal to the satellite carrier local receive facility, or agreeing to be responsible for the costs of delivering such 1.0 signal to the satellite carrier.
+
+[66 FR 7430, Jan. 23, 2001, as amended at 66 FR 49135, Sept. 26, 2001; 70 FR 21670, Apr. 27, 2005; 70 FR 51668, Aug. 31, 2005; 70 FR 53079, Sept. 7, 2005; 73 FR 24508, May 5, 2008; 77 FR 30426, May 23, 2012; 80 FR 59664, Oct. 2, 2015; 83 FR 5028, Feb. 2, 2018]

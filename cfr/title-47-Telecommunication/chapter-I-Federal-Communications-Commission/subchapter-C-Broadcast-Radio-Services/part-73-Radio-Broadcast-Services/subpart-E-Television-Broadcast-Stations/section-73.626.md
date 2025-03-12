@@ -1,7 +1,5 @@
 ##### § 73.626 DTV distributed transmission systems. #####
 
-Link to an amendment published at 83 FR 5022, Feb. 2, 2018.
-
 (a) A DTV station may be authorized to operate multiple synchronized transmitters on its assigned channel to provide service consistent with the requirements of this section. Such operation is called a distributed transmission system (DTS). Except as expressly provided in this section, DTV stations operating a DTS facility must comply with all rules applicable to DTV single-transmitter stations.
 
 (b) For purposes of compliance with this section, a station's “authorized service area” is defined as the area within its predicted noise-limited service contour determined using the facilities authorized for the station in a license or construction permit for non-DTS, single-transmitter-location operation.
@@ -38,4 +36,6 @@ Link to an amendment published at 83 FR 5022, Feb. 2, 2018.
 
 (6) Each DTS transmitter must be located within either the DTV station's Table of Distances area or its authorized service area.
 
-[73 FR 74063, Dec. 5, 2008]
+(g) All transmitters operating under a single DTS license must follow the same digital broadcast television transmission standard.
+
+[73 FR 74063, Dec. 5, 2008, as amended at 83 FR 5022, Feb. 2, 2018]
