@@ -22,4 +22,4 @@ As used in this subpart:
 
 (2) For a Regional DDO Appeal decision, the Review Official is the Regional Administrator or designee.
 
-[79 FR 76050, Dec. 19, 2014. Redesignated at 85 FR 61573, Sept. 30, 2020]
+[79 FR 76050, Dec. 19, 2014. Redesignated at 85 FR 61573, Sept. 30, 2020; 85 FR 61574, Sept. 30, 2020]

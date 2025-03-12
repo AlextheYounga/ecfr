@@ -2,7 +2,7 @@
 
 (a) The cost of certain influencing activities associated with obtaining grants, contracts, or cooperative agreements, or loans is an unallowable cost. Lobbying with respect to certain grants, contracts, cooperative agreements, and loans is governed by relevant statutes, including among others, the provisions of 31 U.S.C. 1352, as well as the common rule, “New Restrictions on Lobbying” published on February 26, 1990, including definitions, and the Office of Management and Budget “Governmentwide Guidance for New Restrictions on Lobbying” and notices published on December 20, 1989, June 15, 1990, January 15, 1992, and January 19, 1996.
 
-(b) Executive lobbying costs. Costs incurred in attempting to improperly influence either directly or indirectly, an employee or officer of the executive branch of the Federal Government to give consideration or to act regarding a Federal award or a regulatory matter are unallowable. Improper influence means any influence that induces or tends to induce a Federal employee or officer to give consideration or to act regarding a Federal award or regulatory matter on any basis other than the merits of the matter.
+(b) *Executive lobbying costs.* Costs incurred in attempting to improperly influence either directly or indirectly, an employee or officer of the executive branch of the Federal Government to give consideration or to act regarding a Federal award or a regulatory matter are unallowable. Improper influence means any influence that induces or tends to induce a Federal employee or officer to give consideration or to act regarding a Federal award or regulatory matter on any basis other than the merits of the matter.
 
 (c) In addition to the above, the following restrictions are applicable to nonprofit organizations and IHEs:
 
@@ -14,7 +14,7 @@
 
 (iii) Any attempt to influence:
 
-(A)The introduction of Federal or state legislation;
+(A) The introduction of Federal or state legislation;
 
 (B) The enactment or modification of any pending Federal or state legislation through communication with any member or employee of the Congress or state legislature (including efforts to influence state or local officials to engage in similar lobbying activity);
 

@@ -1,5 +1,7 @@
 ##### § 181.8 Publication. #####
 
+Link to an amendment published at 86 FR 22119, Apr. 27, 2021.
+
 (a) The following categories of international agreements will not be published in United States Treaties and Other International Agreements:
 
 (1) Bilateral agreements for the rescheduling of intergovernmental debt payments;

@@ -1,8 +1,8 @@
-##### 236.601 Policy #####
+##### 236.601 Policy. #####
 
 (1) Written notification to the congressional defense committees is required if the total estimated contract price for architect-engineer services or construction design, in connection with military construction, military family housing, or restoration or replacement of damaged or destroyed facilities, exceeds $1.5 million. In accordance with 10 U.S.C. 480, unclassified notifications must be provided by electronic medium.
 
-(i) For military construction or military family housing (10 U.S.C. 2807(b)), the notification -
+(i) For military construction or military family housing (10 U.S.C. 2807(b)), the notification—
 
 (A) Must include the scope of the project and the estimated contract price; and
 
@@ -10,7 +10,7 @@
 
 (*2*) If provided by other than electronic medium, must be received by the congressional defense committees at least 21 days before the initial obligation of funds.
 
-(ii) For restoration or replacement of damaged or destroyed facilities (10 U.S.C. 2854(b)), the notification -
+(ii) For restoration or replacement of damaged or destroyed facilities (10 U.S.C. 2854(b)), the notification—
 
 (A) Must include the justification for the project, the estimated contract price, and the source of the funds for the project; and
 

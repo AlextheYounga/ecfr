@@ -28,4 +28,4 @@
 
 (9) Denials of requests for EPA approval of procurement through noncompetitive proposals under 2 CFR 200.320(c)(4).
 
-[79 FR 76050, Dec. 19, 2014. Redesignated at 85 FR 61573, Sept. 30, 2020]
+[79 FR 76050, Dec. 19, 2014. Redesignated at 85 FR 61573, Sept. 30, 2020; 85 FR 61574, Sept. 30, 2020]

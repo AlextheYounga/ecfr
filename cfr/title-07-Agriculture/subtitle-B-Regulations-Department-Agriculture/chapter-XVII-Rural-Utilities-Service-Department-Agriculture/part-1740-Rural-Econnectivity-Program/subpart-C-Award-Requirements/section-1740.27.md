@@ -1,0 +1,9 @@
+##### § 1740.27 Environmental and related reviews. #####
+
+(a) Federal Agencies are required to analyze the potential environmental impacts, as required by the National Environmental Policy Act (NEPA), for Applicant projects or proposals seeking funding. Please refer to 7 CFR part 1970 for all of Rural Development's environmental policies. All Applicants must follow the requirements in 7 CFR part 1970 and are required to complete an Environmental Questionnaire, to provide a description of program activities, and to submit all other required environmental documentation as requested in the application system or by the Agency after the application is submitted. It is the Applicant's responsibility to obtain all necessary federal, tribal, state, and local governmental permits and approvals necessary for the proposed work to be conducted.
+
+(b) Applications will be reviewed to ensure that they contain sufficient information to allow Agency staff to conduct a NEPA analysis so that appropriate NEPA documentation can be submitted to the appropriate federal and state agencies, along with the recommendation that the proposal is in compliance with applicable environmental and historic preservation laws.
+
+(c) Applicants proposing activities that cannot be covered by existing environmental compliance procedures will be informed whether NEPA requirements and other environmental requirements can otherwise be expeditiously met so that a project can proceed within the timeframes anticipated under the Program.
+
+(d) If additional information is required after an application is accepted for funding, funds can be withheld by the agency under a special award condition requiring the Awardee to submit additional environmental compliance information sufficient for the Agency to assess any impacts that a project may have on the environment.

@@ -36,4 +36,4 @@
 
 (f) *Air travel by other than commercial carrier.* Costs of travel by non-Federal entity-owned, -leased, or -chartered aircraft include the cost of lease, charter, operation (including personnel costs), maintenance, depreciation, insurance, and other related costs. The portion of such costs that exceeds the cost of airfare as provided for in paragraph (d) of this section, is unallowable.
 
-[78 FR 78608, Dec. 26, 2013, as amended at 79 FR 75887, Dec. 19, 2014; 85 FR 49570, Aug. 13, 2020]
+[78 FR 78608, Dec. 26, 2013, as amended at 79 FR 75887, Dec. 19, 2014. Redesignated and amended at 85 FR 49570, Aug. 13, 2020]

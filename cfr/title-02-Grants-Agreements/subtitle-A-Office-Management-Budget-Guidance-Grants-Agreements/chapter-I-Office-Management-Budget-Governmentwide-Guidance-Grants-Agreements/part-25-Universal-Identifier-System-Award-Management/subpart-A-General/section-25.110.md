@@ -10,7 +10,7 @@
 
 (ii) Federal awarding agency use of a generic unique entity identifier should be used rarely for prime award reporting because it prevents prime awardees from being able to fulfill the subaward or executive compensation reporting required by the Transparency Act.
 
-(2) The conditions under which a Federal awarding agency may exempt an applicant or recipient are -
+(2) The conditions under which a Federal awarding agency may exempt an applicant or recipient are—
 
 (i) For any applicant or recipient, if the Federal awarding agency determines that it must protect information about the entity from disclosure if it is in the national security or foreign policy interests of the United States, or to avoid jeopardizing the personal safety of the applicant or recipient's staff or clients.
 
@@ -22,4 +22,4 @@
 
 (d) *Class exceptions.* OMB may allow exceptions for classes of Federal awards, applicants, and recipients subject to the requirements of this part when exceptions are not prohibited by statute.
 
-[85 FR 49522, Aug. 13, 2020]
+[85 FR 49523, Aug. 13, 2020]

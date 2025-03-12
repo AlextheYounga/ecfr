@@ -1,0 +1,3 @@
+##### § 1740.45 Advance of funds. #####
+
+RUS loan and grant advances are made at the request of the Awardee according to the procedures stipulated in the Award Documents. All non-RUS funds, to include matching funds and cash provided in lieu of RUS loan funds, must be expended first, followed by loan funds and then grant funds, except for RUS-approved pre-application expenses. RUS may modify this requirement in the Federal Register or applicable funding opportunity notice. Grant funds, if any, will be used for eligible preapplication expenses only on the first advance request. Applications that do not account for such advance procedures in the pro forma five-year forecast may be rejected.

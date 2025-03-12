@@ -1,0 +1,5 @@
+##### § 1740.62 Evaluation of Awardee operations. #####
+
+(a) RUS may send a team to the awardee's facilities to complete a Management Analysis Profile (MAP) of the entire operation. MAPs are used by RUS as a means of evaluating an Awardee's strengths and weaknesses and ensuring that awardees are prepared to fulfil the terms of the award. Once an applicant accepts an award offer, RUS may schedule a site visit as soon as possible.
+
+(b) RUS reserves the right not to advance funds until the MAP has been completed. If the MAP identifies issues that can affect the operation and completion of the project, those issues must be addressed to the satisfaction of RUS before funds can be advanced. Funding may be rescinded if following a MAP, the agency determines that the awardee will be unable to meet the requirements of the award.

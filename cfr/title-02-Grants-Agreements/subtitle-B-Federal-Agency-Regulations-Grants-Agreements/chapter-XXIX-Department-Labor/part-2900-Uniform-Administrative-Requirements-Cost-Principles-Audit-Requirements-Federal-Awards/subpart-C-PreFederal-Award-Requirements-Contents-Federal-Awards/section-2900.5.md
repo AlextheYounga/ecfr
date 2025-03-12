@@ -1,5 +1,5 @@
-##### § 2900.5 Federal awarding agency review of merit of proposals. #####
+##### § 2900.5 Federal awarding agency review of risk posed by applicants. #####
 
-In the DOL, audits and monitoring reports containing findings, issues of non-compliance or questioned costs are in addition to reports and findings from audits performed under Subpart F - Audit Requirements of 2 CFR 200 or the reports and findings of any other available audits. (See 2 CFR 200.205(c)(4)).
+In addition to the guidance set forth in 2 CFR 200.206(b), in evaluating risks of applicants, DOL also considers audits and monitoring reports containing findings and issues of noncompliance or questioned costs, in addition to reports and findings from audits performed under Subpart F—Audit Requirements of 2 CFR 200 or the reports and findings of any other available audits (see 2 CFR 200.206(b)).
 
-[80 FR 81440, Dec. 30, 2015]
+[86 FR 22108, Apr. 27, 2021]

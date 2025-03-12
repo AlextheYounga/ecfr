@@ -1,0 +1,7 @@
+##### § 1740.61 Evaluation for technical and financial feasibility. #####
+
+(a) A project is financially feasible when the applicant demonstrates to the satisfaction of RUS that it will be able to generate sufficient revenues to cover expenses; will have sufficient cash flow to service all debts and obligations as they come due; will have a positive ending cash balance as reflected on the cash flow statement for each year of the forecast period; and, by the end of the forecast period, will meet at least two of the following requirements: A minimum TIER requirement of 1.2, a minimum DSCR requirement of 1.2, and a minimum current ratio of 1.2. In addition, applicants must demonstrate positive cash flow from operations at the end of the forecast period.
+
+(b) For any funding option that includes grant funds, evaluation criteria for scoring the application will be included in the Federal Register notice that opens an application window. Grant applications submitted for a certain category will be ranked and awarded based only on those applications included in that category.
+
+(c) The Agency will determine technical feasibility by evaluating the Applicant's network design and other relevant information in the application.
