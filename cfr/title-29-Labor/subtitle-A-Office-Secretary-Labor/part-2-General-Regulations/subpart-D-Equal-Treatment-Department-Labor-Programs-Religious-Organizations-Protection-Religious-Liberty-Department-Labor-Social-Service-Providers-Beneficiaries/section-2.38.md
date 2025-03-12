@@ -1,7 +1,5 @@
 ##### § 2.38 Status of nonprofit organizations. #####
 
-Link to an amendment published at 85 FR 82141, Dec. 17, 2020.
-
 (a) In general, DOL does not require that an organization, including a religious organization, obtain tax-exempt status under section 501(c)(3) of the Internal Revenue Code in order to be eligible for Federal financial assistance under DOL social service programs. Many such programs, however, do require an organization to be a “nonprofit organization” in order to be eligible for such support. Individual solicitations that require organizations to have nonprofit status must specifically so indicate in the eligibility section of the solicitation. In addition, any solicitation for a program that requires an organization to maintain tax-exempt status must expressly state the statutory authority for requiring such status. For assistance with questions about a particular solicitation, applicants should contact the DOL program office that issued the solicitation.
 
 (b) Unless otherwise provided by statute, in DOL programs in which an applicant must show that it is a nonprofit organization, the applicant must be permitted to do so by any of the following means:
@@ -14,8 +12,10 @@ Link to an amendment published at 85 FR 82141, Dec. 17, 2020.
 
 (ii) No part of its net earnings may lawfully benefit any private shareholder or individual;
 
-(3) A certified copy of the applicant's certificate of incorporation or similar document that clearly establishes the nonprofit status of the applicant; or
+(3) A certified copy of the applicant's certificate of incorporation or similar document that clearly establishes the nonprofit status of the applicant;
 
-(4) Any item described in paragraphs (b)(1) through (b)(3) of this section, if that item applies to a State or national parent organization, together with a statement by the State or national parent organization that the applicant is a local nonprofit affiliate of the organization.
+(4) Any item described in paragraphs (b)(1) through (3) of this section, if that item applies to a State or national parent organization, together with a statement by the State or national parent organization that the applicant is a local nonprofit affiliate of the organization; or
 
-[69 FR 41891, July 12, 2004. Redesignated at 81 FR 19423, Apr. 4, 2016]
+(5) For an entity that holds a sincerely held religious belief that it cannot apply for a determination as an entity that is tax exempt under section 501(c)(3) of the Internal Revenue Code, evidence sufficient to establish that the entity would otherwise qualify as a nonprofit organization under paragraphs (b)(1) through (4) of this section.
+
+[69 FR 41891, July 12, 2004. Redesignated at 81 FR 19423, Apr. 4, 2016; 85 FR 82141, Dec. 17, 2020]

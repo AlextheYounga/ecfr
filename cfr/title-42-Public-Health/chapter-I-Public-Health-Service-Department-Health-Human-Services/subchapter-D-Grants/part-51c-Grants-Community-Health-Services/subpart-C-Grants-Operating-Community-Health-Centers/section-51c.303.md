@@ -1,6 +1,6 @@
 ##### § 51c.303 Project elements. #####
 
-Link to an amendment published at 85 FR 83830, Dec. 23, 2020.
+Link to an amendment published at 85 FR 83830, Dec. 23, 2020.Link to a delay published at 86 FR 7059, Jan. 26, 2021.
 
 A community health center supported under this subpart must:
 

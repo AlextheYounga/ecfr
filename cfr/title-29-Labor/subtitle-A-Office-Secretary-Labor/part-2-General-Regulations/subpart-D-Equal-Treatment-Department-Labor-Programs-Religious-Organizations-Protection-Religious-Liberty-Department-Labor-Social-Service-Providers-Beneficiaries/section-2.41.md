@@ -1,3 +1,5 @@
-##### § 2.41 xxx #####
+##### § 2.41 Severability. #####
 
-Link to an amendment published at 85 FR 82141, Dec. 17, 2020.
+Should a court of competent jurisdiction hold any provision(s) of this subpart to be invalid, such action will not affect any other provision of this subpart.
+
+[85 FR 82141, Dec. 17, 2020]
