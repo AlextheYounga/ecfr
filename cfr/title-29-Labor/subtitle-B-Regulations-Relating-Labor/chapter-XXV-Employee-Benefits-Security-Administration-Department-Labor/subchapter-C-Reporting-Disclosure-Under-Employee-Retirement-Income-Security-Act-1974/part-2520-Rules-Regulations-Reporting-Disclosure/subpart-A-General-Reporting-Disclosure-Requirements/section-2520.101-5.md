@@ -2,7 +2,7 @@
 
 (a) *In general.* (1) Except as provided in paragraphs (a)(2) and (3) of this section, pursuant to section 101(f) of the Act, the administrator of a defined benefit plan to which title IV of the Act applies shall furnish annually to each person specified in paragraph (f) of this section a funding notice that conforms to the requirements of this section.
 
-(2) A plan administrator shall not be required to furnish a funding notice -
+(2) A plan administrator shall not be required to furnish a funding notice—
 
 (i) In the case of a multiemployer plan, for a plan year if the due date for such notice is on or after the earlier of:
 
@@ -18,7 +18,7 @@
 
 (C) The plan administrator filed a standard termination notice with the Pension Benefit Guaranty Corporation pursuant to 29 CFR 4041.25, provided that the proposed termination date is on or before the due date of the funding notice and a final distribution of assets in satisfaction of all benefit liabilities proceeds in accordance with section 4041(b) of the Act.
 
-(3) In the case of a merger or consolidation of two or more plans -
+(3) In the case of a merger or consolidation of two or more plans—
 
 (i) The plan administrator of a non-successor plan shall not be required to furnish a funding notice for the plan year in which the merger or consolidation occurred; and
 
@@ -28,17 +28,17 @@
 
 (1) *Identifying information.* The name of the plan, the name, address, and phone number of the plan administrator and the plan's principal administrative officer (if different than the plan administrator), each plan sponsor's name and employer identification number, and the plan number.
 
-(2) *Funding percentage* - (i) *Single-employer plans.* For single-employer plans, a statement as to whether the plan's funding target attainment percentage (as defined in section 303(d)(2) of the Act) for the notice year, and for each of the two preceding plan years, is at least 100 percent (and, if not, the actual percentages).
+(2) *Funding percentage*—(i) *Single-employer plans.* For single-employer plans, a statement as to whether the plan's funding target attainment percentage (as defined in section 303(d)(2) of the Act) for the notice year, and for each of the two preceding plan years, is at least 100 percent (and, if not, the actual percentages).
 
 (ii) *Multiemployer plans.* For multiemployer plans, a statement as to whether the plan's funded percentage (as defined in section 305(i) of the Act) for the notice year, and for each of the two preceding plan years, is at least 100 percent (and, if not, the actual percentages).
 
-(3) *Assets and liabilities* - (i) *Single-employer plans.* For single-employer plans -
+(3) *Assets and liabilities*—(i) *Single-employer plans.* For single-employer plans—
 
 (A) A statement of the total assets (separately stating the prefunding balance and the funding standard carryover balance) and liabilities of the plan, determined in the same manner as under section 303 of the Act, as of the valuation date of the notice year and for each of the two preceding plan years, as reported in the annual report filed under section 104 of the Act for each such preceding plan year, and
 
 (B) A statement of the value of the plan's assets and liabilities determined as of the last day of the notice year. For purposes of this statement, the value of the plan's assets is the fair market value of plan assets. Plan liabilities are equal to the present value of benefits accrued through the last day of the notice year determined in the same manner as liabilities are calculated under section 303 of the Act (including actuarial assumptions and methods), but using the interest rate under section 4006(a)(3)(E)(iv) of the Act in effect for the last month of the notice year.
 
-(ii) *Multiemployer plans.* For multiemployer plans -
+(ii) *Multiemployer plans.* For multiemployer plans—
 
 (A) A statement of the value of the plan's assets (determined in the same manner as under section 304(c)(2) of the Act) and liabilities (determined in the same manner as under section 305(i)(8) of the Act, using reasonable actuarial assumptions as required under section 304(c)(3) of the Act) as of the valuation date of the notice year and each of the two preceding plan years, and
 
@@ -48,7 +48,7 @@
 
 (4) *Demographic information.* A statement of the number of participants and beneficiaries who, as of the valuation date of the notice year, are: Retired or separated from service and receiving benefits; retired or separated from service and entitled to future benefits (but currently not receiving benefits); or active participants under the plan. The statement shall indicate the number of participants and beneficiaries in each category and the sum of all such participants and beneficiaries. The terms “active” and “retired or separated” shall have the same meaning given to those terms in instructions to the annual report filed under section 104(a) of the Act.
 
-(5) *Funding policy.* A statement setting forth -
+(5) *Funding policy.* A statement setting forth—
 
 (i) The funding policy of the plan;
 
@@ -56,7 +56,7 @@
 
 (iii) A general description of any investment policy of the plan as it relates to the funding policy in paragraph (b)(5)(i) of this section and the asset allocation of investments under paragraph (b)(5)(ii) of this section.
 
-(6) *Endangered, critical, or critical and declining status.* In the case of a multiemployer plan, a statement whether the plan was in endangered, critical, or critical and declining status under section 305 of the Act for the notice year and, if so -
+(6) *Endangered, critical, or critical and declining status.* In the case of a multiemployer plan, a statement whether the plan was in endangered, critical, or critical and declining status under section 305 of the Act for the notice year and, if so—
 
 (i) A statement describing how a person may obtain a copy of the plan's funding improvement plan or rehabilitation plan, as appropriate, adopted under section 305 of the Act and the actuarial and financial data that demonstrate any action taken by the plan toward fiscal improvement;
 
@@ -72,7 +72,7 @@
 
 (7) *Events having a material effect on liabilities or assets.* Subject to paragraph (g) of this section, in the case of any plan amendment, scheduled benefit increase or reduction, or other known event taking effect in the current plan year and having a material effect on plan liabilities or assets for the year, an explanation of the amendment, scheduled benefit increase or reduction, or event, and a projection to the end of such plan year of the effect of the amendment, scheduled benefit increase or reduction, or event on plan liabilities.
 
-(8) *Rules on termination or insolvency* - (i) *Single-employer plans.* In the case of a single-employer plan, a summary of the rules governing termination of single-employer plans under subtitle C of title IV of the Act.
+(8) *Rules on termination or insolvency*—(i) *Single-employer plans.* In the case of a single-employer plan, a summary of the rules governing termination of single-employer plans under subtitle C of title IV of the Act.
 
 (ii) *Multiemployer plans.* In the case of a multiemployer plan, a summary of the rules governing insolvency, including the limitations on benefit payments.
 
@@ -90,7 +90,7 @@
 
 (2) In the case of a small plan, a funding notice shall be provided not later than the earlier of the date on which the annual report is filed under section 104(a) of the Act or the latest date the annual report must be filed under that section (including extensions). For this purpose, a single-employer plan is a small plan if it meets the exception in section 303(g)(2)(B) of the Act, and a multiemployer plan is a small plan if it had 100 or fewer participants on each day during the plan year preceding the notice year.
 
-(e) *Manner of furnishing notice.* (1) [Reserved.]
+(e) *Manner of furnishing notice.* (1) [Reserved]
 
 (2) A funding notice must be furnished to the Pension Benefit Guaranty Corporation in a manner consistent with the requirements of part 4000 of title IV of the Act. The date that the notice is furnished to the Pension Benefit Guaranty Corporation is determined consistent with that part.
 
@@ -164,4 +164,4 @@ Example.Plan Y is a single-employer calendar year plan. Company X, the sponsor o
 
 (m) *CSEC plans.* [Reserved]
 
-Appendix A to § 2520.101-5 - Single-Employer Plan Model Annual Funding Notice![](/graphics/er02fe15.014.gif)![](/graphics/er02fe15.015.gif)![](/graphics/er02fe15.016.gif)![](/graphics/er02fe15.017.gif)![](/graphics/er02fe15.018.gif)![](/graphics/er02fe15.019.gif)![](/graphics/er02fe15.020.gif)![](/graphics/er02fe15.021.gif)![](/graphics/er02fe15.022.gif)Appendix B to § 2520.101-5 - Multiemployer Plan Model Annual Funding Notice![](/graphics/er02fe15.023.gif)![](/graphics/er02fe15.024.gif)![](/graphics/er02fe15.025.gif)![](/graphics/er02fe15.026.gif)![](/graphics/er02fe15.027.gif)![](/graphics/er02fe15.028.gif)![](/graphics/er02fe15.029.gif)![](/graphics/er02fe15.030.gif)[80 FR 5645, Feb. 2, 2015]
+Appendix A to § 2520.101-5—Single-Employer Plan Model Annual Funding Notice![](/graphics/er02fe15.014.gif)![](/graphics/er02fe15.015.gif)![](/graphics/er02fe15.016.gif)![](/graphics/er02fe15.017.gif)![](/graphics/er02fe15.018.gif)![](/graphics/er02fe15.019.gif)![](/graphics/er02fe15.020.gif)![](/graphics/er02fe15.021.gif)![](/graphics/er02fe15.022.gif)Appendix B to § 2520.101-5—Multiemployer Plan Model Annual Funding Notice![](/graphics/er02fe15.023.gif)![](/graphics/er02fe15.024.gif)![](/graphics/er02fe15.025.gif)![](/graphics/er02fe15.026.gif)![](/graphics/er02fe15.027.gif)![](/graphics/er02fe15.028.gif)![](/graphics/er02fe15.029.gif)![](/graphics/er02fe15.030.gif)[80 FR 5645, Feb. 2, 2015]

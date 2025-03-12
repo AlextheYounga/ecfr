@@ -1,5 +1,7 @@
 ##### § 4022.7 Benefits payable in a single installment. #####
 
+Link to an amendment published at 85 FR 55591, Sept. 9, 2020.
+
 (a) *Alternative benefit.* If a benefit that is guaranteed under this part is payable in a single installment or substantially so under the terms of the plan, or an option elected under the plan by the participant, the benefit will not be guaranteed or paid as such, but the PBGC will guarantee the alternative benefit, if any, in the plan which provides for the payment of equal periodic installments for the life of the recipient. If the plan provides more than one such annuity, the recipient may within 30 days after notification of the proposed termination of the plan elect to receive one of those annuities. If the plan does not provide such an annuity, the PBGC will guarantee an actuarially equivalent life annuity.
 
 (b)(1) *Payment in lump sum.* Notwithstanding paragraph (a) of this section:

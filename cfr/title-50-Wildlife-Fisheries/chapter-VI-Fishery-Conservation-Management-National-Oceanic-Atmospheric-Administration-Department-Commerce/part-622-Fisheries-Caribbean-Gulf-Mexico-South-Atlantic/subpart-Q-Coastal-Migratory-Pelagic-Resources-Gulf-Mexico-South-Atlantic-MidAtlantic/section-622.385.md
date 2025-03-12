@@ -12,9 +12,7 @@ Commercial trip limits are limits on the amount of the applicable species that m
 
 (B) From April 1 through September 30 - 3,500 lb (1,588 kg).
 
-(C) From October 1 through January 31 - 50 fish.
-
-(D) From February 1 through the end of February - 50 fish, unless NMFS determines that less than 70 percent of the quota specified in § 622.384(b)(2)(ii)(B) has been landed, then, 75 fish.
+(C) From October 1 through the end of February - 100 fish.
 
 (iii) In the area between 28°47′48” N lat., which is a line directly east from the Volusia/Brevard County, FL, boundary, and 25°20′24” N lat., which is a line directly east from the Miami-Dade/Monroe County, FL, boundary, king mackerel in or from the EEZ may not be possessed on board or landed from a vessel in a day in amounts not to exceed:
 
@@ -22,9 +20,7 @@ Commercial trip limits are limits on the amount of the applicable species that m
 
 (B) From April 1 through September 30 - 75 fish, unless NMFS determines that 75 percent or more of the quota specified in § 622.384(b)(2)(ii)(A) has been landed, then, 50 fish.
 
-(C) From October 1 through January 31 - 50 fish.
-
-(D) From February 1 through the end of February - 50 fish, unless NMFS determines that less than 70 percent of the quota specified in § 622.384(b)(2)(ii)(B) has been landed, then, 75 fish.
+(C) From October 1 through the end of February - 100 fish.
 
 (2) *Gulf migratory group.* Commercial trip limits are established in the southern, northern, and western zones as follows. (See § 622.369(a) for descriptions of the southern, northern, and western zones.)
 
@@ -58,4 +54,4 @@ Commercial trip limits are limits on the amount of the applicable species that m
 
 (3) For the purpose of paragraph (b)(1)(ii) of this section, a day starts at 6 a.m., local time, and extends for 24 hours. If a vessel terminates a trip prior to 6 a.m., but retains Spanish mackerel on board after that time, the Spanish mackerel retained on board will not be considered in possession during the succeeding day, provided the vessel is not underway between 6 a.m. and the time such Spanish mackerel are unloaded, and provided such Spanish mackerel are unloaded prior to 6 p.m.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 79 FR 68805, Nov. 19, 2014; 79 FR 69090, Nov. 20, 2014; 80 FR 4222, Jan. 27, 2014; 80 FR 40937, July 14, 2015; 80 FR 78675, Dec. 17, 2015; 82 FR 36347, Aug. 4, 2017; 84 FR 4736, Feb. 19, 2019; 84 FR 47904, Sept. 11, 2019; 84 FR 51438, Sept. 30, 2019]
+[78 FR 22952, Apr. 17, 2013, as amended at 79 FR 68805, Nov. 19, 2014; 79 FR 69090, Nov. 20, 2014; 80 FR 4222, Jan. 27, 2014; 80 FR 40937, July 14, 2015; 80 FR 78675, Dec. 17, 2015; 82 FR 36347, Aug. 4, 2017; 84 FR 4736, Feb. 19, 2019; 84 FR 47904, Sept. 11, 2019; 84 FR 51438, Sept. 30, 2019; 85 FR 55594, Sept. 9, 2020]
