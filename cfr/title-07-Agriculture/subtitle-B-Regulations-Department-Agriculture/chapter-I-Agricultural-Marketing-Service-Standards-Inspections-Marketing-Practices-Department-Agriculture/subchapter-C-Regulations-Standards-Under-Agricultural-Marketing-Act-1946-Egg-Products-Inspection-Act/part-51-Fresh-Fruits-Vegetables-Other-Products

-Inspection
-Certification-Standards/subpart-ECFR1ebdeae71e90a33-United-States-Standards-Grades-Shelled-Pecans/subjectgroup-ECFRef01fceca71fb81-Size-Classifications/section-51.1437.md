@@ -1,5 +1,7 @@
 ##### § 51.1437 Size classifications for halves. #####
 
+Link to an amendment published at 83 FR 50477, Oct. 9, 2018.
+
 The size of pecan halves in a lot may be specified in accordance with one of the size classifications shown in Table I:
 
 Table I

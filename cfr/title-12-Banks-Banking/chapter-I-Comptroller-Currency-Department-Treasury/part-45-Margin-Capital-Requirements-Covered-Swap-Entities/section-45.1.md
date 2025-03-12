@@ -1,5 +1,7 @@
 ##### § 45.1 Authority, purpose, scope, exemptions and compliance dates. #####
 
+Link to an amendment published at 83 FR 50811, Oct. 10, 2018.
+
 (a) *Authority.* This part is issued under the authority of 7 U.S.C. 6s(e), 12 U.S.C. 1 *et seq.,* 93a, 161, 481, 1818, 3907, 3909, 5412(b)(2)(B), and 15 U.S.C. 78o-10(e).
 
 (b) *Purpose.* Section 4s of the Commodity Exchange Act of 1936 (7 U.S.C. 6s) and section 15F of the Securities Exchange Act of 1934 (15 U.S.C. 78o-10) require the OCC to establish capital and margin requirements for any for any national bank or subsidiary thereof, Federal savings association or subsidiary thereof, or Federal branch or agency of a foreign bank that is registered as a swap dealer, major swap participant, security-based swap dealer, or major security-based swap participant with respect to all non-cleared swaps and non-cleared security-based swaps. This regulation implements section 4s of the Commodity Exchange Act of 1936 and section 15F of the Securities Exchange Act of 1934 by defining terms used in the statute and related terms, establishing capital and margin requirements, and explaining the statutes' requirements.

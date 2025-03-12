@@ -1,5 +1,7 @@
 ##### § 45.2 Definitions. #####
 
+Link to an amendment published at 83 FR 50811, Oct. 10, 2018.
+
 *Affiliate.* A company is an affiliate of another company if:
 
 (1) Either company consolidates the other on financial statements prepared in accordance with U.S. Generally Accepted Accounting Principles, the International Financial Reporting Standards, or other similar standards;

@@ -1,13 +1,3 @@
-##### § 1070.35 Procedure when response to demand is required prior to receiving instructions. #####
+##### § 1070.35 Procedure in the event of an adverse ruling. #####
 
-(a) If a response to a demand described in section 1070.34 of this subpart is required before the General Counsel renders a decision, the CFPB will request that the appropriate CFPB attorney or an attorney of the Department of Justice, as appropriate, take steps to stay, postpone, or obtain relief from the demand pending decision. If necessary, the attorney will:
-
-(1) Appear with the employee upon whom the demand has been made;
-
-(2) Furnish the court or other authority with a copy of the regulations contained in this subpart;
-
-(3) Inform the court or other authority that the demand has been, or is being, as the case may be, referred for the prompt consideration of the appropriate CFPB official; and
-
-(4) Respectfully request the court or authority to stay the demand pending receipt of the requested instructions.
-
-(b) In the event that an immediate demand for production or disclosure is made in circumstances which would preclude the proper designation or appearance of an attorney of the CFPB or the Department of Justice on the employee's behalf, the employee, if necessary, shall respectfully request from the demanding court or authority a reasonable stay of proceedings for the purpose of obtaining instructions from the General Counsel.
+If a stay of, or other relief from, the effect of a demand made pursuant to §§ 1070.33 and 1070.34 is declined or not obtained, or if the court or other judicial or quasi-judicial authority declines to stay the effect of the demand made pursuant to §§ 1070.33 and 1070.34, or if the court or other authority rules that the demand must be complied with irrespective of the General Counsel's instructions not to produce the material or disclose the information sought, the employee upon whom the demand has been made shall decline to comply with the demand citing this subpart and *United States ex rel. Touhy* v. *Ragen,* 340 U.S. 462 (1951).

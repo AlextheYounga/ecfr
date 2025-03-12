@@ -1,10 +1,6 @@
 ##### § 1070.30 Purpose and scope; definitions. #####
 
-(a) This subpart sets forth the procedures to be followed with respect to:
-
-(1) Service of summonses and complaints directed to the CFPB, the Director, or to any CFPB employee in connection with Federal or State litigation arising out of or involving the performance of official activities of the CFPB; and
-
-(2) Subpoenas, court orders, or other requests or demands for any CFPB information, whether contained in the files of the CFPB or acquired by a CFPB employee as part of the performance of that employee's duties or by virtue of employee's official status.
+(a) This subpart sets forth the procedures to be followed with respect to subpoenas, court orders, or other requests or demands for any CFPB information, whether contained in the files of the CFPB or acquired by a CFPB employee as part of the performance of that employee's duties or by virtue of employee's official status.
 
 (b) This subpart does not apply to requests for official information made pursuant to subparts B, D, and E of this part.
 
@@ -16,7 +12,7 @@
 
 (1) *Demand* means a subpoena or order for official information, whether contained in CFPB records or through testimony, related to or for possible use in a legal proceeding.
 
-(2) *Legal proceeding* encompasses all pre-trial, trial, and post-trial stages of all judicial or administrative actions, hearings, investigations, or similar proceedings before courts, commissions, boards, grand juries, arbitrators, or other judicial or quasi-judicial bodies or tribunals, whether criminal, civil, or administrative in nature, and whether foreign or domestic. This phrase includes all stages of discovery as well as formal or informal requests by attorneys or others involved in legal proceedings.
+(2) *Legal proceeding* encompasses all pre-trial, trial, and post-trial stages of all judicial or administrative actions, hearings, investigations, or similar proceedings before courts, commissions, boards, grand juries, arbitrators, or other judicial or quasi-judicial bodies or tribunals, whether criminal, civil, or administrative in nature, and whether foreign or domestic. This phrase includes all stages of discovery as well as formal or informal requests by attorneys, their agents, or others involved in legal proceedings.
 
 (3) *Official Information* means all information of any kind, however stored, that is in the custody and control of the CFPB or was acquired by CFPB employees, or former employees as part of their official duties or because of their official status while such individuals were employed by or served on behalf of the CFPB. Official information also includes any information acquired by CFPB employees or former employees while such individuals were engaged in matters related to consumer financial protection functions prior to the employees' transfer to the CFPB pursuant to Subtitle F of the Consumer Financial Protection Act of 2010.
 

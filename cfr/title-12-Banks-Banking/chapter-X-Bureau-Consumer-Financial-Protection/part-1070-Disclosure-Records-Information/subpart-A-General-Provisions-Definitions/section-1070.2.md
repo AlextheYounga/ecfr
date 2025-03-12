@@ -1,14 +1,12 @@
 ##### § 1070.2 General definitions. #####
 
-Link to an amendment published at 83 FR 46084, Sept. 12, 2018.
-
 For purposes of this part:
 
 (a) *Business day* means any day except Saturday, Sunday or a legal Federal holiday.
 
 (b) *CFPB* means the Bureau of Consumer Financial Protection.
 
-(c) *Chief FOIA Officer* means the Chief Operating Officer of the CFPB, or any CFPB employee to whom the Chief Operating Officer has delegated authority to act under this part.
+(c) *Chief FOIA Officer* means the Chief Operating Officer of the CFPB.
 
 (d) *Chief Operating Officer* means the Chief Operating Officer of the CFPB, or any CFPB employee to whom the Chief Operating Officer has delegated authority to act under this part.
 
@@ -53,3 +51,5 @@ For purposes of this part:
 (p) *State* means any State, territory, or possession of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, American Samoa, or the United States Virgin Islands or any Federally recognized Indian tribe, as defined by the Secretary of the Interior under section 104(a) of the Federally Recognized Indian Tribe List Act of 1994 (25 U.S.C. 479a-1(a)), and includes any political subdivision thereof.
 
 (q) *Supervised financial institution* means a financial institution that is or that may become subject to the CFPB's supervisory authority.
+
+[78 FR 11503, Feb. 15, 2013, as amended at 83 FR 46084, Sept. 12, 2018]

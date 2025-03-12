@@ -1,5 +1,7 @@
 ##### § 349.1 Authority, purpose, scope, exemptions and compliance dates. #####
 
+Link to an amendment published at 83 FR 50812, Oct. 10, 2018.
+
 (a) *Authority.* This subpart is issued by the Federal Deposit Insurance Corporation (FDIC) under section 4s(e) of the Commodity Exchange Act (7 U.S.C. 6s(e)), section 15F(e) of the Securities Exchange Act of 1934 (15 U.S.C. 78o-10(e)), and section 8 of the Federal Deposit Insurance Act (12 U.S.C. 1818).
 
 (b) *Purpose.* Section 4s of the Commodity Exchange Act (7 U.S.C. 6s) and section 15F of the Securities Exchange Act of 1934 (15 U.S.C. 78o-10) require the FDIC to establish capital and margin requirements for any FDIC-insured state-chartered bank that is not a member of the Federal Reserve System or FDIC-insured state-chartered savings association that is registered as a swap dealer, major swap participant, security-based swap dealer, or major security-based swap participant with respect to all non-cleared swaps and non-cleared security-based swaps. This subpart implements section 4s of the Commodity Exchange Act and section 15F of the Securities Exchange Act of 1934 by defining terms used in the statutes and related terms, establishing capital and margin requirements, and explaining the statutes' requirements.

@@ -1,5 +1,7 @@
 ##### § 51.1436 Color classifications. #####
 
+Link to an amendment published at 83 FR 50476, Oct. 9, 2018.
+
 (a) The skin color of pecan kernels may be described in terms of the color classifications provided in this section. When the color of kernels in a lot generally conforms to the “light” or “light amber” classification, that color classification may be used to describe the lot in connection with the grade.
 
 (1) “Light” means that the kernel is mostly golden color or lighter, with not more than 25 percent of the surface darker than golden, and none of the surface darker than light brown.

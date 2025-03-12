@@ -1,17 +1,13 @@
-##### § 1070.34 Procedure when testimony or production of documents is sought; general. #####
+##### § 1070.34 Procedure when response to demand is required prior to receiving instructions. #####
 
-(a) If, as part of a proceeding in which the United States or the CFPB is not a party, official information is sought through a demand for testimony, CFPB records, or other material, the party seeking such information must (except as otherwise required by Federal law or authorized by the General Counsel) set forth in writing:
+(a) If a response to a demand described in § 1070.33 is required before the General Counsel renders a decision, the CFPB will request that the appropriate CFPB attorney or an attorney of the Department of Justice, as appropriate, take steps to stay, postpone, or obtain relief from the demand pending decision. If necessary, the attorney will:
 
-(1) The title and forum of the proceeding, if applicable;
+(1) Appear with the employee upon whom the demand has been made;
 
-(2) A detailed description of the nature and relevance of the official information sought;
+(2) Furnish the court or other authority with a copy of the regulations contained in this subpart;
 
-(3) A showing that other evidence reasonably suited to the requester's needs is not available from any other source; and
+(3) Inform the court or other authority that the demand has been, or is being, as the case may be, referred for the prompt consideration of the appropriate CFPB official; and
 
-(4) If testimony is requested, the intended use of the testimony, a general summary of the desired testimony, and a showing that no document could be provided and used in lieu of testimony.
+(4) Request the court or authority to stay the demand pending receipt of the requested instructions.
 
-(b) To the extent he or she deems necessary or appropriate, the General Counsel may also require from the party seeking such information a plan of all reasonably foreseeable demands, including but not limited to the names of all employees and former employees from whom discovery will be sought, areas of inquiry, expected duration of proceedings requiring oral testimony, identification of potentially relevant documents, or any other information deemed necessary to make a determination. The purpose of this requirement is to assist the General Counsel in making an informed decision regarding whether testimony or the production of documents or material should be authorized.
-
-(c) The General Counsel may consult or negotiate with an attorney for a party, or the party if not represented by an attorney, to refine or limit a request or demand so that compliance is less burdensome.
-
-(d) The General Counsel will notify the CFPB employee and such other persons as circumstances may warrant of his or her decision regarding compliance with the request or demand.
+(b) In the event that an immediate demand for production or disclosure is made in circumstances which would preclude the proper designation or appearance of an attorney of the CFPB or the Department of Justice on the employee's behalf, the employee, if necessary, shall request from the demanding court or authority a reasonable stay of proceedings for the purpose of obtaining instructions from the General Counsel.

@@ -1,5 +1,7 @@
 ##### § 624.1 Authority, purpose, scope, exemptions and compliance dates. #####
 
+Link to an amendment published at 83 FR 50813, Oct. 10, 2018.
+
 (a) *Authority.* This part is issued by the Farm Credit Administration (FCA) under section 4s(e) of the Commodity Exchange Act (7 U.S.C. 6s(e)), section 15F(e) of the Securities Exchange Act of 1934 (15 U.S.C. 78o-10(e)), and sections 4.3, 5.9, 5.17, and 8.32 of the Farm Credit Act (12 U.S.C. 2154, 12 U.S.C. 2243, 12 U.S.C. 2252, and 12 U.S.C. 2279bb-1).
 
 (b) *Purpose.* Section 4s of the Commodity Exchange Act (7 U.S.C. 6s) and section 15F of the Securities Exchange Act of 1934 (15 U.S.C. 78o-10) require the FCA to establish capital and margin requirements for any System institution, including the Federal Agricultural Mortgage Corporation, chartered under the Farm Credit Act of 1971, as amended (12 U.S.C. 2001 *et seq.*) that is registered as a swap dealer, major swap participant, security-based swap dealer, or major security-based swap participant with respect to all non-cleared swaps and non-cleared security-based swaps. This regulation implements section 4s of the Commodity Exchange Act and section 15F of the Securities Exchange Act of 1934 by defining terms used in the statute and related terms, establishing capital and margin requirements, and explaining the statutes' requirements.

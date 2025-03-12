@@ -1,5 +1,7 @@
 ##### § 400.161 Definitions. #####
 
+Link to an amendment published at 83 FR 51302, Oct. 11, 2018.
+
 In addition to the terms defined in the Standard Reinsurance Agreement, the following terms as used in this rule are defined to mean:
 
 (a) *Annual Statutory Financial Statement* means the annual financial statement of an insurer prepared in accordance with Statutory Accounting Principles and submitted to the state insurance department if required by any state in which the insurer is licensed.
