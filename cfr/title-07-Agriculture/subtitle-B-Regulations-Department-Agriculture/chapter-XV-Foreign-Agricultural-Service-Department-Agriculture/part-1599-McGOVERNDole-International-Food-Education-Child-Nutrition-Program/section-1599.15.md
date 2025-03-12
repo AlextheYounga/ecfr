@@ -1,3 +1,15 @@
-##### § 1599.15 Noncompliance with an agreement. #####
+##### § 1599.15 Subrecipients. #####
 
-If a recipient fails to comply with a Federal statute or regulation or the terms and conditions of the agreement, and FAS determines that the noncompliance cannot be remedied by imposing additional conditions, FAS may take one or more of the actions set forth in 2 CFR 200.338, including initiating a claim as a remedy. FAS may also initiate a claim against a recipient if the donated commodities are damaged or lost, or the sale proceeds, goods received through barter, FAS-provided funds, interest, or program income are misused or lost, due to an action or omission of the recipient.
+(a) A recipient may utilize the services of a subrecipient to implement activities under the agreement if this is provided for in the agreement. The subrecipient may receive donated commodities or procured commodities, sale proceeds, FAS-provided funds, program income, or other resources from the recipient for this purpose. The recipient must enter into a written subagreement with the subrecipient and comply with the applicable provisions of 2 CFR 200.331. The recipient must provide a copy of such subagreement to FAS, in the manner set forth in the agreement, prior to the transfer of any donated commodities or procured commodities, sale proceeds, FAS-provided funds, or program income to the subrecipient.
+
+(b) A recipient must include the following requirements in a subagreement:
+
+(1) The subrecipient is required to comply with the applicable provisions of this part and 2 CFR parts 200 and 400. The applicable provisions are those that relate specifically to subrecipients, as well as those relating to non-Federal entities that impose requirements that would be reasonable to pass through to a subrecipient because they directly concern the implementation by the subrecipient of one or more activities under the agreement. If there is a question about whether a particular provision is applicable, FAS will make the determination.
+
+(2) The subrecipient is prohibited from using sale proceeds, FAS-provided funds, interest, or program income to acquire goods and services, either directly or indirectly through another party, in a manner that violates a U.S. Government economic sanction program, as specified in the agreement.
+
+(3) The subrecipient must pay to the recipient the value of any donated commodities or procured commodities, sale proceeds, FAS-provided funds, interest, or program income that are not used in accordance with the subagreement, or that are lost, damaged, or misused as a result of the subrecipient's failure to exercise reasonable care.
+
+(4) In accordance with § 1599.19 and 2 CFR 200.501(h), a description of the applicable compliance requirements and the subrecipient's compliance responsibility. Methods to ensure compliance may include pre-award audits, monitoring during the agreement, and post-award audits.
+
+(c) A recipient must monitor the actions of a subrecipient as necessary to ensure that donated commodities or procured commodities, sale proceeds, FAS-provided funds, and program income provided to the subrecipient are used for authorized purposes in compliance with applicable U.S. Federal laws and regulations and the subagreement and that performance indicator targets are achieved for both activities and results under the agreement.

@@ -1,5 +1,7 @@
 ##### § 61.54 Composition of tariffs. #####
 
+Link to an amendment published at 84 FR 65016, Nov. 26, 2019.
+
 (a) Tariffs must contain in consecutive order: A title page; check sheet; table of contents; list of concurring, connecting, and other participating carriers; explanation of symbols and abbreviations; application of tariff; general rules (including definitions), regulations, exceptions and conditions; and rates. If the issuing carrier elects to add a section assisting in the use of the tariff, it should be placed immediately after the table of contents.
 
 (b) The title page of every tarif\_f and supplement must show:

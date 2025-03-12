@@ -1,49 +1,53 @@
-##### § 1599.9 Damage to or loss of donated commodities. #####
+##### § 1599.9 Entry, handling, and labeling of donated or procured commodities and notification requirements. #####
 
-(a) FAS will be responsible for the donated commodities prior to the transfer of title to the commodities to the recipient. The recipient will be responsible for the donated commodities following the transfer of title to the donated commodities to the recipient. The title will transfer as specified in the agreement.
+(a) A recipient must make all necessary arrangements for receiving in the target country the donated commodities and any procured commodities obtained through regional procurement, including obtaining appropriate approvals for entry and transit. The recipient must make arrangements with the target country government for all donated commodities that will be distributed to beneficiaries, and all procured commodities, to be imported and distributed free from all customs duties, tolls, and taxes. A recipient is encouraged to make similar arrangements, where possible, with the government of a country where donated commodities to be sold or bartered are delivered.
 
-(b) A recipient must inform FAS, in the manner and within the time period set forth in the agreement, of any damage to or loss of the donated commodities that occurs following the transfer of title to the donated commodities to the recipient. The recipient must take all steps necessary to protect its interests and the interests of FAS with respect to any damage to or loss of the donated commodities that occurs after title has been transferred to the recipient.
+(b) A recipient must, as provided in the agreement, arrange for transporting, storing, and distributing the donated commodities or procured commodities from the designated point and time where title to the donated commodities or procured commodities passes to the recipient.
 
-(c) A recipient will be responsible for arranging for an independent cargo surveyor to inspect the donated commodities upon discharge from the ocean carrier and prepare a survey or outturn report. The report must show the quantity and condition of the donated commodities discharged from the ocean carrier and must indicate the most likely cause of any damage noted in the report. The report must also indicate the time and place when the survey took place. All discharge surveys must be conducted contemporaneously with the discharge of the ocean carrier, unless FAS determines that failure to do so was justified under the circumstances. For donated commodities shipped on a through bill of lading, the recipient must also obtain a delivery survey. All surveys obtained by the recipient must, to the extent practicable, be conducted jointly by the surveyor, the recipient, and the carrier, and the survey report must be signed by all three parties. The recipient must obtain a copy of each discharge or delivery survey report within 45 days after the completion of the survey. The recipient must make each such report available to FAS upon request, or in the manner specified in the agreement. FAS will reimburse the recipient for the reasonable costs of these services, as determined by FAS, in the manner specified in the agreement.
+(c)(1) A recipient must store and maintain the donated commodities in good condition from the time of delivery at the port of entry or the point of receipt from the originating carrier until their distribution, sale, or barter.
 
-(d) If donated commodities are damaged or lost during the time that they are in the care of the ocean carrier:
+(2) A recipient must store and maintain the procured commodities in good condition from the time of delivery at the port of entry or the point of receipt from the commodity vendor(s) until their distribution.
 
-(1) The recipient must ensure that any reports, narrative chronology, or other commentary prepared by the independent cargo surveyor, and any such documentation prepared by a port authority, stevedoring service, or customs official, or an official of the transit or target country government or the transportation company, are provided to FAS;
+(d)(1) If a recipient arranges for the packaging or repackaging of donated commodities that are to be distributed, the recipient must ensure that the packaging:
 
-(2) The recipient must provide to FAS the names and addresses of any individuals known to be present at the time of discharge or unloading, or during the survey, who can verify the quantity of damaged or lost donated commodities;
+(i) Is plainly labeled in the language of the target country;
 
-(3) If the damage or loss occurred with respect to a bulk shipment on an ocean carrier, the recipient must ensure that the independent cargo surveyor:
+(ii) Contains the name of the donated commodities;
 
-(i) Observes the discharge of the cargo;
+(iii) Includes a statement indicating that the donated commodities are furnished by the United States Department of Agriculture; and
 
-(ii) Reports on discharging methods, including scale type, calibrations, and any other factors that may affect the accuracy of scale weights, and, if scales are not used, states the reason therefor and describes the actual method used to determine weight;
+(iv) Includes a statement indicating that the donated commodities must not be sold, exchanged, or bartered.
 
-(iii) Estimates the quantity of cargo, if any, lost during discharge through carrier negligence;
+(2) If a recipient arranges for the processing and repackaging of donated commodities that are to be distributed, the recipient must ensure that the packaging:
 
-(iv) Advises on the quality of sweepings;
+(i) Is plainly labeled in the language of the target country;
 
-(v) Obtains copies of port or ocean carrier records, if possible, showing the quantity discharged; and
+(ii) Contains the name of the processed product;
 
-(vi) Notifies the recipient immediately if the surveyor has reason to believe that the correct quantity was not discharged or if additional services are necessary to protect the cargo; and
+(iii) Includes a statement indicating that the processed product was made with commodities furnished by the United States Department of Agriculture; and
 
-(4) If the damage or loss occurred with respect to a container shipment on an ocean carrier, the recipient must ensure that the independent cargo surveyor lists the container numbers and seal numbers shown on the containers, indicates whether the seals were intact at the time the containers were opened, and notes whether the containers were in any way damaged.
+(iv) Includes a statement indicating that the processed product must not be sold, exchanged, or bartered.
 
-(e) If a recipient has title to the donated commodities, and donated commodities valued in excess of $5,000 are damaged at any time prior to their distribution or sale under the agreement, regardless of the party at fault, the recipient must immediately arrange for an inspection by a public health official or other competent authority approved by FAS and provide to FAS a certification by such public health official or other competent authority regarding the exact quantity and condition of the damaged donated commodities. The value of damaged donated commodities must be determined on the basis of the commodity acquisition, transportation, and related costs incurred by FAS with respect to such commodities, as well as such costs incurred by the recipient and paid by FAS. The recipient must inform FAS of the results of the inspection and indicate whether the damaged donated commodities are:
+(3) If a recipient arranges for the packaging or repackaging of procured commodities, the recipient must ensure that the packaging:
 
-(1) Fit for the use authorized in the agreement and, if so, whether there has been a diminution in quality; or
+(i) Is plainly labeled in the language of the target country;
 
-(2) Unfit for the use authorized in the agreement.
+(ii) Contains the name of the procured commodities;
 
-(f)(1) If a recipient has title to the donated commodities, the recipient must arrange for the recovery of that portion of the donated commodities designated as fit for the use authorized in the agreement. The recipient must dispose of donated commodities that are unfit for such use in the following order of priority:
+(iii) Contains the name of the country of origin;
 
-(i) Sale for the most appropriate use, *i.e.,* animal feed, fertilizer, industrial use, or another use approved by FAS, at the highest obtainable price;
+(iv) Includes a statement indicating that the procured commodities are furnished through a project funded by the United States Department of Agriculture; and
 
-(ii) Donation to a governmental or charitable organization for use as animal feed or another non-food use; or
+(v) Includes a statement indicating that the procured commodities must not be sold, bartered, or exchanged.
 
-(iii) Destruction of the donated commodities if they are unfit for any use, in such manner as to prevent their use for any purpose.
+(4)(i) If a recipient distributes donated commodities that are not packaged, the recipient must display a sign at the distribution site that includes the name of the donated commodities, a statement indicating that the commodities are being furnished by the United States Department of Agriculture, and a statement indicating that the donated commodities must not be sold, bartered, or exchanged.
 
-(2) A recipient must arrange for all U.S. Government markings to be obliterated or removed before the donated commodities are transferred by sale or donation under paragraph (f)(1) of this section.
+(ii) If a recipient distributes procured commodities that are prepackaged or not packaged, the recipient must display a sign at the distribution site that includes the name of the procured commodities, the country of origin, a statement indicating that the procured commodities are being furnished through a project funded by the United States Department of Agriculture, and a statement indicating that the procured commodities must not be sold, bartered, or exchanged.
 
-(g) A recipient may retain any proceeds generated by the disposal of the donated commodities in accordance with paragraph (f)(1) of this section and must use the retained proceeds for expenses related to the disposal of the donated commodities and for activities specified in the agreement.
+(e) A recipient must ensure that signs are displayed at all activity implementation and commodity distribution sites to inform beneficiaries that funding for the project was provided by the United States Department of Agriculture.
 
-(h) A recipient must notify FAS immediately and provide detailed information about the actions taken in accordance with paragraph (f) of this section, including the quantities, values, and dispositions of donated commodities determined to be unfit.
+(f) A recipient must also ensure that all public communications relating to the project, the activities, or the donated commodities or procured commodities, whether made through print, broadcast, digital, or other media, include a statement acknowledging that funding was provided by the United States Department of Agriculture.
+
+(g) FAS may waive compliance with one or more of the labeling and notification requirements in paragraphs (d), (e), and (f) of this section if a recipient demonstrates to FAS that the requirement presents a safety or security risk in the target country. If a recipient determines that compliance with a labeling or notification requirement poses an imminent threat of destruction of property, injury, or loss of life, the recipient must submit a waiver request to FAS as soon as possible. The recipient will not have to comply with such requirement during the period prior to the issuance of a waiver determination by FAS. A recipient may submit a written request for a waiver at any time after the agreement has been signed.
+
+(h) In exceptional circumstances, FAS may, on its own initiative, waive one or more of the labeling and notification requirements in paragraphs (d), (e), and (f) of this section for programmatic reasons.

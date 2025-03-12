@@ -1,37 +1,31 @@
-##### § 1599.12 Monitoring and evaluation requirements. #####
+##### § 1599.12 Use of donated or procured commodities, sale proceeds, FAS-provided funds, and program income. #####
 
-(a) A recipient will be responsible for designing a performance monitoring plan for the project, obtaining written approval of the plan from FAS before putting it into effect, and managing and implementing the plan, unless otherwise specified in the agreement.
+(a) A recipient must use the donated commodities or procured commodities, any sale proceeds, FAS-provided funds, interest, and program income in accordance with the agreement.
 
-(b) A recipient must establish baseline values, annual targets, and life of activity targets for each performance indicator included in the recipient's approved performance monitoring plan, unless otherwise specified in the agreement.
+(b) A recipient must not use donated commodities or procured commodities, sale proceeds, FAS-provided funds, interest, or program income for any activity or any expense incurred by the recipient or a subrecipient prior to the start date of the period of performance of the agreement or after the agreement is suspended or terminated, without the prior written approval of FAS.
 
-(c) A recipient must inform FAS, in the manner and within the time period specified in the agreement, of any problems, delays, or adverse conditions that materially impair the recipient's ability to meet the objectives of the agreement. This notification must include a statement of any corrective actions taken or contemplated by the recipient, and any additional assistance requested from FAS to resolve the situation.
+(c) A recipient must not permit the distribution, handling, or allocation of donated commodities or procured commodities on the basis of political affiliation, geographic location, or the ethnic, tribal, or religious identity or affiliation of the potential consumers or beneficiaries.
 
-(d) A recipient will be responsible for designing an evaluation plan for the project, obtaining written approval of the plan from FAS before putting it into effect, and arranging for an independent third party to implement the evaluation, unless otherwise specified in the agreement. This evaluation plan will detail the evaluation purpose and scope, key evaluation questions, evaluation methodology, time frame, evaluation management, and cost. This plan will generally be based upon the evaluation plan that the recipient submitted to FAS as part of its application, pursuant to § 1599.4(b)(6), unless the notice of funding opportunity specified that an evaluation plan was not required to be included in the application. The recipient must ensure that the evaluation plan:
+(d) A recipient must not permit the distribution, handling, or allocation of donated commodities or procured commodities by the military forces of any government or insurgent group without the specific authorization of FAS.
 
-(1) Is designed using the most rigorous methodology that is appropriate and feasible, taking into account available resources, strategy, current knowledge and evaluation practices in the sector, and the implementing environment;
+(e) A recipient must not use sale proceeds, FAS-provided funds, interest, or program income to acquire goods and services, either directly or indirectly through another party, in a manner that violates a U.S. Government economic sanction program, as specified in the agreement.
 
-(2) Is designed to inform management, activity implementation, and strategic decision-making;
+(f)(1) A recipient may sell or barter donated commodities only if such sale or barter is provided for in the agreement or the recipient is disposing of damaged donated commodities as specified in § 1599.10(g). The recipient must sell donated commodities at a reasonable market price. The recipient must obtain approval of its proposed sale price from FAS before selling donated commodities. The recipient must use any sale proceeds, interest, program income, or goods or services derived from the sale or barter of the donated commodities only as provided in the agreement.
 
-(3) Utilizes analytical approaches and methodologies, based on the questions to be addressed, project design, budgetary resources available, and level of rigor and evidence required, which may be implemented through methods such as case studies, surveys, quasi-experimental designs, randomized field experiments, cost-effectiveness analyses, implementation reviews, or a combination of methods;
+(2) A recipient may sell procured commodities only if the recipient is disposing of damaged procured commodities as specified in § 1599.10(g).
 
-(4) Adheres to generally accepted evaluation standards and principles;
+(g) A recipient must deposit and maintain all sale proceeds, FAS-provided funds, and program income in a bank account until they are used for a purpose authorized under the agreement or the FAS-provided funds are returned to FAS in accordance with § 1599.7(f)(6). The account must be insured unless it is in a country where insurance is unavailable. The account must be interest-bearing, unless one of the exceptions in 2 CFR 200.305(b)(8) applies or FAS determines that the requirement in this paragraph (g) would constitute an undue burden. The recipient must comply with the requirements in § 1599.7(f)(7) with regard to the deposit of advance payments by FAS.
 
-(5) Uses participatory approaches that seek to include the perspectives of diverse parties and all relevant stakeholders; and
+(h)(1) Except as provided in paragraph (h)(2) of this section, a recipient may make adjustments within the agreement budget between direct cost line items without further approval, provided that the total amount of adjustments does not exceed the amount specified in the agreement. Adjustments beyond the limits in this paragraph (h) require the prior approval of FAS.
 
-(6) Where possible, utilizes local consultants and seeks to build local capacity in evaluation.
+(2) A recipient must not transfer any funds budgeted for participant support costs, as defined in 2 CFR 200.75, to other categories of expense without the prior approval of FAS.
 
-(e)(1) Unless otherwise provided in the agreement, a recipient must arrange for evaluations of the project to be conducted by an independent third party that:
+(i) A recipient may use sale proceeds, FAS-provided funds, or program income to purchase real or personal property only if local law permits the recipient to retain title to such property. However, a recipient must not use sale proceeds, FAS-provided funds, or program income to pay for the acquisition, development, construction, alteration or upgrade of real property that is:
 
-(i) Is financially and legally separate from the recipient's organization; and
+(1) Owned or managed by a church or other organization engaged exclusively in religious pursuits; or
 
-(ii) Has staff with demonstrated methodological, cultural and language competencies, and specialized experience in conducting evaluations of international development programs involving agriculture, trade, education, and nutrition, provided that FAS may determine that, for a particular agreement, the staff of the independent third party evaluator is not required to have specialized experience in conducting evaluations of programs involving one or more of these four areas.
+(2) Used in whole or in part for sectarian purposes, except that a recipient may use sale proceeds, FAS-provided funds, or program income to pay for repairs to or rehabilitation of a structure located on such real property to the extent necessary to avoid spoilage or loss of donated commodities or procured commodities, but only if the structure is not used in whole or in part for any religious or sectarian purposes while the donated commodities or procured commodities are stored in it. If the use of sale proceeds, FAS-provided funds, or program income to pay for repairs to or rehabilitation of such a structure is not specifically provided for in the agreement, the recipient must not use the sale proceeds, FAS-provided funds, or program income for this purpose until it receives written approval from FAS.
 
-(2) A recipient must provide a written certification to FAS that there is no real or apparent conflict of interest on the part of any recipient staff member or third party entity designated or hired to play a substantive role in the evaluation of activities under the agreement.
+(j) A recipient must comply with 2 CFR 200.321 when procuring goods and services in the United States. When procuring goods and services outside of the United States, a recipient should endeavor to comply with 2 CFR 200.321 where practicable.
 
-(f) FAS will be considered a key stakeholder in all evaluations conducted as part of the agreement.
-
-(g)(1) A recipient is responsible for establishing the required financial and human capital resources for monitoring and evaluation of activities under the agreement. The recipient must maintain a separate budget for monitoring and evaluation, with separate budget line items for dedicated recipient monitoring and evaluation staff and independent third-party evaluation contracts.
-
-(2) Personnel at a recipient's headquarters offices and field offices with specialized expertise and experience in monitoring and evaluation may be used by the recipient for dedicated monitoring and evaluation. Unless otherwise specified in the agreement or approved evaluation plan, all evaluations must be managed by the recipient's evaluation experts outside of the recipient's line management for the activities.
-
-(h) FAS may independently conduct or commission an evaluation of a single agreement or an evaluation that includes multiple agreements. A recipient must cooperate, and comply with any demands for information or materials made in connection, with any evaluation conducted or commissioned by FAS. Such evaluations may be conducted by FAS internally or by an FAS-hired external evaluation contractor.
+(k) A recipient must enter into a written contract with each provider of goods, services, or construction work that is valued at or above the Simplified Acquisition Threshold. Each such contract must require the provider to maintain adequate records to account for all donated commodities, funds, or both furnished to the provider by the recipient and to comply with any other applicable requirements that may be specified by FAS in the agreement. The recipient must submit a copy of each signed contract to FAS, as specified in the agreement.

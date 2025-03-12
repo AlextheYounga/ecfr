@@ -1,5 +1,7 @@
 ##### § 61.74 References to other instruments. #####
 
+Link to an amendment published at 84 FR 65016, Nov. 26, 2019.
+
 (a) Except as otherwise provided in this and other sections of this part, no tariff publication filed with the Commission may make reference to any other tariff publication or to any other document or instrument.
 
 (b) Tariffs for end-on-end through services may reference the tariffs of other carriers participating in the offering.

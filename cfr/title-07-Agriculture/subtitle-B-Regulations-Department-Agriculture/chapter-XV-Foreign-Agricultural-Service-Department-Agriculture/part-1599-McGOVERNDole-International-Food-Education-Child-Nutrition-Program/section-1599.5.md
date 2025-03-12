@@ -28,27 +28,31 @@
 
 (vi) Any subrecipient that will be involved in the implementation of the activities, and the criteria for selecting a subrecipient that has not yet been identified;
 
-(vii) Any other governmental or nongovernmental entities that will be involved in the implementation of the activities;
+(vii) Any other governmental or nongovernmental entities that will be involved in the implementation of the activities; and
 
-(viii) Any processing, packaging or repackaging of the donated commodities that will take place prior to their distribution, sale or barter by the recipient; and
+(viii) Any processing, packaging, or repackaging of the donated commodities or procured commodities that will take place prior to the distribution, sale, or barter of the donated commodities, or the distribution of the procured commodities, by the recipient;
 
-(ix) Any additional provisions specified by FAS during the negotiation of the agreement;
+(3) A budget, which will set forth the maximum amounts of sale proceeds, FAS-provided funds, interest, program income, and voluntary committed cost sharing or matching contributions that may be used for each line item, as well as other applicable budget requirements;
 
-(3) A budget, which will set forth the maximum amounts of sale proceeds, FAS-provided funds, interest, program income, and voluntary committed cost sharing or matching contributions that may be used for each line item, as well as other applicable budget requirements; and
+(4) Performance goals for the agreement, including a list of results, with long-term benefits where applicable, to be achieved by the activities and corresponding indicators, targets, and time frames;
 
-(4) Performance goals for the agreement, including a list of results, with long-term benefits where applicable, to be achieved by the activities and corresponding indicators, targets, and time frames.
+(5) Requirements relating to any local or regional procurement of qualified commodities authorized in the agreement, as set forth in § 1599.6; and
+
+(6) Any additional provisions specified by FAS during the negotiation of the agreement.
 
 (e) The agreement will also include specific terms and conditions, and certifications and representations, including the following:
 
-(1) The agreement will prohibit the sale or transshipment of the donated commodities by the recipient to a country not specified in the agreement for as long as the recipient has title to such donated commodities;
+(1) The agreement will prohibit the sale, resale, or transshipment of the donated commodities or procured commodities by the recipient to a country not specified in the agreement, or the use of the donated commodities for other than domestic purposes, for as long as the recipient has title to such donated commodities or procured commodities;
 
-(2) The recipient will assert that it has taken action to ensure that any donated commodities that will be distributed to beneficiaries will be imported and distributed free from all customs, duties, tolls, and taxes. The recipient must submit information to FAS to support this assertion;
+(2) The agreement will prohibit the use of procured commodities, if applicable, for any purpose other than food assistance;
 
-(3) The recipient will assert that, to the best of its knowledge, the importation and distribution of the donated commodities in the target country will not result in a substantial disincentive to or interference with domestic production or marketing in that country. The recipient must submit information to FAS to support this assertion;
+(3) The recipient will assert that it has taken action to ensure that any donated commodities that will be distributed to beneficiaries, and any qualified commodities that will be obtained through regional procurement, will be imported free from all customs, duties, tolls, and taxes; and all donated commodities and procured commodities will be distributed free from all customs, duties, tolls, and taxes. The recipient must submit information to FAS to support this assertion;
 
-(4) The recipient will assert that, to the best of its knowledge, any sale or barter of the donated commodities will not displace or interfere with any sales of like commodities that may otherwise be made within the target country. The recipient must submit information to FAS to support this assertion; and
+(4) The recipient will assert that, to the best of its knowledge, the importation, if applicable, and distribution of the donated commodities or procured commodities in the target country will not result in a substantial disincentive to or interference with domestic production or marketing in that country. The recipient must submit information to FAS to support this assertion;
 
-(5) The recipient will assert that adequate transportation and storage facilities will be available in the target country to prevent spoilage or waste of the donated commodities. The recipient must submit information to FAS to support this assertion.
+(5) The recipient will assert that, to the best of its knowledge, any sale or barter of the donated commodities will not displace or interfere with any sales of United States commodities that may otherwise be made to or within the target country. The recipient must submit information to FAS to support this assertion; and
+
+(6) The recipient will assert that adequate transportation and storage facilities will be available in the target country at the time of the arrival of the donated commodities, or any procured commodities obtained through regional procurement, to prevent spoilage or waste of the donated commodities or procured commodities. The recipient must submit information to FAS to support this assertion.
 
 (f) FAS may enter into a multicountry agreement in which donated commodities are delivered to one country and activities are carried out in another.
 

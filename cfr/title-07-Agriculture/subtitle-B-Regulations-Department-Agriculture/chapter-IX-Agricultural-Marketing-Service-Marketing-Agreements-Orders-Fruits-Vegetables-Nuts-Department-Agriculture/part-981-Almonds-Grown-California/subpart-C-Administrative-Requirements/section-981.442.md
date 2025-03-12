@@ -1,5 +1,7 @@
 ##### § 981.442 Quality control. #####
 
+Link to an amendment published at 84 FR 64969, Nov. 26, 2019.
+
 (a) *Incoming.* Pursuant to § 981.42(a), the quantity of inedible kernels in each variety of almonds received by a handler, including almonds of his own production, shall be determined and disposed of in accordance with the provisions of this paragraph.
 
 (1) *Sampling.* Each handler shall cause a representative sample of almonds to be drawn from each lot of any variety received. The sample shall be drawn before inedible kernels are removed from the lot, or the lot is processed or stored by the handler. For receipts at premises with mechanical sampling equipment and under contracts providing for payment by the handler to the producer for sound meat content, samples shall be drawn by the handler in a manner acceptable to the Board and the inspection agency. The inspection agency shall make periodic checks of the mechanical sampling procedures. For all other receipts, including but not limited to field examination and purchase receipts, accumulations purchased for cash at the handler's door or from an accumulator, or almonds of the handler's own production, sampling shall be conducted or monitored by the inspection agency in a manner acceptable to the Board. All samples shall be bagged and identified in a manner acceptable to the Board and the inspection agency.

@@ -18,6 +18,6 @@
 
 (6) Notice and comment procedures: In exercising its authority to require different or additional stress tests and different or additional scenarios (including components for the scenarios) under paragraph (c)(2) of this section, the Corporation will apply notice and response procedures in the same manner and to the same extent as the notice and response procedures in 12 CFR 324.5, as appropriate.
 
-(7) Nothing in this subpart limits the authority of the Corporation under any other provision of law or regulation to take supervisory or enforcement action, including action to address unsafe and unsound practices or conditions, or violations of law or regulation.
+(7) Nothing in this part limits the authority of the Corporation under any other provision of law or regulation to take supervisory or enforcement action, including action to address unsafe and unsound practices or conditions, or violations of law or regulation.
 
-[77 FR 62424, Oct. 15, 2012. Redesignated and amended at 83 FR 17740, Apr. 24, 2018; 84 FR 56933, Oct. 24, 2019]
+[77 FR 62424, Oct. 15, 2012. Redesignated and amended at 83 FR 17740, Apr. 24, 2018; 84 FR 56933, Oct. 24, 2019; 84 FR 64985, Nov. 26, 2019]

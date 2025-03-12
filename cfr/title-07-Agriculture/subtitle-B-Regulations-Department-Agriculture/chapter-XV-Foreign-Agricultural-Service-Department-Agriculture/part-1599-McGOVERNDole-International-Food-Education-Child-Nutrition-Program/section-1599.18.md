@@ -1,19 +1,9 @@
-##### § 1599.18 Audit requirements. #####
+##### § 1599.18 Opportunities to object and appeals. #####
 
-(a) Subpart F, Audit Requirements, of 2 CFR part 200 applies to recipients and subrecipients under this part other than those that are for-profit entities, foreign public entities, or foreign organizations.
+(a) FAS will provide an opportunity to a recipient to object to, and provide information and documentation challenging, any action taken by FAS pursuant to § 1599.16. FAS will comply with any requirements for hearings, appeals, or other administrative proceedings to which the recipient is entitled under any other statute or regulation applicable to the action involved. For example, if the action taken by FAS pursuant to § 1599.16 is to initiate suspension or debarment proceedings as authorized under 2 CFR parts 180 and 417, then the requirements in 2 CFR parts 180 and 417 will apply instead of the requirements in this section. In the absence of other applicable statutory or regulatory requirements, the requirements set forth in this section will apply.
 
-(b) A recipient or subrecipient that is a for-profit entity or a foreign organization, and that expends, during its fiscal year, a total of at least the audit requirement threshold in 2 CFR 200.501 in Federal awards, is required to obtain an audit. Such a recipient or subrecipient has the following two options to satisfy this requirement:
+(b) The recipient must submit its objection in writing, along with any documentation, to the official specified in the agreement within 30 days after the date of FAS's written notification to the recipient of the FAS action being challenged. This official will endeavor to notify the recipient of his or her determination (the initial determination) within 60 days after the date that FAS received the recipient's written objection.
 
-(1)(i) A financial audit of the agreement or subagreement, in accordance with the Government Auditing Standards issued by the United States Government Accountability Office (GAO), if the recipient or subrecipient expends Federal awards under only one FAS program during such fiscal year; or
+(c) The recipient may appeal the initial determination to the Administrator, FAS. An appeal must be in writing and be submitted to the Office of the Administrator within 30 days after the date of the initial determination. The recipient may submit additional documentation with its appeal.
 
-(ii) A financial audit of all Federal awards from FAS, in accordance with GAO's Government Auditing Standards, if the recipient or subrecipient expends Federal awards under multiple FAS programs during such fiscal year; or
-
-(2) An audit that meets the requirements contained in subpart F of 2 CFR part 200.
-
-(c) A recipient or subrecipient that is a for-profit entity or a foreign organization, and that expends, during its fiscal year, a total that is less than the audit requirement threshold in 2 CFR 200.501 in Federal awards, is exempt from requirements under this section for an audit for that year, except as provided in paragraphs (d) and (f) of this section, but it must make records available for review by appropriate officials of Federal agencies.
-
-(d) FAS may require an annual financial audit of an agreement or subagreement when the audit requirement threshold in 2 CFR 200.501 is not met. In that case, FAS must provide funds under the agreement for this purpose, and the recipient or subrecipient, as applicable, must arrange for such audit and submit it to FAS.
-
-(e) When a recipient or subrecipient that is a for-profit entity or a foreign organization is required to obtain a financial audit under this section, it must provide a copy of the audit to FAS within 60 days after the end of its fiscal year.
-
-(f) FAS, the USDA Office of Inspector General, or GAO may conduct or arrange for additional audits of any recipients or subrecipients, including for-profit entities and foreign organizations. Recipients and subrecipients must promptly comply with all requests related to such audits. If FAS conducts or arranges for an additional audit, such as an audit with respect to a particular agreement, FAS will fund the full cost of such an audit, in accordance with 2 CFR 200.503(d).
+(d) The Administrator will base the determination on appeal upon information contained in the administrative record and will endeavor to make a determination within 60 days after the date that FAS received the appeal. The determination of the Administrator will be the final determination of FAS. The recipient must exhaust all administrative remedies contained in this section before pursuing judicial review of a determination by the Administrator.

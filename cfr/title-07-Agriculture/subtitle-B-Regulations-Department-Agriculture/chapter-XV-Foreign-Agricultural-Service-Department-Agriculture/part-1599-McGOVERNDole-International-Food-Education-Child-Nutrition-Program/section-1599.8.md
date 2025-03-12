@@ -1,37 +1,21 @@
-##### § 1599.8 Entry, handling, and labeling of donated commodities and notification requirements. #####
+##### § 1599.8 Transportation of donated or procured commodities. #####
 
-(a) A recipient must make all necessary arrangements for receiving the donated commodities in the target country, including obtaining appropriate approvals for entry and transit. The recipient must make arrangements with the target country government for all donated commodities that will be distributed to beneficiaries to be imported and distributed free from all customs duties, tolls, and taxes. A recipient is encouraged to make similar arrangements, where possible, with the government of a country where donated commodities to be sold or bartered are delivered.
+(a) Shipments of donated commodities and procured commodities requiring ocean transportation are subject to the requirements of 46 U.S.C. 55305, regarding carriage on U.S.-flag vessels.
 
-(b) A recipient must, as provided in the agreement, arrange for transporting, storing, and distributing the donated commodities from the designated point and time where title to the donated commodities passes to the recipient.
+(b) Transportation of donated commodities and other goods such as bags that may be provided by FAS under the McGovern-Dole Program will be arranged for under a specific agreement in the manner determined by FAS. Such transportation will be arranged for by:
 
-(c) A recipient must store and maintain the donated commodities in good condition from the time of delivery at the port of entry or the point of receipt from the originating carrier until their distribution, sale or barter.
+(1) FAS in accordance with the Federal Acquisition Regulation (FAR) in 48 CFR chapter 1, the Agriculture Acquisition Regulation (AGAR) in 48 CFR chapter 4, and directives issued by the Director, Office of Procurement and Property Management, USDA; or
 
-(d)(1) If a recipient arranges for the packaging or repackaging of donated commodities that are to be distributed, the recipient must ensure that the packaging:
+(2) The recipient, with payment by FAS, in the manner specified in the agreement.
 
-(i) Is plainly labeled in the language of the target country;
+(c) A recipient must arrange for all transportation of procured commodities. FAS will pay for the transportation, as provided for in the agreement, through an advance payment or reimbursement to the recipient.
 
-(ii) Contains the name of the donated commodities;
+(d) A recipient that is responsible for arranging for the transportation of donated commodities or procured commodities must declare in the transportation contract the point at which the ocean carrier or overland transportation company will take custody of the donated commodities or procured commodities to be transported.
 
-(iii) Includes a statement indicating that the donated commodities are furnished by the United States Department of Agriculture; and
+(e) A recipient may only use the services of a transportation company that is legally operating in the country in which it will be transporting the donated commodities or procured commodities and that would not have a conflict of interest in transporting such donated commodities or procured commodities.
 
-(iv) Includes a statement indicating that the donated commodities must not be sold, exchanged or bartered.
+(f) A recipient that arranges for transportation in accordance with paragraph (b)(2) of this section may only use the services of a freight forwarder that is licensed by the Federal Maritime Commission and that would not have a conflict of interest in carrying out the freight forwarder duties. To assist FAS in determining whether there is a potential conflict of interest, the recipient must submit to FAS a certification indicating that the freight forwarder:
 
-(2) If a recipient arranges for the processing and repackaging of donated commodities that are to be distributed, the recipient must ensure that the packaging:
+(1) Is not engaged in, and will not engage in, supplying commodities or furnishing ocean transportation or ocean transportation-related services for commodities provided under any McGovern-Dole Program agreement to which the recipient is a party; and
 
-(i) Is plainly labeled in the language of the target country;
-
-(ii) Contains the name of the processed product;
-
-(iii) Includes a statement indicating that the processed product was made with commodities furnished by the United States Department of Agriculture; and
-
-(iv) Includes a statement indicating that the processed product must not be sold, exchanged or bartered.
-
-(3) If a recipient distributes donated commodities that are not packaged, the recipient must display a sign at the distribution site that includes the name of the donated commodities, a statement indicating that the donated commodities are being furnished by the United States Department of Agriculture, and a statement indicating that the donated commodities must not be sold, exchanged, or bartered.
-
-(e) A recipient must ensure that signs are displayed at all activity implementation and commodity distribution sites to inform beneficiaries that funding for the project was provided by the United States Department of Agriculture.
-
-(f) A recipient must also ensure that all public communications relating to the project, the activities, or the donated commodities, whether made through print, broadcast, digital, or other media, include a statement acknowledging that funding was provided by the United States Department of Agriculture.
-
-(g) FAS may waive compliance with one or more of the labeling and notification requirements in paragraphs (d), (e) and (f) of this section if a recipient demonstrates to FAS that the requirement presents a safety or security risk in the target country. If a recipient determines that compliance with a labeling or notification requirement poses an imminent threat of destruction of property, injury, or loss of life, the recipient must submit a waiver request to FAS as soon as possible. The recipient will not have to comply with such requirement during the period prior to the issuance of a waiver determination by FAS. A recipient may submit a written request for a waiver at any time after the agreement has been signed.
-
-(h) In exceptional circumstances, FAS may, on its own initiative, waive one or more of the labeling and notification requirements in paragraphs (d), (e) and (f) of this section for programmatic reasons.
+(2) Is not affiliated with the recipient and has not made arrangements to give or receive any payment, kickback, or illegal benefit in connection with its selection as an agent of the recipient.

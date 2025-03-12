@@ -1,9 +1,17 @@
-##### § 1599.17 Opportunities to object and appeals. #####
+##### § 1599.17 Suspension and termination of agreements. #####
 
-(a) FAS will provide an opportunity to a recipient to object to, and provide information and documentation challenging, any action taken by FAS pursuant to § 1599.15. FAS will comply with any requirements for hearings, appeals, or other administrative proceedings to which the recipient is entitled under any other statute or regulation applicable to the action involved. For example, if the action taken by FAS pursuant to § 1599.15 is to initiate suspension or debarment proceedings as authorized under 2 CFR parts 180 and 417, then the requirements in 2 CFR parts 180 and 417 will apply instead of the requirements in this section. In the absence of other applicable statutory or regulatory requirements, the requirements set forth in this section will apply.
+(a) An agreement or subagreement may be suspended or terminated in accordance with 2 CFR 200.338 or 200.339. FAS may suspend or terminate an agreement if it determines that:
 
-(b) The recipient must submit its objection in writing, along with any documentation, to the FAS official specified in the agreement within 30 days after the date of FAS's written notification to the recipient of the FAS action being challenged. This official will endeavor to notify the recipient of his or her determination within 60 days after the date that FAS received the recipient's written objection.
+(1) One of the bases in 2 CFR 200.338 or 200.339 for termination or suspension by FAS has been satisfied;
 
-(c) The recipient may appeal the determination of the official to the Administrator, FAS. An appeal must be in writing and be submitted to the Office of the Administrator within 30 days after the date of the initial determination by the FAS official. The recipient may submit additional documentation with its appeal.
+(2) The continuation of the assistance provided under the agreement is no longer necessary or desirable; or
 
-(d) The Administrator will base the determination on appeal upon information contained in the administrative record and will endeavor to make a determination within 60 days after the date that FAS received the appeal. The determination of the Administrator will be the final determination of FAS. The recipient must exhaust all administrative remedies contained in this section before pursuing judicial review of a determination by the Administrator.
+(3) Storage facilities are inadequate to prevent spoilage or waste, or distribution of the donated commodities or procured commodities will result in substantial disincentive to, or interference with, domestic production or marketing in the target country.
+
+(b) If an agreement is terminated, the recipient:
+
+(1) Is responsible for the security and integrity of any undistributed donated commodities or procured commodities and must dispose of such commodities only as agreed to by FAS;
+
+(2) Is responsible for any sale proceeds, FAS-provided funds, interest, or program income that have not been disbursed and must use or return them only as agreed to by FAS; and
+
+(3) Must comply with any closeout and post-closeout procedures specified in the agreement and 2 CFR 200.343 and 200.344.

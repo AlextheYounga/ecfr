@@ -1,6 +1,6 @@
 ##### § 325.3 Applicability. #####
 
-(a) *Covered banks subject to stress testing.* (1) A state nonmember bank or state savings association that is a covered bank as of December 31, 2019, is subject to the requirements of this subpart for the 2020 reporting year.
+(a) *Covered banks subject to stress testing.* (1) A state nonmember bank or state savings association that is a covered bank as of December 31, 2019, is subject to the requirements of this part for the 2020 reporting year.
 
 (2) A state nonmember bank or state savings association that becomes a covered bank after December 31, 2019, shall conduct its first stress test under this part in the first reporting year that begins more than three calendar quarters after the date the state nonmember bank or state savings association becomes a covered bank, unless otherwise determined by the Corporation in writing.
 
@@ -10,4 +10,4 @@
 
 (2) A covered bank that elects to conduct its stress test under paragraph (c)(1) of this section will remain subject to the same timeline requirements of its parent company until otherwise approved by the FDIC.
 
-[84 FR 56933, Oct. 24, 2019]
+[84 FR 56933, Oct. 24, 2019; 84 FR 64985, Nov. 26, 2019]

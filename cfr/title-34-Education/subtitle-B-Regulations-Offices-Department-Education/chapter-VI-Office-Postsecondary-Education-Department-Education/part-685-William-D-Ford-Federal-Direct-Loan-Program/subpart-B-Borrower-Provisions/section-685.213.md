@@ -106,6 +106,8 @@
 
 (iv) Explains the Secretary's process for reviewing total and permanent disability discharge applications.
 
+(v) The Secretary will consider a borrower for whom data is obtained from the Department of Veterans Affairs showing that the borrower is “totally and permanently disabled” as defined in paragraph (2) of the definition of that term in § 685.102(b) to be eligible for discharge and will not require additional documentation to discharge the borrower's loans.
+
 (2) *Determination of eligibility.* (i) If the Secretary determines, based on a review of the documentation from the Department of Veterans Affairs, that the veteran is totally and permanently disabled as described in paragraph (2) of the definition of that term in § 685.102(b), the Secretary discharges the veteran's obligation to make any further payments on the loan and returns to the person who made the payments on the loan any payments received on or after the effective date of the determination by the Department of Veterans Affairs that the veteran is unemployable due to a service-connected disability.
 
 (ii) If the Secretary determines, based on a review of the documentation from the Department of Veterans Affairs, that the veteran is not totally and permanently disabled as described in paragraph (2) of the definition of that term in § 685.102(b), the Secretary notifies the veteran that the application for a disability discharge has been denied. The notification to the veteran includes -
@@ -120,4 +122,4 @@
 
 (E) Information on how the veteran may reapply for a total and permanent disability discharge in accordance with the procedures described in paragraph (b) of this section if the documentation from the Department of Veterans Affairs does not indicate that the veteran is totally and permanently disabled as described in paragraph (2) of the definition of that term in § 685.102(b), but indicates that the veteran may be totally and permanently disabled as described in paragraph (1) of the definition of that term.
 
-(Approved by the Office of Management and Budget under control number 1845-0065)(Authority: 20 U.S.C.1087a *et seq.*)[77 FR 66142, Nov. 1, 2012]
+(Approved by the Office of Management and Budget under control number 1845-0065)(Authority: 20 U.S.C.1087a *et seq.*)[77 FR 66142, Nov. 1, 2012, as amended at 84 FR 65007, Nov. 26, 2019]

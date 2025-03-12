@@ -1,5 +1,7 @@
 ##### § 61.49 Supporting information to be submitted with letters of transmittal for tariffs of carriers subject to price cap regulation. #####
 
+Link to an amendment published at 84 FR 65016, Nov. 26, 2019.
+
 (a) Each price cap tariff filing must be accompanied by supporting materials sufficient to calculate required adjustments to each PCI, API, and SBI pursuant to the methodologies provided in §§ 61.45, 61.46, and 61.47, as applicable.
 
 (b) Each price cap tariff filing that proposes rates that are within applicable bands established pursuant to § 61.47, and that results in an API value that is equal to or less than the applicable PCI value, must be accompanied by supporting materials sufficient to establish compliance with the applicable bands, and to calculate the necessary adjustment to the affected APIs and SBIs pursuant to §§ 61.46 and 61.47, respectively.

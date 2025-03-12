@@ -8,9 +8,11 @@ This section lists the table of contents for §§ 20.2010-1 through 20.2010-3.
 
 (b) Special rule in case of certain gifts made before 1977.
 
-(c) Credit limitation.
+(c) Special rule in the case of a difference between the basic exclusion amount applicable to gifts and that applicable at the donor's date of death.
 
-(d) Explanation of terms.
+(d) Credit limitation.
+
+(e) Explanation of terms.
 
 (1) Applicable credit amount.
 
@@ -22,7 +24,7 @@ This section lists the table of contents for §§ 20.2010-1 through 20.2010-3.
 
 (5) Last deceased spouse.
 
-(e) Effective/applicability date.
+(f) Effective/applicability date.
 
 § 20.2010-2 Portability provisions applicable to estate of a decedent survived by a spouse.
 
@@ -90,4 +92,4 @@ This section lists the table of contents for §§ 20.2010-1 through 20.2010-3.
 
 (f) Effective/applicability date.
 
-[T.D. 9725, 80 FR 34285, June 16, 2015]
+[T.D. 9725, 80 FR 34285, June 16, 2015, as amended by T.D. 9884, 84 FR 64999, Nov. 26, 2019]
