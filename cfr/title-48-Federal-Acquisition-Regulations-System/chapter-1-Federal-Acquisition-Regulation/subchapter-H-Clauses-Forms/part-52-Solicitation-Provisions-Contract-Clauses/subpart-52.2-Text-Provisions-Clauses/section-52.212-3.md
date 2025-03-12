@@ -1,5 +1,7 @@
 ##### 52.212-3 Offeror Representations and Certifications - Commercial Items. #####
 
+Link to an amendment published at 86 FR 61033, Nov. 4, 2021.
+
 As prescribed in 12.301(b)(2), insert the following provision:
 
 Offeror Representations and Certifications - Commercial Items (FEB 2021)
@@ -288,6 +290,8 @@ Free Trade Agreement Country End Products (Other than Bahrainian, Korean, Morocc
 
 (ii) The offeror shall list as other end products those end products that are not U.S.-made or designated country end products.
 
+Other End Products:
+
 |Line item No.|Country of origin|
 |-------------|-----------------|
 |             |                 |
@@ -524,7 +528,7 @@ Predecessor legal name: \_\_\_\_.
 
 *Alternate I* (OCT 2014). As prescribed in 12.301(b)(2), add the following paragraph (c)(11) to the basic provision:
 
-(11) (Complete if the offeror has represented itself as disadvantaged in paragraph (c)(4) of this provision.)
+(c)(11) (Complete if the offeror has represented itself as disadvantaged in paragraph (c)(4) of this provision.)
 
 \_\_ Black American.
 

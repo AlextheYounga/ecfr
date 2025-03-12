@@ -1,5 +1,7 @@
 ##### 52.242-17 Government Delay of Work. #####
 
+Link to an amendment published at 86 FR 61037, Nov. 4, 2021.
+
 As prescribed in 42.1305(c), insert the following clause in solicitations and contracts when a fixed-price contract is contemplated for supplies other than commercial or modified-commercial items. The clause use is optional when a fixed-price contract is contemplated for services, or for supplies that are commercial or modified-commercial items.
 
 Government Delay of Work (APR 1984)

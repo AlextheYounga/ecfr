@@ -1,5 +1,7 @@
 ##### 12.303 Contract format. #####
 
+Link to an amendment published at 86 FR 61023, Nov. 4, 2021.
+
 Solicitations and contracts for the acquisition of commercial items prepared using this part 12 shall be assembled, to the maximum extent practicable, using the following format:
 
 (a) Standard Form (SF) 1449;

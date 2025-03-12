@@ -1,5 +1,7 @@
 ##### 46.801 Applicability. #####
 
+Link to an amendment published at 86 FR 61031, Nov. 4, 2021.
+
 (a) This subpart applies to contracts other than those for (1) information technology, including telecommunications, (2) construction, (3) architect-engineer services, and (4) maintenance and rehabilitation of real property. This subpart does not apply to commercial items.
 
 (b) See subpart 46.7, Warranties, for policies and procedures concerning contractor liability caused by nonconforming technical data.

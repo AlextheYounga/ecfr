@@ -1,5 +1,7 @@
 ##### 22.1801 Definitions. #####
 
+Link to an amendment published at 86 FR 61028, Nov. 4, 2021.
+
 As used in this subpart -
 
 *Commercially available off-the-shelf (COTS) item* -

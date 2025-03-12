@@ -1,5 +1,7 @@
 ##### 52.204-23 Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities. #####
 
+Link to an amendment published at 86 FR 61032, Nov. 4, 2021.
+
 As prescribed in 4.2004, insert the following clause:
 
 Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (JUL 2018)

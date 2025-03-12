@@ -1,5 +1,7 @@
 ##### 27.201-2 Contract clauses. #####
 
+Link to an amendment published at 86 FR 61028, Nov. 4, 2021.
+
 (a)(1) Insert the clause at 52.227-1, Authorization and Consent, in solicitations and contracts except that use of the clause is -
 
 (i) Optional when using simplified acquisition procedures; and

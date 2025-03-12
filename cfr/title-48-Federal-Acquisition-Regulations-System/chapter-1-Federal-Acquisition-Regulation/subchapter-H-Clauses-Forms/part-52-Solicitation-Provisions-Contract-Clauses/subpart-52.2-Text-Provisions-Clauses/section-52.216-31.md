@@ -1,5 +1,7 @@
 ##### 52.216-31 Time-and-Materials/Labor-Hour Proposal Requirements - Commercial Item Acquisition. #####
 
+Link to an amendment published at 86 FR 61035, Nov. 4, 2021.
+
 As prescribed in 16.601(f)(3), insert the following provision:
 
 Time-and-Materials/Labor-Hour Proposal Requirements - Commercial Item Acquisition (FEB 2007)

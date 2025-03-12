@@ -1,5 +1,7 @@
 ##### 29.402-3 Tax on certain foreign procurements. #####
 
+Link to an amendment published at 86 FR 61029, Nov. 4, 2021.
+
 (a) Insert the provision at 52.229-11, Tax on Certain Foreign Procurements - Notice and Representation, in solicitations, including solicitations using FAR part 12 procedures for the acquisition of commercial items, unless one of the following exceptions applies:
 
 (1) Acquisitions using simplified acquisition procedures that do not exceed the simplified acquisition threshold (as defined in 2.101).

@@ -1,5 +1,7 @@
 ##### 12.503 Applicability of certain laws to Executive agency contracts for the acquisition of commercial items. #####
 
+Link to an amendment published at 86 FR 61024, Nov. 4, 2021.
+
 (a) The following laws are not applicable to Executive agency contracts for the acquisition of commercial items:
 
 (1) 10 U.S.C. 983, Institutions of Higher Education that Prevent ROTC Access or Military Recruiting on Campus: Denial of Grants and Contracts from Department of Defense, Department of Education, and Certain Other Departments and Agencies (see 9.110).

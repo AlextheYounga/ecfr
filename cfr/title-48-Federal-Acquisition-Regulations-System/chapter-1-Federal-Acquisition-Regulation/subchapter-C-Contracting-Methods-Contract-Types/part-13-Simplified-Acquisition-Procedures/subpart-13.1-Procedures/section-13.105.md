@@ -1,5 +1,7 @@
 ##### 13.105 Synopsis and posting requirements. #####
 
+Link to an amendment published at 86 FR 61025, Nov. 4, 2021.
+
 (a) The contracting officer must comply with the public display and synopsis requirements of 5.101 and 5.203 unless an exception in 5.202 applies.
 
 (b) When acquiring commercial items or supplies or services produced in accordance with 12.102(f)(1), the contracting officer may use a combined synopsis and solicitation. In these cases, a separate solicitation is not required. The contracting officer must include enough information to permit suppliers to develop quotations or offers.

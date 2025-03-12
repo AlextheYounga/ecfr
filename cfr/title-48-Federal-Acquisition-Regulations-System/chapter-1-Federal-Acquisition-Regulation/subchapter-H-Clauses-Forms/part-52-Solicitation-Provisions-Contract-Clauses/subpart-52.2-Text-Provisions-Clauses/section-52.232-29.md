@@ -1,5 +1,7 @@
 ##### 52.232-29 Terms for Financing of Purchases of Commercial Items. #####
 
+Link to an amendment published at 86 FR 61036, Nov. 4, 2021.
+
 As prescribed in 32.206(b)(2), insert the following clause:
 
 Terms for Financing of Purchases of Commercial Items (FEB 2002)

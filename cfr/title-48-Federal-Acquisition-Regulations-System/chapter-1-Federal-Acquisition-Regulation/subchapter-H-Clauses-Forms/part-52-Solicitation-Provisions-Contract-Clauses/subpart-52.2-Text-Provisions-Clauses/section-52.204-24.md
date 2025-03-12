@@ -1,5 +1,7 @@
 ##### 52.204-24 Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment. #####
 
+Link to an amendment published at 86 FR 61032, Nov. 4, 2021.
+
 As prescribed in 4.2105(a), insert the following provision:
 
 Representation Regarding Certain Telecommunications and Video Surveillance Services or Equipment (OCT 2020)

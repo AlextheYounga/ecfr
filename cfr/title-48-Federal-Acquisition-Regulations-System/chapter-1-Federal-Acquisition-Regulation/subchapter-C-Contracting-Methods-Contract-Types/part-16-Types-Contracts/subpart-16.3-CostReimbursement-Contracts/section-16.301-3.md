@@ -1,5 +1,7 @@
 ##### 16.301-3 Limitations. #####
 
+Link to an amendment published at 86 FR 61027, Nov. 4, 2021.
+
 (a) A cost-reimbursement contract may be used only when -
 
 (1) The factors in 16.104 have been considered;

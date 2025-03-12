@@ -1,5 +1,7 @@
 ##### 9.106-1 Conditions for preaward surveys. #####
 
+Link to an amendment published at 86 FR 61021, Nov. 4, 2021.
+
 (a) A preaward survey is normally required only when the information on hand or readily available to the contracting officer, including information from commercial sources, is not sufficient to make a determination regarding responsibility. In addition, if the contemplated contract will have a fixed price at or below the simplified acquisition threshold or will involve the acquisition of commercial items (see part 12), the contracting officer should not request a preaward survey unless circumstances justify its cost.
 
 (b) When a cognizant contract administration office becomes aware of a prospective award to a contractor about which unfavorable information exists and no preaward survey has been requested, it shall promptly obtain and transmit details to the contracting officer.

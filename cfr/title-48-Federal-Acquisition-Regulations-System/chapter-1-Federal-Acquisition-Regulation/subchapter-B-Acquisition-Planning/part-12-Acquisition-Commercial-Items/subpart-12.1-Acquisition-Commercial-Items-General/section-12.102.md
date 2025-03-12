@@ -1,5 +1,7 @@
 ##### 12.102 Applicability. #####
 
+Link to an amendment published at 86 FR 61022, Nov. 4, 2021.
+
 (a) This part shall be used for the acquisition of supplies or services that meet the definition of commercial items at section 2.101.
 
 (b) Contracting officers shall use the policies in this part in conjunction with the policies and procedures for solicitation, evaluation and award prescribed in part 13, Simplified Acquisition Procedures; part 14, Sealed Bidding; or part 15, Contracting by Negotiation, as appropriate for the particular acquisition.

@@ -1,5 +1,7 @@
 ##### 19.805-1 General. #####
 
+Link to an amendment published at 86 FR 61041, Nov. 4, 2021.
+
 (a) Except as provided in paragraph (b) of this section, an acquisition offered to the SBA under the 8(a) program shall be awarded on the basis of competition limited to eligible 8(a) participants when -
 
 (1) There is a reasonable expectation that at least two eligible and responsible 8(a) participants will submit offers and that award can be made at a fair market price; and

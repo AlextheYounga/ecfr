@@ -1,5 +1,7 @@
 ##### 12.302 Tailoring of provisions and clauses for the acquisition of commercial items. #####
 
+Link to an amendment published at 86 FR 61023, Nov. 4, 2021.
+
 (a) *General.* The provisions and clauses established in this subpart are intended to address, to the maximum extent practicable, commercial market practices for a wide range of potential Government acquisitions of commercial items. However, because of the broad range of commercial items acquired by the Government, variations in commercial practices, and the relative volume of the Government's acquisitions in the specific market, contracting officers may, within the limitations of this subpart, and after conducting appropriate market research, tailor the provision at 52.212-1, Instructions to Offerors-Commercial Items, and the clause at 52.212-4, Contract Terms and Conditions-Commercial Items, to adapt to the market conditions for each acquisition.
 
 (b) *Tailoring 52.212-4, Contract Terms and Conditions - Commercial Items.* The following paragraphs of the clause at 52.212-4, Contract Terms and Conditions - Commercial Items, implement statutory requirements and shall not be tailored -

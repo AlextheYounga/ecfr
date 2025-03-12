@@ -1,5 +1,7 @@
 ##### 4.1201 Policy. #####
 
+Link to an amendment published at 86 FR 61020, Nov. 4, 2021.
+
 (a) Offerors and quoters are required to complete electronic annual representations and certifications in SAM accessed via *https://www.sam.gov* as a part of required registration (see FAR 4.1102).
 
 (b)(1) All registrants are required to review and update the representations and certifications submitted to SAM as necessary, but at least annually, to ensure they are kept current, accurate, and complete. The representations and certifications are effective until one year from date of submission or update to SAM.

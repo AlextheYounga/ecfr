@@ -1,5 +1,7 @@
 ##### 32.206 Solicitation provisions and contract clauses. #####
 
+Link to an amendment published at 86 FR 61029, Nov. 4, 2021.
+
 (a) The contract shall contain the paragraph entitled “Payment” of the clause at 52.212-4, Contract Terms and Conditions - Commercial Items. If the contract will provide for contract financing, the contracting officer shall construct a solicitation provision and contract clause. This solicitation provision shall be constructed in accordance with 32.204 or 32.205. If the procedure at 32.205 is used, the solicitation provision at 52.232-31, Invitation to Propose Financing Terms, shall be included. The contract clause shall be constructed in accordance with the requirements of this subpart and any agency regulations.
 
 (b) Each contract financing clause shall include:

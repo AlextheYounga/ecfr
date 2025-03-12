@@ -1,5 +1,7 @@
 ##### 52.209-13 Violation of Arms Control Treaties or Agreements - Certification. #####
 
+Link to an amendment published at 86 FR 61032, Nov. 4, 2021.
+
 As prescribed in 9.109-5, insert the following provision:
 
 Violation of Arms Control Treaties or Agreements - Certification (FEB 2021)

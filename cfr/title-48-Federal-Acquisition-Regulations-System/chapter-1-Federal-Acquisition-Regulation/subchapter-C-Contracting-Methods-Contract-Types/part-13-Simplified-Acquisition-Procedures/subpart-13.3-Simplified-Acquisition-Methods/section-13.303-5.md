@@ -1,5 +1,7 @@
 ##### 13.303-5 Purchases under BPAs. #####
 
+Link to an amendment published at 86 FR 61025, Nov. 4, 2021.
+
 (a) Use a BPA only for purchases that are otherwise authorized by law or regulation.
 
 (b) Individual purchases shall not exceed the simplified acquisition threshold. However, agency regulations may establish a higher threshold consistent with the following:

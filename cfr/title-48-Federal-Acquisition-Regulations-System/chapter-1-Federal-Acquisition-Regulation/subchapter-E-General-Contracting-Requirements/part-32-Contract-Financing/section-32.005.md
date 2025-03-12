@@ -1,5 +1,7 @@
 ##### 32.005 Consideration for contract financing. #####
 
+Link to an amendment published at 86 FR 61029, Nov. 4, 2021.
+
 (a) *Requirement.* When a contract financing clause is included at the inception of a contract, there shall be no separate consideration for the contract financing clause. The value of the contract financing to the contractor is expected to be reflected in either
 
 (1) A bid or negotiated price that will be lower than such price would have been in the absence of the contract financing, or

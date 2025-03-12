@@ -1,5 +1,7 @@
 ##### § 1.552 General provisions. #####
 
+Link to an amendment published at 86 FR 60771, Nov. 4, 2021.
+
 (a) *Additional information.* Information regarding VA's FOIA and Privacy Act process generally, including how to file FOIA requests, and information made available by VA under the FOIA, is available at the following internet address: *http://www.oprm.va.gov/foia/.*
 
 (b) *Public Liaisons.* VA has made available FOIA Public Liaisons to assist in the resolution of disputes between the agency and the requester. Contact information for VA's FOIA Public Liaisons can be found on VA's FOIA home page. See § 1.552(a) for the pertinent Internet address.

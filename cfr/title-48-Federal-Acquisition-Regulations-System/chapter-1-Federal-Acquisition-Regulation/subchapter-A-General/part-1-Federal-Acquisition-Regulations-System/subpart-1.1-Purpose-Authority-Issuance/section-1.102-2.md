@@ -1,5 +1,7 @@
 ##### 1.102-2 Performance standards. #####
 
+Link to an amendment published at 86 FR 61019, Nov. 4, 2021.
+
 (a) *Satisfy the customer in terms of cost, quality, and timeliness of the delivered product or service.* (1) The principal customers for the product or service provided by the System are the users and line managers, acting on behalf of the American taxpayer.
 
 (2) The System must be responsive and adaptive to customer needs, concerns, and feedback. Implementation of acquisition policies and procedures, as well as consideration of timeliness, quality and cost throughout the process, must take into account the perspective of the user of the product or service.

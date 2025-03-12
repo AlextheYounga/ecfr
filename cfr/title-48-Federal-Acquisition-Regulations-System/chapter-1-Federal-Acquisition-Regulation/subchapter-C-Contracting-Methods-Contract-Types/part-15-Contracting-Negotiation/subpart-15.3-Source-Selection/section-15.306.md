@@ -1,5 +1,7 @@
 ##### 15.306 Exchanges with offerors after receipt of proposals. #####
 
+Link to an amendment published at 86 FR 61025, Nov. 4, 2021.
+
 (a) *Clarifications and award without discussions.* (1) Clarifications are limited exchanges, between the Government and offerors, that may occur when award without discussions is contemplated.
 
 (2) If award will be made without conducting discussions, offerors may be given the opportunity to clarify certain aspects of proposals (e.g., the relevance of an offeror's past performance information and adverse past performance information to which the offeror has not previously had an opportunity to respond) or to resolve minor or clerical errors.

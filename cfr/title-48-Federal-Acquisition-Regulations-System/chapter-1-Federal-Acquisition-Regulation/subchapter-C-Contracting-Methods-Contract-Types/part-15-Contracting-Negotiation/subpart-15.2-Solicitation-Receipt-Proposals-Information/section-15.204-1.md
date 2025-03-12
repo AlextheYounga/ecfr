@@ -1,5 +1,7 @@
 ##### 15.204-1 Uniform contract format. #####
 
+Link to an amendment published at 86 FR 61025, Nov. 4, 2021.
+
 (a) Contracting officers shall prepare solicitations and resulting contracts using the uniform contract format outlined in Table 15-1 of this subsection.
 
 (b) Solicitations using the uniform contract format shall include Parts I, II, III, and IV (see 15.204-2 through 15.204-5). Upon award, contracting officers shall not physically include Part IV in the resulting contract, but shall retain it in the contract file. (See 4.1201(c).) The representations and certifications are incorporated by reference in the contract by using 52.204-19 (see 4.1202(b)) or for acquisitions of commercial items see 52.212-4(v).

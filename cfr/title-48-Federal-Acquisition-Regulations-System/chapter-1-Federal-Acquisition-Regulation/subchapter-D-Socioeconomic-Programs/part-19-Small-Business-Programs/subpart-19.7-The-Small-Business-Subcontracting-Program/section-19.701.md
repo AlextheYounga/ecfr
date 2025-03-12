@@ -1,5 +1,7 @@
 ##### 19.701 Definitions. #####
 
+Link to an amendment published at 86 FR 61028, Nov. 4, 2021.
+
 As used in this subpart -
 
 *Alaska Native Corporation (ANC)* means any Regional Corporation, Village Corporation, Urban Corporation, or Group Corporation organized under the laws of the State of Alaska in accordance with the Alaska Native Claims Settlement Act, as amended (43 U.S.C.A. 1601, *et seq.*) and which is considered a minority and economically disadvantaged concern under the criteria at 43 U.S.C. 1626(e)(1). This definition also includes ANC direct and indirect subsidiary corporations, joint ventures, and partnerships that meet the requirements of 43 U.S.C. 1626(e)(2).

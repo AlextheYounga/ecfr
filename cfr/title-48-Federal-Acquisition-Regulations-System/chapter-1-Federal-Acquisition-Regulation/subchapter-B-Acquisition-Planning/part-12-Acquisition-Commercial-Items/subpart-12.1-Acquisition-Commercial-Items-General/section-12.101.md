@@ -1,5 +1,7 @@
 ##### 12.101 Policy. #####
 
+Link to an amendment published at 86 FR 61021, Nov. 4, 2021.
+
 The head of the agency shall -
 
 (a) Conduct market research to determine whether commercial items or nondevelopmental items are available that could meet the agency's requirements;

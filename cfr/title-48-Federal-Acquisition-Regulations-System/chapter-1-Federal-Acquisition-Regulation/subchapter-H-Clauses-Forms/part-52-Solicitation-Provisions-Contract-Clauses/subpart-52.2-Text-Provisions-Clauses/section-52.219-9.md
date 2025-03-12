@@ -1,5 +1,7 @@
 ##### 52.219-9 Small Business Subcontracting Plan. #####
 
+Link to an amendment published at 86 FR 61035, Nov. 4, 2021.
+
 As prescribed in 19.708(b), insert the following clause:
 
 Small Business Subcontracting Plan (Sep 2021)

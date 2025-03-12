@@ -1,5 +1,7 @@
 ##### 5.202 Exceptions. #####
 
+Link to an amendment published at 86 FR 61020, Nov. 4, 2021.
+
 The contracting officer need not submit the notice required by 5.201 when -
 
 (a) The contracting officer determines that -

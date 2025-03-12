@@ -1,5 +1,7 @@
 ##### 52.210-1 Market Research. #####
 
+Link to an amendment published at 86 FR 61032, Nov. 4, 2021.
+
 As prescribed in 10.003, insert the following clause:
 
 Market Research (JUN 2020)

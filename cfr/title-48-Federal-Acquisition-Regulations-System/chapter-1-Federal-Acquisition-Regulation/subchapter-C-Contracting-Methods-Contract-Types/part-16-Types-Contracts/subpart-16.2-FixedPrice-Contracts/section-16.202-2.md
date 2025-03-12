@@ -1,5 +1,7 @@
 ##### 16.202-2 Application. #####
 
+Link to an amendment published at 86 FR 61027, Nov. 4, 2021.
+
 A firm-fixed-price contract is suitable for acquiring commercial items (see parts 2 and 12) or for acquiring other supplies or services on the basis of reasonably definite functional or detailed specifications (see part 11) when the contracting officer can establish fair and reasonable prices at the outset, such as when -
 
 (a) There is adequate price competition;

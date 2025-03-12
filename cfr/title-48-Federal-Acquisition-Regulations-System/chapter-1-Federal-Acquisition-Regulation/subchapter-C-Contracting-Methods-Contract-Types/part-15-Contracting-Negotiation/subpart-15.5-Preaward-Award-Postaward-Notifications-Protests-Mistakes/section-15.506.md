@@ -1,5 +1,7 @@
 ##### 15.506 Postaward debriefing of offerors. #####
 
+Link to an amendment published at 86 FR 61026, Nov. 4, 2021.
+
 (a)(1) An offeror, upon its written request received by the agency within 3 days after the date on which that offeror has received notification of contract award in accordance with 15.503(b), shall be debriefed and furnished the basis for the selection decision and contract award.
 
 (2) To the maximum extent practicable, the debriefing should occur within 5 days after receipt of the written request. Offerors that requested a postaward debriefing in lieu of a preaward debriefing, or whose debriefing was delayed for compelling reasons beyond contract award, also should be debriefed within this time period.

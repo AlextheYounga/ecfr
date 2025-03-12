@@ -1,5 +1,7 @@
 ##### 52.209-14 Reserve Officer Training Corps and Military Recruiting on Campus. #####
 
+Link to an amendment published at 86 FR 61032, Nov. 4, 2021.
+
 As prescribed in 9.110-5, insert the following clause:
 
 Reserve Officer Training Corps and Military Recruiting on Campus (NOV 2020)

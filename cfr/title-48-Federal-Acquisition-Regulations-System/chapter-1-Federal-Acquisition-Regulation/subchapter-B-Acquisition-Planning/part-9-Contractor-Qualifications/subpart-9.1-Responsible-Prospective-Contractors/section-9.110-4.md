@@ -1,5 +1,7 @@
 ##### 9.110-4 Procedures. #####
 
+Link to an amendment published at 86 FR 61021, Nov. 4, 2021.
+
 If the Secretary of Defense determines, pursuant to the procedures at 32 CFR part 216, that an institution of higher education is ineligible to receive funds from a covered agency because of a policy or practice described in 9.110-3 -
 
 (a) The Secretary of Defense will create an active exclusion record for the institution in the System for Award Management; and

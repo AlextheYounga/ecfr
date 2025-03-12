@@ -1,5 +1,7 @@
 ##### 38.101 General. #####
 
+Link to an amendment published at 86 FR 61030, Nov. 4, 2021.
+
 (a) The Federal Supply Schedule program, pursuant to 41 U.S.C. 152(3), provides Federal agencies with a simplified process of acquiring commercial supplies and services in varying quantities while obtaining volume discounts. Indefinite-delivery contracts are awarded using competitive procedures to firms. The firms provide supplies and services at stated prices for given periods of time, for delivery within a stated geographic area such as the 48 contiguous states, the District of Columbia, Alaska, Hawaii, and overseas. The schedule contracting office issues Federal Supply Schedule publications that contain a general overview of the Federal Supply Schedule (FSS) program and address pertinent topics.
 
 (b) Each schedule identifies agencies that are required to use the contracts as primary sources of supply.

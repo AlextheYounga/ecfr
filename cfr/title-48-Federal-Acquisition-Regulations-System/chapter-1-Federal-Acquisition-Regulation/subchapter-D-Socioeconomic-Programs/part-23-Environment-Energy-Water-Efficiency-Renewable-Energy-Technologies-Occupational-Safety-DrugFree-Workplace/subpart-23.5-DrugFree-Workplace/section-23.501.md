@@ -1,5 +1,7 @@
 ##### 23.501 Applicability. #####
 
+Link to an amendment published at 86 FR 61028, Nov. 4, 2021.
+
 This subpart applies to contracts, including contracts with 8(a) contractors under FAR subpart 19.8 and modifications that require a justification and approval (see subpart 6.3), except contracts -
 
 (a) At or below the simplified acquisition threshold; however, the requirements of this subpart apply to all contracts of any value awarded to an individual;

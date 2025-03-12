@@ -1,5 +1,7 @@
 ##### 12.205 Offers. #####
 
+Link to an amendment published at 86 FR 61022, Nov. 4, 2021.
+
 (a) Where technical information is necessary for evaluation of offers, agencies should, as part of market research, review existing product literature generally available in the industry to determine its adequacy for purposes of evaluation. If adequate, contracting officers shall request existing product literature from offerors of commercial items in lieu of unique technical proposals.
 
 (b) Contracting officers should allow offerors to propose more than one product that will meet a Government need in response to solicitations for commercial items. The contracting officer shall evaluate each product as a separate offer.

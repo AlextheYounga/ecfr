@@ -1,5 +1,7 @@
 ##### 1.102 Statement of guiding principles for the Federal Acquisition System. #####
 
+Link to an amendment published at 86 FR 61019, Nov. 4, 2021.
+
 (a) The vision for the Federal Acquisition System is to deliver on a timely basis the best value product or service to the customer, while maintaining the public's trust and fulfilling public policy objectives. Participants in the acquisition process should work together as a team and should be empowered to make decisions within their area of responsibility.
 
 (b) The Federal Acquisition System will -

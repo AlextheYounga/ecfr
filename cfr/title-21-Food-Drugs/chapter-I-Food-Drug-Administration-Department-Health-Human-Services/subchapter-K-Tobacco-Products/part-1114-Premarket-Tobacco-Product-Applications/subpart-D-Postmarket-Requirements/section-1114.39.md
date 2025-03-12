@@ -1,0 +1,3 @@
+##### § 1114.39 Postmarket changes. #####
+
+A marketing granted order authorizes the marketing of a new tobacco product in accordance with the terms of the order. Prior to the introduction or delivery for introduction into interstate commerce of a new tobacco product that results from modification(s) to the product, an applicant must submit a new PMTA under § 1114.7 or a supplemental PMTA under § 1114.15 and obtain a marketing granted order for the new tobacco product, unless the new tobacco product can be legally marketed through another premarket pathway.

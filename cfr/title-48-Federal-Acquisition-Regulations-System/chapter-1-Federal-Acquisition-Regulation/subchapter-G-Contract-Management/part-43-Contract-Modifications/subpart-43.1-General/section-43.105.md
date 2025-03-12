@@ -1,5 +1,7 @@
 ##### 43.105 Availability of funds. #####
 
+Link to an amendment published at 86 FR 61030, Nov. 4, 2021.
+
 (a) The contracting officer shall not execute a contract modification that causes or will cause an increase in funds without having first obtained a certification of fund availability, except for modifications to contracts that -
 
 (1) Are conditioned on availability of funds (see 32.703-2); or

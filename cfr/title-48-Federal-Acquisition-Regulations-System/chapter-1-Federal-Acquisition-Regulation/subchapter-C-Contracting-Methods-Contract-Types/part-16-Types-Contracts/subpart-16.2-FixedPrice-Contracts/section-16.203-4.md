@@ -1,5 +1,7 @@
 ##### 16.203-4 Contract clauses. #####
 
+Link to an amendment published at 86 FR 61027, Nov. 4, 2021.
+
 (a) *Adjustment based on established prices - standard supplies.* (1) The contracting officer shall, when contracting by negotiation, insert the clause at 52.216-2, Economic Price Adjustment - Standard Supplies, or an agency-prescribed clause as authorized in subparagraph (2) below, in solicitations and contracts when all of the following conditions apply:
 
 (i) A fixed-price contract is contemplated.

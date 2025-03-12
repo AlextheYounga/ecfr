@@ -1,5 +1,7 @@
 ##### 52.215-21 Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data - Modifications. #####
 
+Link to an amendment published at 86 FR 61034, Nov. 4, 2021.
+
 As prescribed in 15.408(m), insert the following clause:
 
 Requirements for Certified Cost or Pricing Data and Data Other Than Certified Cost or Pricing Data - Modifications (JUN 2020)

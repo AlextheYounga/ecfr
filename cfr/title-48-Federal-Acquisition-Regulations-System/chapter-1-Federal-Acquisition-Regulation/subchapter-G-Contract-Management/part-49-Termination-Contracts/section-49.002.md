@@ -1,5 +1,7 @@
 ##### 49.002 Applicability. #####
 
+Link to an amendment published at 86 FR 61031, Nov. 4, 2021.
+
 (a)(1) This part applies to contracts that provide for termination for the convenience of the Government or for the default of the contractor (see also 12.403 and 13.302-4).
 
 (2) This part does not apply to commercial item contracts awarded using part 12 procedures. See 12.403 for termination policies for contracts for the acquisition of commercial items. However, for contracts for the acquisition of commercial items, this part provides administrative guidance which may be followed unless it is inconsistent with the requirements and procedures in 12.403, Termination, and the clause at 52.212-4, Contract Terms and Conditions - Commercial Items.

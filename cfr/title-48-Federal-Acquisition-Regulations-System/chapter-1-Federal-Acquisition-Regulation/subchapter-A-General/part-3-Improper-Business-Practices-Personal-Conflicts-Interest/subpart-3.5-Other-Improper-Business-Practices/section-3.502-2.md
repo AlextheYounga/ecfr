@@ -1,5 +1,7 @@
 ##### 3.502-2 Subcontractor kickbacks. #####
 
+Link to an amendment published at 86 FR 61020, Nov. 4, 2021.
+
 The Anti-Kickback Act of 1986 (now codified at 41 U.S.C. chapter 87, Kickbacks,) was passed to deter subcontractors from making payments and contractors from accepting payments for the purpose of improperly obtaining or rewarding favorable treatment in connection with a prime contract or a subcontract relating to a prime contract. The Kickbacks statute -
 
 (a) Prohibits any person from -

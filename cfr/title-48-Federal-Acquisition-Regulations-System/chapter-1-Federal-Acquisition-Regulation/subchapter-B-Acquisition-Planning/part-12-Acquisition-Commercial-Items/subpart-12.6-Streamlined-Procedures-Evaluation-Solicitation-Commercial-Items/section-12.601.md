@@ -1,5 +1,7 @@
 ##### 12.601 General. #####
 
+Link to an amendment published at 86 FR 61024, Nov. 4, 2021.
+
 This subpart provides optional procedures for -
 
 (a) Streamlined evaluation of offers for commercial items; and

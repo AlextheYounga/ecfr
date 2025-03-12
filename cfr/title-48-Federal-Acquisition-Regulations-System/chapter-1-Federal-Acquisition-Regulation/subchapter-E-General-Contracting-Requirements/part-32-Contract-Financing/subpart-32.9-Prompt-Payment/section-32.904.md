@@ -1,5 +1,7 @@
 ##### 32.904 Determining payment due dates. #####
 
+Link to an amendment published at 86 FR 61030, Nov. 4, 2021.
+
 (a) *General.* Agency procedures must ensure that, when specifying due dates, contracting officers give full consideration to the time reasonably required by Government officials to fulfill their administrative responsibilities under the contract.
 
 (b) *Payment due dates.* Except as prescribed in paragraphs (c) through (f) of this section, or as authorized in 32.908(a)(2) or (c)(2), the due date for making an invoice payment is as follows:

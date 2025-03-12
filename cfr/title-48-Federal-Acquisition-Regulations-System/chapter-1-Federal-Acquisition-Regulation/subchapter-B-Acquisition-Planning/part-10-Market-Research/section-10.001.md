@@ -1,5 +1,7 @@
 ##### 10.001 Policy. #####
 
+Link to an amendment published at 86 FR 61021, Nov. 4, 2021.
+
 (a) Agencies shall -
 
 (1) Ensure that legitimate needs are identified and trade-offs evaluated to acquire items that meet those needs;
@@ -56,6 +58,6 @@
 
 (2) Shall notify any affected incumbent small business concerns of the Government's intention to bundle the requirement and how small business concerns may contact the appropriate Small Business Administration procurement center representative (see 7.107-5(a)).
 
-(d) *See* 10.003 for the requirement for a prime contractor to perform market research in contracts in excess of $6million for the procurement of items other than commercial items in accordance with section 826 of Public Law 110-181.
+(d) *See* 10.003 for the requirement for a prime contractor to perform market research in contracts in excess of $6 million for the procurement of items other than commercial items in accordance with section 826 of Public Law 110-181.
 
 [60 FR 48237, Sept. 18, 1995, as amended at 64 FR 72443, Dec. 27, 1999; 65 FR 46054, July 26, 2000; 66 FR 20896, Apr. 25, 2001; 68 FR 4049, Jan. 27, 2003; 68 FR 60005, Oct. 20, 2003; 69 FR 8313, Feb. 23, 2003; 71 FR 36925, June 28, 2006; 71 FR 74676, Dec. 12, 2006; 74 FR 52849, Oct. 14, 2009; 75 FR 34278, June 16, 2010; 76 FR 14565, Mar. 16, 2011; 80 FR 38297, July 2, 2015; 81 FR 67772, Sept. 30, 2016; 84 FR 19837, May 6, 2019; 85 FR 11756, Feb. 27, 2020; 85 FR 62488, Oct. 2, 2020; 86 FR 44231, Aug. 11, 2021]

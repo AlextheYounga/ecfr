@@ -1,5 +1,7 @@
 ##### 39.205 Exemptions. #####
 
+Link to an amendment published at 86 FR 61030, Nov. 4, 2021.
+
 (a) *Allowable exemptions.* An agency may grant an exemption for the following:
 
 (1) *Undue burden.* When an agency determines the acquisition of ICT conforming with all the applicable ICT accessibility standards would impose an undue burden on the agency, compliance with the ICT accessibility standards is only required to the extent that it would not impose an undue burden. In determining whether conformance to one or more ICT accessibility standards would impose an undue burden, an agency shall consider the extent to which conformance would impose significant difficulty or expense considering the agency resources available to the program or component for which the ICT supply or service is being procured.

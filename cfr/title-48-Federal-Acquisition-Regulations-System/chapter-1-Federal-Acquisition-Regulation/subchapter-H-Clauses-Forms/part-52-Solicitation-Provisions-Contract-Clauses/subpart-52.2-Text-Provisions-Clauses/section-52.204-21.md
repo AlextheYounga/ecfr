@@ -1,5 +1,7 @@
 ##### 52.204-21 Basic Safeguarding of Covered Contractor Information Systems. #####
 
+Link to an amendment published at 86 FR 61032, Nov. 4, 2021.
+
 As prescribed in 4.1903, insert the following clause:
 
 Basic Safeguarding of Covered Contractor Information Systems (JUN 2016)

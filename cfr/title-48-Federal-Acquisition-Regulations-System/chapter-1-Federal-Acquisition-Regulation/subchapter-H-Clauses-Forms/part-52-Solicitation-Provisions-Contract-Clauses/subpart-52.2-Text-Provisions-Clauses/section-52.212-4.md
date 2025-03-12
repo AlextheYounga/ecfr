@@ -1,5 +1,7 @@
 ##### 52.212-4 Contract Terms and Conditions - Commercial Items. #####
 
+Link to an amendment published at 86 FR 61033, Nov. 4, 2021.
+
 As prescribed in 12.301(b)(3), insert the following clause:
 
 Contract Terms and Conditions - Commercial Items (OCT 2018)

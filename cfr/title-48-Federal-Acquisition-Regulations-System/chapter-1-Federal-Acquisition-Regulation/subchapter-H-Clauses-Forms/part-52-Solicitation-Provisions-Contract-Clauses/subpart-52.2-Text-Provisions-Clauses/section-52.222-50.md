@@ -1,5 +1,7 @@
 ##### 52.222-50 Combating Trafficking in Persons. #####
 
+Link to an amendment published at 86 FR 61035, Nov. 4, 2021.
+
 As prescribed in 22.1705(a)(1), insert the following clause:
 
 Combating Trafficking in Persons (OCT 2020)
@@ -268,7 +270,7 @@ Combating Trafficking in Persons (OCT 2020)
 
 *Alternate I* (MAR 2015). As prescribed in 22.1705(a)(2), substitute the following paragraph in place of paragraph (c)(1)(i) of the basic clause:
 
-(i)(A) The United States Government's policy prohibiting trafficking in persons described in paragraph (b) of this clause; and
+(c)(i)(A) The United States Government's policy prohibiting trafficking in persons described in paragraph (b) of this clause; and
 
 (B) The following directive(s) or notice(s) applicable to employees performing work at the contract place(s) of performance as indicated below:
 

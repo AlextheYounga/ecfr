@@ -1,5 +1,7 @@
 ##### 13.302-1 General. #####
 
+Link to an amendment published at 86 FR 61025, Nov. 4, 2021.
+
 (a) Except as provided under the unpriced purchase order method (see 13.302-2), purchase orders generally are issued on a fixed-price basis. See 12.207 for acquisition of commercial items.
 
 (b) Purchase orders shall -

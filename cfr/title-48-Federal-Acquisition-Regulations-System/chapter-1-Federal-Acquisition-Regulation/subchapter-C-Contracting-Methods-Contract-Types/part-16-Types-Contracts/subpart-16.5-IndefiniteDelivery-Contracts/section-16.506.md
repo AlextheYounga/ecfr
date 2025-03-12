@@ -1,5 +1,7 @@
 ##### 16.506 Solicitation provisions and contract clauses. #####
 
+Link to an amendment published at 86 FR 61027, Nov. 4, 2021.
+
 (a) Insert the clause at 52.216-18, Ordering, in solicitations and contracts when a definite-quantity contract, a requirements contract, or an indefinite-quantity contract is contemplated.
 
 (b) Insert a clause substantially the same as the clause at 52.216-19, Order Limitations, in solicitations and contracts when a definite-quantity contract, a requirements contract, or an indefinite-quantity contract is contemplated.

@@ -1,5 +1,7 @@
 ##### 52.232-40 Providing Accelerated Payments to Small Business Subcontractors. #####
 
+Link to an amendment published at 86 FR 61037, Nov. 4, 2021.
+
 As prescribed in 32.009-2, insert the following clause:
 
 Providing Accelerated Payments to Small Business Subcontractors (DEC 2013)

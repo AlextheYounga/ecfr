@@ -1,5 +1,7 @@
 ##### 47.504 Exceptions. #####
 
+Link to an amendment published at 86 FR 61031, Nov. 4, 2021.
+
 The policy and procedures in this subpart do not apply to the following:
 
 (a) Shipments aboard vessels as required or authorized by law or treaty.

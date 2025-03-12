@@ -1,5 +1,7 @@
 ##### 12.403 Termination. #####
 
+Link to an amendment published at 86 FR 61023, Nov. 4, 2021.
+
 (a) *General.* The clause at 52.212-4 permits the Government to terminate a contract for commercial items either for the convenience of the Government or for cause. However, the paragraphs in 52.212-4 entitled “Termination for the Government's Convenience” and “Termination for Cause” contain concepts which differ from those contained in the termination clauses prescribed in part 49. Consequently, the requirements of part 49 do not apply when terminating contracts for commercial items and contracting officers shall follow the procedures in this section. Contracting officers may continue to use part 49 as guidance to the extent that part 49 does not conflict with this section and the language of the termination paragraphs in 52.212-4.
 
 (b) *Policy.* The contracting officer should exercise the Government's right to terminate a contract for commercial items either for convenience or for cause only when such a termination would be in the best interests of the Government. The contracting officer should consult with counsel prior to terminating for cause.

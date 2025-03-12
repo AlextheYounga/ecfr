@@ -1,5 +1,7 @@
 ##### 52.216-29 Time-and-Materials/Labor-Hour Proposal Requirements - Non-Commercial Item Acquisition With Adequate Price Competition. #####
 
+Link to an amendment published at 86 FR 61035, Nov. 4, 2021.
+
 As prescribed in 16.601(f)(1), insert the following provision:
 
 Time-and-Materials/Labor-Hour Proposal Requirements - Non-Commercial Item Acquisition With Adequate Price Competition (FEB 2007)

@@ -1,5 +1,7 @@
 ##### 52.229-13 Taxes - Foreign Contracts in Afghanistan. #####
 
+Link to an amendment published at 86 FR 61036, Nov. 4, 2021.
+
 As prescribed in 29.402-4(a), use the following clause:
 
 Taxes - Foreign Contracts in Afghanistan (NOV 2020)

@@ -1,5 +1,7 @@
 ##### 7.107-5 Notifications. #####
 
+Link to an amendment published at 86 FR 61040, Nov. 4, 2021.
+
 (a) *Notifications to current small business contractors of agency's intent to bundle.* (1) The contracting officer shall notify each small business performing a contract that it intends to bundle the requirement at least 30 days prior to the issuance of the solicitation for the bundled requirement.
 
 (2) The notification shall provide the name, phone number and address of the applicable SBA procurement center representative (PCR), or if an SBA PCR is not assigned to the procuring activity, the SBA Office of Government Contracting Area Office serving the area in which the buying activity is located.

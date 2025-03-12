@@ -1,5 +1,7 @@
 ##### 39.203 Applicability. #####
 
+Link to an amendment published at 86 FR 61030, Nov. 4, 2021.
+
 (a) *General.* Unless an exception at 39.204 or an exemption at 39.205 applies, acquisitions for ICT supplies and services shall meet the applicable ICT accessibility standards at 36 CFR 1194.1.
 
 (b) *Indefinite-quantity contracts.* Confirmation of an exception or a determination of an exemption is not required prior to award of an indefinite-quantity contract, except for requirements that are to be satisfied by initial award. The contract must identify which supplies and services the contractor indicates as compliant and show where full details of compliance can be found (*e.g.,* vendor's or other exact website location).

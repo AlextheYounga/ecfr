@@ -1,5 +1,7 @@
 ##### 6.001 Applicability. #####
 
+Link to an amendment published at 86 FR 61020, Nov. 4, 2021.
+
 This part applies to all acquisitions except -
 
 (a) Contracts awarded using the simplified acquisition procedures of part 13 (but see 13.501 for requirements pertaining to sole source acquisitions of commercial items under subpart 13.5).

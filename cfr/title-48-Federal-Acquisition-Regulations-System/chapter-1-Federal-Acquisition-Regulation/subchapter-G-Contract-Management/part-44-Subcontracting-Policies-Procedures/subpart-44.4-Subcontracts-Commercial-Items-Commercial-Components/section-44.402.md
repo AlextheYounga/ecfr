@@ -1,5 +1,7 @@
 ##### 44.402 Policy requirements. #####
 
+Link to an amendment published at 86 FR 61030, Nov. 4, 2021.
+
 (a) Contractors and subcontractors at all tiers shall, to the maximum extent practicable:
 
 (1) Be required to incorporate commercial items or nondevelopmental items as components of items delivered to the Government; and

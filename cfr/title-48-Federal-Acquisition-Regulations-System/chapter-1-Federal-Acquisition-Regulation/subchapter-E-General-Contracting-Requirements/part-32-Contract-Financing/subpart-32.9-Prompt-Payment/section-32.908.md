@@ -1,5 +1,7 @@
 ##### 32.908 Contract clauses. #####
 
+Link to an amendment published at 86 FR 61030, Nov. 4, 2021.
+
 (a) Insert the clause at 52.232-26, Prompt Payment for Fixed-Price Architect-Engineer Contracts, in solicitations and contracts that contain the clause at 52.232-10, Payments Under Fixed-Price Architect-Engineer Contracts.
 
 (1) As authorized in 32.904(c)(2), the contracting officer may modify the date in paragraph (a)(4)(i) of the clause to specify a period longer than 7 days for constructive acceptance or constructive approval, if required to afford the Government a practicable opportunity to inspect and test the supplies furnished or evaluate the services performed.

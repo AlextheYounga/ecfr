@@ -1,0 +1,3 @@
+##### § 1114.25 Communication between FDA and applicants. #####
+
+During the course of reviewing an application, FDA may communicate with an applicant about relevant matters, including scientific, medical, and procedural issues that arise during the review process and inspections. These communications may take the form of telephone conversations, letters, electronic communications, or meetings, and will be documented in the administrative file in accordance with § 10.65 of this chapter.

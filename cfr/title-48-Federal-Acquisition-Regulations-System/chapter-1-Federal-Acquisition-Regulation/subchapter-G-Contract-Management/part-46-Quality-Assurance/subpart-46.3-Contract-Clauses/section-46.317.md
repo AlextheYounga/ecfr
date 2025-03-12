@@ -1,5 +1,7 @@
 ##### 46.317 Reporting nonconforming items. #####
 
+Link to an amendment published at 86 FR 61031, Nov. 4, 2021.
+
 (a) Except as provided in paragraph (b) of this section, the contracting officer shall insert the clause at 52.246-26, Reporting Nonconforming Items, in solicitations and contracts - as follows:
 
 (1) For an acquisition by any agency, including the Department of Defense, of -

@@ -1,5 +1,7 @@
 ##### 25.1103 Other provisions and clauses. #####
 
+Link to an amendment published at 86 FR 61028, Nov. 4, 2021.
+
 (a) *Restrictions on certain foreign purchases.* Insert the clause at 52.225-13, Restrictions on Certain Foreign Purchases, in solicitations and contracts, unless an exception applies.
 
 (b) *Translations.* Insert the clause at 52.225-14, Inconsistency Between English Version and Translation of Contract, in solicitations and contracts if anticipating translation into another language.

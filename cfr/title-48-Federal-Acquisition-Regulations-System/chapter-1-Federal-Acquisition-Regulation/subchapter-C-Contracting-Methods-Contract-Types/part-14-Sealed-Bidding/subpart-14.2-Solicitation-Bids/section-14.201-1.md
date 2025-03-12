@@ -1,5 +1,7 @@
 ##### 14.201-1 Uniform contract format. #####
 
+Link to an amendment published at 86 FR 61025, Nov. 4, 2021.
+
 (a) Contracting officers shall prepare invitations for bids and contracts using the uniform contract format outlined in Table 14-1 to the maximum practicable extent. The use of the format facilitates preparation of the solicitation and contract as well as reference to, and use of, those documents by bidders and contractors. It need not be used for acquisition of the following:
 
 (1) Construction (see part 36).

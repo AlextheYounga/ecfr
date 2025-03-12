@@ -1,5 +1,7 @@
 ##### 22.1302 Policy. #####
 
+Link to an amendment published at 86 FR 61028, Nov. 4, 2021.
+
 (a) Contractors and subcontractors, when entering into contracts and subcontracts subject to the Act, are required to -
 
 (1) List all employment openings, with the appropriate employment service delivery system where the opening occurs, except for -

@@ -1,5 +1,7 @@
 ##### 46.102 Policy. #####
 
+Link to an amendment published at 86 FR 61031, Nov. 4, 2021.
+
 Agencies shall ensure that -
 
 (a) Contracts include inspection and other quality requirements, including warranty clauses when appropriate, that are determined necessary to protect the Government's interest.

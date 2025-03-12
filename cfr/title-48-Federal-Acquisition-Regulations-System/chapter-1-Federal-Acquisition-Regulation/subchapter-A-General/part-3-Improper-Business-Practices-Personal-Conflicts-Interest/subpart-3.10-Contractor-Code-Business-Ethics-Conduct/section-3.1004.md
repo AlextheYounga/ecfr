@@ -1,5 +1,7 @@
 ##### 3.1004 Contract clauses. #####
 
+Link to an amendment published at 86 FR 61020, Nov. 4, 2021.
+
 (a) Insert the clause at FAR 52.203-13, Contractor Code of Business Ethics and Conduct, in solicitations and contracts if the value of the contract is expected to exceed $6 million and the performance period is 120 days or more.
 
 (b)(1) Unless the contract is for the acquisition of a commercial item or will be performed entirely outside the United States, insert the clause at FAR 52.203-14, Display of Hotline Poster(s), if -

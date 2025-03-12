@@ -1,5 +1,7 @@
 ##### 19.1306 HUBZone sole source awards. #####
 
+Link to an amendment published at 86 FR 61041, Nov. 4, 2021.
+
 (a) A contracting officer shall consider a contract award to a HUBZone small business concern on a sole source basis (see 6.302-5(b)(5)) before considering a small business set-aside (see 19.203 and subpart 19.5), provided none of the exclusions at 19.1304 apply; and -
 
 (1) The contracting officer does not have a reasonable expectation that offers would be received from two or more HUBZone small business concerns;

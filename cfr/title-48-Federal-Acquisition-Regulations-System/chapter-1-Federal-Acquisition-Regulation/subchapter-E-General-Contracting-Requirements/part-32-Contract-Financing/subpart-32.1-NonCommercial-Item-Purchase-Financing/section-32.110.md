@@ -1,5 +1,7 @@
 ##### 32.110 Payment of subcontractors under cost-reimbursement prime contracts. #####
 
+Link to an amendment published at 86 FR 61029, Nov. 4, 2021.
+
 If the contractor makes financing payments to a subcontractor under a cost-reimbursement prime contract, the contracting officer should accept the financing payments as reimbursable costs of the prime contract only under the following conditions:
 
 (a) The payments are made under the criteria in subpart 32.5 for customary progress payments based on costs, 32.202-1 for commercial item purchase financing, or 32.1003 for performance-based payments, as applicable.

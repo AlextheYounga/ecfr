@@ -1,5 +1,7 @@
 ##### 7.107-2 Consolidation. #####
 
+Link to an amendment published at 86 FR 61040, Nov. 4, 2021.
+
 (a) Consolidation may provide substantial benefits to the Government. However, because of the potential impact on small business participation, before conducting an acquisition that is a consolidation of requirements with an estimated total dollar value exceeding $2 million, the senior procurement executive or chief acquisition officer shall make a written determination that the consolidation is necessary and justified in accordance with 15 U.S.C. 657q, after ensuring that -
 
 (1) Market research has been conducted;

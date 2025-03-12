@@ -1,5 +1,7 @@
 ##### 22.1803 Contract clause. #####
 
+Link to an amendment published at 86 FR 61028, Nov. 4, 2021.
+
 Insert the clause at 52.222-54, Employment Eligibility Verification, in all solicitations and contracts that exceed $150,000, except those that -
 
 (a) Are only for work that will be performed outside the United States;

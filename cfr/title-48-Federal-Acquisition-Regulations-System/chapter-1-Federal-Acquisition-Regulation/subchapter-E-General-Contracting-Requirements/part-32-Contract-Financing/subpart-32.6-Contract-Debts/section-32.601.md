@@ -1,5 +1,7 @@
 ##### 32.601 General. #####
 
+Link to an amendment published at 86 FR 61030, Nov. 4, 2021.
+
 (a) Contract debts are amounts that -
 
 (1) Have been paid to a contractor to which the contractor is not currently entitled under the terms and conditions of the contract; or

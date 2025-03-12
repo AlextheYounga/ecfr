@@ -1,5 +1,7 @@
 ##### 46.706 Warranty terms and conditions. #####
 
+Link to an amendment published at 86 FR 61031, Nov. 4, 2021.
+
 (a) To facilitate the pricing and enforcement of warranties, the contracting officer shall ensure that warranties clearly state the -
 
 (1) Exact nature of the item and its components and characteristics that the contractor warrants;

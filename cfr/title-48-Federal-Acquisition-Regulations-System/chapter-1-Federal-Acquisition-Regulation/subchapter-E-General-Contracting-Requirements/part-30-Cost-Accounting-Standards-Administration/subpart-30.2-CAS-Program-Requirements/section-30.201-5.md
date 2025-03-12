@@ -1,5 +1,7 @@
 ##### 30.201-5 Waiver. #####
 
+Link to an amendment published at 86 FR 61029, Nov. 4, 2021.
+
 (a) The head of the agency -
 
 (1) May waive the applicability of CAS for a particular contract or subcontract under the conditions listed in paragraph (b) of this subsection; and

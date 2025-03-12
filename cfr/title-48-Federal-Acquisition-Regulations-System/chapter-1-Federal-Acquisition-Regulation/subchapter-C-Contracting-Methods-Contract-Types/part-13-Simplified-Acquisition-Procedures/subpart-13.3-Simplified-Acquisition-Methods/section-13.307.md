@@ -1,5 +1,7 @@
 ##### 13.307 Forms. #####
 
+Link to an amendment published at 86 FR 61025, Nov. 4, 2021.
+
 (a) *Commercial items.* For use of the SF 1449, Solicitation/Contract/Order for Commercial Items, see 12.204.
 
 (b) *Other than commercial items.* (1) Except when quotations are solicited electronically or orally, the SF 1449; SF 18, Request for Quotations; or an agency form/automated format may be used. Each agency request for quotations form/automated format should conform with the SF 18 or SF 1449 to the maximum extent practicable.

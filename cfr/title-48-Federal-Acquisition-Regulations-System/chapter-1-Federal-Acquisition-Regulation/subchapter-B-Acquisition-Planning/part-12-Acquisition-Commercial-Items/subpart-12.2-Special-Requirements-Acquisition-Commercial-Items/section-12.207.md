@@ -1,5 +1,7 @@
 ##### 12.207 Contract type. #####
 
+Link to an amendment published at 86 FR 61022, Nov. 4, 2021.
+
 (a) Except as provided in paragraph (b) of this section, agencies shall use firm-fixed-price contracts or fixed-price contracts with economic price adjustment for the acquisition of commercial items.
 
 (b)(1) A time-and-materials contract or labor-hour contract (see Subpart 16.6) may be used for the acquisition of commercial services when -

@@ -1,5 +1,7 @@
 ##### 52.216-3 Economic Price Adjustment - Semistandard Supplies. #####
 
+Link to an amendment published at 86 FR 61035, Nov. 4, 2021.
+
 As prescribed in 16.203-4(b), insert the following clause. The clause may be modified by increasing the 10 percent limit on aggregate increases specified in subparagraph (c)(1), upon approval by the chief of the contracting office.
 
 Economic Price Adjustment - Semistandard Supplies (JAN 1997)

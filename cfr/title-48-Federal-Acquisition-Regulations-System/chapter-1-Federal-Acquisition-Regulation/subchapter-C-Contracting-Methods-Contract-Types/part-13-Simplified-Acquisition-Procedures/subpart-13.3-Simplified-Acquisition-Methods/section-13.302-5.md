@@ -1,5 +1,7 @@
 ##### 13.302-5 Clauses. #####
 
+Link to an amendment published at 86 FR 61025, Nov. 4, 2021.
+
 (a) Each purchase order (and each purchase order modification (see 13.302-3)) shall incorporate all clauses prescribed for the particular acquisition.
 
 (b) The contracting officer shall insert the clause at 52.213-2, Invoices, in purchase orders that authorize advance payments (see 31 U.S.C. 3324(d)(2)) for subscriptions or other charges for newspapers, magazines, periodicals, or other publications (*i.e.,* any publication printed, microfilmed, photocopied, or magnetically or otherwise recorded for auditory or visual usage).

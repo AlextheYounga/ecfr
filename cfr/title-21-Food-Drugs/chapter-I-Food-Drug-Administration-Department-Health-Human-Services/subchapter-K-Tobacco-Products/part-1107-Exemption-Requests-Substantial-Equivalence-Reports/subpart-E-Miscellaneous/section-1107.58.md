@@ -1,0 +1,3 @@
+##### § 1107.58 Record retention. #####
+
+Each applicant that receives an order under § 1107.46 authorizing the marketing of a new tobacco product must maintain all records required by this subpart and that support the SE Report for a substantial equivalence order. These records must be legible, in the English language, and available for inspection and copying by officers or employees duly designated by the Secretary. All records must be retained for a period of not less than 4 years from the date of the order even if such product is discontinued.

@@ -1,5 +1,7 @@
 ##### 22.305 Contract clause. #####
 
+Link to an amendment published at 86 FR 61028, Nov. 4, 2021.
+
 Insert the clause at 52.222-4, Contract Work Hours and Safety Standards - Overtime Compensation, in solicitations and contracts (including, for this purpose, basic ordering agreements) when the contract may require or involve the employment of laborers or mechanics. However, do not include the clause in solicitations and contracts -
 
 (a) Valued at or below $150,000;

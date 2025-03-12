@@ -1,5 +1,7 @@
 ##### 44.303 Extent of review. #####
 
+Link to an amendment published at 86 FR 61030, Nov. 4, 2021.
+
 A CPSR requires an evaluation of the contractor's purchasing system. Unless segregation of subcontracts is impracticable, this evaluation shall not include subcontracts awarded by the contractor exclusively in support of Government contracts that are competitively awarded firm-fixed-price, competitively awarded fixed-price with economic price adjustment, or awarded for commercial items pursuant to part 12. The considerations listed in 44.202-2 for consent evaluation of particular subcontracts also shall be used to evaluate the contractor's purchasing system, including the contractor's policies, procedures, and performance under that system. Special attention shall be given to -
 
 (a) The results of market research accomplished;

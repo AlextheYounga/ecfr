@@ -1,5 +1,7 @@
 ##### 53.213 Simplified acquisition procedures (SF's 18, 30, 44, 1165, and 1449, and OF's 336, 347, and 348). #####
 
+Link to an amendment published at 86 FR 61037, Nov. 4, 2021.
+
 The following forms are prescribed as stated in this section for use in simplified acquisition procedures, orders under existing contracts or agreements, and orders from required sources of supplies and services:
 
 (a) *SF 18 (Rev. 6/95), Request for Quotations,* or *SF 1449 (Rev. 2/2012), Solicitation/Contract/Order for Commercial Items.* SF 18 is prescribed for use in obtaining price, cost, delivery, and related information from suppliers as specified in 13.307(b). SF 1449, as prescribed in 53.212, or other agency forms/automated formats, may also be used to obtain price, cost, delivery, and related information from suppliers as specified in 13.307(b).

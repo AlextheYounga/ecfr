@@ -1,5 +1,7 @@
 ##### 52.215-1 Instructions to Offerors - Competitive Acquisition. #####
 
+Link to an amendment published at 86 FR 61034, Nov. 4, 2021.
+
 As prescribed in 15.209(a), insert the following provision:
 
 Instructions to Offerors - Competitive Acquisitions (JAN 2017)

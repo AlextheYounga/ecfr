@@ -1,5 +1,7 @@
 ##### 52.232-30 Installment Payments for Commercial Items. #####
 
+Link to an amendment published at 86 FR 61036, Nov. 4, 2021.
+
 As prescribed in 32.206(g), insert the following clause:
 
 Installment Payments for Commercial Items (JAN 2017)

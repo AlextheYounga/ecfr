@@ -1,5 +1,7 @@
 ##### 15.401 Definitions. #####
 
+Link to an amendment published at 86 FR 61026, Nov. 4, 2021.
+
 As used in this subpart -
 
 *Price* means cost plus any fee or profit applicable to the contract type.

@@ -1,5 +1,7 @@
 ##### 15.408 Solicitation provisions and contract clauses. #####
 
+Link to an amendment published at 86 FR 61026, Nov. 4, 2021.
+
 (a) *Changes or Additions to Make-or-Buy Program.* The contracting officer shall insert the clause at 52.215-9, Changes or Additions to Make-or-Buy Program, in solicitations and contracts when it is contemplated that a make-or- buy program will be incorporated in the contract. If a less economical “make” or “buy” categorization is selected for one or more items of significant value, the contracting officer shall use the clause with -
 
 (1) Its *Alternate I,* if a fixed-price incentive contract is contemplated; or

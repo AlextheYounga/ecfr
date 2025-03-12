@@ -1,5 +1,7 @@
 ##### 18.201 Contingency operation. #####
 
+Link to an amendment published at 86 FR 61027, Nov. 4, 2021.
+
 (a) *Contingency operation* is defined in 2.101.
 
 (b) *Micro-purchase threshold.* The threshold increases when the head of the agency determines the supplies or services are to be used to support a contingency operation. (See 2.101 and 13.201(g).)

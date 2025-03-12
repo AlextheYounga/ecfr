@@ -1,5 +1,7 @@
 ##### 12.404 Warranties. #####
 
+Link to an amendment published at 86 FR 61023, Nov. 4, 2021.
+
 (a) *Implied warranties.* The Government's post award rights contained in 52.212-4 are the implied warranty of merchantability, the implied warranty of fitness for particular purpose and the remedies contained in the acceptance paragraph.
 
 (1) The implied warranty of merchantability provides that an item is reasonably fit for the ordinary purposes for which such items are used. The items must be of at least average, fair or medium-grade quality and must be comparable in quality to those that will pass without objection in the trade or market for items of the same description.

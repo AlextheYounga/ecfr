@@ -1,5 +1,7 @@
 ##### 52.215-14 Integrity of Unit Prices. #####
 
+Link to an amendment published at 86 FR 61034, Nov. 4, 2021.
+
 As prescribed in 15.408(f)(1), insert the following clause:
 
 Integrity of Unit Prices (JUN 2020)

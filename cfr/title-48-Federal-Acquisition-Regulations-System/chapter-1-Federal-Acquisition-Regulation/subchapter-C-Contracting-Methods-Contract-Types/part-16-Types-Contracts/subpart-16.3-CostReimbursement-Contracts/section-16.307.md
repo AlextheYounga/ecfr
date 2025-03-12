@@ -1,5 +1,7 @@
 ##### 16.307 Contract clauses. #####
 
+Link to an amendment published at 86 FR 61027, Nov. 4, 2021.
+
 (a)(1) The contracting officer shall insert the clause at 52.216-7, Allowable Cost and Payment, in solicitations and contracts when a cost-reimbursement contract or a time-and-materials contract (other than a contract for a commercial item) is contemplated. If the contract is a time-and-materials contract, the clause at 52.216-7 applies in conjunction with the clause at 52.232-7, but only to the portion of the contract that provides for reimbursement of materials (as defined in the clause at 52.232-7) at actual cost. Further, the clause at 52.216-7 does not apply to labor-hour contracts.
 
 (2) If the contract is a construction contract and contains the clause at 52.232-27, Prompt Payment for Construction Contracts, the contracting officer shall use the clause at 52.216-7 with its *Alternate I.*

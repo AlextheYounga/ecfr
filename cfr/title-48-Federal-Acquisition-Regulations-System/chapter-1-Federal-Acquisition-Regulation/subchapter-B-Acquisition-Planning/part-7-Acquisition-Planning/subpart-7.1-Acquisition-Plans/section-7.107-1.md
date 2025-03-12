@@ -1,5 +1,7 @@
 ##### 7.107-1 General. #####
 
+Link to an amendment published at 86 FR 61040, Nov. 4, 2021.
+
 (a) If the requirement is considered both consolidated and bundled, the agency shall follow the guidance regarding bundling in 7.107-3 and 7.107-4.
 
 (b) The requirements of this section 7.107 do not apply -

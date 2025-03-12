@@ -1,5 +1,7 @@
 ##### 32.504 Subcontracts under prime contracts providing progress payments. #####
 
+Link to an amendment published at 86 FR 61030, Nov. 4, 2021.
+
 (a) Subcontracts may include either performance-based payments, provided they meet the criteria in 32.1003, or progress payments, provided they meet the criteria in subpart 32.5 for customary progress payments, but not both. Subcontracts for commercial purchases may include commercial item purchase financing terms, provided they meet the criteria in 32.202-1.
 
 (b) The contractor's requests for progress payments may include the full amount of commercial item purchase financing payments, performance-based payments, or progress payments to a subcontractor, whether paid or unpaid, provided that unpaid amounts are limited to amounts determined due and that the contractor will pay -

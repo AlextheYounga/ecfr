@@ -1,5 +1,7 @@
 ##### 32.000 Scope of part. #####
 
+Link to an amendment published at 86 FR 61029, Nov. 4, 2021.
+
 This part prescribes policies and procedures for contract financing and other payment matters. This part addresses -
 
 (a) Payment methods, including partial payments and progress payments based on percentage or stage of completion;

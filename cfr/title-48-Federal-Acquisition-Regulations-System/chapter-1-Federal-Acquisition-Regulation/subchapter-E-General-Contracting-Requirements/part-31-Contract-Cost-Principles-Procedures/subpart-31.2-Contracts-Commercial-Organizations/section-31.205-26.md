@@ -1,5 +1,7 @@
 ##### 31.205-26 Material costs. #####
 
+Link to an amendment published at 86 FR 61029, Nov. 4, 2021.
+
 (a) Material costs include the costs of such items as raw materials, parts, subassemblies, components, and manufacturing supplies, whether purchased or manufactured by the contractor, and may include such collateral items as inbound transportation and in-transit insurance. In computing material costs, the contractor shall consider reasonable overruns, spoilage, or defective work (unless otherwise provided in any contract provision relating to inspecting and correcting defective work).
 
 (b) The contractor shall -

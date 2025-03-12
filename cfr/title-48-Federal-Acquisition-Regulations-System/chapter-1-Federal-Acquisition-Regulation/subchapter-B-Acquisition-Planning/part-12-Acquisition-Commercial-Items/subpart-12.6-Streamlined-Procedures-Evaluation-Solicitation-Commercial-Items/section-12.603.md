@@ -1,5 +1,7 @@
 ##### 12.603 Streamlined solicitation for commercial items. #####
 
+Link to an amendment published at 86 FR 61024, Nov. 4, 2021.
+
 (a) When a written solicitation will be issued, the contracting officer may use the following procedure to reduce the time required to solicit and award contracts for the acquisition of commercial items. This procedure combines the synopsis required by 5.203 and the issuance of the solicitation into a single document.
 
 (b) When using the combined synopsis/solicitation procedure, the SF 1449 is not used for issuing the solicitation.

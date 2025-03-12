@@ -1,5 +1,7 @@
 ##### 52.216-2 Economic Price Adjustment - Standard Supplies. #####
 
+Link to an amendment published at 86 FR 61034, Nov. 4, 2021.
+
 As prescribed in 16.203-4(a), insert the following clause. The clause may be modified by increasing the 10 percent limit on aggregate increases specified in subparagraph (c)(1), upon approval by the chief of the contracting office.
 
 Economic Price Adjustment - Standard Supplies (JAN 1997)

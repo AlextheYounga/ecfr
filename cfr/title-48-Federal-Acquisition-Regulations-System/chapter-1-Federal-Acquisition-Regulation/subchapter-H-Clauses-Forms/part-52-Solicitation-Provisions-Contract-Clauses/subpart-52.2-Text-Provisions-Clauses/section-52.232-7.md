@@ -1,5 +1,7 @@
 ##### 52.232-7 Payments under Time-and-Materials and Labor-Hour Contracts. #####
 
+Link to an amendment published at 86 FR 61036, Nov. 4, 2021.
+
 As prescribed in 32.111(a)(7), insert the following clause:
 
 Payments Under Time-and-Materials and Labor-Hour Contracts (AUG 2012)

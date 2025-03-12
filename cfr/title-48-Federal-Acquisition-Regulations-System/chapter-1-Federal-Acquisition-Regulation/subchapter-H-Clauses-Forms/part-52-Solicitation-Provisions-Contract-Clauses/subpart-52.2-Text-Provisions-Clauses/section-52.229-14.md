@@ -1,5 +1,7 @@
 ##### 52.229-14 Taxes - Foreign Contracts in Afghanistan (North Atlantic Treaty Organization Status of Forces Agreement). #####
 
+Link to an amendment published at 86 FR 61036, Nov. 4, 2021.
+
 As prescribed in 29.402-4(b), use the following clause:
 
 Taxes - Foreign Contracts in Afghanistan (North Atlantic Treaty Organization Status of Forces Agreement) (NOV 2020)

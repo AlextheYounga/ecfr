@@ -1,5 +1,7 @@
 ##### 37.601 General. #####
 
+Link to an amendment published at 86 FR 61030, Nov. 4, 2021.
+
 (a) Solicitations may use either a performance work statement or a statement of objectives (see 37.602).
 
 (b) Performance-based contracts for services shall include -

@@ -1,5 +1,7 @@
 ##### 16.601 Time-and-materials contracts. #####
 
+Link to an amendment published at 86 FR 61027, Nov. 4, 2021.
+
 (a) *Definitions for the purposes of Time-and-Materials Contracts.*
 
 *Direct materials* means those materials that enter directly into the end product, or that are used or consumed directly in connection with the furnishing of the end product or service.

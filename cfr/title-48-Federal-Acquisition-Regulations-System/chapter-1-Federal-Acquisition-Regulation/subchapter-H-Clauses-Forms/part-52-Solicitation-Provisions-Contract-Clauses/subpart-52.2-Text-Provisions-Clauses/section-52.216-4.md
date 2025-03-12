@@ -1,5 +1,7 @@
 ##### 52.216-4 Economic Price Adjustment - Labor and Material. #####
 
+Link to an amendment published at 86 FR 61035, Nov. 4, 2021.
+
 As prescribed in 16.203-4(c), when contracting by negotiation, insert a clause that is substantially the same as the following clause in solicitations and contracts when the conditions specified in 16.203-4(c)(1)(i) through (iv) apply (but see 16.203-4(c)(2)). The clause may be modified by increasing the 10-percent limit on aggregate increases specified in subparagraph (c)(4), upon approval by the chief of the contracting office.
 
 Economic Price Adjustment - Labor and Material (JAN 2017)

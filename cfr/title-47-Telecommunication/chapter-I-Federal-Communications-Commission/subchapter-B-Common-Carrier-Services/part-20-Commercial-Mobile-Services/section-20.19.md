@@ -1,7 +1,5 @@
 ##### § 20.19 Hearing aid-compatible mobile handsets. #####
 
-Link to an amendment published at 86 FR 23627, May 4, 2021.
-
 (a) *Definitions.* For purposes of this section:
 
 *2007 ANSI standard* refers to the technical standard for hearing aid compatibility applicable to frequencies between 800 MHz and 3 GHz as set forth in ANSI C63.19-2007.
@@ -28,7 +26,7 @@ Link to an amendment published at 86 FR 23627, May 4, 2021.
 
 *Volume control requirements* refers to the technical standard established by ANSI/TIA-5050-2018.
 
-(b) *Hearing aid compatibility; technical standards* - (1) *Handset compatibility on or after June 5, 2023.* In order to satisfy a manufacturer or service provider's obligations under paragraphs (c) and (d) of this section, a handset submitted for equipment certification or for a permissive change relating to hearing aid compatibility on or after June 5, 2023 must meet the 2019 ANSI standard.
+(b) *Hearing aid compatibility; technical standards*—(1) *Handset compatibility on or after June 5, 2023.* In order to satisfy a manufacturer or service provider's obligations under paragraphs (c) and (d) of this section, a handset submitted for equipment certification or for a permissive change relating to hearing aid compatibility on or after June 5, 2023 must meet the 2019 ANSI standard.
 
 (2) *Handset compatibility before June 5, 2023.* In order to satisfy a manufacturer or service provider's obligations under paragraphs (c) and (d) of this section, a handset submitted for equipment certification or for a permissive change relating to hearing aid compatibility before June 5, 2023 must meet either:
 
@@ -46,19 +44,19 @@ Link to an amendment published at 86 FR 23627, May 4, 2021.
 
 (c) *Phase-in of hearing aid-compatibility requirements.* The following applies to each manufacturer and service provider that offers handsets used to deliver the services specified in paragraph (a) of this section and that does not fall within the *de minimis* exception set forth in paragraph (e) of this section.
 
-(1) *Manufacturers - Number of hearing aid-compatible handset models offered.* For each digital air interface for which it offers handsets in the United States or imported for use in the United States, each manufacturer must offer hearing aid compatible handsets as follows:
+(1) *Manufacturers—Number of hearing aid-compatible handset models offered.* For each digital air interface for which it offers handsets in the United States or imported for use in the United States, each manufacturer must offer hearing aid compatible handsets as follows:
 
 (i) Beginning October 3, 2018, at least sixty-six (66) percent of those handset models (rounded down to the nearest whole number) must be hearing aid-compatible under paragraph (b) of this section.
 
 (ii) Beginning October 4, 2021, at least eighty-five (85) percent of those handset models (rounded down to the nearest whole number) must be hearing aid-compatible under paragraph (b) of this section.
 
-(2) *Tier I carriers - Number of hearing aid-compatible handsets models offered.* For each digital air interface for which it offers handsets to customers, each Tier I carrier must:
+(2) *Tier I carriers—Number of hearing aid-compatible handsets models offered.* For each digital air interface for which it offers handsets to customers, each Tier I carrier must:
 
 (i) Beginning April 3, 2019, ensure that at least sixty-six (66) percent of the handset models it offers are hearing aid-compatible under paragraph (b) of this section, calculated based on the total number of unique handset models the carrier offers nationwide.
 
 (ii) Beginning April 4, 2022, ensure that at least eighty-five (85) percent of the handset models it offers are hearing aid-compatible under paragraph (b) of this section, calculated based on the total number of unique handset models the carrier offers nationwide.
 
-(3) *Service providers other than Tier I carriers - Number of hearing aid-compatible handsets models offered.* For each digital air interface for which it offers handsets to customers, each service provider other than a Tier I carrier must:
+(3) *Service providers other than Tier I carriers—Number of hearing aid-compatible handsets models offered.* For each digital air interface for which it offers handsets to customers, each service provider other than a Tier I carrier must:
 
 (i) Beginning April 3, 2020, ensure that at least sixty-six (66) percent of the handset models it offers are hearing aid-compatible under paragraph (b) of this section, calculated based on the total number of unique handset models the carrier offers.
 
@@ -76,25 +74,31 @@ Link to an amendment published at 86 FR 23627, May 4, 2021.
 
 (3) Manufacturers that offer four or five handset models in an air interface must offer at least two handset models that are hearing aid-compatible under paragraph (b) of this section in that air interface. Tier I carriers who offer four handset models in an air interface must offer at least two handsets that are hearing aid-compatible under paragraph (b) of this section in that air interface and Tier I carriers who offer five handset models in an air interface must offer at least three handsets that are hearing aid-compatible under paragraph (b) of this section in that air interface. Service providers, other than Tier I carriers, who offer four handset models in an air interface must offer at least two handset models that are hearing aid-compatible under paragraph (b) of this section in that air interface and service providers, other than Tier I carriers, who offer five handset models in an air interface must offer at least three handsets that are hearing aid-compatible under paragraph (b) of this section in that air interface.
 
-(f) *Labeling and disclosure requirements* - (1) *Labeling requirements* - (i) *Inductive coupling and RF interference reduction.* Manufacturers and service providers shall ensure that handsets that are hearing aid-compatible, as defined in paragraph (b) of this section, clearly display the rating, as defined in paragraphs (b)(1) and (2) of this section, on the packaging material of the handset. In the event that a hearing aid-compatible handset achieves different radio interference or inductive coupling ratings over different air interfaces or different frequency bands, the RF interference reduction and inductive coupling capability ratings displayed shall be the lowest rating assigned to that handset for any air interface or frequency band. An explanation of the ANSI C63.19 rating system must also be included in the device's user's manual or as an insert in the packaging material for the handset.
+(f) *Labeling and disclosure requirements for hearing aid-compatible handsets*—(1) *Package label.* For all handset models certified to be hearing aid-compatible, manufacturers and service providers shall ensure that the handset's package label states that the handset is hearing aid-compatible and the handset's actual conversational gain with and without a hearing aid if certified using a technical standard with volume control requirements. The actual conversational gain displayed for use with a hearing aid shall be the lowest rating assigned to the handset for any covered air interface or frequency band.
 
-(ii) [Reserved]
+(2) *Package insert or handset manual.* For all handset models certified to be hearing aid-compatible, manufacturers and service providers shall disclose to consumers through the use of a package insert or in the handset's user manual:
 
-(2) Disclosure requirements relating to handsets treated as hearing aid-compatible over fewer than all their operations.
+(i) That the handset is hearing aid-compatible;
 
-(i) Each manufacturer and service provider shall ensure that, wherever it provides hearing aid compatibility ratings for a handset that is considered hearing aid-compatible under paragraph (b)(3)(ii) of this section only with respect to those frequency bands and air interfaces for which technical standards are stated in ANSI C63.19-2007 and that has not been tested for hearing aid compatibility under ANSI C63.19-2011, or any handset that operates over frequencies outside of the 698 MHz to 6 GHz bands, it discloses to consumers, by clear and effective means (e.g., inclusion of call-out cards or other media, revisions to packaging materials, supplying of information on Web sites), that the handset has not been rated for hearing aid compatibility with respect to some of its operation(s). This disclosure shall include the following language:
+(ii) The ANSI standard used to determine the hearing aid compatibility of the handset model's air interfaces and frequency bands;
 
-This phone has been tested and rated for use with hearing aids for some of the wireless technologies that it uses. However, there may be some newer wireless technologies used in this phone that have not been tested yet for use with hearing aids. It is important to try the different features of this phone thoroughly and in different locations, using your hearing aid or cochlear implant, to determine if you hear any interfering noise. Consult your service provider or the manufacturer of this phone for information on hearing aid compatibility. If you have questions about return or exchange policies, consult your service provider or phone retailer.
+(iii) If using the 2011 ANSI standard or an earlier version of the standard, the lowest hearing aid compatibility rating assigned to any of the covered air interfaces or frequency bands;
 
-(ii) However, service providers are not required to include this language in the packaging material for handsets that incorporate a Wi-Fi air interface and that were obtained by the service provider before March 8, 2011, provided that the service provider otherwise discloses by clear and effective means that the handset has not been rated for hearing aid compatibility with respect to Wi-Fi operation.
+(iv) The air interfaces or frequency bands on the handset that are not certified to be hearing aid-compatible, if applicable, or have been determined to be hearing aid-compatible under special testing circumstances;
 
-(iii) Each manufacturer and service provider shall ensure that, wherever it provides hearing aid compatibility ratings for a handset that is considered hearing aid-compatible under paragraph (b)(3)(ii) of this section only with respect to those frequency bands and air interfaces for which technical standards are stated in ANSI C63.19-2007, and that the manufacturer has tested and found not to meet hearing aid compatibility requirements under ANSI C63.19-2011 for operations over one or more air interfaces or frequency bands for which technical standards are not stated in ANSI C63.19-2007, it discloses to consumers, by clear and effective means (e.g., inclusion of call-out cards or other media, revisions to packaging materials, supplying of information on Web sites), that the handset does not meet the relevant rating or ratings with respect to such operation(s).
+(v) Any handset model certified to be hearing aid-compatible for some but not all of the air interfaces or frequency bands covered by the model must include the following disclosure language:
 
-(3) *Disclosure requirement relating to handsets that allow the user to reduce the maximum power for GSM operation in the 1900 MHz band.* Handsets offered to satisfy paragraph (e)(1)(iii) of this section shall be labeled as meeting an M3 rating. Each manufacturer and service provider shall ensure that, wherever this rating is displayed, it discloses to consumers, by clear and effective means (*e.g.,* inclusion of call-out cards or other media, revisions to packaging materials, supplying of information on Web sites), that user activation of a special mode is necessary to meet the hearing aid compatibility standard. In addition, each manufacturer or service provider shall ensure that the device manual or a product insert explains how to activate the special mode and that doing so may result in a reduction of coverage.
+This phone has been tested and certified for use with hearing aids for some of the wireless technologies that it uses. However, there may be some newer wireless technologies used in this phone that have not been tested yet for use with hearing aids. It is important to try the different features of this phone thoroughly and in different locations, using your hearing aid or cochlear implant, to determine if you hear any interfering noise. Consult your service provider or the manufacturer of this phone for information on hearing aid compatibility. If you have questions about return or exchange policies, consult your service provider or phone retailer.
+
+(vi) An explanation of the ANSI rating system, which includes an explanation that the 2019 ANSI standard does not use the rating system that older versions of the standard used;
+
+(vii) An explanation of a handset model's volume control capabilities, including its conversational gain both with and without hearing aids, if the handset is certified using a technical standard that includes volume control requirements; and
+
+(viii) An explanation of special testing circumstances, if a handset model has air interfaces that have been certified as hearing aid-compatible under such circumstances, and how these circumstances affect the use and operation of the handset.
 
 (g) *Model designation requirements.* Where a manufacturer has made physical changes to a handset that result in a change in the hearing aid compatibility rating under the 2011 ANSI standard or an earlier version of the standard, the altered handset must be given a model designation distinct from that of the handset prior to its alteration.
 
-(h) *Website and record retention requirements.* (1) Each manufacturer and service provider that operates a publicly-accessible website must make available on its website a list of all hearing aid-compatible models currently offered, the ratings of those models, and an explanation of the rating system. Each service provider must also specify on its website, based on the levels of functionality and rating that the service provider has defined, the level that each hearing aid-compatible model falls under, as well as an explanation of how the functionality of the handsets varies at the different levels. Each service provider must also include on its website: A list of all non-hearing aid-compatible models currently offered, including the level of functionality that each of those models falls under, an explanation of how the functionality of the handsets varies at the different levels as well as a link to the current FCC web page containing information about the wireless hearing aid compatibility rules and service providers' obligations. Each service provider must also include the marketing model name/number(s) and FCC ID number of each hearing aid-compatible and non-hearing aid-compatible model currently offered.
+(h) *Website and record retention requirements.* (1) Each manufacturer and service provider that operates a publicly-accessible website must make available on its website a list of all hearing aid-compatible models currently offered, the ANSI standard used to evaluate hearing aid compatibility, the ratings of those models under the relevant ANSI standard, if applicable, and an explanation of the rating system. Each service provider must also include on its website: A list of all non-hearing aid-compatible models currently offered, as well as a link to the current FCC web page containing information about the wireless hearing aid compatibility rules and service providers' obligations. Each service provider must also include the marketing model name/number(s) and FCC ID number of each hearing aid-compatible and non-hearing aid-compatible model currently offered.
 
 (2) Service providers must maintain on their website either:
 
@@ -108,35 +112,9 @@ This phone has been tested and rated for use with hearing aids for some of the w
 
 (5) Service providers must maintain internal records including the ratings, if applicable, of all hearing aid-compatible and non-hearing aid-compatible models no longer offered (if the calendar month/year that model was last offered is within 24 months of the current calendar month/year); for models no longer offered (if the calendar month/year that model was last offered is within 24 months of the current calendar month/year), the calendar months and years each hearing aid-compatible and non-hearing aid-compatible model was first and last offered; and the marketing model name/number(s) and FCC ID number of each hearing aid-compatible and non-hearing aid-compatible model no longer offered (if the calendar month/year that model was last offered is within 24 months of the current calendar month/year).
 
-(i) *Reporting requirements* - (1) *Reporting and certification dates.* Manufacturers shall submit reports on efforts toward compliance with the requirements of this section on an annual basis on July 15. Service providers shall submit certifications on their compliance with the requirements of this section by January 15 of each year. Information in each report and certification must be up-to-date as of the last day of the calendar month preceding the due date of each report and certification.
+(i) *Reporting requirements*—(1) *Reporting and certification dates.* Service providers shall submit Form 855 certifications on their compliance with the requirements of this section by January 31 of each year. Manufacturers shall submit Form 655 reports on their compliance with the requirements of this section by July 31 of each year. Information in each certification and report must be up-to-date as of the last day of the calendar month preceding the due date of each certification and report.
 
-(2) *Content of manufacturer reports.* Reports filed by manufacturers must include:
-
-(i) Digital wireless handset models tested, since the most recent report, for compliance with the applicable hearing aid compatibility technical ratings;
-
-(ii) Compliant handset models offered to service providers since the most recent report, identifying each model by marketing model name/number(s) and FCC ID number;
-
-(iii) For each compliant model, the air interface(s) and frequency band(s) over which it operates, the hearing aid compatibility ratings for each frequency band and air interface under ANSI Standard C63.19, the ANSI Standard C63.19 version used, and the months in which the model was available to service providers since the most recent report;
-
-(iv) Non-compliant models offered to service providers since the most recent report, identifying each model by marketing model name/number(s) and FCC ID number;
-
-(v) For each non-compliant model, the air interface(s) over which it operates and the months in which the model was available to service providers since the most recent report;
-
-(vi) Total numbers of compliant and non-compliant models offered to service providers for each air interface as of the time of the report;
-
-(vii) Any instance, as of the date of the report or since the most recent report, in which multiple compliant or non-compliant devices were marketed under separate model name/numbers but constitute a single model for purposes of the hearing aid compatibility rules, identifying each device by marketing model name/number and FCC ID number;
-
-(viii) Status of product labeling;
-
-(ix) Outreach efforts; and
-
-(x) If the manufacturer maintains a public Web site, the Web site address of the page(s) containing the information regarding hearing aid-compatible handset models required by paragraph (h) of this section.
-
-Note to paragraph (i)(2):
-
-For reports due on January 15, 2009, information provided with respect to paragraphs (i)(2)(ii) through(i)(2)(v) and (i)(2)(vii) and (i)(2)(viii) need be provided only for the six-month period from July 1 to December 31, 2008.
-
-(3) *Content of service provider certifications.* Certifications filed by service providers must include:
+(2) *Content of service provider certifications.* Certifications filed by service providers must include:
 
 (i) The name of the signing executive and contact information;
 
@@ -156,9 +134,31 @@ I certify that the provider was [(in full compliance/not in full compliance)] [c
 
 The company represents and warrants, and I certify by this declaration under penalty of perjury pursuant to 47 CFR 1.16 that the above certification is consistent with 47 CFR 1.17, which requires truthful and accurate statements to the Commission. The company also acknowledges that false statements and misrepresentations to the Commission are punishable under Title 18 of the U.S. Code and may subject it to enforcement action pursuant to Sections 501 and 503 of the Act.
 
-(vii) If the company selected that it was not in full compliance, an explanation of which wireless hearing aid compatibility requirements it was not in compliance with, when the non-compliance began and (if applicable) ended with respect to each requirement.
+(vii) If the company selected that it was not in full compliance with this section, an explanation of which wireless hearing aid compatibility requirements it was not in compliance with, when the non-compliance began and (if applicable) ended with respect to each requirement.
 
-(4) *Format.* The Wireless Telecommunications Bureau is delegated authority to approve or prescribe formats and methods for submission of the reports and certifications required by this section. Any format that the Bureau may approve or prescribe shall be made available on the Bureau's website.
+(3) *Content of manufacturer reports.* Reports filed by manufacturers must include:
+
+(i) Handset models tested, since the most recent report, for compliance with the applicable hearing aid compatibility technical ratings, if applicable;
+
+(ii) Compliant handset models offered to service providers since the most recent report, identifying each model by marketing model name/number(s) and FCC ID number;
+
+(iii) For each compliant model, the air interface(s) and frequency band(s) over which it operates, the hearing aid compatibility ratings for each frequency band and air interface under the ANSI standard (if applicable), the ANSI standard version used, and the months in which the model was available to service providers since the most recent report;
+
+(iv) Non-compliant models offered to service providers since the most recent report, identifying each model by marketing model name/number(s) and FCC ID number;
+
+(v) For each non-compliant model, the air interface(s) over which it operates and the months in which the model was available to service providers since the most recent report;
+
+(vi) Total numbers of compliant and non-compliant models offered to service providers for each air interface as of the time of the report;
+
+(vii) Any instance, as of the date of the report or since the most recent report, in which multiple compliant or non-compliant devices were marketed under separate model name/numbers but constitute a single model for purposes of the hearing aid compatibility rules, identifying each device by marketing model name/number and FCC ID number;
+
+(viii) Status of product labeling;
+
+(ix) Outreach efforts; and
+
+(x) If the manufacturer maintains a public website, the website address of the page(s) containing the information regarding hearing aid-compatible handset models required by paragraph (h) of this section.
+
+(4) *Format.* The Wireless Telecommunications Bureau is delegated authority to approve or prescribe forms, formats, and methods for submission of the reports and certifications in addition to or instead of those required by this section. Any format that the Bureau may approve or prescribe shall be made available on the Bureau's website.
 
 (j) *Enforcement.* Enforcement of this section is hereby delegated to those states that adopt this section and provide for enforcement. The procedures followed by a state to enforce this section shall provide a 30-day period after a complaint is filed, during which time state personnel shall attempt to resolve a dispute on an informal basis. If a state has not adopted or incorporated this section, or failed to act within six (6) months from the filing of a complaint with the state public utility commission, the Commission will accept such complaints. A written notification to the complainant that the state believes action is unwarranted is not a failure to act. The procedures set forth in part 68, subpart E of this chapter are to be followed.
 
@@ -178,8 +178,8 @@ The company represents and warrants, and I certify by this declaration under pen
 
 (2) Telecommunications Industry Association (TIA), 1320 North Courthouse Road, Suite 200, Arlington, VA 22201, (703) 907-7700, *global@ihs.com, https://global.ihs.com/csf\_home.cfm?&csf=TIA.*
 
-(i) ANSI/TIA-5050-2018, Telecommunications - Communications Products - Receive Volume Control Requirements for Wireless (Mobile) Devices, approved January 17, 2018.
+(i) ANSI/TIA-5050-2018, Telecommunications—Communications Products—Receive Volume Control Requirements for Wireless (Mobile) Devices, approved January 17, 2018.
 
 (ii) [Reserved]
 
-[73 FR 25587, May 7, 2008, as amended at 75 FR 54522, Sept. 8, 2010; 77 FR 41928, July 17, 2012; 81 FR 183, Jan. 5, 2016; 81 FR 60633, Sept. 2, 2016; 83 FR 8631, Feb. 28, 2018; 83 FR 63105, Dec. 7, 2018; 84 FR 37592, Aug. 1, 2019; 86 FR 23625, May 4, 2021]
+[73 FR 25587, May 7, 2008, as amended at 75 FR 54522, Sept. 8, 2010; 77 FR 41928, July 17, 2012; 81 FR 183, Jan. 5, 2016; 81 FR 60633, Sept. 2, 2016; 83 FR 8631, Feb. 28, 2018; 83 FR 63105, Dec. 7, 2018; 84 FR 37592, Aug. 1, 2019; 86 FR 23625, 23627, May 4, 2021]

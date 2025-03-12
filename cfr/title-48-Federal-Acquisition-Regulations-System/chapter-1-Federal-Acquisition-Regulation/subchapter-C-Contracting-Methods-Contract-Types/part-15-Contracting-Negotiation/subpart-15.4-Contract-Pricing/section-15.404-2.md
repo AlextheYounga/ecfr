@@ -1,5 +1,7 @@
 ##### 15.404-2 Data to support proposal analysis. #####
 
+Link to an amendment published at 86 FR 61026, Nov. 4, 2021.
+
 (a) *Field pricing assistance.* (1) The contracting officer should request field pricing assistance when the information available at the buying activity is inadequate to determine a fair and reasonable price. The contracting officer shall tailor requests to reflect the minimum essential supplementary information needed to conduct a technical or cost or pricing analysis.
 
 (2) The contracting officer shall tailor the type of information and level of detail requested in accordance with the specialized resources available at the buying activity and the magnitude and complexity of the required analysis. Field pricing assistance is generally available to provide -

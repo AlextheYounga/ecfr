@@ -1,5 +1,7 @@
 ##### 6.302-5 Authorized or required by statute. #####
 
+Link to an amendment published at 86 FR 61020, Nov. 4, 2021.
+
 (a) *Authority.* (1) Citations: 10 U.S.C. 2304(c)(5) or 41 U.S.C. 3304(a)(5).
 
 (2) Full and open competition need not be provided for when -

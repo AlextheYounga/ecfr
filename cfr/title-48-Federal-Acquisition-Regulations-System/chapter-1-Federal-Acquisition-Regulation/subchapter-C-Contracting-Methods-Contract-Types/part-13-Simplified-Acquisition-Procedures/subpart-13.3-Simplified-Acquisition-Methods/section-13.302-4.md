@@ -1,5 +1,7 @@
 ##### 13.302-4 Termination or cancellation of purchase orders. #####
 
+Link to an amendment published at 86 FR 61025, Nov. 4, 2021.
+
 (a) If a purchase order that has been accepted in writing by the contractor is to be terminated, the contracting officer shall process the termination in accordance with -
 
 (1) 12.403 and 52.212-4(l) or (m) for commercial items; or

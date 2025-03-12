@@ -1,0 +1,3 @@
+##### § 1107.46 Issuance of an order finding a new tobacco product substantially equivalent. #####
+
+If FDA finds that the information submitted in the SE Report establishes that the new tobacco product is substantially equivalent to a predicate tobacco product that was commercially marketed (other than for test marketing) in the United States on February 15, 2007, and finds that the new tobacco product is in compliance with the requirements of the Federal Food, Drug, and Cosmetic Act, FDA will send the applicant an order authorizing marketing of the new tobacco product. A marketing authorization order becomes effective on the date the order is issued.

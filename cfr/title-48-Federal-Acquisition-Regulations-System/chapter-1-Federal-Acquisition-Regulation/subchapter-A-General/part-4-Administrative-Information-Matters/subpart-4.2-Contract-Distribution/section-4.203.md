@@ -1,5 +1,7 @@
 ##### 4.203 Taxpayer identification information. #####
 
+Link to an amendment published at 86 FR 61020, Nov. 4, 2021.
+
 (a) If the contractor has furnished a Taxpayer Identification Number (TIN) when completing the solicitation provision at 52.204-3, Taxpayer Identification, or paragraph (l) of the solicitation provision at 52.212-3, Offeror Representations and Certifications - Commercial Items, the contracting officer shall, unless otherwise provided in agency procedures, attach a copy of the completed solicitation provision as the last page of the copy of the contract sent to the payment office.
 
 (b) If the TIN or type of organization is derived from a source other than the provision at 52.204-3 or 52.212-3(l), the contracting officer shall annotate the last page of the contract or order forwarded to the payment office to state the contractor's TIN and type of organization, unless this information is otherwise provided to the payment office in accordance with agency procedures.

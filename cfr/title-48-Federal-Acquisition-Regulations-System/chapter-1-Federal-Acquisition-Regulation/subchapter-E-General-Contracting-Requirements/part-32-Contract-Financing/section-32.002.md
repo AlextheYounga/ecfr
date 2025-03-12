@@ -1,5 +1,7 @@
 ##### 32.002 Applicability of subparts. #####
 
+Link to an amendment published at 86 FR 61029, Nov. 4, 2021.
+
 (a) The following sections and subparts of this part are applicable to all purchases subject to part 32:
 
 (1) Sections 32.000 through 32.009.

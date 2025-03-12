@@ -1,12 +1,14 @@
 ##### 15.407-2 Make-or-buy programs. #####
 
+Link to an amendment published at 86 FR 61026, Nov. 4, 2021.
+
 (a) *General.* The prime contractor is responsible for managing contract performance, including planning, placing, and administering subcontracts as necessary to ensure the lowest overall cost and technical risk to the Government. When make-or-buy programs are required, the Government may reserve the right to review and agree on the contractor's make-or-buy program when necessary to ensure negotiation of reasonable contract prices, satisfactory performance, or implementation of socioeconomic policies. Consent to subcontracts and review of contractors' purchasing systems are separate actions covered in part 44.
 
 (b) *Definition. Make item,* as used in this subsection, means an item or work effort to be produced or performed by the prime contractor or its affiliates, subsidiaries, or divisions.
 
 (c) *Acquisitions requiring make-or-buy programs.* (1) Contracting officers may require prospective contractors to submit make-or-buy program plans for negotiated acquisitions requiring certified cost or pricing data whose estimated value is $15 million or more, except when the proposed contract is for research or development and, if prototypes or hardware are involved, no significant follow-on production is anticipated.
 
-(2) Contracting officers may require prospective contractors to submit make-or-buy programs for negotiated acquisitions whose estimated value is under $15million only if the contracting officer -
+(2) Contracting officers may require prospective contractors to submit make-or-buy programs for negotiated acquisitions whose estimated value is under $15 million only if the contracting officer -
 
 (i) Determines that the information is necessary; and
 

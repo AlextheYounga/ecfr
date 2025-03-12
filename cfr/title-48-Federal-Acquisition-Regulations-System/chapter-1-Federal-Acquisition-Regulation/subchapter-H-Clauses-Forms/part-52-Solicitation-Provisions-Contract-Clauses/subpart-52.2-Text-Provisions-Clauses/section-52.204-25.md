@@ -1,5 +1,7 @@
 ##### 52.204-25 Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. #####
 
+Link to an amendment published at 86 FR 61032, Nov. 4, 2021.
+
 As prescribed in 4.2105(b), insert the following clause:
 
 Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment (AUG 2020)

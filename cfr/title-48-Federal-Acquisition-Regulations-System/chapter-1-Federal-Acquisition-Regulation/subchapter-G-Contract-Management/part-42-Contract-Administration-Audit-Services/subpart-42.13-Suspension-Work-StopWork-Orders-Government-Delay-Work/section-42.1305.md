@@ -1,5 +1,7 @@
 ##### 42.1305 Contract clauses. #####
 
+Link to an amendment published at 86 FR 61030, Nov. 4, 2021.
+
 (a) The contracting officer shall insert the clause at 52.242-14, Suspension of Work, in solicitations and contracts when a fixed-price construction or architect-engineer contract is contemplated.
 
 (b)(1) The contracting officer may, when contracting by negotiation, insert the clause at 52.242-15, Stop-Work Order, in solicitations and contracts for supplies, services, or research and development.

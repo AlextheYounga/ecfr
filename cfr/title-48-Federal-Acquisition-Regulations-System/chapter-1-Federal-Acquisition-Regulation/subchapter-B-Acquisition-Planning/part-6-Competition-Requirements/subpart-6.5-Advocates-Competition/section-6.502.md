@@ -1,5 +1,7 @@
 ##### 6.502 Duties and responsibilities. #####
 
+Link to an amendment published at 86 FR 61020, Nov. 4, 2021.
+
 (a) Agency and procuring activity advocates for competition are responsible for promoting the acquisition of commercial items, promoting full and open competition, challenging requirements that are not stated in terms of functions to be performed, performance required or essential physical characteristics, and challenging barriers to the acquisition of commercial items and full and open competition such as unnecessarily restrictive statements of work, unnecessarily detailed specifications, and unnecessarily burdensome contract clauses.
 
 (b) Agency advocates for competition shall -

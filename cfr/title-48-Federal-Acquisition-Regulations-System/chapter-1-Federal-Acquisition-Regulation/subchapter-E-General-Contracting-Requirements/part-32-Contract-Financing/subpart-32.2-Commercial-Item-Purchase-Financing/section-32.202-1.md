@@ -1,5 +1,7 @@
 ##### 32.202-1 Policy. #####
 
+Link to an amendment published at 86 FR 61029, Nov. 4, 2021.
+
 (a) *Use of financing in contracts.* It is the responsibility of the contractor to provide all resources needed for performance of the contract. Thus, for purchases of commercial items, financing of the contract is normally the contractor's responsibility. However, in some markets the provision of financing by the buyer is a commercial practice. In these circumstances, the contracting officer may include appropriate financing terms in contracts for commercial purchases when doing so will be in the best interest of the Government.
 
 (b) *Authorization.* Commercial interim payments and commercial advance payments may be made under the following circumstances -

@@ -1,5 +1,7 @@
 ##### 5.203 Publicizing and response time. #####
 
+Link to an amendment published at 86 FR 61020, Nov. 4, 2021.
+
 Whenever agencies are required to publicize notice of proposed contract actions under 5.201, they must proceed as follows:
 
 (a) An agency must transmit a notice of proposed contract action to the GPE (*see* 5.201). All publicizing and response times are calculated based on the date of publication. The publication date is the date the notice appears on the GPE. The notice must be published at least 15 days before issuance of a solicitation, or a proposed contract action the Government intends to solicit and negotiate with only one source under the authority of 6.302, except that, for acquisitions of commercial items, the contracting officer may -

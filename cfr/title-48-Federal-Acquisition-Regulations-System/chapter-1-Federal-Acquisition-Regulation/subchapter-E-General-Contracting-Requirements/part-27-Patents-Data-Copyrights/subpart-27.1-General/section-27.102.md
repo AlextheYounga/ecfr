@@ -1,5 +1,7 @@
 ##### 27.102 General guidance. #####
 
+Link to an amendment published at 86 FR 61028, Nov. 4, 2021.
+
 (a) The Government encourages the maximum practical commercial use of inventions made under Government contracts.
 
 (b) Generally, the Government will not refuse to award a contract on the grounds that the prospective contractor may infringe a patent. The Government may authorize and consent to the use of inventions in the performance of certain contracts, even though the inventions may be covered by U.S. patents.
