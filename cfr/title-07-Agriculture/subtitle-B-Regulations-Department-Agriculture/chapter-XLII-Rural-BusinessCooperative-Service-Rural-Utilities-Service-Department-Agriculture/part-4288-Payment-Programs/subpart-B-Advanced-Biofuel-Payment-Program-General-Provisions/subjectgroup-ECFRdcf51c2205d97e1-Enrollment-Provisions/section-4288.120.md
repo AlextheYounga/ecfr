@@ -2,7 +2,7 @@
 
 In order to participate in the Program, a producer of advanced biofuels must be approved by the Agency and enter into a contract with the Agency. The process for enrolling in the Program is presented in this section. Advanced biofuel producers who expect to produce eligible advanced biofuels at any time during a fiscal year must enroll in the Program as described in this section.
 
-(a) *Enrollment.* To enroll in the Program, an advanced biofuel producer must submit to the Agency a completed enrollment application during the applicable sign-up period, as specified in paragraph (b) of this section. An original, signed hard copy of the enrollment application must be submitted as specified in the annual Federal Register notice for this program. All applicants, except those that are individuals, are required to have a Dun and Bradstreet Universal Numbering System (DUNS) number, which can be obtained online at *http://fedgov.dnb.com/webform.*
+(a) *Enrollment.* To enroll in the Program, an advanced biofuel producer must submit to the Agency a completed enrollment application during the applicable sign-up period, as specified in paragraph (b) of this section. Applicants must be registered in the System for Award Management (SAM) prior to submitting an application; which can be obtained at no cost via a toll-free request line at (866) 705-5711 or online at *www.sam.gov/SAM.* Registration of a new entity in SAM requires an original, signed, and notarized letter stating that the applicant is the authorized Entity Administrator, before the registration will be activated.
 
 (1) Eligible advanced biofuel producers must submit enrollment applications during each sign-up period in order to continue participating in this Program. If a participating producer fails to submit the enrollment application during a fiscal year's applicable sign-up period, the producer's contract will be terminated and the producer will be ineligible to receive payments for that fiscal year. Such a producer must reapply, and sign a new contract, to participate in the Program for future fiscal years.
 
@@ -32,9 +32,7 @@ In order to participate in the Program, a producer of advanced biofuels must be 
 
 (v) *Woody biomass feedstock.* If the feedstock is from National Forest system land or public lands, documentation must be provided that it cannot be used as a higher value wood-based product.
 
-(4) *Supporting documentation.* Each advanced biofuel producer participating in this program for the first time must submit documentation to support the actual production and capacity reported in the enrollment application.
-
-(5) *Additional forms.* Applicants must submit the forms specified in this paragraph with the enrollment application when applying for participation under this subpart and as needed when re-enrolling in the program.
+(4) Applicants must submit the forms specified in this paragraph (a)(4) with the enrollment application when applying for participation under this subpart and as needed when re-enrolling in the program.
 
 (i) RD Instruction 1940-Q, Exhibit A-1, “Certification for Contracts, Grants and Loans.”
 
@@ -43,3 +41,5 @@ In order to participate in the Program, a producer of advanced biofuels must be 
 (iii) Form RD 400-4, “Assurance Agreement.”
 
 (b) *Sign-up period.* The sign-up period is October 1 to October 31 of the fiscal year for which payment is sought, unless otherwise announced by the Agency in a Federal Register notice.
+
+[76 FR 7967, Feb. 11, 2011, as amended at 84 FR 71302, Dec. 27, 2019]

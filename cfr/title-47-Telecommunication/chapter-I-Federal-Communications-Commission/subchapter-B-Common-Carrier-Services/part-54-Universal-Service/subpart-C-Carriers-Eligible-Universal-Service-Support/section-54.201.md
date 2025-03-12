@@ -1,5 +1,7 @@
 ##### § 54.201 Definition of eligible telecommunications carriers, generally. #####
 
+Link to an amendment published at 84 FR 71327, Dec. 27, 2019.
+
 (a) *Carriers eligible to receive support.*
 
 (1) Only eligible telecommunications carriers designated under this subpart shall receive universal service support distributed pursuant to subparts D and E of this part. Eligible telecommunications carriers designated under this subpart for purposes of receiving support only under subpart E of this part must provide Lifeline service directly to qualifying low-income consumers.

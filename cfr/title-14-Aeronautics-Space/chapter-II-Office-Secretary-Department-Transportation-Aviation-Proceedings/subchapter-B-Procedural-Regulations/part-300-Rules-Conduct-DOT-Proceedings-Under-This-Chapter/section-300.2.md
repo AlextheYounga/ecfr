@@ -1,5 +1,7 @@
 ##### § 300.2 Prohibited communications. #####
 
+Link to an amendment published at 84 FR 71717, Dec. 27, 2019.
+
 (a) *Basic requirement.* Except as provided in paragraphs (c), (d) and (e) there shall be no substantive communication in either direction between any concerned DOT employee and any interested person outside DOT, concerning a public proceeding, until after final disposition of the proceeding, other than as provided by Federal statute or published DOT rule or order.
 
 (b) *Definitions.* For purposes of this part:

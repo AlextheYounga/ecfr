@@ -1,5 +1,7 @@
 ##### § 54.407 Reimbursement for offering Lifeline. #####
 
+Link to an amendment published at 84 FR 71328, Dec. 27, 2019.
+
 (a) Universal service support for providing Lifeline shall be provided directly to an eligible telecommunications carrier based on the number of actual qualifying low-income customers it serves directly as of the first day of the month. After the National Verifier is deployed in a state, reimbursement shall be provided to an eligible telecommunications carrier based on the number of actual qualifying low-income customers it serves directly as of the first day of the month found in the National Verifier.
 
 (b) For each qualifying low-income consumer receiving Lifeline service, the reimbursement amount shall equal the federal support amount, including the support amounts described in § 54.403(a) and (c). The eligible telecommunications carrier's universal service support reimbursement shall not exceed the carrier's rate for that offering, or similar offerings, subscribed to by consumers who do not qualify for Lifeline.

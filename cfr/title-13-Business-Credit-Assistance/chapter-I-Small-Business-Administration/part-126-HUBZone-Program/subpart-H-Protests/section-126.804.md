@@ -1,5 +1,5 @@
 ##### § 126.804 Will SBA decide all HUBZone status protests? #####
 
-Link to an amendment published at 84 FR 65251, Nov. 26, 2019.
+SBA will decide all protests not dismissed on the basis that they are premature, untimely, non-specific, moot, or not filed by an interested party.
 
-SBA will decide all protests not dismissed as premature, untimely or non-specific.
+[84 FR 65251, Nov. 26, 2019]

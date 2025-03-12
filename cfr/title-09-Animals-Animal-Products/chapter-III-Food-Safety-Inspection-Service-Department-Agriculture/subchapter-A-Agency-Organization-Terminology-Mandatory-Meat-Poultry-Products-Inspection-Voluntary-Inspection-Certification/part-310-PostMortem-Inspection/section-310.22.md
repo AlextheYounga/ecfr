@@ -1,7 +1,5 @@
 ##### § 310.22 Specified risk materials from cattle and their handling and disposition. #####
 
-Link to an amendment published at 84 FR 65268, Nov. 27, 2019.
-
 (a) The following materials from cattle are specified risk materials, except when they are from cattle from a country that can demonstrate that its bovine spongiform encephalopathy (BSE) risk status can reasonable be expected to provide the same level of protection from human exposure to the BSE agent as prohibiting specified risk materials for use as human food does in the United States:
 
 (1) The brain, skull, eyes, trigeminal ganglia, spinal cord, vertebral column (excluding the vertebrae of the tail, the transverse processes of the thoracic and lumbar vertebrae, and the wings of the sacrum), and dorsal root ganglia from cattle 30 months of age and older and
@@ -14,7 +12,7 @@ Link to an amendment published at 84 FR 65268, Nov. 27, 2019.
 
 (d) *Requirements for use of the small intestine for human food.* (1) The small intestine from all cattle may be used for human food if:
 
-(i) It is derived from cattle that were inspected and passed in an official establishment in the United States or in a certified foreign establishment in a country listed in 9 CFR 327.2(b) as eligible to export meat and meat products to the United States and it is otherwise eligible for importation under 9 CFR 327.1(b), and
+(i) It is derived from cattle that were inspected and passed in an official establishment in the United States or in a certified foreign establishment in a country eligible to export meat and meat products to the United States under 9 CFR 327.2(b) and it is otherwise eligible for importation under 9 CFR 327.1(b), and
 
 (ii) The distal ileum is removed by a procedure that removes at least 80 inches of the uncoiled and trimmed small intestine as measured from the ceco-colic junction and progressing proximally towards the jejunum or by a procedure that the establishment demonstrates is effective in ensuring complete removal of the distal ileum.
 
@@ -54,4 +52,4 @@ Link to an amendment published at 84 FR 65268, Nov. 27, 2019.
 
 (h) The materials listed in paragraph (a)(1) of this section will be deemed to be from cattle 30 months of age and older unless the establishment can demonstrate through documentation that the materials are from an animal that was younger than 30 months of age at the time of slaughter.
 
-[72 FR 38729, July 13, 2007]
+[72 FR 38729, July 13, 2007, as amended at 84 FR 65268, Nov. 27, 2019]

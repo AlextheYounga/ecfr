@@ -1,6 +1,6 @@
 ##### § 126.103 What definitions are important in the HUBZone program? #####
 
-Link to an amendment published at 84 FR 62449, Nov. 15, 2019.Link to an amendment published at 84 FR 65239, Nov. 26, 2019.
+Link to an amendment published at 84 FR 62449, Nov. 15, 2019.
 
 *Administrator* means the Administrator of the United States Small Business Administration (SBA).
 
@@ -10,13 +10,9 @@ Link to an amendment published at 84 FR 62449, Nov. 15, 2019.Link to an amendmen
 
 *Agricultural commodity* has the same meaning as in section 102 of the Agricultural Trade Act of 1978 (7 U.S.C. 5602).
 
-*Alaska Native Corporation (ANC)* has the same meaning as the term “Native Corporation” in section 3 of the ANCSA, 43 U.S.C. 1602.
+*Alaska Native Corporation (ANC)* has the same meaning as the term “Native Corporation” in section 3 of the Alaska Native Claims Settlement Act (ANCSA), 43 U.S.C. 1602.
 
-*Alaska Native Village* has the same meaning as the term “Native village” in section 3 of the ANCSA, 43 U.S.C. 1602.
-
-*ANCSA* means the Alaska Native Claims Settlement Act, as amended.
-
-*Attempt to maintain* means making substantive and documented efforts such as written offers of employment, published advertisements seeking employees, and attendance at job fairs.
+*Attempt to maintain* means making substantive and documented efforts, such as written offers of employment, published advertisements seeking employees, and attendance at job fairs and applies only to concerns during the performance of any HUBZone contract. A certified HUBZone small business concern that has less than 20% of its total employees residing in a HUBZone during the performance of a HUBZone contract has failed to attempt to maintain the HUBZone residency requirement.
 
 *Base closure area* means:
 
@@ -36,7 +32,7 @@ Link to an amendment published at 84 FR 62449, Nov. 15, 2019.Link to an amendmen
 
 (4) A census tract or nonmetropolitan county (excluding any qualified census tract and any qualified non-metropolitan county) the boundaries of which are contiguous to the area described in paragraph (2) or paragraph (3) of this definition.
 
-*Certify* means the process by which SBA determines that a HUBZone SBC is qualified for the HUBZone program and entitled to be included in SBA's “List of Qualified HUBZone SBCs.”
+*Certify* means the process by which SBA determines that a concern is qualified for the HUBZone program and eligible to be designated by SBA as a certified HUBZone small business concern in the Dynamic Small Business Search (DSBS) system (or successor system).
 
 *Citizen* means a person born or naturalized in the United States. SBA does not consider holders of permanent visas and resident aliens to be citizens.
 
@@ -50,15 +46,37 @@ Link to an amendment published at 84 FR 62449, Nov. 15, 2019.Link to an amendmen
 
 *County* means the political subdivisions recognized as a county by a state or commonwealth or which is an equivalent political subdivision such as a parish, borough, independent city, or *municipio,* where such subdivisions are not subdivisions within counties.
 
-*County unemployment rate* is the rate of unemployment for a county based on the most recent data available from the United States Department of Labor, Bureau of Labor Statistics. The appropriate data may be found in the DOL/BLS publication titled “Supplement 2, Unemployment in States and Local Areas.” This publication is available for public inspection at the Department of Labor, Bureau of Labor Statistics, Division of Local Area Unemployment Statistics located at 2 Massachusetts Ave., NE, Room 4675, Washington DC 20212. A copy is also available at SBA, Office of D/HUB, 409 3rd Street, SW., Washington DC 20416.
-
 *DAA/GC&BD* means SBA's Deputy Associate Administrator for Government Contracting and Business Development.
 
-*D/HUB* means SBA's Director Office of HUBZone;
+*D/HUB* means the Director of SBA's Office of HUBZone.
 
-*De-certify* means the process by which SBA determines that a concern is no longer a qualified HUBZone SBC and removes that concern from its List.
+*Decertify* means the process by which SBA determines that a concern no longer qualifies as a HUBZone small business concern and removes that concern as a certified HUBZone small business concern from DSBS (or successor system), or the process by which SBA removes a concern as a certified HUBZone small business concern from DSBS (or successor system) after receiving a request to voluntarily withdraw from the HUBZone program.
 
-*Employee* means all individuals employed on a full-time, part-time, or other basis, so long as that individual works a minimum of 40 hours per month. This includes employees obtained from a temporary employee agency, leasing concern, or through a union agreement or co-employed pursuant to a professional employer organization agreement. SBA will consider the totality of the circumstances, including criteria used by the IRS for Federal income tax purposes and those set forth in SBA's Size Policy Statement No. 1, in determining whether individuals are employees of a concern. Volunteers (*i.e.,* individuals who receive deferred compensation or no compensation, including no in-kind compensation, for work performed) are not considered employees. However, if an individual has an ownership interest in and works for the HUBZone SBC a minimum of 40 hours per month, that owner is considered an employee regardless of whether or not the individual receives compensation.
+*Dynamic Small Business Search (DSBS)* means the database that government agencies use to find small business contractors for upcoming contracts. The information a business provides when registering in the System for Award Management (SAM) is used to populate DSBS. For HUBZone Program purposes, a concern's DSBS profile will indicate whether it is a certified HUBZone small business concern, and if so, the date it was certified or recertified.
+
+*Employee* means all individuals employed on a full-time, part-time, or other basis, so long as that individual works a minimum of 40 hours during the four-week period immediately prior to the relevant date of review, which is either the date the concern submits its HUBZone application to SBA or the date of recertification. SBA will review a concern's payroll records for the most recently completed pay periods that account for the four-week period immediately prior to the date of application or date of recertification in order to determine which individuals meet this definition. To determine if an individual is an employee, SBA reviews the totality of circumstances, including criteria used by the Internal Revenue Service (IRS) for Federal income tax purposes and the factors set forth in SBA's Size Policy Statement No. 1 (51 FR 6099, February 20, 1986).
+
+(1) In general, the following are considered employees:
+
+(i) Individuals obtained from a temporary employee agency, leasing concern, or through a union agreement, or co-employed pursuant to a professional employer organization agreement;
+
+(ii) An individual who has an ownership interest in the concern and who works for the concern a minimum of 40 hours during the four-week period immediately prior to the relevant date of review, whether or not the individual receives compensation;
+
+(iii) The sole owner of a concern who works less than 40 hours during the four-week period immediately prior to the relevant date of review, but who has not hired another individual to direct the actions of the concern's employees;
+
+(iv) Individuals who receive in-kind compensation commensurate with work performed. Such compensation must provide a demonstrable financial value to the individual and must be compliant with all relevant federal and state laws.
+
+(2) In general, the following are not considered employees:
+
+(i) Individuals who are not owners and receive no compensation (including no in-kind compensation) for work performed;
+
+(ii) Individuals who receive deferred compensation for work performed;
+
+(iii) Independent contractors that receive payment via IRS Form 1099 and are not considered employees under SBA's Size Policy Statement No. 1; and
+
+(iv) Subcontractors.
+
+(3) Employees of an affiliate may be considered employees, if the totality of the circumstances shows that there is no clear line of fracture between the HUBZone applicant (or certified HUBZone small business concern) and its affiliate(s) (*see* § 126.204).
 
 *HUBZone* means a historically underutilized business zone, which is an area located within one or more:
 
@@ -74,25 +92,7 @@ Link to an amendment published at 84 FR 62449, Nov. 15, 2019.Link to an amendmen
 
 (6) Qualified disaster areas.
 
-*HUBZone small business concern (HUBZone SBC)* means an SBC that is:
-
-(1) At least 51% owned and controlled by 1 or more persons, each of whom is a United States citizen;
-
-(2) An ANC owned and controlled by Natives (as determined pursuant to section 29(e)(1) of the ANCSA, 43 U.S.C. 1626(e)(1));
-
-(3) A direct or indirect subsidiary corporation, joint venture, or partnership of an ANC qualifying pursuant to section 29(e)(1) of the ANCSA, 43 U.S.C. 1626(e)(1)), if that subsidiary, joint venture, or partnership is owned and controlled by Natives (as determined pursuant to section 29(e)(2) of the ANCSA, 43 U.S.C. 1626(e)(2));
-
-(4) Wholly owned by one or more Indian Tribal Governments, or by a corporation that is wholly owned by one or more Indian Tribal Governments;
-
-(5) An SBC that is owned in part by one or more Indian Tribal Governments or in part by a corporation that is wholly owned by one or more Indian Tribal Governments, if all other owners are either United States citizens or SBCs;
-
-(6) An SBC that is wholly owned by a CDC or owned in part by one or more CDCs, if all other owners are either United States citizens or SBCs;
-
-(7) An SBC that is a small agricultural cooperative organized or incorporated in the United States, wholly owned by one or more small agricultural cooperatives organized or incorporated in the United States or owned in part by one or more small agricultural cooperatives organized or incorporated in the United States, provided that all other owners are small business concerns or United States citizens;
-
-(8) Wholly owned by one or more Native Hawaiian Organizations, or by a corporation that is wholly owned by one or more Native Hawaiian Organizations; or
-
-(9) Owned in part by one or more Native Hawaiian Organizations or by a corporation that is wholly owned by one or more Native Hawaiian Organizations, if all other owners are either United States citizens or small business concerns.
+*HUBZone small business concern or certified HUBZone small business concern* means a small business concern that meets the requirements described in § 126.200 and that SBA has certified as eligible for federal contracting assistance under the HUBZone program. A concern that was a certified HUBZone small business concern as of December 12, 2017, and that had its principal office located in a redesignated area set to expire prior to January 1, 2020, shall remain a certified HUBZone small business concern until December 31, 2021, so long as all other HUBZone eligibility requirements are met.
 
 *Indian reservation* (1) Has the same meaning as the term “Indian country” in 18 U.S.C. 1151, except that such term does not include:
 
@@ -108,15 +108,9 @@ Link to an amendment published at 84 FR 62449, Nov. 15, 2019.Link to an amendmen
 
 *Indian Tribal Government* means the governing body of any Indian tribe, band, nation, pueblo, or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
-*Interested party* means any concern that submits an offer for a specific HUBZone sole source or set-aside contract (including Multiple Award Contracts) or order, any concern that submitted an offer in full and open competition and its opportunity for award will be affected by a price evaluation preference given a qualified HUBZone SBC, any concern that submitted an offer in a full and open competition and its opportunity for award will be affected by a reserve of an award given to a qualified HUBZone SBC, the contracting activity's contracting officer, or SBA.
+*Interested party* means any concern that submits an offer for a specific HUBZone set-aside contract (including Multiple Award Contracts) or order, any concern that submitted an offer in full and open competition and its opportunity for award will be affected by a price evaluation preference given a qualified HUBZone small business concern, any concern that submitted an offer in a full and open competition and its opportunity for award will be affected by a reserve of an award given to a qualified HUBZone small business concern, the contracting activity's contracting officer, or SBA.
 
 *Lands within the external boundaries of an Indian reservation* include all lands within the perimeter of an Indian reservation, whether tribally owned and governed or not. For example, land that is individually owned and located within the perimeter of an Indian reservation is “lands within the external boundaries of an Indian reservation.” By contrast, an Indian-owned parcel of land that is located outside the perimeter of an Indian reservation is not “lands within the external boundaries of an Indian reservation.”
-
-*List* refers to the database of qualified HUBZone SBCs that SBA has certified.
-
-*Median household income* has the meaning used by the Bureau of the Census, United States Department of Commerce, in its publication titled, “1990 Census of Population, Social and Economic Characteristics,” Report Number CP-2, pages B-14 and B-17. This publication is available for inspection at any local Federal Depository Library. For the location of a Federal Depository library, call toll-free (888) 293-6498 or contact the Bureau of the Census, Income Statistics Branch, Housing and Economic Statistics Division, Washington D.C. 20233-8500.
-
-*Metropolitan statistical area* means an area as defined in section 143(k)(2)(B) of the Internal Revenue Code of 1986, (Title 26 of the United States Code).
 
 *Native Hawaiian Organization (NHO)* means any community service organization serving Native Hawaiians in the State of Hawaii which is a not-for-profit organziation chartered by the State of Hawaii, is controlled by Native Hawaiians, and whose business activities will principally benefit such Native Hawaiians.
 
@@ -124,48 +118,64 @@ Link to an amendment published at 84 FR 62449, Nov. 15, 2019.Link to an amendmen
 
 *Person* means a natural person.
 
-*Principal office* means the location where the greatest number of the concern's employees at any one location perform their work. However, for those concerns whose “primary industry” (see 13 CFR 121.107) is service or construction (see 13 CFR 121.201), the determination of principal office excludes the concern's employees who perform the majority of their work at job-site locations to fulfill specific contract obligations.
+*Primary industry classification or primary industry* means the six-digit North American Industry Classification System (NAICS) code designation which best describes the primary business activity of the HUBZone applicant or certified HUBZone small business concern. SBA utilizes § 121.107 of this chapter in determining a concern's primary industry classification.
 
-*Qualified base closure area* means:
+*Principal office* means the location where the greatest number of the concern's employees at any one location perform their work.
 
-(1) A base closure area that is treated as a HUBZone for a period of not less than 8 years, beginning on the date the military installation undergoes final closure and ending on the latter of the following:
+(1) If an employee works at multiple locations, then the employee will be deemed to work at the location where the employee spends more than 50% of his or her time. If an employee does not spend more than 50% of his or her time at any one location and at least one of those locations is a non-HUBZone location, then the employee will be deemed to work at a non-HUBZone location.
 
-(i) The date the Administrator makes a final determination as to whether or not to implement the applicable designations in accordance with the results of the decennial census conducted after the area was initially designated as a base closure area; or
+(2) In order for a location to be considered the principal office, the concern must conduct business at this location.
 
-(ii) The date 8 years after the base closure area was initially designated as a HUBZone.
+(3) For those concerns whose “primary industry classification” is services or construction (*see* § 121.201 of this chapter), the determination of principal office excludes the concern's employees who perform more than 50% of their work at job-site locations to fulfill specific contract obligations. If all of a concern's employees perform more than 50% of their work at job sites, the concern does not comply with the principal office requirement.
 
-(2) However, if a base closure area was treated as a HUBZone at any time after 2010, it shall be treated as a HUBZone until such time as the Administrator makes a final determination as to whether or not to implement the applicable designations in accordance with the results of the 2020 decennial census.
+(i) *Example 1:* A business concern whose primary industry is construction has a total of 78 employees, including the owners. The business concern has one office (Office A), which is located in a HUBZone, with 3 employees working at that location. The business concern also has a job-site for a current contract, where 75 employees perform more than 50% of their work. The 75 job-site employees are excluded for purposes of determining principal office. Since the remaining 3 employees all work at Office A, Office A is the concern's principal office. Since Office A is in a HUBZone, the business concern complies with the principal office requirement.
 
-*Qualified census tract* has the meaning given that term in section 42(d)(5)(B)(ii) of the Internal Revenue Code of 1986. However, for any metropolitan statistical area in the Commonwealth of Puerto Rico, the term “qualified census tract” has the meaning given that term in section 42(d)(5)(B)(ii) of the Internal Revenue Code of 1986 as applied without regard to subclause (II) of such section, except that this clause shall apply only until December 22, 2027, or the date on which the Financial Oversight and Management Board for the Commonwealth of Puerto Rico created by the Puerto Rico Oversight, Management, and Economic Stability Act ceases to exist, whichever event occurs first.
+(ii) *Example 2:* A business concern whose primary industry is services has a total of 4 employees, including the owner. The business concern has one office located in a HUBZone (Office A), where 2 employees perform more than 50% of their work, and a second office not located in a HUBZone (Office B), where 2 employees perform more than 50% of their work. Since there is not one location where the greatest number of the concern's employees at any one location perform their work, the business concern would not have a principal office in a HUBZone.
 
-*Qualified disaster area* means any census tract or nonmetropolitan county located in an area for which the President has declared a major disaster under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170), or located in an area in which a catastrophic incident has occurred if such census tract or nonmetropolitan county ceased to be categorized as either a qualified census tract or qualified nonmetropolitan county, as applicable, during the period beginning 5 years before the date on which the President declared the major disaster or the catastrophic incident occurred and ending 2 years after such date. However, the following exceptions apply:
+(iii) *Example 3:* A business concern whose primary industry is services has a total of 6 employees, including the owner. Five of the employees perform all of their work at job-sites fulfilling specific contract obligations. The business concern's owner performs 45% of her work at job-sites, and 55% of her work at an office located in a HUBZone (Office A) conducting tasks such as writing proposals, generating payroll, and responding to emails. Office A would be considered the principal office of the concern since it is the only location where any employees of the concern work that is not a job site and the 1 individual working there spends more than 50% of her time at Office A. Since Office A is located in a HUBZone, the small business concern would meet the principal office requirement.
 
-(1) In the case of a major disaster declared by the President, a census tract or nonmetropolitan county may be a qualified disaster area only during the 5-year period beginning on the date on which the President declared the major disaster for the area in which the census tract or nonmetropolitan county is located; and
+*Qualified base closure area* means a base closure area that is treated by SBA as a HUBZone for a period of at least 8 years, beginning on the date on which the Administrator designates the base closure area as a HUBZone and ending on the date on which the base closure area ceases to be a qualified census tract or a qualified nonmetropolitan county in accordance with the online tool prepared by the Administrator.
 
-(2) In the case of a catastrophic incident, a census tract or nonmetropolitan county may be a qualified disaster area only during the 10-year period beginning on the date on which the catastrophic incident occurred in the area in which the census tract or nonmetropolitan county is located.
+*Qualified census tract.* (1) Qualified census tract means a census tract which is designated by the Secretary of Housing and Urban Development, and for the most recent year for which census data are available on household income in such tract, either in which 50 percent or more of the households have an income which is less than 60 percent of the area median gross income for such year or which has a poverty rate of at least 25 percent. *See* 26 U.S.C. 42(d)(5)(B)(ii)(I).
 
-*Qualified HUBZone SBC* means a HUBZone SBC that SBA certifies as qualified for federal contracting assistance under the HUBZone program.
+(2) The portion of a metropolitan statistical area (as defined by the Bureau of the Census, United States Department of Commerce, in its publications on the Census of Population, Social and Economic Characteristics) which may be designated as “qualified census tracts” shall not exceed an area having 20 percent of the population of such metropolitan statistical area. *See* 26 U.S.C. 42(d)(5)(B)(ii)(II). This paragraph does not apply to any metropolitan statistical area in the Commonwealth of Puerto Rico until December 22, 2027, or the date on which the Financial Oversight and Management Board for the Commonwealth of Puerto Rico created by the Puerto Rico Oversight, Management, and Economic Stability Act (PROMESA) (Pub. L. 114-187, June 30, 2016) ceases to exist, whichever event occurs first.
 
-*Qualified non-metropolitan county* means any county that was not located in a metropolitan statistical area at the time of the most recent census taken for purposes of selecting qualified census tracts under section 42(d)(5)(C)(ii) of the Internal Revenue Code of 1986, and in which:
+(3) Qualified census tracts are reflected in a publicly accessible online tool that depicts HUBZones and will be updated every 5 years.
 
-(i) The median household income is less than 80% of the non-metropolitan State median household income, based on the most recent data available from the Bureau of the Census of the Department of Commerce; or
+*Qualified disaster area.* (1) Qualified disaster area means any census tract or nonmetropolitan county located in an area where a major disaster declared by the President under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170) has occurred or an area in which a catastrophic incident has occurred if such census tract or nonmetropolitan county ceased to be a qualified census tract or qualified nonmetropolitan county during the period beginning 5 years before the date on which the President declared the major disaster or the catastrophic incident occurred.
 
-(ii) The unemployment rate is not less than 140 percent of the average unemployment rate for the United States or for the State in which such county is located, whichever is less, based on the most recent data available from the Secretary of Labor.
+(2) A census tract or nonmetropolitan county shall be considered to be a qualified disaster area only for the period of time ending on the date the area ceases to be a qualified census tract or a qualified nonmetropolitan county, in accordance with the publicly accessible online tool that depicts HUBZones, and beginning -
 
-*Redesignated area* means any census tract or any non-metropolitan county that ceases to be a qualified HUBZone, except that such census tracts or non-metropolitan counties may be “redesignated areas” only until the later of:
+(i) In the case of a major disaster, on the date on which the President declared the major disaster for the area in which the census tract or nonmetropolitan county, as applicable, is located; or
 
-(1) The date on which the Census Bureau publicly releases the first results from the 2010 decennial census; or
+(ii) In the case of a catastrophic incident, on the date on which the catastrophic incident occurred in the area in which the census tract or nonmetropolitan county, as applicable, is located.
 
-(2) Three years after the date on which the census tract or non-metropolitan county ceased to be so qualified. The date on which the census tract or non-metropolitan county ceases to be qualified is the date that the official government data, which affects the eligibility of the HUBZone, is released to the public.
+*Qualified non-metropolitan county* means any county that was not located in a metropolitan statistical area (as defined by the Bureau of the Census, United States Department of Commerce, in its publications on the Census of Population, Social and Economic Characteristics) at the time of the most recent census taken for purposes of selecting qualified census tracts under section 26 U.S.C. 42(d)(5)(B)(ii), and in which:
 
-*Reside* means to live in a primary residence at a place for at least 180 days, or as a currently registered voter, and with intent to live there indefinitely.
+(1) The median household income is less than 80% of the State median household income, based on a 5-year average of the available data from the Bureau of the Census of the Department of Commerce;
+
+(2) The unemployment rate is not less than 140% of the average unemployment rate for the United States or for the State in which such county is located, whichever is less, based on a 5-year average of the data available from the Local Area Unemployment Statistics report, produced by the Department of Labor's Bureau of Labor Statistics; or
+
+(3) There is located a Difficult Development Area within Alaska, Hawaii, or any territory or possession of the United States outside the 48 contiguous States. A Difficult Development Area (DDA) is an area designated by the Secretary of the Department of Housing and Urban Development, in accordance with section 26 U.S.C. 42(d)(5)(B)(iii), with high construction, land, and utility costs relative to its area median gross income.
+
+(4) Qualified non-metropolitan counties are reflected in a publicly accessible online tool that depicts HUBZones and will be updated every 5 years.
+
+*Redesignated area* means any census tract that ceases to be a “qualified census tract” or any non-metropolitan county that ceases to be a “qualified non-metropolitan county.” A redesignated area generally shall be treated as a HUBZone for a period of three years, starting from the date on which the area ceased to be a qualified census tract or a qualified non-metropolitan county. The date on which the census tract or non-metropolitan county ceases to be qualified is the date on which the official government data affecting the eligibility of the HUBZone is released to the public. However, an area that was a redesignated area on or after December 12, 2017 shall remain a redesignated area until December 31, 2021.
+
+*Reside* means to live at a location full-time and for at least 180 days immediately prior to the date of application (or date of recertification where the individual is being treated as a HUBZone resident for the first time).
+
+(1) To determine residence, SBA will first look to an individual's address identified on his or her driver's license or voter's registration card. Where such documentation is not available, SBA will require other specific proof of residency, such as deeds, leases, or utility bills. Where the documentation provided does not demonstrate 180 days of residency, SBA will require a signed statement attesting to an individual's dates of residency.
+
+(2) For HUBZone purposes, SBA will consider individuals temporarily residing overseas in connection with the performance of a contract to reside at their U.S. residence.
+
+(i) *Example 1:* A person possesses the deed to a residential property and pays utilities and property taxes for that property. However, the person does not live at this property, but instead rents out this property to another individual. For HUBZone purposes, the person does not reside at the address listed on the deed.
+
+(ii) *Example 2:* A person moves into an apartment under a month-to-month lease and lives in that apartment full-time. SBA would consider the person to reside at the address listed on the lease if the person can show that he or she has lived at that address for at least 180 days immediately prior to the date of application or date of recertification.
+
+(iii) *Example 3:* A person is working overseas on a contract for the small business and is therefore temporarily living abroad. The employee can provide documents showing he is paying rent for an apartment located in a HUBZone. That person is deemed to reside in a HUBZone.
 
 *Small agricultural cooperative* means an association (corporate or otherwise), comprised exclusively of other small agricultural cooperatives, small business concerns, or U.S. citizens, pursuant to the provisions of the Agricultural Marketing Act, 12 U.S.C. 1141j, whose size does not exceed the applicable size standard pursuant to part 121 of this chapter. In determining such size, an agricultural cooperative is treated as a “business concern” and its member shareholders are not considered affiliated with the cooperative by virtue of their membership in the cooperative.
 
 *Small business concern (SBC)* means a concern that, with its affiliates, meets the size standard for its primary industry, pursuant to part 121 of this chapter.
 
-*Small disadvantaged business (SDB)* means a concern that is small pursuant to part 121 of this chapter, is owned and controlled by one or more socially and economically disadvantaged individuals, tribes, ANCs, Native Hawaiian Organizations, or CDCs and has been certified pursuant to subpart A or B, part 124 of this chapter.
-
-*Statewide average unemployment rate* is the rate based on the most recent data available from the Bureau of Labor Statistics, United States Department of Labor, Division of Local Area Unemployment Statistics, 2 Massachusetts Ave., NE., Room 4675, Washington, DC 20212. A copy is also available at SBA, Office of D/HUB, 409 3rd Street, SW., Washington DC 20416.
-
-[63 FR 31908, June 11, 1998, as amended at 66 FR 4645, Jan. 18, 2001; 69 FR 29421, May 24, 2004; 70 FR 51248, Aug. 30, 2005; 72 FR 50041, Aug. 30, 2007; 74 FR 45754, Sept. 4, 2009; 74 FR 56702, Nov. 3, 2009; 78 FR 61144, Oct. 2, 2013; 81 FR 51313, Aug. 4, 2016; 82 FR 48904, Oct. 23, 2017]
+[63 FR 31908, June 11, 1998, as amended at 66 FR 4645, Jan. 18, 2001; 69 FR 29421, May 24, 2004; 70 FR 51248, Aug. 30, 2005; 72 FR 50041, Aug. 30, 2007; 74 FR 45754, Sept. 4, 2009; 74 FR 56702, Nov. 3, 2009; 78 FR 61144, Oct. 2, 2013; 81 FR 51313, Aug. 4, 2016; 82 FR 48904, Oct. 23, 2017; 84 FR 65239, Nov. 26, 2019]

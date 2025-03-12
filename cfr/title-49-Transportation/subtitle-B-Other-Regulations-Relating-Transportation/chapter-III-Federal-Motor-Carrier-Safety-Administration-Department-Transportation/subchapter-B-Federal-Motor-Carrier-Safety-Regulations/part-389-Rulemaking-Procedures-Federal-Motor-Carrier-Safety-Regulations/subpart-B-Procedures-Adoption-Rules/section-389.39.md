@@ -1,4 +1,6 @@
-##### § 389.39 Direct final rulemaking procedures #####
+##### § 389.39 Direct final rulemaking procedures. #####
+
+Link to an amendment published at 84 FR 71733, Dec. 27, 2019.
 
 A direct final rule makes regulatory changes and states that those changes will take effect on a specified date unless FMCSA receives an adverse comment or notice of intent to file an adverse comment by the date specified in the direct final rule published in the Federal Register.
 

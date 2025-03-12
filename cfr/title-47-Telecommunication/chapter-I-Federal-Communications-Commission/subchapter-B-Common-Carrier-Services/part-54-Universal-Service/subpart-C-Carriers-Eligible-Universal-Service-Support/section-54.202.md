@@ -1,5 +1,7 @@
 ##### § 54.202 Additional requirements for Commission designation of eligible telecommunications carriers. #####
 
+Link to an amendment published at 84 FR 71327, Dec. 27, 2019.
+
 (a) In order to be designated an eligible telecommunications carrier under section 214(e)(6), any common carrier in its application must:
 
 (1)(i) Certify that it will comply with the service requirements applicable to the support that it receives.

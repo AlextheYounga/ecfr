@@ -26,8 +26,10 @@ Sections 4288.130 through 4288.189 identify the process and procedures the Agenc
 
 (c) *Payment application eligibility.* The Agency will notify the advanced biofuel producer, in writing, as soon as practicable after the payment application, whenever the Agency determines that a payment application, or any portion thereof, is ineligible for payment and the basis for the Agency's determination of ineligibility.
 
-(d) *Submittal information.* Eligible advanced biofuel producers must submit payment applications as specified in the annual Federal Register notice for this program no later than 4:30 p.m. local time on the last day of the calendar month following the quarter for which payment is being requested. Neither complete nor incomplete payment applications received after this date and time will be considered, regardless of the postmark on the application.
+(d) *Submittal information.* Unless otherwise specified in a notice published in the Federal Register, eligible advanced biofuel producers must submit payment applications for this Program no later than 4:30 p.m. local time on the last day of the calendar month following the quarter for which payment is being requested. No payment applications received after the specified date and time will be considered, regardless of the postmark on the application.
 
 (1) Any payment application form that is received by the Agency after October 31 of the calendar year for the preceding fiscal year is ineligible for payment.
 
 (2) If the actual deadline falls on a weekend or a Federally-observed holiday, the deadline is the next Federal business day.
+
+[76 FR 7967, Feb. 11, 2011, as amended at 84 FR 71302, Dec. 27, 2019]

@@ -1,5 +1,7 @@
 ##### § 11.31 How does FAA process direct final rules? #####
 
+Link to an amendment published at 84 FR 71717, Dec. 27, 2019.
+
 (a) A direct final rule will take effect on a specified date unless FAA receives an adverse comment or notice of intent to file an adverse comment within the comment period - generally 60 days after the direct final rule is published in the Federal Register. An adverse comment explains why a rule would be inappropriate, or would be ineffective or unacceptable without a change. It may challenge the rule's underlying premise or approach. Under the direct final rule process, we do not consider the following types of comments to be adverse:
 
 (1) A comment recommending another rule change, in addition to the change in the direct final rule at issue. We consider the comment adverse, however, if the commenter states why the direct final rule would be ineffective without the change.

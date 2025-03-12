@@ -1,5 +1,7 @@
 ##### § 54.420 Low income program audits. #####
 
+Link to an amendment published at 84 FR 71329, Dec. 27, 2019.
+
 (a) *Independent audit requirements for eligible telecommunications carriers.* Companies that receive $5 million or more annually in the aggregate, on a holding company basis, in Lifeline reimbursements must obtain a third party biennial audit of their compliance with the rules in this subpart. Such engagements shall be agreed upon performance attestations to assess the company's overall compliance with rules and the company's internal controls regarding these regulatory requirements.
 
 (1) For purposes of the $5 million threshold, a holding company consists of operating companies and affiliates, as that term is defined in section 3(2) of the Communications Act of 1934, as amended, that are eligible telecommunications carriers.

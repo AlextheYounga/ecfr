@@ -1,5 +1,7 @@
 ##### § 155.200 Functions of an Exchange. #####
 
+Link to an amendment published at 84 FR 71710, Dec. 27, 2019.
+
 (a) *General requirements.* An Exchange must perform the functions described in this subpart and in subparts D, E, F, G, H, K, M, and O of this part unless the State is approved to operate only a SHOP by HHS under § 155.100(a)(2), in which case the Exchange operated by the State must perform the functions described in subpart H of this part and all applicable provisions of other subparts referenced in that subpart. In a State that is approved to operate only a SHOP, the individual market Exchange operated by HHS in that State will perform the functions described in this subpart and in subparts D, E, F, G, K, M, and O of this part.
 
 (b) *Certificates of exemption.* The Exchange must issue certificates of exemption consistent with sections 1311(d)(4)(H) and 1411 of the Affordable Care Act.

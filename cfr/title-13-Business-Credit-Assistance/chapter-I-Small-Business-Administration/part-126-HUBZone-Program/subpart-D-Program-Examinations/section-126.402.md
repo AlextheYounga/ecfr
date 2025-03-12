@@ -1,7 +1,9 @@
-##### § 126.402 When may SBA conduct program examinations? #####
+##### § 126.402 When will SBA conduct program examinations? #####
 
-Link to an amendment published at 84 FR 65245, Nov. 26, 2019.
+(a) SBA may conduct a program examination at any time after the concern submits its application, during the processing of the application, and at any time while the concern is a certified HUBZone small business concern.
 
-SBA may conduct a program examination at any time after the concern submits its application, during the processing of the application, and at any time while the concern is certified as a qualified HUBZone SBC.
+(b) SBA will conduct program examinations periodically as part of the recertification process set forth in § 126.500.
 
-[69 FR 29423, May 24, 2004]
+(c) Upon receipt of specific and credible information alleging that a certified HUBZone small business concern no longer meets the eligibility requirements for continued program eligibility, SBA will examine the concern's eligibility for continued participation in the program.
+
+[84 FR 65245, Nov. 26, 2019]

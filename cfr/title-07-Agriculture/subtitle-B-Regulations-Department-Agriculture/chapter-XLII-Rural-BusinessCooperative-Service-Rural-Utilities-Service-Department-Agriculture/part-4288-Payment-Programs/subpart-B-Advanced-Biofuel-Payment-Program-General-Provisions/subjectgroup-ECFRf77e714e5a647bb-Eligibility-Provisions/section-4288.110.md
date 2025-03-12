@@ -12,8 +12,10 @@ Sections 4288.110 through 4288.119 present the requirements associated with adva
 
 (c) *Ineligibility determination.* An otherwise eligible producer will be determined to be ineligible if the producer:
 
-(1) Refuses to allow the Agency to verify any information provided by the advanced biofuel producer under this subpart, including information for determining applicant eligibility, advanced biofuel eligibility, and application payments;
+(1) Refuses to allow the Agency to verify any information provided by the producer under this subpart, including information for determining applicant eligibility, advanced biofuel eligibility, and application payments;
 
 (2) Fails to meet any of the conditions set out in this subpart, in the contract, or in other Program documents; or
 
 (3) Fails to comply with all applicable Federal, State, or local laws.
+
+[76 FR 7967, Feb. 11, 2011, as amended at 84 FR 71302, Dec. 27, 2019]

@@ -1,5 +1,7 @@
 ##### § 155.1200 General program integrity and oversight requirements. #####
 
+Link to an amendment published at 84 FR 71710, Dec. 27, 2019.
+
 (a) *General requirement.* A State Exchange must:
 
 (1) Keep an accurate accounting of Exchange receipts and expenditures in accordance with generally accepted accounting principles (GAAP).

@@ -72,7 +72,7 @@ The term *physical or mental impairment* includes, but is not limited to, such d
 
 *POC* means portable oxygen concentrator.
 
-*Primary (or Main) Web site* means the Web site that is accessed upon entering the uniform resource locator (e.g., *www.carriername.com,* www.airline designator code.com) in an Internet browser from a standard desktop or laptop computer where the carrier advertises or sells air transportation to the public.
+*Primary (or Main) Web site* means the Web site that is accessed upon entering the uniform resource locator (e.g., *www.carriername.com,**www.airline designator code.com*) in an Internet browser from a standard desktop or laptop computer where the carrier advertises or sells air transportation to the public.
 
 *Qualified individual with a disability* means an individual with a disability -
 

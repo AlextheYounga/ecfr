@@ -1,5 +1,7 @@
 ##### § 54.410 Subscriber eligibility determination and certification. #####
 
+Link to an amendment published at 84 FR 71328, Dec. 27, 2019.Link to an amendment published at 84 FR 71329, Dec. 27, 2019.
+
 (a) All eligible telecommunications carriers must implement policies and procedures for ensuring that their Lifeline subscribers are eligible to receive Lifeline services. An eligible telecommunications carrier may not provide a consumer with an activated device that it represents enables use of Lifeline-supported service, nor may it activate service that it represents to be Lifeline service, unless and until it has:
 
 (1) Confirmed that the consumer is a qualifying low-income consumer pursuant to § 54.409, and;

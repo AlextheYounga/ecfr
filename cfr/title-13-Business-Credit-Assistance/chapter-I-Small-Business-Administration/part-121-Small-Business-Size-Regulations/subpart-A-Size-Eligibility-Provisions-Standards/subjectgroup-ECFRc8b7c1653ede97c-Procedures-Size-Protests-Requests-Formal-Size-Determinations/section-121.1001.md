@@ -1,7 +1,5 @@
 ##### § 121.1001 Who may initiate a size protest or request a formal size determination? #####
 
-Link to an amendment published at 84 FR 65239, Nov. 26, 2019.
-
 (a) *Size Status Protests.* (1) For SBA's Small Business Set-Aside Program, including the Property Sales Program, or any instance in which a procurement or order has been restricted to or reserved for small businesses or a particular group of small businesses (including a partial set-aside), the following entities may file a size protest in connection with a particular procurement, sale or order:
 
 (i) Any offeror that the contracting officer has not eliminated from consideration for any procurement-related reason, such as non-responsiveness, technical unacceptability or outside of the competitive range;
@@ -52,7 +50,7 @@ Link to an amendment published at 84 FR 65239, Nov. 26, 2019.
 
 (i) Any concern that submits an offer for a specific HUBZone set-aside procurement that the contracting officer has not eliminated for reasons unrelated to size;
 
-(ii) Any concern that submitted an offer in full and open competition and its opportunity for award will be affected by a price evaluation preference given a qualified HUBZone SBC;
+(ii) Any concern that submitted an offer in full and open competition and its opportunity for award will be affected by a price evaluation preference given acertified HUBZone small business concern;
 
 (iii) The contracting officer; and
 
@@ -138,7 +136,7 @@ Link to an amendment published at 84 FR 65239, Nov. 26, 2019.
 
 (8) In connection with initial or continued eligibility for the HUBZone program, the following may request a formal size determination:
 
-(i) The applicant or qualified HUBZone business concern; or
+(i) The applicant or certified HUBZone small business concern; or
 
 (ii) The Director, Office of HUBZone, or designee.
 
@@ -152,4 +150,4 @@ Link to an amendment published at 84 FR 65239, Nov. 26, 2019.
 
 (13) The SBA Inspector General may request a formal size determination with respect to any of the programs identified in paragraph (b) of this section.
 
-[61 FR 3286, Jan. 31, 1996, as amended at 63 FR 31907, June 11, 1998; 63 FR 35739, June 30, 1998; 69 FR 25266, May 5, 2004; 69 FR 29206, May 21, 2004; 69 FR 29420, May 24, 2004; 69 FR 44461, July 26, 2004; 73 FR 56947, Oct. 1, 2008; 74 FR 45753, Sept. 4, 2009; 75 FR 62280, Oct. 7, 2010; 76 FR 8253, Feb. 11, 2011; 77 FR 76227, Dec. 27, 2012; 78 FR 61132, Oct. 2, 2013; 80 FR 7536, Feb. 11, 2015; 81 FR 34259, May 31, 2016; 81 FR 48579, July 25, 2016]
+[61 FR 3286, Jan. 31, 1996, as amended at 63 FR 31907, June 11, 1998; 63 FR 35739, June 30, 1998; 69 FR 25266, May 5, 2004; 69 FR 29206, May 21, 2004; 69 FR 29420, May 24, 2004; 69 FR 44461, July 26, 2004; 73 FR 56947, Oct. 1, 2008; 74 FR 45753, Sept. 4, 2009; 75 FR 62280, Oct. 7, 2010; 76 FR 8253, Feb. 11, 2011; 77 FR 76227, Dec. 27, 2012; 78 FR 61132, Oct. 2, 2013; 80 FR 7536, Feb. 11, 2015; 81 FR 34259, May 31, 2016; 81 FR 48579, July 25, 2016; 84 FR 65239, Nov. 26, 2019]

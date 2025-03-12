@@ -1,20 +1,10 @@
 ##### § 162.103 Definitions. #####
 
-Link to an amendment published at 84 FR 57629, Oct. 28, 2019.
-
 For purposes of this part, the following definitions apply:
 
 *Code set* means any set of codes used to encode data elements, such as tables of terms, medical concepts, medical diagnostic codes, or medical procedure codes. A code set includes the codes and the descriptors of the codes.
 
 *Code set maintaining organization* means an organization that creates and maintains the code sets adopted by the Secretary for use in the transactions for which standards are adopted in this part.
-
-*Controlling health plan (CHP)* means a health plan that -
-
-(1) Controls its own business activities, actions, or policies; or
-
-(2)(i) Is controlled by an entity that is not a health plan; and
-
-(ii) If it has a subhealth plan(s) (as defined in this section), exercises sufficient control over the subhealth plan(s) to direct its/their business activities, actions, or policies.
 
 *Covered health care provider* means a health care provider that meets the definition at paragraph (3) of the definition of “covered entity” at § 160.103.
 
@@ -48,6 +38,4 @@ For purposes of this part, the following definitions apply:
 
 *Standard transaction* means a transaction that complies with an applicable standard and associated operating rules adopted under this part.
 
-*Subhealth plan (SHP)* means a health plan whose business activities, actions, or policies are directed by a controlling health plan.
-
-[65 FR 50367, Aug. 17, 2000, as amended at 68 FR 8374, Feb. 20, 2003; 74 FR 3324, Jan. 16, 2009; 76 FR 40495, July 8, 2011; 77 FR 1589, Jan. 10, 2012; 77 FR 54719, Sept. 5, 2012]
+[65 FR 50367, Aug. 17, 2000, as amended at 68 FR 8374, Feb. 20, 2003; 74 FR 3324, Jan. 16, 2009; 76 FR 40495, July 8, 2011; 77 FR 1589, Jan. 10, 2012; 77 FR 54719, Sept. 5, 2012; 84 FR 57629, Oct. 28, 2019]

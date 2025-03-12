@@ -126,4 +126,4 @@ AldrinAllyl chloridealpha-BHCbeta-BHCdelta-BHCgamma-BHCBis(2-chloroethyl) etherB
 
 (3) At least one wheel on the tank car must be blocked against movement in both directions, and the hand brakes must be set. If multiple tank cars are coupled together, sufficient hand brakes must be set and wheels blocked to prevent movement in both directions.
 
-[Amdt. 173-245, 60 FR 49072, Sept. 21, 1995, as amended by Amdt. 173-245, 61 FR 33254, June 26, 1996; Amdt. 173-256, 61 FR 51338, Oct. 1, 1996; 65 FR 58629, Sept. 29, 2000; 66 FR 33427, June 21, 2001; 66 FR 45379, 45381, Aug. 28, 2001; 68 FR 48569, Aug. 14, 2003; 68 FR 75743, Dec. 31, 2003; 68 FR 61941, Oct. 30, 2003; 70 FR 34075, June 13, 2005; 72 FR 25176, May 3, 2007; 72 FR 55692, Oct. 1, 2007; 74 FR 1799, Jan. 13, 2009; 75 FR 27215, May 14, 2010; 83 FR 55808, Nov. 7, 2018]
+[Amdt. 173-245, 60 FR 49072, Sept. 21, 1995]Editorial Note:For Federal Register citations affecting § 173.31, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,6 +1,6 @@
 ##### § 125.2 What are SBA's and the procuring agency's responsibilities when providing contracting assistance to small businesses? #####
 
-Link to an amendment published at 84 FR 65239, Nov. 26, 2019.Link to an amendment published at 84 FR 65662, Nov. 29, 2019.
+Link to an amendment published at 84 FR 65662, Nov. 29, 2019.
 
 (a) *General.* The objective of the SBA's contracting programs is to assist small business concerns, including 8(a) BD Participants, HUBZone small business concerns, Service Disabled Veteran-Owned Small Business Concerns, Women-Owned Small Businesses and Economically Disadvantaged Women-Owned Small Businesses, in obtaining a fair share of Federal Government prime contracts, subcontracts, orders, and property sales. Therefore, these regulations apply to all types of Federal Government contracts, including Multiple Award Contracts, and contracts for architectural and engineering services, research, development, test and evaluation.
 Small business concerns must receive any award (including orders, and orders placed against Multiple Award Contracts) or contract, part of any such award or contract, any contract for the sale of Government property, or any contract resulting from a reverse auction, regardless of the place of performance, which SBA and the procuring or disposal agency determine to be in the interest of:
@@ -71,7 +71,7 @@ Small business concerns must receive any award (including orders, and orders pla
 
 (c) *Procuring Agency Responsibilities* - (1) *Requirement to Foster Small Business Participation.* The Small Business Act requires each Federal agency to foster the participation of small business concerns as prime contractors and subcontractors in the contracting opportunities of the Government regardless of the place of performance of the contract. In addition, Federal agencies must ensure that all bundled and consolidated contracts contain the required analysis and justification and provide small business concerns with appropriate opportunities to participate as prime contractors and subcontractors. Agency acquisition planners must:
 
-(i) Structure procurement requirements to facilitate competition by and among small business concerns, including small business concerns owned and controlled by service-disabled veterans, qualified HUBZone small business concerns, 8(a) BD small business concerns (including those owned by ANCs, Indian Tribes and NHOs), and small business concerns owned and controlled by women;
+(i) Structure procurement requirements to facilitate competition by and among small business concerns, including small business concerns owned and controlled by service-disabled veterans, certified HUBZone small business concerns , 8(a) BD small business concerns (including those owned by ANCs, Indian Tribes and NHOs), and small business concerns owned and controlled by women;
 
 (ii) Avoid unnecessary and unjustified bundling of contracts or consolidation of contract requirements that inhibits or precludes small business participation in procurements as prime contractors;
 
@@ -325,4 +325,4 @@ Small business concerns must receive any award (including orders, and orders pla
 
 (ii) SBA believes that Progress in fulfilling the various small business goals, as well as other factors such as the results of market research, programmatic needs specific to the procuring agency, anticipated award price, and the acquisition history, will be considered in making a decision as to which program to use for the acquisition.
 
-[61 FR 3312, Jan. 31, 1996, as amended at 63 FR 31908, June 11, 1998; 64 FR 57370, Oct. 25, 1999; 65 FR 45833, July 26, 2000; 68 FR 60012, Oct. 20, 2003; 74 FR 46887, Sept. 14, 2009; 75 FR 62281, Oct. 7, 2010; 76 FR 63547, Oct. 12, 2011; 77 FR 1860, Jan. 12, 2012; 78 FR 61135, Oct. 2, 2013; 81 FR 34261, May 31, 2016; 81 FR 48585, July 25, 2016]
+[61 FR 3312, Jan. 31, 1996, as amended at 63 FR 31908, June 11, 1998; 64 FR 57370, Oct. 25, 1999; 65 FR 45833, July 26, 2000; 68 FR 60012, Oct. 20, 2003; 74 FR 46887, Sept. 14, 2009; 75 FR 62281, Oct. 7, 2010; 76 FR 63547, Oct. 12, 2011; 77 FR 1860, Jan. 12, 2012; 78 FR 61135, Oct. 2, 2013; 81 FR 34261, May 31, 2016; 81 FR 48585, July 25, 2016; 84 FR 65239, Nov. 26, 2019]
