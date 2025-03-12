@@ -1,5 +1,7 @@
 ##### § 102-35.10 How are these regulations for the disposal of personal property organized? #####
 
+Link to an amendment published at 87 FR 6043, Feb. 3, 2022.
+
 The General Services Administration (GSA) has divided its regulations for the disposal of personal property into the following program areas:
 
 (a) Disposition of excess personal property (part 102-36 of this subchapter B).

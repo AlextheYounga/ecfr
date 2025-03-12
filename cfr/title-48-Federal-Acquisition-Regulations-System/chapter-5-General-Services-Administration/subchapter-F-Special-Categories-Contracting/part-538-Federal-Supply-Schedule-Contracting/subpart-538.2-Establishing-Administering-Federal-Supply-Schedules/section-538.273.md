@@ -10,7 +10,7 @@
 
 (b) As prescribed in this paragraph, insert the following clause and provision as an addendum to 52.212-1, Instructions to Offerors - Commercial Products and Commercial Services:
 
-(1) 552.238-73, Identification of Electronic Office Equipment Providing Accessibility for the Handicapped. Use only in FSS solicitations for electronic office equipment.
+(1) 552.238-73, Identification of Electronic Office Equipment Providing Accessibility for Individuals with Disabilities. Use only in FSS solicitations for electronic office equipment.
 
 (2) 552.238-74, Introduction of New Supplies/Services (INSS). Use only in FSS solicitations allowing the introduction of new supplies/services. Note: GSA Form 1649, Notification of Federal Supply Schedule Improvement, may be required if revising a Special Item Number (SIN).
 
@@ -124,4 +124,4 @@
 
 (35) 552.238-111, Environmental Protection Agency Registration Requirement. Use only in FSS solicitations and contracts for supplies when products may require registration with the Environmental Protection Agency.
 
-[84 FR 17039, Apr. 23, 2019; 84 FR 22382, May 17, 2019, as amended at 86 FR 55521, Oct. 6, 2021; 86 FR 68443, Dec. 2, 2021]
+[84 FR 17039, Apr. 23, 2019; 84 FR 22382, May 17, 2019, as amended at 86 FR 55521, Oct. 6, 2021; 86 FR 68443, Dec. 2, 2021; 87 FR 6045, Feb. 3, 2022]

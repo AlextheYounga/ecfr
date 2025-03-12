@@ -466,7 +466,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |      Danville      |                        19                         |
 |   Elizabethtown    |                       \*23                        |
 |       Harlan       |                         S                         |
-|       Hazard       |                     12, \*33                      |
+|       Hazard       |                     20, \*33                      |
 |     Lexington      |                 21, 27, 28, \*35                  |
 |     Louisville     |           8, 11, 14, \*30, 32, \*34, 36           |
 |    Madisonville    |                       \*31                        |

@@ -1,7 +1,5 @@
 ##### § 478.11 Meaning of terms. #####
 
-Link to an amendment published at 87 FR 193, Jan. 4, 2022.
-
 When used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meanings ascribed in this section. Words in the plural form shall include the singular, and vice versa, and words importing the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude other things not enumerated which are in the same general class or are otherwise within the scope thereof.
 
 *Act.* 18 U.S.C. Chapter 44.
@@ -36,7 +34,15 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Ammunition.* Ammunition or cartridge cases, primers, bullets, or propellent powder designed for use in any firearm other than an antique firearm. The term shall not include (a) any shotgun shot or pellet not designed for use as the single, complete projectile load for one shotgun hull or casing, nor (b) any unloaded, non-metallic shotgun hull or casing not having a primer.
 
-*Antique firearm.* (a) Any firearm (including any firearm with a matchlock, flintlock, percussion cap, or similar type of ignition system) manufactured in or before 1898; and (b) any replica of any firearm described in paragraph (a) of this definition if such replica (1) is not designed or redesigned for using rimfire or conventional centerfire fixed ammunition, or (2) uses rimfire or conventional centerfire fixed ammunition which is no longer manufactured in the United States and which is not readily available in the ordinary channels of commercial trade.
+*Antique firearm.* (1) Any firearm (including any firearm with a matchlock, flintlock, percussion cap, or similar type of ignition system) manufactured in or before 1898;
+
+(2) Any replica of any firearm described in paragraph (a) of this definition if such replica:
+
+(i) Is not designed or redesigned for using rimfire or conventional centerfire fixed ammunition; or
+
+(ii) Uses rimfire or conventional centerfire fixed ammunition that is no longer manufactured in the United States and that is not readily available in the ordinary channels of commercial trade; or
+
+(3) Any muzzle loading rifle, muzzle loading shotgun, or muzzle loading pistol that is designed to use black powder, or a black powder substitute, and that cannot use fixed ammunition. For purposes of this paragraph (3), the term “antique firearm” does not include any weapon that incorporates a firearm frame or receiver, any firearm that is converted into a muzzle loading weapon, or any muzzle loading weapon that can be readily converted to fire fixed ammunition by replacing the barrel, bolt, breechblock, or any combination thereof.
 
 *Armor piercing ammunition.* Projectiles or projectile cores which may be used in a handgun and which are constructed entirely (excluding the presence of traces of other substances) from one or a combination of tungsten alloys, steel, iron, brass, bronze, beryllium copper, or depleted uranium; or full jacketed projectiles larger than .22 caliber designed and intended for use in a handgun and whose jacket has a weight of more than 25 percent of the total weight of the projectile. The term does not include shotgun shot required by Federal or State environmental or game regulations for hunting purposes, frangible projectiles designed for target shooting, projectiles which the Director finds are primarily intended to be used for sporting purposes, or any other projectiles or projectile cores which the Director finds are intended to be used for industrial purposes, including charges used in oil and gas well perforating devices.
 
@@ -206,7 +212,13 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Revolver.* A projectile weapon, of the pistol type, having a breechloading chambered cylinder so arranged that the cocking of the hammer or movement of the trigger rotates it and brings the next cartridge in line with the barrel for firing.
 
-*Rifle.* A weapon designed or redesigned, made or remade, and intended to be fired from the shoulder, and designed or redesigned and made or remade to use the energy of the explosive in a fixed metallic cartridge to fire only a single projectile through a rifled bore for each single pull of the trigger.
+*Rifle.* A weapon designed or redesigned, made or remade, and intended to be fired from the shoulder, and designed or redesigned and made or remade to use the energy of an explosive to fire only a single projectile through a rifled bore for each single pull of the trigger.
+
+*Secure gun storage or safety device.* (1) A device that, when installed on a firearm, is designed to prevent the firearm from being operated without first deactivating the device;
+
+(2) A device incorporated into the design of the firearm that is designed to prevent the operation of the firearm by anyone not having access to the device; or
+
+(3) A safe, gun safe, gun case, lock box, or other device that is designed to be or can be used to store a firearm and that is designed to be unlocked only by means of a key, a combination, or other similar means.
 
 *Semiautomatic assault weapon.* (a) Any of the firearms, or copies or duplicates of the firearms in any caliber, known as:
 
@@ -272,7 +284,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Short-barreled shotgun.* A shotgun having one or more barrels less than 18 inches in length, and any weapon made from a shotgun, whether by alteration, modification, or otherwise, if such weapon as modified has an overall length of less than 26 inches.
 
-*Shotgun.* A weapon designed or redesigned, made or remade, and intended to be fired from the shoulder, and designed or redesigned and made or remade to use the energy of the explosive in a fixed shotgun shell to fire through a smooth bore either a number of ball shot or a single projectile for each single pull of the trigger.
+*Shotgun.* A weapon designed or redesigned, made or remade, and intended to be fired from the shoulder, and designed or redesigned and made or remade to use the energy of an explosive to fire through a smooth bore either a number of ball shot or a single projectile for each single pull of the trigger.
 
 *State.* A State of the United States. The term shall include the District of Columbia, the Commonwealth of Puerto Rico, and the possessions of the United States (not including the Canal Zone).
 
