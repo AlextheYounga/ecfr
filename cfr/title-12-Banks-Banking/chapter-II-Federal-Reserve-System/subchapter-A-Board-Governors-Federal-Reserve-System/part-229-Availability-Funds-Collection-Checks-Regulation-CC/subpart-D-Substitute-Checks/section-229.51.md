@@ -1,5 +1,7 @@
 ##### § 229.51 General provisions governing substitute checks. #####
 
+Link to an amendment published at 82 FR 27584, June 15, 2017.
+
 (a) *Legal equivalence.* A substitute check for which a bank has provided the warranties described in § 229.52 is the legal equivalent of an original check for all persons and all purposes, including any provision of federal or state law, if the substitute check -
 
 (1) Accurately represents all of the information on the front and back of the original check as of the time the original check was truncated; and

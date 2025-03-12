@@ -1,5 +1,7 @@
 ##### § 229.53 Substitute check indemnity. #####
 
+Link to an amendment published at 82 FR 27585, June 15, 2017.
+
 (a) *Scope of indemnity.* A bank that transfers, presents, or returns a substitute check or a paper or electronic representation of a substitute check for which it receives consideration shall indemnify the recipient and any subsequent recipient (including a collecting or returning bank, the depositary bank, the drawer, the drawee, the payee, the depositor, and any indorser) for any loss incurred by any recipient of a substitute check if that loss occurred due to the receipt of a substitute check instead of the original check.
 
 (b) *Indemnity amount* - (1) *In general.* Unless otherwise indicated by paragraph (b)(2) or (b)(3) of this section, the amount of the indemnity under paragraph (a) of this section is as follows:

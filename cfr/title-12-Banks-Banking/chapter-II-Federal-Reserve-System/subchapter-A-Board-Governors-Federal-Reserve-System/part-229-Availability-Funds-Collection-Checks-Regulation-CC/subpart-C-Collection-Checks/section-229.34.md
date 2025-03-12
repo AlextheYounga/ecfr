@@ -1,5 +1,7 @@
 ##### § 229.34 Warranties. #####
 
+Link to an amendment published at 82 FR 27581, June 15, 2017.
+
 (a) *Warranties.* Each paying bank or returning bank that transfers a returned check and receives a settlement or other consideration for it warrants to the transferee returning bank, to any subsequent returning bank, to the depositary bank, and to the owner of the check, that -
 
 (1) The paying bank, or in the case of a check payable by a bank and payable through another bank, the bank by which the check is payable, returned the check within its deadline under the U.C.C., Regulation J (12 CFR part 210), or § 229.30(c) of this part;

@@ -1,5 +1,7 @@
 ##### § 229.39 lnsolvency of bank. #####
 
+Link to an amendment published at 82 FR 27583, June 15, 2017.
+
 (a) *Duty of receiver.* A check or returned check in, or coming into, the possession of a paying, collecting, depositary, or returning bank that suspends payment, and which is not paid, shall be returned by the receiver, trustee, or agent in charge of the closed bank to the bank or customer that transferred the check to the closed bank.
 
 (b) *Preference against paying or depositary bank.* If a paying bank finally pays a check, or if a depositary bank becomes obligated to pay a returned check, and suspends payment without making a settlement for the check or returned check with the prior bank that is or becomes final, the prior bank has a preferred claim against the paying bank or the depositary bank.

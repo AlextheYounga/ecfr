@@ -1,5 +1,7 @@
 ##### § 229.32 Depositary bank's responsibility for returned checks. #####
 
+Link to an amendment published at 82 FR 27580, June 15, 2017.
+
 (a) *Acceptance of returned checks.* A depositary bank shall accept returned checks and written notices of nonpayment
 
 (1) At a location at which presentment of checks for forward collection is requested by the depositary bank; and

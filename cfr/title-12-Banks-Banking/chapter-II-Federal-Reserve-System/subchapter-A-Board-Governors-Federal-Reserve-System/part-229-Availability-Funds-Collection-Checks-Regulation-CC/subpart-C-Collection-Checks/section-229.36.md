@@ -1,5 +1,7 @@
 ##### § 229.36 Presentment and issuance of checks. #####
 
+Link to an amendment published at 82 FR 27583, June 15, 2017.
+
 (a) *Payable through and payable at checks.* A check payable at or through a paying bank is considered to be drawn on that bank for purposes of the expeditious return and notice of nonpayment requirements of this subpart.
 
 (b) *Receipt at bank office or processing center.* A check is considered received by the paying bank when it is received:

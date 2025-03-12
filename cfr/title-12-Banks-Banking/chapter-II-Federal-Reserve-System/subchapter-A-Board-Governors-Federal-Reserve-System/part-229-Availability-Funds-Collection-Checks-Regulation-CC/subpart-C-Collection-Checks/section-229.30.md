@@ -1,5 +1,7 @@
 ##### § 229.30 Paying bank's responsibility for return of checks. #####
 
+Link to an amendment published at 82 FR 27579, June 15, 2017.
+
 (a) *Return of checks.* If a paying bank determines not to pay a check, it shall return the check in an expeditious manner as provided in either paragraph (a)(1) or (a)(2) of this section.
 
 (1) *Two-day/four-day test.* A paying bank returns a check in an expeditious manner if it sends the returned check in a manner such that the check would normally be received by the depositary bank not later than 4:00 p.m. (local time of the depositary bank) of -

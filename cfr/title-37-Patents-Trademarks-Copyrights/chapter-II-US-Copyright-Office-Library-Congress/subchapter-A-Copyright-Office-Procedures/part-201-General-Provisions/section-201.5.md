@@ -1,5 +1,7 @@
 ##### § 201.5 Corrections and amplifications of copyright registrations; applications for supplementary registration. #####
 
+Link to an amendment published at 82 FR 27427, June 15, 2017.
+
 (a) *General.* (1) This section prescribes conditions relating to the filing of an application for supplementary registration, to correct an error in a copyright registration or to amplify the information given in a registration, under section 408(d) of title 17 of the United States Code. For the purposes of this section:
 
 (i) A *basic registration* means any of the following:

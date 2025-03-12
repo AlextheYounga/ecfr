@@ -1,5 +1,7 @@
 ##### § 229.33 Notice of nonpayment. #####
 
+Link to an amendment published at 82 FR 27580, June 15, 2017.
+
 (a) *Requirement.* If a paying bank determines not to pay a check in the amount of $2,500 or more, it shall provide notice of nonpayment such that the notice is received by the depositary bank by 4:00 p.m. (local time) on the second business day following the banking day on which the check was presented to the paying bank. If the day the paying bank is required to provide notice is not a banking day for the depositary bank, receipt of notice on the depositary bank's next banking day constitutes timely notice. Notice may be provided by any reasonable means, including the returned check, a writing (including a copy of the check), telephone, Fedwire, telex, or other form of telegraph.
 
 (b) *Content of notice.* Notice must include the -

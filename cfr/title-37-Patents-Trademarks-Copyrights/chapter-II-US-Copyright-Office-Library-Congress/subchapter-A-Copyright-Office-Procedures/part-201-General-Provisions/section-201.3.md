@@ -1,6 +1,6 @@
 ##### § 201.3 Fees for registration, recordation, and related services, special services, and services performed by the Licensing Division. #####
 
-Link to an amendment published at 82 FR 26853, June 12, 2017.
+Link to an amendment published at 82 FR 26853, June 12, 2017.Link to an amendment published at 82 FR 27427, June 15, 2017.
 
 (a) *General.* This section prescribes the fees for registration, recordation, and related services, special services, and services performed by the Licensing Division.
 

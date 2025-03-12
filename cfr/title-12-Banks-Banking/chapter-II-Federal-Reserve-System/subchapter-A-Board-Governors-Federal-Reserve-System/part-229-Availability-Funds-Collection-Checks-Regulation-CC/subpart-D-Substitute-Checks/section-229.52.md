@@ -1,5 +1,7 @@
 ##### § 229.52 Substitute check warranties. #####
 
+Link to an amendment published at 82 FR 27584, June 15, 2017.
+
 (a) *Content and provision of substitute check warranties.* A bank that transfers, presents, or returns a substitute check (or a paper or electronic representation of a substitute check) for which it receives consideration warrants to the parties listed in paragraph (b) of this section that -
 
 (1) The substitute check meets the requirements for legal equivalence described in § 229.51(a)(1)-(2); and
