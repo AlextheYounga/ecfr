@@ -1,7 +1,5 @@
 ##### § 51.917 Revenue recovery for Rate-of-Return Carriers. #####
 
-Link to an amendment published at 83 FR 14189, Apr. 3, 2018.
-
 (a) *Scope.* This section sets forth the extent to which Rate-of-Return Carriers may recover, through the recovery mechanism outlined in paragraphs (d) through (f) of this section, a portion of revenues lost due to rate reductions required by § 20.11(b) of this chapter, and §§ 51.705 and 51.909.
 
 (b) *Definitions.*
@@ -138,6 +136,21 @@ Link to an amendment published at 83 FR 14189, Apr. 3, 2018.
 
 (3) A Rate-of-Return Carrier that elects to receive CAF ICC support must certify with its annual access tariff filing that it has complied with paragraphs (d) and (e), and, after doing so, is eligible to receive the CAF ICC support requested pursuant to paragraph (f) of this section.
 
-(4) A Rate-of-Return Carrier must impute an amount equal to the Access Recovery Charge for each Consumer Broadband-Only Loop line that receives support pursuant to § 54.901 of this chapter, with the imputation applied before CAF-ICC recovery is determined. The per line per month imputation amount shall be equal to the Access Recovery Charge amount prescribed by paragraph (e) of this section, consistent with the residential or single-line business or multi-line business status of the retail customer.
+(4) Except as provided in paragraph (f)(5) of this section, a Rate-of-Return Carrier must impute an amount equal to the Access Recovery Charge for each Consumer Broadband-Only Loop line that receives support pursuant to § 54.901 of this chapter, with the imputation applied before CAF-ICC recovery is determined.
+The per line per month imputation amount shall be equal to the Access Recovery Charge amount prescribed by paragraph (e) of this section, consistent with the residential or single-line business or multi-line business status of the retail customer.
 
-[76 FR 73856, Nov. 29, 2011, as amended at 77 FR 14302, Mar. 9, 2012; 78 FR 26268, May 6, 2013; 79 FR 28847, May 20, 2014; 80 FR 15909, Mar. 26, 2015; 81 FR 24337, Apr. 25, 2016]
+(5) Notwithstanding paragraph (f)(4) of this section, commencing July 1, 2018 and ending June 30, 2023, the maximum total dollar amount a carrier must impute on supported consumer broadband-only loops is limited as follows:
+
+(i) For the affected tariff year, the carrier shall compare the amounts in paragraphs (f)(5)(i)(A) and (B) of this section.
+
+(A) The sum of the revenues from projected Access Recovery Charges assessed pursuant to paragraph (e) of this section, any amounts imputed pursuant to paragraph (f)(2) of this section, and any imputation pursuant to paragraph (f)(4) of this section.
+
+(B) The sum of the revenues from Access Recovery Charges assessed pursuant to paragraph (e) of this section and any amounts imputed pursuant to paragraph (f)(2) of this section for tariff year 2015-16, after being trued-up.
+
+(ii) If the amount determined in paragraph (f)(5)(i)(A) of this section is greater than the amount determined in paragraph (f)(5)(i)(B), the sum of the revenues from projected Access Recovery Charges assessed pursuant to paragraph (e) of this section and any amounts imputed pursuant to paragraph (f)(2) of this section for the affected year must be compared to the amount determined in paragraph (f)(5)(ii)(B) of this section.
+
+(A) If the former amount is greater than the latter amount, no imputation is made on Consumer Broadband-Only Loops.
+
+(B) If the former amount is equal to or less than the latter amount, the imputation on Consumer Broadband-Only Loops is limited to the difference between the two amounts.
+
+[76 FR 73856, Nov. 29, 2011, as amended at 77 FR 14302, Mar. 9, 2012; 78 FR 26268, May 6, 2013; 79 FR 28847, May 20, 2014; 80 FR 15909, Mar. 26, 2015; 81 FR 24337, Apr. 25, 2016; 83 FR 14189, Apr. 3, 2018]

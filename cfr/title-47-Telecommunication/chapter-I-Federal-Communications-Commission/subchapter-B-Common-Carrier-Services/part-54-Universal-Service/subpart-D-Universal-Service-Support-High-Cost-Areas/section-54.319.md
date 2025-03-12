@@ -1,7 +1,5 @@
 ##### § 54.319 Elimination of high-cost support in areas with 100 percent coverage by an unsubsidized competitor. #####
 
-Link to an amendment published at 83 FR 14189, Apr. 3, 2018.
-
 (a) High-cost universal service support provided pursuant to subparts K and M of this part shall be eliminated in an incumbent rate-of-return local exchange carrier study area where an unsubsidized competitor, or combination of unsubsidized competitors, as defined in § 54.5, offer(s) to 100 percent of the residential and business locations in the study area voice and broadband service at speeds of at least 10 Mbps downstream/1 Mbps upstream, with latency suitable for real-time applications, including Voice over Internet Protocol, and usage capacity that is reasonably comparable to comparable offerings in urban areas, at rates that are reasonably comparable to rates for comparable offerings in urban areas.
 
 (b) After a determination there is a 100 percent overlap, the incumbent local exchange carrier shall receive the following amount of high-cost support:
@@ -26,7 +24,7 @@ Link to an amendment published at 83 FR 14189, Apr. 3, 2018.
 
 (3) In the third year and thereafter, no support shall be provided pursuant to subpart K of this part for any competitive census block.
 
-(g) For any incumbent local exchange carrier for which the disaggregated support for competitive census blocks represents more than 25 percent of the support the carrier would have received in the study area in the absence of this rule, support shall be reduced for each competitive census block according to the following schedule:
+(g) For any incumbent local exchange carrier for which the disaggregated support for competitive census blocks represents 25 percent or more of the support the carrier would have received in the study area in the absence of this rule, support shall be reduced for each competitive census block according to the following schedule:
 
 (1) In the first year, 83 percent of the incumbent's disaggregated support for the competitive census blocks will be provided;
 
@@ -42,4 +40,4 @@ Link to an amendment published at 83 FR 14189, Apr. 3, 2018.
 
 (h) The Wireline Competition Bureau shall update its analysis of competitive overlap in census blocks every seven years, utilizing the current public interest obligations in § 54.308(a)(2) as the standard that must be met by an unsubsidized competitor.
 
-[80 FR 4478, Jan. 27, 2015, as amended at 81 FR 24342, Apr. 25, 2016; 82 FR 14340, Mar. 20, 2017]Effective Date Note: At 81 FR 24342. Apr. 25, 2016, § 54.349(a) was revised and (d) through (h) were added. Paragraph (e) contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[80 FR 4478, Jan. 27, 2015, as amended at 81 FR 24342, Apr. 25, 2016; 82 FR 14340, Mar. 20, 2017; 83 FR 14189, Apr. 3, 2018]Effective Date Note: At 81 FR 24342. Apr. 25, 2016, § 54.319(a) was revised and (d) through (h) were added. Paragraph (e) contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

@@ -1,5 +1,7 @@
 ##### § 1.1307 Actions that may have a significant environmental effect, for which Environmental Assessments (EAs) must be prepared. #####
 
+Link to an amendment published at 83 FR 19458, May 3, 2018.
+
 (a) Commission actions with respect to the following types of facilities may significantly affect the environment and thus require the preparation of EAs by the applicant (see §§ 1.1308 and 1.1311) and may require further Commission environmental processing (*see* §§ 1.1314, 1.1315 and 1.1317):
 
 (1) Facilities that are to be located in an officially designated wilderness area.

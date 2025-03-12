@@ -1,3 +1,3 @@
 ##### § 343.60 Qualification and licensing requirements for insurance sales personnel. #####
 
-A bank may not permit any person to sell or offer for sale any insurance product or annuity in any part of its office or on its behalf, unless the person is at all times appropriately qualified and licensed under applicable State insurance licensing standards with regard to the specific products being sold or recommended.
+An institution may not permit any person to sell or offer for sale any insurance product or annuity in any part of its office or on its behalf, unless the person is at all times appropriately qualified and licensed under applicable State insurance licensing standards with regard to the specific products being sold or recommended.

@@ -72,20 +72,16 @@
 
 (ii) Any ancillary or supplementary service for which no payment is required from consumers in order to receive the service is feeable if the DTV licensee directly or indirectly receives compensation from a third party in return for the transmission of material provided by that third party (other than commercial advertisements used to support broadcasting for which a subscription fee is not required). The fee required by this provision shall be imposed on any and all revenues from such services, other than revenues received from a third party in return for the transmission of commercial advertisements used to support broadcasting for which a subscription fee is not required.
 
-(2) *Payment of fees.* (i) Each December 1, all commercial and noncommercial DTV licensees and permittees will electronically report whether they provided ancillary or supplementary services in the 12-month period ending on the preceding September 30. Licensees and permittees will further report, for the applicable period:
+(2) *Payment of fees.* (i) Each December 1, all commercial and noncommercial DTV licensees and permittees that provided feeable ancillary or supplementary services as defined in this section at any point during the 12-month period ending on the preceding September 30 will electronically report, for the applicable period:
 
-(A) A brief description of the services provided;
+(A) A brief description of the feeable ancillary or supplementary services provided;
 
-(B) Which services were feeable ancillary or supplementary services;
+(B) Gross revenues received from all feeable ancillary and supplementary services provided during the applicable period; and
 
-(C) Whether any ancillary or supplementary services provided were not subject to a fee;
+(C) The amount of bitstream used to provide feeable ancillary or supplementary services during the applicable period. Licensees and permittees will certify under penalty of perjury the accuracy of the information reported. Failure to file information required by this section may result in appropriate sanctions.
 
-(D) Gross revenues received from all feeable ancillary and supplementary services provided during the applicable period; and
-
-(E) The amount of bitstream used to provide ancillary or supplementary services during the applicable period. Licensees and permittees will certify under penalty of perjury the accuracy of the information reported. Failure to file regardless of revenues from ancillary or supplementary services or provision of such services may result in appropriate sanctions.
-
-(ii) If a commercial or noncommercial DTV licensee or permittee has provided feeable ancillary or supplementary services at any point during a 12-month period ending on September 30, the licensee or permittee must additionally file the FCC's standard remittance form (Form 159) on the subsequent December 1. Licensees and permittees will certify the amount of gross revenues received from feeable ancillary or supplementary services for the applicable 12-month period and will remit the payment of the required fee.
+(ii) A commercial or noncommercial DTV licensee or permittee that has provided feeable ancillary or supplementary services at any point during a 12-month period ending on September 30 must additionally file the FCC's standard remittance form (Form 159) on the subsequent December 1. Licensees and permittees will certify the amount of gross revenues received from feeable ancillary or supplementary services for the applicable 12-month period and will remit the payment of the required fee.
 
 (iii) The Commission reserves the right to audit each licensee's or permittee's records which support the calculation of the amount specified on line 23A of Form 159. Each licensee or permittee, therefore, is required to retain such records for three years from the date of remittance of fees.
 
-[62 FR 26989, May 16, 1997, as amended at 63 FR 15784, Apr. 1, 1998; 63 FR 69216, Dec. 16, 1998; 64 FR 4327, Jan. 28, 1999; 66 FR 58982, Nov. 26, 2001; 66 FR 65135, Dec. 18, 2001; 67 FR 13232, Mar. 21, 2002; 67 FR 38423, June 4, 2002; 69 FR 59535, Oct. 4, 2004; 73 FR 5683, Jan. 30, 2008; 74 FR 8878, Feb. 27, 2009; 76 FR 44827, July 27, 2011; 83 FR 5022, Feb. 2, 2018]
+[62 FR 26989, May 16, 1997, as amended at 63 FR 15784, Apr. 1, 1998; 63 FR 69216, Dec. 16, 1998; 64 FR 4327, Jan. 28, 1999; 66 FR 58982, Nov. 26, 2001; 66 FR 65135, Dec. 18, 2001; 67 FR 13232, Mar. 21, 2002; 67 FR 38423, June 4, 2002; 69 FR 59535, Oct. 4, 2004; 73 FR 5683, Jan. 30, 2008; 74 FR 8878, Feb. 27, 2009; 76 FR 44827, July 27, 2011; 83 FR 5022, Feb. 2, 2018; 83 FR 19460, May 3, 2018]

@@ -1,5 +1,7 @@
 ##### § 1026.19 Certain mortgage and variable-rate transactions. #####
 
+Link to an amendment published at 83 FR 19174, May 2, 2018.
+
 (a) *Mortgage transactions subject to RESPA* - (1)(i) *Time of disclosures.* In a reverse mortgage transaction subject to both § 1026.33 and the Real Estate Settlement Procedures Act (12 U.S.C. 2601 *et seq.*) that is secured by the consumer's dwelling, the creditor shall provide the consumer with good faith estimates of the disclosures required by § 1026.18 and shall deliver or place them in the mail not later than the third business day after the creditor receives the consumer's written application.
 
 (ii) *Imposition of fees.* Except as provided in paragraph (a)(1)(iii) of this section, neither a creditor nor any other person may impose a fee on a consumer in connection with the consumer's application for a reverse mortgage transaction subject to paragraph (a)(1)(i) of this section before the consumer has received the disclosures required by paragraph (a)(1)(i) of this section. If the disclosures are mailed to the consumer, the consumer is considered to have received them three business days after they are mailed.

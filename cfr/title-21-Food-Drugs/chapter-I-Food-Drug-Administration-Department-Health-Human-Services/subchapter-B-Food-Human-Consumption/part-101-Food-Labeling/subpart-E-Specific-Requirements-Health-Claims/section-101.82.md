@@ -12,7 +12,7 @@
 
 (c) *Requirements.* (1) All requirements set forth in § 101.14 shall be met.
 
-(2) *Specific requirements* - (i) *Nature of the claim.* A health claim associating diets that are low in saturated fat and cholesterol and that include soy protein with reduced risk of heart disease may be made on the label or labeling of a food described in paragraph (c)(2)(iii) of this section, provided that:
+(2) *Specific requirements*—(i) *Nature of the claim.* A health claim associating diets that are low in saturated fat and cholesterol and that include soy protein with reduced risk of heart disease may be made on the label or labeling of a food described in paragraph (c)(2)(iii) of this section, provided that:
 
 (A) The claim states that diets that are low in saturated fat and cholesterol and that include soy protein “may” or “might” reduce the risk of heart disease;
 
@@ -52,8 +52,8 @@
 
 (e) *Model health claim.* The following model health claims may be used in food labeling to describe the relationship between diets that are low in saturated fat and cholesterol and that include soy protein and reduced risk of heart disease:
 
-(1) 25 grams of soy protein a day, as part of a diet low in saturated fat and cholesterol, may reduce the risk of heart disease. A serving of [name of food] supplies \_\_ grams of soy protein.
+(1) 25 grams of soy protein a day, as part of a diet low in saturated fat and cholesterol, may reduce the risk of heart disease. A serving of [name of food] supplies \_\_\_\_ grams of soy protein.
 
-(2) Diets low in saturated fat and cholesterol that include 25 grams of soy protein a day may reduce the risk of heart disease. One serving of [name of food] provides \_\_ grams of soy protein.
+(2) Diets low in saturated fat and cholesterol that include 25 grams of soy protein a day may reduce the risk of heart disease. One serving of [name of food] provides \_\_\_\_ grams of soy protein.
 
-[64 FR 57732, Oct. 26, 1999]Effective Date Note:At 64 FR 57732, Oct. 26, 1999, § 101.82 was added. Paragraph (c)(2)(ii)(B) contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[64 FR 57732, Oct. 26, 1999]Effective Date Note:At 64 FR 57732, Oct. 26, 1999, § 101.82 was added. Paragraph (c)(2)(ii)(B) of this section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
