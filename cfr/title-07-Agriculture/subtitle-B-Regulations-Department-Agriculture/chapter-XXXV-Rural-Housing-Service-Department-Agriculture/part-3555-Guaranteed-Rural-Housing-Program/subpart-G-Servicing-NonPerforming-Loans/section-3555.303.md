@@ -1,7 +1,5 @@
 ##### § 3555.303 Traditional servicing options. #####
 
-Link to an amendment published at 84 FR 70886, Dec. 26, 2019.
-
 (a) *Eligibility.* To be eligible for traditional servicing, all the following conditions must be met:
 
 (1) The borrower presently occupies the property;
@@ -26,16 +24,16 @@ Link to an amendment published at 84 FR 70886, Dec. 26, 2019.
 
 (3) *Loan modification plan.* A loan modification is a permanent change in one or more of the terms of a loan that results in a payment the borrower can afford and allows the loan to be brought current. A loan modification must be a written agreement.
 
-(i) Loan modifications must be a fixed interest rate and cannot exceed the interest rate of the loan note guarantee issued.
+(i) Loan modifications must be a fixed interest rate and cannot exceed the market interest rate at the time of modification.
 
-(ii) Loan modifications may capitalize all or a portion of the arrearage (PITI) and/or reamortization of the balance due. Capitalization may also include foreclosure fees and costs, tax and insurance advances, past due annual fees imposed by the lender, but not late charges or lender fees.
+(ii) Loan modifications may capitalize all or a portion of the arrearage and/or reamortization of the balance due including foreclosure fees and costs, tax and insurance advances, and past due Agency annual fees imposed by the lender. Late charges and lender fees may not be capitalized.
 
 (iii) If necessary to demonstrate repayment ability, the loan term after reamortization may be extended for up to 30 years from the date of the loan modification.
 
 (iv) The lender's lien priority cannot be adversely affected by providing a loan modification.
 
-(v) The borrower is not required to complete a trial payment plan prior to making the scheduled payments amended by the traditional loan servicing loan modification.
+(v) Lenders may require that borrowers complete a trial payment plan prior to making scheduled payments amended by the traditional loan servicing loan modification.
 
 (c) *Terms of loan note guarantee.* Use of traditional servicing options does not change the terms of the loan note guarantee except when the traditional servicing option meets the requirements of § 3555.303(b)(3)(iv). The loan guarantee will apply to loan terms extending beyond the 30 year loan term from the date of origination when a loan modification meets the criteria set forth in § 3555.303(b)(3)(iv).
 
-[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 6430, Feb. 8, 2016]
+[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 6430, Feb. 8, 2016; 84 FR 70886, Dec. 26, 2019]

@@ -1,7 +1,5 @@
 ##### § 3555.51 Lender eligibility. #####
 
-Link to an amendment published at 84 FR 70886, Dec. 26, 2019.
-
 A lender must meet the requirements described in this section to be approved for participation in the SFHGLP.
 
 (a) *Ability to underwrite and service loans.* The lender must have a demonstrated ability to underwrite and service single-family home loans. A lender will be considered to have such a demonstrated ability if it qualifies as one of the following:
@@ -52,7 +50,7 @@ A lender must meet the requirements described in this section to be approved for
 
 (b) *SFHGLP participation requirements.* Lenders and their agents must comply with the following requirements:
 
-(1) Keep up to date, and comply with, all Agency regulations and handbooks, including all amendments and revisions of program requirements and policies. Lenders who originate a minimal number loans, as determined by the Agency, in a 24 month time frame may be required to take updated training to ensure a lender's continued knowledge of the program;
+(1) Keep up to date, and comply with, all Agency regulations and handbooks, including all amendments and revisions of program requirements and policies. Lenders must also comply with all other applicable federal, state, and local laws, rules, and requirements, including those under the purview of the Consumer Financial Protection Bureau, such as the Real Estate Settlement Procedures Act and the Truth in Lending Act. Lenders who originate a minimal number loans, as determined by the Agency, in a 24 month time frame may be required to take updated training to ensure a lender's continued knowledge of the program;
 
 (2) Regularly check Rural Development's Web site for new issuances related to the program;
 
@@ -95,3 +93,5 @@ A lender must meet the requirements described in this section to be approved for
 (21) Maintain complete loan files with all required documentation that is accessible by the Agency upon request for review; and
 
 (22) Execute a lender's agreement provided by Rural Development.
+
+[78 FR 73941, Dec. 9, 2013, as amended at 84 FR 70886, Dec. 26, 2019]

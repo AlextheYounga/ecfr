@@ -1,7 +1,5 @@
 ##### § 3555.10 Definitions and abbreviations. #####
 
-Link to an amendment published at 84 FR 70886, Dec. 26, 2019.
-
 The definitions and abbreviations in this section apply to this part.
 
 *Acceleration.* Demand for immediate repayment of the entire balance of a debt if the covenants in the promissory note, assumption agreement, or security instruments are breached.
@@ -202,7 +200,7 @@ The definitions and abbreviations in this section apply to this part.
 
 *Security property.* All the real property that serves as collateral for a guaranteed loan.
 
-*Settlement date.* The settlement date, for the purpose of loss calculation, is the later of the following:
+*Settlement date.* The settlement date, for the purpose of loss calculation, is:
 
 (1) Actual foreclosure date;
 
@@ -211,6 +209,8 @@ The definitions and abbreviations in this section apply to this part.
 (3) The date the borrower sells the property to a third party in order to avoid or cure a default situation, with prior approval of the lender; and
 
 (4) When title is acquired to the security following the expiration of any state-required redemption or confirmation period.
+
+(5) The date title is acquired upon recordation of a deed-in-lieu of foreclosure, with prior approval of the lender.
 
 *SFHGLP.* Single Family Housing Guaranteed Loan Program. The SFHGLP guarantees loans under section 502 of the Housing Act of 1949. Under the guarantee, the holder of the loan note may be reimbursed by Rural Development for all or part of a loss incurred if a borrower defaults on a loan.
 
@@ -250,4 +250,4 @@ The definitions and abbreviations in this section apply to this part.
 
 *Warehouse lender.* A non-depository lender who utilizes short-term revolving lines of credit to finance loan origination and or construction financing.
 
-[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 26464, May 3, 2016; 84 FR 29038, June 21, 2019; 84 FR 35006, July 22, 2019]
+[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 26464, May 3, 2016; 84 FR 29038, June 21, 2019; 84 FR 35006, July 22, 2019; 84 FR 70886, Dec. 26, 2019]

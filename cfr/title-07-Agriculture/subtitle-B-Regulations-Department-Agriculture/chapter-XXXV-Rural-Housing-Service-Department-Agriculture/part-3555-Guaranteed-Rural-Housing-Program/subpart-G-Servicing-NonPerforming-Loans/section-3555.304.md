@@ -1,14 +1,12 @@
 ##### § 3555.304 Special servicing options. #####
 
-Link to an amendment published at 84 FR 70886, Dec. 26, 2019.
-
 (a) *General.* (1) Lenders must exhaust traditional servicing options outlined in this part or have determined that use of traditional servicing options would not resolve the delinquency, prior to special servicing options. Lenders must exhaust special servicing options prior to liquidation in accordance with §§ 3555.305 or 3555.306.
 
-(2) Lenders must obtain Agency concurrence or a waiver as provided in § 3555.301(h) before implementing any special servicing options.
+(2) Use of special loan servicing does not change the terms of the loan note guarantee.
 
-(3) Use of special loan servicing does not change the terms of the loan note guarantee.
+(3) Special servicing options shall be used in the order established in this section to bring the borrower's mortgage payment to income ratio as close as possible to, but not less than, 31 percent.
 
-(4) Special servicing options shall be used in the order established in this section to bring the borrower's mortgage payment to income ratio as close as possible to, but not less than, 31 percent.
+(4) If the borrower currently has a mortgage payment to income ratio of 31 percent or less, special servicing options can be utilized to cure the delinquency without modifying the note; otherwise, special servicing options shall be used in the order established in this section to bring the borrower's mortgage payment to income ratio as close as possible to, but not less than, 31 percent.
 
 (b) *Conditions for special servicing options.* In addition to the requirements in § 3555.303(a), the following conditions apply to all special loan servicing:
 
@@ -22,17 +20,17 @@ Link to an amendment published at 84 FR 70886, Dec. 26, 2019.
 
 (c) *Extended-term loan modification.* The Lender may modify the loan by reducing the interest rate to a level at or below the maximum allowable interest rate and extending the repayment term up to a maximum of 40 years from the date of loan modification. The loan guarantee will apply to loan terms extending beyond the 30 year loan term from the date of origination when a loan modification meets the criteria set forth in this section.
 
-(1) The interest rate must be fixed. The interest rate cannot exceed the interest rate of the loan note guarantee issued. When reducing the interest rate, the maximum rate is subject to paragraph (c)(2) of this section.
+(1) Loan modifications may capitalize all or a portion of the arrearage and/or reamortization of the balance due including foreclosure fees and costs, tax and insurance advances, and past due Agency annual fees imposed by the lender. Late charges and lender fees may not be capitalized.
 
-(2) The Agency may establish the maximum allowable interest rate by publishing a notice of a change in interest rate. A notice of change in interest rate will be published as authorized in Exhibit B of subpart A of part 1810 of this chapter (RD Instruction 440.1, available in any Rural Development office) or online at *http://www.rd.usda.gov/publications/regulations-guidelines/instructions.* If the maximum allowable interest rate has not been so established, it shall be 50 basis points greater than the most recent Freddie Mac Weekly Primary Mortgage Market Survey (PMMS) rate for 30-year fixed-rate mortgages (U.S. average) rounded to the nearest one-eighth of one percent (0.125%), as of the date the loan modification is approved.
+(2) Loan modifications must be a fixed interest rate and cannot exceed the current market interest rate at the time of modification. When reducing the interest rate, the maximum rate is subject to paragraph (c)(3) of this section.
 
 (3) The term shall be extended only as long as is necessary to achieve the targeted mortgage payment to income ratio after the interest rate has been fixed at a level at or below the maximum allowable rate.
 
 (4) If the targeted mortgage payment to income ratio cannot be achieved using an extended-term loan modification alone, the lender may consider a mortgage recovery advance under this section in addition to the extended-term loan modification.
 
-(d) *Mortgage recovery advance.* (1) The maximum amount of a mortgage recovery advance is the sum of arrearages not to exceed 12 months of PITI, annual fees, legal fees and foreclosure costs related to a cancelled foreclosure action, and principal reduction.
+(d) *Mortgage recovery advance.*(1) The maximum amount of a mortgage recovery advance is 30 percent of the unpaid principal balance as of the date of initial default. The Agency may change the maximum amount of mortgage recovery advance by publication in the Federal Register.
 
-(2) The maximum amount of a mortgage recovery advance is 30 percent of the unpaid principal balance as of the date of default, minus any arrearages advanced to cure the default and any foreclosure costs incurred to that point. The Agency may change the maximum amount of mortgage recovery advance by publication in the Federal Register.
+(2) If the borrower's total monthly mortgage payment is less than 31 percent of gross monthly income prior to an extended term loan modification, the mortgage recovery advance can be used to cure the borrower's delinquency without changing the terms of the promissory note.
 
 (3) The principal deferment amount for a specific case shall be limited to the amount that will bring the borrower's total monthly mortgage payment to 31 percent of gross monthly income.
 
@@ -60,4 +58,4 @@ Link to an amendment published at 84 FR 70886, Dec. 26, 2019.
 
 (8) A loss claim filed by a lender will be adjusted by any amount of mortgage recovery advance reimbursed to the lender by the Agency.
 
-[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 6430, Feb. 8, 2016]
+[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 6430, Feb. 8, 2016; 84 FR 70886, Dec. 26, 2019]

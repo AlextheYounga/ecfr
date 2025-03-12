@@ -1,7 +1,5 @@
 ##### § 3555.301 General servicing techniques. #####
 
-Link to an amendment published at 84 FR 70886, Dec. 26, 2019.
-
 In accordance with industry standards and as provided by the Agency:
 
 (a) *Prompt action.* Lenders shall take prompt action to collect overdue amounts from borrowers to bring a delinquent loan current in as short a time as possible to avoid foreclosure to the extent possible and minimize losses.
@@ -18,6 +16,6 @@ In accordance with industry standards and as provided by the Agency:
 
 (g) *Maintain documentation.* The lender must maintain documentation demonstrating that requirements in this subpart have been met and what steps have been taken to save a mortgage prior to making a decision to foreclose.
 
-(h) *Formal servicing plan.* The lender must obtain Agency concurrence of a formal servicing plan when a borrower's account is 90 days or more delinquent and a method other than foreclosure is recommended to resolve the delinquency. Rural Development may issue a written waiver of the need for concurrence for some or all servicing actions by a lender, on a case-by-case basis, if the lender demonstrates that it no longer needs the oversight. This may be demonstrated by the lender's portfolio performance including, but not limited to, lower than average delinquency rates, foreclosure rates, or loss claim rates. Rural Development may revoke such waiver at any time, upon notice and without appeal rights.
+(h) *Formal servicing plan.* The lender must report a formal servicing plan to the Agency utilizing a web-based automated system when a borrower's account is delinquent for 90 days or more and a method other than foreclosure is recommended to solve the delinquency.
 
-[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 6429, Feb. 8, 2016]
+[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 6429, Feb. 8, 2016; 84 FR 70886, Dec. 26, 2019]

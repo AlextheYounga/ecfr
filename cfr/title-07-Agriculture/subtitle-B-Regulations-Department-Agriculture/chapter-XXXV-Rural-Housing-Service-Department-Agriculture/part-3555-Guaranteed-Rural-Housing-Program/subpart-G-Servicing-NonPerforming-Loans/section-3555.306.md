@@ -1,7 +1,5 @@
 ##### § 3555.306 Liquidation. #####
 
-Link to an amendment published at 84 FR 70886, Dec. 26, 2019.
-
 (a) *General.* (1) When a lender determines that a borrower is unable or unwilling to meet loan obligations with servicing options under this subpart, the lender must accelerate the guaranteed loan and, if necessary, foreclose.
 
 (2) Prior to acceleration the lender must have advised the borrower, in writing, of available foreclosure avoidance options and the borrower must have failed to request such options.
@@ -30,14 +28,8 @@ Link to an amendment published at 84 FR 70886, Dec. 26, 2019.
 
 (e) *Maintain condition of security property.* The lender must make reasonable and prudent efforts to ensure that the condition of the security property is maintained during any liquidation, acquisition, and sale of the property. These efforts include, but are not limited to, periodic inspections, performing necessary repairs, winterization, securing the property, removing debris, yard maintenance and ensuring the continuance of property insurance. The lender must identify, determine the cause, and document any environmental hazard affecting the value of the security property. The lender must retain a record of all efforts to maintain the condition of the security property.
 
-(f) *Managing and disposing of REO property.* Lenders will expeditiously gain possession of the REO property in a manner designed to ensure maximum recovery as follows.
-
-(1) The lender must prepare and maintain a disposition plan on all acquired properties. The lender will submit the property disposition plan and any subsequent changes for Agency concurrence in a timely manner as specified by the Agency. The lender may obtain a waiver of the concurrence requirement as provided for in § 3555.301(h). The plan will include the proposed method for sale of the property, the estimated value based on an appraisal, minimum sale price, itemized estimated costs of the sale, and any other information that could impact the amount of loss on the loan.
-
-(2) The lender will make all reasonable efforts to sell the property within 9 months from the later of either the foreclosure sale or expiration of any redemption period. The Agency may grant an extension of the permissible marketing period in limited circumstances including, but not limited to, when a separate legal action is necessary to gain possession of the property following foreclosure or when the lender has or is in final negotiation for a firm purchase agreement. If the property is on American Indian restricted land, an additional 3 month marketing period is permitted.
-
-(3) The lender must notify the Agency when the property has not been sold within 30 days of the expiration of the permissible marketing period. If the REO remains unsold at the end of the permissible marketing period, the lender will order a liquidation value appraisal and the Agency will apply an acquisition and management resale factor to estimate holding and disposition cost. Interest expenses accrued beyond 90 days of the foreclosure sale date or expiration of any redemption period, whichever is later, will be the responsibility of the lender and not covered by the guarantee.
+(f) *Lender acquisition of title.* If at liquidation, the title to the property is conveyed to the lender, the lender will submit a loss claim package, including a market value appraisal, within 60 days of the foreclosure sale date or the date the lender acquires title. If eviction action is required in order to obtain a market value appraisal, the lender must submit the loss claim package, including the market value appraisal, within 60 days of the date the occupants clear the premises. The lender must submit the loss claim request, including the market value appraisal, in accordance with subpart H.
 
 (g) *Debt settlement reporting.* The lender must report to the IRS and all national credit reporting repositories any debt settled through liquidation.
 
-[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 6430, Feb. 8, 2016; 81 FR 31164, May 18, 2016]
+[78 FR 73941, Dec. 9, 2013, as amended at 81 FR 6430, Feb. 8, 2016; 81 FR 31164, May 18, 2016; 84 FR 70886, Dec. 26, 2019]

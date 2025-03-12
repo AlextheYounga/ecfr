@@ -1,12 +1,10 @@
 ##### § 3555.305 Voluntary liquidation. #####
 
-Link to an amendment published at 84 FR 70886, Dec. 26, 2019.
-
-The lender must have exhausted the servicing options outlined in §§ 3555.302 through 3555.304 to cure the delinquency before considering voluntary liquidation. The methods of voluntary liquidation of the security property outlined in this section may be used to protect the interests of the Government. The lender must obtain prior Agency concurrence or a waiver as provided by § 3555.301(h).
+The lender must have exhausted the servicing options outlined in §§ 3555.302 through 3555.304 to cure the delinquency before considering voluntary liquidation. The methods of voluntary liquidation of the security property outlined in this section may be used to protect the interests of the Government.
 
 (a) *Eligibility.* To be eligible for voluntary liquidation, the following conditions must be met:
 
-(1) The loan must be at least 30 days delinquent;
+(1) The loan is at least 30 days delinquent or meets the imminent default definition as outlined in § 3555.303(a)(2);
 
 (2) The default was caused by an involuntary reason; and
 
@@ -19,3 +17,5 @@ The lender must have exhausted the servicing options outlined in §§ 3555.302 t
 (d) *Offer by junior lienholder.* If a junior lienholder makes an offer in the amount of at least the anticipated net recovery value, as calculated in accordance with § 3555.353, the lender may assign the note and mortgage to the junior lienholder.
 
 (e) *Other methods of voluntary liquidation.* The lender may propose other methods of voluntary liquidation that are consistent with this section if the lender fully documents how the proposal will result in a savings to the Government.
+
+[78 FR 73941, Dec. 9, 2013, as amended at 84 FR 70886, Dec. 26, 2019]
