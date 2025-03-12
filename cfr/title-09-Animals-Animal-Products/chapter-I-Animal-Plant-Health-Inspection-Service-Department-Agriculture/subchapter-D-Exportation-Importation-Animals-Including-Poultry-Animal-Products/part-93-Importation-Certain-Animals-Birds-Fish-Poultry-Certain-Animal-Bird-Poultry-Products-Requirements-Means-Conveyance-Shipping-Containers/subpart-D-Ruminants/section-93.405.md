@@ -1,5 +1,7 @@
 ##### § 93.405 Health certificate for ruminants. #####
 
+Link to an amendment published at 86 FR 68857, Dec. 3, 2021.
+
 (a) All ruminants intended for importation from any part of the world, except as provided in §§ 93.423(c) and 93.428(d), shall be accompanied by a certificate issued by a full-time salaried veterinary officer of the national government of the region of origin, or issued by a veterinarian designated or accredited by the national government of the region of origin and endorsed by a full-time salaried veterinary officer of the national government of the region of origin, representing that the veterinarian issuing the certificate was authorized to do so. The certificate shall state:
 
 (1) That the ruminants have been kept in that region during the last 60 days immediately preceding the date of shipment to the United States, and that during this time the region has been entirely free from foot-and-mouth disease, contagious pleuropneumonia, and surra; *provided, however,* that for wild ruminants for exhibition purposes, the certificate need specify only that the district of origin has been free from the listed diseases; *and provided further,* that for sheep and goats, with respect to contagious pleuropneumonia, the certificate may specify only that the district of origin has been free from this disease;

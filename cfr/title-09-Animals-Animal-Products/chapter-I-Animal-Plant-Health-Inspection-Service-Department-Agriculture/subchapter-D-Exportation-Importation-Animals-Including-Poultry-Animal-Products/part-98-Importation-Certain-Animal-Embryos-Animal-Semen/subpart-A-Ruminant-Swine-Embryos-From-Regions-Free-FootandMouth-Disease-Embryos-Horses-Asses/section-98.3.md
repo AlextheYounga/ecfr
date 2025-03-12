@@ -1,5 +1,7 @@
 ##### § 98.3 General conditions. #####
 
+Link to an amendment published at 86 FR 68863, Dec. 3, 2021.
+
 Except as provided in subpart B of this part, an animal embryo shall not be imported into the United States unless it is from a region listed under § 94.1(a) of this chapter as being free of foot-and-mouth disease, and:
 
 (a) The embryo is exported to the United States from the region in which it was conceived;

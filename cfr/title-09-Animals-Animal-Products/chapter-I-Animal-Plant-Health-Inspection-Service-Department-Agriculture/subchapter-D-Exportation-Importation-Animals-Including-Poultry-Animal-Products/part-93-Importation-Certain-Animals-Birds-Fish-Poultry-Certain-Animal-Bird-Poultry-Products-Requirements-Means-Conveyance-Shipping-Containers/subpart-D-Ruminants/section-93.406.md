@@ -1,5 +1,7 @@
 ##### § 93.406 Diagnostic tests. #####
 
+Link to an amendment published at 86 FR 68859, Dec. 3, 2021.
+
 (a) [Reserved]
 
 (b) *Tuberculosis and brucellosis tests of goats.* Except as provided in §§ 93.419 and 93.428(b), all goats offered for importation, except for immediate slaughter, shall be accompanied by a satisfactory certificate of a salaried veterinary officer of the national government of the region of origin, or if exported from Mexico, shall be accompanied either by such a certificate or by a certificate issued by a veterinarian accredited by the National Government of Mexico and endorsed by a full-time salaried veterinary officer of the National Government of Mexico, thereby representing that the veterinarian issuing the certificate was authorized to do so, showing that the goats have been tested for tuberculosis and brucellosis with negative results within 30 days of the date of their exportation. The said certificate shall give the dates and places of testing, method of testing, names of consignor and consignee, and a description of the goats, including breed, ages, markings, and tattoo and eartag numbers.

@@ -1,5 +1,7 @@
 ##### § 98.35 Declaration, health certificate, and other documents for animal semen. #####
 
+Link to an amendment published at 86 FR 68864, Dec. 3, 2021.
+
 (a) The certificates, declarations, and affidavits required by the regulations in this subpart shall be presented by the importer or his or her agent to the collector of customs at the port of entry, upon arrival of animal semen at such port, for the use of the veterinary inspector at the port of entry.
 
 (b) For all animal semen offered for importation, the importer or his or her agent shall first present two copies of a declaration which shall list the port of entry, the name and address of the importer, the name and address of the broker, the origin of the animal semen, the number, breed, species, and purpose of the importation, the name of the person to whom the animal semen will be delivered, and the location of the place to which such delivery will be made.

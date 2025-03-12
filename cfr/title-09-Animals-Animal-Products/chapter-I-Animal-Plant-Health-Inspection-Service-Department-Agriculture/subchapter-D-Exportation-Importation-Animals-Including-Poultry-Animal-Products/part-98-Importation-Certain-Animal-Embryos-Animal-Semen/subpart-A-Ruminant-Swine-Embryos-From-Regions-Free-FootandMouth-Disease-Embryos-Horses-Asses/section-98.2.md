@@ -1,5 +1,7 @@
 ##### § 98.2 Definitions. #####
 
+Link to an amendment published at 86 FR 68862, Dec. 3, 2021.
+
 The following terms, when used in this subpart, shall be construed as defined. Those terms used in the singular form in this subpart shall be construed as the plural form and vice versa, as the case may demand.
 
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any person authorized to act for the Administrator.

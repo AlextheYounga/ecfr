@@ -1,5 +1,7 @@
 ##### § 93.428 Sheep and goats and wild ruminants from Mexico. #####
 
+Link to an amendment published at 86 FR 68859, Dec. 3, 2021.
+
 (a) Sheep and goats intended for importation from Mexico shall be accompanied by a certificate issued in accordance with § 93.405 and stating, if such sheep and goats are shipped by rail or truck, that such animals were loaded into cleaned and disinfected cars or trucks for transportation direct to the port of entry. Notwithstanding such certificate, such sheep and goats shall be detained as provided in § 93.427(a) and shall be dipped at least once in a permitted scabies dip under supervision of an inspector.
 
 (b) The certificate accompanying goats offered for importation from Mexico shall, in addition to the statements required by paragraph (a) of this section, state that such goats have been tested for tuberculosis and brucellosis with negative results within 30 days preceding their being offered for entry, and give the date and method of testing, the name of the consignor and of the consignee, and a description of the animals including breed, ages, markings, and tattoo and eartag numbers. Notwithstanding such certification, such goats shall be detained or quarantined as provided in § 93.427 and retested for brucellosis.

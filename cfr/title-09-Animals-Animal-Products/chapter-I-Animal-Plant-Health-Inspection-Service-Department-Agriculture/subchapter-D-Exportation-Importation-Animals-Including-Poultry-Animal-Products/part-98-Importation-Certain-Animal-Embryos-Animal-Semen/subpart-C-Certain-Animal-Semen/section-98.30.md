@@ -1,5 +1,7 @@
 ##### § 98.30 Definitions. #####
 
+Link to an amendment published at 86 FR 68864, Dec. 3, 2021.
+
 Whenever in this subpart of the following terms are used, unless the context otherwise requires, they shall be construed, respectively, to mean:
 
 *Administrator.* The Administrator of the Animal and Plant Health Inspection Service or any other employee of the Animal and Plant Health Inspection Service, United States Department of Agriculture, to whom authority has been or may be delegated to act in the Administrator's stead.

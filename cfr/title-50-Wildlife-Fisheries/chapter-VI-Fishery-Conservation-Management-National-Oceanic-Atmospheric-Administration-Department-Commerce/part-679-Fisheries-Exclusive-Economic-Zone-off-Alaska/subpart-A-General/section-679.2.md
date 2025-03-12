@@ -1,7 +1,5 @@
 ##### § 679.2 Definitions. #####
 
-Link to an amendment published at 86 FR 60587, Nov. 3, 2021.
-
 In addition to the definitions in the Magnuson-Stevens Act and in part 600 of this chapter, the terms used in this part have the following meanings:
 
 *ABC reserve* means, for purposes of flathead sole, rock sole, and yellowfin sole in the BSAI, an amount, not to exceed the ABC surplus, that may be reduced for social, economic, or ecological considerations according to § 679.20(b)(1)(iii).
@@ -1152,9 +1150,9 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 (1) *The East Area* means the area of the EEZ in the Gulf of Alaska east of the longitude of Cape Suckling (143°53.6′ W).
 
-(2) *The West Area* means the area of the EEZ off Alaska in the Bering Sea, Chukchi Sea, Beaufort Sea, and the Gulf of Alaska west of the longitude of Cape Suckling (143°53.6′ W) but excludes the Cook Inlet Area, the Prince William Sound Area, and the Alaska Peninsula Area, shown in Figure 23 and described as:
+(2) *The West Area* means the area of the EEZ off Alaska in the Bering Sea, Chukchi Sea, Beaufort Sea, and the Gulf of Alaska west of the longitude of Cape Suckling (143°53.6′ W), including the Cook Inlet EEZ Subarea, but excludes the Prince William Sound Area and the Alaska Peninsula Area. The Cook Inlet EEZ Subarea means the EEZ waters of Cook Inlet north of a line at 59°46.15′ N. The Prince William Sound Area and the Alaska Peninsula Area are shown in Figure 23 to this part and described as:
 
-(i) the Cook Inlet Area which means the EEZ waters north of a line at 59°46.15′ N;
+(i) [Reserved]
 
 (ii) the Prince William Sound Area which means the EEZ waters shoreward of a line that starts at 60°16.8′ N and 146°15.24′ W and extends southeast to 59°42.66′ N and 144°36.20′ W and a line that starts at 59°43.28′ N and 144°31.50′ W and extends northeast to 59°56.4′ N and 143°53.6′ W.
 

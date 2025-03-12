@@ -1,5 +1,7 @@
 ##### § 98.5 Health certificate. #####
 
+Link to an amendment published at 86 FR 68863, Dec. 3, 2021.
+
 (a) Except as provided in subpart B of this part, an animal embryo shall not be imported into the United States unless it is accompanied by a certificate issued by a full-time salaried veterinary officer of the national government of the region of origin, or issued by a veterinarian designated or accredited by the national government of the region of origin and endorsed by a full-time salaried veterinary officer of the national government of the region of origin, representing that the veterinarian issuing the certificate was authorized to do so. The certificate shall state:
 
 (1) The dates, places, types, and results of all examinations and tests performed on the donor sire and donor dam as a condition for importation of the embryo, and the names and addresses of persons or laboratories conducting the examinations or tests, and a statement that any other requirements established by § 98.3 have been complied with,

@@ -1,5 +1,7 @@
 ##### § 93.435 Sheep and goats. #####
 
+Link to an amendment published at 86 FR 68859, Dec. 3, 2021.
+
 (a) Except as provided in paragraph (b) of this section, all sheep and goats imported into the United States must be placed in a flock or herd in the United States that participates in the Voluntary Scrapie Flock Certification Program (see 9 CFR part 54, subpart B) and:
 
 (1) The flock or herd qualifies as a “Certified” flock or herd; or

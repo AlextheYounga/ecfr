@@ -1,5 +1,7 @@
 ##### § 98.15 Health requirements. #####
 
+Link to an amendment published at 86 FR 68864, Dec. 3, 2021.
+
 Ruminant and swine embryos may be imported from a region where foot-and-mouth disease exists only if all of the following conditions are met:
 
 (a) The donor dam is determined to be free of communicable diseases based on tests, examinations, and other requirements, as follows, except that, with regard to bovine spongiform encephalopathy, the following does not apply to bovines, cervids, or camelids.

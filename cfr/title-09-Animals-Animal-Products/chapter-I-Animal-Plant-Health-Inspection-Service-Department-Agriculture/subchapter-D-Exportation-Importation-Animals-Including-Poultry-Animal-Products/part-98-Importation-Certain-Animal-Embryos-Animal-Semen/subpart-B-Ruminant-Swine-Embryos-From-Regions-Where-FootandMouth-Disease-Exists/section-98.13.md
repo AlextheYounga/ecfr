@@ -1,5 +1,7 @@
 ##### § 98.13 Import permit. #####
 
+Link to an amendment published at 86 FR 68864, Dec. 3, 2021.
+
 (a) Ruminant and swine embryos and all test samples required by this subpart may be imported into the United States from regions where foot-and-mouth disease exists only if accompanied by import permits issued by the Animal and Plant Health Inspection Service (APHIS).
 
 (b) An application for the import permits must be submitted to the Animal and Plant Health Inspection Service, Veterinary Services, Strategy and Policy, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231. Application forms also may be obtained at this same address. The application for a permit to import embryos will also serve as the application for a permit to import test samples for those embryos; separate applications are not required. The application must include the following information:

@@ -1,5 +1,7 @@
 ##### § 93.400 Definitions. #####
 
+Link to an amendment published at 86 FR 68856, Dec. 3, 2021.
+
 Wherever in this subpart the following terms are used, unless the context otherwise requires, they shall be construed, respectively, to mean:
 
 *Accredited herd for brucellosis.* A herd that meets APHIS' standards for accreditation for brucellosis status. Standards for accreditation are specified in import protocols.

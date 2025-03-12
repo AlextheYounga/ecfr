@@ -1,5 +1,7 @@
 ##### § 94.25 Restrictions on the importation from Canada of meat and edible products from ovines and caprines other than gelatin. #####
 
+Link to an amendment published at 86 FR 68862, Dec. 3, 2021.
+
 The commodities listed in paragraphs (a) and (b) of this section may be imported from Canada if the conditions of this section are met.
 
 (a) *Meat, carcasses, meat byproducts, and meat food products from ovines or caprines.* (1) The meat, carcass, meat byproduct, or meat food product, as defined by FSIS in 9 CFR 301.2, is derived from ovines or caprines that are from a flock or herd subject to a ruminant feed ban equivalent to the requirements established by the U.S. Food and Drug Administration at 21 CFR 589.2000, and the ovines or caprines:

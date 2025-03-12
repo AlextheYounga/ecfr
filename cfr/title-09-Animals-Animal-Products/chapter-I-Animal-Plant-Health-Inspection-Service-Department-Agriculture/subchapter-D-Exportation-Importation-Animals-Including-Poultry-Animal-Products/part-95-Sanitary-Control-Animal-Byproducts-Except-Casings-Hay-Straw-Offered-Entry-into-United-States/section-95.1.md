@@ -1,5 +1,7 @@
 ##### § 95.1 Definitions. #####
 
+Link to an amendment published at 86 FR 68862, Dec. 3, 2021.
+
 Whenever in the regulations in this part the following words, names, or terms are used they shall be construed, respectively, to mean:
 
 *Administrator* means the Administrator, Animal and Plant Health Inspection Service, or any individual authorized to act for the Administrator.

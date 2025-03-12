@@ -1,5 +1,7 @@
 ##### § 92.2 Application for recognition of the animal health status of a region or a compartment. #####
 
+Link to an amendment published at 86 FR 68856, Dec. 3, 2021.
+
 (a) The representative of the national government(s) of any country or countries who has the authority to make such a request may request that APHIS recognize the animal health status of a region or a compartment.1 Such requests must be made in English and must be sent to the Administrator, c/o Strategy and Policy, VS, APHIS, 4700 River Road, Unit 38, Riverdale, MD 20737-1231. (Where possible, include a copy of the request and accompanying information in electronic format.)
 
 1 Additionally, APHIS may choose to initiate an evaluation of the animal health status of a foreign region or compartment on its own initiative. In such cases, APHIS will follow the same evaluation and notification procedures set forth in this section.

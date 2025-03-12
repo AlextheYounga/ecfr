@@ -1,5 +1,7 @@
 ##### § 96.2 Prohibition of casings due to African swine fever and bovine spongiform encephalopathy. #####
 
+Link to an amendment published at 86 FR 68862, Dec. 3, 2021.
+
 (a) *Swine casings.* The importation of swine casings that originated in or were processed in a region where African swine fever exists, as listed under § 94.8(a) of this subchapter, is prohibited, with the following exception: Swine casings that are processed in a region where African swine fever exists may be imported into the United States under the following conditions:
 
 (1) *Origin of casings.* The swine casings were derived from swine raised and slaughtered in a region not listed under § 94.8(a) of this subchapter.

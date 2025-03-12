@@ -1,5 +1,7 @@
 ##### § 1.651 How must an accredited third-party certification body conduct a food safety audit of an eligible entity? #####
 
+Link to an amendment published at 86 FR 68817, Dec. 3, 2021.
+
 (a) *Audit planning.* Before beginning to conduct a food safety audit under this subpart, an accredited third-party certification body must:
 
 (1) Require the eligible entity seeking a food safety audit to:

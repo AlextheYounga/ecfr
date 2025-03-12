@@ -1,5 +1,7 @@
 ##### § 94.27 Transit shipment of articles. #####
 
+Link to an amendment published at 86 FR 68862, Dec. 3, 2021.
+
 Meat, meat products, and other edible products derived from bovines, ovines, or caprines that are otherwise prohibited importation into the United States in accordance with § 94.18 through § 94.26 may transit air and ocean ports in the United States for immediate export if the conditions of paragraphs (a) through (c) this section are met. Meat, meat products, and other edible products derived from bovines, ovines, or caprines are eligible to transit the United States by overland transportation if the requirements of paragraphs (a) through (d) of this section are met:
 
 (a) The articles must be sealed in leakproof containers bearing serial numbers during transit. Each container must remain sealed during the entire time that it is in the United States.

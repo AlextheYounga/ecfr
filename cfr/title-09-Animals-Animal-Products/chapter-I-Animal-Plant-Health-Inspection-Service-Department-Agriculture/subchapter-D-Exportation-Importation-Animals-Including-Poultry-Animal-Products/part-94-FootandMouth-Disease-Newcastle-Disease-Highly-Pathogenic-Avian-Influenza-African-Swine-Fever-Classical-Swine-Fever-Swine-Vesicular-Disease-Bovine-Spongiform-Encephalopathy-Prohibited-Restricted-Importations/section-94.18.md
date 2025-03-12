@@ -1,5 +1,7 @@
 ##### § 94.18 Bovine spongiform encephalopathy; importation of edible products derived from bovines. #####
 
+Link to an amendment published at 86 FR 68862, Dec. 3, 2021.
+
 (a) The importation of meat, meat products, and other edible products derived from bovines is prohibited with regard to BSE, except as provided in this section and in §§ 94.19, 94.20, 94.21, 94.22, 94.23, and 94.27.
 
 (b) The following commodities derived from bovines may be imported into the United States without restriction regarding BSE, provided that all other applicable requirements of this part are met:

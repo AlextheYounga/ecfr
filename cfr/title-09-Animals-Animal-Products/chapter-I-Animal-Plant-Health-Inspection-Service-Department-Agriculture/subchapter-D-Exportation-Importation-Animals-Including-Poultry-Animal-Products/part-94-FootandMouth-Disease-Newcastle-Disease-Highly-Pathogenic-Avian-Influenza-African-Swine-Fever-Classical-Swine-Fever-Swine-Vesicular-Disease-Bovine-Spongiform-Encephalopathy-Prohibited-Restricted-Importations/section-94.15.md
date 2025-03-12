@@ -1,5 +1,7 @@
 ##### § 94.15 Animal products and materials; movement and handling. #####
 
+Link to an amendment published at 86 FR 68861, Dec. 3, 2021.
+
 (a) Any animal product or material which would be eligible for entry into the United States, as specified in the regulations in this part, may transit through the United States for immediate export if the following conditions are met:
 
 (1) Notification of the transiting of such animal product or material must be made by the importer to the Plant Protection and Quarantine Officer at the United States port of arrival prior to such transiting, and

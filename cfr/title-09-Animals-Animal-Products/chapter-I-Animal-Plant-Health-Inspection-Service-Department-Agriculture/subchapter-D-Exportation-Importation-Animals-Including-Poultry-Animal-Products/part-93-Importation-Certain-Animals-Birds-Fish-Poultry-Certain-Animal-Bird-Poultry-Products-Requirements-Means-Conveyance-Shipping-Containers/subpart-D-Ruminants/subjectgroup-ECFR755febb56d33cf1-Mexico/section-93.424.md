@@ -1,5 +1,7 @@
 ##### § 93.424 Import permits and applications for inspection of ruminants. #####
 
+Link to an amendment published at 86 FR 68859, Dec. 3, 2021.
+
 (a) For ruminants intended for importation from Mexico, the importer shall first apply for and obtain from APHIS an import permit as provided in § 93.404: *Provided,* That an import permit is not required for a ruminant offered for entry at a land border port designated in § 93.403(c), if such animal is:
 
 (1) A wether; or

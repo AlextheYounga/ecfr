@@ -1,5 +1,7 @@
 ##### § 93.419 Sheep and goats from Canada. #####
 
+Link to an amendment published at 86 FR 68859, Dec. 3, 2021.
+
 (a) Sheep and goats intended for importation from Canada must be accompanied by a certificate issued in accordance with § 93.405.
 
 (b) If the sheep or goats are unaccompanied by the certificate required by paragraph (a) of this section, or if they are found upon inspection at the port of entry to be affected with or exposed to a communicable disease, they shall be refused entry and shall be handled or quarantined, or otherwise disposed of, as the Administrator may direct.

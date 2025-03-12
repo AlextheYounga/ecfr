@@ -1,5 +1,7 @@
 ##### § 2.134 Contingency planning. #####
 
+Link to an amendment published at 86 FR 68537, Dec. 3, 2021.
+
 (a) Dealers, exhibitors, intermediate handlers, and carriers must develop, document, and follow an appropriate plan to provide for the humane handling, treatment, transportation, housing, and care of their animals in the event of an emergency or disaster (one which could reasonably be anticipated and expected to be detrimental to the good health and well-being of the animals in their possession). Such contingency plans must:
 
 (1) Identify situations the licensee or registrant might experience that would trigger the need for the measures identified in a contingency plan to be put into action including, but not limited to, emergencies such as electrical outages, faulty HVAC systems, fires, mechanical breakdowns, and animal escapes, as well as natural disasters most likely to be experienced;

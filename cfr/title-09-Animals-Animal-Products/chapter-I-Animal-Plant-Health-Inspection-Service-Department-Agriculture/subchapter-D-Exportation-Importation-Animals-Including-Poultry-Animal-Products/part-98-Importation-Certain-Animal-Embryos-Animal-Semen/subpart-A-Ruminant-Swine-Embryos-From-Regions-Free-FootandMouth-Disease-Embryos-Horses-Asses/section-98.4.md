@@ -1,5 +1,7 @@
 ##### § 98.4 Import permit. #####
 
+Link to an amendment published at 86 FR 68863, Dec. 3, 2021.
+
 (a) Except as provided in subpart B of this part, an animal embryo shall not be imported into the United States unless accompanied by an import permit issued by APHIS and unless imported into the United States within 14 days after the proposed date of arrival stated in the import permit.
 
 (b) An application for an import permit must be submitted to the Animal and Plant Health Inspection Service, Veterinary Services, Strategy and Policy, 4700 River Road Unit 38, Riverdale, Maryland 20737-1231. An application form for an import permit may be obtained from this staff.

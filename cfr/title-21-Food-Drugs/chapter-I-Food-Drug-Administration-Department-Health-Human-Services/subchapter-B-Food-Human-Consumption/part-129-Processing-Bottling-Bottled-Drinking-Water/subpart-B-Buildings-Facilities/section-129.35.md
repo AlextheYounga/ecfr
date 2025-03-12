@@ -1,5 +1,7 @@
 ##### § 129.35 Sanitary facilities. #####
 
+Link to an amendment published at 86 FR 68831, Dec. 3, 2021.
+
 Each plant shall provide adequate sanitary facilities including, but not limited to, the following:
 
 (a) *Product water and operations water* - (1) *Product water.* The product water supply for each plant shall be from an approved source properly located, protected, and operated and shall be easily accessible, adequate, and of a safe, sanitary quality which shall be in conformance at all times with the applicable laws and regulations of the government agency or agencies having jurisdiction.

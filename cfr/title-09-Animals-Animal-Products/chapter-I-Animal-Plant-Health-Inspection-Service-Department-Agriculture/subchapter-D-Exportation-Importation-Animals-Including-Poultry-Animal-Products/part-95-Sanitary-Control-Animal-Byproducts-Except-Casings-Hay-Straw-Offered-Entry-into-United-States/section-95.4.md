@@ -1,5 +1,7 @@
 ##### § 95.4 Restrictions on the importation of processed animal protein, offal, tankage, fat, glands, certain tallow other than tallow derivatives, and serum due to bovine spongiform encephalopathy. #####
 
+Link to an amendment published at 86 FR 68862, Dec. 3, 2021.
+
 (a) Except as provided in paragraphs (c), (d), (e), (f), or (g) of this section or in § 95.15, any of the materials listed in paragraph (b) of this section derived from animals, or products containing such materials, are prohibited importation into the United States if paragraph (a)(1), (a)(2), or (a)(3) of this section applies:
 
 (1) The animals have been in any region listed in paragraph (a)(4) of this section;

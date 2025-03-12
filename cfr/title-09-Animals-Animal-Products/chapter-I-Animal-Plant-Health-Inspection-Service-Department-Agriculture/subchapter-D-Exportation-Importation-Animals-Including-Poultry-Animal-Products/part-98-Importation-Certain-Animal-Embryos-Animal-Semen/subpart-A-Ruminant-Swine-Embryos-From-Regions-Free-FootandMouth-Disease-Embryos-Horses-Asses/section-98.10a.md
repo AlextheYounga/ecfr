@@ -1,5 +1,7 @@
 ##### § 98.10a Embryos from sheep in regions other than Australia, Canada, and New Zealand. #####
 
+Link to an amendment published at 86 FR 68863, Dec. 3, 2021.
+
 (a) Except for embryos from sheep in Australia, Canada, or New Zealand, embryos from sheep may only be imported into the United States if they comply with all applicable provisions of this subpart and one of the following conditions:
 
 (1) The embryos are transferred to females in a flock in the United States that participates in the Voluntary Scrapie Flock Certification Program (see 9 CFR part 54, subpart B) and qualifies as a “Certified” flock; or

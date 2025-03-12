@@ -1,5 +1,7 @@
 ##### § 93.420 Ruminants from Canada for immediate slaughter other than sheep and goats. #####
 
+Link to an amendment published at 86 FR 68859, Dec. 3, 2021.
+
 (a) *General requirements.* The requirements for the importation of sheep and goats from Canada for immediate slaughter are contained in § 93.419. There are no BSE-related restrictions on the importation of cervids or camelids from Canada. All other ruminants imported from Canada for immediate slaughter, in addition to meeting all other applicable requirements of this part, may be imported only under the following conditions:
 
 (1) The ruminants must be imported only through a port of entry listed in § 93.403(b) or as provided for in § 93.403(f) and be inspected at the port of entry and otherwise handled in accordance with § 93.408.
