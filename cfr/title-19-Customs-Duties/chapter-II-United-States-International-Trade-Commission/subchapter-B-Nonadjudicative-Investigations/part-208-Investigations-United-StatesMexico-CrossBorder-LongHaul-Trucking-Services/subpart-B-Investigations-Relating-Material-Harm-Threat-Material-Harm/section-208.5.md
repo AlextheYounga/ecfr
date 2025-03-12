@@ -1,5 +1,7 @@
 ##### § 208.5 Contents of petition. #####
 
+Link to an amendment published at 86 FR 18185, Apr. 8, 2021.
+
 (a) *Nature of the claim.* Each petition filed under this subpart shall state whether the petition:
 
 (1) Claims that a request by a person of Mexico to receive a grant of authority that is pending as of the date of the filing of the petition threatens to cause material harm to a United States long-haul trucking services industry; or
