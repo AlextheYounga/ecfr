@@ -1,7 +1,5 @@
 ##### § 1240.11 Capital conservation buffer and leverage buffer. #####
 
-Link to an amendment published at 87 FR 33617, June 3, 2022.
-
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 (1) *Capital conservation buffer.* An Enterprise's capital conservation buffer is the amount calculated under paragraph (c)(2) of this section.
@@ -20,27 +18,11 @@ Link to an amendment published at 87 FR 33617, June 3, 2022.
 
 (6) *Prescribed leverage buffer amount.* An Enterprise's prescribed leverage buffer amount is 50 percent of the Enterprise's stability capital buffer calculated in accordance with subpart G of this part.
 
-(7) *Stress capital buffer.* (i) Subject to paragraph (a)(7)(iii) of this section, FHFA will determine the stress capital buffer pursuant to this paragraph (a)(7).
+(7) *Stress capital buffer.* (i) The stress capital buffer for an Enterprise is the stress capital buffer determined under § 1240.500 except as provided in paragraph (a)(7)(ii) of this section.
 
-(ii) An Enterprise's stress capital buffer is equal to the Enterprise's adjusted total assets, as of the last day of the previous calendar quarter, multiplied by the greater of:
+(ii) If an Enterprise has not yet received a stress capital buffer requirement, its stress capital buffer for purposes of this part is 0.75 percent of the Enterprise's adjusted total assets, as of the last day of the previous calendar quarter.
 
-(A) The following calculation:
-
-(*1*) The ratio of an Enterprise's common equity tier 1 capital to adjusted total assets, as of the final quarter of the previous calendar year, unless otherwise determined by FHFA; minus
-
-(*2*) The lowest projected ratio of the Enterprise's common equity tier 1 capital to adjusted total assets in any quarter of the planning horizon under a supervisory stress test; plus
-
-(*3*) The ratio of:
-
-(*i*) The sum of the Enterprise's planned common stock dividends (expressed as a dollar amount) for each of the quarters of the planning horizon of the supervisory stress test, unless otherwise determined by FHFA; to
-
-(*ii*) The adjusted total assets of the Enterprise in the quarter in which the Enterprise had its lowest projected ratio of common equity tier 1 capital to adjusted total assets in any quarter of the planning horizon under the supervisory stress test; and
-
-(B) 0.75 percent.
-
-(iii) Notwithstanding anything to the contrary in paragraph (a)(7)(ii) of this section, if FHFA does not determine the stress capital buffer for an Enterprise under this paragraph (a)(7), the Enterprise's stress capital buffer is equal to 0.75 percent of the Enterprise's adjusted total assets, as of the last day of the previous calendar quarter.
-
-(b) *Maximum payout amount* - (1) *Limits on distributions and discretionary bonus payments.* An Enterprise shall not make distributions or discretionary bonus payments or create an obligation to make such distributions or payments during the current calendar quarter that, in the aggregate, exceed the amount equal to the Enterprise's eligible retained income for the calendar quarter, multiplied by its maximum payout ratio.
+(b) *Maximum payout amount*—(1) *Limits on distributions and discretionary bonus payments.* An Enterprise shall not make distributions or discretionary bonus payments or create an obligation to make such distributions or payments during the current calendar quarter that, in the aggregate, exceed the amount equal to the Enterprise's eligible retained income for the calendar quarter, multiplied by its maximum payout ratio.
 
 (2) *Maximum payout ratio.* The maximum payout ratio of an Enterprise is the lowest of the payout ratios determined by its capital conservation buffer and its leverage buffer, as set forth on Table 1 to paragraph (b)(5) of this section.
 
@@ -64,7 +46,7 @@ Link to an amendment published at 87 FR 33617, June 3, 2022.
 
 ![](/graphics/er17de20.011.gif)
 
-(c) *Capital conservation buffer* - (1) *Composition of the capital conservation buffer.* The capital conservation buffer is composed solely of common equity tier 1 capital.
+(c) *Capital conservation buffer*—(1) *Composition of the capital conservation buffer.* The capital conservation buffer is composed solely of common equity tier 1 capital.
 
 (2) *Calculation of capital conservation buffer.* (i) An Enterprise's capital conservation buffer is equal to the lowest of the following, calculated as of the last day of the previous calendar quarter:
 
@@ -76,15 +58,15 @@ Link to an amendment published at 87 FR 33617, June 3, 2022.
 
 (ii) Notwithstanding paragraphs (c)(2)(i)(A) through (C) of this section, if the Enterprise's adjusted total capital, tier 1 capital, or common equity tier 1 capital is less than or equal to the Enterprise's minimum adjusted total capital, tier 1 capital, or common equity tier 1 capital, respectively, the Enterprise's capital conservation buffer is zero.
 
-(d) *Leverage buffer* - (1) *Composition of the leverage buffer.* The leverage buffer is composed solely of tier 1 capital.
+(d) *Leverage buffer*—(1) *Composition of the leverage buffer.* The leverage buffer is composed solely of tier 1 capital.
 
 (2) *Calculation of the leverage buffer.* (i) An Enterprise's leverage buffer is equal to the Enterprise's tier 1 capital minus the minimum amount of tier 1 capital under § 1240.10(f), calculated as of the last day of the previous calendar quarter.
 
 (ii) Notwithstanding paragraph (d)(2)(i) of this section, if the Enterprise's tier 1 capital is less than or equal to the minimum amount of tier 1 capital under § 1240.10(d), the Enterprise's leverage buffer is zero.
 
-(e) *Countercyclical capital buffer amount* - (1) *Composition of the countercyclical capital buffer amount.* The countercyclical capital buffer amount is composed solely of common equity tier 1 capital.
+(e) *Countercyclical capital buffer amount*—(1) *Composition of the countercyclical capital buffer amount.* The countercyclical capital buffer amount is composed solely of common equity tier 1 capital.
 
-(2) *Amount* - (i) *Initial countercyclical capital buffer.* The initial countercyclical capital buffer amount is zero.
+(2) *Amount*—(i) *Initial countercyclical capital buffer.* The initial countercyclical capital buffer amount is zero.
 
 (ii) *Adjustment of the countercyclical capital buffer amount.* FHFA will adjust the countercyclical capital buffer amount in accordance with applicable law.
 
@@ -92,7 +74,7 @@ Link to an amendment published at 87 FR 33617, June 3, 2022.
 
 (iv) *Adjustment determination.* FHFA will base its decision to adjust the countercyclical capital buffer amount under this section on a range of macroeconomic, financial, and supervisory information indicating an increase in systemic risk, including the ratio of credit to gross domestic product, a variety of asset prices, other factors indicative of relative credit and liquidity expansion or contraction, funding spreads, credit condition surveys, indices based on credit default swap spreads, options implied volatility, and measures of systemic risk.
 
-(3) *Effective date of adjusted countercyclical capital buffer amount* - (i) *Increase adjustment.* A determination by FHFA under paragraph (e)(2)(ii) of this section to increase the countercyclical capital buffer amount will be effective 12 months from the date of announcement, unless FHFA establishes an earlier effective date and includes a statement articulating the reasons for the earlier effective date.
+(3) *Effective date of adjusted countercyclical capital buffer amount*—(i) *Increase adjustment.* A determination by FHFA under paragraph (e)(2)(ii) of this section to increase the countercyclical capital buffer amount will be effective 12 months from the date of announcement, unless FHFA establishes an earlier effective date and includes a statement articulating the reasons for the earlier effective date.
 
 (ii) *Decrease adjustment.* A determination by FHFA to decrease the established countercyclical capital buffer amount under paragraph (e)(2)(ii) of this section will be effective on the day following announcement of the final determination or the earliest date permissible under applicable law or regulation, whichever is later.
 
@@ -100,4 +82,4 @@ Link to an amendment published at 87 FR 33617, June 3, 2022.
 
 (f) *Stability capital buffer.* An Enterprise must use its stability capital buffer calculated in accordance with subpart G of this part for purposes of determining its maximum payout ratio under Table 1 to paragraph (b)(5) of this section.
 
-[85 FR 82198, Dec. 17, 2020, as amended at 87 FR 14770, Mar. 16, 2022]
+[85 FR 82198, Dec. 17, 2020, as amended at 87 FR 14770, Mar. 16, 2022; 87 FR 33617, June 3, 2022]

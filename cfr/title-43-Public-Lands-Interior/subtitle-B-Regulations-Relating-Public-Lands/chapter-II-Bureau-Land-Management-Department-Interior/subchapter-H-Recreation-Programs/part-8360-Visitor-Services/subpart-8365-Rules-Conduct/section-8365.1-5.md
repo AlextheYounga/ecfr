@@ -1,5 +1,7 @@
 ##### § 8365.1-5 Property and resources. #####
 
+Link to an amendment published at 87 FR 47329, Aug. 2, 2022.
+
 (a) On all public lands, unless otherwise authorized, no person shall;
 
 (1) Willfully deface, disturb, remove or destroy any personal property, or structures, or any scientific, cultural, archaeological or historic resource, natural object or area;

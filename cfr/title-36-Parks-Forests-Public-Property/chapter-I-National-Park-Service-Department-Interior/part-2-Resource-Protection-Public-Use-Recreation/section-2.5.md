@@ -1,5 +1,7 @@
 ##### § 2.5 Research specimens. #####
 
+Link to an amendment published at 87 FR 47319, Aug. 2, 2022.
+
 (a) Taking plants, fish, wildlife, rocks or minerals except in accordance with other regulations of this chapter or pursuant to the terms and conditions of a specimen collection permit, is prohibited.
 
 (b) A specimen collection permit may be issued only to an official representative of a reputable scientific or educational institution or a State or Federal agency for the purpose of research, baseline inventories, monitoring, impact analysis, group study, or museum display when the superintendent determines that the collection is necessary to the stated scientific or resource management goals of the institution or agency and that all applicable Federal and State permits have been acquired, and that the intended use of the specimens and their final disposal is in accordance with applicable law and Federal administrative policies. A permit shall not be issued if removal of the specimen would result in damage to other natural or cultural resources, affect adversely environmental or scenic values, or if the specimen is readily available outside of the park area.

@@ -1,5 +1,7 @@
 ##### § 2.1 Preservation of natural, cultural and archeological resources. #####
 
+Link to an amendment published at 87 FR 47319, Aug. 2, 2022.
+
 (a) Except as otherwise provided in this chapter, the following is prohibited:
 
 (1) Possessing, destroying, injuring, defacing, removing, digging, or disturbing from its natural state:
