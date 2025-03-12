@@ -1,7 +1,5 @@
 ##### § 142.225 Storage of flammable or combustible products. #####
 
-Link to an amendment published at 83 FR 8180, Feb. 26, 2018.
-
 (a) Paints, coatings, or other flammable or combustible products onboard a towing vessel must be stored in a designated storage room or cabinet when not in use.
 
 (b) If a storage room is provided, it may be any room or compartment that is free of ignition sources.
@@ -14,4 +12,6 @@ Link to an amendment published at 83 FR 8180, Feb. 26, 2018.
 
 (3) Another suitable steel container that provides an equivalent level of protection.
 
-(d) A B-II portable fire extinguisher must be located near the storage room or cabinet. This is in addition to the portable fire extinguishers required by Tables 142.230(d)(1) and 142.230(d)(2) of § 142.230.
+(d) A 40-B portable fire extinguisher must be located near the storage room or cabinet. This is in addition to the portable fire extinguishers required by tables 142.230(a) and 142.230(b) of this part.
+
+[USCG-2006-24412, 81 FR 40101, June 20, 2016, as amended by USCG-2017-1060, 83 FR 8180, Feb. 26, 2018]

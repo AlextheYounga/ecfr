@@ -1,5 +1,7 @@
 ##### § 300.25 Fisheries management. #####
 
+Link to an amendment published at 83 FR 13205, Mar. 28, 2018.
+
 (a) *Longline tuna catch limits.* (1) Fishing seasons for all tuna species begin on January 1 and end either on December 31 or when NMFS closes the fishery for a specific species.
 
 (2) For the calendar year 2017, there is a limit of 500 metric tons of bigeye tuna that may be caught by longline gear in the Convention Area by U.S. commercial fishing vessels that are over 24 meters in overall length.

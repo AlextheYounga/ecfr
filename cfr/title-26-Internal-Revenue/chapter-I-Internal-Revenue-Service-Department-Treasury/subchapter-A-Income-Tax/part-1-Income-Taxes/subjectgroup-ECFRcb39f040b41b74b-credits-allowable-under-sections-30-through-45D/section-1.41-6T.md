@@ -1,5 +1,7 @@
 ##### § 1.41-6T. Aggregation of expenditures (temporary). #####
 
+Link to an amendment published at 83 FR 13185, Mar. 28, 2018.
+
 (a) through (b) [Reserved]. For further guidance, see § 1.41-6(a) through (b).
 
 (c) *Allocation of the group credit.* The group credit is allocated to each member of the controlled group on a proportionate basis to its share of the aggregate of the qualified research expenses, basic research payments, and amounts paid or incurred to energy research consortiums (collectively “QREs” for purposes of paragraphs (c), (d), and (e) of this section) taken into account for the taxable year by such controlled group for purposes of the credit.

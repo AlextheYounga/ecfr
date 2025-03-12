@@ -1,5 +1,7 @@
 ##### § 1.45G-1 Railroad track maintenance credit. #####
 
+Link to an amendment published at 83 FR 13185, Mar. 28, 2018.
+
 (a) *In general.* For purposes of section 38, the railroad track maintenance credit (RTMC) for qualified railroad track maintenance expenditures (QRTME) paid or incurred by an eligible taxpayer during the taxable year is determined under this section. A taxpayer claiming the RTMC must do so by filing Form 8900, “Qualified Railroad Track Maintenance Credit,” with its timely filed (including extensions) Federal income tax return for the taxable year the RTMC is claimed. Paragraph (b) of this section provides definitions of terms. Paragraph (c) of this section provides rules for computing the RTMC, including rules regarding limitations on the amount of the credit. Paragraph (d) of this section provides rules for assigning miles of railroad track. Paragraph (e) of this section contains rules for adjusting basis for the amount of the RTMC claimed by an eligible taxpayer. Paragraph (f) of this section contains rules for computing the amount of the RTMC in the case of a controlled group, and for the allocation of the group credit among members of the controlled group.
 
 (b) *Definitions.* For purposes of section 45G and this section, the following definitions apply:

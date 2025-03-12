@@ -1,12 +1,18 @@
 ##### § 142.240 Inspection, testing, maintenance, and records. #####
 
-Link to an amendment published at 83 FR 8181, Feb. 26, 2018.
+(a) *Inspection and testing.* All portable fire extinguishers, semi-portable fire-extinguishing systems, fire-detection systems, and fixed fire-extinguishing systems, including ventilation, machinery shutdowns, and fixed fire-extinguishing system pressure-operated dampers on board the vessel, must be inspected or tested at least once every 12 months, as prescribed in paragraphs (a)(1) through (8) of this section, or more frequently if otherwise required by the TSMS applicable to the vessel.
 
-(a) *Inspection and testing.* All hand-portable fire extinguishers, semi-portable fire-extinguishing systems, fire-detection systems, and fixed fire-extinguishing systems, including ventilation, machinery shutdowns, and fixed fire-extinguishing system pressure-operated dampers onboard the vessel, must be inspected or tested at least once every 12 months, as prescribed in paragraphs (a)(1) through (8) of this section, or more frequently if otherwise required by the TSMS applicable to the vessel.
+(1) Portable and semi-portable fire extinguishers must be inspected, maintained, and tested in accordance with the inspection, maintenance procedures, and hydrostatic pressure tests required by Chapters 7 and 8 of NFPA 10, Standard for Portable Fire Extinguishers (incorporated by reference, see § 136.112 of this subchapter), with the frequency specified by NFPA 10 and as amended here:
 
-(1) Portable fire extinguishers must be tested in accordance with the inspection, maintenance procedures and hydrostatic pressure tests required by Chapters 7 and 8 of NFPA 10, Portable Fire Extinguishers (incorporated by reference, see § 136.112 of this subchapter), with the frequency as specified by NFPA 10. In addition, carbon dioxide and Halocarbon portable fire extinguishers must be refilled when the net content weight loss exceeds that specified for fixed systems in Table 142.240 of this section.
+(i) Certification or licensing by a state or local jurisdiction as a fire extinguisher servicing agency will be accepted by the Coast Guard as meeting the personnel certification requirements of NFPA 10 for annual maintenance and recharging of extinguishers.
 
-(2) Semi-portable and fixed fire-extinguishing systems must be inspected and tested, as required by Table 142.240 of this section, in addition to the tests required by §§ 147.60 and 147.65 of this chapter.
+(ii) Monthly inspections required by NFPA 10 may be conducted by the owner, operator, person-in-charge, or a designated member of the crew.
+
+(iii) Non-rechargeable or non-refillable extinguishers must be inspected and maintained in accordance with NFPA 10; however, the annual maintenance need not be conducted by a certified person and can be conducted by the owner, operator, person-in-charge, or a designated member of the crew.
+
+(iv) The owner or managing operator must provide satisfactory evidence of the required servicing to the marine inspector or TPO, as applicable. If any of the equipment or records have not been properly maintained, a qualified servicing facility must perform the required inspections, maintenance procedures, and hydrostatic pressure tests. A tag issued by a qualified servicing organization, and attached to each extinguisher, may be accepted as evidence that the necessary maintenance procedures have been conducted.
+
+(2) Fixed fire-extinguishing systems must be inspected and tested, as required by table 142.240 of this section, in addition to the tests required by §§ 147.60 and 147.65 of subchapter N of this chapter.
 
 (3) Flexible connections and discharge hoses on all semi-portable extinguishers and fixed extinguishing systems must be inspected and tested in accordance with § 147.65 of this chapter.
 
@@ -19,8 +25,6 @@ Link to an amendment published at 83 FR 8181, Feb. 26, 2018.
 (7) All fire hoses must be inspected for excessive wear, and subjected to a test pressure equivalent to the maximum service pressure. All fire hoses which are defective and incapable of repair must be destroyed.
 
 (8) All smoke- and fire-detection systems, including detectors and alarms, must be tested.
-
-Table 142.240 - Semi-Portable and Fixed Fire-Extinguishing Systems
 
 |           Type system           |                                                                                                                                                                                                                                                                                                                                                                                                                         Test                                                                                                                                                                                                                                                                                                                                                                                                                         |
 |---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -40,4 +44,6 @@ Table 142.240 - Semi-Portable and Fixed Fire-Extinguishing Systems
 
 (ii) Receipts and other records generated by these inspections and tests must be retained for at least 1 year and made available upon request.
 
-(2) The records of inspections and tests of hand-portable fire extinguishers and semi-portable fire-extinguishing systems may be recorded in accordance with paragraph (c)(1) of this section, or on a tag attached to each unit by a qualified servicing organization.
+(2) The records of inspections and tests of portable fire extinguishers and semi-portable fire-extinguishing systems may be recorded in accordance with paragraph (c)(1) of this section, or on a tag attached to each unit by a qualified servicing organization.
+
+[USCG-2006-24412, 81 FR 40101, June 20, 2016, as amended by USCG-2017-1060, 83 FR 8181, Feb. 26, 2018]

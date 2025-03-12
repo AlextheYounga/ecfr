@@ -1,5 +1,7 @@
 ##### § 1.41-6 Aggregation of expenditures. #####
 
+Link to an amendment published at 83 FR 13184, Mar. 28, 2018.
+
 (a) *Controlled group of corporations; trades or businesses under common control* - (1) *In general.* To determine the amount of research credit (if any) allowable to a trade or business that at the end of its taxable year is a member of a controlled group, a taxpayer must -
 
 (i) Compute the group credit in the manner described in paragraph (b) of this section; and

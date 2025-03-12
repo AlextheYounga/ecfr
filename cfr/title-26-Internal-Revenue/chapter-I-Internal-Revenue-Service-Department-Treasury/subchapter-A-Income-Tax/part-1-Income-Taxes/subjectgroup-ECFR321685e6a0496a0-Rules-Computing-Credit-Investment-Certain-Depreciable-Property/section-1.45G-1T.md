@@ -1,5 +1,7 @@
 ##### § 1.45G-1T. Railroad track maintenance credit (temporary). #####
 
+Link to an amendment published at 83 FR 13185, Mar. 28, 2018.
+
 (a) through (e) [Reserved]. For further guidance, see § 1.45G-1(a) through (e).
 
 (f)(1) through (3) [Reserved]. For further guidance, see § 1.45G-1(f)(1) through (3).
