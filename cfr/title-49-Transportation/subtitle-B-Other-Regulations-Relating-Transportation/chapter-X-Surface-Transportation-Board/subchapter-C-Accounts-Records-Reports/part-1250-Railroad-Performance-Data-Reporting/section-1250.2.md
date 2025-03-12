@@ -1,5 +1,7 @@
 ##### § 1250.2 Railroad performance data elements. #####
 
+Link to an amendment published at 85 FR 30851, May 21, 2020.
+
 (a) Each Class I railroad must report the performance data elements in paragraphs (a)(1)-(9) and (11) of this section on a weekly basis, and the data elements in paragraph (a)(10) on a monthly basis, for the reporting period, as defined in § 1250.1(a). However, with regard to data elements in paragraph (a)(7) and (8), Kansas City Southern Railway Company is not required to report information by state, but instead shall report system-wide data.
 
 (1) System-average train speed for the overall system and for the following train types for the reporting week. (Train speed should be measured for line-haul movements between terminals. The average speed for each train type should be calculated by dividing total train-miles by total hours operated.)

@@ -1,7 +1,5 @@
 ##### § 1.80 Forfeiture proceedings. #####
 
-Link to an amendment published at 85 FR 22029, Apr. 21, 2020.
-
 (a) *Persons against whom and violations for which a forfeiture may be assessed.* A forfeiture penalty may be assessed against any person found to have:
 
 (1) Willfully or repeatedly failed to comply substantially with the terms and conditions of any license, permit, certificate, or other instrument of authorization issued by the Commission;
@@ -233,10 +231,10 @@ Pursuant to Public Law 104-134, the first inflation adjustment cannot exceed 10 
 
 (3) Where the possible assessment of a forfeiture is an issue in a hearing case to determine which pending application should be granted, and the applicant facing a potential forfeiture is dismissed pursuant to a settlement agreement or otherwise, and the presiding judge has not made a determination on the forfeiture issue, the order of dismissal shall be forwarded to the attention of the full Commission. Within the time provided by § 1.117, the Commission may, on its own motion, proceed with a determination of whether a forfeiture against the dismissing applicant is warranted. If the Commission so proceeds, it will provide the applicant with a reasonable opportunity to respond to the forfeiture issue (see paragraph (f)(3) of this section) and make a determination under the procedures outlined in paragraph (f) of this section.
 
-(h) *Payment.* The forfeiture should be paid by check or money order drawn to the order of the Federal Communications Commission. The Commission does not accept responsibility for cash payments sent through the mails. The check or money order should be mailed to: Federal Communications Commission, P.O. Box 979088, St. Louis, MO 63197-9000.
+(h) *Payment.* The forfeiture should be paid electronically using the Commission's electronic payment system in accordance with the procedures set forth on the Commission's website, *www.fcc.gov/licensing-databases/fees.*
 
 (i) *Remission and mitigation.* In its discretion, the Commission, or its designee, may remit or reduce any forfeiture imposed under this section. After issuance of a forfeiture order, any request that it do so shall be submitted as a petition for reconsideration pursuant to § 1.106.
 
 (j) *Effective date.* Amendments to paragraph (b) of this section implementing Pub. L. No. 101-239 are effective December 19, 1989.
 
-[43 FR 49308, Oct. 23, 1978, as amended at 48 FR 15631, Apr. 12, 1983; 50 FR 40855, Oct. 7, 1985; 55 FR 25605, June 22, 1990; 56 FR 25638, June 5, 1991; 57 FR 23161, June 2, 1992; 57 FR 47006, Oct. 14, 1992; 57 FR 48333, Oct. 23, 1992; 58 FR 6896, Feb. 3, 1993; 58 FR 27473, May 10, 1993; 62 FR 4918, Feb. 3, 1997; 62 FR 43475, Aug. 14, 1997; 63 FR 26992, May 15, 1998; 65 FR 60868, Oct. 13, 2000; 69 FR 47789, Aug. 6, 2004; 72 FR 33914, June 20, 2007; 73 FR 9018, Feb. 19, 2008; 73 FR 44664, July 31, 2008; 76 FR 43203, July 20, 2011; 76 FR 82388, Dec. 30, 2011; 77 FR 71137, Nov. 29, 2012; 78 FR 10100, Feb. 13, 2013; 78 FR 49371, Aug. 14, 2013; 81 FR 42555, June 30, 2016; 82 FR 8171, Jan. 24, 2017; 82 FR 57882, Dec. 8, 2017; 83 FR 4600, Feb. 1. 2018; 84 FR 2462, Feb. 7, 2019; 85 FR 2318, Jan. 15, 2020]
+[43 FR 49308, Oct. 23, 1978, as amended at 48 FR 15631, Apr. 12, 1983; 50 FR 40855, Oct. 7, 1985; 55 FR 25605, June 22, 1990; 56 FR 25638, June 5, 1991; 57 FR 23161, June 2, 1992; 57 FR 47006, Oct. 14, 1992; 57 FR 48333, Oct. 23, 1992; 58 FR 6896, Feb. 3, 1993; 58 FR 27473, May 10, 1993; 62 FR 4918, Feb. 3, 1997; 62 FR 43475, Aug. 14, 1997; 63 FR 26992, May 15, 1998; 65 FR 60868, Oct. 13, 2000; 69 FR 47789, Aug. 6, 2004; 72 FR 33914, June 20, 2007; 73 FR 9018, Feb. 19, 2008; 73 FR 44664, July 31, 2008; 76 FR 43203, July 20, 2011; 76 FR 82388, Dec. 30, 2011; 77 FR 71137, Nov. 29, 2012; 78 FR 10100, Feb. 13, 2013; 78 FR 49371, Aug. 14, 2013; 81 FR 42555, June 30, 2016; 82 FR 8171, Jan. 24, 2017; 82 FR 57882, Dec. 8, 2017; 83 FR 4600, Feb. 1. 2018; 84 FR 2462, Feb. 7, 2019; 85 FR 2318, Jan. 15, 2020; 85 FR 22029, Apr. 21, 2020]
