@@ -24,7 +24,7 @@
 
 (xi) 10 U.S.C. 4801 note prec., Notification of Proposed Program Termination.
 
-(xii) 10 U.S.C. 4864, Miscellaneous Limitations on the Procurement of Goods Other Than United States Goods.
+(xii) 10 U.S.C. 4864, Miscellaneous Limitations on the Procurement of Goods Other Than United States Goods. 10 U.S.C. 4864 is not applicable to subcontracts valued at or below the simplified acquisition threshold.
 
 (xiii) 10 U.S.C. 4871, Reporting Requirement Regarding Dealings with Terrorist Countries.
 
@@ -38,4 +38,6 @@
 
 (ii) 10 U.S.C. 4655, Prohibition on Limiting Subcontractor Direct Sales to the United States (see FAR 3.503 and 52.203-6).
 
-[60 FR 61595, Nov. 30, 1995, as amended at 61 FR 58488, Nov. 15, 1996; 62 FR 5780, Feb. 7, 1997; 65 FR 14401, Mar. 16, 2000; 65 FR 39704, June 27, 2000; 65 FR 77828, Dec. 13, 2000; 69 FR 63331, Nov. 1, 2004; 73 FR 76970, Dec. 18, 2008; 75 FR 27947, May 19, 2010; 76 FR 38048, June 29, 2011; 76 FR 58146, Sept. 20, 2011; 76 FR 76319, Dec. 7, 2011; 87 FR 52341, Aug. 25, 2022; 87 FR 76991, Dec. 16, 2022; 88 FR 6582, Jan. 31, 2023; 88 FR 25512, Apr. 27, 2023]
+(iii) 10 U.S.C. 4864, Miscellaneous Limitations on the Procurement of Goods Other Than United States Goods. 10 U.S.C. 4864 is not applicable to subcontracts at any tier valued at or below the simplified acquisition threshold.
+
+[60 FR 61595, Nov. 30, 1995, as amended at 61 FR 58488, Nov. 15, 1996; 62 FR 5780, Feb. 7, 1997; 65 FR 14401, Mar. 16, 2000; 65 FR 39704, June 27, 2000; 65 FR 77828, Dec. 13, 2000; 69 FR 63331, Nov. 1, 2004; 73 FR 76970, Dec. 18, 2008; 75 FR 27947, May 19, 2010; 76 FR 38048, June 29, 2011; 76 FR 58146, Sept. 20, 2011; 76 FR 76319, Dec. 7, 2011; 87 FR 52341, Aug. 25, 2022; 87 FR 76991, Dec. 16, 2022; 88 FR 6582, Jan. 31, 2023; 88 FR 25512, Apr. 27, 2023; 88 FR 46902, July 20, 2023]

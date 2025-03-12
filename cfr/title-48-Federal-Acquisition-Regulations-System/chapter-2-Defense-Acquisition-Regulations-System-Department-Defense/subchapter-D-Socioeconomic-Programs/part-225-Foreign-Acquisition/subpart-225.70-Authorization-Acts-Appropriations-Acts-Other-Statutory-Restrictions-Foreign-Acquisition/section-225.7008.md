@@ -22,14 +22,14 @@ When specifically authorized by reference elsewhere in this subpart, the restric
 
 (1) The restriction would cause unreasonable delays.
 
-(2) Satisfactory quality items manufactured in the United States, Australia, or Canada, or the United Kingdom are not available.
+(2) Satisfactory quality items manufactured in the United States, Australia, Canada, New Zealand, or the United Kingdom are not available.
 
-(3) Application of the restriction would result in the existence of only one source for the item in the United States, Australia, or Canada, or the United Kingdom.
+(3) Application of the restriction would result in the existence of only one source for the item in the United States, Australia, Canada, New Zealand, or the United Kingdom.
 
 (4) Application of the restriction is not in the national security interests of the United States.
 
 (5) Application of the restriction would adversely affect a U.S. company.
 
-(c) A restriction is waived when it would cause unreasonable costs. The cost of an item of U.S., Australian, Canadian, or United Kingdom origin is unreasonable if it exceeds 150 percent of the offered price, inclusive of duty, of items that are not of U.S., Australian, Canadian, or United Kingdom origin.
+(c) A restriction is waived when it would cause unreasonable costs. The cost of an item of U.S., Australian, Canadian, New Zealand, or United Kingdom origin is unreasonable if it exceeds 150 percent of the offered price, inclusive of duty, of items that are not of U.S., Australian, Canadian, New Zealand, or United Kingdom origin.
 
-[74 FR 37639, July 29, 2009, as amended at 78 FR 13543, Feb. 28, 2013; 80 FR 10391, Feb. 26, 2015; 85 FR 34534, June 5, 2020; 87 FR 76994, Dec. 16, 2022]
+[74 FR 37639, July 29, 2009, as amended at 78 FR 13543, Feb. 28, 2013; 80 FR 10391, Feb. 26, 2015; 85 FR 34534, June 5, 2020; 87 FR 76994, Dec. 16, 2022; 88 FR 46907, July 20, 2023]

@@ -1,5 +1,5 @@
 ##### 225.7010-3 Waiver. #####
 
-The waiver criteria at 225.7008(a) apply to this restriction.
+The waiver criteria at 225.7008 apply to the restrictions at 225.7010-1.
 
-[85 FR 34534, June 5, 2020]
+[88 FR 46903, July 20, 2023]

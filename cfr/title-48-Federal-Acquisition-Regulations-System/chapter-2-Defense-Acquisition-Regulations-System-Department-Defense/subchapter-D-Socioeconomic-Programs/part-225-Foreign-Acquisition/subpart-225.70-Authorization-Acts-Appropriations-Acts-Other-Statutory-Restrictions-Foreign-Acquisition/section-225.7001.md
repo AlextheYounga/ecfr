@@ -28,6 +28,8 @@ As used in this subpart—
 
 *Hand or measuring tools* means those tools listed in Federal supply classifications 51 and 52, respectively.
 
+*Large medium-speed diesel engines* means diesel engines whose revolutions per minute (RPM) fall between 300 and 1500 RPM with a displacement greater than 1500 cubic inches per cylinder.
+
 *Structural component of a tent*—
 
 (1) Means a component that contributes to the form and stability of the tent (*e.g.,* poles, frames, flooring, guy ropes, pegs); and
@@ -36,4 +38,4 @@ As used in this subpart—
 
 *Subsystem* means a functional grouping of items that combine to perform a major function within an end item, such as electrical power, altitude control, and propulsion.
 
-[84 FR 72243, Dec. 31, 2019, as amended at 87 FR 76993, Dec. 16, 2022; 88 FR 6603, Jan. 31, 2023]
+[84 FR 72243, Dec. 31, 2019, as amended at 87 FR 76993, Dec. 16, 2022; 88 FR 6603, Jan. 31, 2023; 88 FR 46902, July 20, 2023]

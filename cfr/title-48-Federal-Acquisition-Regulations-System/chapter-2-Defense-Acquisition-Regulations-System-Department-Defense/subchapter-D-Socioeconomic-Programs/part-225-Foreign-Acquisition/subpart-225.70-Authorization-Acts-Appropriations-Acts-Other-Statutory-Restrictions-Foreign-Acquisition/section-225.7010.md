@@ -1,1 +1,1 @@
-##### 225.7010 Restriction on certain naval vessel components. #####
+##### 225.7010 Restrictions on certain naval vessel and auxiliary ship components. #####
