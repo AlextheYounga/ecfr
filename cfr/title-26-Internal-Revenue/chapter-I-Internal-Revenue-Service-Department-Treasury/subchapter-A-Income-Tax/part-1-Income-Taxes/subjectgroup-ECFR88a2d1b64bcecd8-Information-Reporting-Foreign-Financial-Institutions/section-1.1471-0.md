@@ -20,277 +20,295 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (6) Assumes primary withholding responsibility.
 
-(7) Beneficial owner.
+(7) Backup withholding.
 
-(8) Blocked account.
+(8) Beneficial owner.
 
-(9) Broker.
+(9) Blocked account.
 
-(10) Cash value.
+(10) Branch.
 
-(11) Cash value insurance contract.
+(11) Broker.
 
-(12) Certified deemed-compliant FFI.
+(12) Cash value.
 
-(13) Change in circumstances.
+(13) Cash value insurance contract.
 
-(14) Chapter 3.
+(14) Certified deemed-compliant FFI.
 
-(15) Chapter 4.
+(15) Change in circumstances.
 
-(16) Chapter 4 reportable amount.
+(16) Chapter 3.
 
-(17) Chapter 4 status.
+(17) Chapter 4.
 
-(18) Clearing organization.
+(18) Chapter 4 reportable amount.
 
-(19) Complex trust.
+(19) Chapter 4 status.
 
-(20) Consolidated obligations.
+(20) Chapter 4 withholding rate pool.
 
-(21) Custodial account.
+(21) Clearing organization.
 
-(22) Custodial institution.
+(22) Complex trust.
 
-(23) Customer master file.
+(23) Consolidated obligations.
 
-(24) Deemed-compliant FFI.
+(24) Custodial account.
 
-(25) Deferred annuity contract.
+(25) Custodial institution.
 
-(26) Depository account.
+(26) Customer master file.
 
-(27) Depository institution.
+(27) Deemed-compliant FFI.
 
-(28) Documentary evidence.
+(28) Deferred annuity contract.
 
-(29) Documentation.
+(29) Depository account.
 
-(30) Dormant account.
+(30) Depository institution.
 
-(31) Effective date of the FFI agreement.
+(31) Direct reporting NFFE.
 
-(32) EIN.
+(32) Documentary evidence.
 
-(33) Election to be withheld upon.
+(33) Documentation.
 
-(34) Electronically searchable information.
+(34) Dormant account.
 
-(35) Entity.
+(35) Effective date of the FFI agreement.
 
-(36) Entity account.
+(36) EIN.
 
-(37) Excepted NFFE.
+(37) Election to be withheld upon.
 
-(38) Exempt beneficial owner.
+(38) Electronically searchable information.
 
-(39) Expanded affiliated group.
+(39) Entity.
 
-(40) FATF.
+(40) Entity account.
 
-(41) FATF-compliant jurisdiction.
+(41) Excepted NFFE.
 
-(42) FFI.
+(42) Exempt beneficial owner.
 
-(43) FFI agreement.
+(43) Exempt recipient.
 
-(44) Financial account.
+(44) Expanded affiliated group.
 
-(45) Financial institution.
+(45) FATF.
 
-(46) Flow-through entity.
+(46) FATF-compliant jurisdiction.
 
-(47) Flow-through withholding certificate.
+(47) FFI.
 
-(48) Foreign entity.
+(48) FFI agreement.
 
-(49) Foreign passthru payment.
+(49) Financial account.
 
-(50) Foreign payee.
+(50) Financial institution.
 
-(51) Foreign person.
+(51) Flow-through entity.
 
-(52) GIIN.
+(52) Flow-through withholding certificate.
 
-(53) Grandfathered obligation.
+(53) Foreign entity.
 
-(54) Grantor trust.
+(54) Foreign passthru payment.
 
-(55) Gross proceeds.
+(55) Foreign payee.
 
-(56) Group annuity contract.
+(56) Foreign person.
 
-(57) Group insurance contract.
+(57) GIIN.
 
-(58) Immediate annuity.
+(58) Grandfathered obligation.
 
-(59) Individual account.
+(59) Grantor trust.
 
-(60) Insurance company.
+(60) Gross proceeds.
 
-(61) Insurance contract.
+(61) Group annuity contract.
 
-(62) Intermediary.
+(62) Group insurance contract.
 
-(63) Intermediary withholding certificate.
+(63) Immediate annuity.
 
-(64) Investment entity.
+(64) Individual account.
 
-(65) Investment-linked annuity contract.
+(65) Insurance company.
 
-(66) Investment-linked insurance contract.
+(66) Insurance contract.
 
-(67) IRS FFI list.
+(67) Intergovernmental agreement (IGA).
 
-(68) Life annuity contract.
+(68) Intermediary.
 
-(69) Life insurance contract.
+(69) Intermediary withholding certificate.
 
-(70) Limited branch.
+(70) Investment entity.
 
-(71) Limited FFI.
+(71) Investment-linked annuity contract.
 
-(72) Model 1 IGA.
+(72) Investment-linked insurance contract.
 
-(73) Model 2 IGA.
+(73) IRS FFI list.
 
-(74) NFFE.
+(74) Life annuity contract.
 
-(75) Nonparticipating FFI.
+(75) Life insurance contract.
 
-(76) Nonreporting IGA FFI.
+(76) Limited branch.
 
-(77) Non-U.S. account.
+(77) Limited FFI.
 
-(78) NQI.
+(78) Model 1 IGA.
 
-(79) NWP.
+(79) Model 2 IGA.
 
-(80) NWT.
+(80) NFFE.
 
-(81) Offshore account.
+(81) Non-exempt recipient.
 
-(82) Offshore obligation.
+(82) Nonparticipating FFI.
 
-(83) Owner.
+(83) Nonreporting IGA FFI.
 
-(84) Owner-documented FFI.
+(84) Non-U.S. account.
 
-(85) Participating FFI.
+(85) NQI.
 
-(86) Participating FFI group.
+(86) NWP.
 
-(87) Partnership.
+(87) NWT.
 
-(88) Passive NFFE.
+(88) Offshore obligation.
 
-(89) Passthru payment.
+(89) Owner.
 
-(90) Payee.
+(90) Owner-documented FFI.
 
-(91) Payment with respect to an offshore obligation.
+(91) Participating FFI.
 
-(92) Payor.
+(92) Participating FFI group.
 
-(93) Permanent residence address.
+(93) Partnership.
 
-(94) Person.
+(94) Passive NFFE.
 
-(95) Preexisting account.
+(95) Passthru payment.
 
-(96) Preexisting entity account.
+(96) Payee.
 
-(97) Preexisting individual account.
+(97) Payment with respect to an offshore obligation.
 
-(98) Preexisting obligation.
+(98) Payor.
 
-(99) Pre-FATCA Form W-8.
+(99) Permanent residence address.
 
-(100) Prima facie FFI.
+(100) Person.
 
-(101) QI.
+(101) Preexisting account.
 
-(102) QI agreement.
+(102) Preexisting entity account.
 
-(103) QI branch of a U.S. financial institution.
+(103) Preexisting individual account.
 
-(104) Recalcitrant account holder.
+(104) Preexisting obligation.
 
-(105) Registered deemed-compliant FFI.
+(105) Pre-FATCA Form W-8.
 
-(106) Relationship manager.
+(106) Prima facie FFI.
 
-(107) Reporting Model 1 FFI.
+(107) QI.
 
-(108) Responsible officer.
+(108) QI agreement.
 
-(109) Restricted distributor.
+(109) QI branch of a U.S. financial institution.
 
-(110) Simple trust.
+(110) Recalcitrant account holder.
 
-(111) Specified insurance company.
+(111) Registered deemed-compliant FFI.
 
-(112) Specified U.S. person.
+(112) Relationship manager.
 
-(113) Sponsored FFI.
+(113) Reportable payment.
 
-(114) Sponsored FFI group.
+(114) Reporting Model 1 FFI.
 
-(115) Sponsoring entity.
+(115) Reporting Model 2 FFI.
 
-(116) Standardized industry code.
+(116) Responsible officer.
 
-(117) Standing instructions to pay amounts.
+(117) Restricted distributor.
 
-(118) Subject to withholding.
+(118) Simple trust.
 
-(119) Substantial U.S. owner.
+(119) Specified insurance company.
 
-(120) Territory entity.
+(120) Specified U.S. person.
 
-(121) Territory financial institution.
+(121) Sponsored FFI.
 
-(122) Territory financial institution treated as a U.S. person.
+(122) Sponsored FFI group.
 
-(123) Territory NFFE.
+(123) Sponsored direct reporting NFFE.
 
-(124) TIN.
+(124) Sponsoring entity.
 
-(125) U.S. account.
+(125) Standardized industry coding system.
 
-(126) U.S. branch treated as a U.S. person.
+(126) Standing instructions to pay amounts.
 
-(127) U.S. financial institution.
+(127) Subject to withholding.
 
-(128) U.S. indicia.
+(128) Substantial U.S. owner.
 
-(129) U.S. owned foreign entity.
+(129) Territory entity.
 
-(130) U.S. payee.
+(130) Territory financial institution.
 
-(131) U.S. payor.
+(131) Territory financial institution treated as a U.S. person.
 
-(132) U.S. person.
+(132) Territory NFFE.
 
-(133) U.S. source FDAP income.
+(133) TIN.
 
-(134) U.S. territory.
+(134) U.S. account.
 
-(135) U.S. withholding agent.
+(135) U.S. branch treated as a U.S. person.
 
-(136) Withholdable payment.
+(136) U.S. financial institution.
 
-(137) Withholding.
+(137) U.S. indicia.
 
-(138) Withholding agent.
+(138) U.S. owned foreign entity.
 
-(139) Withholding certificate.
+(139) U.S. payee.
 
-(140) WP.
+(140) U.S. payor.
 
-(141) Written statement.
+(141) U.S. person.
 
-(142) WT.
+(142) U.S. source FDAP income.
+
+(143) U.S. territory.
+
+(144) U.S. withholding agent.
+
+(145) Withholdable payment.
+
+(146) Withholding.
+
+(147) Withholding agent.
+
+(148) Withholding certificate.
+
+(149) WP.
+
+(150) Written statement.
+
+(151) WT.
 
 (c) Effective/applicability date.
 
@@ -302,7 +320,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (2) Special withholding rules.
 
-(i) Requirement to withhold on payments of U.S. source FDAP income to participating FFIs and deemed-compliant FFIs that are NQIs, NWPs, or NWTs.
+(i) Requirement to withhold on payments of U.S. source FDAP income to participating FFIs and deemed-compliant FFIs that are NQIs, NWPs, or NWTs, and U.S. branches acting as intermediaries.
 
 (ii) Residual withholding responsibility of intermediaries and flow-through entities.
 
@@ -328,11 +346,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (B) Example.
 
-(ii) Exception to withholding for certain payments made prior to January 1, 2016 (transitional).
-
-(A) In general.
-
-(B) Prima facie FFIs.
+(ii) Exception to withholding for certain payments made prior to July 1, 2016 (transitional).
 
 (iii) Payments to a participating FFI.
 
@@ -346,11 +360,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (viii) Payments to certain excepted accounts.
 
-(5) Withholding requirements if source or character of payments is unknown.
-
-(i) General rule.
-
-(ii) Optional escrow procedure.
+(5) Withholding requirements if source or character of payment is unknown.
 
 (b) Grandfathered obligations.
 
@@ -402,9 +412,9 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (iv) Territory financial institution.
 
-(v) Disregarded entity or branch.
+(v) Disregarded entity or limited branch.
 
-(vi) U.S. branch of certain foreign banks or foreign insurance companies.
+(vi) U.S. branch of treated as a U.S. person.
 
 (vii) Foreign branch of a U.S. person.
 
@@ -458,7 +468,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (G) Special rules applicable to a withholding certificate of a territory financial institution that does not agree to be treated as a U.S. person.
 
-(H) Special rules applicable to a withholding certificate of a U.S. branch treated as a U.S. person.
+(H) Rules applicable to a withholding certificate of a U.S. branch.
 
 (iv) Certificate for exempt status (Form W-8EXP).
 
@@ -484,7 +494,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (A) General documentary evidence.
 
-(B) Preexisting account documentary evidence.
+(B) Preexisting obligation documentary evidence.
 
 (C) Payee-specific documentary evidence.
 
@@ -542,7 +552,9 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (iii) Shared account systems.
 
-(iv) Document sharing gross proceeds.
+(iv) Document sharing for gross proceeds.
+
+(v) Preexisting account.
 
 (9) Reliance on documentation collected by or certifications provided by other persons.
 
@@ -582,7 +594,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (ii) Exception for offshore obligations.
 
-(4) Identification of participating FFIs and registered deemed-complaint FFIs.
+(4) Identification of participating FFIs and registered deemed-compliant FFIs.
 
 (i) In general.
 
@@ -594,11 +606,25 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (v) Reason to know.
 
+(vi) Sponsored investment entities and sponsored controlled foreign corporations.
+
+(A) In general.
+
+(B) Payments made prior to January 1, 2017 (transitional).
+
+(C) Payments made after December 31, 2016, to payees documented prior to January 1, 2017.
+
 (5) Identification of certified deemed-compliant FFIs.
 
 (i) In general.
 
 (ii) Sponsored, closely-held investment vehicles.
+
+(A) In general.
+
+(B) Offshore obligations.
+
+(iii) Certain investment entities that do not maintain financial accounts.
 
 (A) In general.
 
@@ -610,7 +636,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (ii) Auditor's letter substitute.
 
-(iii) Documentation for owners of payee.
+(iii) Documentation for owners and debt holders of payee.
 
 (iv) Content of FFI owner reporting statement.
 
@@ -618,7 +644,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (vi) Exception for offshore obligations.
 
-(vii) Exception for certain obligations of $1,000,000 or less.
+(vii) Exception for certain offshore obligations of $1,000,000 or less.
 
 (7) Nonreporting IGA FFIs.
 
@@ -732,6 +758,32 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (C) Limit on reason to know.
 
+(x) Identifying a direct reporting NFFE (other than a sponsored direct reporting NFFE).
+
+(A) In general.
+
+(B) Exception for offshore obligations.
+
+(C) Special rule for preexisting offshore obligations.
+
+(xi) Identifying a sponsored direct reporting NFFE.
+
+(A) In general.
+
+(1) Payments made prior to January 1, 2017 (transitional).
+
+(2) Payments made after December 31, 2016, to payees documented prior to January 1, 2017.
+
+(B) Exception for offshore obligations.
+
+(xii) Identification of excepted inter-affiliate FFI.
+
+(A) In general.
+
+(B) Offshore obligations.
+
+(C) Reason to know.
+
 (12) Identification of passive NFFEs.
 
 (i) Exception for offshore obligations.
@@ -750,59 +802,37 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (2) Notification by the IRS.
 
-(3) Participating FFIs and registered deemed-compliant FFIs.
+(3) GIIN verification.
 
 (i) In general.
 
 (ii) Special rules for reporting Model 1 FFIs.
 
+(iii) Special rules for direct reporting NFFEs.
+
+(iv) Special rules for sponsored direct reporting NFFEs and sponsoring entities.
+
+(A) Sponsored direct reporting NFFEs.
+
+(B) Sponsoring entities (transitional).
+
 (4) Reason to know.
 
-(i) Information conflicting with person's claim of chapter 4 status.
+(i) Reason to know regarding an entity's chapter 4 status.
 
-(ii) Specific standards of knowledge applicable to withholding certificates.
-
-(A) In general.
-
-(B) Classification of U.S. status, U.S. address, or U.S. telephone number.
-
-(*1*) Presumption of individual's foreign status.
-
-(*2*) Presumption of entity's foreign status.
-
-(C) U.S. place of birth.
-
-(*1*) Accounts opened on or after January 1, 2014.
-
-(*2*) Preexisting obligations.
-
-(D) Standing instructions with respect to offshore obligations.
-
-(iii) Specific standard of knowledge applicable to written statements.
-
-(iv) Specific standard of knowledge applicable to documentary evidence.
+(ii) Reason to know applicable to withholding certificates.
 
 (A) In general.
 
-(B) Classification of U.S. status, U.S. address, or U.S. telephone number.
+(B) Withholding certificate provided by an FFI.
 
-(*1*) Presumption of individual's foreign status.
+(iii) Reason to know applicable to written statements.
 
-(*2*) Presumption of entity's foreign status.
+(iv) Reason to know applicable to documentary evidence.
 
-(C) U.S. place of birth.
+(A) In general.
 
-(*1*) Accounts opened on or after January 1, 2014.
-
-(*2*) Preexisting obligations.
-
-(D) Standing instructions.
-
-(E) Standards of knowledge applicable to certain types of documentary evidence.
-
-(*1*) Financial statement.
-
-(*2*) Organizational documents.
+(B) Standards of knowledge applicable to certain types of documentary evidence.
 
 (v) Specific standards of knowledge applicable when only documentary evidence is a code or classification described in paragraph (c)(5)(ii)(B) of this section.
 
@@ -820,11 +850,11 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (A) Scope of review for preexisting obligations of entities.
 
-(B) Reason to know there is a U.S. telephone number associated with a preexisting obligation.
+(B) Reason to know there are U.S. indicia associated with preexisting obligations.
 
 (C) Reason to know there are U.S. indicia associated with preexisting offshore obligations.
 
-(D) Limits on reason to know for multiple obligations belonging to a single account holder.
+(D) Limits on reason to know for multiple obligations belonging to a single person.
 
 (viii) Reasonable explanation supporting claim of foreign status.
 
@@ -836,23 +866,13 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (1) In general.
 
-(2) Presumptions of classification as an individual or entity.
-
-(i) In general.
-
-(ii) Documentary evidence furnished for offshore obligation.
+(2) Presumptions of classification as an individual or entity and entity as the beneficial owner.
 
 (3) Presumptions of U.S. or foreign status.
 
-(i) Payments to entities with indicia of foreign status.
-
-(ii) Payments to certain exempt recipients.
-
-(iii) Payments with respect to offshore obligations.
-
 (4) Presumption of chapter 4 status for a foreign entity.
 
-(5) Presumption of status as an intermediary.
+(5) Presumption of chapter 4 status of payee with respect to a payment to an intermediary or flow-through entity.
 
 (6) Presumption of effectively connected income for payments to certain U.S. branches.
 
@@ -898,6 +918,12 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (3) Satisfaction of withholding requirements.
 
+(i) In general.
+
+(ii) Withholding not required.
+
+(iii) Election to withhold under section 3406.
+
 (4) Foreign passthru payments.
 
 (5) Withholding on limited FFIs and limited branches.
@@ -908,7 +934,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (6) Special rule for dormant accounts.
 
-(7) Withholding requirements for U.S. branches of participating FFIs (and reporting Model 1 FFIs) that are treated as U.S. persons.
+(7) Withholding requirements for U.S. branches of FFIs treated as U.S. persons.
 
 (c) Due diligence for the identification and documentation of account holders and payees.
 
@@ -938,7 +964,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (iv) Record retention.
 
-(v) Special rule for U.S. branches of participating FFIs (and reporting Model 1 FFIs) that are treated as U.S. persons.
+(v) Documentation rules for U.S. branches of FFIs that are treated as U.S. persons.
 
 (3) Identification and documentation procedure for entity accounts and payees.
 
@@ -1016,7 +1042,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (*4*) Limitations on the enhanced review in the case of comprehensive electronically searchable information.
 
-(E) Exception for preexisting individual accounts that a participating FFI has documented as held by foreign individuals for purposes of meeting its obligations under chapter 61 or its QI, WP, or WT agreement.
+(E) Exception for preexisting individual accounts previously documented as held by foreign individuals.
 
 (6) Examples.
 
@@ -1038,15 +1064,19 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (C) Special reporting of account holders of a sponsored FFI.
 
-(D) Special reporting of account holders that are owner-documented FFIs.
+(D) Special reporting of accounts held by owner-documented FFIs.
 
-(E) Branch reporting of accounts.
+(E) Requirement to identify the GIIN of a branch that maintains an account.
+
+(F) Reporting by participating FFIs and registered deemed-compliant FFIs (including QIs, WPs, WTs, and certain U.S. branches not treated as U.S. persons) for accounts of nonparticipating FFIs (transitional).
 
 (iii) Special U.S. account reporting rules for U.S. payors.
 
 (A) Special reporting rule for U.S. payors other than U.S. branches.
 
 (B) Special reporting rules for U.S. branches treated as U.S. persons.
+
+(C) Rules for U.S. branches of FFIs not treated as U.S. persons.
 
 (3) Reporting of accounts under section 1471(c)(1).
 
@@ -1058,13 +1088,11 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (iv) Special reporting of accounts held by owner-documented FFIs.
 
-(v) Branch reporting.
+(v) Form for reporting accounts under section 1471(c)(1).
 
-(vi) Form for reporting accounts under section 1471(c)(1).
+(vi) Time and manner of filing.
 
-(vii) Time and manner of filing.
-
-(viii) Extensions in filing.
+(vii) Extensions in filing.
 
 (4) Descriptions applicable to reporting requirements of § 1.1471-4(d)(3).
 
@@ -1086,7 +1114,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (C) Other accounts.
 
-(D) Transfers and closing of deposit, custodial, insurance, and annuity financial accounts.
+(D) Transfers and closings of deposit, custodial, insurance, and annuity financial accounts.
 
 (E) Amount and character of payments subject to reporting.
 
@@ -1126,15 +1154,17 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (v) Time and manner of filing.
 
-(vi) Record retention requirements.
+(vi) Extensions in filing.
 
-(7) Special reporting rules with respect to the 2013 through 2015 calendar years.
+(vii) Record retention requirements.
+
+(7) Special reporting rules with respect to the 2014 and 2015 calendar years.
 
 (i) In general.
 
 (ii) Participating FFIs that report under § 1.1471-4(d)(3).
 
-(A) Reporting with respect to the 2013 and 2014 calendar years.
+(A) Reporting with respect to the 2014 calendar year.
 
 (B) Reporting with respect to the 2015 calendar year.
 
@@ -1144,7 +1174,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (A) In general.
 
-(B) Special determination date and timing for reporting with respect to the 2013 calendar year.
+(B) Special determination date and timing for reporting with respect to the 2014 calendar year.
 
 (8) Reporting requirements of QIs, WPs and WTs.
 
@@ -1166,6 +1196,8 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (v) Term of limited branch status (transitional).
 
+(vi) Exception from restriction on opening U.S. accounts and nonparticipating FFI accounts.
+
 (3) Limited FFI.
 
 (i) In general.
@@ -1175,6 +1207,14 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 (iii) Conditions for limited FFI status.
 
 (iv) Period for limited FFI status (transitional).
+
+(v) Exception from registration requirement.
+
+(A) Conditions for exception.
+
+(B) Confirmation requirements of lead FI.
+
+(vi) Exception from restriction on opening U.S. accounts and nonparticipating FFI accounts.
 
 (4) Special rule for QIs.
 
@@ -1230,13 +1270,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (1) In general.
 
-(2) Requesting wavier or closure of a U.S. account.
-
-(i) In general.
-
-(ii) Valid and effective waiver for a U.S. account.
-
-(iii) Closure or transfer of U.S. account.
+(2) Requesting waiver or closure of a U.S. account.
 
 (3) Legal prohibitions preventing withholding.
 
@@ -1258,15 +1292,13 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (i) In general.
 
-(ii) Grantor trust.
+(ii) Financial accounts held by agents that are not financial institutions.
 
-(iii) Financial accounts held by agents that are not financial institutions.
+(iii) Jointly held accounts.
 
-(iv) Jointly held accounts.
+(iv) Account holder for insurance and annuity contracts.
 
-(v) Account holder for insurance and annuity contracts.
-
-(vi) Examples.
+(v) Examples.
 
 (4) Exceptions to U.S. account status.
 
@@ -1286,7 +1318,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (iii) Equity or debt interest.
 
-(A) Equity or debt interest in an investment entity.
+(A) Equity or debt interests in an investment entity.
 
 (B) Certain equity or debt interests in a holding company or treasury center.
 
@@ -1336,19 +1368,19 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (iv) Regularly traded on an established securities market.
 
-(v) Value of interest determined, directly or indirectly, primarily by reference to assets the give rise (or could give rise) to withholdable payments.
+(v) Value of interest determined, directly or indirectly, primarily by reference to assets that give rise (or could give rise) to withholdable payments.
 
 (A) Equity interest.
 
 (B) Debt interest.
 
-(vi) Redemption or retirement amount or return earned on the interest determined, directly or indirectly, primarily by reference to one or more investment entities or passive NFFEs.
+(vi) Return earned on the interest (including upon a sale, exchange, or redemption) determined, directly or indirectly, primarily by reference to one or more investment entities or passive NFFEs.
 
 (A) Equity interest.
 
 (B) Debt interest.
 
-(vii) Cash value insurance contracts.
+(vii) Cash value insurance contract.
 
 (A) In general.
 
@@ -1378,7 +1410,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (C) Examples.
 
-(iv) Current translation of balance or value.
+(iv) Currency translation of balance or value.
 
 (5) Account maintained by financial institution.
 
@@ -1422,7 +1454,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (A) In general.
 
-(B) Special rule start-up entities.
+(B) Special rule for start-up entities.
 
 (iv) Primarily attributable to investing, reinvesting, or trading in financial assets.
 
@@ -1476,7 +1508,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (D) Restricted funds.
 
-(E) Qualified credit card issuers.
+(E) Qualified credit card issuers and servicers.
 
 (F) Sponsored investment entities and controlled foreign corporations.
 
@@ -1494,13 +1526,15 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (iv) Limited life debt investment entities (transitional).
 
+(v) Certain investment entities that do not maintain financial accounts.
+
 (3) Owner-documented FFIs.
 
 (i) In general.
 
 (ii) Requirements of owner-documented FFI status.
 
-(4) Definition of restricted distributor.
+(4) Definition of a restricted distributor.
 
 (g) Recalcitrant account holders.
 
@@ -1538,17 +1572,37 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (2) Expanded affiliated group defined.
 
-(i) In general.
+(3) Member of expanded affiliated group.
 
-(ii) Partnerships and entities other than corporations.
+(4) Ownership test.
 
-(3) Exception for FFIs holding certain capital investments.
+(i) Corporations.
 
-(4) Seed capital.
+(A) Stock not to include certain preferred stock.
 
-(5) Anti-abuse rule.
+(B) Valuation.
 
-(j) Effective/applicability date.
+(ii) Partnerships.
+
+(iii) Trusts.
+
+(5) Treatment of warrants, options, and obligations convertible into equity for determining ownership.
+
+(6) Exception for FFIs holding certain capital investments.
+
+(7) Seed capital.
+
+(8) Anti-abuse rule.
+
+(9) Exception for limited life debt investment entities.
+
+(10) Partnerships, trusts, and other non-corporate entities.
+
+(j) Sponsoring entity verification.
+
+(k) Sponsoring entity event of default.
+
+(l) Effective/applicability date.
 
 § 1.1471-6 Payments beneficially owned by exempt beneficial owners.
 
@@ -1572,7 +1626,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (3) Bank for International Settlements.
 
-(4) Income on certain collateral.
+(4) Income on certain transactions.
 
 (e) Governments of U.S. territories.
 
@@ -1582,7 +1636,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (2) Broad participation retirement fund.
 
-(3) Narrow participating retirement funds.
+(3) Narrow participation retirement funds.
 
 (4) Fund formed pursuant to a plan similar to a section 401(a) plan.
 
@@ -1614,7 +1668,8 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (c) Exceptions.
 
-(1) Beneficial owner that is an excepted NFFE.
+(1) Payments to an excepted NFFE.
+NFFE.
 
 (i) Publicly traded corporation.
 
@@ -1650,13 +1705,45 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (v) Excepted nonfinancial entities.
 
-(2) Payments made to a WP, WT, or an exempt beneficial owner.
+(vi) Direct reporting NFFEs.
+
+(vii) Sponsored direct reporting NFFEs.
+
+(2) Payments made to an exempt beneficial owner.
+
+(3) Definition of direct reporting NFFE.
+
+(4) Election to be treated as a direct reporting NFFE.
+
+(i) Manner of making election.
+
+(ii) Effective date of election.
+
+(iii) Revocation of election by NFFE.
+
+(iv) Revocation of election by Commissioner.
+
+(v) Event of default.
+
+(vi) Notice of event of default.
+
+(vii) Remediation of event of default.
+
+(5) Election by a direct reporting NFFE to be treated as a sponsored direct reporting NFFE.
+
+(i) Definition of sponsored direct reporting NFFE.
+
+(ii) Requirements for sponsoring entity of a sponsored direct reporting NFFE.
+
+(iii) Revocation of status as sponsoring entity.
+
+(iv) Liability of sponsoring entity.
 
 (d) Rules for determining payee and beneficial owner.
 
 (1) In general.
 
-(2) Payments made to an NFFE that is a WP or WT.
+(2) Payments made to a NFFE that is a QI, WP, or WT.
 
 (3) Payments made to a partner or beneficiary of an NFFE that is an NWP or NWT.
 
@@ -1670,7 +1757,11 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (2) Reporting on substantial U.S. owners.
 
-(f) Effective/applicability date.
+(f) Sponsoring entity verification.
+
+(g) Sponsoring entity event of default.
+
+(h) Effective/applicability date.
 
 § 1.1473-1 Section 1473 definitions.
 
@@ -1712,7 +1803,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (B) Special rule for sales effected by brokers.
 
-(C) Special rule for gross proceeds from sales settles by a clearing organization.
+(C) Special rule for gross proceeds from sales settled by a clearing organization.
 
 (ii) Property of a type that can produce interest or dividend payments that would be U.S. source FDAP income.
 
@@ -1741,6 +1832,10 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 (v) Fractional shares.
 
 (vi) Offshore payments of U.S. source FDAP income prior to 2017 (transitional).
+
+(vii) Collateral arrangements prior to 2017 (transitional).
+
+(viii) Certain dividend equivalents.
 
 (5) Special payment rules for flow-through entities, complex trusts, and estates.
 
@@ -1882,7 +1977,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (B) Payments to participating FFIs, deemed-compliant FFIs, and certain QIs.
 
-(C) Amounts paid to a U.S. branch of a participating FFI or registered deemed-compliant FFI.
+(C) Amounts paid to a U.S. branch.
 
 (D) Amounts paid to territory financial institutions that are flow-through entities or acting as intermediaries.
 
@@ -1896,15 +1991,13 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (C) Disregarded entities.
 
-(iii) Reporting by participating FFIs and deemed-compliant FFIs (including QIs, WPs, and WTs).
+(iii) Reporting by participating FFIs and deemed-compliant FFIs (including QIs, WPs, and WTs) and U.S. branches not treated as U.S. persons.
 
 (A) In general.
 
-(B) Special reporting requirements of participating FFIs, deemed-compliant FFIs, and FFIs that make an election under section 1471(b)(3).
+(B) Special reporting requirements of participating FFIs, deemed-compliant FFIs, FFIs that make an election under section 1471(b)(3), and U.S. branches not treated as U.S. persons.
 
-(C) Reporting by participating FFIs and registered deemed-compliant FFIs (including QIs, WPs, and WTs) for certain payments made to nonparticipating FFIs (transitional).
-
-(D) Reporting by U.S. branches of a participating FFI or registered deemed-compliant FFI that is treated as a U.S. person.
+(C) Reporting by a U.S. branch treated as a U.S. person.
 
 (iv) Reporting by territory financial institutions.
 
@@ -1927,6 +2020,8 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 (2) Reporting by certain withholding agents with respect to U.S. owned foreign entities that are NFFEs.
 
 (3) Cross reference to reporting by participating FFIs.
+
+(4) Extensions of time to file.
 
 (j) Effective/applicability date.
 
@@ -2002,11 +2097,7 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (1) In general.
 
-(2) Determining amount of distribution from certain domestic corporations subject to section 1445 or chapter 4 withholding.
-
-(i) Distribution from qualified investment entity.
-
-(ii) Distribution from a United States real property holding corporation.
+(2) Determining the amount of the distribution from certain domestic corporations subject to section 1445 or chapter 4 withholding.
 
 (d) Coordination with section 1446.
 
@@ -2016,7 +2107,9 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (e) Example.
 
-(f) Effective/applicability date.
+(f) Coordination with section 3406.
+
+(g) Effective/applicability date.
 
 § 1.1474-7 Confidentiality of information.
 
@@ -2042,4 +2135,4 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (e) Effective/applicability date.
 
-[T.D. 9610, 78 FR 5899, Jan. 28, 2013; 78 FR 55203, Sept. 10, 2013]
+[T.D. 9610, 78 FR 5899, Jan. 28, 2013; 78 FR 55203, Sept. 10, 2013; as amended by T.D. 9809, 82 FR 2144, Jan. 6, 2017]

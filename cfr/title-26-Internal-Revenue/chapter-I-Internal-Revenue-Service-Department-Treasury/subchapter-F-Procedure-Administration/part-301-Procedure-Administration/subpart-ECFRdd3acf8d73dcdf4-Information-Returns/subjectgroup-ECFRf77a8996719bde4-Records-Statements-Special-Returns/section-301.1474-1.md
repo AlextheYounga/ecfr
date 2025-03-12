@@ -4,7 +4,7 @@
 
 (b) *Waiver.* The Commissioner may grant waivers from the requirements of this section in cases of undue hardship. A request for waiver must be made in accordance with applicable revenue procedures or publications. The waiver also will be subject to such terms and conditions regarding the method of filing as may be prescribed by the Commissioner.
 
-(c) *Failure to file.* If a financial institution fails to file a Form 1042-S or a Form 8966 on magnetic media when required to do so by this section, the financial institution is deemed to have failed to comply with the information reporting requirements under section 6723 of the Code. See section 6724(c) for failure to meet magnetic media requirements. In determining whether there is reasonable cause for failure to file the return, § 301.6651-1(c) and rules similar to the rules in § 301.6724-1(c)(3) (undue economic hardship related to filing information returns on magnetic media) will apply.
+(c) *Failure to file.* If a financial institution fails to file a Form 1042-S or a Form 8966 on magnetic media when required to do so by this section, the financial institution is deemed to have failed to comply with the information reporting requirements under section 6721 of the Code. See section 6724(c) for failure to meet magnetic media requirements. In determining whether there is reasonable cause for failure to file the return, § 301.6651-1(c) and rules similar to the rules in § 301.6724-1(c)(3) (undue economic hardship related to filing information returns on magnetic media) will apply.
 
 (d) *Meaning of terms.* The following definitions apply for purposes of this section - (1) *Magnetic media.* The term *magnetic media* means any magnetic media permitted under applicable regulations, revenue procedures, publications, forms, or instructions. These generally include magnetic tape, tape cartridge, and diskette, as well as other media, such as electronic filing, specifically permitted under the applicable regulations, revenue procedures, publications, forms, or instructions.
 
@@ -12,4 +12,4 @@
 
 (e) *Effective/applicability date.* This section applies to any Form 1042-S or Form 8966 (or any other form that the IRS may prescribe) filed with respect to calendar years ending after December 31, 2013.
 
-[T.D. 9610, 78 FR 5994, Jan. 28, 2013]
+[T.D. 9610, 78 FR 5994, Jan. 28, 2013, as amended by T.D. 9809, 82 FR 2192, Jan. 6, 2017]

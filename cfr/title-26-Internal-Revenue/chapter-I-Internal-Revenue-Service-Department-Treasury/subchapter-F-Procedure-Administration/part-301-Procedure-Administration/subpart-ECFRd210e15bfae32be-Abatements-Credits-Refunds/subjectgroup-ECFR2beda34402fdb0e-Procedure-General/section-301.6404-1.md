@@ -1,0 +1,11 @@
+##### § 301.6404-1 Abatements. #####
+
+(a) The district director or the director of the regional service center may abate any assessment, or unpaid portion thereof, if the assessment is in excess of the correct tax liability, if the assessment is made subsequent to the expiration of the period of limitations applicable thereto, or if the assessment has been erroneously or illegally made.
+
+(b) No claim for abatement may be filed with respect to income, estate, or gift tax.
+
+(c) Except in case of income, estate, or gift tax, if more than the correct amount of tax, interest, additional amount, addition to the tax, or assessable penalty is assessed but not paid to the district director, the person against whom the assessment is made may file a claim for abatement of such overassessment. Each claim for abatement under this section shall be made on Form 843. In the case of a claim filed prior to April 15, 1968, the claim shall be filed in the office of the internal revenue officer by whom the tax was assessed or with the assistant regional Commissioner (alcohol, tobacco, and firearms) where the regulations respecting the particular tax to which the claim relates specifically require the claim to be filed with that officer. Except as provided in paragraph (b) of § 301.6091-1 (relating to hand-carried documents), in the case of a claim filed after April 14, 1968, the claim shall be filed (1) with the Director of International Operations if the tax was assessed by him, or (2) with the assistant regional Commissioner (alcohol, tobacco, and firearms) where the regulations respecting the particular tax to which the claim relates specifically require the claim to be filed with that officer; otherwise, the claim shall be filed with the service center serving the internal revenue district in which the tax was assessed. Form 843 shall be made in accordance with the instructions relating to such form.
+
+(d) The Commissioner may issue uniform instructions to district directors authorizing them, to the extent permitted in such instructions, to abate amounts the collection of which is not warranted because of the administration and collection costs.
+
+[32 FR 15241, Nov. 3, 1967, as amended by T.D. 7008, 34 FR 3673, Mar. 1, 1969; T.D. 7188, 37 FR 12794, June 29, 1972; T.D. ATF-33, 41 FR 44038, Oct. 6, 1976]

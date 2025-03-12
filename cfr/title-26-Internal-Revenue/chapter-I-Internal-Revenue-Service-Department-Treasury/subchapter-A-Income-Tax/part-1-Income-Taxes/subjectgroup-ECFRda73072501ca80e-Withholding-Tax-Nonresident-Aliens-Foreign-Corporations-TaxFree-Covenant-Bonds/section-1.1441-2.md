@@ -66,9 +66,7 @@
 
 (6) *Payments other than in U.S. dollars.* For purposes of section 1441, a payment includes amounts paid in a medium other than U.S. dollars. See § 1.1441-3(e) for rules regarding the amount subject to withholding in the case of such payments.
 
-(7) [Reserved] For further guidance, see § 1.1441-2T(e)(7).
-
-(8) *Payments of dividend equivalents* - (i) *In general.* A payment of a dividend equivalent is not considered to be made until the later of when -
+(7) *Payments of dividend equivalents* - (i) *In general.* A payment of a dividend equivalent is not considered to be made until the later of when -
 
 (A) The amount of a dividend equivalent is determined as provided in § 1.871-15(j)(2), and
 
@@ -84,6 +82,10 @@
 
 (iii) *Premiums and other upfront payments.* When a long party pays a premium or other upfront payment to the short party at the time a section 871(m) transaction is issued, the premium or other upfront payment is not treated as a payment for purposes of paragraph (e)(8)(ii)(A) of this section.
 
-(f) *Effective/applicability date.* This section applies to payments made after December 31, 2000. Paragraphs (b)(5) and (d)(4) of this section apply to payments made after August 1, 2006. Paragraph (b)(6) of this section applies to payments made on or after January 23, 2012. Paragraph (e)(8) of this section applies to payments made on or after September 18, 2015.
+(8) [Reserved]. For further guidance, see § 1.1441-2T(a)(8).
 
-[T.D. 8734, 62 FR 53444, Oct. 14, 1997, as amended by T.D. 8804, 63 FR 72187, Dec. 31, 1998; T.D. 8856, 64 FR 73412, Dec. 30, 1999; T.D. 8881, 65 FR 32186, May 22, 2000; T.D. 9272, 71 FR 43366, Aug. 1, 2006; T.D. 9415, 73 FR 40172, July 14, 2008; 73 FR 45612, Aug. 6, 2008; T.D. 9572, 77 FR 3109, Jan. 23, 2012; T.D. 9648, 78 FR 73081, Dec. 5, 2013; T.D. 9734, 80 FR 56890, Sept. 18, 2015]
+(f) *Effective/applicability date* - (1) This section applies to payments made after December 31, 2000. Paragraphs (b)(5) and (d)(4) of this section apply to payments made after August 1, 2006. Paragraph (b)(6) of this section applies to payments made on or after January 23, 2012. Paragraph (e)(8) of this section applies to payments made on or after September 18, 2015.
+
+(2) [Reserved]. For further guidance, see § 1.1441-2T(f)(2).
+
+[T.D. 8734, 62 FR 53444, Oct. 14, 1997, as amended by T.D. 8804, 63 FR 72187, Dec. 31, 1998; T.D. 8856, 64 FR 73412, Dec. 30, 1999; T.D. 8881, 65 FR 32186, May 22, 2000; T.D. 9272, 71 FR 43366, Aug. 1, 2006; T.D. 9415, 73 FR 40172, July 14, 2008; 73 FR 45612, Aug. 6, 2008; T.D. 9572, 77 FR 3109, Jan. 23, 2012; T.D. 9648, 78 FR 73081, Dec. 5, 2013; T.D. 9734, 80 FR 56890, Sept. 18, 2015; T.D. 9808, 82 FR 2085, Jan. 6, 2017]

@@ -512,4 +512,4 @@ Example.SCO is a U.S. securities clearing organization that provides clearing se
 
 (g) *Expiration date.* Except for paragraphs (e)(3)(ii)(E) and (e)(6), the applicability of this section expires on February 28, 2017. Paragraphs (e)(3)(ii)(E) and (e)(6) of this section apply beginning September 18, 2015.
 
-[T.D. 9658, 79 FR 12747, Mar. 6, 2014; 79 FR 37182, July 1, 2014, as amended by T.D. 9734, 80 FR 56888, Sept. 18, 2015; 80 FR 75946, Dec. 7, 2015]
+[T.D. 9658, 79 FR 12747, Mar. 6, 2014; 79 FR 37182, July 1, 2014, as amended by T.D. 9734, 80 FR 56888, Sept. 18, 2015; 80 FR 75946, Dec. 7, 2015]Editorial Note:By T.D. 9808, 82 FR 2083, Jan. 6, 2017, § 1.1441-1T was added; however, the amendment could not be incorporated because the section already exists.

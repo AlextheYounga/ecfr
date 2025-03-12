@@ -50,11 +50,11 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (C) Special rules applicable to a withholding certificate provided by a qualified intermediary that does not assume primary withholding responsibility.
 
-(D) Special rules applicable to a withholding certificate provided by a qualified intermediary that assumes primary withholding responsibility under chapter 3 of the Internal Revenue Code.
+(D) Special rules applicable to a withholding certificate provided by a qualified intermediary that assumes primary withholding responsibility under chapter 3 and chapter 4 of the Internal Revenue Code.
 
-(E) Special rules applicable to a withholding certificate provided by a qualified intermediary that assumes primary Form 1099 reporting and backup withholding responsibility but not primary withholding under chapter 3.
+(E) Special rules applicable to a withholding certificate provided by a qualified intermediary that assumes primary Form 1099 reporting and backup withholding responsibility but not primary withholding under chapter 3 and chapter 4.
 
-(F) Special rules applicable to a withholding certificate provided by a qualified intermediary that assumes primary withholding responsibility under chapter 3 and primary Form 1099 reporting and backup withholding responsibility and a withholding certificate provided by a withholding foreign partnership.
+(F) Special rules applicable to a withholding certificate provided by a qualified intermediary that assumes primary withholding responsibility under chapter 3 and chapter 4 and primary Form 1099 reporting and backup withholding responsibility and a withholding certificate provided by a withholding foreign partnership or a withholding foreign trust.
 
 (3) Presumptions regarding payee's status in the absence of documentation.
 
@@ -66,17 +66,23 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (B) No documentation provided.
 
-(C) Documentary evidence furnished for offshore account.
+(C) Documentary evidence furnished for offshore obligation.
 
 (iii) Presumption of U.S. or foreign status.
 
 (A) Payments to exempt recipients.
 
+(*1*) In general.
+
+(*2*) Special rule for withholdable payments made to exempt recipients.
+
 (B) Scholarships and grants.
 
 (C) Pensions, annuities, etc.
 
-(D) Certain payments to offshore accounts.
+(D) Payments with respect to offshore obligations.
+
+(E) Certain payments for services.
 
 (iv) Grace period.
 
@@ -86,17 +92,13 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (B) Beneficial owner documentation or allocation information is lacking or unreliable.
 
-(C) Information regarding allocation of payment is lacking or unreliable.
-
-(D) Certification that the foreign intermediary has furnished documentation for all of the persons to whom the intermediary certificate relates is lacking or unreliable.
-
-(vi) U.S. branches.
+(vi) U.S. branches and territory financial institutions not treated as U.S. persons.
 
 (vii) Joint payees.
 
 (A) In general.
 
-(B) Special rule for offshore accounts.
+(B) Special rule for offshore obligations.
 
 (viii) Rebuttal of presumptions.
 
@@ -116,7 +118,7 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (i) In general.
 
-(ii) Example.
+(ii) Examples.
 
 (7) Liability for failure to obtain documentation timely or to act in accordance with applicable presumptions.
 
@@ -124,11 +126,15 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (ii) Proof that tax liability has been satisfied.
 
+(A) In general.
+
+(B) Special rule for establishing that income is effectively connected with the conduct of a U.S. trade or business.
+
 (iii) Liability for interest and penalties.
 
-(iv) Special effective date.
+(iv) Special rule for determining validity of withholding certificate containing inconsequential errors.
 
-(v) Examples.
+(v) Special effective date.
 
 (8) Adjustments, refunds, or credits of overwithheld amounts.
 
@@ -140,6 +146,10 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (2) Foreign and U.S. person.
 
+(i) In general.
+
+(ii) Dual residents.
+
 (3) Individual.
 
 (i) Alien individual.
@@ -148,7 +158,7 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (4) Certain foreign corporations.
 
-(5) Financial institution and foreign financial institution.
+(5) Financial institution and foreign financial institution (or FFI).
 
 (6) Beneficial owner.
 
@@ -170,7 +180,7 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (9) Source of income.
 
-(10) Chapter 3 of the Code.
+(10) Chapter 3 of the Code (or chapter 3).
 
 (11) Reduced rate.
 
@@ -206,9 +216,67 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (27) Partnership.
 
-(28) Nonwithholding foreign partnership.
+(28) Nonwithholding foreign partnership (or NWP).
 
-(29) Withholding foreign partnership.
+(29) Withholding foreign partnership (or WP).
+
+(30) Possession of the United States or U.S. territory.
+
+(31) Amount subject to chapter 3 withholding.
+
+(32) EIN.
+
+(33) Flow-through withholding certificate.
+
+(34) Foreign payee.
+
+(35) Intermediary withholding certificate.
+
+(36) Nonwithholding foreign trust (or NWT).
+
+(37) Payment with respect to an offshore obligation.
+
+(38) Permanent residence address.
+
+(i) In general.
+
+(ii) Hold mail instruction.
+
+(39) Standing instructions to pay amounts.
+
+(40) Territory financial institution.
+
+(41) TIN.
+
+(42) Withholding foreign trust (or WT).
+
+(43) Certified deemed-compliant FFI.
+
+(44) Chapter 3 withholding rate pool.
+
+(45) Chapter 3 status.
+
+(46) Chapter 4 of the Code (or chapter 4).
+
+(47) Chapter 4 status.
+
+(48) Chapter 4 withholding rate pool.
+
+(49) Deemed-compliant FFI.
+
+(50) GIIN (or Global Intermediary Identification Number).
+
+(51) NFFE.
+
+(52) Nonparticipating FFI.
+
+(53) Participating FFI.
+
+(54) Preexisting obligation.
+
+(55) Registered deemed-compliant FFI.
+
+(56) Withholdable payment.
 
 (d) Beneficial owner's or payee's claim of U.S. status.
 
@@ -238,6 +306,10 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (ii) Requirements for validity of certificate.
 
+(A) In general.
+
+(B) Requirement to collect foreign TIN and date of birth beginning January 1, 2017.
+
 (3) Intermediary, flow-through, or U.S. branch withholding certificate.
 
 (i) In general.
@@ -246,7 +318,7 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (iii) Intermediary withholding certificate from a nonqualified intermediary.
 
-(iv) Withholding statement provided by nonqualified Intermediary.
+(iv) Withholding statement provided by nonqualified intermediary.
 
 (A) In general.
 
@@ -254,11 +326,41 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (C) Content of withholding statement.
 
+(*1*) In general.
+
+(*2*) Nonqualified intermediary withholding statement for withholdable payments.
+
+(*3*) Alternative withholding statement.
+
+(*4*) Example.
+
+(D) Alternative procedures.
+
+(*1*) In general.
+
+(*2*) Withholding rate pools.
+
+(*i*) In general.
+
+(*ii*) Withholding rate pools for .chapter 4 purposes.
+
+(*3*) Allocation information.
+
+(*4*) Failure to provide allocation information.
+
+(*5*) Cure provision.
+
+(*6*) Form 1042-S reporting in case of allocation failure.
+
+(*7*) Liability for tax, interest, and penalties.
+
+(*8*) Applicability to flow-through entities and certain U.S. branches.
+
 (D) Alternative procedures.
 
 (E) Notice procedures.
 
-(v) Withholding certificate from certain U.S. branches.
+(v) Withholding certificate from certain U.S. branches (including territory financial institutions).
 
 (vi) Reportable amounts.
 
@@ -266,9 +368,17 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (i) Who may sign the certificate.
 
+(A) In general.
+
+(B) Electronic signatures.
+
 (ii) Period of validity.
 
-(A) Three-year period.
+(A) General rule.
+
+(*1*) Withholding certificates and documentary evidence.
+
+(*2*) Documentary evidence for treaty claims and treaty statements.
 
 (B) Indefinite validity period.
 
@@ -276,7 +386,13 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (D) Change in circumstances.
 
-(iii) Retention of withholding certificate.
+(*1*) Defined.
+
+(*2*) Obligation to notify a withholding agent of a change in circumstances.
+
+(*3*) Withholding agent's obligation with respect to a change in circumstances.
+
+(iii) Retention of documentation.
 
 (iv) Electronic transmission of information.
 
@@ -284,9 +400,25 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (B) Requirements.
 
-(C) Special requirements for transmission of Forms W-8 by an intermediary. [Reserved]
+(*1*) In general.
 
-(v) Electronic confirmation of taxpayer identifying number on withholding certificate.
+(*2*) Same information as paper Form W-8.
+
+(*3*) Perjury statement and signature requirements.
+
+(*i*) Perjury statement.
+
+(*ii*) Electronic signature.
+
+(*4*) Requests for electronic Form W-8 data.
+
+(C) Form 8233.
+
+(D) Forms and documentary evidence received by facsimile or email.
+
+(E) Third party repositories.
+
+(v) Additional procedures for certificates provided electronically.
 
 (vi) Acceptable substitute form.
 
@@ -298,17 +430,27 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (B) Status of payee as an intermediary or as a person acting for its own account.
 
-(ix) Certificates to be furnished for each account unless exception applies.
+(ix) Certificates to furnished for each obligation unless exception applies.
 
-(A) Coordinated account information system in effect.
+(A) Exception for certain branch or account systems or system maintained by agent.
 
-(B) Family of mutual funds.
+(B) Reliance on certification provided by introducing brokers.
 
-(C) Special rule for brokers.
+(*1*) In general.
+
+(*2*) Example.
+
+(C) Reliance on documentation and certifications provided between principals and agents.
+
+(*1*) Withholding agent as agent.
+
+(*2*) Withholding agent as principal.
+
+(D) Reliance upon documentation for accounts acquired in merger or bulk acquisition for value.
 
 (5) Qualified intermediaries.
 
-(i) General rule.
+(i) In general.
 
 (ii) Definition of qualified intermediary.
 
@@ -328,6 +470,16 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (C) Withholding rate pools.
 
+(*1*) In general.
+
+(*2*) Withholding rate pool requirements for a withholdable payment.
+
+(*3*) Alternative procedure for U.S. non-exempt recipients.
+
+(D) Example.
+
+(6) Qualified derivatives dealers.
+
 (f) Effective date.
 
 (1) In general.
@@ -337,6 +489,8 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 (i) Special rules for existing documentation.
 
 (ii) Lack of documentation for past years.
+
+(3) Section 871(m) transactions.
 
 § 1.1441-2 Amounts subject to withholding.
 
@@ -360,9 +514,13 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (ii) Amounts subject to withholding.
 
+(iii) Exceptions to withholding.
+
 (4) Securities lending transactions and equivalent transactions.
 
 (5) REMIC residual interests.
+
+(6) Dividend equivalents.
 
 (c) Other income subject to withholding.
 
@@ -390,11 +548,23 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (6) Payments other than in U.S. dollars.
 
+(7) Payments of dividend equivalents.
+
+(i) In general.
+
+(ii) Payment.
+
+(iii) Premiums and other upfront payments.
+
 (f) Effective/applicability date.
 
 § 1.1441-3 Determination of amounts to be withheld.
 
-(a) Withholding on gross amount.
+(a) General rule.
+
+(1) Withholding on gross amount.
+
+(2) Coordination with chapter 4.
 
 (b) Withholding on payments on certain obligations.
 
@@ -438,7 +608,7 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (B) Withholding under both sections 1441 and 1445.
 
-(C) Coordination with REIT withholding.
+(C) Coordination with REIT/QIE withholding.
 
 (ii) Intermediary reliance rule.
 
@@ -462,7 +632,19 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (g) Conduit financing arrangements
 
-(h) Effective date.
+(1) Duty to withhold.
+
+(2) Effective date.
+
+(h) Dividend equivalents.
+
+(1) Withholding on gross amount.
+
+(2) Reliance by withholding agent on reasonable determinations.
+
+(3) Effective/applicability date.
+
+(i) Effective/applicability date.
 
 § 1.1441-4 Exemptions from withholding for certain effectively connected income and other amounts.
 
@@ -486,6 +668,8 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (ii) Exception for certain payments.
 
+(iii) Exception for specified notional principal contracts.
+
 (b) Compensation for personal services of an individual.
 
 (1) Exemption from withholding.
@@ -504,15 +688,7 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (3) Withholding agreements.
 
-(4) Final payments exemption.
-
-(i) General rule.
-
-(ii) Final payment of compensation for personal services.
-
-(iii) Manner of applying for final payment exemption.
-
-(iv) Letter to withholding agent.
+(4) Final payment exemption.
 
 (5) Requirement of return.
 
@@ -536,11 +712,7 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (f) Failure to receive withholding certificates timely or to act in accordance with applicable presumptions.
 
-(g) Effective date.
-
-(1) General rule.
-
-(2) Transition rules.
+(g) Effective/applicability date.
 
 § 1.1441-5 Withholding on payments to partnerships, trusts, and estates.
 
@@ -566,6 +738,8 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (v) Subsequent distribution.
 
+(vi) Coordination with chapter 4 requirements for U.S. partnerships, trusts, and estates.
+
 (c) Foreign partnerships.
 
 (1) Determination of payee.
@@ -576,7 +750,9 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (iii) Rules for reliably associating a payment with documentation.
 
-(iv) Examples.
+(iv) Coordination with chapter 4 for payments made to foreign partnerships.
+
+(v) Examples.
 
 (2) Withholding foreign partnerships.
 
@@ -596,7 +772,7 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (iii) Withholding certificate from a nonwithholding foreign partnership.
 
-(iv) Withholding statement provided by nonwithholding foreign partnership.
+(iv) Withholding statement provided by nonwithholding foreign partnership and coordination with chapter 4.
 
 (v) Withholding and reporting by a foreign partnership.
 
@@ -604,7 +780,7 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (1) In general.
 
-(2) Determination of partnership's status as domestic or foreign in the absence of documentation.
+(2) Determination of partnership status as U.S. or foreign in the absence of documentation.
 
 (3) Determination of partners' status in the absence of certain documentation.
 
@@ -614,13 +790,15 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (1) In general.
 
-(2) Payments to foreign complex trusts and estates.
+(2) Payments to foreign complex trusts and foreign estates.
 
 (3) Payees of payments to foreign simple trusts and foreign grantor trusts.
 
 (i) Payments for which beneficiaries and owners are payees.
 
 (ii) Payments for which trust is payee.
+
+(iii) Coordination with chapter 4 for payments made to foreign simple trusts and foreign grantor trusts.
 
 (4) Reliance on claim of foreign complex trust or foreign estate status.
 
@@ -632,7 +810,7 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (iii) Withholding certificate from foreign simple trust or foreign grantor trust.
 
-(iv) Withholding statement provided by a foreign simple trust or foreign grantor trust.
+(iv) Withholding statement provided by foreign simple trust or foreign grantor trust and coordination with chapter 4.
 
 (v) Withholding foreign trusts.
 
@@ -646,11 +824,7 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (f) Failure to receive withholding certificate timely or to act in accordance with applicable presumptions.
 
-(g) Effective date.
-
-(1) General rule.
-
-(2) Transition rules.
+(g) Effective/applicability date.
 
 § 1.1441-6 Claim of reduced withholding under an income tax treaty.
 
@@ -659,6 +833,10 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 (b) Reliance on claim of reduced withholding under an income tax treaty.
 
 (1) In general.
+
+(i) Identification of limitation on benefits provisions.
+
+(ii) Reason to know based on existence of treaty.
 
 (2) Payment to fiscally transparent entity.
 
@@ -676,7 +854,7 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (c) Exemption from requirement to furnish a taxpayer identifying number and special documentary evidence rules for certain income.
 
-(1) In general.
+(1) General rule.
 
 (2) Income to which special rules apply.
 
@@ -712,11 +890,13 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (5) Examples.
 
-(h) Effective dates.
+(h) Dividend equivalents.
+
+(i) Effective/applicability dates.
 
 (1) General rule.
 
-(2) Transition rules.
+(2) Dividend equivalents.
 
 § 1.1441-7 General provisions relating to withholding agents.
 
@@ -724,7 +904,11 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (1) In general.
 
-(2) Examples.
+(2) Withholding agent with respect to dividend equivalents.
+
+(3) Examples.
+
+(4) Effective/applicability date.
 
 (b) Standards of knowledge.
 
@@ -734,6 +918,10 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (3) Financial institutions - limits on reason to know.
 
+(i) In general.
+
+(ii) Limits on reason to know for preexisting obligations.
+
 (4) Rules applicable to withholding certificates.
 
 (i) In general.
@@ -742,29 +930,57 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (5) Withholding certificate - establishment of foreign status.
 
+(i) Classification of U.S. status, U.S. address, or U.S. telephone number.
+
+(ii) U.S. place of birth.
+
+(iii) Standing instructions with respect to offshore obligations.
+
 (6) Withholding certificate - claim of reduced rate of withholding under treaty.
+
+(i) Permanent residence address.
+
+(ii) Mailing address.
+
+(iii) Standing instructions.
 
 (7) Documentary evidence.
 
 (8) Documentary evidence - establishment of foreign status.
 
+(i) Documentary evidence received prior to January 1, 2001.
+
+(ii) Documentary evidence received after December 31, 2000.
+
+(A) Treatment of individual's foreign status.
+
+(B) Presumption of entity's foreign status.
+
+(iii) U.S. place of birth.
+
+(iv) Standing instructions with respect of offshore obligations.
+
 (9) Documentary evidence - claim of reduced rate of withholding under treaty.
 
-(10) Limits on reason to know - indirect account holders.
+(i) Permanent residence address and mailing address.
 
-(11) Additional guidance.
+(ii) Standing instructions.
 
-(c) Authorized agent.
+(10) Indirect account holders.
+
+(11) Limits on reason to know for multiple obligations belonging to a single person.
+
+(12) Reasonable explanation supporting claim of foreign status.
+
+(13) Additional guidance.
+
+(c) Agent.
 
 (1) In general.
 
-(2) Authorized foreign agent.
+(2) Authorized agent.
 
-(3) Notification.
-
-(4) Liability of U.S. withholding agent.
-
-(5) Filing of returns.
+(3) Liability of withholding agent acting through an agent.
 
 (d) United States obligations.
 
@@ -772,7 +988,15 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (f) Conduit financing arrangements.
 
-(g) Effective date.
+(1) Liability of withholding agent.
+
+(2) Exception for withholding agents that do not know of conduit financing arrangement.
+
+(i) In general.
+
+(ii) Examples.
+
+(g) Effective/applicability date.
 
 § 1.1441-8 Exemption from withholding for payments to foreign governments, international organizations, foreign central banks of issue, and the Bank for International Settlements.
 
@@ -820,4 +1044,16 @@ Settlements.
 
 (2) Transition rules.
 
-[T.D. 8734, 62 FR 53421, Oct. 14, 1997, as amended by T.D. 8881, 66 FR 32168, May 22, 2000; T.D. 9023, 67 FR 70312, Nov. 22, 2002; T.D. 9272, 71 FR 43366, Aug. 1, 2006; T.D. 9415, 73 FR 40172, July 14, 2008]
+§ 1.1441-10 Withholding agents with respect to fast-pay arrangements.
+
+(a) In general.
+
+(b) Exception.
+
+(c) Liability.
+
+(d) Examples.
+
+(e) Effective date.
+
+[T.D. 8734, 62 FR 53421, Oct. 14, 1997, as amended by T.D. 8881, 66 FR 32168, May 22, 2000; T.D. 9023, 67 FR 70312, Nov. 22, 2002; T.D. 9272, 71 FR 43366, Aug. 1, 2006; T.D. 9415, 73 FR 40172, July 14, 2008; T.D. 9808, 82 FR 2056, Jan. 6, 2017]Editorial Note:By T.D. 9808, 82 FR 2056, Jan. 6, 2017, § 1.1441-0 was amended; however, portions of the amendment could not be incorporated due to inaccurate amendatory instruction.

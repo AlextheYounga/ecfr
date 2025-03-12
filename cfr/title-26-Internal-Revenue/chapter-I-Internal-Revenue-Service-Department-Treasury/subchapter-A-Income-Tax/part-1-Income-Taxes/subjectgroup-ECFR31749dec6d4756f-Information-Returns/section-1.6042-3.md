@@ -1,6 +1,6 @@
 ##### § 1.6042-3 Dividends subject to reporting. #####
 
-(a) *In general.* Except as provided in paragraph (b) of this section, the term *dividend* for purposes of this section and §§ 1.6042-2 and 1.6042-4 means the amounts described in the following paragraphs (a) (1) through (3) of this section -
+(a) *In general.* Except as provided in paragraph (b) of this section, the term *dividend* for purposes of this section and §§ 1.6042-2 and 1.6042-4 means the amounts described in the following paragraphs (a) (1) through (3) of this section—
 
 (1) Any distribution made by a corporation to its shareholders which is a dividend as defined in section 316; and
 
@@ -8,30 +8,30 @@
 
 (3) A distribution from a regulated investment company (irrespective of the fact that any part of the distribution may not represent ordinary income (i.e., may, for example, represent a capital gain dividend as defined in section 852(b)(3)(C)).
 
-(b) *Exceptions* - (1) *In general.* For purposes of §§ 1.6042-2 and 1.6042-4, the amounts described in paragraphs (b)(1)(i) through (vii) of this section are not dividends.
+(b) *Exceptions*—(1) *In general.* For purposes of §§ 1.6042-2 and 1.6042-4, the amounts described in paragraphs (b)(1)(i) through (vii) of this section are not dividends.
 
 (i) Amounts paid by an insurance company to a policyholder, other than a dividend upon its capital stock.
 
 (ii) Payments (however denominated) by a mutual savings bank, savings and loan association, or similar organization, in respect of deposits, investment certificates, or withdrawable or repurchasable shares. See, however, section 6049 and the regulations under that section for provisions requiring reporting of these payments.
 
-(iii) and (iv) [Reserved] For further guidance, see § 1.6042-3T(b)(1)(iii) and (iv).
+(iii) Distributions or payments that a payor can, prior to payment, reliably associate with documentation upon which it may rely to treat as made to a foreign beneficial owner in accordance with § 1.1441-1(e)(1)(ii) or as made to a foreign payee in accordance with § 1.6049-5(d)(1) or presumed to be made to a foreign payee under § 1.6049-5(d)(2), (3), (4), or (5). Returns of information are also not required for payments that a payor or middleman can, prior to payment, reliably associate with documentation upon which it may rely to treat as made to a foreign intermediary in accordance with § 1.1441-1(b) if it obtains from the intermediary entity a withholding statement (described in § 1.6049-5(b)(14)) that allocates the payment to a chapter 4 withholding rate pool (as defined in § 1.6049-4(f)(5)) or to specific payees to which withholding under chapter 4 applies. Payments excepted from reporting under this paragraph (b)(1)(iii) may be reportable, for purposes of chapter 3 of the Internal Revenue Code (Code), under § 1.1461-1(b) and (c) or, for chapter 4 purposes, under § 1.1474-1(d)(2). The provisions in § 1.6049-5(c) regarding documentation of foreign status shall apply for purposes of this paragraph (b)(1)(iii). The provisions in § 1.6049-5(c) regarding the definitions of U.S. payor and non-U.S. payor shall also apply for purposes of this paragraph (b)(1)(iii). The provisions of § 1.1441-1 shall apply by substituting the term *payor* for the term *withholding agent* and without regard to the fact that the provisions apply only to amounts subject to withholding under chapter 3 of the Code.
+
+(iv) Distributions or payments from sources outside the United States (as determined under the provisions of part I, subchapter N, chapter 1 of the Code and the regulations under those provisions) that are paid by a non-U.S. payor or non-U.S. middleman and that are paid and received outside the United States. For a definition of non-U.S. payor and non-U.S. middleman, see § 1.6049-5(c)(5). For circumstances in which an amount is considered to be paid and received outside the United States, see § 1.6049-4(f)(16).
 
 (v) Distributions or payments for the period that the amounts represent assets blocked as described in § 1.1441-2(e)(3). The exemption in this paragraph (b)(1)(v) shall terminate when payment is deemed to occur in accordance with the rules of § 1.1441-2(e)(3).
 
-(vi) [Reserved] For further guidance, see § 1.6042-3T(b)(1)(vi).
+(vi) If a foreign intermediary, as described in § 1.1441-1(c)(13), or a U.S. branch that is not treated as a U.S. person receives a payment from a payor, which payment the payor can reliably associate with a valid withholding certificate described in § 1.1441-1(e)(3)(ii) or (iii), or § 1.1441-1(e)(3)(v), respectively, furnished by such intermediary or branch, then the intermediary or branch is not required to report such payment when it, in turn, pays the amount, unless, and to the extent, the intermediary or branch knows that the payment is required to be reported under this section and was not so reported. For example, if a U.S. branch described in § 1.1441-1(b)(2)(iv) fails to provide information regarding U.S. persons that are not exempt from reporting under § 1.6049-4(c)(1)(ii) to the person from whom the U.S. branch receives the payment, the amount paid by the U.S. branch to such person is a dividend. See, however, § 1.6042-2(a)(1)(i)(A) for when reporting under section 6042 is coordinated with reporting under chapter 4 of the Code or an applicable IGA (as defined in § 1.6049-4(f)(7)). The exception of this paragraph (b)(1)(vi) for amounts paid by a foreign intermediary shall not apply to a qualified intermediary that assumes reporting responsibility under chapter 61 of the Code with respect to amounts reportable under the agreement described in § 1.1441-1(e)(5)(iii).
 
 (vii) With respect to amounts paid or credited after December 31, 1982, any amount paid or credited to any person described in § 1.6049-4(c)(1)(ii), unless a tax is withheld under section 3406 and is not refunded by the payor in accordance with § 31.6413(a)-3 of this chapter (Employment Tax Regulations).
 
 (2) *Payor.* The term *payor* has the same meaning as described in § 1.6049-4(a)(2).
 
-(3) [Reserved] For further guidance, see § 1.6042-3T(b)(3).
+(3) *Joint owners.* Amounts paid to joint owners for which a certificate or documentation is required as a condition for being exempt from reporting under this paragraph (b) are presumed made to U.S. payees who are not exempt recipients if, prior to payment, the payor or middleman cannot reliably associate the payment either with a Form W-9 furnished by one of the joint owners in the manner required in §§ 31.3406(d)-1 through 31.3406(d)-5 of this chapter, or with documentation described in paragraph (b)(1)(iii) of this section furnished by each joint owner upon which it can rely to treat each joint owner as a foreign payee or foreign beneficial owner. However in the case of a withholdable payment (as defined in § 1.6049-4(f)(15)) made to joint payees, if any such joint payee does not appear to be an individual, the payment is presumed made to a foreign payee that is a nonparticipating FFI (as defined in § 1.1471-1(b)(82)). See § 1.1471-3(f)(7). For purposes of applying this paragraph (b)(3), the grace period described in § 1.6049-5(d)(2)(ii) shall apply only if each payee qualifies for such grace period.
 
 (4) *Conversion into United States dollars of amounts paid in foreign currency.* For rules concerning foreign currency conversion, see § 1.6049-4(d)(3)(i).
 
-(5) *Effective/applicability date* - (i) The provisions of this paragraph (b) apply to payments made after December 31, 2000.
-
-(ii) [Reserved] For further guidance, see § 1.6042-3T(b)(5)(ii).
-
 (c) *Special rule.* If a person makes a payment which may be a dividend, or if a nominee receives a payment which may be a dividend, but such person or nominee is unable to determine the portion of the payment which is a dividend (as defined in paragraphs (a) and (b) of this section) at the time he files his return under § 1.6042-2, he shall, for purposes of such section, treat the entire amount of such payment as a dividend.
 
-[T.D. 6628, 27 FR 12797, Dec. 28, 1962, as amended by T.D. 6908, 31 FR 16774, Dec. 31, 1966; T.D. 7987, 49 FR 42719, Oct. 24, 1984; T.D. 8029, 50 FR 23680, June 5, 1985; T.D. 8734, 62 FR 53475, Oct. 14, 1997; T.D. 8804, 63 FR 72186, Dec. 31, 1998; 64 FR 73411, Dec. 30, 1999; T.D. 8881, 65 FR 32205, May 22, 2000; T.D. 9658, 79 FR 12794, Mar. 6, 2014]
+(d) *Effective/applicability date.* This section applies on or after January 6, 2017. (For payments made after June 30, 2014, and before January 6, 2017, see this section as in effect and contained in 26 CFR part 1, as revised April 1, 2016. For payments made after December 31, 2000, and before July 1, 2014, see this section as in effect and contained in 26 CFR part 1, as revised April 1, 2013).
+
+[T.D. 6628, 27 FR 12797, Dec. 28, 1962, as amended by T.D. 6908, 31 FR 16774, Dec. 31, 1966; T.D. 7987, 49 FR 42719, Oct. 24, 1984; T.D. 8029, 50 FR 23680, June 5, 1985; T.D. 8734, 62 FR 53475, Oct. 14, 1997; T.D. 8804, 63 FR 72186, Dec. 31, 1998; 64 FR 73411, Dec. 30, 1999; T.D. 8881, 65 FR 32205, May 22, 2000; T.D. 9658, 79 FR 12794, Mar. 6, 2014; T.D. 9808, 82 FR 2107, Jan. 6, 2017]
