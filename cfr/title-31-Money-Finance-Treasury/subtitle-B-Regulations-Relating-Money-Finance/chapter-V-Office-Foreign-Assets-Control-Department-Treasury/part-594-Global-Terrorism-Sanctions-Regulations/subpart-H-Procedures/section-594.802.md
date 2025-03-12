@@ -1,3 +1,5 @@
 ##### § 594.802 Delegation by the Secretary of the Treasury. #####
 
-Any action that the Secretary of the Treasury is authorized to take pursuant to Executive Order 13224 of September 23, 2001 (66 FR 49079, September 25, 2001), and any further Executive orders relating to the national emergency declared therein, may be taken by the Director of the Office of Foreign Assets Control or by any other person to whom the Secretary of the Treasury has delegated authority so to act.
+Any action that the Secretary of the Treasury is authorized to take pursuant to Executive Order 13224 of September 23, 2001, and any further Executive orders relating to the national emergency declared therein, and any action that the Secretary of the Treasury is authorized to take pursuant to Presidential Memorandum of October 11, 2017: Delegation of Certain Functions and Authorities under the Countering America's Adversaries Through Sanctions Act of 2017 or any further Presidential action relating to Title I of the Countering America's Adversaries Through Sanctions Act of 2017 (Pub. L. 115-44), may be taken by the Director of the Office of Foreign Assets Control or by any other person to whom the Secretary of the Treasury has delegated authority so to act.
+
+[82 FR 50314, Oct. 31, 2017]

@@ -16,11 +16,11 @@ Certificate of Results of Election
 
 Under a Secretarial election authorized by (name and title of authorizing official) on (date), the attached [insert: Governing document and Bylaws, charter of incorporation, amendment or revocation] of the (official name of tribe) was submitted to the registered voters of the tribe and on (date) duly (insert: adopted, ratified, rejected or revoked) by a vote of (number) for and (number) against and (number) cast ballots found spoiled in an election in which at least 30 percent (or such “percentages” as may be required to amend according the governing document) of the (number) registered voters cast their ballot in accordance with (appropriate Federal statute).
 
-Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+Signed: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 (by the Chair of the Secretarial Election Board and Board Members)
 
-Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.; and
+Date: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.; and
 
 (5) Advising that no changes or modifications can be made to any of the attached documents, without prior approval from the Authorizing Official.
 

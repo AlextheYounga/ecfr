@@ -6,6 +6,4 @@
 
 (c) The draw of the Oregon State (Lewis and Clark River) highway bridge, mile 1.0, across the Lewis and Clark River, shall open on signal for the passage of vessels if at least one half-hour notice is given by marine radio, telephone, or other suitable means from 7 a.m. to 5 p.m. Monday through Friday and from 8 a.m. to 4 p.m. on Saturday and Sunday. At all other times, including all Federal holidays but Columbus Day, at least a two-hour notice by telephone is required. The opening signal is one prolonged blast followed by four short blasts.
 
-(d) The draw of the Oregon State (Old Youngs Bay) Highway Bridge, mile 2.4, across Youngs Bay foot of Fifth Street, shall open the south half of the double bascule span on signal for the passage of vessels, if at least one half-hour notice is given to the drawtender, at the Lewis and Clark River Bridge by marine radio, telephone, or other suitable means from 7 a.m. to 5 p.m. Monday through Friday and from 8 a.m. to 4 p.m. Saturday and Sunday from March 1, 2017 to October 31, 2017. At all other times, including all Federal holidays, but Columbus Day, at least a two-hour notice by telephone is required. The opening signal is two prolonged blasts followed by one short blast.
-
-[CGD13-06-048, 72 FR 9436, Mar. 2, 2007]Effective Date Note:By USCG-2016-0968, 82 FR 9971, Feb. 9, 2017, § 117.899 was amended by suspending paragraph (b) and adding paragraph (d), effective from 7 a.m. on Mar. 1, 2017, to 5 p.m. on Oct. 31, 2017.
+[CGD13-06-048, 72 FR 9436, Mar. 2, 2007]
