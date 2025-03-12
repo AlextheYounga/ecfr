@@ -1,7 +1,5 @@
 ##### § 905.306 Orange, Grapefruit, Tangerine and Tangelo Regulation. #####
 
-Link to an amendment published at 82 FR 55308, Nov. 21, 2017.
-
 (a) During the period specified in column (2) of Table I, no handler shall ship between the production area and any point outside thereof, in the 48 contiguous States and the District of Columbia of the United States, any variety of fruit listed in column (1) of Table I unless such variety meets the applicable minimum grade and size (with tolerances for size as specified in paragraph (c) of this section) specified for such variety in columns (3) and (4) of table I: *Provided,* That all grapefruit meet the minimum maturity requirements specified in paragraph (e) of this section.
 
 Table I
@@ -17,8 +15,8 @@ Table I
 |Valencia and other late type|September 1-May 14, May 15-June 14|   U.S. No. 1  <br/>U.S. No. 1 Golden    |    24/16  <br/>24/16    |
 |                            |        June 15-August 31         |U.S. No. 2, External/U.S. No. 1, Internal|          24/16          |
 |         Grapefruit         |                                  |                                         |                         |
-|       Seedless, red        |      On and after 11/13/00       |               U.S. No. 1                |          35/16          |
-|    Seedless, except red    |       On and after 9/01/94       |               U.S. No. 1                |          35/16          |
+|       Seedless, red        |      On and after 11/13/00       |               U.S. No. 1                |            3            |
+|    Seedless, except red    |       On and after 9/01/94       |               U.S. No. 1                |            3            |
 |         Tangerines         |                                  |                                         |                         |
 |          Fallglo           |  On and after October 19, 1998   |               U.S. No. 1                |          26/16          |
 |           Honey            |     March 23, 1992-08/23/92      |          Florida No. 1 Golden           |          26/16          |
@@ -42,8 +40,8 @@ Table II
 |Valencia and other late type|    March 23, 1992-9/27/92     |     U.S. No. 1     |          24/16          |
 |                            |     On and after 9/28/92      |     U.S. No. 1     |          24/16          |
 |         Grapefruit         |                               |                    |                         |
-|    Seedless, except red    |     On and after 09/01/94     |     U.S. No. 1     |          35/16          |
-|       Seedless, red        |     On and after 09/01/94     |     U.S. No. 1     |          35/16          |
+|    Seedless, except red    |     On and after 9/01/94      |     U.S. No. 1     |            3            |
+|       Seedless, red        |     On and after 9/01/94      |     U.S. No. 1     |            3            |
 |         Tangerines         |                               |                    |                         |
 |          Fallglo           | On and after October 19, 1998 |     U.S. No. 1     |          26/16          |
 |           Honey            |    March 23, 1992-08/23/92    |Florida No. 1 Golden|          26/16          |
@@ -74,4 +72,4 @@ Table III
 |   9.5 to (not including) 9.6   |         7.25 to 1          |
 |        9.6 and greater         |         7.20 to 1          |
 
-[46 FR 60171, Dec. 8, 1981]Editorial Notes:For Federal Register citations affecting § 905.306, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[46 FR 60171, Dec. 8, 1981]Editorial Notes:For Federal Register citations affecting § 905.306, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

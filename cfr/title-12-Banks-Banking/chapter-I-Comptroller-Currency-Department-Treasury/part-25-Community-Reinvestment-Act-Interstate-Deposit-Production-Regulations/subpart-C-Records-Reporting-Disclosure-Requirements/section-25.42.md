@@ -1,5 +1,7 @@
 ##### § 25.42 Data collection, reporting, and disclosure. #####
 
+Link to an amendment published at 82 FR 55742, Nov. 24, 2017.
+
 (a) *Loan information required to be collected and maintained.* A bank, except a small bank, shall collect, and maintain in machine readable form (as prescribed by the OCC) until the completion of its next CRA examination, the following data for each small business or small farm loan originated or purchased by the bank:
 
 (1) A unique number or alpha-numeric symbol that can be used to identify the relevant loan file;

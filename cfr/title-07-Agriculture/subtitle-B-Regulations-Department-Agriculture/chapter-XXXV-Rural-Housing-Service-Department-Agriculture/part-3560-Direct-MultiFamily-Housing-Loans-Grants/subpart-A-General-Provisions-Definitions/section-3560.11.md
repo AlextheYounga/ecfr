@@ -1,7 +1,5 @@
 ##### § 3560.11 Definitions. #####
 
-Link to an amendment published at 82 FR 49285, October 25, 2017.
-
 Unless otherwise noted, terms listed in this part shall be defined as follows:
 
 *Administrator.* The head of the Rural Housing Service who reports directly to the Under Secretary for Rural Development in the U.S. Department of Agriculture.
@@ -73,8 +71,6 @@ Unless otherwise noted, terms listed in this part shall be defined as follows:
 *Elderly household or individual with a handicapped household.* A household in which the tenant or co-tenant of the household is 62 years old or older or is an individual with a disability. An elderly household may include persons younger than 62 years old and the household of an individual with a handicap may include persons without disabilities.
 
 *Elderly person.* A person who is at least 62 years old. The term also means a person with a disability as separately defined in this paragraph, regardless of age.
-
-*Engagement.* An Agency defined financial review of a housing project's financial status that a borrower will contract with a certified public accountant or other qualified individual to perform. An engagement will result in annual financial reports for use by the Agency as described in § 3560.308.
 
 *Familial status.* One or more individuals (who have not attained the age of 18 years) being domiciled with a parent or another person having legal custody of such individual or individuals; or the designee of such parent or other person having such custody, with the written permission of such parent or other person. The protections afforded against discrimination on the basis of familial status shall apply to any person who is pregnant or is in the process of securing legal custody of any individual who has not attained the age of 18 years.
 
@@ -310,4 +306,4 @@ Unless otherwise noted, terms listed in this part shall be defined as follows:
 
 *Workout agreement.* An agreement between a borrower and the Agency listing actions to be taken over a period of time to prevent or correct a compliance violation or to cure a monetary or non-monetary default.
 
-[69 FR 69106, Nov. 26, 2004, as amended at 80 FR 9912, Feb. 24, 2015]
+[69 FR 69106, Nov. 26, 2004, as amended at 80 FR 9912, Feb. 24, 2015; 82 FR 49285, Oct. 25, 2017]

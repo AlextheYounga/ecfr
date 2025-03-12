@@ -1,5 +1,7 @@
 ##### § 195.22 Lending test. #####
 
+Link to an amendment published at 82 FR 55742, Nov. 24, 2017.
+
 (a) *Scope of test.* (1) The lending test evaluates a savings association's record of helping to meet the credit needs of its assessment area(s) through its lending activities by considering a savings association's home mortgage, small business, small farm, and community development lending. If consumer lending constitutes a substantial majority of a savings association's business, the appropriate Federal banking agency will evaluate the savings association's consumer lending in one or more of the following categories: motor vehicle, credit card, home equity, other secured, and other unsecured loans. In addition, at a savings association's option, the appropriate Federal banking agency will evaluate one or more categories of consumer lending, if the savings association has collected and maintained, as required in § 195.42(c)(1), the data for each category that the savings association elects to have the appropriate Federal banking agency evaluate.
 
 (2) The appropriate Federal banking agency considers originations and purchases of loans. The appropriate Federal banking agency will also consider any other loan data the savings association may choose to provide, including data on loans outstanding, commitments and letters of credit.

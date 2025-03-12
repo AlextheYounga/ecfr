@@ -1,5 +1,7 @@
 ##### § 25.22 Lending test. #####
 
+Link to an amendment published at 82 FR 55742, Nov. 24, 2017.
+
 (a) *Scope of test.* (1) The lending test evaluates a bank's record of helping to meet the credit needs of its assessment area(s) through its lending activities by considering a bank's home mortgage, small business, small farm, and community development lending. If consumer lending constitutes a substantial majority of a bank's business, the OCC will evaluate the bank's consumer lending in one or more of the following categories: motor vehicle, credit card, home equity, other secured, and other unsecured loans. In addition, at a bank's option, the OCC will evaluate one or more categories of consumer lending, if the bank has collected and maintained, as required in § 25.42(c)(1), the data for each category that the bank elects to have the OCC evaluate.
 
 (2) The OCC considers originations and purchases of loans. The OCC will also consider any other loan data the bank may choose to provide, including data on loans outstanding, commitments and letters of credit.

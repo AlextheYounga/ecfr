@@ -48,4 +48,4 @@ Licensees in the Cellular Radiotelephone Service are subject to the effective ra
 
 (2) The licensee's base transmitter or repeater is operated at the ERP limits (W/MHz) specified above in paragraph (a)(1)(ii), (a)(2)(ii), (a)(3), or (a)(4) of this section.
 
-[82 FR 17582, Apr. 12, 2017]Effective Date Note:At 82 FR 17582, Apr. 12, 2017, § 22.913 was revised. Paragraphs (a), (c) and (f) contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[82 FR 17582, Apr. 12, 2017]Effective Date Note:At 82 FR 17582, Apr. 12, 2017, § 22.913 was revised. Paragraphs (a), (c), and (f) contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget. At 82 FR 55766, Nov. 24, 2017, these amendments were made effective on Dec. 1, 2017.

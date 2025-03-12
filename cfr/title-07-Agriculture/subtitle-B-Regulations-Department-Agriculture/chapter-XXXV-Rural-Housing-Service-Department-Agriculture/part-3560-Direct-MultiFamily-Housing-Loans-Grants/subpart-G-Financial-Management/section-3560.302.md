@@ -1,12 +1,10 @@
 ##### § 3560.302 Accounting, bookkeeping, budgeting, and financial management systems. #####
 
-Link to an amendment published at 82 FR 49285, October 25, 2017.
+(a) *General.* Borrowers must establish the accounting, bookkeeping, budgeting and financial management procedures necessary to conduct housing project operations in a financially safe and sound manner. Borrowers must maintain records in a manner suitable for an audit, and must be able to report accurate operational results to the Agency from these accounts and records.
 
-(a) *General.* Borrowers must establish the accounting, bookkeeping, budgeting and financial management procedures necessary to conduct housing project operations in a financially safe and sound manner. Borrowers must maintain records in a manner suitable for an engagement and must be able to report accurate operational results to the Agency from these accounts and records.
+(b) *Acceptable methods of accounting.*(1) Borrowers are required to use the accrual method of accounting in preparing annual financial reports, as identified in § 3560.308.
 
-(b) *Acceptable methods of accounting.* (1) Borrowers may use a cash, accrual, or modified accrual method of accounting, bookkeeping, and budget preparations as long as the method is consistent with the statements required by the engagement in accordance with the standards identified in § 3560.308.
-
-(2) Borrowers must describe their accounting, bookkeeping, budget preparation, and financial reporting procedures, including Agency-approved engagements, in their management plan.
+(2) Borrowers must describe their accounting, bookkeeping, budget preparation, and financial reporting procedures in their management plan.
 
 (3) Borrowers must notify the Agency of any changes in their accounting, bookkeeping, budget preparation, and financial management reporting systems through a revision of their management plan.
 
@@ -56,7 +54,7 @@ Link to an amendment published at 82 FR 49285, October 25, 2017.
 
 (3) Funds for housing projects managed by the same management company must not be co-mingled.
 
-(e) *Records.* (1) Borrowers must retain all housing project financial records, books, and supporting material for at least three years after the issuance of the engagement and financial reports. Upon request, these materials will immediately be made available to the Agency, its representatives, the USDA Office of the Inspector General (OIG), or the General Accountability Office (GAO).
+(e) *Records.*(1) Borrowers must retain all housing project financial records, books, and supporting material for at least three years after the issuance of their financial reports. Upon request, these materials will immediately be made available to the Agency, its representatives, the USDA Office of Inspector General (OIG), or the Government Accountability Office (GAO).
 
 (2) Borrower accounts and records will be kept or made available in a location with reasonable access for inspection, review, and copying by the Agency, other authorized representatives of the USDA, OIG, or GAO.
 
@@ -77,3 +75,5 @@ Link to an amendment published at 82 FR 49285, October 25, 2017.
 (v) Nominal spacing adjustment and colored paper are allowed.
 
 (g) *Farm Labor Housing.* Borrowers with on-farm labor housing units will be considered in compliance with this section by virtue of completing the record keeping and reporting requirements outlined in subpart M of this part.
+
+[69 FR 69106, Nov. 26, 2004, as amended at 82 FR 49285, Oct. 25, 2017]

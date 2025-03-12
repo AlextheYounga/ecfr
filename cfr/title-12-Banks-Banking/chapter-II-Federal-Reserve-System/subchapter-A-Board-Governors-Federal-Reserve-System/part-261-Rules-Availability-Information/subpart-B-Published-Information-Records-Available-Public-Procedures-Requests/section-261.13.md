@@ -1,7 +1,5 @@
 ##### § 261.13 Processing requests. #####
 
-Link to an amendment published at 82 FR 49287, Oct. 25, 2017.
-
 (a) *Receipt of requests.* Upon receipt of any request that satisfies § 261.12(b), the Freedom of Information Office shall assign the request to the appropriate processing schedule, pursuant to paragraph (b) of this section. The date of receipt for any request, including one that is addressed incorrectly or that is referred to the Board by another agency or by a Federal Reserve Bank, is the date the Freedom of Information Office actually receives the request.
 
 (b) *Multitrack processing.* (1) The Board provides different levels of processing for categories of requests under this section. Requests for records that are readily identifiable by the Freedom of Information Office and that have already been cleared for public release may qualify for fast-track processing. All other requests shall be handled under normal processing procedures, unless expedited processing has been granted pursuant to paragraph (c)(2) of this section.
@@ -64,8 +62,8 @@ Link to an amendment published at 82 FR 49287, Oct. 25, 2017.
 
 (3) The appeal shall be filed within 90 days of the date on which the adverse determination was issued, or the date on which documents in partial response to the request were transmitted to the requester, whichever is later. The Board may consider an untimely appeal if:
 
-(4) The Board shall make a determination regarding any appeal within 20 working days of actual receipt of the appeal by the Freedom of Information Office, and the determination letter shall notify the appealing party of the right to seek judicial review.
+(4) The Board shall make a determination regarding any appeal within 20 working days of actual receipt of the appeal by the Freedom of Information Office. If an adverse determination is upheld on appeal, in whole or in part, the determination letter shall notify the appealing party of the right to seek judicial review and of the availability of dispute resolution services from the Office of Government Information Services as a nonexclusive alternative to litigation.
 
 (5) The Secretary may reconsider a denial being appealed if intervening circumstances or additional facts not known at the time of the denial come to the attention of the Secretary while an appeal is pending.
 
-[62 FR 54359, 54361, Oct. 20, 1997, as amended at 81 FR 94933, Dec. 27, 2016]
+[62 FR 54359, 54361, Oct. 20, 1997, as amended at 81 FR 94933, Dec. 27, 2016; 82 FR 49287, Oct. 25, 2017]

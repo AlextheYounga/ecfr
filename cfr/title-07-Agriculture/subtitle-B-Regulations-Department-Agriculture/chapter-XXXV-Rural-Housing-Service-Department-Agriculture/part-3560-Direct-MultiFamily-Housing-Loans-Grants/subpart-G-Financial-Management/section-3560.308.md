@@ -1,26 +1,12 @@
 ##### § 3560.308 Annual financial reports. #####
 
-Link to an amendment published at 82 FR 49286, October 25, 2017.
+(a) *General.* (1) For-profit borrowers that receive $500,000 or more in combined Federal financial assistance must include an independent auditor's report that includes, financial statements and notes to the financial statements, supplemental information containing Agency approved forms for project budgets and borrower balance sheets, a report on internal control over financial reporting and on compliance and other matters based on an audit of financial statements in accordance with Government Auditing Standards; a report on compliance for each major program and internal control over compliance (if applicable). Federal Financial Assistance is defined in accordance with 2 CFR 200.40.
 
-(a) *General.* Borrowers must submit annual financial reports that meet the requirements of this section. The annual financial reports to be submitted are the Multi-Family Housing (MFH) Project Budget with actual expenditures and the MFH Balance Sheet. Annual financial reports are due to the Agency within 90 days of the end of the borrower's fiscal year.
+(2) Non-profit borrowers that receive $750,000 or more in combined Federal financial assistance must meet the audit requirements set forth by OMB, Uniform Administrative Requirements, Cost Principles, and Audit Requirements for Federal Awards, found at 2 CFR parts 200 and 400. Borrowers must provide a copy of this audit to RHS in compliance with these financial reporting requirements.
 
-(1) Borrowers with 16 or more units in their housing project must base their annual financial reports on an engagement report completed according to agreed upon procedures established by the Agency as specified in paragraph (b) of this section. Borrowers must include the engagement report with their annual financial reports submitted to the Agency.
+(3) Non-profit borrowers that receive less than $750,000, and for-profit borrowers that receive less than $500,000in combined Federal financial assistance will submit annual owner certified prescribed forms on the accrual method of accounting in accordance with the Statements on Standards for Accounting and Review Services promulgated by the Accounting and Review Services Committee of the American Institute of Certified Public Accountants (AICPA). Borrowers may use a CPA to prepare this compilation report of the prescribed forms.
 
-(2) Borrowers with less than 16 units in their housing project must submit annual financial reports using a limited scope engagement based on Agency approved procedures and certify that the housing meets the performance standards established in paragraph (c) of this section. Borrowers may use a CPA to prepare this report. For properties that prepare a limited scope engagement, the Agency may undertake random audits, once every two or three years.
-
-(3) If a third party requires it, the borrower may have a CPA prepare an audit in accordance with generally accepted government auditing standards (GAGAS). Costs incurred to obtain this audit are an allowable project expense.
-
-(b) *Engagement requirements.* Borrowers required to submit annual financial reports based on an engagement performed by a CPA must meet the following requirements:
-
-(1) Borrowers must use an Agency approved engagement letter. Borrowers must submit the results of an engagement that examines specific records using agreed upon procedures established by the Agency and that describes the borrower's performance in meeting the standards described in paragraph (c) of this section.
-
-(2) The engagement will be initiated by the borrower using the Agency's engagement letter, which will specify the engagement program and establish the reporting requirements for the engagement.
-
-(3) The engagement must be conducted by a CPA in accordance with American Institute of Certified Public Accountant (AICPA) Standards and Agency requirements.
-
-(4) All engagement reports must be prepared for use by the Agency.
-
-(c) *Performance standards.* Borrowers must ensure that:
+(b) *Performance standards.* All Borrowers must certify that the housing meets the performance standards below:
 
 (1) Required accounts are properly maintained and tracked separately;
 
@@ -36,8 +22,16 @@ Link to an amendment published at 82 FR 49286, October 25, 2017.
 
 (7) All financial records are adequate and suitable for examination.
 
-(d) *Other financial reports.* (1) Nonprofit and public borrower entities must submit audits in accordance with 7 CFR part 3052 that must also include the requirements set forth in the limited scope engagement.
+(8) There have been no changes in project ownership other than those approved by the Agency and identified in the certification.
+
+(9) Real estate taxes are paid in accordance with state and/or local requirements and are current.
+
+(10) Replacement Reserve accounts have been used for only authorized purposes.
+
+(c) *Other financial reports.* (1) Non-profit and public borrower entities subject to OMB Uniform Guidance: Cost Principles, Audit, and Administrative Requirements for Federal Awards, must submit audits in accordance with 2 CFR parts 200 and 400.
 
 (2) The Agency may require additional opinions of financial condition and compliance, such as audits, to assure the security of the asset, determine whether the housing project is being operated at a reasonable cost, or to detect fraud, waste, or abuse.
 
 (3) Any audits independently obtained by the borrower also must be submitted to the Agency.
+
+[69 FR 69106, Nov. 26, 2004, as amended at 82 FR 49286, Oct. 25, 2017]

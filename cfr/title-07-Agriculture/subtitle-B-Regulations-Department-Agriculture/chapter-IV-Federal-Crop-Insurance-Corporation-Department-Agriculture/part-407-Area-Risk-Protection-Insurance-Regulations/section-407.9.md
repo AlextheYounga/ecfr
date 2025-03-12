@@ -130,7 +130,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Generally recognized.* When agricultural experts or organic agricultural experts, as applicable, are aware of the production method or practice and there is no genuine dispute regarding whether the production method or practice allows the crop to make normal progress toward maturity.
 
-*Good farming practices.* The production methods utilized to produce the insured crop, type, and practice and allow it to make normal progress toward maturity, which are: (1) for conventional or sustainable farming practices, those generally recognized by agricultural experts for the area; or (2) for organic farming practices, those generally recognized by organic agricultural experts for the area or contained in the organic plan. We may, or you may request us to, contact FCIC to determine whether or not production methods will be considered to be “good farming practices.”
+*Good farming practices.* The production methods utilized to produce the insured crop, type, and practice and allow it to make normal progress toward maturity, which are those generally recognized by agricultural experts or organic agricultural experts, depending on the practice, for the area. We may, or you may request us to, contact FCIC to determine if production methods will be considered “good farming practices.”
 
 *Harvest price.* A price determined in accordance with the CEPP and used to determine the final county revenue.
 
@@ -154,7 +154,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Liability.* (See “Policy protection.”)
 
-*Limited resource farmer.* Has the same meaning as the term defined by USDA at *http://www.lrftool.sc.egov.usda.gov* or a successor Web site.
+*Limited resource farmer.* Has the same meaning as the term defined by USDA at *http://lrftool.sc.egov.usda.gov/LRP\_Definition.aspx* or a successor Web site.
 
 *Loss limit factor.* Unless otherwise specified in the Special Provisions a factor of .18 is used to calculate the payment factor. This factor represents the percentage of the expected county yield or expected county revenue at which no additional indemnity amount is payable. For example, if the expected county yield is 100 bushels and the final county yield is 18 bushels, then no additional indemnity is due even if the yield falls below 18 bushels. The total indemnity will never be more than 100 percent of the final policy protection.
 
@@ -344,7 +344,9 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (1) Even if your claim has not yet been paid, you must still pay the premium and administrative fee on or before the termination date for you to remain eligible for insurance.
 
-(2) If we offset any amount due us from an indemnity owed to you, the date of payment for the purpose of determining whether you have a delinquent debt will be the date FCIC publishes the final county yield for the applicable crop year.
+(2) If you and we agree, your premium and administrative fees can be offset from any indemnity due you even if it is prior to the billing date of the premium and administrative fees.
+
+(3) If we offset any amount due us from an indemnity owed to you, the date of payment for the purpose of determining whether you have a delinquent debt will be the date FCIC publishes the final county yield for the applicable crop year.
 
 (k) A delinquent debt for any policy will make you ineligible to obtain crop insurance authorized under the Act for any subsequent crop year and result in termination of all policies in accordance with section 2(k)(2).
 
@@ -370,7 +372,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (C) For all other policies that are issued by us under the authority of the Act, the termination date that coincides with the termination date for the policy with the delinquent debt, or if there is no coincidental termination date, the termination date immediately following the date you become ineligible; or
 
-(D) For execution of a written payment agreement and failure to make any scheduled payment, the termination date for the crop year prior to the crop year in which you failed to make the scheduled payment (for this purpose only, the crop year will start the day after the termination date and end on the next termination date, e.g., if the termination date is November 30 and you fail to make a payment on November 15, 2011, your policy will terminate on November 30, 2010, for the 2011 crop year).
+(D) For execution of a written payment agreement and failure to make any scheduled payment, the termination date for the crop year prior to the crop year in which you failed to make the scheduled payment (for this purpose only, the crop year will start the day after the termination date and end on the next termination date, e.g., if the termination date is November 30 and you fail to make a payment on November 15, 2019, your policy will terminate on November 30, 2018, for the 2019 crop year).
 
 (ii) For all policies terminated under section 2(k)(2)(i)(A), (B) or (D), any indemnities paid subsequent to the termination date must be repaid.
 
@@ -418,7 +420,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (i) Repay the delinquent debt in full;
 
-(ii) Execute a written payment agreement and make payments in accordance with the agreement (we will not enter into a written payment agreement with you if you have previously failed to make a scheduled payment under the terms of any other payment agreement with us or any other insurance provider); or
+(ii) Execute a written payment agreement in accordance with 7 CFR part 400, subpart U, and make payments in accordance with the agreement; or
 
 (iii) Have your debts discharged in bankruptcy.
 
@@ -470,7 +472,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (1) Insurance coverage will not be provided if you are ineligible under the contract or under any Federal statute or regulation.
 
-(2) Since applications for crop insurance cannot be accepted after the sales closing date, if you make any payment, or you otherwise become eligible, after the sales closing date, you cannot apply for insurance until the next crop year. For example, for the 2012 crop year, if crop A, with a termination date of October 31, 2012, and crop B, with a termination date of March 15, 2013, are insured and you do not pay the premium for crop A by the termination date, you are ineligible for crop insurance as of October 31, 2012, and crop A's policy is terminated as of that date. Crop B's policy does not terminate until March 15, 2013, and an indemnity for the 2012 crop year may still be owed. You will not be eligible to apply for crop insurance for any crop until after the amounts owed are paid in full or you have your debts discharged in bankruptcy.
+(2) Since applications for crop insurance cannot be accepted after the sales closing date, if you make any payment, or you otherwise become eligible, after the sales closing date, you cannot apply for insurance until the next crop year. For example, for the 2018 crop year, if crop A, with a termination date of October 31, 2018, and crop B, with a termination date of March 15, 2019, are insured and you do not pay the premium for crop A by the termination date, you are ineligible for crop insurance as of October 31, 2018, and crop A's policy is terminated as of that date. Crop B's policy does not terminate until March 15, 2019, and an indemnity for the 2018 crop year may still be owed. You will not be eligible to apply for crop insurance for any crop until after the amounts owed are paid in full or you have your debts discharged in bankruptcy.
 
 3. Contract Changes
 
@@ -664,19 +666,23 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (h) If you qualify as a beginning farmer or rancher, your premium subsidy will be 10 percentage points greater than the premium subsidy that you would otherwise receive, unless otherwise specified in the Special Provisions.
 
-(i) Effective for any policies with a sales closing date on or after July 1, 2015, you will be ineligible for any premium subsidy paid on your behalf by FCIC for any policy issued by us if:
+(i) You will be ineligible for any premium subsidy paid on your behalf by FCIC for any policy issued by us if:
 
 (1) USDA determines you have committed a violation of the highly erodible land conservation or wetland conservation provisions of 7 CFR part 12 as amended by the Agricultural Act of 2014; or
 
-(2) You have not filed form AD-1026, or successor form, with FSA by June 1 prior to the sales closing date to be properly identified as in compliance with the conservation provisions specified in section 7(i)(1) (For example, to be eligible for a premium subsidy for a crop with a sales closing date of March 15, 2016, you must have filed your form AD-1026 by June 1, 2015).
+(2) You have not filed form AD-1026 with FSA for the reinsurance year by the premium billing date.
 
-(i) Notwithstanding section 7(i)(2), if you demonstrate you began farming for the first time after June 1 but prior to the beginning of the reinsurance year (July 1), you may be eligible for premium subsidy the subsequent reinsurance year without having form AD-1026 on file with FSA on or before June 1. For example, if you demonstrate you started farming for the first time on June 15, 2015, you may be eligible for premium subsidy for the 2016 reinsurance year without form AD-1026 on file with FSA.
+(i) Notwithstanding section 7(i)(2), you may be eligible for premium subsidy without having a timely filed form AD-1026:
+
+(A) For the initial reinsurance year if you certify by the premium billing date for your policy that you meet the qualifications as outlined in FCIC approved procedures for producers who are new to farming, new to crop insurance, a new entity, or have not previously been required to file form AD-1026; or
+
+(B) If FSA approves relief for failure to timely file due to circumstances beyond your control or failure to timely provide adequate information to complete form AD-1026 in accordance with the provisions contained in 7 CFR part 12.
 
 (ii) To be eligible for premium subsidy paid on your behalf by FCIC, it is your responsibility to assure you meet all the requirements for:
 
 (A) Compliance with the conservation provisions specified in section 7(i)(1) of this section; and
 
-(B) Filing form AD-1026, or successor form, to be properly identified as in compliance with the conservation provisions specified in section 7(i)(1) of this section.
+(B) Filing form AD-1026 to be properly identified as in compliance with the conservation provisions specified in section 7(i)(1) of this section.
 
 8. Report of Acreage and Production
 
@@ -1338,4 +1344,4 @@ Step 1: Calculate the Dollar Amount of Insurance per AcreFormula: Expected count
 
 (3) Avoid an obligation or requirement under any Federal or State law.
 
-[78 FR 38507, June 26, 2013, as amended at 79 FR 2083, Jan. 13, 2014; 79 FR 37162, July 1, 2014; 80 FR 73639, Nov. 25, 2015; 81 FR 42473, June 30, 2016]
+[78 FR 38507, June 26, 2013, as amended at 79 FR 2083, Jan. 13, 2014; 79 FR 37162, July 1, 2014; 80 FR 73639, Nov. 25, 2015; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017]

@@ -1,5 +1,7 @@
 ##### § 228.22 Lending test. #####
 
+Link to an amendment published at 82 FR 55743, Nov. 24, 2017.
+
 (a) *Scope of test.* (1) The lending test evaluates a bank's record of helping to meet the credit needs of its assessment area(s) through its lending activities by considering a bank's home mortgage, small business, small farm, and community development lending. If consumer lending constitutes a substantial majority of a bank's business, the Board will evaluate the bank's consumer lending in one or more of the following categories: motor vehicle, credit card, home equity, other secured, and other unsecured loans. In addition, at a bank's option, the Board will evaluate one or more categories of consumer lending, if the bank has collected and maintained, as required in § 228.42(c)(1), the data for each category that the bank elects to have the Board evaluate.
 
 (2) The Board considers originations and purchases of loans. The Board will also consider any other loan data the bank may choose to provide, including data on loans outstanding, commitments and letters of credit.

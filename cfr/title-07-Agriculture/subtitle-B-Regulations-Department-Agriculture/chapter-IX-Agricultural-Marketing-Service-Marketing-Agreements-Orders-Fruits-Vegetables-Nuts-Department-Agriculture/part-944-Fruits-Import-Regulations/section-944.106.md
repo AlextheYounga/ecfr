@@ -1,13 +1,12 @@
 ##### § 944.106 Grapefruit import regulation. #####
 
-Link to an amendment published at 82 FR 55308, Nov. 21, 2017.
-
 (a) Pursuant to Section 8e [7 U.S.C. Section 608e-1] of the Agricultural Marketing Agreement Act of 1937, as amended [7 U.S.C. 601-674], and Part 944 - Fruits; Import Regulations, the importation into the United States of any grapefruit is prohibited unless such grapefruit meet the following minimum grade and size requirements for each specified grapefruit classification:
 
-|Grapefruit classification  <br/>(1)|Regulation period  <br/>(2)|Minimum grade  <br/>(3)|Minimum diameter (inches)  <br/>(4)|
-|-----------------------------------|---------------------------|-----------------------|-----------------------------------|
-|           Seedless, red           |   On and after 11/13/00   |      U.S. No. 1       |               35/16               |
-|       Seedless, except red        |   On and after 9/01/94    |      U.S. No. 1       |               35/16               |
+|Grapefruit classification|  Regulation period  |Minimum grade|Minimum  <br/>diameter  <br/>(inches)|
+|-------------------------|---------------------|-------------|-------------------------------------|
+|           (1)           |         (2)         |     (3)     |                 (4)                 |
+|      Seedless, red      |On and after 11/13/00| U.S. No. 1  |                  3                  |
+|  Seedless, except red   |On and after 9/01/94 | U.S. No. 1  |                  3                  |
 
 (b) The term *grapefruit* is defined as citrus paradisi, MacFadyen.
 
@@ -25,4 +24,4 @@ Link to an amendment published at 82 FR 55308, Nov. 21, 2017.
 
 (i) The grade, size, quality, and maturity requirements of this section shall not be applicable to grapefruit imported for consumption by charitable institutions, distribution by relief agencies, animal feed, or commercial processing into canned or frozen products or into a beverage base, but shall be subject to the safeguard provisions contained in § 944.350.
 
-[58 FR 39430, July 23, 1993, as amended at 58 FR 59934, Nov. 12, 1993; 58 FR 69185, Dec. 30, 1993; 59 FR 56380, Nov. 14, 1994; 60 FR 58499, Nov. 28, 1995; 61 FR 64253, Dec. 4, 1996; 63 FR 62923, Nov. 10, 1998; 64 FR 58762, Nov. 1, 1999; 66 FR 229, Jan. 3, 2001; 68 FR 53024, Sept. 10, 2003; 74 FR 15644, Apr. 7, 2009]
+[58 FR 39430, July 23, 1993, as amended at 58 FR 59934, Nov. 12, 1993; 58 FR 69185, Dec. 30, 1993; 59 FR 56380, Nov. 14, 1994; 60 FR 58499, Nov. 28, 1995; 61 FR 64253, Dec. 4, 1996; 63 FR 62923, Nov. 10, 1998; 64 FR 58762, Nov. 1, 1999; 66 FR 229, Jan. 3, 2001; 68 FR 53024, Sept. 10, 2003; 74 FR 15644, Apr. 7, 2009; 82 FR 55308, Nov. 21, 2017]

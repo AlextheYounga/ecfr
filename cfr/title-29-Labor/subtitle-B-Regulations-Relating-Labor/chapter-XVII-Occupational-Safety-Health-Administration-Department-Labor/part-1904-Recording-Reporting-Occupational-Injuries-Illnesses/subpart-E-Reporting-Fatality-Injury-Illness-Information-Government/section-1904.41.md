@@ -32,9 +32,9 @@
 
 |Submission year|Establishments submitting under paragraph (a)(1) of this section must submit the required information from this form/these forms:|Establishments submitting under paragraph (a)(2) of this section must submit the required information from this form:|Submission deadline|
 |---------------|---------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|-------------------|
-|     2017      |                                                              300A                                                               |                                                        300A                                                         |   July 1, 2017.   |
+|     2017      |                                                              300A                                                               |                                                        300A                                                         |December 15, 2017. |
 |     2018      |                                                         300A, 300, 301                                                          |                                                        300A                                                         |   July 1, 2018.   |
 
 (2) Beginning in 2019, establishments that are required to submit under paragraph (a)(1) or (2) of this section will have to submit all of the required information by March 2 of the year after the calendar year covered by the form or forms (for example, by March 2, 2019, for the forms covering 2018).
 
-[81 FR 29692, May 12, 2016]
+[81 FR 29692, May 12, 2016, as amended at 82 FR 55765, Nov. 24, 2017]

@@ -74,19 +74,23 @@ Terms and Conditions1. Definitions
 
 (e) If the administrative fee and premium as specified in section 6(f) is not paid when due, you, and all persons with an insurable interest in the crop under the same contract, may be ineligible for certain other USDA program benefits.
 
-(f) Effective for any policies with a sales closing date on or after July 1, 2015, you will be responsible for payment of the premium established for the coverage provided under this endorsement if:
+(f) You will be responsible for payment of the premium established for the coverage provided under this endorsement if:
 
 (1) USDA determines you have committed a violation of the highly erodible land conservation or wetland conservation provisions of 7 CFR part 12 as amended by the Agricultural Act of 2014; or
 
-(2) You have not filed form AD-1026 or successor form with FSA by June 1 prior to the sales closing date to be properly identified as in compliance with the conservation provisions specified in section 6(f)(1) (For example, to be eligible for a premium subsidy for a crop with a sales closing date of March 15, 2016, you must have filed your form AD-1026 by June 1, 2015).
+(2) You have not filed form AD-1026 with FSA for the reinsurance year by the premium billing date.
 
-(i) Notwithstanding section 6(f)(2), if you demonstrate you began farming for the first time after June 1 but prior to the beginning of the reinsurance year (July 1), you may be eligible for premium subsidy the subsequent reinsurance year without having form AD-1026 on file with FSA on or before June 1. For example, if you demonstrate you started farming for the first time on June 15, 2015, you may be eligible for premium subsidy for the 2016 reinsurance year without form AD-1026 on file with FSA.
+(i) Notwithstanding section 6(f)(2), you may be eligible for premium subsidy without having a timely filed form AD-1026:
+
+(A) For the initial reinsurance year if you certify by the premium billing date for your policy that you meet the qualifications as outlined in FCIC approved procedures for producers who are new to farming, new to crop insurance, a new entity, or have not previously been required to file form AD-1026; or
+
+(B) If FSA approves relief for failure to timely file due to circumstances beyond your control or failure to timely provide adequate information to complete form AD-1026 in accordance with the provisions contained in 7 CFR part 12.
 
 (ii) To be eligible for premium subsidy paid on your behalf by FCIC, it is your responsibility to assure you meet all the requirements for:
 
-(A) Compliance with the conservation provisions specified in section 6(f)(1); and
+(A) Compliance with the conservation provisions specified in section 6(f)(1) of this section; and
 
-(B) Filing form AD-1026, or successor form, to be properly identified as in compliance with the conservation provisions specified in section 6(f)(1).
+(B) Filing form AD-1026 to be properly identified as in compliance with the conservation provisions specified in section 6(f)(1) of this section.
 
 (g) If the Act expressly authorizes an option or endorsement to be available in addition to the coverage available under this Endorsement (for example, the Supplemental Coverage Option) or any other additional coverage offered under the Federal Crop Insurance Act (for example, the Stacked Income Protection Plan), you will owe a separate annual premium and administrative fee for such option or endorsement if the option or endorsement has been made available in the actuarial documents and you elect to purchase such coverage.
 
@@ -118,4 +122,4 @@ Notwithstanding any provision contained in any other crop insurance document, yo
 
 (b) Notwithstanding any provision contained in any other crop policy, hail and fire coverage and high-risk land may not be excluded under catastrophic risk protection.
 
-[61 FR 42985, Aug. 20, 1996, as amended at 63 FR 40631, July 30, 1998; 64 FR 40740, July 28, 1999; 65 FR 40484, June 30, 2000; 69 FR 48730, Aug. 10, 2004; 73 FR 36408, June 27, 2008; 73 FR 70864, Nov. 24, 2008; 78 FR 52835, Aug. 27, 2013; 79 FR 37161, July 1, 2014; 81 FR 42473, June 30, 2016]
+[61 FR 42985, Aug. 20, 1996, as amended at 63 FR 40631, July 30, 1998; 64 FR 40740, July 28, 1999; 65 FR 40484, June 30, 2000; 69 FR 48730, Aug. 10, 2004; 73 FR 36408, June 27, 2008; 73 FR 70864, Nov. 24, 2008; 78 FR 52835, Aug. 27, 2013; 79 FR 37161, July 1, 2014; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017]

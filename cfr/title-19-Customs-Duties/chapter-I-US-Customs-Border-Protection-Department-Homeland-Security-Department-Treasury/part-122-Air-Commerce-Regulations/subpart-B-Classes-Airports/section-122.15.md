@@ -8,7 +8,6 @@
 |-------------------------------|------------------------------------------|
 |        Addison, Texas         |             Addison Airport.             |
 |       Ardmore, Oklahoma       |       Ardmore Industrial Airpark.        |
-|    Bakersfield, California    |          Meadows Field Airport.          |
 |    Bedford, Massachusetts     |           L.G. Hanscom Field.            |
 |       Belgrade, Montana       |Bozeman Yellowstone International Airport.|
 |     Broomfield, Colorado      |        Jefferson County Airport.         |
@@ -24,6 +23,7 @@
 |       Harlingen, Texas        |      Valley International Airport.       |
 |       Hillsboro, Oregon       |            Hillsboro Airport.            |
 |    Johnson City, New York     |       Binghamton Regional Airport.       |
+|       Kennesaw, Georgia       |   Cobb County Airport-McCollum Field.    |
 |       Lansing, Michigan       |  Capital Region International Airport.   |
 |       Leesburg, Florida       |        Leesburg Regional Airport.        |
 |      Lexington, Kentucky      |           Blue Grass Airport.            |
@@ -33,6 +33,7 @@
 |      Melbourne, Florida       |            Melbourne Airport.            |
 |         Mesa, Arizona         |      Phoenix-Mesa Gateway Airport.       |
 |        Midland, Texas         |      Midland International Airport.      |
+|    Monroe, North Carolina     |   Charlotte-Monroe Executive Airport.    |
 |    Morristown, New Jersey     |      Morristown Municipal Airport.       |
 |    Moses Lake, Washington     |   Grant County International Airport.    |
 | Myrtle Beach, South Carolina  |   Myrtle Beach International Airport.    |
@@ -41,6 +42,7 @@
 |   Palm Springs, California    |   Palm Springs International Airport.    |
 |     Rochester, Minnesota      |     Rochester International Airport.     |
 |       Rogers, Arkansas        |        Rogers Municipal Airport.         |
+|        Rome, New York         |     Griffiss International Airport.      |
 |    St. Augustine, Florida     |          St. Augustine Airport.          |
 |  San Bernardino, California   |  San Bernardino International Airport.   |
 |      San Antonio, Texas       |            Kelly Field Annex.            |
@@ -49,6 +51,7 @@
 |      Scottsdale, Arizona      |           Scottsdale Airport.            |
 |       Sugar Land, Texas       |       Sugar Land Regional Airport.       |
 |      Trenton, New Jersey      |         Trenton Mercer Airport.          |
+|     Van Nuys, California      |            Van Nuys Airport.             |
 |    Victorville, California    |  Southern California Logistics Airport.  |
 |      Waterford, Michigan      |  Oakland County International Airport.   |
 |      Waukegan, Illinois       |        Waukegan Regional Airport.        |
