@@ -1,5 +1,7 @@
 ##### § 40.41 Public charge. #####
 
+Link to an amendment published at 84 FR 55012, Oct. 11, 2019.
+
 (a) *Basis for Determination of Ineligibility.* Any determination that an alien is ineligible under INA 212(a)(4) must be predicated upon circumstances indicating that, notwithstanding any affidavit of support that may have been filed on the alien's behalf, the alien is likely to become a public charge after admission, or, if applicable, that the alien has failed to fulfill the affidavit of support requirement of INA 212(a)(4)(C).
 
 (b) *Affidavit of support.* Any alien seeking an immigrant visa under INA 201(b)(2), 203(a), or 203(b), based upon a petition filed by a relative of the alien (or in the case of a petition filed under INA 203(b) by an entity in which a relative has a significant ownership interest), shall be required to present to the consular officer an affidavit of support (AOS) on a form that complies with terms and conditions established by the Secretary of Homeland Security. Petitioners for applicants at a post designated by the Deputy Assistant Secretary for Visa Services for initial review of and assistance with such an AOS will be charged a fee for such review and assistance pursuant to Item 61 of the Schedule of Fees for Consular Services (22 CFR 22.1).

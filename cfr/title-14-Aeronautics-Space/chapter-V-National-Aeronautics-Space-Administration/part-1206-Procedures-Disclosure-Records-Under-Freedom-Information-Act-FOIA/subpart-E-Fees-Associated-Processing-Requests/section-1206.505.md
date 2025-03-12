@@ -8,8 +8,10 @@
 
 (d) Where a FOIA office has a reasonable basis to believe that a requester has misrepresented his or her identity in order to avoid paying outstanding fees, it may require that the requester provide further proof of identity.
 
-(e) In cases in which a FOIA office requires advance payment, the request shall be placed on hold and further work will not be completed until the required payment is received. If the requester does not pay the advance payment within 20 working days after the date of the FOIA office's letter, the request will be closed without further notification.
+(e) In cases in which a FOIA office requires advance payment, the request shall not be considered received, and further work will not be completed until the required payment is received. If the requester does not pay the advance payment within 20 working days after the date of the FOIA office's letter, the request will be closed without further notification.
 
 (f) When advance payment is required in order to initiate processing, after a fee estimate has been determined, the FOIA office will require payment before continuing to process the request.
 
 (g) The fee schedule of this section does not apply to fees charged under any statute that specifically requires an agency to set and collect fees for particular types of records. In instances where records responsive to a request are subject to a statutorily-based fee schedule program, the FOIA office will inform the requester of the contact information for that source.
+
+[79 FR 46678, Aug. 11, 2014, as amended at NASA-2019-0005, 84 FR 54777, Oct. 11, 2019]

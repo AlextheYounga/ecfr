@@ -10,7 +10,7 @@
 
 (3) He/she may wish to limit the scope of the request to reduce the processing fees.
 
-(c) If the FOIA office does not receive a written response within 20 working days after requesting the information, it will presume the requester is no longer interested in the records requested and will close the file on the request without further notification.
+(c) If the FOIA office does not receive a written response within 20 working days after requesting the information, it will presume the requester is no longer interested in the records requested and will administratively close the request without further notification.
 
 (d) A commercial-use requester (as defined in§ 1206.507(c)(1)) must:
 
@@ -35,3 +35,5 @@
 (j) If the requester is required to pay a fee and it is later determined on appeal that he/she was entitled to a full or partial fee waiver, a refund will be sent as appropriate.
 
 (k) NASA may refuse to consider a waiver or reduction of fees for requesters (persons or organizations) from whom unpaid fees remain owed to the Agency for another information access request.
+
+[79 FR 46678, Aug. 11, 2014, as amended at NASA-2019-0005, 84 FR 54775, Oct. 11, 2019]

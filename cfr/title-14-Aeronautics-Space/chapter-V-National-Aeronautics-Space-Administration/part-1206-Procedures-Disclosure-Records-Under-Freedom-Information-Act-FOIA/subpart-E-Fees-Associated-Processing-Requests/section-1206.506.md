@@ -10,25 +10,27 @@
 
 (2) Is not primarily in the commercial interest of the requester.
 
-(d) In deciding whether a request for a fee waiver meets the requirements in § 1206.506(c)(1), the FOIA office will use the following factors, which must be addressed by the requester:
+(d) In deciding whether the standards of paragraph (c)(1) of this section are satisfied, the Agency must consider the factors described in paragraphs (d)(1) through (3) of this section:
 
-(1) Does the subject of the request specifically concern identifiable operations or activities of the Agency with a connection that is direct and clear, not remote or attenuated? For example, is the information requested clearly associated to current events?
+(1) Disclosure of the requested information would shed light on the operations or activities of the Government. The subject of the request must concern identifiable operations or activities of the Federal Government with a connection that is direct and clear, not remote or attenuated.
 
-(2) If the record(s) concern the operations or activities of the Government, is disclosure likely to contribute to an increased public understanding of those operations or activities? For example, are the disclosable contents of the record(s) meaningfully informative in relation to the subject matter of the request?
+(2) Disclosure of the requested information would be likely to contribute significantly to public understanding of those operations or activities. The factor in this paragraph (d)(2) is satisfied when the following criteria are met:
 
-(3) Is the focus of the requester on contributing to public understanding, rather than on the individual understanding of the requester or a narrow segment of interested persons? The requester must demonstrate how he/she plans to disseminate the information. The dissemination of information must be to the general public or a reasonably broad audience. (Dissemination to a wide audience is not merely posting the documents on a Web site, but using his/her editorial skills to turn raw materials into a distinct work.)
+(i) Disclosure of the requested records must be meaningfully informative about Government operations or activities. The disclosure of information that already is in the public domain, in either the same or a substantially identical form, would not be meaningfully informative if nothing new would be added to the public's understanding.
 
-(4) If there is likely to be a contribution to public understanding, will that contribution be significant? A contribution to public understanding will be significant if the information disclosed is new, clearly supports public oversight of Agency operations, including the quality of Agency activities and the effect of policy and regulations on public health and safety, or otherwise confirms or clarifies data on past or present operations of the Agency.
+(ii) The disclosure must contribute to the understanding of a reasonably broad audience of persons interested in the subject, as opposed to the individual understanding of the requester. A requester's expertise in the subject area as well as the requester's ability and intention to effectively convey information to the public must be considered. NASA will presume that a representative of the news media will satisfy the consideration in this paragraph (d)(2)(ii).
 
-(e) In deciding whether the fee waiver meets the requirements in § 1206.506(c)(2), the FOIA office will consider any commercial interest of the requester that would be furthered by the requested disclosure.
+(3) The disclosure must not be primarily in the commercial interest of the requester. To determine whether disclosure of the requested information is primarily in the commercial interest of the requester, components will consider the following criteria:
 
-(1) Requesters are encouraged to provide explanatory information regarding this consideration.
+(i) NASA, and its Centers processing requests, must identify whether the requester has any commercial interest that would be furthered by the requested disclosure. A commercial interest includes any commercial, trade, or profit interest. Requesters must be given an opportunity to provide explanatory information regarding the consideration in this paragraph (d)(3)(i).
 
-(2) A waiver or reduction of fees is justified where the public interest is greater than any identified commercial interest in disclosure.
+(ii) If there is an identified commercial interest, NASA must determine whether that is the primary interest furthered by the request. A waiver or reduction of fees is justified when the requirements of paragraphs (d)(1) and (2) of this section are satisfied and any commercial interest is not the primary interest furthered by the request. NASA ordinarily will presume that when a news media requester has satisfied the requirements of paragraphs (d)(1) and (2) of this section, the request is not primarily in the commercial interest of the requester. Disclosure to data brokers or others who merely compile and market government information for direct economic return will not be presumed to primarily serve the public interest.
 
-(3) If the requester is a representative of a news media organization seeking information as part of a news gathering process, the FOIA office will presume that the public interest outweighs the requester's commercial interest.
+(4) Where only some of the records to be released satisfy the requirements for a waiver of fees under this section, a waiver shall be granted for those records.
 
-(4) If the requester represents a business, corporation, or is an attorney representing such an organization, the FOIA office will presume that the commercial interest outweighs the public interest unless otherwise demonstrated.
+(5) Requests for a waiver or reduction of fees should be made when the request is first submitted to NASA and should address the criteria referenced in paragraph (d) of this section. A requester may submit a fee waiver request at a later time so long as the underlying record request is pending or on administrative appeal. When a requester who has committed to pay fees subsequently asks for a waiver of those fees and that waiver is denied, the requester shall be required to pay any costs incurred up to the date the fee waiver request was received.
+
+(e) FOIA offices may make available their FOIA Public Liaison or other FOIA professional to assist any requester in reformulating a request in an effort to reduce fees; however, the FOIA staff may not assist a requester in composing a request, advising what specific records to request, or how to write a request to qualify for a fee waiver.
 
 (f) Where only some of the records to be released satisfy the requirements for a waiver of fees, a partial waiver shall be granted for those records.
 
@@ -39,3 +41,5 @@
 (i) When deciding whether to waive or reduce fees, the FOIA office will rely on the fee waiver justification submitted in the request letter. If the request letter does not include sufficient justification, the FOIA office will either deny the fee waiver request or at its discretion, ask for additional justification from the requester.
 
 (j) FOIA offices may make available their FOIA Public Liaison or other FOIA professional to assist any requester in reformulating a request in an effort to reduce fees; however, the FOIA staff may not assist a requester in composing a request, advising what specific records to request, or how to write a request to qualify for a fee waiver.
+
+[79 FR 46678, Aug. 11, 2014, as amended at NASA-2019-0005, 84 FR 54777, Oct. 11, 2019]

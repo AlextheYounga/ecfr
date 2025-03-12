@@ -4,7 +4,7 @@
 
 (b) The Deputy Associate Administrator for Communications has delegated the overall responsibility for developing and administering the FOIA program within NASA to the Principal Agency FOIA Officer, located in the Office of Communications. This includes:
 
-(1) Developing regulations, guidelines, procedures, and standards for the Agency's FOIA program;
+(1) Developing regulations in consultation with the Office of General Counsel, providing guidelines, procedures, and standards for the Agency's FOIA program;
 
 (2) Overseeing all FOIA offices and programs and ensuring they are in compliance with FOIA laws and regulations;
 
@@ -14,10 +14,12 @@
 
 (5) Preparing the Agency's FOIA Annual Report to the Department of Justice (DOJ) and Congress, as well as the Chief FOIA Officer's Report;
 
-(6) Preparing all other reports as required to DOJ/Congress or within the Agency;
+(6) Preparing all other reports as required to DOJ, OGIS, and Congress or within the Agency;
 
 (7) Developing, conducting, and reviewing all internal Agency FOIA training for NASA FOIA staff;
 
 (8) Directly supervising the Headquarters FOIA Office.
 
-(c) The Chief FOIA Officer is responsible for ensuring NASA has appointed a FOIA Public Liaison, who is responsible for assisting in reducing delays, increasing transparency and understanding of the status of requests, and assisting in the resolution of disputes at each Center or Component.
+(c) The Chief FOIA Officer is responsible for ensuring NASA has appointed FOIA Public Liaisons, who are responsible for and able to assist in reducing delays, increasing transparency and understanding of the status of requests, and assisting in the resolution of disputes at each Center or Component.
+
+[79 FR 46678, Aug. 11, 2014, as amended at NASA-2019-0005, 84 FR 54778, Oct. 11, 2019]

@@ -6,11 +6,11 @@
 
 (c) Where standard-sized photocopies or scans are supplied, the FOIA office will provide one copy per request at the regular copy rate per page.
 
-(d) For copies of records produced on tapes, disks, or other electronic media, FOIA offices will charge the direct costs of producing the copy, including the time spent by personnel duplicating the requested records. For each quarter hour spent by personnel duplicating the requested records, the fees will be the same as those charged for a search under this subpart.
+(d) For copies of records produced on tapes, disks, or other electronic media, FOIA offices will charge the direct costs of producing the copy in the form or format requested, including the time spent by personnel duplicating the requested records. For each quarter hour spent by personnel duplicating the requested records, the fees will be the same as those charged for a search under this subpart.
 
 (e) If NASA staff must scan paper documents in order to accommodate a requester's preference to receive the records in an electronic format, the requester shall pay the appropriate copy fee charge per page as well as each quarter hour spent by personnel scanning the requested records. Fees will be the same as those charged for search under this subpart for each quarter hour spent by personnel scanning the requested records.
 
-(f) For other forms of duplication, FOIA offices will charge the direct costs as well as any associated personnel costs. For standard-sized copies of documents such as letters, memoranda, statements, reports, contracts, etc., $0.15 per copy of each page; charges for double-sided copies will be $0.30. For copies of oversized documents, such as maps, charts, etc., fees will be assessed as direct costs. Charges for copies (and scanning) include the time spent in duplicating the documents. For copies of computer disks, still photographs, blueprints, videotapes, engineering drawings, hard copies of aperture cards, etc., the fee charged will reflect the direct cost to NASA of reproducing, copying, or scanning the record.
+(f) For other forms of duplication, FOIA offices will charge the direct costs as well as any associated personnel costs. For standard-sized copies of documents such as letters, memoranda, statements, reports, contracts, etc., $0.15 per copy of each page; charges for double-sided copies will be $0.30. For copies of oversized documents, such as maps, charts, etc., fees will be assessed as direct costs. Charges for copies (and scanning) include the time spent in duplicating the documents. For copies of computer disks, still photographs, blueprints, videotapes, engineering drawings, hard copies of aperture cards, etc., the fee charged will reflect the direct cost to NASA of reproducing, copying, or scanning the record. In circumstances where a request for a videotape or other outdated media is requested, and NASA does not have the capability to readily reproduce the record in the form or format requested and which requires the Agency to enlist the services of a private contractor to fulfill the request, the direct costs of any services by the private contractor will be charged to the requester. Specific charges will be provided upon request.
 
 (g) If the request for an Agency record required to be made available under this part requires a computerized search or printout, the charge for the time of personnel involved shall be at the rates specified in this part or the direct costs assessed to the Agency. The charge for computer time involved and for any special supplies or materials used shall not exceed the direct cost to NASA.
 
@@ -23,3 +23,5 @@
 (2) Sending records by special methods such as express mail.
 
 (3) Packaging and mailing bulky records that will not fit into the largest envelope carried in the supply inventory.
+
+[79 FR 46678, Aug. 11, 2014, as amended at NASA-2019-0005, 84 FR 54776, Oct. 11, 2019]

@@ -8,4 +8,6 @@
 
 (d) The basic time limit for a misdirected FOIA request (not a referral or consultation) begins on the date on which the request is first received by the appropriate FOIA office within the Agency, but in any event no later than ten (10) working days after the date the request is first received by a FOIA office designated to receive FOIA requests.
 
-(e) Any notification of an initial determination that does not comply fully with the request for an Agency record, including those searches that produce no responsive documents, shall include a statement of the reasons for the adverse determination, include the name and title of the person making the initial determination, and notify the requester of the right to appeal to the Administrator or the Inspector General, as appropriate, pursuant to subpart G of this part.
+(e) Any notification of an initial determination that does not comply fully with the request for an Agency record, including those searches that produce no responsive documents, shall include a statement of the reasons for the adverse determination, include the name and title of the person making the initial determination, and notify the requester of the right to appeal to the Administrator or the Inspector General, as appropriate, pursuant to subpart G of this part, and the right to seek dispute resolution services from the NASA FOIA Public Liaison or Office of Government Information Services.
+
+[79 FR 46678, Aug. 11, 2014, as amended at NASA-2019-0005, 84 FR 54776, Oct. 11, 2019]

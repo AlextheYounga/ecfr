@@ -16,10 +16,16 @@
 
 (c) If initial processing time will exceed or is expected to exceed 30 working days, the FOIA office will notify the requester of the delay in processing and:
 
-(1) Provide an opportunity to modify or limit the scope of the request to reduce processing time; and
+(1) Provide the opportunity to limit the scope of the request so that it may be processed within that time limit or an opportunity to arrange with the Agency an alternative time frame for processing the request or a modified request;
 
-(2) Provide appeal rights, since the FOIA office has exceeded the 30 working day time period.
+(2) Provide contact information for the NASA FOIA Public Liaison;
 
-(3) Shall make available its designated FOIA contact and its FOIA Public Liaison for this purpose.
+(3) Offer the right of the requester to seek dispute resolution services from the OGIS;
+
+(4) Provide information regarding the intended determination; and
+
+(5) Shall make available its designated FOIA contact and its FOIA Public Liaison for the purpose of this paragraph (c).
 
 (d) The requester's refusal to reasonably modify the scope of a request or arrange an alternative timeframe for processing a request after being given the opportunity to do so may be considered a factor when determining whether exceptional circumstances exist. A delay that results from a predictable workload of requests does not constitute exceptional circumstances unless the Agency demonstrates reasonable progress in reducing its backlog of pending requests.
+
+[79 FR 46678, Aug. 11, 2014, as amended at NASA-2019-0005, 84 FR 54776, Oct. 11, 2019]
