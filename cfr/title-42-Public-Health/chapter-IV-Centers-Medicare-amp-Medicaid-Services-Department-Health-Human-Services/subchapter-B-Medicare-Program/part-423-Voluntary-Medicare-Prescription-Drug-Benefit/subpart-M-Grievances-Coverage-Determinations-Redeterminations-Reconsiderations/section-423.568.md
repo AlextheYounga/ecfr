@@ -1,5 +1,7 @@
 ##### § 423.568 Standard timeframe and notice requirements for coverage determinations. #####
 
+Link to an amendment published at 86 FR 6119, Jan. 19, 2021.
+
 (a) *Method and place for filing a request.* An enrollee must ask for a standard coverage determination by making a request with the Part D plan sponsor in accordance with the following:
 
 (1) Except as specified in paragraph (a)(2) of this section, the request may be made orally or in writing.

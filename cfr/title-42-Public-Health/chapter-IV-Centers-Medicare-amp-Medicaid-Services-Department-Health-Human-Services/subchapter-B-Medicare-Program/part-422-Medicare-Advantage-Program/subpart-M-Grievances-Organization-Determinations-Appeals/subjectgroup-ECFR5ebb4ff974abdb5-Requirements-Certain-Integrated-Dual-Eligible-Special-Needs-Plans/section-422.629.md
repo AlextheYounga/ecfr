@@ -1,5 +1,7 @@
 ##### § 422.629 General requirements for applicable integrated plans. #####
 
+Link to an amendment published at 86 FR 6102, Jan. 19, 2021.
+
 (a) *Scope.* The provisions in this section and in §§ 422.630 through 422.634 set forth requirements for unified appeals and grievance processes with which applicable integrated plans must comply. Beginning January 1, 2021, these provisions apply to an applicable integrated plan in lieu of §§ 422.564, 422.566(c) and (d), and 422.568 through 422.590, and 422.618(a) and §§ 438.404 through 438.424 of this chapter; provisions governing Part B drugs in §§ 422.568(b)(2), 422.570(d)(2), 422.572(a)(2), 422.584(d)(1), 422.590(c), and 422.590(e)(2) apply to an applicable integrated plan.
 
 (b) *General process.* An applicable integrated plan must create integrated processes for enrollees for integrated grievances, integrated organization determinations, and integrated reconsiderations.

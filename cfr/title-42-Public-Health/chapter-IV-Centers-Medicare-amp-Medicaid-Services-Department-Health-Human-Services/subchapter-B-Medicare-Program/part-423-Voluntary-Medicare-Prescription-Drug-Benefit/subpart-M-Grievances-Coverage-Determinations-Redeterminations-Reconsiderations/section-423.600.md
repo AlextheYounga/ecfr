@@ -1,5 +1,7 @@
 ##### § 423.600 Reconsideration by an independent review entity (IRE). #####
 
+Link to an amendment published at 86 FR 6120, Jan. 19, 2021.
+
 (a) An enrollee who is dissatisfied with the redetermination of a Part D plan sponsor has a right to a reconsideration by an independent review entity that contracts with CMS. The prescribing physician or other prescriber (acting on behalf of an enrollee), upon providing notice to the enrollee, may request an IRE reconsideration. The enrollee, or the enrollee's prescribing physician or other prescriber (acting on behalf of the enrollee) must file a written request for reconsideration with the IRE within 60 calendar days of the date of the redetermination by the Part D plan sponsor.
 
 (b) When an enrollee, or an enrollee's prescribing physician or other prescriber (acting on behalf of the enrollee) files an appeal, the IRE is required to solicit the views of the prescribing physician or other prescriber. The IRE may solicit the views of the prescribing physician or other prescriber orally or in writing. A written account of the prescribing physician's or other prescriber's views (prepared by either the prescribing physician, other prescriber, or IRE, as appropriate) must be contained in the IRE record.

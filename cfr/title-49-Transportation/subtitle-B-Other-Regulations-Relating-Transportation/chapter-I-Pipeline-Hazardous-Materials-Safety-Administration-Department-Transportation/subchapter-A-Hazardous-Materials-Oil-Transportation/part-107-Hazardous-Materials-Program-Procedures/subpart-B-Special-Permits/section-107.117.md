@@ -1,8 +1,6 @@
 ##### § 107.117 Emergency processing. #####
 
-Link to an amendment published at 85 FR 83374, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
-
-(a) An application is granted emergency processing if the Associate Administrator, on the basis of the application and any inquiry undertaken, finds that -
+(a) An application is granted emergency processing if the Associate Administrator, on the basis of the application and any inquiry undertaken, finds that—
 
 (1) Emergency processing is necessary to prevent significant injury to persons or property (other than the hazardous material to be transported) that could not be prevented if the application were processed on a routine basis; or
 
@@ -14,9 +12,9 @@ Link to an amendment published at 85 FR 83374, Dec. 21, 2020.The effective date 
 
 (d) An application submitted under this section must conform to § 107.105 to the extent that the receiving Department official deems necessary to process the application. An application on an emergency basis must be submitted to the Department modal contact official for the initial mode of transportation to be utilized, as follows:
 
-(1) *Certificate-Holding Aircraft:* The Federal Aviation Administration Civil Aviation Security Office that serves the place where the flight will originate or that is responsible for the aircraft operator's overall aviation security program. The nearest Civil Aviation Security Office may be located by calling the FAA Duty Officer, 202-267-3333 (any hour).
+(1) *Certificate-Holding Aircraft:* The Federal Aviation Administration (FAA) Director, Office of Hazardous Materials Safety is responsible for the aircraft operator's hazardous materials safety program. The Director, Office of Hazardous Materials Safety, may be reached by calling the FAA Washington Operations Center at 202-267-3333 (any hour), or visiting FAA's website.
 
-(2) *Noncertificate-Holding Aircraft (Those Which Operate Under 14 CFR Part 91):* The Federal Aviation Administration Civil Aviation Security Office that serves the place where the flight will originate. The nearest Civil Aviation Security Office may be located by calling the FAA Duty Officer, 202-267-3333 (any hour).
+(2) *Noncertificate-Holding Aircraft (Those Which Operate Under 14 CFR part 91):* The Federal Aviation Administration (FAA) Regional Office that serves the place where the flight will originate. The nearest Regional Office may be located by calling the FAA Washington Operations Center at 202-267-3333 or visiting FAA's website.
 
 (3) *Motor Vehicle Transportation:* Chief, Hazardous Materials Division, Federal Motor Carrier Safety Administration, U.S. Department of Transportation, Washington, DC 20590-0001, 202-385-2400 (day); 1-800-424-8802 (night).
 
@@ -30,4 +28,4 @@ Link to an amendment published at 85 FR 83374, Dec. 21, 2020.The effective date 
 
 (g) Within 90 days following issuance of an emergency special permit, the Associate Administrator will publish, in the Federal Register, a notice of issuance with a statement of the basis for the finding of emergency and the scope and duration of the special permit.
 
-[Amdt. 107-38, 61 FR 21095, May 9, 1996, as amended at 62 FR 51556, Oct. 1, 1997; 64 FR 51914, Sept. 27, 1999; 65 FR 58618, Sept. 29, 2000; 66 FR 45377, Aug. 28, 2001; 67 FR 61011, Sept. 27, 2002; 70 FR 56090, Sept. 23, 2005; 75 FR 53596, Sept. 1, 2010; 76 FR 463, Jan. 5, 2011; 80 FR 54437, Sept. 10, 2015]
+[Amdt. 107-38, 61 FR 21095, May 9, 1996, as amended at 62 FR 51556, Oct. 1, 1997; 64 FR 51914, Sept. 27, 1999; 65 FR 58618, Sept. 29, 2000; 66 FR 45377, Aug. 28, 2001; 67 FR 61011, Sept. 27, 2002; 70 FR 56090, Sept. 23, 2005; 75 FR 53596, Sept. 1, 2010; 76 FR 463, Jan. 5, 2011; 80 FR 54437, Sept. 10, 2015; 85 FR 83374, Dec. 21, 2020]

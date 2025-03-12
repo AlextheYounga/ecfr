@@ -1,7 +1,5 @@
 ##### § 175.10 Exceptions for passengers, crewmembers, and air operators. #####
 
-Link to an amendment published at 85 FR 83402, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
-
 (a) This subchapter does not apply to the following hazardous materials when carried by aircraft passengers or crewmembers provided the requirements of §§ 171.15 and 171.16 (see paragraph (c) of this section) and the requirements of this section are met:
 
 (1)(i) Non-radioactive medicinal and toilet articles for personal use (including aerosols) carried in carry-on and checked baggage. Release devices on aerosols must be protected by a cap or other suitable means to prevent inadvertent release;
@@ -110,7 +108,7 @@ Link to an amendment published at 85 FR 83402, Dec. 21, 2020.The effective date 
 
 (iii) The wheelchair or other mobility aid must be loaded and stowed in such a manner to prevent its unintentional activation and its battery must be protected from short circuiting;
 
-(iv) The wheelchair or other mobility aid must be protected from damage by the movement of baggage, mail, service items, or other cargo;
+(iv) The wheelchair or other mobility aid must be protected from damage by the shifting of baggage, mail, service items, or other cargo;
 
 (v) Where a lithium ion battery-powered wheelchair or other mobility aid does not provide adequate protection to the battery:
 

@@ -1,5 +1,7 @@
 ##### § 423.2260 Definitions. #####
 
+Link to an amendment published at 86 FR 6121, Jan. 19, 2021.
+
 As used in this subpart -
 
 *Communications* means activities and use of materials to provide information to current and prospective enrollees.

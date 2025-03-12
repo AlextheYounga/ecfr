@@ -1,7 +1,5 @@
 ##### § 173.159 Batteries, wet. #####
 
-Link to an amendment published at 85 FR 83398, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
-
 (a) Electric storage batteries, containing electrolyte acid or alkaline corrosive battery fluid (wet batteries), may not be packed with other materials except as provided in paragraphs (g) and (h) of this section and in §§ 173.220 and 173.222; and any battery or battery-powered device must be prepared and packaged for transport in a manner to prevent:
 
 (1) A dangerous evolution of heat (*i.e.*, an amount of heat sufficient to be dangerous to packaging or personal safety to include charring of packaging, melting of packaging, scorching of packaging, or other evidence);
@@ -110,8 +108,8 @@ Link to an amendment published at 85 FR 83398, Dec. 21, 2020.The effective date 
 
 (iii) Pack the battery in a salvage packaging in accordance with the provisions of § 173.3(c); or
 
-(iv) When packaged with other batteries or materials (e.g., on pallets or non-skid rails) and secured to prevent movement during transport, pack the battery in leakproof packaging to prevent leakage of battery fluid from the packaging under conditions normally incident to transportation.
+(iv) When packaged with other batteries or materials (*e.g.,* on pallets or non-skid rails) and secured to prevent shifting during transport, pack the battery in leakproof packaging to prevent leakage of battery fluid from the packaging under conditions normally incident to transportation.
 
 (2) Shipment of damage batteries in accordance with this paragraph is eligible for exception under paragraph (e) of this section.
 
-[74 FR 2257, Jan. 14, 2009, as amended at 81 FR 3673, Jan. 21, 2016; 81 FR 18540, Mar. 31, 2016; 81 FR 35541, June 2, 2016; 85 FR 27882, May 11, 2020]
+[74 FR 2257, Jan. 14, 2009, as amended at 81 FR 3673, Jan. 21, 2016; 81 FR 18540, Mar. 31, 2016; 81 FR 35541, June 2, 2016; 85 FR 27882, May 11, 2020; 85 FR 83398, Dec. 21, 2020]

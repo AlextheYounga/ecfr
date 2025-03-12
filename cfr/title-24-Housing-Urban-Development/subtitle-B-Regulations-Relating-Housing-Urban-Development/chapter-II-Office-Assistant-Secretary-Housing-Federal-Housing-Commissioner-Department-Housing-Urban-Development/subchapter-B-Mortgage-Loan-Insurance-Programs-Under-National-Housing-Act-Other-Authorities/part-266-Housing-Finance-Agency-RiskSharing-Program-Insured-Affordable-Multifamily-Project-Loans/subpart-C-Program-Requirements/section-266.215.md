@@ -1,7 +1,5 @@
 ##### § 266.215 Functions delegated by HUD to HFAs. #####
 
-Link to an amendment published at 85 FR 83442, Dec. 22, 2020.
-
 The following functions are delegated by HUD to the HFAs:
 
 (a) *Affirmative Fair Housing Marketing Plan (AFHMP).* The HFA will perform information collection, reviews and ministerial activities associated with the review and approval of the AFHMP for all projects. (Enforcement of fair housing and equal opportunity laws is the responsibility of HUD.)
@@ -12,4 +10,6 @@ The following functions are delegated by HUD to the HFAs:
 
 (d) *Cost certification.* The HFA will perform cost certification functions on each insured loan subject to terms specified by the Commissioner.
 
-(e) *Lead-Based Paint.* The HFA will perform functions related to Lead-Based Paint requirements subject to terms specified by the Commissioner.
+(e) *Lead-based paint.* The HFA will perform functions related to Lead-based paint requirements as set forth in 24 CFR part 35, subparts A, B, G, and R.
+
+[59 FR 62524, Dec. 5, 1994, as amended at 85 FR 83442, Dec. 22, 2020]

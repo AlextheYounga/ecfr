@@ -1,5 +1,7 @@
 ##### § 422.632 Continuation of benefits while the applicable integrated plan reconsideration is pending. #####
 
+Link to an amendment published at 86 FR 6103, Jan. 19, 2021.
+
 (a) *Definition.* As used in this section, timely files means files for continuation of benefits on or before the later of the following:
 
 (1) Within 10 calendar days of the applicable integrated plan sending the notice of adverse integrated organization determination.

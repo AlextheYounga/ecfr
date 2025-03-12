@@ -1,5 +1,7 @@
 ##### § 423.2268 Standards for Part D Sponsor communications and marketing. #####
 
+Link to an amendment published at 86 FR 6129, Jan. 19, 2021.
+
 (a) In conducting communication activities, Part D sponsors may not do any of the following:
 
 (1) Provide information that is inaccurate or misleading.

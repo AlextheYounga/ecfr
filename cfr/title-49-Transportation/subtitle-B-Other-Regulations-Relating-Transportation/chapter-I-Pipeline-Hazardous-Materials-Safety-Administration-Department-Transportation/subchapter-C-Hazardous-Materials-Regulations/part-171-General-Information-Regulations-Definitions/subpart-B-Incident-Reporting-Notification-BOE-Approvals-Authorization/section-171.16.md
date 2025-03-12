@@ -1,7 +1,5 @@
 ##### § 171.16 Detailed hazardous materials incident reports. #####
 
-Link to an amendment published at 85 FR 83374, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
-
 (a) *General.* Each person in physical possession of a hazardous material at the time that any of the following incidents occurs during transportation (including loading, unloading, and temporary storage) must submit a Hazardous Materials Incident Report on DOT Form F 5800.1 (01/2004) within 30 days of discovery of the incident:
 
 (1) Any of the circumstances set forth in § 171.15(b);
@@ -14,11 +12,11 @@ Link to an amendment published at 85 FR 83374, Dec. 21, 2020.The effective date 
 
 (5) A fire, violent rupture, explosion or dangerous evolution of heat (*i.e.*, an amount of heat sufficient to be dangerous to packaging or personal safety to include charring of packaging, melting of packaging, scorching of packaging, or other evidence) occurs as a direct result of a battery or battery-powered device.
 
-(b) *Providing and retaining copies of the report.* Each person reporting under this section must -
+(b) *Providing and retaining copies of the report.* Each person reporting under this section must—
 
 (1) Submit a written Hazardous Materials Incident Report to the Information Systems Manager, PHH-60, Pipeline and Hazardous Materials Safety Administration, Department of Transportation, East Building, 1200 New Jersey Ave., SE., Washington, DC 20590-0001, or an electronic Hazardous Material Incident Report to the Information System Manager, PHH-60, Pipeline and Hazardous Materials Safety Administration, Department of Transportation, Washington, DC 20590-0001 at *http://hazmat.dot.gov*;
 
-(2) For an incident involving transportation by aircraft, submit a written or electronic copy of the Hazardous Materials Incident Report to the FAA Security Field Office nearest the location of the incident; and
+(2) For an incident involving transportation by aircraft, submit a written or electronic copy of the Hazardous Materials Incident Report to the Federal Aviation Administration (FAA) Regional Office nearest the location of the incident. The nearest FAA Regional Office may be located by calling the FAA Washington Operations Center at 202-267-3333 (any hour) or visiting FAA's website; and
 
 (3) Retain a written or electronic copy of the Hazardous Materials Incident Report for a period of two years at the reporting person's principal place of business. If the written or electronic Hazardous Materials Incident Report is maintained at other than the reporting person's principal place of business, the report must be made available at the reporting person's principal place of business within 24 hours of a request for the report by an authorized representative or special agent of the Department of Transportation.
 
@@ -34,7 +32,7 @@ Link to an amendment published at 85 FR 83374, Dec. 21, 2020.The effective date 
 
 (d) *Exceptions.* Unless a telephone report is required under the provisions of § 171.15 of this part, the requirements of paragraphs (a), (b), and (c) of this section do not apply to the following incidents:
 
-(1) A release of a minimal amount of material from -
+(1) A release of a minimal amount of material from—
 
 (i) A vent, for materials for which venting is authorized;
 
@@ -44,7 +42,7 @@ Link to an amendment published at 85 FR 83374, Dec. 21, 2020.The effective date 
 
 (2) An unintentional release of a hazardous material when:
 
-(i) The material is -
+(i) The material is—
 
 (A) A limited quantity material packaged under authorized exceptions in the § 172.101 Hazardous Materials Table of this subchapter excluding Class 7 (radioactive) material; or
 
@@ -54,7 +52,7 @@ Link to an amendment published at 85 FR 83374, Dec. 21, 2020.The effective date 
 
 (iii) The total amount of material released is less than 20 liters (5.2 gallons) for liquids or less than 30 kg (66 pounds) for solids; and
 
-(iv) The material is not -
+(iv) The material is not—
 
 (A) Offered for transportation or transported by aircraft;
 
@@ -64,4 +62,4 @@ Link to an amendment published at 85 FR 83374, Dec. 21, 2020.The effective date 
 
 (3) An undeclared hazardous material discovered in an air passenger's checked or carry-on baggage during the airport screening process. (For discrepancy reporting by carriers, see § 175.31 of this subchapter.)
 
-[68 FR 67759, Dec. 3, 2003; 69 FR 30119, May 26, 2004, as amended at 70 FR 56091, Sept. 23, 2005; 74 FR 2233, Jan. 14, 2009; 76 FR 56311, Sept. 13, 2011; 78 FR 1112, Jan. 7, 2013]
+[68 FR 67759, Dec. 3, 2003; 69 FR 30119, May 26, 2004, as amended at 70 FR 56091, Sept. 23, 2005; 74 FR 2233, Jan. 14, 2009; 76 FR 56311, Sept. 13, 2011; 78 FR 1112, Jan. 7, 2013; 85 FR 83375, Dec. 21, 2020]

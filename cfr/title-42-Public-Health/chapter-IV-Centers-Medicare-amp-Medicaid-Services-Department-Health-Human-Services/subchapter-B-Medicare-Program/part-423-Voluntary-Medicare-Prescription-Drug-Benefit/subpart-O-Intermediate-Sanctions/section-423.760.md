@@ -1,5 +1,7 @@
 ##### § 423.760 Determinations regarding the amount of civil money penalties and assessment imposed by CMS. #####
 
+Link to an amendment published at 86 FR 6121, Jan. 19, 2021.
+
 (a) *Determining the appropriate amount of any penalty.* In determining the amount of penalty imposed under § 423.752(c)(1), CMS considers the following as appropriate:
 
 (1) The nature of the conduct.

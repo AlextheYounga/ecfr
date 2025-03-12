@@ -1,5 +1,7 @@
 ##### § 423.2014 Request for an ALJ hearing or a review of an IRE dismissal. #####
 
+Link to an amendment published at 86 FR 6121, Jan. 19, 2021.
+
 (a) *Content of the request.* (1) The request for an ALJ hearing or a review of an IRE dismissal must be made in writing, except as set forth in paragraph (b) of this section. The request, including any oral request, must include all of the following -
 
 (i) The name, address, telephone number, and Medicare number of the enrollee.

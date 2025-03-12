@@ -1,7 +1,5 @@
 ##### § 172.202 Description of hazardous material on shipping papers. #####
 
-Link to an amendment published at 85 FR 83380, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
-
 (a) The shipping description of a hazardous material on the shipping paper must include:
 
 (1) The identification number prescribed for the material as shown in Column (4) of the § 172.101 table;
@@ -52,7 +50,7 @@ Link to an amendment published at 85 FR 83380, Dec. 21, 2020.The effective date 
 
 (7) The number and type of packages must be indicated. The type of packages must be indicated by description of the package (for example, “12 drums”). Indication of the packaging specification number (“1H1”) may be included in the description of the package (for example, “12 1H1 drums” or “12 drums (UN 1A1)”). Abbreviations may be used for indicating packaging types (for example, “cyl.” for “cylinder”) provided the abbreviations are commonly accepted and recognizable.
 
-(b) Except as provided in this subpart, the basic description specified in paragraphs (a)(1), (2), (3), and (4) of this section must be shown in sequence with no additional information interspersed. For example, “UN2744, Cyclobutyl chloroformate, 6.1, (8, 3), PG II.” The shipping description sequences in effect on December 31, 2006, may be used until January 1, 2013. Shipping descriptions for hazardous materials offered or intended for transportation by rail that contain all the information required in this subpart and that are formatted and ordered in accordance with recognized electronic data interchange standards and, to the extent possible, in the order and manner required by this subpart are deemed to comply with this paragraph.
+(b) Except as provided in this subpart, the basic description specified in paragraphs (a)(1), (2), (3), and (4) of this section must be shown in sequence with no additional information interspersed. For example, “UN2744, Cyclobutyl chloroformate, 6.1, (8, 3), PG II.” Shipping descriptions for hazardous materials offered or intended for transportation by rail that contain all the information required in this subpart and that are formatted and ordered in accordance with recognized electronic data interchange standards and, to the extent possible, in the order and manner required by this subpart are deemed to comply with this paragraph.
 
 (c)(1) The total quantity of the material covered by one description must appear before or after, or both before and after, the description required and authorized by this subpart. The type of packaging and destination marks may be entered in any appropriate manner before or after the basic description. Abbreviations may be used to express units of measurement and types of packagings.
 

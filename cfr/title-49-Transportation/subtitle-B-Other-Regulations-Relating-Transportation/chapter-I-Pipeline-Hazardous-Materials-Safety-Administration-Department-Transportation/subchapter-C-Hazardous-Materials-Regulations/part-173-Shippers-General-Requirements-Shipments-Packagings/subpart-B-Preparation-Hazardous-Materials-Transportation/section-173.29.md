@@ -1,8 +1,6 @@
 ##### § 173.29 Empty packagings. #####
 
-Link to an amendment published at 85 FR 83382, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
-
-(a) General. Except as otherwise provided in this section, an empty packaging containing only the residue of a hazardous material shall be offered for transportation and transported in the same manner as when it previously contained a greater quantity of that hazardous material.
+(a) *General.* Except as otherwise provided in this section, an empty packaging containing only the residue of a hazardous material shall be offered for transportation and transported in the same manner as when it previously contained a greater quantity of that hazardous material.
 
 (b) Notwithstanding the requirements of paragraph (a) of this section, an empty packaging is not subject to any other requirements of this subchapter if it conforms to the following provisions:
 
@@ -18,7 +16,7 @@ Link to an amendment published at 85 FR 83382, Dec. 21, 2020.The effective date 
 
 (iv) Contains only the residue of -
 
-(A) An ORM-D material; or
+(A) A limited quantity or an ORM-D material; or
 
 (B) A Division 2.2 non-flammable gas, other than ammonia, anhydrous, and with no subsidiary hazard, at a gauge pressure less than 200 kPa (29.0 psig); at 20 °C (68 °F); and
 
@@ -56,4 +54,4 @@ Link to an amendment published at 85 FR 83382, Dec. 21, 2020.The effective date 
 
 (h) A package that contains a residue of a hazardous substance, Class 9, listed in the § 172.101 Table, Appendix A, Table I, that does not meet the definition of another hazard class and is not a hazardous waste or marine pollutant, may remain marked, labeled and, if applicable, placarded in the same manner as when it contained a greater quantity of the material even though it no longer meets the definition in § 171.8 of this subchapter for a hazardous substance.
 
-[Amdt. 173-224, 55 FR 52614, Dec. 21, 1990, as amended by Amdt. 173-227, 56 FR 49989, Oct. 2, 1991; Amdt. 173-231, 57 FR 52939, Nov. 5, 1992; Amdt. 173-251, 61 FR 28676, June 5, 1996; Amdt. 173-260, 62 FR 1236, Jan. 8, 1997; 64 FR 10776, Mar. 5, 1999; 68 FR 48569, Aug. 14, 2003; 69 FR 64473, Nov. 4, 2004; 75 FR 72, Jan. 4, 2010; 81 FR 3672, Jan. 21, 2016]
+[Amdt. 173-224, 55 FR 52614, Dec. 21, 1990, as amended by Amdt. 173-227, 56 FR 49989, Oct. 2, 1991; Amdt. 173-231, 57 FR 52939, Nov. 5, 1992; Amdt. 173-251, 61 FR 28676, June 5, 1996; Amdt. 173-260, 62 FR 1236, Jan. 8, 1997; 64 FR 10776, Mar. 5, 1999; 68 FR 48569, Aug. 14, 2003; 69 FR 64473, Nov. 4, 2004; 75 FR 72, Jan. 4, 2010; 81 FR 3672, Jan. 21, 2016; 85 FR 83382, Dec. 21, 2020]

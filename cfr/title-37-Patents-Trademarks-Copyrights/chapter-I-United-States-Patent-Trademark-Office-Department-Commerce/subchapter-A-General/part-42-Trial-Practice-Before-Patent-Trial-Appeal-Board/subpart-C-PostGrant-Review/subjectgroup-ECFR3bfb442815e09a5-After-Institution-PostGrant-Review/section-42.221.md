@@ -1,7 +1,5 @@
 ##### § 42.221 Amendment of the patent. #####
 
-Link to an amendment published at 85 FR 82935, Dec. 21, 2020.Link to a correction of the above amendment published at 86 FR 2542, Jan. 13, 2021.Link to a correction of the above amendment published at 86 FR 3817, Jan. 15, 2021.
-
 (a) *Motion to amend.* A patent owner may file one motion to amend a patent, but only after conferring with the Board.
 
 (1) *Due date.* Unless a due date is provided in a Board order, a motion to amend must be filed no later than the filing of a patent owner response.
@@ -22,4 +20,12 @@ Link to an amendment published at 85 FR 82935, Dec. 21, 2020.Link to a correctio
 
 (c) *Additional motion to amend.* In addition to the requirements set forth in paragraphs (a) and (b) of this section, any additional motion to amend may not be filed without Board authorization. An additional motion to amend may be authorized when there is a good cause showing or a joint request of the petitioner and the patent owner to materially advance a settlement. In determining whether to authorize such an additional motion to amend, the Board will consider whether a petitioner has submitted supplemental information after the time period set for filing a motion to amend in paragraph (a)(1) of this section.
 
-[77 FR 48729, Aug. 14, 2012, as amended at 80 FR 28566, May 19, 2015]
+(d) *Burden of Persuasion.* On a motion to amend:
+
+(1) A patent owner bears the burden of persuasion to show, by a preponderance of the evidence, that the motion to amend complies with the requirements of paragraphs (1) and (3) of 35 U.S.C. 326(d), as well as paragraphs (a)(2), (a)(3), (b)(1), and (b)(2) of this section;
+
+(2) A petitioner bears the burden of persuasion to show, by a preponderance of the evidence, that any proposed substitute claims are unpatentable; and
+
+(3) Irrespective of paragraphs (d)(1) and (2) of this section, the Board may, in the interests of justice, exercise its discretion to grant or deny a motion to amend only for reasons supported by readily identifiable and persuasive evidence of record. In doing so, the Board may make of record only readily identifiable and persuasive evidence in a related proceeding before the Office or evidence that a district court can judicially notice. Where the Board exercises its discretion under this paragraph, the parties will have an opportunity to respond.
+
+[77 FR 48729, Aug. 14, 2012, as amended at 80 FR 28566, May 19, 2015; 85 FR 82935, Dec. 21, 2020]

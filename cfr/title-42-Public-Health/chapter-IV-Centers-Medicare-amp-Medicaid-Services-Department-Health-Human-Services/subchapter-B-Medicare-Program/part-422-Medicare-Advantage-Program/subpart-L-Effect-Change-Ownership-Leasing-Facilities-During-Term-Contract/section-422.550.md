@@ -1,5 +1,7 @@
 ##### § 422.550 General provisions. #####
 
+Link to an amendment published at 86 FR 6101, Jan. 19, 2021.
+
 (a) *What constitutes change of ownership* - (1) *Partnership.* The removal, addition, or substitution of a partner, unless the partners expressly agree otherwise as permitted by applicable State law, constitutes a change of ownership.
 
 (2) *Asset transfer.* Transfer of title and property to another party constitutes change of ownership.

@@ -1,5 +1,7 @@
 ##### § 423.2305 Definitions. #####
 
+Link to an amendment published at 86 FR 6131, Jan. 19, 2021.
+
 As used in this subpart, unless otherwise specified -
 
 *Applicable discount* means 50 percent of the portion of the negotiated price (as defined in § 423.2305) of the applicable drug of a manufacturer that falls within the coverage gap and that remains after such negotiated price is reduced by any supplemental benefits that are available.

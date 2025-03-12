@@ -1,7 +1,5 @@
 ##### § 173.185 Lithium cells and batteries. #####
 
-Link to an amendment published at 85 FR 83398, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
-
 As used in this section, *consignment* means one or more packages of hazardous materials accepted by an operator from one shipper at one time and at one address, receipted for in one lot and moving to one consignee at one destination address. *Equipment* means the device or apparatus for which the lithium cells or batteries will provide electrical power for its operation. *Lithium cell(s)* or *battery(ies)* includes both lithium metal and lithium ion chemistries. *Medical device* means an instrument, apparatus, implement, machine, contrivance, implant, or in vitro reagent, including any component, part, or accessory thereof, which is intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease, of a person.
 
 (a) *Classification.* (1) Each lithium cell or battery must be of the type proven to meet the criteria in part III, sub-section 38.3 of the UN Manual of Tests and Criteria (IBR; see § 171.7 of this subchapter). Lithium cells and batteries are subject to these tests regardless of whether the cells used to construct the battery are of a tested type. A single cell battery as defined in part III, sub-section 38.3 of the UN Manual of Tests and Criteria is considered a “cell” and must be offered for transportation in accordance with the requirements for cells.
@@ -62,7 +60,7 @@ As used in this section, *consignment* means one or more packages of hazardous m
 
 (i) Short circuits;
 
-(ii) Damage caused by movement or placement within the package; and
+(ii) Damage caused by shifting or placement within the package; and
 
 (iii) Accidental activation of the equipment.
 
@@ -88,11 +86,11 @@ As used in this section, *consignment* means one or more packages of hazardous m
 
 (i) The outer packaging, when used, must be constructed of suitable material of adequate strength and design in relation to the capacity and intended use of the packaging, unless the lithium cells or batteries are afforded equivalent protection by the equipment in which they are contained;
 
-(ii) Equipment must be secured to prevent damage caused by movement within the outer packaging and be packed so as to prevent accidental operation during transport; and
+(ii) Equipment must be secured to prevent damage caused by shifting within the outer packaging and be packed so as to prevent accidental operation during transport; and
 
 (iii) Any spare lithium cells or batteries packed with the equipment must be packaged in accordance with paragraph (b)(3) of this section.
 
-(5) Lithium batteries that weigh 12 kg (26.5 pounds) or more and have a strong, impact-resistant outer casing and assemblies of such batteries, may be packed in strong outer packagings; in protective enclosures (for example, in fully enclosed or wooden slatted crates); or on pallets or other handling devices, instead of packages meeting the UN performance packaging requirements in paragraphs (b)(3)(ii) and (b)(3)(iii) of this section. Batteries or battery assemblies must be secured to prevent inadvertent movement, and the terminals may not support the weight of other superimposed elements. Batteries or battery assemblies packaged in accordance with this paragraph may be transported by cargo aircraft if approved by the Associate Administrator.
+(5) Lithium batteries that weigh 12 kg (26.5 pounds) or more and have a strong, impact-resistant outer casing and assemblies of such batteries, may be packed in strong outer packagings; in protective enclosures (for example, in fully enclosed or wooden slatted crates); or on pallets or other handling devices, instead of packages meeting the UN performance packaging requirements in paragraphs (b)(3)(ii) and (b)(3)(iii) of this section. Batteries or battery assemblies must be secured to prevent inadvertent shifting, and the terminals may not support the weight of other superimposed elements. Batteries or battery assemblies packaged in accordance with this paragraph may be transported by cargo aircraft if approved by the Associate Administrator.
 
 (6) Except for transportation by aircraft, the following rigid large packagings are authorized for a single battery, and for a single item of equipment containing batteries, meeting provisions in paragraphs (b)(1) and (2) of this section and the requirements of part 178, subparts P and Q, of this subchapter at the Packing Group II level:
 
@@ -175,7 +173,7 @@ Table 1 to Paragraph (c)(4)(i)
 
 (1) Except as provided in paragraph (e)(5) of this section, each cell or battery is individually packed in a non-metallic inner packaging, inside an outer packaging, and is surrounded by cushioning material that is non-combustible and electrically non-conductive, or contained in equipment. Equipment must be constructed or packaged in a manner as to prevent accidental operation during transport;
 
-(2) Appropriate measures shall be taken to minimize the effects of vibration and shocks and prevent movement of the cells or batteries within the package that may lead to damage and a dangerous condition during transport. Cushioning material that is non-combustible and electrically non-conductive may be used to meet this requirement;
+(2) Appropriate measures shall be taken to minimize the effects of vibration and shocks and prevent shifting of the cells or batteries within the package that may lead to damage and a dangerous condition during transport. Cushioning material that is non-combustible and electrically non-conductive may be used to meet this requirement;
 
 (3) The lithium cells or batteries are packed in inner packagings or contained in equipment. The inner packaging or equipment is placed in one of the following outer packagings that meet the requirements of part 178, subparts L and M, of this subchapter at the Packing Group I level. Cells and batteries, including equipment of different sizes, shapes or masses must be placed into an outer packaging of a tested design type listed in this section provided the total gross mass of the package does not exceed the gross mass for which the design type has been tested. A cell or battery with a net mass of more than 30 kg is limited to one cell or battery per outer packaging;
 
@@ -191,7 +189,7 @@ Table 1 to Paragraph (c)(4)(i)
 
 (iii) Plywood (50D).
 
-(5) Lithium batteries, including lithium batteries contained in equipment, that weigh 12 kg (26.5 pounds) or more and have a strong, impact-resistant outer casing or assemblies of such batteries, may be packed in strong outer packagings, in protective enclosures (for example, in fully enclosed or wooden slatted crates), or on pallets or other handling devices, instead of packages meeting the UN performance packaging requirements in paragraphs (b)(3)(ii) and (iii) of this section. The battery or battery assembly must be secured to prevent inadvertent movement, and the terminals may not support the weight of other superimposed elements;
+(5) Lithium batteries, including lithium batteries contained in equipment, that weigh 12 kg (26.5 pounds) or more and have a strong, impact-resistant outer casing or assemblies of such batteries, may be packed in strong outer packagings, in protective enclosures (for example, in fully enclosed or wooden slatted crates), or on pallets or other handling devices, instead of packages meeting the UN performance packaging requirements in paragraphs (b)(3)(ii) and (iii) of this section. The battery or battery assembly must be secured to prevent inadvertent shifting, and the terminals may not support the weight of other superimposed elements;
 
 (6) Irrespective of the limit specified in column (9B) of the § 172.101 Hazardous Materials Table, the battery or battery assembly prepared for transport in accordance with this paragraph may have a mass exceeding 35 kg gross weight when transported by cargo aircraft;
 
@@ -235,4 +233,4 @@ Table 1 to Paragraph (c)(4)(i)
 
 (h) *Approval.* A lithium cell or battery that does not conform to the provisions of this subchapter may be transported only under conditions approved by the Associate Administrator.
 
-[85 FR 27882, May 11, 2020]
+[85 FR 27882, May 11, 2020, as amended at 85 FR 83398, Dec. 21, 2020]

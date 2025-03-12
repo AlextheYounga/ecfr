@@ -1,10 +1,8 @@
 ##### § 173.415 Authorized Type A packages. #####
 
-Link to an amendment published at 85 FR 83401, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
-
 The following packages are authorized for shipment if they do not contain quantities exceeding A1 or A2 as appropriate:
 
-(a) DOT Specification 7A (see § 178.350 of this subchapter) Type A general packaging. Until January 1, 2017 each offeror of a Specification 7A package must maintain on file for at least one year after the latest shipment, and shall provide to DOT on request, complete documentation of tests and an engineering evaluation or comparative data showing that the construction methods, packaging design, and materials of construction comply with that specification. After January 1, 2017 each offeror of a Specification 7A package must maintain on file for at least two years after the offeror's latest shipment, and shall provide to DOT on request, one of the following:
+(a) DOT Specification 7A (see § 178.350 of this subchapter) Type A general packaging. Each offeror of a Specification 7A package must maintain on file for at least two years after the offeror's latest shipment, and shall provide to DOT on request, one of the following:
 
 (1) A description of the package showing materials of construction, dimensions, weight, closure and closure materials (including gaskets, tape, etc.) of each item of the containment system, shielding and packing materials used in normal transportation, and the following:
 
@@ -20,4 +18,4 @@ The following packages are authorized for shipment if they do not contain quanti
 
 (d) Any foreign-made packaging that meets the standards in the ” IAEA Regulations for the Safe Transport of Radioactive Material, SSR-6” (IBR, see § 171.7 of this subchapter) and bears the marking “Type A”. Such packagings may be used for domestic and export shipments of Class 7 (radioactive) materials provided the offeror obtains the applicable documentation of tests and engineering evaluations and maintains the documentation on file in accordance with paragraph (a) of this section. These packagings must conform with requirements of the country of origin (as indicated by the packaging marking) and the IAEA regulations applicable to Type A packagings.
 
-[Amdt. 173-244, 60 FR 50307, Sept. 28, 1995, as amended at 67 FR 61014, Sept. 27, 2002; 68 FR 75742, Dec. 31, 2003; 69 FR 3673, Jan. 26, 2004; 69 FR 55117, Sept. 13, 2004; 79 FR 40612, July 11, 2014; 80 FR 1163, Jan. 8, 2015]
+[Amdt. 173-244, 60 FR 50307, Sept. 28, 1995, as amended at 67 FR 61014, Sept. 27, 2002; 68 FR 75742, Dec. 31, 2003; 69 FR 3673, Jan. 26, 2004; 69 FR 55117, Sept. 13, 2004; 79 FR 40612, July 11, 2014; 80 FR 1163, Jan. 8, 2015; 85 FR 83401, Dec. 21, 2020]

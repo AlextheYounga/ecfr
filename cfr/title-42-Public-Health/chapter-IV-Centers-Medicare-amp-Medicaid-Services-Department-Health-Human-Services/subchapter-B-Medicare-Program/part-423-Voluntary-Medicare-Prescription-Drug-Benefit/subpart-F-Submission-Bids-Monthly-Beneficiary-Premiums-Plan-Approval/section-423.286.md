@@ -1,5 +1,7 @@
 ##### § 423.286 Rules regarding premiums. #####
 
+Link to an amendment published at 86 FR 6118, Jan. 19, 2021.
+
 (a) *General rule.* Except as provided in paragraphs (d)(3), (d)(4), and (e) of this section, and with regard to employer group waivers, the monthly beneficiary premium for a Part D plan in a PDP region is the same for all Part D eligible individuals enrolled in the plan. The monthly beneficiary premium for a Part D plan is the base beneficiary premium, as determined in paragraph (c) of this section, adjusted as described in paragraph (d) of this section for the difference between the bid and the national average monthly bid amount, any supplemental benefits and for any late enrollment penalties.
 
 (b) *Beneficiary premium percentage.* The beneficiary premium percentage for any year is a fraction, the -

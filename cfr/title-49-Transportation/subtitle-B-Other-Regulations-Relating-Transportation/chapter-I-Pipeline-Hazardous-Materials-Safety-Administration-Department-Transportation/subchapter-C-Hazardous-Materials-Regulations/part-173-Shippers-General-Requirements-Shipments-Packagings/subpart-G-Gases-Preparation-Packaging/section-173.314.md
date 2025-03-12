@@ -1,7 +1,5 @@
 ##### § 173.314 Compressed gases in tank cars and multi-unit tank cars. #####
 
-Link to an amendment published at 85 FR 83401, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
-
 (a) *Definitions.* For definitions of compressed gases, see § 173.115.
 
 (b) *General requirements.* (1) Tank car tanks containing compressed gases must not be shipped unless they were loaded by or with the consent of the owner thereof.
@@ -149,7 +147,7 @@ Notes to table 1 to paragraph (c): 1. The percent filling density for liquefied 
 
 (ii) The use of 1.0 pound of ethyl mercaptan per 10,000 gallons of liquefied petroleum gas is considered sufficient to meet the requirements of this paragraph. Use of another odorant is not prohibited so long as there is enough to meet the requirements of this paragraph (h).
 
-(2) *Odorant fade.* In addition to paragraph (h)(1)(i) of this section, the offeror must ensure that enough odorant will remain in the tank car during the course of transportation. The shipper must have procedures in place to:
+(2) *Odorant fade.* In addition to paragraph (h)(1)(i) of this section, the offeror must ensure that enough odorant will remain in the tank car during the course of transportation. The offeror must have procedures in place to:
 
 (i) Ensure quantitative testing methods are used to measure the amount of odorant in the liquefied petroleum gas;
 

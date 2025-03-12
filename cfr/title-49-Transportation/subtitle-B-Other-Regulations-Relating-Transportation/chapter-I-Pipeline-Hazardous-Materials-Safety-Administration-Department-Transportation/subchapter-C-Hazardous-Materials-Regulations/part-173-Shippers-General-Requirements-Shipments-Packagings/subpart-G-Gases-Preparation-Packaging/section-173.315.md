@@ -1,12 +1,10 @@
 ##### § 173.315 Compressed gases in cargo tanks and portable tanks. #####
 
-Link to an amendment published at 85 FR 83401, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
-
 (a) Liquefied compressed gases that are transported in UN portable tanks, DOT specification portable tanks, or cargo tanks must be prepared in accordance with this section, § 173.32, § 173.33 and subpart E or subpart G of part 180 of this subchapter, as applicable. For cryogenic liquid in cargo tanks, see § 173.318. For marking requirements for portable tanks and cargo tanks, see § 172.326 and § 172.328 of this subchapter, as applicable.
 
 (1) *UN portable tanks:* UN portable tanks must be loaded and offered for transportation in accordance with portable tank provision T50 in § 172.102 of this subchapter.
 
-(2) *Cargo tanks and DOT specification portable tanks:* Cargo tanks and DOT specification portable tanks must be loaded and offered for transportation in accordance with the following table:
+(2) *Cargo tanks and DOT specification portable tanks:* Cargo tanks and DOT specification portable tanks must be loaded and offered for transportation in accordance with the following table (for purposes of the following table, a column entry with “do” indicates “same as above”):
 
 |                                           Kind of gas                                            |       Maximum permitted filling density        |Specification container required|                                               |                                  |
 |--------------------------------------------------------------------------------------------------|------------------------------------------------|--------------------------------|-----------------------------------------------|----------------------------------|
@@ -159,7 +157,7 @@ Note 1: Filling is permitted by volume provided the same filling density is used
 
 (ii) The use of 1.0 pound of ethyl mercaptan per 10,000 gallons of liquefied petroleum gas is considered sufficient to meet the requirements of this paragraph (b). Use of any other odorant is not prohibited so long as there is enough to meet the requirements of this paragraph.
 
-(2) *Odorant fade.* For cargo tanks or portable tanks being transported from a refinery, gas plant or pipeline terminal and in addition to paragraph (b)(1)(i) of this section, the offeror must ensure that enough odorant will remain in the cargo tank or portable tank during the course of transportation. The shipper must have procedures in place to:
+(2) *Odorant fade.* For cargo tanks or portable tanks being transported from a refinery, gas plant or pipeline terminal and in addition to paragraph (b)(1)(i) of this section, the offeror must ensure that enough odorant will remain in the cargo tank or portable tank during the course of transportation. The offeror must have procedures in place to:
 
 (i) Ensure quantitative testing methods are used to measure the amount of odorant in the liquefied petroleum gas;
 
@@ -187,7 +185,7 @@ Note 1: Filling is permitted by volume provided the same filling density is used
 
 (g) Containers, the liquid level of which has been determined by means of a fixed length dip tube gauging device, shall not be acceptable for stowage as cargo on vessels in commerce subject to the jurisdiction of the United States Coast Guard. Nothing contained in this section shall be so construed as to prohibit the transportation on car floats or car ferries of motor vehicles laden with containers nor cargo tanks the liquid level of either of which has been determined by means of fixed length dip tube devices.
 
-(h) Each cargo tank and portable tank, except a tank filled by weight, must be equipped with one or more of the gauging devices described in the following table which indicate accurately the maximum permitted liquid level. Additional gauging devices may be installed but may not be used as primary controls for filling of cargo tanks and portable tanks. Gauge glasses are not permitted on any cargo tank or portable tank. Primary gauging devices used on cargo tanks of less than 3500 gallons water capacity are exempt from the longitudinal location requirements specified in paragraphs (h)(2) and (3) of this section provided: The tank length does not exceed three times the tank diameter; and the cargo tank is unloaded within 24 hours after each filling of the tank.
+(h) Each cargo tank and portable tank, except a tank filled by weight, must be equipped with one or more of the gauging devices described in the following table which indicate accurately the maximum permitted liquid level (for purposes of the following table, a column entry with “do” indicates “same as above”). Additional gauging devices may be installed but may not be used as primary controls for filling of cargo tanks and portable tanks. Gauge glasses are not permitted on any cargo tank or portable tank. Primary gauging devices used on cargo tanks of less than 3500 gallons water capacity are exempt from the longitudinal location requirements specified in paragraphs (h)(2) and (3) of this section provided: The tank length does not exceed three times the tank diameter; and the cargo tank is unloaded within 24 hours after each filling of the tank.
 
 |                   Kind of gas                    |      Gaging device permitted for filling purposes       |
 |--------------------------------------------------|---------------------------------------------------------|
@@ -286,7 +284,7 @@ Note 1: Filling is permitted by volume provided the same filling density is used
 
 (vii) The storage container must be placed on the vehicle in a manner, such as in a cradle, which ensures that no weight is placed on the supporting legs during transportation.
 
-(viii) The storage container must be secured against movement during transportation. Bracing must conform with the requirements of paragraph (j)(1)(iii) of this section and § 177.834(a) of this subchapter and with Section 6-5.2 of NFPA 58, Liquefied Petroleum Gas Code. Straps or chains used as tie-downs must be rated to exceed the maximum load to be transported and conform to the requirements in §§ 393.100 through 393.106 of this title.
+(viii) The storage container must be secured against shifting during transportation. Bracing must conform with the requirements of paragraph (j)(1)(iii) of this section and § 177.834(a) of this subchapter and with Section 6-5.2 of NFPA 58, Liquefied Petroleum Gas Code. Straps or chains used as tie-downs must be rated to exceed the maximum load to be transported and conform to the requirements in §§ 393.100 through 393.106 of this title.
 
 (ix) Tow trailers used to transport storage containers in accordance with this paragraph (j)(2) must provide rear end protection that conforms to requirements in § 393.86 of this title.
 

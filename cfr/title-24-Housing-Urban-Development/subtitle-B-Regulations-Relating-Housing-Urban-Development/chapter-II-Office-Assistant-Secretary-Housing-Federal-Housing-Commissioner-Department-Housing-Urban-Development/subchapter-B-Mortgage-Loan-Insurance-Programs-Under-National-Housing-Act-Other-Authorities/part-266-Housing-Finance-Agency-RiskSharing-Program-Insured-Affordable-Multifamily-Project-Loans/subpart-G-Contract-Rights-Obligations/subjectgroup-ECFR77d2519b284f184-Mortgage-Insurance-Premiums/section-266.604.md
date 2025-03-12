@@ -1,22 +1,11 @@
 ##### § 266.604 Mortgage insurance premium: Other requirements. #####
 
-Link to an amendment published at 85 FR 83444, Dec. 22, 2020.
+(a) *Premium calculations on or after first principal payment.* The premiums payable to the Commissioner on and after the first principal payment shall be calculated in accordance with the amortization schedule prepared by the HFA for final closing and an amount established by the Commissioner through a notice published in the Federal Register and providing a 30-day comment period. After the comments have been considered, HUD will publish a final notice announcing the premium and its effective date. The premium shall not take into account delinquent payments or prepayments.
 
-(a) *Premium calculations on or after first principal payment.* The premiums payable to the Commissioner on and after the first principal payment shall be calculated in accordance with the amortization schedule prepared by the HFA for final closing and the prescribed percentage as set forth in the sliding scale chart in paragraph (b) of this section without taking into account delinquent payments or prepayments.
+(b) *Future premium changes.* Notice of future premium changes will be published in the Federal Register. The Commissioner will propose mortgage insurance premium changes for the Risk-Sharing Program and provide a 30-calendar day public comment period for the purpose of accepting comments on whether the proposed changes are appropriate. After the comments have been considered, HUD will publish a final notice announcing the premium and its effective date.
 
-(b) *Prescribed percentages.* The following sliding scale chart provides the prescribed percentage, based upon the respective share of risk, that is to be used in calculating mortgage insurance premiums under this section:
+(c) *Closing information.* The HFA shall provide final closing information to the Commissioner within 15 calendar days of the final closing in a format prescribed by the Commissioner. In addition, the HFA shall submit a copy of the amortization schedule. This amortization shall be used to compute and collect all future mortgage insurance premiums subject to § 266.600(c) or § 266.602(d). If the mortgage is modified, the HFA shall submit to the Commissioner a copy of the revised amortization schedule, which shall be used to compute and collect all future mortgage insurance premiums subject to § 266.600(c) or § 266.602(d).
 
-|Percentage share of risk|Prescribed percentage for calculating HFA's annual MIP|    |
-|------------------------|------------------------------------------------------|----|
-|          HUD           |                         HFA                          |    |
-|           90           |                          10                          |.45 |
-|           75           |                          25                          |.375|
-|           50           |                          50                          |.25 |
-|           40           |                          60                          | .2 |
-|           30           |                          70                          |.15 |
-|           20           |                          80                          | .1 |
-|           10           |                          90                          |.05 |
+(d) *Due date for premium payments.* Mortgage insurance premiums are due on the first day of the month of the anniversary of the first payment to principal. Any premium received by the Commissioner more than 15 calendar days after the due date shall be assessed a late charge of 4 percent of the amount of the premium payment due. Mortgage insurance premiums that are paid to the Commissioner more than 30 calendar days after the due date shall begin to accrue interest at the rate prescribed by the Treasury Fiscal Requirements Manual.
 
-(c) *Closing information.* The HFA shall provide final closing information to the Commissioner within 15 days of the final closing in a format prescribed by the Commissioner. In addition, the HFA shall submit a copy of the amortization schedule. This amortization shall be used to compute and collect all future mortgage insurance premiums subject to § 266.600(c) or § 266.602(d). If the mortgage is modified, the HFA shall submit to the Commissioner a copy of the revised amortization schedule, which shall be used to compute and collect all future mortgage insurance premiums subject to § 266.600(c) or § 266.602(d).
-
-(d) *Due date for premium payments.* Mortgage insurance premiums are due on the first day of the month of the anniversary of the first payment to principal. Any premium received by the Commissioner more than 15 days after the due date shall be assessed a late charge of 4 percent of the amount of the premium payment due. Mortgage insurance premiums that are paid to the Commissioner more than 30 days after the due date shall begin to accrue interest at the rate prescribed by the Treasury Fiscal Requirements Manual.
+[59 FR 62524, Dec. 5, 1994, as amended at 85 FR 83444, Dec. 22, 2020]

@@ -1,6 +1,6 @@
 ##### § 173.304a Additional requirements for shipment of liquefied compressed gases in specification cylinders. #####
 
-Link to an amendment published at 85 FR 83400, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.Link to an amendment published at 85 FR 85416, Dec. 28, 2020.
+Link to an amendment published at 85 FR 85416, Dec. 28, 2020.
 
 (a) *Detailed filling requirements.* Liquefied gases (except gas in solution) must be offered for transportation, subject to the requirements in this section and §§ 173.301 and 173.304, in specification cylinders, as follows:
 
@@ -34,7 +34,7 @@ Link to an amendment published at 85 FR 83400, Dec. 21, 2020.The effective date 
 |                                                                            Ethylene (see Note 8)                                                                            |                             32.5                             |                                                                  DOT-3A2000; DOT-3AX2000; DOT-3AA2000; DOT-3AAX2000; DOT-3T2000; DOT-39; DOT-3AL2000.                                                                   |
 |                                                                            Ethylene (see Note 8)                                                                            |                             35.5                             |                                                                  DOT-3A2400; DOT-3AX2400; DOT-3AA2400; DOT-3AAX2400; DOT-3T2400; DOT-39; DOT-3AL2400.                                                                   |
 |                                                                        Hydrogen chloride, anhydrous                                                                         |                              65                              |                                                                   DOT-3A1800; DOT-3AA1800; DOT-3AX1800; DOT-3AAX1800; DOT-3; DOT-3T1800; DOT-3E1800.                                                                    |
-|                                                                   Hydrogen sulfide (see Notes 10 and 14)                                                                    |                             62.5                             |                                                                     DOT-3A; DOT-3AA; DOT-3B; DOT-4A; DOT-4B; DOT-4BA; DOT-4BW; DOT-3E1800; DOT-3AL.                                                                     |
+|                                                                       Hydrogen sulfide (see Note 10)                                                                        |                             62.5                             |                                                                         DOT-3A; DOT-3AA; DOT-3B; DOT-4B; DOT-4BA; DOT-4BW; DOT-3E1800; DOT-3AL.                                                                         |
 |                                                              Insecticide, gases liquefied (see Notes 8 and 12)                                                              |                  Not liquid full at 131 °F                   |                                                                    DOT-3A300; DOT-3AA300; DOT-3B300; DOT-4B300; DOT-4BA300; DOT-4BW300; DOT-3E1800.                                                                     |
 |Liquefied nonflammable gases, other than classified flammable, corrosive, toxic & mixtures or solution thereof filled w/nitrogen, carbon dioxide, or air (see Notes 7 and 8).|                  Not liquid full at 131 °F                   |                                                      Specification packaging authorized in paragraph (a)(1) of this section and DOT-3HT; DOT 4D; DOT-4DA; DOT-4DS.                                                      |
 |                                                      Methyl acetylene-propadiene, mixtures, stabilized; (see Note 5).                                                       |                     Not liquid at 131 °F                     |                             DOT-4B240 without brazed seams; DOT-4BA240 without brazed seams; DOT-3A240; DOT-3AA240; DOT-3B240; DOT-3E1800; DOT-4BW240; DOT-4E240; DOT-4B240ET; DOT-3AL240.                              |
@@ -82,8 +82,6 @@ Note 11: Must meet the valve and cleaning requirements in § 173.302(b).
 Note 12: For an insecticide gas that is nontoxic and nonflammable, see § 173.305(c).
 
 Note 13: For a refrigerant or dispersant gas that is nontoxic and nonflammable, see § 173.304(d).
-
-Note 14: The use of DOT specification cylinder with a marked service pressure of 480 psi is authorized until December 31, 2003.
 
 (b) [Reserved]
 
@@ -168,4 +166,4 @@ Note 2: A container must be equipped with a pressure relief device that will pre
 |                                     625 psig                                     |                            86                             |       80        |
 |                        Design service temperature °C (°F)                        |                     −196 °C (−320 °F)                     |−196 °C (−320 °F)|
 
-[67 FR 51647, Aug. 8, 2002, as amended at 68 FR 24661, May 8, 2003; 68 FR 57632, Oct. 6, 2003; 68 FR 75742, Dec. 31, 2003; 70 FR 34076, June 13, 2005; 72 FR 4456, Jan. 31, 2007; 72 FR 55098, Sept. 28, 2007; 73 FR 4719, Jan. 28, 2008; 81 FR 3676, Jan. 21, 2016]
+[67 FR 51647, Aug. 8, 2002, as amended at 68 FR 24661, May 8, 2003; 68 FR 57632, Oct. 6, 2003; 68 FR 75742, Dec. 31, 2003; 70 FR 34076, June 13, 2005; 72 FR 4456, Jan. 31, 2007; 72 FR 55098, Sept. 28, 2007; 73 FR 4719, Jan. 28, 2008; 81 FR 3676, Jan. 21, 2016; 85 FR 83400, Dec. 21, 2020]

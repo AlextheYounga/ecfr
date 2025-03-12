@@ -1,7 +1,5 @@
 ##### § 1.27 Definition of small entities and establishing status as a small entity to permit payment of small entity fees; when a determination of entitlement to small entity status and notification of loss of entitlement to small entity status are required; fraud on the Office. #####
 
-Link to an amendment published at 85 FR 82923, Dec. 21, 2020.Link to a correction of the above amendment published at 86 FR 2542, Jan. 13, 2021.Link to a correction of the above amendment published at 86 FR 3817, Jan. 15, 2021.
-
 (a) *Definition of small entities.* A small entity as used in this chapter means any party (person, small business concern, or nonprofit organization) under paragraphs (a)(1) through (a)(3) of this section.
 
 (1) *Person.* A person, as used in paragraph (c) of this section, means any inventor or other individual (e.g., an individual to whom an inventor has transferred some rights in the invention) who has not assigned, granted, conveyed, or licensed, and is under no obligation under contract or law to assign, grant, convey, or license, any rights in the invention. An inventor or other individual who has transferred some rights in the invention to one or more parties, or is under an obligation to transfer some rights in the invention to one or more parties, can also qualify for small entity status if all the parties who have had rights in the invention transferred to them also qualify for small entity status either as a person, small business concern, or nonprofit organization under this section.
@@ -26,9 +24,29 @@ Link to an amendment published at 85 FR 82923, Dec. 21, 2020.Link to a correctio
 
 (D) Any nonprofit organization located in a foreign country which would qualify as a nonprofit organization under paragraphs (a)(3)(ii)(B) of this section or (a)(3)(ii)(C) of this section if it were located in this country.
 
-(4) *License to a Federal agency.* (i) For persons under paragraph (a)(1) of this section, a license to the Government resulting from a rights determination under Executive Order 10096 does not constitute a license so as to prohibit claiming small entity status.
+(4) *Federal Government Use License Exceptions.* In a patent application filed, prosecuted, and if patented, maintained at no expense to the Government, with the exception of any expense taken to deliver the application and fees to the Office on behalf of the applicant:
 
-(ii) For small business concerns and nonprofit organizations under paragraphs (a)(2) and (a)(3) of this section, a license to a Federal agency resulting from a funding agreement with that agency pursuant to 35 U.S.C. 202(c)(4) does not constitute a license for the purposes of paragraphs (a)(2)(i) and (a)(3)(i) of this section.
+(i) For persons under paragraph (a)(1) of this section, claiming small entity status is not prohibited by:
+
+(A) A use license to the Government resulting from a rights determination under Executive Order 10096 made in accordance with § 501.6 of this title;
+
+(B) A use license to the Government resulting from Federal agency action pursuant to 15 U.S.C. 3710d(a) allowing the Federal employee-inventor to obtain or retain title to the invention; or
+
+(C) A use license to a Federal agency resulting from retention of rights under 35 U.S.C. 202(d) by an inventor employed by a small business concern or nonprofit organization contractor, provided the license is equivalent to the license under 35 U.S.C. 202(c)(4) the Federal agency would have received had the contractor elected to retain title, and all the conditions applicable under § 401.9 of this title to an employee/inventor are met.
+
+(ii) For small business concerns and nonprofit organizations under paragraphs (a)(2) and (3) of this section, a use license to a Federal agency resulting from a funding agreement with that agency pursuant to 35 U.S.C. 202(c)(4) does not preclude claiming small entity status, provided that:
+
+(A) The subject invention was made solely by employees of the small business concern or nonprofit organization; or
+
+(B) In the case of a Federal employee co-inventor, the Federal agency employing such co-inventor took action pursuant to 35 U.S.C. 202(e)(1) to exclusively license or assign whatever rights currently held or that it may acquire in the subject invention to the small business concern or nonprofit organization, subject to the license under 35 U.S.C. 202(c)(4).
+
+(iii) For small business concerns and nonprofit organizations under paragraphs (a)(2) and (3) of this section that have collaborated with a Federal agency laboratory pursuant to a cooperative research and development agreement (CRADA) under 15 U.S.C. 3710a(a)(1), claiming small entity status is not prohibited by a use license to the Government pursuant to:
+
+(A) 15 U.S.C. 3710a(b)(2) that results from retaining title to an invention made solely by the employee of the small business concern or nonprofit organization; or
+
+(B) 15 U.S.C. 3710a(b)(3)(D), provided the laboratory has waived in whole any right of ownership the Government may have to the subject invention made by the small business concern or nonprofit organization, or has exclusively licensed whatever ownership rights the Government may acquire in the subject invention to the small business concern or nonprofit organization.
+
+(iv) Regardless of whether an exception under this paragraph (a)(4) applies, no refund under § 1.28(a) is available for any patent fee paid by the Government.
 
 (5) *Security Interest.* A security interest does not involve an obligation to transfer rights in the invention for the purposes of paragraphs (a)(1) through (a)(3) of this section unless the security interest is defaulted upon.
 
@@ -80,4 +98,4 @@ Link to an amendment published at 85 FR 82923, Dec. 21, 2020.Link to a correctio
 
 (2) Improperly, and with intent to deceive, establishing status as a small entity, or paying fees as a small entity, shall be considered as a fraud practiced or attempted on the Office.
 
-[65 FR 54659, Sept. 8, 2000, as amended at 69 FR 56538, Sept. 21, 2004; 70 FR 3889, Jan. 27, 2005; 77 FR 48813, Aug. 14, 2012; 78 FR 4289, Jan. 18, 2013; 80 FR 17955, Apr. 2, 2015; 85 FR 46990, Aug. 3, 2020]
+[65 FR 54659, Sept. 8, 2000, as amended at 69 FR 56538, Sept. 21, 2004; 70 FR 3889, Jan. 27, 2005; 77 FR 48813, Aug. 14, 2012; 78 FR 4289, Jan. 18, 2013; 80 FR 17955, Apr. 2, 2015; 85 FR 46990, Aug. 3, 2020; 85 FR 82923, Dec. 21, 2020]

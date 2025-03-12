@@ -1,5 +1,7 @@
 ##### § 423.128 Dissemination of Part D plan information. #####
 
+Link to an amendment published at 86 FR 6115, Jan. 19, 2021.
+
 (a) *Detailed description.* A Part D sponsor must disclose the information specified in paragraph (b) of this section in the manner specified by CMS -
 
 (1) To each enrollee of a Part D plan offered by the Part D sponsor under this part;

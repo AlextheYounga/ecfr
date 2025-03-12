@@ -1,7 +1,5 @@
 ##### § 176.906 Stowage of engines and machinery. #####
 
-Link to an amendment published at 85 FR 83402, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
-
 (a) Any engine or machinery powered by internal combustion systems, with or without batteries installed, is subject to the following requirements when carried as cargo on a vessel:
 
 (1) Before being loaded on a vessel, each engine or machinery must be inspected for fuel leaks and identifiable faults in the electrical system that could result in short circuit or other unintended electrical source of ignition. Engines or machinery showing any signs of leakage or electrical fault may not be transported.
@@ -36,7 +34,7 @@ Link to an amendment published at 85 FR 83402, Dec. 21, 2020.The effective date 
 
 (i) Any valves or openings (*e.g.* venting devices) for liquid fuels must be closed during transport;
 
-(ii) The engines or machinery must be oriented to prevent inadvertent leakage of dangerous goods and secured by means capable of restraining the engines or machinery to prevent any movement during transport which would change the orientation or cause them to be damaged;
+(ii) The engines or machinery must be oriented to prevent inadvertent leakage of dangerous goods and secured by means capable of restraining the engines or machinery to prevent any shifting during transport which would change the orientation or cause them to be damaged;
 
 (iii) For UN 3528 and UN 3530:
 
@@ -60,4 +58,4 @@ Link to an amendment published at 85 FR 83402, Dec. 21, 2020.The effective date 
 
 (j) Except as provided in § 173.220(f) of this subchapter, the provisions of this subchapter do not apply to items of equipment such as fire extinguishers, compressed gas accumulators, airbag inflators and the like which are installed in the engine or machinery if they are necessary for the operation of the engine or machinery, or for the safety of its operator or passengers.
 
-[82 FR 15894, Mar. 30, 2017]
+[82 FR 15894, Mar. 30, 2017, as amended at 85 FR 83402, Dec. 21, 2020]

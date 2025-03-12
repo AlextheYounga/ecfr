@@ -1,7 +1,5 @@
 ##### § 173.150 Exceptions for Class 3 (flammable and combustible liquids). #####
 
-Link to an amendment published at 85 FR 83398, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
-
 (a) *General.* Exceptions for hazardous materials shipments in the following paragraphs are permitted only if this section is referenced for the specific hazardous material in the § 172.101 Table of this subchapter.
 
 (b) *Limited quantities.* Limited quantities of flammable liquids (Class 3) and combustible liquids are excepted from labeling requirements, unless the material is offered for transportation or transported by aircraft, and are excepted from the specification packaging requirements of this subchapter when packaged in combination packagings according to this paragraph. For transportation by aircraft, the package must also conform to applicable requirements of § 173.27 of this part (*e.g.,* authorized materials, inner packaging quantity limits and closure securement) and only hazardous material authorized aboard passenger-carrying aircraft may be transported as a limited quantity. A limited quantity package that conforms to the provisions of this section is not subject to the shipping paper requirements of subpart C of part 172 of this subchapter, unless the material meets the definition of a hazardous substance, hazardous waste, marine pollutant, or is offered for transportation and transported by aircraft or vessel, and is eligible for the exceptions provided in § 173.156 of this part. In addition, shipments of limited quantities are not subject to subpart F (Placarding) of part 172 of this subchapter. Each package must conform to the packaging requirements of subpart B of this part and may not exceed 30 kg (66 pounds) gross weight. Except for transportation by aircraft, the following combination packagings are authorized:
@@ -94,7 +92,7 @@ Link to an amendment published at 85 FR 83398, Dec. 21, 2020.The effective date 
 
 (D) For weight greater than 0.22 kilograms (0.5 pounds) up to 0.45 kilograms (1 pound) the company name and the words “Contains Ethyl Alcohol” are marked on the package.
 
-(iii) The net liquid contents of all inner packagings in any single outer packaging may not exceed 5.6 liters (1.5 gallons). The net solid contents of all inner packagings in any single outer packaging may not exceed 14.9 kilograms (33 pounds). The gross weight of any single outer package shipped may not exceed 29.9 kilograms (66 pounds); Inner packagings must be secured and cushioned within the outer package to prevent breakage, leakage, and movement.
+(iii) The net liquid contents of all inner packagings in any single outer packaging may not exceed 5.6 liters (1.5 gallons). The net solid contents of all inner packagings in any single outer packaging may not exceed 15 kilograms (33 pounds). The gross weight of any single outer package shipped may not exceed 30 kilograms (66 pounds); Inner packagings must be secured and cushioned within the outer package to prevent breakage, leakage, and shifting.
 
 (2) Beverages, food, cosmetics and medicines, medical screening solutions, and concentrates sold as retail products containing ethyl alcohol classed as a flammable liquid or flammable solid containing more than 70% ethyl alcohol by volume, by weight for solids are excepted from the HMR provided that:
 
@@ -102,7 +100,7 @@ Link to an amendment published at 85 FR 83398, Dec. 21, 2020.The effective date 
 
 (ii) Solids containing ethyl alcohol are not packed in inner packagings exceeding 0.22 kilograms (0.5 pounds) in weight;
 
-(iii) The net liquid contents of all inner packagings in any single outer packaging may not exceed 5.6 liters (1.5 gallons). The net solid contents of all inner packagings in any single outer packaging may not exceed 14.9 kilograms (33 pounds). The gross weight of any single outer package shipped may not exceed 29.9 kilograms (66 pounds). Inner packagings must be secured and cushioned within the outer package to prevent breakage, leakage, and movement.
+(iii) The net liquid contents of all inner packagings in any single outer packaging may not exceed 5.6 liters (1.5 gallons). The net solid contents of all inner packagings in any single outer packaging may not exceed 15 kilograms (33 pounds). The gross weight of any single outer package shipped may not exceed 30 kilograms (66 pounds). Inner packagings must be secured and cushioned within the outer package to prevent breakage, leakage, and shifting.
 
 (3) For transportation by passenger or cargo aircraft, no outer package may be transported which contains an inner packaging exceeding:
 

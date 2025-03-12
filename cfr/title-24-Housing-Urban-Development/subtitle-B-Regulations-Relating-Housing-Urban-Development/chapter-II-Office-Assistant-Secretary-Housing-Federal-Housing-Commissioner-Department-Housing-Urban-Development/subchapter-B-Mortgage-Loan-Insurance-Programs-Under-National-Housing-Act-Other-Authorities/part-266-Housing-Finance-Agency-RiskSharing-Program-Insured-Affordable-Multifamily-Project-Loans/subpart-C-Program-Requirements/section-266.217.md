@@ -1,3 +1,5 @@
-##### § 266.217 xxx #####
+##### § 266.217 Environmental review requirements. #####
 
-Link to an amendment published at 85 FR 83442, Dec. 22, 2020.
+The responsible entity, as defined in 24 CFR part 58 (Environmental Review Procedures for Entities Assuming HUD Environmental Responsibilities), assumes legal responsibility for compliance with the requirements of the National Environmental Policy Act of 1969 and related laws and authorities. The responsible entity will visit each project site proposed for insurance under this part and prepare the applicable environmental reviews as set forth in 24 CFR part 58. HUD may make a finding in accordance with 24 CFR 58.11, Legal Capacity and Performance, and may perform the environmental review itself under 24 CFR part 50 (Protection and Enhancement of Environmental Quality). In all cases the environmental review must be completed before HUD may issue the firm approval letter.
+
+[85 FR 83442, Dec. 22, 2020]

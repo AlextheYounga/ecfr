@@ -1,5 +1,7 @@
 ##### § 423.505 Contract provisions. #####
 
+Link to an amendment published at 86 FR 6119, Jan. 19, 2021.
+
 (a) *General rule.* The contract between the Part D plan sponsor and CMS must contain the provisions specified in paragraph (b) of this section.
 
 (b) *Requirements for contracts.* The Part D plan sponsor agrees to -

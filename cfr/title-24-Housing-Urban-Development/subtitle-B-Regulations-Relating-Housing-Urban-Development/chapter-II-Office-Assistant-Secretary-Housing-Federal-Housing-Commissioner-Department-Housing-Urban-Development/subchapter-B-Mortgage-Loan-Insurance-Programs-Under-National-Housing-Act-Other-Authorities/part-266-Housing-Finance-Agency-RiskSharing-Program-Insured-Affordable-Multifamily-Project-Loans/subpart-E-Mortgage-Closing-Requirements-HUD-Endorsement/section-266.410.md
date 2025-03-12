@@ -1,7 +1,5 @@
 ##### § 266.410 Mortgage provisions. #####
 
-Link to an amendment published at 85 FR 83444, Dec. 22, 2020.
-
 (a) *Form.* The mortgage and note must be executed on a form approved by the HFA for use in the jurisdiction in which the property is located.
 
 (b) *Mortgagor.* The mortgage must be executed by a mortgagor determined eligible by the HFA.
@@ -10,7 +8,11 @@ Link to an amendment published at 85 FR 83444, Dec. 22, 2020.
 
 (d) *Single asset mortgagor.* The mortgage must require that the mortgagor is a single asset mortgagor.
 
-(e) *Amortization.* The mortgage must provide for complete amortization (*i.e.,* regularly amortizing) over the term of the mortgage.
+(e) *Amortization.* The mortgage must provide for complete amortization (*i.e.,* be regularly amortizing) over the term of the mortgage. The complete amortization requirement does not apply to:
+
+(1) Construction loans, or
+
+(2) Level I participants where the loan has a minimum term of 17 years that would amortize over a maximum period of 40 years and the HFA's underwriting standards, loan terms and conditions, and asset management and servicing procedures have been approved by HUD.
 
 (f) *Use restrictions.* The mortgage must contain a covenant prohibiting the use of the property for any purpose other than the purpose intended on the day the mortgage was executed. The conversion of a project from rental to cooperative is not a “change in use” as that term is employed in the mortgage since the property will continue to have a residential use both before and after conversion.
 
@@ -19,3 +21,5 @@ Link to an amendment published at 85 FR 83444, Dec. 22, 2020.
 (h) *Modification of terms.* The mortgage must contain a covenant requiring that, in the event that the HFA and owner agree to a modification of the terms of the mortgage (*e.g.,* to reflect a reduction of the interest rate if reductions are realized in the underlying bond rates for the project), Section 8 rents would be reduced in accordance with HUD guidelines.
 
 (i) *Regulatory Agreement.* The mortgage must contain a provision incorporating the Regulatory Agreement by reference.
+
+[59 FR 62524, Dec. 5, 1994, as amended at 85 FR 83444, Dec. 22, 2020]

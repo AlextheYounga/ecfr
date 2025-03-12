@@ -1,10 +1,8 @@
 ##### § 266.650 Items deducted from total loss. #####
 
-Link to an amendment published at 85 FR 83445, Dec. 22, 2020.
-
 In computing insurance benefits, the following items are deducted from the amounts described in § 266.646(a) and (b):
 
-(a) All amounts received by the HFA on account of the mortgage after the date of default;
+(a) All amounts received by the HFA on account of the mortgage after the date of default, including any partial payment of claim paid by HUD in the event a full claim follows a partial payment of claim;
 
 (b) All cash, and/or funds related to the mortgaged property, including deposits and escrows made for the account of the mortgagor that the HFA holds (or to which it is entitled);
 
@@ -23,3 +21,5 @@ In computing insurance benefits, the following items are deducted from the amoun
 (f) Any and all claims that the HFA has acquired in connection with the acquisition and sale of the property. Claims include but are not limited to returned premiums from canceled insurance policies, interest on investments of reserve for replacement funds, tax refunds, refunds of deposits left with utility companies, and amounts received as proceeds of a receivership.
 
 (g) The amount of daily HFA Debenture interest accrued but not paid from the anniversary date of the last HFA Debenture interest payment to the date an application for final claim payment is received by the Commissioner.
+
+[59 FR 62524, Dec. 5, 1994, as amended at 85 FR 83445, Dec. 22, 2020]

@@ -1,7 +1,5 @@
 ##### § 266.120 Actions for which sanctions may be imposed. #####
 
-Link to an amendment published at 85 FR 83441, Dec. 22, 2020.
-
 Results of monitoring or other reviews may serve as the basis for the Commissioner's imposing sanctions on the HFA. Violations for which sanctions may be imposed include, but are not limited to:
 
 (a) Commission of fraud or making a material misrepresentation by the HFA with respect to any mortgage insured or to any other matter under this part.
@@ -10,7 +8,7 @@ Results of monitoring or other reviews may serve as the basis for the Commission
 
 (c) Engagement in business practices that do not conform to generally accepted practices of prudent lenders or that demonstrate irresponsibility.
 
-(d) Actions or conduct for which sanctions may be imposed against the HFA by HUD's Mortgagee Review Board under 24 CFR 25.9.
+(d) Actions or conduct for which sanctions may be imposed against the HFA by HUD's Mortgagee Review Board under 24 CFR 25.9, which pertains to “notice of administrative action”.
 
 (e) Failure to:
 
@@ -22,7 +20,7 @@ Results of monitoring or other reviews may serve as the basis for the Commission
 
 (4) Issue debentures in the event of an initial claim payment by HUD, or to reimburse HUD for payment of a claim;
 
-(5) Maintain its top tier designation or overall rating of “A” on general obligation bonds (or if such designation or rating is lost, comply with paragraph (e)(6) of this section);
+(5) Maintain an issuer credit rating of “A” or better, or an equivalent designation, or overall rating of “A” on general obligation bonds (or if such rating is lost, comply with paragraph (e)(6) of this section);
 
 (6) Establish and maintain a dedicated account, if required, or meet other financial obligations under this program;
 
@@ -41,3 +39,5 @@ Results of monitoring or other reviews may serve as the basis for the Commission
 (13) Consider adequately special risk circumstances without compensating for the higher risks of such transactions (*e.g.,* high loan-to-value ratios in areas with high vacancy or default rates); or
 
 (14) Remit mortgage insurance premiums on a timely basis or failure to refund or credit mortgagor's accounts with overpaid mortgage insurance premiums.
+
+[59 FR 62524, Dec. 5, 1994, as amended at 85 FR 83441, Dec. 22, 2020]

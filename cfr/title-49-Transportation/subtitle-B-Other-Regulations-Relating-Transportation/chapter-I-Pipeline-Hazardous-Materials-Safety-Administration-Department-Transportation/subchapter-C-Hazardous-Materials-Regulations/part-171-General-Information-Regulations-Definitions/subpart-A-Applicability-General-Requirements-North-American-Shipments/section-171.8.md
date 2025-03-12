@@ -1,7 +1,5 @@
 ##### § 171.8 Definitions and abbreviations. #####
 
-Link to an amendment published at 85 FR 83374, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
-
 In this subchapter,
 
 *Administrator* means the Administrator, Pipeline and Hazardous Materials Safety Administration.
@@ -643,7 +641,7 @@ The term does not include petroleum, including crude oil or any fraction thereof
 
 *Remanufactured packagings.* See § 173.28 of this subchapter.
 
-*Reportable quantity (RQ)* for the purposes of this subchapter means the quantity specified in column 2 of the appendix to § 172.101 for any material identified in column 1 of the appendix.
+*Reportable quantity (RQ)* for the purposes of this subchapter, means the quantity specified in Column 2 of Table 1 or Column 3 of Table 2 of appendix A to § 172.101 for any material identified in Column 1 of the tables.
 
 *Research* means investigation or experimentation aimed at the discovery of new theories or laws and the discovery and interpretation of facts or revision of accepted theories or laws in the light of new facts. Research does not include the application of existing technology to industrial endeavors.
 

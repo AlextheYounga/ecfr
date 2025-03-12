@@ -1,16 +1,14 @@
 ##### 52.225-1 Buy American - Supplies. #####
 
-Link to an amendment published at 86 FR 6190, Jan. 19, 2021.
-
 As prescribed in 25.1101(a)(1), insert the following clause:
 
-Buy American - Supplies (MAY 2014)
+Buy American - Supplies (JAN 2021)
 
 (a) *Definitions.* As used in this clause -
 
 *Commercially available off-the-shelf (COTS) item* - (1) Means any item of supply (including construction material) that is -
 
-(i) A commercial item (as defined in paragraph (1) of the definition at FAR 2.101);
+(i) A commercial item (as defined in paragraph (1) of the definition at Federal Acquisition Regulation (FAR) 2.101);
 
 (ii) Sold in substantial quantities in the commercial marketplace; and
 
@@ -28,24 +26,36 @@ Buy American - Supplies (MAY 2014)
 
 *Domestic end product* means -
 
-(1) An unmanufactured end product mined or produced in the United States;
+(1) For an end product that does not consist wholly or predominantly of iron or steel or a combination of both -
 
-(2) An end product manufactured in the United States, if -
+(i) An unmanufactured end product mined or produced in the United States;
 
-(i) The cost of its components mined, produced, or manufactured in the United States exceeds 50 percent of the cost of all its components. Components of foreign origin of the same class or kind as those that the agency determines are not mined, produced, or manufactured in sufficient and reasonably available commercial quantities of a satisfactory quality are treated as domestic. Scrap generated, collected, and prepared for processing in the United States is considered domestic; or
+(ii) An end product manufactured in the United States, if -
 
-(ii) The end product is a COTS item.
+(A) The cost of its components mined, produced, or manufactured in the United States exceeds 55 percent of the cost of all its components. Components of foreign origin of the same class or kind as those that the agency determines are not mined, produced, or manufactured in sufficient and reasonably available commercial quantities of a satisfactory quality are treated as domestic. Components of unknown origin are treated as foreign. Scrap generated, collected, and prepared for processing in the United States is considered domestic; or
+
+(B) The end product is a COTS item; or
+
+(2) For an end product that consists wholly or predominantly of iron or steel or a combination of both, an end product manufactured in the United States, if the cost of foreign iron and steel constitutes less than 5 percent of the cost of all the components used in the end product. The cost of foreign iron and steel includes but is not limited to the cost of foreign iron or steel mill products (such as bar, billet, slab, wire, plate, or sheet), castings, or forgings utilized in the manufacture of the end product and a good faith estimate of the cost of all foreign iron or steel components excluding COTS fasteners. Iron or steel components of unknown origin are treated as foreign. If the end product contains multiple components, the cost of all the materials used in such end product is calculated in accordance with the definition of “cost of components”.
 
 *End product* means those articles, materials, and supplies to be acquired under the contract for public use.
 
+*Fastener* means a hardware device that mechanically joins or affixes two or more objects together. Examples of fasteners are nuts, bolts, pins, rivets, nails, clips, and screws.
+
 *Foreign end product* means an end product other than a domestic end product.
+
+*Foreign iron and steel* means iron or steel products not produced in the United States. Produced in the United States means that all manufacturing processes of the iron or steel must take place in the United States, from the initial melting stage through the application of coatings, except metallurgical processes involving refinement of steel additives. The origin of the elements of the iron or steel is not relevant to the determination of whether it is domestic or foreign.
+
+*Predominantly of iron or steel or a combination of both* means that the cost of the iron and steel content exceeds 50 percent of the total cost of all its components. The cost of iron and steel is the cost of the iron or steel mill products (such as bar, billet, slab, wire, plate, or sheet), castings, or forgings utilized in the manufacture of the product and a good faith estimate of the cost of iron or steel components excluding COTS fasteners.
+
+*Steel* means an alloy that includes at least 50 percent iron, between 0.02 and 2 percent carbon, and may include other elements.
 
 *United States* means the 50 States, the District of Columbia, and outlying areas.
 
-(b) 41 U.S.C. chapter 83, Buy American, provides a preference for domestic end products for supplies acquired for use in the United States. In accordance with 41 U.S.C. 1907, the component test of the Buy American statute is waived for an end product that is a COTS item (See 12.505(a)(1)).
+(b) 41 U.S.C. chapter 83, Buy American, provides a preference for domestic end products for supplies acquired for use in the United States. In accordance with 41 U.S.C. 1907, the domestic content test of the Buy American statute is waived for an end product that is a COTS item (see 12.505(a)(1)), except that for an end product that consists wholly or predominantly of iron or steel or a combination of both, the domestic content test is applied only to the iron and steel content of the end product, excluding COTS fasteners.
 
 (c) Offerors may obtain from the Contracting Officer a list of foreign articles that the Contracting Officer will treat as domestic for this contract.
 
 (d) The Contractor shall deliver only domestic end products except to the extent that it specified delivery of foreign end products in the provision of the solicitation entitled “Buy American Certificate.”
 
-(End of clause)[64 FR 72433, Dec. 27, 1999, as amended at 66 FR 65350, Dec. 18, 2001; 67 FR 21536, Apr. 30, 2002; 68 FR 28086, May 22, 2003; 74 2722, Jan. 15, 2009; 79 FR 24220, Apr. 29, 2014]
+(End of clause)[64 FR 72433, Dec. 27, 1999, as amended at 66 FR 65350, Dec. 18, 2001; 67 FR 21536, Apr. 30, 2002; 68 FR 28086, May 22, 2003; 74 2722, Jan. 15, 2009; 79 FR 24220, Apr. 29, 2014; 86 FR 6190, Jan. 19, 2021]

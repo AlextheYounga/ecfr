@@ -1,7 +1,5 @@
 ##### § 173.199 Category B infectious substances. #####
 
-Link to an amendment published at 85 FR 83399, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
-
 (a) *Category B infectious substances.* Except as provided in this paragraph (a), Category B infectious substances are excepted from all other requirements of this subchapter when offered for transportation or transported in accordance with this section. Category B infectious substances offered for transportation or transported under the provisions of this section are subject to the incident reporting requirements in §§ 171.15 and 171.16 of this subchapter and to the requirements in § 175.75(b) of this subchapter concerning cargo location. Except as provided in paragraph (a)(9) of this section, a Category B infectious substance meeting the definition of a hazard class other than Division 6.2 must be offered for transportation or transported in accordance with applicable requirements of this subchapter.
 
 (1) A Category B infectious substance must be packaged in a triple packaging consisting of a primary receptacle, a secondary packaging, and a rigid outer packaging.
@@ -22,7 +20,7 @@ Link to an amendment published at 85 FR 83399, Dec. 21, 2020.The effective date 
 
 (6) When packages are placed in an overpack, the package markings required by this section must be either clearly visible or reproduced on the outside of the overpack.
 
-(7) The name and telephone number of a person who is either knowledgeable about the material being shipped and has comprehensive emergency response and incident mitigation information for the material, or has immediate access to a person who possesses such knowledge and information, must be included on a written document (such as an air waybill or bill of lading) or on the outer packaging.
+(7) The name and telephone number of a person who is either knowledgeable about the material being shipped and has comprehensive emergency response and incident mitigation information for the material, or has immediate access to a person who possesses such knowledge and information, must be included on a written document (such as an air waybill or bill of lading) or on the outer packaging. The telephone number must be monitored during a company's administrative hours (*i.e.,* company's operational business hours).
 
 (8) For transportation by aircraft, each package, overpack, pallet, or unit load device containing a Category B infectious substance must be inspected for leakage when it is unloaded from the aircraft. If evidence of leakage is found, the cargo compartment in which the package, overpack, pallet, or unit load device was transported must be disinfected. Disinfection may be by any means that will make the material released ineffective at transmitting disease.
 
@@ -68,4 +66,4 @@ Link to an amendment published at 85 FR 83399, Dec. 21, 2020.The effective date 
 
 (e) *Training.* Each person who offers or transports a Category B infectious substance under the provisions of this section must know about the requirements of this section.
 
-[67 FR 53142, Aug. 14, 2002, as amended at 71 FR 32261, June 2, 2006; 72 FR 55693, Oct. 1, 2007; 78 FR 1088, Jan. 7, 2013; 80 FR 1160, Jan. 8, 2015; 80 FR 72927, Nov. 23, 2015; 81 FR 35542, June 2, 2016]
+[67 FR 53142, Aug. 14, 2002, as amended at 71 FR 32261, June 2, 2006; 72 FR 55693, Oct. 1, 2007; 78 FR 1088, Jan. 7, 2013; 80 FR 1160, Jan. 8, 2015; 80 FR 72927, Nov. 23, 2015; 81 FR 35542, June 2, 2016; 85 FR 83399, Dec. 21, 2020]

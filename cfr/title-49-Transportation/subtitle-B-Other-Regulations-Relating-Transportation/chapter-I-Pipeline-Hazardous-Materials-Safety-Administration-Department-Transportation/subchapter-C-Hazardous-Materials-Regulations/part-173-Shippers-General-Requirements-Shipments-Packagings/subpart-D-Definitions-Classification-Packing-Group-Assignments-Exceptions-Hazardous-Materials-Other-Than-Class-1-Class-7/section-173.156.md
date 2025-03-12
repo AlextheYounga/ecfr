@@ -1,6 +1,4 @@
-##### § 173.156 Exceptions for limited quantity and ORM. #####
-
-Link to an amendment published at 85 FR 83398, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
+##### § 173.156 Exceptions for limited quantity and ORM-D. #####
 
 (a) Exceptions for hazardous materials shipments in the following paragraphs are permitted only if this section is referenced for the specific hazardous material in the § 172.101 Table or in a packaging section in this part.
 

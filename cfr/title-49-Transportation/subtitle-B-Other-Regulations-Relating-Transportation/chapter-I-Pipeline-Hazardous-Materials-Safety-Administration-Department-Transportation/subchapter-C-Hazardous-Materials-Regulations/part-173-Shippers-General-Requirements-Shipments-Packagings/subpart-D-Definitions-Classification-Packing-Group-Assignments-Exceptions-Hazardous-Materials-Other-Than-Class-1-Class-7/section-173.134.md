@@ -1,7 +1,5 @@
 ##### § 173.134 Class 6, Division 6.2 - Definitions and exceptions. #####
 
-Link to an amendment published at 85 FR 83397, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
-
 (a) *Definitions and classification criteria.* For the purposes of this subchapter, the following definitions and classification criteria apply to Division 6.2 materials.
 
 (1) *Division 6.2 (Infectious substance)* means a material known or reasonably expected to contain a pathogen. A pathogen is a microorganism (including bacteria, viruses, rickettsiae, parasites, fungi) or other agent, such as a proteinaceous infectious particle (prion), that can cause disease in humans or animals. An infectious substance must be assigned the identification number UN 2814, UN 2900, UN 3373, or UN 3291 as appropriate, and must be assigned to one of the following categories:
@@ -38,7 +36,7 @@ Link to an amendment published at 85 FR 83397, Dec. 21, 2020.The effective date 
 
 (6) A biological product, including an experimental or investigational product or component of a product, subject to Federal approval, permit, review, or licensing requirements, such as those required by the Food and Drug Administration of the U.S. Department of Health and Human Services or the U.S. Department of Agriculture.
 
-(7) Blood collected for the purpose of blood transfusion or the preparation of blood products; blood products; plasma; plasma derivatives; blood components; tissues or organs intended for use in transplant operations; and human cell, tissues, and cellular and tissue-based products regulated under authority of the Public Health Service Act (42 U.S.C. 264-272) and/or the Food, Drug, and Cosmetic Act (21 U.S.C. 332 *et seq.*).
+(7) Blood collected for the purpose of blood transfusion or the preparation of blood products; blood products; plasma; plasma derivatives; blood components; tissues or organs intended for use in transplant operations; and human cell, tissues, and cellular and tissue-based products regulated under authority of the Public Health Service Act (42 U.S.C. 264-272) and/or the Food, Drug, and Cosmetic Act (21 U.S.C. 301 *et seq.*).
 
 (8) Blood, blood plasma, and blood components collected for the purpose of blood transfusion or the preparation of blood products and sent for testing as part of the collection process, except where the person collecting the blood has reason to believe it contains an infectious substance, in which case the test sample must be shipped as a Category A or Category B infectious substance in accordance with § 173.196 or § 173.199, as appropriate.
 
@@ -58,7 +56,7 @@ Link to an amendment published at 85 FR 83397, Dec. 21, 2020.The effective date 
 
 (B) Each primary container must be placed inside a watertight secondary container designed and constructed to assure that it remains intact under conditions normally incident to transportation. The secondary container must be marked with a BIOHAZARD marking conforming to 29 CFR 1910.1030(g)(1)(i).
 
-(C) The secondary container must be placed inside an outer packaging with sufficient cushioning material to prevent movement between the secondary container and the outer packaging. An itemized list of the contents of the primary container and information concerning possible contamination with a Division 6.2 material, including its possible location on the product, must be placed between the secondary container and the outside packaging.
+(C) The secondary container must be placed inside an outer packaging with sufficient cushioning material to prevent shifting between the secondary container and the outer packaging. An itemized list of the contents of the primary container and information concerning possible contamination with a Division 6.2 material, including its possible location on the product, must be placed between the secondary container and the outside packaging.
 
 (D) Each person who offers or transports a used health care product under the provisions of this paragraph must know about the requirements of this paragraph.
 
@@ -82,7 +80,7 @@ Link to an amendment published at 85 FR 83397, Dec. 21, 2020.The effective date 
 
 (ii) Forensic material known or suspected to contain a Category A infectious substance or an infectious substance listed as a select agent in 42 CFR part 73 must be transported in packaging capable of meeting the test standards in § 178.609 of this subchapter. The secondary packaging must be marked with a BIOHAZARD symbol conforming to specifications in 29 CFR 1910.1030(g)(1)(i). An itemized list of contents must be enclosed between the secondary packaging and the outer packaging.
 
-(16) Agricultural products and food as defined in the Federal Food, Drug, and Cosmetics Act (21 U.S.C. 332 *et seq.*).
+(16) A raw agricultural commodity as defined in the Federal Food, Drug, and Cosmetics Act (21 U.S.C. 301 *et seq.*).
 
 (c) *Exceptions for regulated medical waste.* The following provisions apply to the transportation of regulated medical waste:
 
@@ -118,4 +116,4 @@ Link to an amendment published at 85 FR 83397, Dec. 21, 2020.The effective date 
 
 (e) *Transitional provisions.* The authorization for continued use of the criteria for packing group assignments in effect on December 31, 2006 ended on January 1, 2012.
 
-[67 FR 53138, Aug. 14, 2002, as amended at 68 FR 57632, Oct. 6, 2003; 70 FR 56098, Sept. 23, 2005; 71 FR 32258, June 2, 2006; 71 FR 78631, Dec. 29, 2006; 72 FR 55692, Oct. 1, 2007; 73 FR 4718, Jan. 28, 2008; 74 FR 2257, Jan. 14, 2009; 76 FR 43530, July 20, 2011; 77 FR 60942, Oct. 5, 2012; 78 FR 15327, Mar. 11, 2013; 85 FR 27880, May 11, 2020]
+[67 FR 53138, Aug. 14, 2002, as amended at 68 FR 57632, Oct. 6, 2003; 70 FR 56098, Sept. 23, 2005; 71 FR 32258, June 2, 2006; 71 FR 78631, Dec. 29, 2006; 72 FR 55692, Oct. 1, 2007; 73 FR 4718, Jan. 28, 2008; 74 FR 2257, Jan. 14, 2009; 76 FR 43530, July 20, 2011; 77 FR 60942, Oct. 5, 2012; 78 FR 15327, Mar. 11, 2013; 85 FR 27880, May 11, 2020; 85 FR 83397, Dec. 21, 2020]

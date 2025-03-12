@@ -1,10 +1,10 @@
 ##### 52.213-4 Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items). #####
 
-Link to an amendment published at 86 FR 6190, Jan. 19, 2021.Link to an amendment published at 86 FR 3688, Jan. 14, 2021.
+Link to an amendment published at 86 FR 3688, Jan. 14, 2021.
 
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (NOV 2020)
+Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (JAN 2021)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -92,7 +92,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Items) (NO
 
 (xvi) 52.223-21, Foams (JUN 2016) (E.O. 13693) (Applies to contracts for products that may contain high global warming potential hydrofluorocarbons or refrigerant blends containing hydrofluorocarbons as a foam blowing agent; or contracts for construction of buildings or facilities.
 
-(xvii) 52.225-1, Buy American - Supplies (MAY 2014) (41 U.S.C. chapter 67) (Applies to contracts for supplies, and to contracts for services involving the furnishing of supplies, for use in the United States or its outlying areas, if the value of the supply contract or supply portion of a service contract exceeds the micro-purchase threshold, as defined in FAR 2.101 on the date of award of this contract, and the acquisition -
+(xvii) 52.225-1, Buy American - Supplies (JAN 2021) (41 U.S.C. chapter 67) (Applies to contracts for supplies, and to contracts for services involving the furnishing of supplies, for use in the United States or its outlying areas, if the value of the supply contract or supply portion of a service contract exceeds the micro-purchase threshold, as defined in FAR 2.101 on the date of award of this contract, and the acquisition -
 
 (A) Is set aside for small business concerns; or
 

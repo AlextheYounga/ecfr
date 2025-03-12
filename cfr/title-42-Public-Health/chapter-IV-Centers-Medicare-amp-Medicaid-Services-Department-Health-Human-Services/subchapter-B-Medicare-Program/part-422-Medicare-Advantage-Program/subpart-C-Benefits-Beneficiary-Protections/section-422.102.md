@@ -1,5 +1,7 @@
 ##### § 422.102 Supplemental benefits. #####
 
+Link to an amendment published at 86 FR 6095, Jan. 19, 2021.
+
 (a) *Mandatory supplemental benefits.* (1) Subject to CMS approval, an MA organization may require Medicare enrollees of an MA plan (other than an MSA plan) to accept or pay for services in addition to Medicare-covered services described in § 422.101.
 
 (2) If the MA organization imposes mandatory supplemental benefits, it must impose them on all Medicare beneficiaries enrolled in the MA plan.

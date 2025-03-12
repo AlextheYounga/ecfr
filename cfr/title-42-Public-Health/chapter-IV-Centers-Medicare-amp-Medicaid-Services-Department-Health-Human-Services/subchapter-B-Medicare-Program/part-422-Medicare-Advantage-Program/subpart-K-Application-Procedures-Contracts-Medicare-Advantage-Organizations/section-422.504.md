@@ -1,5 +1,7 @@
 ##### § 422.504 Contract provisions. #####
 
+Link to an amendment published at 86 FR 6099, Jan. 19, 2021.
+
 The contract between the MA organization and CMS must contain the following provisions:
 
 (a) *Agreement to comply with regulations and instructions.* The MA organization agrees to comply with all the applicable requirements and conditions set forth in this part and in general instructions. Compliance with the terms of this paragraph (a) is material to the performance of the MA contract. The MA organization agrees -

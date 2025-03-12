@@ -1,5 +1,7 @@
 ##### § 423.2274 Broker and agent requirements. #####
 
+Link to an amendment published at 86 FR 6129, Jan. 19, 2021.
+
 If a Part D sponsor uses agents and brokers to sell its Part D plans, the following requirements in this section are applicable.
 
 (a) *Definitions.* For purposes of this section, the following definitions are applicable:

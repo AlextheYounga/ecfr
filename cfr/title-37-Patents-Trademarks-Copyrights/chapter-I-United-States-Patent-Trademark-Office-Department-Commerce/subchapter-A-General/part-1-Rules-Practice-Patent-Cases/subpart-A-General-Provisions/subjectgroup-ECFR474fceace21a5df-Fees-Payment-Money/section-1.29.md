@@ -1,10 +1,8 @@
 ##### § 1.29 Micro entity status. #####
 
-Link to an amendment published at 85 FR 82923, Dec. 21, 2020.Link to a correction of the above amendment published at 86 FR 2542, Jan. 13, 2021.Link to a correction of the above amendment published at 86 FR 3817, Jan. 15, 2021.
-
 (a) To establish micro entity status under this paragraph, the applicant must certify that:
 
-(1) The applicant qualifies as a small entity as defined in § 1.27;
+(1) The applicant qualifies as a small entity as defined in § 1.27 without relying on a government use license exception under § 1.27(a)(4);
 
 (2) Neither the applicant nor the inventor nor a joint inventor has been named as the inventor or a joint inventor on more than four previously filed patent applications, other than applications filed in another country, provisional applications under 35 U.S.C. 111(b), or international applications for which the basic national fee under 35 U.S.C. 41(a) was not paid;
 
@@ -18,7 +16,7 @@ Link to an amendment published at 85 FR 82923, Dec. 21, 2020.Link to a correctio
 
 (d) To establish micro entity status under this paragraph, the applicant must certify that:
 
-(1) The applicant qualifies as a small entity as defined in § 1.27; and
+(1) The applicant qualifies as a small entity as defined in § 1.27 without relying on a government use license exception under § 1.27(a)(4);
 
 (2)(i) The applicant's employer, from which the applicant obtains the majority of the applicant's income, is an institution of higher education as defined in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)); or
 
@@ -54,4 +52,4 @@ Link to an amendment published at 85 FR 82923, Dec. 21, 2020.Link to a correctio
 
 (4) Any deficiency payment (based on a previous erroneous payment of a micro entity fee) submitted under this paragraph will be treated as a notification of a loss of entitlement to micro entity status under paragraph (i) of this section.
 
-[77 FR 75033, Dec. 19, 2012, as amended at 78 FR 62396, Oct. 21, 2013; 80 FR 17955, Apr. 2, 2015]
+[77 FR 75033, Dec. 19, 2012, as amended at 78 FR 62396, Oct. 21, 2013; 80 FR 17955, Apr. 2, 2015; 85 FR 82923, Dec. 21, 2020]

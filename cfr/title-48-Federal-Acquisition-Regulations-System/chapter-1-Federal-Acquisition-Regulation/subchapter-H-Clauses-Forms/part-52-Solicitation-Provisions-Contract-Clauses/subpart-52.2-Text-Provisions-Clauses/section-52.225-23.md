@@ -1,10 +1,8 @@
 ##### 52.225-23 Required Use of American Iron, Steel, and Manufactured Goods - Buy American Statute - Construction Materials Under Trade Agreements. #####
 
-Link to an amendment published at 86 FR 6193, Jan. 19, 2021.
-
 As prescribed in 25.1102(e), insert the following clause:
 
-Required Use of American Iron, Steel, and Manufactured Goods - Buy American Statute - Construction Materials Under Trade Agreements (OCT 2019)
+Required Use of American Iron, Steel, and Manufactured Goods - Buy American Statute - Construction Materials Under Trade Agreements (JAN 2021)
 
 (a) *Definitions.* As used in this clause -
 
@@ -58,7 +56,7 @@ Required Use of American Iron, Steel, and Manufactured Goods - Buy American Stat
 
 *Recovery Act designated country construction material* means a construction material that is a WTO GPA country construction material, an FTA country construction material, or a least developed country construction material.
 
-*Steel* means an alloy that includes at least 50 percent iron, between .02 and 2 percent carbon, and may include other elements.
+*Steel* means an alloy that includes at least 50 percent iron, between 0.02 and 2 percent carbon, and may include other elements.
 
 *United States* means the 50 States, the District of Columbia, and outlying areas.
 
@@ -92,7 +90,7 @@ Required Use of American Iron, Steel, and Manufactured Goods - Buy American Stat
 
 (A) The cost of domestic manufactured construction material is unreasonable when the cumulative cost of such material, when compared to the cost of comparable foreign manufactured construction material, other than Recovery Act designated country construction material, will increase the overall cost of the contract by more than 25 percent;
 
-(B) The cost of domestic unmanufactured construction material is unreasonable when the cost of such material exceeds the cost of comparable foreign unmanufactured construction material, other than designated country construction material, by more than 6 percent;
+(B) The cost of domestic unmanufactured construction material is unreasonable when the cost of such material exceeds the cost of comparable foreign unmanufactured construction material, other than designated country construction material, by more than 20 percent;
 
 (ii) The construction material is not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities of a satisfactory quality; or
 
@@ -163,4 +161,4 @@ Foreign (Nondesignated Country) and Domestic Construction Materials Cost Compari
 
 (2) The Contractor shall use only domestic construction material, Recovery Act designated country manufactured construction material, or designated country unmanufactured construction material, other than Bahrainian, Mexican, or Omani construction material, in performing this contract, except as provided in paragraphs (b)(3) and (b)(4) of this clause.
 
-[74 FR 14628, Mar. 31, 2009, as amended at 74 FR 40463, Aug. 11, 2009; 75 FR 53168, Aug. 30, 2010; 76 FR 68040, Nov. 2, 2011; 77 FR 12937, Mar. 2, 2012; 77 FR 13956, Mar. 7, 2012; 77 FR 27550, May 10, 2012; 77 FR 69726, Nov. 20, 2012; 78 FR 46794, Aug. 1, 2013; 78 FR 70481, Nov. 25, 2013; 79 FR 24222, Apr. 29, 2014; 80 FR 81894, Dec. 31, 2015; 81 FR 67776, Sept. 30, 2016; 84 FR 47868, Sept. 10, 2019]
+[74 FR 14628, Mar. 31, 2009, as amended at 74 FR 40463, Aug. 11, 2009; 75 FR 53168, Aug. 30, 2010; 76 FR 68040, Nov. 2, 2011; 77 FR 12937, Mar. 2, 2012; 77 FR 13956, Mar. 7, 2012; 77 FR 27550, May 10, 2012; 77 FR 69726, Nov. 20, 2012; 78 FR 46794, Aug. 1, 2013; 78 FR 70481, Nov. 25, 2013; 79 FR 24222, Apr. 29, 2014; 80 FR 81894, Dec. 31, 2015; 81 FR 67776, Sept. 30, 2016; 84 FR 47868, Sept. 10, 2019; 86 FR 6193, Jan. 19, 2021]

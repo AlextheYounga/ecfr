@@ -1,7 +1,5 @@
 ##### § 173.176 Capacitors. #####
 
-Link to an amendment published at 85 FR 83398, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
-
 (a) Capacitors, including capacitors containing an electrolyte that does not meet the definition of any hazard class or division as defined in this part, must conform to the following requirements:
 
 (1) Except for asymmetric capacitors, capacitors not installed in equipment must be transported in an uncharged state.
@@ -30,8 +28,8 @@ Link to an amendment published at 85 FR 83398, Dec. 21, 2020.The effective date 
 
 (f) Except for asymmetric capacitors, capacitors containing an electrolyte meeting the definition of one or more hazard class or division as defined in this part, that are not installed in equipment, and with an energy storage capacity of more than 10 Wh are subject to the requirements of this subchapter.
 
-(g) Asymmetric capacitors containing an electrolyte meeting the definition of one or more hazard class or division as defined in this part, that are not installed in equipment, and with an energy storage capacity of more than 20 Wh are to the requirements of this subchapter.
+(g) Asymmetric capacitors containing an electrolyte meeting the definition of one or more hazard class or division as defined in this part, that are not installed in equipment, and with an energy storage capacity of more than 20 Wh are subject to the requirements of this subchapter.
 
 (h) Capacitors installed in equipment and containing an electrolyte meeting the definition of one or more hazard class or division as defined in this part, are not subject to any other requirements of this subchapter, provided the equipment is packaged in a strong outer packaging and in such a manner as to prevent accidental functioning of the capacitors during transport. Large, robust equipment containing capacitors may be offered for transport unpackaged or on pallets when the capacitors are afforded equivalent protection by the equipment in which they are contained.
 
-[80 FR 1159, Jan. 8, 2015]
+[80 FR 1159, Jan. 8, 2015, as amended at 85 FR 83398, Dec. 21, 2020]

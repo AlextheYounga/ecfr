@@ -1,16 +1,16 @@
 ##### 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Items. #####
 
-Link to an amendment published at 86 FR 6189, Jan. 19, 2021.Link to an amendment published at 86 FR 3688, Jan. 14, 2021.
+Link to an amendment published at 86 FR 3688, Jan. 14, 2021.
 
 As prescribed in 12.301(b)(4), insert the following clause:
 
-Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Items (NOV 2020)
+Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Items (JAN 2021)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses, which are incorporated in this contract by reference, to implement provisions of law or Executive orders applicable to acquisitions of commercial items:
 
 (1) 52.203-19, Prohibition on Requiring Certain Internal Confidentiality Agreements or Statements (JAN 2017) (section 743 of Division E, Title VII, of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235) and its successor provisions in subsequent appropriations acts (and as extended in continuing resolutions)).
 
-\_\_ (2) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (JUL 2018) (Section 1634 of Pub. L. 115-91).
+(2) 52.204-23, Prohibition on Contracting for Hardware, Software, and Services Developed or Provided by Kaspersky Lab and Other Covered Entities (JUL 2018) (Section 1634 of Pub. L. 115-91).
 
 (3) 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment. (AUG 2020) (Section 889(a)(1)(A) of Pub. L. 115-232).
 
@@ -154,15 +154,15 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (ii) Alternate I (JAN 2017) of 52.224-3.
 
-\_\_ (48) 52.225-1, Buy American - Supplies (**MAY 2014**) (41 U.S.C. chapter 83).
+\_\_ (48) 52.225-1, Buy American - Supplies (JAN 2021)) (41 U.S.C. chapter 83).
 
-\_\_ (49)(i) 52.225-3, Buy American - Free Trade Agreements - Israeli Trade Act (**MAY 2014**) (41 U.S.C. chapter 83, 19 U.S.C. 3301 note, 19 U.S.C. 2112 note, 19 U.S.C. 3805 note, 19 U.S.C. 4001 note, Pub. L. 103-182, 108-77, 108-78, 108-286, 108-302, 109-53, 109-169, 109-283, 110-138, 112-41, 112-42, and 112-43.
+\_\_ (49)(i) 52.225-3, Buy American - Free Trade Agreements - Israeli Trade Act (JAN 2021) (41 U.S.C. chapter 83, 19 U.S.C. 3301 note, 19 U.S.C. 2112 note, 19 U.S.C. 3805 note, 19 U.S.C. 4001 note, Pub. L. 103-182, 108-77, 108-78, 108-286, 108-302, 109-53, 109-169, 109-283, 110-138, 112-41, 112-42, and 112-43.
 
-\_\_ (ii) Alternate I (**MAY 2014**) of 52.225-3.
+\_\_ (ii) Alternate I (JAN 2021) of 52.225-3.
 
-\_\_ (iii) Alternate II (**MAY 2014**) of 52.225-3.
+\_\_ (iii) Alternate II (JAN 2021) of 52.225-3.
 
-\_\_ (iv) Alternate III (**MAY 2014**) of 52.225-3.
+\_\_ (iv) Alternate III (JAN 2021) of 52.225-3.
 
 \_\_ (50) 52.225-5, Trade Agreements (OCT 2019) (19 U.S.C. 2501, *et seq.,* 19 U.S.C. 3301 note).
 

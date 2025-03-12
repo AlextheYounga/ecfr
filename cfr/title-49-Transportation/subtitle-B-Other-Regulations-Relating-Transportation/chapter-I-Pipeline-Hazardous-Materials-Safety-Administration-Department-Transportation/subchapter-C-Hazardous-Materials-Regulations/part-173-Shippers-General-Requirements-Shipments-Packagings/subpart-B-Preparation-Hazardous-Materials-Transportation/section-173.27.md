@@ -1,7 +1,5 @@
 ##### § 173.27 General requirements for transportation by aircraft. #####
 
-Link to an amendment published at 85 FR 83382, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
-
 (a) The requirements of this section are in addition to requirements prescribed elsewhere under this part and apply to packages offered or intended for transportation aboard aircraft. Except for materials not subject to performance packaging requirements in subpart E of this part, a packaging containing a Packing Group III material with a primary or subsidiary risk of Division 4.1, 4.2, 4.3, 5.1, or Class 8 must meet the Packing Group II performance level when offered for transportation by aircraft.
 
 (b) *Packages authorized onboard aircraft.* (1) When Column 9a of the § 172.101 table indicates that a material is “Forbidden”, that material may not be offered for transportation or transported aboard passenger-carrying aircraft.
@@ -62,7 +60,7 @@ Link to an amendment published at 85 FR 83382, Dec. 21, 2020.The effective date 
 
 (G) All Class 9 (miscellaneous) materials *except for* UN1941, UN1990, UN2071, UN3077, UN3082, UN3316, UN3334, UN3335, and ID8000.
 
-(ii) Effective January 1, 2012, packages must be marked with the limited quantity “Y” mark as prescribed in § 172.315 of this part when conforming to Table 3 of this paragraph. Until December 31, 2012, a package may instead be marked with the proper shipping name “Consumer commodity” and “ORM-D-AIR” (including “Charcoal, NA1361) if it contains a consumer commodity, as authorized by this subchapter in effect on October 1, 2010.
+(ii) Packages must be marked with the limited quantity “Y” mark as prescribed in § 172.315 of this subchapter when conforming to Table 3 of this paragraph.
 
 (iii) Strong outer packagings are required and a completed package may not exceed 30 kg (66 lbs) gross weight.
 
@@ -157,6 +155,6 @@ Table 3 - Maximum Net Quantity of Each Inner and Outer Packaging for Materials A
 
 (h) Tank cars and cargo tanks. Any tank car or cargo tank containing a hazardous material may not be transported aboard aircraft.
 
-(i) Effective October 1, 2006, each person who offers a hazardous material for transportation by aircraft must include the certification statement specified in § 172.204(c)(3).
+(i) Each person who offers a hazardous material for transportation by aircraft must include the certification statement specified in § 172.204(c)(3) of this subchapter.
 
-[Amdt. 173-224, 55 FR 52612, Dec. 21, 1990, as amended at 56 FR 66266, Dec. 20, 1991; Amdt. 173-138, 59 FR 49133, Sept. 26, 1994; 65 FR 58629, Sept. 29, 2000; 66 FR 45380, Aug. 28, 2001; 68 FR 45032, July 31, 2003; 69 FR 76155, Dec. 20, 2004; 71 FR 14602, Mar. 22, 2006; 73 FR 57006, Oct. 1, 2008; 75 FR 53597, Sept. 1, 2010; 76 FR 3368, Jan. 19, 2011; 76 FR 82175, Dec. 30, 2011; 77 FR 22509, Apr. 16, 2012; 78 FR 65479, Oct. 31, 2013; 81 FR 35541, June 2, 2016]
+[Amdt. 173-224, 55 FR 52612, Dec. 21, 1990, as amended at 56 FR 66266, Dec. 20, 1991; Amdt. 173-138, 59 FR 49133, Sept. 26, 1994; 65 FR 58629, Sept. 29, 2000; 66 FR 45380, Aug. 28, 2001; 68 FR 45032, July 31, 2003; 69 FR 76155, Dec. 20, 2004; 71 FR 14602, Mar. 22, 2006; 73 FR 57006, Oct. 1, 2008; 75 FR 53597, Sept. 1, 2010; 76 FR 3368, Jan. 19, 2011; 76 FR 82175, Dec. 30, 2011; 77 FR 22509, Apr. 16, 2012; 78 FR 65479, Oct. 31, 2013; 81 FR 35541, June 2, 2016; 85 FR 83382, Dec. 21, 2020]

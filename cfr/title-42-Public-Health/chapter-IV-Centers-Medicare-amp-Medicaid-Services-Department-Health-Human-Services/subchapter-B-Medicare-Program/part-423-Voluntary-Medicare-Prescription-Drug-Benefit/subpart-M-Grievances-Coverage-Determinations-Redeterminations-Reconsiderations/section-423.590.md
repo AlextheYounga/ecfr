@@ -1,5 +1,7 @@
 ##### § 423.590 Timeframes and responsibility for making redeterminations. #####
 
+Link to an amendment published at 86 FR 6120, Jan. 19, 2021.
+
 (a) *Standard redetermination - request for covered drug benefits or review of an at-risk determination.* (1) If the Part D plan sponsor makes a redetermination that is completely favorable to the enrollee, the Part D plan sponsor must notify the enrollee in writing of its redetermination (and effectuate it in accordance with § 423.636(a)(1) or (3) as expeditiously as the enrollee's health condition requires, but no later than 7 calendar days from the date it receives the request for a standard redetermination.
 
 (2) If the Part D plan sponsor makes a redetermination that affirms, in whole or in part, its adverse coverage determination or at-risk determination, it must notify the enrollee in writing of its redetermination as expeditiously as the enrollee's health condition requires, but no later than 7 calendar days from the date it receives the request for a standard redetermination.

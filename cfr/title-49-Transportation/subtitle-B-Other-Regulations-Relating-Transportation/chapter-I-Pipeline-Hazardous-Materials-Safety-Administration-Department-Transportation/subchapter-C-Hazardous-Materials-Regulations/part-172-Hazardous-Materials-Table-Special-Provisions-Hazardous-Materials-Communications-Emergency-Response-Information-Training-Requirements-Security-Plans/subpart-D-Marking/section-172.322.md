@@ -1,7 +1,5 @@
 ##### § 172.322 Marine pollutants. #####
 
-Link to an amendment published at 85 FR 83380, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
-
 (a) For vessel transportation of each non-bulk packaging that contains a marine pollutant -
 
 (1) If the proper shipping name for a material which is a marine pollutant does not identify by name the component which makes the material a marine pollutant, the name of that component must be marked on the package in parentheses in association with the marked proper shipping name. Where two or more components which make a material a marine pollutant are present, the names of at least two of the components most predominantly contributing to the marine pollutant designation must appear in parentheses in association with the marked proper shipping name; and
@@ -42,13 +40,13 @@ Link to an amendment published at 85 FR 83380, Dec. 21, 2020.The effective date 
 
 (2) The marking must be in the form of a square-on-point. The symbol and border must be black on a white or suitable contrasting background. The width of the border forming the square-on-point marking must be at least 2 mm. Each side of the mark must be -
 
-(i) At least 100 mm (4 inches) as measured from the outside of the lines forming the border for marks applied to:
+(i) At least 100 mm (3.9 inches) as measured from the outside of the lines forming the border for marks applied to:
 
 (A) Non-bulk packages, except in the case of packages which, because of their size, can only bear smaller marks. If the size of the package so requires, the dimensions/line thickness may be reduced, provided the marking remains clearly visible. Where dimensions are not specified, all features shall be in approximate proportion to those shown.
 
 (B) Bulk packages with a capacity of less than 3,785 L (1,000 gallons); or
 
-(ii) At least 250 mm (10 inches) for marks applied to all other bulk packages.
+(ii) At least 250 mm (9.8 inches) for marks applied to all other bulk packages.
 
 (3) *Transitional exception.* A marking in conformance with the requirements of this paragraph in effect on December 31, 2014, may continue to be used until December 31, 2016.
 
@@ -56,4 +54,4 @@ Link to an amendment published at 85 FR 83380, Dec. 21, 2020.The effective date 
 
 (f) *Exceptions.* See § 171.4(c).
 
-[Amdt. 172-127, 57 FR 52938, Nov. 5, 1992, as amended by Amdt. 172-136, 59 FR 38064, July 26, 1994; Amdt. 172-145, 60 FR 49110, Sept. 21, 1995; 66 FR 45379, Aug. 28, 2001; 70 FR 56098, Sept. 23, 2005; 74 FR 2252, Jan. 14, 2009; 76 FR 3367, Jan. 19, 2011; 80 FR 1150, Jan. 8, 2015]
+[Amdt. 172-127, 57 FR 52938, Nov. 5, 1992, as amended by Amdt. 172-136, 59 FR 38064, July 26, 1994; Amdt. 172-145, 60 FR 49110, Sept. 21, 1995; 66 FR 45379, Aug. 28, 2001; 70 FR 56098, Sept. 23, 2005; 74 FR 2252, Jan. 14, 2009; 76 FR 3367, Jan. 19, 2011; 80 FR 1150, Jan. 8, 2015; 85 FR 83380, Dec. 21, 2020]

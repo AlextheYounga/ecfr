@@ -1,7 +1,5 @@
 ##### § 173.197 Regulated medical waste. #####
 
-Link to an amendment published at 85 FR 83399, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
-
 (a) *General provisions.* Non-bulk packagings, Large Packagings, and non-specification bulk outer packagings used for the transportation of regulated medical waste or clinical waste or (bio) medical waste must be rigid containers meeting the provisions of subpart B of this part.
 
 (b) *Non-bulk packagings.* Except as provided in § 173.134(c) of this subpart, non-bulk packagings for regulated medical waste or clinical waste or (bio) medical waste must be UN standard packagings conforming to the requirements of part 178 of this subchapter at the Packing Group II performance level. A non-bulk packaging used as a sharps container must be puncture-resistant for sharps and sharps with residual fluid as demonstrated by conducting the performance tests in part 178, subpart M, of this subchapter on packagings containing materials representative of the sharps and fluids (such as sterile sharps) intended to be transported in the packagings. Sharps containers must be securely closed to prevent leaks or punctures in conformance with the instructions provided by the packaging manufacturer in accordance with § 178.2(c) of this subchapter.
@@ -56,7 +54,7 @@ Link to an amendment published at 85 FR 83399, Dec. 21, 2020.The effective date 
 
 (vi) Division 6.1 or Class 7 chemotherapeutic waste, untreated concentrated stock cultures of infectious substances containing Category B infectious substances, unabsorbed liquids, and sharps may be transported in a BOP only if separated and secured as required in paragraph (d)(3)(v) of this section.
 
-(e) *Inner packagings authorized for Large Packagings, Carts, and BOPs.* After September 30, 2003, inner packagings must be durably marked or tagged with the name and location (city and state) of the offeror, except when the entire contents of the Large Packaging, Cart, or BOP originates at a single location and is delivered to a single location.
+(e) *Inner packagings authorized for Large Packagings, Carts, and BOPs.* Inner packagings must be durably marked or tagged with the name and location (city and state) of the offeror, except when the entire contents of the Large Packaging, Cart, or BOP originates at a single location and is delivered to a single location.
 
 (1) *Solids.* A plastic film bag is authorized as an inner packaging for solid regulated medical waste transported in a Cart, Large Packaging, or BOP. Waste material containing absorbed liquid may be packaged as a solid in a plastic film bag if the bag contains sufficient absorbent material to absorb and retain all liquid during transportation.
 
@@ -66,9 +64,9 @@ Link to an amendment published at 85 FR 83399, Dec. 21, 2020.The effective date 
 
 (iii) When used as an inner packaging for Carts or BOPs, a plastic film bag may not weigh more than 10 kg (22 lbs.) when filled.
 
-(2) *Liquids.* Liquid regulated medical waste or clinical waste or (bio) medical waste transported in a Large Packaging, Cart, or BOP must be packaged in a rigid inner packaging conforming to the provisions of subpart B of this part. conforming to the provisions of subpart B of this part. Liquid materials are not authorized for transportation in inner packagings having a capacity greater than 19 L (5 gallons).
+(2) *Liquids.* Liquid regulated medical waste or clinical waste or (bio) medical waste transported in a Large Packaging, Cart, or BOP must be packaged in a rigid inner packaging conforming to the provisions of subpart B of this part. Liquid materials are not authorized for transportation in inner packagings having a capacity greater than 19 L (5 gallons).
 
-(3) *Sharps.* Sharps transported in a Large Packaging, Cart, or BOP must be packaged in a puncture-resistant inner packaging (sharps container). Each sharps container must be securely closed to prevent leaks or punctures in conformance with instructions provided by the packaging manufacturer. Each sharps container exceeding 76 L (20 gallons) in volume must be capable of passing the performance tests in part 178, subpart M, of this subchapter at the Packing Group II performance level. A sharps container may be reused only if it conforms to the following criteria:
+(3) *Sharps.* Sharps transported in a Large Packaging, Cart, or BOP must be packaged in a puncture-resistant, non-bulk inner packaging (sharps container). Each sharps container must be securely closed to prevent leaks or punctures in conformance with instructions provided by the packaging manufacturer. Each sharps container exceeding 76 L (20 gallons) in volume must be capable of passing the performance tests in part 178, subpart M, of this subchapter at the Packing Group II performance level. A sharps container may be reused only if it conforms to the following criteria:
 
 (i) The sharps container is specifically approved and certified by the U.S. Food and Drug Administration as a medical device for reuse.
 
@@ -78,4 +76,4 @@ Link to an amendment published at 85 FR 83399, Dec. 21, 2020.The effective date 
 
 (iv) The sharps container must have a capacity greater than 7.57 L (2 gallons) and not greater than 151.42 L (40 gallons) in volume.
 
-[67 FR 53140, Aug. 14, 2002, as amended at 68 FR 57632, Oct. 6, 2003; 68 FR 75744, Dec. 31, 2003; 71 FR 32261, June 2, 2006; 71 FR 78632, Dec. 29, 2006; 75 FR 60339, Sept. 30, 2010]
+[67 FR 53140, Aug. 14, 2002, as amended at 68 FR 57632, Oct. 6, 2003; 68 FR 75744, Dec. 31, 2003; 71 FR 32261, June 2, 2006; 71 FR 78632, Dec. 29, 2006; 75 FR 60339, Sept. 30, 2010; 85 FR 83399, Dec. 21, 2020]

@@ -1,7 +1,5 @@
 ##### § 173.307 Exceptions for compressed gases. #####
 
-Link to an amendment published at 85 FR 83400, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
-
 (a) The following materials are not subject to the requirements of this subchapter:
 
 (1) Carbonated beverages.
@@ -22,10 +20,10 @@ Link to an amendment published at 85 FR 83400, Dec. 21, 2020.The effective date 
 
 (v) 100 g (4 ounces) or less of a flammable, non-toxic liquefied gas.
 
-(5) Manufactured articles or apparatuses, other than light bulbs each containing not more than 100 mg (0.0035 ounce) of inert gas and packaged so that the quantity of inert gas per package does not exceed 1 g (0.35 ounce).
+(5) Manufactured articles or apparatuses, other than light bulbs each containing not more than 100 mg (0.0035 ounce) of inert gas and packaged so that the quantity of inert gas per package does not exceed 1 g (0.035 ounce).
 
 (6) Light bulbs (lamps) conforming to the requirements of § 173.11.
 
 (b) [Reserved]
 
-[Amdt. 173-94, 41 FR 16081, Apr. 15, 1976, as amended by Amdt. 173-135, 45 FR 13090, Feb. 28, 1980; 65 FR 50462, Aug. 18, 2000; 68 FR 45038, July 31, 2003; 68 FR 75745, Dec. 31, 2003; 69 FR 76174, Dec. 20, 2004; 71 FR 14604, Mar. 22, 2006; 74 FR 2266, Jan. 14, 2009; 76 FR 3380, Jan. 19, 2011; 80 FR 1162, Jan. 8, 2015]
+[Amdt. 173-94, 41 FR 16081, Apr. 15, 1976, as amended by Amdt. 173-135, 45 FR 13090, Feb. 28, 1980; 65 FR 50462, Aug. 18, 2000; 68 FR 45038, July 31, 2003; 68 FR 75745, Dec. 31, 2003; 69 FR 76174, Dec. 20, 2004; 71 FR 14604, Mar. 22, 2006; 74 FR 2266, Jan. 14, 2009; 76 FR 3380, Jan. 19, 2011; 80 FR 1162, Jan. 8, 2015; 85 FR 83400, Dec. 21, 2020]

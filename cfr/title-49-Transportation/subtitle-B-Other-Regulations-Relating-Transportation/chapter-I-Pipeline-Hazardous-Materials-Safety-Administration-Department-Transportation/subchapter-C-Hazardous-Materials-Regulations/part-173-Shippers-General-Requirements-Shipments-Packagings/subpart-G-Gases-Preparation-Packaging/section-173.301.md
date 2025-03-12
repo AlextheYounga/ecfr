@@ -1,6 +1,6 @@
 ##### § 173.301 General requirements for shipment of compressed gases and other hazardous materials in cylinders, UN pressure receptacles and spherical pressure vessels. #####
 
-Link to an amendment published at 85 FR 83400, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.Link to an amendment published at 85 FR 85416, Dec. 28, 2020.
+Link to an amendment published at 85 FR 85416, Dec. 28, 2020.
 
 (a) *General qualifications for use of cylinders.* Unless otherwise stated, as used in this section, the term “cylinder” includes a UN pressure receptacle. As used in this subpart, filled or charged means an introduction or presence of a hazardous material in a cylinder. A cylinder filled with a Class 2 hazardous material (gas) and offered for transportation must meet the requirements in this section and §§ 173.301a through 173.305, as applicable.
 
@@ -47,7 +47,7 @@ Packagings<sup>1</sup>
 
 (10) Any person who installs a valve into an aluminum cylinder in oxygen service must verify the valve and the cylinder have the same thread type.
 
-(11) Cylinder valves manufactured on or after November 7, 2019, used on cylinders to transport compressed gases must conform to the requirements in CGA V-9 (IBR; see § 171.7 of this subchapter). A valve for a UN pressure receptacle must conform to the requirements of § 173.301b(c)(1). Cylinder valves used on cylinders in liquefied petroleum gas (LPG) service are permitted to comply with the requirements of NFPA 58 (IBR; see § 171.7 of this subchapter).
+(11) Cylinder valves manufactured on or after November 7, 2019, used on cylinders to transport compressed gases must conform to the applicable requirements in CGA V-9 (IBR; see § 171.7 of this subchapter). A valve for a UN pressure receptacle must conform to the requirements of § 173.301b(c)(1). Cylinder valves used on cylinders in liquefied petroleum gas (LPG) service are permitted to comply with the requirements of NFPA 58 (IBR; see § 171.7 of this subchapter).
 
 (12) Cylinder valve protection caps manufactured on or after November 7, 2019, must conform to the requirements of CGA V-9.
 
@@ -63,7 +63,7 @@ Packagings<sup>1</sup>
 
 (2) A pressure relief device, when installed, must be in communication with the vapor space of a cylinder containing a Division 2.1 (flammable gas) material. This requirement does not apply to DOT Specification 39 cylinders of 1.2L (75 cubic inches) or less in volume filled with a Liquefied petroleum gas, Methyl acetylene and Propadiene mixtures, stabilized, Propylene, Propane or Butane.
 
-(3) For a specification 3, 3A, 3AA, 3AL, 3AX, 3AXX, 3B, 3BN, or 3T cylinder filled with gases in other than Division 2.2 (except oxygen and oxidizing gases transported by aircraft, see §§ 173.302(f) and 173.304(f)), beginning with the first requalification due after December 31, 2003, the burst pressure of a CG-1, CG-4, or CG-5 pressure relief device must be at test pressure with a tolerance of plus zero to minus 10%. An additional 5% tolerance is allowed when a combined rupture disk is placed inside a holder. This requirement does not apply if a CG-2, CG-3, or CG-9 thermally activated relief device or a CG-7 reclosing pressure valve is used on the cylinder.
+(3) For a specification 3, 3A, 3AA, 3AL, 3AX, 3AAX, 3B, 3BN, or 3T cylinder filled with gases in other than Division 2.2 (except oxygen and oxidizing gases transported by aircraft, see §§ 173.302(f) and 173.304(f)), the burst pressure of a CG-1, CG-4, or CG-5 pressure relief device must be at test pressure with a tolerance of plus zero to minus 10 percent. An additional 5 percent tolerance is allowed when a combined rupture disk is placed inside a holder. This requirement does not apply if a CG-2, CG-3, or CG-9 thermally activated relief device or a CG-7 reclosing pressure valve is used on the cylinder.
 
 (4) A pressure relief device is required on a DOT 39 cylinder regardless of cylinder size or filled pressure. A DOT 39 cylinder used for liquefied Division 2.1 materials must be equipped with a metal pressure relief device. Fusible pressure relief devices are not authorized on a DOT 39 cylinder containing a liquefied gas.
 

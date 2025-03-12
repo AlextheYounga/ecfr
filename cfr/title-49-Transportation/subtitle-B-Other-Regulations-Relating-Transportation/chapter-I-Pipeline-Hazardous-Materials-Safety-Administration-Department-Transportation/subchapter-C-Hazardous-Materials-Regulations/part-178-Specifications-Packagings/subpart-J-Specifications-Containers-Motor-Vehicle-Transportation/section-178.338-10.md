@@ -1,7 +1,5 @@
 ##### § 178.338-10 Accident damage protection. #####
 
-Link to an amendment published at 85 FR 83402, Dec. 21, 2020.Link to an amendment published at 86 FR 2504, Jan. 13, 2021.
-
 (a) All valves, fittings, pressure relief devices and other accessories to the tank proper, which are not isolated from the tank by closed intervening shut-off valves or check valves, must be installed within the motor vehicle framework or within a suitable collision resistant guard or housing, and appropriate ventilation must be provided. Each pressure relief device must be protected so that in the event of the upset of the vehicle onto a hard surface, the device's opening will not be prevented and its discharge will not be restricted.
 
 (b) Each protective device or housing, and its attachment to the vehicle structure, must be designed to withstand static loading in any direction that it may be loaded as a result of front, rear, side, or sideswipe collision, or the overturn of the vehicle. The static loading shall equal twice the loaded weight of the tank and attachments. A safety factor of four, based on the tensile strength of the material, shall be used. The protective device or the housing must be made of steel at least3/16-inch thick, or other material of equivalent strength.
@@ -14,4 +12,4 @@ Link to an amendment published at 85 FR 83402, Dec. 21, 2020.Link to an amendmen
 
 (d) Every part of the loaded cargo tank, and any associated valve, pipe, enclosure, or protective device or structure (exclusive of wheel assemblies), must be at least 14 inches above level ground.
 
-[Amdt. 178-77, 48 FR 27705, June 16, 1983, as amended at 49 FR 24316, June 12, 1984; Amdt. 178-99, 58 FR 51534, Oct. 1, 1993; 68 FR 19282, Apr. 18, 2003; 68 FR 52371, Sept. 3, 2003]
+[Amdt. 178-77, 48 FR 27705, June 16, 1983, as amended at 49 FR 24316, June 12, 1984; Amdt. 178-99, 58 FR 51534, Oct. 1, 1993; 68 FR 19282, Apr. 18, 2003; 68 FR 52371, Sept. 3, 2003; 85 FR 83402, Dec. 21, 2020]

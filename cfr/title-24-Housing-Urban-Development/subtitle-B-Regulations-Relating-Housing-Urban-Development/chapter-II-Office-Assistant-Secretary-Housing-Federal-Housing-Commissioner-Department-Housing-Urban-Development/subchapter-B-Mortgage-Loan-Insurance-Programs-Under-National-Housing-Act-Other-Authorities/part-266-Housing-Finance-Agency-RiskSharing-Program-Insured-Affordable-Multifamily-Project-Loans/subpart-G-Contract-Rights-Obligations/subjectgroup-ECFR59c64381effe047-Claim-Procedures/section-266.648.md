@@ -1,7 +1,5 @@
 ##### § 266.648 Items included in total loss. #####
 
-Link to an amendment published at 85 FR 83445, Dec. 22, 2020.
-
 In computing the total loss, the following items are added to the amount described in § 266.646(a):
 
 (a) The amount of all payments that the HFA made from its own funds and not from project income for:
@@ -20,6 +18,8 @@ In computing the total loss, the following items are added to the amount describ
 
 (3) Expenses in connection with the sale of property; and
 
-(4) Bankruptcy expenses approved by the Office of General Counsel.
+(4) Bankruptcy expenses approved by HUD.
 
 (d) The amount of HFA Debenture interest paid by the HFA to HUD.
+
+[59 FR 62524, Dec. 5, 1994, as amended at 85 FR 83445, Dec. 22, 2020]

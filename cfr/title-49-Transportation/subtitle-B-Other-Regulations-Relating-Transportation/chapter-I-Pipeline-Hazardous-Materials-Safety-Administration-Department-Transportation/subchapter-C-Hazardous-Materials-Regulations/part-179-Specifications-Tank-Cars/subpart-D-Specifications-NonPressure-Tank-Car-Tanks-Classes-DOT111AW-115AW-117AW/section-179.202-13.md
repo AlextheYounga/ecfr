@@ -1,7 +1,5 @@
 ##### § 179.202-13 Retrofit standard requirements (DOT-117R). #####
 
-Link to an amendment published at 85 FR 83403, Dec. 21, 2020.Link to an amendment published at 86 FR 2504, Jan. 13, 2021.
-
 (a) *Applicability.* Each tank retrofit under these specifications must conform to the general requirements of § 179.200 and the prescriptive standards in § 179.202-13, or the performance standard requirements of § 179.202-12.
 
 (b) *Approval to operate at 286,000 gross rail load (GRL).* A tank car may be loaded to a gross weight on rail of up to 286,000 pounds (129,727 kg) upon approval by the Associate Administrator for Safety, Federal Railroad Administration (FRA). See § 179.13.
@@ -18,7 +16,7 @@ Link to an amendment published at 85 FR 83403, Dec. 21, 2020.Link to an amendmen
 
 (g) *Bottom outlets.* If the tank car is equipped with a bottom outlet, the handle must be removed prior to train movement or be designed with protection safety system(s) to prevent unintended actuation during train accident scenarios.
 
-(h) *Top fittings protection* - (1) *Protective housing.* Except as provided in §§ 179.202-13(h)(2) and (3) of this paragraph, top fittings on DOT Specification 117R tank cars must be located inside a protective housing not less than 12-inch in thickness and constructed of a material having a tensile strength not less than 65 kpsi and must conform to all of the following conditions:
+(h) *Top fittings protection*—(1) *Protective housing.* Except as provided in §§ 179.202-13(h)(2) and (3) of this paragraph, top fittings on DOT Specification 117R tank cars must be located inside a protective housing not less than 1/2-inch in thickness and constructed of a material having a tensile strength not less than 65 kpsi and must conform to all of the following conditions:
 
 (i) The protective housing must have a height exceeding the tallest valve or fitting which requires protection and the height of a valve or fitting within the protective housing must be kept to the minimum size compatible to allow for proper operation.
 
@@ -26,7 +24,7 @@ Link to an amendment published at 85 FR 83403, Dec. 21, 2020.Link to an amendmen
 
 (iii) The protective housing must provide a means of drainage with a minimum flow area equivalent to six (6) 1-inch diameter weep holes.
 
-(iv) When connected to the nozzle or fitting cover plate, and subject to a horizontal force applied perpendicular to and uniformly over the projected plane of the protective housing, the tensile connection strength of the protective housing must be designed to be -
+(iv) When connected to the nozzle or fitting cover plate, and subject to a horizontal force applied perpendicular to and uniformly over the projected plane of the protective housing, the tensile connection strength of the protective housing must be designed to be—
 
 (A) no greater than 70 percent of the nozzle to tank tensile connection strength;
 
@@ -42,4 +40,4 @@ Link to an amendment published at 85 FR 83403, Dec. 21, 2020.Link to an amendmen
 
 (3) *Alternative.* As an alternative to the protective housing requirements in paragraph (h)(1) of this section, the tank car may be equipped with a system that prevents the release of contents from any top fitting under accident conditions where any top fitting may be sheared off.
 
-[80 FR 26749, May 8, 2015, as amended at 81 FR 53957, Aug. 15, 2016; 83 FR 48401, Sept. 25, 2018]
+[80 FR 26749, May 8, 2015, as amended at 81 FR 53957, Aug. 15, 2016; 83 FR 48401, Sept. 25, 2018; 85 FR 83403, Dec. 21, 2020]

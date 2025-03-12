@@ -1,6 +1,4 @@
-##### § 173.121 Class 3 - Assignment of packing group. #####
-
-Link to an amendment published at 85 FR 83397, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
+##### § 173.121 Class 3—Assignment of packing group. #####
 
 (a)(1) The packing group of a Class 3 material is as assigned in column 5 of the § 172.101 Table. When the § 172.101 Table provides more than one packing group for a hazardous material, the packing group must be determined by applying the following criteria:
 
@@ -16,15 +14,15 @@ Link to an amendment published at 85 FR 83397, Dec. 21, 2020.The effective date 
 
 (ii) Standard Test Method for Distillation Range of Volatile Organic Liquids (ASTM D 1078) (IBR; *see* § 171.7 of this subchapter);
 
-(iii) Petroleum Products - Determination of Distillation Characteristics at Atmospheric Pressure (ISO 3405) (IBR; *see* § 171.7 of this subchapter);
+(iii) Petroleum Products—Determination of Distillation Characteristics at Atmospheric Pressure (ISO 3405) (IBR; *see* § 171.7 of this subchapter);
 
-(iv) Petroleum Products - Determination of Boiling Range Distribution - Gas Chromatography Method (ISO 3924) (IBR; *see* § 171.7 of this subchapter);
+(iv) Petroleum Products—Determination of Boiling Range Distribution—Gas Chromatography Method (ISO 3924) (IBR; *see* § 171.7 of this subchapter);
 
-(v) Volatile Organic Liquids - Determination of Boiling Range of Organic Solvents Used as Raw Materials (ISO 4626) (IBR; *see* § 171.7 of this subchapter); or
+(v) Volatile Organic Liquids—Determination of Boiling Range of Organic Solvents Used as Raw Materials (ISO 4626) (IBR; *see* § 171.7 of this subchapter); or
 
-(vi) Petroleum products containing known flammable gases - Standard Test Method for Determination of Light Hydrocarbons in Stabilized Crude Oils by Gas Chromatography (ASTM D7900) (IBR; see § 171.7 of this subchapter) where the initial boiling point is the temperature at which 0.5 weight percent is eluted when determining the boiling range distribution.
+(vi) Petroleum products containing known flammable gases—Standard Test Method for Determination of Light Hydrocarbons in Stabilized Crude Oils by Gas Chromatography (ASTM D7900) (IBR; see § 171.7 of this subchapter) where the initial boiling point is the temperature at which 0.5 weight percent is eluted when determining the boiling range distribution.
 
-(b) *Criteria for inclusion of viscous Class 3 materials in Packing Group III.* (1) Viscous Class 3 materials in Packing Group II with a flash point of less than 23 °C (73 °F) may be grouped in Packing Group III provided that -
+(b) *Criteria for inclusion of viscous Class 3 materials in Packing Group III.* (1) Viscous Class 3 materials in Packing Group II with a flash point of less than 23 °C (73 °F) may be grouped in Packing Group III provided that—
 
 (i) Less than 3 percent of the clear solvent layer separates in the solvent separation test;
 
@@ -51,6 +49,4 @@ Link to an amendment published at 85 FR 83397, Dec. 21, 2020.The effective date 
 
 (ii) *Solvent Separation Test.* This test is carried out at 23 °C (73 °F) using a 100.0 mL(3 ounces) measuring cylinder of the stoppered type of approximately 25.0 cm (9.8 inches) total height and of a uniform internal diameter of approximately 30 mm (1.2 inches) over the calibrated section. The sample should be stirred to obtain a uniform consistency, and poured in up to the 100 mL (3 ounces) mark. The stopper should be inserted and the cylinder left standing undisturbed for 24 hours. After 24 hours, the height of the upper separated layer should be measured and the percentage of this layer as compared with the total height of the sample calculated.
 
-(c) *Transitional provisions.* The criteria for packing group assignments in effect on December 31, 2006, may continue to be used until January 1, 2012.
-
-[Amdt. 173-224, 55 FR 52634, Dec. 21, 1990, as amended at 56 FR 66268, Dec. 20, 1991; Amdt. 173-241, 59 FR 67507, Dec. 29, 1994 Amdt. 173-255, 61 FR 50625, Sept. 26, 1996; 64 FR 10777, Mar. 5, 1999; 64 FR 51918, Sept. 27, 1999; 66 FR 45381, Aug. 28, 2001; 68 FR 75744, Dec. 31, 2003; 71 FR 78631, Dec. 29, 2006; 76 FR 3372, Jan. 19, 2011; 76 FR 43529, July 20, 2011; 78 FR 1085, Jan. 7, 2013; 80 FR 1156, Jan. 8, 2015; 82 FR 15878, Mar. 30, 2017; 84 FR 6952, Feb. 28, 2019; 85 FR 27880, May 11, 2020]
+[Amdt. 173-224, 55 FR 52634, Dec. 21, 1990]Editorial Note:For Federal Register citations affecting § 173.121, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

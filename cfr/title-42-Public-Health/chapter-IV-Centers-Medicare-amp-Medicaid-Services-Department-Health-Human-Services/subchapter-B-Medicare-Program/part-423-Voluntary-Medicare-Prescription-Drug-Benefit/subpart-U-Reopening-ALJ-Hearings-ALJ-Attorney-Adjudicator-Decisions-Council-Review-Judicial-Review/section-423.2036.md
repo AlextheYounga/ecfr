@@ -1,5 +1,7 @@
 ##### § 423.2036 Description of an ALJ hearing process. #####
 
+Link to an amendment published at 86 FR 6121, Jan. 19, 2021.
+
 (a) *The right to appear and present evidence.* (1) An enrollee has the right to appear at the hearing before the ALJ to present evidence and to state his or her position. An enrollee may appear by video-teleconferencing, telephone, or in person as determined under § 423.2020.
 
 (2) An enrollee may also make his or her appearance by means of a representative, who may make his or her appearance by video-teleconferencing, telephone, or in person, as determined under § 423.2020.

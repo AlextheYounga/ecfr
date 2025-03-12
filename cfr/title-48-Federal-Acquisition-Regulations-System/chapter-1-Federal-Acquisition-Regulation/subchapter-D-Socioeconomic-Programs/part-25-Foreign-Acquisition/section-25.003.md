@@ -1,7 +1,5 @@
 ##### 25.003 Definitions. #####
 
-Link to an amendment published at 86 FR 6186, Jan. 19, 2021.
-
 As used in this part -
 
 *Caribbean Basin country* means any of the following countries: Antigua and Barbuda, Aruba, Bahamas, Barbados, Belize, Bonaire, British Virgin Islands, Curacao, Dominica, Grenada, Guyana, Haiti, Jamaica, Montserrat, Saba, St. Kitts and Nevis, St. Lucia, St. Vincent and the Grenadines, Sint Eustatius, Sint Maarten, or Trinidad and Tobago.
@@ -72,25 +70,35 @@ As used in this part -
 
 *Domestic construction material* means -
 
-(1)(i) An unmanufactured construction material mined or produced in the United States;
+(1) For use in subparts other than 25.6 -
 
-(ii) A construction material manufactured in the United States, if -
+(i) For construction material that does not consist wholly or predominantly of iron or steel or a combination of both -
 
-(A) The cost of the components mined, produced, or manufactured in the United States exceeds 50 percent of the cost of all its components. Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic; or
+(A) An unmanufactured construction material mined or produced in the United States; or
 
-(B) The construction material is a COTS item;
+(B) A construction material manufactured in the United States, if -
 
-(2) Except that for use in subpart 25.6, see the definition in 25.601.
+(*1*) The cost of the components mined, produced, or manufactured in the United States exceeds 55 percent of the cost of all its components. Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic. Components of unknown origin are treated as foreign; or
+
+(*2*) The construction material is a commercially available off-the-shelf (COTS) item; or
+
+(ii) For construction material that consists wholly or predominantly of iron or steel or a combination of both, a construction material manufactured in the United States if the cost of foreign iron and steel constitutes less than 5 percent of the cost of all the components used in such construction material. The cost of foreign iron and steel includes but is not limited to the cost of foreign iron or steel mill products (such as bar, billet, slab, wire, plate, or sheet), castings, or forgings utilized in the manufacture of the construction material and a good faith estimate of the cost of all foreign iron or steel components excluding COTS fasteners. Iron or steel components of unknown origin are treated as foreign. If the construction material contains multiple components, the cost of all the materials used in such construction material is calculated in accordance with the definition of “cost of components” in this section; or
+
+(2) For use in subpart 25.6, see the definition in 25.601.
 
 *Domestic end product* means -
 
-(1) An unmanufactured end product mined or produced in the United States;
+(1) For an end product that does not consist wholly or predominantly of iron or steel or a combination of both -
 
-(2) An end product manufactured in the United States, if -
+(i) An unmanufactured end product mined or produced in the United States;
 
-(i) The cost of its components mined, produced, or manufactured in the United States exceeds 50 percent of the cost of all its components. Components of foreign origin of the same class or kind as those that the agency determines are not mined, produced, or manufactured in sufficient and reasonably available commercial quantities of a satisfactory quality are treated as domestic. Scrap generated, collected, and prepared for processing in the United States is considered domestic; or
+(ii) An end product manufactured in the United States, if -
 
-(ii) The end product is a COTS item.
+(A) The cost of its components mined, produced, or manufactured in the United States exceeds 55 percent of the cost of all its components. Components of foreign origin of the same class or kind as those that the agency determines are not mined, produced, or manufactured in sufficient and reasonably available commercial quantities of a satisfactory quality are treated as domestic. Components of unknown origin are treated as foreign. Scrap generated, collected, and prepared for processing in the United States is considered domestic; or
+
+(B) The end product is a COTS item; or
+
+(2) For an end product that consists wholly or predominantly of iron or steel or a combination of both, an end product manufactured in the United States, if the cost of foreign iron and steel constitutes less than 5 percent of the cost of all the components used in the end product. The cost of foreign iron and steel includes but is not limited to the cost of foreign iron or steel mill products (such as bar, billet, slab, wire, plate, or sheet), castings, or forgings utilized in the manufacture of the end product and a good faith estimate of the cost of all foreign iron or steel components excluding COTS fasteners. Iron or steel components of unknown origin are treated as foreign. If the end product contains multiple components, the cost of all the materials used in such end product is calculated in accordance with the definition of “cost of components” in this section.
 
 *Domestic offer* means an offer of a domestic end product. When the solicitation specifies that award will be made on a group of line items, a domestic offer means an offer where the proposed price of the domestic end products exceeds 50 percent of the total proposed price of the group.
 
@@ -100,11 +108,15 @@ As used in this part -
 
 *End product* means those articles, materials, and supplies to be acquired for public use.
 
+*Fastener* means a hardware device that mechanically joins or affixes two or more objects together. Examples of fasteners are nuts, bolts, pins, rivets, nails, clips, and screws.
+
 *Foreign construction material* means a construction material other than a domestic construction material.
 
 *Foreign contractor* means a contractor or subcontractor organized or existing under the laws of a country other than the United States.
 
 *Foreign end product* means an end product other than a domestic end product.
+
+*Foreign iron and steel* means iron or steel products not produced in the United States. Produced in the United States means that all manufacturing processes of the iron or steel must take place in the United States, from the initial melting stage through the application of coatings, except metallurgical processes involving refinement of steel additives. The origin of the elements of the iron or steel is not relevant to the determination of whether it is domestic or foreign.
 
 *Foreign offer* means any offer other than a domestic offer.
 
@@ -133,6 +145,10 @@ As used in this part -
 *Noneligible offer* means an offer of a noneligible product.
 
 *Noneligible product* means a foreign end product that is not an eligible product.
+
+*Predominantly of iron or steel or a combination of both* means that the cost of the iron and steel content exceeds 50 percent of the total cost of all its components. The cost of iron and steel is the cost of the iron or steel mill products (such as bar, billet, slab, wire, plate, or sheet), castings, or forgings utilized in the manufacture of the product and a good faith estimate of the cost of iron or steel components excluding COTS fasteners.
+
+*Steel* means an alloy that includes at least 50 percent iron, between 0.02 and 2 percent carbon, and may include other elements.
 
 *United States* means the 50 States, the District of Columbia, and outlying areas.
 

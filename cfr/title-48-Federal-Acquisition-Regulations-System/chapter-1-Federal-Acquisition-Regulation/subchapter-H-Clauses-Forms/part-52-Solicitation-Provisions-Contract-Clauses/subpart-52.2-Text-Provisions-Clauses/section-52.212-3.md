@@ -1,10 +1,10 @@
 ##### 52.212-3 Offeror Representations and Certifications - Commercial Items. #####
 
-Link to an amendment published at 86 FR 6189, Jan. 19, 2021.Link to an amendment published at 86 FR 3687, Jan. 14, 2021.
+Link to an amendment published at 86 FR 3687, Jan. 14, 2021.
 
 As prescribed in 12.301(b)(2), insert the following provision:
 
-Offeror Representations and Certifications - Commercial Items (NOV 2020)
+Offeror Representations and Certifications - Commercial Items (JAN 2021)
 
 The Offeror shall complete only paragraph (b) of this provision if the Offeror has completed the annual representations and certification electronically in the System for Award Management (SAM) accessed through *https://www.sam.gov.* If the Offeror has not completed the annual representations and certifications electronically, the Offeror shall complete only paragraphs (c) through (v)) of this provision.
 
@@ -192,7 +192,11 @@ Complete paragraphs (c)(8) and (9) only if this solicitation is expected to exce
 
 (f) *Buy American Certificate.* (Applies only if the clause at Federal Acquisition Regulation (FAR) 52.225-1, Buy American - Supplies, is included in this solicitation.)
 
-(1) The offeror certifies that each end product, except those listed in paragraph (f)(2) of this provision, is a domestic end product and that for other than COTS items, the offeror has considered components of unknown origin to have been mined, produced, or manufactured outside the United States. The offeror shall list as foreign end products those end products manufactured in the United States that do not qualify as domestic end products, *i.e.*, an end product that is not a COTS item and does not meet the component test in paragraph (2) of the definition of “domestic end product.” The terms “commercially available off-the-shelf (COTS) item,” “component,” “domestic end product,” “end product,” “foreign end product,” and “United States” are defined in the clause of this solicitation entitled “Buy American - Supplies.”
+(1)(i) The Offeror certifies that each end product, except those listed in paragraph (f)(2) of this provision, is a domestic end product.
+
+(ii) The Offeror shall list as foreign end products those end products manufactured in the United States that do not qualify as domestic end products.
+
+(iii) The terms “domestic end product,” “end product,” “foreign end product,” and “United States” are defined in the clause of this solicitation entitled “Buy American-Supplies.”
 
 (2) Foreign End Products:
 
@@ -204,9 +208,11 @@ Line Item No.:Country of Origin:
 
 (g)(1) *Buy American - Free Trade Agreements - Israeli Trade Act Certificate.* (Applies only if the clause at FAR 52.225-3, Buy American - Free Trade Agreements - Israeli Trade Act, is included in this solicitation.)
 
-(i) The offeror certifies that each end product, except those listed in paragraph (g)(1)(ii) or (g)(1)(iii) of this provision, is a domestic end product and that for other than COTS items, the offeror has considered components of unknown origin to have been mined, produced, or manufactured outside the United States. The terms “Bahrainian, Moroccan, Omani, Panamanian, or Peruvian end product,” “commercially available off-the-shelf (COTS) item,” “component,” “domestic end product,” “end product,” “foreign end product,” “Free Trade Agreement country,” “Free Trade Agreement country end product,” “Israeli end product,” and “United States” are defined in the clause of this solicitation entitled “Buy American - Free Trade Agreements - Israeli Trade Act.”
+(i)(A) The Offeror certifies that each end product, except those listed in paragraph (g)(1)(ii) or (iii) of this provision, is a domestic end product.
 
-(ii) The offeror certifies that the following supplies are Free Trade Agreement country end products (other than Bahrainian, Moroccan, Omani, Panamanian, or Peruvian end products) or Israeli end products as defined in the clause of this solicitation entitled “Buy American - Free Trade Agreements - Israeli Trade Act”
+(B) The terms “Bahrainian, Moroccan, Omani, Panamanian, or Peruvian end product,” “domestic end product,” “end product,” “foreign end product,” “Free Trade Agreement country,” “Free Trade Agreement country end product,” “Israeli end product,” and “United States” are defined in the clause of this solicitation entitled “Buy American - Free Trade Agreements - Israeli Trade Act.”
+
+(ii) The Offeror certifies that the following supplies are Free Trade Agreement country end products (other than Bahrainian, Moroccan, Omani, Panamanian, or Peruvian end products) or Israeli end products as defined in the clause of this solicitation entitled “Buy American - Free Trade Agreements - Israeli Trade Act.”
 
 Free Trade Agreement Country End Products (Other than Bahrainian, Moroccan, Omani, Panamanian, or Peruvian End Products) or Israeli End Products:
 
@@ -217,7 +223,7 @@ Free Trade Agreement Country End Products (Other than Bahrainian, Moroccan, Oman
 |                   |   |                 |
 |[List as necessary]|   |                 |
 
-(iii) The offeror shall list those supplies that are foreign end products (other than those listed in paragraph (g)(1)(ii) of this provision) as defined in the clause of this solicitation entitled “Buy American - Free Trade Agreements - Israeli Trade Act.” The offeror shall list as other foreign end products those end products manufactured in the United States that do not qualify as domestic end products, *i.e.*, an end product that is not a COTS item and does not meet the component test in paragraph (2) of the definition of “domestic end product.”
+(iii) The Offeror shall list those supplies that are foreign end products (other than those listed in paragraph (g)(1)(ii) of this provision) as defined in the clause of this solicitation entitled “Buy American - Free Trade Agreements - Israeli Trade Act.” The Offeror shall list as other foreign end products those end products manufactured in the United States that do not qualify as domestic end products.
 
 Other Foreign End ProductsLine Item No.:Country of Origin:
 

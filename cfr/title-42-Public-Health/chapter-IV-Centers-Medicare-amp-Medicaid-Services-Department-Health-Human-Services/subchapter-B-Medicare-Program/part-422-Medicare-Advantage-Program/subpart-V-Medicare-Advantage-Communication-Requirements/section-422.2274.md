@@ -1,5 +1,7 @@
 ##### § 422.2274 Broker and agent requirements. #####
 
+Link to an amendment published at 86 FR 6112, Jan. 19, 2021.
+
 If an MA organization uses agents and brokers to sell its Medicare plans, the following requirements in this section are applicable.
 
 (a) *Definitions.* For purposes of this section, the following definitions are applicable:

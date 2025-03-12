@@ -1,7 +1,5 @@
 ##### § 173.166 Safety devices. #####
 
-Link to an amendment published at 85 FR 83398, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
-
 For the purpose of this section, safety devices are articles which contain pyrotechnic substances or hazardous materials of other classes and are used in vehicles, vessels or aircraft to enhance safety to persons. Examples are: air bag inflators, air bag modules, seat-belt pretensioners and pyromechanical devices. Pyromechanical devices are assembled components for tasks such as but not limited to separation, locking, release-and-drive or occupant restraint. The term includes “Safety devices, pyrotechnic.”
 
 (a) *Definitions.* An *air bag inflator* (consisting of a casing containing an igniter, a booster material, a gas generant and, in some cases, a pressure receptacle (cylinder)) is a gas generator used to inflate an air bag in a supplemental restraint system in a motor vehicle. An *air bag module* is the air bag inflator plus an inflatable bag assembly. A *seat-belt pretensioner* contains similar hazardous materials and is used in the operation of a seat-belt restraining system in a motor vehicle.
@@ -30,7 +28,7 @@ For the purpose of this section, safety devices are articles which contain pyrot
 
 (3) An air bag module containing an inflator that has previously been approved by the Associate Administrator as a Division 2.2 material is not required to be submitted for further examination to be reclassed as a Class 9 material.
 
-(4) *Shipments to recycling or waste disposal facilities.* When offered for domestic transportation by highway, rail freight, cargo vessel or cargo aircraft, a serviceable safety device classed as either Class 9 (UN3268) or Division 1.4G removed from a motor vehicle that was manufactured as required for use in the United States may be offered for transportation and transported without compliance with the shipping paper requirement prescribed in paragraph (c) of this section. However, when these articles are shipped to a recycling facility, the word “Recycled” must be entered on the shipping paper immediately after the basic description prescribed in § 172.202 of this subchapter. No more than one device is authorized in the packaging prescribed in paragraph (e)(1), (2) or (3) of this section. The device must be cushioned and secured within the package to prevent movement during transportation.
+(4) *Shipments to recycling or waste disposal facilities.* When offered for domestic transportation by highway, rail freight, cargo vessel or cargo aircraft, a serviceable safety device classed as either Class 9 (UN3268) or Division 1.4G removed from a motor vehicle that was manufactured as required for use in the United States may be offered for transportation and transported without compliance with the shipping paper requirement prescribed in paragraph (c) of this section. However, when these articles are shipped to a recycling facility, the word “Recycled” must be entered on the shipping paper immediately after the basic description prescribed in § 172.202 of this subchapter. No more than one device is authorized in the packaging prescribed in paragraphs (e)(1), (2) or (3) of this section. The device must be cushioned and secured within the package to prevent shifting during transportation.
 
 (5) An air bag inflator, air bag module, or seat-belt pretensioner that was classed and approved for transportation prior to January 1, 2015 may continue to be transported under the terms of the existing approval, using the appropriate proper shipping name “Safety Devices” or “Safety Devices, Pyrotechnic” based on the classification of the device as assigned by PHMSA or the authorized person or agency that examined and tested the design type.
 
@@ -40,7 +38,7 @@ For the purpose of this section, safety devices are articles which contain pyrot
 
 (ii) Described on a shipping paper with either the appropriate proper shipping name, or an appropriate proper shipping name authorized by § 172.101 in effect on December 31, 2014.
 
-(e) *Packagings.* Rigid, outer packagings, meeting the general packaging requirements of part 173 are authorized as follows. Additionally, the UN specification packagings listed in paragraphs (e)(1), (2), and (3) of this section must meet the packaging specification and performance requirements of part 178 of this subchapter at the Packing Group III performance level. The packagings must be designed and constructed to prevent movement of the articles and inadvertent activation. Further, if the Class 9 designation is contingent upon packaging specified by the authorized testing agency, shipments of the safety device must be in compliance with the prescribed packaging.
+(e) *Packagings.* Rigid, outer packagings, meeting the general packaging requirements of part 173 are authorized as follows. Additionally, the UN specification packagings listed in paragraphs (e)(1), (2), and (3) of this section must meet the packaging specification and performance requirements of part 178 of this subchapter at the Packing Group III performance level. The packagings must be designed and constructed to prevent shifting of the articles and inadvertent activation. Further, if the Class 9 designation is contingent upon packaging specified by the authorized testing agency, shipments of the safety device must be in compliance with the prescribed packaging.
 
 (1) 1A2, 1B2, 1N2, 1D, 1G, or 1H2 drums.
 
@@ -54,7 +52,7 @@ For the purpose of this section, safety devices are articles which contain pyrot
 
 (B) If not completely enclosed by design, the container or handling device must be covered with plastic, fiberboard, metal, or other suitable material. The covering must be secured to the container by banding or other comparable methods; and
 
-(C) Internal dunnage must be sufficient to prevent movement of the devices within the container.
+(C) Internal dunnage must be sufficient to prevent shifting of the devices within the container.
 
 (ii) Reusable containers manufactured from high-strength plastic, metal, or other suitable material, or other dedicated handling devices are authorized for shipment of safety devices only to, between, and from, intermediate handling locations, provided they meet the conditions specified in paragraphs (e)(4)(i)(A) through (C) of this section and:
 
@@ -68,7 +66,7 @@ For the purpose of this section, safety devices are articles which contain pyrot
 
 (i) Specification and non-specification steel drums with a wall and lid thickness not less than 20 gauge. The lid must be securely affixed with a lever-locking or bolted-ring assembly. The lid of the drum must provide ventilation of the drum contents in a fire. The drum may be filled with any combination of safety devices to a capacity not greater than fifty (50) percent of the drum's total volume. In addition, inner packagings or cushioning may not be used to fill the void space; or
 
-(ii) Outer packaging consisting of 4H2 solid plastic boxes or non-specification rugged reusable plastic outer packaging and inner static-resistant plastic bags or trays. If not completely enclosed by design, the container or handling device must be covered with plastic, fiberboard, metal or other suitable material. The covering must be secured to the container by banding or other comparable methods. The articles must be packed to prevent movement within the container during transportation.
+(ii) Outer packaging consisting of 4H2 solid plastic boxes or non-specification rugged reusable plastic outer packaging and inner static-resistant plastic bags or trays. If not completely enclosed by design, the container or handling device must be covered with plastic, fiberboard, metal or other suitable material. The covering must be secured to the container by banding or other comparable methods. The articles must be packed to prevent shifting within the container during transportation.
 
 (f) *Labeling.* Notwithstanding the provisions of § 172.402, each package or handling device must display a CLASS 9 label. Additional labeling is not required when the package contains no hazardous materials other than the devices.
 
@@ -90,4 +88,4 @@ For the purpose of this section, safety devices are articles which contain pyrot
 
 (3) Test reports must be made available to a representative of the Department upon request.
 
-[80 FR 1157, Jan. 8, 2015, as amended at 81 FR 35541, June 2, 2016]
+[80 FR 1157, Jan. 8, 2015, as amended at 81 FR 35541, June 2, 2016; 85 FR 83398, Dec. 21, 2020]

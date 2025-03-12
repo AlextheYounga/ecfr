@@ -1,10 +1,8 @@
 ##### 52.225-11 Buy American - Construction Materials Under Trade Agreements. #####
 
-Link to an amendment published at 86 FR 6192, Jan. 19, 2021.
-
 As prescribed in 25.1102(c), insert the following clause:
 
-Buy American - Construction Materials Under Trade Agreements (OCT 2019)
+Buy American - Construction Materials Under Trade Agreements (JAN 2021)
 
 (a) *Definitions.* As used in this clause -
 
@@ -16,7 +14,7 @@ Buy American - Construction Materials Under Trade Agreements (OCT 2019)
 
 *Commercially available off-the-shelf (COTS) item* - (1) Means any item of supply (including construction material) that is -
 
-(i) A commercial item (as defined in paragraph (1) of the definition at FAR 2.101);
+(i) A commercial item (as defined in paragraph (1) of the definition at Federal Acquisition Regulation (FAR) 2.101);
 
 (ii) Sold in substantial quantities in the commercial marketplace; and
 
@@ -46,17 +44,25 @@ Buy American - Construction Materials Under Trade Agreements (OCT 2019)
 
 *Designated country construction material* means a construction material that is a WTO GPA country construction material, an FTA country construction material, a least developed country construction material, or a Caribbean Basin country construction material.
 
-*Domestic construction material means* -
+*Domestic construction material* means -
 
-(1) An unmanufactured construction material mined or produced in the United States;
+(1) For construction material that does not consist wholly or predominantly of iron or steel or a combination of both -
 
-(2) A construction material manufactured in the United States, if -
+(i) An unmanufactured construction material mined or produced in the United States; or
 
-(i) The cost of its components mined, produced, or manufactured in the United States exceeds 50 percent of the cost of all its components. Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic; or
+(ii) A construction material manufactured in the United States, if -
 
-(ii) The construction material is a COTS item.
+(A) The cost of its components mined, produced, or manufactured in the United States exceeds 55 percent of the cost of all its components. Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic. Components of unknown origin are treated as foreign; or
+
+(B) The construction material is a COTS item; or
+
+(2) For construction material that consists wholly or predominantly of iron or steel or a combination of both, a construction material manufactured in the United States if the cost of foreign iron and steel constitutes less than 5 percent of the cost of all components used in such construction material. The cost of foreign iron and steel includes but is not limited to the cost of foreign iron or steel mill products (such as bar, billet, slab, wire, plate, or sheet), castings, or forgings utilized in the manufacture of the construction material and a good faith estimate of the cost of all foreign iron or steel components excluding COTS fasteners. Iron or steel components of unknown origin are treated as foreign. If the construction material contains multiple components, the cost of all the materials used in such construction material is calculated in accordance with the definition of “cost of components”.
+
+*Fastener* means a hardware device that mechanically joins or affixes two or more objects together. Examples of fasteners are nuts, bolts, pins, rivets, nails, clips, and screws.
 
 *Foreign construction material* means a construction material other than a domestic construction material.
+
+*Foreign iron and steel* means iron or steel products not produced in the United States. Produced in the United States means that all manufacturing processes of the iron or steel must take place in the United States, from the initial melting stage through the application of coatings, except metallurgical processes involving refinement of steel additives. The origin of the elements of the iron or steel is not relevant to the determination of whether it is domestic or foreign.
 
 *Free Trade Agreement country construction material* means a construction material that -
 
@@ -70,6 +76,10 @@ Buy American - Construction Materials Under Trade Agreements (OCT 2019)
 
 (2) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in a least developed country into a new and different construction material distinct from the materials from which it was transformed.
 
+*Predominantly of iron or steel or a combination of both* means that the cost of the iron and steel content exceeds 50 percent of the total cost of all its components. The cost of iron and steel is the cost of the iron or steel mill products (such as bar, billet, slab, wire, plate, or sheet), castings, or forgings utilized in the manufacture of the product and a good faith estimate of the cost of iron or steel components excluding COTS fasteners.
+
+*Steel* means an alloy that includes at least 50 percent iron, between 0.02 and 2 percent carbon, and may include other elements.
+
 *United States* means the 50 States, the District of Columbia, and outlying areas.
 
 *WTO GPA country construction material* means a construction material that -
@@ -78,7 +88,7 @@ Buy American - Construction Materials Under Trade Agreements (OCT 2019)
 
 (2) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in a WTO GPA country into a new and different construction material distinct from the materials from which it was transformed.
 
-(b) *Construction materials.* (1) This clause implements 41 U.S.C. chapter 83, Buy American, by providing a preference for domestic construction material. In accordance with 41 U.S.C. 1907, the component test of the Buy American statute is waived for construction material that is a COTS item. (See FAR 12.505(a)(2)). In addition, the Contracting Officer has determined that the WTO GPA and Free Trade Agreements (FTAs) apply to this acquisition. Therefore, the Buy American restrictions are waived for designated country construction materials.
+(b) *Construction materials.* (1) This clause implements 41 U.S.C. chapter 83, Buy American, by providing a preference for domestic construction material. In accordance with 41 U.S.C. 1907, the domestic content test of the Buy American statute is waived for construction material that is a COTS item, except that for construction material that consists wholly or predominantly of iron or steel or a combination of both, the domestic content test is applied only to the iron and steel content of the construction material, excluding COTS fasteners. (See FAR 12.505(a)(2)). In addition, the Contracting Officer has determined that the WTO GPA and Free Trade Agreements (FTAs) apply to this acquisition. Therefore, the Buy American restrictions are waived for designated country construction materials.
 
 (2) The Contractor shall use only domestic or designated country construction material in performing this contract, except as provided in paragraphs (b)(3) and (b)(4) of this clause.
 
@@ -88,7 +98,7 @@ Buy American - Construction Materials Under Trade Agreements (OCT 2019)
 
 (4) The Contracting Officer may add other foreign construction material to the list in paragraph (b)(3) of this clause if the Government determines that -
 
-(i) The cost of domestic construction material would be unreasonable. The cost of a particular domestic construction material subject to the restrictions of the Buy American statute is unreasonable when the cost of such material exceeds the cost of foreign material by more than 6 percent;
+(i) The cost of domestic construction material would be unreasonable. The cost of a particular domestic construction material subject to the restrictions of the Buy American statute is unreasonable when the cost of such material exceeds the cost of foreign material by more than 20 percent;
 
 (ii) The application of the restriction of the Buy American statute to a particular construction material would be impracticable or inconsistent with the public interest; or
 
@@ -126,24 +136,24 @@ Buy American - Construction Materials Under Trade Agreements (OCT 2019)
 
 Foreign and Domestic Construction Materials Price Comparison
 
-|Construction material description|Unit of measure|Quantity|Price (dollars)<sup>1</sup>|
-|---------------------------------|---------------|--------|---------------------------|
-|             Item 1:             |               |        |                           |
-|  Foreign construction material  |               |        |                           |
-| Domestic construction material  |               |        |                           |
-|             Item 2:             |               |        |                           |
-|  Foreign construction material  |               |        |                           |
-| Domestic construction material  |               |        |                           |
+|Construction material description|Unit of  <br/>measure|Quantity|Price  <br/>(dollars) \*|
+|---------------------------------|---------------------|--------|------------------------|
+|             Item 1:             |                     |        |                        |
+| Foreign construction material.  |                     |        |                        |
+| Domestic construction material. |                     |        |                        |
+|             Item 2:             |                     |        |                        |
+| Foreign construction material.  |                     |        |                        |
+| Domestic construction material. |                     |        |                        |
 
-<sup>1</sup> Include all delivery costs to the construction site and any applicable duty (whether or not a duty-free entry certificate is issued).
+[\* Include all delivery costs to the construction site and any applicable duty (whether or not a duty-free entry certificate is issued)].
 
-List name, address, telephone number, and contact for suppliers surveyed. Attach copy of response; if oral, attach summary.
+[List name, address, telephone number, and contact for suppliers surveyed. Attach copy of response; if oral, attach summary.]
 
-Include other applicable supporting information.
+[Include other applicable supporting information.]
 
 (End of clause)
 
-*Alternate I* (MAY 2014). As prescribed in 25.1102(c)(3), add the following definition of “Bahrainian, Mexican, or Omani construction material” to paragraph (a) of the basic clause, and substitute the following paragraphs (b)(1) and (b)(2) for paragraphs (b)(1) and (b)(2) of the basic clause:
+*Alternate I* (JAN 2021). As prescribed in 25.1102(c)(3), add the following definition of “Bahrainian, Mexican, or Omani construction material” to paragraph (a) of the basic clause, and substitute the following paragraphs (b)(1) and (b)(2) for paragraphs (b)(1) and (b)(2) of the basic clause:
 
 *Bahrainian, Mexican, or Omani construction material* means a construction material that -
 
@@ -151,7 +161,7 @@ Include other applicable supporting information.
 
 (2) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in Bahrain, Mexico, or Oman into a new and different construction material distinct from the materials from which it was transformed.
 
-(b) *Construction materials.* (1) This clause implements 41 U.S.C. chapter 83, Buy American, by providing a preference for domestic construction material. In accordance with 41 U.S.C. 1907, the component test of the Buy American statute is waived for construction material that is a COTS item. (See FAR 12.505(a)(2)). In addition, the Contracting Officer has determined that the WTO GPA and all the Free Trade Agreements except the Bahrain FTA, NAFTA, and the Oman FTA apply to the this acquisition. Therefore, the Buy American statute restrictions are waived for designated country construction materials other than Bahrainian, Mexican, or Omani construction materials.
+(b) *Construction materials.* (1) This clause implements 41 U.S.C. chapter 83, Buy American, by providing a preference for domestic construction material. In accordance with 41 U.S.C. 1907, the domestic content test of the Buy American statute is waived for construction material that is a COTS item, except that for construction material that consists wholly or predominantly of iron or steel or a combination of both, the domestic content test is applied only to the iron and steel content of the construction material, excluding COTS fasteners. (See FAR 12.505(a)(2)). In addition, the Contracting Officer has determined that the WTO GPA and all the Free Trade Agreements except the Bahrain FTA, NAFTA, and the Oman FTA apply to this acquisition. Therefore, the Buy American statute restrictions are waived for designated country construction materials other than Bahrainian, Mexican, or Omani construction materials.
 
 (2) The Contractor shall use only domestic or designated country construction material other than Bahrainian, Mexican, or Omani construction material in performing this contract, except as provided in paragraphs (b)(3) and (b)(4) of this clause.
 

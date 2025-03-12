@@ -1,5 +1,7 @@
 ##### § 423.560 Definitions. #####
 
+Link to an amendment published at 86 FR 6119, Jan. 19, 2021.
+
 As used in this subpart, unless the context indicates otherwise -
 
 *Appeal* means any of the procedures that deal with the review of adverse coverage determinations made by the Part D plan sponsor on the benefits under a Part D plan the enrollee believes he or she is entitled to receive, including delay in providing or approving the drug coverage (when a delay would adversely affect the health of the enrollee), or on any amounts the enrollee must pay for the drug coverage, as defined in § 423.566(b). Appeal also includes the review of at-risk determinations made under a drug management program in accordance with § 423.153(f). These procedures include redeterminations by the Part D plan sponsor, reconsiderations by the independent review entity, ALJ hearings, reviews by the Medicare Appeals Council (Council), and judicial reviews.

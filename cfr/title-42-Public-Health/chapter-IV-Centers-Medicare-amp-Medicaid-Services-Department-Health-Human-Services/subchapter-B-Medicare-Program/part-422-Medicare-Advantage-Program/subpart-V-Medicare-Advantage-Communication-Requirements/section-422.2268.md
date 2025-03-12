@@ -1,5 +1,7 @@
 ##### § 422.2268 Standards for MA organization communications and marketing. #####
 
+Link to an amendment published at 86 FR 6112, Jan. 19, 2021.
+
 (a) In conducting communication activities, MA organizations may not do any of the following:
 
 (1) Provide information that is inaccurate or misleading.

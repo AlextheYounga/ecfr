@@ -1,8 +1,6 @@
 ##### 25.601 Definitions. #####
 
-Link to an amendment published at 86 FR 6189, Jan. 19, 2021.
-
-As used in this subpart -
+As used in this subpart—
 
 *Domestic construction material* means the following:
 
@@ -18,12 +16,4 @@ As used in this subpart -
 
 *Recovery Act designated country* means a World Trade Organization Government Procurement Agreement country, a Free Trade Agreement country, or a least developed country.
 
-*Steel* means an alloy that includes at least 50 percent iron, between .02 and 2 percent carbon, and may include other elements.
-
-*Unmanufactured construction material* means raw material brought to the construction site for incorporation into the building or work that has not been -
-
-(1) Processed into a specific form and shape; or
-
-(2) Combined with other raw material to create a material that has different properties than the properties of the individual raw materials.
-
-[74 FR 14626, Mar. 31, 2009, as amended at 75 FR 53165, Aug. 30, 2010; 79 FR 24209, Apr. 29, 2014]
+[74 FR 14626, Mar. 31, 2009, as amended at 75 FR 53165, Aug. 30, 2010; 79 FR 24209, Apr. 29, 2014; 86 FR 6189, Jan. 19, 2021]

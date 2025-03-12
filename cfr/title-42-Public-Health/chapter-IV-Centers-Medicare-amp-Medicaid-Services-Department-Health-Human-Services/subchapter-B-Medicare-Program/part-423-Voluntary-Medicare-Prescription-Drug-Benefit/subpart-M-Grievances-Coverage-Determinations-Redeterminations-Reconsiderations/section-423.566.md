@@ -1,5 +1,7 @@
 ##### § 423.566 Coverage determinations. #####
 
+Link to an amendment published at 86 FR 6119, Jan. 19, 2021.
+
 (a) *Responsibilities of the Part D plan sponsor.* Each Part D plan sponsor must have a procedure for making timely coverage determinations in accordance with the requirements of this subpart regarding the prescription drug benefits an enrollee is entitled to receive under the plan, including basic prescription drug coverage as specified in § 423.100 and supplemental benefits as specified in § 423.104(f)(1)(ii), and the amount, including cost sharing, if any, that the enrollee is required to pay for a drug. The Part D plan sponsor must have a standard procedure for making determinations, in accordance with § 423.568, and an expedited procedure for situations in which applying the standard procedure may seriously jeopardize the enrollee's life, health, or ability to regain maximum function, in accordance with § 423.570.
 
 (b) *Actions that are coverage determinations.* The following actions by a Part D plan sponsor are coverage determinations:

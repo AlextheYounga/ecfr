@@ -1,5 +1,7 @@
 ##### § 422.134 Reward and incentive programs. #####
 
+Link to an amendment published at 86 FR 6096, Jan. 19, 2021.
+
 (a) *General rule.* The MA organization may create one or more programs consistent with the standards of this section that provide rewards and incentives to enrollees in connection with participation in activities that focus on promoting improved health, preventing injuries and illness, and promoting efficient use of health care resources.
 
 (b) *Non-discrimination.* Reward and incentive programs -

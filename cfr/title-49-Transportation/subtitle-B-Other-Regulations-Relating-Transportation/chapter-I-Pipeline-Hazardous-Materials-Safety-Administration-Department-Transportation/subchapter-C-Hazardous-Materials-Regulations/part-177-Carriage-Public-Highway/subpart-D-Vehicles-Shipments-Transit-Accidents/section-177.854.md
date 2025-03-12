@@ -1,14 +1,12 @@
 ##### § 177.854 Disabled vehicles and broken or leaking packages; repairs. #####
 
-Link to an amendment published at 85 FR 83402, Dec. 21, 2020.The effective date of this amendment was corrected to read January 21, 2021, at 86 FR 2504, Jan. 13, 2021.
-
 (a) *Care of lading, hazardous materials.* Whenever for any cause other than necessary traffic stops any motor vehicle transporting any hazardous material is stopped upon the traveled portion of any highway or shoulder thereof, special care shall be taken to guard the vehicle and its load or to take such steps as may be necessary to provide against hazard. Special effort shall be made to remove the motor vehicle to a place where the hazards of the materials being transported may be provided against. See §§ 392.22, 392.24, and 392.25 of this title for warning devices required to be displayed on the highway.
 
 (b) *Disposition of containers found broken or leaking in transit.* When leaks occur in packages or containers during the course of transportation, subsequent to initial loading, disposition of such package or container shall be made by the safest practical means afforded under paragraphs (c), (d), and (e) of this section.
 
 (c) *Repairing or overpacking packages.* (1) Packages may be repaired when safe and practicable, such repairing to be in accordance with the best and safest practice known and available.
 
-(2) Packages of hazardous materials that are damaged or found leaking during transportation, and hazardous materials that have spilled or leaked during transportation, may be forwarded to destination or returned to the shipper in a salvage drum in accordance with the requirements of § 173.3(c) of this subchapter.
+(2) Packages of hazardous materials that are damaged or found leaking during transportation, and hazardous materials that have spilled or leaked during transportation, may be forwarded to destination or returned to the shipper in a salvage packaging in accordance with the requirements of § 173.3, as applicable, of this subchapter.
 
 (d) *Transportation of repaired packages.* Any package repaired in accordance with the requirements of paragraph (c)(1) of this section may be transported to the nearest place at which it may safely be disposed of only in compliance with the following requirements:
 
@@ -26,7 +24,7 @@ Link to an amendment published at 85 FR 83402, Dec. 21, 2020.The effective date 
 
 (2) For cargo tanks used for the transportation of Class 3 (flammable liquid) or Division 2.1 (flammable gas) materials, whether loaded or empty, and vehicles transporting Division 1.1, 1.2, or 1.3 (explosive) materials, warning devices must be set out in the manner prescribed by § 392.25 of this title.
 
-(g) *Repair and maintenance of vehicles containing certain hazardous materials* - (1) *General.* No person may use heat, flame or spark producing devices to repair or maintain the cargo or fuel containment system of a motor vehicle required to be placarded, other than COMBUSTIBLE, in accordance with subpart F of part 172 of this subchapter. As used in this section, “containment system” includes all vehicle components intended physically to contain cargo or fuel during loading or filling, transport, or unloading.
+(g) *Repair and maintenance of vehicles containing certain hazardous materials*—(1) *General.* No person may use heat, flame or spark producing devices to repair or maintain the cargo or fuel containment system of a motor vehicle required to be placarded, other than COMBUSTIBLE, in accordance with subpart F of part 172 of this subchapter. As used in this section, “containment system” includes all vehicle components intended physically to contain cargo or fuel during loading or filling, transport, or unloading.
 
 (2) *Repair and maintenance inside a building.* No person may perform repair or maintenance on a motor vehicle subject to paragraph (g)(1) of this section inside a building unless:
 

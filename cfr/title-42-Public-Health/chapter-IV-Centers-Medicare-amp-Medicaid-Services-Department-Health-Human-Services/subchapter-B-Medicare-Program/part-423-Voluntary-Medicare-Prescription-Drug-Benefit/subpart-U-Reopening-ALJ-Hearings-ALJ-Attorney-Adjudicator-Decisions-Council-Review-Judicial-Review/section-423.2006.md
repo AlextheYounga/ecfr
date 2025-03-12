@@ -1,5 +1,7 @@
 ##### § 423.2006 Amount in controversy required for an ALJ hearing and judicial review. #####
 
+Link to an amendment published at 86 FR 6121, Jan. 19, 2021.
+
 (a) *ALJ review.* To be entitled to a hearing before an ALJ, an enrollee must meet the amount in controversy requirements of this section.
 
 (1) For ALJ hearing requests, the required amount remaining in controversy must be $100, increased by the percentage increase in the medical care component of the Consumer Price Index for All Urban Consumers (U.S. city average) as measured from July 2003 to the July preceding the current year involved.
