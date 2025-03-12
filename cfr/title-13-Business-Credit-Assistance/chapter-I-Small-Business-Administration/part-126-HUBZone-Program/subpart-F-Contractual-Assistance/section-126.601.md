@@ -1,7 +1,5 @@
 ##### § 126.601 What additional requirements must a qualified HUBZone SBC meet to bid on a contract? #####
 
-Link to an amendment published at 83 FR 12852, Mar. 26, 2018.
-
 (a) The Federal Acquisition Regulatory Council (FAR Council) has the responsibility of adjusting each acquisition-related dollar threshold on October 1 of each year that is evenly divisible by five. Acquisition-related dollar thresholds are defined as dollar thresholds that are specified in law as a factor in defining the scope of the applicability of a policy, procedure, requirement, or restriction provided in that law to the procurement of property or services by an executive agency as determined by the FAR Council. 41 U.S.C. 431a(c). Part 126, Subpart F, Contract Assistance, contains acquisition-related dollar thresholds subject to inflationary adjustments. The FAR Council shall publish a notice of the adjusted dollar thresholds in the Federal Register. The adjusted dollar thresholds shall take effect on the date of publication.
 
 (b) In order to submit an offer on a specific HUBZone contract, the qualified HUBZone SBC, together with its affiliates, must be small under the size standard corresponding to the NAICS code assigned to the contract.
@@ -30,7 +28,7 @@ Link to an amendment published at 83 FR 12852, Mar. 26, 2018.
 
 (4) *Reserves.* The qualified HUBZone SBC must comply with the applicable limitations on subcontracting provisions (*see* § 126.700) and the nonmanufacturer rule (*see* § 126.601), if applicable, in the performance of an order that is set aside for HUBZone SBCs. However, the qualified HUBZone SBC will not have to comply with the limitations on subcontracting provisions and the nonmanufacturer rule for any order issued against the Multiple Award Contract if the order is competed amongst qualified HUBZone SBCs and one or more other-than-small business concerns.
 
-(h) *Recertification of Status for an Award.* (1) A concern that is a qualified HUBZone SBC at the time of initial offer and contract award, including a Multiple Award Contract, is considered a HUBZone SBC throughout the life of that contract. This means that if a HUBZone SBC is certified at the time of initial offer and contract award for a Multiple Award Contract, then it will be considered a HUBZone SBC for each order issued against the contract, unless a contracting officer requests a new HUBZone SBC certification in connection with a specific order. Where a concern is later decertified, the procuring agency may exercise options and still count the award as an award to a HUBZone SBC. However, the following exceptions apply:
+(h) *Recertification.* (1) A concern that is a qualified HUBZone SBC at the time of initial offer and contract award, including a Multiple Award Contract, is considered a HUBZone SBC throughout the life of that contract. This means that if a HUBZone SBC is certified at the time of initial offer and contract award for a Multiple Award Contract, then it will be considered a HUBZone SBC for each order issued against the contract, unless a contracting officer requests a new HUBZone SBC certification in connection with a specific order. Where a concern is later decertified, the procuring agency may exercise options and still count the award as an award to a HUBZone SBC. However, the following exceptions apply to this paragraph (h)(1):
 
 (i) Where a HUBZone contract (or a contract awarded through full and open competition based on the HUBZone price evaluation preference) is novated to another business concern, the concern that will continue performance on the contract must certify its status as a HUBZone SBC to the procuring agency, or inform the procuring agency that it does not qualify as a HUBZone SBC, within 30 days of the novation approval. If the concern cannot certify that it qualifies as a HUBZone SBC, the agency can no longer count the options or orders issued pursuant to the contract, from that point forward, towards its HUBZone goals.
 
@@ -48,4 +46,4 @@ Link to an amendment published at 83 FR 12852, Mar. 26, 2018.
 
 (6) A concern's status may be determined at the time of submission of its initial response to a solicitation for and award of an Agreement and each order issued pursuant to the Agreement.
 
-[69 FR 29424, May 24, 2004, as amended at 74 FR 46887, Sept. 14, 2009; 78 FR 61144, Oct. 2, 2013; 81 FR 34265, May 31, 2016]
+[69 FR 29424, May 24, 2004, as amended at 74 FR 46887, Sept. 14, 2009; 78 FR 61144, Oct. 2, 2013; 81 FR 34265, May 31, 2016; 83 FR 12852, Mar. 26, 2018]

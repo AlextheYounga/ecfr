@@ -1,7 +1,5 @@
 ##### § 126.200 What requirements must a concern meet to receive SBA certification as a qualified HUBZone SBC? #####
 
-Link to an amendment published at 83 FR 12852, Mar. 26, 2018.
-
 (a) *Concerns owned by Indian Tribal Governments* - (1) *Ownership.* (i) The concern must be wholly owned by one or more Indian Tribal Governments;
 
 (ii) The concern must be wholly owned by a corporation that is wholly owned by one or more Indian Tribal Governments;
@@ -20,7 +18,7 @@ Link to an amendment published at 83 FR 12852, Mar. 26, 2018.
 
 (iii) The concern will “attempt to maintain” (see § 126.103) that applicable employment percentage stated above during the performance of any HUBZone contract it receives.
 
-(b) *Concerns owned by U.S. citizens, ANCs or CDCs* - (1) *Ownership.* (i) The concern must be at least 51% unconditionally and directly owned and controlled by persons who are United States citizens;
+(b) *Concerns owned by U.S. citizens, ANCs or CDCs* - (1) *Ownership.* (i) The concern must be at least 51% owned and controlled by persons who are United States citizens;
 
 Example:A concern that is a partnership owned 50% by an individual who is a United States citizen and 50% by someone who is not a United States citizen, is not an eligible concern because it is not at least 51% owned by United States citizens.
 
@@ -56,4 +54,4 @@ Example 1:A concern has 25 employees, 35% or 8.75 employees must reside in a HUB
 
 (5) *Contract Performance.* The concern must represent, as provided in the application, that it will “attempt to maintain” (see § 126.103) having 35% of its employees reside in a HUBZone during the performance of any HUBZone contract it receives.
 
-[69 FR 29422, May 24, 2004, as amended at 70 FR 51249, Aug. 30, 2005; 81 FR 34265, May 31, 2016; 81 FR 51314, Aug. 4, 2016]
+[69 FR 29422, May 24, 2004, as amended at 70 FR 51249, Aug. 30, 2005; 81 FR 34265, May 31, 2016; 81 FR 51314, Aug. 4, 2016; 83 FR 12852, Mar. 26, 2018]

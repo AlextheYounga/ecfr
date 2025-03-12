@@ -1,8 +1,6 @@
 ##### § 125.6 What are the prime contractor's limitations on subcontracting? #####
 
-Link to an amendment published at 83 FR 12852, Mar. 26, 2018.
-
-(a) *General.* In order to be awarded a full or partial small business set-aside contract with a value greater than $150,000, an 8(a) contract, an SDVO SBC contract, a HUBZone contract, a WOSB or EDWOSB contract pursuant to part 127 of this chapter, a small business concern must agree that:
+(a) *General.* In order to be awarded a full or partial small business set-aside contract with a value greater than the simplified acquisition threshold (as defined in the FAR at 48 CFR 2.101)” in paragraph (a) introductory text; and an 8(a) contract, an SDVO SBC contract, a HUBZone contract, a WOSB or EDWOSB contract pursuant to part 127 of this chapter, a small business concern must agree that:
 
 (1) In the case of a contract for services (except construction), it will not pay more than 50% of the amount paid by the government to it to firms that are not similarly situated. Any work that a similarly situated subcontractor further subcontracts will count towards the 50% subcontract amount that cannot be exceeded.
 
@@ -42,7 +40,7 @@ Example 1 to paragraph (c):An SDVO SBC sole source contract is awarded in the to
 
 (f) *Inapplicability of limitations on subcontracting.* The limitations on subcontracting do not apply to:
 
-(1) Small business set-aside contracts with a value greater than $3,500 but not $150,000, or
+(1) Small business set-aside contracts with a value that is greater than the micro-purchase threshold but less than or equal to the simplified acquisition threshold (as both terms are defined in the FAR at 48 CFR 2.101); or
 
 (2) Subcontracts (except where a prime is relying on a similarly situated entity to meet the applicable limitations on subcontracting).
 
@@ -68,4 +66,4 @@ Example 1 to paragraph (c):An SDVO SBC sole source contract is awarded in the to
 
 (h) *Penalties.* Whoever violates the requirements set forth in paragraph (a) of this section shall be subject to the penalties prescribed in 15 U.S.C. 645(d), except that the fine shall be treated as the greater of $500,000 or the dollar amount spent, in excess of permitted levels, by the entity on subcontractors. A party's failure to comply with the spirit and intent of a subcontract with a similarly situated entity may be considered a basis for debarment on the grounds, including but not limited to, that the parties have violated the terms of a Government contract or subcontract pursuant to FAR 9.406-2(b)(1)(i) (48 CFR 9.406-2(b)(1)(i)).
 
-[81 FR 34262, May 31, 2016; 81 FR 67093, Sept. 30, 2016]Editorial Note:At 81 FR 48585, July 25, 2016, § 125.6 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.
+[81 FR 34262, May 31, 2016; 81 FR 67093, Sept. 30, 2016; 83 FR 12852, Mar. 26, 2018]Editorial Note:At 81 FR 48585, July 25, 2016, § 125.6 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.

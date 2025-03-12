@@ -1,7 +1,5 @@
 ##### § 54.1015 Public interest obligations. #####
 
-Link to an amendment published at 83 FR 17942, Apr. 25, 2018.
-
 (a) *First interim deadline for construction.* A winning bidder authorized to receive Mobility Fund Phase II support shall, no later than 42 months from the first day of the month that follows the month in which the Mobility Fund Phase II auction closes, submit to the entities listed in § 54.1020(c) any required data covering all areas for which they receive support in a state demonstrating mobile transmissions supporting voice and data to and from the network covering at least 40 percent of the square miles associated with the eligible areas and meeting or exceeding the following:
 
 (1) Outdoor median data transmission rates of 1 Mbps upload and 10 Mbps download, with at least 90 percent of the required download speed measurements not less than a certain threshold speed that will be defined prior to the Mobility Fund Phase II auction; and
@@ -16,7 +14,7 @@ Link to an amendment published at 83 FR 17942, Apr. 25, 2018.
 
 (e) *Coverage data.* Coverage data submitted in compliance with a recipient's public interest obligations shall demonstrate coverage of the square miles designated in the public notice announcing the final list of eligible areas for the competitive bidding that is the basis of the recipient's support. Any data submitted in compliance with a recipient's public interest obligations shall be in compliance with standards set forth in the applicable public notice.
 
-(f) *Collocation obligations.* During the period when a recipient shall file annual reports pursuant to § 54.1019, the recipient shall allow for reasonable collocation by other providers of services that would meet the technological requirements of Mobility Fund Phase II on all towers it owns or manages in the area for which it receives support. In addition, during this period, the recipient may not enter into facilities access arrangements that restrict any party to the arrangement from allowing others to collocate on the facilities.
+(f) *Collocation obligations.* During the period when a recipient shall file annual reports pursuant to § 54.1019, the recipient shall allow for reasonable collocation by other providers of services that would meet the technological requirements of Mobility Fund Phase II on all newly constructed towers it owns or manages in the area for which it receives support. In addition, during this period, the recipient may not enter into facilities access arrangements that restrict any party to the arrangement from allowing others to collocate on the facilities.
 
 (g) *Voice and data roaming obligations.* During the period when a recipient shall file annual reports pursuant to § 54.1019, the recipient shall comply with the Commission's voice and data roaming requirements that are currently in effect on networks that are built through Mobility Fund Phase II support.
 
@@ -26,4 +24,4 @@ Link to an amendment published at 83 FR 17942, Apr. 25, 2018.
 
 (j) *Liability for failing to satisfy public interest obligations.* A Mobility Fund Phase II support recipient's failure to comply with the public interest obligations in this paragraph or any other terms and conditions of the Mobility Fund Phase II support constitutes a performance default.
 
-[82 FR 15450, Mar. 28, 2017]Effective Date Note:At 82 FR 15450, Mar. 28, 2017, § 54.1015 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[82 FR 15450, Mar. 28, 2017, as amended at 83 FR 17942, Apr. 25, 2018]Effective Date Note:At 82 FR 15450, Mar. 28, 2017, § 54.1015 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

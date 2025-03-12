@@ -1,6 +1,6 @@
 ##### § 395.15 Automatic on-board recording devices. #####
 
-Link to an amendment published at 83 FR 16227, Apr. 16, 2018.
+Link to an amendment published at 83 FR 16227, Apr. 16, 2018.Link to a correction published at 83 FR 24228, May 25, 2018.
 
 (a) *Authority to use.* (1) A motor carrier that installs and requires a driver to use an automatic on-board recording device in accordance with this section before December 18, 2017 may continue to use the compliant automatic on-board recording device no later than December 16, 2019. Otherwise, the authority to use automatic on-board recording devices under this section ends on December 18, 2017.
 

@@ -1,7 +1,5 @@
 ##### § 126.616 What requirements must a joint venture satisfy to submit an offer on a HUBZone contract? #####
 
-Link to an amendment published at 83 FR 12852, Mar. 26, 2018.
-
 (a) *General.* A qualified HUBZone SBC may enter into a joint venture agreement with one or more other SBCs, or with an approved mentor authorized by § 125.9 of this chapter (or, if also an 8(a) BD Participant, with an approved mentor authorized by § 124.520 of this chapter), for the purpose of submitting an offer for a HUBZone contract. The joint venture itself need not be certified as a qualified HUBZone SBC.
 
 (b) *Size.* (1) A joint venture of at least one qualified HUBZone SBC and one or more other business concerns may submit an offer as a small business for a HUBZone procurement or sale so long as each concern is small under the size standard corresponding to the NAICS code assigned to the procurement or sale.
@@ -36,11 +34,11 @@ Link to an amendment published at 83 FR 12852, Mar. 26, 2018.
 
 (d) *Limitations on subcontracting.* (1) For any HUBZone contract to be performed by a joint venture between a qualified HUBZone SBC and another qualified HUBZone SBC, the aggregate of the qualified HUBZone SBCs to the joint venture, not each concern separately, must perform the applicable percentage of work required by § 125.6 of this chapter.
 
-(2) For any HUBZone contract to be performed by a joint venture between a qualified HUBZone protégé and a small business concern or its SBA-approved mentor authorized by § 125.9 or § 124.520 of this chapter, the joint venture must perform the applicable percentage of work required by § 125.6 of this chapter, and the HUBZone SBC partner to the joint venture must perform at least 40% of the work performed by the joint venture.
+(2) For any HUBZone contract to be performed by a joint venture between a qualified HUBZone SBC and a small business concern or its SBA-approved mentor authorized by § 125.9 or § 124.520 of this chapter, the joint venture must perform the applicable percentage of work required by § 125.6 of this chapter, and the HUBZone SBC partner to the joint venture must perform at least 40% of the work performed by the joint venture.
 
 (i) The work performed by the HUBZone SBC partner to a joint venture must be more than administrative or ministerial functions so that it gains substantive experience.
 
-(ii) The amount of work done by the partners will be aggregated and the work done by the HUBZone protégé partner must be at least 40% of the total done by the partners. In determining the amount of work done by a mentor participating in a joint venture with a HUBZone qualified protégé, all work done by the mentor and any of its affiliates at any subcontracting tier will be counted.
+(ii) The amount of work done by the partners will be aggregated and the work done by the HUBZone SBC partner must be at least 40% of the total done by the partners. In determining the amount of work done by a mentor participating in a joint venture with a HUBZone qualified protégé, all work done by the mentor and any of its affiliates at any subcontracting tier will be counted.
 
 (e) *Certification of compliance.* Prior to the performance of any HUBZone contract as a joint venture, the HUBZone SBC partner to the joint venture must submit a written certification to the contracting officer and SBA, signed by an authorized official of each partner to the joint venture, stating as follows:
 
@@ -70,4 +68,4 @@ Link to an amendment published at 83 FR 12852, Mar. 26, 2018.
 
 (k) Any person with information concerning a joint venture's compliance with the performance of work requirements may report that information to SBA and/or the SBA Office of Inspector General.
 
-[81 FR 48591, July 25, 2016, as amended at 81 FR 94942, Dec. 27, 2016]
+[81 FR 48591, July 25, 2016, as amended at 81 FR 94942, Dec. 27, 2016; 83 FR 12852, Mar. 26, 2018]

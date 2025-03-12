@@ -1,8 +1,6 @@
 ##### § 125.22 When may a contracting officer set-aside a procurement for SDVO SBCs? #####
 
-Link to an amendment published at 83 FR 12852, Mar. 26, 2018.
-
-(a) The contracting officer first must review a requirement to determine whether it is excluded from SDVO contracting pursuant to § 125.18.
+(a) The contracting officer first must review a requirement to determine whether it is excluded from SDVO contracting pursuant to § 125.21.
 
 (b) *Contracting Among Small Business Programs.* (1) *Acquisitions Valued At or Below the Simplified Acquisition Threshold.* The contracting officer shall set aside any acquisition with an anticipated dollar value exceeding the Micro-purchase Threshold but not exceeding the Simplified Acquisition Threshold (defined in the FAR at 48 CFR 2.101) for small business concerns, regardless of the place of performance, when there is a reasonable expectation that offers will be obtained from at least two small business concerns that are competitive in terms of quality and delivery and award will be made at fair market prices. This requirement does not preclude a contracting officer from making an award to a small business under the 8(a) BD, HUBZone, SDVO SBC or WOSB Programs.
 
@@ -16,4 +14,4 @@ Link to an amendment published at 83 FR 12852, Mar. 26, 2018.
 
 (2) Determine that award can be made at fair market price.
 
-[69 FR 25268, May 5, 2004, as amended at 75 FR 62281, Oct. 7, 2010; 77 FR 1860, Jan. 12, 2012; 78 FR 61144, Oct. 2, 2013. Redesignated at 81 FR 48585, July 25, 2016, as amended at 81 FR 48591, July 25, 2016]
+[69 FR 25268, May 5, 2004, as amended at 75 FR 62281, Oct. 7, 2010; 77 FR 1860, Jan. 12, 2012; 78 FR 61144, Oct. 2, 2013. Redesignated at 81 FR 48585, July 25, 2016, as amended at 81 FR 48591, July 25, 2016; 83 FR 12852, Mar. 26, 2018]

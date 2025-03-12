@@ -1,7 +1,5 @@
 ##### § 121.404 When is the size status of a business concern determined? #####
 
-Link to an amendment published at 83 FR 12851, Mar. 26, 2018.
-
 (a) SBA determines the size status of a concern, including its affiliates, as of the date the concern submits a written self-certification that it is small to the procuring activity as part of its initial offer (or other formal response to a solicitation), which includes price.
 
 (1) With respect to Multiple Award Contracts and orders issued against a Multiple Award Contract:
@@ -24,7 +22,7 @@ Link to an amendment published at 83 FR 12851, Mar. 26, 2018.
 
 (f) For purposes of architect-engineering, design/build or two-step sealed bidding procurements, a concern must qualify as small as of the date that it certifies that it is small as part of its initial bid or proposal (which may or may not include price).
 
-(g) A concern that represents itself as a small business and qualifies as small at the time of its initial offer (or other formal response to a solicitation), which includes price, is considered to be a small business throughout the life of that contract. This means that if a business concern is small at the time of initial offer for a Multiple Award Contract (*see* § 121.1042(c) for designation of NAICS codes on a Multiple Award Contract), then it will be considered small for each order issued against the contract with the same NAICS code and size standard, unless a contracting officer requests a new size certification in connection with a specific order. Where a concern grows to be other than small, the procuring agency may exercise options and still count the award as an award to a small business. However, the following exceptions apply:
+(g) A concern that represents itself as a small business and qualifies as small at the time of its initial offer (or other formal response to a solicitation), which includes price, is considered to be a small business throughout the life of that contract. This means that if a business concern is small at the time of initial offer for a Multiple Award Contract (*see* § 121.1042(c) for designation of NAICS codes on a Multiple Award Contract), then it will be considered small for each order issued against the contract with the same NAICS code and size standard, unless a contracting officer requests a new size certification in connection with a specific order. Where a concern grows to be other than small, the procuring agency may exercise options and still count the award as an award to a small business. However, the following exceptions apply to this paragraph (g):
 
 (1) Within 30 days of an approved contract novation, a contractor must recertify its small business size status to the procuring agency, or inform the procuring agency that it is other than small. If the contractor is other than small, the agency can no longer count the options or orders issued pursuant to the contract, from that point forward, towards its small business goals.
 
@@ -58,4 +56,4 @@ Link to an amendment published at 83 FR 12851, Mar. 26, 2018.
 
 (h) A follow-on or renewal contract is a new contracting action. As such, size is determined as of the date the concern submits a written self-certification that it is small to the procuring agency as part of its initial offer including price for the follow-on or renewal contract.
 
-[69 FR 29205, May 21, 2004, as amended at 71 FR 19813, Apr. 18, 2006; 71 FR 66443, Nov. 15, 2006; 76 FR 5683, Feb. 2, 2011; 76 FR 8252, Feb. 11, 2011; 78 FR 42403, July 16, 2013; 78 FR 38817, June 28, 2013; 78 FR 61131, Oct. 2, 2013; 81 FR 34259, May 31, 2016; 81 FR 48578, July 25, 2016]
+[69 FR 29205, May 21, 2004, as amended at 71 FR 19813, Apr. 18, 2006; 71 FR 66443, Nov. 15, 2006; 76 FR 5683, Feb. 2, 2011; 76 FR 8252, Feb. 11, 2011; 78 FR 42403, July 16, 2013; 78 FR 38817, June 28, 2013; 78 FR 61131, Oct. 2, 2013; 81 FR 34259, May 31, 2016; 81 FR 48578, July 25, 2016; 83 FR 12851, Mar. 26, 2018]

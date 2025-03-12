@@ -1,7 +1,5 @@
 ##### § 127.503 When is a contracting officer authorized to restrict competition or award a sole source contract or order under this part? #####
 
-Link to an amendment published at 83 FR 12852, Mar. 26, 2018.
-
 (a) *Competition restricted to EDWOSBs.* For requirements in industries designated by SBA as underrepresented pursuant to § 127.501, a contracting officer may restrict competition to EDWOSBs if the contracting officer has a reasonable expectation based on market research that:
 
 (1) Two or more EDWOSBs will submit offers for the contract; and
@@ -40,7 +38,7 @@ Link to an amendment published at 83 FR 12852, Mar. 26, 2018.
 
 (g) *Contract file.* When restricting competition to WOSBs or EDWOSBs in accordance with § 127.503, the contracting officer must document the contract file accordingly, including the type and extent of market research and the fact that the NAICS code assigned to the contract is for an industry that SBA has designated as an underrepresented or, with respect to WOSBs, substantially underrepresented, industry. In addition, the contracting officer must document the contract file showing that the apparent successful offeror's documents and certifications in SAM (or any successor system) and associated representations were reviewed.
 
-(h) *Recertification.* (1) A concern that represents itself and qualifies as a WOSB or EDWOSB at the time of initial offer (or other formal response to a solicitation), which includes price, including a Multiple Award Contract, is considered a WOSB or EDWOSB throughout the life of that contract. This means that if a WOSB/EDWOSB is qualified at the time of initial offer for a Multiple Award Contract, then it will be considered an WOSB/EDWOSB for each order issued against the contract, unless a contracting officer requests a new WOSB or EDWOSB certification in connection with a specific order. Where a concern later fails to qualify as a WOSB/EDWOSB, the procuring agency may exercise options and still count the award as an award to a WOSB/EDWOSB. However, the following exceptions apply:
+(h) *Recertification.* (1) A concern that represents itself and qualifies as a WOSB or EDWOSB at the time of initial offer (or other formal response to a solicitation), which includes price, including a Multiple Award Contract, is considered a WOSB or EDWOSB throughout the life of that contract. This means that if a WOSB/EDWOSB is qualified at the time of initial offer for a Multiple Award Contract, then it will be considered an WOSB/EDWOSB for each order issued against the contract, unless a contracting officer requests a new WOSB or EDWOSB certification in connection with a specific order. Where a concern later fails to qualify as a WOSB/EDWOSB, the procuring agency may exercise options and still count the award as an award to a WOSB/EDWOSB. However, the following exceptions apply to this paragraph (h)(1):
 
 (i) Where a WOSB/EDWOSB contract is novated to another business concern, the concern that will continue performance on the contract must certify its status as a WOSB/EDWOSB to the procuring agency, or inform the procuring agency that it does not qualify as a WOSB/EDWOSB, within 30 days of the novation approval. If the concern cannot certify its status as a WOSB/EDWOSB, the agency may no longer be able to count the options or orders issued pursuant to the contract, from that point forward, towards its women-owned small business goals.
 
@@ -58,4 +56,4 @@ Link to an amendment published at 83 FR 12852, Mar. 26, 2018.
 
 (6) A concern's status may be determined at the time of a response to a solicitation for an Agreement and each order issued pursuant to the Agreement.
 
-[75 FR 62282, Oct. 7, 2010, as amended at 77 FR 1861, Jan. 12, 2012; 78 FR 26506, May 7, 2013; 78 FR 61147, Oct. 2, 2013; 79 FR 31849, June 3, 2014; 80 FR 55022, Sept. 14, 2015]
+[75 FR 62282, Oct. 7, 2010, as amended at 77 FR 1861, Jan. 12, 2012; 78 FR 26506, May 7, 2013; 78 FR 61147, Oct. 2, 2013; 79 FR 31849, June 3, 2014; 80 FR 55022, Sept. 14, 2015; 83 FR 12852, Mar. 26, 2018]

@@ -1,6 +1,6 @@
 ##### § 376.12 Written lease requirements. #####
 
-Link to an amendment published at 83 FR 16224, Apr. 16, 2018.
+Link to an amendment published at 83 FR 16224, Apr. 16, 2018.Link to a correction published at 83 FR 24228, May 25, 2018.
 
 Except as provided in the exemptions set forth in subpart C of this part, the written lease required under § 376.11(a) shall contain the following provisions. The required lease provisions shall be adhered to and performed by the authorized carrier.
 

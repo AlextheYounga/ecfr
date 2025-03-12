@@ -1,7 +1,5 @@
 ##### § 121.103 How does SBA determine affiliation? #####
 
-Link to an amendment published at 83 FR 12851, Mar. 26, 2018.
-
 (a) *General Principles of Affiliation.* (1) Concerns and entities are affiliates of each other when one controls or has the power to control the other, or a third party or parties controls or has the power to control both. It does not matter whether control is exercised, so long as the power to control exists.
 
 (2) SBA considers factors such as ownership, management, previous relationships with or ties to another concern, and contractual relationships, in determining whether affiliation exists.
@@ -100,7 +98,7 @@ Example 1 to paragraph (h) introductory text.Joint Venture AB has received two c
 
 (3) *Exception to affiliation for certain joint ventures.* (i) A joint venture of two or more business concerns may submit an offer as a small business for a Federal procurement, subcontract or sale so long as each concern is small under the size standard corresponding to the NAICS code assigned to the contract.
 
-(ii) Two firms approved by SBA to be a mentor and protégé under § 125.9 of this chapter may joint venture as a small business for any Federal government prime contract or subcontract, provided the protégé qualifies as small for the size standard corresponding to the NAICS code assigned to the procurement, and the joint venture meets the requirements of § 125.18(b)(2) and (3), § 126.616(c) and (d), or § 127.506(c) and (d) of this chapter, as appropriate.
+(ii) Two firms approved by SBA to be a mentor and protégé under § 125.9 of this chapter may joint venture as a small business for any Federal government prime contract or subcontract, provided the protégé qualifies as small for the size standard corresponding to the NAICS code assigned to the procurement, and the joint venture meets the requirements of §§ 124.513 (c) and (d), §§ 125.8(b) and (c), §§ 125.18(b)(2) and (3), §§ 126.616(c) and (d), or §§ 127.506(c) and (d) of this chapter, as appropriate.
 
 (iii) Two firms approved by SBA to be a mentor and protégé under § 124.520 of these regulations may joint venture as a small business for any Federal government prime contract or subcontract, provided the protégé qualifies as small for the size standard corresponding to the NAICS code assigned to the procurement and, for purposes of 8(a) sole source requirements, has not reached the dollar limit set forth in § 124.519 of these regulations. If the procurement is to be awarded through the 8(a) BD program, SBA must approve the joint venture pursuant to § 124.513. If the procurement is to be awarded other than through the 8(a) BD program (*e.g.,* small business set aside, HUBZone set aside), SBA need not approve the joint venture prior to award, but if the size status of the joint venture is protested, the provisions of §§ 124.513(c) and (d) will apply. This means that the joint venture must meet the requirements of §§ 124.513(c) and (d) in order to receive the exception to affiliation authorized by this paragraph. In either case, after contract performance is complete, the 8(a) partner to the joint venture must submit a report to its servicing SBA district office explaining how the applicable performance of work requirements were met for the contract.
 

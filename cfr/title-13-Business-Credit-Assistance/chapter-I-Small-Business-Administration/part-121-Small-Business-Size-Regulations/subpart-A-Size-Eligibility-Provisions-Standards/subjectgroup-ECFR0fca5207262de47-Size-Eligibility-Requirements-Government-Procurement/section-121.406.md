@@ -1,8 +1,6 @@
 ##### § 121.406 How does a small business concern qualify to provide manufactured products or other supply items under a small business set-aside, service-disabled veteran-owned small business, HUBZone, WOSB or EDWOSB, or 8(a) contract? #####
 
-Link to an amendment published at 83 FR 12851, Mar. 26, 2018.
-
-(a) *General.* In order to qualify as a small business concern for a small business set-aside, service-disabled veteran-owned small business set-aside or source contract, HUBZone set-aside or sole source contract, WOSB or EDWOSB set-aside or sole source contract, 8(a) set-aside or sole source contract, partial set-aside, or set aside of an order against a multiple award contract to provided manufactured products or other supply items, an offeror must either:
+(a) *General.* In order to qualify as a small business concern for a small business set-aside, service-disabled veteran-owned small business set-aside or sole source contract, HUBZone set-aside or sole source contract, WOSB or EDWOSB set-aside or sole source contract, 8(a) set-aside or sole source contract, partial set-aside, or set aside of an order against a multiple award contract to provided manufactured products or other supply items, an offeror must either:
 
 (1) Be the manufacturer or producer of the end item being procured (and the end item must be manufactured or produced in the United States); or
 
@@ -50,7 +48,7 @@ Example 1 to paragraph (b)(4).A procuring agency seeks to acquire computer integ
 
 (2) Where the Government has specified an item for the kit which is not produced by U.S. small business concerns, such item shall be excluded from the calculation of total value in paragraph (c)(1) of this section.
 
-(d) The performance requirements (limitations on subcontracting) and the nonmanufacturer rule do not apply to small business set-aside acquisitions with an estimated value between $3,500 and $150,000.
+(d) The performance requirements (limitations on subcontracting) and the nonmanufacturer rule do not apply to small business set-aside acquisitions with an estimated value between the micro-purchase threshold and the simplified acquisition threshold (as both terms are defined in the FAR at 48 CFR 2.101).
 
 (e) *Multiple item acquisitions.* (1) If at least 50% of the estimated contract value is composed of items that are manufactured by small business concerns, then a waiver of the nonmanufacturer rule is not required. There is no requirement that each and every item acquired in a multiple-item procurement be manufactured by a small business.
 
@@ -60,4 +58,4 @@ Example 1 to paragraph (b)(4).A procuring agency seeks to acquire computer integ
 
 (f) These requirements do not apply to small business concern subcontractors.
 
-[61 FR 3286, Jan. 31, 1996; 61 FR 7986, Mar. 1, 1996, as amended at 65 FR 30863, May 15, 2000; 69 FR 29205, May 21, 2004; 76 FR 8252, Feb. 11, 2011; 78 FR 61132, Oct. 2, 2013; 81 FR 4469, Jan. 26, 2016; 81 FR 34259, May 31, 2016; 81 FR 48579, July 25, 2016]
+[61 FR 3286, Jan. 31, 1996; 61 FR 7986, Mar. 1, 1996, as amended at 65 FR 30863, May 15, 2000; 69 FR 29205, May 21, 2004; 76 FR 8252, Feb. 11, 2011; 78 FR 61132, Oct. 2, 2013; 81 FR 4469, Jan. 26, 2016; 81 FR 34259, May 31, 2016; 81 FR 48579, July 25, 2016; 83 FR 12851, Mar. 26, 2018]
