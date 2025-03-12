@@ -22,4 +22,4 @@
 
 (e) For obligations of commercial mobile radio service providers to provide local number portability, see § 52.1 of this chapter.
 
-[59 FR 18495, Apr. 19, 1994, as amended at 61 FR 38637, July 25, 1996; 63 FR 43040, Aug. 11, 1998; 65 FR 19685, Apr. 12, 2000; 65 FR 24654, Apr. 27, 2000; 66 FR 16879, Mar. 28, 2001; 69 FR 77938, Dec. 29, 2004; 85 FR 838, Jan. 8, 2020]
+[59 FR 18495, Apr. 19, 1994, as amended at 61 FR 38637, July 25, 1996; 63 FR 43040, Aug. 11, 1998; 65 FR 19685, Apr. 12, 2000; 65 FR 24654, Apr. 27, 2000; 66 FR 16879, Mar. 28, 2001; 69 FR 77938, Dec. 29, 2004; ; 85 FR 838, Jan. 8, 2020]

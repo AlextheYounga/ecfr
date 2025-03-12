@@ -48,6 +48,8 @@
 
 (17) Indian Arts and Crafts Board, DOI-24.
 
+(18) Investigations Case Management System (CMS), BSEE-01.
+
 (c) Investigatory records exempt under 5 U.S.C. 552a(k)(5), the following systems of records have been exempted from subsections (c)(3), (d), (e)(1), (e)(4) (G), (H), and (I) and (f) of 5 U.S.C. 552a and the provisions of the regulations in this subpart implementing these subsections:
 
 (1) [Reserved]
@@ -58,4 +60,4 @@
 
 (4) Debarment and Suspension Program, DOI-11.
 
-(5 U.S.C. 301, 552a and 5 U.S.C. app. sections 9(a)(1)(D) and 9(b); 5 U.S.C. 301, 552, and 552a; 31 U.S.C. 483a; and 43 U.S.C. 1460)[40 FR 44505, Sept. 26, 1975, as amended at 40 FR 54790, Nov. 26, 1975; 47 FR 38328, Aug. 31, 1982; 48 FR 37412, Aug. 18, 1983; 48 FR 56586, Dec. 22, 1983; 49 FR 6907, Feb. 24, 1984; 79 FR 49014, Aug. 19, 2014; 79 FR 51917, Sept. 2, 2014; 79 FR 68800, Nov. 19, 2014; 80 FR 45894, Aug. 3, 2015]
+(5 U.S.C. 301, 552a and 5 U.S.C. app. sections 9(a)(1)(D) and 9(b); 5 U.S.C. 301, 552, and 552a; 31 U.S.C. 483a; and 43 U.S.C. 1460)[40 FR 44505, Sept. 26, 1975, as amended at 40 FR 54790, Nov. 26, 1975; 47 FR 38328, Aug. 31, 1982; 48 FR 37412, Aug. 18, 1983; 48 FR 56586, Dec. 22, 1983; 49 FR 6907, Feb. 24, 1984; 79 FR 49014, Aug. 19, 2014; 79 FR 51917, Sept. 2, 2014; 79 FR 68800, Nov. 19, 2014; 80 FR 45894, Aug. 3, 2015; 85 FR 1284, Jan. 10, 2020]

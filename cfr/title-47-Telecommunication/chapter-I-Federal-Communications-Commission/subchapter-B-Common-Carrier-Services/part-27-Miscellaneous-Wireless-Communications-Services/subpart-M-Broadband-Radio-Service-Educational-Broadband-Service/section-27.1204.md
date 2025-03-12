@@ -6,7 +6,7 @@
 
 (1) A federally recognized American Indian Tribe or Alaska Native Village; or an entity that is owned and controlled by a federally-recognized Tribe or a consortium of federally-recognized Tribes;
 
-(2) Requesting a license on Tribal Land, which is defined to be any federally recognized Indian Tribe's reservation, pueblo or colony, including former reservations in Oklahoma, Alaska Native regions established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688) and Indian Allotments, see § 54.400(e) of this chapter, as well as Hawaiian Home Lands - areas held in trust for native Hawaiians by the State of Hawaii, pursuant to the Hawaiian Homes Commission Act, 1920, July 9, 1921, 42 Stat 108, *et seq.,* as amended; and any lands designated prior to July 10, 2019, as Tribal Lands pursuant to the designation process contained in § 54.412 of this chapter;
+(2) Requesting a license on Tribal Land, which is defined to be any federally recognized Indian Tribe's reservation, pueblo or colony, including former reservations in Oklahoma, Alaska Native regions established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688) and Indian Allotments, see § 54.400(e) of this chapter, as well as Hawaiian Home Lands—areas held in trust for native Hawaiians by the State of Hawaii, pursuant to the Hawaiian Homes Commission Act, 1920, July 9, 1921, 42 Stat 108, *et seq.,* as amended; and any lands designated prior to July 10, 2019, as Tribal Lands pursuant to the designation process contained in § 54.412 of this chapter;
 
 (3) Requesting a GSA in a rural area, which is defined to be lands that are not part of an urbanized area or urban cluster area with a population equal to or greater than 50,000; and
 
@@ -18,6 +18,4 @@
 
 (e) For non-mutually exclusive applications, the applications will be processed in accordance with procedures to be specified by the Wireless Telecommunications Bureau.
 
-(f) This section contains new or modified information-collection and recordkeeping requirements. Compliance with these information-collection and recordkeeping requirements will not be required until after approval by the Office of Management and Budget. The Commission will publish a document in the Federal Register announcing that compliance date and revising this paragraph (f) accordingly.
-
-[84 FR 57365, Oct. 25, 2019]
+[84 FR 57365, Oct. 25, 2019, as amended at 85 FR 1284, Jan. 10, 2020]

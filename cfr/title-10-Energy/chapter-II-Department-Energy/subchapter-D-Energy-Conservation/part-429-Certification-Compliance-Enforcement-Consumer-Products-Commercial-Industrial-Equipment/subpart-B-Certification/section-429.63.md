@@ -1,5 +1,7 @@
 ##### § 429.63 Compressors. #####
 
+Link to an amendment published at 85 FR 1591, Jan. 10, 2020.
+
 (a) *Determination of represented value.* Manufacturers must determine the represented value, which includes the certified rating, for each basic model of compressor either by testing in conjunction with the applicable sampling provisions or by applying an AEDM.
 
 (1) *Units to be tested.* (i) If the represented value is determined through testing, the general requirements of § 429.11 apply; and

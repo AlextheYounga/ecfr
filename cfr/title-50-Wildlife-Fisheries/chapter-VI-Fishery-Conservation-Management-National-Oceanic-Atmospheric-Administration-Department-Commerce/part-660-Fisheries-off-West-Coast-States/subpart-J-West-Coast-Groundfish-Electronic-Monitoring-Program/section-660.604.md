@@ -1,7 +1,5 @@
 ##### § 660.604 Vessel and first receiver responsibilities. #####
 
-Link to an amendment published at 84 FR 67680, Dec. 11, 2019.
-
 (a) *General.* This section lays out the requirements for catcher vessels to obtain an exemption to use EM in place of 100-percent observer coverage required by the Shorebased IFQ Program (§ 660.140(h)(1)(i)) and MS Co-op Program (§ 660.150(j)(1)(i)(B)). Requirements are also described for first receivers receiving landings from EM trips.
 
 (b) *Vessel owner responsibilities.* To use EM under this section, vessel owners must:
@@ -238,7 +236,7 @@ Link to an amendment published at 84 FR 67680, Dec. 11, 2019.
 
 (i) Minor operational discards are permitted. Minor operational discards include mutilated fish; fish vented from an overfull codend, fish spilled from the codend during preparation for transfer to the mothership; and fish removed from the deck and fishing gear during cleaning. Minor operational discards do not include discards that result when more catch is taken than is necessary to fill the hold or catch from a tow that is not delivered.
 
-(ii) Large individual marine organisms (*i.e.,* all marine mammals, sea turtles, and seabirds, and fish species longer than 6 ft (1.8 m) in length) may be discarded.
+(ii) Large individual marine organisms (*i.e.,* all marine mammals, sea turtles, and non-ESA-listed seabirds, and fish species longer than 6 ft (1.8 m) in length) may be discarded. For any ESA-listed seabirds that are brought on board, vessel operators must follow any relevant instructions for handling and disposition under § 660.21(c)(1)(v).
 
 (iii) Crabs, starfish, coral, sponges, and other invertebrates may be discarded.
 
@@ -246,7 +244,7 @@ Link to an amendment published at 84 FR 67680, Dec. 11, 2019.
 
 (v) A discard that is the result of an event that is beyond the control of the vessel operator or crew, such as a safety issue or mechanical failure, is permitted.
 
-(2) *Non-trawl shorebased IFQ.* A vessel operator on a declared limited entry groundfish non-trawl, shorebased IFQ trip must retain all salmon and must discard Dungeness crab caught seaward of Washington or Oregon, Pacific halibut, green sturgeon, eulachon, sea turtles, and marine mammals. All other catch may be discarded following instructions in the VMP, except as required by the Seabird Avoidance Program at § 660.21(c)(1).
+(2) *Non-trawl shorebased IFQ.* A vessel operator on a declared limited entry groundfish non-trawl, shorebased IFQ trip must retain all salmon and must discard Dungeness crab caught seaward of Washington or Oregon, Pacific halibut, green sturgeon, eulachon, sea turtles, and marine mammals. All other catch may be discarded following instructions in the VMP, except as required by the Seabird Avoidance Program at § 660.21(c)(1)(v).
 
 (q) *Changes to retention requirements.* Retention requirements for non-trawl shorebased IFQ vessels have been designated as “routine,” which means that they can be changed after a single Council meeting following the procedures described at § 660.60(c).
 
@@ -282,4 +280,4 @@ Link to an amendment published at 84 FR 67680, Dec. 11, 2019.
 
 (ii) *Seabirds, marine mammals, and sea turtles.* Albatross must reported to the U.S. Fish and Wildlife Service (541-867-4558 extension 237 or 503-231-6179 as soon as possible and directions for surrendering must be followed. Marine mammals and sea turtles must be reported to NMFS as soon as possible (206-526-6550) and directions for surrendering or disposal must be followed. Whole body specimens must be labeled with the vessel name, electronic fish ticket number, and date of landing. Whole body specimens must be kept frozen or on ice until arrangements for surrendering or disposing are completed. Unless directed otherwise, after reporting is completed, seabirds, marine mammals, and sea turtles may be disposed by incinerating, rendering, composting, or returning the carcasses to sea.
 
-[84 FR 31160, June 28, 2019; 84 FR 36035, July 26, 2019]
+[84 FR 31160, June 28, 2019; 84 FR 36035, July 26, 2019; 84 FR 67680, Dec. 11, 2019]

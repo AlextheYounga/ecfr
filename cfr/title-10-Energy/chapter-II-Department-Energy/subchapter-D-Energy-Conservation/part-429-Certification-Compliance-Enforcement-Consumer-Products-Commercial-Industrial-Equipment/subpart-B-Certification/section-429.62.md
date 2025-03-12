@@ -1,5 +1,7 @@
 ##### § 429.62 Portable air conditioners. #####
 
+Link to an amendment published at 85 FR 1446, Jan. 10, 2020.
+
 (a) *Sampling plan for selection of units for testing.* (1) The requirements of § 429.11 are applicable to portable air conditioners; and
 
 (2) For each basic model of portable air conditioner, a sample of sufficient size must be randomly selected and tested to ensure that -

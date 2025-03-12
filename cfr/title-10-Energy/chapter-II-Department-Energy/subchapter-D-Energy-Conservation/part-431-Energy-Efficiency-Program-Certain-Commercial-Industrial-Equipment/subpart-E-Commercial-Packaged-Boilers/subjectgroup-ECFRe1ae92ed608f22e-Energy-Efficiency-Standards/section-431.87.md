@@ -1,5 +1,7 @@
 ##### § 431.87 Energy conservation standards and their effective dates. #####
 
+Link to an amendment published at 85 FR 1681, Jan. 10, 2020.
+
 (a) Each commercial packaged boiler listed in Table 1 of this section and manufactured on or after the effective date listed must meet the indicated energy conservation standard.
 
 Table 1 - Commercial Packaged Boiler Energy Conservation Standards

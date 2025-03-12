@@ -1,5 +1,7 @@
 ##### § 429.71 Maintenance of records. #####
 
+Link to an amendment published at 85 FR 1591, Jan. 10, 2020.
+
 (a) The manufacturer of any covered product or covered equipment shall establish, maintain, and retain the records of certification reports, of the underlying test data for all certification testing, and of any other testing conducted to satisfy the requirements of this part, part 430, and part 431. Any manufacturer who chooses to use an alternative method for determining energy efficiency or energy use in accordance with § 429.70 must retain the records required by that section, any other records of any testing performed to support the use of the alternative method, and any certifications required by that section, on file for review by DOE for two years following the discontinuance of all models or combinations whose ratings were based on the alternative method.
 
 (b) Such records shall be organized and indexed in a fashion that makes them readily accessible for review by DOE upon request.
