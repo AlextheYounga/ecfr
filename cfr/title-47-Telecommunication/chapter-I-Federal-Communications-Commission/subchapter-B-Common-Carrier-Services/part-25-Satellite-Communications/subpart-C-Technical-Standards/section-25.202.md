@@ -38,9 +38,7 @@
 
 (8) The following frequencies are available for use by ESVs:
 
-3700-4200 MHz (space-to-Earth)5925-6425 MHz (Earth-to-space)10.95-11.2 GHz (space-to-Earth)11.45-11.7 GHz (space-to-Earth)11.7-12.2 GHz (space-to-Earth)14.0-14.5 GHz (Earth-to-space)
-
-ESVs shall be authorized and coordinated as set forth in §§ 25.221 and 25.222. ESV operators, collectively, may coordinate up to 180 megahertz of spectrum in the 5925-6425 MHz (Earth-to-space) band for all ESV operations at any given location subject to coordination.
+3700-4200 MHz (space-to-Earth)5925-6425 MHz (Earth-to-space)10.95-11.2 GHz (space-to-Earth)11.45-11.7 GHz (space-to-Earth)11.7-12.2 GHz (space-to-Earth)14.0-14.5 GHz (Earth-to-space)18.3-18.8 GHz (space-to-Earth)19.7-20.2 GHz (space-to-Earth)28.35-28.6 GHz (Earth-to-space)29.25-30.0 GHz (Earth-to-space)
 
 (9) The following frequencies are available for use by the Broadcasting-Satellite Service after 1 April 2007:
 
@@ -52,17 +50,13 @@ Note 2 to paragraph (a)(9):
 
 Use of the 17.7-17.8 GHz band (space-to-Earth) by the broadcasting-satellite service is limited to transmissions from geostationary satellite orbit systems to receiving earth stations located outside of the United States and its Possessions. In the United States and its Possessions, the 17.7-17.8 GHz band is allocated on a primary basis to the Fixed Service.
 
-(10)(i) The following frequencies are available for use by Vehicle-Mounted Earth Stations (VMESs):
+(10) The following frequencies are available for use by Vehicle-Mounted Earth Stations (VMESs):
 
-10.95-11.2GHz (space-to-Earth)11.45-11.7GHz (space-to-Earth)11.7-12.2GHz (space-to-Earth)14.0-14.5GHz (Earth-to-space)
+10.95-11.2 GHz (space-to-Earth)11.45-11.7 GHz (space-to-Earth)11.7-12.2 GHz (space-to-Earth)14.0-14.5 GHz (Earth-to-space)18.3-18.8 GHz (space-to-Earth)19.7-20.2 GHz (space-to-Earth)28.35-28.6 GHz (Earth-to-space)29.25-30.0 GHz (Earth-to-space)
 
-(ii) VMESs shall be authorized as set forth in § 25.226.
+(11) The following frequencies are available for use by Earth Stations Aboard Aircraft (ESAAs):
 
-(11)(i) The following frequencies are available for use by Earth Stations Aboard Aircraft (ESAA):
-
-10.95-11.2 GHz (space-to-Earth)11.45-11.7 GHz (space-to-Earth)11.7-12.2 GHz (space-to-Earth)14.0-14.5 GHz (Earth-to-space)
-
-(ii) ESAAs shall be authorized as set forth in § 25.227.
+10.95-11.2 GHz (space-to-Earth)11.45-11.7 GHz (space-to-Earth)11.7-12.2 GHz (space-to-Earth)14.0-14.5 GHz (Earth-to-space)18.3-18.8 GHz (space-to-Earth)19.7-20.2 GHz (space-to-Earth)28.35-28.6 GHz (Earth-to-space)29.25-30.0 GHz (Earth-to-space)
 
 (12) The following frequencies are available for use by the mobile-satellite service (Earth-to-space) for the reception of Automatic Identification Systems (AIS) broadcast messages from ships:
 

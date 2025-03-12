@@ -1,0 +1,89 @@
+##### § 25.228 Operating and coordination requirements for earth stations in motion (ESIMs). #####
+
+(a) ESIM transmissions must comport with the applicable EIRP density limits in § 25.218, unless coordinated pursuant to the requirements in § 25.220.
+
+(b) Each ESIM must be self-monitoring and, should a condition occur that would cause the ESIM to exceed its authorized off-axis EIRP density limits, the ESIM must automatically cease transmissions within 100 milliseconds, and not resume transmissions until the condition that caused the ESIM to exceed those limits is corrected.
+
+(c) Each ESIM must be monitored and controlled by a network control and monitoring center (NCMC) or equivalent facility. Each ESIM must comply with a “disable transmission” command from the NCMC within 100 milliseconds of receiving the command. In addition, the NCMC must monitor the operation of each ESIM in its network, and transmit a “disable transmission” command to any ESIM that operates in such a way as to exceed the authorized off-axis EIRP density limit for that ESIM or for all ESIMs that simultaneously transmit on the same frequency to the same target satellite receiving beam. The NCMC must not allow the ESIM(s) under its control to resume transmissions until the condition that caused the ESIM(s) to exceed the authorized EIRP density limits is corrected.
+
+(d) ESIM licensees must ensure installation of ESIM terminals on vehicles by qualified installers who have an understanding of the antenna's radiation environment and the measures best suited to maximize protection of the general public and persons operating the vehicle and equipment. An ESIM terminal exhibiting radiation exposure levels exceeding 1.0 mW/cm2 in accessible areas, such as at the exterior surface of the radome, must have a label attached to the surface of the terminal warning about the radiation hazard and must include thereon a diagram showing the regions around the terminal where the radiation levels could exceed the maximum radiation exposure limit specified in 47 CFR 1.1310 Table 1.
+
+(e) The following requirements govern all ESV operations:
+
+(1) ESV operators must control all ESVs by a NCMC located in the United States, except that an ESV on U.S.-registered vessels may operate under control of a NCMC location outside the United States provided the ESV operator maintains a point of contact within the United States that will have the capability and authority to cause an ESV on a U.S.-registered vessel to cease transmitting if necessary.
+
+(2) There must be a point of contact in the United States, with phone number and address, available 24 hours a day, seven days a week, with authority and ability to cease all emissions from the ESVs, either directly or through the facilities of a U.S. NCMC or a NCMC located in another country with which the United States has a bilateral agreement that enables such cessation of emissions.
+
+(3) ESV NCMC operators communicating with ESVs on vessels of foreign registry must maintain detailed information on each such vessel's country of registry and a point of contact for the relevant administration responsible for licensing those ESVs.
+
+(f) For all VMES operations, there must be a point of contact in the United States, with phone number and address, available 24 hours a day, seven days a week, with authority and ability to cease all emissions from the VMESs.
+
+(g) The following requirements govern all ESAA operations:
+
+(1) There must be a point of contact in the United States, with phone number and address, available 24 hours a day, seven days a week, with authority and ability to cease all emissions from the ESAAs.
+
+(2) All ESAA terminals operated in U.S. airspace, whether on U.S.-registered civil aircraft or non-U.S.-registered civil aircraft, must be licensed by the Commission. All ESAA terminals on U.S.-registered civil aircraft operating outside of U.S. airspace must be licensed by the Commission, except as provided by section 303(t) of the Communications Act.
+
+(3) Prior to operations within a foreign nation's airspace, the ESAA operator must ascertain whether the relevant administration has operations that could be affected by ESAA terminals, and must determine whether that administration has adopted specific requirements concerning ESAA operations. When the aircraft enters foreign airspace, the ESAA terminal must operate under the Commission's rules, or those of the foreign administration, whichever is more constraining. To the extent that all relevant administrations have identified geographic areas from which ESAA operations would not affect their radio operations, ESAA operators may operate within those identified areas without further action. To the extent that the foreign administration has not adopted requirements regarding ESAA operations, ESAA operators must coordinate their operations with any potentially affected operations.
+
+(h) The following requirements govern all operations in the 3700-4200 MHz (space-to-Earth) and 5925-6425 MHz (Earth-to-space) frequency bands of ESVs receiving from or transmitting to GSO satellites in the Fixed-Satellite Service:
+
+(1) ESVs must not operate in the 5925-6425 MHz (Earth-to-space) and 3700-4200 MHz (space-to-Earth) frequency bands on vessels smaller than 300 gross tons.
+
+(2) ESV operators transmitting in the 5925-6425 MHz (Earth-to-space) frequency band to GSO satellites in the Fixed-Satellite Service (FSS) must not seek to coordinate, in any geographic location, more than 36 megahertz of uplink bandwidth on each of no more than two GSO FSS satellites.
+
+(3) ESVs, operating while docked, for which coordination with terrestrial stations in the 3700-4200 MHz band is completed in accordance with § 25.251, will receive protection from such terrestrial stations in accordance with the coordination agreements, for 180 days, renewable for 180 days.
+
+(4) ESVs in motion must not claim protection from harmful interference from any authorized terrestrial stations to which frequencies are already assigned, or any authorized terrestrial station to which frequencies may be assigned in the future in the 3700-4200 MHz (space-to-Earth) frequency band.
+
+(5) ESVs operating within 200 km from the baseline of the United States, or within 200 km from a U.S.-licensed fixed service offshore installation, must complete coordination with potentially affected U.S.-licensed fixed service operators prior to operation. The coordination method and the interference criteria objective will be determined by the frequency coordinator. The details of the coordination must be maintained and available at the frequency coordinator, and must be filed with the Commission electronically via the International Bureau Filing System (*http://licensing.fcc.gov/myibfs/*) to be placed on public notice. The coordination notifications must be filed in the form of a statement referencing the relevant call signs and file numbers. Operation of each individual ESV may commence immediately after the public notice that identifies the notification sent to the Commission is released. Continuance of operation of that ESV for the duration of the coordination term must be dependent upon successful completion of the normal public notice process. If, prior to the end of the 30-day comment period of the public notice, any objections are received from U.S.-licensed Fixed Service operators that have been excluded from coordination, the ESV licensee must immediately cease operation of that particular station on frequencies used by the affected U.S.-licensed Fixed Service station until the coordination dispute is resolved and the ESV licensee informs the Commission of the resolution. As used in this section, “baseline” means the line from which maritime zones are measured. The baseline is a combination of the low-water line and closing lines across the mouths of inland water bodies and is defined by a series of baseline points that include islands and “low-water elevations,” as determined by the U.S. Department of State's Baseline Committee.
+
+(6) An ESV must automatically cease transmission if the ESV operates in violation of the terms of its coordination agreement, including, but not limited to, conditions related to speed of the vessel or if the ESV travels outside the coordinated area, if within 200 km from the baseline of the United States, or within 200 km from a U.S.-licensed fixed service offshore installation. Transmissions may be controlled by the ESV network control and monitoring center. The frequency coordinator may decide whether ESV operators should automatically cease transmissions if the vessel falls below a prescribed speed within a prescribed geographic area.
+
+(7) ESV transmissions in the 5925-6425 MHz (Earth-to-space) band shall not exceed an EIRP spectral density towards the radio-horizon of 17 dBW/MHz, and shall not exceed an EIRP towards the radio-horizon of 20.8 dBW. The ESV network shall shut-off the ESV transmitter if either the EIRP spectral density towards the radio-horizon or the EIRP towards the radio-horizon is exceeded.
+
+(i) For ESAA transmissions in the 14.0-14.5 GHz band from international airspace within line-of-sight of the territory of a foreign administration where fixed service networks have primary allocation in this band, the maximum power flux density (pfd) produced at the surface of the Earth by emissions from a single aircraft carrying an ESAA terminal must not exceed the following values unless the foreign Administration has imposed other conditions for protecting its fixed service stations:
+
+|              |                           |   |             |
+|--------------|---------------------------|---|-------------|
+|−132 + 0.5 · θ|dB(W/(m<sup>2</sup> · MHz))|For|  θ ≤ 40°.   |
+|     −112     |dB(W/(m<sup>2</sup> · MHz))|For|40° \<θ ≤90°.|
+
+Where: θ is the angle of arrival of the radio-frequency wave (degrees above the horizontal) and the aforementioned limits relate to the pfd under free-space propagation conditions.
+
+(j) The following requirements govern all ESIMs transmitting to GSO satellites in the Fixed-Satellite Service in the 14.0-14.5 GHz band:
+
+(1) Operations of ESIMs in the 14.0-14.2 GHz (Earth-to-space) frequency band within 125 km (for ESVs and VMESs) or within radio line of sight (for ESAAs) of the NASA TDRSS facilities on Guam (latitude 13°36′55″ N, longitude 144°51′22″ E), White Sands, New Mexico (latitude 32°20′59″ N, longitude 106°36′31″ W and latitude 32°32′40″ N, longitude 106°36′48″ W), or Blossom Point, Maryland (latitude 38°25′44″ N, longitude 77°05′02″ W) are subject to coordination with the National Aeronautics and Space Administration (NASA) through the National Telecommunications and Information Administration (NTIA) Interdepartment Radio Advisory Committee (IRAC). Licensees must notify the International Bureau once they have completed coordination. Upon receipt of such notification from a licensee, the International Bureau will issue a public notice stating that the licensee may commence operations within the coordination zone in 30 days if no party has opposed the operations. When NTIA seeks to provide similar protection to future TDRSS sites that have been coordinated through the IRAC Frequency Assignment Subcommittee process, NTIA will notify the Commission's International Bureau that the site is nearing operational status. Upon public notice from the International Bureau, all Ku-band ESIM licensees must cease operations in the 14.0-14.2 GHz band within 125 km (for ESVs and VMESs) or within radio line of sight (for ESAAs) of the new TDRSS site until the licensees complete coordination with NTIA/IRAC for the new TDRSS facility. Licensees must notify the International Bureau once they have completed coordination for the new TDRSS site. Upon receipt of such notification from a licensee, the International Bureau will issue a public notice stating that the licensee may commence operations within the coordination zone in 30 days if no party has opposed the operations. The ESIM licensee then will be permitted to commence operations in the 14.0-14.2 GHz band within 125 km (for ESVs and VMESs) or within radio line of sight (for ESAAs) of the new TDRSS site, subject to any operational constraints developed in the coordination process.
+
+(2) Within 125 km (for ESVs and VMESs) or within radio line of sight (for ESAAs) of the NASA TDRSS facilities identified in paragraph (j)(1) of this section, ESIM transmissions in the 14.0-14.2 GHz (Earth-to-space) band shall not exceed an EIRP spectral density towards the horizon of 12.5 dBW/MHz, and shall not exceed an EIRP towards the horizon of 16.3 dBW.
+
+(3) Operations of ESIMs in the 14.47-14.5 GHz (Earth-to-space) frequency band in the vicinity (for ESVs and VMESs) or within radio line of sight (for ESAAs) of radio astronomy service (RAS) observatories observing in the 14.47-14.5 GHz band are subject to coordination with the National Science Foundation (NSF). The appropriate NSF contact point to initiate coordination is Electromagnetic Spectrum Management Unit, NSF, Division of Astronomical Sciences, 2415 Eisenhower Avenue, Arlington VA 22314; Email: *esm@nsf.gov.* Licensees must notify the International Bureau once they have completed coordination. Upon receipt of the coordination agreement from a licensee, the International Bureau will issue a public notice stating that the licensee may commence operations within the coordination zone in 30 days if no party has opposed the operations. Table 1 provides a list of each applicable RAS site, its location, and the applicable coordination zone.
+
+Table 1 to § 25.228(j)(3) - Applicable Radio Astronomy Service (RAS) Facilities and Associated Coordination Distances
+
+|                          Observatory                           |Latitude (north)|Longitude (west)|Radius (km) of  <br/>coordination zone|
+|----------------------------------------------------------------|----------------|----------------|--------------------------------------|
+|               Arecibo, Observatory, Arecibo, PR                |   18°20′37″    |   66°45′11″    |        Island of Puerto Rico.        |
+|                         Green Bank, WV                         |   38°25′59″    |   79°50′23″    |                 160.                 |
+|               Very Large Array, near Socorro, NM               |   34°04′44″    |   107°37′06″   |                 160.                 |
+|       Pisgah Astronomical Research Institute, Rosman, NC       |   35°11′59″    |   82°52′19″    |                 160.                 |
+|U of Michigan Radio Astronomy Observatory, Stinchfield Woods, MI|   42°23′56″    |   83°56′11″    |                 160.                 |
+|           Very Long Baseline Array (VLBA) stations:            |                |                |                                      |
+|                        Owens Valley, CA                        |   37°13′54″    |   118°16′37″   |               160 \*.                |
+|                         Mauna Kea, HI                          |   19°48′05″    |   155°27′20″   |                 50.                  |
+|                          Brewster, WA                          |   48°07′52″    |   119°41′00″   |                 50.                  |
+|                         Kitt Peak, AZ                          |   31°57′23″    |   111°36′45″   |                 50.                  |
+|                          Pie Town, NM                          |   34°18′04″    |   108°07′09″   |                 50.                  |
+|                         Los Alamos, NM                         |   35°46′30″    |   106°14′44″   |                 50.                  |
+|                         Fort Davis, TX                         |   30°38′06″    |   103°56′41″   |                 50.                  |
+|                       North Liberty, IA                        |   41°46′17″    |   91°34′27″    |                 50.                  |
+|                          Hancock, NH                           |   42°56′01″    |   71°59′12″    |                 50.                  |
+|                         St. Croix, VI                          |   17°45′24″    |   64°35′01″    |                 50.                  |
+
+\* Owens Valley, CA operates both a VLBA station and single-dish telescopes.
+
+(4) When NTIA seeks to provide similar protection to future RAS sites that have been coordinated through the IRAC Frequency Assignment Subcommittee process, NTIA will notify the Commission's International Bureau that the site is nearing operational status. Upon public notice from the International Bureau, all Ku-band ESIMs licensees must cease operations in the 14.47-14.5 GHz band within the relevant geographic zone (160 kms for single-dish radio observatories and Very Large Array antenna systems and 50 kms for Very Long Baseline Array antenna systems for ESVs and VMESs, radio line of sight for ESAAs) of the new RAS site until the licensees complete coordination for the new RAS facility. Licensees must notify the International Bureau once they have completed coordination for the new RAS site and must submit the coordination agreement to the Commission. Upon receipt of such notification from a licensee, the International Bureau will issue a public notice stating that the licensee may commence operations within the coordination zone in 30 days if no party opposed the operations. The ESIMs licensee then will be permitted to commence operations in the 14.47-14.5 GHz band within the relevant coordination distance around the new RAS site, subject to any operational constraints developed in the coordination process.
+
+(5) ESIMs licensees must use Global Positioning Satellite-related or other similar position location technology to ensure compliance with the provisions of subparagraphs 1-3 of this paragraph.
+
+[84 FR 53656, Oct. 8, 2019]

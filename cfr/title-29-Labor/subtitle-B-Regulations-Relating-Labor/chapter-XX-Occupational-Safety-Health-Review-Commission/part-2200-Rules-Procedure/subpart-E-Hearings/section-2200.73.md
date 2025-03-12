@@ -18,4 +18,6 @@
 
 (f) *Briefs.* Notice shall be given to the parties if the Commission decides to request briefs on the issues raised by an interlocutory review. See § 2200.93 - Briefs before the Commission.
 
-(g) *When filing effective.* A petition for interlocutory review is deemed to be filed only when received by the Commission, as specified in § 2200.8(e)(2).
+(g) *When filing effective.* A petition for interlocutory review is deemed to be filed only when received by the Commission, as specified in § 2200.8(d)(3)(ii).
+
+[84 FR 14558, Apr. 10, 2019, as amended at 84 FR 53053, Oct. 4, 2019]

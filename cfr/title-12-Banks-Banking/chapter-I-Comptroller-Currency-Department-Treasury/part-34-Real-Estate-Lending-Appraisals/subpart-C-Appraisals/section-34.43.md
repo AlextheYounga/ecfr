@@ -1,5 +1,7 @@
 ##### § 34.43 Appraisals required; transactions requiring a State certified or licensed appraiser. #####
 
+Link to an amendment published at 84 FR 53597, Oct. 8, 2019.
+
 (a) *Appraisals required.* An appraisal performed by a State certified or licensed appraiser is required for all real estate-related financial transactions except those in which:
 
 (1) The transaction value is $250,000 or less;

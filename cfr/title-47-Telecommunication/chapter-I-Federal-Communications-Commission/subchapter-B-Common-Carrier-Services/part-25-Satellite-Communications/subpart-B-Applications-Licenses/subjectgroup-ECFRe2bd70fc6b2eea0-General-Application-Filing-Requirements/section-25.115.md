@@ -1,6 +1,6 @@
 ##### § 25.115 Applications for earth station authorizations. #####
 
-(a)(1) *Transmitting earth stations.* Commission authorization must be obtained for authority to operate a transmitting earth station. Applications shall be filed electronically on FCC Form 312, Main Form and Schedule B, and include the information specified in § 25.130, except as set forth in paragraph (a)(2) of this section.
+(a)(1) *Transmitting earth stations.* Commission authorization must be obtained for authority to operate a transmitting earth station. Applications for transmitting earth stations must be filed electronically through the International Bureau Filing System (IBFS) in accordance with the applicable provisions of part 1, subpart Y of this chapter. Applications must be filed electronically on FCC Form 312, Main Form and Schedule B, and include the information specified in this section, except as set forth in paragraph (a)(2) of this section.
 
 (2) Applicants for licenses for transmitting earth stations in the FSS may file on FCC Form 312EZ if all of the following criteria are met:
 
@@ -8,7 +8,7 @@
 
 (ii) The earth station(s) will not be installed or operated on ships, aircraft, or other moving vehicles;
 
-(iii) The application meets all relevant criteria in § 25.211 or § 25.212 or includes information filed pursuant to paragraph (g)(1) of this section indicating that off-axis EIRP density from the proposed earth stations will not exceed relevant levels specified in § 25.138(a) or § 25.218;
+(iii) The application meets all relevant criteria in § 25.211 or § 25.212 or includes information filed pursuant to paragraph (g)(1) of this section indicating that off-axis EIRP density from the proposed earth stations will not exceed relevant levels specified in § 25.218; and
 
 (iv) Operation of the proposed station has been successfully coordinated with terrestrial systems, if the station would transmit in the 5925-6425 MHz band;
 
@@ -20,9 +20,61 @@
 
 (3) Unless the Commission orders otherwise, an application filed on FCC Form 312EZ in accordance with paragraph (a)(2) of this section will be deemed granted 35 days after the date of the public notice that the application has been accepted for filing, provided no objection is filed during the 30-day public notice period.
 
-(4) Applications for earth station authorizations must be filed in accordance with the pleading limitations, periods and other applicable provisions of §§ 1.41 through 1.52 of this chapter, except that such earth station applications must be filed electronically through the International Bureau Filing System (IBFS) in accordance with the applicable provisions of part 1, subpart Y of this chapter;
+(4) [Reserved]
 
-(b) Receive-only earth stations. Applications to license or register receive only earth stations shall be filed on FCC Form 312, Main Form and Schedule B, and conform to the provisions of § 25.131.
+(5) Applicants that are not permitted to submit applications under paragraph (a)(2) of this section on Form 312EZ, must submit, as an attachment to their application, the following information to be used as an “informative” in the public notice issued under § 25.151:
+
+(i) A detailed description of the service to be provided, including frequency bands and satellites to be used. The applicant must identify either the specific satellite(s) with which it plans to operate, or the eastern and western boundaries of the arc it plans to coordinate.
+
+(ii) The diameter or equivalent diameter of the antenna.
+
+(iii) Proposed power and power density levels.
+
+(iv) Identification of any random access technique, if applicable.
+
+(v) Identification of a specific rule or rules for which a waiver is requested.
+
+(6)(i) Applicants for earth stations transmitting in frequency bands shared with equal rights between terrestrial and space services must provide a frequency coordination analysis in accordance with § 25.203(b) and must include any notification or demonstration required by any other relevant provision in § 25.203.
+
+(ii) Applicants for user transceiver units associated with the NVNG MSS must provide the information required by § 25.135.
+
+(iii) Applicants for 1.6/2.4 GHz MSS user transceivers must demonstrate that the transceivers will operate in compliance with relevant requirements in § 25.213.
+
+(iv) Applicants for earth stations licensed in accordance with § 25.136 must demonstrate that the transmitting earth stations will meet the relevant criteria specified in that section, including any showings required under § 25.136(a)(4), (c), (d)(4), and/or (e)(4).
+
+(7) In those cases where an applicant is filing a number of essentially similar applications, showings of a general nature applicable to all of the proposed stations may be submitted in the initial application and incorporated by reference in subsequent applications.
+
+(8) Transmissions of signals or programming to non-U.S. licensed satellites, and to and/or from foreign points by means of U.S.-licensed fixed satellites may be subject to restrictions as a result of international agreements or treaties. The Commission will maintain public information on the status of any such agreements.
+
+(9) Applicants seeking to operate in a shared government/non-government band must provide the half-power beam width of their proposed earth station antenna, as an attachment to their applications.
+
+(10) With the exception of applications for blanket-licensed earth station networks filed pursuant to § 25.115(c) or § 25.218; applications for conventional Ka-band hub stations filed pursuant to § 25.115(e); applications for NGSO FSS gateway earth stations filed pursuant to § 25.115(f); applications for individually licensed earth stations filed pursuant to § 25.136; applications for ESIMs filed pursuant to § 25.115(l), § 25.115(m), or § 25.115(n); or applications for 29 GHz NGSO MSS feeder-link stations in a complex as defined in § 25.257, parties may apply, either in an initial application or an application for modification of license, for operating authority for multiple transmitting FSS earth stations that are not eligible for blanket or network licensing under another section of this part in the following circumstances:
+
+(i) The antennas would transmit in frequency bands shared with terrestrial services on a co-primary basis and the antennas would be sited within an area bounded by 1 second of latitude and 1 second of longitude.
+
+(ii) The antennas would transmit in frequency bands allocated to FSS on a primary basis and there is no co-primary allocation for terrestrial services, and the antennas would be sited within an area bounded by 10 seconds of latitude and 10 seconds of longitude.
+
+(b) *Receive-only earth stations.* Except as provided in paragraphs (b)(1) and (8) of this section, applications for licenses for receive-only earth stations must be submitted on FCC Form 312, Main Form and Schedule B, accompanied by any required exhibits and the information described in paragraphs (a)(5)(i) through (v) of this section. Such applications must be filed electronically through the International Bureau Filing System (IBFS) in accordance with the applicable provisions of part 1, subpart Y of this chapter.
+
+(1) Receive-only earth stations in the FSS that operate with U.S.-licensed space stations, or with non-U.S.-licensed space stations that have been duly approved for U.S. market access, may be registered with the Commission in order to protect them from interference from terrestrial microwave stations in bands shared co-equally with the Fixed Service in accordance with the procedures of §§ 25.203 and 25.251, subject to the stricture in § 25.209(c).
+
+(2) Licensing or registration of receive-only earth stations with the Commission confers no authority to receive and use signals or programming received from satellites. *See* Section 705 of the Communications Act. 47 U.S.C. 605.
+
+(3) Applications for registration must be accompanied by the coordination exhibit required by § 25.203 and any other required exhibits.
+
+(4) Complete applications for registration will be placed on public notice for 30 days and automatically granted if no objection is submitted to the Commission and served on the applicant. Additional pleadings are authorized in accordance with § 1.45 of this chapter.
+
+(5) The registration of a receive-only earth station results in the listing of an authorized frequency band at the location specified in the registration. Interference protection levels are those agreed to during coordination.
+
+(6) Reception of signals or programming from non-U.S. satellites may be subject to restrictions as a result of international agreements or treaties. The Commission will maintain public information on the status of any such agreements.
+
+(7) Registration term: Registrations for receive-only earth stations governed by this section will be issued for a period of 15 years from the date on which the application was filed. Applications for renewals of registrations must be submitted on FCC Form 312R (Application for Renewal of Radio Station License in Specified Services) no earlier than 90 days and no later than 30 days before the expiration date of the registration.
+
+(8) Applications for modification of license or registration of receive-only earth stations must be made in conformance with §§ 25.117 and 25.118. In addition, registrants are required to notify the Commission when a receive-only earth station is no longer operational or when it has not been used to provide any service during any 6-month period.
+
+(9)(i) Except as set forth in paragraph (b)(9)(ii) of this section, receive-only earth stations operating with non-U.S. licensed space stations must file an FCC Form 312 requesting a license or modification to operate such station.
+
+(ii) Operators of receive-only earth stations need not apply for a license to receive transmissions from non-U.S.-licensed space stations that have been duly approved for U.S. market access, provided the space station operator and earth station operator comply with all applicable rules in this chapter and with applicable conditions in the Permitted Space Station List or market-access grant.
 
 (c)(1) *GSO FSS earth stations in 10.7-12.2 GHz or 14-14.5 GHz.* A blanket license application for operation in the 10.7-12.2 GHz or 14-14.5 GHz bands may be filed on FCC Form 312 or Form 312EZ, with a Schedule B for each large (5 meters or larger) hub station antenna and each representative type of small antenna (less than 5 meters) operating within the network; however, blanket licensing in the 10.7-11.7 GHz band is on an unprotected basis with respect to the fixed service.
 
@@ -34,7 +86,7 @@
 
 (i) For earth station antennas operating with power levels not consistent with the applicable provisions in § 25.211(d) or § 25.212(d), or with EIRP density levels not consistent with those specified in § 25.218(c) or (d), the applicant must file an initial lead application providing a detailed overview of the complete network. Such lead applications must fully identify the scope and nature of the service to be provided, as well as the complete technical details of each representative type of antenna that will operate within the network. Such lead applications for a single system must identify:
 
-(A) No more than three discrete geostationary satellites to be accessed;
+(A) No more than three geostationary satellites to be accessed;
 
 (B) The amount of frequency bandwidth sought, up to a maximum of 20 MHz of spectrum in each direction at each of the satellites (The same 20 MHz of uplink and 20 MHz of downlink spectrum at each satellite would be accessible by all earth stations in the system. The 20 MHz of uplink and 20 MHz of downlink spectrum need not be the same at each satellite location);
 
@@ -78,15 +130,13 @@
 
 (A) The applicant certifies pursuant to § 25.132(a)(1) that the off-axis gain of transmitting antennas in the network will not exceed the relevant levels specified in § 25.209(a) and (b) and the power spectral density of any digitally modulated carrier into any transmitting earth station antenna in the proposed network will not exceed 3.5 dBW/MHz as specified in § 25.212(e).
 
-(B) The application includes information filed pursuant to paragraph (g)(1) of this section indicating that off-axis EIRP density from the proposed earth stations will not exceed relevant routine levels specified in § 25.138(a).
+(B) The application includes information filed pursuant to paragraph (g)(1) of this section indicating that off-axis EIRP density from the proposed earth stations will not exceed relevant routine levels specified in § 25.218(i).
 
-(ii) Applications to license networks of earth stations operating in the 28.35-28.6 GHz and/or 29.25-30.0 GHz bands under blanket operating authority that do not meet the requirements of § 25.212(e) or § 25.138(a) must comply with the requirements in § 25.220 and must be filed on FCC Form 312 with a Schedule B for each large (5 meters or larger) hub station antenna and each representative type of small antenna (less than 5 meters) operating within the network.
+(ii) Applications to license networks of earth stations operating in the 28.35-28.6 GHz and/or 29.25-30.0 GHz bands under blanket operating authority that do not meet the requirements of § 25.212(e) or § 25.218(i) must comply with the requirements in § 25.220 and must be filed on FCC Form 312 with a Schedule B for each large (5 meters or larger) hub station antenna and each representative type of small antenna (less than 5 meters) operating within the network.
 
 (d) Mobile-Satellite Service user transceivers need not be individually licensed. Service vendors may file blanket applications for such transceivers using FCC Form 312, Main Form and Schedule B, specifying the number of units to be covered by the blanket license. A blanket license application for 1.5/1.6 GHz MSS user transceivers must include an explanation of how the applicant will comply with the priority and preemptive access requirements in § 25.287.
 
-(e) *GSO FSS earth stations in 17.8-30 GHz.* (1) An application for a GSO FSS earth station license in the 17.8-19.4 GHz, 19.6-20.2 GHz, 24.75-25.25 GHz, 27.5-29.1 GHz, or 29.25-30 GHz bands not filed on FCC Form 312EZ pursuant to paragraph (a)(2) of this section must be filed on FCC Form 312, Main Form and Schedule B, and must include any information required by paragraph (g) or (j) of this section or by § 25.130.
-
-(2) An applicant may request authority for operation of GSO FSS earth stations in the 17.8-19.4 GHz, 19.6-20.2 GHz, 28.35-29.1 GHz, and 29.25-30 GHz bands without specifying the location of user terminals but must specify the geographic area(s) in which they will operate and the location of hub and/or gateway stations; however, blanket licensing in the 17.8-18.3 GHz, 19.3-19.4 GHz, and 19.6-19.7 GHz bands is on an unprotected basis with respect to the fixed service.
+(e) *GSO FSS earth stations in 17.8-30 GHz.* (1) An application for a GSO FSS earth station license in the 17.8-19.4 GHz, 19.6-20.2 GHz, 27.5-29.1 GHz, or 29.25-30 GHz bands not filed on FCC Form 312EZ pursuant to paragraph (a)(2) of this section must be filed on FCC Form 312, Main Form and Schedule B, and must include any information required by paragraphs (a)(5) through (10) or (g) or (j) of this section.
 
 (f) *NGSO FSS earth stations in 10.7-29.1 GHz.* (1) An application for an NGSO FSS earth station license in the 10.7-29.1 GHz band must include the certification described in § 25.146(a)(2).
 
@@ -110,7 +160,7 @@
 
 (vi) For antennas for which gain measurements are made pursuant to § 25.132(b)(1)(iv), the EIRP density plots specified in paragraphs (g)(1)(i) through (v) of this section must be provided over the specified angular ranges in two orthogonal planes, one of which is tangent to the GSO arc and with the antenna operating at its maximum skew angle, which the applicant must specify.
 
-(vii) The relevant off-axis EIRP density envelopes in § 25.138, § 25.218, § 25.221, § 25.222, § 25.226, or § 25.227 must be superimposed on plots submitted pursuant to paragraphs (g)(1)(i) through (vi) of this section.
+(vii) The relevant off-axis EIRP density envelopes in § 25.218 or § 25.223 must be superimposed on plots submitted pursuant to paragraphs (g)(1)(i) through (vi) of this section.
 
 (viii) The showing must include a supplemental table for each off-axis angular range in which the relevant EIRP density envelope will be exceeded, specifying angular coordinates in degrees off-axis and corresponding calculated off-axis EIRP density at 0.2° increments over the angular range in which the routine envelope will be exceeded and one degree on each side of that range.
 
@@ -122,8 +172,56 @@
 
 (j) An application for a new fixed earth station or modification involving alteration of the overall height of one or more existing earth station antenna structures must include the FCC Antenna Structure Registration Number(s) for the antenna structure(s), if assigned. If no such number has been assigned, the application must state whether prior FAA notification is required by part 17 of this chapter and, if so, whether the applicant or owner of the structure has notified the FAA of the proposed construction or alteration and applied for an Antenna Structure Registration Number in accordance with part 17 of this chapter. Applicants who maintain that prior FAA notification is not required for construction or alteration of a structure with overall height more than 6.1 meters above ground level must explain in the application why such prior notification is not required.
 
-(k)(1) Applicants for FSS earth stations that qualify for routine processing in the conventional or extended C-bands, the conventional or extended Ku-bands, the conventional Ka-band, or the 24.75-25.25 GHz band, including ESV applications filed pursuant to § 25.222(a)(1) or (a)(3), VMES applications filed pursuant to § 25.226(a)(1) or (a)(3), and ESAA applications filed pursuant to § 25.227(a)(1) or (a)(3), may designate the Permitted Space Station List as a point of communication. Once such an application is granted, the earth station operator may communicate with any space station on the Permitted Space Station List, provided that the operation is consistent with the technical parameters and conditions in the earth station license and any limitations placed on the space station authorization or noted in the Permitted Space Station List.
+(k)(1) Applicants for FSS earth stations that qualify for routine processing in the conventional or extended C-bands, the conventional or extended Ku-bands, the conventional Ka-band, or the 24.75-25.25 GHz band, including ESV applications filed pursuant to paragraph (m)(1) or (n)(1) of this section, VMES applications filed pursuant to paragraph (m)(1) or (n)(1) of this section, and ESAA applications filed pursuant to paragraph (m)(1) or (n)(1) of this section, may designate the Permitted Space Station List as a point of communication. Once such an application is granted, the earth station operator may communicate with any space station on the Permitted Space Station List, provided that the operation is consistent with the technical parameters and conditions in the earth station license and any limitations placed on the space station authorization or noted in the Permitted Space Station List.
 
-(2) Notwithstanding paragraph (k)(1) of this section, the operator of an earth station that qualifies for routine processing in the conventional Ka-band may not communicate with a space station on the Permitted Space Station List in the 18.3-18.8 GHz or 19.7-20.2 GHz band until the space station operator has completed coordination under Footnote US334 to § 2.106 of this chapter.
+(2) Notwithstanding paragraph (k)(1) of this section, an earth station that would receive signals in the 17.8-20.2 GHz band may not communicate with a space station on the Permitted Space Station List in that band until the space station operator has completed coordination under Footnote US334 to § 2.106 of this chapter.
 
-[62 FR 5928, Feb. 10, 1997]Editorial Note:For Federal Register citations affecting § 25.115, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+(l) The requirements of this paragraph apply to applications for ESV operation in the 5925-6425 MHz (Earth-to-space) band with GSO satellites in the Fixed-Satellite Service, in addition to the requirements in paragraphs (a)(1), (5), (6), and (i) of this section:
+
+(1) Applications where any necessary frequency coordination has been satisfactorily completed, and the proposed earth station transmissions comport with the applicable provisions in § 25.212(d) or the applicable off-axis EIRP density limits in § 25.218(d) will be routinely processed. Such applications must include the relevant information specified by paragraph (g) of this section. Applicants for ESIMs operating in a network using variable power density control of earth stations transmitting simultaneously in shared frequencies to the same target satellite receiving beam must also provide the certification required by § 25.212(g) or § 25.218(d)(4), whichever is applicable.
+
+(2) Applications where the proposed earth station transmissions do not comport with the applicable provisions in § 25.212(d) or the applicable off-axis EIRP density limits in § 25.218(d) must include the information specified by paragraph (g)(1) of this section, and are subject to the requirements of § 25.220.
+
+(3) Applications must include the following information:
+
+(i) ESIM applicants that meet the relevant off-axis EIRP density mask must certify that an individual ESIM terminal is self-monitoring and capable of automatically ceasing or reducing emissions within 100 milliseconds if the ESIM transmitter exceeds the relevant off-axis EIRP density limits. ESIM applicants that do not meet the relevant off-axis EIRP density mask must provide a detailed showing that an individual ESIM terminal is self-monitoring and capable of automatically ceasing or reducing emissions within 100 milliseconds if the ESIM transmitter exceeds the relevant off-axis EIRP density limits. Variable-power ESIM applicants must certify that one or more transmitters are capable of automatically ceasing or reducing emissions within 100 milliseconds of receiving a command to do so from the system's network control and monitoring center, if the aggregate off axis EIRP densities of the transmitter or transmitters exceed the relevant off-axis EIRP density limits.
+
+(ii) An exhibit describing the geographic area(s) in which the ESVs will operate.
+
+(iii) The point of contact information referred to in § 25.228(e)(2).
+
+(iv) Applicants for ESVs that will exceed the guidelines in § 1.1310 of this chapter for radio frequency radiation exposure must provide, with their environmental assessment, a plan for mitigation of radiation exposure to the extent required to meet those guidelines.
+
+(m) The requirements of this paragraph apply to applications for ESIM operation in the 14.0-14.5 GHz (Earth-to-space) band with GSO satellites in the Fixed-Satellite Service, in addition to the requirements in paragraphs (a)(1) and (5) and (i) of this section:
+
+(1) Applications where any necessary frequency coordination has been satisfactorily completed, and the proposed earth station transmissions comport with the applicable provisions in § 25.212(c)(2) or the applicable off-axis EIRP density limits in § 25.218(f) will be routinely processed. Such applications must include the relevant information specified by paragraph (g) of this section. Applicants for ESIMs operating in a network using variable power density control of earth stations transmitting simultaneously in shared frequencies to the same target satellite receiving beam must also provide the certification required by § 25.212(g) or § 25.218(f)(4), whichever is applicable.
+
+(2) Applications where the proposed earth station transmissions do not comport with the applicable provisions in § 25.212(c)(2) or the applicable off-axis EIRP density limits in § 25.218(f) must include the information specified by paragraph (g)(1) of this section, and are subject to the requirements of § 25.220.
+
+(3) Applications must include the following information:
+
+(i) ESIM applicants that meet the relevant off-axis EIRP density mask must certify that an individual ESIM terminal is self-monitoring and capable of automatically ceasing or reducing emissions within 100 milliseconds if the ESIM transmitter exceeds the relevant off-axis EIRP density limits. ESIM applicants that do not meet the relevant off-axis EIRP density mask must provide a detailed showing that an individual ESIM terminal is self-monitoring and capable of automatically ceasing or reducing emissions within 100 milliseconds if the ESIM transmitter exceeds the relevant off-axis EIRP density limits. Variable-power ESIM applicants must certify that one or more transmitters are capable of automatically ceasing or reducing emissions within 100 milliseconds of receiving a command to do so from the system's network control and monitoring center, if the aggregate off axis EIRP densities of the transmitter or transmitters exceed the relevant off-axis EIRP density limits.
+
+(ii) An exhibit describing the geographic area(s) in which the ESIMs will operate.
+
+(iii) The point of contact information referred to in § 25.228(e)(2), (f), or (g)(1) as appropriate.
+
+(iv) Applicants for ESIMs that will exceed the guidelines in § 1.1310 of this chapter for radio frequency radiation exposure must provide, with their environmental assessment, a plan for mitigation of radiation exposure to the extent required to meet those guidelines.
+
+(n) The requirements of this paragraph apply to applications for ESIM operation in the 28.35-28.6 GHz or 29.25-30.0 GHz (Earth-to-space) band with GSO satellites in the Fixed-Satellite Service, in addition to the requirements in paragraphs (a)(1) and (5) and (i) of this section:
+
+(1) Applications where any necessary frequency coordination has been satisfactorily completed, and the proposed earth station transmissions comport with the applicable provisions in § 25.212(e) or the applicable off-axis EIRP density limits in § 25.218(i) will be routinely processed. Such applications must include the relevant information specified by paragraph (g) of this section. Applicants for ESIMs operating in a network using variable power density control of earth stations transmitting simultaneously in shared frequencies to the same target satellite receiving beam must also provide the certification required by § 25.212(g) or § 25.218(i)(5), whichever is applicable.
+
+(2) Applications where the proposed earth station transmissions do not comport with the applicable provisions in § 25.212(e) or the applicable off-axis EIRP density limits in § 25.218(i) must include the information specified by paragraph (g)(1) of this section, and are subject to the requirements of § 25.220.
+
+(3) Applications must include the following information:
+
+(i) ESIM applicants that meet the relevant off-axis EIRP density mask must certify that an individual ESIM terminal is self-monitoring and capable of automatically ceasing or reducing emissions within 100 milliseconds if the ESIM transmitter exceeds the relevant off-axis EIRP density limits. ESIM applicants that do not meet the relevant off-axis EIRP density mask must provide a detailed showing that an individual ESIM terminal is self-monitoring and capable of automatically ceasing or reducing emissions within 100 milliseconds if the ESIM transmitter exceeds the relevant off-axis EIRP density limits. Variable-power ESIM applicants must certify that one or more transmitters are capable of automatically ceasing or reducing emissions within 100 milliseconds of receiving a command to do so from the system's network control and monitoring center, if the aggregate off axis EIRP densities of the transmitter or transmitters exceed the relevant off-axis EIRP density limits.
+
+(ii) An exhibit describing the geographic area(s) in which the ESIMs will operate.
+
+(iii) The point of contact information referred to in § 25.228(e)(2), (f), or (g)(1) as appropriate.
+
+(iv) Applicants for ESIMs that will exceed the guidelines in § 1.1310 of this chapter for radio frequency radiation exposure must provide, with their environmental assessment, a plan for mitigation of radiation exposure to the extent required to meet those guidelines.
+
+[62 FR 5928, Feb. 10, 1997]Editorial Note 1.:For Federal Register citations affecting § 25.115, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Editorial Note 2.:At 84 FR 53651, Oct. 8, 2019, § 25.115 was amended in part by revising paragraph (c)(1); however, the amendment could not be incorporated because no new text was set out for paragraph (c)(1).

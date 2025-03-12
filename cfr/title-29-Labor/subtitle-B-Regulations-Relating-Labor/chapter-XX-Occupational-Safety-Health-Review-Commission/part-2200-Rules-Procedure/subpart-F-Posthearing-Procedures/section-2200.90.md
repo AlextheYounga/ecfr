@@ -14,10 +14,12 @@
 
 (ii) After a Judge's decision has become a final order as described in paragraph (f) of this section, the Commission or the Judge may correct a clerical mistake or a mistake arising from oversight or omission under Federal Rule of Civil Procedure 60(a).
 
-(c) *Relief from default.* Until the Judge's report has been docketed by the Executive Secretary, the Judge may relieve a party of default or grant reinstatement under § 2200.101(b), § 2200.52(f), or § 2200.64(b).
+(c) *Relief from default.* Until the Judge's report has been docketed by the Executive Secretary, the Judge may relieve a party of default or grant reinstatement under § 2200.101(b), § 2200.52(f)(2), or § 2200.64(b).
 
 (d) *Filing documents after the docketing date.* Except for documents filed under paragraph (b)(4)(i) of this section, which shall be filed with the Judge, on or after the date of docketing of the Judge's report all documents shall be filed with the Executive Secretary.
 
 (e) *Settlement.* Settlement documents shall be filed in the manner prescribed in § 2200.100(c).
 
 (f) *Judge's decision final unless review directed.* If no Commissioner directs review of a report on or before the thirtieth day following the date of docketing of the Judge's report, the decision of the Judge shall become a final order of the Commission.
+
+[84 FR 14558, Apr. 10, 2019, as amended at 84 FR 53053, Oct. 4, 2019]

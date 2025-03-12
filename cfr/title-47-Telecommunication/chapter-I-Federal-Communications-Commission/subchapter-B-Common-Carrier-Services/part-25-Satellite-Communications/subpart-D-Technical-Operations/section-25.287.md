@@ -46,6 +46,4 @@
 
 (c) No person without an FCC license for such operation may transmit to a space station in the NVNG, 1.5/1.6 GHz, 1.6/2.4 GHz, or 2 GHz Mobile-Satellite Service from anywhere in the United States except to receive service from the holder of a pertinent FCC blanket license or from another party with the permission of such a blanket licensee.
 
-(d) The holder of an FCC blanket license for operation of mobile transmitters or transceivers for communication via an NVNG, 1.6/2.4 GHz, 1.5/1.6 GHz, or 2 GHz Mobile Satellite Service system will be responsible for operation of any such device to receive service provided by that licensee or provided by another party with the blanket licensee's consent. Operators of such satellite systems must not transmit communications to or from such devices in the United States unless such communications are authorized under a service contract with the holder of a pertinent FCC blanket earth station license or under a service contract with another party with authority for such operation delegated by such a blanket licensee.
-
-[79 FR 8326, Feb. 12, 2014]
+[79 FR 8326, Feb. 12, 2014, as amended at 84 FR 53659, Oct. 8, 2019]

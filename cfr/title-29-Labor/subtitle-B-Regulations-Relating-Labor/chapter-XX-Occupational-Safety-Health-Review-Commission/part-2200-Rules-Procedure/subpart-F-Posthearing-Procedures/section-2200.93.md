@@ -26,4 +26,6 @@
 
 (h) *Failure to meet requirements.* The Commission may return briefs that do not meet the requirements of paragraphs (e) and (f) of this section.
 
-(i) *Brief of an amicus curiae.* The Commission may allow a brief of an amicus curiae pursuant to the criteria and time period set forth in § 2200.23. Any brief of an amicus curiae must meet the requirements of paragraphs (b) through (h) of this section. No reply brief of an amicus curiae will be received.
+(i) *Brief of an amicus curiae.* The Commission may allow a brief of an amicus curiae pursuant to the criteria and time period set forth in § 2200.24. Any brief of an amicus curiae must meet the requirements of paragraphs (b) through (h) of this section. No reply brief of an amicus curiae will be received.
+
+[84 FR 14558, Apr. 10, 2019, as amended at 84 FR 53053, Oct. 4, 2019]

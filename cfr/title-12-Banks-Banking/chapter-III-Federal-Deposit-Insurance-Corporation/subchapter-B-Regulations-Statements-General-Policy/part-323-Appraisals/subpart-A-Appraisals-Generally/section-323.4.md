@@ -1,5 +1,7 @@
 ##### § 323.4 Minimum appraisal standards. #####
 
+Link to an amendment published at 84 FR 53598, Oct. 8, 2019.
+
 For federally related transactions, all appraisals shall, at a minimum:
 
 (a) Conform to generally accepted appraisal standards as evidenced by the Uniform Standards of Professional Appraisal Practice (USPAP) promulgated by the Appraisal Standards Board of the Appraisal Foundation, 1029 Vermont Ave., NW., Washington, DC 20005, unless principles of safe and sound banking require compliance with stricter standards;

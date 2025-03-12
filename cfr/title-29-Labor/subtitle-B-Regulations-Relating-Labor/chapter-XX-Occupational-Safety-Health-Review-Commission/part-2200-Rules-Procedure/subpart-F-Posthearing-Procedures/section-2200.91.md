@@ -8,8 +8,10 @@
 
 (d) *Contents of the petition.* No particular form is required for a petition for discretionary review. A petition should state why review should be directed, including: Whether the Judge's decision raises an important question of law, policy, or discretion; whether review by the Commission will resolve a question about which the Commission's Judges have rendered differing opinions; whether the Judge's decision is contrary to law or Commission precedent; whether a finding of material fact is not supported by a preponderance of the evidence; whether a prejudicial error of procedure or an abuse of discretion was committed. A petition should concisely state the portions of the decision for which review is sought and should refer to the citations and citation items (for example, citation 3, item 4a) for which review is sought. A petition shall not incorporate by reference a brief or legal memorandum. Brevity and the inclusion of precise references to the record and legal authorities will facilitate prompt review of the petition.
 
-(e) *When filing effective.* A petition for discretionary review is filed when received by the Commission, as specified in § 2200.8(e)(2).
+(e) *When filing effective.* A petition for discretionary review is filed when received by the Commission, as specified in § 2200.8(d)(3)(ii).
 
 (f) *Prerequisite to judicial review; effect of filing.* A petition for review under this section is, under 5 U.S.C. 704, a prerequisite to the seeking of judicial review of the final agency action. The effect of filing a petition for review is to stay the decision of the Judge.
 
 (g) *Statements in opposition to petition.* Statements in opposition to petitions for discretionary review may be filed in the manner specified in this section for the filing of petitions for discretionary review. Statements in opposition shall concisely state why the Judge's decision should not be reviewed with respect to each portion of the petition to which it is addressed.
+
+[84 FR 14558, Apr. 10, 2019, as amended at 84 FR 53053, Oct. 4, 2019]

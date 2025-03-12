@@ -16,7 +16,11 @@ Terms with definitions including the “(RR)” designation are defined in the s
 
 *Ancillary Terrestrial Component (ATC) mobile terminal.* A terrestrial mobile facility used to transmit communications to or receive communications from an ancillary terrestrial component base station or a space station.
 
-*Blanket license.* A license for multiple fixed or mobile earth stations or SDARS terrestrial repeaters that may be operated anywhere within a geographic area specified in the license, or for multiple non-geostationary-orbit space stations.
+*Blanket license.* A license for:
+
+(1) Multiple earth stations in the FSS or MSS, or for SDARS terrestrial repeaters, that may be operated anywhere within a geographic area specified in the license; or
+
+(2) For multiple space stations in non-geostationary-orbit.
 
 *Conventional C-band.* The 3700-4200 MHz (space-to-Earth) and 5925-6425 MHz (Earth-to-space) FSS frequency bands.
 
@@ -34,9 +38,11 @@ Terms with definitions including the “(RR)” designation are defined in the s
 
 (2) With one or more stations of the same kind by means of one or more reflecting satellites or other objects in space. (RR)
 
-*Earth Station on Vessel (ESV).* An earth station onboard a craft designed for traveling on water, receiving from and transmitting to geostationary-orbit Fixed-Satellite Service space stations.
+*Earth Station Aboard Aircraft (ESAA).* An earth station operating aboard an aircraft that receives from and transmits to geostationary-orbit Fixed-Satellite Service space stations.
 
-*Earth Stations Aboard Aircraft (ESAA).* Earth stations operating aboard aircraft that receive from and transmit to geostationary-orbit Fixed-Satellite Service space stations pursuant to the requirements in § 25.227.
+*Earth Station in Motion (ESIM).* A term that collectively designates ESV, VMES and ESAA earth stations, as defined in this section.
+
+*Earth Station on Vessel (ESV).* An earth station onboard a craft designed for traveling on water, receiving from and transmitting to geostationary-orbit Fixed-Satellite Service space stations.
 
 *Emergency Call Center.* A facility that subscribers of satellite commercial mobile radio services call when in need of emergency assistance by dialing “911” on their mobile earth station terminals.
 
@@ -76,6 +82,8 @@ Terms with definitions including the “(RR)” designation are defined in the s
 
 (2) This service may also include feeder links necessary for its operation. (RR)
 
+*Network Control and Monitoring Center (NCMC).* An NCMC, as used in Part 25, is a facility that has the capability to remotely control earth stations operating as part of a satellite network or system.
+
 *NGSO.* Non-geostationary orbit.
 
 *NGSO FSS gateway earth station.* An earth station or complex of multiple earth station antennas that supports the routing and switching functions of an NGSO FSS system and that does not originate or terminate communication traffic. An NGSO FSS gateway earth station may also be used for telemetry, tracking, and command transmissions and is not for the exclusive use of any customer.
@@ -96,7 +104,7 @@ Terms with definitions including the “(RR)” designation are defined in the s
 
 *Radiodetermination-Satellite Service.* A radiocommunication service for the purpose of radiodetermination involving the use of one of more space stations. This service may also include feeder links necessary for its own operation. (RR)
 
-*Routine processing or licensing.* Expedited processing of unopposed applications for earth stations in the FSS communicating with GSO space stations, that satisfy the criteria in § 25.138(a), § 25.211(d), § 25.212(c), § 25.212(d), § 25.212(e), § 25.212(f), or § 25.218, include all required information, are consistent with all Commission rules, and do not raise any policy issues. Some, but not all, routine earth station applications are eligible for an autogrant procedure under § 25.115(a)(3).
+*Routine processing or licensing.* Expedited processing of unopposed applications for earth stations in the FSS communicating with GSO space stations that satisfy the criteria in § 25.211(d), § 25.212(c), § 25.212(d), § 25.212(e), § 25.212(f), § 25.218, or § 25.223(b), include all required information, are consistent with all Commission rules, and do not raise any policy issues. Some, but not all, routine earth station applications are eligible for an autogrant procedure under § 25.115(a)(3).
 
 *Satellite Digital Audio Radio Service (SDARS).* A radiocommunication service in which audio programming is digitally transmitted by one or more space stations directly to fixed, mobile, and/or portable stations, and which may involve complementary repeating terrestrial transmitters and telemetry, tracking and command facilities.
 
@@ -120,8 +128,8 @@ Terms with definitions including the “(RR)” designation are defined in the s
 
 *Terrestrial station.* A station effecting terrestrial radiocommunication.
 
-*Two-degree-compliant space station.* A GSO FSS space station operating in the conventional or extended C-bands, the conventional or extended Ku-bands, the 24.75-25.25 GHz band, or the conventional Ka-band within the limits on downlink EIRP density or PFD specified in § 25.140(a)(3) and communicating only with earth stations operating in conformance with routine uplink parameters specified in § 25.138(a), § 25.211(d), § 25.212(c), (d), or (f), § 25.218, § 25.221(a)(1) or (a)(3), or § 25.222(a)(1) or (a)(3), § 25.226(a)(1) or (a)(3), or § 25.227(a)(1) or (a)(3).
+*Two-degree-compliant space station.* A GSO FSS space station operating in the conventional or extended C-bands, the conventional or extended Ku-bands, or the conventional Ka-band within the limits on downlink EIRP density or PFD specified in § 25.140(a)(3) and communicating only with earth stations operating in conformance with routine uplink parameters specified in § 25.211(d), § 25.212(c), (d), (e), or (f), or § 25.218.
 
-*Vehicle-Mounted Earth Station (VMES).* An earth station, operating from a motorized vehicle that travels primarily on land, that receives from and transmits to geostationary orbit Fixed-Satellite Service space stations and operates within the United States pursuant to the requirements set out in § 25.226.
+*Vehicle-Mounted Earth Station (VMES).* An earth station, operating from a motorized vehicle that travels primarily on land, that receives from and transmits to geostationary orbit Fixed-Satellite Service space stations and operates within the United States.
 
-[79 FR 8311, Feb. 12, 2014, as amended at 79 FR 26868, May 12, 2014; 81 FR 55324, Aug. 18, 2016; 83 FR 34489, July 20, 2018]
+[79 FR 8311, Feb. 12, 2014, as amended at 79 FR 26868, May 12, 2014; 81 FR 55324, Aug. 18, 2016; 83 FR 34489, July 20, 2018; 84 FR 53651, Oct. 8, 2019]

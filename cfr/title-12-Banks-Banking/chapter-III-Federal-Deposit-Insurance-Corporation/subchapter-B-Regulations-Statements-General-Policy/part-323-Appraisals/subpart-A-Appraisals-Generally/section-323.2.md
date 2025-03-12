@@ -1,5 +1,7 @@
 ##### § 323.2 Definitions. #####
 
+Link to an amendment published at 84 FR 53598, Oct. 8, 2019.
+
 (a) *Appraisal* means a written statement independently and impartially prepared by a qualified appraiser setting forth an opinion as to the market value of an adequately described property as of a specific date(s), supported by the presentation and analysis of relevant market information.
 
 (b) *Appraisal Foundation* means the Appraisal Foundation established on November 30, 1987, as a not-for-profit corporation under the laws of Illinois.

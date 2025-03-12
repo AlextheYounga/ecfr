@@ -48,7 +48,7 @@ The reasonableness of the period prescribed by the Secretary of Labor for abatem
 
 (i) The notice of contest with respect to the reasonableness of the abatement period; and
 
-(ii) A copy of the Secretary's statement of reasons, filed in conformance with § 2200.38(b).
+(ii) A copy of the Secretary's statement of reasons, filed in conformance with § 2200.38(a).
 
 (2) Service on the authorized employee representative shall be in the manner prescribed in paragraph (c) of this section. The unrepresented affected employee shall file proof of such service.
 
@@ -61,3 +61,5 @@ The reasonableness of the period prescribed by the Secretary of Labor for abatem
 (o) *Service of show cause orders* - (1) *Service on parties and intervenors using Commission's E-File System.* Service of show cause orders shall be deemed completed by service through the Commission's E-File System on a representative who has entered an appearance for a party or intervenor under § 2200.23 or on a self-represented party or intervenor who has elected service through the Commission's E-File System. *See also* § 2200.101(a).
 
 (2) *Service on self-represented parties or intervenors not using the Commission's E-File System.* In addition to the service methods permitted by § 2200.7(c), the Commission or the Judge shall serve a show cause order on a party or intervenor who is self-represented and is not using the Commission's E-File System by certified mail or by any other method (including commercial delivery service) that provides confirmation of delivery to the addressee's record address provided under § 2200.6.
+
+[84 FR 14558, Apr. 10, 2019, as amended at 84 FR 53052, Oct. 4, 2019]
