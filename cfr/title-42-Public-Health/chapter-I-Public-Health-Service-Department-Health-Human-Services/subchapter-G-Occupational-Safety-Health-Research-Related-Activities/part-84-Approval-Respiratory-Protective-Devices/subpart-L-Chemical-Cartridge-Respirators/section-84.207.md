@@ -13,3 +13,7 @@
 (f) All cartridges will be resealed, kept in an upright position, at room temperatures, and tested within 18 hours.
 
 (g) Cartridges will be tested and shall meet the minimum requirements set forth in Table 11 of this subpart.
+
+(h) Powered air-purifying respirators with a cartridge(s) and particulate filter(s) must meet the as-received minimum service-life requirements and half of the equilibrated minimum service-life requirements set forth in table 11 of subpart L using the flows specified in subpart K, § 84.175(b) and equilibrated in accordance with paragraphs (a) through (g) of this section using the flows specified in subpart K, § 84.175(b).
+
+[60 FR 30355, June 8, 1995, as amended at 85 FR 20607, Apr. 14, 2020]

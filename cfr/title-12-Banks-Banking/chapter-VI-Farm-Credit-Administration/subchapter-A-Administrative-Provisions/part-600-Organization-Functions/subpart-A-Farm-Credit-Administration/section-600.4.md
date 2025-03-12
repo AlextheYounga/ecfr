@@ -1,7 +1,5 @@
 ##### § 600.4 Organization of the Farm Credit Administration. #####
 
-Link to an amendment published at 85 FR 6421, Feb. 5, 2020.
-
 (a) *Offices and functions.* The primary offices of the FCA are:
 
 (1) *Office of Inspector General.* The Office of Inspector General conducts independent audits, inspections, and investigations of Agency programs and operations and reviews proposed legislation and regulations.
@@ -16,11 +14,11 @@ Link to an amendment published at 85 FR 6421, Feb. 5, 2020.
 
 (6) *Office of Secondary Market Oversight.* The Office of Secondary Market Oversight regulates and examines the Federal Agricultural Mortgage Corporation for safety and soundness and compliance with law and regulations.
 
-(7) *Office of the Chief Operating Officer.* The Chief Operating Officer has broad responsibility for planning, directing, and controlling the operations of the Offices of Management Services, Examination, Regulatory Policy, and General Counsel in accordance with the operating philosophy and policies of the FCA Board.
+(7) *Office of the Chief Operating Officer.* The Chief Operating Officer has broad responsibility for planning, directing, and controlling the operations of the Offices of Agency Services, Chief Financial Officer, Examination, Regulatory Policy, Information Technology, Data Analysis and Economics, and General Counsel in accordance with the operating philosophy and policies of the FCA Board.
 
-(8) *Office of Agency Services.* The Office of Agency Services manages human capital and administrative services for the Agency. This includes providing the following services to the Agency: Staffing and placement, job evaluation, compensation and benefits, payroll administration, performance management and awards, employee relations, employee training and development, contracting, acquisitions, records and property management, supply services, agency purchase cards, design, publication, and mail service.
+(8) *Office of Agency Services.* The Office of Agency Services, manages human capital and administrative services for the Agency. This includes providing the following services to the Agency: Staffing and placement, personnel security programs, job evaluation, compensation and benefits, payroll administration, performance management and awards, employee relations, employee training and development, contracting, acquisitions, records and property management, supply services, agency purchase cards, design, publication, and mail service.
 
-(9) *Office of the Chief Financial Officer.* The Office of the Chief Financial Officer manages and delivers timely, accurate, and reliable financial services to the Agency. The office establishes financial policies and procedures and oversees the formulation and execution of the Agency's budget. The office reports periodically on the status of the Agency's financial position, results of operations, and budgetary resources. It also oversees the Agency's travel management, internal controls, and personnel security programs.
+(9) *Office of the Chief Financial Officer.* The Office of the Chief Financial Officer, manages and delivers timely, accurate, and reliable financial services to the Agency. The office establishes financial policies and procedures and oversees the formulation and execution of the Agency's budget. The office reports periodically on the status of the Agency's financial position, results of operations, and budgetary resources. It also oversees the Agency's travel management and internal controls.
 
 (10) *Office of Regulatory Policy.* The Office of Regulatory Policy develops policies and regulations for the FCA Board's consideration; evaluates regulatory and statutory prior approvals; manages the Agency's chartering activities; and analyzes policy and strategic risks to the System.
 
@@ -28,14 +26,16 @@ Link to an amendment published at 85 FR 6421, Feb. 5, 2020.
 
 (12) *Office of Information Technology.* The Office of Information Technology manages and delivers the Agency's information technology, data analysis infrastructure, and the security supporting Agency technology resources.
 
-(13) *Office of General Counsel.* The Office of General Counsel provides legal advice and services to the FCA Chairman, the FCA Board, and Agency staff.
+(13) *Office of Data Analytics and Economics.* The Office of Data Analytics and Economics evaluates strategic risks to the System using data, analytics, economic trends, and other risk factors. The Office serves as a steward for Agency data and as a provider of information for objective, evidence-based decision making across the Agency. The Office facilitates an agency wide strategy for analytics and collaborates across Offices on business intelligence tools and development of models to meet the strategic needs of the Agency.
 
-(b) *Additional information.* You may obtain more information on the FCA's organization by visiting our Web site at *http://www.fca.gov*. You may also contact the Office of Congressional and Public Affairs:
+(14) *Office of General Counsel.* The Office of General Counsel provides legal advice and services to the FCA Chairman, the FCA Board, and Agency staff.
+
+(b) *Additional information.* You may obtain more information on the FCA's organization by visiting our website at *http://www.fca.gov.* You may also contact the Office of Congressional and Public Affairs:
 
 (1) In writing at FCA, 1501 Farm Credit Drive, McLean, Virginia 22102-5090;
 
-(2) By email at *info-line@fca.gov*; or
+(2) By email at *info-line@fca.gov;* or
 
 (3) By telephone at (703) 883-4056.
 
-[81 FR 47691, July 22, 2016]
+[85 FR 6421, Feb. 5, 2020]

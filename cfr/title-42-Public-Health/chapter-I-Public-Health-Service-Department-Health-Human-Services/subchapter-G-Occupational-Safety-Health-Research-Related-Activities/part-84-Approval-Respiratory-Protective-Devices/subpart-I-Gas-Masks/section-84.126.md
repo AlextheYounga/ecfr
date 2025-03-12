@@ -21,3 +21,7 @@
 (d) Chin-style gas mask canisters shall meet the minimum requirements set forth in Table 6 of this subpart.
 
 (e) Escape gas mask canisters shall meet the minimum requirements set forth in Table 7 of this subpart.
+
+(f) Powered air-purifying respirators with a canister(s) and particulate filter(s) must meet the as-received minimum service-life requirements and half of the equilibrated minimum service-life requirements set forth in Tables 5, 6, and 7 of subpart I using the flows specified in subpart K, § 84.175(b) and equilibrated in accordance with paragraphs (a) through (e) of this section using the flows specified in subpart K, § 84.175(b).
+
+[60 FR 30355, June 8, 1995, as amended at 85 FR 20607, Apr. 14, 2020]
