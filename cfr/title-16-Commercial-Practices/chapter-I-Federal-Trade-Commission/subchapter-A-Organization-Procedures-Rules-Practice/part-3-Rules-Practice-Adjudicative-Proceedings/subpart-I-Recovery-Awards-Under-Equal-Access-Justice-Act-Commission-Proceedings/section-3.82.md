@@ -24,7 +24,7 @@
 
 (c) *Documentation of fees and expenses.* The application shall be accompanied by full documentation of the fees and expenses incurred after initiation of the adversary adjudication, including the cost of any study, analysis, engineering report, test, project or similar matter, for which an award is sought. With respect to a claim for fees and expenses involving an excessive demand, the application shall be accompanied by full documentation of the fees and expenses incurred after initiation of the adversary adjudication, including the cost of any study, analysis, engineering report, test, project or similar matter, for which an award is sought attributable to the portion of the demand alleged to be excessive and unreasonable. A separate itemized statement shall be submitted for each professional firm or individual whose services are covered by the application, showing the hours spent in connection with the proceeding by each individual, a description of the specific services performed, the rate at which each fee has been computed, any expenses for which reimbursement is sought, the total amount claimed, and the total amount paid or payable by the applicant or by any other person or entity for the services provided. The Administrative Law Judge may require the applicant to provide vouchers, receipts, or other substantiation for any expenses claimed.
 
-(d) *When an application may be filed*—(1) For a prevailing party:
+(d) *When an application may be filed*. (1) For a prevailing party:
 
 (i) An application may be filed not later than 30 days after the Commission has issued an order or otherwise taken action that results in final disposition of the proceeding.
 
@@ -38,8 +38,8 @@
 
 (3) For purposes of this subpart, *final disposition* means the later of—
 
-(i) The date that the initial decision of the Administrative Law Judge becomes the decision of the Commission pursuant to § 3.51(a);
+(i) The date that the Commission issues an order disposing of any petitions for reconsideration of the Commission's final order in the proceeding; or
 
-(ii) The date that the Commission issues an order disposing of any petitions for reconsideration of the Commission's final order in the proceeding; or
+(ii) The date that the Commission issues a final order or any other final resolution of a proceeding, such as a consent agreement, settlement or voluntary dismissal, which is not subject to a petition for reconsideration.
 
-(iii) The date that the Commission issues a final order or any other final resolution of a proceeding, such as a consent agreement, settlement or voluntary dismissal, which is not subject to a petition for reconsideration.
+[63 FR 36341, July 6, 1998, as amended at 88 FR 42877, July 5, 2023]

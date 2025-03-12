@@ -8,8 +8,10 @@ The Chair of the Commission is designated by the President, and, subject to the 
 
 (c) The Office of Equal Employment Opportunity and Workplace Inclusion, which advises and assists the Chair and the organizational units in EEO policy and diversity management issues;
 
-(d) The Office of Policy Planning, which assists the Commission to develop and implement long-range competition and consumer protection policy initiatives; and
+(d) The Office of Policy Planning, which assists the Commission to develop and implement long-range competition and consumer protection policy initiatives;
 
-(e) The Office of Public Affairs, which furnishes information concerning Commission activities to news media and the public.
+(e) The Office of Public Affairs, which furnishes information concerning Commission activities to news media and the public; and
 
-[86 FR 38546, July 22, 2021]
+(f) The Office of Technology, which employs expertise in technology to strengthen and support law enforcement investigations and actions, advise and engage with FTC staff and the Commission on policy and research initiatives, and engage the public and relevant experts to understand trends and to advance the Commission's work.
+
+[86 FR 38546, July 22, 2021, as amended at 88 FR 42874, July 5, 2023]

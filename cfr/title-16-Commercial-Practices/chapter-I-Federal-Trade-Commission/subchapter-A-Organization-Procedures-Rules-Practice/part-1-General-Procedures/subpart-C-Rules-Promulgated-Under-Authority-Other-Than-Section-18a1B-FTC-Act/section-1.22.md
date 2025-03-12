@@ -4,6 +4,6 @@
 
 (b) *Scope.* Rules may cover all applications of a particular statutory provision and may be nationwide in effect, or they may be limited to particular areas or industries or to particular product or geographic markets, as may be appropriate.
 
-(c) *Use of rules in adjudicative proceedings.* When a rule is relevant to any issue involved in an ajudicative proceeding thereafter instituted, the Commission may rely upon the rule to resolve such issue, provided that the respondent shall have been given a fair hearing on the applicability of the rule to the particular case.
+(c) *Use of rules in adjudicative proceedings.* When a rule is relevant to any issue involved in an adjudicative proceeding thereafter instituted, the Commission may rely upon the rule to resolve such issue, provided that the respondent shall have been given a fair hearing on the applicability of the rule to the particular case.
 
-[40 FR 15232, Apr. 4, 1975]
+[40 FR 15232, Apr. 4, 1975, as amended at 88 FR 42874, July 5, 2023]

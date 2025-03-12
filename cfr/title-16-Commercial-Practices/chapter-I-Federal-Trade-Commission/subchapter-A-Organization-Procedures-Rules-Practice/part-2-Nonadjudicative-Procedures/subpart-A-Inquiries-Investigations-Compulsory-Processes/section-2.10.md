@@ -8,7 +8,7 @@
 
 (4) *Staff reply.* Commission staff may, without serving the petitioner, provide the Commission a statement that shall set forth any factual and legal response to the petition to limit or quash.
 
-(5) *Extensions of time.* The Directors of the Bureaus of Competition, Consumer Protection, and Economics and the Office of Policy Planning, their Deputy Directors, the Assistant Directors of the Bureaus of Competition and Economics, the Associate Directors of the Bureau of Consumer Protection, the Regional Directors, and the Assistant Regional Directors are delegated, without power of redelegation, the authority to rule upon requests for extensions of time within which to file petitions to limit or quash Commission compulsory process.
+(5) *Extensions of time.* The Directors of the Bureaus of Competition, Consumer Protection, and Economics and the Office of Policy Planning, their Deputy Directors, the Assistant Directors of the Bureaus of Competition and Economics, the Associate Directors of the Bureau of Consumer Protection, the Regional Directors, the Assistant Regional Directors, the Chief Technology Officer, and the Deputy Chief Technology Officer are delegated, without power of redelegation, the authority to rule upon requests for extensions of time within which to file petitions to limit or quash Commission compulsory process.
 
 (b) *Stay of compliance period.* The timely filing of a petition to limit or quash any Commission compulsory process shall stay the remaining amount of time permitted for compliance as to the portion or portions of the challenged specifications or provisions. If the petition is denied in whole or in part, the ruling by the Commission shall specify new terms for compliance, including a new return date, for the Commission's compulsory process.
 
@@ -16,4 +16,4 @@
 
 (d) *Public disclosure.* All petitions to limit or quash Commission compulsory process and all Commission orders in response to those petitions shall become part of the public records of the Commission, except for information granted confidential treatment under § 4.9(c) of this chapter.
 
-[77 FR 59308, Sept. 27, 2012, as amended at 80 FR 15160, Mar. 23, 2015]
+[77 FR 59308, Sept. 27, 2012, as amended at 80 FR 15160, Mar. 23, 2015; 88 FR 42875, July 5, 2023]

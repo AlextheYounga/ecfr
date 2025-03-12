@@ -30,6 +30,6 @@
 
 (d) *Stipulated indices.* As an alternative to the filing of separate indices, the parties are encouraged to stipulate to joint exhibit and witness indices at the time the first statement of proposed findings of fact and conclusions of law is due to be filed.
 
-(e) *Rulings.* The record shall show the Administrative Law Judge's ruling on each proposed finding and conclusion, except when the order disposing of the proceeding otherwise informs the parties of the action taken.
+(e) *Rulings.* The record shall show the Administrative Law Judge's recommended ruling on each proposed finding and conclusion, except when the proposed order disposing of the proceeding otherwise informs the parties of the action taken.
 
-[74 FR 1833, Jan. 13, 2009, as amended at 80 FR 15162, Mar. 23, 2015]
+[74 FR 1833, Jan. 13, 2009, as amended at 80 FR 15162, Mar. 23, 2015; 88 FR 42876, July 5, 2023]

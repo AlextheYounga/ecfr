@@ -24,7 +24,7 @@
 
 (5) *Ex parte communications.* Except as required for the disposition of ex parte matters as authorized by law, no presiding officer may consult any person or party with respect to any fact in issue unless such officer gives notice and opportunity for all parties to participate.
 
-(b) *Additional procedures when there are disputed issues of material fact.* If requested under § 1.11(d), an informal hearing with the opportunity for oral presentations will be conducted by the presiding officer. In addition, if the Commission determines that there are disputed issues of material fact that are material and necessary to resolve, the informal hearing on such issues will be conducted in accordance with § 1.13(b)(2).
+(b) *Additional procedures when there are disputed issues of material fact.* If requested under § 1.11(e), an informal hearing with the opportunity for oral presentations will be conducted by the presiding officer. In addition, if the Commission determines that there are disputed issues of material fact that are material and necessary to resolve, the informal hearing on such issues will be conducted in accordance with § 1.13(b)(2).
 
 (1) *Nature of issues for consideration in accordance with § 1.13(b)(2)*—(i) *Issues that must be considered in accordance with § 1.13(b)(2).* The only issues that must be designated for consideration in accordance with paragraphs (b)(2) of this section are disputed issues of fact that are determined by the Commission to be material and necessary to resolve.
 
@@ -40,4 +40,4 @@
 
 (2) The Commission may, in its discretion, hear the appeal. Commission review, if granted, will be based on the petition and anything on the rulemaking record, without oral argument or further briefs, unless otherwise ordered by the Commission. If the Commission grants review, it will render a decision within thirty days of the announcement of its decision to review unless, upon a showing of good cause, the Commission extends the number of days for review.
 
-[86 FR 38549, July 22, 2021]
+[86 FR 38549, July 22, 2021, as amended at 88 FR 42874, July 5, 2023]

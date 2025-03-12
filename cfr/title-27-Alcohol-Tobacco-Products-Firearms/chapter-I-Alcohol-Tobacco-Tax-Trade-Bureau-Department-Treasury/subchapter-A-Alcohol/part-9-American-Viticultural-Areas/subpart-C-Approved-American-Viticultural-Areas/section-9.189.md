@@ -1,5 +1,7 @@
 ##### § 9.189 High Valley. #####
 
+Link to an amendment published at 88 FR 42881, July 5, 2023.
+
 (a) *Name.* The name of the viticultural area described in this section is “High Valley”. For purposes of part 4 of this chapter, “High Valley” is a term of viticultural significance.
 
 (b) *Approved Maps.* The appropriate maps for determining the boundaries of the “High Valley” viticultural area are three United States Geological Survey (USGS) 1:24,000 scale topographic maps. They are titled:

@@ -16,6 +16,6 @@
 
 (6) Rule that a pleading, or part of a pleading, or a motion or other submission by the party, concerning which the order or subpoena was issued, be stricken, or that a decision of the proceeding be rendered against the party, or both.
 
-(c) Any such action may be taken by written or oral order issued in the course of the proceeding or by inclusion in an initial decision of the Administrative Law Judge or an order or opinion of the Commission. It shall be the duty of parties to seek and Administrative Law Judges to grant such of the foregoing means of relief or other appropriate relief as may be sufficient to compensate for withheld testimony, documents, or other evidence. If in the Administrative Law Judge's opinion such relief would not be sufficient, or in instances where a nonparty fails to comply with a subpoena or order, he or she shall certify to the Commission a request that court enforcement of the subpoena or order be sought.
+(c) Any such action may be taken by written or oral order issued in the course of the proceeding or by inclusion in a recommended decision of the Administrative Law Judge or an order or opinion of the Commission. It shall be the duty of parties to seek and Administrative Law Judges to grant such of the foregoing means of relief or other appropriate relief as may be sufficient to compensate for withheld testimony, documents, or other evidence. If in the Administrative Law Judge's opinion such relief would not be sufficient, or in instances where a nonparty fails to comply with a subpoena or order, he or she shall certify to the Commission a request that court enforcement of the subpoena or order be sought.
 
-[74 FR 1829, Jan. 13, 2009]
+[74 FR 1829, Jan. 13, 2009, as amended at 88 FR 42876, July 5, 2023]
