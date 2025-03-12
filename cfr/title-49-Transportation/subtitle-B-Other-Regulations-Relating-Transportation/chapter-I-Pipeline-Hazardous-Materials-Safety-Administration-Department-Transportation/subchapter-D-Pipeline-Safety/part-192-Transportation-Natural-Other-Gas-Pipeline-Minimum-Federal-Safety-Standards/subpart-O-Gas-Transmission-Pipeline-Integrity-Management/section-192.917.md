@@ -1,5 +1,7 @@
 ##### § 192.917 How does an operator identify potential threats to pipeline integrity and use the threat identification in its integrity program? #####
 
+Link to an amendment published at 87 FR 52273, Aug. 24, 2022.
+
 (a) *Threat identification.* An operator must identify and evaluate all potential threats to each covered pipeline segment. Potential threats that an operator must consider include, but are not limited to, the threats listed in ASME/ANSI B31.8S (incorporated by reference, *see* § 192.7), section 2, which are grouped under the following four categories:
 
 (1) Time dependent threats such as internal corrosion, external corrosion, and stress corrosion cracking;

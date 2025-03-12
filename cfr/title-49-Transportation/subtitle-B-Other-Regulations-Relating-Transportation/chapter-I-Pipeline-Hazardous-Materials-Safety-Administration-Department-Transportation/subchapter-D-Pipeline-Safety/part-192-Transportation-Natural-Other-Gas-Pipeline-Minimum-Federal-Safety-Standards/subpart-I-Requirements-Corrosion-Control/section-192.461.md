@@ -1,6 +1,8 @@
 ##### § 192.461 External corrosion control: Protective coating. #####
 
-(a) Each external protective coating, whether conductive or insulating, applied for the purpose of external corrosion control must -
+Link to an amendment published at 87 FR 52269, Aug. 24, 2022.
+
+(a) Each external protective coating, whether conductive or insulating, applied for the purpose of external corrosion control must—
 
 (1) Be applied on a properly prepared surface;
 

@@ -1,6 +1,6 @@
 ##### § 192.9 What requirements apply to gathering pipelines? #####
 
-Link to an amendment published at 87 FR 20982, Apr. 8, 2022.
+Link to an amendment published at 87 FR 20982, Apr. 8, 2022.Link to an amendment published at 87 FR 52268, Aug. 24, 2022.
 
 (a) *Requirements.* An operator of a gathering line must follow the safety requirements of this part as prescribed by this section.
 

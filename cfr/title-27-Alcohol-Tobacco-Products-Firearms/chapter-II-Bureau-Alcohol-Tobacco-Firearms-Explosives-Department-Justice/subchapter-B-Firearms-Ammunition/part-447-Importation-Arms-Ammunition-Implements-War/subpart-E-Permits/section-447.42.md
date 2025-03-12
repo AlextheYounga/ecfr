@@ -1,8 +1,6 @@
 ##### § 447.42 Application for permit. #####
 
-Link to an amendment published at 87 FR 24734, Apr. 26, 2022.
-
-(a)(1) Persons required to obtain a permit as provided in § 447.41 must file a Form 6 - Part I. The application must be signed and dated and must contain the information requested on the form, including:
+(a)(1) Persons required to obtain a permit as provided in § 447.41 must file a Form 6—Part I. The application must be signed and dated and must contain the information requested on the form, including:
 
 (i) The name, address, telephone number, license and registration number, if any (including expiration date) of the importer;
 
@@ -10,9 +8,9 @@ Link to an amendment published at 87 FR 24734, Apr. 26, 2022.
 
 (iii) The name and address of the foreign seller and foreign shipper;
 
-(iv) A description of the defense article to be imported, including -
+(iv) A description of the defense article to be imported, including—
 
-(A) The name and address of the manufacturer;
+(A) The name and address of the manufacturer of the defense article, or “privately made firearm” (if a firearm privately made in the United States);
 
 (B) The type (e.g., rifle, shotgun, pistol, revolver, aircraft, vessel, and in the case of ammunition only, ball, wadcutter, shot, etc.);
 
@@ -44,4 +42,4 @@ Link to an amendment published at 87 FR 24734, Apr. 26, 2022.
 
 (b) For additional requirements relating to the importation of plastic explosives into the United States on or after April 24, 1997, see § 555.183 of this title.
 
-(Approved by the Office of Management and Budget under control number 1140-0005)[T.D. ATF-215, 50 FR 42161, Oct. 18, 1985, as amended by T.D. ATF-387, 62 FR 8376, Feb. 25, 1997; T.D. ATF-426, 65 FR 38197, June 20, 2000;T.D. ATF-484, 67 FR 64526, Oct. 21, 2002; ATF-11F, 73 FR 57240, Oct. 2, 2008]
+(Approved by the Office of Management and Budget under control number 1140-0005)[T.D. ATF-215, 50 FR 42161, Oct. 18, 1985, as amended by T.D. ATF-387, 62 FR 8376, Feb. 25, 1997; T.D. ATF-426, 65 FR 38197, June 20, 2000;T.D. ATF-484, 67 FR 64526, Oct. 21, 2002; ATF-11F, 73 FR 57240, Oct. 2, 2008; ATF-2021R-05F, 87 FR 24734, Apr. 26, 2022]

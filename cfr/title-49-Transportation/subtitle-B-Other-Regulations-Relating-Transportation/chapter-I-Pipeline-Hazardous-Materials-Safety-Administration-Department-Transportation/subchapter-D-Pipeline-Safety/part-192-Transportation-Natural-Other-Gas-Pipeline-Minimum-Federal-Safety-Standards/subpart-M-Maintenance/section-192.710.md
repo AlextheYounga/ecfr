@@ -1,5 +1,7 @@
 ##### § 192.710 Transmission lines: Assessments outside of high consequence areas. #####
 
+Link to an amendment published at 87 FR 52270, Aug. 24, 2022.
+
 (a) *Applicability:* This section applies to onshore steel transmission pipeline segments with a maximum allowable operating pressure of greater than or equal to 30% of the specified minimum yield strength and are located in:
 
 (1) A Class 3 or Class 4 location; or
@@ -8,7 +10,7 @@
 
 (3) This section does not apply to a pipeline segment located in a high consequence area as defined in § 192.903.
 
-(b) *General* - (1) *Initial assessment.* An operator must perform initial assessments in accordance with this section based on a risk-based prioritization schedule and complete initial assessment for all applicable pipeline segments no later than July 3, 2034, or as soon as practicable but not to exceed 10 years after the pipeline segment first meets the conditions of § 192.710(a) (*e.g.,* due to a change in class location or the area becomes a moderate consequence area), whichever is later.
+(b) *General*—(1) *Initial assessment.* An operator must perform initial assessments in accordance with this section based on a risk-based prioritization schedule and complete initial assessment for all applicable pipeline segments no later than July 3, 2034, or as soon as practicable but not to exceed 10 years after the pipeline segment first meets the conditions of § 192.710(a) (*e.g.,* due to a change in class location or the area becomes a moderate consequence area), whichever is later.
 
 (2) *Periodic reassessment.* An operator must perform periodic reassessments at least once every 10 years, with intervals not to exceed 126 months, or a shorter reassessment interval based upon the type of anomaly, operational, material, and environmental conditions found on the pipeline segment, or as necessary to ensure public safety.
 

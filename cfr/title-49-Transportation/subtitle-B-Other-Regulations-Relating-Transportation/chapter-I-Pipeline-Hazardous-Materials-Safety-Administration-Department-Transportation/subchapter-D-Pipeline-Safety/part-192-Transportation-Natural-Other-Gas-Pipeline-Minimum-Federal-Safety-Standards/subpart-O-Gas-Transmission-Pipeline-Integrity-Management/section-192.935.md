@@ -1,6 +1,6 @@
 ##### § 192.935 What additional preventive and mitigative measures must an operator take? #####
 
-Link to an amendment published at 87 FR 20986, Apr. 8, 2022.
+Link to an amendment published at 87 FR 20986, Apr. 8, 2022.Link to an amendment published at 87 FR 52279, Aug. 24, 2022.
 
 (a) *General requirements.* An operator must take additional measures beyond those already required by Part 192 to prevent a pipeline failure and to mitigate the consequences of a pipeline failure in a high consequence area. An operator must base the additional measures on the threats the operator has identified to each pipeline segment. (*See* § 192.917) An operator must conduct, in accordance with one of the risk assessment approaches in ASME/ANSI B31.8S (incorporated by reference, *see* § 192.7), section 5, a risk analysis of its pipeline to identify additional measures to protect the high consequence area and enhance public safety. Such additional measures include, but are not limited to, installing Automatic Shut-off Valves or Remote Control Valves, installing computerized monitoring and leak detection systems, replacing pipe segments with pipe of heavier wall thickness, providing additional training to personnel on response procedures, conducting drills with local emergency responders and implementing additional inspection and maintenance programs.
 

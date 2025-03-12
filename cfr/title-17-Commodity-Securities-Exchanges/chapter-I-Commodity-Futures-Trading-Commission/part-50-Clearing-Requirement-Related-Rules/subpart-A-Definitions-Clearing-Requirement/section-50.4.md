@@ -1,5 +1,7 @@
 ##### § 50.4 Classes of swaps required to be cleared. #####
 
+Link to an amendment published at 87 FR 52215, Aug. 24, 2022.Link to an amendment published at 87 FR 52216, Aug. 24, 2022.
+
 (a) *Interest rate swaps.* Swaps that have the following specifications are required to be cleared under section 2(h)(1) of the Act, and shall be cleared pursuant to the rules of any derivatives clearing organization eligible to clear such swaps under § 39.5(a) of this chapter.
 
 Table 1a

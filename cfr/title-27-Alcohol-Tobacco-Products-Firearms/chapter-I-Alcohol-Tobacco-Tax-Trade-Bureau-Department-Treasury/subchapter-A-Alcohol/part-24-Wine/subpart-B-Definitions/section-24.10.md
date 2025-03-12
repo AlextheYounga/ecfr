@@ -30,7 +30,7 @@ When used in this part and in the forms prescribed under this part, terms will h
 
 *Bottler.* A proprietor of wine premises established under the provisions of this part who fills wine into a bottle.
 
-*Brix.* The quantity of dissolved solids expressed as grams of sucrose in 100 grams of solution at 60 degrees F. (20 degrees C.) (Percent by weight of sugar).
+*Brix.* The quantity of dissolved solids expressed as grams of sucrose in 100 grams of solution at 68 degrees F. (20 degrees C.) (Percent by weight of sugar).
 
 *Bulk container.* Any container larger than 60 liters.
 
@@ -185,6 +185,6 @@ Additionally, the term refers to wine withdrawn without payment of tax under 26 
 
 *Wine premises.* Premises established under the provisions of this part on which wine operations or other operations are authorized to be conducted.
 
-*Wine spirits.* Brandy or wine spirits authorized under 26 U.S.C. 5373 for use in wine production.
+*Wine spirits.* Brandy or wine spirits authorized under 26 U.S.C. 5373 and § 24.225 for use in wine production.
 
-[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-312, 56 FR 31077, July 9, 1991; T.D. ATF-398, 63 FR 44783, Aug. 21, 1998; T.D. ATF-409, 64 FR 13683, Mar. 22, 1999; T.D. TTB-41, 71 FR 5602, Feb. 2, 2006; T.D. TTB-44, 71 FR 16938, Apr. 4, 2006; T.D. TTB-89, 76 FR 3509, Jan. 20, 2011; T.D. TTB-94, 76 FR 52862, Aug. 24, 2011; T.D. TTB-130, 80 FR 55248, Sept. 15, 2015; T.D. TTB-146, 82 FR 1123, Jan. 4, 2017; T.D. TTB-147, 82 FR 7662, Jan. 23, 2017]
+[T.D. ATF-299, 55 FR 24989, June 19, 1990, as amended by T.D. ATF-312, 56 FR 31077, July 9, 1991; T.D. ATF-398, 63 FR 44783, Aug. 21, 1998; T.D. ATF-409, 64 FR 13683, Mar. 22, 1999; T.D. TTB-41, 71 FR 5602, Feb. 2, 2006; T.D. TTB-44, 71 FR 16938, Apr. 4, 2006; T.D. TTB-89, 76 FR 3509, Jan. 20, 2011; T.D. TTB-94, 76 FR 52862, Aug. 24, 2011; T.D. TTB-130, 80 FR 55248, Sept. 15, 2015; T.D. TTB-146, 82 FR 1123, Jan. 4, 2017; T.D. TTB-147, 82 FR 7662, Jan. 23, 2017; T.D. TTB-185, 87 FR 51896, Aug. 24, 2022]

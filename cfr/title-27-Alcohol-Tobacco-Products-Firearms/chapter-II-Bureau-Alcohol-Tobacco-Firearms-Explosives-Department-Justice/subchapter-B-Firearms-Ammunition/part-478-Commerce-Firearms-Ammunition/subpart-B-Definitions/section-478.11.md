@@ -1,8 +1,6 @@
 ##### § 478.11 Meaning of terms. #####
 
-Link to an amendment published at 87 FR 24734, Apr. 26, 2022.Link to a correction published at 87 FR 51249, Aug. 22, 2022.
-
-When used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meanings ascribed in this section. Words in the plural form shall include the singular, and vice versa, and words importing the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude other things not enumerated which are in the same general class or are otherwise within the scope thereof.
+When used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meanings ascribed in this subpart. Words in the plural form shall include the singular, and vice versa, and words importing the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude other things not enumerated which are in the same general class or are otherwise within the scope thereof.
 
 *Act.* 18 U.S.C. Chapter 44.
 
@@ -62,6 +60,10 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Committed to a mental institution.* A formal commitment of a person to a mental institution by a court, board, commission, or other lawful authority. The term includes a commitment to a mental institution involuntarily. The term includes commitment for mental defectiveness or mental illness. It also includes commitments for other reasons, such as for drug use. The term does not include a person in a mental institution for observation or a voluntary admission to a mental institution.
 
+*Complete muffler or silencer device.* A firearm muffler or firearm silencer that contains all component parts necessary to function, whether or not assembled or operable.
+
+*Complete weapon.* A firearm other than a firearm muffler or firearm silencer that contains all component parts necessary to function, whether or not assembled or operable.
+
 *Controlled substance.* A drug or other substance, or immediate precursor, as defined in section 102 of the Controlled Substances Act, 21 U.S.C. 802. The term includes, but is not limited to, marijuana, depressants, stimulants, and narcotic drugs. The term does not include distilled spirits, wine, malt beverages, or tobacco, as those terms are defined or used in Subtitle E of the Internal Revenue Code of 1986, as amended.
 
 *Crime punishable by imprisonment for a term exceeding 1 year.* Any Federal, State or foreign offense for which the maximum penalty, whether or not imposed, is capital punishment or imprisonment in excess of 1 year. The term shall not include (a) any Federal or State offenses pertaining to antitrust violations, unfair trade practices, restraints of trade, or other similar offenses relating to the regulation of business practices or (b) any State offense classified by the laws of the State as a misdemeanor and punishable by a term of imprisonment of 2 years or less. What constitutes a conviction of such a crime shall be determined in accordance with the law of the jurisdiction in which the proceedings were held. Any conviction which has been expunged or set aside or for which a person has been pardoned or has had civil rights restored shall not be considered a conviction for the purposes of the Act or this part, unless such pardon, expunction, or restoration of civil rights expressly provides that the person may not ship, transport, possess, or receive firearms, or unless the person is prohibited by the law of the jurisdiction in which the proceedings were held from receiving or possessing any firearms.
@@ -94,7 +96,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 (c) *Dealer in firearms other than a gunsmith or a pawnbroker.* A person who devotes time, attention, and labor to dealing in firearms as a regular course of trade or business with the principal objective of livelihood and profit through the repetitive purchase and resale of firearms, but such a term shall not include a person who makes occasional sales, exchanges, or purchases of firearms for the enhancement of a personal collection or for a hobby, or who sells all or part of his personal collection of firearms;
 
-(d) *Gunsmith.* A person who devotes time, attention, and labor to engaging in such activity as a regular course of trade or business with the principal objective of livelihood and profit, but such a term shall not include a person who makes occasional repairs of firearms or who occasionally fits special barrels, stocks, or trigger mechanisms to firearms;
+(d) *Gunsmith.* A person who, as a service performed on existing firearms not for sale or distribution, devotes time, attention, and labor to repairing or customizing firearms, making or fitting special barrels, stocks, or trigger mechanisms to firearms, or placing marks of identification on privately made firearms in accordance with this part, as a regular course of trade or business with the principal objective of livelihood and profit, but such term shall not include a person who occasionally repairs or customizes firearms (including identification), or occasionally makes or fits special barrels, stocks, or trigger mechanisms to firearms. In the case of firearms for purposes of sale or distribution, such term shall include a person who performs repairs (*e.g.,* by replacing worn or broken parts) on complete weapons, or places marks of identification on privately made firearms, but shall not include a person who manufactures firearms (*i.e.,* frames or receivers or complete weapons) by completion, assembly, or applying coatings, or otherwise making them suitable for use, requiring a license as a manufacturer;
 
 (e) *Importer of firearms.* A person who devotes time, attention, and labor to importing firearms as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the firearms imported; and,
 
@@ -106,11 +108,11 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Federal Firearms Act.* 15 U.S.C. Chapter 18.
 
-*Firearm.* Any weapon, including a starter gun, which will or is designed to or may readily be converted to expel a projectile by the action of an explosive; the frame or receiver of any such weapon; any firearm muffler or firearm silencer; or any destructive device; but the term shall not include an antique firearm. In the case of a licensed collector, the term shall mean only curios and relics.
-
-*Firearm frame or receiver.* That part of a firearm which provides housing for the hammer, bolt or breechblock, and firing mechanism, and which is usually threaded at its forward portion to receive the barrel.
+*Firearm.* Any weapon, including a starter gun, which will or is designed to or may readily be converted to expel a projectile by the action of an explosive; the frame or receiver of any such weapon; any firearm muffler or firearm silencer; or any destructive device; but the term shall not include an antique firearm. In the case of a licensed collector, the term shall mean only curios and relics. The term shall include a weapon parts kit that is designed to or may readily be completed, assembled, restored, or otherwise converted to expel a projectile by the action of an explosive. The term shall not include a weapon, including a weapon parts kit, in which the frame or receiver of such weapon is destroyed as described in the definition “frame or receiver”.
 
 *Firearm muffler or firearm silencer.* Any device for silencing, muffling, or diminishing the report of a portable firearm, including any combination of parts, designed or redesigned, and intended for use in assembling or fabricating a firearm silencer or firearm muffler, and any part intended only for use in such assembly or fabrication.
+
+*Frame or receiver.* The term “frame or receiver” shall have the same meaning as in § 478.12.
 
 *Friendly foreign government.* Any government with whom the United States has diplomatic relations and whom the United States has not identified as a State sponsor of terrorism.
 
@@ -127,6 +129,8 @@ When used in this part and in forms prescribed under this part, where not otherw
 *Importation.* The bringing of a firearm or ammunition into the United States; except that the bringing of a firearm or ammunition from outside the United States into a foreign-trade zone for storage pending shipment to a foreign country or subsequent importation into this country, pursuant to this part, shall not be deemed importation.
 
 *Importer.* Any person engaged in the business of importing or bringing firearms or ammunition into the United States. The term shall include any person who engages in such business on a part-time basis.
+
+*Importer's or manufacturer's serial number.* The serial number placed by a licensee on a firearm, including any full or abbreviated license number, any such identification on a privately made firearm, or a serial number issued by the Director. For purposes of 18 U.S.C. 922(k) and § 478.34, the term shall include any associated licensee name, or licensee city or State placed on a frame or receiver.
 
 *Indictment.* Includes an indictment or information in any court, under which a crime punishable by imprisonment for a term exceeding 1 year (as defined in this section) may be prosecuted, or in military cases to any offense punishable by imprisonment for a term exceeding 1 year which has been referred to a general court-martial. An information is a formal accusation of a crime, differing from an indictment in that it is made by a prosecuting attorney and not a grand jury.
 
@@ -202,7 +206,27 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 (3) To affect the conduct of a government by assassination or kidnapping.
 
+*Privately made firearm (PMF).* A firearm, including a frame or receiver, completed, assembled, or otherwise produced by a person other than a licensed manufacturer, and without a serial number placed by a licensed manufacturer at the time the firearm was produced. The term shall not include a firearm identified and registered in the National Firearms Registration and Transfer Record pursuant to chapter 53, title 26, United States Code, or any firearm manufactured or made before October 22, 1968 (unless remanufactured or remade after that date).
+
 *Published ordinance.* A published law of any political subdivision of a State which the Director determines to be relevant to the enforcement of this part and which is contained on a list compiled by the Director, which list is incorporated by reference in the Federal Register, revised annually, and furnished to licensees under this part.
+
+*Readily.* A process, action, or physical state that is fairly or reasonably efficient, quick, and easy, but not necessarily the most efficient, speediest, or easiest process, action, or physical state. With respect to the classification of firearms, factors relevant in making this determination include the following:
+
+(1) Time, *i.e.,* how long it takes to finish the process;
+
+(2) Ease, *i.e.,* how difficult it is to do so;
+
+(3) Expertise, *i.e.,* what knowledge and skills are required;
+
+(4) Equipment, *i.e.,* what tools are required;
+
+(5) Parts availability, *i.e.,* whether additional parts are required, and how easily they can be obtained;
+
+(6) Expense, *i.e.,* how much it costs;
+
+(7) Scope, *i.e.,* the extent to which the subject of the process must be changed to finish it; and
+
+(8) Feasibility, *i.e.,* whether the process would damage or destroy the subject of the process, or cause it to malfunction.
 
 *Renounced U.S. citizenship.* (a) A person has renounced his U.S. citizenship if the person, having been a citizen of the United States, has renounced citizenship either -
 

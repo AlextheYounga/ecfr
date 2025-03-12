@@ -1,12 +1,14 @@
 ##### § 192.712 Analysis of predicted failure pressure. #####
 
+Link to an amendment published at 87 FR 52270, Aug. 24, 2022.
+
 (a) *Applicability.* Whenever required by this part, operators of onshore steel transmission pipelines must analyze anomalies or defects to determine the predicted failure pressure at the location of the anomaly or defect, and the remaining life of the pipeline segment at the location of the anomaly or defect, in accordance with this section.
 
 (b) *Corrosion metal loss.* When analyzing corrosion metal loss under this section, an operator must use a suitable remaining strength calculation method including, ASME/ANSI B31G (incorporated by reference, *see* § 192.7); R-STRENG (incorporated by reference, *see* § 192.7); or an alternative equivalent method of remaining strength calculation that will provide an equally conservative result.
 
 (c) [Reserved]
 
-(d) *Cracks and crack-like defects* - (1) *Crack analysis models.* When analyzing cracks and crack-like defects under this section, an operator must determine predicted failure pressure, failure stress pressure, and crack growth using a technically proven fracture mechanics model appropriate to the failure mode (ductile, brittle or both), material properties (pipe and weld properties), and boundary condition used (pressure test, ILI, or other).
+(d) *Cracks and crack-like defects*—(1) *Crack analysis models.* When analyzing cracks and crack-like defects under this section, an operator must determine predicted failure pressure, failure stress pressure, and crack growth using a technically proven fracture mechanics model appropriate to the failure mode (ductile, brittle or both), material properties (pipe and weld properties), and boundary condition used (pressure test, ILI, or other).
 
 (2) *Analysis for crack growth and remaining life.* If the pipeline segment is susceptible to cyclic fatigue or other loading conditions that could lead to fatigue crack growth, fatigue analysis must be performed using an applicable fatigue crack growth law (for example, Paris Law) or other technically appropriate engineering methodology. For other degradation processes that can cause crack growth, appropriate engineering analysis must be used. The above methodologies must be validated by a subject matter expert to determine conservative predictions of flaw growth and remaining life at the maximum allowable operating pressure. The operator must calculate the remaining life of the pipeline by determining the amount of time required for the crack to grow to a size that would fail at maximum allowable operating pressure.
 

@@ -1,10 +1,8 @@
 ##### § 4001.2 Definitions. #####
 
-Link to an amendment published at 87 FR 43994, July 25, 2022.
-
 For purposes of this chapter (unless otherwise indicated or required by the context):
 
-*Affected party* means, with respect to a plan -
+*Affected party* means, with respect to a plan—
 
 (1) Each participant in the plan;
 
@@ -44,7 +42,7 @@ If an affected party has designated, in writing, a person to receive a notice on
 
 *Defined benefit plan* means a plan described in section 3(35) of ERISA.
 
-*Disclosure officer* means the official designated as disclosure officer in the Office of the General Counsel, PBGC.
+*Disclosure Officer* means the official designated as Disclosure Officer in the Office of the General Counsel, PBGC.
 
 *Distress termination* means the voluntary termination of a single-employer plan in accordance with section 4041(c) of ERISA and part 4041, subpart C, of this chapter.
 
@@ -78,7 +76,7 @@ If an affected party has designated, in writing, a person to receive a notice on
 
 *IRS* means the Internal Revenue Service.
 
-*Majority owner* means, with respect to a contributing sponsor of a single-employer plan, an individual who owns, directly or indirectly (taking into account the constructive ownership rules of section 414(b) and (c) of the Code) -
+*Majority owner* means, with respect to a contributing sponsor of a single-employer plan, an individual who owns, directly or indirectly (taking into account the constructive ownership rules of section 414(b) and (c) of the Code)—
 
 (1) The entire interest in an unincorporated trade or business;
 
@@ -152,4 +150,4 @@ If an affected party has designated, in writing, a person to receive a notice on
 
 *Voluntary employee contributions* means amounts contributed by an employee to a plan, pursuant to the provisions of the plan, that are not mandatory employee contributions.
 
-[61 FR 34010, July 1, 1996, as amended at 61 FR 63989, Dec. 2, 1996; 62 FR 35342, July 1, 1997; 62 FR 60428, Nov. 7, 1997; 62 FR 67728, Dec. 30, 1997; 73 FR 79635, Dec. 30, 2008; 74 FR 11029, Mar. 16, 2009; 74 FR 27081, June 8, 2009; 74 FR 59095, Nov. 17, 2009; 76 FR 34601, June 14, 2011; 79 FR 70094, Nov. 25, 2014; 80 FR 55002, Sept. 11, 2015; 82 FR 60817, Dec. 22, 2017; 83 FR 49803, Oct. 3, 2018; 85 FR 6058, Feb. 4, 2020; 86 FR 1270, Jan. 8, 2021]
+[61 FR 34010, July 1, 1996]Editorial Note:For Federal Register citations affecting § 4001.2, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

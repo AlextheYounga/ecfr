@@ -1,5 +1,7 @@
 ##### § 50.26 Swap clearing requirement compliance dates. #####
 
+Link to an amendment published at 87 FR 52217, Aug. 24, 2022.Link to an amendment published at 87 FR 52218, Aug. 24, 2022.
+
 (a) *Compliance dates for interest rate swap classes.* The compliance dates for swaps that are required to be cleared under § 50.4(a) are specified in the following table.
 
 Table 1 to Paragraph (a)

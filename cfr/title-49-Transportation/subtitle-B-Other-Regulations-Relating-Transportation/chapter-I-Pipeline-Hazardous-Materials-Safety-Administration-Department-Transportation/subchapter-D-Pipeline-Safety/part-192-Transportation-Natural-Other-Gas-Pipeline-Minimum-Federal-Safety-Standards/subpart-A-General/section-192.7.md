@@ -1,5 +1,7 @@
 ##### § 192.7 What documents are incorporated by reference partly or wholly in this part? #####
 
+Link to an amendment published at 87 FR 52267, Aug. 24, 2022.
+
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. The materials listed in this section have the full force of law. All approved material is available for inspection at Office of Pipeline Safety, Pipeline and Hazardous Materials Safety Administration, 1200 New Jersey Avenue SE, Washington, DC 20590, 202-366-4046 *https://www.phmsa.dot.gov/pipeline/regs,* and is available from the sources listed in the remaining paragraphs of this section. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fedreg.legal@nara.gov* or go to *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (b) American Petroleum Institute (API), 200 Massachusetts Ave. NW, Suite 1100, Washington, DC 20001, and phone: 202-682-8000, website: *https://www.api.org/.*

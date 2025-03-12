@@ -1,0 +1,7 @@
+##### § 4901.5 Disclosure of other information. #####
+
+(a) *In general.* Upon the request of any person submitted in accordance with subpart B of this part, the Disclosure Officer will make any document (or portion thereof) from the records of PBGC in the custody of any official of PBGC available for inspection unless PBGC reasonably foresees that disclosure would harm an interest protected by an exemption under the provisions of section 552(b) of FOIA and subpart C of this part or disclosure is otherwise prohibited by law. The procedures in subpart B of this part must be used for records that are not made available in PBGC's electronic reading room under § 4901.4 and may be used for records that are available in the electronic reading room. Records are not records of PBGC and are not required to be furnished under FOIA, if they could only be produced by manipulation of existing information (such as computer analyses of existing data), thus creating information not previously in existence.
+
+(b) *Discretionary disclosure.* Unless prohibited from disclosure by § 4901.21(a), the Disclosure Officer may make any document (or portion thereof) from the records of PBGC available for inspection if the Disclosure Officer determines that disclosure furthers the public interest and does not impede the discharge of any of the functions of PBGC.
+
+[87 FR 43995, July 25, 2022]

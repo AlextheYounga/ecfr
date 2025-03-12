@@ -1,5 +1,7 @@
 ##### § 192.485 Remedial measures: Transmission lines. #####
 
+Link to an amendment published at 87 FR 52270, Aug. 24, 2022.
+
 (a) *General corrosion.* Each segment of transmission line with general corrosion and with a remaining wall thickness less than that required for the MAOP of the pipeline must be replaced or the operating pressure reduced commensurate with the strength of the pipe based on actual remaining wall thickness. However, corroded pipe may be repaired by a method that reliable engineering tests and analyses show can permanently restore the serviceability of the pipe. Corrosion pitting so closely grouped as to affect the overall strength of the pipe is considered general corrosion for the purpose of this paragraph.
 
 (b) *Localized corrosion pitting.* Each segment of transmission line pipe with localized corrosion pitting to a degree where leakage might result must be replaced or repaired, or the operating pressure must be reduced commensurate with the strength of the pipe, based on the actual remaining wall thickness in the pits.

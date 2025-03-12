@@ -1,7 +1,5 @@
 ##### § 479.11 Meaning of terms. #####
 
-Link to an amendment published at 87 FR 24747, Apr. 26, 2022.Link to a correction published at 87 FR 51250, Aug. 22, 2022.
-
 When used in this part and in forms prescribed under this part, where not otherwise distinctly expressed or manifestly incompatible with the intent thereof, terms shall have the meanings ascribed in this section. Words in the plural form shall include the singular, and vice versa, and words importing the masculine gender shall include the feminine. The terms “includes” and “including” do not exclude other things not enumerated which are in the same general class or are otherwise within the scope thereof.
 
 *Antique firearm.* Any firearm not designed or redesigned for using rim fire or conventional center fire ignition with fixed ammunition and manufactured in or before 1898 (including any matchlock, flintlock, percussion cap, or similar type of ignition system or replica thereof, whether actually manufactured before or after the year 1898) and also any firearm using fixed ammunition manufactured in or before 1898, for which ammunition is no longer manufactured in the United States and is not readily available in the ordinary channels of commercial trade.
@@ -9,6 +7,10 @@ When used in this part and in forms prescribed under this part, where not otherw
 *Any other weapon.* Any weapon or device capable of being concealed on the person from which a shot can be discharged through the energy of an explosive, a pistol or revolver having a barrel with a smooth bore designed or redesigned to fire a fixed shotgun shell, weapons with combination shotgun and rifle barrels 12 inches or more, less than 18 inches in length, from which only a single discharge can be made from either barrel without manual reloading, and shall include any such weapon which may be readily restored to fire. Such term shall not include a pistol or a revolver having a rifled bore, or rifled bores, or weapons designed, made, or intended to be fired from the shoulder and not capable of firing fixed ammunition.
 
 *ATF officer.* An officer or employee of the Bureau of Alcohol, Tobacco, Firearms, and Explosives (ATF) authorized to perform any function relating to the administration or enforcement of this part.
+
+*Complete muffler or silencer device.* A muffler or silencer that contains all component parts necessary to function, whether or not assembled or operable.
+
+*Complete weapon.* A firearm other than a muffler or silencer that contains all component parts necessary to function, whether or not assembled or operable.
 
 *Customs officer.* Any officer of U.S. Customs and Border Protection, any commissioned, warrant, or petty officer of the Coast Guard, or any agent or other person authorized by law to perform the duties of a customs officer.
 
@@ -36,7 +38,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Fixed ammunition.* That self-contained unit consisting of the case, primer, propellant charge, and projectile or projectiles.
 
-*Frame or receiver.* That part of a firearm which provides housing for the hammer, bolt or breechblock and firing mechanism, and which is usually threaded at its forward portion to receive the barrel.
+*Frame or receiver.* The term “frame or receiver” shall have the same meaning as in § 478.12 of this subchapter.
 
 *Importation.* The bringing of a firearm within the limits of the United States or any territory under its control or jurisdiction, from a place outside thereof (whether such place be a foreign country or territory subject to the jurisdiction of the United States), with intent to unlade. Except that, bringing a firearm from a foreign country or a territory subject to the jurisdiction of the United States into a foreign trade zone for storage pending shipment to a foreign country or subsequent importation into this country, under Title 26 of the United States Code, and this part, shall not be deemed importation.
 
@@ -56,6 +58,26 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Pistol.* A weapon originally designed, made, and intended to fire a projectile (bullet) from one or more barrels when held in one hand, and having (a) a chamber(s) as an integral part(s) of, or permanently aligned with, the bore(s); and (b) a short stock designed to be gripped by one hand and at an angle to and extending below the line of the bore(s).
 
+*Privately made firearm (PMF).* The term “privately made firearm (PMF)” shall have the same meaning as in § 478.11 of this subchapter.
+
+*Readily.* A process, action, or physical state that is fairly or reasonably efficient, quick, and easy, but not necessarily the most efficient, speediest, or easiest process, action, or physical state. With respect to the classification of firearms, factors relevant in making this determination include the following:
+
+(1) Time, *i.e.,* how long it takes to finish the process;
+
+(2) Ease, *i.e.,* how difficult it is to do so;
+
+(3) Expertise, *i.e.,* what knowledge and skills are required;
+
+(4) Equipment, *i.e.,* what tools are required;
+
+(5) Parts availability, *i.e.,* whether additional parts are required, and how easily they can be obtained;
+
+(6) Expense, *i.e.,* how much it costs;
+
+(7) Scope, *i.e.,* the extent to which the subject of the process must be changed to finish it; and
+
+(8) Feasibility, *i.e.,* whether the process would damage or destroy the subject of the process, or cause it to malfunction.
+
 *Responsible person.* In the case of an unlicensed entity, including any trust, partnership, association, company (including any Limited Liability Company (LLC)), or corporation, any individual who possesses, directly or indirectly, the power or authority to direct the management and policies of the trust or entity to receive, possess, ship, transport, deliver, transfer, or otherwise dispose of a firearm for, or on behalf of, the trust or legal entity. In the case of a trust, those persons with the power or authority to direct the management and policies of the trust include any person who has the capability to exercise such power and possesses, directly or indirectly, the power or authority under any trust instrument, or under State law, to receive, possess, ship, transport, deliver, transfer, or otherwise dispose of a firearm for, or on behalf of, the trust. Examples of who may be considered a responsible person include settlors/grantors, trustees, partners, members, officers, directors, board members, or owners. An example of who may be excluded from this definition of responsible person is the beneficiary of a trust, if the beneficiary does not have the capability to exercise the powers or authorities enumerated in this section.
 
 *Revolver.* A projectile weapon, of the pistol type, having a breechloading chambered cylinder so arranged that the cocking of the hammer or movement of the trigger rotates it and brings the next cartridge in line with the barrel for firing.
@@ -64,7 +86,7 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Shotgun.* A weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of the explosive in a fixed shotgun shell to fire through a smooth bore either a number of projectiles (ball shot) or a single projectile for each pull of the trigger, and shall include any such weapon which may be readily restored to fire a fixed shotgun shell.
 
-*Transfer.* This term and the various derivatives thereof shall include selling, assigning, pledging, leasing, loaning, giving away, or otherwise disposing of.
+*Transfer.* This term and the various derivatives thereof shall include selling, assigning, pledging, leasing, loaning, giving away, or otherwise disposing of. For purposes of this part, the term shall not include the temporary conveyance of a lawfully possessed firearm to a manufacturer or dealer qualified under this part for the sole purpose of repair, identification, evaluation, research, testing, or calibration and return to the same lawful possessor.
 
 *United States.* The States and the District of Columbia.
 
@@ -72,4 +94,4 @@ When used in this part and in forms prescribed under this part, where not otherw
 
 *Unserviceable firearm.* A firearm which is incapable of discharging a shot by means of an explosive and incapable of being readily restored to a firing condition.
 
-(26 U.S.C. 7805 (68A Stat. 917), 27 U.S.C. 205 (49 Stat. 981 as amended), 18 U.S.C. 926 (82 Stat. 959), and sec. 38, Arms Export Control Act (22 U.S.C. 2778, 90 Stat. 744))[T.D. ATF-48, 43 FR 13538, Mar. 31, 1978; 44 FR 55842, Sept. 28, 1979; T.D. ATF-241, 51 FR 39630, Oct. 29, 1986; T.D. ATF-270, 53 FR 10492, Mar. 31, 1988; T.D. ATF-396, 63 FR 12647, Mar. 16, 1998; ATF 2013R-9F, 79 FR 46692, Aug. 11, 2014; ATF-41F, 81 FR 2721, Jan. 15, 2016; ATF 2018R-22F, 83 FR 66554, Dec. 26, 2018]
+(26 U.S.C. 7805 (68A Stat. 917), 27 U.S.C. 205 (49 Stat. 981 as amended), 18 U.S.C. 926 (82 Stat. 959), and sec. 38, Arms Export Control Act (22 U.S.C. 2778, 90 Stat. 744))[T.D. ATF-48, 43 FR 13538, Mar. 31, 1978; 44 FR 55842, Sept. 28, 1979; T.D. ATF-241, 51 FR 39630, Oct. 29, 1986; T.D. ATF-270, 53 FR 10492, Mar. 31, 1988; T.D. ATF-396, 63 FR 12647, Mar. 16, 1998; ATF 2013R-9F, 79 FR 46692, Aug. 11, 2014; ATF-41F, 81 FR 2721, Jan. 15, 2016; ATF 2018R-22F, 83 FR 66554, Dec. 26, 2018; ATF-2021R-05F, 87 FR 24747, Apr. 26, 2022; 87 FR 51250, Aug. 22, 2022]

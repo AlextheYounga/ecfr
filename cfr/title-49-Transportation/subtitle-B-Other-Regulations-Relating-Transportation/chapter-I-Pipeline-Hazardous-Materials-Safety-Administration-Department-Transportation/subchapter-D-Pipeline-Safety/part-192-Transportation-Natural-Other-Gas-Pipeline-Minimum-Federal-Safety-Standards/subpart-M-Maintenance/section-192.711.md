@@ -1,5 +1,7 @@
 ##### § 192.711 Transmission lines: General requirements for repair procedures. #####
 
+Link to an amendment published at 87 FR 52270, Aug. 24, 2022.
+
 (a) *Temporary repairs.* Each operator must take immediate temporary measures to protect the public whenever:
 
 (1) A leak, imperfection, or damage that impairs its serviceability is found in a segment of steel transmission line operating at or above 40 percent of the SMYS; and

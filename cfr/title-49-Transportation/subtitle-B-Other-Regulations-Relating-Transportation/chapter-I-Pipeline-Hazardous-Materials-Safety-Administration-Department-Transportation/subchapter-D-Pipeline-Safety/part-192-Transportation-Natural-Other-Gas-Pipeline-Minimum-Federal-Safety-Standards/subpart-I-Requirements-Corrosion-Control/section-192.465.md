@@ -1,5 +1,7 @@
 ##### § 192.465 External corrosion control: Monitoring. #####
 
+Link to an amendment published at 87 FR 52269, Aug. 24, 2022.
+
 (a) Each pipeline that is under cathodic protection must be tested at least once each calendar year, but with intervals not exceeding 15 months, to determine whether the cathodic protection meets the requirements of § 192.463. However, if tests at those intervals are impractical for separately protected short sections of mains or transmission lines, not in excess of 100 feet (30 meters), or separately protected service lines, these pipelines may be surveyed on a sampling basis. At least 10 percent of these protected structures, distributed over the entire system must be surveyed each calendar year, with a different 10 percent checked each subsequent year, so that the entire system is tested in each 10-year period.
 
 (b) Cathodic protection rectifiers and impressed current power sources must be periodically inspected as follows:

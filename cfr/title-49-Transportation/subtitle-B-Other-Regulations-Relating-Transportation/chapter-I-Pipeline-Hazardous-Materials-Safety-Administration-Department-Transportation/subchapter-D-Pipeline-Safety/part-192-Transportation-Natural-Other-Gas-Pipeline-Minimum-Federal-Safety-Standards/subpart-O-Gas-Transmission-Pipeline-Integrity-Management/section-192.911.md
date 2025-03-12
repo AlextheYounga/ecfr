@@ -1,5 +1,7 @@
 ##### § 192.911 What are the elements of an integrity management program? #####
 
+Link to an amendment published at 87 FR 52273, Aug. 24, 2022.
+
 An operator's initial integrity management program begins with a framework (*see* § 192.907) and evolves into a more detailed and comprehensive integrity management program, as information is gained and incorporated into the program. An operator must make continual improvements to its program. The initial program framework and subsequent program must, at minimum, contain the following elements. (When indicated, refer to ASME/ANSI B31.8S (incorporated by reference, *see* § 192.7) for more detailed information on the listed element.)
 
 (a) An identification of all high consequence areas, in accordance with § 192.905.
@@ -26,13 +28,13 @@ An operator's initial integrity management program begins with a framework (*see
 
 (l) A quality assurance process as outlined in ASME/ANSI B31.8S, section 12.
 
-(m) A communication plan that includes the elements of ASME/ANSI B31.8S, section 10, and that includes procedures for addressing safety concerns raised by -
+(m) A communication plan that includes the elements of ASME/ANSI B31.8S, section 10, and that includes procedures for addressing safety concerns raised by—
 
 (1) OPS; and
 
 (2) A State or local pipeline safety authority when a covered segment is located in a State where OPS has an interstate agent agreement.
 
-(n) Procedures for providing (when requested), by electronic or other means, a copy of the operator's risk analysis or integrity management program to -
+(n) Procedures for providing (when requested), by electronic or other means, a copy of the operator's risk analysis or integrity management program to—
 
 (1) OPS; and
 

@@ -1,0 +1,5 @@
+##### § 4901.16 Extensions of time. #####
+
+In unusual circumstances (as described in section 552(a)(6)(B) of FOIA), the time to respond to a disclosure request under § 4901.14(a) or an appeal under § 4901.15(b) may be extended as reasonably necessary to process the request or appeal. The Disclosure Officer will notify the requester in writing within the original time period of the unusual circumstances and the date when a response is expected to be sent. When the extension for a disclosure request exceeds 10 working days, the notice will provide the requester with an opportunity to modify the disclosure request or arrange an alternative time period for processing the original or modified request. This notice will also alert the requester of the availability of a PBGC FOIA Public Liaison for assistance and the Office of Government Information Services for dispute resolution services. The maximum extension for responding to an appeal is 10 working days minus the amount of any extension on the request to which the appeal relates.
+
+[87 FR 43996, July 25, 2022]

@@ -1,8 +1,6 @@
 ##### § 478.47 Issuance of license. #####
 
-Link to an amendment published at 87 FR 24741, Apr. 26, 2022.
-
-(a) Upon receipt of a properly executed application for a license on ATF Form 7, ATF Form 7CR, or ATF Form 8 Part II, the Chief, Federal Firearms Licensing Center, shall, upon finding through further inquiry or investigation, or otherwise, that the applicant is qualified, issue the appropriate license. Each license shall bear a serial number and such number may be assigned to the licensee to whom issued for so long as the licensee maintains continuity of renewal in the same location (State).
+(a) Upon receipt of a properly executed application for a license on ATF Form 7, ATF Form 7CR, or ATF Form 8 Part II, the Chief, Federal Firearms Licensing Center, shall, upon finding through further inquiry or investigation, or otherwise, that the applicant is qualified, issue the appropriate license. Each license shall bear a unique license number and such number may be assigned to the licensee to whom issued for so long as the licensee maintains continuity of renewal in the same location (State).
 
 (b) The Chief, Federal Firearms Licensing Center, shall approve a properly executed application for license on ATF Form 7, ATF Form 7CR, or ATF Form 8 Part II, if:
 
@@ -20,4 +18,4 @@ Link to an amendment published at 87 FR 24741, Apr. 26, 2022.
 
 (d) When the Director of Industry Operations or the Chief, Federal Firearms Licensing Center fails to act on an application for a license within the 60-day period prescribed by paragraph (c) of this section, the applicant may file an action under section 1361 of title 28, United States Code, to compel ATF to act upon the application.
 
-(18 U.S.C. 847 (84 Stat. 959); 18 U.S.C. 926 (82 Stat. 1226))[33 FR 18555, Dec. 14, 1968. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-135, 48 FR 24068, May 31, 1983; T.D. ATF-241, 51 FR 39619, Oct. 29, 1986; T.D. ATF-270, 53 FR 10495, Mar. 31, 1988; T.D. ATF-290, 54 FR 53054, Dec. 27, 1989; T.D. ATF-363, 60 FR 17453, Apr. 6, 1995; ATF-11F, 73 FR 57241, Oct. 2, 2008]
+(18 U.S.C. 847 (84 Stat. 959); 18 U.S.C. 926 (82 Stat. 1226))[33 FR 18555, Dec. 14, 1968. Redesignated at 40 FR 16835, Apr. 15, 1975, and amended by T.D. ATF-135, 48 FR 24068, May 31, 1983; T.D. ATF-241, 51 FR 39619, Oct. 29, 1986; T.D. ATF-270, 53 FR 10495, Mar. 31, 1988; T.D. ATF-290, 54 FR 53054, Dec. 27, 1989; T.D. ATF-363, 60 FR 17453, Apr. 6, 1995; ATF-11F, 73 FR 57241, Oct. 2, 2008; ATF-2021R-05F; 87 FR 24741, Apr. 26, 2022]

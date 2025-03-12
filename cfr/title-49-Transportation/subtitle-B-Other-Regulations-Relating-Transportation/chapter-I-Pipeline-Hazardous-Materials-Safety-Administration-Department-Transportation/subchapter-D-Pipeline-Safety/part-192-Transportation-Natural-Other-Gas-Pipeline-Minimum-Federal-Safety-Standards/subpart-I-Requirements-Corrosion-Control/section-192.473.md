@@ -1,5 +1,7 @@
 ##### § 192.473 External corrosion control: Interference currents. #####
 
+Link to an amendment published at 87 FR 52269, Aug. 24, 2022.
+
 (a) Each operator whose pipeline system is subjected to stray currents shall have in effect a continuing program to minimize the detrimental effects of such currents.
 
 (b) Each impressed current type cathodic protection system or galvanic anode system must be designed and installed so as to minimize any adverse effects on existing adjacent underground metallic structures.
