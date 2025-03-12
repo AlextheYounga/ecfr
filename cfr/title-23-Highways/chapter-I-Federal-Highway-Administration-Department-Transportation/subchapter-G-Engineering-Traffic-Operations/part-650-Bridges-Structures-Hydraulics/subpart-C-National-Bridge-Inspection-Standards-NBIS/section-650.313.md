@@ -36,13 +36,13 @@
 
 (g) *NSTM, underwater, in-depth, and complex feature inspection procedures.* Develop and document inspection procedures for bridges which require NSTM, underwater, in-depth, and complex feature inspections in accordance with Section 4.2, AASHTO Manual (incorporated by reference, *see* § 650.317). State transportation departments, Federal agencies, and Tribal governments can include general procedures applicable to many bridges in their procedures manual. Specific procedures for unique and complex structural features must be developed for each bridge and contained in the bridge file.
 
-(h) *Special inspection.* For special inspections used to monitor conditions as described in paragraphs (a)(1)(ii) and (b)(1)(ii) of this section, develop and document procedures in accordance with Section 4.2, AASHTO Manual (incorporated by reference, *see* § 650.317).
+(h) *Special inspection.* For special inspections used to monitor conditions as described in § 650.311(a)(1)(ii) and (b)(1)(ii), develop and document procedures in accordance with Section 4.2, AASHTO Manual (incorporated by reference, *see* § 650.317).
 
 (i) *Service inspection.* Perform a service inspection when the routine inspection interval is greater than 48 months. Document the inspection date and any required follow up actions in the bridge file.
 
 (j) *Team leader.* Provide at least one team leader at the bridge who meets the minimum qualifications stated in § 650.309 and actively participates in the inspection at all times during each initial, routine, in-depth, NSTM, underwater inspection, and special inspection described in paragraph (h) of this section.
 
-(k) *Load rating.* (1) Rate each bridge as to its safe load capacity in accordance with the incorporated articles in Sections 6 and 8, AASHTO Manual (incorporated by reference, *see* § 650.317).
+(k) *Load rating.* (1) Rate each bridge as to its safe load capacity in accordance with Sections 6 and 8, excluding the 3rd paragraph in Article 6B.7.1, AASHTO Manual (incorporated by reference, *see* § 650.317).
 
 (2) Develop and document procedures for completion of new and updated bridge load ratings. Load ratings must be completed as soon as practical, but no later than 3 months after the initial inspection and when a change is identified that warrants a re-rating such as, but not limited to, changes in condition, reconstruction, new construction, or changes in dead or live loads.
 
@@ -111,3 +111,5 @@
 (H) Date of completion if corrective actions are completed.
 
 (r) *Review of compliance.* Provide information annually or as required in cooperation with any FHWA review of compliance with this subpart.
+
+[87 FR 27429, May 6, 2022, as amended at 87 FR 57821, Sept. 22, 2022]

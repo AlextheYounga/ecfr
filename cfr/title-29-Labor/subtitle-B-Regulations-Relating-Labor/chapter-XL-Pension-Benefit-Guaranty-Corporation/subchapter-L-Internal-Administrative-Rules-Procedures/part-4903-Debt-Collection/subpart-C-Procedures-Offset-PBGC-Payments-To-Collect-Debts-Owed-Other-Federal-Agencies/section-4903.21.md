@@ -10,7 +10,7 @@
 
 (b) *Administrative offset (including salary offset); certification.* PBGC will initiate a requested offset only upon receipt of written certification from the creditor agency that the debtor owes the past-due, legally enforceable debt in the amount stated, and that the creditor agency has fully complied with all applicable due process and other requirements contained in 31 U.S.C. 3716, 5 U.S.C. 5514, and the creditor agency's regulations, as applicable. Offsets will continue until the debt is paid in full or otherwise resolved to the satisfaction of the creditor agency.
 
-(c) *Where a creditor agency makes requests for offset.* Requests for offset under this section must be sent to PBGC, ATTN: Chief Financial Officer, 1200 K Street, NW., Washington, DC 20005.
+(c) *Where a creditor agency makes requests for offset.* Requests for offset under this section must be sent to PBGC, ATTN: Chief Financial Officer, 445 12th Street SW, Washington, DC 20024-2101.
 
 (d) *Incomplete certification.* PBGC will return an incomplete debt certification to the creditor agency with notice that the creditor agency must comply with paragraph (b) of this section before action will be taken to collect a debt from a payment issued by PBGC.
 
@@ -21,3 +21,5 @@
 (g) *Multiple debts.* When two or more creditor agencies are seeking offsets from payments made to the same person, or when two or more debts are owed to a single creditor agency, PBGC may determine the order in which the debts will be collected or whether one or more debts should be collected by offset simultaneously.
 
 (h) *Priority of debts owed to PBGC.* For purposes of this section, debts owed to PBGC generally take precedence over debts owed to other agencies. PBGC may determine whether to pay debts owed to other agencies before paying a debt owed to PBGC. PBGC will determine the order in which the debts will be collected based on the best interests of the United States.
+
+[75 FR 68205, Nov. 5, 2010, as amended at 87 FR 57825, Sept. 22, 2022]

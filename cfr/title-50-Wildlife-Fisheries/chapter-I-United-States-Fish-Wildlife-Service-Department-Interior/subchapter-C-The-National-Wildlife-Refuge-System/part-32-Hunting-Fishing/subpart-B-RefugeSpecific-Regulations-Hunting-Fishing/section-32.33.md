@@ -1,5 +1,7 @@
 ##### § 32.33 Indiana. #####
 
+Link to an amendment published at 87 FR 57129, Sept. 16, 2022.Link to an amendment published at 87 FR 57838, Sept. 22, 2022.
+
 The following refuge units are open for hunting and/or fishing as governed by applicable Federal and State regulations, and are listed in alphabetical order with additional refuge-specific regulations.
 
 (a) *Big Oaks National Wildlife Refuge.* (1) [Reserved]
@@ -40,7 +42,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (v) We prohibit retaining black bass, largemouth bass, smallmouth bass, and spotted bass between 12 and 15 inches (30 and 37.5 centimeters).
 
-(b) *Muscatatuck National Wildlife Refuge* - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, merganser, woodcock, and dove on designated areas of the refuge subject to the following conditions:
+(b) *Muscatatuck National Wildlife Refuge*—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, coot, merganser, woodcock, and dove on designated areas of the refuge subject to the following conditions:
 
 (i) You must remove all boats, decoys, blinds, blind materials, stands, and platforms brought onto the refuge at the end of each day's hunt (see § 27.93 of this chapter).
 
@@ -94,7 +96,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) We allow only youth age 15 and younger to fish in the Discovery Pond.
 
-(c) Patoka River National Wildlife Refuge and Management Area - (1) *Migratory game bird hunting.* We allow hunting of duck, goose, merganser, coot, woodcock, dove, snipe, rail, and crow on designated areas of the refuge and the White River Wildlife Management Area subject to the following conditions:
+(c) Patoka River National Wildlife Refuge and Management Area—(1) *Migratory game bird hunting.* We allow hunting of duck, goose, merganser, coot, woodcock, dove, snipe, rail, and crow on designated areas of the refuge and the White River Wildlife Management Area subject to the following conditions:
 
 (i) You must remove all boats, decoys, blinds, and blind materials after each day's hunt (see §§ 27.93 and 27.94 of this chapter).
 
@@ -130,7 +132,7 @@ The following refuge units are open for hunting and/or fishing as governed by ap
 
 (vi) The condition set forth at paragraph (c)(1)(iii) of this section applies.
 
-[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54110, Aug. 31, 2020; 87 FR 57129, Sept. 16, 2022]Effective Date Note:At 87 FR 57129, Sept. 16, 2022, § 32.33 was further amended by revising paragraph (c)(1)(iii), effective Sept. 1, 2026. For the convenience of the user, the revised text is set forth as follows:
+[84 FR 47675, Sept. 10, 2019, as amended at 85 FR 54110, Aug. 31, 2020; 87 FR 57129, Sept. 16, 2022]Effective Date Note:At 87 FR 57129, Sept. 16, 2022, § 32.33 was further amended by adding paragraph (c)(1)(iii), effective Sept. 1, 2026. For the convenience of the user, the revised text is set forth as follows:
 
 ##### § 32.33 Indiana. #####
 

@@ -12,10 +12,10 @@
 
 (2) The applicant and anyone other than a spouse, parent, son, or daughter of the applicant who assists the applicant in preparing the application must sign the application under penalty of perjury. The applicant's signature establishes a presumption that the applicant is aware of the contents of the application. A person other than a relative specified in this paragraph who assists the applicant in preparing the application also must provide his or her full mailing address;
 
-(3) An asylum application under paragraph (a)(1) of this section must be properly filed in accordance with 8 CFR part 103 and the filing instructions. Receipt of a properly filed asylum application under paragraph (a) of this section will commence the period after which the applicant may file an application for employment authorization in accordance with § 208.7 and 8 CFR 274a.12 and 274a.13.
+(3) An asylum application that does not include a response to each of the questions contained in the Form I-589, is unsigned, or is unaccompanied by the required materials specified in paragraph (a)(1) of this section is incomplete. The filing of an incomplete application shall not commence the 150-day period after which the applicant may file an application for employment authorization in accordance with § 208.7. An application that is incomplete shall be returned by mail to the applicant within 30 days of the receipt of the application by the Service. If the Service has not mailed the incomplete application back to the applicant within 30 days, it shall be deemed complete. An application returned to the applicant as incomplete shall be resubmitted by the applicant with the additional information if he or she wishes to have the application considered;
 
 (4) Knowing placement of false information on the application may subject the person placing that information on the application to criminal penalties under title 18 of the United States Code and to civil or criminal penalties under section 274C of the Act; and
 
 (5) Knowingly filing a frivolous application on or after April 1, 1997, so long as the applicant has received the notice required by section 208(d)(4) of the Act, shall render the applicant permanently ineligible for any benefits under the Act pursuant to § 208.20.
 
-[62 FR 10337, Mar. 6, 1997, as amended at 65 FR 76131, Dec. 6, 2000; 85 FR 38626, June 26, 2020; 87 FR 18216, Mar. 29, 2022]
+[62 FR 10337, Mar. 6, 1997, as amended at 65 FR 76131, Dec. 6, 2000; 85 FR 38626, June 26, 2020; 87 FR 18216, Mar. 29, 2022; 87 FR 57797, Sept. 22, 2022]

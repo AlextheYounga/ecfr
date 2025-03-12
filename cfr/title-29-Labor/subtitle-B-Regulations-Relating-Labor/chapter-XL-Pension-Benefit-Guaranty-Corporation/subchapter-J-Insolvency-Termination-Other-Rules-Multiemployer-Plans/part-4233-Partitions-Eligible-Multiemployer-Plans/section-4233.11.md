@@ -38,14 +38,16 @@
 
 (7) *Contact information for plan sponsor.* The name, address, and telephone number of the plan sponsor or other person designated by the plan sponsor to answer inquiries concerning the application for partition.
 
-(8) *Contact information for PBGC.* Multiemployer Program Division, PBGC, 1200 K Street, NW., Washington, DC 20005-4026, *Multiemployerprogram@pbgc.gov.*
+(8) *Contact information for PBGC.* Multiemployer Program Division, PBGC, 445 12th Street SW, Washington, DC 20024-2101, *Multiemployerprogram@pbgc.gov.*
 
-(9) *Contact information for Participant and Plan Sponsor Advocate.* PBGC Participant and Plan Sponsor Advocate, 1200 K Street NW., Washington, DC 20005-4026, *Advocate@pbgc.gov.*
+(9) *Contact information for Participant and Plan Sponsor Advocate.* PBGC Participant and Plan Sponsor Advocate, 445 12th Street SW, Washington, DC 20024-2101, *Advocate@pbgc.gov.*
 
-(d) *Model notice.* The appendix to this section contains two model notices - one for plan sponsors that submit coordinated applications for partition with PBGC and for benefit suspensions with Treasury, and one for plans sponsors who apply for partition only. The model notices are intended to assist plan sponsors in discharging their notice obligations under section 4233(a)(2) of ERISA and this part. Use of the model notices is not mandatory, but will be deemed to satisfy the requirements of section 4233(a)(2) of ERISA and this part.
+(d) *Model notice.* The appendix to this section contains two model notices—one for plan sponsors that submit coordinated applications for partition with PBGC and for benefit suspensions with Treasury, and one for plans sponsors who apply for partition only. The model notices are intended to assist plan sponsors in discharging their notice obligations under section 4233(a)(2) of ERISA and this part. Use of the model notices is not mandatory, but will be deemed to satisfy the requirements of section 4233(a)(2) of ERISA and this part.
 
-(e) *Foreign languages.* The plan sponsor of a plan that covers the numbers or percentages in § 2520.104b-10(e) of this title of participants literate only in the same non-English language must, for any notice to interested parties -
+(e) *Foreign languages.* The plan sponsor of a plan that covers the numbers or percentages in § 2520.104b-10(e) of this title of participants literate only in the same non-English language must, for any notice to interested parties—
 
 (1) Include a prominent legend in that common non-English language advising them how to obtain assistance in understanding the notice; or
 
 (2) Provide the notice in that common non-English language to those interested parties literate only in that language.
+
+[80 FR 35229, June 19, 2015, as amended at 87 FR 57825, Sept. 22, 2022]
