@@ -1,0 +1,3 @@
+##### § 190.0 Scope. #####
+
+This part sets forth general provisions applicable to all drawback claims and specialized provisions applicable to specific types of drawback claims filed under 19 U.S.C. 1313, as amended. For drawback claims and specialized provisions applicable to specific types of drawback claims filed pursuant to 19 U.S.C. 1313, as it was in effect on or before February 24, 2016, please see part 191 of this chapter. Additional drawback provisions relating to the North American Free Trade Agreement (NAFTA) are contained in subpart E of part 181 of this chapter.

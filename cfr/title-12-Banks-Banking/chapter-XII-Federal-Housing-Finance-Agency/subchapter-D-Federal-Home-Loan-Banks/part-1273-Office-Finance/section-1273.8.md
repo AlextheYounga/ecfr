@@ -1,7 +1,5 @@
 ##### § 1273.8 General duties of the OF board of directors. #####
 
-Link to an amendment published at 83 FR 52954, Oct. 19, 2018.
-
 (a) *General.* Each director shall have the duty to:
 
 (1) Carry out his or her duties as director in good faith, in a manner such director believes to be in the best interests of the OF and the Bank System, and with such care, including reasonable inquiry, as an ordinarily prudent person in a like position would use under similar circumstances;
@@ -22,7 +20,7 @@ Link to an amendment published at 83 FR 52954, Oct. 19, 2018.
 
 (3) Require all broker-dealers or underwriters under contract to the OF to have and maintain adequate suitability sales practices and policies, which shall be acceptable to, and subject to review by, the OF;
 
-(4) Require that COs shall be issued efficiently and at the lowest all-in funding costs over time, consistent with -
+(4) Require that COs shall be issued efficiently and at the lowest all-in funding costs over time, consistent with—
 
 (i) Prudent risk-management practices, prudential debt parameters, short and long-term market conditions, and the Banks' role as GSEs;
 
@@ -34,9 +32,9 @@ Link to an amendment published at 83 FR 52954, Oct. 19, 2018.
 
 (1) Set policies for management and operation of the OF;
 
-(2) Approve a strategic business plan for the OF in accordance with the provisions of § 1239.31 of this chapter, as appropriate;
+(2) Approve a strategic business plan for the OF in accordance with the provisions of § 1239.14 of this chapter, as appropriate;
 
-(3) Select, employ, determine the compensation for, and assign the duties and functions of a Chief Executive Officer of the OF who shall -
+(3) Select, employ, determine the compensation for, and assign the duties and functions of a Chief Executive Officer of the OF who shall—
 
 (i) Be head of the OF and direct the implementation of the OF board of directors' policies;
 
@@ -50,4 +48,4 @@ Link to an amendment published at 83 FR 52954, Oct. 19, 2018.
 
 (e) *No rights created.* Nothing in this part shall create or be deemed to create any rights in any third party.
 
-[75 FR 23161, May 3, 2010, as amended at 81 FR 76299, Nov. 2, 2016]
+[75 FR 23161, May 3, 2010, as amended at 81 FR 76299, Nov. 2, 2016; 83 FR 52954, Oct. 19, 2018]

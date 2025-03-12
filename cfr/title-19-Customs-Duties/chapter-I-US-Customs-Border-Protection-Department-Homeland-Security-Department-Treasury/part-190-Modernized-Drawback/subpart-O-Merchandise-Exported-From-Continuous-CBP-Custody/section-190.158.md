@@ -1,0 +1,3 @@
+##### § 190.158 Procedures. #####
+
+When the drawback claim has been completed and the bill of lading filed, the reports of inspection and lading made, and the clearance of the exporting conveyance established by the record of clearance in the case of direct exportation or by certificate in the case of transportation and exportation, the drawback office will verify the importation by referring to the import records to ascertain the amount of duty paid on the merchandise exported. To the extent appropriate and not inconsistent with the provisions of this subpart, drawback entries will be liquidated in accordance with the provisions of § 190.81.

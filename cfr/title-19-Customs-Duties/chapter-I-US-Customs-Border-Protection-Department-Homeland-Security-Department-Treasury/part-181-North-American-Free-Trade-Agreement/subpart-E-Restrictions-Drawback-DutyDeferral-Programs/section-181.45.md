@@ -28,16 +28,16 @@ Example.X imports a desk into the United States from England and pays $25.00 in 
 
 (vi) Testing, marking, labelling, sorting or grading.
 
-(2) *Commingling of fungible goods* - (i) *General* - (A) *Inventory of other than all non-originating goods.* Commingling of fungible originating and non-originating goods in inventory is permissable provided that the origin of the goods and the identification of entries for designation for same condition drawback are on the basis of an approved inventory method set forth in the appendix to this part.
+(2) *Commingling of fungible goods*—(i) *General*—(A) *Inventory of other than all non-originating goods.* Commingling of fungible originating and non-originating goods in inventory is permissable provided that the origin of the goods and the identification of entries for designation for same condition drawback are on the basis of an approved inventory method set forth in the appendix to this part.
 
-(B) *Inventory of the non-originating goods.* If all goods in a particular inventory are non-originating goods, identification of entries for designation for same condition drawback shall be on the basis of one of the accounting methods in § 191.14 of this chapter, as provided therein.
+(B) *Inventory of the non-originating goods.* If all goods in a particular inventory are non-originating goods, identification of entries for designation for same condition drawback shall be on the basis of one of the accounting methods in § 190.14 or § 191.14 of this chapter, as appropriate.
 
 (ii) *Exception.* Agricultural goods imported from Mexico may not be commingled with fungible agricultural goods in the United States for purposes of same condition drawback under this subpart.
 
-(c) *Goods not conforming to sample or specifications or shipped without consent of consignee under 19 U.S.C. 1313(c).* An imported good exported to Canada or Mexico by reason of failure of the good to conform to sample or specification or by reason of shipment of the good without the consent of the consignee is eligible for drawback under 19 U.S.C. 1313(c) without regard to the limitation on drawback set forth in § 181.44 of this part. Such a good must be returned to Customs custody for exportation under Customs supervision within three years after the release from Customs custody.
+(c) *Goods not conforming to sample or specifications or shipped without consent of consignee under 19 U.S.C. 1313(c).* An imported good exported to Canada or Mexico by reason of failure of the good to conform to sample or specification or by reason of shipment of the good without the consent of the consignee is eligible for drawback under 19 U.S.C. 1313(c) without regard to the limitation on drawback set forth in § 181.44 of this part. Such a good must be exported or destroyed within the statutory 5-year time period and in compliance with the requirements set forth in subpart D of part 190 of this chapter or within the 3-year time period and in compliance with the requirements set forth in subpart D of part 191 of this chapter, as applicable.
 
 Example.X orders, after seeing a sample in the ABC Company's catalog, a certain quantity of 2-by-4 lumber from ABC Company located in Honduras. ABC Company, having run out of the specific lumber, ships instead a different kind of lumber. X rejects the lumber because it did not conform to the sample and is asked to send it to a customer of ABC in Canada. X exports it within 90 days of its release from Customs custody. X may recover 99 percent of the $500 duties it paid to U.S. Customs upon the exportation of the lumber, or $495.00.
 
 (d) *Certain goods exported to Canada.* Goods identified in Annex 303.6 of the NAFTA and in sections 203(a) (7) and (8) of the North American Free Trade Agreement Implementation Act, if exported to Canada, are eligible for drawback without regard to the limitation on drawback set forth in § 181.44 of this part.
 
-[T.D. 95-68, 60 FR 46364, Sept. 6, 1995, as amended by T.D. 98-16, 63 FR 11005, Mar. 5, 1998]
+[T.D. 95-68, 60 FR 46364, Sept. 6, 1995, as amended by T.D. 98-16, 63 FR 11005, Mar. 5, 1998; USCBP-2018-0029, 83 FR 64996, Dec. 18, 2018]

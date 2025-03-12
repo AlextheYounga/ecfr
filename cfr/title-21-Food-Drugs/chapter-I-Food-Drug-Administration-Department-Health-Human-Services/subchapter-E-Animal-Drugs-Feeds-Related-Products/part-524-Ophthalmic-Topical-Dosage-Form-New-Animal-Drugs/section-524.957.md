@@ -1,6 +1,6 @@
 ##### § 524.957 Florfenicol, terbinafine, and mometasone otic solution. #####
 
-(a) *Specifications.* Each single-dose, prefilled dropperette contains 1 milliliter (mL) of a solution containing 15 milligrams (mg) florfenicol, 13.3 mg terbinafine, and 2 mg mometasone furoate.
+(a) *Specifications.* Each single-dose, prefilled dropperette contains 1 milliliter (mL) of a solution containing 16.6 milligrams (mg) florfenicol, 14.8 mg terbinafine (equivalent to 16.6 mg terbinafine hydrochloride), and 2.2 mg mometasone furoate.
 
 (b) *Sponsor.* See No. 000859 in § 510.600(c) of this chapter.
 
@@ -10,4 +10,4 @@
 
 (3) *Limitations.* Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[80 FR 76387, Dec. 9, 2015]
+[80 FR 76387, Dec. 9, 2015, as amended at 83 FR 64740, Dec. 18, 2018]

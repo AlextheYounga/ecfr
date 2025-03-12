@@ -1,0 +1,7 @@
+##### § 190.31 Direct identification unused merchandise drawback. #####
+
+(a) *General.* Section 313(j)(1) of the Act, as amended (19 U.S.C. 1313(j)(1)), provides for drawback upon the exportation or destruction under CBP supervision of imported merchandise upon which was paid any duty, tax, or fee imposed under Federal law upon entry or importation, if the merchandise has not been used within the United States before such exportation or destruction. The total amount of drawback allowable will not exceed 99 percent of the amount of duties, taxes, and fees paid with respect to the imported merchandise.
+
+(b) *Time of exportation or destruction.* Drawback will be allowable on imported merchandise if, before the close of the 5-year period beginning on the date of importation and before the drawback claim is filed, the merchandise is exported from the United States or destroyed under CBP supervision.
+
+(c) *Operations performed on imported merchandise.* The performing of any operation or combination of operations, not amounting to manufacture or production under the provisions of the manufacturing drawback law as provided for in 19 U.S.C. 1313(j)(3), on imported merchandise is not a use of that merchandise for purposes of this section.

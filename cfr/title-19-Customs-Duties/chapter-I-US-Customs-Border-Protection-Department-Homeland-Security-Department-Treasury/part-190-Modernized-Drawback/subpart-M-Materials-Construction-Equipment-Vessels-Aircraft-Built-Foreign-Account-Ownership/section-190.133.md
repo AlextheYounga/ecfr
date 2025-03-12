@@ -1,0 +1,7 @@
+##### § 190.133 Explanation of terms. #####
+
+(a) *Materials.* Section 313(g) of the Act, as amended (19 U.S.C. 1313(g)), applies only to materials used in the original construction and equipment of vessels and aircraft, or to materials used in a “major conversion,” as defined in this section, of a vessel or aircraft. Section 313(g) does not apply to materials used for alteration or repair, or to materials not required for safe operation of the vessel or aircraft.
+
+(b) *Foreign account and ownership.* Foreign account and ownership, as used in section 313(g) of the Act, as amended (19 U.S.C. 1313(g)), means only vessels or aircraft built or equipped for the account of an owner or owners residing in a foreign country and having a bona fide intention that the vessel or aircraft, when completed, will be owned and operated under the flag of a foreign country.
+
+(c) *Major conversion.* For purposes of this subpart, a “major conversion” means a conversion that substantially changes the dimensions or carrying capacity of the vessel or aircraft, changes the type of the vessel or aircraft, substantially prolongs the life of the vessel or aircraft, or otherwise so changes the vessel or aircraft that it is essentially a new vessel or aircraft, as determined by CBP (*see* 46 U.S.C. 2101(14a)).

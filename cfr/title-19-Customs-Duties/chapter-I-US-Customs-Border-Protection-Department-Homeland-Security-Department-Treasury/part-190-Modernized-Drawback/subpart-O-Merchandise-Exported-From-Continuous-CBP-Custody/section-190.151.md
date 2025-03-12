@@ -1,0 +1,7 @@
+##### § 190.151 Drawback allowance. #####
+
+(a) *Eligibility of entered or withdrawn merchandise*—(1) *Under 19 U.S.C. 1557*(*a).* Section 557(a) of the Act, as amended (19 U.S.C. 1557(a)), provides for drawback on the exportation to a foreign country, or the shipment to the Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Johnston Island, or Guam, of merchandise upon which duties have been paid which has remained continuously in bonded warehouse or otherwise in CBP custody for a period not to exceed 5 years from the date of importation.
+
+(2) *Under 19 U.S.C. 1313.* Imported merchandise that has not been regularly entered or withdrawn for consumption, will not satisfy any requirement for use, importation, exportation or destruction, and will not be available for drawback, under section 313 of the Act, as amended (19 U.S.C. 1313) (*see* 19 U.S.C. 1313(u)).
+
+(b) *Guantanamo Bay.* Guantanamo Bay Naval Station will be considered foreign territory for drawback purposes under this subpart and merchandise shipped there is eligible for drawback. Imported merchandise which has remained continuously in bonded warehouse or otherwise in CBP custody since importation is not entitled to drawback of duty when shipped to Puerto Rico, Canton Island, Enderbury Island, or Palmyra Island.

@@ -6,4 +6,6 @@
 
 (2) [Reserved]
 
-[66 FR 23589, May 9, 2001]
+(c) *Related conditions of use.* See §§ 558.363 and 558.364 of this chapter.
+
+[66 FR 23589, May 9, 2001, as amended at 83 FR 64741, Dec. 18, 2018]

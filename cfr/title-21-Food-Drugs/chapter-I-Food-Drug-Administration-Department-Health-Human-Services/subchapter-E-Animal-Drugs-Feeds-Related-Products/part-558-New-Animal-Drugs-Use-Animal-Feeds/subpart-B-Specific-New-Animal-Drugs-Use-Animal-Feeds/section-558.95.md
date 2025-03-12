@@ -121,12 +121,14 @@
 
 (vii) Monensin as in § 558.355.
 
-(viii) Narasin alone or with nicarbazin as in § 558.363.
+(viii) Narasin as in § 558.363.
 
-(ix) Nicarbazin as in § 558.366.
+(ix) Narasin and nicarbazin as in § 558.364.
 
-(x) Salinomycin as in § 558.550.
+(x) Nicarbazin as in § 558.366.
 
-(xi) Zoalene as in § 558.680.
+(xi) Salinomycin as in § 558.550.
+
+(xii) Zoalene as in § 558.680.
 
 [40 FR 13959, Mar. 27, 1975]Editorial Note:For Federal Register citations affecting § 558.95, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

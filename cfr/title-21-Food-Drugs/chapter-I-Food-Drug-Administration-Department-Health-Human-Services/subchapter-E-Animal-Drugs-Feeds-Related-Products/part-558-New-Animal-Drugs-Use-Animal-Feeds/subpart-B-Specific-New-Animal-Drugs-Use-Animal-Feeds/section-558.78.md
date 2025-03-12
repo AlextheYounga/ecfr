@@ -38,7 +38,7 @@
 
 (vi) Naracin as in § 558.363.
 
-(vii) [Reserved]
+(vii) Nicarbazin as in § 558.366.
 
 (viii) Robenidine as in § 558.515.
 

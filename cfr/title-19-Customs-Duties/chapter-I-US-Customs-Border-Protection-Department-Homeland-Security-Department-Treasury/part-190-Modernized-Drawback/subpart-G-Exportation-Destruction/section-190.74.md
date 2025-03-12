@@ -1,0 +1,3 @@
+##### § 190.74 Exportation by mail. #####
+
+If the merchandise on which drawback is to be claimed is exported by mail or parcel post, the official postal records (original or copies) which describe the mail shipment will be sufficient to prove exportation. The postal record must be identified on the drawback entry, and must be retained by the claimant in their records and made available to CBP upon request (*see* § 190.51(a)).

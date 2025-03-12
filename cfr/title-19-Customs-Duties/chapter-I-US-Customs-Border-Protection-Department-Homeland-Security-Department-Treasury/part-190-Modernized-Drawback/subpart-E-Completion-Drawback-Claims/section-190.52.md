@@ -1,0 +1,15 @@
+##### § 190.52 Rejecting, perfecting or amending claims. #####
+
+(a) *Rejecting the claim.* Upon review of a drawback claim when transmitted in ACE, if the claim is determined to be incomplete (*see* § 190.51(a)(1)) or untimely (*see* § 190.51(e)), the claim will be rejected and CBP will notify the filer. The filer will then have the opportunity to complete the claim subject to the requirement for filing a complete claim within 5 years of the date of importation of the merchandise designated as the basis for the drawback claim (or within 3 years after the date of exportation of the articles upon which drawback is claimed for drawback pursuant to 19 U.S.C. 1313(d)). If it is later determined by CBP, subsequent to acceptance of the claim and upon further review, that the claim was incomplete or untimely, then it may be denied.
+
+(b) *Perfecting the claim; additional evidence required.* If CBP determines that the claim is complete according to the requirements of § 190.51(a)(1), but that additional evidence or information is required, CBP will notify the filer. The claimant must furnish, or have the appropriate party furnish, the evidence or information requested within 30 days of the date of notification by CBP. CBP may extend this 30-day period if the claimant files a written request for such extension within the 30-day period and provides good cause. The evidence or information required under this paragraph may be filed more than 5 years after the date of importation of the merchandise designated as the basis for the drawback claim (or within 3 years after the date of exportation of the articles upon which drawback is claimed for drawback pursuant to 19 U.S.C. 1313(d)). Such additional evidence or information may include, but is not limited to:
+
+(1) Records or other documentary evidence of exportation, as provided for in § 190.72, which shows that the articles were shipped by the person filing the drawback entry, or a letter of endorsement from the exporter which must be attached to such records or other documentary evidence, showing that the party filing the entry is authorized to claim drawback and receive payment (the claimant must have on file and make available to CBP upon request, the endorsement from the exporter assigning the right to claim drawback);
+
+(2) A copy of the import entry and invoice annotated for the merchandise identified or designated;
+
+(3) A copy of the export invoice annotated to indicate the items on which drawback is being claimed; and
+
+(4) Records documenting the transfer of the merchandise including records kept in the normal course of business upon which the claim is based (*see* § 190.10).
+
+(c) *Amending the claim; supplemental filing.* Amendments to claims for which the drawback entries have not been liquidated must be made within 5 years of the date of importation of the merchandise designated as the basis for the drawback claim. Liquidated drawback entries may not be amended; however, they may be protested as provided for in § 190.84 and part 174 of this chapter.

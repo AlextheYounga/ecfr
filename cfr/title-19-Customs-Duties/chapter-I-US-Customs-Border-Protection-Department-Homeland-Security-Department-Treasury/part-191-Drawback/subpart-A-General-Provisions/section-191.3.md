@@ -1,4 +1,4 @@
-##### § 191.3 Duties and fees subject or not subject to drawback. #####
+##### § 191.3 Duties, taxes, and fees subject or not subject to drawback. #####
 
 (a) Duties and fees subject to drawback include:
 
@@ -18,13 +18,15 @@
 
 (2) Marking duties assessed under § 304(c), Tariff Act of 1930, as amended (19 U.S.C. 1304(c));
 
-(3) Internal revenue taxes which attach upon importation (see § 101.1 of this chapter); and
+(3) Internal revenue taxes which attach upon importation (see § 101.1 of this chapter);
 
-(4) Merchandise processing fees (see § 24.23 of this chapter) for unused merchandise drawback pursuant to 19 U.S.C. 1313(j), and drawback for substitution of finished petroleum derivatives pursuant to 19 U.S.C. 1313(p)(2)(A)(iii) or (iv).
+(4) Merchandise processing fees (see § 24.23 of this chapter) for unused merchandise drawback pursuant to 19 U.S.C. 1313(j), and drawback for substitution of finished petroleum derivatives pursuant to 19 U.S.C. 1313(p)(2)(A)(iii) or (iv); and
+
+(5) Harbor maintenance taxes (*see* § 24.24 of this chapter) for unused merchandise drawback pursuant to 19 U.S.C. 1313(j), and drawback for substitution of finished petroleum derivatives pursuant to 19 U.S.C. 1313(p)(2)(A)(iii) or (iv).
 
 (b) Duties and fees not subject to drawback include:
 
-(1) Harbor maintenance fee (see § 24.24 of this chapter);
+(1) Harbor maintenance taxes (*see* § 24.24 of this chapter) except where unused merchandise drawback pursuant to 19 U.S.C. 1313(j) or drawback for substitution of finished petroleum derivatives pursuant to 19 U.S.C. 1313(p)(2)(A)(iii) or (iv) is claimed;
 
 (2) Merchandise processing fees (*see* § 24.23 of this chapter), except where unused merchandise drawback pursuant to 19 U.S.C. 1313(j) or drawback for substitution of finished petroleum derivatives pursuant to 19 U.S.C. 1313(p)(2)(A)(iii) or (iv) is claimed; and
 
@@ -36,4 +38,4 @@
 
 (2) Tobacco otherwise meeting the description of agricultural products in this paragraph is eligible for drawback under 19 U.S.C. 1313(j)(1) or 19 U.S.C. 1313(a).
 
-[T.D. 98-16, 63 FR 11006, Mar. 5, 1998; 63 FR 27489, May 19, 1998, as amended by T.D. 01-18, 66 FR 9649, Feb. 9, 2001; CBP Dec. 04-33, 69 FR 60083, Oct. 7, 2004]
+[T.D. 98-16, 63 FR 11006, Mar. 5, 1998; 63 FR 27489, May 19, 1998, as amended by T.D. 01-18, 66 FR 9649, Feb. 9, 2001; CBP Dec. 04-33, 69 FR 60083, Oct. 7, 2004; USCBP-2018-0029, 83 FR 65064, Dec. 18, 2018]

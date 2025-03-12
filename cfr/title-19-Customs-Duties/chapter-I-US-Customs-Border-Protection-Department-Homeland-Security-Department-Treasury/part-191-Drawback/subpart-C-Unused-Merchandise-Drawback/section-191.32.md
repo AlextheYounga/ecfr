@@ -4,9 +4,11 @@
 
 (b) *Requirements.* (1) The claimant must have possessed the substituted merchandise that was exported or destroyed, as provided in paragraph (d)(1) of this section;
 
-(2) The substituted merchandise must be commercially interchangeable with the imported merchandise that is designated for drawback; and
+(2) The substituted merchandise must be commercially interchangeable with the imported merchandise that is designated for drawback;
 
-(3) The substituted merchandise exported or destroyed must not have been used in the United States before its exportation or destruction (see paragraph (e) of this section).
+(3) The substituted merchandise exported or destroyed must not have been used in the United States before its exportation or destruction (see paragraph (e) of this section); and
+
+(4) For purposes of drawback of internal revenue tax imposed under Chapters 32, 38 (with the exception of Subchapter A of Chapter 38), 51, and 52 of the Internal Revenue Code of 1986, as amended (IRC), drawback granted on the export or destruction of substituted merchandise will be limited to the amount of taxes paid (and not returned by refund, credit, or drawback) on the substituted merchandise.
 
 (c) *Determination of commercial interchangeability.* In determining commercial interchangeability, Customs shall evaluate the critical properties of the substituted merchandise and in that evaluation factors to be considered include, but are not limited to, Governmental and recognized industrial standards, part numbers, tariff classification and value. A party may seek a nonbinding predetermination of commercial interchangeability directly from the appropriate drawback office. A determination of commercial interchangeability can be obtained in one of two ways:
 
@@ -42,4 +44,4 @@
 
 (iv) *Review by Customs.* The written agreement, merger, or corporate resolution, provided for in paragraph (f)(2) of this section, and the records and evidence provided for in paragraph (f)(3)(i) through (iii) of this section, must be retained by the appropriate party(ies) for 3 years from the date of payment of the related claim and are subject to review by Customs upon request.
 
-[T.D. 98-16, 63 FR 11006, Mar. 5, 1998; 63 FR 15288, Mar. 31, 1998]
+[T.D. 98-16, 63 FR 11006, Mar. 5, 1998; 63 FR 15288, Mar. 31, 1998, as amended by USCBP-2018-0029, 83 FR 65064, Dec. 18, 2018]Effective Date Note:The effective date for amendments regarding the drawback of excise taxes in (b)(4) is Feb. 19, 2019.

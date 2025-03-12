@@ -1,0 +1,5 @@
+##### § 190.101 Drawback allowance. #####
+
+(a) *Drawback.* Section 313(d) of the Act, as amended (19 U.S.C. 1313(d)), provides for drawback of internal revenue tax upon the exportation of flavoring extracts and medicinal or toilet preparations (including perfumery) manufactured or produced in the United States in part from domestic tax-paid alcohol.
+
+(b) *Shipment to Puerto Rico, the Virgin Islands, Guam, and American Samoa.* Drawback of internal revenue tax on articles manufactured or produced under this subpart and shipped to Puerto Rico, the Virgin Islands, Guam, or American Samoa will be allowed in accordance with section 7653(c) of the Internal Revenue Code (26 U.S.C. 7653(c)). However, there is no authority of law for the allowance of drawback of internal revenue tax on flavoring extracts or medicinal or toilet preparations (including perfumery) manufactured or produced in the United States and shipped to Wake Island, Midway Islands, Kingman Reef, Canton Island, Enderbury Island, Johnston Island, or Palmyra Island.

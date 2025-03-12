@@ -1,0 +1,3 @@
+##### § 190.161 Refund of taxes. #####
+
+Section 5062(c), Internal Revenue Code, as amended (26 U.S.C. 5062(c)), provides for the refund, remission, abatement or credit to the importer of internal revenue taxes paid or determined incident to importation, upon the exportation, or destruction under CBP supervision, of imported distilled spirits, wines, or beer found after entry to be unmerchantable or not to conform to sample or specifications and which are returned to CBP custody.
