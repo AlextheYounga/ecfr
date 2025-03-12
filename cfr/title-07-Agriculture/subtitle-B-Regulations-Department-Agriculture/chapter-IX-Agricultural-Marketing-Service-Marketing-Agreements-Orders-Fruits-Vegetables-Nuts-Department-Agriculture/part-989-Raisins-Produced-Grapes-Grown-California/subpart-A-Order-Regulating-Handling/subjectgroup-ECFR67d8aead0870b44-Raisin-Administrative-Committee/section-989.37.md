@@ -1,0 +1,5 @@
+##### § 989.37 Obligation. #####
+
+Upon the removal, resignation, disqualification, or expiration of the term of office of any member or alternate member, such member or alternate member shall account for all receipts and disbursements and deliver to his successor, to the Committee, or to a designee of the Secretary all property (including, but not limited to, all books and records) in his possession or under his control as member or alternate member, and he shall execute such assignments and other instruments as may be necessary or appropriate to vest in such successor, Committee, or designee full title to such property and funds, and all claims vested in such member or alternate member. Upon the death of any member or alternate member of the Committee, full title to such property, funds, and claims vested in such member or alternate member shall be vested in his successor or, until such successor has been selected and has qualified, in the Committee.
+
+[41 FR 32412, Aug. 3, 1976]

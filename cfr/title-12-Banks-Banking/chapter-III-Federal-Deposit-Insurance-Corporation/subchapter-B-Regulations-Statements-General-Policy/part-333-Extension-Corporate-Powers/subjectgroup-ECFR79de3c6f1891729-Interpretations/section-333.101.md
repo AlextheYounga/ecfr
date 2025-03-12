@@ -1,5 +1,7 @@
 ##### § 333.101 Prior consent not required. #####
 
+Link to an amendment published at 83 FR 60337, Nov. 26, 2018.
+
 (a) The extension by any State nonmember insured bank of its business to include personal, character or installment loans, or the extension by an industrial bank of its business to include the business of a commercial bank, is not a change in the general character or type of business requiring the prior written consent of the Corporation.
 
 (b) An insured State nonmember bank, not exercising trust powers, may act as trustee or custodian of Individual Retirement Accounts established pursuant to the Employee Retirement Income Security Act of 1974 (26 U.S.C. 408), Self-Employed Retirement Plans established pursuant to the Self-Employed Individuals Retirement Act of 1962 (26 U.S.C. 401), Roth Individual Retirement Accounts and Coverdell Education Savings Accounts established pursuant to the Taxpayer Relief Act of 1997 (26 U.S.C. 408A and 530 respectively), Health Savings Accounts established pursuant to the Medicare Prescription Drug Improvement, and Modernization Act of 2003 (26 U.S.C. 223), and other similar accounts without the prior written consent of the Corporation provided:

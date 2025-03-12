@@ -1,0 +1,3 @@
+##### § 1787.7 Components. #####
+
+Where a component is manufactured only determines whether the component is classified as domestic or nondomestic even if all the materials and subcomponents comprising the component are manufactured in ineligible countries. A component manufactured in the United States or in an eligible country shall be considered domestic when determining whether a product is classified as domestic or nondomestic. A component manufactured in an ineligible country shall be considered nondomestic.

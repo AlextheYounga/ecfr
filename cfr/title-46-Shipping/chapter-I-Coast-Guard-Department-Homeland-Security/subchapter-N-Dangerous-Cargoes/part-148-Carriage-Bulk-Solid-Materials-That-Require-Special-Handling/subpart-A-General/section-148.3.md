@@ -1,6 +1,6 @@
 ##### § 148.3 Definitions. #####
 
-As used in this part -
+As used in this part—
 
 *A-60 class division* means a division as defined in § 32.57-5 of this chapter.
 
@@ -28,8 +28,6 @@ As used in this part -
 
 Hazard Class Definitions
 
-Hazard Classes Used in This Part Are Defined in the Following Sections of Title 49
-
 |Class No.|   Division No. (if any)    |                                  Description                                   |Reference  <br/>(49 CFR)|
 |---------|----------------------------|--------------------------------------------------------------------------------|------------------------|
 |    1    |1.1, 1.2, 1.3, 1.4, 1.5, 1.6|                                   Explosives                                   |        § 173.50        |
@@ -54,7 +52,7 @@ Hazard Classes Used in This Part Are Defined in the Following Sections of Title 
 
 *Incompatible materials* means two materials whose stowage together may result in undue hazards in the case of leakage, spillage, or other accident.
 
-*International voyage* means voyages -
+*International voyage* means voyages—
 
 (1) Between any place in the United States and any place in a foreign country;
 

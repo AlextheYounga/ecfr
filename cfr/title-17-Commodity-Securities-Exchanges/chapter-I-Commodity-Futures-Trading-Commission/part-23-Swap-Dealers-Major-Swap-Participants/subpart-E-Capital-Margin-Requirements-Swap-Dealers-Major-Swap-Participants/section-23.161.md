@@ -1,5 +1,7 @@
 ##### § 23.161 Compliance dates. #####
 
+Link to an amendment published at 83 FR 60346, November 26, 2018.
+
 (a) Covered swap entities shall comply with the minimum margin requirements for uncleared swaps on or before the following dates for uncleared swaps entered into on or after the following dates:
 
 (1) September 1, 2016 for the requirements in § 23.152 for initial margin and in § 23.153 for variation margin for any uncleared swaps where both -

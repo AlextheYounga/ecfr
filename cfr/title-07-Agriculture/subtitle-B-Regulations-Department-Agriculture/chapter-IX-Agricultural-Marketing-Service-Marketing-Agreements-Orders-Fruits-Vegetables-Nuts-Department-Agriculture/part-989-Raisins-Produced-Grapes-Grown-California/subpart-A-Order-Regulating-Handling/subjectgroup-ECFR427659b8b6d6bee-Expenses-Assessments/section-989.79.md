@@ -1,0 +1,5 @@
+##### § 989.79 Expenses. #####
+
+The Committee is authorized to incur such expenses as the Secretary finds are reasonable and likely to be incurred by it during each crop year, for the maintenance and functioning of the Committee and for such purposes as he may, pursuant to this subpart, determine to be appropriate. The funds to cover such expenses shall be obtained levying assessments as provided in § 989.80. The Committee shall file with the Secretary for each crop year a proposed budget of these expenses and a proposal as to the assessment rate to be fixed pursuant to § 989.80, together with a report thereon. Such filing shall be not later than October 5 of the crop year, but this date may be extended by the Committee not more than 5 days if warranted by a late crop.
+
+[83 FR 53971, Oct. 26, 2018]

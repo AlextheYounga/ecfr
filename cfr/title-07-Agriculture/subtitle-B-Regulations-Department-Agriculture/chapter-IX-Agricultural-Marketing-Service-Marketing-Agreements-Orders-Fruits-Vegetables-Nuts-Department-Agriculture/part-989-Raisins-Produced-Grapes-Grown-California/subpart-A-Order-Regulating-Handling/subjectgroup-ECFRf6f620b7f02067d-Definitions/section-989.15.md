@@ -1,0 +1,5 @@
+##### § 989.15 Handler. #####
+
+*Handler* means: (a) Any processor or packer; (b) any person who places, ships, or continues natural condition raisins in the current of commerce from within the area to any point outside thereof; (c) any person who delivers off-grade raisins, other failing raisins or raisin residual material to other than a packer or other than into any eligible non-normal outlet; or (d) any person who blends raisins: *Provided,* That blending shall not cause a person not otherwise a handler to be a handler on account of such blending if he is either: (1) A producer who, in his capacity as a producer, blends raisins entirely of his own production in the course of his usual and customary practices of preparing raisins for delivery to processors, packers, or dehydrators; (2) a person who blends raisins after they have been placed in trade channels by a packer with other such raisins in trade channels; or (3) a dehydrator who, in his capacity as a dehydrator, blends raisins entirely of his own manufacture.
+
+[37 FR 19622, Sept. 21, 1972]

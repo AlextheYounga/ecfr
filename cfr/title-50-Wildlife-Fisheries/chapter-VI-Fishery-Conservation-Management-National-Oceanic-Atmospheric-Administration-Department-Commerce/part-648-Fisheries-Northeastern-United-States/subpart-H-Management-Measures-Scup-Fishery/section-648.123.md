@@ -1,7 +1,5 @@
 ##### § 648.123 Scup accountability measures. #####
 
-Link to an amendment published at 83 FR 53827, Oct. 25, 2018.
-
 (a) *Commercial sector period closures.* The Regional Administrator will monitor the harvest of commercial quota for each quota period based on dealer reports, state data, and other available information and shall determine the date when the commercial quota for a period will be harvested. NMFS shall close the EEZ to fishing for scup by commercial vessels for the remainder of the indicated period by publishing notification in the Federal Register advising that, effective upon a specific date, the commercial quota for that period has been harvested, and notifying vessel and dealer permit holders that no commercial quota is available for landing scup for the remainder of the period.
 
 (1) *Commercial ACL overage evaluation.* The commercial sector ACL will be evaluated based on a single-year examination of total catch (landings and dead discards). Both landings and dead discards will be evaluated in determining if the commercial sector ACL has been exceeded.
@@ -14,7 +12,17 @@ Link to an amendment published at 83 FR 53827, Oct. 25, 2018.
 
 (iv) During a fishing year in which the Winter I quota period is closed prior to April 15, a state may apply to the Regional Administrator for authorization to count scup landed for sale in that state from April 15 through April 30 by state-only permitted vessels fishing exclusively in waters under the jurisdiction of that state against the Summer period quota. Requests to the Regional Administrator to count scup landings in a state from April 15 through April 30 against the Summer period quota must be made by letter signed by the principal state official with marine fishery management responsibility and expertise, or his/her designee, and must be received by the Regional Administrator no later than April 15. Within 10 working days following receipt of the letter, the Regional Administrator shall notify the appropriate state official of the disposition of the request.
 
-(b) *Non-landing accountability measure.* In the event that the commercial ACL has been exceeded and the overage has not been accommodated through the landings-based AM, then the exact amount by which the commercial ACL was exceeded, in pounds, will be deducted, as soon as possible, from the applicable subsequent single fishing year commercial ACL.
+(b) *Non-landing accountability measure.* In the event that the commercial ACL has been exceeded and the overage has not been accommodated through the landings-based AM, then the following procedure will be followed:
+
+(1) *Overfishing, rebuilding, or unknown stock status.* If the most recent estimate of biomass is below the BMSY threshold (*i.e.,* B/BMSY is less than 0.5), the stock is under a rebuilding plan, or the biological reference points (B or BMSY) are unknown, and the commercial ACL has been exceeded, then the exact amount, in pounds, by which the most recent year's commercial catch estimate exceeded the most recent year's commercial ACL will be deducted, in the following fishing year from the commercial ACT, as a single-year adjustment.
+
+(2) *If biomass is above the threshold, but below the target, and the stock is not under rebuilding.* If the most recent estimate of biomass is above the biomass threshold (B/BMSY is greater than 0.5), but below the biomass target (B/BMSY is less than 1.0), and the stock is not under a rebuilding plan, then the following AMs will apply:
+
+(i) If the Commercial ACL has been exceeded, but not the overall ABC, then no single-year AM payback is required.
+
+(ii) If the Commercial ACL and ABC have been exceeded, then a scaled single-year adjustment to the commercial ACT will be made, in the following fishing year. The ACT will be reduced by the exact amount, in pounds, of the product of the overage, defined as the difference between the commercial catch and the commercial ACT, and the payback coefficient. The payback coefficient is the difference between the most recent estimate of biomass and BMSY (*i.e.,* BMSY−B) divided by one-half of BMSY.
+
+(3) *If biomass is above* BMSY. If the most recent estimate of biomass is above BMSY (*i.e.,* B/BMSY is greater than 1.0), then no single-year AM payback is required.
 
 (c) *Recreational ACL.* The recreational sector ACL will be evaluated based on a 3-year moving average comparison of total catch (landings and dead discards). Both landings and dead discards will be evaluated in determining if the 3-year average recreational sector ACL has been exceeded. The 3-year moving average will be phased in over the first 3 years, beginning with 2012: Total recreational total catch from 2012 will be compared to the 2012 recreational sector ACL; the average total catch from both 2012 and 2013 will be compared to the average of the 2012 and 2013 recreational sector ACLs; the average total catch from 2012, 2013, and 2014 will be compared to the average of 2012, 2013, and 2014 recreational sector ACLs; and for all subsequent years, the preceding 3-year average recreational total catch will be compared to the preceding 3-year average recreational sector ACL.
 
@@ -36,4 +44,4 @@ Link to an amendment published at 83 FR 53827, Oct. 25, 2018.
 
 (e) *State/Federal disconnect AM.* If the total catch, allowable landings, commercial quotas, and/or RHL measures adopted by the ASMFC Summer Flounder, Scup and Black Sea Bass Management Board and the MAFMC differ for a given fishing year, administrative action will be taken as soon as possible to revisit the respective recommendations of the two groups. The intent of this action shall be to achieve alignment through consistent state and Federal measures such that no differential effects occur on Federal permit holders.
 
-[76 FR 60632, Sept. 29, 2011, as amended at 78 FR 76763, Dec. 19, 2013; 83 FR 17315, Apr. 19, 2018]
+[76 FR 60632, Sept. 29, 2011, as amended at 78 FR 76763, Dec. 19, 2013; 83 FR 17315, Apr. 19, 2018; 83 FR 53827, Oct. 25, 2018]

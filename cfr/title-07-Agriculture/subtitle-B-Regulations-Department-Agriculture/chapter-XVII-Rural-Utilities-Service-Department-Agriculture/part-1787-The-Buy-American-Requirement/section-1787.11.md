@@ -1,0 +1,3 @@
+##### § 1787.11 Cost differential. #####
+
+By application pursuant to § 1787.10, the Administrator may waive the Buy American requirement if the cost of the domestic product is unreasonable. Given that RUS loans terms normally range from 20 to 35 years, and that additional costs will be magnified with interest over these terms, the Administrator has determined that if the lowest bid or offered price is a nondomestic bid that is at least 6percent lower than the next lowest bid or offered price, the RUS Borrower may request a cost differential waiver. With respect to contracts that are not required to be bid, prices of market-available, domestic products must be used for comparison in a request for waiver.

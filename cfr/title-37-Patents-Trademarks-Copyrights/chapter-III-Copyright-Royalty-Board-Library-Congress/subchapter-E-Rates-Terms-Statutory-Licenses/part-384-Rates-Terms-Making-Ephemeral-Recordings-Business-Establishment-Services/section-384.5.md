@@ -1,5 +1,7 @@
 ##### § 384.5 Confidential information. #####
 
+Link to an amendment published at 83 FR 60363, November 26, 2018.
+
 (a) *Definition.* For purposes of this section, “Confidential Information” shall include the statements of account and any information contained therein, including the amount of royalty payments, and any information pertaining to the statements of account reasonably designated as confidential by the Licensee submitting the statement.
 
 (b) *Exclusion.* Confidential Information shall not include documents or information that at the time of delivery to the Collective are public knowledge. The party claiming the benefit of this provision shall have the burden of proving that the disclosed information was public knowledge.

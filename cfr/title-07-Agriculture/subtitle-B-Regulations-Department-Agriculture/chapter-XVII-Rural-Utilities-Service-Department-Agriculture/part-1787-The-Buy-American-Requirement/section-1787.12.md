@@ -1,0 +1,3 @@
+##### § 1787.12 Non-availability or shortages. #####
+
+By application pursuant to § 1787.10, the Administrator may waive the Buy American requirement upon a showing that there is no domestic product available in the market in sufficient and reasonable quantities and of satisfactory quality, and that such shortage of suitable domestic alternatives jeopardizes the project being completed on budget and/or according to scheduled planning. A lack of responsive and responsible bids to a well-publicized request for bids will be presumed to meet the conditions of a non-availability waiver. With respect to contracts that are not required to be bid, sufficient evidence must be presented to the Administrator in order to make a determination.

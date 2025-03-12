@@ -1,5 +1,7 @@
 ##### § 384.3 Royalty fees for ephemeral recordings. #####
 
+Link to an amendment published at 83 FR 60363, November 26, 2018.
+
 (a) *Basic royalty rate.* For the making of any number of Ephemeral Recordings in the operation of a Business Establishment Service, a Licensee shall pay 12.5% of such Licensee's “Gross Proceeds” derived from the use in such service of musical programs that are attributable to copyrighted recordings. “Gross Proceeds” as used in this section means all fees and payments, including those made in kind, received from any source before, during or after the License Period that are derived from the use of copyrighted sound recordings during the License Period pursuant to 17 U.S.C. 112(e) for the sole purpose of facilitating a transmission to the public of a performance of a sound recording under the limitation on exclusive rights specified in 17 U.S.C. 114(d)(1)(C)(iv). The attribution of Gross Proceeds to copyrighted recordings may be made on the basis of:
 
 (1) For classical programs, the proportion that the playing time of copyrighted classical recordings bears to the total playing time of all classical recordings in the program, and

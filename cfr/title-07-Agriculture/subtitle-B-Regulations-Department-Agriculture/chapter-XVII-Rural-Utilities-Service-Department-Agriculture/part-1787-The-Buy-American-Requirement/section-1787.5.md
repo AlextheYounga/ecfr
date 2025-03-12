@@ -1,0 +1,3 @@
+##### § 1787.5 Eligible countries. #####
+
+The United State Trade Representative (USTR) determines what countries are eligible countries with respect to purchases made by electric borrowers or telecommunications borrowers. A particular country may be determined to be an eligible country for purchases made by telecommunications borrowers, for electric borrowers, or both. RUS maintains the latest Federal Register notice on its website which sets out the list of Eligible Countries for each RUS program at *https://www.rd.usda.gov/files/UEP\_Engineering\_EligibleCountries.pdf.*

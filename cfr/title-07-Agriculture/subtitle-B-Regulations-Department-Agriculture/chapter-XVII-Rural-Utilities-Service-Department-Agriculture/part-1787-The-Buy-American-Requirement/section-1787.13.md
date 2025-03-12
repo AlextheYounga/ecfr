@@ -1,0 +1,7 @@
+##### § 1787.13 Public interest or impracticality. #####
+
+(a) By application pursuant to § 1787.10, the Administrator may waive the Buy American requirement upon a showing that application of the requirement would be inconsistent with the public interest or impractical for the RUS Borrower. With respect to impracticality, an RUS Borrower may request a waiver upon a showing that the domestic product is incompatible or impractical to integrate with existing, significant capital infrastructure or existing, critical software already in use. Notwithstanding, the burden shall rest with the RUS Borrower to present how the use of the domestic product would create a hardship or negatively impact its project.
+
+(b) With respect to contracts that were approved by RUS based on a bidder or offer that originally certified compliance with the Buy America requirements, but which can no longer comply with such certification, the Administrator may grant an impracticality waiver based on a showing that the original certification was made in good faith and that the product cannot now be obtained domestically due to commercial impossibility or impracticability, or without undue hardship or a negative impact to the project.
+
+(c) In determining whether to issue any public interest waiver, the Administrator will consider all appropriate factors on a case-by-case basis, unless a general waiver has already been issued by the Administrator with respect to the product.

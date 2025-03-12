@@ -1,0 +1,5 @@
+##### § 1787.1 General. #####
+
+(a) The “Buy American” provision of the Rural Electrification Act of 1936 (RE Act) requires, to the extent practicable and the cost of which is not unreasonable, that RUS Borrowers use loan funds only for such manufactured articles, materials, and supplies as have been manufactured in the United States or in any eligible country, substantially all from articles, materials, or supplies mined, produced or manufactured, as the case may be, in the United States or any eligible country.
+
+(b) Each RUS Borrower is responsible for assuring that its use of loan funds complies with this requirement, and that the contracts it enters into for construction, materials and equipment, and purchases with vendors contain the Buy American requirement, along with certification as to compliance, made through RUS Form 213.

@@ -1,5 +1,7 @@
 ##### § 303.242 Exercise of trust powers. #####
 
+Link to an amendment published at 83 FR 60337, Nov. 26, 2018.
+
 (a) *Scope.* This section contains the procedures to be followed by a state nonmember bank to seek the FDIC's prior consent to exercise trust powers. The FDIC's prior consent to exercise trust powers is not required in the following circumstances:
 
 (1) Where a state nonmember bank received authority to exercise trust powers from its chartering authority prior to December 1, 1950; or

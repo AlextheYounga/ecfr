@@ -1,0 +1,9 @@
+##### § 989.60 Exemption. #####
+
+(a) Notwithstanding any other provisions of this amended subpart, the Committee may establish, with the approval of the Secretary, such rules and procedures as may be necessary to permit the acquisition and disposition of any off-grade raisins, free from any or all regulations, for uses in non-normal outlets.
+
+(b) The Committee may establish, with the approval of the Secretary, such rules and procedures as may be necessary to exempt from any or all regulations raisins produced in southern California (i.e., the counties of Riverside, Imperial, San Bernardino, Ventura, Orange, Los Angeles, and San Diego) and disposed of for distillation, livestock feed, or by export in natural condition to Mexico.
+
+(c) The Committee may designate such raisins as it deems appropriate for production, processing, and marketing research and development. The period of such designation shall be for not more than five years unless extended by the Committee. The volume which may be acquired by all handlers shall not exceed 500 natural condition tons annually for each designated project, unless increased by the Secretary upon a recommendation of the Committee. Such designated raisins may be acquired and disposed of free from those regulations specified by the Committee. In any crop year, when the total industry acquisitions of the designated raisins exceed 500 natural condition tons or a larger quantity approved by the Secretary upon a recommendation of the Committee, the exemption shall not apply.
+
+[29 FR 9484, July 11, 1964, as amended at 32 FR 18086, Dec. 19, 1967; 37 FR 19623, Sept. 21, 1972; 42 FR 37202, July 20, 1977; 83 FR 53971, Oct. 26, 2018]

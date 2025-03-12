@@ -1,5 +1,7 @@
 ##### § 384.1 General. #####
 
+Link to an amendment published at 83 FR 60363, November 26, 2018.
+
 (a) *Scope.* This part 384 establishes rates and terms of royalty payments for the making of Ephemeral Recordings by a Business Establishment Service, as defined in § 384.2, in accordance with the provisions of 17 U.S.C. 112(e), during the period January 1, 2014, through December 31, 2018 (the “License Period”).
 
 (b) *Legal compliance.* Licensees relying upon the statutory license set forth in 17 U.S.C. 112(e) shall comply with the requirements of that section, the rates and terms of this part and any other applicable regulations.
