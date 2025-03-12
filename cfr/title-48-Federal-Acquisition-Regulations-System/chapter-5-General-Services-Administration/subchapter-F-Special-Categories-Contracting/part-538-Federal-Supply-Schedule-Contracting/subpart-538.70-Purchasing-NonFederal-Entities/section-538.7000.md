@@ -1,15 +1,9 @@
 ##### 538.7000 Scope of subpart. #####
 
-Link to an amendment published at 88 FR 20078, Apr. 5, 2023.
-
 This subpart prescribes policies and procedures that implement statutory provisions authorizing non-federal organizations to use—
 
-(a) Federal Supply Schedule 70;
+(a) The Consolidated Schedule contracts containing information technology or security and protection Special Item Numbers (SINs); and
 
-(b) The Consolidated Schedule contracts containing information technology Special Item Numbers (SINs); and
+(b) Other Federal Supply Schedules as authorized in this subpart.
 
-(c) Federal Supply Schedule 84.
-
-(d) Other Federal Supply Schedules as authorized in this subpart.
-
-[73 FR 54338, Sept. 19, 2008, as amended at 81 FR 36429, June 6, 2016]
+[88 FR 20078, Apr. 5, 2023]

@@ -1,12 +1,10 @@
 ##### 552.238-110 Commercial Satellite Communication (COMSATCOM) Services. #####
 
-Link to an amendment published at 88 FR 20079, Apr. 5, 2023.
-
 As prescribed in 538.273(d)(34) insert the following clause:
 
-Commercial Satellite Communication (COMSATCOM) Services (MAY 2019)
+Commercial Satellite Communication (COMSATCOM) Services (MAY 2023)
 
-(a) *General background.* Special Item Numbers (SINs) have been established for Commercial Satellite Communications (COMSATCOM) services, focused on transponded capacity (SIN 132-54) and fixed and mobile subscription services (SIN 132-55), to make available common COMSATCOM services to all Ordering Activities.
+(a) *General background.* A Special Item Number (SIN) has been established for Commercial Satellite Communications (COMSATCOM) services, focused on transponded capacity and fixed and mobile subscription services, to make available common COMSATCOM services to all Ordering Activities.
 
 (b) *Information assurance.* (1) The Contractor shall demonstrate, to the maximum extent practicable, the ability to meet:
 
@@ -48,4 +46,4 @@ Commercial Satellite Communication (COMSATCOM) Services (MAY 2019)
 
 (j) *Third party billing for COMSATCOM subscription services.* The Contractor shall identify authorized network infrastructure for the ordering activity. In some cases, the user of the terminal may access network infrastructure owned or operated by a third party. In the event a terminal is used on a third party's network infrastructure, the Contractor shall provide to the ordering activity, invoices and documentation reflecting actual usage amount and third party charges incurred. The ordering activity shall be billed the actual third party charges incurred, or the contract third party billing price, whichever is less.
 
-(End of clause)[84 FR 17046, Apr. 23, 2019; 84 FR 22383, May 17, 2019]
+(End of clause)[84 FR 17046, Apr. 23, 2019; 84 FR 22383, May 17, 2019; 88 FR 20079, Apr. 5, 2023]

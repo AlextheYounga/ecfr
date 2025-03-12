@@ -1,7 +1,5 @@
 ##### 538.273 FSS solicitation provisions and contract clauses. #####
 
-Link to an amendment published at 88 FR 20078, Apr. 5, 2023.
-
 (a) As prescribed in this paragraph, insert the following provisions in the beginning of FSS solicitations:
 
 (1) 552.238-70, Cover Page for Worldwide Federal Supply Schedules. Use in all FSS solicitations. Use Alternate I for single award Federal Supply Schedules.
@@ -14,7 +12,7 @@ Link to an amendment published at 88 FR 20078, Apr. 5, 2023.
 
 (1) 552.238-73, Identification of Electronic Office Equipment Providing Accessibility for Individuals with Disabilities. Use only in FSS solicitations for electronic office equipment.
 
-(2) 552.238-74, Introduction of New Supplies/Services (INSS). Use only in FSS solicitations allowing the introduction of new supplies/services. Note: GSA Form 1649, Notification of Federal Supply Schedule Improvement, may be required if revising a Special Item Number (SIN).
+(2) 552.238-74, Introduction of New Supplies and Services Special Item Number (SIN). Use only in FSS solicitations allowing the introduction of new supplies/services. Note: GSA Form 1649, Notification of Federal Supply Schedule Improvement, may be required if revising a Special Item Number (SIN).
 
 (c) As prescribed in this paragraph, insert the following provisions as an addendum to 52.212-2, Evaluation—Commercial Products and Commercial Services:
 
@@ -120,7 +118,7 @@ Link to an amendment published at 88 FR 20078, Apr. 5, 2023.
 
 (32) 552.238-108, Spare Parts Kit. Use only in FSS solicitations and contracts for products requiring spare part kits. This information is to be specified at the order level.
 
-(33) 552.238-109, Authentication Supplies and Services. Use in Federal Supply Schedule 70 solicitations only, and only contracts awarded Special Item Numbers (SINs) associated with the Homeland Security Presidential Directive 12 (HSPD-12).
+(33) 552.238-109, Authentication Supplies and Services. Use in Federal Supply Schedule solicitations that contain information technology Special Item Numbers (SINs) only, and only contracts awarded SINs associated with the Homeland Security Presidential Directive 12 (HSPD-12).
 
 (34) 552.238-110, Commercial Satellite Communication (COMSATCOM) Services. Use only in FSS solicitations and contracts for COMSATCOM services.
 
@@ -130,4 +128,4 @@ Link to an amendment published at 88 FR 20078, Apr. 5, 2023.
 
 (e) Insert the following fill-in information within the blank of paragraph (d) of FAR clause 52.216-22, Indefinite Quantity: “the completion of customer order, including options, 60 months following the expiration of the FSS contract ordering period”.
 
-[84 FR 17039, Apr. 23, 2019; 84 FR 22382, May 17, 2019, as amended at 86 FR 55521, Oct. 6, 2021; 86 FR 68443, Dec. 2, 2021; 87 FR 6045, Feb. 3, 2022; 87 FR 10314, Feb. 24, 2022]
+[84 FR 17039, Apr. 23, 2019; 84 FR 22382, May 17, 2019, as amended at 86 FR 55521, Oct. 6, 2021; 86 FR 68443, Dec. 2, 2021; 87 FR 6045, Feb. 3, 2022; 87 FR 10314, Feb. 24, 2022; 88 FR 20078, Apr. 5, 2023]

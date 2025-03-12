@@ -1,6 +1,6 @@
 ##### § 232.101 Mandated electronic submissions and exceptions. #####
 
-Link to an amendment published at 87 FR 78807, Dec. 22, 2022.Link to an amendment published at 88 FR 13951, Mar. 6, 2023.
+Link to an amendment published at 87 FR 78807, Dec. 22, 2022.
 
 (a) *Mandated electronic submissions.* (1) The following filings, including any related correspondence and supplemental information, except as otherwise provided, shall be submitted in electronic format:
 
@@ -80,9 +80,11 @@ Foreign private issuers must file or submit their Form 6-K reports (§ 249.306 o
 
 (F) The European Bank for Reconstruction and Development under Section 9(a) of the European Bank for Reconstruction and Development Act (22 U.S.C. 290l-7(a)) and part 290 of this chapter;
 
-(xxix) A report or other document submitted by a foreign private issuer under cover of Form 6-K (§ 249.306 of this chapter) that the issuer must furnish and make public under the laws of the jurisdiction in which the issuer is incorporated, domiciled or legally organized (the foreign private issuer's “home country”), or under the rules of the home country exchange on which the issuer's securities are traded, as long as the report or other document is not a press release, is not required to be and has not been distributed to the issuer's security holders, and, if discussing a material event, has already been the subject of a Form 6-K or other Commission filing or submission on EDGAR; and
+(xxix) A report or other document submitted by a foreign private issuer under cover of Form 6-K (§ 249.306 of this chapter) that the issuer must furnish and make public under the laws of the jurisdiction in which the issuer is incorporated, domiciled or legally organized (the foreign private issuer's “home country”), or under the rules of the home country exchange on which the issuer's securities are traded, as long as the report or other document is not a press release, is not required to be and has not been distributed to the issuer's security holders, and, if discussing a material event, has already been the subject of a Form 6-K or other Commission filing or submission on EDGAR;
 
-(xxx) Documents filed with the Commission pursuant to section 33 of the Investment Company Act (15 U.S.C. 80a-32).
+(xxx) Documents filed with the Commission pursuant to section 33 of the Investment Company Act (15 U.S.C. 80a-32); and
+
+(xxxi) Reports filed pursuant to § 240.17Ad-27 of this chapter (Rule 17Ad-27 under the Exchange Act).
 
 (2) The following amendments to filings and applications, including any related correspondence and supplemental information except as otherwise provided, shall be submitted as follows:
 

@@ -1,5 +1,7 @@
 ##### § 54.313 Annual reporting requirements for high-cost recipients. #####
 
+Link to an amendment published at 88 FR 28999, May 5, 2023.
+
 (a) Any recipient of high-cost support shall provide the following:
 
 (1) Certification that the carrier is able to function in emergency situations as set forth in § 54.202(a)(2);

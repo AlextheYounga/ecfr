@@ -1,10 +1,8 @@
 ##### 552.216-75 Transactional Data Reporting. #####
 
-Link to an amendment published at 88 FR 20079, Apr. 5, 2023.
-
 As prescribed in 516.506(c), insert the following clause:
 
-Transactional Data Reporting (JUN 2016)
+Transactional Data Reporting (MAY 2023)
 
 (a) *Definition. Transactional data* encompasses the historical details of the products or services delivered by the Contractor during the performance of task or delivery orders issued against this contract.
 
@@ -38,7 +36,7 @@ Transactional Data Reporting (JUN 2016)
 
 Note to paragraph (b)(2):
 
-The Contracting Officer may add data elements to the standard elements listed in paragraph (b)(2) of this section with the approvals listed in GSAM 507.105(c)(3).
+The Contracting Officer may add data elements to the standard elements listed in paragraph (b)(2) of this section with the approvals listed in GSAM 507.103(b)(3).
 
 (3) The Contractor must report transactional data within 30 calendar days from the last calendar day of the month. If there was no contract activity during the month, the Contractor must submit a confirmation of no reportable transactional data within 30 calendar days of the last calendar day of the month.
 
@@ -70,4 +68,4 @@ The Contracting Officer may add data elements to the standard elements listed in
 
 (4) The Contractor's failure to remit the full amount of the CAF within the specified deadline constitutes a contract debt to the United States Government under the terms of FAR Subpart 32.6. The Government may exercise all rights under the Debt Collection Improvement Act of 1996, including withholding or offsetting payments and interest on the debt (see FAR clause 52.232-17, Interest). If the Contractor fails to submit the required sales reports, falsifies them, or fails to timely pay the CAF, these reasons constitute sufficient cause for the Government to terminate the contract for cause.
 
-(End of Clause)[81 FR 41137, June 23, 2016, as amended at 85 FR 50959, Aug. 19, 2020; 86 FR 55523, Oct. 6, 2021]
+(End of Clause)[81 FR 41137, June 23, 2016, as amended at 85 FR 50959, Aug. 19, 2020; 86 FR 55523, Oct. 6, 2021; 88 FR 20079, Apr. 5, 2023]

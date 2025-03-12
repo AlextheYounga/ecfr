@@ -1,12 +1,10 @@
 ##### 552.238-113 Scope of Contract (Eligible Ordering Activities). #####
 
-Link to an amendment published at 88 FR 20079, Apr. 5, 2023.
-
 As prescribed in 538.7004 (b) insert the following clause:
 
-Scope of Contract (Eligible Ordering Activities) (MAY 2019)
+Scope of Contract (Eligible Ordering Activities) (MAY 2023)
 
-(a) This solicitation is issued to establish contracts which may be used on a nonmandatory basis by the agencies and activities named below, as a source of supply for the supplies or services described herein, for domestic and/or overseas delivery. For Special Item Number 132-53, Wireless Services ONLY, limited geographic coverage (consistent with the Offeror's commercial practice) may be proposed.
+(a) This solicitation is issued to establish contracts which may be used on a nonmandatory basis by the agencies and activities named below, as a source of supply for the supplies or services described herein, for domestic and/or overseas delivery. For Special Item Number 132-53, the Wireless Mobility Services Special Item Number limited geographic coverage (consistent with the Offeror's commercial practice) may be proposed.
 
 (1) Executive agencies (as defined in FAR Subpart 2.1) including nonappropriated fund activities as prescribed in 41 CFR 101-26.000;
 
@@ -42,13 +40,13 @@ Scope of Contract (Eligible Ordering Activities) (MAY 2019)
 
 (d) The following activities may place orders against Schedule contracts:
 
-(1) State and local government may place orders against Schedule 70 contracts, and Consolidated Schedule contracts containing information technology Special Item Numbers, and Schedule 84 contracts, on an optional basis; PROVIDED, the Contractor accepts order(s) from such activities;
+(1) State and local government may place orders against Consolidated Schedule contracts containing information technology or security and protection Special Item Numbers, on an optional basis; provided, the Contractor accepts order(s) from such activities;
 
-(2) The American National Red Cross may place orders against Federal Supply Schedules for products and services in furtherance of the purposes set forth in its Federal charter (36 U.S.C. 300102); PROVIDED, the Contractor accepts order(s) from the American National Red Cross; and
+(2) The American National Red Cross may place orders against Federal Supply Schedules for products and services in furtherance of the purposes set forth in its Federal charter (36 U.S.C. 300102); provided, the Contractor accepts order(s) from the American National Red Cross; and
 
-(3) Other qualified organizations, as defined in section 309 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5152), may place orders against Federal Supply Schedules for products and services determined to be appropriate to facilitate emergency preparedness and disaster relief and set forth in guidance by the Administrator of General Services, in consultation with the Administrator of the Federal Emergency Management Agency; PROVIDED, the Contractor accepts order(s) from such activities.
+(3) Other qualified organizations, as defined in section 309 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5152), may place orders against Federal Supply Schedules for products and services determined to be appropriate to facilitate emergency preparedness and disaster relief and set forth in guidance by the Administrator of General Services, in consultation with the Administrator of the Federal Emergency Management Agency; provided, the Contractor accepts order(s) from such activities.
 
-(4) State and local governments may place orders against Federal Supply Schedules for good or services determined by the Secretary of Homeland Security to facilitate recovery from a major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121, *et seq.*) to facilitate disaster preparedness or response, or to facilitate recovery from terrorism or nuclear, biological, chemical, or radiological attack; PROVIDED, the Contractor accepts order(s) from such activities.
+(4) State and local governments may place orders against Federal Supply Schedules for good or services determined by the Secretary of Homeland Security to facilitate recovery from a major disaster declared by the President under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121, *et seq.*) to facilitate disaster preparedness or response, or to facilitate recovery from terrorism or nuclear, biological, chemical, or radiological attack; provided, the Contractor accepts order(s) from such activities.
 
 (e) Articles or services may be ordered from time to time in such quantities as may be needed to fill any requirement, subject to the Order Limitations thresholds which will be specified in resultant contracts. Overseas activities may place orders directly with schedule contractors for delivery to CONUS port or consolidation point.
 
@@ -60,4 +58,4 @@ Scope of Contract (Eligible Ordering Activities) (MAY 2019)
 
 (h) All users of GSA's Federal Supply Schedules, including non-Federal users, shall use the schedules in accordance with the ordering guidance provided by the Administrator of General Services. GSA encourages non-Federal users to follow the Schedule Ordering Procedures set forth in the Federal Acquisition Regulation (FAR) 8.4, but they may use different established competitive ordering procedures if such procedures are needed to satisfy their state and local acquisition regulations and/or organizational policies.
 
-(End of clause)[84 FR 17046, Apr. 23, 2019]
+(End of clause)[84 FR 17046, Apr. 23, 2019, as amended at 88 FR 20079, Apr. 5, 2023]

@@ -1,7 +1,5 @@
 ##### 538.7001 Definitions. #####
 
-Link to an amendment published at 88 FR 20079, Apr. 5, 2023.
-
 *Ordering activity* (also called “ordering agency” and “ordering office”) means an eligible ordering activity (see 552.238-113) authorized to place orders under Federal supply schedule contracts.
 
 *Preparedness* means actions that may include, but are not limited to planning, resourcing, training, exercising, and organizing to build, sustain, and improve operational disaster response capabilities. Preparedness also includes the process of identifying the personnel, training, and equipment needed for a wide range of potential incidents, and developing jurisdiction-specific plans for delivering capabilities when needed for an incident.
@@ -11,10 +9,6 @@ Link to an amendment published at 88 FR 20079, Apr. 5, 2023.
 *Relief* means disaster “response” and “recovery.” Please see the full definitions for these terms in this section.
 
 *Response* means immediate actions taken during a disaster, or in its immediate aftermath, in order to save lives, protect property and the environment, and meet basic human needs. Response also includes the execution of emergency plans and actions to support short-term recovery.
-
-*Schedule 70,* as used in this subpart, means Schedule 70 information technology contracts, and Consolidated Products and Services Schedule contracts containing information technology SINs. The Consolidated Products and Services Schedule is a compilation of multiple individual Federal Supply Schedules; therefore, only the SINs that fall under Schedule 70 of the Consolidated Products and Services Schedule will apply to Cooperative Purchasing. No other Schedules, or SINs, containing information technology outside of Schedule 70 SINs, and Consolidated Products and Services Schedule contracts containing Schedule 70 SINs, will apply.
-
-*Schedule 84* means the Federal Supply Schedule for alarm and signal systems, facility management systems, firefighting and rescue equipment, law enforcement and security equipment, marine craft and related equipment, special purpose clothing, and related services (as contained in Federal Supply Classification Code Group 84 or any amended or subsequent version of that Federal supply classification group).
 
 *State and local government entities,* as used in this subpart, means the states of the United States, counties, municipalities, cities, towns, townships, tribal governments, public authorities (including public or Indian housing agencies under the United States Housing Act of 1937), school districts, colleges and other institutions of higher education, council of governments (incorporated or not), regional or interstate government entities, or any agency or instrumentality of the preceding entities (including any local educational agency or institution of higher education), and including legislative and judicial departments. The term does not include contractors of, or grantees of, State or local governments.
 
@@ -28,4 +22,4 @@ Link to an amendment published at 88 FR 20079, Apr. 5, 2023.
 
 (ii) Any Alaska Native regional or village corporation established pursuant to the Alaska Native Claims Settlement Act (43 U.S.C. 1601 *et seq.*).
 
-[68 FR 24378, May 7, 2003, as amended at 73 FR 54338, Sept. 19, 2008; 81 FR 36429, June 6, 2016; 84 FR 17041, Apr. 23, 2019]
+[68 FR 24378, May 7, 2003, as amended at 73 FR 54338, Sept. 19, 2008; 81 FR 36429, June 6, 2016; 84 FR 17041, Apr. 23, 2019; 88 FR 20079, Apr. 5, 2023]
