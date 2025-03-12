@@ -1,10 +1,8 @@
 ##### 538.7003 Policy. #####
 
-Link to an amendment published at 86 FR 68443, Dec. 2, 2021.
-
 *Preparing solicitations when schedules are open to eligible non-federal entities.* When opening authorized Federal Supply Schedules for use by eligible non-federal entities, the contracting officer must make minor modifications to certain Federal Acquisition Regulation and GSAM provisions and clauses in order to make clear distinctions between the rights and responsibilities of the U.S. Government in its management and regulatory capacity pursuant to which it awards schedule contracts and fulfills associated Federal requirements versus the rights and responsibilities of eligible ordering activities placing orders to fulfill agency needs. Accordingly, the contracting officer is authorized to modify the following FAR provisions/clauses to delete “Government” or similar language referring to the U.S. Government and substitute “ordering activity” or similar language when preparing solicitations and contracts to be awarded under authorized Federal Supply Schedules. When such changes are made, the word “(DEVIATION)” shall be added at the end of the title of the provision or clause. These clauses include but are not limited to:
 
-(a) 52.212-4, Contract Terms and Conditions - Commercial Items.
+(a) 52.212-4, Contract Terms and Conditions—Commercial Products and Commercial Services.
 
 (b) 52.216-18, Ordering.
 
@@ -20,7 +18,7 @@ Link to an amendment published at 86 FR 68443, Dec. 2, 2021.
 
 (h) 52.232-19, Availability of Funds for the Next Fiscal Year.
 
-(i) 52.232-34, Payment by Electronic Funds Transfer - Other than Central Contractor Registration
+(i) 52.232-34, Payment by Electronic Funds Transfer—Other than Central Contractor Registration
 
 (j) 52.232-36, Payment by Third Party.
 
@@ -34,4 +32,4 @@ Link to an amendment published at 86 FR 68443, Dec. 2, 2021.
 
 (o) 52.247-38, F.O.B. Inland Carrier Point of Exportation.
 
-[68 FR 24378, May 7, 2003, as amended at 73 FR 54338, Sept. 19, 2008; 81 FR 36430, June 6, 2016]
+[68 FR 24378, May 7, 2003, as amended at 73 FR 54338, Sept. 19, 2008; 81 FR 36430, June 6, 2016; 86 FR 68443, Dec. 2, 2021]

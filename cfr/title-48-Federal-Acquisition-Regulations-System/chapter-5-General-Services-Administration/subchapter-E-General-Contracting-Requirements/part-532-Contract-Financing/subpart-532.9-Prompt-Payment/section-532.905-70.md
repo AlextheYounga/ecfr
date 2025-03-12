@@ -1,23 +1,17 @@
-##### 532.905-70 Final payment - construction and building service contracts. #####
-
-Link to an amendment published at 86 FR 60372, Nov. 2, 2021.
+##### 532.905-70 Final payment—construction and building service contracts. #####
 
 The following procedures apply to construction and building service contracts:
 
-(a) The Government shall pay the final amount due the Contractor under this contract after the documentation in the payment clauses of the contract is submitted. This includes the final release prescribed for construction at FAR 52.232-5, and for building services at GSAR 552.232-72.
+(a) The Government shall pay the final amount due to the contractor under this contract after the documentation in the payment clauses of the contract is submitted. This includes the final release prescribed for construction at FAR 52.232-5, and for building services at GSAR 552.232-72.
 
-(b) Contracting officers may not process the final payment on construction or building service contracts until the contractor submits a properly executed GSA Form 1142, Release of Claims, except as provided in paragraph (c) of this section.
+(b) A contracting officer may only process the final payment for a construction or building service contract once:
 
-(c) In cases where, after 60 days from the initial attempt, the contracting officer is unable to obtain a release of claims from the contractor, the final payment may be processed with the approval of assigned legal counsel.
+(1) The contractor submits a properly executed GSA Form 1142, Release of Claims; or
 
-(d) The amount of final payment must include, as appropriate, deductions to cover any of the following:
+(2) The contracting officer documents in the contract file:
 
-(1) Liquidated damages for late completion.
+(i) That the contracting officer requested a release of claims from the contractor and did not receive a response within 60 calendar days; and
 
-(2) Liquidated damages for labor violations.
+(ii) Approval to process the final payment from one level above the contracting officer.
 
-(3) Amount withheld for improper payment of labor wages.
-
-(4) The amount of unilateral change orders covering defects and omissions.
-
-[77 FR 6987, Feb. 10, 2012]
+[77 FR 6987, Feb. 10, 2012, as amended at 86 FR 60372, Nov. 2, 2021]

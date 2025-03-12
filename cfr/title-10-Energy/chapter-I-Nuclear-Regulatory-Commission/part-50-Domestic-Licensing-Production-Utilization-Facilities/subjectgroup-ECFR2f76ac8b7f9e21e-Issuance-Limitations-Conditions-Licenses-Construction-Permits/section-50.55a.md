@@ -1,12 +1,8 @@
 ##### § 50.55a Codes and standards. #####
 
-Link to an amendment published at 87 FR 11949, Mar. 3, 2022.
+(a) *Documents approved for incorporation by reference.* The standards listed in this paragraph (a) have been approved for incorporation by reference by the Director of the Federal Register pursuant to 5 U.S.C. 552(a) and 1 CFR part 51. The standards are available for inspection, by appointment, at the NRC Technical Library, which is located at Two White Flint North, 11545 Rockville Pike, Rockville, Maryland 20852; telephone: 301-415-7000; email: *Library.Resource@nrc.gov;* or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fr.inspection@nara.gov* or go to *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
-(a) *Documents approved for incorporation by reference.* The standards listed in this paragraph (a) have been approved for incorporation by reference by the Director of the Federal Register pursuant to 5 U.S.C. 552(a) and 1 CFR part 51. The standards are available for inspection, by appointment, at the NRC Technical Library, which is located at Two White Flint North, 11545 Rockville Pike, Rockville, Maryland 20852; telephone: 301-415-7000; email: *Library.Resource@nrc.gov;* or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030 or go to *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
-
-(1) *American Society of Mechanical Engineers* (*ASME),* Three Park Avenue, New York, NY 10016; telephone:
-
-1-800-843-2763; *http://www.asme.org/Codes/.*
+(1) *American Society of Mechanical Engineers (ASME),* Three Park Avenue, New York, NY 10016; telephone: 1-800-843-2763; *https://www.asme.org/Codes/.*
 
 (i) *ASME Boiler and Pressure Vessel Code, Section III.* The editions and addenda for Section III of the ASME Boiler and Pressure Vessel Code (excluding Nonmandatory Appendices) are listed in this paragraph (a)(1)(i), but limited by those provisions identified in paragraph (b)(1) of this section.
 
@@ -443,13 +439,15 @@ Link to an amendment published at 87 FR 11949, Mar. 3, 2022.
 
 (iv) *IEEE standard 603-1991, correction sheet.* (IEEE Std 603-1991 correction sheet), “Standard Criteria for Safety Systems for Nuclear Power Generating Stations, Correction Sheet, Issued January 30, 1995,” referenced in paragraphs (h)(2) and (h)(3) of this section. (This correction sheet is available from IEEE at *http://standards.ieee.org/findstds/errata/*).
 
-(3) *U.S. Nuclear Regulatory Commission (NRC) Public Document Room,* 11555 Rockville Pike, Rockville, Maryland 20852; telephone: 1-800-397-4209; email: *pdr.resource@nrc.gov;**https://www.nrc.gov/reading-rm/doc-collections/reg-guides/.* The use of Code Cases listed in the NRC regulatory guides in paragraphs (a)(1)(i) through (iii) of this section is acceptable with the specified conditions in those guides when implementing the editions and addenda of the ASME BPV Code and ASME OM Code incorporated by reference in paragraph (a)(1) of this section.
+(3) *U.S. Nuclear Regulatory Commission (NRC) Public Document Room,* 11555 Rockville Pike, Rockville, Maryland 20852; telephone: 1-800-397-4209; email: *pdr.resource@nrc.gov; https://www.nrc.gov/reading-rm/doc-collections/reg-guides/.* The use of code cases listed in the NRC regulatory guides in paragraphs (a)(3)(i) through (iii) of this section is acceptable with the specified conditions in those guides when implementing the editions and addenda of the ASME BPV Code and ASME OM Code incorporated by reference in paragraph (a)(1) of this section. The NRC report in paragraph (a)(3)(iv) of this section is acceptable as specified in the conditions when implementing code cases listed in the NRC regulatory guides in paragraphs (a)(3)(i) through (iii) of this section.
 
-(i) *NRC Regulatory Guide 1.84, Revision 38.* NRC Regulatory Guide 1.84, Revision 38, “Design, Fabrication, and Materials Code Case Acceptability, ASME Section III,” dated October 2019, with the requirements in paragraph (b)(4) of this section.
+(i) *NRC Regulatory Guide 1.84, Revision 39.* NRC Regulatory Guide 1.84, Revision 39, “Design, Fabrication, and Materials Code Case Acceptability, ASME Section III,” issued December 2021, with the requirements in paragraph (b)(4) of this section.
 
-(ii) *NRC Regulatory Guide 1.147, Revision 19.* NRC Regulatory Guide 1.147, Revision 19, “Inservice Inspection Code Case Acceptability, ASME Section XI, Division 1,” dated October 2019, which lists ASME Code Cases that the NRC has approved in accordance with the requirements in paragraph (b)(5) of this section.
+(ii) *NRC Regulatory Guide 1.147, Revision 20.* NRC Regulatory Guide 1.147, Revision 20, “Inservice Inspection Code Case Acceptability, ASME Section XI, Division 1,” issued December 2021, which lists ASME Code Cases that the NRC has approved in accordance with the requirements in paragraph (b)(5) of this section.
 
-(iii) *NRC Regulatory Guide 1.192, Revision 3.* NRC Regulatory Guide 1.192, Revision 3, “Operation and Maintenance Code Case Acceptability, ASME OM Code,” dated October 2019, which lists ASME Code Cases that the NRC has approved in accordance with the requirements in paragraph (b)(6) of this section.
+(iii) *NRC Regulatory Guide 1.192, Revision 4.* NRC Regulatory Guide 1.192, Revision 3, “Operation and Maintenance Code Case Acceptability, ASME OM Code,” issued December 2021, which lists ASME Code Cases that the NRC has approved in accordance with the requirements in paragraph (b)(6) of this section.
+
+(iv) *NUREG-2228.* NUREG-2228, “Weld Residual Stress Finite Element Analysis Validation: Part II - Proposed Validation Procedure,” Published July 2020 (including Errata September 22, 2021), which is referenced in RG 1.147, Revision 20.
 
 (4) Electric Power Research Institute, Materials Reliability Program, 3420 Hillview Avenue, Palo Alto, CA 94304-1338; telephone: 1-650-855-2000; *http://www.epri.com.*
 
@@ -463,9 +461,9 @@ Link to an amendment published at 87 FR 11949, Mar. 3, 2022.
 
 (i) *Section III condition: Section III materials.* When applying the 1992 Edition of Section III, applicants or licensees must apply the 1992 Edition with the 1992 Addenda of Section II of the ASME Boiler and Pressure Vessel Code.
 
-(ii) *Section III condition: Weld leg dimensions.* When applying the 1989 Addenda through the latest edition and addenda incorporated by reference in paragraph (a)(1) of this section, applicants and licensees may not apply the Section III provisions identified in Table I of this section for welds with leg size less than 1.09 tn:
+(ii) *Section III condition: Weld leg dimensions.* When applying the 1989 Addenda through the latest edition and addenda incorporated by reference in paragraph (a)(1) of this section, applicants and licensees may not apply the Section III provisions identified in table 1 to this paragraph (b)(1)(ii) for welds with leg size less than 1.09 tn:
 
-Table I - Prohibited Code Provisions
+Table 1 to Paragraph (b)(1)(ii) - Prohibited Code Provisions
 
 |      Editions and addenda       |                            Code provision                             |
 |---------------------------------|-----------------------------------------------------------------------|
@@ -768,7 +766,7 @@ Table I - Prohibited Code Provisions
 
 (*4*) Table VIII-S7-1, “Flaw Locations and Orientations,” Supplement 7 to Appendix VIII, is conditioned as follows:
 
-Table VIII - S7-1 - Modified
+Table 2 to Paragraph (b)(2)(xv)(K)(4) - Table VIII: S7-1 - Modified
 
 [Flaw locations and orientations]
 
@@ -926,14 +924,14 @@ For R \< 0, ΔKI depends on the crack depth (a), and the flow stress (σf). The 
 
 (iv) *OM condition: Check valves (Appendix II).* Appendix II of the ASME OM Code, 2003 Addenda through the 2015 Edition, is acceptable for use with the following requirements. Trending and evaluation shall support the determination that the valve or group of valves is capable of performing its intended function(s) over the entire interval. At least one of the Appendix II condition monitoring activities for a valve group shall be performed on each valve of the group at approximate equal intervals not to exceed the maximum interval shown in the following table:
 
-Table II - Maximum Intervals for Use When Applying Interval Extensions
+Table 3 to Paragraph (b)(3)(iv) - Maximum Intervals for Use When Applying Interval Extensions
 
-|Group  <br/>size|Maximum interval between activities of member valves in the groups  <br/>(years)|Maximum  <br/>interval  <br/>between  <br/>activities of each valve in the group  <br/>(years)|
-|----------------|--------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-|       ≥4       |                                      4.5                                       |                                              16                                              |
-|       3        |                                      4.5                                       |                                              12                                              |
-|       2        |                                       6                                        |                                              12                                              |
-|       1        |                                 Not applicable                                 |                                              10                                              |
+|Group size|Maximum interval between activities of  <br/>member valves in the groups  <br/>(years)|Maximum interval between activities of each valve in the group  <br/>(years)|
+|----------|--------------------------------------------------------------------------------------|----------------------------------------------------------------------------|
+|    ≥4    |                                         4.5                                          |                                     16                                     |
+|    3     |                                         4.5                                          |                                     12                                     |
+|    2     |                                          6                                           |                                     12                                     |
+|    1     |                                    Not applicable                                    |                                     10                                     |
 
 (v) *OM condition: Snubbers ISTD.* Article IWF-5000, “Inservice Inspection Requirements for Snubbers,” of the ASME BPV Code, Section XI, must be used when performing inservice inspection examinations and tests of snubbers at nuclear power plants, except as conditioned in paragraphs (b)(3)(v)(A) and (B) of this section.
 
