@@ -12,4 +12,4 @@
 
 (c) Results of all partial and completed analyses performed under paragraph (b) of this section must be provided to inspection program personnel promptly upon receipt by the official plant. Positive test results must be provided to inspection program personnel immediately upon receipt by the official plant.
 
-[85 FR 68680, Oct. 29, 2020]Effective Date Note:At 85 FR 81340, Dec. 16, 2020, § 590.580(b)(1) was stayed through Oct. 31, 2022.
+[85 FR 68680, Oct. 29, 2020]

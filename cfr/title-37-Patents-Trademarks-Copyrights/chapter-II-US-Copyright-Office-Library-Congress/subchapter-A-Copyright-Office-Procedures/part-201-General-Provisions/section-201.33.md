@@ -1,12 +1,10 @@
 ##### § 201.33 Procedures for filing Notices of Intent to Enforce a restored copyright under the Uruguay Round Agreements Act. #####
 
-Link to an amendment published at 87 FR 59308, Sept. 30, 2022.
-
 (a) *General.* This section prescribes the procedures for submission of Notices of Intent to Enforce a Restored Copyright under the Uruguay Round Agreements Act, as required in 17 U.S.C. 104A(a). On or before May 1, 1996, and every four months thereafter, the Copyright Office will publish in the Federal Register a list of works for which Notices of Intent to Enforce have been filed. It will maintain a list of these works. The Office will also make a more complete version of the information contained in the Notice of Intent to Enforce available on its website.
 
 (b) *Definitions.* (1) *NAFTA work* means a work restored to copyright on January 1, 1995, as a result of compliance with procedures contained in the North American Free Trade Agreement Implementation Act of December 8, 1993, Public Law No. 103-182.
 
-(2) *Reliance party* means any person who -
+(2) *Reliance party* means any person who—
 
 (i) With respect to a particular work, engages in acts, before the source country of that work becomes an eligible country under the URAA, which would have violated 17 U.S.C. 106 if the restored work had been subject to copyright protection and who, after the source country becomes an eligible country, continues to engage in such acts;
 
@@ -14,13 +12,13 @@ Link to an amendment published at 87 FR 59308, Sept. 30, 2022.
 
 (iii) As the result of the sale or other disposition of a derivative work, covered under 17 U.S.C. 104A(d)(3), or of significant assets of a person, described in 17 U.S.C. 104 A(d)(3) (A) or (B), is a successor, assignee or licensee of that person.
 
-(3) *Restored work* means an original work of authorship that -
+(3) *Restored work* means an original work of authorship that—
 
 (i) Is protected under 17 U.S.C. 104A(a);
 
 (ii) Is not in the public domain in its source country through expiration of term of protection;
 
-(iii) Is in the public domain in the United States due to -
+(iii) Is in the public domain in the United States due to—
 
 (A) Noncompliance with formalities imposed at any time by U.S. copyright law, including failure of renewal, lack of proper notice, or failure to comply with any manufacturing requirements;
 
@@ -30,17 +28,17 @@ Link to an amendment published at 87 FR 59308, Sept. 30, 2022.
 
 (iv) Has at least one author or rightholder who was, at the time the work was created, a national or domiciliary of an eligible country, and if published, was first published in an eligible country and not published in the United States during the 30-day period following publication in such eligible country.
 
-(4) *Source country* of a restored work is -
+(4) *Source country* of a restored work is—
 
 (i) A nation other than the United States; and
 
-(ii) In the case of an unpublished work -
+(ii) In the case of an unpublished work—
 
 (A) The eligible country in which the author or rightholder is a national or domiciliary, or, if a restored work has more than one author or rightholder, the majority of foreign authors or rightholders are nationals or domiciliaries of eligible countries; or
 
 (B) If the majority of authors or rightholders are not foreign, the nation other than the United States which has the most significant contacts with the work; and
 
-(iii) In the case of a published work -
+(iii) In the case of a published work—
 
 (A) The eligible country in which the work is first published; or
 
@@ -92,19 +90,13 @@ SignatureName (printed or typed)As agent for (if applicable)Date:
 
 (5) Notices of Intent to Enforce works restored on January 1, 1996, may be submitted to the Copyright Office on or after January 1, 1996, through December 31, 1997.
 
-(e) Fee - (1) *Amount.* The filing fee for recording Notices of Intent to Enforce is prescribed in § 201.3(c).
-
-(2) *Method of payment* - (i) *Checks, money orders, or bank drafts.* The Copyright Office will accept checks, money orders, or bank drafts made payable to the U.S. Copyright Office. Remittances must be redeemable without service or exchange fees through a United States institution, must be payable in United States dollars, and must be imprinted with American Banking Association routing numbers. International money orders, and postal money orders that are negotiable only at a post office are not acceptable. CURRENCY WILL NOT BE ACCEPTED.
-
-(ii) *Copyright Office Deposit Account.* The Copyright Office maintains a system of Deposit Accounts for the convenience of those who frequently use its services. The system allows an individual or firm to establish a Deposit Account in the Copyright Office and to make advance deposits into that account. Deposit Account holders can charge copyright fees against the balance in their accounts instead of sending separate remittances with each request for service. For information on Deposit Accounts, see Circular 5 on the Copyright Office's website, or request a copy at the address specified in § 201.1(b).
-
-(iii) *Credit cards.* For URAA filings the Copyright Office will accept most major credit cards. Debit cards cannot be accepted for payment. With the NIE, a filer using a credit card must submit a separate cover letter stating the name of the credit card, the credit card number, the expiration date of the credit card, the total amount, and a signature authorizing the Office to charge the fees to the account. To protect the security of the credit card number, the filer must not write the credit card number on the Notice of Intent to Enforce.
+(e) *Fee.* The filing fee for recording Notices of Intent to Enforce is prescribed in § 201.3(c).
 
 (f) *Public access.* Notices of Intent to Enforce filed with the Copyright Office are available for public inspection and copying in the Records Research and Certification Section. Some of the information contained in these records is available on the Office's website, including the title of the work or a brief description if the work is untitled and the name of the copyright owner or owner of an exclusive right.
 
 (g) *NAFTA work.* The copyright owner of a work restored under NAFTA by the filing of a NAFTA Statement of Intent to Restore with the Copyright Office prior to January 1, 1995, is not required to file a Notice of Intent to Enforce under this regulation.
 
-Appendix A to § 201.33 - Notice of Intent To Enforce a Copyright Restored under the Uruguay Round Agreements Act (URAA)1. Title:
+Appendix A to § 201.33—Notice of Intent To Enforce a Copyright Restored under the Uruguay Round Agreements Act (URAA)1. Title:
 
 (If this work does not have a title, state “No title.”) OR
 
@@ -122,4 +114,4 @@ Signature:Name (printed or typed):As agent for (if applicable):Date:Note:
 
 Notices of Intent to Enforce must be in English, except for the original title, and either typed or printed by hand legibly in dark, preferably black, ink. They should be on 81/2″ by 11″ white paper of good quality, with at least a 1-inch (or 3 cm) margin.
 
-[60 FR 50420, Sept. 29, 1995, as amended at 63 FR 30635, June 5, 1998; 64 FR 12902, Mar. 16, 1999; 71 FR 31092, June 1, 2006; 73 FR 37839, July 1, 2008; 78 FR 42874, July 18, 2013; 82 FR 9358, Feb. 6, 2017; 85 FR 19667, Apr. 8, 2020]
+[60 FR 50420, Sept. 29, 1995, as amended at 63 FR 30635, June 5, 1998; 64 FR 12902, Mar. 16, 1999; 71 FR 31092, June 1, 2006; 73 FR 37839, July 1, 2008; 78 FR 42874, July 18, 2013; 82 FR 9358, Feb. 6, 2017; 85 FR 19667, Apr. 8, 2020; 87 FR 59308, Sept. 30, 2022]

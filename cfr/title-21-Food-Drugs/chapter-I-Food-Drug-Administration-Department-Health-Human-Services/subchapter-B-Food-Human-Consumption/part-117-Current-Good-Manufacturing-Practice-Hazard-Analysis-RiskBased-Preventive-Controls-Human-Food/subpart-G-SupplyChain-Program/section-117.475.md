@@ -102,4 +102,4 @@
 
 (v) Applicable documentation, from an entity other than the receiving facility, of verification activities when a supply-chain-applied control is applied by an entity other than the receiving facility's supplier.
 
-Effective Date Note:At 80 FR 56145, Sept. 17, 2015, § 117.475 was added, effective Nov. 16, 2015, except for paragraph (c)(2). FDA will publish a document in the Federal Register announcing the effective date for this paragraph.
+[80 FR 56145, Sept. 17, 2015]

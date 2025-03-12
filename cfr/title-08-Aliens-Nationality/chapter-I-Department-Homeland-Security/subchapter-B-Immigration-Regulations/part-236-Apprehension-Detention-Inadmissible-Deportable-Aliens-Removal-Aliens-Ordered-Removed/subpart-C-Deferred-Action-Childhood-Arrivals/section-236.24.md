@@ -1,0 +1,5 @@
+##### § 236.24 Severability. #####
+
+(a) Any provision of this subpart held to be invalid or unenforceable as applied to any person or circumstance shall be construed so as to continue to give the maximum effect to the provision permitted by law, including as applied to persons not similarly situated or to dissimilar circumstances, unless such holding is that the provision of this subpart is invalid and unenforceable in all circumstances, in which event the provision shall be severable from the remainder of this subpart and shall not affect the remainder thereof.
+
+(b) The provisions in § 236.21(c)(2) through (4) and § 274a.12(c)(14) and 274a.12(c)(33) are intended to be severable from one another, from this subpart and any grant of forbearance from removal resulting from this subpart, and from any provision referenced in those paragraphs, including such referenced provision's application to persons with deferred action generally.

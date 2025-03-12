@@ -1,33 +1,5 @@
-##### § 590.570 Pasteurization of liquid eggs. #####
+##### § 590.570 Control of pathogens in pasteurized egg products. #####
 
-Link to an amendment published at 85 FR 68680, Oct. 29, 2020.Link to a correction published at 85 FR 81340, Dec. 16, 2020.Link to a correction published at 85 FR 81341, Dec. 16, 2020.
+Pasteurized egg products must be produced to be edible without additional preparation to achieve food safety and may receive additional preparation for palatability or aesthetic, epicurean, gastronomic, or culinary purposes. Pasteurized egg products are not required to bear a safe-handling instruction or other labeling that directs that the product must be cooked or otherwise treated for safety.
 
-(a) [Reserved]
-
-(b) Pasteurizing operations: Every particle of all products must be rapidly heated to the required temperature and held at that temperature for the required minimum holding time as set forth in this section. The temperatures and holding times listed in Table I of this section are minimum. The product may be heated to higher temperatures and held for longer periods of time. Pasteurization procedures shall assure complete pasteurization, and holding, packaging, facilities and operations shall be such as to prevent contamination of the product.
-
-Table I - Pasteurization Requirements<sup>1</sup>
-
-|                                       Liquid egg product                                       |Minimum temperature requirements (°F.)|Minimum holding time requirements (Minutes)|
-|------------------------------------------------------------------------------------------------|--------------------------------------|-------------------------------------------|
-|                               Albumen (without use of chemicals)                               |                 134                  |                    3.5                    |
-|                                                                                                |                 132                  |                    6.2                    |
-|                                           Whole egg                                            |                 140                  |                    3.5                    |
-|                Whole egg blends (less than 2 percent added nonegg ingredients)                 |                 142                  |                    3.5                    |
-|                                                                                                |                 140                  |                    6.2                    |
-|Fortified whole egg and blends (24-38 percent egg solids, 2-12 percent added nonegg ingredients)|                 144                  |                    3.5                    |
-|                                                                                                |                 142                  |                    6.2                    |
-|                       Salt whole egg (with 2 percent or more salt added)                       |                 146                  |                    3.5                    |
-|                                                                                                |                 144                  |                    6.2                    |
-|                           Sugar whole egg (2-12 percent sugar added)                           |                 142                  |                    3.5                    |
-|                                                                                                |                 140                  |                    6.2                    |
-|                                           Plain yolk                                           |                 142                  |                    3.5                    |
-|                                                                                                |                 140                  |                    6.2                    |
-|                           Sugar yolk (2 percent or more sugar added)                           |                 146                  |                    3.5                    |
-|                                                                                                |                 144                  |                    6.2                    |
-|                              Salt yolk (2-12 percent salt added)                               |                 146                  |                    3.5                    |
-|                                                                                                |                 144                  |                    6.2                    |
-
-<sup>1</sup> Pasteurization of egg products not listed in this table shall be in accordance with paragraph (c) of this section.
-
-[36 FR 9814, May 28, 1971, as amended at 85 FR 81341, Dec. 16, 2020]
+[85 FR 68680, Oct. 29, 2020; 85 FR 81341, Dec. 16, 2020]

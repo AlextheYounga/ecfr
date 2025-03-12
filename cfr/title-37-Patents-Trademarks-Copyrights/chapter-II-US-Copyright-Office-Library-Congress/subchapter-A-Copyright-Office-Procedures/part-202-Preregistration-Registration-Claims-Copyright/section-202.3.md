@@ -1,7 +1,5 @@
 ##### § 202.3 Registration of copyright. #####
 
-Link to an amendment published at 87 FR 59308, Sept. 30, 2022.
-
 (a) *General.* (1) This section prescribes conditions for the registration of copyright, and the application to be made for registration under sections 408 and 409 of title 17 of the United States Code.
 
 (2) For the purposes of this section, the terms *audiovisual work*, *compilation*, *copy*, *derivative work*, *device*, *fixation*, *literary work*, *motion picture*, *phonorecord*, *pictorial, graphic and sculptural works*, *process*, *sound recording*, and their variant forms, have the meanings set forth in section 101 of title 17. The term *author* includes an employer or other person for whom a work is “made for hire” under section 101 of title 17.
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 59308, Sept. 30, 2022.
 
 1 This category includes a person or organization that has obtained, from the author or from an entity that has obtained ownership of all rights under the copyright initially belonging to the author, the contractual right to claim legal title to the copyright in an application for copyright registration.
 
-(b) *Administrative classification and application forms* - (1) *Classes of works.* For the purpose of registration, the Register of Copyrights has prescribed the classes of works in which copyright may be claimed. These classes, and examples of works which they include, are as follows:
+(b) *Administrative classification and application forms*—(1) *Classes of works.* For the purpose of registration, the Register of Copyrights has prescribed the classes of works in which copyright may be claimed. These classes, and examples of works which they include, are as follows:
 
 (i) *Class TX: Nondramatic literary works.* This class includes all published and unpublished nondramatic literary works. Examples: Fiction; nonfiction; poetry; textbooks; reference works; directories; catalogs; advertising copy; and compilations of information.
 
@@ -44,9 +42,7 @@ Link to an amendment published at 87 FR 59308, Sept. 30, 2022.
 
 (*3*) The following categories of works may *not* be registered using the Single Application: collective works, databases, websites, architectural works, choreographic works, works made for hire, works by more than one author, works with more than one owner, or works eligible for registration under § 202.4 or paragraph (b)(4) or (5) of this section.
 
-(C) An online application requires a payment of the filing fee through an electronic funds transfer, credit or debit card, or through a Copyright Office deposit account.
-
-(D) Deposit materials in support of an online application may be submitted electronically in a digital format (if eligible) along with the application and filing fee, or an applicant may send physical copies or phonorecords as necessary to satisfy the best edition requirements, by mail to the Copyright Office, using the required shipping slip generated during the online registration process.
+(C) Deposit materials in support of an online application may be submitted electronically in a digital format (if eligible) along with the application and filing fee, or an applicant may send physical copies or phonorecords as necessary to satisfy the best edition requirements, by mail to the Copyright Office, using the required shipping slip generated during the online registration process.
 
 (ii) *Paper applications.* (A) An applicant may submit an application using one of the printed forms prescribed by the Register of Copyrights. Each form corresponds to one of the administrative classes set forth in paragraph (b)(1) of this section. These forms are designated “Form TX,” “Form PA,” “Form VA,” “Form SR,” and “Form SE.” These forms may be used to register a work under sections 408(a) and 409 of title 17, including a work by one author, a joint work, a work made for hire, a derivative work, a collective work, or a compilation.
 
@@ -114,4 +110,4 @@ Link to an amendment published at 87 FR 59308, Sept. 30, 2022.
 
 (4) In the case of applications for registration made under paragraphs (b)(4) through (5) of this section or under § 202.4, the “year of creation,” “year of completion,” or “year in which creation of this work was completed” means the latest year in which the creation of any copyrightable element was completed.
 
-(Pub. L. 94-553; secs. 408, 409, 410, 702)[43 FR 966, Jan. 5, 1978]Editorial Note:For Federal Register citations affecting § 202.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[43 FR 966, Jan. 5, 1978]Editorial Note:For Federal Register citations affecting § 202.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

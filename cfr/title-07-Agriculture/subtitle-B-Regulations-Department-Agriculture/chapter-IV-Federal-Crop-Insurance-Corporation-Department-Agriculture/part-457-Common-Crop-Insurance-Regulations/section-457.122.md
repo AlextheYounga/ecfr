@@ -1,38 +1,32 @@
 ##### § 457.122 Walnut crop insurance provisions. #####
 
-Link to an amendment published at 87 FR 64368, Oct. 25, 2022.
-
-The Walnut Crop Insurance Provisions for the 2008 and succeeding crop years are as follows:
+The Walnut Crop Insurance Provisions for the 2023 and succeeding crop years are as follows:
 
 FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)
 
 Both FCIC and reinsured policies:
 
-Walnut Crop Provisions
+Walnut Crop Provisions1. Definitions
 
-If a conflict exists among the policy provisions, the order of priority is as follows: (1) The Catastrophic Risk Protection Endorsement, if applicable; (2) the Special Provisions; (3) these Crop Provisions; and (4) the Basic Provisions with (1) controlling (2), etc.
+*Harvest.* Removal of the mature walnuts from the orchard.
 
-1. Definitions
+*Interplanted.* In lieu of the definition contained in section 1 of the Basic Provisions, acreage on which two or more crops are planted in any form of alternating or mixed pattern.
 
-*Harvest.* Removal of the walnuts from the orchard.
-
-*Interplanted.* Acreage on which two or more crops are planted in any form of alternating or mixed pattern.
-
-*Net delivered weight.* Delivered weight (pounds) of dry, hulled, in-shell walnuts, excluding foreign material.
+*Net delivered weight.* Delivered weight (pounds) of dry, hulled, whole in-shell walnuts, excluding foreign material.
 
 *Pound.* A unit of weight equal to 16 ounces avoirdupois.
 
-*Production guarantee (per acre).* The number of pounds (whole in-shell walnuts), determined by multiplying the approved APH yield per acre by the coverage level percentage you elect.
+*Production guarantee (per acre).* In addition to the definition contained in section 1 of the Basic Provisions, the number of pounds is dry, hulled, whole in-shell walnuts.
 
 2. Unit Division
 
-Provisions in the Basic Provisions that allow optional units by section, section equivalent, or FSA farm serial number and by irrigated and non-irrigated practices are not applicable. Optional units may be established only if each optional unit is located on non-contiguous land, unless otherwise allowed by written agreement.
+Provisions in the Basic Provisions that allow optional units by section, section equivalent, or FSA farm number and by irrigated and non-irrigated practices are not applicable. Optional units may be established only if each optional unit is located on non-contiguous land, unless otherwise allowed by written agreement.
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+3. Insurance Guarantees, Coverage Levels, and Prices
 
 In addition to the requirements of section 3 of the Basic Provisions (§ 457.8):
 
-(a) You may select only one price election for all the walnuts in the county insured under this policy unless the Special Provisions provide different price elections by variety or varietal group, in which case you may select one price election for each walnut variety or varietal group designated in the Special Provisions. The price elections you choose for each variety or varietal group must have the same percentage relationship to the maximum price offered by us for each variety or varietal group. For example, if you choose 100 percent of the maximum price election for a specific variety or varietal group, you must also choose 100 percent of the maximum price election for all other varieties or varietal groups.
+(a) You may select only one price election for all the walnuts in the county insured under this policy unless the actuarial documents provide different price elections by variety or varietal group, in which case you may select one price election for each walnut variety or varietal group designated in the Special Provisions. The price elections you choose for each variety or varietal group must have the same percentage relationship to the maximum price offered by us for each variety or varietal group. For example, if you choose 100 percent of the maximum price election for a specific variety or varietal group, you must also choose 100 percent of the maximum price election for all other varieties or varietal groups.
 
 (b) You must report, by the production reporting date designated in section 3 of the Basic Provisions (§ 457.8), by variety or varietal group if applicable:
 
@@ -42,13 +36,19 @@ In addition to the requirements of section 3 of the Basic Provisions (§ 457.8):
 
 (3) The age of the trees and the planting pattern;
 
-(4) For the first year of insurance for acreage interplanted with another perennial crop, and anytime the planting pattern of such acreage is changed, the age of the crop that is interplanted with the walnuts, and type if applicable, and the planting pattern; and
+(4) For the first year of insurance for acreage interplanted with another perennial crop, and any time the planting pattern of such acreage is changed, the age of the crop that is interplanted with the walnuts, and type if applicable, and the planting pattern; and
 
 (5) Any other information that we request in order to establish your approved yield.
 
-We will reduce the yield used to establish your production guarantee as necessary, based on our estimate of the effect of the following: interplanted perennial crop; removal of trees; damage; change in practices and any other circumstance on the yield potential of the insured crop. If you fail to notify us of any circumstance that may reduce your yields from previous levels, we will reduce your production guarantee as necessary at any time we become aware of the circumstances.
+(c) We will reduce the yield used to establish your production guarantee, as necessary, based on our estimate of the effect of any circumstance that may reduce your yields from previous levels. Examples of these circumstances that may reduce yield may include but are not limited to: interplanted perennial crop; removal of trees; damage; and change in practices. If the circumstance occurred:
 
-(c) You may not increase your elected or assigned coverage level or the ratio of your price election to the maximum price election if a cause of loss that could or would reduce the yield of the insured crop has occurred prior to the time that you request the increase.
+(1) Before the beginning of the insurance period and you notify us by the production reporting date, the yield used to establish your production guarantee will be reduced for the current crop year regardless of whether the circumstance was due to an insured or uninsured cause of loss;
+
+(2) After the beginning of the insurance period and you notify us by the production reporting date, the yield used to establish your production guarantee will be reduced for the current crop year only if the potential reduction in the yield used to establish your production guarantee is due to an uninsured cause of loss; or
+
+(3) Before or after the beginning of the insurance period and you fail to notify us by the production reporting date, an amount equal to the reduction in the yield will be added to the production to count calculated in section 11(c) of these Crop Provisions due to uninsured causes. We will reduce the yield used to establish your production guarantee for the subsequent crop year to reflect any reduction in the productive capacity of the trees or in the yield potential of the insured acreage.
+
+(d) You may not increase your elected or assigned coverage level or the ratio of your price election to the maximum price election if a cause of loss that could or would reduce the yield of the insured crop has occurred prior to the time that you request the increase.
 
 4. Contract Changes
 
@@ -72,29 +72,27 @@ In accordance with section 8 of the Basic Provisions (§ 457.8), the crop insure
 
 (3) Are grown on a root stock that is adapted to the area;
 
-(c) That are grown in an orchard that, if inspected, are considered acceptable by us;
+(c) That are grown in an orchard that, if inspected, are considered acceptable by us; and
 
-(d) On acreage where at least 90 percent of the trees have reached at least the seventh growing season after being set out, unless otherwise provided in the Special Provisions.
-
-(e) That are in a unit that consists of at least five acres, unless we agree in writing to insure a smaller unit.
+(d) On acreage where at least 90 percent of the trees have reached at least the seventh leaf year, unless otherwise provided in the Special Provisions.
 
 7. Insurable Acreage
 
-In lieu of the provisions in section 9 of the Basic Provisions (§ 457.8), that prohibit insurance attaching to a crop planted with another crop, walnuts interplanted with another perennial crop are insurable unless we inspect the acreage and determine that it does not meet the requirements contained in your policy.
+In lieu of the provisions in section 9 of the Basic Provisions (§ 457.8) that prohibit insurance attaching to a crop planted with another crop, walnuts interplanted with another perennial crop are insurable unless we inspect the acreage and determine that it does not meet the requirements contained in your policy.
 
 8. Insurance Period
 
-(a) In accordance with the provisions of section 11 of the Basic Provisions:
+(a) In accordance with section 11 of the Basic Provisions:
 
-(1) Coverage begins on February 1 in California and November 21 in all other states of each crop year, except that for the year of application, if your application is received after January 22 but prior to February 1 in California or after November 11 but prior to November 21 in all states, insurance will attach on the 10th day after your properly completed application is received in our local office, unless we inspect the acreage during the 10 day period and determine that it does not meet insurability requirements. You must provide any information that we require for the crop or to determine the condition of the orchard.
+(1) Coverage begins on February 1 in California and November 21 in all other states of each crop year except for the year of application, if your application is received after January 22 but prior to February 1 in California or after November 11 but prior to November 21 in all states, insurance will attach on the 10th day after your properly completed application is received in our local office, unless we inspect the acreage during the 10-day period and determine that it does not meet insurability requirements. You must provide any information that we require for the crop or to determine the condition of the orchard.
 
-(2) The calendar date for the end of the insurance period for each crop year is November 15 (Exceptions, if any, for specific counties or varieties or varietal group are contained in the Special Provisions).
+(2) The calendar date for the end of the insurance period for each crop year is November 15, unless otherwise specified in the Special Provisions.
 
 (3) Notwithstanding paragraph (a)(1) of this section, for each subsequent crop year that the policy remains continuously in force, coverage begins on the day immediately following the end of the insurance period for the prior crop year. Policy cancellation that results solely from transferring to a different insurance provider for a subsequent crop year will not be considered a break in continuous coverage.
 
-(4) If your walnut policy is canceled or terminated for any crop year, in accordance with the terms of the policy, after insurance attached for that crop year but on or before the cancellation and termination dates whichever is later, insurance will not be considered to have attached for that crop year and no premium, administrative fee, or indemnity will be due for such crop year.
+(4) If your walnut policy is canceled or terminated for any crop year, in accordance with the terms of the policy, after insurance attached for that crop year but on or before the cancellation and termination dates, whichever is later, insurance will not be considered to have attached for that crop year and no premium, administrative fee, or indemnity will be due for such crop year.
 
-(b) In addition to the provisions of section 11 (Insurance Period) of the Basic Provisions (§ 457.8):
+(b) In addition to section 11 of the Basic Provisions (§ 457.8):
 
 (1) If you acquire an insurable share in any insurable acreage after coverage begins but on or before the acreage reporting date for the crop year, and after an inspection we consider the acreage acceptable, insurance will be considered to have attached to such acreage on the calendar date for the beginning of the insurance period. Acreage acquired after the acreage reporting date will not be insured.
 
@@ -108,7 +106,7 @@ In lieu of the provisions in section 9 of the Basic Provisions (§ 457.8), that 
 
 9. Causes of Loss
 
-(a) In accordance with the provisions of section 12 of the Basic Provisions (§ 457.8), insurance is provided only against the following causes of loss that occur during the insurance period:
+(a) In accordance with section 12 of the Basic Provisions (§ 457.8), insurance is provided only against the following causes of loss that occur during the insurance period:
 
 (1) Adverse weather conditions;
 
@@ -126,7 +124,7 @@ In lieu of the provisions in section 9 of the Basic Provisions (§ 457.8), that 
 
 (8) Failure of irrigation water supply, if caused by an insured peril that occurs during the insurance period.
 
-(b) In addition to the causes of loss excluded in section 12 (Causes of Loss) of the Basic Provisions (§ 457.8), we will not insure against any damage or loss of production due to the inability to market the walnuts for any reason other than actual physical damage to the walnuts from an insurable cause specified in this section. For example, we will not pay you an indemnity if you are unable to market due to quarantine, boycott, or refusal of any person to accept production.
+(b) In addition to the causes of loss excluded in section 12 of the Basic Provisions (§ 457.8), we will not insure against any damage or loss of production due to the inability to market the walnuts for any reason other than actual physical damage to the walnuts from an insurable cause specified in this section. For example, we will not pay you an indemnity if you are unable to market due to quarantine, boycott, or refusal of any person to accept production.
 
 10. Duties in the Event of Damage or Loss
 
@@ -166,17 +164,17 @@ In lieu of the provisions in section 9 of the Basic Provisions (§ 457.8), that 
 
 For example:
 
-You have a 100 percent share in 100 acres of walnuts in the unit, with a guarantee of 2,500 pounds per acre and a price election of $0.61 per pound. You are only able to harvest 200,000 pounds. Your indemnity would be calculated as follows:
+You have a 100 percent share in 100 acres of walnuts in the unit, with a guarantee of 2,500 pounds per acre and a price election of $0.90 per pound. You are only able to harvest 200,000 pounds. Your indemnity would be calculated as follows:
 
 (1) 100 acres × 2,500 pounds = 250,000 pound insurance guarantee;
 
-(2 & 3) 250,000 pounds × $0.61 price election = $152,500 total value of insurance guarantee;
+(2 & 3) 250,000 pounds × $0.90 price election = $225,000 total value of insurance guarantee;
 
-(4 & 5) 200,000 pounds production to count × $0.61 price election = $122,000 total value of production to count;
+(4 & 5) 200,000 pounds production to count × $0.90 price election = $180,000 total value of production to count;
 
-(6) $152,500 total value guarantee - $122,000 total value of production to count = $30,500 loss; and
+(6) $225,000 total value guarantee - $180,000 total value of production to count = $45,000 loss; and
 
-(7) $30,500 × 100 percent share = $30,500 indemnity payment.
+(7) $45,000 × 100 percent share = $45,000 indemnity payment.
 
 (c) The total production to count (whole in-shell pounds) from all insurable acreage on the unit will include:
 
@@ -198,10 +196,10 @@ You have a 100 percent share in 100 acres of walnuts in the unit, with a guarant
 
 (2) All harvested production from the insurable acreage.
 
-(d) Mature walnut production damaged due to an insurable cause of loss which occurs within the insurance period may be adjusted for quality based on an inspection by the Dried Fruit Association or during our loss adjustment process. Walnut production that has mold damage greater than 8 percent, based on the net delivered weight, will be reduced by the quality adjustment factors contained in the Special Provisions. Walnut production that exceeds 30 percent mold damage and will not be sold, the production to count will be zero.
+(d) Mature walnut production damaged due to an insurable cause of loss which occurs within the insurance period may be adjusted for quality based on an inspection by the Dried Fruit Association or during our loss adjustment process. If walnut production has mold damage greater than 8 percent, based on the net delivered weight, will be reduced by the quality adjustment factors contained in the Special Provisions. Walnut production that exceeds 30 percent mold damage and will not be sold, the production to count will be zero.
 
 12. Late and Prevented Planting
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[62 FR 20091, Apr. 25, 1997, as amended at 62 FR 65170, Dec. 10, 1997; 65 FR 47837, Aug. 4, 2000; 72 FR 10909, Mar. 12, 2007]
+[62 FR 20091, Apr. 25, 1997, as amended at 62 FR 65170, Dec. 10, 1997; 65 FR 47837, Aug. 4, 2000; 72 FR 10909, Mar. 12, 2007; 87 FR 64368, Oct. 25, 2022]

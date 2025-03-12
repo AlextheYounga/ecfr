@@ -14,4 +14,4 @@
 
 (d) If the onsite audit is solely conducted to meet the requirements of this subpart by an audit agent of a certification body that is accredited in accordance with regulations in part 1, subpart M of this chapter, the audit is not subject to the requirements in those regulations.
 
-Effective Date Note:At 80 FR 56145, Sept. 17, 2015, § 117.435 was added, effective Nov. 16, 2015, except for paragraph (d). FDA will publish a document in the Federal Register announcing the effective date for this paragraph.
+[80 FR 56145, Sept. 17, 2015]

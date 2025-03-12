@@ -1,7 +1,5 @@
 ##### § 201.39 Notice to Libraries and Archives of Normal Commercial Exploitation or Availability at Reasonable Price. #####
 
-Link to an amendment published at 87 FR 59308, Sept. 30, 2022.
-
 (a) *General.* This section prescribes rules under which copyright owners or their agents may provide notice to qualified libraries and archives (including a nonprofit educational institution that functions as such) that a published work in its last 20 years of copyright protection is subject to normal commercial exploitation, or that a copy or phonorecord of the work can be obtained at a reasonable price, for purposes of section 108(h)(2) of title 17 of the United States Code.
 
 (b) *Format.* The Copyright Office provides a required format for a Notice to Libraries and Archives of Normal Commercial Exploitation or Availability at Reasonable Price, and for continuation sheets for group notices. The required format is set out in Appendix A to this section, and is available from the Copyright Office website (*http://lcweb.loc.gov/copyright*). The Copyright Office does not provide printed forms. The Notice shall be in English (except for an original title, which may be in another language), typed or printed legibly in dark ink, and shall be provided on 81/2 × 11 inch white paper with a one-inch margin.
@@ -58,15 +56,11 @@ Link to an amendment published at 87 FR 59308, Sept. 30, 2022.
 
 (6) The person or entity that Libraries and Archives may contact concerning the work's normal commercial exploitation or availability at reasonable price is the same for all the works.
 
-(g) *Filing* - (1) *Method of filing.* The Notice to Libraries and Archives of Normal Commercial Exploitation or Availability at Reasonable Price should be addressed to NLA, in the manner prescribed in § 201.1.
+(g) *Filing*—(1) *Method of filing.* The Notice to Libraries and Archives of Normal Commercial Exploitation or Availability at Reasonable Price should be addressed to NLA, in the manner prescribed in § 201.1.
 
 (2) *Amount.* The filing fee for recording Notice to Libraries and Archives is prescribed in § 201.3(d).
 
-(3) *Method of payment* - (i) *Checks, money orders, or bank drafts.* The Copyright Office will accept checks, money orders, or bank drafts made payable to the U.S. Copyright Office. Remittances must be redeemable without service or exchange fees through a United States institution, must be payable in United States dollars, and must be imprinted with American Banking Association routing numbers. Postal money orders that are negotiable only at a post office and international money orders are not acceptable. CURRENCY IS NOT ACCEPTED.
-
-(ii) *Copyright Office Deposit Account.* The Copyright Office maintains a system of Deposit Accounts for the convenience of those who frequently use its services. The system allows an individual or firm to establish a Deposit Account in the Copyright Office and to make advance deposits into that account. Deposit Account holders can charge copyright fees against the balance in their accounts instead of sending separate remittances with each request for service. For information on Deposit Accounts, see Circular 5 on the Copyright Office's website, or request a copy at the address specified in § 201.1(b).
-
-Appendix A to § 201.39 - Required Format of Notice to Libraries and Archives of Normal Commercial Exploitation or Availability at Reasonable PriceNLA□ Check box if continuation sheets for additional works are attached.Notice to Libraries and Archives of Normal Commercial Exploitation or Availability at Reasonable Price
+Appendix A to § 201.39—Required Format of Notice to Libraries and Archives of Normal Commercial Exploitation or Availability at Reasonable PriceNLA□ Check box if continuation sheets for additional works are attached.Notice to Libraries and Archives of Normal Commercial Exploitation or Availability at Reasonable Price
 
 1. Title of the work (or, if untitled, a brief description of the work): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
@@ -104,7 +98,7 @@ Declaration:
 
 I declare under penalty of perjury under the laws of the United States:
 
-□ that each work identified in this notice is subject to normal commercial exploitation.□ that a copy or phonorecord of each work identified in this notice is available at a reasonable price.Signature:Date:□ Typed or printed name:□ Title:Appendix B to § 201.39 - Required Format for Continuation SheetNLA CONPage \_\_\_\_of \_\_\_\_Pages.Continuation Sheet for NLA Notice to Libraries and Archives of Normal Commercial Exploitation or Availability at Reasonable Price
+□ that each work identified in this notice is subject to normal commercial exploitation.□ that a copy or phonorecord of each work identified in this notice is available at a reasonable price.Signature:Date:□ Typed or printed name:□ Title:Appendix B to § 201.39—Required Format for Continuation SheetNLA CONPage \_\_\_\_of \_\_\_\_Pages.Continuation Sheet for NLA Notice to Libraries and Archives of Normal Commercial Exploitation or Availability at Reasonable Price
 
 1. Title of the work (or, if untitled, a brief description of the work): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
@@ -120,4 +114,4 @@ Additional Content (OPTIONAL):
 
 6. Additional information concerning the work's normal commercial exploitation or availability at a reasonable price: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
-[63 FR 71787, Dec. 30, 1998, as amended at 66 FR 34373, June 28, 2001; 71 FR 31092, June 1, 2006; 73 FR 37839, July 2, 2008; 78 FR 42874, July 18, 2013; 82 FR 9359, Feb. 6, 2017; 85 FR 19667, Apr. 8, 2020]
+[63 FR 71787, Dec. 30, 1998, as amended at 66 FR 34373, June 28, 2001; 71 FR 31092, June 1, 2006; 73 FR 37839, July 2, 2008; 78 FR 42874, July 18, 2013; 82 FR 9359, Feb. 6, 2017; 85 FR 19667, Apr. 8, 2020; 87 FR 59308, Sept. 30, 2022]

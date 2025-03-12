@@ -1,8 +1,6 @@
 ##### § 106.2 Fees. #####
 
-Link to an amendment published at 87 FR 53297, Aug. 30, 2022.
-
-(a) *I Forms* - (1) *Application to Replace Permanent Resident Card, Form I-90.* For filing an application for a Permanent Resident Card, Form I-551, to replace an obsolete card or to replace one lost, mutilated, or destroyed, or for a change in name: $415.
+(a) *I Forms*—(1) *Application to Replace Permanent Resident Card, Form I-90.* For filing an application for a Permanent Resident Card, Form I-551, to replace an obsolete card or to replace one lost, mutilated, or destroyed, or for a change in name: $415.
 
 (2) *Application for Replacement/Initial Nonimmigrant Arrival-Departure Document, Form I-102.* For filing an application for Arrival/Departure Record, Form I-94, or Crewman's Landing Permit, Form I-95, to replace one lost, mutilated, or destroyed: $485.
 
@@ -88,7 +86,7 @@ Link to an amendment published at 87 FR 53297, Aug. 30, 2022.
 
 (iv) A petition seeking special immigrant visa or status an Afghan or Iraqi Interpreter, or Iraqi National employed by or on behalf of the U.S. Government or Afghan National employed by the U.S. Government or the International Security Assistance Forces (“ISAF”).
 
-(17) *Application to Register Permanent Residence or Adjust Status, Form I-485* - (i) *Most permanent residence applications.* For filing an application for permanent resident status or creation of a record of lawful permanent residence: $1,130.
+(17) *Application to Register Permanent Residence or Adjust Status, Form I-485*—(i) *Most permanent residence applications.* For filing an application for permanent resident status or creation of a record of lawful permanent residence: $1,130.
 
 (ii) *Asylees.* For the first Form I-485, Application to Register Permanent Residence or Adjust Status, filed by individuals who have paid the $50 fee for Form I-589 and are subsequently granted asylum based on that Form I-589: $1,080.
 
@@ -216,7 +214,7 @@ Link to an amendment published at 87 FR 53297, Aug. 30, 2022.
 
 (iii) A Temporary Protected Status (TPS) applicant or re-registrant must pay $30 for biometric services unless exempted in the applicable form instructions.
 
-(38) *Application for Deferred Action for Childhood Arrivals, Form I-821D.* No fee.
+(38) *Application for Deferred Action for Childhood Arrivals, Form I-821D:* $85.
 
 (39) *Application for Action on an Approved Application, Form I-824:* $495.
 
@@ -250,7 +248,7 @@ Link to an amendment published at 87 FR 53297, Aug. 30, 2022.
 
 (50) *Application for Entrepreneur Parole, Form I-941.* For filing an application for parole for an entrepreneur: $1,200.
 
-(b) *N Forms* - (1) *Application to File Declaration of Intention, Form N-300.* For filing an application for declaration of intention to become a U.S. citizen: $1,305.
+(b) *N Forms*—(1) *Application to File Declaration of Intention, Form N-300.* For filing an application for declaration of intention to become a U.S. citizen: $1,305.
 
 (2) *Request for a Hearing on a Decision in Naturalization Proceedings (under section 336 of the Act), Form N-336.* For filing a request for hearing on a decision in naturalization proceedings under section 336 of the Act: $1,735. There is no fee for an applicant who has filed an Application for Naturalization under sections 328 or 329 of the Act with respect to military service and whose application has been denied.
 
@@ -276,7 +274,7 @@ Link to an amendment published at 87 FR 53297, Aug. 30, 2022.
 
 (7) *Application for Citizenship and Issuance of Certificate Under Section 322, Form N-600K.* For filing an application for citizenship and issuance of certificate under section 322 of the Act: $945.
 
-(c) *G Forms, Statutory Fees, and Non-Form Fees* - (1) *Genealogy Index Search Request, Form G-1041:* $170. The fee is due regardless of the search results.
+(c) *G Forms, Statutory Fees, and Non-Form Fees*—(1) *Genealogy Index Search Request, Form G-1041:* $170. The fee is due regardless of the search results.
 
 (2) *Genealogy Records Request, Form G-1041A:* $265. USCIS will refund the records request fee when it is unable to locate any file previously identified in response to the index search request.
 
@@ -320,4 +318,4 @@ Link to an amendment published at 87 FR 53297, Aug. 30, 2022.
 
 (10) G-1041A, Genealogy Records Request.
 
-[85 FR 46916, Aug. 3, 2020, as amended at 86 FR 14227, Mar. 15, 2021]
+[85 FR 46916, Aug. 3, 2020, as amended at 86 FR 14227, Mar. 15, 2021; 87 FR 53297, Aug. 30, 2022]

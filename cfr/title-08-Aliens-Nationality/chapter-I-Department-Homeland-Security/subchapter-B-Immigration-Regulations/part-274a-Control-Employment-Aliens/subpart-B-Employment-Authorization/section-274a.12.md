@@ -1,7 +1,5 @@
 ##### § 274a.12 Classes of aliens authorized to accept employment. #####
 
-Link to an amendment published at 87 FR 53300, Aug. 30, 2022.
-
 (a) *Aliens authorized employment incident to status.* Pursuant to the statutory or regulatory reference cited, the following classes of aliens are authorized to be employed in the United States without restrictions as to location or type of employment as a condition of their admission or subsequent change to one of the indicated classes. Any alien who is within a class of aliens described in paragraphs (a)(3), (a)(4), (a)(6)-(a)(8), (a)(10)-(a)(15), or (a)(20) of this section, and who seeks to be employed in the United States, must apply to U.S. Citizenship and Immigration Services (USCIS) for a document evidencing such employment authorization. USCIS may, in its discretion, determine the validity period assigned to any document issued evidencing an alien's authorization to work in the United States.
 
 (1) An alien who is a lawful permanent resident (with or without conditions pursuant to section 216 of the Act), as evidenced by Form I-551 issued by the Service. An expiration date on the Form I-551 reflects only that the card must be renewed, not that the bearer's work authorization has expired;
@@ -194,7 +192,7 @@ Link to an amendment published at 87 FR 53300, Aug. 30, 2022.
 
 (13) [Reserved]
 
-(14) An alien who has been granted deferred action, an act of administrative convenience to the government which gives some cases lower priority, if the alien establishes an economic necessity for employment;
+(14) Except as provided for in paragraph (c)(33) of this section, an alien who has been granted deferred action, an act of administrative convenience to the government that gives some cases lower priority, if the alien establishes an economic necessity for employment.
 
 (15) [Reserved]
 
@@ -232,7 +230,9 @@ Link to an amendment published at 87 FR 53300, Aug. 30, 2022.
 
 (26) An H-4 nonimmigrant spouse of an H-1B nonimmigrant described as eligible for employment authorization in 8 CFR 214.2(h)(9)(iv).
 
-(27)-(33) [Reserved]
+(27)-(32) [Reserved]
+
+(33) An alien who has been granted deferred action pursuant to 8 CFR 236.21 through 236.23, Deferred Action for Childhood Arrivals, if the alien establishes an economic necessity for employment.
 
 (34) A spouse of an entrepreneur parolee described as eligible for employment authorization in § 212.19(h)(3) of this chapter.
 

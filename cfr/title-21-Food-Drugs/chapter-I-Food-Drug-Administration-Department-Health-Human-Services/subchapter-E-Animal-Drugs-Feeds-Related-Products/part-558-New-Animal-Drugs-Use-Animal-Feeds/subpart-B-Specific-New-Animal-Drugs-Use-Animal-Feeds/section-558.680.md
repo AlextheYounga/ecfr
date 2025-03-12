@@ -6,7 +6,7 @@
 
 (c) *Related tolerances.* See § 556.770 of this chapter.
 
-(d) *Conditions of use* - (1) *Chickens* -
+(d) *Conditions of use*—(1) *Chickens*—
 
 |Zoalene in grams/ton|Combination in grams per ton|                          Indications for use                          |                                                               Limitations                                                               |      Sponsor      |
 |--------------------|----------------------------|-----------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|-------------------|
@@ -28,7 +28,7 @@
 |    (viii) 113.5    |Bacitracin methylenedisalicylate,  <br/>100 to 200|      Broiler chickens: For prevention and control of coccidiosis; and as an aid in the control of necrotic enteritis caused or complicated by Clostridium spp. or other organisms susceptible to bacitracin      |               Feed continuously as sole ration. To control necrotic enteritis, start medication at first clinical signs of disease; vary bacitracin dosage based on the severity of infection; administer continuously for 5 to 7 days or as long as clinical signs persist, then reduce bacitracin to prevention level (50 g/ton). Bacitracin methylenedisalicylate as provided by No. 054771 in § 510.600(c) of this chapter                |054771  <br/>058198|
 |     (ix) 113.5     |                  Bambermycins 1                  |                                   Broiler chickens: As an aid in the prevention and control of coccidiosis; and for increased rate of weight gain and improved feed efficiency                                   |                                                                                                                                            Feed continuously as sole ration. Do not feed to chickens over 14 weeks of age. Bambermycins as provided by No. 016592 in § 510.600(c) of this chapter                                                                                                                                             |      016592       |
 
-(2) *Turkeys* -
+(2) *Turkeys*—
 
 |Zoalene in grams/ton|        Combination in grams/ton         |                                                     Indications for use                                                      |                                                             Limitations                                                             |      Sponsor      |
 |--------------------|-----------------------------------------|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|-------------------|

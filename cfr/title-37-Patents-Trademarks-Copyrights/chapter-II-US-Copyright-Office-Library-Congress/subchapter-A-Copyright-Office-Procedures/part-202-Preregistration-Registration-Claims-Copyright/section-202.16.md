@@ -1,10 +1,8 @@
 ##### § 202.16 Preregistration of copyrights. #####
 
-Link to an amendment published at 87 FR 59309, Sept. 30, 2022.
-
 (a) *General.* This section prescribes rules pertaining to the preregistration of copyright claims in works eligible for preregistration under 17 U.S.C. 408(f).
 
-(b) *Definitions.* For the purposes of this section -
+(b) *Definitions.* For the purposes of this section—
 
 (1) A work is in a *class of works that the Register of Copyrights has determined has had a history of infringement prior to authorized commercial release* if it falls within one of the following classes of works:
 
@@ -46,7 +44,7 @@ Link to an amendment published at 87 FR 59309, Sept. 30, 2022.
 
 (iii) In a class of works that the Register of Copyrights has determined has had a history of infringement prior to authorized commercial release.
 
-(c) *Preregistration* - (1) *General.* A work eligible for preregistration may be preregistered by submitting an application and fee to the Copyright Office pursuant to the requirements set forth in this section.
+(c) *Preregistration*—(1) *General.* A work eligible for preregistration may be preregistered by submitting an application and fee to the Copyright Office pursuant to the requirements set forth in this section.
 
 (2) *Works excluded.* Works that are not copyrightable subject matter under title 17 of the U.S. Code may not be preregistered in the Copyright Office.
 
@@ -54,9 +52,9 @@ Link to an amendment published at 87 FR 59309, Sept. 30, 2022.
 
 (4) *Unit of publication.* For the purpose of preregistration on one application and upon payment of one filing fee, all copyrightable elements that are otherwise recognizable as self-contained works, that are to be included and first published in the same unit of publication, and in which the copyright claimant is the same, shall be considered one work eligible for preregistration.
 
-(5) *Fee* - (i) *Amount.* The filing fee for preregistration is prescribed in § 201.3(c).
+(5) *Fee.* The filing fee for preregistration is prescribed in § 201.3(c) of this chapter.
 
-(ii) *Method of payment* - (A) *Copyright Office deposit account.* The Copyright Office maintains a system of Deposit Accounts for the convenience of those who frequently use its services and for those who file applications electronically. The system allows an individual or firm to establish a Deposit Account in the Copyright Office and to make advance deposits in that account. Deposit Account holders can charge preregistration fees against the balance in their accounts instead of using credit cards for each request of service. For information on Deposit Accounts, please download a copy of Circular 5, “How to Open and Maintain a Deposit Account in the Copyright Office,” or write the Register of Copyrights, Copyright Office, Library of Congress, Washington, D.C. 20559.
+(ii) *Method of payment*—(A) *Copyright Office deposit account.* The Copyright Office maintains a system of Deposit Accounts for the convenience of those who frequently use its services and for those who file applications electronically. The system allows an individual or firm to establish a Deposit Account in the Copyright Office and to make advance deposits in that account. Deposit Account holders can charge preregistration fees against the balance in their accounts instead of using credit cards for each request of service. For information on Deposit Accounts, please download a copy of Circular 5, “How to Open and Maintain a Deposit Account in the Copyright Office,” or write the Register of Copyrights, Copyright Office, Library of Congress, Washington, D.C. 20559.
 
 (B) *Credit cards, debit cards and electronic funds transfer.* The online preregistration filing system will provide options for payment by means of credit or debit cards and by means of electronic funds transfers. Applicants will be redirected to the Department of Treasury's Pay.gov website to make payments with credit or debit cards, or directly from their bank accounts by means of ACH debit transactions.
 
@@ -92,4 +90,4 @@ Link to an amendment published at 87 FR 59309, Sept. 30, 2022.
 
 (14) *Petition for recognition of a new class of works.* At any time an interested party may petition the Register of Copyrights for a determination as to whether a particular class of works has had a history of copyright infringement prior to authorized release that would justify inclusion of that class of works among the classes of works eligible for preregistration.
 
-[70 FR 61906, Oct. 27, 2005, as amended at 71 FR 31092, June 1, 2006; 73 FR 37839, July 2, 2008; 78 FR 42875, July 18, 2013; 82 FR 9360, Feb. 6, 2017; 83 FR 66629, Dec. 27, 2018]
+[70 FR 61906, Oct. 27, 2005, as amended at 71 FR 31092, June 1, 2006; 73 FR 37839, July 2, 2008; 78 FR 42875, July 18, 2013; 82 FR 9360, Feb. 6, 2017; 83 FR 66629, Dec. 27, 2018; 87 FR 59309, Sept. 30, 2022]
