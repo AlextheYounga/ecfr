@@ -1,5 +1,7 @@
 ##### § 127.1301 Persons in charge of transfers for the facility: Qualifications and certification. #####
 
+Link to an amendment published at 87 FR 5691, Feb. 2, 2022.
+
 (a) No person may serve, or use the services of any person, as a person in charge of transfers for the facility regulated under this subpart, unless that person -
 
 (1) Has at least 48 hours' transfer experience with each LHG being transferred;

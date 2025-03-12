@@ -1,5 +1,7 @@
 ##### § 127.407 Testing. #####
 
+Link to an amendment published at 87 FR 5691, Feb. 2, 2022.
+
 (a) The operator shall pressure test under paragraph (b) of this section the transfer system, including piping, hoses, and loading arms, and verify the set pressure of the safety and relief valves -
 
 (1) After the system or the valves are altered;

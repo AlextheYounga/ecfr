@@ -1,5 +1,7 @@
 ##### § 127.001 Applicability. #####
 
+Link to an amendment published at 87 FR 5689, Feb. 2, 2022.
+
 (a) Subparts A and B of this part apply to the marine transfer area for LNG of each new waterfront facility handling LNG and to new construction in the marine transfer area for LNG of each existing waterfront facility handling LNG.
 
 (b) Subpart A of this part and §§ 127.301 through 127.617 apply to the marine transfer area for LNG of each active existing waterfront facility handling LNG.

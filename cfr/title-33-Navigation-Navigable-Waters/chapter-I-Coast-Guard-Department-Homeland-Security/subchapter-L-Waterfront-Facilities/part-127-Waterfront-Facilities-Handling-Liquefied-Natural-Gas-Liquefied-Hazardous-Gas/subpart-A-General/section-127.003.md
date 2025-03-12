@@ -1,5 +1,7 @@
 ##### § 127.003 Incorporation by reference. #####
 
+Link to an amendment published at 87 FR 5689, Feb. 2, 2022.
+
 (a) Certain material is incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in paragraph (b) of this section, the Coast Guard must publish notice of change in the Federal Register and make the material available to the public. All approved material is available for inspection at the Commandant (CG-CVC), Attn: Office of Commercial Vessel Compliance, U.S. Coast Guard Stop 7501, 2703 Martin Luther King Jr. Avenue SE., Washington, DC 20593-7501. You may also contact the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* All approved material is available from the sources indicated in paragraph (b) of this section.
 
 (b) The material approved for incorporation by reference in this part, and the sections affected, are:

@@ -1,5 +1,7 @@
 ##### § 219.5 Definitions. #####
 
+Link to an amendment published at 87 FR 5733, Feb. 2, 2022.
+
 As used in this part only -
 
 *Accident or incident reportable under part 225* does not include a case that is classified as “covered data” under § 225.5 of this chapter (*i.e.,* employee injury/illness cases reportable exclusively because a physician or other licensed health care professional either made a one-time topical application of a prescription-strength medication to the employee's injury or made a written recommendation that the employee: Take one or more days away from work when the employee instead reports to work (or would have reported had he or she been scheduled) and takes no days away from work in connection with the injury or illness; work restricted duty for one or more days when the employee instead works unrestricted (or would have worked unrestricted had he or she been scheduled) and takes no other days of restricted work activity in connection with the injury or illness; or take over-the-counter medication at a dosage equal to or greater than the minimum prescription strength, whether or not the employee actually takes the medication).

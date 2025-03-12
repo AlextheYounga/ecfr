@@ -1,5 +1,7 @@
 ##### § 127.315 Preliminary transfer inspection. #####
 
+Link to an amendment published at 87 FR 5691, Feb. 2, 2022.
+
 Before transferring LNG, the person in charge of shoreside transfer operations shall -
 
 (a) Inspect the transfer piping and equipment to be used during the transfer and replace any worn or inoperable parts;

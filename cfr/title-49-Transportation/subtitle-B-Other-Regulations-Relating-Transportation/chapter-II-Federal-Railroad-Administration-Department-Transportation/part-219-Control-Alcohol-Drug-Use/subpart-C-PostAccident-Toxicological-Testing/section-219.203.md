@@ -1,5 +1,7 @@
 ##### § 219.203 Responsibilities of railroads and employees. #####
 
+Link to an amendment published at 87 FR 5734, Feb. 2, 2022.
+
 (a) *Employees tested.* A regulated employee subject to post-accident toxicological testing under this subpart must cooperate in the provision of specimens as described in this part and appendix C to this part.
 
 (1) *General.* Except as otherwise provided for by this section, following each qualifying event described in § 219.201, a regulated employee directly involved in a qualifying event under this subpart must provide blood and urine specimens for toxicological testing by FRA. This includes any regulated employee who may not have been present or on-duty at the time or location of the event, but whose actions may have played a role in its cause or severity, including, but not limited to, an operator, dispatcher, or signal maintainer.

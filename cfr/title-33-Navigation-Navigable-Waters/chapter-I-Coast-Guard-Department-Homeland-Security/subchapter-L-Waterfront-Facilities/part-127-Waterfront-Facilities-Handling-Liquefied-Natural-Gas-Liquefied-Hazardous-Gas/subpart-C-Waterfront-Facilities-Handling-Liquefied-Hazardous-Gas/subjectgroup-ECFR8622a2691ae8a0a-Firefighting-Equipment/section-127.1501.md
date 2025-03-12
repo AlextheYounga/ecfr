@@ -1,5 +1,7 @@
 ##### § 127.1501 General. #####
 
+Link to an amendment published at 87 FR 5692, Feb. 2, 2022.
+
 (a) The number, kind, and place of equipment for fire detection, protection, control, and extinguishment must be determined by an evaluation based upon sound principles of fire-protection engineering, analysis of local conditions, hazards within the waterfront facility handling LHG, and exposure to other property. A description of the number, kind, place, and use of fire equipment determined by this evaluation must appear in the Emergency Manual for each facility. The evaluation for each new facility and for all new construction on each existing facility must be submitted to the COTP for review when the emergency manual is submitted under § 127.1307.
 
 (b) All fire equipment for each facility must be adequately maintained, and periodically inspected and tested, so it will perform as intended.

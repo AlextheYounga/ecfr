@@ -1,5 +1,7 @@
 ##### § 127.603 Portable fire extinguishers. #####
 
+Link to an amendment published at 87 FR 5691, Feb. 2, 2022.
+
 Each marine transfer area for LNG must have -
 
 (a) Portable fire extinguishers that meet 9-6.1 of NFPA 59A and Chapter 3 of NFPA 10; and

@@ -1,5 +1,7 @@
 ##### § 219.205 Specimen collection and handling. #####
 
+Link to an amendment published at 87 FR 5734, Feb. 2, 2022.
+
 (a) *General.* Urine and blood specimens must be obtained, marked, preserved, handled, and made available to FRA consistent with the requirements of this subpart, the instructions provided inside the FRA post-accident toxicological shipping kit, and the technical specifications set forth in appendix C to this part.
 
 (b) *Information requirements.* Basic information concerning the accident/incident and any treatment administered after the accident/incident is necessary to process specimens, analyze the significance of laboratory findings, and notify railroads and employees of test results. Accordingly, the railroad representative must complete the information required by Form FRA 6180.73 (revised) for shipping with the specimens. Each employee subject to testing must cooperate in completion of the required information on Form FRA F 6180.74 (revised) for inclusion in the shipping kit and processing of the specimens. The railroad representative must ask an appropriate representative of the medical facility to complete the remaining portion of the information on each Form 6180.74. A Form 6180.73 must be forwarded in the shipping kit with each group of specimens. A Form 6180.74 must be forwarded in the shipping kit for each employee who provides specimens. A Form 6180.73 and either a Form 6180.74 or a Form 6180.75 (for fatalities) are included in the shipping kit. (See paragraph (c) of this section.)

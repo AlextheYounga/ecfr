@@ -1,5 +1,7 @@
 ##### § 127.1407 Tests. #####
 
+Link to an amendment published at 87 FR 5692, Feb. 2, 2022.
+
 (a) Each operator of a waterfront facility handling LHG shall conduct a static liquid-pressure test of the piping, hoses, and loading arms of the LHG-transfer system located in the marine transfer area for LHG, and shall verify the set pressure of the safety and relief valves -
 
 (1) After the system or the valves are altered;

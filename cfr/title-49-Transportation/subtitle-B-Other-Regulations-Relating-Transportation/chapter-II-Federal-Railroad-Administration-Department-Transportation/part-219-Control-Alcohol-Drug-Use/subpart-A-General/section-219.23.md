@@ -1,5 +1,7 @@
 ##### § 219.23 Railroad policies. #####
 
+Link to an amendment published at 87 FR 5734, Feb. 2, 2022.
+
 (a) Whenever a breath or body fluid test is required of an employee under this part, the railroad (either through a railroad employee or a designated agent, such as a contracted collector) must provide clear and unequivocal written notice to the employee that the test is being required under FRA regulations and is being conducted under Federal authority. The railroad must also provide the employee clear and unequivocal written notice of the type of test that is required (*e.g.,* reasonable suspicion, reasonable cause, random selection, follow-up, etc.). These notice requirements are satisfied if:
 
 (1) For all FRA testing except mandatory post-accident toxicological testing under subpart C of this part, a railroad uses the mandated DOT alcohol or drug testing form, circles or checks off the box corresponding to the type of test, and shows this form to the employee before testing begins; or

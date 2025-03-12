@@ -1,5 +1,7 @@
 ##### § 219.625 FRA Administrator's determination of random alcohol and drug testing rates. #####
 
+Link to an amendment published at 87 FR 5736, Feb. 2, 2022.
+
 (a) *Notice.* Each year, the Administrator publishes a Federal Register notice announcing the minimum annual random alcohol and drug testing rates which take effect on January 1 of the following calendar year. These rates are based on the railroad industry's random testing violation rates for the preceding two consecutive calendar years, which are determined using annual railroad alcohol and drug program data required to be submitted to the FRA's Management Information System (MIS) under § 219.800.
 
 (b) *Information.* Data from MIS reports provide the information used for this determination. In order to ensure reliability of the data, the Administrator may consider the quality and completeness of the reported data, obtain additional information or reports from railroads, or make appropriate modifications in calculating the industry positive rate.

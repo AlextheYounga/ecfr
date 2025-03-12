@@ -1,10 +1,8 @@
 ##### § 210.2 Definitions. #####
 
-Link to an amendment published at 87 FR 46, Jan. 3, 2022.
-
 For purposes of this part, the following definitions apply. Any term that is not defined in this part shall have the meaning set forth in the ACH Rules.
 
-(a) *ACH Rules* means the Operating Rules and the Operating Guidelines published by NACHA - The Electronic Payments Association (NACHA), a national association of regional member clearing house associations, ACH Operators and participating financial institutions located in the United States.
+(a) *ACH Rules* means the 2021 Operating Rules & Guidelines, including Supplement #1-2021, (both incorporated by reference, see § 210.3(b)) published by Nacha, a national association of regional member clearing house associations, ACH Operators, and participating financial institutions located in the United States.
 
 (b) *Actual or constructive knowledge,* when used in reference to an RDFI's or agency's knowledge of the death or incapacity of a recipient or death of a beneficiary, means that the RDFI or agency received information, by whatever means, of the death or incapacity and has had a reasonable opportunity to act on such information or that the RDFI or agency would have learned of the death or incapacity if it had followed commercially reasonable business practices. For purposes of subpart B of this part, an agency is presumed to have constructive knowledge of death or incapacity at the time it stops certifying recurring payments to a recipient if the agency:
 
@@ -14,21 +12,23 @@ For purposes of this part, the following definitions apply. Any term that is not
 
 (c) *Agency* means any department, agency, or instrumentality of the United States Government, or a corporation owned or controlled by the Government of the United States. The term agency does not include a Federal Reserve Bank.
 
-(d) *Applicable ACH Rules* means the ACH Rules with an effective date on or before June 30, 2021, as published in the 2019 NACHA Operating Rules and Guidelines (incorporated by reference, see § 210.3(b)), except:
+(d) *Applicable ACH Rules* means the ACH Rules, except:
 
 (1) Subsections 1.2.2, 1.2.3, 1.2.4, 1.2.5 and 1.2.6; Appendix Seven; Appendix Eight; and Appendix Nine (governing the enforcement of the ACH Rules and claims for compensation);
 
-(2) Section 2.10 and section 3.6 (governing the reclamation of benefit payments);
+(2) Section 1.14 (governing the Participating DFI Contact registry);
 
-(3) The requirement in Appendix Three that the Effective Entry Date of a credit entry be no more than two Banking Days following the date of processing by the Originating ACH Operator (see definition of “Effective Entry Date” in Appendix Three);
+(3) Section 2.10 and section 3.6 (governing the reclamation of benefit payments);
 
-(4) Section 2.2 (setting forth ODFI obligations to enter into agreements with, and perform risk management relating to, Originators and Third-Party Senders) and section 1.6 (Security Requirements);
+(4) The requirement in Appendix Three that the Effective Entry Date of a credit entry be no more than two Banking Days following the date of processing by the Originating ACH Operator (see definition of “Effective Entry Date” in Appendix Three);
 
-(5) Section 2.17.2.2-2.17.2.6 (requiring reduction of high rates of entries returned as unauthorized);
+(5) Section 2.2 (setting forth ODFI obligations to enter into agreements with, and perform risk management relating to, Originators and Third-Party Senders) and section 1.6 (Security Requirements);
 
-(6) The requirements of Section 2.5.8 (International ACH Transactions) shall not apply to entries representing the payment of a Federal tax obligation by a taxpayer; and
+(6) Section 2.17.2.2-2.17.2.6 (requiring reduction of high rates of entries returned as unauthorized);
 
-(7) Until March 19, 2022, the requirement of section 2.5.17.4(a) that the Originator utilize a fraudulent transaction detection system that validates an account to be debited for the first use of such account number and for any subsequent change(s) to the account number.
+(7) The requirements of Section 2.5.8 (International ACH Transactions) shall not apply to entries representing the payment of a Federal tax obligation by a taxpayer; and
+
+(8) Until March 19, 2022, the requirement of section 2.5.17.4(a) that the Originator utilize a fraudulent transaction detection system that validates an account to be debited for the first use of such account number and for any subsequent change(s) to the account number.
 
 (e) *Authorized payment agent* means any individual or entity that is appointed or otherwise selected as a representative payee or fiduciary, under regulations of the Social Security Administration, the Department of Veterans Affairs, the Railroad Retirement Board, or other agency making Federal payments, to act on behalf of an individual entitled to a Federal payment.
 
@@ -80,4 +80,4 @@ For purposes of this part, the following definitions apply. Any term that is not
 
 (r) *Treasury Financial Manual* means the manual issued by the Service containing procedures to be observed by all agencies and Federal Reserve Banks with respect to central accounting, financial reporting, and other Federal Government-wide fiscal responsibilities of the Treasury.
 
-[64 FR 17478, Apr. 9, 1999, as amended at 65 FR 18869, Apr. 7, 2000; 66 FR 10580, Feb. 16, 2001; 67 FR 17902, Apr. 11, 2002; 68 FR 33829, June 5, 2003; 70 FR 67366, Nov. 7, 2005; 73 FR 52584, Sept. 10, 2008; 76 FR 59030, Sept. 23, 2011; 79 FR 42980, July 24, 2014; 82 FR 42608, Sept. 11, 2017; 85 FR 15720, Mar. 19, 2020]
+[64 FR 17478, Apr. 9, 1999, as amended at 65 FR 18869, Apr. 7, 2000; 66 FR 10580, Feb. 16, 2001; 67 FR 17902, Apr. 11, 2002; 68 FR 33829, June 5, 2003; 70 FR 67366, Nov. 7, 2005; 73 FR 52584, Sept. 10, 2008; 76 FR 59030, Sept. 23, 2011; 79 FR 42980, July 24, 2014; 82 FR 42608, Sept. 11, 2017; 85 FR 15720, Mar. 19, 2020; 87 FR 46, Jan. 3, 2022]

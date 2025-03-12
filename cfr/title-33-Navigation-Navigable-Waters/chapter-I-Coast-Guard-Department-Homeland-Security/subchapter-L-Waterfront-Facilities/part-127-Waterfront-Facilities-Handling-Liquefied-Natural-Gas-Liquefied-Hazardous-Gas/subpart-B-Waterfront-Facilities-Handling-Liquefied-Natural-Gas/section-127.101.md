@@ -1,5 +1,7 @@
 ##### § 127.101 Design and construction: General. #####
 
+Link to an amendment published at 87 FR 5690, Feb. 2, 2022.
+
 The marine transfer area for LNG must meet the following criteria in NFPA 59A:
 
 (a) Chapter 2, Sections 2-1.2 and 2-3.

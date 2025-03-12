@@ -1,5 +1,7 @@
 ##### § 127.1605 Other sources of ignition. #####
 
+Link to an amendment published at 87 FR 5692, Feb. 2, 2022.
+
 Each operator of a waterfront facility handling LHG shall ensure that in the marine transfer area for LHG -
 
 (a) There are no open fires or open flame lamps;

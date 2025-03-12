@@ -1,5 +1,7 @@
 ##### § 127.1325 Access to marine transfer area for LHG. #####
 
+Link to an amendment published at 87 FR 5692, Feb. 2, 2022.
+
 Each operator of a waterfront facility handling LHG shall ensure that -
 
 (a) Access to the marine transfer area for LHG from shoreside and waterside is limited to -

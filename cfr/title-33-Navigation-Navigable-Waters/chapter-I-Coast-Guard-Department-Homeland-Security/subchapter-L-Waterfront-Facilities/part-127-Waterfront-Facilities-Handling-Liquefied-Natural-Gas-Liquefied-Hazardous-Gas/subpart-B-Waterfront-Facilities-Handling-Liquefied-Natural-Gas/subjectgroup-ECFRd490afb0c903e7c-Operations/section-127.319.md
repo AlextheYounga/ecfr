@@ -1,5 +1,7 @@
 ##### § 127.319 LNG transfer. #####
 
+Link to an amendment published at 87 FR 5691, Feb. 2, 2022.
+
 During LNG transfer operations, the following must be met:
 
 (a) The operator of the waterfront facility handling LNG shall ensure that -

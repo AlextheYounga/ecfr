@@ -1,5 +1,7 @@
 ##### § 1.916 Disclosure of debt information to consumer reporting agencies (CRA). #####
 
+Link to an amendment published at 87 FR 5696, Feb. 2, 2022.
+
 (a) The Department of Veterans Affairs may disclose all information determined to be necessary, including the name, address, Department of Veterans Affairs file number, Social Security number, and date of birth, to consumer reporting agencies for the purpose of -
 
 (1) Obtaining the location of an individual indebted to the United States as a result of participation in any benefits program administered by VA or indebted in any other manner to VA;

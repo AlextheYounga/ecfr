@@ -1,5 +1,7 @@
 ##### § 219.615 Random testing collections. #####
 
+Link to an amendment published at 87 FR 5736, Feb. 2, 2022.
+
 (a) *Minimum random testing rates.* Each railroad must complete a sufficient number of random alcohol and drug testing collections from each of its random testing pools to meet the Administrator's minimum annual testing rates established in accordance with § 219.625.
 
 (b) *Designated testing window.* Each railroad must complete the collection for a selected pool entry within the FRA-approved designated testing window for that selection. Once a designated testing window has closed, any selections not collected during that window are no longer valid and may not be subject to random testing.

@@ -1,5 +1,7 @@
 ##### § 127.1405 Repairs. #####
 
+Link to an amendment published at 87 FR 5692, Feb. 2, 2022.
+
 Each operator of a waterfront facility handling LHG shall ensure that -
 
 (a) Equipment is repaired so that -

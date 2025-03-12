@@ -1,5 +1,7 @@
 ##### § 127.317 Declaration of inspection. #####
 
+Link to an amendment published at 87 FR 5691, Feb. 2, 2022.
+
 (a) After the preliminary transfer inspection under § 127.315 has been satisfactorily completed, the person in charge of shoreside transfer operations shall ensure that no person transfers LNG until a Declaration of Inspection that meets paragraph (c) of this section is executed and signed in duplicate.
 
 (b) The person in charge of shoreside transfer operations shall give one signed copy of the Declaration of Inspection to the person in charge of transfer operations on the vessel, and shall retain one signed copy at the waterfront facility handling LNG for 30 days after completion of the transfer.

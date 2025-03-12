@@ -1,5 +1,7 @@
 ##### § 219.207 Fatality. #####
 
+Link to an amendment published at 87 FR 5734, Feb. 2, 2022.
+
 (a) In the case of an employee fatality in an accident or incident described in § 219.201, body fluid and tissue specimens must be obtained from the remains of the employee for toxicological testing. To ensure that specimens are collected in a timely fashion, the railroad must immediately notify the appropriate local authority (such as a coroner or medical examiner) of the fatality and the requirements of this subpart, making available the post-mortem shipping kit and requesting the local authority to assist in obtaining the necessary body fluid or tissue specimens. The railroad must also seek the assistance of the custodian of the remains, if the custodian is someone other than the local authority.
 
 (b) If the local authority or custodian of the remains declines to cooperate in obtaining the necessary specimens, the railroad must immediately notify the duty officer at the National Response Center (NRC) at (800) 424-8802 by providing the following information:

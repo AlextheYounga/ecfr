@@ -1,5 +1,7 @@
 ##### § 127.1302 Training. #####
 
+Link to an amendment published at 87 FR 5692, Feb. 2, 2022.
+
 (a) Each operator of a waterfront facility handling LHG shall ensure that each person assigned to act as a person in charge of transfers for the facility has training in the following subjects:
 
 (1) Properties and hazards of each LHG being transferred to or from the facility.

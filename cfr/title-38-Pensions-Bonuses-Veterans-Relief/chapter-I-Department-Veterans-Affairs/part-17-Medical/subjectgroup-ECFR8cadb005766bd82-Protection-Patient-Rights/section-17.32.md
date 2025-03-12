@@ -53,8 +53,7 @@
 (4) The practitioner must advise the patient if the proposed treatment is novel or unorthodox.
 
 (5) The patient may withhold or revoke consent at any time.
-
-(6) The practitioner may delegate to other trained personnel responsibility for providing the patient with clinical information needed for the patient to make a fully informed consent decision but must personally verify with the patient that the patient has been appropriately informed and voluntarily consents to the treatment or procedure.
+.
 
 (7) Practitioners may provide necessary medical care in emergency situations without the express consent of the patient when all of the following apply:
 
@@ -132,4 +131,4 @@
 
 (5) *VA policy and disputes.* Neither the treatment team nor surrogate may override a patient's clear instructions in an advance directive or in instructions given in a critical situation, except that those portions of an advance directive or instructions given in a critical situation that are not consistent with applicable Federal law, VA policy, or generally accepted standards of medical practice will not be given effect.
 
-(The information collection requirements in this section have been approved by the Office of Management and Budget under control number 2900-0556)[62 FR 53961, Oct. 17, 1997, as amended at 70 FR 71774, Nov. 30, 2005; 71 FR 68740, Nov. 28, 2006; 72 FR 10366, Mar. 8, 2007; 74 FR 34503, July 16, 2009; 85 FR 31701, May 27, 2020]
+(The information collection requirements in this section have been approved by the Office of Management and Budget under control number 2900-0556)[62 FR 53961, Oct. 17, 1997, as amended at 70 FR 71774, Nov. 30, 2005; 71 FR 68740, Nov. 28, 2006; 72 FR 10366, Mar. 8, 2007; 74 FR 34503, July 16, 2009; 85 FR 31701, May 27, 2020; 87 FR, Feb. 4, 2022]

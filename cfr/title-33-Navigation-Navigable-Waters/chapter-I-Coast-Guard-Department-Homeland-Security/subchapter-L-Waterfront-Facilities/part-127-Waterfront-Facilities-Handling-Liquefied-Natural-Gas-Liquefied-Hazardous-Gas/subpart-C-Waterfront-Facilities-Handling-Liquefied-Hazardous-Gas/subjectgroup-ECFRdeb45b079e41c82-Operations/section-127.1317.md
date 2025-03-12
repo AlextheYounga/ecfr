@@ -1,5 +1,7 @@
 ##### § 127.1317 Declaration of Inspection. #####
 
+Link to an amendment published at 87 FR 5692, Feb. 2, 2022.
+
 (a) Each person in charge of transfer for the facility shall ensure that no person transfers LHG to or from a vessel until a Declaration of Inspection that meets paragraph (c) of this section is executed and signed by both the person in charge aboard the vessel and the person in charge for the facility.
 
 (b) No person in charge of transfer for the facility may sign the Declaration unless that person has fulfilled the requirements of § 127.1315 and has indicated fulfillment of each requirement by writing his or her initials in the appropriate space on the Declaration.

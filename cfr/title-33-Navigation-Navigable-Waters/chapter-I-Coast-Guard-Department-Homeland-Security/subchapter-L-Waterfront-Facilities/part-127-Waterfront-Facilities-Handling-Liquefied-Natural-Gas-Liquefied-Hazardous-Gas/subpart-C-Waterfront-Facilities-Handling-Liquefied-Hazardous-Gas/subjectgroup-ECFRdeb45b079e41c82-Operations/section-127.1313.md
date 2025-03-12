@@ -1,5 +1,7 @@
 ##### § 127.1313 Storage of hazardous materials. #####
 
+Link to an amendment published at 87 FR 5692, Feb. 2, 2022.
+
 (a) Each operator of a waterfront facility handling LHG shall ensure that no materials listed in the table of hazardous materials under 49 CFR 172.101, except for the following, are stored in the marine transfer area for LHG:
 
 (1) The LHG being transferred.

@@ -1,3 +1,3 @@
-##### 102-77.25 Do Federal agencies have responsibilities to provide national visibility for Art in Architecture? #####
+##### § 102-77.25 With whom should Federal agencies collaborate when commissioning visual art for Federal buildings? #####
 
-Yes. Federal agencies should provide Art in Architecture that receives appropriate national and local visibility to facilitate participation by a large and diverse group of artists representing a wide variety of types of artwork.
+To the maximum extent practicable, Federal agencies should seek the support and involvement of local citizens in commissioning a work of visual art. Federal agencies should collaborate with the chosen artist to commission works of visual art that reflect the cultural, intellectual, and historic interests and values of the community in which the art is to be located. In addition, Federal agencies should work collaboratively with the architect of the building and art professionals in commissioning visual art for Federal buildings. Federal agencies should commission a work of visual art that is diverse in style and media and no official style or media are mandated.

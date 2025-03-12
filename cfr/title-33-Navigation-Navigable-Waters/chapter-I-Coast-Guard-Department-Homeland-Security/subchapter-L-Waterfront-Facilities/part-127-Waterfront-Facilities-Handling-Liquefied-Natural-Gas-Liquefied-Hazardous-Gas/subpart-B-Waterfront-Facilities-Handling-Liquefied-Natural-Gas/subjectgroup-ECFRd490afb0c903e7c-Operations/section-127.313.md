@@ -1,5 +1,7 @@
 ##### § 127.313 Bulk storage. #####
 
+Link to an amendment published at 87 FR 5691, Feb. 2, 2022.
+
 (a) The operator shall ensure that only the following flammable materials are stored in the marine transfer area for LNG:
 
 (1) LNG.

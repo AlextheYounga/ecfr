@@ -1,5 +1,7 @@
 ##### § 127.015 Appeals. #####
 
+Link to an amendment published at 87 FR 5690, Feb. 2, 2022.
+
 (a) Any person directly affected by an action taken under this part may request reconsideration by the Coast Guard officer responsible for that action.
 
 (b) Except as provided under paragraph (e) of this section, any person not satisfied with a ruling made under the procedure contained in paragraph (a) of this section may -

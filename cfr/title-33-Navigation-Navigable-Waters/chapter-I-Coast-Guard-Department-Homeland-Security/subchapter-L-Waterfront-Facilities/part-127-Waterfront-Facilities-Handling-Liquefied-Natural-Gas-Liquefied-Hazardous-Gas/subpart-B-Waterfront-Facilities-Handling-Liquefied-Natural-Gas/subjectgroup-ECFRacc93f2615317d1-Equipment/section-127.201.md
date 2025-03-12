@@ -1,5 +1,7 @@
 ##### § 127.201 Sensing and alarm systems. #####
 
+Link to an amendment published at 87 FR 5691, Feb. 2, 2022.
+
 (a) Fixed sensors must have audio and visual alarms in the control room and audio alarms nearby.
 
 (b) Fixed sensors that continuously monitor for LNG vapors must -

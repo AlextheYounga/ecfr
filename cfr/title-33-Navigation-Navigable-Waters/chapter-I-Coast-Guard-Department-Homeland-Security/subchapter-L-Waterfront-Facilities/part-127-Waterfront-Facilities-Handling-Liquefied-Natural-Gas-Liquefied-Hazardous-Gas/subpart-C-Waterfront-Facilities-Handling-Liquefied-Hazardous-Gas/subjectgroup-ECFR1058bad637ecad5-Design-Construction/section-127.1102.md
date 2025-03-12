@@ -1,5 +1,7 @@
 ##### § 127.1102 Transfer hoses and loading arms. #####
 
+Link to an amendment published at 87 FR 5691, Feb. 2, 2022.
+
 (a) Each hose within the marine transfer area for LHG used for the transfer of LHG or its vapors to or from a vessel must -
 
 (1) Be made of materials resistant to each LHG transferred, in both the liquid and vapor state (if wire braid is used for reinforcement, the wire must be of corrosion-resistant material, such as stainless steel);

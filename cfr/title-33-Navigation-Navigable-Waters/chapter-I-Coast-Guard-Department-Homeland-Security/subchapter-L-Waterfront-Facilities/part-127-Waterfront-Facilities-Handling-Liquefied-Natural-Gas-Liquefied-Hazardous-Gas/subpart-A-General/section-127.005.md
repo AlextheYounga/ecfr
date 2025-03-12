@@ -1,5 +1,7 @@
 ##### § 127.005 Definitions. #####
 
+Link to an amendment published at 87 FR 5689, Feb. 2, 2022.
+
 As used in this part:
 
 *Active* means accomplishing the transfer of LHG or LNG, or scheduling one to occur, within 12 months of the current date.

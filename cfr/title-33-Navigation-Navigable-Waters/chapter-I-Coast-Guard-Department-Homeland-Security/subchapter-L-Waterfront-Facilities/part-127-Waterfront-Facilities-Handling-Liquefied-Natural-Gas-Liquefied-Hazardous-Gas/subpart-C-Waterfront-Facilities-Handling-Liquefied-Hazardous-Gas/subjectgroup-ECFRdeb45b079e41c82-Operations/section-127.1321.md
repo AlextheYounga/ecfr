@@ -1,5 +1,7 @@
 ##### § 127.1321 Release of LHG. #####
 
+Link to an amendment published at 87 FR 5692, Feb. 2, 2022.
+
 (a) Each operator of a waterfront facility handling LHG shall ensure that -
 
 (1) No person intentionally releases LHG into the environment; and

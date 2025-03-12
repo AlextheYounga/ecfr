@@ -1,5 +1,7 @@
 ##### § 127.1315 Preliminary transfer inspection. #####
 
+Link to an amendment published at 87 FR 5692, Feb. 2, 2022.
+
 Before each transfer, the person in charge of transfer for the facility shall -
 
 (a) Inspect piping and equipment within the marine transfer area for LHG to be used for transfer and ensure that it meets the requirements in this part;

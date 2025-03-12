@@ -1,5 +1,7 @@
 ##### § 127.1207 Warning alarms. #####
 
+Link to an amendment published at 87 FR 5691, Feb. 2, 2022.
+
 (a) Each marine transfer area for LHG must have a rotating or flashing amber light that is visible for at least 1,600 meters (1 mile) from the transfer connection in all directions.
 
 (b) Each marine transfer area for LHG must also have a siren that is audible for at least 1,600 meters (1 mile) from the transfer connection in all directions.

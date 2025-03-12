@@ -1,5 +1,7 @@
 ##### § 127.1101 Piping systems. #####
 
+Link to an amendment published at 87 FR 5691, Feb. 2, 2022.
+
 Each piping system within the marine transfer area for LHG used for the transfer of LHG must meet the following criteria:
 
 (a) Each system must be designed and constructed in accordance with ASME B31.3.

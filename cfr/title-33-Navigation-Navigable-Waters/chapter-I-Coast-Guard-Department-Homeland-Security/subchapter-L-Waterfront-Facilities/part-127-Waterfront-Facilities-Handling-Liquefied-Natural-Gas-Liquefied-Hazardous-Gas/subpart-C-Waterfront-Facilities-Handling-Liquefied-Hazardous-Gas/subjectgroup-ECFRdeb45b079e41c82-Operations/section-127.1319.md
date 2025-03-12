@@ -1,5 +1,7 @@
 ##### § 127.1319 Transfer of LHG. #####
 
+Link to an amendment published at 87 FR 5692, Feb. 2, 2022.
+
 (a) The operator of a waterfront facility handling LHG shall notify the COTP of the time and place of each transfer of LHG in bulk at least 4 hours before it begins.
 
 (b) During transfer, each operator of a waterfront facility handling LHG shall ensure that -

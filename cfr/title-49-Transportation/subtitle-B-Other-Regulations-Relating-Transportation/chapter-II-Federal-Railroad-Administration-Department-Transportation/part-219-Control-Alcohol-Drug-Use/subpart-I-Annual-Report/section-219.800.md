@@ -1,5 +1,7 @@
 ##### § 219.800 Annual reports. #####
 
+Link to an amendment published at 87 FR 5736, Feb. 2, 2022.
+
 (a) Each railroad that has a total of 400,000 or more employee hours (including hours worked by all employees of the railroad, regardless of occupation, not only while in the United States but also while outside the United States) must submit to FRA by March 15 of each year a report covering the previous calendar year (January 1-December 31), summarizing the results of its alcohol misuse prevention program. As used in this paragraph, the term “employees of the railroad” includes individuals who perform service for the railroad, including not only individuals who receive direct monetary compensation from the railroad for performing a service for the railroad, but also such individuals as employees of a contractor to the railroad who perform a service for the railroad.
 
 (b) As a railroad, you must use the Management Information System (MIS) form and instructions as required by 49 CFR part 40 (at § 40.25 and appendix H to part 40). You may also use the electronic version of the MIS form provided by the DOT. The Administrator may designate means (*e.g.,* electronic program transmitted via the Internet), other than hard-copy, for MIS form submission to FRA. For information on where to submit MIS forms and for the electronic version of the form, see: *http://www.fra.dot.gov/eLib/details/L02639.*

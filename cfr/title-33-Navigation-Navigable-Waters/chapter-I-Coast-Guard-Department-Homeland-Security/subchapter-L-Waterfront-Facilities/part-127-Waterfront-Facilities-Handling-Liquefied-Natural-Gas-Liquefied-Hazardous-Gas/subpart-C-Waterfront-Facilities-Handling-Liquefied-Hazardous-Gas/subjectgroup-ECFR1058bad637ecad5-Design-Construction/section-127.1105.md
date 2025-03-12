@@ -1,5 +1,7 @@
 ##### § 127.1105 Layout and spacing of marine transfer area for LHG. #####
 
+Link to an amendment published at 87 FR 5691, Feb. 2, 2022.
+
 Each new waterfront facility handling LHG, and all new construction in the marine transfer area for LHG of each existing facility, must comply with the following:
 
 (a) Each building, shed, and other structure within each marine transfer area for LHG must be located, constructed, or ventilated to prevent the accumulation of flammable or toxic gases within the structure.

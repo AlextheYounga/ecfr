@@ -1,5 +1,7 @@
 ##### § 127.703 Access to the marine transfer area for LNG. #####
 
+Link to an amendment published at 87 FR 5691, Feb. 2, 2022.
+
 The operator shall ensure that -
 
 (a) Access to the marine transfer area for LNG from the shoreside and the waterside is limited to -

@@ -1,5 +1,7 @@
 ##### § 127.705 Security systems. #####
 
+Link to an amendment published at 87 FR 5691, Feb. 2, 2022.
+
 The operator shall ensure that security patrols of the marine transfer area for LNG are conducted once every hour, or that a manned television monitoring system is used, to detect -
 
 (a) Unauthorized personnel;

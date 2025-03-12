@@ -1,5 +1,7 @@
 ##### § 219.607 Requirements for random testing plans. #####
 
+Link to an amendment published at 87 FR 5736, Feb. 2, 2022.
+
 (a) *General.* A random testing plan that a railroad submits under this subpart must address and comply with the requirements of this subpart. The railroad must also comply with these requirements in implementing the plan.
 
 (b) *Model random testing plan.* A railroad (or a contractor or service agent that submits a part 219-compliant random testing plan to a railroad for submission as a part of the railroad's random testing plan) may complete, modify if necessary, and submit a plan based on the FRA model random testing plan that can be downloaded from FRA's Drug and Alcohol Program Web site.

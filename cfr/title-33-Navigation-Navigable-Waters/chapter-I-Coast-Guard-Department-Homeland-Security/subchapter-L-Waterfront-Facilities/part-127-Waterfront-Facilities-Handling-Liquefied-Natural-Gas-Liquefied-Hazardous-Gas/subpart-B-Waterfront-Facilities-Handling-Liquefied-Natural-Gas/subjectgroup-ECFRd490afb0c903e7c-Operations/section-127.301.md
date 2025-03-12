@@ -1,5 +1,7 @@
 ##### § 127.301 Persons in charge of shoreside transfer operations: Qualifications and certification. #####
 
+Link to an amendment published at 87 FR 5691, Feb. 2, 2022.
+
 (a) No person may serve, and the operator of the waterfront facility handling LNG may not use the services of any person, as a person in charge of shoreside transfer operations, unless that person -
 
 (1) Has at least 48 hours of LNG transfer experience;

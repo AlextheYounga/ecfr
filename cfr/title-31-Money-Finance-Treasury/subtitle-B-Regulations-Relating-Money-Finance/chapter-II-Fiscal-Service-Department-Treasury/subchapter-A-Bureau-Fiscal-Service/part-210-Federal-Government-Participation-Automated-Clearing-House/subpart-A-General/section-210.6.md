@@ -1,7 +1,5 @@
 ##### § 210.6 Agencies. #####
 
-Link to an amendment published at 87 FR 46, Jan. 3, 2022.
-
 Notwithstanding any provision of the ACH Rules, including Subsections 2.4.5, 2.8.4, 4.3.5, 2.9.2, 3.2.2, and 3.13.3, agencies shall be subject to the obligations and liabilities set forth in this section in connection with Government entries.
 
 (a) *Receiving entries.* An agency may receive ACH debit or credit entries only with the prior written authorization of the Service.
@@ -16,8 +14,8 @@ Notwithstanding any provision of the ACH Rules, including Subsections 2.4.5, 2.8
 
 (f) *Reversals.* An agency may reverse any duplicate or erroneous entry, and the Federal Government may reverse any duplicate or erroneous file. In initiating a reversal, an agency shall certify to the Service that the reversal complies with applicable law related to the recovery of the underlying payment. An agency that reverses an entry shall indemnify the RDFI as provided in the applicable ACH Rules, but the agency's liability shall be limited to the amount of the entry. If the Federal Government reverses a file, the Federal Government shall indemnify the RDFI as provided in the applicable ACH Rules, but the extent of such liability shall be limited to the amount of the entries comprising the duplicate or erroneous file. Reversals under this section shall comply with the time limitations set forth in the applicable ACH Rules.
 
-(g) *Point-of-purchase debit entries.* An agency may originate a Point-of-Purchase (POP) entry using a check drawn on a consumer or business account and presented at a point-of-purchase. The requirements of the 2019 NACHA Operating Rules and Guidelines, incorporated by reference, see § 210.3(b), shall be met for such an entry if the Receiver presents the check at a location where the agency has posted the notice required by the ACH Rules and has provided the Receiver with a copy of the notice.
+(g) *Point-of-purchase debit entries.* An agency may originate a Point-of-Purchase (POP) entry using a check drawn on a consumer or business account and presented at a point-of-purchase. The requirements of the applicable ACH Rules, incorporated by reference, see § 210.3(b), shall be met for such an entry if the Receiver presents the check at a location where the agency has posted the notice required by the ACH Rules and has provided the Receiver with a copy of the notice.
 
 (h) *Return Fee Entry.* An agency that has authority to collect returned item service fees may do so by originating a Return Fee Entry if the agency provides notice to the Receiver in accordance with the ACH Rules.
 
-[82 FR 42609, Sept. 11, 2017, as amended at 85 FR 15721, Mar. 19, 2020]
+[82 FR 42609, Sept. 11, 2017, as amended at 85 FR 15721, Mar. 19, 2020; 87 FR 47, Jan. 3, 2022]

@@ -1,5 +1,7 @@
 ##### § 219.403 Requirements for reasonable cause testing. #####
 
+Link to an amendment published at 87 FR 5735, Feb. 2, 2022.
+
 Each railroad's decision process regarding whether reasonable cause testing is authorized must be completed before the reasonable cause testing is performed and documented according to the requirements of § 219.405. The following circumstances constitute reasonable cause for the administration of alcohol and/or drug tests under the authority of this subpart.
 
 (a) *Train accident or train incident.* A regulated employee has been involved in a train accident or train incident (as defined in § 219.5) reportable under part 225 of this chapter, and a responsible railroad supervisor (as defined in § 219.5) has a reasonable belief, based on specific, articulable facts, that the individual employee's acts or omissions contributed to the occurrence or severity of the accident; or

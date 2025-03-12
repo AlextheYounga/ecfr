@@ -1,5 +1,7 @@
 ##### § 127.321 Release of LNG. #####
 
+Link to an amendment published at 87 FR 5691, Feb. 2, 2022.
+
 (a) The operator of the waterfront facility handling LNG shall ensure that -
 
 (1) No person releases LNG into the navigable waters of the United States; and

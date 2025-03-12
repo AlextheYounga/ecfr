@@ -1,5 +1,7 @@
 ##### § 381.304 Review of Department of Energy denial of adjustment. #####
 
+Link to an amendment published at 87 FR 5660, Feb. 2, 2022.
+
 (a) Except as provided in § 381.304(b), the fee established for filing a petition for review of a Department of Energy denial of an adjustment request under subpart J of the Commission's Rules of Practice and Procedure, 18 CFR part 385, subpart J (1983), is $23,850. The fee must be submitted in accordance with subpart A of this part.
 
 (b) If the amount in controversy is below $30,000, then the fee to file a petition for review of a DOE denial of an adjustment is reduced as follows:

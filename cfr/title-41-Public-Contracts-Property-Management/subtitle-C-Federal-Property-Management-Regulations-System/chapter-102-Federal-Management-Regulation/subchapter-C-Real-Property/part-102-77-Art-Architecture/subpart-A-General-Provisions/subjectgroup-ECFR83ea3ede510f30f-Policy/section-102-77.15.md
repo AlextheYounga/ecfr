@@ -1,0 +1,3 @@
+##### § 102-77.15 What basic Art in Architecture policy governs Federal agencies? #####
+
+Federal agencies must incorporate visual art as an integral part of the total building concept when designing new Federal buildings and when making substantial repairs and alterations to existing Federal buildings, as appropriate. The commissioned art must reflect the national, regional, or local cultural heritages, or any combination of the foregoing, within the United States, and emphasize the work of living American artists, including those in underserved communities.

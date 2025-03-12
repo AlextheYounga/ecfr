@@ -1,5 +1,7 @@
 ##### § 219.11 General conditions for chemical tests. #####
 
+Link to an amendment published at 87 FR 5734, Feb. 2, 2022.
+
 (a)(1) Any regulated employee who is subject to performing regulated service for a railroad is deemed to have consented to testing as required in subparts B, C, D, E, F, G, and K of this part.
 
 (2) A regulated employee required to participate in alcohol and/or drug testing under this part must be on duty and subject to performing regulated service when the specimen collection is initiated and the alcohol testing/urine specimen collection is conducted (with the exception of pre-employment testing under subpart F of this part).

@@ -1,5 +1,7 @@
 ##### § 219.211 Analysis and follow-up. #####
 
+Link to an amendment published at 87 FR 5735, Feb. 2, 2022.
+
 (a) The laboratory designated in appendix B to this part undertakes prompt analysis of provided under this subpart, consistent with the need to develop all relevant information and produce a complete report. Specimens are analyzed for alcohol, controlled substances, and non-controlled substances specified by FRA under protocols specified by FRA. These substances may be tested for in any form, whether naturally or synthetically derived. Specimens may be analyzed for other impairing substances specified by FRA as necessary to the particular accident investigation.
 
 (b) Results of post-accident toxicological testing for controlled substances conducted under this subpart are reported to the railroad's Medical Review Officer and the employee. The MRO and the railroad must treat the test results and any information concerning medical use or administration of drugs provided under this subpart in the same confidential manner as if subject to subpart H of this part, except where publicly disclosed by FRA or the National Transportation Safety Board. An employer is prohibited from temporarily removing an employee from the performance of regulated service based only on a report from the laboratory to the MRO of a confirmed positive test for a drug or drug metabolite, an adulterated test, or a substituted test, before the MRO has completed verification of the test result.

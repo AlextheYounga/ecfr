@@ -1,5 +1,7 @@
 ##### § 127.311 Motor vehicles. #####
 
+Link to an amendment published at 87 FR 5691, Feb. 2, 2022.
+
 (a) The operator shall designate and mark parking spaces that -
 
 (1) Do not block fire lanes;
