@@ -1,0 +1,3 @@
+##### § 306.2 United States citizenship; when acquired. #####
+
+Immediately upon making the declaration of renunciation as described in § 306.12 the declarant shall be deemed to be a citizen of the United States. No certificate of naturalization or of citizenship shall be issued by the clerk of court to any person obtaining, or who has obtained citizenship solely under section 306(a)(1) of the Immigration and Nationality Act or under section 1 of the act of February 25, 1927.

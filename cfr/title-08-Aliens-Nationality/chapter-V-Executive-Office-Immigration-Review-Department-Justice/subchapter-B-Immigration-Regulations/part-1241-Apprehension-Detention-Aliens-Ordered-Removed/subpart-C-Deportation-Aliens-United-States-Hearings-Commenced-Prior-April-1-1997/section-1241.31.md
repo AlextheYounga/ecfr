@@ -1,0 +1,3 @@
+##### § 1241.31 Final order of deportation. #####
+
+Except as otherwise required by section 242(c) of the Act for the specific purposes of that section, an order of deportation, including an alternate order of deportation coupled with an order of voluntary departure, made by the immigration judge in proceedings under 8 CFR part 1240 shall become final upon dismissal of an appeal by the Board of Immigration Appeals, upon waiver of appeal, or upon expiration of the time allotted for an appeal when no appeal is taken; or, if such an order is issued by the Board or approved by the Board upon certification, it shall be final as of the date of the Board's decision.

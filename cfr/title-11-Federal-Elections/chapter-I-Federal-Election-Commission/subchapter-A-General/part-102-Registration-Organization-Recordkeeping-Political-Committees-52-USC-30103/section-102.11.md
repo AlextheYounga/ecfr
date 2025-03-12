@@ -1,0 +1,3 @@
+##### § 102.11 Petty cash fund (52 U.S.C. 30102(h)(2)). #####
+
+A political committee may maintain a petty cash fund out of which it may make expenditures not in excess of $100 to any person per purchase or transaction. If a petty cash fund is maintained, it shall be the duty of the treasurer of the political committee to keep and maintain a written journal of all disbursements. This written journal shall include the name and address of every person to whom any disbursement is made, as well as the date, amount, and purpose of such disbursement. In addition, if any disbursement is made for a candidate, the journal shall include the name of that candidate and the office (including State and Congressional district) sought by such candidate.

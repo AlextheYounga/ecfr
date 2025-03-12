@@ -1,0 +1,11 @@
+##### § 271.1 Procedures for inspections. #####
+
+(a) *Applicability.* The following terms and conditions apply to those owners or operators of railroad lines, international bridges, or toll roads, which provide a means for an alien to come to the United States.
+
+(b) *Inspection of facility.* Based upon a written request by the owners or operators, the INS district director or his designee shall inspect the facility or method utilized in order to ensure that owners and operators have acted diligently in taking adequate steps to prevent the unlawful entry of aliens into the United States. Such measures may include but are not necessarily limited to fencing, barricades, lighting, or security guards. If the district director determines that preventive measures are inadequate, he or she shall advise the owners or operators in writing, citing the reasons for such determination. If the owners or operators believe the requirements of the district director to be excessive or unnecessary, they may request that the Regional Commissioner having jurisdiction over the location where the facility is located, review the district director's requirements. The Regional Commissioner shall advise the owners or operators in writing of the results of his or her review.
+
+(c) *Preventive measures and certification.* Upon a determination by the district director that reasonable and adequate preventive measures have been taken by the owners and operators, he or she shall certify that the owners and operators shall not be liable for the penalty described in section 271(a), so long as the facility or method utilized is maintained in the condition in which approved and certified.
+
+(d) *Revocation of certification.* The District Director having jurisdiction over the location where the facility is located, in his or her discretion, may at any time, conduct an inspection of said facility to determine if any violation is occurring. If the facility is found to be not in compliance, said certification will be revoked.
+
+[53 FR 26036, July 11, 1988]

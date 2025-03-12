@@ -1,0 +1,3 @@
+##### § 201.5 Sanctions. #####
+
+Any person who becomes aware of a possible violation of this part shall notify the Designated Agency Ethics Official in writing of the facts and circumstances of the alleged violation. The Designated Agency Ethics Official shall recommend to the Commission the appropriate action to be taken. The Commission shall determine the appropriate action by at least four votes.

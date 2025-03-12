@@ -1,0 +1,3 @@
+##### § 100.85 Legal or accounting services to political party committees. #####
+
+Legal or accounting services rendered to or on behalf of any political committee of a political party are not contributions if the person paying for such services is the regular employer of the individual rendering the services and such services are not attributable to activities that directly further the election of any designated candidate for Federal office. For purposes of this section, a partnership shall be deemed to be the regular employer of a partner. Amounts paid by the regular employer for such services shall be reported by the committee receiving such services in accordance with 11 CFR 104.3(h).

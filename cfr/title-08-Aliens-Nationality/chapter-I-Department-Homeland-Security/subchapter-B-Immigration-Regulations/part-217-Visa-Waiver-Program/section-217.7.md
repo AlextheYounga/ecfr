@@ -1,0 +1,7 @@
+##### § 217.7 Electronic data transmission requirement. #####
+
+(a) An alien who applies for admission under the provisions of section 217 of the Act after arriving via sea or air at a port of entry will not be admitted under the Visa Waiver Program unless an appropriate official of the carrier transporting the alien electronically transmitted to Customs and Border Protection (CBP) passenger arrival manifest data relative to that alien passenger in accordance with 19 CFR 4.7b or 19 CFR 122.49a. Upon departure from the United States by sea or air of an alien admitted under the Visa Waiver Program, an appropriate official of the transporting carrier must electronically transmit to CBP departure manifest data relative to that alien passenger in accordance with 19 CFR 4.64 and 19 CFR 122.75a.
+
+(b) If a carrier fails to submit the required electronic arrival or departure manifests specified in paragraph (a) of this section, CBP will evaluate the carrier's compliance with immigration requirements as a whole. CBP will inform the carrier of any noncompliance and then may revoke any contract agreements between CBP and the carrier. The carrier may also be subject to fines for failure to comply with manifest requirements or other statutory provisions. CBP will also review each Visa Waiver Program applicant who applies for admission and, on a case-by-case basis, may authorize a waiver under current CBP policy and guidelines or deny the applicant admission into the United States.
+
+[70 FR 17848, Apr. 7, 2005]

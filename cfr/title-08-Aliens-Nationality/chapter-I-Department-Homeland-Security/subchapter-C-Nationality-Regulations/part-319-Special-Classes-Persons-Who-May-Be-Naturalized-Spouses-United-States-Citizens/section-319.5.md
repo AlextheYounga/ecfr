@@ -1,0 +1,5 @@
+##### § 319.5 Public international organizations in which the U.S. participates by treaty or statute. #####
+
+Organizations designated by the President as international organizations pursuant to the International Organizations Immunities Act are considered as public international organizations in which the United States participates by treaty or statute within the meaning of section 319(b) or the Act. For a list of such organizations see § 316.20(b) of this chapter. In addition, the following have been determined to be public international organizations within the purview of section 319(b) of the Act:
+
+The North Atlantic Treaty Organization.The United Nations and all agencies and organizations which are a part thereof.The regional commissioner shall forward a copy of each decision regarding a public international organization to the Assistant Commissioner, Naturalization.[32 FR 9635, July 4, 1967. Redesignated at 33 FR 255, Jan. 9, 1968. Further redesignated and amended at 56 FR 50489, Oct. 7, 1991]

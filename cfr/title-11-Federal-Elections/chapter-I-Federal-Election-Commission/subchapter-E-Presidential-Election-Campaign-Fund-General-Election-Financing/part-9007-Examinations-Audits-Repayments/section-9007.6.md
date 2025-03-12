@@ -1,0 +1,3 @@
+##### § 9007.6 Stale-dated committee checks. #####
+
+If the committee has checks outstanding to creditors or contributors that have not been cashed, the committee shall notify the Commission. The committee shall inform the Commission of its efforts to locate the payees, if such efforts have been necessary, and its efforts to encourage the payees to cash the outstanding checks. The committee shall also submit a check for the total amount of such outstanding checks, payable to the United States Treasury.

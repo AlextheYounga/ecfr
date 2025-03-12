@@ -1,0 +1,5 @@
+##### § 2.1 Authority of the Secretary of Homeland Security. #####
+
+All authorities and functions of the Department of Homeland Security to administer and enforce the immigration laws are vested in the Secretary of Homeland Security. The Secretary of Homeland Security may, in the Secretary's discretion, delegate any such authority or function to any official, officer, or employee of the Department of Homeland Security, including delegation through successive redelegation, or to any employee of the United States to the extent authorized by law. Such delegation may be made by regulation, directive, memorandum, or other means as deemed appropriate by the Secretary in the exercise of the Secretary's discretion. A delegation of authority or function may in the Secretary's discretion be published in the Federal Register, but such publication is not required.
+
+[68 FR 10923, Mar. 6, 2003]

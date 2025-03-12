@@ -1,0 +1,3 @@
+##### § 109.34 When may a political party committee make coordinated party expenditures? #####
+
+A political party committee authorized to make coordinated party expenditures may make such expenditures in connection with the general election campaign before or after its candidate has been nominated. All pre-nomination coordinated party expenditures shall be subject to the coordinated party expenditure limitations of this subpart, whether or not the candidate on whose behalf they are made receives the party's nomination.

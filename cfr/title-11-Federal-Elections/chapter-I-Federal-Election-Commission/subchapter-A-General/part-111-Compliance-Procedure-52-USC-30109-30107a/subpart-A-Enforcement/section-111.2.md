@@ -1,0 +1,7 @@
+##### § 111.2 Computation of time. #####
+
+(a) *General rule.* In computing any period of time prescribed or allowed by this part, the day of the act, event, or default from which the designated period of time begins to run shall not be included. The last day of the period so computed shall be included, unless it is a Saturday, a Sunday, or a legal holiday. As used in this section, the term *legal holiday* includes New Year's Day, President's Day, Memorial Day, Independence Day, Labor Day, Columbus Day, Veterans Day, Thanksgiving Day, Christmas Day, and any other day appointed as a holiday for employees of the United States by the President or the Congress of the United States.
+
+(b) *Special rule for periods less than seven days.* When the period of time prescribed or allowed is less than seven (7) days, intermediate Saturdays, Sundays, and legal holidays shall be excluded in the computation.
+
+(c) *Special rule for service by mail.* Whenever the Commission or any person has the right or is required to do some act within a prescribed period after the service of any paper by or upon the Commission or such person and the paper is served by or upon the Commission or such person by mail, three (3) days shall be added to the prescribed period.

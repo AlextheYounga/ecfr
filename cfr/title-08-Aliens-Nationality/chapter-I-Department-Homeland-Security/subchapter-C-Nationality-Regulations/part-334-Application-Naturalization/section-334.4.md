@@ -1,0 +1,5 @@
+##### § 334.4 Investigation and report if applicant is sick or disabled. #####
+
+Whenever it appears that an applicant for naturalization may be unable, because of sickness or other disability, to appear for the initial examination on the application or for any subsequent interview, the district director shall cause an investigation to be conducted to determine the circumstances surrounding the sickness or disability. The district director shall determine, based on available medical evidence, whether the sickness or disability is of a nature which so incapacitates the applicant as to prevent the applicant's appearance at a Service office having jurisdiction over the applicant's place of residence. If so, the district director shall designate another place where the applicant may appear for the requisite naturalization proceedings.
+
+[58 FR 49913, Sept. 24, 1993]

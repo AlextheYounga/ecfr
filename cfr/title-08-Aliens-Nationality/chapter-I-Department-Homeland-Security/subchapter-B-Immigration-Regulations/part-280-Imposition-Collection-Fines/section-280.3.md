@@ -1,0 +1,5 @@
+##### § 280.3 Departure of vessel or aircraft prior to denial of clearance. #####
+
+If any vessel or aircraft which is subject to the imposition of a fine shall have departed from the United States prior to the denial of clearance by the district director of customs and such vessel or aircraft is subsequently found in the United States, a Notice of Intention to Fine, Form I-79, shall be served as provided in this part, if such form has not been previously served for the same violation. Clearance of such vessel or aircraft shall be withheld by the district director of customs, and the procedure prescribed in this part shall be followed to the same extent and in the same manner as though the vessel or aircraft had not departed from the United States. Aircraft subject to the provisions of § 280.2, which shall have departed from the United States prior to the time of seizure could be effected, shall be subject to all of the provisions of this part, if subsequently found in the United States, to the same extent as though it had not departed from the United States.
+
+[22 FR 9807, Dec. 6, 1957, as amended at 32 FR 17651, Dec. 12, 1967]

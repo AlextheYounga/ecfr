@@ -1,0 +1,5 @@
+##### § 115.3 Corporations, labor organizations, membership organizations, cooperatives, and corporations without capital stock. #####
+
+(a) Corporations, labor organizations, membership organizations, cooperatives, and corporations without capital stock to which this part applies may expend treasury monies to establish, administer, and solicit contributions to any separate segregated fund subject to the provisions of part 114. Each specific prohibition, allowance, and duty applicable to a corporation, labor organization, or separate segregated fund under part 114 applies to a corporation, labor organization, or separate segregated fund to which this part applies.
+
+(b) The question of whether a professional organization is a corporation is determined by the law of the State in which the professional organization exists.

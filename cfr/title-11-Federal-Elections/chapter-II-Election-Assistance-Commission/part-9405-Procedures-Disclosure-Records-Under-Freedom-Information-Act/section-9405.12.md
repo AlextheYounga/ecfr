@@ -1,0 +1,3 @@
+##### § 9405.12 Waiver or reduction of charges. #####
+
+Records responsive to a request will be furnished without charge when the Chief FOIA Officer determines, based on all available information, that disclosure of the requested information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the government and is not primarily in the commercial interest of the requester.

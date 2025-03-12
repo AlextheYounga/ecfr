@@ -1,0 +1,5 @@
+##### § 251.2 Notification of illegal landings. #####
+
+As soon as discovered, the master or agent of any vessel from which an alien crewman has illegally landed or deserted in the United States shall inform the immigration officer in charge of the port where the illegal landing or desertion occurred, in writing, of the name, nationality, passport number and, if known, the personal description, circumstances and time of such illegal landing or desertion of such alien crewman, and furnish any other information and documents that might aid in his or her apprehension, including any passport surrendered pursuant to § 252.1(d) of this chapter. Failure to file notice of illegal landing or desertion and to furnish any surrendered passport within 24 hours of the time of such landing or desertion becomes known shall be regarded as lack of compliance with section 251(d) of the Act.
+
+[62 FR 10387, Mar. 6, 1997]

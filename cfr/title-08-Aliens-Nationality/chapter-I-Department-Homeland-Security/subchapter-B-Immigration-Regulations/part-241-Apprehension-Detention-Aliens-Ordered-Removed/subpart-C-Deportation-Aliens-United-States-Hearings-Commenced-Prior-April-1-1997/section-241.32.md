@@ -1,0 +1,3 @@
+##### § 241.32 Warrant of deportation. #####
+
+A Form I-205, Warrant of Deportation, based upon the final administrative order of deportation in the alien's case shall be issued by a district director. The district director shall exercise the authority contained in section 243 of the Act to determine at whose expense the alien shall be deported and whether his or her mental or physical condition requires personal care and attention en route to his or her destination.

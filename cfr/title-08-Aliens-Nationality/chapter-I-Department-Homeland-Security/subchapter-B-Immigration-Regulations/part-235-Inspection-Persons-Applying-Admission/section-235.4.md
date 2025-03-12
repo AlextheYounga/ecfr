@@ -1,0 +1,5 @@
+##### § 235.4 Withdrawal of application for admission. #####
+
+The Attorney General may, in his or her discretion, permit any alien applicant for admission to withdraw his or her application for admission in lieu of removal proceedings under section 240 of the Act or expedited removal under section 235(b)(1) of the Act. The alien's decision to withdraw his or her application for admission must be made voluntarily, but nothing in this section shall be construed as to give an alien the right to withdraw his or her application for admission. Permission to withdraw an application for admission should not normally be granted unless the alien intends and is able to depart the United States immediately. An alien permitted to withdraw his or her application for admission shall normally remain in carrier or Service custody pending departure, unless the district director determines that parole of the alien is warranted in accordance with § 212.5(b) of this chapter.
+
+[62 FR 10358, Mar. 6, 1997; 62 FR 15363, Apr. 1, 1997; 65 FR 82256, Dec. 28, 2000]

@@ -1,0 +1,3 @@
+##### § 100.55 Extension of credit. #####
+
+The extension of credit by any person is a contribution unless the credit is extended in the ordinary course of the person's business and the terms are substantially similar to extensions of credit to nonpolitical debtors that are of similar risk and size of obligation. If a creditor fails to make a commercially reasonable attempt to collect the debt, a contribution will result. (See 11 CFR 116.3 and 116.4.) If a debt owed by a political committee is forgiven or settled for less than the amount owed, a contribution results unless such debt is settled in accordance with the standards set forth at 11 CFR 116.3 and 116.4.

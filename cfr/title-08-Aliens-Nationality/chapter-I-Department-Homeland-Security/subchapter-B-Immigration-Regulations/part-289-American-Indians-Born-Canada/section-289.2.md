@@ -1,0 +1,5 @@
+##### § 289.2 Lawful admission for permanent residence. #####
+
+Any American Indian born in Canada who at the time of entry was entitled to the exemption provided for such person by the Act of April 2, 1928 (45 Stat. 401), or section 289 of the Act, and has maintained residence in the United States since his entry, shall be regarded as having been lawfully admitted for permanent residence. A person who does not possess 50 per centum of the blood of the American Indian race, but who entered the United States prior to December 24, 1952, under the exemption provided by the Act of April 2, 1928, and has maintained his residence in the United States since such entry shall also be regarded as having been lawfully admitted for permanent residence. In the absence of a Service record of arrival in the United States, the record of registration under the Alien Registration Act, of 1940 (54 Stat. 670; 8 U.S.C. 451), or section 262 of the Act, or other satisfactory evidence may be accepted to establish the date of entry.
+
+[29 FR 11494, Aug. 11, 1964]

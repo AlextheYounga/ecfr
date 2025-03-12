@@ -1,0 +1,5 @@
+##### § 236.16 Travel outside the United States. #####
+
+An alien granted Family Unity Program benefits who intends to travel outside the United States temporarily must apply for advance authorization in accordance with 8 CFR 223.2(a). The authority to grant an application for advance authorization for an alien granted Family Unity Program benefits rests solely with USCIS. An alien who is granted advance authorization and returns to the United States in accordance with such authorization, and who is found not to be inadmissible under section 212(a)(2) or (3) of the Act, shall be inspected and admitted in the same immigration status as the alien had at the time of departure, and shall be provided the remainder of the voluntary departure period previously granted under the Family Unity Program.
+
+[62 FR 10360, Mar. 6, 1997, as amended at 76 FR 53790, Aug. 29, 2011]

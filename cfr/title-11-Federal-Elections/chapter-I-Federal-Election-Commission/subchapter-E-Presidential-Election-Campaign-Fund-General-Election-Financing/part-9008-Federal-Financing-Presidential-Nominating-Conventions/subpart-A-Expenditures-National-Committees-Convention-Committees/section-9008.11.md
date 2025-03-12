@@ -1,0 +1,3 @@
+##### § 9008.11 Examinations and audits. #####
+
+The Commission shall conduct an examination and audit of the convention committee no later than December 31 of the calendar year of the convention and may at any time conduct other examinations and audits as it deems necessary. The Commission will follow the same procedures during the audit, and will afford the committee the same right to respond, as are provided for audits of publicly funded candidates under 11 CFR 9007.1 and 9038.1.

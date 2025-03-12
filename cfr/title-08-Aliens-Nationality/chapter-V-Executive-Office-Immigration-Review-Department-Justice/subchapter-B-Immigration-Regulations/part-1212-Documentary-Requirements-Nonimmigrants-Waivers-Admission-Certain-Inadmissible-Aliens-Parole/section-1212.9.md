@@ -1,0 +1,5 @@
+##### § 1212.9 Applicability of section 212(a)(32) to certain derivative third and sixth preference and nonpreference immigrants. #####
+
+A derivative beneficiary who is the spouse or child of a qualified third or sixth preference or nonpreference immigrant and who is also a graduate of a medical school as defined by section 101(a)(41) of the Act is not considered to be an alien who is coming to the United States principally to perform services as a member of the medical profession. Therefore, a derivative third or sixth preference or nonpreference immigrant under section 203(a)(8) of the Act, who is also a graduate of a medical school, is eligible for an immigrant visa or for adjustment of status under section 245 of the Act, whether or not such derivative immigrant has passed Parts I and II of the National Board of Medical Examiners Examination or equivalent examination.
+
+(Secs. 103, 203(a)(8), and 212(a)(32), 8 U.S.C 1103, 1153(a)(8), and 1182(a)(32))[45 FR 63836, Sept. 26, 1980]

@@ -1,0 +1,3 @@
+##### § 109.36 Are there circumstances under which a political party committee is prohibited from making independent expenditures? #####
+
+The national committee of a political party must not make independent expenditures in connection with the general election campaign of a candidate for President of the United States if the national committee of that political party is designated as the authorized committee of its Presidential candidate pursuant to 11 CFR 9002.1(c).

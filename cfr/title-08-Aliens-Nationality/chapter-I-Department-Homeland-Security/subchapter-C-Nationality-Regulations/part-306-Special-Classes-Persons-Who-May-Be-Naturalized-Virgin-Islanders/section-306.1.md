@@ -1,0 +1,3 @@
+##### § 306.1 Persons eligible. #####
+
+Any Danish citizen who resided in the Virgin Islands of the United States on January 17, 1917, and in those Islands, Puerto Rico, or the United States on February 25, 1927, and who had preserved his Danish citizenship by making the declaration prescribed by Article VI of the treaty entered into between the United States and Denmark on August 4, 1916, and proclaimed January 25, 1917, may renounce his Danish citizenship before any court of record in the United States irrespective of his place of residence, in accordance with the provisions of this part.

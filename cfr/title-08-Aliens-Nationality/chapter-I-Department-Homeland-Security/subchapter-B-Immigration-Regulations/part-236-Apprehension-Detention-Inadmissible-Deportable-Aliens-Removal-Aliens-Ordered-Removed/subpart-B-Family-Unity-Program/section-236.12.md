@@ -1,0 +1,11 @@
+##### § 236.12 Eligibility. #####
+
+(a) *General.* An alien who is not a lawful permanent resident is eligible to apply for benefits under the Family Unity Program if he or she establishes:
+
+(1) That he or she entered the United States before May 5, 1988 (in the case of a relationship to a legalized alien described in subsection (b)(2)(B) or (b)(2)(C) of section 301 of IMMACT 90), or as of December 1, 1988 (in the case of a relationship to a legalized alien described in subsection (b)(2)(A) of section 301 of IMMACT 90), and has been continuously residing in the United States since that date; and
+
+(2) That as of May 5, 1988, (in the case of a relationship to a legalized alien described in subsection (b)(2)(B) or (b)(2) (C) of section 301 of IMMACT 90) or as of December 1, 1988, (in the case of a relationship to a legalized alien described in subsection (b)(2) (A) of section 301 of IMMACT 90), he or she was the spouse or unmarried child of a legalized alien, and that he or she has been eligible continuously since that time for family-sponsored immigrant status under section 203(a) (1), (2), or (3) or as an immediate relative under section 201 (b)(2) of the Act based on the same relationship.
+
+(b) *Legalization application pending as of May 5, 1988 or December 1, 1988.* An alien whose legalization application was filed on or before May 5, 1988 (in the case of a relationship to a legalized alien described in subsection (b)(2)(B) or (b)(2)(C) of section 301 of IMMACT 90), or as of December 1, 1988 (in the case of a relationship to a legalized alien described in subsection (b)(2)(A) of section 301 of IMMACT 90), but not approved until after that date will be treated as having been a legalized alien as of May 5, 1988 (in the case of a relationship to a legalized alien described in subsection (b)(2)(B) or (b)(2)(C) of section 301 of IMMACT 90), or as of December 1, 1988 (in the case of a relationship to a legalized alien described in subsection (b)(2)(A) of section 301 of IMMACT 90), for purposes of the Family Unity Program.
+
+[62 FR 10360, Mar. 6, 1997, as amended at 65 FR 43679, July 14, 2000]

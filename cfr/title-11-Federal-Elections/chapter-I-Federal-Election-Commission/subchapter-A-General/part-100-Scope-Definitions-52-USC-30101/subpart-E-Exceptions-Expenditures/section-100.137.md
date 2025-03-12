@@ -1,0 +1,5 @@
+##### § 100.137 Invitations, food, and beverages. #####
+
+The cost of invitations, food, and beverages is not an expenditure where such items are voluntarily provided by an individual in rendering voluntary personal services on the individual's residential premises or in a church or community room as specified at 11 CFR 100.135 and 100.136 to a candidate for candidate-related activity or to a political committee of a political party for party-related activity, to the extent that: The aggregate value of such invitations, food and beverages provided by the individual on behalf of the candidate does not exceed $1,000 with respect to any single election; and on behalf of all political committees of each political party does not exceed $2,000 in any calendar year.
+
+[67 FR 50585, Aug. 5, 2002, as amended at 79 FR 77845, Dec. 29, 2014]

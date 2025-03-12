@@ -1,0 +1,7 @@
+##### § 1292.5 Service upon and action by attorney or representative of record. #####
+
+(a) *Representative capacity.* Whenever a person is required by any of the provisions of this chapter to give or be given notice; to serve or be served with any paper other than a warrant of arrest or a subpoena; to make a motion; to file or submit an application or other document; or to perform or waive the performance of any act, such notice, service, motion, filing, submission, performance, or waiver shall be given by or to, served by or upon, made by, or requested of the attorney or representative of record, or the person himself if unrepresented.
+
+(b) *Right to representation.* Whenever an examination is provided for in this chapter, the person involved shall have the right to be represented by an attorney or representative who shall be permitted to examine or cross-examine such person and witnesses, to introduce evidence, to make objections which shall be stated succinctly and entered on the record, and to submit briefs. Provided, that nothing in this paragraph shall be construed to provide any applicant for admission in either primary or secondary inspection the right to representation, unless the applicant for admission has become the focus of a criminal investigation and has been taken into custody.
+
+[37 FR 11471, June 8, 1972 and 45 FR 81733, Dec. 12, 1980; 46 FR 2025, Jan. 8, 1981; 58 FR 49911, Sept. 24, 1993]

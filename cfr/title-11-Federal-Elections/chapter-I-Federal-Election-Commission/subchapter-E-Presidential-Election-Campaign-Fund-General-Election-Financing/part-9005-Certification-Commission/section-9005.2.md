@@ -1,0 +1,11 @@
+##### § 9005.2 Payments to eligible candidates from the Fund. #####
+
+(a) Upon receipt of a certification from the Commission under 11 CFR 9005.1 for payment to the eligible Presidential and Vice Presidential candidates of a political party, the Secretary shall pay to such candidates out of the Fund the amount certified by the Commission. Amounts paid to a candidate shall be under the control of that candidate.
+
+(b)(1) If at the time of a certification from the Commission under 11 CFR 9005.1, the Secretary determines that the monies in the Fund are not, or may not be, sufficient to satisfy the full entitlements of the eligible candidates of all political parties, he or she shall withhold an amount which is determined to be necessary to assure that the eligible candidates of each political party will receive their pro rata share.
+
+(2) Amounts withheld under 11 CFR 9005.2(b)(1) shall be paid when the Secretary determines that there are sufficient monies in the Fund to pay such amounts, or pro rata portions thereof, to all eligible candidates from whom amounts have been withheld.
+
+(c) Payments received from the Fund by a major party candidate shall be deposited in a separate account maintained by his or her authorized committee, unless there is a deficiency in the Fund as provided under 11 CFR 9005.2(b)(1). In the case of a deficiency, the candidate may establish a separate account for payments from the Fund or may deposit such payments with contributions received pursuant to 11 CFR 9003.3(b). The account(s) shall be maintained at a State bank, federally chartered depository institution or other depository institution, the deposits or accounts of which are insured by the Federal Deposit Insurance Corporation.
+
+(d) No funds other than the payments received from the Treasury, reimbursements, or income generated through use of public funds in accordance with 11 CFR 9004.5, shall be deposited in the account described in 11 CFR 9005.2(c). “Reimbursements” shall include, but are not limited to, refunds of deposits, vendor refunds, reimbursements for travel expenses under 11 CFR 9004.6 and 9004.7 and reimbursements for legal and accounting costs under 11 CFR 9003.3(a)(2)(ii)(B).

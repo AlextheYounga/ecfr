@@ -1,0 +1,45 @@
+##### § 1212.2 Consent to reapply for admission after deportation, removal or departure at Government expense. #####
+
+(a) *Evidence.* Any alien who has been deported or removed from the United States is inadmissible to the United States unless the alien has remained outside of the United States for five consecutive years since the date of deportation or removal. If the alien has been convicted of an aggravated felony, he or she must remain outside of the United States for twenty consecutive years from the deportation date before he or she is eligible to re-enter the United States. Any alien who has been deported or removed from the United States and is applying for a visa, admission to the United States, or adjustment of status, must present proof that he or she has remained outside of the United States for the time period required for re-entry after deportation or removal. The examining consular or immigration officer must be satisfied that since the alien's deportation or removal, the alien has remained outside the United States for more than five consecutive years, or twenty consecutive years in the case of an alien convicted of an aggravated felony as defined in section 101(a)(43) of the Act. Any alien who does not satisfactorily present proof of absence from the United States for more than five consecutive years, or twenty consecutive years in the case of an alien convicted of an aggravated felony, to the consular or immigration officer, and any alien who is seeking to enter the United States prior to the completion of the requisite five- or twenty-year absence, must apply for permission to reapply for admission to the United States as provided under this part. A temporary stay in the United States under section 212(d)(3) of the Act does not interrupt the five or twenty consecutive year absence requirement.
+
+(b) *Alien applying to consular officer for nonimmigrant visa or nonresident alien border crossing card.* (1) An alien who is applying to a consular officer for a nonimmigrant visa or a nonresident alien border crossing card, must request permission to reapply for admission to the United States if five years, or twenty years if the alien's deportation was based upon a conviction for an aggravated felony, have not elapsed since the date of deportation or removal. This permission shall be requested in the manner prescribed through the consular officer, and may be granted only in accordance with sections 212(a)(17) and 212(d)(3)(A) of the Act and § 1212.4 of this part. However, the alien may apply for such permission by submitting Form I-212, Application for Permission to Reapply for Admission into the United States after Deportation or Removal, to the consular officer if that officer is willing to accept the application, and recommends to the district director that the alien be permitted to apply.
+
+(2) The consular officer shall forward the Form I-212 to the district director with jurisdiction over the place where the deportation or removal proceedings were held.
+
+(c) *Special provisions for an applicant for nonimmigrant visa under section 101(a)(15)(K) of the Act.* (1) An applicant for a nonimmigrant visa under section 101(a)(15)(K) must:
+
+(i) Be the beneficiary of a valid visa petition approved by the Service; and
+
+(ii) File an application on Form I-212 with the consular officer for permission to reapply for admission to the United States after deportation or removal.
+
+(2) The consular officer must forward the Form I-212 to the Service office with jurisdiction over the area within which the consular officer is located. If the alien is ineligible on grounds which, upon the applicant's marriage to the United States citizen petitioner, may be waived under section 212 (g), (h), or (i) of the Act, the consular officer must also forward a recommendation as to whether the waiver should be granted.
+
+(d) *Applicant for immigrant visa.* Except as provided in paragraph (g)(3) of this section, an applicant for an immigrant visa who is not physically present in the United States and who requires permission to reapply must file Form I-212 with the district director having jurisdiction over the place where the deportation or removal proceedings were held. Except as provided in paragraph (g)(3) of this section, if the applicant also requires a waiver under section 212 (g), (h), or (i) of the Act, Form I-601, Application for Waiver of Grounds of Excludability, must be filed simultaneously with the Form I-212 with the American consul having jurisdiction over the alien's place of residence. The consul must forward these forms to the appropriate Service office abroad with jurisdiction over the area within which the consul is located.
+
+(e) *Applicant for adjustment of status.* An applicant for adjustment of status under section 245 of the Act and part 245 of this chapter must request permission to reapply for entry in conjunction with his or her application for adjustment of status. This request is made by filing an application for permission to reapply, Form I-212, with the district director having jurisdiction over the place where the alien resides. If the application under section 245 of the Act has been initiated, renewed, or is pending in a proceeding before an immigration judge, the district director must refer the Form I-212 to the immigration judge for adjudication.
+
+(f) *Applicant for admission at port of entry.* Within five years of the deportation or removal, or twenty years in the case of an alien convicted of an aggravated felony, an alien may request permission at a port of entry to reapply for admission to the United States. The alien shall file the Form I-212 with the district director having jurisdiction over the port of entry.
+
+(g) *Other applicants.* (1) Any applicant for permission to reapply for admission under circumstances other than those described in paragraphs (b) through (f) of this section must file Form I-212. This form is filed with either:
+
+(i) The district director having jurisdiction over the place where the deportation or removal proceedings were held; or
+
+(ii) The district director who exercised or is exercising jurisdiction over the applicant's most recent proceeding.
+
+(2) If the applicant is physically present in the United States but is ineligible to apply for adjustment of status, he or she must file the application with the district director having jurisdiction over his or her place of residence.
+
+(3) If an alien who is an applicant for parole authorization under § 245.15(t)(2) of 8 CFR chapter I requires consent to reapply for admission after deportation, removal, or departure at Government expense, or a waiver under section 212(g), 212(h), or 212(i) of the Act, he or she may file the requisite Form I-212 or Form I-601 at the Nebraska Service Center concurrently with the Form I-131, Application for Travel Document. If an alien who is an applicant for parole authorization under § 245.13(k)(2) of 8 CFR chapter I requires consent to reapply for admission after deportation, removal, or departure at Government expense, or a waiver under section 212(g), 212(h), or 212(i) of the Act, he or she may file the requisite Form I-212 or Form I-601 at the Texas Service Center concurrently with the Form I-131, Application for Travel Document.
+
+(h) *Decision.* An applicant who has submitted a request for consent to reapply for admission after deportation or removal must be notified of the decision. If the application is denied, the applicant must be notified of the reasons for the denial and of his or her right to appeal as provided in part 103 of this chapter. Except in the case of an applicant seeking to be granted advance permission to reapply for admission prior to his or her departure from the United States, the denial of the application shall be without prejudice to the renewal of the application in the course of proceedings before an immigration judge under section 242 of the Act and this chapter.
+
+(i) *Retroactive approval.* (1) If the alien filed Form I-212 when seeking admission at a port of entry, the approval of the Form I-212 shall be retroactive to either:
+
+(i) The date on which the alien embarked or reembarked at a place outside the United States; or
+
+(ii) The date on which the alien attempted to be admitted from foreign contiguous territory.
+
+(2) If the alien filed Form I-212 in conjunction with an application for adjustment of status under section 245 of the Act, the approval of Form I-212 shall be retroactive to the date on which the alien embarked or reembarked at a place outside the United States.
+
+(j) *Advance approval.* An alien whose departure will execute an order of deportation shall receive a conditional approval depending upon his or her satisfactory departure. However, the grant of permission to reapply does not waive inadmissibility under section 212(a) (16) or (17) of the Act resulting from exclusion, deportation, or removal proceedings which are instituted subsequent to the date permission to reapply is granted.
+
+[56 FR 23212, May 21, 1991, as amended at 64 FR 25766, May 12, 1999; 65 FR 15854, Mar. 24, 2000]

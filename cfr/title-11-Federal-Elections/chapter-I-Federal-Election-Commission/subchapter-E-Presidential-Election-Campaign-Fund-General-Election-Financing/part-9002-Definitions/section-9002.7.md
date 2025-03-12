@@ -1,0 +1,3 @@
+##### § 9002.7 Minor party. #####
+
+*Minor party* means a political party whose candidate for the office of President in the preceding Presidential election received, as a candidate of such party, 5 percent or more, but less than 25 percent, of the total number of popular votes received by all candidates for such office. For the purposes of 11 CFR 9002.7, *candidate* means with respect to any preceding Presidential election, an individual who received popular votes for the office of President in such election.

@@ -1,0 +1,5 @@
+##### § 208.10 Failure to appear at an interview before an asylum officer or failure to follow requirements for fingerprint processing. #####
+
+Failure to appear for a scheduled interview without prior authorization may result in dismissal of the application or waiver of the right to an interview. Failure to comply with fingerprint processing requirements without good cause may result in dismissal of the application or waiver of the right to an adjudication by an asylum officer. Failure to appear shall be excused if the notice of the interview or fingerprint appointment was not mailed to the applicant's current address and such address had been provided to the USCIS by the applicant prior to the date of mailing in accordance with section 265 of the Act and regulations promulgated thereunder, unless the asylum officer determines that the applicant received reasonable notice of the interview or fingerprinting appointment. Failure to appear at the interview or fingerprint appointment will be excused if the applicant demonstrates that such failure was the result of exceptional circumstances.
+
+[63 FR 12986, Mar. 17, 1998, as amended at 76 FR 53784, Aug. 29, 2011]

@@ -1,0 +1,21 @@
+##### § 116.2 Debts owed by terminating committees, ongoing committees, and authorized committees. #####
+
+(a) *Terminating committees.* A terminating committee may settle outstanding debts provided that the terminating committee files a debt settlement plan and the requirements of 11 CFR 116.7 are satisfied. The Commission will review each debt settlement plan filed to determine whether or not the terminating committee appears to have complied with the requirements set forth in this part, and whether or not the proposed debt settlement plan would result in an apparent violation of the Act or the Commission's regulations.
+
+(b) *Ongoing committees.* Ongoing committees shall not settle any outstanding debts for less than the entire amount owed, but may request a Commission determination that such debts are not payable under 11 CFR 116.9, and may resolve disputed debts under 11 CFR 116.10. Creditors may forgive debts owed by ongoing committees under the limited circumstances provided in 11 CFR 116.8.
+
+(c) *Authorized committees.* (1) An authorized committee shall not settle any outstanding debts for less than the entire amount owed if any other authorized committee of the same candidate has permissible funds available to pay part or all of the amount outstanding. Except as provided in paragraph (c)(3), of this section, an authorized committee shall not terminate under 11 CFR 102.3 if—
+
+(i) It has any outstanding debts or obligations; or
+
+(ii) It has any funds or assets available to pay part or all of the outstanding debts or obligations owed by another authorized committee of the same candidate and that other authorized committee is unable to pay such debts or obligations.
+
+(2) No transfers of funds may be made from a candidate's authorized committee to another authorized committee of the same candidate if the transferor committee has net debts outstanding at the time of the transfer under the formula described in 11 CFR 110.1(b)(3)(ii).
+
+(3) An authorized committee that qualifies as a terminating committee may assign debts to another authorized committee of the same candidate to the extent permitted under applicable state law provided that the authorized committee assigning the debts has no cash on hand or assets available to pay any part of the outstanding debts, and provided that the authorized committee assigning the debts was not organized to further the candidate's campaign in an election not yet held. If a Presidential candidate elects to receive federal funds pursuant to 11 CFR part 9001 *et seq.* or 11 CFR part 9031 *et seq.,* the authorized committee(s) of the Presidential candidate shall not assign debts or receive assigned debts until after the authorized committee(s) or the Presidential candidate has made all required repayments pursuant to 11 CFR parts 9007 and 9038 and has paid all civil penalties pursuant to 52 U.S.C. 30109. An authorized committee that has assigned all its outstanding debts may terminate if—
+
+(i) The authorized committee that has assigned the debts otherwise qualifies for termination under 11 CFR 102.3; and
+
+(ii) The authorized committee that received the assigned debts notifies the Commission in writing that it has assumed the obligation to pay the entire amount owed and that it has assumed the obligation to report the debts, and any contributions received for retirement of the assigned debts, in accordance with 11 CFR part 104. The assigned debts shall be disclosed on a separate schedule of debts and obligations attached to the authorized committee's reports. Contributions received for retirement of the assigned debts shall be disclosed on a separate schedule of receipts attached to the authorized committee's reports. *See* 11 CFR 110.1 (b)(3) and (b)(4) and 110.2 (b)(3) and (b)(4). The authorized committee that has assigned the debts shall notify each creditor in writing of the assignment no later than thirty days before the assignment takes effect and shall include the name and address of the authorized committee that will receive the assigned debts.
+
+[55 FR 26386, June 27, 1990, as amended at 79 FR 77849, Dec. 29, 2014]

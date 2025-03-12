@@ -1,0 +1,5 @@
+##### § 207.5 Waiting lists and priority handling. #####
+
+Waiting lists are maintained for each designated refugee group of special humanitarian concern. Each applicant whose application is accepted for filing by USCIS shall be registered as of the date of filing. The date of filing is the priority date for purposes of case control. Refugees or groups of refugees may be selected from these lists in a manner that will best support the policies and interests of the United States. The Secretary may adopt appropriate criteria for selecting the refugees and assignment of processing priorities for each designated group based upon such considerations as reuniting families, close association with the United States, compelling humanitarian concerns, and public interest factors.
+
+[76 FR 53783, Aug. 29, 2011]

@@ -1,0 +1,17 @@
+##### § 274a.13 Application for employment authorization. #####
+
+Link to an amendment published at 81 FR 82491, November 18, 2016.
+
+(a) *Application.* Aliens authorized to be employed under sections 274a.12(a)(3), (4), (6) through (8), (a)(10) through (15), and (a)(20) must file an application in order to obtain documentation evidencing this fact.
+
+(1) Aliens who may apply for employment authorization under 8 CFR 274a.12(c), except for those who may apply under 8 CFR 274a.12(c)(8), must apply on the form designated by USCIS with the fee prescribed in 8 CFR 103.7(b)(1) and in accordance with the form instructions. The approval of applications filed under 8 CFR 274a.12(c), except for 8 CFR 274a.12(c)(8), are within the discretion of USCIS. Where economic necessity has been identified as a factor, the alien must provide information regarding his or her assets, income, and expenses.
+
+(2) An initial employment authorization request for asylum applicants under 8 CFR 274a.12(c)(8) must be filed on the form designated by USCIS in accordance with the form instructions. The applicant also must submit a copy of the underlying application for asylum or withholding of deportation, together with evidence that the application has been filed in accordance with 8 CFR 208.3 and 208.4. An application for an initial employment authorization or for a renewal of employment authorization filed in relation to a pending claim for asylum shall be adjudicated in accordance with 8 CFR 208.7. An application for renewal or replacement of employment authorization submitted in relation to a pending claim for asylum, as provided in 8 CFR 208.7, must be filed, with fee or application for waiver of such fee.
+
+(b) *Approval of application.* If the application is granted, the alien shall be notified of the decision and issued an employment authorization document valid for a specific period and subject to any terms and conditions as noted.
+
+(c) *Denial of application.* If the application is denied, the applicant shall be notified in writing of the decision and the reasons for the denial. There shall be no appeal from the denial of the application.
+
+(d) *Interim employment authorization.* USCIS will adjudicate the application within 90 days from the date of receipt of the application, except as described in 8 CFR 214.2(h)(9)(iv), and except in the case of an initial application for employment authorization under 8 CFR 274a.12(c)(8), which is governed by paragraph (a)(2) of this section, and 8 CFR 274a.12(c)(9) in so far as it is governed by 8 CFR 245.13(j) and 245.15(n). Failure to complete the adjudication within 90 days will result in the grant of an employment authorization document for a period not to exceed 240 days. Such authorization will be subject to any conditions noted on the employment authorization document. However, if USCIS adjudicates the application prior to the expiration date of the interim employment authorization and denies the individual's employment authorization application, the interim employment authorization granted under this section will automatically terminate as of the date of the adjudication and denial.
+
+[52 FR 16221, May 1, 1987, as amended at 55 FR 25937, June 25, 1990; 56 FR 41787, Aug. 23, 1991; 59 FR 33905, July 1, 1994; 59 FR 62303, Dec. 5, 1994; 60 FR 21976, May 4, 1995; 63 FR 39121, July 21, 1998; 64 FR 25773, May 12, 1999; 65 FR 15846, Mar. 24, 2000; 72 FR 53042, Sept. 17, 2007; 74 FR 26940, June 5, 2009; 76 FR 53796, Aug. 29, 2011; 80 FR 10312, Feb. 25, 2015]

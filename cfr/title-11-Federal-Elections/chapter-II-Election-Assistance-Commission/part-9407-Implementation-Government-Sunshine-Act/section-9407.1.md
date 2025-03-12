@@ -1,0 +1,3 @@
+##### § 9407.1 Purpose and scope. #####
+
+This part contains the regulations of the U.S. Election Assistance Commission implementing the Government in the Sunshine Act (5 U.S.C. 552b). Consistent with the Act, it is the policy of the Commission that the public is entitled to the fullest practicable information regarding its decision making processes. This part sets forth the basic responsibilities of the Commission with regard to this policy and offers guidance to members of the public who wish to exercise the rights established by the Act. These regulations also fulfill the requirement of 5 U.S.C. 552b(g) that each agency subject to the Act promulgates regulations to implement the open meeting requirements of paragraphs (b) through (f) of section 552b.

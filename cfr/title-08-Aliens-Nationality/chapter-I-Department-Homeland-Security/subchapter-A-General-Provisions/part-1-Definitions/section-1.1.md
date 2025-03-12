@@ -1,0 +1,3 @@
+##### § 1.1 Applicability. #####
+
+This part further defines some of the terms already described in section 101 and other sections of the Immigration and Nationality Act (66 Stat. 163), as amended, and such other enactments as pertain to immigration and nationality. These terms are used consistently by components within the Department of Homeland Security including U.S. Customs and Border Protection, U.S. Immigration and Customs Enforcement, and U.S. Citizenship and Immigration Services.

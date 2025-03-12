@@ -1,0 +1,5 @@
+##### § 335.5 Receipt of derogatory information after grant. #####
+
+In the event that USCIS receives derogatory information concerning an applicant whose application has already been granted as provided in § 335.3(a) of this chapter, but who has not yet taken the oath of allegiance as provided in part 337 of this chapter, USCIS shall remove the applicant's name from any list of granted applications or of applicants scheduled for administration of the oath of allegiance, until such time as the matter can be resolved. USCIS shall notify the applicant in writing of the receipt of the specific derogatory information, with a motion to reopen the previously adjudicated application, giving the applicant 15 days to respond. If the applicant overcomes the derogatory information, the application will be granted and the applicant will be scheduled for administration of the oath of allegiance. Otherwise the motion to reopen will be granted and the application will be denied pursuant to § 336.1 of this chapter.
+
+[56 FR 50498, Oct. 7, 1991, as amended at 58 FR 49914, Sept. 24, 1993; 76 FR 53801, Aug. 29, 2011]

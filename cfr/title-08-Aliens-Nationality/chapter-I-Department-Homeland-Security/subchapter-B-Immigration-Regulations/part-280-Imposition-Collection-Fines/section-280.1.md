@@ -1,0 +1,5 @@
+##### § 280.1 Notice of intention to fine; administrative proceedings not exclusive. #####
+
+Whenever a district director or the Associate Commissioner for Examinations, or the Director for the National Fines Office has reason to believe that any person has violated any of the provisions of the Immigration and Nationality Act and has thereby become liable to the imposition of an administrative fine under the Immigration and Nationality Act, he shall cause a Notice of Intention to Fine, Form I-79, to be served as provided in this part. Nothing in this subchapter shall affect, restrict, or prevent the institution of a civil suit, in the discretion of the Attorney General, under the authority contained in section 280 of the Immigration and Nationality Act.
+
+[22 FR 9807, Dec. 6, 1957, as amended at 54 FR 18649, May 2, 1989]

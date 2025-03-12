@@ -1,0 +1,5 @@
+##### § 312.3 Testing of applicants who obtained permanent residence pursuant to section 245A of the Act. #####
+
+An applicant who has obtained lawful permanent resident alien status pursuant to section 245A of the Act, and who, at that time, demonstrated English language proficiency in reading and writing, and knowledge of the government and history of the United States through either an examination administered by USCIS or the INS or a standardized section 312 test authorized by the USCIS or the INS for use with Legalization applicants as provided in section 245A(b)(1)(D)(iii) of the Act, will not be reexamined on those skills at the time of the naturalization interview. However, such applicant, unless otherwise exempt, must still demonstrate his or her ability to speak and understand English in accordance with 8 CFR 312.1(c)(1) and establish eligibility for naturalization through testimony in the English language.
+
+[76 FR 53798, Aug. 29, 2011]

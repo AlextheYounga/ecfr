@@ -1,0 +1,9 @@
+##### § 245a.16 Continuous physical presence from November 6, 1986, through May 4, 1988. #####
+
+(a) The Service will determine whether an alien was continuously physically present in the United States from November 6, 1986, through May 4, 1988, based on the evidence provided by the alien. An alien must provide with the application evidence establishing his or her continuous physical presence in the United States from November 6, 1986, through May 4, 1988. Evidence establishing the alien's continuous physical presence in the United States from November 6, 1986, to May 4, 1988, may consist of any documentation issued by any governmental or nongovernmental authority, provided such evidence bears the name of the applicant, was dated at the time it was issued, and bears the signature, seal, or other authenticating instrument of the authorized representative of the issuing authority, if the document would normally contain such authenticating instrument.
+
+(b) For purposes of this section, an alien shall not be considered to have failed to maintain continuous physical presence in the United States by virtue of brief, casual, and innocent absences from the United States. Also, brief, casual, and innocent absences from the United States are not limited to absences with advance parole. Brief, casual, and innocent absence(s) as used in this paragraph means temporary, occasional trips abroad as long as the purpose of the absence from the United States was consistent with the policies reflected in the immigration laws of the United States.
+
+(c) An alien who has been absent from the United States in accordance with the Service's advance parole procedures shall not be considered as having interrupted his or her continuous physical presence as required at the time of filing an application under this section.
+
+[66 FR 29673, June 1, 2001, as amended at 67 FR 38351, June 4, 2002]

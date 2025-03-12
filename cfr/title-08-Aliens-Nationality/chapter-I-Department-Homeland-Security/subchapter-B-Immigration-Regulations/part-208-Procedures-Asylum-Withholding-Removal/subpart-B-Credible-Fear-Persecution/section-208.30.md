@@ -1,0 +1,77 @@
+##### § 208.30 Credible fear determinations involving stowaways and applicants for admission found inadmissible pursuant to section 212(a)(6)(C) or 212(a)(7) of the Act. #####
+
+(a) *Jurisdiction.* The provisions of this subpart B apply to aliens subject to sections 235(a)(2) and 235(b)(1) of the Act. Pursuant to section 235(b)(1)(B) of the Act, DHS has exclusive jurisdiction to make credible fear determinations, and the Executive Office for Immigration Review has exclusive jurisdiction to review such determinations. Except as otherwise provided in this subpart B, paragraphs (b) through (g) of this section are the exclusive procedures applicable to credible fear interviews, determinations, and reviews under section 235(b)(1)(B) of the Act. Prior to January 1, 2015, an alien present in or arriving in the Commonwealth of the Northern Mariana Islands is ineligible to apply for asylum and may only establish eligibility for withholding of removal pursuant to section 241(b)(3) of the Act or withholding or deferral of removal under the Convention Against Torture.
+
+(b) *Treatment of dependents.* A spouse or child of an alien may be included in that alien's credible fear evaluation and determination, if such spouse or child:
+
+(1) Arrived in the United States concurrently with the principal alien; and
+
+(2) Desires to be included in the principal alien's determination. However, any alien may have his or her credible fear evaluation and determination made separately, if he or she expresses such a desire.
+
+(c) *Authority.* Asylum officers conducting credible fear interviews shall have the authorities described in § 208.9(c).
+
+(d) *Interview.* The asylum officer, as defined in section 235(b)(1)(E) of the Act, will conduct the interview in a nonadversarial manner, separate and apart from the general public. The purpose of the interview shall be to elicit all relevant and useful information bearing on whether the applicant has a credible fear of persecution or torture, and shall conduct the interview as follows:
+
+(1) If the officer conducting the credible fear interview determines that the alien is unable to participate effectively in the interview because of illness, fatigue, or other impediments, the officer may reschedule the interview.
+
+(2) At the time of the interview, the asylum officer shall verify that the alien has received Form M-444, Information about Credible Fear Interview in Expedited Removal Cases. The officer shall also determine that the alien has an understanding of the credible fear determination process.
+
+(3) The alien may be required to register his or her identity.
+
+(4) The alien may consult with a person or persons of the alien's choosing prior to the interview or any review thereof, and may present other evidence, if available. Such consultation shall be at no expense to the Government and shall not unreasonably delay the process. Any person or persons with whom the alien chooses to consult may be present at the interview and may be permitted, in the discretion of the asylum officer, to present a statement at the end of the interview. The asylum officer, in his or her discretion, may place reasonable limits on the number of persons who may be present at the interview and on the length of the statement.
+
+(5) If the alien is unable to proceed effectively in English, and if the asylum officer is unable to proceed competently in a language chosen by the alien, the asylum officer shall arrange for the assistance of an interpreter in conducting the interview. The interpreter must be at least 18 years of age and may not be the applicant's attorney or representative of record, a witness testifying on the applicant's behalf, a representative or employee of the applicant's country of nationality, or, if the applicant is stateless, the applicant's country of last habitual residence.
+
+(6) The asylum officer shall create a summary of the material facts as stated by the applicant. At the conclusion of the interview, the officer shall review the summary with the alien and provide the alien with an opportunity to correct any errors therein.
+
+(e) *Determination.* (1) The asylum officer shall create a written record of his or her determination, including a summary of the material facts as stated by the applicant, any additional facts relied on by the officer, and the officer's determination of whether, in light of such facts, the alien has established a credible fear of persecution or torture.
+
+(2) An alien will be found to have a credible fear of persecution if there is a significant possibility, taking into account the credibility of the statements made by the alien in support of the alien's claim and such other facts as are known to the officer, the alien can establish eligibility for asylum under section 208 of the Act or for withholding of removal under section 241(b)(3) of the Act. However, prior to January 1, 2015, in the case of an alien physically present in or arriving in the Commonwealth of the Northern Mariana Islands, the officer may only find a credible fear of persecution if there is a significant possibility that the alien can establish eligibility for withholding of removal pursuant to section 241(b)(3) of the Act.
+
+(3) An alien will be found to have a credible fear of torture if the alien shows that there is a significant possibility that he or she is eligible for withholding of removal or deferral of removal under the Convention Against Torture, pursuant to 8 CFR 208.16 or 208.17.
+
+(4) In determining whether the alien has a credible fear of persecution, as defined in section 235(b)(1)(B)(v) of the Act, or a credible fear of torture, the asylum officer shall consider whether the alien's case presents novel or unique issues that merit consideration in a full hearing before an immigration judge.
+
+(5) Except as provided in paragraph (e)(6) of this section, if an alien is able to establish a credible fear of persecution or torture but appears to be subject to one or more of the mandatory bars to applying for, or being granted, asylum contained in section 208(a)(2) and 208(b)(2) of the Act, or to withholding of removal contained in section 241(b)(3)(B) of the Act, the Department of Homeland Security shall nonetheless place the alien in proceedings under section 240 of the Act for full consideration of the alien's claim, if the alien is not a stowaway. If the alien is a stowaway, the Department shall place the alien in proceedings for consideration of the alien's claim pursuant to 8 CFR 208.2(c)(3).
+
+(6) Prior to any determination concerning whether an alien arriving in the United States at a U.S.-Canada land border port-of-entry or in transit through the U.S. during removal by Canada has a credible fear of persecution or torture, the asylum officer shall conduct a threshold screening interview to determine whether such an alien is ineligible to apply for asylum pursuant to section 208(a)(2)(A) of the Act and subject to removal to Canada by operation of the Agreement Between the Government of the United States and the Government of Canada For Cooperation in the Examination of Refugee Status Claims from Nationals of Third Countries (“Agreement”). In conducting this threshold screening interview, the asylum officer shall apply all relevant interview procedures outlined in paragraph (d) of this section, provided, however, that paragraph (d)(2) of this section shall not apply to aliens described in this paragraph. The asylum officer shall advise the alien of the Agreement's exceptions and question the alien as to applicability of any of these exceptions to the alien's case.
+
+(i) If the asylum officer, with concurrence from a supervisory asylum officer, determines that an alien does not qualify for an exception under the Agreement during this threshold screening interview, the alien is ineligible to apply for asylum in the United States. After the asylum officer's documented finding is reviewed by a supervisory asylum officer, the alien shall be advised that he or she will be removed to Canada in order to pursue his or her claims relating to a fear of persecution or torture under Canadian law. Aliens found ineligible to apply for asylum under this paragraph shall be removed to Canada.
+
+(ii) If the alien establishes by a preponderance of the evidence that he or she qualifies for an exception under the terms of the Agreement, the asylum officer shall make a written notation of the basis of the exception, and then proceed immediately to a determination concerning whether the alien has a credible fear of persecution or torture under paragraph (d) of this section.
+
+(iii) An alien qualifies for an exception to the Agreement if the alien is not being removed from Canada in transit through the United States and
+
+(A) Is a citizen of Canada or, not having a country of nationality, is a habitual resident of Canada;
+
+(B) Has in the United States a spouse, son, daughter, parent, legal guardian, sibling, grandparent, grandchild, aunt, uncle, niece, or nephew who has been granted asylum, refugee, or other lawful status in the United States, provided, however, that this exception shall not apply to an alien whose relative maintains only nonimmigrant visitor status, as defined in section 101(a)(15)(B) of the Act, or whose relative maintains only visitor status based on admission to the United States pursuant to the Visa Waiver Program;
+
+(C) Has in the United States a spouse, son, daughter, parent, legal guardian, sibling, grandparent, grandchild, aunt, uncle, niece, or nephew who is at least 18 years of age and has an asylum application pending before U.S. Citizenship and Immigration Services, the Executive Office for Immigration Review, or on appeal in federal court in the United States;
+
+(D) Is unmarried, under 18 years of age, and does not have a parent or legal guardian in either Canada or the United States;
+
+(E) Arrived in the United States with a validly issued visa or other valid admission document, other than for transit, issued by the United States to the alien, or, being required to hold a visa to enter Canada, was not required to obtain a visa to enter the United States; or
+
+(F) The Director of USCIS, or the Director's designee, determines, in the exercise of unreviewable discretion, that it is in the public interest to allow the alien to pursue a claim for asylum, withholding of removal, or protection under the Convention Against Torture, in the United States.
+
+(iv) As used in 8 CFR 208.30(e)(6)(iii)(B), (C) and (D) only, “legal guardian” means a person currently vested with legal custody of such an alien or vested with legal authority to act on the alien's behalf, provided that such an alien is both unmarried and less than 18 years of age, and provided further that any dispute with respect to whether an individual is a legal guardian will be resolved on the basis of U.S. law.
+
+(7) An asylum officer's determination shall not become final until reviewed by a supervisory asylum officer.
+
+(f) *Procedures for a positive credible fear finding.* If an alien, other than an alien stowaway, is found to have a credible fear of persecution or torture, the asylum officer will so inform the alien and issue a Form I-862, Notice to Appear, for full consideration of the asylum and withholding of removal claim in proceedings under section 240 of the Act. If an alien stowaway is found to have a credible fear of persecution or torture, the asylum officer will so inform the alien and issue a Form I-863, Notice of Referral to Immigration Judge, for full consideration of the asylum claim, or the withholding of removal claim, in proceedings under § 208.2(c). Parole of the alien may be considered only in accordance with section 212(d)(5) of the Act and § 212.5 of this chapter.
+
+(g) *Procedures for a negative credible fear finding.* (1) If an alien is found not to have a credible fear of persecution or torture, the asylum officer shall provide the alien with a written notice of decision and inquire whether the alien wishes to have an immigration judge review the negative decision, using Form I-869, Record of Negative Credible Fear Finding and Request for Review by Immigration Judge. The alien shall indicate whether he or she desires such review on Form I-869. A refusal by the alien to make such indication shall be considered a request for review.
+
+(i) If the alien requests such review, or refuses to either request or decline such review, the asylum officer shall arrange for detention of the alien and serve him or her with a Form I-863, Notice of Referral to Immigration Judge, for review of the credible fear determination in accordance with paragraph (f)(2) of this section.
+
+(ii) If the alien is not a stowaway and does not request a review by an immigration judge, the officer shall order the alien removed and issue a Form I-860, Notice and Order of Expedited Removal, after review by a supervisory asylum officer.
+
+(iii) If the alien is a stowaway and the alien does not request a review by an immigration judge, the asylum officer shall refer the alien to the district director for completion of removal proceedings in accordance with section 235(a)(2) of the Act.
+
+(2) Review by immigration judge of a negative credible fear finding.
+
+(i) Immigration judges will review negative credible fear findings as provided in 8 CFR 1208.30(g)(2).
+
+(ii) The record of the negative credible fear determination, including copies of the Form I-863, the asylum officer's notes, the summary of the material facts, and other materials upon which the determination was based shall be provided to the immigration judge with the negative determination.
+
+[65 FR 76136, Dec. 6, 2000, as amended at 69 FR 69488, Nov. 29, 2004; 74 FR 55737, Oct. 28, 2009; 76 FR 53785, Aug. 29, 2011]

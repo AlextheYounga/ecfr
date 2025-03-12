@@ -1,0 +1,3 @@
+##### § 111.50 Purpose and scope. #####
+
+Subpart C prescribes standards and procedures under which the Commission will collect and dispose of certain debts owed to the United States, as described in 11 CFR 111.51. The regulations in this subpart implement the Debt Collection Improvement Act of 1996, 31 U.S.C. 3701, 3711, and 3716-3720A, as amended; and the Federal Claims Collection Standards, 31 CFR parts 900-904. The activities covered include: The collection of claims of any amount; compromising claims; suspending or terminating the collection of claims; and referring debts to the U.S. Department of the Treasury for collection action.

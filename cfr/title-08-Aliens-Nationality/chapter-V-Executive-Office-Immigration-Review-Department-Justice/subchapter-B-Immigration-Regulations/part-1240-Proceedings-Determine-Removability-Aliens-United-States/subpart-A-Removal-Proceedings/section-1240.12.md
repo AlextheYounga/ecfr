@@ -1,0 +1,11 @@
+##### § 1240.12 Decision of the immigration judge. #####
+
+(a) *Contents.* The decision of the immigration judge may be oral or written. The decision of the immigration judge shall include a finding as to inadmissibility or deportability. The formal enumeration of findings is not required. The decision shall also contain reasons for granting or denying the request. The decision shall be concluded with the order of the immigration judge.
+
+(b) *Summary decision.* Notwithstanding the provisions of paragraph (a) of this section, in any case where inadmissibility or deportability is determined on the pleadings pursuant to § 1240.10(b) and the respondent does not make an application under § 1240.11, the alien is statutorily ineligible for relief, or the respondent applies for voluntary departure only and the immigration judge grants the application, the immigration judge may enter a summary decision or, if voluntary departure is granted, a summary decision with an alternate order of removal.
+
+(c) *Order of the immigration judge.* The order of the immigration judge shall direct the respondent's removal from the United States, or the termination of the proceedings, or other such disposition of the case as may be appropriate. The immigration judge is authorized to issue orders in the alternative or in combination as he or she may deem necessary.
+
+(d) *Removal.* When a respondent is ordered removed from the United States, the immigration judge shall identify a country, or countries in the alternative, to which the alien's removal may in the first instance be made, pursuant to the provisions of section 241(b) of the Act. In the event that the Department of Homeland Security is unable to remove the alien to the specified or alternative country or countries, the order of the immigration judge does not limit the authority of the Department of Homeland Security to remove the alien to any other country as permitted by section 241(b) of the Act.
+
+[62 FR 10367, Mar. 6, 1997. Redesignated in part and duplicated in part from part 240 at 68 FR 9838, 9840, Feb. 28, 2003; 70 FR 674, Jan. 5, 2005]

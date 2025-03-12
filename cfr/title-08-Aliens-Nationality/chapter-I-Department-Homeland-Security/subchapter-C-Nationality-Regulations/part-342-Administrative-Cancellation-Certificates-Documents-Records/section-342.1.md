@@ -1,0 +1,5 @@
+##### § 342.1 Notice. #####
+
+If it shall appear to a district director that a person has illegally or fraudulently obtained or caused to be created a certificate, document, or record described in section 342 of the Act, a notice shall be served upon the person of intention to cancel the certificate, document, or record. The notice shall contain allegations of the reasons for the proposed action and shall advise the person that he may submit, within 60 days of service of the notice, an answer in writing under oath or affirmation showing cause why the certificate, document, or record should not be canceled, that he may appear in person before a naturalization examiner in support of, or in lieu of his written answer, and that he may have present at that time, without expense to the Government, an attorney or representative qualified under part 292 of this chapter. In such proceedings the person shall be known as the respondent.
+
+[29 FR 5511, Apr. 24, 1964, as amended at 37 FR 2767, Feb. 5, 1972]

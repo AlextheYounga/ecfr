@@ -1,0 +1,5 @@
+##### § 215.9 Temporary Worker Visa Exit Program. #####
+
+An alien admitted on certain temporary worker visas at a port of entry participating in the Temporary Worker Visa Exit Program must also depart at the end of his or her authorized period of stay through a port of entry participating in the program and must present designated biographic and/or biometric information upon departure. U.S. Customs and Border Protection will publish a Notice in the Federal Register designating which temporary workers must participate in the Temporary Worker Visa Exit Program, which ports of entry are participating in the program, which biographical and/or biometric information would be required, and the format for submission of that information by the departing designated temporary workers.
+
+[73 FR 78130, Dec. 19, 2008]

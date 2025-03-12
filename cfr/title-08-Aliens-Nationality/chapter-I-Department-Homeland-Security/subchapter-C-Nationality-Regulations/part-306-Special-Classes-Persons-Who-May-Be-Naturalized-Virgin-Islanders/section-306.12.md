@@ -1,0 +1,3 @@
+##### § 306.12 Renunciation forms; disposition. #####
+
+The renunciation shall be made and executed by the applicant under oath, in duplicate, on Form N-351 and filed in the office of the clerk of court. The usual procedural requirements of the Immigration and Nationality Act shall not apply to proceedings under this part. The fee shall be fixed by the court or the clerk thereof in accordance with the law and rules of the court, and no accounting therefor shall be required to be made to the Service. The clerk shall retain the original of Form N-351 as the court record and forward the duplicate to the district director exercising administrative naturalization jurisdiction over the area in which the court is located.

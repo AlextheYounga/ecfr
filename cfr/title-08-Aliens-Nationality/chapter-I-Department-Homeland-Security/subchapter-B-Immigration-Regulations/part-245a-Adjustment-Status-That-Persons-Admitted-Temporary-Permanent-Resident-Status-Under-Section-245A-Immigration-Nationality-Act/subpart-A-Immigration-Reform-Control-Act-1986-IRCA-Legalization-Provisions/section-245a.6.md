@@ -1,0 +1,5 @@
+##### § 245a.6 Treatment of denied application under part 245a, Subpart B. #####
+
+If the district director finds that an eligible alien as defined at § 245a.10 has not established eligibility under section 1104 of the LIFE Act (part 245a, Subpart B), the district director shall consider whether the eligible alien has established eligibility for adjustment to temporary resident status under section 245A of the Act, as in effect before enactment of section 1104 of the LIFE Act (part 245a, Subpart A). In such an adjudication using this Subpart A, the district director will deem the “date of filing the application” to be the date the eligible alien establishes that he or she was “front-desked” or that, though he or she took concrete steps to apply, the front-desking policy was a substantial cause of his or her failure to apply. If the eligible alien has established eligibility for adjustment to temporary resident status, the LIFE Legalization application shall be deemed converted to an application for temporary residence under this Subpart A.
+
+[67 FR 38350, June 4, 2002]

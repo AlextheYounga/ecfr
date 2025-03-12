@@ -1,0 +1,5 @@
+##### § 245a.35 Travel outside the United States. #####
+
+(a) An alien who departs the United States while his or her application for Family Unity benefits is pending will be deemed to have abandoned the application and the application will be denied.
+
+(b) An alien granted Family Unity benefits under the LIFE Act Amendments who intends to travel outside the United States temporarily must apply for advance authorization using Form I-131. The authority to grant an application for advance authorization for an alien granted Family Unity benefits under the LIFE Act Amendments rests solely with the Service. An alien who is granted advance authorization and returns to the United States in accordance with such authorization, and who is found not to be inadmissible under section 212(a)(2) or (3) of the Act, shall be paroled into the United States. He or she shall be provided the remainder of the protection from removal period previously granted under the Family Unity provisions of the LIFE Act Amendments.

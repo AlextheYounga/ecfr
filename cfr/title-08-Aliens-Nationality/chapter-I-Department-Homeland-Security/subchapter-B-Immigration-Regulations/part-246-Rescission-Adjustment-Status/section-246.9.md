@@ -1,0 +1,3 @@
+##### § 246.9 Surrender of Form I-551. #####
+
+A respondent whose status as a permanent resident has been rescinded in accordance with section 246 of the Act and this part, shall, upon demand, promptly surrender to the district director having administrative jurisdiction over the office in which the action under this part was taken, the Form I-551 issued to him or her at the time of the grant of permanent resident status.

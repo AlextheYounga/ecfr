@@ -1,0 +1,3 @@
+##### § 207.6 Control over approved refugee numbers. #####
+
+Current numerical accounting of approved refugees is maintained for each special group designated by the President. As refugee status is authorized for each applicant, the total count is reduced correspondingly from the appropriate group so that information is readily available to indicate how many refugee numbers remain available for issuance.

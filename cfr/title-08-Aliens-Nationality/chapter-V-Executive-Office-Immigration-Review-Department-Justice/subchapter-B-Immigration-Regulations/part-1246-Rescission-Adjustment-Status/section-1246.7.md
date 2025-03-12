@@ -1,0 +1,3 @@
+##### § 1246.7 Appeals. #####
+
+Pursuant to 8 CFR part 1003, an appeal shall lie from a decision of an immigration judge under this part to the Board of Immigration Appeals. An appeal shall be taken within 30 days after the mailing of a written decision or the stating of an oral decision. The reasons for the appeal shall be specifically identified in the Notice of Appeal (Form EOIR 26); failure to do so may constitute a ground for dismissal of the appeal by the Board.

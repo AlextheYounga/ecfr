@@ -1,0 +1,3 @@
+##### § 9002.9 Political committee. #####
+
+For purposes of this subchapter, *political committee* means any committee, club, association, organization or other group of persons (whether or not incorporated) which accepts contributions or makes expenditures for the purpose of influencing, or attempting to influence, the election of any candidate to the office of President or Vice President of the United States.

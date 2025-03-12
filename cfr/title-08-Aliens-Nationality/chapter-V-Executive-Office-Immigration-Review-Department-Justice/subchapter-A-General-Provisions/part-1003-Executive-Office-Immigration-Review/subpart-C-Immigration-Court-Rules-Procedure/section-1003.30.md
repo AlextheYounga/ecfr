@@ -1,0 +1,5 @@
+##### § 1003.30 Additional charges in deportation or removal hearings. #####
+
+At any time during deportation or removal proceedings, additional or substituted charges of deportability and/or factual allegations may be lodged by the Service in writing. The alien shall be served with a copy of these additional charges and/or allegations and the Immigration Judge shall read them to the alien. The Immigration Judge shall advise the alien, if he or she is not represented by counsel, that the alien may be so represented. The alien may be given a reasonable continuance to respond to the additional factual allegations and charges. Thereafter, the provision of § 1240.10(b) of this chapter relating to pleading shall apply to the additional factual allegations and charges.
+
+[62 FR 10335, Mar. 6, 1997]

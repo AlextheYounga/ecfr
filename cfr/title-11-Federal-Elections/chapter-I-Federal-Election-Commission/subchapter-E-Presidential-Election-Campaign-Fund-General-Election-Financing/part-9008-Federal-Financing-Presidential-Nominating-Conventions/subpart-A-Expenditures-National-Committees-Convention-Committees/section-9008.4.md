@@ -1,0 +1,7 @@
+##### § 9008.4 Entitlement to payments from the fund. #####
+
+(a) *Major parties.* Subject to the provisions of this part, the national committee of a major party shall be entitled to receive payments under 11 CFR 9008.6 with respect to any presidential nominating convention, in amounts which, in the aggregate, shall not exceed $4 million, as adjusted by the Consumer Price Index under 11 CFR 9008.5(a).
+
+(b) *Minor parties.* Subject to the provisions of this part, the national committee of a minor party shall be entitled to payments under 11 CFR 9008.6 with respect to any presidential nominating convention in amounts which, in the aggregate, shall not exceed an amount which bears the same ratio to the amount which the national committee of a major party is entitled to receive under 11 CFR 9008.5 as the number of popular votes received in the preceding presidential election by that minor party's presidential candidate bears to the average number of popular votes received in the preceding presidential election by all of the major party presidential candidates.
+
+(c) *Limitation on payments.* Payments to the national committee of a major party or a minor party under 11 CFR 9008.6 from the account designated for such committee shall be limited to the amounts in such account at the time of payment.

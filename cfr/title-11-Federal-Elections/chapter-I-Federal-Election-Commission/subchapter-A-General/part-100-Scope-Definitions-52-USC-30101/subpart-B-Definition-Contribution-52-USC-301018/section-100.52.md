@@ -1,0 +1,23 @@
+##### § 100.52 Gift, subscription, loan, advance or deposit of money. #####
+
+(a) A gift, subscription, loan (except for a loan made in accordance with 11 CFR 100.82 and 100.83), advance, or deposit of money or anything of value made by any person for the purpose of influencing any election for Federal office is a contribution.
+
+(b) For purposes of this section, the term *loan* includes a guarantee, endorsement, and any other form of security.
+
+(1) A loan that exceeds the contribution limitations of 52 U.S.C. 30116 and 11 CFR part 110 shall be unlawful whether or not it is repaid.
+
+(2) A loan is a contribution at the time it is made and is a contribution to the extent that it remains unpaid. The aggregate amount loaned to a candidate or committee by a contributor, when added to other contributions from that individual to that candidate or committee, shall not exceed the contribution limitations set forth at 11 CFR part 110. A loan, to the extent it is repaid, is no longer a contribution.
+
+(3) Except as provided in paragraph (b)(4) of this section, a loan is a contribution by each endorser or guarantor. Each endorser or guarantor shall be deemed to have contributed that portion of the total amount of the loan for which he or she agreed to be liable in a written agreement. Any reduction in the unpaid balance of the loan shall reduce proportionately the amount endorsed or guaranteed by each endorser or guarantor in such written agreement. In the event that such agreement does not stipulate the portion of the loan for which each endorser or guarantor is liable, the loan shall be considered a loan by each endorser or guarantor in the same proportion to the unpaid balance that each endorser or guarantor bears to the total number of endorsers or guarantors.
+
+(4) A candidate may obtain a loan on which his or her spouse's signature is required when jointly owned assets are used as collateral or security for the loan. The spouse shall not be considered a contributor to the candidate's campaign if the value of the candidate's share of the property used as collateral equals or exceeds the amount of the loan that is used for the candidate's campaign.
+
+(5) If a political committee makes a loan to any person, such loan shall be subject to the limitations of 11 CFR part 110. Repayment of the principal amount of such loan to such political committee shall not be a contribution by the debtor to the lender committee. Such repayment shall be made with funds that are subject to the prohibitions of 11 CFR 110.20 and part 114. The payment of interest to such committee by the debtor shall be a contribution only to the extent that the interest paid exceeds a commercially reasonable rate prevailing at the time the loan is made. All payments of interest shall be made from funds subject to the prohibitions of 11 CFR 110.20 and part 114.
+
+(c) For purposes of this section, the term *money* includes currency of the United States or of any foreign nation, checks, money orders, or any other negotiable instruments payable on demand.
+
+(d)(1) For purposes of this section, the term *anything of value* includes all in-kind contributions. Unless specifically exempted under 11 CFR part 100, subpart C, the provision of any goods or services without charge or at a charge that is less than the usual and normal charge for such goods or services is a contribution. Examples of such goods or services include, but are not limited to: Securities, facilities, equipment, supplies, personnel, advertising services, membership lists, and mailing lists. If goods or services are provided at less than the usual and normal charge, the amount of the in-kind contribution is the difference between the usual and normal charge for the goods or services at the time of the contribution and the amount charged the political committee.
+
+(2) For purposes of paragraph (d)(1) of this section, *usual and normal charge for goods* means the price of those goods in the market from which they ordinarily would have been purchased at the time of the contribution; and usual and normal charge for any services, other than those provided by an unpaid volunteer, means the hourly or piecework charge for the services at a commercially reasonable rate prevailing at the time the services were rendered.
+
+[67 FR 50585, Aug. 5, 2002, as amended at 67 FR 78680, Dec. 26, 2002; 79 FR 16663, Mar. 26, 2014; 79 FR 77845, Dec. 29, 2014]

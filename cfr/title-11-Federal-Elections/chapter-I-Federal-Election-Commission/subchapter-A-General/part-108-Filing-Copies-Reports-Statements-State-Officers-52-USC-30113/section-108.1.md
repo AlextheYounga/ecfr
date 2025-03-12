@@ -1,0 +1,7 @@
+##### § 108.1 Filing requirements (52 U.S.C. 30113(a)(1)). #####
+
+(a) Except as provided in paragraph (b) of this section, a copy of each report and statement required to be filed by any person under the Act shall be filed either with the Secretary of State of the appropriate State or with the State officer who is charged by State law with maintaining state election campaign reports. In States where reports are to be filed with a designated officer other than the Secretary of State, the chief executive officer of that State shall notify the Commission of such designation.
+
+(b) The filing requirements and duties of State officers under this part 108 shall not apply to a State if the Commission has determined that the State maintains a system that can electronically receive and duplicate reports and statements filed with the Commission. Once a State has obtained a waiver pursuant to this paragraph, the waiver shall apply to all reports that can be electronically accessed and duplicated from the Commission, regardless of whether the report or statement was originally filed with the Commission. The list of States that have obtained waivers under this section is available on the Commission's website.
+
+[45 FR 15117, Mar. 7, 1980, as amended at 65 FR 15223, Mar. 22, 2000; 68 FR 420, Jan. 3, 2003]

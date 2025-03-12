@@ -1,0 +1,7 @@
+##### § 9004.10 Sale of assets acquired for fundraising purposes. #####
+
+(a) *General.* A minor or new party candidate may sell assets donated to the candidate's authorized committee(s) or otherwise acquired for fundraising purposes subject to the limitations and prohibitions of 11 CFR 9003.2, Title 52, United States Code, and 11 CFR parts 110 and 114. This section will only apply to major party candidates to the extent that they sell assets acquired either for fundraising purposes in connection with his or her legal and accounting compliance fund or when it is necessary to make up any deficiency in payments received from the Fund due to the application of 11 CFR 9005.2(b).
+
+(b) *Sale after end of expenditure report period.* A minor or new party candidate, or a major party candidate in the event of a deficiency in the payments received from the Fund due to the application of 11 CFR 9005.2(b), whose outstanding debts exceed the cash on hand after the end of the expenditure report period as determined under 11 CFR 9002.12, may dispose of assets acquired for fundraising purposes in a sale to a wholesaler or other intermediary who will in turn sell such assets to the public provided that the sale to the wholesaler or intermediary is an arms-length transaction. Sales made under this subsection will not be subject to the limitations and prohibitions of Title 52, United States Code and 11 CFR parts 110 and 114.
+
+[56 FR 35919, July 29, 1991, as amended at 79 FR 77851, Dec. 29, 2014]

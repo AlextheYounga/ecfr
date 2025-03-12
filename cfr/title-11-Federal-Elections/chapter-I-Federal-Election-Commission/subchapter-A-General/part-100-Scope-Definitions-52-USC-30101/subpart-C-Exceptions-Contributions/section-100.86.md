@@ -1,0 +1,3 @@
+##### § 100.86 Legal or accounting services to other political committees. #####
+
+Legal or accounting services rendered to or on behalf of an authorized committee of a candidate or any other political committee are not contributions if the person paying for such services is the regular employer of the individual rendering the services and if such services are solely to ensure compliance with the Act or 26 U.S.C. 9001 *et seq.* and 9031 *et seq.* For purposes of this section, a partnership shall be deemed to be the regular employer of a partner. Amounts paid by the regular employer for these services shall be reported by the committee receiving such services in accordance with 11 CFR 104.3(h).

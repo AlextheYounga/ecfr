@@ -1,0 +1,19 @@
+##### § 100.149 Voter registration and get-out-the-vote activities for Presidential candidates. #####
+
+The payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activities conducted by such committee on behalf of the Presidential and Vice Presidential nominee(s) of that party is not an expenditure for the purpose of influencing the election of such candidates provided that the following conditions are met:
+
+(a) *Exemption not applicable to general public communication or political advertising.* Such payment is not for the costs incurred in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising. For purposes of this paragraph, the term direct mail means any mailing(s) by a commercial vendor or any mailing(s) made from commercial lists.
+
+(b) *Allocation.* The portion of the costs of such activities allocable to Federal candidates is paid from contributions subject to the limitations and prohibitions of the Act. *But see* 11 CFR 100.24, 104.17(a), and part 300, subpart B for exempt activities that also constitute Federal election activity.
+
+(c) *Contributions designated for Federal candidates.* Such payment is not made from contributions designated to be spent on behalf of a particular candidate or candidates for Federal office. For the purposes of this paragraph, a contribution shall not be considered a designated contribution if the party committee disbursing the funds makes the final decision regarding which candidate(s) shall receive the benefit of such disbursement.
+
+(d) *References to House or Senate candidates.* For purposes of this section, if such activities include references to any candidate(s) for the House or Senate, the costs of such activities that are allocable to that candidate(s) shall be an expenditure on behalf of such candidate(s) unless the mention of such candidate(s) is merely incidental to the overall activity.
+
+(e) *Phone banks.* For purposes of this section, payment of the costs incurred in the use of phone banks in connection with voter registration and get-out-the-vote activities is not an expenditure when such phone banks are operated by volunteer workers. The use of paid professionals to design the phone bank system, develop calling instructions and train supervisors is permissible. The payment of the costs of such professional services is not an expenditure but shall be reported as a disbursement in accordance with 11 CFR 104.3 if made by a political committee.
+
+(f) *Reporting of payments for voter registration and get-out-the-vote activities.* If made by a political committee, such payments for voter registration and get-out-the-vote activities shall be reported by that committee as disbursements, in accordance with 11 CFR 104.3 but such payments need not be allocated to specific candidates in committee reports except as provided in paragraph (d) of this section.
+
+(g) *Exemption not applicable to donations by a national committee of a political party to a State or local party committee for voter registration and get-out-the-vote activities.* Payments made from funds donated by a national committee of a political party to a State or local party committee for voter registration and get-out-the-vote activities shall not qualify under this exemption. Rather, such funds shall be subject to the limitations of 52 U.S.C. 30116(d) and 11 CFR 109.32.
+
+[67 FR 50585, Aug. 5, 2002, as amended at 67 FR 78680, Dec. 26, 2002; 69 FR 68238, Nov. 24, 2004; 79 FR 77845, Dec. 29, 2014]

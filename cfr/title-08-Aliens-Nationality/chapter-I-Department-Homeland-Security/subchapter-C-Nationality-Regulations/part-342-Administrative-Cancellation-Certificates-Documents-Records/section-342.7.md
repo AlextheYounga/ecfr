@@ -1,0 +1,3 @@
+##### § 342.7 Report and recommendation. #####
+
+The naturalization examiner shall prepare a report summarizing the evidence, discussing the applicable law, and containing his findings and recommendations. The record, including the report and recommendation, shall be forwarded to the district director, who shall sign the report, either approving or disapproving the recommendation. If the decision of the district director is that the proceedings be terminated, the respondent shall be so informed.

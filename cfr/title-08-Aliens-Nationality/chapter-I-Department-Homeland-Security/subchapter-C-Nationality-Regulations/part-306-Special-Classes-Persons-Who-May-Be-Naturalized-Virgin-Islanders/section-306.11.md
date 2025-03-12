@@ -1,0 +1,3 @@
+##### § 306.11 Preliminary application form; filing; examination. #####
+
+A person of the class described in § 306.1 shall submit to the Service on Form N-350 preliminary application to renounce Danish citizenship, in accordance with the instructions contained therein. The applicant shall be notified in writing when and where to appear before a representative of the Service for examination as to his eligibility to renounce Danish citizenship and for assistance in filing the renunciation.

@@ -1,0 +1,13 @@
+##### § 212.17 Applications for the exercise of discretion relating to U nonimmigrant status. #####
+
+(a) *Filing the waiver application.* An alien applying for a waiver of inadmissibility under section 212(d)(3)(B) or (d)(14) of the Act (waivers of inadmissibility), 8 U.S.C. 1182(d)(3)(B) or (d)(14), in connection with a petition for U nonimmigrant status being filed pursuant to 8 CFR 214.14, must submit the waiver request and the petition for U nonimmigrant status on the forms designated by USCIS in accordance with the form instructions. An alien in U nonimmigrant status who is seeking a waiver of section 212(a)(9)(B) of the Act, 8 U.S.C. 1182(a)(9)(B) (unlawful presence ground of inadmissibility triggered by departure from the United States), must file the waiver request prior to his or her application for reentry to the United States in accordance with the form instructions.
+
+(b) *Treatment of waiver application.* (1) USCIS, in its discretion, may grant the waiver based on section 212(d)(14) of the Act, 8 U.S.C. 1182(d)(14), if it determines that it is in the public or national interest to exercise discretion to waive the applicable ground(s) of inadmissibility. USCIS may not waive a ground of inadmissibility based upon section 212(a)(3)(E) of the Act, 8 U.S.C. 1182(a)(3)(E). USCIS, in its discretion, may grant the waiver based on section 212(d)(3) of the Act, 8 U.S.C. 1182(d)(3), except where the ground of inadmissibility arises under sections 212(a)(3)(A)(i)(I), (3)(A)(ii), (3)(A)(iii), (3)(C), or (3)(E) of the Act, 8 U.S.C. 1182(a)(3)(A)(i)(I), (3)(A)(ii), (3)(A)(iii), (3)(C), or (3)(E).
+
+(2) In the case of applicants inadmissible on criminal or related grounds, in exercising its discretion USCIS will consider the number and severity of the offenses of which the applicant has been convicted. In cases involving violent or dangerous crimes or inadmissibility based on the security and related grounds in section 212(a)(3) of the Act, USCIS will only exercise favorable discretion in extraordinary circumstances.
+
+(3) There is no appeal of a decision to deny a waiver. However, nothing in this paragraph is intended to prevent an applicant from re-filing a request for a waiver of ground of inadmissibility in appropriate cases.
+
+(c) *Revocation.* The Secretary of Homeland Security, at any time, may revoke a waiver previously authorized under section 212(d) of the Act, 8 U.S.C. 118(d). Under no circumstances will the alien or any party acting on his or her behalf have a right to appeal from a decision to revoke a waiver.
+
+[72 FR 53035, Sept. 17, 2007, as amended at 76 FR 53788, Aug. 29, 2011]

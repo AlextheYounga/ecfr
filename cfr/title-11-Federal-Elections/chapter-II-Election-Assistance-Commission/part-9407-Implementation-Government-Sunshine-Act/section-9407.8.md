@@ -1,0 +1,5 @@
+##### § 9407.8 Public availability of records. #####
+
+The Commission shall make available to the public the transcript, electronic recording, or minutes of a meeting, except for items of discussion or testimony that relate to matters the Commission has determined to contain information that may be withheld under § 9407.5(a). This information shall be made available as soon as practicable after each meeting on the Commission's Web site. Otherwise, requests to receive or review transcripts, electronic recordings, or minutes of a meeting should be addressed to the Communications Director, U.S. Election Assistance Commission, 1201 New York Avenue, NW., Suite 300, Washington, DC 20005. Copies of a transcript, a transcription of the electronic recording, or the minutes of a meeting (except for items of discussion or testimony that relate to matters withheld under § 9407.5) shall be furnished at cost to any person upon written request pursuant to the requirements of 11 CFR part 9405.
+
+[73 FR 54257, Sept. 18, 2008, as amended at 75 FR 49814, Aug. 16, 2010]

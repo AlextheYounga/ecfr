@@ -1,0 +1,3 @@
+##### § 342.4 Answer asserting defense; personal appearance requested. #####
+
+If the respondent files an answer within the prescribed period asserting a defense to the allegations in the notice, or requests a personal appearance, with or without an answer, the district director shall designate a naturalization examiner to consider the case. The respondent shall be notified that he may appear in person or through counsel with any witnesses and evidence in defense of the allegations, and shall be informed of the date, time, and place for such appearance.

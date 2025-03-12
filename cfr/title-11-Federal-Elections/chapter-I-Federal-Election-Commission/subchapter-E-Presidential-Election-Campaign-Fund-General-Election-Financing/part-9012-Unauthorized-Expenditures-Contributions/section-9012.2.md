@@ -1,0 +1,5 @@
+##### § 9012.2 Unauthorized acceptance of contributions. #####
+
+(a) It shall be unlawful for an eligible candidate of a major party in a Presidential election or any of his or her authorized committees knowingly and willfully to accept any contribution to defray qualified campaign expenses, except to the extent necessary to make up any deficiency in payments received from the Fund due to the application of 11 CFR 9005.2(b), or to defray expenses which would be qualified campaign expenses but for 11 CFR 9002.11(a)(3).
+
+(b) It shall be unlawful for an eligible candidate of a political party (other than a major party) in a Presidential election or any of his or her authorized committees knowingly and willfully to accept and expend or retain contributions to defray qualified campaign expenses in an amount which exceeds the qualified campaign expenses incurred in that election by that eligible candidate or his or her authorized committee(s).

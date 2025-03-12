@@ -1,0 +1,5 @@
+##### § 104.1 Scope (52 U.S.C. 30104(a)). #####
+
+(a) *Who must report.* Each treasurer of a political committee required to register under 11 CFR part 102 shall report in accordance with 11 CFR part 104.
+
+(b) *Who may report.* An individual seeking federal office who has not attained candidate status under 11 CFR 100.3, the committee of such an individual or any other committee may voluntarily register and report in accordance with 11 CFR parts 102 and 104. An individual shall not become a candidate solely by voluntarily filing a report, nor shall such individual, the individual's committee, nor any other committee be required to file all reports under 11 CFR 104.5, unless the individual becomes a candidate under 11 CFR 100.3 or unless the committee becomes a political committee under 11 CFR 100.5.

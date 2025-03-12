@@ -1,0 +1,69 @@
+##### § 106.7 Allocation of expenses between Federal and non-Federal accounts by party committees, other than for Federal election activities. #####
+
+(a) National party committees are prohibited from raising or spending non-Federal funds. Therefore, these committees shall not allocate expenditures and disbursements between Federal and non-Federal accounts. All disbursements by a national party committee must be made from a Federal account.
+
+(b) State, district, and local party committees that make expenditures and disbursements in connection with both Federal and non-Federal elections for activities that are not Federal election activities pursuant to 11 CFR 100.24 may use only funds subject to the prohibitions and limitations of the Act, or they may allocate such expenditures and disbursements between their Federal and their non-Federal accounts. State, district, and local party committees that are political committees that have established separate Federal and non-Federal accounts under 11 CFR 102.5(a)(1)(i) shall allocate expenses between those accounts according to paragraphs (c) and (d) of this section. Party organizations that are not political committees but have established separate Federal and non-Federal accounts, or that make Federal and non-Federal disbursements from a single account, shall also allocate their Federal and non-Federal expenses according to paragraphs (c) and (d) of this section. In lieu of establishing separate accounts, party organizations that are not political committees may choose to use a reasonable accounting method approved by the Commission (including any method embedded in software provided or approved by the Commission) pursuant to 11 CFR 102.5 and 300.30.
+
+(c) *Costs allocable by State, district, and local party committees between Federal and non-Federal accounts*—(1) *Salaries, wages, and fringe benefits.* State, district, and local party committees must either pay salaries, wages, and fringe benefits for employees who spend 25% or less of their time in a given month on Federal election activity or activity in connection with a Federal election with funds from their Federal account, or with a combination of funds from their Federal and non-Federal accounts, in accordance with paragraph (d)(2) of this section. *See* 11 CFR 300.33(d)(1).
+
+(2) *Administrative costs.* State, district, and local party committees may either pay administrative costs, including rent, utilities, office equipment, office supplies, postage for other than mass mailings, and routine building maintenance, upkeep and repair, from their Federal account, or allocate such expenses between their Federal and non-Federal accounts, except that any such expenses directly attributable to a clearly identified Federal candidate must be paid only from the Federal account.
+
+(3) *Exempt party activities that are not Federal election activities.* State, district, and local party committees may pay expenses for party activities that are exempt from the definitions of contribution and expenditure under 11 CFR 100.80, 100.87 or 100.89, and 100.140, 100.147 or 100.149, that are conducted in conjunction with non-Federal activity, and that are not Federal election activities pursuant to 11 CFR 100.24, from their Federal accounts, or may allocate these expenses between their Federal and non-Federal accounts.
+
+(4) *Certain fundraising costs.* State, district, and local party committees may allocate the direct costs of joint fundraising programs or events between their Federal and non-Federal accounts according to the funds received method described in paragraph (d)(4) of this section. The direct costs of a fundraising program or event include expenses for the solicitation of funds and for the planning and administration of actual fundraising programs and events.
+
+(5) *Voter-drive activities that do not qualify as Federal election activities and that are not party exempt activities.* Expenses for voter identification, voter registration, and get-out-the-vote drives, and any other activities that urge the general public to register or vote, or that promote or oppose a political party, without promoting or opposing a candidate or non-Federal candidate, that do not qualify as Federal election activities and that are not exempt party activities, must be paid with Federal funds or may be allocated between the committee's Federal and non-Federal accounts.
+
+(d) *Allocation percentages, ratios, and record-keeping*—(1) *Salaries and wages.* Committees must keep a monthly log of the percentage of time each employee spends in connection with a Federal election. Allocations of salaries and wages shall be undertaken as follows:
+
+(i) Except as provided in paragraph (d)(1)(iii) of this section, salaries, wages, and fringe benefits paid for employees who spend 25% or less of their compensated time in a given month on Federal election activities or on activities in connection with a Federal election must either be paid only from the Federal account or be allocated as administrative costs under paragraph (d)(2) of this section.
+
+(ii) Salaries, wages, and fringe benefits paid for employees who spend more than 25% of their compensated time in a given month on Federal election activities or on activities in connection with a Federal election must be paid only from a Federal account. *See* 11 CFR 300.33(d)(2), and paragraph (e)(2) of this section.
+
+(iii) Salaries, wages, and fringe benefits paid for employees who spend none of their compensated time in a given month on Federal election activities or on activities in connection with a Federal election may be paid entirely with funds that comply with State law.
+
+(2) *Administrative costs.* State, district, and local party committees that choose to allocate administrative expenses may do so subject to the following requirements:
+
+(i) *Presidential election years.* In any even year in which a Presidential candidate, but no Senate candidate appears on the ballot, and in the preceding year, State, district, and local party committees must allocate at least 28% of administrative expenses to their Federal accounts.
+
+(ii) *Presidential and Senate election year.* In any even year in which a Presidential candidate and a Senate candidate appear on the ballot, and in the preceding year, State, district, and local party committees must allocate at least 36% of administrative expenses to their Federal accounts.
+
+(iii) *Senate election year.* In any even year in which a Senate candidate, but no Presidential candidate, appears on the ballot, and in the preceding year, State, district, and local party committees must allocate at least 21% of administrative expenses to their Federal account.
+
+(iv) *Non-Presidential and non-Senate year.* In any even year in which neither a Presidential nor a Senate candidate appears on the ballot, and in the preceding year, State, district, and local party committees must allocate at least 15% of administrative expenses to their Federal account.
+
+(3) *Exempt party activities and voter drive activities that are not Federal election activities.* State, district, and local party committees that choose to allocate expenses for exempt activities conducted in conjunction with non-Federal activities and voter drive activities, that are not Federal election activities, must do so subject to the following requirements:
+
+(i) *Presidential election years.* In any even year in which a Presidential candidate, but no Senate candidate appears on the ballot, and in the preceding year, State, district, and local party committees must allocate at least 28% of these expenses to their Federal accounts.
+
+(ii) *Presidential and Senate election year.* In any even year in which a Presidential candidate and a Senate candidate appear on the ballot, and in the preceding year, State, district, and local party committees must allocate at least 36% of these expenses to their Federal accounts.
+
+(iii) *Senate election year.* In any even year in which a Senate candidate, but no Presidential candidate, appears on the ballot, and in the preceding year, State, district, and local party committees must allocate at least 21% of these expenses to their Federal account.
+
+(iv) *Non-Presidential and non-Senate year.* In any even year in which neither a Presidential nor a Senate candidate appears on the ballot, and in the preceding year, State, district, and local party committee must allocate at least 15% of these expenses to their Federal account.
+
+(4) *Fundraising for Federal and non-Federal accounts.* If Federal and non-Federal funds are collected by a State, district, or local party committee through a joint fundraising activity, that committee must allocate its direct fundraising costs using the funds received method and according to the following procedures:
+
+(i) The committee must allocate its fundraising costs based on the ratio of funds received into its Federal account to its total receipts from each fundraising program or event. This ratio shall be estimated prior to each such program or event based upon the committee's reasonable prediction of its Federal and non-Federal revenue from that program or event, and must be noted in the committee's report for the period in which the first disbursement for such program or event occurred, submitted pursuant to 11 CFR 104.5. Any disbursements for fundraising costs made prior to the actual program or event must be allocated according to this estimated ratio.
+
+(ii) No later than the date 60 days after each fundraising program or event from which both Federal and non-Federal funds are collected, the committee shall adjust the allocation ratio for that program or event to reflect the actual ratio of funds received. If the non-Federal account has paid more than its allocable share, the committee shall transfer funds from its Federal to its non-Federal account, as necessary, to reflect the adjusted allocation ratio. If the Federal account has paid more than its allocable share, the committee shall make any transfers of funds from its non-Federal to its Federal account to reflect the adjusted allocation ratio within the 60-day time period established by this paragraph. The committee shall make note of any such adjustments and transfers in its report for any period in which a transfer was made, and shall also report the date of the fundraising program or event that serves as the basis for the transfer. In the case of a telemarketing or direct mail campaign, the date for purposes of this paragraph is the last day of the telemarketing campaign, or the day on which the final direct mail solicitations are mailed.
+
+(e) *Costs not allocable by State, district, and local party committees between Federal and non-Federal accounts.* The following costs incurred by State, district, and local party committees shall be paid only with Federal funds:
+
+(1) Disbursements for State, district, and local party committees for activities that refer only to one or more candidates for Federal office must not be allocated. All such disbursements must be made from a Federal account.
+
+(2) *Salaries and wages.* Salaries and wages for employees who spend more than 25% of their compensated time in a given month on activities in connection with a Federal election must not be allocated. All such disbursements must be made from a Federal account. *See* 11 CFR 300.33(d)(2).
+
+(3) *Federal election activities.* Activities that are Federal election activities pursuant to 11 CFR 100.24 must not be allocated between Federal and non-Federal accounts. Only Federal funds, or a mixture of Federal funds and Levin funds, as provided in 11 CFR 300.33, may be used.
+
+(f) *Transfers between accounts to cover allocable expenses.* State, district, and local party committees may transfer funds from their non-Federal to their Federal accounts or to an allocation account solely to meet allocable expenses under this section and only pursuant to the following requirements:
+
+(1) *Payments from Federal accounts or from allocation accounts.* (i) State, district, and local party committees must pay the entire amount of an allocable expense from their Federal accounts and transfer funds from their non-Federal account to the Federal account solely to cover the non-Federal share of that allocable expense; or
+
+(ii) State, district, or local party committees may establish a separate allocation account into which funds from its Federal and non-Federal accounts may be deposited solely for the purpose of paying the allocable expenses of joint Federal and non-Federal activities.
+
+(2) *Timing.* (i) If a Federal or allocation account is used to make allocable expenditures and disbursements, State, district, and local party committees must transfer funds from their non-Federal to their Federal or allocation account to meet allocable expenses no more than 10 days before and no more than 60 days after the payments for which they are designated are made from a Federal or allocation account, except that transfers may be made more than 10 days before a payment is made from the Federal or allocation account if advance payment is required by the vendor(s) and if such payment is based on a reasonable estimate of the activity's final costs as determined by the committee and the vendor(s) involved.
+
+(ii) Any portion of a transfer from a committee's non-Federal account to its Federal or allocation account that does not meet the requirement of paragraph (f)(2)(i) of this section shall be presumed to be a loan or contribution from the non-Federal account to the Federal or allocation account, in violation of the Act.
+
+[67 FR 49118, July 29, 2002, as amended at 67 FR 78681, Dec. 26, 2002; 70 FR 75384, Dec. 20, 2005; 81 FR 34863, June 1, 2016]

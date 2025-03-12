@@ -1,0 +1,3 @@
+##### § 1240.47 Contents of record. #####
+
+The hearing before the immigration judge, including the testimony, exhibits, applications, proffers, and requests, the immigration judge's decision, and all written orders, motions, appeals, briefs, and other papers filed in the proceedings shall constitute the record in the case. The hearing shall be recorded verbatim except for statements made off the record with the permission of the immigration judge. In his or her discretion, the immigration judge may exclude from the record any arguments made in connection with motions, applications, requests, or objections, but in such event the person affected may submit a brief.

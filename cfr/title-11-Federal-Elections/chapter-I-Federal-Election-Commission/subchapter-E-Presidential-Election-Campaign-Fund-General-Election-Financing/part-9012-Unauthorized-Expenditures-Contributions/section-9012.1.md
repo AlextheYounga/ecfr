@@ -1,0 +1,5 @@
+##### § 9012.1 Excessive expenses. #####
+
+(a) It shall be unlawful for an eligible candidate of a political party for President and Vice President in a Presidential election or the candidate's authorized committee(s) knowingly and willfully to incur qualified campaign expenses in excess of the aggregate payments to which the eligible candidates of a major party are entitled under 11 CFR part 9004 with respect to such election.
+
+(b) It shall be unlawful for the national committee of a major or minor party knowingly and willfully to incur expenses with respect to a presidential nominating convention in excess of the expenditure limitation applicable with respect to such committee under 11 CFR part 9008, unless the incurring of such expenses is authorized by the Commission under 11 CFR 9008.7(a)(3).

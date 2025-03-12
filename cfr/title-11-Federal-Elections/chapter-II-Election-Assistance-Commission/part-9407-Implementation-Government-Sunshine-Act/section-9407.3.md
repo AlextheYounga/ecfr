@@ -1,0 +1,11 @@
+##### § 9407.3 Open meetings. #####
+
+(a) The Commissioners shall not jointly conduct, determine, or dispose of agency business other than in accordance with this section.
+
+(b) Except as otherwise provided in this part, every portion of every Commission meeting shall be open to public observation.
+
+(c) No additional right to participate in Commission meetings is granted to any person by this part. Meetings of the Commission, or portions of a meeting, shall be open to public participation only when an announcement to that effect is issued under § 9407.4(b)(4). Public participation shall be conducted in an orderly, non-disruptive manner and in accordance with any procedures as the chairperson of the meeting may establish. Public participation may be terminated at any time for any reason.
+
+(d) When holding open meetings, the Commission shall make a diligent effort to provide appropriate space, sufficient visibility, and adequate acoustics to accommodate the public attendance anticipated for the meeting. When open meetings are conducted through telephone or similar communications equipment, the Commission shall make an effort to provide sufficient access to the public in a manner which allows the public to clearly hear, see, or otherwise follow the proceedings. The meeting room or other forum selected shall be sufficient to accommodate a reasonable number of interested members of the public. The Commission shall ensure that public meetings are held at a reasonable time and are readily accessible to individuals with disabilities.
+
+(e) Members of the public attending open Commission meetings may use small electronic audio recording devices to record the proceedings. The use of any other recording equipment and cameras requires advance coordination with and notice to the Commission's Communications Office. The chair or acting chair of the Commission may prohibit, at any time, the use of any recording equipment during a public meeting if he or she determines that such recording would disrupt the orderly conduct of the meeting.

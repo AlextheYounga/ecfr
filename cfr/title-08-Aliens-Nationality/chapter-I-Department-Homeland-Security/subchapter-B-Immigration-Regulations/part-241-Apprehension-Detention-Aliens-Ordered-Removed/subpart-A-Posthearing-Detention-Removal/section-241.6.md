@@ -1,0 +1,9 @@
+##### § 241.6 Administrative stay of removal. #####
+
+(a) Any request of an alien under a final order of deportation or removal for a stay of deportation or removal shall be filed on Form I-246, Stay of Removal, with the district director having jurisdiction over the place where the alien is at the time of filing. The Commissioner, Deputy Commissioner, Executive Associate Commissioner for Field Operations, Deputy Executive Associate Commissioner for Detention and Removal, the Director of the Office of Juvenile Affairs, regional directors, or district director, in his or her discretion and in consideration of factors listed in 8 CFR 212.5 and section 241(c) of the Act, may grant a stay of removal or deportation for such time and under such conditions as he or she may deem appropriate. Neither the request nor failure to receive notice of disposition of the request shall delay removal or relieve the alien from strict compliance with any outstanding notice to surrender for deportation or removal.
+
+(b) Denial by the Commissioner, Deputy Commissioner, Executive Associate Commissioner for Field Operations, Deputy Executive Associate Commissioner for Detention and Removal, Director of the Office of Juvenile Affairs, regional director, or district director of a request for a stay is not appealable, but such denial shall not preclude an immigration judge or the Board from granting a stay in connection with a previously filed motion to reopen or a motion to reconsider as provided in 8 CFR part 3.
+
+(c) The Service shall take all reasonable steps to comply with a stay granted by an immigration judge or the Board. However, such a stay shall cease to have effect if granted (or communicated) after the alien has been placed aboard an aircraft or other conveyance for removal and the normal boarding has been completed.
+
+[65 FR 80298, Dec. 21, 2000, as amended at 67 FR 39259, June 7, 2002]

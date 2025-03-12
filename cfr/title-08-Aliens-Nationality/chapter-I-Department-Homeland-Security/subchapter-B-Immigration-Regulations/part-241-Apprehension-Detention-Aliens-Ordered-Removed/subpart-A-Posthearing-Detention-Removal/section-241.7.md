@@ -1,0 +1,5 @@
+##### § 241.7 Self-removal. #####
+
+A district director, the Deputy Executive Associate Commissioner for Detention and Removal, or the Director of the Office of Juvenile Affairs may permit an alien ordered removed (including an alien ordered excluded or deported in proceedings prior to April 1, 1997) to depart at his or her own expense to a destination of his or her own choice. Any alien who has departed from the United States while an order of deportation or removal is outstanding shall be considered to have been deported, excluded and deported, or removed, except that an alien who departed before the expiration of the voluntary departure period granted in connection with an alternate order of deportation or removal shall not be considered to be so deported or removed.
+
+[67 FR 39260, June 7, 2002]

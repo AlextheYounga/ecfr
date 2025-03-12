@@ -1,0 +1,9 @@
+##### § 244.5 Temporary treatment benefits for eligible aliens. #####
+
+(a) *Prior to the registration period.* Prior to the registration period established by DHS, a national of a foreign state designated by DHS shall be afforded temporary treatment benefits upon the filing, after the effective date of such designation, of a completed application for Temporary Protected Status which establishes the alien's *prima facie* eligibility for benefits under section 244 of the Act. This application may be filed without fee. Temporary treatment benefits, if granted, shall terminate unless the registration fee is paid or a waiver is sought within the first thirty days of the registration period designated by DHS. If the registration fee is paid or a waiver is sought within such thirty day period, temporary treatment benefits shall continue until terminated under § 244.13. The denial of temporary treatment benefits prior to the registration period designated by DHS shall be without prejudice to the filing of an application for Temporary Protected Status during such registration period.
+
+(b) *During the registration period.* Upon the filing of an application for Temporary Protected Status, the alien shall be afforded temporary treatment benefits, if the application establishes the alien's *prima facie* eligibility for Temporary Protected Status. Such temporary treatment benefits shall continue until terminated under § 244.13.
+
+(c) *Denied benefits.* There shall be no appeal from the denial of temporary treatment benefits.
+
+[56 FR 619, May 22, 1991, as amended at 56 FR 23497, May 22, 1991. Redesignated at 62 FR 10367, 10382, Mar. 6, 1997, as amended at 63 FR 63596, Nov. 16, 1998; 76 FR 53791, Aug. 29, 2011]

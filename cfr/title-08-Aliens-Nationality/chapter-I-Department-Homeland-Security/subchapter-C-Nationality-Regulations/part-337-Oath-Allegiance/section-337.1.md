@@ -1,0 +1,17 @@
+##### § 337.1 Oath of allegiance. #####
+
+(a) *Form of oath.* Except as otherwise provided in the Act and after receiving notice from the district director that such applicant is eligible for naturalization pursuant to § 335.3 of this chapter, an applicant for naturalization shall, before being admitted to citizenship, take in a public ceremony held within the United States the following oath of allegiance, to a copy of which the applicant shall affix his or her signature:
+
+I hereby declare, on oath, that I absolutely and entirely renounce and abjure all allegiance and fidelity to any foreign prince, potentate, state, or sovereignty, of whom or which I have heretofore been a subject or citizen; that I will support and defend the Constitution and laws of the United States of America against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; that I will bear arms on behalf of the United States when required by the law; that I will perform noncombatant service in the Armed Forces of the United States when required by the law; that I will perform work of national importance under civilian direction when required by the law; and that I take this obligation freely, without any mental reservation or purpose of evasion; so help me God.
+
+(b) *Alteration of form of oath; affirmation in lieu of oath.* In those cases in which a petitioner or applicant for naturalization is exempt from taking the oath prescribed in paragraph (a) of this section in its entirety, the inapplicable clauses shall be deleted and the oath shall be taken in such altered form. When a petitioner or applicant for naturalization, by reason of religious training and belief (or individual interpretation thereof), or for other reasons of good conscience, cannot take the oath prescribed in paragraph (a) of this section with the words “on oath” and “so help me God” included, the words “and solemnly affirm” shall be substituted for the words “on oath,” the words “so help me God” shall be deleted, and the oath shall be taken in such modified form. Any reference to ‘oath of allegiance’ in this chapter is understood to mean equally ‘affirmation of allegiance’ as described in this paragraph.
+
+(c) *Obligations of oath.* A petitioner or applicant for naturalization shall, before being naturalized, establish that it is his or her intention, in good faith, to assume and discharge the obligations of the oath of allegiance, and that his or her attitude toward the Constitution and laws of the United States renders him or her capable of fulfilling the obligations of such oath.
+
+(d) *Renunciation of title or order of nobility.* A petitioner or applicant for naturalization who has borne any hereditary title or has been of any of the orders of nobility in any foreign state shall, in addition to taking the oath of allegiance prescribed in paragraph (a) of this section, make under oath or affirmation in public an express renunciation of such title or order of nobility, in the following form:
+
+(1) I further renounce the title of (give title or titles) which I have heretofore held; or
+
+(2) I further renounce the order of nobility (give the order of nobility) to which I have heretofore belonged.
+
+[22 FR 9824, Dec. 6, 1957, as amended at 24 FR 2584, Apr. 3, 1959; 32 FR 13756, Oct. 3, 1967; 56 FR 50499, Oct. 7, 1991]

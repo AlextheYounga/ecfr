@@ -1,0 +1,5 @@
+##### § 100.3 Places where, and methods whereby, information may be secured or submittals or requests made. #####
+
+Any person desiring information relative to a matter handled by CBP, ICE or USCIS or any person desiring to make a submittal or request in connection with such a matter, should communicate either orally or in writing, with either CBP, ICE or USCIS as appropriate. When the submittal or request consists of a formal application for one of the documents, privileges, or other benefits provided for in the laws administered by CBP, ICE or USCIS or the regulations implementing those laws, follow the instructions on the form as to preparation and place of submission. Individuals can seek service or assistance from CBP, ICE or USCIS by visiting the CBP, ICE or USCIS Web site or calling CBP, ICE or USCIS.
+
+[74 FR 26936, June 5, 2009]

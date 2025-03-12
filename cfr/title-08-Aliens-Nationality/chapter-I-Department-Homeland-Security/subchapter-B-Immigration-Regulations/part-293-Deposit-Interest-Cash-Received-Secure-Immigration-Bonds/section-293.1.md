@@ -1,0 +1,5 @@
+##### § 293.1 Computation of interest. #####
+
+The Secretary of the Treasury determines the rate at which an immigration bond secured by cash shall bear interest, consistent with 8 CFR 293.2. Interest shall be computed from the deposit date to and including the refund date or breach date of the immigration bond. For purposes of this part, the deposit date shall be the date shown on the receipt for the cash received as security on an immigration bond. The refund date shall be the date upon which the interest is certified to the Treasury Department for payment. The breach date shall be the date the immigration bond was breached as shown on Form I-323—“Notice—Immigration Bond Breached.” In counting the number of days for which interest shall be computed, the day on which the cash was deposited shall not be counted; however, the refund date or the breach date shall be counted.
+
+[80 FR 34242, June 16, 2015]

@@ -1,0 +1,5 @@
+##### § 1244.11 Renewal of application; appeal to the Board of Immigration Appeals. #####
+
+If a charging document is served on the alien with a notice of denial or withdrawal of Temporary Protected Status, an alien may renew the application for Temporary Protected Status in deportation or exclusion proceedings. The decision of the immigration judge as to eligibility for Temporary Protected Status may be appealed to the Board of Immigration Appeals pursuant to § 1003.3 of this chapter. The provisions of this section do not extend the benefits of Temporary Protected Status beyond the termination of a foreign state's designation pursuant to § 1244.19.
+
+[56 FR 619, Jan. 7, 1991, as amended at 56 FR 23497, May 22, 1991. Redesignated at 62 FR 10367, 10382, Mar. 6, 1997, as amended at 63 FR 63596, Nov. 16, 1998]

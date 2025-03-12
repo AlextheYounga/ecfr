@@ -1,0 +1,5 @@
+##### § 280.4 Data concerning cost of transportation. #####
+
+Within five days after request therefor, transportation companies shall furnish to the district director or the Associate Commissioner for Examinations, or the Director for the National Fines Office pertinent information contained in the original transportation contract of all rejected aliens whose cases are within the purview of any of the provisions of the Immigration and Nationality Act relating to refund of passage monies, and shall specify the exact amounts paid for transportation from the initial point of departure (which point shall be indicated) to the foreign port of embarkation, from the latter to the port of arrival in the United States and from the port of arrival to the inland point of destination, respectively, and also the amount paid for headtax, if any.
+
+[22 FR 9807, Dec. 6, 1957, as amended at 54 FR 18649, May 2, 1989]

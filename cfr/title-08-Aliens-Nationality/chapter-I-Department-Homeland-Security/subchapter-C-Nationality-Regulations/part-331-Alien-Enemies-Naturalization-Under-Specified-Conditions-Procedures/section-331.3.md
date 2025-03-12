@@ -1,0 +1,3 @@
+##### § 331.3 Investigation. #####
+
+The Service shall conduct a full investigation of any alien enemy whose application for naturalization is pending upon declaration of war or at any time thereafter. This investigation may take place either prior to or after the examination on the application. This investigation shall encompass, but not be limited to, the applicant's loyalty to the United States and attachment to the country, state, or sovereignty with which the United States is at war.

@@ -1,0 +1,27 @@
+##### § 211.1 Visas. #####
+
+(a) *General.* Except as provided in paragraph (b)(1) of this section, each arriving alien applying for admission (or boarding the vessel or aircraft on which he or she arrives) into the United States for lawful permanent residence, or as a lawful permanent resident returning to an unrelinquished lawful permanent residence in the United States, shall present one of the following:
+
+(1) A valid, unexpired immigrant visa;
+
+(2) A valid, unexpired Form I-551, Permanent Resident Card, if seeking readmission after a temporary absence of less than 1 year, or in the case of a crewmember regularly serving on board a vessel or aircraft of United States registry seeking readmission after any temporary absence connected with his or her duties as a crewman;
+
+(3) A valid, unexpired Form I-327, Permit to Reenter the United States;
+
+(4) A valid, unexpired Form I-571, Refugee Travel Document, properly endorsed to reflect admission as a lawful permanent resident;
+
+(5) An expired Form I-551, Permanent Resident Card, accompanied by a filing receipt issued within the previous 6 months for either a Form I-751, Petition to Remove the Conditions on Residence, or Form I-829, Petition by Entrepreneur to Remove Conditions, if seeking admission or readmission after a temporary absence of less than 1 year;
+
+(6) A Form I-551, whether or not expired, presented by a civilian or military employee of the United States Government who was outside the United States pursuant to official orders, or by the spouse or child of such employee who resided abroad while the employee or serviceperson was on overseas duty and who is preceding, accompanying or following to join within 4 months the employee, returning to the United States; or
+
+(7) Form I-551, whether or not expired, or a transportation letter issued by an American consular officer, presented by an employee of the American University of Beirut, who was so employed immediately preceding travel to the United States, returning temporarily to the United States before resuming employment with the American University of Beirut, or resuming permanent residence in the United States.
+
+(b) *Waivers.* (1) A waiver of the visa required in paragraph (a) of this section shall be granted without fee or application by the district director, upon presentation of the child's birth certificate, to a child born subsequent to the issuance of an immigrant visa to his or her accompanying parent who applies for admission during the validity of such a visa; or a child born during the temporary visit abroad of a mother who is a lawful permanent resident alien, or a national, of the United States, provided that the child's application for admission to the United States is made within 2 years of birth, the child is accompanied by the parent who is applying for readmission as a permanent resident upon the first return of the parent to the United States after the birth of the child, and the accompanying parent is found to be admissible to the United States.
+
+(2) For an alien described in paragraph (b)(1) of this section, recordation of the child's entry shall be on Form I-181, Memorandum of Creation of Record of Admission for Lawful Permanent Residence. The carrier of such alien shall not be liable for a fine pursuant to section 273 of the Act.
+
+(3) If an immigrant alien returning to an unrelinquished lawful permanent residence in the United States after a temporary absence abroad believes that good cause exists for his or her failure to present an unexpired immigrant visa, permanent resident card, or reentry permit, the alien may file an application for a waiver of this requirement with the DHS officer with jurisdiction over the port of entry where the alien arrives. To apply for this waiver, the alien must file the designated form with the fee prescribed in 8 CFR 103.7(b)(1). If the alien's permanent resident card was lost or stolen and the alien has been absent for less than one year, rather than the waiver application the alien must apply for a replacement card as described in 8 CFR 264.5. In the exercise of discretion, the DHS officer who has jurisdiction over the port of entry where the alien arrives may waive the alien's lack of an immigrant visa, permanent resident card, or reentry permit and admit the alien as a returning resident if DHS is satisfied that the alien has established good cause for the alien's failure to present an immigrant visa, permanent resident card, or reentry permit. Filing a request to replace a lost or stolen card will serve as both application for replacement and as application for waiver of passport and visa, without the obligation to file a separate waiver application.
+
+(c) *Immigrants having occupational status defined in section 101(a)(15) (A), (E), or (G) of the Act.* An immigrant visa, reentry permit, or Form I-551 shall be invalid when presented by an alien who has an occupational status under section 101(a)(15) (A), (E), or (G) of the Act, unless he or she has previously submitted, or submits at the time he or she applies for admission to the United States, the written waiver required by section 247(b) of the Act and 8 CFR part 247.
+
+[62 FR 10346, Mar. 6, 1997, as amended at 63 FR 39218, July 22, 1998; 63 FR 70315, Dec. 21, 1998; 74 FR 26937, June 5, 2009; 76 FR 53786, Aug. 29, 2011]

@@ -1,0 +1,5 @@
+##### § 100.5 Regulations. #####
+
+The regulations of the Department of Homeland Security, published as chapter I of title 8 of the Code of Federal Regulations, contain information which under the provisions of section 552 of title 5 of the United States Code, is required to be published and is subdivided into subchapter A (General Provisions, parts 1 through 3, inclusive), subchapter B (Immigration Regulations, parts 100 through 299, inclusive), and subchapter C (Nationality Regulations, parts 306 through 499, inclusive). Any person desiring information with respect to a particular procedure (other than rule making) under the Immigration and Nationality Act should examine the part or section in chapter I of title 8 of the Code of Federal Regulations dealing with such procedures as well as the section of the Act implemented by such part or section.
+
+[32 FR 9616, July 4, 1967, as amended at 74 FR 26936, June 5, 2009]

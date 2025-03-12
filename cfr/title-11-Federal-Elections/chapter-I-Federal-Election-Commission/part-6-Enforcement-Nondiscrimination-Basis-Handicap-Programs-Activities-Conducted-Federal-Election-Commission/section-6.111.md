@@ -1,0 +1,3 @@
+##### § 6.111 Notice. #####
+
+The Commission will make available to employees, applicants, participants, beneficiaries, and other interested persons information regarding the provisions of this part and its applicability to the programs or activities conducted by the Commission. The Commission will make such information available to them in a manner it finds necessary to effectively apprise such persons of the protections against discrimination assured them by section 504 and the provisions of this part.

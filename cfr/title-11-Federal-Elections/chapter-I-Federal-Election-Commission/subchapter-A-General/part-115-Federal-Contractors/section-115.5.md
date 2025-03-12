@@ -1,0 +1,3 @@
+##### § 115.5 Individuals and sole proprietors. #####
+
+Individuals or sole proprietors who are Federal contractors are prohibited from making contributions or expenditures from their business, personal, or other funds under their dominion or control. The spouse of an individual or sole proprietor who is a Federal contractor is not prohibited from making a personal contribution or expenditure in his or her name.

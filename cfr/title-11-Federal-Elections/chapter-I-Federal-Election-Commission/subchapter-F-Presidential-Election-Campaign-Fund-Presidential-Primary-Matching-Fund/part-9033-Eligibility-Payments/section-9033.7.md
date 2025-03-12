@@ -1,0 +1,7 @@
+##### § 9033.7 Determination of active candidacy. #####
+
+(a) Where a candidate certifies to the Commission under 11 CFR 9033.5(b) that he or she will not be an active candidate in an upcoming primary, the Commission may, nevertheless, on the basis of factors listed in 11 CFR 9033.6(b), make an initial determination that the candidate is an active candidate in the primary involved.
+
+(b) The Commission will notify the candidate of its initial determination within 10 business days of receiving the candidate's certification under 11 CFR 9033.5(b) or, if the timing of the activity does not permit notice during the 10 day period, as soon as practicable following campaign activity by the candidate in the primary state. The Commission's initial determination will be made in accordance with the procedures outlined in 11 CFR 9033.10(b). Within 10 business days after service of the Commission's notice the candidate may submit, in accordance with 11 CFR 9033.10(b), written legal or factual materials to demonstrate that he or she is not an active candidate in the primary involved.
+
+(c) A final determination by the Commission that the candidate is active will be made in accordance with the procedures outlined in 11 CFR 9033.10(c).

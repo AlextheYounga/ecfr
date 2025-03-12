@@ -1,0 +1,35 @@
+##### § 300.33 Allocation of costs of Federal election activity. #####
+
+(a) *Costs of Federal election activity allocable by State, district, and local party committees and organizations*—(1) *Costs of voter registration.* Subject to the conditions of 11 CFR 300.32(c), State, district, and local party committees and organizations may allocate disbursements or expenditures, except salaries and wages for employees, between Federal funds and Levin funds for voter registration activity, as defined in 11 CFR 100.24(a)(2), that takes place during the period that begins on the date that is 120 days before the date of a regularly scheduled Federal election and that ends on the date of the election, provided that the activity does not refer to a clearly identified Federal candidate.
+
+(2) *Costs of voter identification, get-out-the-vote activity, or generic campaign activities within certain time periods.* Subject to the conditions of 11 CFR 300.32(c), State, district, and local party committees and organizations may allocate disbursements or expenditures, except salaries and wages for employees, between Federal funds and Levin funds for voter identification, get-out-the-vote activity, or generic campaign activities, as defined in 11 CFR 100.24(a)(3) and (4) and 11 CFR 100.25, that are conducted in connection with an election in which a candidate for Federal office is on the ballot and within the time periods set forth in 11 CFR 100.24(a)(1), provided that the activity does not refer to a clearly identified Federal candidate.
+
+(b) *Allocation percentages.* State, district, and local party committees and organizations that choose to allocate between Federal funds and Levin funds their expenditures and disbursements, except for salaries and wages, in connection with activities described in paragraph (a) of this section that take place within the time periods set forth in 11 CFR 100.24(a)(1) or paragraph (a) of this section must allocate the following minimum percentages to their Federal funds:
+
+(1) *Presidential election years.* If a Presidential candidate, but no Senate candidate appears on the ballot, State, district, and local party committees and organizations must allocate at least 28% of expenses for activities described in paragraph (a) of this section to their Federal funds.
+
+(2) *Presidential and Senate election year.* If a Presidential candidate and a Senate candidate appear on the ballot, State, district, and local party committees and organizations must allocate at least 36% of expenses for activities described in paragraph (a) of this section to their Federal funds.
+
+(3) *Senate election year.* If a Senate candidate, but no Presidential candidate, appears on the ballot, State, district, and local party committees and organizations must allocate at least 21% of expenses for activities described in paragraph (a) of this section to their Federal funds.
+
+(4) *Non-Presidential and non-Senate year.* If neither a Presidential nor a Senate candidate appears on the ballot, State, district, and local party committees and organizations must allocate at least 15% of expenses for activities described in paragraph (a) of this section to their Federal funds.
+
+(c) *Costs of public communications.* Expenditures for public communications as defined in 11 CFR 100.26 by State, district, and local party committees and organizations that refer to a clearly identified candidate for Federal office and that promote, support, attack, or oppose any such candidate for Federal office must not be allocated between or among Federal, non-Federal, and Levin accounts. Only Federal funds may be used.
+
+(d) *Costs of salaries, wages, and fringe benefits.* (1) Except as provided in paragraph (d)(3) of this section, salaries, wages, and fringe benefits paid for employees who spend 25% or less of their compensated time in a given month on Federal election activities or on activities in connection with a Federal election must either be paid only from the Federal account or be allocated as administrative costs under 11 CFR 106.7(d)(2).
+
+(2) Salaries, wages, and fringe benefits paid for employees who spend more than 25% of their compensated time in a given month on Federal election activities or on activities in connection with a Federal election must be paid only from a Federal account.
+
+(3) Salaries, wages, and fringe benefits paid for employees who spend none of their compensated time in a given month on Federal election activities or on activities in connection with a Federal election may be paid entirely with funds that comply with State law. *See* 11 CFR 106.7(c)(1) and (d)(1).
+
+(e) *Transfers between accounts to cover allocable expenses.* State, district, and local party committees and organizations may transfer Levin funds from their Levin or non-Federal accounts to their Federal accounts or to allocation accounts solely to meet expenses allocable pursuant to paragraphs (a)(1) and (2) of this section and only pursuant to the following methods:
+
+(1) *Payments from Federal accounts or from allocation accounts.* (i) If Federal accounts are used to make payments for allocable activities, State, district, and local party committees and organizations must pay the entire amount of allocable expenses from their Federal accounts and transfer Levin funds from their Levin or non-Federal accounts to their Federal accounts solely to cover the portions of the expenses for which Levin funds may be used; or
+
+(ii) State, district, and local party committees and organizations may establish separate allocation accounts into which Federal funds and Levin funds may be deposited solely for the purpose of paying allocable expenses.
+
+(2) *Timing.* (i) If Federal or allocation accounts are used to make allocable expenditures and disbursements, State, district, and local party committees and organizations must transfer Levin funds to their Federal or allocation accounts to meet allocable expenses no more than 10 days before and no more than 60 days after the payments for which they are designated are made from a Federal or allocation account, except that transfers may be made more than 10 days before a payment is made from the Federal or allocation account if advance payment is required by the vendor(s) and if such payment is based on a reasonable estimate of the activity's final costs as determined by the committee and the vendor(s) involved.
+
+(ii) Any portion of a transfer of Levin funds to a party committee or organization's Federal or allocation account that does not meet the requirement of paragraph (e)(2)(i) of this section shall be presumed to be a loan or contribution from the Levin or non-Federal account to the Federal or allocation account, in violation of the Act.
+
+[67 FR 49120, July 29, 2002, as amended at 70 FR 75385, Dec. 20, 2005]

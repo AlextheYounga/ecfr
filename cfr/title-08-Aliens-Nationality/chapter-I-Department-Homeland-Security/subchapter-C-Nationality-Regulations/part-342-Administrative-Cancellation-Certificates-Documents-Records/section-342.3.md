@@ -1,0 +1,3 @@
+##### § 342.3 Allegations admitted; no answer filed; no personal appearance requested. #####
+
+If the answer admits all material allegations in the notice, or if no answer is filed within the 60-day period or any extension thereof and no personal appearance is requested within such period or periods, it shall be deemed to authorize the district director, without further notice to respondent, to find the facts to be as alleged in the notice and to cancel the certificate, document, or record. No appeal shall lie from such decision. Written notice of the decision shall be served upon the respondent with demand for surrender of the certificate, document, or record forthwith.

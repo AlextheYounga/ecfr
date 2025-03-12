@@ -1,0 +1,3 @@
+##### § 1240.57 Extension of time to depart. #####
+
+Authority to reinstate or extend the time within which to depart voluntarily specified initially by an immigration judge or the Board is within the sole jurisdiction of the district director, except that an immigration judge or the Board may reinstate voluntary departure in a deportation proceeding that has been reopened for a purpose other than solely making an application for voluntary departure. A request by an alien for reinstatement or an extension of time within which to depart voluntarily shall be filed with the district director having jurisdiction over the alien's place of residence. Written notice of the district director's decision shall be served upon the alien and no appeal may be taken therefrom.

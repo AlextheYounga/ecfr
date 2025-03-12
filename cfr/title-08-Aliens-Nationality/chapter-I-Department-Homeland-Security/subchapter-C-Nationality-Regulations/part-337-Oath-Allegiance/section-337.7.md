@@ -1,0 +1,7 @@
+##### § 337.7 Information and assignment of individuals under exclusive jurisdiction. #####
+
+(a) No later than at the time of the examination on the application pursuant to § 335.2 of this chapter, an employee of USCIS shall advise the applicant of his or her right to elect the site for the administration of the oath of allegiance, subject to the exclusive jurisdiction provision of § 310.3(d) of this chapter. In order to assist the applicant in making an informed decision, USCIS shall advise the applicant of the upcoming Immigration Judge or USCIS conducted and judicial ceremonies at which the applicant may appear, if found eligible for naturalization.
+
+(b) An applicant whose application has been approved by USCIS who is subject to the exclusive jurisdiction of a court pursuant to § 310.2(d) of this chapter, shall be advised of the next available court ceremony and provided with a written notice to appear at that ceremony. If the applicant is subject to the exclusive jurisdiction of more than one court exercising exclusive jurisdiction, the applicant will be informed of the upcoming ceremonies in each affected court. The applicant shall decide which court he or she wishes to administer the oath of allegiance.
+
+[58 FR 49915, Sept. 24, 1993, as amended at 60 FR 37804, July 24, 1995; 76 FR 53803, Aug. 29, 2011]

@@ -1,0 +1,3 @@
+##### § 104.12 Beginning cash on hand for political committees. #####
+
+Political committees which have cash on hand at the time of registration shall disclose on their first report the source(s) of such funds, including the information required by 11 CFR 104.3(a)(1). The cash on hand balance is assumed to be composed of those contributions most recently received by the committee. The committee shall exclude from funds to be used for Federal elections any contributions not permissible under the Act. See 11 CFR parts 110, 114, and 115.

@@ -1,0 +1,5 @@
+##### § 233.1 Contracts. #####
+
+The contracts with transportation lines referred to in section 233(c) of the Act may be entered into by the Executive Associate Commissioner for Programs, or by an immigration officer designated by the Executive Associate Commissioner for Programs on behalf of the government and shall be documented on Form I-420. The contracts with transportation lines referred to in section 233(a) of the Act shall be made by the Commissioner on behalf of the government and shall be documented on Form I-426. The contracts with transportation lines desiring their passengers to be preinspected at places outside the United States shall be made by the Commissioner on behalf of the government and shall be documented on Form I-425; except that contracts for irregularly operated charter flights may be entered into by the Associate Commissioner for Examinations or an immigration officer designated by the Executive Associate Commissioner for Programs and having jurisdiction over the location where the inspection will take place.
+
+[62 FR 10353, Mar. 6, 1997]

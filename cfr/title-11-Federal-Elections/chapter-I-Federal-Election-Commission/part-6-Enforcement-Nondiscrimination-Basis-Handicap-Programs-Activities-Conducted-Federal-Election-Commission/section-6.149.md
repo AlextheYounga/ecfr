@@ -1,0 +1,3 @@
+##### § 6.149 Program accessibility: Discrimination prohibited. #####
+
+Except as otherwise provided in 11 CFR 6.150 and 11 CFR 6.151, no qualified handicapped person shall be denied the benefits of, be excluded from participation in, or otherwise be subjected to discrimination under any program or activity conducted by the Commission because its facilities are inaccessible to or unusable by handicapped persons.

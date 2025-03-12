@@ -1,0 +1,3 @@
+##### § 7.6 Outside employment and activities by Commissioners. #####
+
+No member of the Commission may devote a substantial portion of his or her time to any other business, vocation, or employment. Any individual who is engaging substantially in any other business, vocation, or employment at the time such individual begins to serve as a member of the Commission will appropriately limit such activity no later than 90 days after beginning to serve as such a member.

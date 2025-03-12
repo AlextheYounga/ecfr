@@ -1,0 +1,3 @@
+##### § 8.1 Purpose and scope. #####
+
+This part prescribes standards and procedures under which the Commission will collect and dispose of certain debts owed to the United States, as described in 11 CFR 8.2. The regulations in this part implement the Debt Collection Improvement Act of 1996, 31 U.S.C. 3701, 3711, and 3716-3720A, as amended; and the Federal Claims Collection Standards, 31 CFR parts 900-904. The activities covered include: the collection of claims of any amount; compromising claims; suspending or terminating the collection of claims; referring debts to the U.S. Department of the Treasury for collection action; and referring debts under this part 8 of more than $100,000 (exclusive of any interest and charges) to the Department of Justice for litigation.

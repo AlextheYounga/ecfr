@@ -1,0 +1,3 @@
+##### § 300.61 Federal elections (52 U.S.C. 30125(e)(1)(A)). #####
+
+No person described in 11 CFR 300.60 shall solicit, receive, direct, transfer, spend, or disburse funds in connection with an election for Federal office, including funds for any Federal election activity as defined in 11 CFR 100.24, unless the amounts consist of Federal funds that are subject to the limitations, prohibitions, and reporting requirements of the Act.

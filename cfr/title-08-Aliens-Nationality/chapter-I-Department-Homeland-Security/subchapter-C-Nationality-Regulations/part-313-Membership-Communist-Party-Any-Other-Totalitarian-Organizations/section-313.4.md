@@ -1,0 +1,3 @@
+##### § 313.4 Procedure. #####
+
+In all cases in which the applicant claims membership or affiliation in any of the organizations covered by § 313.2, the applicant shall attach to the application a detailed written statement describing such membership or affiliation, including the periods of membership or affiliation, whether the applicant held any office in the organization, and whether membership or affiliation was voluntary or involuntary. If the applicant alleges that membership or affiliation was involuntary, or that one of the other exemptions in § 313.3 applies, the applicant's statement shall set forth the basis of that allegation.

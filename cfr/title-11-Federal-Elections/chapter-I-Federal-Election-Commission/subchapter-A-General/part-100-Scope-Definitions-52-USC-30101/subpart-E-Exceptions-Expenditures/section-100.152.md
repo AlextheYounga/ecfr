@@ -1,0 +1,11 @@
+##### § 100.152 Fundraising costs for Presidential candidates. #####
+
+(a) *Costs incurred in connection with the solicitation of contributions.* Any costs incurred by a candidate or his or her authorized committee(s) in connection with the solicitation of contributions are not expenditures if incurred by a candidate who has been certified to receive Presidential Primary Matching Fund Payments, or by a candidate who has been certified to receive general election public financing under 26 U.S.C. 9004 and who is soliciting contributions in accordance with 26 U.S.C. 9003(b)(2) or 9003(c)(2) to the extent that the aggregate of such costs does not exceed 20 percent of the expenditure limitation applicable to the candidate. These costs shall, however, be reported as disbursements pursuant to 11 CFR part 104.
+
+(b) *Definition of in connection with the solicitation of contributions.* For a candidate who has been certified to receive general election public financing under 26 U.S.C. 9004 and who is soliciting contributions in accordance with 26 U.S.C. 9003(b)(2) or 9003(c)(2), *in connection with the solicitation of contributions* means any cost reasonably related to fundraising activity, including the costs of printing and postage, the production of and space or air time for, advertisements used for fundraising, and the costs of meals, beverages, and other costs associated with a fundraising reception or dinner.
+
+(c) *Limitation on costs that may be exempted.* For a candidate who has been certified to receive Presidential Primary Matching Fund Payments, the costs that may be exempted as fundraising expenses under this section shall not exceed 20% of the overall expenditure limitation under 11 CFR 9035.1, and shall equal the total of:
+
+(1) All amounts excluded from the state expenditure limitations for exempt fundraising activities under 11 CFR 110.8(c)(2), plus
+
+(2) An amount of costs that would otherwise be chargeable to the overall expenditure limitation but that are not chargeable to any state expenditure limitation, such as salary and travel expenses. See 11 CFR 106.2.

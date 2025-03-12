@@ -1,0 +1,3 @@
+##### § 215.22 Applicability. #####
+
+This subpart is applicable to nonimmigrant aliens who hold a passport issued by an identified country containing a U.S. nonimmigrant visa of a designated category. The Secretary, in the Secretary's discretion and in consultation with the Secretary of State, may identify countries and designate nonimmigrant visa categories for purposes of this subpart. Notice of the identified countries and designated nonimmigrant visa categories will be published in the Federal Register.

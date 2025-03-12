@@ -1,0 +1,3 @@
+##### § 109.1 When will this part apply? #####
+
+This part applies to expenditures that are made independently from a candidate, an authorized committee, a political party committee, or their agents, and to those payments that are made in coordination with a candidate, an authorized committee, a political party committee, or their agents. The rules in this part explain how these types of payments must be reported and how they must be treated by candidates, authorized committees, and political party committees. In addition, subpart D of part 109 describes procedures and limits that apply only to payments, transfers, and assignments made by political party committees.

@@ -1,0 +1,51 @@
+##### § 9004.9 Net outstanding qualified campaign expenses. #####
+
+(a) *Candidates receiving post-election funding.* A candidate who is eligible to receive post-election payments under 11 CFR 9004.3 shall file, no later than 20 calendar days after the date of the election, a preliminary statement of that candidate's net outstanding qualified campaign expenses. The candidate's net outstanding qualified campaign expenses under this section equal the difference between 11 CFR 9004.9(a) (1) and (2).
+
+(1) The total of:
+
+(i) All outstanding obligations for qualified campaign expenses as of the date of the election; plus
+
+(ii) An estimate of the amount of qualified campaign expenses that will be incurred by the end of the expenditure report period; plus
+
+(iii) An estimate of the necessary winding down costs, as defined under 11 CFR 9004.4(a)(4), submitted in the format required by paragraph (a)(4) of this section; less
+
+(2) The total of:
+
+(i) Cash on hand as of the close of business on the day of the election, including: All contributions dated on or before that date; currency; balances on deposit in banks, savings and loan institutions, and other depository institutions; traveler's checks; certificates of deposit; treasury bills; and any other committee investments valued at fair market value;
+
+(ii) The fair market value of capital assets and other assets on hand; and
+
+(iii) Amounts owed to the candidate's authorized committee(s) in the form of credits, refunds of deposits, returns, receivables, or rebates of qualified campaign expenses; or a commercially reasonable amount based on the collectibility of those credits, returns, receivables or rebates.
+
+(3) The amount submitted as the total of outstanding campaign obligations under paragraph (a)(1) of this section shall not include any accounts payable for non-qualified campaign expenses nor any amounts determined or anticipated to be required as a repayment under 11 CFR part 9007 or any amounts paid to secure a surety bond under 11 CFR 9007.5(c).
+
+(4) The amount submitted as an estimate of necessary winding down costs under paragraph (a)(1)(iii) of this section shall be broken down by expense category and quarterly or monthly time period. This breakdown shall include estimated costs for office space rental, staff salaries, legal expenses, accounting expenses, office supplies, equipment rental, telephone expenses, postage and other mailing costs, printing and storage. The breakdown shall estimate the costs that will be incurred in each category from the time the statement is submitted until the expected termination of the committee's political activity.
+
+(b) *All candidates.* Each candidate, except for individuals who have withdrawn pursuant to 11 CFR 9004.8, shall submit a statement of net outstanding qualified campaign expenses no later than 30 calendar days after the end of the expenditure report period. The statement shall contain the information required by 11 CFR 9004.9(a) (1) and (2), except that the amount of outstanding obligations under 11 CFR 9004.9(a)(1)(i) and the amount of cash on hand, assets and receivables under 11 CFR 9004.9(a)(2) shall be complete as of the last day of the expenditure report period.
+
+(c) *Candidates who withdraw.* An individual who ceases to be a candidate pursuant to 11 CFR 9004.8 shall file a statement of net outstanding qualified campaign expenses no later than 30 calendar days after he or she ceases to be a candidate. The statement shall contain the information required under 11 CFR 9004.9(a) (1) and (2), except that the amount of outstanding obligations under 11 CFR 9004.9(a)(1)(i) and the amount of cash on hand, assets and receivables under 11 CFR 9004.9(a)(2) shall be complete as of the day on which the individual ceased to be a candidate.
+
+(d)(1) *Capital assets and assets purchased from the primary election committee.* (i) For purposes of this section, the term *capital asset* means any property used in the operation of the campaign whose purchase price exceeded $2000 when acquired by the committee. Property that must be valued as capital assets under this section includes, but is not limited to, office equipment, furniture, vehicles and fixtures acquired for use in the operation of the candidate's campaign, but does not include property defined as “other assets” under paragraph (d)(2) of this section. Capital assets include items such as computer systems and telecommunications systems, if the equipment is used together and if the total cost of all components that are used together exceeds $2000. A list of all capital assets shall be maintained by the committee in accordance with 11 CFR 9003.5(d)(1). The fair market value of capital assets shall be considered to be 60% of the total original cost of such items when acquired, except that items received after the end of the expenditure report period must be valued at their fair market value on the date acquired. A candidate may claim a lower fair market value for a capital asset by listing that capital asset on the statement separately and demonstrating, through documentation, the lower fair market value.
+
+(ii) If capital assets are obtained from the candidate's primary election committee, the purchase price shall be considered to be 60% of the original cost of such assets to the candidate's primary election committee. For purposes of the statement of net outstanding qualified campaign expenses filed after the end of the expenditure report period, the fair market value of capital assets obtained from the candidate's primary election committee shall be considered to be 20% of the original cost of such assets to the candidate's primary election committee.
+
+(iii) Items purchased from the primary election committee that are not capital assets, and also are not other assets under paragraph (d)(2) of this section, shall be listed on an inventory that states their valuation.
+
+(2) *Other assets.* The term *other assets* means any property acquired by the committee for use in raising funds or as collateral for campaign loans. “Other assets” must be included on the candidate's statement of net outstanding qualified campaign expenses if the aggregate value of such assets exceeds $5000. The value of “other assets” shall be determined by the fair market value of each item on the last day of the expenditure report period or the day on which the individual ceased to be a candidate, whichever is earlier, unless the item is acquired after these dates, in which case the item shall be valued on the date it is acquired. A list of other assets shall be maintained by the committee in accordance with 11 CFR 9003.5(d)(2).
+
+(e) *Collectibility of accounts receivable.* If the committee determines that an account receivable of $500 or more, including any credit, refund, return or rebate, is not collectible in whole or in part, the committee shall demonstrate through documentation that the determination was commercially reasonable. The documentation shall include records showing the original amount of the account receivable, copies of correspondence and memoranda of communications with the debtor showing attempts to collect the amount due, and an explanation of how the lesser amount or full write-off was determined.
+
+(f) *Review of candidate statement*—(1) *General.* The Commission will review the statement filed by each candidate under this section. The Commission may request further information with respect to statements filed pursuant to 11 CFR 9004.9(b) during the audit of that candidate's authorized committee(s) under 11 CFR part 9007.
+
+(2) *Candidate eligible for post-election funding.* (i) If, in reviewing the preliminary statement of a candidate eligible to receive post-election funding, the Commission receives information indicating that substantial assets of that candidate's authorized committee(s) have been undervalued or not included in the statement or that the amount of outstanding qualified campaign expenses has been otherwise overstated in relation to committee assets, the Commission may decide to temporarily postpone its certification of funds to that candidate pending a final determination of whether the candidate is entitled to all or a portion of the funds for which he or she is eligible based on the percentage of votes the candidate received in the general election.
+
+(ii) *Initial determination.* In making a determination under 11 CFR 9004.9(f)(2)(i), the Commission will notify the candidate within 10 business days after its receipt of the statement of its initial determination that the candidate is not entitled to receive the full amount for which the candidate may be eligible. The notice will give the legal and factual reasons for the initial determination and advise the candidate of the evidence on which the Commission's initial determination is based. The candidate will be given the opportunity to revise the statement or to submit, within 10 business days, written legal or factual materials to demonstrate that the candidate has net outstanding qualified campaign expenses that entitle the candidate to post-election funds. Such materials may be submitted by counsel if the candidate so desires.
+
+(iii) *Final determination.* The Commission will consider any written legal or factual materials submitted by the candidate before making its final determination. A final determination that the candidate is entitled to receive only a portion or no post-election funding will be accompanied by a written statement of reasons for the Commission's action. This statement will explain the legal and factual reasons underlying the Commission's determination and will summarize the results of any investigation on which the determination is based.
+
+(iv) If the candidate demonstrates that the amount of outstanding qualified campaign expenses still exceeds committee assets, the Commission will certify the payment of post-election funds to which the candidate is entitled.
+
+(v) *Petitions for rehearing.* The candidate may file a petition for rehearing of a final determination under this section in accordance with 11 CFR 9007.5(a).
+
+[56 FR 35919, July 29, 1991, as amended at 60 FR 31877, June 16, 1995; 64 FR 49363, Sept. 13, 1999]

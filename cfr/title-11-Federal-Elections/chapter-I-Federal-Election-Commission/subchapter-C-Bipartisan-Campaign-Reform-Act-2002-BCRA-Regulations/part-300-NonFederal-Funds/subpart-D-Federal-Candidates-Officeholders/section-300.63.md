@@ -1,0 +1,3 @@
+##### § 300.63 Exception for State candidates (52 U.S.C. 30125(e)(2)). #####
+
+Section 300.62 shall not apply to a Federal candidate or individual holding Federal office who is a candidate for State or local office, if the solicitation, receipt or spending of funds is permitted under State law; and refers only to that State or local candidate, to any other candidate for that same State or local office, or both. If an individual is simultaneously running for both Federal and State or local office, the individual must raise, accept, and spend only Federal funds for the Federal election.

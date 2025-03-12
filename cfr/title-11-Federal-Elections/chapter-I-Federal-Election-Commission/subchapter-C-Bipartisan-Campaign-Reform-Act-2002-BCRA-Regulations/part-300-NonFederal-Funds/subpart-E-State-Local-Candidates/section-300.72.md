@@ -1,0 +1,3 @@
+##### § 300.72 Federal funds not required for certain communications (52 U.S.C. 30125(f)(2)). #####
+
+The requirements of section 11 CFR 300.71 shall not apply if the public communication is in connection with an election for State or local office, and refers to one or more candidates for State or local office or to a State or local officeholder but does not promote, support, attack, or oppose any candidate for Federal office.

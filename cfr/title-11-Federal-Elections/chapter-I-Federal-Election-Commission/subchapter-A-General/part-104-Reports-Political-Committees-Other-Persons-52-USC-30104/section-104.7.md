@@ -1,0 +1,27 @@
+##### § 104.7 Best efforts (52 U.S.C. 30102(i)). #####
+
+(a) When the treasurer of a political committee shows that best efforts have been used to obtain, maintain and submit the information required by the Act for the political committee, any report of such committee shall be considered in compliance with the Act.
+
+(b) With regard to reporting the identification as defined at 11 CFR 100.12 of each person whose contribution(s) to the political committee and its affiliated political committees aggregate in excess of $200 in a calendar year (or in an election cycle in the case of an authorized committee) (pursuant to 11 CFR 104.3(a)(4)), the treasurer and the political committee will only be deemed to have exercised best efforts to obtain, maintain and report the required information if:
+
+(1)(i) All written solicitations for contributions include a clear request for the contributor's full name, mailing address, occupation and name of employer, and include an accurate statement of Federal law regarding the collection and reporting of individual contributor identifications.
+
+(A) The following are examples of acceptable statements for unauthorized committees, but are not the only allowable statements: “Federal law requires us to use our best efforts to collect and report the name, mailing address, occupation and name of employer of individuals whose contributions exceed $200 in a calendar year;” and “To comply with Federal law, we must use best efforts to obtain, maintain, and submit the name, mailing address, occupation and name of employer of individuals whose contributions exceed $200 per calendar year.”
+
+(B) The following are examples of acceptable statements for authorized committees, but are not the only allowable statements: “Federal law requires us to use our best efforts to collect and report the name, mailing address, occupation and name of employer of individuals whose contributions exceed $200 in an election cycle;” and “To comply with Federal law, we must use best efforts to obtain, maintain, and submit the name, mailing address, occupation and name of employer of individuals whose contributions exceed $200 per election cycle.”
+
+(ii) The request and statement shall appear in a clear and conspicuous manner on any response material included in a solicitation. The request and statement are not clear and conspicuous if they are in small type in comparison to the solicitation and response materials, or if the printing is difficult to read or if the placement is easily overlooked.
+
+(2) For each contribution received aggregating in excess of $200 per calendar year (or per election cycle, in the case of an authorized committee) which lacks required contributor information, such as the contributor's full name, mailing address, occupation or name of employer, the treasurer makes at least one effort after the receipt of the contribution to obtain the missing information. Such effort shall consist of either a written request sent to the contributor or an oral request to the contributor documented in writing. The written or oral request must be made no later than thirty (30) days after receipt of the contribution. The written or oral request shall not include material on any other subject or any additional solicitation, except that it may include language solely thanking the contributor for the contribution. The request must clearly ask for the missing information, and must include the statement set forth in paragraph (b)(1) of this section. Written requests must include this statement in a clear and conspicuous manner. If the request is written, it shall be accompanied by a pre-addressed return post card or envelope for the response material;
+
+(3) The treasurer reports all contributor information not provided by the contributor, but in the political committee's possession, or in its connected organization's possession, regarding contributor identifications, including information in contributor records, fundraising records and previously filed reports, in the same two-year election cycle in accordance with 11 CFR 104.3; and
+
+(4)(i) If any of the contributor information is received after the contribution has been disclosed on a regularly scheduled report, the political committee shall either:
+
+(A) File with its next regularly scheduled report, an amended memo Schedule A listing all contributions for which contributor identifications have been received during the reporting period covered by the next regularly scheduled report together with the dates and amounts of the contribution(s) and an indication of the previous report(s) to which the memo Schedule A relates; or
+
+(B) File on or before its next regularly scheduled reporting date, amendments to the report(s) originally disclosing the contribution(s), which include the contributor identifications together with the dates and amounts of the contribution(s).
+
+(ii) Amendments must be filed for all reports that cover the two-year election cycle in which the contribution was received and that disclose itemizable contributions from the same contributor. However, political committees are not required to file amendments to reports covering previous election cycles.
+
+[45 FR 15108, Mar. 7, 1980, as amended at 58 FR 57729, Oct. 27, 1993; 62 FR 23336, Apr. 30, 1997; 65 FR 42624, July 11, 2000]

@@ -1,0 +1,3 @@
+##### § 273.1 General. #####
+
+In any fines case in which a fine is imposed under section 273 of the Act involving an alien brought to the United States after December 24, 1994, the carrier may seek a reduction, refund, or waiver of fine, as provided for by section 273(e) of the Act, in accordance with this part. The provisions of section 273(e) of the Act and of this part do not apply to any fine imposed under any provision other than section 273 (a)(1) and (b) of the Act.

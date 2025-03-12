@@ -1,0 +1,3 @@
+##### § 100.84 Office building for State, local, or district party committees or organizations. #####
+
+A donation made to a non-Federal account of a State, local, or district party committee or organization in accordance with 11 CFR 300.35 for the purchase or construction of an office building is not a contribution. A donation includes a gift, subscription, loan, advance, or deposit of money or anything of value.

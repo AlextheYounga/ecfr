@@ -1,0 +1,3 @@
+##### § 115.6 Employee contributions or expenditures. #####
+
+Nothing in this part shall prohibit the stockholders, officers, or employees of a corporation, the employees, officers, or members of an unincorporated association, cooperative, membership organization, labor organization, or other group or organization which is a Federal contractor from making contributions or expenditures from their personal assets.

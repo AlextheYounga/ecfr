@@ -1,0 +1,3 @@
+##### § 100.133 Voter registration and get-out-the-vote activities. #####
+
+Any cost incurred for activity designed to encourage individuals to register to vote or to vote is not an expenditure if no effort is or has been made to determine the party or candidate preference of individuals before encouraging them to register to vote or to vote, except that corporations and labor organizations shall engage in such activity in accordance with 11 CFR 114.4 (c) and (d). *See also* 11 CFR 114.3(c)(4).

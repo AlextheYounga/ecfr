@@ -1,0 +1,5 @@
+##### § 310.5 Judicial review. #####
+
+(a) *After 120 days following examination.* An applicant for naturalization may seek judicial review of a pending application for naturalization in those instances where the Service fails to make a determination under section 335 of the Act within 120 days after an examination is conducted under part 335 of this chapter. An applicant shall make a proper application for relief to the United States District Court having jurisdiction over the district in which the applicant resides. The court may either determine the issues brought before it on their merits, or remand the matter to the Service with appropriate instructions.
+
+(b) *After denial of an application.* After an application for naturalization is denied following a hearing before a Service officer pursuant to section 336(a) of the Act, the applicant may seek judicial review of the decision pursuant to section 310 of the Act.

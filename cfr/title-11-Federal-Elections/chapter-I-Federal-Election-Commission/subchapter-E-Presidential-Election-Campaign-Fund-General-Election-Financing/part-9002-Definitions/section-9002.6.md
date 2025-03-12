@@ -1,0 +1,3 @@
+##### § 9002.6 Major party. #####
+
+*Major party* means a political party whose candidate for the office of President in the preceding Presidential election received, as a candidate of such party, 25 percent or more of the total number of popular votes received by all candidates for such office. For the purposes of 11 CFR 9002.6, *candidate* means, with respect to any preceding Presidential election, an individual who received popular votes for the office of President in such election.

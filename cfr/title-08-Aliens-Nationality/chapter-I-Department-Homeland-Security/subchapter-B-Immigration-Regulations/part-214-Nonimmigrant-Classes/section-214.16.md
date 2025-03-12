@@ -1,0 +1,21 @@
+##### § 214.16 Transition Procedures for OPT Applications for Employment Authorization #####
+
+(a) *STEM OPT Applications for Employment Authorization that are filed prior to, and remain pending on May 10, 2016.* (1) On or after May 10, 2016, USCIS will issue Requests for Evidence (RFEs) to students whose applications for a 17-month OPT extension under the rule issued at 73 FR 18944 are still pending. The RFEs will request documentation that will establish that the student is eligible for a 24-month OPT extension under 8 CFR 214.2(f)(10)(ii)(C), including a Form I-20 endorsed on or after May 10, 2016, indicating that the Designated School Official (DSO) recommends the student for a 24-month OPT extension and that the requirements for such an extension have been met. Submission of the Form I-20 in response to an RFE issued under 8 CFR 214.16(a) will be regarded as fulfilling the requirement in 8 CFR 214.2(f)(11)(i) that a student must initiate the OPT application process by requesting a recommendation for OPT by his or her DSO.
+
+(2) Forms I-765 that are filed prior to, and remain pending on, May 10, 2016, will be regarded as being covered by 8 CFR 214.2(f)(11)(i)(C) and 8 CFR 274a.12(b)(6)(iv).
+
+(b) *STEM OPT Applications for Employment Authorization that are filed and approved before May 10, 2016.* A student whose Form I-765 is filed and approved prior to May 10, 2016 will be issued an Employment Authorization Document, Form I-766, that is valid for 17 months even if the student requested a 24-month OPT extension.
+
+(c) *Students with 17-Month STEM OPT employment authorization.* (1) Subject to paragraph (c)(3) of this section, any Employment Authorization Document, Form I-766, indicating a 17-month OPT extension under the rule issued at 73 FR 18944 that has been issued and is valid prior to May 10, 2016 remains valid until such Form I-766 expires or is terminated or revoked under 8 CFR 274a.14, and the student, the student's employer, and the student's DSO must continue to abide by all the terms and conditions that were in effect when the Form I-766 was issued.
+
+(2) Subject to the requirements in paragraphs (c)(2)(i) through (iii) of this section, F-1 students with a 17-month OPT extension under the rule issued at 73 FR 18944 are eligible to apply for an additional 7-month period of OPT. The F-1 student applying for the additional 7-month period of OPT must:
+
+(i) Properly file a Form I-765, with USCIS on or after May 10, 2016 and on or before August 8, 2016, and within 60 days of the date the DSO enters the recommendation for the 24-month OPT extension into the student's SEVIS record, with applicable fees and supporting documentation, as described in the form instructions;
+
+(ii) Have at least 150 calendar days remaining prior to the end of his or her 17-month OPT extension at the time the Form I-765, is properly filed; and
+
+(iii) Meet all the requirements for the 24-month OPT extension as described in 8 CFR 214.2(f)(10)(ii)(C), except the requirement that the student must be in a valid period of post-completion OPT authorized under 8 CFR 274a.12(c)(3)(i)(B).
+
+(3) Students on a 17-month OPT extension who apply for and are granted an additional 7-month period of OPT shall be considered to be in a period of 24-month OPT extension, as authorized under 8 CFR 214.2(f)(10)(ii)(C). Upon proper filing of the application for the additional 7-month OPT extension, the student, the student's employer as identified in the student's completed Form I-983 and the student's DSO are subject to all requirements of the 24-month OPT extension period, except for the 150-day unemployment limit described in 8 CFR 214.2(f)(10)(ii)(E), which applies to students only upon approval of the additional 7-month OPT extension. Subsequent to any denial of the application for the additional 7-month extension, the student, the student's employer, and the student's DSO must abide by all the terms and conditions that were in effect when the 17-month OPT extension was issued throughout the remaining validity period of the 17-month OPT extension.
+
+[81 FR 13121, Mar. 11, 2016]Effective Date Note:At 81 FR 13121, Mar. 11, 2016, § 214.16 was added, effective May 10, 2016 through May 10, 2019.

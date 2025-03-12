@@ -1,0 +1,3 @@
+##### § 100.76 Use of church or community room. #####
+
+No contribution results where an individual, in the course of volunteering personal services to any candidate or political committee of a political party, obtains the use of a church or community room and provides such room to any candidate for candidate-related activity or to any political committee of a political party for party-related activity, provided that the room is used on a regular basis by members of the community for noncommercial purposes and the room is available for use by members of the community without regard to political affiliation. A nominal fee paid by such individual for the use of such room is not a contribution.

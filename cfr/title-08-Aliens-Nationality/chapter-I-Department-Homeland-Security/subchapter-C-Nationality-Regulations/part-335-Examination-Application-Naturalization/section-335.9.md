@@ -1,0 +1,7 @@
+##### § 335.9 Transfer of application. #####
+
+(a) *Request for transfer of application.* An applicant who, after filing an application for naturalization, changes residence, or plans to change residence within three months, may request, in writing, that a pending application be transferred from the current USCIS office to the USCIS office having jurisdiction over the applicant's new place of residence. The request shall be submitted to the office where the application was originally filed. The request shall include the applicant's name, alien registration number, date of birth, complete current address including name of the county, complete address at the time of filing the application, reason for the request to transfer the application, and the date the applicant moved or intends to move to the new jurisdiction.
+
+(b) *Discretion to authorize transfer.* The USCIS may authorize the transfer of an application for naturalization after such application has been filed. In the event that the USCIS does not consent to the transfer of the application, the application shall be adjudicated on its merits by USCIS office retaining jurisdiction. If upon such adjudication the application is denied, the written decision pursuant to § 336.1 of this chapter shall also address the reason(s) for USCIS's decision not to consent to the transfer request.
+
+[56 FR 50498, Oct. 7, 1991, as amended at 58 FR 49914, Sept. 24, 1993; 76 FR 53801, Aug. 29, 2011; 76 FR 73477, Nov. 29, 2011]

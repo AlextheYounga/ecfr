@@ -1,0 +1,13 @@
+##### § 231.1 Electronic manifest and I-94 requirement for passengers and crew onboard arriving vessels and aircraft. #####
+
+(a) *Electronic submission of manifests.* Provisions setting forth requirements applicable to commercial carriers regarding the electronic transmission of arrival manifests covering passengers and crew members under section 231 of the Act are set forth in 19 CFR 4.7b (passengers and crew members onboard vessels) and in 19 CFR 122.49a (passengers onboard aircraft) and 122.49b (crew members onboard aircraft).
+
+(b) *Submission of Form I-94*—(1) *General requirement.* In addition to the electronic manifest transmission requirement specified in paragraph (a) of this section, and subject to the exception of paragraph (2) of this paragraph (b), the master or commanding officer, or authorized agent, owner or consignee, of each commercial vessel or aircraft arriving in the United States from any place outside the United States must present to a Customs and Border Protection (CBP) officer at the port of entry a properly completed Arrival/Departure Record, Form I-94 (see § 1.4), for each arriving passenger.
+
+(2) *Exceptions.* The Form I-94 requirement of paragraph (1) of this paragraph (b) does not apply to United States citizens, lawful permanent residents of the United States, immigrants to the United States, or passengers in transit through the United States; nor does it apply to vessels or aircraft arriving directly from Canada on a trip originating in that country or arriving in the Virgin Islands of the United States directly from a trip originating in the British Virgin Islands.
+
+(c) *Progressive clearance.* Inspection of arriving passengers may be deferred at the request of the carrier to an onward port of debarkation. However, verification of transmission of the electronic manifest referred to in paragraph (a) of this section must occur at the first port of arrival. Authorization for this progressive clearance may be granted by the Director, Field Operations, at the first port of arrival. When progressive clearance is requested, the carrier must present the Form I-92 referred to in paragraph (d) of this section in duplicate at the initial port of entry. The original Form I-92 will be processed at the initial port of entry, and the duplicate will be noted and returned to the carrier for presentation at the onward port of debarkation.
+
+(d) *Aircraft/Vessel Report.* A properly completed Aircraft/Vessel Report, Form I-92, must be completed for each arriving aircraft and vessel that is transporting passengers. Submission of the Form I-92 to the CBP officer must be accomplished on the day of arrival.
+
+[70 FR 17849, Apr. 7, 2005, as amended at 78 FR 18472, Mar. 27, 2013]

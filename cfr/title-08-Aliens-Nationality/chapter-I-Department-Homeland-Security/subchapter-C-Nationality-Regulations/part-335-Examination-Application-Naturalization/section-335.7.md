@@ -1,0 +1,5 @@
+##### § 335.7 Failure to prosecute application after initial examination. #####
+
+An applicant for naturalization who has appeared for the examination on his or her application as provided in 8 CFR 335.2 will be considered as failing to prosecute such application if he or she, without good cause being shown, either failed to excuse an absence from a subsequently required appearance, or fails to provide within a reasonable period of time such documents, information, or testimony deemed by USCIS to be necessary to establish his or her eligibility for naturalization. USCIS will deliver notice of requests for appearance or evidence as provided in 8 CFR 103.8. In the event that the applicant fails to respond within 30 days of the date of notification, USCIS will adjudicate the application on the merits pursuant to 8 CFR 336.1.
+
+[76 FR 53801, Aug. 29, 2011]

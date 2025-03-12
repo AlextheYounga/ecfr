@@ -1,0 +1,27 @@
+##### § 9008.8 Limitation of expenditures. #####
+
+(a) *National party limitations*—(1) *Major parties.* Except as provided by paragraph (a)(3) of this section, the national committee of a major party may not incur convention expenses with respect to a Presidential nominating convention which, in the aggregate, exceed the amount to which such committee is entitled under 11 CFR 9008.4 and 9008.5.
+
+(2) *Minor parties.* Except as provided by paragraph (a)(3) of this section, the national committee of a minor party may not incur convention expenses with respect to a Presidential nominating convention which, in the aggregate, exceed the amount to which the national committee of a major party is entitled under 11 CFR 9008.4 and 9008.5.
+
+(3) *Authorization to exceed limitation.* The Commission may authorize the national committee of a major party or minor party to make expenditures for convention expenses, which expenditures exceed the limitation established by paragraph (a) (1) or (2) of this section. This authorization shall be based upon a determination by the Commission that, due to extraordinary and unforeseen circumstances, the expenditures are necessary to assure the effective operation of the Presidential nominating convention by the committee. Examples of “extraordinary and unforeseen circumstances” include, but are not limited to, a natural disaster or a catastrophic occurrence at the convention site. In no case, however, will such authorization entitle a national committee to receive public funds greater than the entitlement specified under 11 CFR 9008.4 and 9008.5. All private contributions received to defray expenditures under this paragraph shall be subject to all reporting requirements, limitations (except for limitations imposed by paragraphs (a) (1) and (2) of this section) and prohibitions of the Federal Election Campaign Act (52 U.S.C. 30101 *et seq.*).
+
+(b) *Payments not subject to limit*—(1) *Host committee expenditures.* Expenditures made by the host committee shall not be considered expenditures by the national committee and shall not count against the expenditure limitations of this section provided the funds are spent in accordance with 11 CFR 9008.52.
+
+(2) *Expenditures by government agencies and municipal funds.* Expenditures made by government agencies and municipal funds shall not be considered expenditures by the national committee and shall not count against the expenditure limitations of this section if the funds are spent in accordance with the requirements of 11 CFR 9008.53.
+
+(3) *Expenditures to participate in or attend convention.* Expenditures made by presidential candidates from campaign accounts, by delegates, or by any other individual from his or her personal funds for the purpose of attending or participating in the convention or convention related activities, including, but not limited to the costs of transportation, lodging and meals, or by State or local committees of a political party on behalf of such delegates or individuals shall not be considered expenditures made by or on behalf of the national party, and shall therefore not be subject to the overall expenditure limitations of this section.
+
+(4) *Legal and accounting services.* (i) The payment of compensation to an individual by his or her regular employer for legal and accounting services rendered to or on behalf of the national committee shall not be considered an expenditure and shall not count against the expenditure limitations of this section.
+
+(ii) The payment by the national committee of compensation to any individual for legal and accounting services rendered to or on behalf of the national committee in connection with the presidential nominating convention or convention-related activities shall not be considered an expenditure and shall not count against the expenditure limitations of this section provided that:
+
+(A) The legal and accounting services relate solely to compliance with the Federal Election Campaign Act (52 U.S.C. 30101, *et seq.*) and the Presidential Election Campaign Fund Act (26 U.S.C. Chapter 95); and
+
+(B) The contributions raised to pay for the legal and accounting services comply with the limitations and prohibitions of 11 CFR parts 110, 114 and 115. These contributions, when aggregated with other contributions from the same contributor to the political committees established and maintained by the national political party, shall not exceed the amounts permitted under 11 CFR 110.1(c) and 110.2(c), as applicable.
+
+(iii) The convention committee shall report contributions received to pay for legal and accounting services on a separate Schedule A, and shall report payments for legal and accounting services on a separate Schedule B, attached to its reports.
+
+(5) *Computerized information.* Payments to defray the costs of producing, delivering and explaining the computerized information and materials provided pursuant to 11 CFR 9008.10(h), and explaining the operation of the computer system's software, shall not be considered expenditures and shall not count against the expenditure limitations of this section, provided that the contributions raised to pay these expenses comply with the limitations and prohibitions of 11 CFR parts 110, 114 and 115.
+
+[59 FR 33616, June 29, 1994, as amended at 68 FR 47416, Aug. 8, 2003; 79 FR 77851, Dec. 29, 2014]

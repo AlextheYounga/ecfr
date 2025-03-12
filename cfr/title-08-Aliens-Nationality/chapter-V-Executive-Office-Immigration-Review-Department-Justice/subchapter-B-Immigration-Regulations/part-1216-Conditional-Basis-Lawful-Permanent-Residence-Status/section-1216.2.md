@@ -1,0 +1,9 @@
+##### § 1216.2 Notification requirements. #####
+
+(a) *When alien acquires status of conditional permanent resident.* At the time an alien acquires conditional permanent residence through admission to the United States with an immigrant visa or adjustment of status under section 245 of the Act, the Service shall notify the alien of the conditional basis of the alien's status, of the requirement that the alien apply for removal of the conditions within the ninety days immediately preceding the second anniversary of the alien's having been granted such status, and that failure to apply for removal of the conditions will result in automatic termination of the alien's lawful status in the United States.
+
+(b) *When alien is required to apply for removal of the conditional basis of lawful permanent resident status.* Approximately 90 days before the second anniversary of the date on which the alien obtained conditional permanent residence, the Service should notify the alien a second time of the requirement that the alien and the petitioning spouse or alien entrepreneur must file a petition to remove the conditional basis of the alien's lawful permanent residence. Such notification shall be mailed to the alien's last known address.
+
+(c) *Effect of failure to provide notification.* Failure of the Service to provide notification as required by either paragraph (a) or (b) of this section does not relieve the alien and the petitioning spouse, or alien entrepreneur of the requirement to file a petition to remove conditions within the 90 days immediately preceding the second anniversary of the date on which the alien obtained permanent residence.
+
+[53 FR 30018, Aug. 10, 1988, as amended at 59 FR 26590, May 23, 1994]

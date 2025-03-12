@@ -1,0 +1,5 @@
+##### § 280.15 Notice of final decision to district director of customs. #####
+
+At such time as the decision under this part is final, the regional administrative officer shall be furnished a copy of the decision by the district director of immigration and naturalization or the Associate Commissioner for Examinations, or the Director for the National Fines Office. The regional administrative officer shall notify the district director of customs who was furnished a copy of the Notice of Intention to Fine of the final decision made in the case. Such notification need not be made if the regional administrative officer has been previously furnished with a notice of collection of the amount of the penalty by the district director of customs.
+
+[32 FR 17651, Dec. 12, 1967, as amended at 54 FR 18649, May 2, 1989]

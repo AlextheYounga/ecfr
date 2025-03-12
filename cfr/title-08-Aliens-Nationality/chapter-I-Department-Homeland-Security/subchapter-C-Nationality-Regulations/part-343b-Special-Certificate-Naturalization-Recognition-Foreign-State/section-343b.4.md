@@ -1,0 +1,5 @@
+##### § 343b.4 Applicant outside of United States. #####
+
+If the application is received by a DHS office outside the United States, an officer will, when practicable, interview the applicant before the application is forwarded to USCIS for issuance of the certificate. When an interview is not practicable, or is not conducted because the application is submitted directly to USCIS in the United States, the certificate may nevertheless be issued and the recommendation conditioned upon satisfactory interview by the Department of State. When forwarding the certificate in such a case, USCIS will inform the Secretary of State that the applicant has not been interviewed, and request to have the applicant interviewed regarding identity and possible expatriation. If identity is not established or if expatriation has occurred, the Department of State will return the certificate to USCIS for disposition.
+
+[76 FR 53805, Aug. 29, 2011]

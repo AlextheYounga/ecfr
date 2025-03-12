@@ -1,0 +1,3 @@
+##### § 300.70 Scope (52 U.S.C. 30125(f)(1)). #####
+
+This subpart applies to any candidate for State or local office, individual holding State or local office, or an agent acting on behalf of any such candidate or individual. For example, this subpart applies to an individual holding Federal office who is a candidate for State or local office. This subpart does not apply to an association or similar group of candidates for State or local office or of individuals holding State or local office.

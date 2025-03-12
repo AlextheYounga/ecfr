@@ -1,0 +1,5 @@
+##### § 349.1 Japanese renunciation of nationality. #####
+
+A Japanese who renounced United States nationality pursuant to the provisions of section 401(i), Nationality Act of 1940, who claims that his renunciation is void, shall complete Form N-576, Supplemental Affidavit to be Submitted with Applications of Japanese Renunciants. The affidavit shall be submitted to the Assistant Attorney General, Civil Division, Department of Justice, Washington, DC 20530, with a covering letter requesting a determination of the validity of the renunciation.
+
+[32 FR 9636, July 4, 1967]

@@ -1,0 +1,3 @@
+##### § 1246.6 Decision and order. #####
+
+The decision of the immigration judge may be oral or written. The formal enumeration of findings is not required. The order shall direct either that the proceeding be terminated or that the adjustment of status be rescinded. Service of the decision and finality of the order of the immigration judge shall be in accordance with, and as stated in §§ 1240.13 (a) and (b) and 1240.14 of this chapter.

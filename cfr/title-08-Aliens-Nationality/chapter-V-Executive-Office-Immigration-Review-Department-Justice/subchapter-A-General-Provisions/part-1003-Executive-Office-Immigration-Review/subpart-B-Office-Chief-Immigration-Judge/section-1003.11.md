@@ -1,0 +1,3 @@
+##### § 1003.11 Administrative control Immigration Courts. #####
+
+An administrative control Immigration Court is one that creates and maintains Records of Proceedings for Immigration Courts within an assigned geographical area. All documents and correspondence pertaining to a Record of Proceeding shall be filed with the Immigration Court having administrative control over that Record of Proceeding and shall not be filed with any other Immigration Court. A list of the administrative control Immigration Courts with their assigned geographical areas will be made available to the public at any Immigration Court.

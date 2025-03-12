@@ -1,0 +1,13 @@
+##### § 300.34 Transfers. #####
+
+(a) *Federal funds.* (1) Notwithstanding 11 CFR 102.6(a)(1)(ii), a State, district, or local committee of a political party must not use any Federal funds transferred to it from, or otherwise accepted by it from, any of the persons enumerated in paragraphs (b)(1) and (b)(2) of this section as the Federal component of an expenditure or disbursement for Federal election activity under 11 CFR 300.32. A State, district, or local committee of a political party must itself raise the Federal component of an expenditure or disbursement allocated between Federal funds and Levin funds under 11 CFR 300.32 and 300.33.
+
+(2) A State, district, or local committee of a political party that makes an expenditure or disbursement of Federal funds for Federal election activities must demonstrate through a reasonable accounting method approved by the Commission (including any method embedded in software provided or approved by the Commission) that the Federal funds used to make the expenditure or disbursement do not include Federal funds transferred to the committee in violation of this section. Alternatively, a State, district, or local committee of a political party may establish a separate Federal account into which the committee deposits only Federal funds raised by the committee itself, and from which all expenditures or disbursement of Federal funds for Federal election activities are made.
+
+(b) *Levin funds.* Levin funds must be raised solely by the State, district, or local committee of a political party that expends or disburses the funds. A State, district, or local committee of a political party must not use as Levin funds any funds transferred or otherwise provided to the committee by:
+
+(1) Any other State, district, or local committee of any political party, any officer or agent acting on behalf of such a committee, or any entity directly or indirectly established, financed, maintained or controlled by such a committee; or,
+
+(2) The national committee of any political party (including a national congressional campaign committee of a political party), any officer or agent acting on behalf of such a committee, or any entity directly or indirectly established, financed, maintained, or controlled by such a committee.
+
+(c) *Allocation transfers.* Transfers of Levin funds between the accounts of a State, district, or local committee of a political party for allocation purposes must comply with 11 CFR 300.30 and 11 CFR 300.33.

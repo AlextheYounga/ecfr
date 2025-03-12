@@ -1,0 +1,59 @@
+##### § 238.1 Proceedings under section 238(b) of the Act. #####
+
+(a) *Definitions.* As used in this part the term:
+
+*Deciding Service officer* means a district director, chief patrol agent, or another immigration officer designated by a district director, chief patrol agent, the Deputy Executive Associate Commissioner for Detention and Removal, or the Director of the Office of Juvenile Affairs, so long as that person is not the same person as the Issuing Service Officer.
+
+*Issuing Service officer* means any Service officer listed in § 239.1 of this chapter as authorized to issue notices to appear.
+
+(b) *Preliminary consideration and Notice of Intent to Issue a Final Administrative Deportation Order; commencement of proceedings*—(1) *Basis of Service charge.* An issuing Service officer shall cause to be served upon an alien a Form I-851, Notice of Intent to Issue a Final Administrative Deportation Order (Notice of Intent), if the officer is satisfied that there is sufficient evidence, based upon questioning of the alien by an immigration officer and upon any other evidence obtained, to support a finding that the individual:
+
+(i) Is an alien;
+
+(ii) Has not been lawfully admitted for permanent residence, or has conditional permanent resident status under section 216 of the Act;
+
+(iii) Has been convicted (as defined in section 101(a)(48) of the Act and as demonstrated by any of the documents or records listed in § 1003.41 of this chapter) of an aggravated felony and such conviction has become final; and
+
+(iv) Is deportable under section 237(a)(2)(A)(iii) of the Act, including an alien who has neither been admitted nor paroled, but who is conclusively presumed deportable under section 237(a)(2)(A)(iii) by operation of section 238(c) of the Act (“Presumption of Deportability”).
+
+(2) *Notice.* (i) Removal proceedings under section 238(b) of the Act shall commence upon personal service of the Notice of Intent upon the alien, as prescribed by8 CFR 103.8. The Notice of Intent shall set forth the preliminary determinations and inform the alien of the Service's intent to issue a Form I-851A, Final Administrative Removal Order, without a hearing before an immigration judge. The Notice of Intent shall constitute the charging document. The Notice of Intent shall include allegations of fact and conclusions of law. It shall advise that the alien: has the privilege of being represented, at no expense to the government, by counsel of the alien's choosing, as long as counsel is authorized to practice in removal proceedings; may request withholding of removal to a particular country if he or she fears persecution or torture in that country; may inspect the evidence supporting the Notice of Intent; may rebut the charges within 10 calendar days after service of such Notice (or 13 calendar days if service of the Notice was by mail).
+
+(ii) The Notice of Intent also shall advise the alien that he or she may designate in writing, within the rebuttal period, the country to which he or she chooses to be deported in accordance with section 241 of the Act, in the event that a Final Administrative Removal Order is issued, and that the Service will honor such designation only to the extent permitted under the terms, limitations, and conditions of section 241 of the Act.
+
+(iii) The Service must determine that the person served with the Notice of Intent is the person named on the notice.
+
+(iv) The Service shall provide the alien with a list of available free legal services programs qualified under 8 CFR part 3 and organizations recognized pursuant to 8 CFR part 292, located within the district or sector where the Notice of Intent is issued.
+
+(v) The Service must either provide the alien with a written translation of the Notice of Intent or explain the contents of the Notice of Intent to the alien in the alien's native language or in a language that the alien understands.
+
+(c) *Alien's response*—(1) *Time for response.* The alien will have 10 calendar days from service of the Notice of Intent or 13 calendar days if service is by mail, to file a response to the Notice of Intent. In the response, the alien may: designate his or her choice of country for removal; submit a written response rebutting the allegations supporting the charge and/or requesting the opportunity to review the Government's evidence; and/or submit a statement indicating an intention to request withholding of removal under 8 CFR 208.16 of this chapter, and/or request in writing an extension of time for response, stating the specific reasons why such an extension is necessary.
+
+(2) *Nature of rebuttal or request to review evidence.* (i) If an alien chooses to rebut the allegations contained in the Notice of Intent, the alien's written response must indicate which finding(s) are being challenged and should be accompanied by affidavit(s), documentary information, or other specific evidence supporting the challenge.
+
+(ii) If an alien's written response requests the opportunity to review the Government's evidence, the Service shall serve the alien with a copy of the evidence in the record of proceeding upon which the Service is relying to support the charge. The alien may, within 10 calendar days following service of the Government's evidence (13 calendar days if service is by mail), furnish a final response in accordance with paragraph (c)(1) of this section. If the alien's final response is a rebuttal of the allegations, such a final response should be accompanied by affidavit(s), documentary information, or other specific evidence supporting the challenge.
+
+(d) *Determination by deciding Service officer*—(1) *No response submitted or concession of deportability.* If the deciding Service officer does not receive a timely response and the evidence in the record of proceeding establishes deportability by clear, convincing, and unequivocal evidence, or if the alien concedes deportability, then the deciding Service officer shall issue and cause to be served upon the alien a Final Administrative Removal Order that states the reasons for the deportation decision. The alien may, in writing, waive the 14-day waiting period before execution of the final order of removal provided in a paragraph (f) of this section.
+
+(2) *Response submitted*—(i) *Insufficient rebuttal; no genuine issue of material fact.* If the alien timely submits a rebuttal to the allegations, but the deciding Service officer finds that deportability is established by clear, convincing, and unequivocal evidence in the record of proceeding, the deciding Service officer shall issue and cause to be served upon the alien a Final Administrative Removal Order that states the reasons for the decision of deportability.
+
+(ii) *Additional evidence required.* (A) If the deciding Service officer finds that the record of proceeding, including the alien's timely rebuttal, raises a genuine issue of material fact regarding the preliminary findings, the deciding Service officer may either obtain additional evidence from any source, including the alien, or cause to be issued a notice to appear to initiate removal proceedings under section 240 of the Act. The deciding Service officer may also obtain additional evidence from any source, including the alien, if the deciding Service officer deems that such additional evidence may aid the officer in the rendering of a decision.
+
+(B) If the deciding Service officer considers additional evidence from a source other than the alien, that evidence shall be made a part of the record of proceeding, and shall be provided to the alien. If the alien elects to submit a response to such additional evidence, such response must be filed with the Service within 10 calendar days of service of the additional evidence (or 13 calendar days if service is by mail). If the deciding Service officer finds, after considering all additional evidence, that deportability is established by clear, convincing, and unequivocal evidence in the record of proceeding, the deciding Service officer shall issue and cause to be served upon the alien a Final Administrative Removal Order that states the reasons for the decision of deportability.
+
+(iii) *Conversion to proceedings under section 240 of the Act.* If the deciding Service officer finds that the alien is not amenable to removal under section 238 of the Act, the deciding Service officer shall terminate the expedited proceedings under section 238 of the Act and shall, where appropriate, cause to be issued a notice to appear for the purpose of initiating removal proceedings before an immigration judge under section 240 of the Act.
+
+(3) *Termination of proceedings by deciding Service officer.* Only the deciding Service officer may terminate proceedings under section 238 of the Act, in accordance with this section.
+
+(e) *Proceedings commenced under section 240 of the Act.* In any proceeding commenced under section 240 of the Act which is based on deportability under section 237 of the Act, if it appears that the respondent alien is subject to removal pursuant to section 238 of the Act, the immigration judge may, upon the Service's request, terminate the case and, upon such termination, the Service may commence administrative proceedings under section 238 of the Act. However, in the absence of any such request, the immigration judge shall complete the proceeding commenced under section 240 of the Act.
+
+(f) *Executing final removal order of deciding Service officer*—(1) *Time of execution.* Upon the issuance of a Final Administrative Removal Order, the Service shall issue a Warrant of Removal in accordance with § 241.2 of this chapter; such warrant shall be executed no sooner than 14 calendar days after the date the Final Administrative Removal Order is issued, unless the alien knowingly, voluntarily, and in writing waives the 14-day period.
+
+(2) *Country to which alien is to be removed.* The deciding Service officer shall designate the country of removal in the manner prescribed by section 241 of the Act.
+
+(3) *Withholding of removal.* If the alien has requested withholding of removal under § 208.16 of this chapter, the deciding officer shall, upon issuance of a Final Administrative Removal Order, immediately refer the alien's case to an asylum officer to conduct a reasonable fear determination in accordance with § 208.31 of this chapter.
+
+(g) *Arrest and detention.* At the time of issuance of a Notice of Intent or at any time thereafter and up to the time the alien becomes the subject of a Warrant of Removal, the alien may be arrested and taken into custody under the authority of a Warrant of Arrest issued by an officer listed in § 287.5(e)(2) of this chapter. The decision of the Service concerning custody or bond shall not be administratively appealable during proceedings initiated under section 238 of the Act and this part.
+
+(h) *Record of proceeding.* The Service shall maintain a record of proceeding for judicial review of the Final Administrative Removal Order sought by any petition for review. The record of proceeding shall include, but not necessarily be limited to: the charging document (Notice of Intent); the Final Administrative Removal Order (including any supplemental memorandum of decision); the alien's response, if any; all evidence in support of the charge; and any admissible evidence, briefs, or documents submitted by either party respecting deportability. The executed duplicate of the Notice of Intent in the record of proceedings shall be retained as evidence that the individual upon whom the notice for the proceeding was served was, in fact, the alien named in the notice.
+
+[62 FR 10365, Mar. 6, 1997, as amended at 64 FR 8494, Feb. 19, 1999; 67 FR 39258, June 7, 2002; 76 FR 53791, Aug. 29, 2011; 81 FR 62355, Sept. 9, 2016]

@@ -1,0 +1,23 @@
+##### § 235.8 Inadmissibility on security and related grounds. #####
+
+(a) *Report.* When an immigration officer or an immigration judge suspects that an arriving alien appears to be inadmissible under section 212(a)(3)(A) (other than clause (ii)), (B), or (C) of the Act, the immigration officer or immigration judge shall order the alien removed and report the action promptly to the district director who has administrative jurisdiction over the place where the alien has arrived or where the hearing is being held. The immigration officer shall, if possible, take a brief sworn question-and-answer statement from the alien, and the alien shall be notified by personal service of Form I-147, Notice of Temporary Inadmissibility, of the action taken and the right to submit a written statement and additional information for consideration by the Attorney General. The district director shall forward the report to the regional director for further action as provided in paragraph (b) of this section.
+
+(b) *Action by regional director.* (1) In accordance with section 235(c)(2)(B) of the Act, the regional director may deny any further inquiry or hearing by an immigration judge and order the alien removed by personal service of Form I-148, Notice of Permanent Inadmissibility, or issue any other order disposing of the case that the regional director considers appropriate.
+
+(2) If the regional director concludes that the case does not meet the criteria contained in section 235(c)(2)(B) of the Act, the regional director may direct that:
+
+(i) An immigration officer shall conduct a further examination of the alien, concerning the alien's admissibility; or,
+
+(ii) The alien's case be referred to an immigration judge for a hearing, or for the continuation of any prior hearing.
+
+(3) The regional director's decision shall be in writing and shall be signed by the regional director. Unless the written decision contains confidential information, the disclosure of which would be prejudicial to the public interest, safety, or security of the United States, the written decision shall be served on the alien. If the written decision contains such confidential information, the alien shall be served with a separate written order showing the disposition of the case, but with the confidential information deleted.
+
+(4) The Service shall not execute a removal order under this section under circumstances that violate section 241(b)(3) of the Act or Article 3 of the Convention Against Torture. The provisions of part 208 of this chapter relating to consideration or review by an immigration judge, the Board of Immigration Appeals, or an asylum officer shall not apply.
+
+(c) *Finality of decision.* The regional director's decision under this section is final when it is served upon the alien in accordance with paragraph (b)(3) of this section. There is no administrative appeal from the regional director's decision.
+
+(d) *Hearing by immigration judge.* If the regional director directs that an alien subject to removal under this section be given a hearing or further hearing before an immigration judge, the hearing and all further proceedings in the matter shall be conducted in accordance with the provisions of section 240 of the Act and other applicable sections of the Act to the same extent as though the alien had been referred to an immigration judge by the examining immigration officer. In a case where the immigration judge ordered the alien removed pursuant to paragraph (a) of this section, the Service shall refer the case back to the immigration judge and proceedings shall be automatically reopened upon receipt of the notice of referral. If confidential information, not previously considered in the matter, is presented supporting the inadmissibility of the alien under section 212(a)(3)(A) (other than clause (ii)), (B) or (C) of the Act, the disclosure of which, in the discretion of the immigration judge, may be prejudicial to the public interest, safety, or security, the immigration judge may again order the alien removed under the authority of section 235(c) of the Act and further action shall be taken as provided in this section.
+
+(e) *Nonapplicability.* The provisions of this section shall apply only to arriving aliens, as defined in 8 CFR 1.2. Aliens present in the United States who have not been admitted or paroled may be subject to proceedings under Title V of the Act.
+
+[62 FR 10358, Mar. 6, 1997, as amended at 64 FR 8494, Feb. 19, 1999; 76 FR 53790, Aug. 29, 2011]

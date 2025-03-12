@@ -1,0 +1,9 @@
+##### § 9409.13 Procedures when the General Counsel directs an employee not to testify or provide documents. #####
+
+(a) If the General Counsel determines that an employee or former employee should not comply with a subpoena or other request for testimony or the production of documents, the General Counsel will so inform the employee and the party who submitted the subpoena or made the request.
+
+(b) If, despite the determination of the General Counsel that testimony should not be given and/or documents not be produced, a court of competent jurisdiction or other appropriate authority orders the employee or former employee to testify and/or produce documents; the employee shall notify the General Counsel of such order.
+
+(1) If the General Counsel determines that no further legal review of, or challenge to, the order will be sought, the employee or former employee shall comply with the order.
+
+(2) If the General Counsel determines to challenge the order, or that further legal review is necessary, the employee or former employee should not comply with the order. Where necessary, the employee should appear at the time and place set forth in the subpoena. If legal counsel cannot appear on behalf of the employee, the employee should produce a copy of this part and respectfully inform the legal tribunal that he/she has been advised by counsel not to provide the requested testimony and/or produce documents. If the legal tribunal rules that the subpoena must be complied with, the employee shall respectfully decline to comply, citing this section and *United States ex rel. Touhy* v. *Ragen,* 340 U.S. 462 (1951).

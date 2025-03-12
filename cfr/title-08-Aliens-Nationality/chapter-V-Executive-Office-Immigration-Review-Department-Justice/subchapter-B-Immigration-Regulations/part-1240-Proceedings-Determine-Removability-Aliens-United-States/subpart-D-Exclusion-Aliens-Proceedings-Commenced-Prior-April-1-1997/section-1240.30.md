@@ -1,0 +1,3 @@
+##### § 1240.30 Proceedings prior to April 1, 1997. #####
+
+Subpart D of 8 CFR part 240 applies to exclusion proceedings commenced prior to April 1, 1997, pursuant to the former section 236 of the Act. An exclusion proceeding is commenced by the filing of Form I-122 with the Immigration Court, and an alien is considered to be in exclusion proceedings only upon such filing. All references to the Act contained in this subpart are references to the Act in effect prior to April 1, 1997.

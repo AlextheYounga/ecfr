@@ -1,0 +1,11 @@
+##### § 9405.10 Fees to be charged—categories of requesters. #####
+
+There are four categories of FOIA requesters: Commercial use requesters; educational and non-commercial scientific institutions; representatives of the news media; and all other requesters.
+
+(a) *Commercial use requesters.* When the Commission receives a request for documents for commercial use, it will assess charges that recover the full direct costs of searching for, reviewing for release, and duplicating the record sought. Commercial use requesters are neither entitled to two hours of free search time nor 100 free pages of duplication. The Commission may recover the cost of searching for and reviewing records even if there is ultimately no disclosure of records (see § 9405.11(b)).
+
+(b) *Educational and non-commercial scientific institution requesters.* The Commission shall provide documents to requesters in this category for the cost of reproduction alone, excluding charges for the first 100 pages. To be eligible for inclusion in this category, requesters must show that the record is being made as authorized by and under the auspices of a qualifying institution and that the records are not sought for a commercial use but are sought in the furtherance of scholarly (if the request is from an educational institution) or scientific (if the request is from a non-commercial scientific institution) research.
+
+(c) *Representatives of the news media.* The Commission shall provide documents to requesters in this category for the cost of reproduction alone, excluding charges for the first 100 pages. To be eligible for inclusion in this category, the requester must fit the definition of a representative of the news media as stated in § 9405.2, and the request must not be made for commercial use. For purposes of this paragraph, a request for records supporting the news dissemination function of the requester shall not be considered to be a request that is for commercial use.
+
+(d) *All other requesters.* The Commission shall charge requesters who do not fit into any of the categories above fees that recover the full reasonable direct cost of searching for and reproducing records that are responsive to the request, except that the first 100 pages of reproduction and the first two hours of search time shall be furnished without charge.

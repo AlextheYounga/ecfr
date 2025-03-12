@@ -1,0 +1,5 @@
+##### § 286.6 Maintenance of records. #####
+
+Each collector and remitter shall maintain records necessary for the Service to verify the accuracy of fees collected and remitted and to otherwise determine compliance with the applicable statutes and regulations. Such records shall be maintained for a period of two years from the date of fee collection. Each remitter shall advise the Assistant Commissioner, Office of Financial Management of the name, address, and telephone number of a responsible officer who shall have the authority to verify and produce any records required to be maintained under this part. The Assistant Commissioner, Office of Financial Management shall be promptly notified of any changes of the responsible officer.
+
+[53 FR 5757, Feb. 26, 1988, as amended at 59 FR 49349, Sept. 28, 1994; 63 FR 51272, Sept. 25, 1998]

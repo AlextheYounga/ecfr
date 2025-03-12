@@ -1,0 +1,3 @@
+##### § 9008.54 Examinations and audits. #####
+
+The Commission shall conduct an examination and audit of each host committee registered under 11 CFR 9008.51. The Commission will follow the same procedures during the audit, and will afford the committee the same right to respond, as are provided for audits of publicly funded candidates under 11 CFR 9007.1 and 9038.1, except that the Commission will not make any repayment calculations under this section.

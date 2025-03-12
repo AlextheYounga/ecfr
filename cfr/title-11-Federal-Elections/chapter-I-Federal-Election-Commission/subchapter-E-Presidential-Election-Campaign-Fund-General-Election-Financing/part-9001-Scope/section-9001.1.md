@@ -1,0 +1,5 @@
+##### § 9001.1 Scope. #####
+
+This subchapter governs entitlement to and use of funds certified from the Presidential Election Campaign Fund under 26 U.S.C. 9001 *et seq.* The definitions, restrictions, liabilities and obligations imposed by this subchapter are in addition to those imposed by sections 30101-30145 of Title 52, United States Code, and regulations prescribed thereunder (11 CFR parts 100 through 300). Unless expressly stated to the contrary, this subchapter does not alter the effect of any definitions, restrictions, obligations and liabilities imposed by sections 30101-30145 of Title 52, United States Code, or regulations prescribed thereunder (11 CFR parts 100 through 300).
+
+[56 FR 35911, July 29, 1991, as amended at 68 FR 47414, Aug. 8, 2003; 73 FR 79602, Dec. 30, 2008; 79 FR 77850, Dec. 29, 2014]

@@ -1,0 +1,5 @@
+##### § 211.3 Expiration of immigrant visa or other travel document. #####
+
+An immigrant visa, reentry permit, refugee travel document, or a permanent resident card shall be regarded as unexpired if the rightful holder embarked or enplaned before the expiration of his or her immigrant visa, reentry permit, or refugee travel document, or with respect to a permanent resident card, before the first anniversary of the date on which he or she departed from the United States, provided that the vessel or aircraft on which he or she so embarked or enplaned arrives in the United States or foreign contiguous territory on a continuous voyage. The continuity of the voyage shall not be deemed to have been interrupted by scheduled or emergency stops of the vessel or aircraft en route to the United States or foreign contiguous territory, or by a layover in foreign contiguous territory necessitated solely for the purpose of effecting a transportation connection to the United States.
+
+[62 FR 10346, Mar. 6, 1997, as amended at 76 FR 53786, Aug. 29, 2011]

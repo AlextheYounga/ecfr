@@ -1,0 +1,3 @@
+##### § 103.2 Depositories (52 U.S.C. 30102(h)(1)). #####
+
+Each political committee shall designate one or more State banks, federally chartered depository institutions (including a national bank), or depository institutions the depositor accounts of which are insured by the Federal Deposit Insurance Corporation, Federal Savings and Loan Insurance Corporation, or the National Credit Union Administration, as its campaign depository or depositories. One or more depositories may be established in one or more States. Each political committee shall maintain at least one checking account or transaction account at one of its depositories. Additional accounts may be established at each depository.

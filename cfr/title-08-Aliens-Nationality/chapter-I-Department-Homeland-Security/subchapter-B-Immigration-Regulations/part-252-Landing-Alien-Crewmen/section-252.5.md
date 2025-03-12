@@ -1,0 +1,21 @@
+##### § 252.5 Special procedures for deserters from Spanish or Greek ships of war. #####
+
+(a) *General.* Under E.O. 11267 of January 19, 1966 (31 FR 807) and 28 CFR 0.109, and E.O. 11300 of August 17, 1966, (31 FR 11009), and 28 CFR 0.110, the Commissioner and immigration officers (as defined in § 103.1(j) of this chapter) are designated as “competent national authorities” on the part of the United States within the meaning of Article XXIV of the 1903 Treaty of Friendship and General Relations between the United States and Spain (33 Stat. 2105, 2117), and “local authorities” and “competent officers” on the part of the United States within the meaning of Article XIII of the Convention between the United States and Greece (33 Stat. 2122, 2131).
+
+(b) *Application for restoration.* On application of a Consul General, Consul, Vice-Consul, or Consular-Agent of the Spanish or Greek Government, made in writing pursuant to Article XXIV of the treaty, or Article XIII of the Convention, respectively, stipulating for the restoration of crewmen deserting, stating that the person named therein has deserted from a ship of war of that government, while in any port of the United States, and on proof by the exhibition of the register, crew list, or official documents of the vessel, or a copy or extract therefrom, duly certified, that the person named belonged, at the time of desertion, to the crew of such vessel, such person shall be taken into custody by any immigration officer without a warrant of arrest. Written notification of charges shall be served on the alien when he or she is taken into custody or as soon as practical thereafter.
+
+(c) *Examination.* Within a reasonable period of time after the arrest, the alien shall be accorded an examination by the district director, acting district director, or the deputy district director having jurisdiction over the place of arrest. The alien shall be informed that he or she may have the assistance of or be represented by a counsel or representative of his or her choice qualified under 8 CFR part 292 without expense to the Government, and that he or she may present such evidence in his or her behalf as may be relevant to this proceeding. If, upon the completion of such examination, it is determined that:
+
+(1) The individual sought by the Spanish or Greek authorities had deserted from a Spanish or Greek ship of war in a United States port;
+
+(2) The individual actually arrested and detained is the person sought;
+
+(3) The individual is not a citizen of the United States; and
+
+(4) The individual had not previously been arrested for the same cause and set at liberty because he or she had been detained for more than 3 months, or more than 2 months in the case of a deserter from a Greek ship of war, from the day of his or her arrest without the Spanish or Greek authorities having found an opportunity to send him or her home, the individual shall be served with a copy of the findings, from which no appeal shall lie, and be surrendered forthwith to the Spanish or Greek authorities if they are prepared to remove him or her from the United States. On written request of the Spanish or Greek authorities, the individual shall be detained, at their expense, for a period not exceeding 3 months or 2 months, respectively, from the day of arrest to afford opportunity to arrange for his or her departure from the United States.
+
+(d) *Timely departure not effected.* If the Spanish authorities delay in sending the individual home for more than 3 months, or if the Greek authorities delay in sending the individual home for more than 2 months, from the day of his or her arrest, the individual shall be dealt with as any other alien unlawfully in the United States under the removal provisions of the Act, as amended.
+
+(e) *Commission of crime.* If the individual has committed any crime or offense in the United States, he or she shall not be placed at the disposal of the consul until after the proper tribunal having jurisdiction in his or her case shall have pronounced sentence, and such sentence shall have been executed.
+
+[62 FR 10388, Mar. 6, 1997]

@@ -1,0 +1,3 @@
+##### § 9405.6 Discretionary release of exempt records. #####
+
+The Commission may, in its discretion, release requested records despite the applicability of the exemptions in § 9405.5, if it determines that it is in the public interest and that the rights of third parties would not be prejudiced. The Executive Director will have the authority to determine that requested records may be released despite otherwise applicable exemptions.

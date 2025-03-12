@@ -1,0 +1,3 @@
+##### § 100.78 Sale of food or beverages by vendor. #####
+
+The sale of any food or beverage by a vendor (whether incorporated or not) for use in a candidate's campaign, or for use by a political committee of a political party, at a charge less than the normal or comparable commercial rate, is not a contribution, provided that the charge is at least equal to the cost of such food or beverage to the vendor, to the extent that: The aggregate value of such discount given by the vendor on behalf of any single candidate does not exceed $1,000 with respect to any single election; and on behalf of all political committees of each political party does not exceed $2,000 in a calendar year.

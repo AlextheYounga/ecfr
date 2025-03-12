@@ -1,0 +1,9 @@
+##### § 102.3 Termination of registration (52 U.S.C. 30103(d)(1)). #####
+
+(a)(1) A political committee (other than a principal campaign committee) may terminate only upon filing a termination report on the appropriate FEC Form or upon filing a written statement containing the same information at the place of filing specified at 11 CFR part 105. Except as provided in 11 CFR 102.4(c), only a committee which will no longer receive any contributions or make any disbursements that would otherwise qualify it as a political committee may terminate, provided that such committee has no outstanding debts and obligations. In addition to the Notice, the committee shall also provide a final report of receipts and disbursements, which report shall include a statement as to the purpose for which such residual funds will be used, including a statement as to whether such residual funds will be used to defray expenses incurred in connection with an individual's duties as a holder of federal office.
+
+(2) An authorized committee of a qualified Member, as defined at 11 CFR 113.1(f), shall comply with the requirements of 11 CFR 113.2 before any excess funds are converted to such Member's personal use. All other authorized committees shall include in their termination reports a statement signed by the treasurer, stating that no noncash committee assets will be converted to personal use.
+
+(b) Except as provided at 11 CFR 102.4, a principal campaign committee may not terminate until it has met the requirements of 11 CFR 102.3(a) and until all debts of any other authorized committee(s) of the candidate have been extinguished.
+
+[45 FR 15104, Mar. 7, 1980, as amended at 45 FR 21209, Apr. 1, 1980; 56 FR 34126, July 25, 1991]

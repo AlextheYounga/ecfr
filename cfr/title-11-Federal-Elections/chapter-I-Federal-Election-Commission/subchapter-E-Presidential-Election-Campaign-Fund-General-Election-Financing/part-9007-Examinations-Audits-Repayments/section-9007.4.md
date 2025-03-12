@@ -1,0 +1,3 @@
+##### § 9007.4 Additional audits. #####
+
+In accordance with 11 CFR 104.16(c), the Commission, pursuant to 11 CFR 111.10, may upon affirmative vote of four members conduct an audit and field investigation of any committee in any case in which the Commission finds reason to believe that a violation of a statute or regulation over which the Commission has jurisdiction has occurred or is about to occur.

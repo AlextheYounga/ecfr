@@ -1,0 +1,5 @@
+##### § 273.4 Demonstration by carrier that screening requirements were met. #####
+
+(a) To be eligible to apply for reduction, refund, or waiver of a fine, the carrier shall provide evidence that it screened all passengers on the conveyance for the instant flight or voyage in accordance with the procedures listed in § 273.3.
+
+(b) The Service may, at any time, conduct an inspection of a carrier's document screening procedures at ports of embarkation to determine compliance with the procedures listed in § 273.3, to the extent permitted by the local competent authority responsible for port access or security. If necessary, the carrier shall use its good offices to obtain this permission from the local authority. If the carrier's port of embarkation operation is found not to be in compliance, the carrier will be notified by the Service that it will not be eligible for refund, reduction, or waiver of fines under section 273(e) of the Act unless the carrier can establish that lack of compliance was beyond the carrier's control.

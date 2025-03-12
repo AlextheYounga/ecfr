@@ -1,0 +1,3 @@
+##### § 9409.12 Procedure when a decision is not made prior to the time a response is required. #####
+
+If a response to a demand or request is required before the General Counsel's decision is received, a U.S. attorney or a Commission attorney designated for the purpose shall appear with the employee or former employee of the Commission upon whom the demand has been made and shall furnish the court or other authority with a copy of the regulations contained in this part and inform the court or other authority that the demand has been, or is being, as the case may be, referred for the prompt consideration of the appropriate Commission official and shall respectfully request the court or authority to stay the demand pending receipt of the requested instructions.

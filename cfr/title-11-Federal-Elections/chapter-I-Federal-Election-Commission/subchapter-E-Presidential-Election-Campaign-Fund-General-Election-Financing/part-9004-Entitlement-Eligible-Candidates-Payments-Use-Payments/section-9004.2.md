@@ -1,0 +1,13 @@
+##### § 9004.2 Pre-election payments for minor and new party candidates. #####
+
+(a) *Candidate of a minor party in the preceding election.* An eligible candidate of a minor party is entitled to pre-election payments:
+
+(1) If he or she received at least 5% of the total popular vote as the candidate of a minor party in the preceding election whether or not he or she is the same minor party's candidate in this election.
+
+(2) In an amount which is equal, in the aggregate, to a proportionate share of the amount to which major party candidates are entitled under 11 CFR 9004.1.
+
+The aggregate amount received by a minor party candidate shall bear the same ratio to the amount received by the major party candidates as the number of popular votes received by the minor party Presidential candidate in the preceding Presidential election bears to the average number of popular votes received by all major party candidates in that election.
+
+(b) *Candidate of a minor party in the current election.* The eligible candidate of a minor party whose candidate for the office of President in the preceding election received at least 5% but less than 25% of the total popular vote is eligible to receive pre-election payments. The amount which a minor party candidate is entitled to receive under this section shall be computed pursuant to 11 CFR 9004.2(a) based on the number of popular votes received by the minor party's candidate in the preceding Presidential election; however, the amount to which the minor party candidate is entitled under this section shall be reduced by the amount to which the minor party's Presidential candidate in this election is entitled under 11 CFR 9004.2(a), if any.
+
+(c) *New party candidate.* A candidate of a new party who was a candidate for the office of President in at least 10 States in the preceding election may be eligible to receive pre-election payments if he or she received at least 5% but less than 25% of the total popular vote in the preceding election. The amount which a new party candidate is entitled to receive under this section shall be computed pursuant to 11 CFR 9004.2(a) based on the number of popular votes received by the new party candidate in the preceding election. If a new party candidate is entitled to payments under this section, the amount of the entitlement shall be reduced by the amount to which the candidate is entitled under 11 CFR 9004.2(a), if any.

@@ -1,0 +1,5 @@
+##### § 287.2 Disposition of criminal cases. #####
+
+Whenever a special agent in charge, port director, or chief patrol agent has reason to believe that there has been a violation punishable under any criminal provision of the immigration and nationality laws administered or enforced by the Department, he or she shall immediately initiate an investigation to determine all the pertinent facts and circumstances and shall take such further action as he or she deems necessary. In no case shall this investigation prejudice the right of an arrested person to be taken without unnecessary delay before a United States magistrate judge, a United States district judge, or, if necessary, a judicial officer empowered in accordance with 18 U.S.C. 3041 to commit persons charged with offenses against the laws of the United States.
+
+[59 FR 42415, Aug. 17, 1994, as amended at 68 FR 35276, June 13, 2003]

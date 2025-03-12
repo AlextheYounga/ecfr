@@ -1,0 +1,3 @@
+##### § 342.8 Appeals. #####
+
+Should the district director find that the certificate, document, or record was fraudulently or illegally obtained, he shall enter an order that it be cancelled and the certificate or document surrendered to the Service forthwith. Written notification of such action shall be given the respondent, with a copy of the decision, findings and decision of the district director, and he shall be informed of his right of appeal in accordance with the provisions of part 103 of this chapter.

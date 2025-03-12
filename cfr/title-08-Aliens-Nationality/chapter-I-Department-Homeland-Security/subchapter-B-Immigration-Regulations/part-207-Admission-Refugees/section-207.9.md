@@ -1,0 +1,5 @@
+##### § 207.9 Termination of refugee status. #####
+
+The refugee status of any alien (and of the spouse or child of the alien) admitted to the United States under section 207 of the Act will be terminated by USCIS if the alien was not a refugee within the meaning of section 101(a)(42) of the Act at the time of admission. USCIS will notify the alien in writing of its intent to terminate the alien's refugee status. The alien will have 30 days from the date notice is served upon him or her in accordance with 8 CFR 103.8, to present written or oral evidence to show why the alien's refugee status should not be terminated. There is no appeal under this chapter I from the termination of refugee status by USCIS. Upon termination of refugee status, USCIS will process the alien under sections 235, 240, and 241 of the Act.
+
+[76 FR 53784, Aug. 29, 2011]

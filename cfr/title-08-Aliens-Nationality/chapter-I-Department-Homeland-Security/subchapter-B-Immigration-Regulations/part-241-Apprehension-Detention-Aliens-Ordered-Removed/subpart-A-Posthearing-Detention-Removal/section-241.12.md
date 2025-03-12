@@ -1,0 +1,3 @@
+##### § 241.12 Nonapplication of costs of detention and maintenance. #####
+
+The owner of a vessel or aircraft bringing an alien to the United States who claims to be exempt from payment of the costs of detention and maintenance of the alien pursuant to section 241(c)(3)(B) of the Act shall establish to the satisfaction of the district director in charge of the port of arrival that such costs should not be applied. The district director shall afford the owner a reasonable time within which to submit affidavits and briefs to support the claim. There is no appeal from the decision of the district director.

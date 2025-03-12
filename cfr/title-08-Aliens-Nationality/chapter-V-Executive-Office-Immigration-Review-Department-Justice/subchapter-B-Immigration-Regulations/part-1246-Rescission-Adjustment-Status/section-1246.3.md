@@ -1,0 +1,3 @@
+##### § 1246.3 Allegations contested or denied; hearing requested. #####
+
+If, within the prescribed time following service of the notice pursuant to § 1246.1, the respondent has filed an answer which contests or denies any allegation in the notice, or a hearing is requested, a hearing pursuant to § 1246.5 shall be conducted by an immigration judge, and the requirements contained in §§ 1240.3, 1240.4, 1240.5, 1240.6, 1240.7, and 1240.9 of this chapter shall be followed.
