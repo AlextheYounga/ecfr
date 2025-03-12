@@ -4,7 +4,7 @@
 
 (b) The term of an agricultural land easement must be in perpetuity, except where State law prohibits a permanent easement. In such cases where State law limits the term of a conservation easement, the easement term will be for the maximum duration allowed under State law.
 
-(c) The eligible entity may use its own terms and conditions in the agricultural land easement deed, but the agricultural land easement deed must address the deed requirements as specified by this part and by NRCS in the ALE-agreement.
+(c) The eligible entity may use its own terms and conditions in the agricultural land easement deed, but the agricultural land easement deed must provide for the effective administration, management, and enforcement of the agricultural land easement by the eligible entity or its successors and assigns and must address the deed requirements as specified by this part and by NRCS in the ALE-agreement.
 
 (d) All deeds, as further specified in the ALE-agreement, must address the following regulatory deed requirements:
 
@@ -30,13 +30,13 @@
 
 (3) Include an indemnification clause requiring the landowner to indemnify and hold harmless the United States from any liability arising from or related to the property enrolled in ACEP-ALE.
 
-(4) Include an amendment clause requiring that any changes to the easement deed after its recordation must be consistent with the purposes of the agricultural land easement and this part. Any substantive amendment, including any subordination of the terms of the easement or modifications, exchanges, or terminations of the easement area, must be approved by NRCS and the easement holder in accordance with § 1468.6 prior to recordation or else the action is null and void.
+(4) Include clauses requiring that any changes to the easement deed or easement area made after easement recordation, including any amendment to the easement deed, any subordination of the terms of the easement*,* or any modifications, exchanges, or terminations of some or all of the easement area, must be consistent with the purposes of the agricultural land easement and this part and must be approved by NRCS and the easement holder in accordance with § 1468.6 prior to recordation or else the action is null and void.
 
 (5) Prohibit commercial and industrial activities except those activities that NRCS has determined are consistent with the agricultural use of the land.
 
 (6) Limit the subdivision of the property subject to the agricultural land easement, except where State or local regulations explicitly require subdivision to construct residences for employees working on the property or where otherwise authorized by NRCS.
 
-(7) Prohibit subsurface mineral development unless the terms of the deed, as determined by NRCS, specify that any subsurface mineral development allowed by the eligible entity on the easement area must -
+(7) Prohibit subsurface mineral development unless the terms of the deed, as determined by NRCS, specify that any subsurface mineral development allowed by the eligible entity on the easement area must—
 
 (i) Be conducted in accordance with applicable State law;
 
@@ -83,3 +83,5 @@
 (g) The eligible entity will acquire, hold, manage, monitor, and enforce the easement. The eligible entity may have the option to enter into an agreement with appropriately qualified governmental or private organizations that have no property rights or interests in the easement area to carry out easement monitoring, management, and enforcement responsibilities.
 
 (h) All agricultural land easement deeds acquired with ACEP-ALE funds must be recorded. The eligible entity will provide proof of recordation to NRCS within the timeframe specified in the ALE-agreement.
+
+[85 FR 571, Jan. 6, 2020, as amended at 86 FR 8131, Feb. 4, 2021]

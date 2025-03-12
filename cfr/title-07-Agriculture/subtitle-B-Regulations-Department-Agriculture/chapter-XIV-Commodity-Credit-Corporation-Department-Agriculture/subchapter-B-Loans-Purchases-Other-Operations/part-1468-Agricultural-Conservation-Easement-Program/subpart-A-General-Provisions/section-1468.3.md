@@ -26,11 +26,11 @@ The definitions in this section apply to this part, and all documents issued in 
 
 *Beginning farmer or rancher* means a person, Indian Tribe, Tribal corporation, or legal entity who:
 
-(1) Has not operated a farm or ranch, or non-industrialized private forest land (NIPF), or who has operated a farm or ranch or NIPF for not more than 10 consecutive years. This requirement applies to all members of an entity who will materially and substantially participate in the operation of the farm or ranch or NIPF.
+(1) Has not operated a farm, ranch, or non-industrialized private forest land (NIPF), or who has operated a farm, ranch, or NIPF for not more than 10 consecutive years. This requirement applies to all members of an entity who will materially and substantially participate in the operation of the farm, ranch, or NIPF.
 
-(2) In the case of an individual, individually, or with the immediate family, material and substantial participation requires that the individual provide substantial day-to-day labor and management of the farm or ranch consistent with the practices in the county or State where the farm is located.
+(2) In the case of an individual, individually, or with the immediate family, material and substantial participation requires that the individual provide substantial day-to-day labor and management of the farm, ranch, or NIPF consistent with the practices in the county or State where the farm is located.
 
-(3) In the case of a legal entity or joint operation, all members must materially and substantially participate in the operation of the farm or ranch. Material and substantial participation requires that each of the members provide some amount of the management or labor and management necessary for day-to-day activities, such that if each of the members did not provide these inputs, operation of the farm or ranch would be seriously impaired.
+(3) In the case of a legal entity or joint operation, all members must materially and substantially participate in the operation of the farm, ranch, or NIPF . Material and substantial participation requires that each of the members provide some amount of the management or labor and management necessary for day-to-day activities, such that if each of the members did not provide these inputs, operation of the farm, ranch, or NIPF would be seriously impaired.
 
 *Buy-Protect-Sell transaction* means a legal arrangement between an eligible entity and NRCS relating to land owned or being purchased by an eligible entity on a transitional basis during which an agricultural land easement will be secured on eligible private or Tribal land, and ownership of the land transferred to a qualified farmer or rancher following conditions specified in this part.
 
@@ -44,7 +44,7 @@ The definitions in this section apply to this part, and all documents issued in 
 
 *Compatible use* means a use or activity conducted on a wetland reserve easement that NRCS determines, in its sole discretion, is consistent with the long-term protection and enhancement of the wetland and other natural values of the easement area when performed according to amount, method, location, timing, frequency, intensity, and duration limitations prescribed by NRCS.
 
-*Conservation plan* is for ACEP-ALE the document that -
+*Conservation plan* is for ACEP-ALE the document that—
 
 (1) Applies to highly erodible cropland;
 
@@ -86,7 +86,7 @@ The definitions in this section apply to this part, and all documents issued in 
 
 (2) Grazing uses and related conservation values by restoring or conserving eligible land.
 
-*Eligible land* means private or acreage owned by Indian Tribes that NRCS has determined to meet the requirements of § 1468.20 or § 1468.30 of this part.
+*Eligible land* means private land or acreage owned by Indian Tribes that NRCS has determined to meet the requirements of § 1468.20 or § 1468.30 of this part.
 
 *Fair market value* means the value of an agricultural land easement as determined using the Uniform Standards of Professional Appraisal Practice, an areawide market analysis or survey, or another industry-approved method approved by the Chief, as established in subpart B or, for a wetland reserve easement, the value of the land as determined using the Uniform Standards of Professional Appraisal Practices or areawide market analysis or survey, as established in subpart C.
 
@@ -94,7 +94,7 @@ The definitions in this section apply to this part, and all documents issued in 
 
 *Farm and ranch land of statewide importance* means, in addition to prime and unique farmland, land that is of statewide importance for the production of food, feed, fiber, forage, biofuels, and oilseed crops. Criteria for defining and delineating this land are to be determined by the appropriate State agency or agencies. Generally, additional farmlands of statewide importance include those that are nearly prime farmland and that economically produce high yields of crops when treated and managed according to acceptable farming methods. Some may produce as high a yield as prime farmlands if conditions are favorable. In some States, additional farmlands of statewide importance may include tracts of land that have been designated for agriculture by State law in accordance with 7 CFR part 657.
 
-*Farm or ranch succession plan* means a general plan to address the continuation of some type of agricultural business on the enrolled land. The farm or ranch succession plan may include specific intra-family succession agreements or business asset transfer strategies to create opportunities for new or beginning farmers or ranchers, veteran farmers or ranchers, or other historically underserved landowners.
+*Farm or ranch succession plan* means a general plan to address the continuation of some type of agricultural business on the enrolled land. The farm or ranch succession plan may include, but is not limited to, specific intra-family succession agreements or business asset transfer strategies to create opportunities for new or beginning farmers or ranchers, veteran farmers or ranchers, or other historically underserved landowners.
 
 *Farm Service Agency (FSA)* is an agency of the United States Department of Agriculture.
 
@@ -104,7 +104,7 @@ The definitions in this section apply to this part, and all documents issued in 
 
 *Forest management plan* means a site-specific plan that describes management practices that conserve, protect, or enhance the viability of the forest land. Forest management plans may include a forest stewardship plan, as specified in section 5 of the Cooperative Forestry Assistance Act of 1978 (16 U.S.C. 2103a) or other plan approved by the State forester.
 
-*Future viability* means the legal, physical, and financial conditions under which the land itself will remain capable and available for continued sustained productive agricultural or grassland uses while protecting related conservation values such as management of the agricultural land easement area consistent with an agricultural land easement plan.
+*Future viability* means the legal, physical, and financial conditions under which the land itself will remain capable and available for continued sustained productive agricultural or grassland uses while protecting related conservation values such as management of the agricultural land easement area consistent with an agricultural land easement plan or adoption of a farm or ranch succession plan.
 
 *Grassland* means land on which the vegetation is dominated by grasses, grass-like plants, shrubs, or forbs, including shrubland, land that contains forbs, pastureland, and rangeland, and improved pastureland and rangeland.
 
@@ -156,7 +156,7 @@ The definitions in this section apply to this part, and all documents issued in 
 
 (2) A legal entity or joint operation if all individual members independently qualify under paragraph (1) of this definition.
 
-*Maintenance* means work performed to keep the wetland reserve easement lands functioning for program purposes for the duration of the enrollment period. Maintenance includes actions and work to manage, prevent deterioration, repair damage, or replace conservation practices or eligible activities on a wetland reserve easement, as approved or conducted by NRCS.
+*Maintenance* means work performed to keep the wetland reserve easement lands functioning for program purposes for the duration of the enrollment period. Maintenance includes actions and work performed to manage, prevent deterioration, repair damage, or replace conservation practices or eligible activities on a wetland reserve easement, as approved or conducted by NRCS.
 
 *Monitoring report* means a report, the contents of which are formulated and prepared by the easement holder, or their delegate, that accurately documents on an annual basis whether the land subject to easement is in compliance with the terms and conditions of the easement.
 
@@ -168,7 +168,7 @@ The definitions in this section apply to this part, and all documents issued in 
 
 (2) Is an organization described in section 501(c)(3) of that Code that is exempt from taxation under 501(a) of that Code; and
 
-(3) Is described in -
+(3) Is described in—
 
 (i) Section 509(a)(1) and (2) of that Code, or
 
@@ -220,7 +220,7 @@ The definitions in this section apply to this part, and all documents issued in 
 
 (3) Supports a prevalence of such vegetation under normal circumstances.
 
-*Wetland functions and values* means the hydrological and biological characteristics of wetlands and the socioeconomic value placed upon these characteristics, including -
+*Wetland functions and values* means the hydrological and biological characteristics of wetlands and the socioeconomic value placed upon these characteristics, including—
 
 (1) Habitat for migratory birds and other wildlife, in particular at-risk species.
 
@@ -251,3 +251,5 @@ The definitions in this section apply to this part, and all documents issued in 
 (i) Substantially replace the original habitat functions and values while providing significant support or benefit for migratory waterfowl or other wetland-dependent wildlife; or
 
 (ii) Address local resource concerns or needs for the restoration of wetland functions and values for wetland-dependent wildlife as identified in an approved State wildlife action plan or NRCS national initiative.
+
+[85 FR 571, Jan. 6, 2020, as amended at 86 FR 8130, Feb. 4, 2021]Editorial Note:At 86 FR 8130, Feb. 4, 2021, § 1468.3 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.

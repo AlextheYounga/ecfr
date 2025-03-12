@@ -1,6 +1,6 @@
 ##### § 23.151 Definitions applicable to margin requirements. #####
 
-Link to an amendment published at 86 FR 246, Jan. 5, 2021.Link to an amendment published at 86 FR 6857, Jan. 25, 2021.
+Link to an amendment published at 86 FR 6857, Jan. 25, 2021.
 
 For the purposes of §§ 23.150 through 23.161:
 
@@ -174,7 +174,7 @@ For the purposes of §§ 23.150 through 23.161:
 
 (5) A security-based swap dealer.
 
-*Material swaps exposure* for an entity means that the entity and its margin affiliates have an average daily aggregate notional amount of uncleared swaps, uncleared security-based swaps, foreign exchange forwards, and foreign exchange swaps with all counterparties for June, July and August of the previous calendar year that exceeds $8 billion, where such amount is calculated only for business days. An entity shall count the average daily aggregate notional amount of an uncleared swap, an uncleared security-based swap, a foreign exchange forward, or a foreign exchange swap between the entity and a margin affiliate only one time. For purposes of this calculation, an entity shall not count a swap that is exempt pursuant to § 23.150(b) or a security-based swap that qualifies for an exemption under section 3C(g)(10) of the Securities Exchange Act of 1934 (15 U.S.C. 78c-3(g)(4)) and implementing regulations or that satisfies the criteria in section 3C(g)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78-c3(g)(4)) and implementing regulations.
+*Material swaps exposure* for an entity means that, as of September 1 of any year, the entity and its margin affiliates have an average month-end aggregate notional amount of uncleared swaps, uncleared security-based swaps, foreign exchange forwards, and foreign exchange swaps with all counterparties for March, April, and May of that year that exceeds $8 billion, where such amount is calculated only for the last business day of the month. Activities not carried out in the regular course of business and willfully designed to circumvent calculation at month-end to evade meeting the definition of material swaps exposure shall be prohibited. An entity shall count the average month-end aggregate notional amount of an uncleared swap, an uncleared security-based swap, a foreign exchange forward, or a foreign exchange swap between the entity and a margin affiliate only one time. For purposes of this calculation, an entity shall not count a swap that is exempt pursuant to § 23.150(b) or a security-based swap that qualifies for an exemption under section 3C(g)(10) of the Securities Exchange Act of 1934 (15 U.S.C. 78c-3(g)(4)) and implementing regulations or that satisfies the criteria in section 3C(g)(1) of the Securities Exchange Act of 1934 (15 U.S.C. 78-c3(g)(4)) and implementing regulations.
 
 *Minimum transfer amount* means a combined initial and variation margin amount under which no actual transfer of funds is required. The minimum transfer amount shall be $500,000.
 
@@ -234,4 +234,4 @@ For the purposes of §§ 23.150 through 23.161:
 
 *Variation margin amount* means the cumulative mark-to-market change in value to a covered swap entity of an uncleared swap, as measured from the date it is entered into (or in the case of an uncleared swap that has a positive or negative value to a covered swap entity on the date it is entered into, such positive or negative value plus any cumulative mark-to-market change in value to the covered swap entity of an uncleared swap after such date), less the value of all variation margin previously collected, plus the value of all variation margin previously posted with respect to such uncleared swap.
 
-[81 FR 695, Jan. 6, 2016, as amended at 83 FR 60346, Nov. 26, 2018; 85 FR 27678, May 11, 2020]
+[81 FR 695, Jan. 6, 2016, as amended at 83 FR 60346, Nov. 26, 2018; 85 FR 27678, May 11, 2020; 86 FR 246, Jan. 5, 2021]

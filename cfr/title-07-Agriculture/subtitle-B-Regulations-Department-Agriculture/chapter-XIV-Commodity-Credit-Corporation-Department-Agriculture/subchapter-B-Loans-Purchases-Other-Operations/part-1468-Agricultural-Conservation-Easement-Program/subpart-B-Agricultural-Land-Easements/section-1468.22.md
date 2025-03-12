@@ -2,7 +2,7 @@
 
 (a) NRCS will use national and State criteria to rank and select eligible parcels for funding. The national ranking criteria will comprise at least half of the ranking score. The State criteria will be developed by NRCS on a State-by-State basis, with input from the State technical committee. The weighting of ranking criteria, including adjustments to account for geographic differences, will be developed to maximize the benefit of the Federal investment under the program. Parcels are ranked and selected for funding at the State level.
 
-(b) The national ranking criteria are -
+(b) The national ranking criteria are—
 
 (1) Percent of prime, unique, and other important farmland soils in the parcel to be protected;
 
@@ -24,7 +24,7 @@
 
 (10) Maximizing the protection of contiguous or proximal acres devoted to agricultural use;
 
-(11) Whether the land is currently enrolled in CRP in a contract that is set to expire within 1 year and is grassland that would benefit from protection under a long-term easement;
+(11) Whether the land is currently enrolled in CRP in a contract that is set to expire within 1 year and is grassland that would benefit from protection under a long-term easement or is land under a CRP contract that is in transition to a covered farmer or rancher pursuant to 16 U.S.C. 3835(f);
 
 (12) Decrease in the percentage of acreage of permanent grassland, pasture, and rangeland, other than cropland and woodland pasture, in the county in which the parcel is located between the last two USDA Censuses of Agriculture;
 
@@ -32,13 +32,13 @@
 
 (14) Other criteria as determined by NRCS.
 
-(c) State or local criteria as determined by NRCS, with advice of the State technical committee, may only include -
+(c) State or local criteria as determined by NRCS, with advice of the State technical committee, may only include—
 
 (1) The location of a parcel in an area zoned for agricultural use;
 
-(2) The eligible entity's performance in managing and enforcing easements. Performance must be measured by the efficiency by which easement transactions are completed or percentage of parcels that have been monitored and the percentage of monitoring results that have been reported;
+(2) The eligible entity's performance in managing and enforcing easements. Performance must be measured by the efficiency by which easement transactions are completed or percentage of parcels that have been monitored annually and the percentage of monitoring results that have been reported annually;
 
-(3) Multifunctional benefits of farm and ranch land protection including -
+(3) Multifunctional benefits of farm and ranch land protection including—
 
 (i) Social, economic, historic, and archaeological benefits;
 
@@ -69,3 +69,5 @@
 (f) Eligible parcels selected for funding by NRCS will be identified in an agreement executed by NRCS and an eligible entity, either as part of the ALE-agreement or through a supplemental arrangement as agreed to by the parties.
 
 (g) Pursuant to the terms of the ALE-agreement, eligible parcels may be selected for funding in a fiscal year subsequent to the fiscal year in which the parties entered into an ALE-agreement.
+
+[85 FR 571, Jan. 6, 2020, as amended at 86 FR 8130, Feb. 4, 2021]

@@ -1,7 +1,5 @@
 ##### § 23.154 Calculation of initial margin. #####
 
-Link to an amendment published at 86 FR 246, Jan. 5, 2021.
-
 (a) *Means of calculation.* (1) Each business day each covered swap entity shall calculate an initial margin amount to be collected from each covered counterparty using:
 
 (i) A risk-based model that meets the requirements of paragraph (b) of this section; or
@@ -18,7 +16,9 @@ Link to an amendment published at 86 FR 246, Jan. 5, 2021.
 
 (4) The amounts calculated pursuant to paragraph (a)(3) of this section shall not be less than zero.
 
-(b) *Risk-based models* - (1) *Commission or registered futures association approval.* (i) A covered swap entity shall obtain the written approval of the Commission or a registered futures association to use a model to calculate the initial margin required in §§ 23.150 through 23.161.
+(5) A covered swap entity would be deemed to calculate initial margin as required by paragraph (a)(1) of this section if it uses the amount of initial margin calculated by a counterparty that is a swap entity and the initial margin amount is calculated using the swap entity's risk-based model that meets the requirements of paragraph (b) of this section or is approved by a prudential regulator, provided that initial margin calculated in such manner is used only with respect to uncleared swaps entered into by the covered swap entity and the swap entity for the purpose of hedging the covered swap entity's swaps with non-swap entity counterparties.
+
+(b) *Risk-based models*—(1) *Commission or registered futures association approval.* (i) A covered swap entity shall obtain the written approval of the Commission or a registered futures association to use a model to calculate the initial margin required in §§ 23.150 through 23.161.
 
 (ii) A covered swap entity shall demonstrate that the model satisfies all of the requirements of this section on an ongoing basis.
 
@@ -82,7 +82,7 @@ Link to an amendment published at 86 FR 246, Jan. 5, 2021.
 
 (6) *Documentation.* The covered swap entity shall adequately document all material aspects of its model, including management and valuation of uncleared swaps to which it applies, the control, oversight, and validation of the initial margin model, any review processes and the results of such processes.
 
-(7) *Escalation procedures.* The covered swap entity must adequately document -
+(7) *Escalation procedures.* The covered swap entity must adequately document—
 
 (i) Internal authorization procedures, including escalation procedures, that require review and approval of any change to the initial margin calculation under the initial margin model;
 
@@ -123,3 +123,5 @@ Link to an amendment published at 86 FR 246, Jan. 5, 2021.
 (D) Net Current Replacement Cost = the total replacement cost for all uncleared swaps subject to the eligible master netting agreement.
 
 (E) In cases where the gross replacement cost is zero, the Net-to-Gross Ratio shall be set to 1.0.
+
+[81 FR 695, Jan. 6, 2016, as amended at 86 FR 246, Jan. 5, 2021]

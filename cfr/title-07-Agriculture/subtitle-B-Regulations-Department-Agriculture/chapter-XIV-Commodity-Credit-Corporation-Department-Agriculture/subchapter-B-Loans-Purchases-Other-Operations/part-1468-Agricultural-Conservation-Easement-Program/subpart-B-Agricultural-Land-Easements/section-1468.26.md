@@ -12,7 +12,7 @@
 
 (5) A plan for administering easements enrolled under this part, as determined by NRCS;
 
-(6) Proof that the eligible entity -
+(6) Proof that the eligible entity—
 
 (i) Has been accredited by the Land Trust Accreditation Commission and has acquired not fewer than 10 agricultural land easements under ACEP-ALE, the Farm and Ranch Lands Protection Program, or the Farmland Protection Program;
 
@@ -22,9 +22,9 @@
 
 (7) Successfully met the responsibilities of the eligible entity under the applicable agreements with NRCS, as determined by NRCS, relating to agricultural land easements that the eligible entity has acquired under the program or any predecessor program;
 
-(b) NRCS will notify an eligible entity in writing whether they have been certified and the rationale for the agency's decision. When NRCS determines an eligible entity qualifies as certified -
+(b) NRCS will notify an eligible entity in writing whether they have been certified and the rationale for the agency's decision. When NRCS determines an eligible entity qualifies as certified—
 
-(1) NRCS may enter into an ALE-agreement with the certified entity that is for a period of up to 5 fiscal years following the fiscal year the agreement is executed. NRCS will review and select parcel applications submitted for funding by certified entities as specified in § 1468.22. Funding for selected parcels is identified on an attachment to the ALE-agreement.
+(1) NRCS may enter into an ALE-agreement with the certified entity that is for a period of a minimum of 5 fiscal years and not to exceed 7 fiscal years following the fiscal year the agreement is executed. NRCS will review and select parcel applications submitted for funding by certified entities as specified in § 1468.22. Funding for selected parcels is identified on an attachment to the ALE-agreement.
 
 (2) The terms of the ALE-agreement will include the regulatory deed requirements specified in § 1468.25 of this part that must be addressed in the deed to ensure that ACEP-ALE purposes will be met without requiring NRCS to pre-approve each easement transaction prior to closing.
 
@@ -38,7 +38,7 @@
 
 (c)(1) NRCS will conduct a quality assurance review of the certified entity a minimum of once every 3 fiscal years to ensure that the certified entities are meeting the certification criteria established in this section.
 
-(2) If NRCS determines that the certified entity no longer meets these criteria, the Chief will -
+(2) If NRCS determines that the certified entity no longer meets these criteria, the Chief will—
 
 (i) Provide the certified entity a specified period of time, at a minimum 180 days, in which to take such actions as may be necessary to correct the identified deficiencies, and
 
@@ -47,3 +47,5 @@
 (3) The period of decertification may be up to 3 years, based upon the circumstances associated with the action.
 
 (4) The entity may submit a new request for certification to NRCS only after the decertification period has expired.
+
+[85 FR 571, Jan. 6, 2020, as amended at 86 FR 8131, Feb. 4, 2021]

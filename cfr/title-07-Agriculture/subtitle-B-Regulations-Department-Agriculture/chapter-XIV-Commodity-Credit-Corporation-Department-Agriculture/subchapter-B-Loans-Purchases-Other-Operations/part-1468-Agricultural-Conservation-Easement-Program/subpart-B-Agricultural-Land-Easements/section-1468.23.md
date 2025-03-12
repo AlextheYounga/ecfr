@@ -1,6 +1,6 @@
 ##### § 1468.23 ALE-agreements. #####
 
-(a) NRCS will enter into an ALE-agreement with a selected eligible entity that stipulates the terms and conditions under which the eligible entity is permitted to use ACEP-ALE funding and will incorporate all ACEP-ALE requirements. NRCS will make available to eligible entities the ALE-agreement terms and conditions, including any applicable templates, based on enrollment type. The ALE-agreement will address -
+(a) NRCS will enter into an ALE-agreement with a selected eligible entity that stipulates the terms and conditions under which the eligible entity is permitted to use ACEP-ALE funding and will incorporate all ACEP-ALE requirements. NRCS will make available to eligible entities the ALE-agreement terms and conditions, including any applicable templates, based on enrollment type. The ALE-agreement will address—
 
 (1) The interests in land to be acquired, including the United States' right of enforcement, the deed requirements specified in this part, as well as the other terms and conditions of the easement deed;
 
@@ -24,9 +24,9 @@
 
 (b) The term of standard ALE-agreements, except as described in § 1468.27 for ALE-agreements for approved buy-protect-sell transactions, will be:
 
-(1) Up to 5 fiscal years following the fiscal year the agreement is signed for certified entities; and
+(1) A minimum of 5 fiscal years and not to exceed 7 fiscal years following the fiscal year the agreement is signed for certified entities; and
 
-(2) Up to 3 fiscal years and not to exceed 5 fiscal years following the fiscal year the agreement is signed for other eligible entities.
+(2) At least 3 fiscal years and not to exceed 5 fiscal years following the fiscal year the agreement is signed for other eligible entities.
 
 (c) Eligible parcels selected for funding by NRCS will be identified on an attachment to the ALE-agreement. The attachment will include landowners' names, acreage of the easement area, the estimated fair market value, the estimated Federal contribution, and other relevant information.
 
@@ -35,3 +35,5 @@
 (e) With NRCS approval, the eligible entity may substitute acres within a pending easement offer. Substituted acres must not reduce the easements capability in meeting program purposes.
 
 (f) With NRCS approval, an eligible entity may substitute pending easement offers within a standard ALE-agreement. The substituted landowner and easement offer must meet eligibility criteria as described in § 1468.20. NRCS may require re-ranking of substituted acres within an easement offer and substituted easement offers within an ALE-agreement. Substitutions are not authorized under ALE-agreements for buy-protect-sell transactions.
+
+[85 FR 571, Jan. 6, 2020, as amended at 86 FR 8130, Feb. 4, 2021]

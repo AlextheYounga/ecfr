@@ -1,6 +1,6 @@
 ##### § 1468.24 Compensation and funding for agricultural land easements. #####
 
-(a) *Determining the fair market value of the agricultural land easement.* (1) The Federal share will not exceed 50 percent of the fair market value of the agricultural land easement, as determined using -
+(a) *Determining the fair market value of the agricultural land easement.* (1) The Federal share will not exceed 50 percent of the fair market value of the agricultural land easement, as determined using—
 
 (i) An appraisal using the Uniform Standards of Professional Appraisal Practices or the Uniform Appraisal Standards for Federal Land Acquisitions,
 
@@ -24,17 +24,17 @@
 
 (b) *Determining the Federal share of the agricultural land easement.* (1) Subject to the statutory limits, NRCS may provide up to 50 percent of the fair market value of the agricultural land easement. An eligible entity will provide a non-Federal share that is at least equivalent to the Federal share.
 
-(2) The non-Federal share provided by an eligible entity may be comprised of -
+(2) The non-Federal share provided by an eligible entity may be comprised of—
 
-(i) The eligible entity's own cash resources for payment of easement compensation to the landowner;
+(i) The eligible entity's own cash resources for payment of easement compensation to the landowner or for a buy-protect-sell transaction, the amount of the fair market value of the agricultural land easement, less the amount of the Federal share, that is provided through the conveyance of the agricultural land easement by the eligible entity;
 
 (ii) A charitable donation or qualified conservation contribution (as defined by section 170(h) of the Internal Revenue Code of 1986) from the landowner;
 
-(iii) The procured costs paid by the eligible entity to a third-party for an appraisal, boundary survey, phase-I environmental site assessment, title commitment or report, title insurance, or closing cost; and
+(iii) Where the amounts as identified in paragraphs (b)(2)(i) and (ii) of this section are not sufficient to meet the non-Federal share amount, the eligible entity may also include the procured costs paid by the eligible entity to a third-party for an appraisal, boundary survey, phase-I environmental site assessment, title commitment or report, title insurance, baseline reports, mineral assessments, or closing cost; and
 
-(iv) Up to 2 percent of the fair market value of the agricultural land easement for easement stewardship and monitoring costs where the costs as identified in paragraphs (b)(2)(i) through (iii) of this section are not sufficient to meet the non-Federal share;
+(iv) Where the amounts as identified in paragraphs (b)(2)(i) through (iii) of this section are not sufficient to meet the non-Federal share amount, the eligible entity may also include up to 2 percent of the fair market value of the agricultural land easement for easement stewardship and monitoring costs provided by the eligible entity.
 
-(3) NRCS may authorize a waiver to increase the Federal share of the cost of an agricultural land easement to an amount not to exceed 75 percent of the fair market value of the agricultural land easement if -
+(3) NRCS may authorize a waiver to increase the Federal share of the cost of an agricultural land easement to an amount not to exceed 75 percent of the fair market value of the agricultural land easement if—
 
 (i) NRCS determines the lands to be enrolled are grasslands of special environmental significance as defined in this part,
 
@@ -47,3 +47,5 @@
 (2) NRCS will conduct its own technical and administrative review of appraisals, areawide market analysis, or other easement valuation reports and hazardous materials reviews.
 
 (3) NRCS may provide technical assistance for the development of a conservation plan on those portions of a parcel that contain highly erodible cropland, or if requested, to assist in compliance with the terms and conditions of easements.
+
+[85 FR 571, Jan. 6, 2020, as amended at 86 FR 8130, Feb. 4, 2021]

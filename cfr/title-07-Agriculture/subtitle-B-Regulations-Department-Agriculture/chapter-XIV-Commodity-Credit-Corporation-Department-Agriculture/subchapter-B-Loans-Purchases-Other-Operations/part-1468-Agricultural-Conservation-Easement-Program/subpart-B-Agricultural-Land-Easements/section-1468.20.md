@@ -1,6 +1,6 @@
 ##### § 1468.20 Program requirements. #####
 
-(a) *General.* (1) Under ACEP-ALE, NRCS will facilitate and provide cost-share assistance for the purchase by eligible entities of agricultural land easements or other interests in eligible private or Tribal land that is -
+(a) *General.* (1) Under ACEP-ALE, NRCS will facilitate and provide cost-share assistance for the purchase by eligible entities of agricultural land easements or other interests in eligible private or Tribal land that is—
 
 (i) Subject to a written pending offer; or
 
@@ -12,11 +12,11 @@
 
 (4) The duration of each agricultural land easement or other interest in land will be in perpetuity or the maximum duration allowed by State law.
 
-(b) *Entity eligibility.* (1) To be eligible to receive ACEP-ALE funding, an Indian Tribe, State, unit of local government, or a nongovernmental organization must meet the definition of eligible entity as listed in § 1468.3. In addition, eligible entities interested in receiving ACEP-ALE funds must provide NRCS sufficient evidence of -
+(b) *Entity eligibility.* (1) To be eligible to receive ACEP-ALE funding, an Indian Tribe, State, unit of local government, or a nongovernmental organization must meet the definition of eligible entity as listed in § 1468.3. In addition, eligible entities interested in receiving ACEP-ALE funds must provide NRCS sufficient evidence of—
 
 (i) A commitment to long-term conservation of agricultural lands,
 
-(ii) A capability to acquire, manage, and enforce easements,
+(ii) A demonstrated capability to acquire, manage, and enforce easements,
 
 (iii) Sufficient number of staff dedicated to monitoring and easement stewardship,
 
@@ -24,13 +24,13 @@
 
 (v) For individual parcels on which the eligible entity's own cash resources will comprise less than 10 percent of the fair market value of the agricultural land easement for payment of easement compensation to the landowner, the eligible entity must provide NRCS specific evidence of funding available to manage, monitor, and enforce the easement.
 
-(2) All eligible entities identified on an application or ALE-agreement must -
+(2) All eligible entities identified on an application or ALE-agreement must—
 
 (i) Ensure that their records and the records of all landowners of parcels identified on an application have been established in the USDA customer records system and that USDA has all the documentation needed to establish these records, and
 
 (ii) Eligible entities must also comply with applicable registration and reporting requirements of the Federal Funding Accountability and Transparency Act of 2006 (Pub. L. 109-282, as amended) and 2 CFR parts 25 and 170, and maintain such registration for the duration of the ALE-agreement.
 
-(c) *Landowner eligibility.* Under ACEP-ALE, all parcel landowners, including an eligible entity owner of private or Tribal land in an approved buy-protect-sell transaction, must -
+(c) *Landowner eligibility.* Under ACEP-ALE, all parcel landowners, including an eligible entity owner of private or Tribal land in an approved buy-protect-sell transaction, must—
 
 (1) Be in compliance with the highly erodible land and wetland conservation provisions in 7 CFR part 12,
 
@@ -40,7 +40,7 @@
 
 (4) Have their records established in the USDA customer records system.
 
-(d) *Land eligibility.* (1) Land will only be considered eligible for enrollment in ACEP-ALE based on NRCS determination that such private or Tribal agricultural land, including land on a farm or ranch that -
+(d) *Land eligibility.* (1) Land will only be considered eligible for enrollment in ACEP-ALE based on NRCS determination that such private or Tribal agricultural land, including land on a farm or ranch that—
 
 (i) Is subject to a written pending offer by an eligible entity or part of an approved buy-protect-sell transaction;
 
@@ -52,7 +52,7 @@
 
 (D) Furthers a State or local policy consistent with the purposes of the ACEP-ALE;
 
-(iii) Is -
+(iii) Is—
 
 (A) Cropland;
 
@@ -88,7 +88,7 @@
 
 (7) Land on which gas, oil, earth, or mineral rights exploration has been leased or is owned by someone other than the landowner is ineligible under ACEP-ALE unless it is determined by NRCS that the third-party rights will not harm or interfere with the conservation values or agricultural uses of the easement, that any methods of exploration and extraction will have only a limited and localized impact on the easement, and the limitations are specified in the ALE deed.
 
-(f) *Buy-Protect-Sell transaction land eligibility.* (1) NRCS may enter into a buy-protect sell transaction with an eligible entity on a parcel that -
+(f) *Buy-Protect-Sell transaction land eligibility.* (1) NRCS may enter into a buy-protect sell transaction with an eligible entity on a parcel that—
 
 (i) Otherwise meets the eligibility criteria described in this section,
 
@@ -99,3 +99,5 @@
 (2) At the time of application, the eligible entity must provide NRCS evidence of ownership or active purchase of the parcel, such as a valid purchase agreement.
 
 (3) The eligible entity must meet all program requirements and any specific provisions related to buy-protect-sell transactions as specified in this part.
+
+[85 FR 571, Jan. 6, 2020, as amended at 86 FR 8130, Feb. 4, 2021]

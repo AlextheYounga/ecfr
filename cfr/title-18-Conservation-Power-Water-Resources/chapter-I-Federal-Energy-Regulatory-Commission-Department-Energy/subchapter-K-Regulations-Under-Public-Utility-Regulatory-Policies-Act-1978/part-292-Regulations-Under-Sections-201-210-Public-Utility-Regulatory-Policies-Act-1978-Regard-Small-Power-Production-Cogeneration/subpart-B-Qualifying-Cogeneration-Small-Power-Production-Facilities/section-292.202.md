@@ -1,5 +1,7 @@
 ##### § 292.202 Definitions. #####
 
+Link to an amendment published at 86 FR 8140, Feb. 4, 2021.
+
 For purposes of this subpart:
 
 (a) *Biomass* means any organic material not derived from fossil fuels;

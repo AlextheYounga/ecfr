@@ -24,7 +24,7 @@ For purposes of this subpart I, the following terms shall be defined as provided
 
 (f) *Fully offsetting swaps* means swaps of equivalent terms where no net cash flow would be owed to either counterparty after the offset of payment obligations thereunder.
 
-(g) Material terms means the minimum primary economic terms as defined in appendix 1 of subpart I of part 23 of this chapter.
+(g) *Material terms* means the minimum primary economic terms as defined in appendix 1 of subpart I of part 23 of this chapter.
 
 (h) *Multilateral portfolio compression exercise* means an exercise in which multiple swap counterparties wholly terminate or change the notional value of some or all of the swaps submitted by the counterparties for inclusion in the portfolio compression exercise and, depending on the methodology employed, replace the terminated swaps with other swaps whose combined notional value (or some other measure of risk) is less than the combined notional value (or some other measure of risk) of the terminated swaps in the compression exercise.
 
