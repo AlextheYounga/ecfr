@@ -1,7 +1,5 @@
 ##### § 1310.04 Maintenance of records. #####
 
-Link to an amendment published at 86 FR 64366, Nov. 18, 2021.
-
 (a) Every record required to be kept subject to § 1310.03 for a List I chemical, a tableting machine, or an encapsulating machine shall be kept by the regulated person for 2 years after the date of the transaction.
 
 (b) Every record required to be kept subject to Section 1310.03 for List II chemical shall be kept by the regulated person for two years after the date of the transaction.
@@ -111,19 +109,21 @@ Link to an amendment published at 86 FR 64366, Nov. 18, 2021.
 
 (ix) 3,4-MDP-2-P methyl glycidic acid (PMK glycidic acid) and its salts, optical and geometric isomers, and salts of isomers
 
-(x) *N*-(1-benzylpiperidin-4-yl)-*N*-phenylpropionamide (benzylfentanyl) and its salts
+(x) methyl *alpha*-phenylacetoacetate (MAPA; methyl 3-oxo-2-phenylbutanoate) and its optical isomers
 
-(xi) N-phenethyl-4-piperidone (NPP)
+(xi) *N*-(1-benzylpiperidin-4-yl)-*N*-phenylpropionamide (benzylfentanyl) and its salts
 
-(xii) *N*-phenylpiperidin-4-amine (4-anilinopiperidine; *N*-phenyl-4-piperidinamine; 4-AP), its amides, its carbamates, and its salts
+(xii) N-phenethyl-4-piperidone (NPP)
 
-(xiii) Pseudoephedrine, its salts, optical isomers, and salts of optical isomers
+(xiii) *N*-phenylpiperidin-4-amine (4-anilinopiperidine; *N*-phenyl-4-piperidinamine; 4-AP), its amides, its carbamates, and its salts
 
-(xiv) Phenylpropanolamine, its salts, optical isomers, and salts of optical isomers
+(xiv) Pseudoephedrine, its salts, optical isomers, and salts of optical isomers
 
-(xv) Red phosphorus
+(xv) Phenylpropanolamine, its salts, optical isomers, and salts of optical isomers
 
-(xvi) White phosphorus (Other names: Yellow Phosphorus)
+(xvi) Red phosphorus
+
+(xvii) White phosphorus (Other names: Yellow Phosphorus)
 
 (2) [Reserved]
 

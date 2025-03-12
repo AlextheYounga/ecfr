@@ -1,5 +1,7 @@
 ##### § 30.127 What happens if property was improperly included in the inventory? #####
 
+Link to an amendment published at 86 FR 72084, Dec. 20, 2021.
+
 (a) When, after a decision and order in a formal probate proceeding, it is found that property has been improperly included in the inventory of an estate, the inventory must be modified to eliminate this property. A petition for modification may be filed by the superintendent of the agency where the property is located, or by any interested party. The petitioner must serve the petition on all parties whose interests may be affected by the requested modification.
 
 (b) A judge will review the merits of the petition and the record of the title from the LTRO on which the modification is to be based, enter an appropriate decision, and give notice of the decision as follows:

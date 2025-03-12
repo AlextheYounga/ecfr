@@ -1,18 +1,24 @@
 ##### § 2.142 Time and manner of ex parte appeals. #####
 
-Link to an amendment published at 86 FR 64331, Nov. 17, 2021.
+(a)(1) An appeal filed under the provisions of § 2.141(a) from the final refusal of an application must be filed within the time provided in § 2.62(a).
 
-(a) Any appeal filed under the provisions of § 2.141 must be filed within six months from the date of the final refusal or the date of the action from which the appeal is taken. An appeal is taken by filing a notice of appeal in written form, as prescribed in § 2.126, and paying the appeal fee.
+(2) An appeal filed under the provisions of § 2.141(b) from an expungement or reexamination proceeding must be filed within three months from the issue date of the final Office action.
+
+(3) An appeal is taken by filing a notice of appeal, as prescribed in § 2.126, and paying the appeal fee.
 
 (b)(1) The brief of appellant shall be filed within sixty days from the date of appeal. If the brief is not filed within the time allowed, the appeal may be dismissed. The examining attorney shall, within sixty days after the brief of appellant is sent to the examining attorney, file with the Trademark Trial and Appeal Board a written brief answering the brief of appellant and shall email or mail a copy of the brief to the appellant. The appellant may file a reply brief within twenty days from the date of mailing of the brief of the examining attorney.
 
 (2) Briefs must meet the requirements prescribed in § 2.126, except examining attorney submissions need not be filed through ESTTA. Without prior leave of the Trademark Trial and Appeal Board, a brief shall not exceed twenty-five pages in length in its entirety, including the table of contents, index of cases, description of the record, statement of the issues, recitation of the facts, argument, and summary. A reply brief from the appellant, if any, shall not exceed ten pages in length in its entirety. Unless authorized by the Board, no further briefs are permitted.
 
-(3) Citation to evidence in briefs should be to the documents in the electronic application record by date, the name of the paper under which the evidence was submitted, and the page number in the electronic record.
+(3) Citation to evidence in briefs should be to the documents in the electronic record for the subject application or registration by date, the name of the paper under which the evidence was submitted, and the page number in the electronic record.
 
 (c) All requirements made by the examining attorney and not the subject of appeal shall be complied with prior to the filing of an appeal, and the statement of issues in the brief should note such compliance.
 
-(d) The record in the application should be complete prior to the filing of an appeal. Evidence should not be filed with the Board after the filing of a notice of appeal. If the appellant or the examining attorney desires to introduce additional evidence after an appeal is filed, the appellant or the examining attorney should submit a request to the Board to suspend the appeal and to remand the application for further examination.
+(d) The record should be complete prior to the filing of an appeal. Evidence should not be filed with the Board after the filing of a notice of appeal.
+
+(1) In an appeal from a refusal to register, if the appellant or the examining attorney desires to introduce additional evidence after an appeal is filed, the appellant or the examining attorney should submit a request to the Board to suspend the appeal and to remand the application for further examination.
+
+(2) In an appeal from an expungement or reexamination proceeding, no additional evidence may be included once an appeal is filed, and the Board may not remand for further examination.
 
 (e)(1) If the appellant desires an oral hearing, a request should be made by a separate notice filed not later than ten days after the due date for a reply brief. Oral argument will be heard by at least three Administrative Trademark Judges or other statutory members of the Trademark Trial and Appeal Board at the time specified in the notice of hearing, which may be reset if the Board is prevented from hearing the argument at the specified time or, so far as is convenient and proper, to meet the wish of the appellant or the appellant's attorney or other authorized representative. Appellants, examining attorneys, and members of the Board may attend in person or, at the discretion of the Board, remotely.
 
@@ -34,4 +40,4 @@ Link to an amendment published at 86 FR 64331, Nov. 17, 2021.
 
 (g) An application which has been considered and decided on appeal will not be reopened except for the entry of a disclaimer under section 6 of the Act of 1946 or upon order of the Director, but a petition to the Director to reopen an application will be considered only upon a showing of sufficient cause for consideration of any matter not already adjudicated.
 
-[48 FR 23141, May 23, 1983, as amended at 54 FR 34901, Aug. 22, 1989; 68 FR 55768, Sept. 26, 2003; 72 FR 42263, Aug. 1, 2007; 80 FR 2312, Jan. 16, 2015; 81 FR 69985, Oct. 7, 2016]
+[48 FR 23141, May 23, 1983, as amended at 54 FR 34901, Aug. 22, 1989; 68 FR 55768, Sept. 26, 2003; 72 FR 42263, Aug. 1, 2007; 80 FR 2312, Jan. 16, 2015; 81 FR 69985, Oct. 7, 2016; 86 FR 64331, Nov. 17, 2021]

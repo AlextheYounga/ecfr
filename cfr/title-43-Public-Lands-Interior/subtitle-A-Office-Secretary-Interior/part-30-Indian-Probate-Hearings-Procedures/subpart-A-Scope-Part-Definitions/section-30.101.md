@@ -1,5 +1,7 @@
 ##### § 30.101 What definitions do I need to know? #####
 
+Link to an amendment published at 86 FR 72083, Dec. 20, 2021.
+
 *Act* means the Indian Land Consolidation Act and its amendments, including the American Indian Probate Reform Act of 2004 (AIPRA), Public Law 108-374, as codified at 25 U.S.C. 2201 *et seq.*
 
 *Administrative law judge (ALJ)* means an administrative law judge with OHA appointed under the Administrative Procedure Act, 5 U.S.C. 3105.

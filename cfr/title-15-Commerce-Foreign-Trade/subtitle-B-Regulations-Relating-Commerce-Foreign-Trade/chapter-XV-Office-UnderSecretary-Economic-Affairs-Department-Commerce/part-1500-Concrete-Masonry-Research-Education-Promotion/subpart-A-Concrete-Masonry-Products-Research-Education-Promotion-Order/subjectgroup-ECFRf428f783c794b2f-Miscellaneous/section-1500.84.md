@@ -1,0 +1,3 @@
+##### § 1500.84 Notice and advance registration. #####
+
+At least 30 days before a referendum is to be conducted under this Order, the Secretary shall notify all manufacturers of the period during which the referendum will occur through publication in the Federal Register. The notice shall explain any registration and voting procedures. A manufacturer who chooses to vote in any referendum conducted under this Order shall register with the Secretary prior to the voting period.

@@ -1,5 +1,7 @@
 ##### § 30.254 What happens when a person dies without a valid will and has no heirs? #####
 
+Link to an amendment published at 86 FR 72089, Dec. 20, 2021.Link to an amendment published at 86 FR 72093, Dec. 20, 2021.
+
 The judge will determine whether a person with trust or restricted property died intestate and without heirs, and the judge will determine whether 25 U.S.C. 2206(a) applies, as shown in the following table.
 
 |              If . . .              |                                                              Then . . .                                                              |                                                             Or . . .                                                              |

@@ -1,5 +1,7 @@
 ##### § 30.210 How will I receive notice of the formal probate proceeding? #####
 
+Link to an amendment published at 86 FR 72086, Dec. 20, 2021.
+
 OHA will provide notice of the formal probate proceeding under § 30.114(a) by mail and by posting. A posted and published notice may contain notices for more than one hearing, and need only specify the names of the decedents, the captions of the cases and the dates, times, places, and purposes of the hearings.
 
 (a) The notice must:

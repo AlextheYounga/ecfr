@@ -1,0 +1,5 @@
+##### § 1500.42 Term of office. #####
+
+(a) Board members and any alternates will serve for a term of three years, except for the initial members as described below. Board members and any alternates will be able to serve a maximum of two consecutive three-year terms and may serve additional terms, of up to two consecutive three-year terms, after rotating off the Board. When the Board is first established, the initial members will be assigned initial terms of two, three and four years. Initial terms will be staggered to assure continuity. Each term of office will end on December 31, with new terms of office beginning on January 1. Members serving the initial terms of two and three years will be eligible to serve a second term of three years.
+
+(b) Thereafter, each of the positions will carry a full three-year term. Notwithstanding the limitations on consecutive terms, a Board member or alternate Board member may continue to serve until a successor is appointed by the Secretary.

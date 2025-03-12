@@ -1,5 +1,7 @@
 ##### § 30.238 May I file a petition for rehearing if I disagree with the judge's decision in the formal probate hearing? #####
 
+Link to an amendment published at 86 FR 72087, Dec. 20, 2021.
+
 (a) If you are adversely affected by the decision, you may file with the judge a written petition for rehearing within 30 days after the date on which the decision was mailed under § 30.237.
 
 (b) If the petition is based on newly discovered evidence, it must:

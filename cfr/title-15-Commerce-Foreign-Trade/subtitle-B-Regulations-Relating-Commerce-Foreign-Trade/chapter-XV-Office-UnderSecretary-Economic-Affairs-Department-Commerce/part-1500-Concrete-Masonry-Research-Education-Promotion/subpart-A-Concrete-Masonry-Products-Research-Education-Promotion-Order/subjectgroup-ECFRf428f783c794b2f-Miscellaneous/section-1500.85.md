@@ -1,0 +1,3 @@
+##### § 1500.85 Personal liability. #####
+
+No member or employee of the Board shall be held personally responsible, either individually or jointly with others, when they exercise their discretionary duties of their office, in good faith, while acting within the scope of their authority, to any person for errors in judgment, either of commission or omission, as such member or employee, except for acts of dishonesty or willful misconduct

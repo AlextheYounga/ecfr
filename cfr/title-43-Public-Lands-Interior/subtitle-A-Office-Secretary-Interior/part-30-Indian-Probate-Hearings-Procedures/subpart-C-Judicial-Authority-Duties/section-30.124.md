@@ -1,5 +1,7 @@
 ##### § 30.124 When may a judge make a finding of death? #####
 
+Link to an amendment published at 86 FR 72084, Dec. 20, 2021.
+
 (a) A judge may make a finding that an heir, devisee, or person for whom a probate case has been opened is deceased, by reason of extended unexplained absence or other pertinent circumstances. The judge must include the date of death in the finding. The judge will make a finding of death only on:
 
 (1) A determination from a court of competent jurisdiction; or

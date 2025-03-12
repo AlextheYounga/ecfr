@@ -1,7 +1,5 @@
 ##### § 2.146 Petitions to the Director. #####
 
-Link to an amendment published at 86 FR 64331, Nov. 17, 2021.
-
 (a) Petition may be taken to the Director in a trademark case:
 
 (1) From any repeated or final formal requirement of the examiner in the ex parte prosecution of an application if permitted by § 2.63(a) and (b);
@@ -14,9 +12,11 @@ Link to an amendment published at 86 FR 64331, Nov. 17, 2021.
 
 (5) In an extraordinary situation, when justice requires and no other party is injured thereby, to request a suspension or waiver of any requirement of the rules not being a requirement of the Act of 1946.
 
-(b) Questions of substance arising during the ex parte prosecution of applications, including, but not limited to, questions arising under sections 2, 3, 4, 5, 6, and 23 of the Act of 1946, are not appropriate subject matter for petitions to the Director.
+(b) Questions of substance arising during the ex parte prosecution of applications, or expungement or reexamination of registrations, including, but not limited to, questions arising under sections 2, 3, 4, 5, 6, 16A, 16B, and 23 of the Act of 1946, are not appropriate subject matter for petitions to the Director.
 
-(c) Every petition to the Director shall include a statement of the facts relevant to the petition, the points to be reviewed, the action or relief requested, and the fee required by § 2.6. Any brief in support of the petition shall be embodied in or accompany the petition. The petition must be signed by the petitioner, someone with legal authority to bind the petitioner (e.g., a corporate officer or general partner of a partnership), or a practitioner qualified to practice under § 11.14 of this chapter, in accordance with the requirements of § 2.193(e)(5). When facts are to be proved on petition, the petitioner must submit proof in the form of verified statements signed by someone with firsthand knowledge of the facts to be proved, and any exhibits.
+(c)(1) Every petition to the Director shall include a statement of the facts relevant to the petition, the points to be reviewed, the action or relief requested, and the fee required by § 2.6. Any brief in support of the petition shall be embodied in or accompany the petition. The petition must be signed by the petitioner, someone with legal authority to bind the petitioner (e.g., a corporate officer or general partner of a partnership), or a practitioner qualified to practice under § 11.14 of this chapter, in accordance with the requirements of § 2.193(e)(5). When facts are to be proved on petition, the petitioner must submit proof in the form of verified statements signed by someone with firsthand knowledge of the facts to be proved, and any exhibits.
+
+(2) A petition requesting reinstatement of a registration cancelled in whole or in part for failure to timely respond to an Office action issued in an expungement and/or reexamination proceeding must include a response to the Office action, signed in accordance with § 2.193, or an appeal.
 
 (d) Unless a different deadline is specified elsewhere in this chapter, a petition under this section must be filed by not later than:
 
@@ -26,9 +26,11 @@ Link to an amendment published at 86 FR 64331, Nov. 17, 2021.
 
 (i) Two months of actual knowledge of the abandonment of an application and not later than six months after the date the trademark electronic records system indicates that the application is abandoned in full or in part;
 
-(ii) Where the registrant has timely filed an affidavit of use or excusable non-use under Section 8 or 71 of the Act, or a renewal application under Section 9 of the Act, two months after the date of actual knowledge of the cancellation/expiration of a registration and not later than six months after the date the trademark electronic records system indicates that the registration is cancelled/expired; or
+(ii) Where the registrant has timely filed an affidavit of use or excusable non-use under Section 8 or 71 of the Act, or a renewal application under Section 9 of the Act, two months after the date of actual knowledge of the cancellation/expiration of a registration and not later than six months after the date the trademark electronic records system indicates that the registration is cancelled/expired;
 
-(iii) Two months after the date of actual knowledge of the denial of certification of an international application under § 7.13(b) and not later than six months after the trademark electronic records system indicates that certification is denied.
+(iii) Two months after the date of actual knowledge of the denial of certification of an international application under § 7.13 of this chapter and not later than six months after the trademark electronic records system indicates that certification is denied; or
+
+(iv) Where an expungement or reexamination proceeding has been instituted under § 2.92, two months after the date of actual knowledge of the cancellation of goods and/or services in a registration and not later than six months after the date the trademark electronic record system indicates that the goods and/or services are cancelled.
 
 (e)(1) A petition from the grant or denial of a request for an extension of time to file a notice of opposition must be filed by not later than fifteen days after the issue date of the grant or denial of the request. A petition from the grant of a request must be served on the attorney or other authorized representative of the potential opposer, if any, or on the potential opposer. A petition from the denial of a request must be served on the attorney or other authorized representative of the applicant, if any, or on the applicant. Proof of service of the petition must be made as provided by § 2.119. The potential opposer or the applicant, as the case may be, may file a response by not later than fifteen days after the date of service of the petition and must serve a copy of the response on the petitioner, with proof of service as provided by § 2.119. No further document relating to the petition may be filed.
 
@@ -50,4 +52,4 @@ Link to an amendment published at 86 FR 64331, Nov. 17, 2021.
 
 (2) The petitioner pays a second petition fee under § 2.6.
 
-[82 FR 29409, June 29, 2017, as amended at 84 FR 37095, July 31, 2019]
+[82 FR 29409, June 29, 2017, as amended at 84 FR 37095, July 31, 2019; 86 FR 64331, Nov. 17, 2021]

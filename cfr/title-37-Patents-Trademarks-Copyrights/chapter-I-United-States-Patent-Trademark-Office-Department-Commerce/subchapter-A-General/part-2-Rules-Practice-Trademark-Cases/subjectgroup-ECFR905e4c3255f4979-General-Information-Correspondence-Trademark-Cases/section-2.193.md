@@ -1,7 +1,5 @@
 ##### § 2.193 Trademark correspondence and signature requirements. #####
 
-Link to an amendment published at 86 FR 64333, Nov. 17, 2021.
-
 (a) *Signature required.* Each piece of correspondence that requires a signature must bear:
 
 (1) A handwritten signature personally signed in permanent ink by the person named as the signatory, or a true copy thereof; or
@@ -38,7 +36,7 @@ Link to an amendment published at 86 FR 64333, Nov. 17, 2021.
 
 (4) *Petitions to revive under § 2.66.* A petition to revive under § 2.66 must be signed by someone with firsthand knowledge of the facts regarding unintentional delay.
 
-(5) *Petitions to Director under § 2.146 or § 2.147.* A petition to the Director under § 2.146 or § 2.147 must be signed by the petitioner, someone with legal authority to bind the petitioner (*e.g.,* a corporate officer or general partner of a partnership), or a practitioner qualified to practice under § 11.14 of this chapter, in accordance with the following guidelines:
+(5) *Petitions to Director under § 2.146 or § 2.147 or for expungement or reexamination under § 2.91.* A petition to the Director under § 2.146 or § 2.147 or for expungement or reexamination under § 2.91 must be signed by the petitioner, someone with legal authority to bind the petitioner (e.g., a corporate officer or general partner of a partnership), or a practitioner qualified to practice under § 11.14 of this chapter, in accordance with the following guidelines:
 
 (i) If the petitioner is represented by a practitioner qualified to practice before the Office under § 11.14 of this chapter, the practitioner must sign; or
 
@@ -68,4 +66,4 @@ Link to an amendment published at 86 FR 64333, Nov. 17, 2021.
 
 (i) *Certified documents required by statute.* When a statute requires that a document be certified, a copy or facsimile transmission of the certification is not acceptable.
 
-[74 FR 54910, Oct. 26, 2009, as amended at 80 FR 33189, June 11, 2015; 83 FR 1559, Jan. 12, 2018; 84 FR 37096, July 31, 2019]
+[74 FR 54910, Oct. 26, 2009, as amended at 80 FR 33189, June 11, 2015; 83 FR 1559, Jan. 12, 2018; 84 FR 37096, July 31, 2019; 86 FR 64333, Nov. 17, 2021]

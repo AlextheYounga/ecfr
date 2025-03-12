@@ -1,5 +1,7 @@
 ##### § 30.126 What happens if property was omitted from the inventory of the estate? #####
 
+Link to an amendment published at 86 FR 72084, Dec. 20, 2021.
+
 This section applies when, after issuance of a decision and order, it is found that trust or restricted property or an interest therein belonging to a decedent was not included in the inventory.
 
 (a) A judge can issue an order modifying the inventory to include the omitted property for distribution under the original decision. The judge must furnish copies of any modification order to the agency and to all interested parties who share in the estate.

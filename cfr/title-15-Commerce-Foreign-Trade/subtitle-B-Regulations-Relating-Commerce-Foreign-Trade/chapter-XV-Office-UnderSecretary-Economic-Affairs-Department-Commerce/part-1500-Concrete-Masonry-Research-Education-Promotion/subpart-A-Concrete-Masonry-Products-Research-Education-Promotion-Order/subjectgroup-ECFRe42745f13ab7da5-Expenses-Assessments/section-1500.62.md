@@ -1,0 +1,3 @@
+##### § 1500.62 Patents, copyrights, trademarks, information, publications, and product formulations. #####
+
+Ownership and allocation of rights to patents, copyrights, inventions, or publications, developed through the use of non-Federal funds remitted to the Board under the Order shall be determined by written agreement between the Board and the party(ies) receiving funds for the development of such inventions, patents, copyrights or publications.

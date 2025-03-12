@@ -1,8 +1,6 @@
 ##### § 2.149 Letters of protest against pending applications. #####
 
-Link to an amendment published at 86 FR 64332, Nov. 17, 2021.
-
-(a) A third party may submit, for consideration and entry in the record of a trademark application, objective evidence relevant to the examination of the application for a ground for refusal of registration if the submission is made in accordance with this section.
+(a) A third party may submit, for consideration and inclusion in the record of a trademark application, objective evidence relevant to the examination of the application for a ground for refusal of registration if the submission is made in accordance with this section.
 
 (b) A party protesting multiple applications must file a separate submission under this section for each application.
 
@@ -44,10 +42,10 @@ Link to an amendment published at 86 FR 64332, Nov. 17, 2021.
 
 (h) If a submission is determined to be in compliance with this section, only the specified ground(s) for refusal and the provided evidence relevant to the ground(s) for refusal will be included in the application record for consideration by the examining attorney. An applicant should not reply to the entry into the application record of evidence entered under this section.
 
-(i) Any determination whether to include in an application record the ground(s) or evidence for a refusal of registration in a submission under this section is not petitionable.
+(i) Any determination whether to include evidence submitted under this section in the record of an application is final and non-reviewable, and a determination to include or not include evidence in the application record shall not prejudice any party's right to raise any issue and rely on any evidence in any other proceeding.
 
 (j) A third party filing a submission under this section will not receive any communication from the Office relating to the submission other than acknowledgement that it has been received by the Office and notification of whether the submission is found to be compliant or non-compliant with this section. Communications with the third party will not be made of record in the application. The Office will not accept amendments to a non-compliant submission that was previously filed. Instead, a third party who previously filed a non-compliant submission may file another submission that meets the requirements of paragraph (f) of this section, provided the time period for filing a submission in paragraph (c) of this section has not closed.
 
 (k) The limited involvement of the third party ends with the filing of the submission under this section. The third party may not directly contact the examining attorney assigned to the application.
 
-[85 FR 73215, Nov. 17, 2020]
+[85 FR 73215, Nov. 17, 2020, as amended at 86 FR 64332, Nov. 17, 2021]

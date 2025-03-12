@@ -1,5 +1,7 @@
 ##### § 30.214 What must a notice of hearing contain? #####
 
+Link to an amendment published at 86 FR 72087, Dec. 20, 2021.
+
 The notice of hearing under § 30.114(a) must:
 
 (a) State the name of the decedent and caption of the case;

@@ -1,7 +1,5 @@
 ##### § 660.511 Catch restrictions. #####
 
-Link to an amendment published at 86 FR 64827, Nov. 19, 2021.
-
 (a) All CPS harvested shoreward of the outer boundary of the EEZ (0-200 nautical miles off shore) will be counted toward the catch limitations specified in this section.
 
 (b) The trip limit for harvesting vessels fishing in the CPS Limited Entry Zone for CPS other than live bait without a limited entry permit is 5 mt tons of all CPS finfish combined.
@@ -24,11 +22,11 @@ Link to an amendment published at 86 FR 64827, Nov. 19, 2021.
 
 (i) The following harvest specifications apply for Pacific mackerel:
 
-(1) For the Pacific mackerel fishing season July 1, 2019, through June 30, 2020, the harvest guideline is 11,109 mt and the ACT is 10,109 mt; and
+(1) For the Pacific mackerel fishing season July 1, 2021, through June 30, 2022, the harvest guideline is 8,323 mt and the ACT is 7,323 mt; and
 
-(2) For the Pacific mackerel fishing season July 1, 2020, through June 30, 2021, the harvest guideline is 7,950 mt and the ACT of 6,950 mt.
+(2) For the Pacific mackerel fishing season July 1, 2022, through June 30, 2023, the harvest guideline is 5,822 mt and the ACT of 4,822 mt.
 
-(j) When an ACT in paragraph (i) of this section has been reached or exceeded, then for the remainder of the Pacific mackerel fishing season, Pacific mackerel may not be targeted and landings of Pacific mackerel may not exceed: 45 percent of landings when Pacific mackerel are landed in CPS fisheries (in other words, no more than 45 percent by weight of the CPS landed per trip may be Pacific mackerel), or up to 3 mt of Pacific mackerel when landed in non-CPS fisheries. The Regional Administer shall announce in the Federal Register the date that an ACT is reached or exceeded, and the date and time that the restrictions described in this paragraph go into effect.
+(j) When an ACT in paragraph (i) of this section has been reached or exceeded, then for the remainder of the Pacific mackerel fishing season, Pacific mackerel may not be targeted and landings of Pacific mackerel may not exceed: 45 percent of landings when Pacific mackerel are landed in CPS fisheries (in other words, no more than 45 percent by weight of the CPS landed per trip may be Pacific mackerel), or up to 3 mt of Pacific mackerel when landed in non-CPS fisheries. The NMFS West Coast Regional Administer shall announce in the Federal Register the date that an ACT is reached or exceeded, and the date and time that the restrictions described in this paragraph (j) go into effect.
 
 (k) The following ACLs apply to fishing for monitored stocks of CPS finfish:
 
@@ -36,4 +34,4 @@ Link to an amendment published at 86 FR 64827, Nov. 19, 2021.
 
 (2) [Reserved]
 
-[64 FR 69893, Dec. 15, 1999, as amended at 68 FR 52527, Sept. 4, 2003; 71 FR 37001, June 29, 2006; 79 FR 11344, Feb. 28, 2014; 83 FR 6473, Feb. 14, 2018; 83 FR 28784, June 21, 2018; 84 FR 25202, May 31, 2019; 84 FR 65927, Dec. 2, 2019; 85 FR 86865, Dec. 31, 2020]
+[64 FR 69893, Dec. 15, 1999, as amended at 68 FR 52527, Sept. 4, 2003; 71 FR 37001, June 29, 2006; 79 FR 11344, Feb. 28, 2014; 83 FR 6473, Feb. 14, 2018; 83 FR 28784, June 21, 2018; 84 FR 25202, May 31, 2019; 84 FR 65927, Dec. 2, 2019; 85 FR 86865, Dec. 31, 2020; 86 FR 64827, Nov. 19, 2021]

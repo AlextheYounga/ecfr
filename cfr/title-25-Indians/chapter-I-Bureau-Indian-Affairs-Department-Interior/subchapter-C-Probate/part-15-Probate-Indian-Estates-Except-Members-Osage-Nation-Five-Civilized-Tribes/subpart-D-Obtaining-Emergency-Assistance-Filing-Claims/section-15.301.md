@@ -1,5 +1,7 @@
 ##### § 15.301 May I receive funds from the decedent's IIM account for funeral services? #####
 
+Link to an amendment published at 86 FR 72082, Dec. 20, 2021.
+
 (a) You may request an amount of no more than $1,000 from the decedent's IIM account if:
 
 (1) You are responsible for making the funeral arrangements on behalf of the family of a decedent who had an IIM account;

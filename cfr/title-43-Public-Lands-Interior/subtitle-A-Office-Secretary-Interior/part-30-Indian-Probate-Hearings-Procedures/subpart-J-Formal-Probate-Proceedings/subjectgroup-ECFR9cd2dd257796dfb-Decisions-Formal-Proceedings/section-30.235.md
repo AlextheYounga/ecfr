@@ -1,5 +1,7 @@
 ##### § 30.235 What will the judge's decision in a formal probate proceeding contain? #####
 
+Link to an amendment published at 86 FR 72087, Dec. 20, 2021.
+
 The judge must decide the issues of fact and law involved in any proceeding and issue a written decision that meets the requirements of this section.
 
 (a) In all cases, the judge's decision must:

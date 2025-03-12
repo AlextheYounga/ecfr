@@ -1,0 +1,3 @@
+##### § 1500.71 Books and records. #####
+
+Each manufacturer subject to this Order shall maintain and make available for inspection by the Secretary such books and records as are necessary to carry out the provisions of this Order, including such records as are necessary to verify any reports required. Such records shall be retained for at least 7 years beyond the fiscal period of their applicability.

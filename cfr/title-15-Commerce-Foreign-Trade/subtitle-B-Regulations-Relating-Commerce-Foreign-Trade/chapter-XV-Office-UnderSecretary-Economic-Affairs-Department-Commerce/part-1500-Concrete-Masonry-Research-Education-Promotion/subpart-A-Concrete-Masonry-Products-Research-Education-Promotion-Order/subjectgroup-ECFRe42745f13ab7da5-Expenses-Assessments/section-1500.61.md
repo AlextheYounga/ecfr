@@ -1,0 +1,3 @@
+##### § 1500.61 Independent evaluation. #####
+
+The Board shall authorize and fund an independent evaluation of the effectiveness of this Order and other programs conducted by the Board beginning five years after October 5, 2018, and every 3 years thereafter. The Board shall submit to the Secretary, and make available to the public, the results of each periodic independent evaluation conducted under this paragraph.

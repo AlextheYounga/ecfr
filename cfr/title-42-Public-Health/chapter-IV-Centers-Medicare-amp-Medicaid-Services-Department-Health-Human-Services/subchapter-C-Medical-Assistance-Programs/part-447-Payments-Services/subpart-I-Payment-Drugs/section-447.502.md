@@ -1,6 +1,6 @@
 ##### § 447.502 Definitions. #####
 
-Link to an amendment published at 85 FR 87101, Dec. 31, 2020.Link to an amendment published at 86 FR 64825, Nov. 19, 2021.
+Link to an amendment published at 85 FR 87101, Dec. 31, 2020.
 
 For the purpose of this subpart, the following definitions apply:
 
@@ -128,9 +128,9 @@ For the purpose of this subpart, the following definitions apply:
 
 *Single source drug* means a covered outpatient drug, including a drug product approved for marketing as a non-prescription drug that is regarded as a covered outpatient drug under section 1927(k)(4) of the Act, which is produced or distributed under a new drug application approved by the FDA, including a drug product marketed by any cross-licensed producers or distributors operating under the new drug application unless the Secretary determines that a narrow exception applies (as described in this section), and includes a covered outpatient drug that is a biological product licensed, produced, or distributed under a biologics license application approved by the FDA.
 
-*States* means the 50 States and the District of Columbia and, beginning April 1, 2022, also includes the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, the Commonwealth of the Northern Mariana Islands and American Samoa.
+*States* means the 50 States and the District of Columbia and, beginning January 1, 2023, also includes the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa.
 
-*United States* means the 50 States and the District of Columbia and, beginning April 1, 2022, also includes the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, the Commonwealth of the Northern Mariana Islands and American Samoa.
+*United States* means the 50 States and the District of Columbia and, beginning January 1, 2023, also includes the Commonwealth of Puerto Rico, the Virgin Islands of the United States, Guam, the Commonwealth of the Northern Mariana Islands, and American Samoa.
 
 *Value-based purchasing (VBP) arrangement* means an arrangement or agreement intended to align pricing and/or payments to an observed or expected therapeutic or clinical value in a select population and includes, but is not limited to:
 
@@ -140,4 +140,4 @@ For the purpose of this subpart, the following definitions apply:
 
 *Wholesaler* means a drug wholesaler that is engaged in wholesale distribution of prescription drugs to retail community pharmacies, including but not limited to repackers, distributors, own-label distributors, private-label distributors, jobbers, brokers, warehouses (including distributor's warehouses, chain drug warehouses, and wholesale drug warehouses), independent wholesale drug traders, and retail community pharmacies that conduct wholesale distributions.
 
-[81 FR 5347, Feb. 1, 2016, as amended at 81 FR 80005, Nov. 15, 2016; 84 FR 64786, Nov. 25, 2019; 85 FR 87101, Dec. 31, 2020]
+[81 FR 5347, Feb. 1, 2016, as amended at 81 FR 80005, Nov. 15, 2016; 84 FR 64786, Nov. 25, 2019; 85 FR 87101, Dec. 31, 2020; 86 FR 64825, Nov. 19, 2021]

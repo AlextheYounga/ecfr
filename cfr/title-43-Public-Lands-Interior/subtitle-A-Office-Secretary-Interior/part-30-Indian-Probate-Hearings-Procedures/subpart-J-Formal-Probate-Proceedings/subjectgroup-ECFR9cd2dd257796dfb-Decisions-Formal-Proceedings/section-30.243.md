@@ -1,5 +1,7 @@
 ##### § 30.243 May a closed probate case be reopened? #####
 
+Link to an amendment published at 86 FR 72087, Dec. 20, 2021.
+
 (a) The judge may reopen a closed probate case as shown in the following table.
 
 |         How the case can be reopened          |                                                            Applicable deadline                                                            |                                             Standard for reopening the case                                              |

@@ -1,7 +1,5 @@
 ##### § 2.19 Revocation or withdrawal of attorney. #####
 
-Link to an amendment published at 86 FR 64325, Nov. 17, 2021.
-
 (a) *Revocation.* (1) Authority to represent an applicant, registrant or party to a proceeding before the Office may be revoked at any stage in the proceedings of a trademark case, upon written notification signed by the applicant, registrant, or party to the proceeding, or by someone with legal authority to bind the applicant, registrant, or party (e.g., a corporate officer or general partner of a partnership). In the case of joint applicants or joint registrants, all must sign.
 
 (2) When a power of attorney is revoked, the Office will communicate directly with the applicant, registrant, or party to the proceeding, or with the new attorney or domestic representative if appropriate.
@@ -22,4 +20,6 @@ Link to an amendment published at 86 FR 64325, Nov. 17, 2021.
 
 (ii) If more than one qualified practitioner is of record, a statement that representation by co-counsel is ongoing.
 
-[74 FR 54907, Oct. 26, 2009, as amended at 80 FR 2310, Jan. 16, 2015]
+(c) *Recognition ineffective.* If recognition is not effective under § 2.17(b)(4), then revocation under paragraph (a) of this section or withdrawal under paragraph (b) of this section is not required.
+
+[74 FR 54907, Oct. 26, 2009, as amended at 80 FR 2310, Jan. 16, 2015; 86 FR 64325, Nov. 17, 2021]

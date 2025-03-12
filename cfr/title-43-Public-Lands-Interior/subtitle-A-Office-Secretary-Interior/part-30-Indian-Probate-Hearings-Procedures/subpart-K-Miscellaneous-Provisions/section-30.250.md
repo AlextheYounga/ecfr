@@ -1,5 +1,7 @@
 ##### § 30.250 When does the anti-lapse provision apply? #####
 
+Link to an amendment published at 86 FR 72089, Dec. 20, 2021.
+
 (a) The following table illustrates how the anti-lapse provision applies.
 
 |                                                    If . . .                                                    |                           And . . .                            |                                       Then . . .                                       |

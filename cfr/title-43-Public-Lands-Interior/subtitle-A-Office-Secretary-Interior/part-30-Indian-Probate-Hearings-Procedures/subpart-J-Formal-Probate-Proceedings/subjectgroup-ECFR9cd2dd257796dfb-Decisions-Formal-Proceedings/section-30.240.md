@@ -1,5 +1,7 @@
 ##### § 30.240 How will the judge decide a petition for rehearing? #####
 
+Link to an amendment published at 86 FR 72087, Dec. 20, 2021.
+
 (a) If proper grounds are not shown, or if the petition is not timely filed, the judge will:
 
 (1) Issue an order denying the petition for rehearing and including the reasons for denial; and

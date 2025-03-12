@@ -1,0 +1,21 @@
+##### § 2.114 Answer. #####
+
+(a)(1) If no answer is filed within the time initially set, or as later may be reset by the Board, the petition may be decided as in the case of default. The failure to file a timely answer tolls all deadlines, including the discovery conference, until the issue of default is resolved.
+
+(2) If the cancellation proceeding is based solely on abandonment or nonuse and default judgment is entered with no appearance by the defendant, and no filings are made other than the petition to cancel, $200 per class of the petition to cancel fee may be refunded.
+
+(b)(1) An answer must be filed through ESTTA. In the event that ESTTA is unavailable due to technical problems, or when extraordinary circumstances are present, an answer may be filed in paper form. An answer filed in paper form must be accompanied by a Petition to the Director under § 2.146, with the fees therefor and the showing required under this paragraph (b).
+
+(2) An answer shall state in short and plain terms the respondent's defenses to each claim asserted and shall admit or deny the averments upon which the petitioner relies. If the respondent is without knowledge or information sufficient to form a belief as to the truth of an averment, respondent shall so state and this will have the effect of a denial. Denials may take any of the forms specified in Rule 8(b) of the Federal Rules of Civil Procedure. An answer may contain any defense, including the affirmative defenses of unclean hands, laches, estoppel, acquiescence, fraud, mistake, prior judgment, or any other matter constituting an avoidance or affirmative defense. When pleading special matters, the Federal Rules of Civil Procedure shall be followed. A reply to an affirmative defense shall not be filed. When a defense attacks the validity of a registration pleaded in the petition, paragraph (b)(3) of this section shall govern. A pleaded registration is a registration identified by number by the party in position of plaintiff in an original petition for cancellation, or a counterclaim petition for cancellation, or in any amendment thereto made under Rule 15 of the Federal Rules of Civil Procedure.
+
+(3)(i) A defense attacking the validity of any one or more of the registrations pleaded in the petition shall be a compulsory counterclaim if grounds for such counterclaim exist at the time when the answer is filed. If grounds for a counterclaim are known to respondent when the answer to the petition is filed, the counterclaim shall be pleaded with or as part of the answer. If grounds for a counterclaim are learned during the course of the cancellation proceeding, the counterclaim shall be pleaded promptly after the grounds therefor are learned. A counterclaim need not be filed if the claim is the subject of another proceeding between the same parties or anyone in privity therewith; but the party in position of respondent and counterclaim plaintiff must promptly inform the Board, in the context of the primary cancellation proceeding, of the filing of the other proceeding.
+
+(ii) An attack on the validity of a registration pleaded by a petitioner for cancellation will not be heard unless a counterclaim or separate petition is filed to seek the cancellation of such registration.
+
+(iii) The provisions of §§ 2.111 through 2.115, inclusive, shall be applicable to counterclaims. A time, not less than thirty days, will be designated by the Board within which an answer to the counterclaim must be filed. Such response period may be reset as necessary by the Board, for a time period to be determined by the Board.
+
+(iv) The times for pleading, discovery, testimony, briefs, or oral argument may be reset or extended when necessary, upon motion by a party, or as the Board may deem necessary, to enable a party fully to present or meet a counterclaim or separate petition for cancellation of a registration.
+
+(c) The petition for cancellation or counterclaim petition for cancellation may be withdrawn without prejudice before the answer is filed. After the answer is filed, such petition or counterclaim petition may not be withdrawn without prejudice except with the written consent of the registrant or the registrant's attorney or other authorized representative.
+
+[81 FR 69974, Oct. 7, 2016, as amended at 85 FR 73215, Nov. 17, 2020]

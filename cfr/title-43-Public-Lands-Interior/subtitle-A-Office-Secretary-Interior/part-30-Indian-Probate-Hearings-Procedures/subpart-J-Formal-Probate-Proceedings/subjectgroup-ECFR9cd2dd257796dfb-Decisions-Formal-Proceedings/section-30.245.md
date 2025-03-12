@@ -1,5 +1,7 @@
 ##### § 30.245 What happens if the judge reopens the case? #####
 
+Link to an amendment published at 86 FR 72087, Dec. 20, 2021.
+
 On reopening, the judge may affirm, modify, or vacate the former decision.
 
 (a) The final order on reopening must include a notice stating that interested parties who are adversely affected have a right to appeal the final order to the Board within 30 days of the date on which the order was mailed, and giving the Board's address.

@@ -1,9 +1,9 @@
 ##### § 117.400 Indiana Harbor Canal. #####
 
-Link to an amendment published at 86 FR 64819, Nov. 19, 2021.
-
 (a) Elgin, Joliet, and Eastern Railroad Bridge, 0.68, over the Indiana Harbor Canal need not have a drawtender in continued attendance at the bridge. Ten minutes before the bridge is lowered for train traffic a crewmember from the train will initiate a SECURITE call on VHF-FM Marine Channel 16 that the bridge will be lowering for train traffic and invite any concerned mariners to contact the crewmember on VHF-FM Marine Channel 12. The crewmember will also visually monitor for vessel traffic and listen for the standard bridge opening signal of one prolonged blast and one short blast from vessels already transiting the waterway. After the ten minute warning, another SECURITE shall be made on VHF-FM Marine Channel 16 that the bridge will be lowering for rail traffic, five minutes before lowering. Once the draw tender is satisfied that it is safe, the bridge will be lowered for rail traffic. Once the rail traffic has cleared the bridge, the bridge shall be raised and locked in the fully open to navigation position.
 
 (b) Elgin, Joliet, and Eastern Railroad Bridge, mile 1.89, over the Indiana Harbor Canal need not have a drawtender in continued attendance at the bridge. Ten minutes before the bridge is lowered for train traffic a crewmember from the train will initiate a SECURITE call on VHF-FM Marine Channel 16 that the bridge will be lowering for train traffic and invite any concerned mariners to contact the crewmember on VHF-FM Marine Channel 12. The crewmember will also visually monitor for vessel traffic and listen for the standard bridge opening signal of one prolonged blast and one short blast from vessels already transiting the waterway. After the ten minute warning, another SECURITE shall be made on VHF-FM Marine Channel 16 that the bridge will be lowering for rail traffic, five minutes before lowering. Once the crewmember is satisfied that it is safe, the bridge will be lowered for rail traffic. Once the rail traffic has cleared the bridge, the bridge shall be raised and locked in the fully open to navigation position.
 
-[USCG-2020-0235, 86 FR 18446, Apr. 9, 2021]
+(c) The Indianapolis Boulevard Bridge, mile 2.59, at East Chicago, shall open on signal if at least twelve hours' notice is given.
+
+[USCG-2020-0235, 86 FR 18446, Apr. 9, 2021, as amended by USCG-2021-0332, 86 FR 64819, Nov. 19, 2021]

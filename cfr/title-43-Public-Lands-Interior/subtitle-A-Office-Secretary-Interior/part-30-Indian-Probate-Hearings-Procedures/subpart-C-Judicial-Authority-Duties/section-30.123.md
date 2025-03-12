@@ -1,5 +1,7 @@
 ##### § 30.123 Will the judge determine matters of status and nationality? #####
 
+Link to an amendment published at 86 FR 72084, Dec. 20, 2021.
+
 (a) The judge in a probate proceeding will determine:
 
 (1) The status of eligible heirs or devisees as Indians;

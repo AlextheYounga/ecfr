@@ -1,5 +1,7 @@
 ##### § 30.100 How do I use this part? #####
 
+Link to an amendment published at 86 FR 72083, Dec. 20, 2021.
+
 (a) The following table is a guide to the relevant contents of this part by subject matter.
 
 |                                         For provisions relating to . . .                                         |                consult . . .                |
