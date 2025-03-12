@@ -1,5 +1,7 @@
 ##### § 300.63 Catch sharing plan and domestic management measures in Area 2A. #####
 
+Link to an amendment published at 87 FR 74325, Dec. 5, 2022.
+
 (a) A catch sharing plan (CSP) may be developed by the Pacific Fishery Management Council and approved by NMFS for portions of the fishery. Any approved CSP may be obtained from the Administrator, West Coast Region, NMFS.
 
 (b)(1) Each year, before January 1, NMFS will publish a proposal to govern the recreational fishery under the CSP for the following year and will seek public comment. The comment period will extend until after the Commission's annual meeting, so the public will have the opportunity to consider the final area 2A total allowable catch (TAC) before submitting comments. After the Commission's annual meeting and review of public comments, NMFS will publish in the Federal Register the final rule governing sport fishing in area 2A. Annual management measures may be adjusted inseason by NMFS.

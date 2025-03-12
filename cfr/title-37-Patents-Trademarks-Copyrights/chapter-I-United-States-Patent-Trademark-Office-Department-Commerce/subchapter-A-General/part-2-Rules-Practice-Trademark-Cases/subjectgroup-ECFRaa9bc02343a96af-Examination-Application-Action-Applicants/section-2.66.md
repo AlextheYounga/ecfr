@@ -1,24 +1,26 @@
 ##### § 2.66 Revival of applications abandoned in full or in part due to unintentional delay. #####
 
-Link to an amendment published at 86 FR 64326, Nov. 17, 2021.Link to a delay of the above amendment published at 87 FR 62032, Oct. 13, 2022.
-
 (a) *Deadline.* The applicant may file a petition to revive an application abandoned in full or in part because the applicant did not timely respond to an Office action or notice of allowance, if the delay was unintentional. The applicant must file the petition by not later than:
 
 (1) Two months after the issue date of the notice of abandonment in full or in part; or
 
 (2) Two months after the date of actual knowledge of the abandonment and not later than six months after the date the trademark electronic records system indicates that the application is abandoned in full or in part, where the applicant declares under § 2.20 or 28 U.S.C. 1746 that it did not receive the notice of abandonment.
 
-(b) *Petition To Revive Application Abandoned in Full or in Part for Failure To Respond to an Office Action.* A petition to revive an application abandoned in full or in part because the applicant did not timely respond to an Office action must include:
+(b) *Petition to revive application abandoned in full or in part for failure to respond to an Office action.* A petition to revive an application abandoned in full or in part because the applicant did not timely respond to an Office action must include:
 
-(1) The petition fee required by § 2.6;
+(1) The petition fee required by § 2.6(a)(15);
 
 (2) A statement, signed by someone with firsthand knowledge of the facts, that the delay in filing the response on or before the due date was unintentional; and
 
-(3) A response to the Office action, signed pursuant to § 2.193(e)(2), or a statement that the applicant did not receive the Office action or the notification that an Office action issued. If the applicant asserts that the unintentional delay is based on non-receipt of an Office action or notification, the applicant may not assert non-receipt of the same Office action or notification in a subsequent petition. When the abandonment is after a final Office action, the response is treated as a request for reconsideration under § 2.63(b)(3) and the applicant must also file:
+(3) A response to the Office action, signed pursuant to § 2.193(e)(2), or a statement that the applicant did not receive the Office action or the notification that an Office action issued. If the applicant asserts that the unintentional delay is based on non-receipt of an Office action or notification, the applicant may not assert non-receipt of the same Office action or notification in a subsequent petition.
+
+(4) If the Office action was subject to a three-month response period under § 2.62(a)(1), and the applicant does not assert non-receipt of the Office action or notification, the petition must also include the fee under § 2.6(a)(28) for a request for extension of time to respond under § 2.62(a)(2).
+
+(5) If the abandonment was after a final Office action, the response is treated as a request for reconsideration under § 2.63(b)(3), and the applicant must also file:
 
 (i) A notice of appeal to the Trademark Trial and Appeal Board under § 2.141 or a petition to the Director under § 2.146, if permitted by § 2.63(b)(2)(iii); or
 
-(ii) A statement that no appeal or petition is being filed from the final refusal(s) or requirement(s).
+(ii) A statement that no appeal or petition is being filed from any final refusal or requirement.
 
 (c) *Petition To Revive Application Abandoned for Failure To Respond to a Notice of Allowance.* A petition to revive an application abandoned because the applicant did not timely respond to a notice of allowance must include:
 
@@ -48,4 +50,4 @@ Link to an amendment published at 86 FR 64326, Nov. 17, 2021.Link to a delay of 
 
 (2) The applicant pays a second petition fee under § 2.6.
 
-[82 FR 29408, June 29, 2017]
+[82 FR 29408, June 29, 2017, as amended at 86 FR 64326, Nov. 17, 2021]
