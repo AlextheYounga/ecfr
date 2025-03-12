@@ -4,8 +4,10 @@ For the purpose of facilitating MedRadio system operation during a MedRadio comm
 
 (a) MedRadio transmitters may transmit in the 401-406 MHz band in accordance with the provisions of § 95.2559(a) for no more than 5 seconds without the communications of data.
 
-(b) MedRadio transmitters may transmit in the 401-406 MHz band in accordance with the provisions of § 95.2559(b)(2) and (3) for no more than 3.6 seconds in total within a one hour time period without the communications of data.
+(b) MedRadio transmitters may transmit in the 401-406 MHz band in accordance with the provisions of § 95.2559(b)(2) and § 95.2559(b)(3) for no more than 3.6 seconds in total within a one hour time period.
 
-(c) MedRadio transmitters may transmit in the 401-406 MHz band in accordance with the provisions of § 95.2559(b)(4) for no more than 360 milliseconds in total within a one hour time period without the communications of data.
+(c) MedRadio transmitters may transmit in the 401-406 MHz band in accordance with the provisions of § 95.2559(b)(4) for no more than 360 milliseconds in total within a one hour time period.
 
 (d) MedRadio programmer/control transmitters operating in the 413-419 MHz, 426-432 MHz, 438-444 MHz, and 451-457 MHz bands shall not transmit with a duty cycle greater than 3 percent.
+
+[82 FR 41104, Aug. 29, 2017, as amended at 86 FR 53566, Sept. 28, 2021]

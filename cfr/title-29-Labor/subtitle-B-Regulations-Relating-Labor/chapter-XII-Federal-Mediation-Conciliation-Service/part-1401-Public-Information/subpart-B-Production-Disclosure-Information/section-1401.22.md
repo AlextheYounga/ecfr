@@ -1,7 +1,13 @@
-##### § 1401.22 Partial disclosure of records. #####
+##### § 1401.22 Requirements for making requests. #####
 
-(a) If a record contains both disclosable and nondisclosable information, the nondisclosable information will be deleted and the remaining record will be disclosed unless the two are so inextricably intertwined that it is not possible to separate them.
+(a) *General information.* (1) A requester can submit requests through one of the following ways: Submitting a request through the public portal on the FMCS FOIA website; sending an electronic request to the Office of General Counsel, *foia@fmcs.gov;* or writing directly to the FMCS FOIA office at 250 E Street SW, Washington, DC 20427. Any additional requirements for submitting a request to the Agency are listed in paragraphs (a)(2) and (3) of this section and in the submitted form available by selecting “FOIA” at the bottom of the FMCS website *www.fmcs.gov/foia.*
 
-(b) Records disclosed in part shall be marked or annotated to show both the amount and the location of the information deleted and the applicable exemption.
+(2) A requester who is making a request for records about the requester must comply with the verification of identity requirements as determined by the FMCS to include providing documentation and completing a verification of identity form.
 
-[77 FR 66540, Nov. 6, 2012]
+(3) Where a request for records pertains to another individual, a requester may receive greater access by submitting either a notarized authorization signed by that individual or a declaration made in compliance with the requirements set forth in 28 U.S.C. 1746 by that individual authorizing disclosure of the records to the requester, or by submitting proof that the individual is deceased (*e.g.,* a copy of a death certificate or an obituary). As an exercise of administrative discretion, the Agency can require a requester to supply additional information, if necessary, to verify that a particular individual has consented to disclosure.
+
+(b) *Description of records sought.* Requesters must describe the records sought in sufficient detail to enable agency personnel to locate them with a reasonable amount of effort. To the extent possible, requesters should include specific information that may help the Agency identify the requested records, such as the date, title or name, author, recipient, subject matter of the record, case number, file designation, or reference number. Before submitting requests, requesters may contact the Agency's FOIA Public Liaison, as identified at *www.fmcs.gov/foia,* to discuss the records they seek and to receive assistance in describing the records. If after receiving a request the FMCS determines that it does not reasonably describe the records sought, the FMCS will inform the requester what additional information is needed or why the request is otherwise insufficient. If a request does not reasonably describe the records sought, the FMCS's response to the request may be delayed.
+
+(c) *Format for requests.* Requests may specify the preferred form or format (including electronic formats) for the records. The FMCS will accommodate the request if the record is readily reproducible in that form or format.
+
+(d) *Content of requests.* Requesters must provide contact information, such as their full name, organization, phone number, email address, and/or mailing address, to assist the Agency in communicating with them and providing released records.

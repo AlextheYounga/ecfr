@@ -1,0 +1,3 @@
+##### § 1401.28 Preservation of records. #####
+
+The FMCS must preserve all correspondence pertaining to the requests that it receives under this subpart, as well as copies of all requested records, until final disposition of the “request” case: No sooner than 91 days after the final response is sent to the requester to allow for a timely appeal. The Agency must not dispose of or destroy records while they are the subject of a pending request, appeal, or lawsuit under the FOIA.

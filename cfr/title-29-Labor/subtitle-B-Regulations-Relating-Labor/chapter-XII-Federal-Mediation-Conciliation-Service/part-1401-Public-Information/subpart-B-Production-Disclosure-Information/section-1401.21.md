@@ -1,13 +1,9 @@
-##### § 1401.21 Information policy. #####
+##### § 1401.21 Proactive disclosures and other disclosure requirements. #####
 
-(a) Except for matters specifically excluded by subsection 552(b) of title 5, United States Code, matters covered by the Privacy Act, or other applicable statutes, all documents and records maintained by this agency or in its custody shall be available to the public upon request filed in accordance with these regulations. To the extent permitted by other laws, the Service also will make available records which it is authorized to withhold under 5 U.S.C. 552(b) whenever it determines that such disclosure is in the public interest.
+(a) The FMCS will make available for public inspection in an electronic format on the Agency's website any record that has been requested 3 or more times. The Agency has a FOIA Public Liaison who can assist individuals in locating records particular to an agency. The FMCS FOIA Public Liaison's contact information is available on the FMCS FOIA web page (*www.fmcs.gov/foia*).
 
-(b) Any document released for inspection under the provisions of this part may be manually copied by the requesting party. The Service shall provide facilities for copying such documents at reasonable times during normal working hours so long as it does not interfere with the efficient operation of the agency.
+(b) The FMCS will withhold information under FOIA only if the Agency “reasonably foresees” that disclosure would harm an interest protected by an exemption or as otherwise allowed by law.
 
-(c) FMCS maintains a public reading room that contains the records required by the FOIA to be made readily available for public inspection and copying. FMCS shall maintain and make available for public inspection and copying a current subject-matter index of its reading room records. Each index shall be updated regularly, at least quarterly, with respect to newly included records. FMCS shall also make reading room records created on or after November 1, 1996, available electronically through FMCS's World Wide Web Site (which can be found at *http://www.fmcs.gov*)
+(c) Partial disclosures are appropriate for use by the FMCS when full disclosure is inappropriate or impossible. If a record contains both disclosable and exempt information, the exempt information will be redacted and the remaining record will be disclosed unless the two are so inextricably intertwined that it is not possible to separate them. Records disclosed in part shall be marked or annotated to show both the amount and the location of the information redacted and the applicable exemption.
 
-(d) Records or documents prepared by FMCS for routine public distribution, e.g., pamphlets and brochures, will be furnished upon request to Office of the Director of Public Affairs, Federal Mediation and Conciliation Service, 2100 K Street NW., Washington, DC 20427, as long as the supply lasts. The provisions of § 1401.36 (fees) are not applicable to such requests except when the supply of such material is exhausted and it is necessary to reproduce individual copies upon specific request.
-
-(e) All existing FMCS records are subject to disposition according to agency record retention schedules and General Records Schedules promulgated by the National Archives and Records Administration.
-
-[50 FR 52917, Dec. 27, 1985, as amended at 77 FR 66539, Nov. 6, 2012]
+(d) All existing FMCS records are subject to disposition according to Agency record retention schedules and the General Records Schedules promulgated by the National Archives and Records Administration.

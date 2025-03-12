@@ -16,7 +16,7 @@ Each FRS transmitter type must be designed to meet the following additional requ
 
 (1) FRS units may transmit digital data containing location information, or requesting location information from one or more other FRS or GMRS units, or containing a brief text message to another specific FRS or GMRS unit or units.
 
-(2) Digital data transmissions must be initiated by a manual action or command of the operator, except that FRS units may be designed to automatically respond with location data upon receiving an interrogation request from another FRS unit or a GMRS unit.
+(2) Digital data transmissions may be initiated by a manual action or command of the operator or on an automatic or periodic basis, and FRS units may be designed to automatically respond with location data upon receiving an interrogation request from another
 
 (3) Digital data transmissions must not exceed one second in duration.
 
@@ -25,3 +25,5 @@ Each FRS transmitter type must be designed to meet the following additional requ
 (d) *Packet mode.* FRS transmitter types must not be capable of transmitting data in the store-and-forward packet operation mode.
 
 (e) Effective September 30, 2019, no person shall manufacture or import hand-held portable radio equipment capable of operating under this subpart (FRS) and other licensed or licensed-by-rule services in this chapter (part 15 unlicensed equipment authorizations are permitted if consistent with part 15 rules).
+
+[82 FR 41104, Aug. 29, 2017, as amended at 86 FR 53565, Sept. 28, 2021]

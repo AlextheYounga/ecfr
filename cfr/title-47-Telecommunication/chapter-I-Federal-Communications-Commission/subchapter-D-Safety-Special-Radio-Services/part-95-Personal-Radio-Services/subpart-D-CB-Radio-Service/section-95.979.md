@@ -6,7 +6,7 @@ Each CBRS transmitter type must be designed to comply with the applicable unwant
 
 |Emission type|    Paragraph     |
 |-------------|------------------|
-|     A3E     |(1), (3), (5), (6)|
+|  A3E, F3E   |(1), (3), (5), (6)|
 |H3E, J3E, R3E|(2), (4), (5), (6)|
 
 (1) 25 dB (decibels) in the frequency band 4 kHz to 8 kHz removed from the channel center frequency;
@@ -28,3 +28,5 @@ Each CBRS transmitter type must be designed to comply with the applicable unwant
 (1) The unwanted emissions limits requirements in this section must be met both with and without the connection of permitted attachments, such as external speakers, microphones, power cords and/or antennas.
 
 (2) Either mean power output or peak envelope power output may be used for measurements, as appropriate for the emission type under test, provided that the same type of power measurement is used for both the transmitter output power and the power of the unwanted emissions.
+
+[82 FR 41104, Aug. 29, 2017, as amended at 86 FR 53565, Sept. 28, 2021]

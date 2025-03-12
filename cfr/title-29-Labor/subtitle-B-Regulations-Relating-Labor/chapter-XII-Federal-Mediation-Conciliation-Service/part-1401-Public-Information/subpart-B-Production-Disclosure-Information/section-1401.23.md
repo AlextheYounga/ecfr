@@ -1,5 +1,19 @@
-##### § 1401.23 Preparation of new records. #####
+##### § 1401.23 Responsibility for responding to requests. #####
 
-(a) Freedom of Information Act and the provisions of this part apply only to existing records that are reasonably described in a request filed with the Federal Mediation and Conciliation Service pursuant to the procedures established in §§ 1401.31-1401.36.
+(a) *In general.* Where the FMCS first receives a request for a record and maintains that record, it is responsible for responding to the request. In determining which records are responsive to a request, the Agency ordinarily will include only records in its possession as of the date that it begins its search. If any other date is used, the Agency must inform the requester of that date. If the FMCS uses any other date due to needing to clarify the request or obtain a fee agreement, it must inform the requester of that date. A record that is excluded from the requirements of the FOIA, pursuant to 5 U.S.C. 552(c), is not considered responsive to a request.
 
-(b) The Director may, in his or her discretion, prepare new records in order to respond to a request for information when he or she concludes that it is in the public interest and promotes the objectives of the Labor-Management Relations Act, 1947, as amended.
+(b) *Authority to grant or deny requests.* The Director of FMCS or designee is authorized to grant or to deny any requests for records that are maintained by the Agency.
+
+(c) *Consultation, referral, and coordination.* When reviewing records in response to a request, the Agency will determine whether another agency of the Federal Government is better able to determine whether the record is exempt from disclosure under the FOIA. As to any such record, the Agency must proceed in one of the following ways:
+
+(1) *Consultation.* When records originated with the agency processing the request but contain information of interest to another agency or other Federal Government office, the FMCS will generally consult with that other entity prior to making a release determination.
+
+(2) *Referral.* (i) Ordinarily, when the FMCS is the originating agency, it is presumed to be in the best position to make the disclosure determination. When the FMCS believes that a different agency is best able to determine whether to disclose the record, the FMCS typically will request the other agency make the final response to the requester.
+
+(ii) Whenever the FMCS refers any part of the responsibility for responding to a request to another agency, it will document the referral, maintain a copy of the record that it refers, and notify the requester of the referral, informing the requester of the name(s) of the agency to which the record was referred, including that agency's FOIA contact information.
+
+(3) *Coordination.* The standard referral procedure in paragraph (c)(2) of this section will not be followed where disclosure of the identity of the agency to which the referral would be made could harm an interest protected by an applicable exemption, such as the exemptions that protect personal privacy or national security interests. In such instances, FMCS would coordinate with the originating agency to seek its views on whether the records should be exempt from disclosure. FMCS will issue the final response to the requester.
+
+(d) *Classified information.* On receipt of any request involving classified information, the FMCS will determine whether the information is currently and properly classified in accordance with applicable classification rules. Whenever a request involves a record containing information that has been classified or may be appropriate for classification by another agency under any applicable executive order concerning the classification of records, FMCS must refer the responsibility for responding to the request regarding that information to the agency that classified the information, or that should consider the information for classification. Whenever the FMCS's record contains information that has been derivatively classified (for example, when it contains information classified by another agency), the FMCS must refer the responsibility for responding to that portion of the request to the agency that classified the underlying information.
+
+(e) *Timing of responses to consultations and referrals.* All consultations and referrals received by the FMCS will be handled according to the date that the first agency received the perfected FOIA request.

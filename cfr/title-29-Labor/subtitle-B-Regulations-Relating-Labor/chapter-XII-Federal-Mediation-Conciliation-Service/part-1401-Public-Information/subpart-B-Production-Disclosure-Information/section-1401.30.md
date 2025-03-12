@@ -1,3 +1,3 @@
-##### § 1401.30 Applicability of procedures. #####
+##### § 1401.30 Other rights and services. #####
 
-Requests for inspection or copying of information from records in the custody of the FMCS which are reasonably identifiable and available under the provisions of this part shall be made and acted upon as provided in the following sections of this subpart. The prescribed procedure shall be followed in all cases where access is sought to official records pursuant to the provisions of the Freedom of Information Act, except with respect to records for which a less formal disclosure procedure is provided specifically in this part.
+Nothing in this subpart shall be construed to entitle any person, as of right, to any service or to the disclosure of any record to which such person is not entitled under the FOIA.
