@@ -12,4 +12,4 @@
 
 (d) *Annual summary.* Each regulated entity shall include in its annual report to the Director (pursuant to 12 U.S.C. 1723a(k), 1456(c), or 1440, with respect to the regulated entities) a summary of its activities under this part during the previous year, including at a minimum, detailed information describing the actions taken by the regulated entity pursuant to 12 U.S.C. 4520 and a statement of the total amounts paid by the regulated entity to contractors during the previous year and the percentage of such amounts paid to contractors that are minorities or minority-owned businesses, women or women-owned businesses, and individuals with disabilities and disabled-owned businesses respectively, as limited by § 1207.3(b).
 
-[75 FR 81402, Dec. 28, 2010, as amended at 80 FR 25215, May 4, 2015; 82 FR 34396, July 25, 2017]
+[75 FR 81402, Dec. 28, 2010, as amended at 80 FR 25215, May 4, 2015; 82 FR 34395, July 25, 2017]

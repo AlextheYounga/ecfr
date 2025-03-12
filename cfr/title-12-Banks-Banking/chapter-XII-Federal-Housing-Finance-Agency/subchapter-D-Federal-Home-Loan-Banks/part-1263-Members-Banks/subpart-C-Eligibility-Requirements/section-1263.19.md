@@ -16,4 +16,4 @@
 
 (b) *Members canceling Federal share insurance.* A Bank member that is a federally insured credit union and that subsequently cancels its Federal share insurance may remain a member of the Bank, subject to all regulatory provisions applicable to insured depository institution members, provided that the Bank has determined that the institution has canceled its Federal share insurance voluntarily.
 
-[82 FR 25723, May 1, 2017]
+[82 FR 25723, June 5, 2017]

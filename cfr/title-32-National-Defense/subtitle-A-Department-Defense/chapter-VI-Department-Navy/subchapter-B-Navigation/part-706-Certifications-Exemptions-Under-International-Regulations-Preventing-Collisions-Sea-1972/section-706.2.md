@@ -582,6 +582,7 @@ The arc of visibility of the temporary masthead light required by rule 21(a) may
 |     USS JOHN FINN      |DDG 113 |                                                                                                                   1.90 meters                                                                                                                   |
 |   USS RALPH JOHNSON    |DDG 114 |                                                                                                                   1.90 meters                                                                                                                   |
 |   USS RAFAEL PERALTA   |DDG 115 |                                                                                                                   1.88 meters                                                                                                                   |
+|   USS THOMAS HUDNER    |DDG 116 |                                                                                                                   1.81 meters                                                                                                                   |
 |      USS ZUMWALT       |DDG 1000|FWD Lower:<sup>1</sup> 0.31 meters  <br/>FWD Middle:<sup>1</sup> 0.31 meters  <br/>FWD Upper:<sup>1</sup> 0.29 meters  <br/>AFT Lower:<sup>1</sup> 1.04 meters  <br/>AFT Middle:<sup>1</sup> 1.05 meters  <br/>AFT Upper:<sup>1</sup> 1.06 meters|
 |  USS MICHAEL MONSOOR   |DDG 1001| FWD Lower:<sup>1</sup>0.33 meters.  <br/>FWD Middle:<sup>1</sup>0.31 meters  <br/>FWD Upper:<sup>1</sup>0.30 meters.  <br/>AFT Lower:<sup>1</sup>1.05 meters  <br/>AFT Middle:<sup>1</sup>1.05 meters.  <br/>AFT Upper:<sup>1</sup>1.05 meters  |
 |    USS INDEPENDENCE    | LCS 2  |                                                                                                                   1.31 meters                                                                                                                   |
@@ -669,7 +670,7 @@ The arc of visibility of the temporary masthead light required by rule 21(a) may
 |                        |                                          |              287 thru 289°               |
 |       USS OMAHA        |                  LCS 12                  |     72 thru 74°  <br/>286 thru 288°      |
 |     USS MANCHESTER     |                  LCS 14                  |     72 thru 74°  <br/>286 thru 288°      |
-|       USS TULSA        |                  LCS 16                  |    72° thru 74°.  <br/>286° thru 288°    |
+|       USS TULSA        |                  LCS 16                  |     72 thru 74°  <br/>286 thru 288°      |
 |          USV           |11MUCO601, 11MUCO602, 11MUC0603, 11MUC0604|              271 thru 278°               |
 
 17. The second masthead light required by Rule 23(a)(ii) will not be displayed on the PC 1 Class.
@@ -800,7 +801,7 @@ The arc of visibility of the temporary masthead light required by rule 21(a) may
 |    Vessel    | No.  |Obstruction angle relative ship heading|
 |--------------|------|---------------------------------------|
 |USS MANCHESTER|LCS 14|   47° thru 59°  <br/>301° thru 313°   |
-|  USS TULSA   |LCS 16|  47° thru 59°.  <br/>301° thru 313°   |
+|  USS TULSA   |LCS 16|   47° thru 59°  <br/>301° thru 313°   |
 
 Table Five
 
@@ -944,6 +945,7 @@ Table Five
 |     USS JOHN FINN      | DDG 113 |                                                                              |                                    X                                    |                                                X                                                |                   14.5                  |
 |     RALPH JOHNSON      | DDG 114 |                                      X                                       |                                    X                                    |                                                X                                                |                   14.5                  |
 |   USS RAFAEL PERALTA   | DDG 115 |                                      X                                       |                                    X                                    |                                                X                                                |                   14.5                  |
+|   USS THOMAS HUDNER    | DDG 116 |                                      X                                       |                                    X                                    |                                                X                                                |                   14.5                  |
 |      USS ZUMWALT       | DDG 1000|                                      X                                       |                                    X                                    |                                                X                                                |                  76.94                  |
 |  USS MICHAEL MONSOOR   | DDG 1001|                                      X                                       |                                    X                                    |                                                X                                                |                   77.2                  |
 |     USS BLUE RIDGE     |  LCC 19 |                                     N/A                                      |                                   N/A                                   |                                                X                                                |                    84                   |
@@ -961,7 +963,7 @@ Table Five
 |     USS SIOUX CITY     |  LCS 11 |                                                                              |                                    X                                    |                                                X                                                |                    23                   |
 |       USS OMAHA        |  LCS 12 |                                                                              |                                    X                                    |                                                X                                                |                   17.3                  |
 |     USS MANCHESTER     |  LCS 14 |                                                                              |                                    X                                    |                                                X                                                |                   14.5                  |
-|       USS TULSA        | LCS 16  |                                                                              |                                    X                                    |                                                X                                                |                  15.0                   |
+|       USS TULSA        |  LCS 16 |                                                                              |                                    X                                    |                                                X                                                |                   15.0                  |
 |       USS TARAWA       |  LHA 1  |                                                                              |                                    X                                    |                                                X                                                |                    13                   |
 |       USS SAIPAN       |  LHA 2  |                                                                              |                                    X                                    |                                                X                                                |                   10.2                  |
 |    USS BELLEAU WOOD    |  LHA 3  |                                                                              |                                    X                                    |                                                X                                                |                    13                   |

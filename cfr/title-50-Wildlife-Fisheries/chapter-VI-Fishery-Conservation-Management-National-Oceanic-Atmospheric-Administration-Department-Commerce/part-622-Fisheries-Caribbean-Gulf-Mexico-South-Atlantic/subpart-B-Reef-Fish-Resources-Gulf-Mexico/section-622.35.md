@@ -24,7 +24,7 @@
 
 (2) Within the prohibited area and time period specified in paragraph (b)(1) of this section, a vessel with bottom longline gear on board may not possess Gulf reef fish unless the bottom longline gear is appropriately stowed, and a vessel that is using bottom longline gear to fish for species other than Gulf reef fish may not possess Gulf reef fish. For the purposes of paragraph (b) of this section, appropriately stowed means that a longline may be left on the drum if all gangions and hooks are disconnected and stowed below deck; hooks cannot be baited; and all buoys must be disconnected from the gear but may remain on deck.
 
-(3) Within the Gulf EEZ east of 85°30′ W. long., a vessel for which a valid eastern Gulf reef fish bottom longline endorsement has been issued that is fishing bottom longline gear or has bottom longline gear on board cannot possess more than a total of 1000 hooks including hooks on board the vessel and hooks being fished and cannot possess more than 750 hooks rigged for fishing at any given time. For the purpose of this paragraph, “hooks rigged for fishing” means hooks attached to a line or other device capable of attaching to the mainline of the longline.
+(3) Within the Gulf EEZ east of 85°30′ W long., a vessel for which a valid eastern Gulf reef fish bottom longline endorsement has been issued that is fishing bottom longline gear or has bottom longline gear on board cannot possess more than 750 hooks rigged for fishing at any given time. For the purpose of this paragraph, “hooks rigged for fishing” means hooks attached to a line or other device capable of attaching to the mainline of the longline.
 
 (c) *Reef fish longline and buoy gear restricted area.* A person aboard a vessel that uses, on any trip, longline or buoy gear in the longline and buoy gear restricted area is limited on that trip to the bag limits for Gulf reef fish specified in § 622.38(b) and, for Gulf reef fish for which no bag limit is specified in § 622.38(b), the vessel is limited to 5 percent, by weight, of all fish on board or landed. The longline and buoy gear restricted area is that part of the Gulf EEZ shoreward of rhumb lines connecting, in order, the points listed in Table 1 in Appendix B of this part.
 
@@ -38,4 +38,4 @@
 |  D  | 29°54.5′ | 88°07.5′ |
 |  A  | 30°02.5′ | 88°07.7′ |
 
-[78 FR 22952, Apr. 17, 2013, as amended at 82 FR 34580, July 25, 2017]
+[78 FR 22952, Apr. 17, 2013, as amended at 82 FR 34580, July 25, 2017; 83 FR 5212, Feb. 6, 2018]

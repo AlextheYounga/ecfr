@@ -1,7 +1,5 @@
 ##### § 660.60 Specifications and management measures. #####
 
-Link to an amendment published at 82 FR 760, Jan. 8, 2018.
-
 (a) *General.* NMFS will establish and adjust specifications and management measures biennially or annually and during the fishing year. Management of the Pacific Coast groundfish fishery will be conducted consistent with the standards and procedures in the PCGFMP and other applicable law. The PCGFMP is available from the Regional Administrator or the Council. Regulations under this subpart may be promulgated, removed, or revised during the fishing year. Any such action will be made according to the framework standards and procedures in the PCGFMP and other applicable law, and will be published in the Federal Register.
 
 (b) *Biennial actions.* The Pacific Coast Groundfish fishery is managed on a biennial, calendar year basis. Harvest specifications and management measures will be announced biennially, with the harvest specifications for each species or species group set for two sequential calendar years. In general, management measures are designed to achieve, but not exceed, the specifications, particularly optimum yields (harvest guidelines and quotas), fishery harvest guidelines, commercial harvest guidelines and quotas, limited entry and open access allocations, or other approved fishery allocations, and to protect overfished and depleted stocks. Management measures will be designed to take into account the co-occurrence ratios of target species with overfished species, and will select measures that will minimize bycatch to the extent practicable.
@@ -51,6 +49,8 @@ Link to an amendment published at 82 FR 760, Jan. 8, 2018.
 (v) Implement the Ocean Salmon Conservation Zone, described at § 660.131, when NMFS projects the Pacific whiting fishery and the tribal whiting fishery combined will take in excess of 11,000 Chinook within a calendar year.
 
 (vi) Implement BRAs, described at § 660.131, when NMFS projects a sector-specific allocation will be reached before the sector's whiting allocation.
+
+(vii) Close one or both the MS or C/P sector when the set-aside for that sector, described in Table 2d, subpart C, plus the available reserve for unforeseen catch events, described in Table 2a, subpart C, combined, is reached or is expected to be reached for either darkblotched rockfish or Pacific ocean perch.
 
 (2) Automatic actions are effective when actual notice is sent by NMFS identifying the effective time and date. Actual notice to fishers and processors will be by email, Internet *www.westcoast.fisheries.noaa.gov/publications/fishery\_management/groundfish/public\_notices/recent\_public\_notices.html*), phone, letter, or press release. Allocation reapportionments will be followed by publication in the Federal Register, in which public comment will be sought for a reasonable period of time thereafter.
 
@@ -172,4 +172,4 @@ Link to an amendment published at 82 FR 760, Jan. 8, 2018.
 
 (B) *Fishing in the Shorebased IFQ Program and the limited entry fixed gear sablefish primary fishery with different trip limits.* If a vessel is jointly registered and one or more of the limited entry permits is sablefish endorsed, any sablefish landings made by a vessel declared into the limited entry fixed gear fishery after the start of the sablefish primary fishery count towards the tier limit(s), per regulations at § 660.232(a)(2), subpart E. Any sablefish landings made by a vessel declared into the Shorebased IFQ Program must be covered by quota pounds, per regulations at § 660.112(b), subpart D, and will not count towards the tier limit(s).
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78382, Dec. 15, 2010; 75 FR 82301, Dec. 30, 2010; 76 FR 27530, May 11, 2011; 76 FR 53835, Aug. 30, 2011; 76 FR 74738, Dec. 1, 2011; 77 FR 28507, May 15, 2012; 78 FR 588, Jan. 3, 2013; 80 FR 12572, Mar. 10, 2015; 80 FR 22285, Apr. 21, 2015; 80 FR 77271, Dec. 14, 2015; 81 FR 84429, Nov. 23, 2016; 82 FR 9639, Feb. 7, 2017; 82 FR 48658, Oct. 19, 2017]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78382, Dec. 15, 2010; 75 FR 82301, Dec. 30, 2010; 76 FR 27530, May 11, 2011; 76 FR 53835, Aug. 30, 2011; 76 FR 74738, Dec. 1, 2011; 77 FR 28507, May 15, 2012; 78 FR 588, Jan. 3, 2013; 80 FR 12572, Mar. 10, 2015; 80 FR 22285, Apr. 21, 2015; 80 FR 77271, Dec. 14, 2015; 81 FR 84429, Nov. 23, 2016; 82 FR 9639, Feb. 7, 2017; 82 FR 48658, Oct. 19, 2017; 82 FR 760, Jan. 8, 2018]

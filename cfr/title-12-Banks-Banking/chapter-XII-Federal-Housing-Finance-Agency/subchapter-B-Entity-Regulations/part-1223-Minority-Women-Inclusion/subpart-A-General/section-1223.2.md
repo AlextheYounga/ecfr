@@ -6,4 +6,4 @@
 
 (c) *Scope.* This part applies to each regulated entity's development, implementation, and adherence to diversity, inclusion, and non-discrimination policies, practices, and principles, including opportunities to award contracts for goods and/or services.
 
-[75 FR 81402, Dec. 28, 2010, as amended at 82 FR 34394, July 25, 2017]
+[75 FR 81402, Dec. 28, 2010, as amended at 82 FR 34395, July 25, 2017]

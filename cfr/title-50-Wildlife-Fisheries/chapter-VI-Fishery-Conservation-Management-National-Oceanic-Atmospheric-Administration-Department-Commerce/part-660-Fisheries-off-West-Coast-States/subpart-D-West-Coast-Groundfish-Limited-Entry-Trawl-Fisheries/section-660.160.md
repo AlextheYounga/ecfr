@@ -1,7 +1,5 @@
 ##### § 660.160 Catcher/processor (C/P) Coop Program. #####
 
-Link to an amendment published at 82 FR 763, Jan. 8, 2018.
-
 (a) *General.* The C/P Coop Program is a limited access program that applies to vessels in the C/P sector of the Pacific whiting at-sea trawl fishery and is a single voluntary coop. Eligible harvesters and processors must meet the requirements set forth in this section of the Pacific Coast groundfish regulations. In addition to the requirements of this section, the C/P Coop Program is subject to the following groundfish regulations:
 
 (1) Pacific whiting seasons § 660.131(b), subpart D.
@@ -76,9 +74,9 @@ Link to an amendment published at 82 FR 763, Jan. 8, 2018.
 
 (c) *C/P Coop Program species and allocations* - (1) *C/P Coop Program species.* C/P Coop Program species are as follows:
 
-(i) Species with formal allocations to the C/P Coop Program are Pacific whiting, canary rockfish, darkblotched rockfish, Pacific Ocean perch, widow rockfish;
+(i) Species with formal allocations to the C/P Coop Program are Pacific whiting, canary rockfish, and widow rockfish;
 
-(ii) Species with set-asides for the MS and C/P Programs combined, as described in Table 1d and 2d, subpart C.
+(ii) Species with set-asides for the MS and C/P Programs, as described in Table 2d, subpart C.
 
 (2) *C/P Coop Program annual allocations.* The C/P Coop Program allocation of Pacific whiting is equal to the catcher/processor sector allocation. Only a single coop may be formed in the catcher/processor sector with the one permitted coop receiving the catcher/processor sector allocation.
 
@@ -512,4 +510,4 @@ Link to an amendment published at 82 FR 763, Jan. 8, 2018.
 
 (ii) The C/P sector will convert to an IFQ-based fishery beginning the following calendar year after a coop failure, or a soon as practicable thereafter. NMFS will develop additional regulations, as necessary to implement an IFQ fishery for the C/P sector. Each C/P-endorsed permit would receive an equal distribution of QS from the total IFQ for the catcher/processor sector allocation.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78419, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74746, Dec. 1, 2011; 77 FR 55158, Sept. 7, 2012; 78 FR 75282, Dec. 11, 2013; 80 FR 22297, Apr. 21, 2015; 81 FR 27011, May 5, 2016]
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78419, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74746, Dec. 1, 2011; 77 FR 55158, Sept. 7, 2012; 78 FR 75282, Dec. 11, 2013; 80 FR 22297, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 82 FR 763, Jan. 8, 2018]

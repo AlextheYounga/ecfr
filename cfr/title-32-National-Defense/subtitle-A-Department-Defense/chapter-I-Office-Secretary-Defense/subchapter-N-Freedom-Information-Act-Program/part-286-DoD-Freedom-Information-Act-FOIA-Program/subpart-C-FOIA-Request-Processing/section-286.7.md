@@ -1,5 +1,7 @@
 ##### § 286.7 General provisions. #####
 
+Link to an amendment published at 83 FR 5197, Feb. 6, 2018.
+
 (a) *Responsibilities.* The DoD Component receiving a FOIA request for a record that it maintains is responsible for making a determination on the request and responding to the FOIA requester. In determining which records are responsive to a request, a DoD Component ordinarily will include only records in its possession as of the date that it begins its search. If any other date is used, the DoD Component shall inform the requester of that date. A record that is excluded from the requirements of the FOIA pursuant to 5 U.S.C. 552(c), is not considered responsive to a request.
 
 (b) *Authority to deny requests.* DoD Components will designate one or more Initial Denial Authorities (IDA) with the authority to deny any requests for records that are maintained by that agency.
