@@ -1,7 +1,5 @@
 ##### 7.105 Contents of written acquisition plans. #####
 
-Link to an amendment published at 86 FR 44231, Aug. 11, 2021.
-
 In order to facilitate attainment of the acquisition objectives, the plan must identify those milestones at which decisions should be made (*see* paragraph (b)(21) of this section). The plan must address all the technical, business, management, and other significant considerations that will control the acquisition. The specific content of plans will vary, depending on the nature, circumstances, and stage of the acquisition. In preparing the plan, the planner must follow the applicable instructions in paragraphs (a) and (b) of this section, together with the agency's implementing procedures. Acquisition plans for service contracts or orders must describe the strategies for implementing performance-based acquisition methods or must provide rationale for not using those methods (see subpart 37.6).
 
 (a) *Acquisition background and objectives* - (1) *Statement of need.* Introduce the plan by a brief statement of need. Summarize the technical and contractual history of the acquisition. Discuss feasible acquisition alternatives, the impact of prior acquisitions on those alternatives, and any related in-house effort.
@@ -78,7 +76,9 @@ In order to facilitate attainment of the acquisition objectives, the plan must i
 
 (iii) For information technology acquisitions using Internet Protocol, discuss whether the requirements documents include the Internet Protocol compliance requirements specified in 11.002(g) or a waiver of these requirements has been granted by the agency's Chief Information Officer.
 
-(iv) For each contract (and order) contemplated, discuss the strategy to transition to firm-fixed-price contracts to the maximum extent practicable. During the requirements development stage, consider structuring the contract requirements, *i.e.,* line items, in a manner that will permit some, if not all, of the requirements to be awarded on a firm-fixed-price basis, either in the current contract, future option years, or follow-on contracts. This will facilitate an easier transition to a firm-fixed-price contract, because a cost history will be developed for a recurring definitive requirement.
+(iv) For information technology acquisitions, identify the applicable ICT accessibility standard(s). When an exception or an exemption to the standard(s) applies, the plan must list the exception and/or exemption, and the item(s) to which it applies. For those items listing 39.204 or 39.205(a)(1) or (2), the corresponding accessibility standard does not need to be identified. See subpart 39.2 and 36 CFR 1194.1.
+
+(v) For each contract (and order) contemplated, discuss the strategy to transition to firm-fixed-price contracts to the maximum extent practicable. During the requirements development stage, consider structuring the contract requirements, *i.e.,* line items, in a manner that will permit some, if not all, of the requirements to be awarded on a firm-fixed-price basis, either in the current contract, future option years, or follow-on contracts. This will facilitate an easier transition to a firm-fixed-price contract, because a cost history will be developed for a recurring definitive requirement.
 
 (6) *Budgeting and funding.* Include budget estimates, explain how they were derived, and discuss the schedule for obtaining adequate funds at the time they are required (see subpart 32.7).
 

@@ -1,10 +1,8 @@
 ##### 52.219-9 Small Business Subcontracting Plan. #####
 
-Link to an amendment published at 86 FR 44254, Aug. 11, 2021.
-
 As prescribed in 19.708(b), insert the following clause:
 
-Small Business Subcontracting Plan (JUN 2020)
+Small Business Subcontracting Plan (Sep 2021)
 
 (a) This clause does not apply to small business concerns.
 
@@ -61,11 +59,10 @@ Small Business Subcontracting Plan (JUN 2020)
 (C) The ANC or Indian tribe shall give a copy of the written designation to the Contracting Officer, the prime Contractor, and the subcontractors in between the prime Contractor and the ANC or Indian tribe within 30 days of the date of the subcontract award.
 
 (D) If the Contracting Officer does not receive a copy of the ANC's or the Indian tribe's written designation within 30 days of the subcontract award, the Contractor that awarded the subcontract to the ANC or Indian tribe will be considered the designated Contractor.
-=
 
 (2) A statement of -
 
-(i) Total dollars planned to be subcontracted for an individual subcontracting plan; or the Offeror's total projected sales, expressed in dollars, and the total value of projected subcontracts to support the sales for a commercial plan;
+(i) Total dollars planned to be subcontracted for an individual subcontracting plan; or the Offeror's total projected sales, expressed in dollars, and the total value of projected subcontracts, including all indirect costs except as described in paragraph (g) of this clause, to support the sales for a commercial plan;
 
 (ii) Total dollars planned to be subcontracted to small business concerns (including ANC and Indian tribes);
 
@@ -209,7 +206,7 @@ Small Business Subcontracting Plan (JUN 2020)
 
 (3) Goals and any deviations from the master subcontracting plan deemed necessary by the Contracting Officer to satisfy the requirements of this contract are set forth in the individual subcontracting plan.
 
-(g) A commercial plan is the preferred type of subcontracting plan for contractors furnishing commercial items. The commercial plan shall relate to the offeror's planned subcontracting generally, for both commercial and Government business, rather than solely to the Government contract. Once the Contractor's commercial plan has been approved, the Government will not require another subcontracting plan from the same Contractor while the plan remains in effect, as long as the product or service being provided by the Contractor continues to meet the definition of a commercial item. A Contractor with a commercial plan shall comply with the reporting requirements stated in paragraph (d)(10) of this clause by submitting one SSR in eSRS for all contracts covered by its commercial plan. This report shall be acknowledged or rejected in eSRS by the Contracting Officer who approved the plan. This report shall be submitted within 30 days after the end of the Government's fiscal year.
+(g) A commercial plan is the preferred type of subcontracting plan for contractors furnishing commercial items. The commercial plan shall relate to the offeror's planned subcontracting generally, for both commercial and Government business, rather than solely to the Government contract. Once the Contractor's commercial plan has been approved, the Government will not require another subcontracting plan from the same Contractor while the plan remains in effect, as long as the product or service being provided by the Contractor continues to meet the definition of a commercial item. A Contractor with a commercial plan shall comply with the reporting requirements stated in paragraph (d)(10) of this clause by submitting one SSR in eSRS for all contracts covered by its commercial plan. A Contractor authorized to use a commercial subcontracting plan shall include in its subcontracting goals and in its SSR all indirect costs, with the exception of those such as the following: Employee salaries and benefits; payments for petty cash; depreciation; interest; income taxes; property taxes; lease payments; bank fees; fines, claims, and dues; original equipment manufacturer relationships during warranty periods (negotiated up front with the product); utilities and other services purchased from a municipality or an entity solely authorized by the municipality to provide those services in a particular geographical region; and philanthropic contributions. This report shall be acknowledged or rejected in eSRS by the Contracting Officer who approved the plan. This report shall be submitted within 30 days after the end of the Government's fiscal year.
 
 (h) Prior compliance of the offeror with other such subcontracting plans under previous contracts will be considered by the Contracting Officer in determining the responsibility of the offeror for award of the contract.
 
@@ -319,7 +316,7 @@ Small Business Subcontracting Plan (JUN 2020)
 
 (D) The authority to acknowledge or reject SSRs for commercial plans resides with the Contracting Officer who approved the commercial plan.
 
-*Alternate IV* (JUN 2020). As prescribed in 19.708(b)(1)(iv), substitute the following paragraphs (c) and (d) for paragraphs (c) and (d) of the basic clause:
+*Alternate IV* (SEP 2021). As prescribed in 19.708(b)(1)(iv), substitute the following paragraphs (c) and (d) for paragraphs (c) and (d) of the basic clause:
 
 (c)(1) The Contractor, upon request by the Contracting Officer, shall submit and negotiate a subcontracting plan, where applicable, that separately addresses subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns. If the Contractor is submitting an individual subcontracting plan, the plan shall separately address subcontracting with small business, veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business, and women-owned small business concerns, with a separate part for the basic contract and separate parts for each option (if any). The subcontracting plan shall be incorporated into the contract. The subcontracting plan shall be negotiated within the time specified by the Contracting Officer. The subcontracting plan does not apply retroactively.
 
@@ -353,7 +350,7 @@ Small Business Subcontracting Plan (JUN 2020)
 
 (2) A statement of -
 
-(i) Total dollars planned to be subcontracted for an individual subcontracting plan; or the Contractor's total projected sales, expressed in dollars, and the total value of projected subcontracts to support the sales for a commercial plan;
+(i) Total dollars planned to be subcontracted for an individual subcontracting plan; or the Contractor's total projected sales, expressed in dollars, and the total value of projected subcontracts to support the sales for a commercial plan, including all indirect costs, with the exception of those such as the following: Employee salaries and benefits; payments for petty cash; depreciation; interest; income taxes; property taxes; lease payments; bank fees; fines, claims, and dues; original equipment manufacturer relationships during warranty periods (negotiated up front with the product); utilities and other services purchased from a municipality or an entity solely authorized by the municipality to provide those services in a particular geographical region; and philanthropic contributions;
 
 (ii) Total dollars planned to be subcontracted to small business concerns (including ANC and Indian tribes);
 

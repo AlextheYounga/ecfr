@@ -1,5 +1,7 @@
 ##### § 201.6 Local Mitigation Plans. #####
 
+Link to an amendment published at 86 FR 50674, Sept. 10, 2021.
+
 The local mitigation plan is the representation of the jurisdiction's commitment to reduce risks from natural hazards, serving as a guide for decision makers as they commit resources to reducing the effects of natural hazards. Local plans will also serve as the basis for the State to provide technical assistance and to prioritize project funding.
 
 (a) *Plan requirements.* (1) A local government must have a mitigation plan approved pursuant to this section in order to receive HMGP project grants. The Administrator may, at his discretion, require a local mitigation plan for the Repetitive Flood Claims Program. A local government must have a mitigation plan approved pursuant to this section in order to apply for and receive mitigation project grants under all other mitigation grant programs.

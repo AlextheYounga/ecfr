@@ -1,5 +1,7 @@
 ##### § 206.431 Definitions. #####
 
+Link to an amendment published at 86 FR 50676, Sept. 10, 2021.
+
 *Activity* means any mitigation measure, project, or action proposed to reduce risk of future damage, hardship, loss or suffering from disasters.
 
 *Applicant* means a State agency, local government, Indian tribal government, or eligible private nonprofit organization, submitting an application to the grantee for assistance under the HMGP.

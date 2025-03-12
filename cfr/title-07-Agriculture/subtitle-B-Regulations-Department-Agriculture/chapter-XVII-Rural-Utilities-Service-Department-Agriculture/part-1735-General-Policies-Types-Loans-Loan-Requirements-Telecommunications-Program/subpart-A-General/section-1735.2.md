@@ -86,6 +86,8 @@ Note: For nonprofit organizations, owners' equity is shown in subaccounts of 454
 
 *RE Act* means the Rural Electrification Act of 1936, as amended (7 U.S.C. 901 *et seq.*).
 
+*Retail broadband service* means any technology identified by the Administrator as having the capacity to provide transmission facilities that enable the subscriber to receive a minimum level of service equal to at least a downstream transmission capacity of 25 megabits per second (Mbps) and an upstream transmission capacity of 3 Mbps. The agency may change the minimum transmission capacity by way of notice in the Federal Register. The minimum transmission capacity may be higher than 25 Mbps downstream and 3 Mbps upstream but cannot be lower.
+
 *Rural area* means any area of the United States, its territories and insular possessions (including any area within the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau) not included within the boundaries of any incorporated or unincorporated city, village or borough having a population exceeding 5,000 inhabitants. The population figure is obtained from the most recent decennial Census of the United States (decennial Census). If the applicable population figure cannot be obtained from the most recent decennial Census, RD will determine the applicable population figure based on available population data. For purposes of the “rural area” definition, the character of an area is determined as of a time the initial loan for the system is made.
 
 *RUS* means the Rural Utilities Service, an agency of the United States Department of Agriculture, successor to the Rural Electrification Administration.
@@ -126,4 +128,4 @@ Note: For nonprofit organizations, owners' equity is shown in subaccounts of 454
 
 Note: All references regarding account numbers are to the Uniform System of Accounts (47 CFR part 32).
 
-[54 FR 13351, Apr. 3, 1989; 54 FR 16194, Apr. 21, 1989. Redesignated at 55 FR 39395, Sept. 27, 1990, as amended at 56 FR 26596, June 10, 1991; 58 FR 66253, Dec. 20, 1993; 62 FR 46869, Sept. 5, 1997; 65 FR 42619, July 11, 2000; 65 FR 54402, Sept. 8, 2000; 80 FR 9861, Feb. 24, 2015; 84 FR 59920, Nov. 7, 2019]
+[54 FR 13351, Apr. 3, 1989; 54 FR 16194, Apr. 21, 1989. Redesignated at 55 FR 39395, Sept. 27, 1990, as amended at 56 FR 26596, June 10, 1991; 58 FR 66253, Dec. 20, 1993; 62 FR 46869, Sept. 5, 1997; 65 FR 42619, July 11, 2000; 65 FR 54402, Sept. 8, 2000; 80 FR 9861, Feb. 24, 2015; 84 FR 59920, Nov. 7, 2019; 86 FR 50608, Sept. 10, 2021]

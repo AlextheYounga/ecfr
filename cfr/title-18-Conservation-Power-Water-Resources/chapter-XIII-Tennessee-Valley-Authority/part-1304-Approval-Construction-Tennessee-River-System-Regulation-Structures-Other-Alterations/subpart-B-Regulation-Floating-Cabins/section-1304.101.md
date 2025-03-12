@@ -1,5 +1,7 @@
 ##### § 1304.101 Floating cabins. #####
 
+Link to an amendment published at 86 FR 50633, Sept. 10, 2021.
+
 (a)(1) Floating cabins include nonnavigable houseboats approved by TVA on or before December 16, 2016, and other floating structures moored on the Tennessee River System as of this date, and determined by TVA in its sole discretion to be designed and used primarily for human habitation or occupation and not designed and used primarily for navigation or transportation on the water. TVA's judgment will be guided by, but not limited to, the following factors:
 
 (i) Whether the structure is usually kept at a fixed mooring point;

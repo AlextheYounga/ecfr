@@ -1,5 +1,7 @@
 ##### § 80.11 Project eligibility. #####
 
+Link to an amendment published at 86 FR 50671, Sept. 10, 2021.
+
 (a) *Voluntary participation.* Eligible acquisition projects are those where the property owner participates voluntarily, and the grantee/subgrantee will not use its eminent domain authority to acquire the property for the open space purposes should negotiations fail.
 
 (b) *Acquisition of improved properties.* Eligible properties are those with at-risk structures on the property, including those that are damaged or destroyed due to an event. In some cases, undeveloped, at-risk land adjacent to an eligible property with existing structures may be eligible.

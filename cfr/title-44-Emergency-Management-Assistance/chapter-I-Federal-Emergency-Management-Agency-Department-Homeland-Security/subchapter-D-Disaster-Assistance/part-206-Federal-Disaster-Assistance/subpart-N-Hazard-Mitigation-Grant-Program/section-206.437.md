@@ -1,5 +1,7 @@
 ##### § 206.437 State administrative plan. #####
 
+Link to an amendment published at 86 FR 50678, Sept. 10, 2021.
+
 (a) *General.* The State shall develop a plan for the administration of the Hazard Mitigation Grant Program.
 
 (b) *Minimum criteria.* At a minimum, the State administrative plan must include the items listed below:

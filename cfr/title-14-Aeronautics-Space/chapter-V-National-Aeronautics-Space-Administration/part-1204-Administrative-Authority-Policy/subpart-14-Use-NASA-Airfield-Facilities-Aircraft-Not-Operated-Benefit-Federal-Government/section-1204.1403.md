@@ -1,5 +1,7 @@
 ##### § 1204.1403 Available airport facilities. #####
 
+Link to an amendment published at 86 FR 50624, Sept. 10, 2021.
+
 The facilities available vary at each NASA Installation having an airfield. The airport facilities available are:
 
 (a) *Shuttle Landing Facility* - (1) *Runways.* Runway 15-33 is 15,000 feet long and 300 feet wide with 1,000-foot overruns. The first 3,500 feet at each end of the runway have been modified for smoothness. The center 8,000 feet of the runway is grooved for improved braking under wet conditions.

@@ -1,12 +1,16 @@
 ##### 52.212-1 Instructions to Offerors - Commercial Items. #####
 
-Link to an amendment published at 86 FR 44244, Aug. 11, 2021.
-
 As prescribed in 12.301(b)(1), insert the following provision:
 
-Instructions to Offerors - Commercial Items (JUL 2021)
+Instructions to Offerors - Commercial Items (SEP 2021)
 
-(a) *North American Industry Classification System (NAICS) code and small business size standard.* The NAICS code(s) and small business size standard(s) for this acquisition appear elsewhere in the solicitation. However, the small business size standard for a concern which submits an offer in its own name, but which proposes to furnish an item which it did not itself manufacture, is 500 employees.
+(a) *North American Industry Classification System (NAICS) code and small business size standard.* The NAICS code(s) and small business size standard(s) for this acquisition appear elsewhere in the solicitation. However, the small business size standard for a concern that submits an offer, other than on a construction or service acquisition, but proposes to furnish an end item that it did not itself manufacture, process, or produce is 500 employees if the acquisition -
+
+(1) Is set aside for small business and has a value above the simplified acquisition threshold;
+
+(2) Uses the HUBZone price evaluation preference regardless of dollar value, unless the offeror waives the price evaluation preference; or
+
+(3) Is an 8(a), HUBZone, service-disabled veteran-owned, economically disadvantaged women-owned, or women-owned small business set-aside or sole-source award regardless of dollar value.
 
 (b) *Submission of offers.* Submit signed and dated offers to the office specified in this solicitation at or before the exact time specified in this solicitation. Offers may be submitted on the SF 1449, letterhead stationery, or as otherwise specified in the solicitation. As a minimum, offers must show -
 

@@ -1,13 +1,11 @@
 ##### § 1735.21 Refinancing loans. #####
 
-(a) Hardship loans and guaranteed loans may include funds to refinance outstanding indebtedness of corporations furnishing telephone service when such refinancing is necessary and incidental to furnishing or improving telephone service in rural areas. Refinancing may not constitute more than 40 percent of the loan.
+(a) Any new direct or guaranteed loan authority provided under the RE Act may be used to refinance an outstanding obligation of the applicant on another loan made under Titles II and VI of the RE Act, or on a non-RUS loan if that loan would have been for eligible telecommunications purposes under the RE Act provided that:
 
-(b) Loans for refinancing are not made solely to enable borrowers to obtain a lower interest rate or a longer amortization period. RUS requires borrowers, to the greatest extent possible, to liquidate outstanding indebtedness through the use of nonloan funds.
+(1) The applicant is current with its payments on the RUS loan(s) to be refinanced; and
 
-(c) If deemed necessary by RUS to provide itself with adequate security, RUS will consider loans for refinancing outstanding indebtedness secured by a lien on property offered as security for the loan, if the property covered by the lien is integral to the operation of the system.
+(2) The amortization period for that portion of the loan request that will be needed for refinancing will not exceed the remaining amortization period for the loan(s) to be refinanced. If multiple notes are being refinanced, an average remaining amortization period will be calculated based on the weighted dollar average of the notes being refinanced.
 
-(d) RUS will consider loans for refinancing when the borrower would otherwise be unable to meet payments on both the outstanding indebtedness and the loan as they become due.
+(b) The amount that can be refinanced will be included in the funding opportunity announcement that will open a funding window based on the funds authorized for any given fiscal year.
 
-(e) RUS may consider loans for refinancing in other situations.
-
-[54 FR 13351, Apr. 3, 1989. Redesignated at 55 FR 39395, Sept. 27, 1990, as amended at 58 FR 66254, Dec. 20, 1993]
+[86 FR 50608, Sept. 10, 2021]

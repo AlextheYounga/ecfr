@@ -6,4 +6,6 @@
 
 (c) Subparts F through J of this part also detail RUS's requirements with respect to mergers and acquisitions involving RUS loan funds.
 
-[55 FR 39395, Sept. 27, 1990; 55 FR 41170, Oct. 9, 1990]
+(d) Entities applying for a loan under this part may be eligible to receive a grant under 7 CFR 1738.101, for a portion of the project providing retail broadband service.
+
+[55 FR 39395, Sept. 27, 1990; 55 FR 41170, Oct. 9, 1990, as amended at 86 FR 50608, Sept. 10, 2021]

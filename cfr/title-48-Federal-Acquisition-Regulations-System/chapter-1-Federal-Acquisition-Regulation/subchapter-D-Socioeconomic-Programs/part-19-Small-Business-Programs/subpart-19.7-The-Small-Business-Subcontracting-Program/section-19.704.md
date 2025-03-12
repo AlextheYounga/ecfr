@@ -1,7 +1,5 @@
 ##### 19.704 Subcontracting plan requirements. #####
 
-Link to an amendment published at 86 FR 44252, Aug. 11, 2021.
-
 (a) Each subcontracting plan required under 19.301-2(e) and 19.702(a)(1)(i), (ii), and (iii) shall include -
 
 (1) Separate percentage goals for using small business (including ANCs and Indian tribes), veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business (including ANCs and Indian tribes) and women-owned small business concerns as subcontractors;
@@ -14,7 +12,7 @@ Link to an amendment published at 86 FR 44252, Aug. 11, 2021.
 
 (5) A description of the method used to identify potential sources for solicitation purposes;
 
-(6) A statement as to whether or not the offeror included indirect costs in establishing subcontracting goals, and a description of the method used to determine the proportionate share of indirect costs to be incurred with small business (including ANCs and Indian tribes), veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business (including ANCs and Indian tribes), and women-owned small business concerns;
+(6) A statement as to whether or not the offeror included indirect costs in establishing subcontracting goals (for commercial plans, see paragraph (d) of this section), and a description of the method used to determine the proportionate share of indirect costs to be incurred with small business (including ANCs and Indian tribes), veteran-owned small business, service-disabled veteran-owned small business, HUBZone small business, small disadvantaged business (including ANCs and Indian tribes), and women-owned small business concerns;
 
 (7) The name of an individual employed by the offeror who will administer the offeror's subcontracting program, and a description of the duties of the individual;
 
@@ -60,7 +58,7 @@ Link to an amendment published at 86 FR 44252, Aug. 11, 2021.
 
 (c) For multiyear contracts or contracts containing options, the cumulative value of the basic contract and all options is considered in determining whether a subcontracting plan is necessary. If a subcontracting plan is necessary and the offeror is submitting an individual subcontracting plan, the individual subcontracting plan shall contain all the elements required by paragraph (a) of this section and shall contain separate statements and goals based on total subcontract dollars for the basic contract and for each option.
 
-(d) A commercial plan (as defined in 19.701) is the preferred type of subcontracting plan for contractors furnishing commercial items. Once a contractor's commercial plan has been approved, the Government shall not require another subcontracting plan from the same contractor while the plan remains in effect, as long as the product or service being provided by the contractor continues to meet the definition of a commercial item. The contractor shall -
+(d) A commercial plan (as defined in 19.701) is the preferred type of subcontracting plan for contractors furnishing commercial items. The subcontracting goals established for a commercial plan shall include all indirect costs with the exception of those such as the following: Employee salaries and benefits; payments for petty cash; depreciation; interest; income taxes; property taxes; lease payments; bank fees; fines, claims, and dues; original equipment manufacturer relationships during warranty periods (negotiated up front with the product); utilities and other services purchased from a municipality or an entity solely authorized by the municipality to provide those services in a particular geographical region; and philanthropic contributions. Once a contractor's commercial plan has been approved, the Government shall not require another subcontracting plan from the same contractor while the plan remains in effect, as long as the product or service being provided by the contractor continues to meet the definition of a commercial item. The contractor shall -
 
 (1) Submit the commercial plan to either the first contracting officer awarding a contract subject to the plan during the contractor's fiscal year, or, if the contractor has ongoing contracts with commercial plans, to the contracting officer responsible for the contract with the latest completion date. The contracting officer shall negotiate the commercial plan for the Government. The approved commercial plan shall remain in effect during the contractor's fiscal year for all Government contracts in effect during that period;
 
@@ -68,6 +66,6 @@ Link to an amendment published at 86 FR 44252, Aug. 11, 2021.
 
 (3) When the new commercial plan is approved, provide a copy of the approved plan to each contracting officer responsible for an ongoing contract that is subject to the plan; and
 
-(4) Comply with the reporting requirements stated in paragraph (a)(10) of this section by submitting one SSR in eSRS, for all contracts covered by its commercial plan. This report will be acknowledged or rejected in eSRS by the contracting officer who approved the plan. The report shall be submitted within 30 days after the end of the Government's fiscal year.
+(4) Comply with the reporting requirements stated in paragraph (a)(10) of this section by submitting one SSR that includes all indirect costs, except as described in paragraph (d) of this section, in eSRS, for all contracts covered by its commercial plan. This report will be acknowledged or rejected in eSRS by the contracting officer who approved the plan. The report shall be submitted within 30 days after the end of the Government's fiscal year.
 
 [48 FR 42240, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 19.704, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

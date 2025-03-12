@@ -1,5 +1,7 @@
 ##### § 1304.212 Waivers. #####
 
+Link to an amendment published at 86 FR 50636, Sept. 10, 2021.
+
 (a) Waivers of standards contained in this subpart may be requested when the following minimum criteria are established:
 
 (1) The property is within a preexisting development (an area where shoreline development existed prior to November 1, 1999); and

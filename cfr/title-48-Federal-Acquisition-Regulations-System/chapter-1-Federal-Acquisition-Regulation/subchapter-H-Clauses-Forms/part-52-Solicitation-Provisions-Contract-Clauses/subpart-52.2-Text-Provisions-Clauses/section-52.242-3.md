@@ -1,10 +1,8 @@
 ##### 52.242-3 Penalties for Unallowable Costs. #####
 
-Link to an amendment published at 86 FR 44255, Aug. 11, 2021.
+As prescribed in 42.709-7, use the following clause:
 
-As prescribed in 42.709-6, use the following clause:
-
-Penalties for Unallowable Costs (MAY 2014)
+Penalties for Unallowable Costs (SEP 2021)
 
 (a) *Definition. Proposal,* as used in this clause, means either -
 
@@ -18,7 +16,7 @@ Penalties for Unallowable Costs (MAY 2014)
 
 (b) Contractors which include unallowable indirect costs in a proposal may be subject to penalties. The penalties are prescribed in 10 U.S.C. 2324 or 41 U.S.C. chapter 43, as applicable, which is implemented in section 42.709 of the Federal Acquisition Regulation (FAR).
 
-(c) The Contractor shall not include in any proposal any cost that is unallowable, as defined in Subpart 2.1 of the FAR, or an executive agency supplement to the FAR.
+(c) The Contractor shall not include in any proposal any cost that is unallowable, as defined in subpart 2.1 of the FAR, or an executive agency supplement to the FAR.
 
 (d) If the Contracting Officer determines that a cost submitted by the Contractor in its proposal is expressly unallowable under a cost principle in the FAR, or an executive agency supplement to the FAR, that defines the allowability of specific selected costs, the Contractor shall be assessed a penalty equal to -
 
@@ -34,8 +32,8 @@ Penalties for Unallowable Costs (MAY 2014)
 
 (f) Determinations under paragraphs (d) and (e) of this clause are final decisions within the meaning of 41 U.S.C. chapter 71, Contract Disputes).
 
-(g) Pursuant to the criteria in FAR 42.709-5, the Contracting Officer may waive the penalties in paragraph (d) or (e) of this clause.
+(g) Pursuant to the criteria in FAR 42.709-6, the Contracting Officer may waive the penalties in paragraph (d) or (e) of this clause.
 
 (h) Payment by the Contractor of any penalty assessed under this clause does not constitute repayment to the Government of any unallowable cost which has been paid by the Government to the Contractor.
 
-(End of clause)[60 FR 42659, Aug. 16, 1995, as amended at 66 FR 2135, Jan. 10, 2001; 79 FR 24224, Apr. 29, 2014]
+(End of clause)[60 FR 42659, Aug. 16, 1995, as amended at 66 FR 2135, Jan. 10, 2001; 79 FR 24224, Apr. 29, 2014; 86 FR 44255, Aug. 11, 2021]

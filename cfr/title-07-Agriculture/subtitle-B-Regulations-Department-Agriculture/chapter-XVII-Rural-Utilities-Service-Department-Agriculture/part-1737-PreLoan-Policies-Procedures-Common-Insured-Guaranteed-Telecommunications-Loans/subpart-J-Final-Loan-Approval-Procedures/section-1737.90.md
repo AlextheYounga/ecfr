@@ -18,8 +18,8 @@
 
 Accordingly, a finding shall be made on whether loan funds will be used to finance buildings, machinery, fixtures or furnishings located in an identified special flood hazard area. If loan funds are to be used in such a special flood hazard area, a provision will be included in the loan contract restricting the release of funds until all the requirements of the Flood Insurance Act have been satisfied.
 
-(6) All environmental review requirements must be met in accordance with 7 CFR part 1970.
+(6) All environmental review requirements must be met in accordance with 7 CFR part 1970. The Agency may obligate, but not disperse, funds under the program pursuant to 7 U.S.C. 950cc-1, before the completion of the otherwise required environmental, historical, or other types of reviews if the Secretary of Agriculture determines that subsequent site-specific review shall be adequate and easily accomplished for the location of towers, poles, or other broadband facilities in the service area of the awardee without compromising the project or the required reviews.
 
 (b) [Reserved]
 
-[54 FR 13356, Apr. 3, 1989. Redesignated at 55 FR 39396, Sept. 27, 1990, as amended at 56 FR 26600, June 10, 1991; 81 FR 11027, Mar. 2, 2016]
+[54 FR 13356, Apr. 3, 1989. Redesignated at 55 FR 39396, Sept. 27, 1990, as amended at 56 FR 26600, June 10, 1991; 81 FR 11027, Mar. 2, 2016; 86 FR 50610, Sept. 10, 2021]

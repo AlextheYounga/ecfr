@@ -1,59 +1,47 @@
-##### § 501.3 Organizational components of the Federal Maritime Commission. #####
+##### § 501.3 The Commission's organizational components and their functions. #####
 
-The major organizational components of the Commission are set forth in the Organization Chart attached as Appendix A to this part. An outline table of the components/functions follows:
+(a) *Office of the Chairman of the Federal Maritime Commission*—(1) *General.* The Chairman is the chief executive and administrative officer of the Commission. In addition, the Chairman, as “head of the agency,” has certain responsibilities under Federal laws and directives not specifically related to shipping.
 
-(a) Office of the Chairman of the Federal Maritime Commission. (*Chief Executive and Administrative Officer, FOIA and Privacy Act Appeals Officer.*)
+(2) *Management and supervision.* The Chairman provides management direction to the Office of Equal Employment Opportunity, Office of the Secretary, Office of the General Counsel, Office of the Administrative Law Judges, and Office of the Managing Director. Subject to the approval of the Commission, the Chairman appoints the heads of the major organizational units, which include the Office of the Secretary, Office of the General Counsel, Office of the Administrative Law Judges, Office of the Managing Director, Bureau of Trade Analysis, Bureau of Certification and Licensing, Bureau of Enforcement, and Office of Consumer Affairs and Dispute Resolution Services. The Chairman appoints or designates and oversees the Director, Office of Equal Employment Opportunity, who advises and assists the Chairman, the Commissioners, and other principal officers of the Commission in carrying out their responsibilities relative to Titles VI and VII of the Civil Rights Act of 1964 (as amended), other laws, Executive orders, and regulatory guidelines affecting affirmative employment and the processing of equal employment opportunity (EEO) complaints.
 
-(1) Information Security Officer.
+(b) *Commissioners.* The members of the Commission, including the Chairman, implement various shipping statutes and related directives by rendering decisions, issuing orders, and adopting and enforcing rules and regulations governing persons subject to the shipping statutes.
 
-(2) Designated Agency Ethics Official.
+(1) The Office of Inspector General (OIG) reports to and is under the general supervision of the Commissioners. The OIG is an independent and objective oversight office created within the Commission that conducts audits and investigations relating to the programs and operations of the Commission and recommends policies designed to promote economy, efficiency, and effectiveness in the administration of, and to prevent and detect waste, fraud, and abuse in, such programs and operations.
 
-(b) Offices of the Members of the Federal Maritime Commission.
+(2) [Reserved]
 
-(c) Office of the Secretary. (*FOIA and Privacy Act Officer, Federal Register Liaison, Performance Improvement Officer.*)
+(c) *Office of the Secretary.* The Office of the Secretary is responsible for the preparation, maintenance and disposition of the Commission's official files and records; overseeing the Commission's website; and managing the Commission's library and related services. The Office of the Secretary also administers the Commission's Freedom of Information Act, Privacy Act, and Government in the Sunshine Act responsibilities, with the Secretary serving as the Freedom of Information Act and Privacy Act Officer.
 
-(d) Office of the General Counsel. (*Ethics Official, Legislative Counsel.*)
+(d) *Office of the General Counsel*—(1) *General.* The Office of the General Counsel provides legal services to the Commission and to the Commission staff, and manages the Commission's international affairs functions.
 
-(e) Office of Administrative Law Judges.
+(2) *Designated Agency Ethics Official.* The Designated Agency Ethics Official and Alternate are agency employees in the Office of the General Counsel formally designated to coordinate and manage the ethics program and serve as the Commission's designee(s) to the Office of Government Ethics on such matters.
 
-(f) Office of Equal Employment Opportunity.
+(e) *Office of Administrative Law Judges.* The Office of Administrative Law Judges holds hearings and renders initial decisions in adjudicatory proceedings as provided in 46 U.S.C. chapters 401-413 and 441 and other applicable laws, and other matters assigned by the Commission, in accordance with the Administrative Procedure Act and the Commission's Rules of Practice and Procedure in part 502 of this chapter.
 
-(g) Office of the Inspector General.
+(f) *Office of the Managing Director*—(1) *General duties of the Managing Director*—(i) *Chief Operating Officer.* The Managing Director is responsible to the Chairman for the management and coordination of Commission programs managed by the Director of Enterprise Services; Office of Budget and Finance; Office of Consumer Affairs and Dispute Resolution Services; Office of Human Resources; Office of Information Technology; Office of Management Services; Bureau of Certification and Licensing; Bureau of Trade Analysis; Bureau of Enforcement; and the Commission's Area Representatives, as more fully described in paragraphs (f)(2) and (3) of this section, and thereby implements the regulatory policies of the Commission and the administrative policies and directives of the Chairman.
 
-(h) Office of the Managing Director. (*Chief Operating Officer, Chief Acquisition Officer, Audit Follow-up and Management Controls Official, Chief Information Officer, Chief Financial Officer, Competition Advocate, Senior Agency Official for Privacy.*)
+(ii) *Administrative direction.* The Managing Director provides administrative direction to all organizational components, except for the OIG.
 
-(1) Office of Budget and Finance.
+(2) *General duties.* The Office of the Managing Director interprets and administers governmental policies and programs in a manner consistent with Federal guidelines, including those involving financial management, human resources, information technology, and procurement. The Office of the Managing Director is responsible for directing and administering the Commission's training and development function.
 
-(2) Office of Human Resources. (*Information Security Officer.*)
+(3) *Management and supervision.* Other officers and offices under the management direction of the Managing Director are as follows:
 
-(3) Office of Information Technology. (*Chief Technology Officer, IT Security Officer.*)
+(i) *Director, Enterprise Services.* The Director, Enterprise Services (D/ES) is the Commission's Chief Financial Officer (CFO) and has responsibility for internal and external communications relating to the budget and financial management. The D/ES works with the Directors, Office of Budget and Finance, Office of Human Resources, Office of Information Technology, and Office of Management Services, to manage the day-to-day administrative operations of the Commission.
 
-(4) Office of Management Services. (*Physical Security, FMC Contracting Officer.*)
+(ii) *Office of Budget and Finance.* The Office of Budget and Finance administers the Commission's financial management program, including fiscal accounting activities, fee and forfeiture collections, and payments, and ensures that Commission obligations and expenditures of appropriated funds are proper.
 
-(5) Bureau of Certification and Licensing.
+(iii) *Office of Consumer Affairs and Dispute Resolution Services.* The Office of Consumer Affairs and Dispute Resolution Services has responsibility for developing and implementing the Alternative Dispute Resolution Program, responds to consumer inquiries and complaints, and coordinates the Commission's efforts to resolve disputes within the shipping industry. The Office reviews existing and proposed legislation and regulations for impact on the shipping industry and its consumers and recommends appropriate policies and regulations to facilitate trade.
 
-(i) Office of Passenger Vessels and Information Processing.
+(iv) *Office of Human Resources.* The Office of Human Resources plans and administers a complete personnel management program.
 
-(ii) Office of Ocean Transportation Intermediaries.
+(v) *Office of Information Technology.* The Office of Information Technology administers the Commission's information technology (“IT”) program under the Paperwork Reduction Act of 1995, as amended, as well as other applicable laws that prescribe responsibility for operating the IT program.
 
-(6) Bureau of Trade Analysis.
+(vi) *Office of Management Services.* The Office of Management Services administers a variety of management support service functions of the Commission.
 
-(i) Office of Agreements.
+(vii) *Bureau of Certification and Licensing.* The Bureau of Certification and Licensing, through the Office of Transportation Intermediaries, has responsibility for reviewing applications and triennial renewals for Ocean Transportation Intermediary (“OTI”) licenses, and maintaining records about licensees and registrations, managing all activities with respect to evidence of financial responsibility for OTIs, and for developing and maintaining all Bureau databases and records of OTI applicants, licensees, and registrations. In addition, the Bureau of Certification and Licensing has responsibility for reviewing applications and renewals for certificates of financial responsibility with respect to passenger vessels, reviewing requests for substitution of alternative forms of financial protection, managing all activities with respect to evidence of financial responsibility for passenger vessel owner/operators, and for developing and maintaining all Bureau databases and records of passenger vessel owner/operators.
 
-(ii) Office of Economics and Competition Analysis.
+(viii) *Bureau of Trade Analysis.* The Bureau of Trade Analysis reviews agreements and monitors the concerted activities of ocean common carriers and marine terminal operators, reviews and analyzes service contracts, monitors rates of government-controlled carriers, reviews carrier published tariff systems, responds to inquiries or issues that arise concerning service contracts or tariffs, and is responsible for competition oversight and market analysis.
 
-(iii) Office of Service Contracts and Tariffs.
+(ix) *Bureau of Enforcement.* The Bureau of Enforcement conducts investigations and recommends enforcement action, and provides legal support related to enforcement to other Commission offices. The Bureau of Enforcement also: Participates as trial counsel in formal Commission proceedings when designated by Commission order, or when intervention is granted; negotiates informal compromises of civil penalties subject to the prior approval of the Commission; prepares and presents compromise agreements for Commission approval; and represents the Commission in proceedings and circumstances as designated.
 
-(7) Bureau of Enforcement.
-
-(8) Area Representatives.
-
-(i) Office of Consumer Affairs and Dispute Resolution Services. (*Ombudsman, Senior Dispute Resolution Specialist.*)
-
-(j) Boards and Committees.
-
-(1) Executive Resources Board.
-
-(2) Performance Review Board.
-
-[70 FR 7659, Feb. 15, 2005, as amended at 75 FR 29452, May 26, 2010]
+(x) *Area Representatives.* Area Representatives represent the Commission within their respective geographic area; act as a liaison between the Commission and interested parties such as members of the shipping industry, state and local governments, and members of the public; furnish to interested persons information, advice, and access to Commission public documents; receive and resolve informal complaints, in coordination with the Director, Office of Consumer Affairs and Dispute Resolution Services; investigate potential violations of the shipping statutes and the Commission's regulations; and provide assistance to the various bureaus and offices of the Commission, as appropriate and when requested.

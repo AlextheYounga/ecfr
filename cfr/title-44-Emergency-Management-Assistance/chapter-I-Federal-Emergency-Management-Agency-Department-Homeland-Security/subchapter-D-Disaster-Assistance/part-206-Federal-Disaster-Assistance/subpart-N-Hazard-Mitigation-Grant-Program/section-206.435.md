@@ -1,5 +1,7 @@
 ##### § 206.435 Project identification and selection criteria. #####
 
+Link to an amendment published at 86 FR 50678, Sept. 10, 2021.
+
 (a) *Identification.* It is the State's responsibility to identify and select eligible hazard mitigation projects. All funded projects must be consistent with the State Mitigation Plan. Hazard Mitigation projects shall be identified and prioritized through the State, Indian tribal, and local planning process.
 
 (b) *Selection.* The State will establish procedures and priorities for the selection of mitigation measures. At a minimum, the criteria must be consistent with the criteria stated in § 206.434(c) and include:

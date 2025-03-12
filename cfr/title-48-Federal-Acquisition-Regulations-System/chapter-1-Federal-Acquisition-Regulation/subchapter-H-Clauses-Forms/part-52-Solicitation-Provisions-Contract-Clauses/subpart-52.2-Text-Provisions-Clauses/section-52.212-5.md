@@ -1,10 +1,8 @@
 ##### 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Items. #####
 
-Link to an amendment published at 86 FR 44244, Aug. 11, 2021.Link to an amendment published at 86 FR 44254, Aug. 11, 2021.
-
 As prescribed in 12.301(b)(4), insert the following clause:
 
-Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Items (JUL 2021)
+Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Items (SEP 2021)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses, which are incorporated in this contract by reference, to implement provisions of law or Executive orders applicable to acquisitions of commercial items:
 
@@ -42,13 +40,9 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (10) [Reserved]
 
-\_\_ (11)(i) 52.219-3, Notice of HUBZone Set-Aside or Sole Source Award (MAR 2020) (15 U.S.C. 657a).
+\_\_ (11) 52.219-3, Notice of HUBZone Set-Aside or Sole-Source Award (SEP 2021) (15 U.S.C. 657a).
 
-\_\_ (ii) Alternate I (MAR 2020) of 52.219-3.
-
-\_\_ (12)(i) 52.219-4, Notice of Price Evaluation Preference for HUBZone Small Business Concerns (MAR 2020) (if the offeror elects to waive the preference, it shall so indicate in its offer) (15 U.S.C. 657a).
-
-\_\_ (ii) Alternate I (MAR 2020) of 52.219-4.
+\_\_ (12) 52.219-4, Notice of Price Evaluation Preference for HUBZone Small Business Concerns (SEP 2021) (if the offeror elects to waive the preference, it shall so indicate in its offer) (15 U.S.C. 657a).
 
 \_\_ (13) [Reserved]
 
@@ -62,7 +56,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (16) 52.219-8, Utilization of Small Business Concerns (OCT 2018) (15 U.S.C. 637(d)(2) and (3)).
 
-\_\_ (17)(i) 52.219-9, Small Business Subcontracting Plan (JUN 2020) (15 U.S.C. 637(d)(4)).
+\_\_ (17)(i) 52.219-9, Small Business Subcontracting Plan (SEP 2021) (15 U.S.C. 637(d)(4)).
 
 \_\_ (ii) Alternate I (NOV 2016) of 52.219-9.
 
@@ -70,29 +64,29 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (iv) Alternate III (JUN 2020) of 52.219-9.
 
-\_\_ (v) Alternate IV (JUN 2020) of 52.219-9.
+\_\_ (v) Alternate IV (SEP 2021) of 52.219-9.
 
 \_\_ (18)(i) 52.219-13, Notice of Set-Aside of Orders (MAR 2020) (15 U.S.C. 644(r)).
 
 \_\_ (ii) Alternate I (MAR 2020) of 52.219-13.
 
-\_\_ (19) 52.219-14, Limitations on Subcontracting (MAR 2020) (15 U.S.C. 637(a)(14)).
+\_\_ (19) 52.219-14, Limitations on Subcontracting (SEP 2021) (15 U.S.C. 657s).
 
-\_\_ (20) 52.219-16, Liquidated Damages - Subcontracting Plan (JAN 1999) (15 U.S.C. 637(d)(4)(F)(i)).
+\_\_ (20) 52.219-16, Liquidated Damages - Subcontracting Plan (SEP 2021) (15 U.S.C. 637(d)(4)(F)(i)).
 
-\_\_ (21) 52.219-27, Notice of Service-Disabled Veteran-Owned Small Business Set-Aside (MAR 2020) (15 U.S.C. 657f).
+\_\_ (21) 52.219-27, Notice of Service-Disabled Veteran-Owned Small Business Set-Aside (SEP 2021) (15 U.S.C. 657f).
 
-\_\_ (22)(i) 52.219-28, Post-Award Small Business Program Rerepresentation (NOV 2020) (15 U.S.C. 632(a)(2)).
+\_\_ (22)(i) 52.219-28, Post-Award Small Business Program Rerepresentation (SEP 2021) (15 U.S.C. 632(a)(2)).
 
 \_\_ (ii) Alternate I (MAR 2020) of 52.219-28.
 
-\_\_ (23) 52.219-29, Notice of Set-Aside for, or Sole Source Award to, Economically Disadvantaged Women-Owned Small Business (EDWOSB) Concerns (MAR 2020) (15 U.S.C. 637(m)).
+\_\_ (23) 52.219-29, Notice of Set-Aside for, or Sole-Source Award to, Economically Disadvantaged Women-Owned Small Business Concerns (SEP 2021) (15 U.S.C. 637(m)).
 
-\_\_ (24) 52.219-30, Notice of Set-Aside for, or Sole Source Award to, Women-Owned Small Business Concerns Eligible Under the Women-Owned Small Business Program (MAR 2020) (15 U.S.C. 637(m)).
+\_\_ (24) 52.219-30, Notice of Set-Aside for, or Sole-Source Award to, Women-Owned Small Business Concerns Eligible Under the Women-Owned Small Business Program (SEP 2021) (15 U.S.C. 637(m)).
 
 \_\_ (25) 52.219-32, Orders Issued Directly Under Small Business Reserves (MAR 2020) (15 U.S.C. 644(r)).
 
-\_\_ (26) 52.219-33, Nonmanufacturer Rule (MAR 2020) (15 U.S.C. 637(a)(17)).
+\_\_ (26) 52.219-33, Nonmanufacturer Rule (SEP 2021) (15 U.S.C. 657s).
 
 \_\_ (27) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
 

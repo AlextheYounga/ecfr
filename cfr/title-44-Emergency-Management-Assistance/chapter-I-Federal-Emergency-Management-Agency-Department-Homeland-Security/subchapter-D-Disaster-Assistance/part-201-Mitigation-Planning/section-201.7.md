@@ -1,5 +1,7 @@
 ##### § 201.7 Tribal Mitigation Plans. #####
 
+Link to an amendment published at 86 FR 50675, Sept. 10, 2021.
+
 The Indian Tribal Mitigation Plan is the representation of the Indian tribal government's commitment to reduce risks from natural hazards, serving as a guide for decision makers as they commit resources to reducing the effects of natural hazards.
 
 (a) *Plan requirement.* (1) Indian tribal governments applying to FEMA as a grantee must have an approved Tribal Mitigation Plan meeting the requirements of this section as a condition of receiving non-emergency Stafford Act assistance and FEMA mitigation grants. Emergency assistance provided under 42 U.S.C. 5170a, 5170b, 5173, 5174, 5177, 5179, 5180, 5182, 5183, 5184, 5192 will not be affected. Mitigation planning grants provided through the PDM program, authorized under section 203 of the Stafford Act, 42 U.S.C. 5133, will also continue to be available.

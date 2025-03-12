@@ -1,7 +1,5 @@
 ##### § 156.120 Requirements for transfer. #####
 
-Link to an amendment published at 86 FR 43941, Aug. 11, 2021.
-
 A transfer is considered to begin when the person in charge on the transferring vessel or facility and the person in charge on the receiving facility or vessel first meet to begin completing the declaration of inspection, as required by § 156.150 of this part. No person shall conduct an oil or hazardous material transfer operation unless:
 
 (a) The vessel's moorings are strong enough to hold during all expected conditions of surge, current, and weather and are long enough to allow adjustment for changes in draft, drift, and tide during the transfer operation;
@@ -46,7 +44,7 @@ A transfer is considered to begin when the person in charge on the transferring 
 
 (1) Is at the site of the transfer operation and immediately available to the transfer personnel;
 
-(2) Has in his or her possession a copy of the facility operations manual or vessel transfer procedures, as appropriate; and
+(2) Has readily available in the marine transfer area a copy of the most recently examined facility operations manual or vessel transfer procedures, as appropriate; and
 
 (3) Conducts the transfer operation in accordance with the facility operations manual or vessel transfer procedures, as appropriate;
 
@@ -58,7 +56,7 @@ A transfer is considered to begin when the person in charge on the transferring 
 
 (v) At least one person is at the site of the transfer operation who fluently speaks the language or languages spoken by both persons in charge;
 
-(w) The person in charge of the transfer on the transferring vessel or facility and the person in charge of it on the receiving vessel or facility have held a conference, to ensure that each person in charge understands -
+(w) The person in charge of the transfer on the transferring vessel or facility and the person in charge of it on the receiving vessel or facility have held a conference, to ensure that each person in charge understands—
 
 (1) The identity of the product to be transferred;
 
@@ -114,7 +112,7 @@ A transfer is considered to begin when the person in charge on the transferring 
 
 (8) Each vapor recovery hose has no unrepaired loose covers, kinks, bulges, soft spots, or any other defect which would permit the discharge of vapor through the hose material, and no external gouges, cuts, or slashes that penetrate the first layer of hose reinforcement; and
 
-(9) The oxygen content in the vapor space of each of the vessel's cargo tanks connected to the vapor collection system, if inerted, is -
+(9) The oxygen content in the vapor space of each of the vessel's cargo tanks connected to the vapor collection system, if inerted, is—
 
 (i) At or below 60 percent by volume of the cargo's minimum oxygen concentration for combustion; or
 
@@ -132,4 +130,4 @@ A transfer is considered to begin when the person in charge on the transferring 
 
 (dd) Welding, hot work operations and smoking are prohibited on vessels during the transfer of flammable or combustible materials, except that smoking may be permitted in accommodation areas designated by the master.
 
-(Approved by the Office of Management and Budget under control number 1625-0039)[CGD 75-124, 45 FR 7177, Jan. 31, 1980, as amended by CGD 88-102, 55 FR 25445, June 21, 1990; CGD 86-034, 55 FR 36255, Sept. 4, 1990; CGD 90-071a, 59 FR 53291, Oct. 21, 1994; CGD 93-056, 61 FR 41461, Aug. 8, 1996; CGD 79-116, 62 FR 25127, May 8, 1997; USCG-2001-9046, 67 FR 58524, Sept. 17, 2002; USCG-2006-25150, 71 FR 39210, July 12, 2006; 73 FR 79316, Dec. 29, 2008; USCG-1999-5150, 78 FR 42641, July 16, 2013]
+(Approved by the Office of Management and Budget under control number 1625-0039)[CGD 75-124, 45 FR 7177, Jan. 31, 1980, as amended by CGD 88-102, 55 FR 25445, June 21, 1990; CGD 86-034, 55 FR 36255, Sept. 4, 1990; CGD 90-071a, 59 FR 53291, Oct. 21, 1994; CGD 93-056, 61 FR 41461, Aug. 8, 1996; CGD 79-116, 62 FR 25127, May 8, 1997; USCG-2001-9046, 67 FR 58524, Sept. 17, 2002; USCG-2006-25150, 71 FR 39210, July 12, 2006; 73 FR 79316, Dec. 29, 2008; USCG-1999-5150, 78 FR 42641, July 16, 2013; USCG-2020-0315, 86 FR 43941, Aug. 11, 2021]

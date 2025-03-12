@@ -1,14 +1,12 @@
 ##### 19.705-6 Postaward responsibilities of the contracting officer. #####
 
-Link to an amendment published at 86 FR 44253, Aug. 11, 2021.
-
 After a contract or contract modification containing a subcontracting plan is awarded or an existing subcontracting plan is amended, the contracting officer shall do the following:
 
 (a) Notify the SBA of the award by sending a copy of the award document to the Area Director, Office of Government Contracting, in the SBA area office where the contract will be performed.
 
 (b) Forward a copy of each commercial plan and any associated approvals to the Area Director, Office of Government Contracting, in the SBA area office where the contractor's headquarters is located.
 
-(c) Give to the SBA procurement center representative (or, if a procurement center representative is not assigned, see 19.402(a)) a copy of -
+(c) Give to the SBA procurement center representative (or, if a procurement center representative is not assigned, see 19.402(a)) a copy of—
 
 (1) Any subcontracting plan submitted in response to a sealed bid solicitation; and
 
@@ -32,14 +30,14 @@ After a contract or contract modification containing a subcontracting plan is aw
 
 (g) Evaluate the prime contractor's compliance with its subcontracting plan, to include the following:
 
-(1) Assess whether the prime contractor made a good faith effort to comply with its small business subcontracting plan (see 13 CFR 125.3(d)(3)).
+(1) Assess whether the prime contractor made a good faith effort to comply with its small business subcontracting plan. See 19.705-7(b) for more information on the determination of good faith effort.
 
 (2) Assess the prime contractor's written explanation concerning the prime contractor's failure to use a small business concern in the performance of the contract in the same scope, amount, and quality used in preparing and submitting the bid or proposal, if applicable.
 
-(h) Initiate action to assess liquidated damages in accordance with 19.705-7 upon a recommendation by the administrative contracting officer or receipt of other reliable evidence to indicate that such action is warranted.
+(h) Initiate action to assess liquidated damages in accordance with 19.705-7 upon a recommendation by the administrative contracting officer, if one is assigned, or receipt of other reliable evidence to indicate that assessing liquidated damages is warranted.
 
-(i) Take action to enforce the terms of the contract upon receipt of a notice under 19.706(f).
+(i) Take action to enforce the terms of the contract upon receipt of a notice from the contract administration office under 19.706(f).
 
 (j) Acknowledge receipt of or reject the ISR and the SSR in the eSRS. Acknowledging receipt does not mean acceptance or approval of the report. The report shall be rejected if it is not adequately completed, for instance, if there are errors, omissions, or incomplete data. Failure to meet the goals of the subcontracting plan is not a valid reason for rejecting the report.
 
-[48 FR 42240, Sept. 19, 1983, as amended at 52 FR 19803, May 27, 1987; 53 FR 27464, July 20, 1988; 53 FR 34228, Sept. 2, 1988; 54 FR 30709, July 21, 1989; 55 FR 52792, Dec. 21, 1990; 63 FR 34066, June 22, 1998; 63 FR 70271, Dec. 18, 1998; 71 FR 36926, June 28, 2006; 73 FR 21781, Apr. 22, 2008; 75 FR 34264, June 16, 2010; 81 FR 45845, July 14, 2016]
+[48 FR 42240, Sept. 19, 1983, as amended at 52 FR 19803, May 27, 1987; 53 FR 27464, July 20, 1988; 53 FR 34228, Sept. 2, 1988; 54 FR 30709, July 21, 1989; 55 FR 52792, Dec. 21, 1990; 63 FR 34066, June 22, 1998; 63 FR 70271, Dec. 18, 1998; 71 FR 36926, June 28, 2006; 73 FR 21781, Apr. 22, 2008; 75 FR 34264, June 16, 2010; 81 FR 45845, July 14, 2016; 86 FR 44253, Aug. 11, 2021]

@@ -8,7 +8,7 @@
 
 (i) 911 access;
 
-(ii) Integrated interoperable emergency communications, including multiuse networks that provide commercial or transportation information services in addition to emergency communications services;
+(ii) Integrated interoperable emergency communications, including multiuse networks that provide critical transportation-related information services in addition to emergency communications services;
 
 (iii) Homeland security communications;
 
@@ -22,14 +22,12 @@
 
 (d) RUS will not deny or reduce a loan or an advance of loan funds based on a borrower's level of general funds.
 
-(e) No fees or charges are assessed for any type of loan or guarantee provided by RUS.
+(e) The Administrator may use consultants funded by the borrower for financial, legal, engineering, and other technical advice in connection with the review of a borrower's loan application.
 
-(f) The Administrator may use consultants funded by the borrower for financial, legal, engineering, and other technical advice in connection with the review of a borrower's loan application.
-
-(g) For the purpose of paragraph (a)(2) of this section, rural areas means any area that is not located within a city, town, or incorporated area that has a population of greater than 20,000 inhabitants or within an urbanized area contiguous and adjacent to a city or town that has a population of greater than 50,000 inhabitants. For the purpose of the definition of rural area,
+(f) For the purpose of paragraph (a)(2) of this section, rural areas means any area that is not located within a city, town, or incorporated area that has a population of greater than 20,000 inhabitants or within an urbanized area contiguous and adjacent to a city or town that has a population of greater than 50,000 inhabitants. For the purpose of the definition of rural area,
 
 (1) The population figure is obtained from the most recent decennial Census of the United States (decennial Census). If the applicable population figure cannot be obtained from the most recent decennial Census, RD will determine the applicable population figure based on available population data; and
 
 (2) An urbanized area means a densely populated territory as defined in the most recent decennial Census.
 
-[58 FR 66253, Dec. 20, 1993, as amended at 59 FR 17464, Apr. 13, 1994; 65 FR 42619, July 11, 2000; 65 FR 54403, Sept. 8, 2000; 76 FR 56093, Sept. 12, 2011; 80 FR 9861, Feb. 24, 2015; 84 FR 59921, Nov. 7, 2019]
+[58 FR 66253, Dec. 20, 1993, as amended at 59 FR 17464, Apr. 13, 1994; 65 FR 42619, July 11, 2000; 65 FR 54403, Sept. 8, 2000; 76 FR 56093, Sept. 12, 2011; 80 FR 9861, Feb. 24, 2015; 84 FR 59921, Nov. 7, 2019; 86 FR 50608, Sept. 10, 2021]

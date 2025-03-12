@@ -1,5 +1,7 @@
 ##### § 206.433 State responsibilities. #####
 
+Link to an amendment published at 86 FR 50677, Sept. 10, 2021.
+
 (a) *Grantee.* The State will be the Grantee to which funds are awarded and will be accountable for the use of those funds. There may be subgrantees within the State government.
 
 (b) *Priorities.* The State will determine priorities for funding. This determination must be made in conformance with § 206.435.

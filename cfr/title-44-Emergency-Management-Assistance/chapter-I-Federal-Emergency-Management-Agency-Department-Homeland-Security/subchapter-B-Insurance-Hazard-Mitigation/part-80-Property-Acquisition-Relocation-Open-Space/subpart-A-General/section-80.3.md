@@ -1,5 +1,7 @@
 ##### § 80.3 Definitions. #####
 
+Link to an amendment published at 86 FR 50670, Sept. 10, 2021.
+
 (a) Except as noted in this part, the definitions applicable to the funding program apply to implementation of this part. In addition, for purposes of this part:
 
 (b) *Applicant* is the State or Indian tribal government applying to FEMA for a grant, and which will be accountable for the use of the funds.

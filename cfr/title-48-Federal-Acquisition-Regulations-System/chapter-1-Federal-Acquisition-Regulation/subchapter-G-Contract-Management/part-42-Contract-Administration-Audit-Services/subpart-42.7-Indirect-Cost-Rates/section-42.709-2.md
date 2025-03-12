@@ -1,21 +1,17 @@
-##### 42.709-2 Responsibilities. #####
+##### 42.709-2 General. #####
 
-Link to an amendment published at 86 FR 44255, Aug. 11, 2021.
+(a) The following penalties apply to contracts covered by this section:
 
-(a) The cognizant contracting officer is responsible for -
+(1) If the indirect cost is expressly unallowable under a cost principle in the FAR, or an executive agency supplement to the FAR, that defines the allowability of specific selected costs, the penalty is equal to—
 
-(1) Determining whether the penalties in 42.709-1(a) should be assessed;
+(i) The amount of the disallowed costs allocated to contracts that are subject to this section for which an indirect cost proposal has been submitted; plus
 
-(2) Determining whether such penalties should be waived pursuant to 42.709-5; and
+(ii) Interest on the paid portion, if any, of the disallowance.
 
-(3) Referring the matter to the appropriate criminal investigative organization for review and for appropriate coordination of remedies, if there is evidence that the contractor knowingly submitted unallowable costs.
+(2) If the indirect cost was determined to be unallowable for that contractor before proposal submission, the penalty is two times the amount in paragraph (a)(1)(i) of this section.
 
-(b) The contract auditor, in the review and/or the determination of final indirect cost proposals for contracts subject to this section, is responsible for -
+(b) These penalties are in addition to other administrative, civil, and criminal penalties provided by law.
 
-(1) Recommending to the contracting officer which costs may be unallowable and subject to the penalties in 42.709-1(a);
+(c) It is not necessary for unallowable costs to have been paid to the contractor in order to assess a penalty.
 
-(2) Providing rationale and supporting documentation for any recommendation; and
-
-(3) Referring the matter to the appropriate criminal investigative organization for review and for appropriate coordination of remedies, if there is evidence that the contractor knowingly submitted unallowable costs.
-
-[60 FR 42658, Aug. 16, 1995]
+[60 FR 42658, Aug. 16, 1995. Redesignated at 86 FR 44255, Aug. 11, 2021]

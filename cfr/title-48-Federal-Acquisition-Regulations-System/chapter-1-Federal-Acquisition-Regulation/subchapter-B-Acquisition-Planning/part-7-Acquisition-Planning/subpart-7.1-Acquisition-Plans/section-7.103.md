@@ -1,7 +1,5 @@
 ##### 7.103 Agency-head responsibilities. #####
 
-Link to an amendment published at 86 FR 44231, Aug. 11, 2021.
-
 The agency head or a designee shall prescribe procedures for the following:
 
 (a) Promoting and providing for full and open competition (see part 6) or, when full and open competition is not required in accordance with part 6, for obtaining competition to the maximum extent practicable, with due regard to the nature of the supplies and services to be acquired (10 U.S.C. 2305(a)(1)(A)
@@ -49,7 +47,7 @@ and 41 U.S.C. 3306(a)(1)).
 
 (4) Require contractor compliance with Federal environmental requirements, when the contractor is operating Government-owned facilities or vehicles, to the same extent as the agency would be required to comply if the agency operated the facilities or vehicles.
 
-(q) Ensuring that acquisition planners specify needs and develop plans, drawings, work statements, specifications, or other product descriptions that address Electronic and Information Technology Accessibility Standards (see 36 CFR part 1194) in proposed acquisitions (see 11.002(e)) and that these standards are included in requirements planning, as appropriate (see subpart 39.2).
+(q) Ensuring that acquisition planners specify needs and develop plans, drawings, work statements, specifications, or other product or service requirements (*e.g.,* help desks, call centers, training services, and automated self-service technical support) descriptions that address information and communication technology (ICT) accessibility standards (see 36 CFR 1194.1) in proposed acquisitions and that these standards are included in requirements planning (see subpart 39.2).
 
 (r) Making a determination, prior to issuance of a solicitation for advisory and assistance services involving the analysis and evaluation of proposals submitted in response to a solicitation, that a sufficient number of covered personnel with the training and capability to perform an evaluation and analysis of proposals submitted in response to a solicitation are not readily available within the agency or from another Federal agency in accordance with the guidelines at 37.204.
 

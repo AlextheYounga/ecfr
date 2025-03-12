@@ -24,6 +24,6 @@
 
 (b) *Area coverage.* The borrower shall provide RUS with satisfactory evidence to enable the Administrator to determine that adequate telephone service will be made available to the widest practical number of rural users during the life of the loan.
 
-(c) *Nonduplication or certificate requirement.* The borrower shall provide RUS with satisfactory evidence to enable the Administrator to determine that no duplication of service shall result from a particular loan for those borrowers not required by the state regulatory commission to have a certificate of convenience and necessity (or its equivalent). For borrowers required to have a certificate of convenience and necessity, all portions of the existing and proposed system must be covered by the certificate.
+(c) *Nonduplication or certificate requirement.* The borrower shall provide RUS with satisfactory evidence to enable the Administrator to determine that no duplication of telephone service shall result from a particular loan.
 
-[54 FR 13351, Apr. 3, 1989. Redesignated at 55 FR 39395, Sept. 27, 1990, as amended at 56 FR 26598, June 10, 1991]
+[54 FR 13351, Apr. 3, 1989. Redesignated at 55 FR 39395, Sept. 27, 1990, as amended at 56 FR 26598, June 10, 1991; 86 FR 50609, Sept. 10, 2021]

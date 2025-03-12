@@ -1,5 +1,7 @@
 ##### § 206.440 Appeals. #####
 
+Link to an amendment published at 86 FR 50679, Sept. 10, 2021.
+
 An eligible applicant, subgrantee, or grantee may appeal any determination previously made related to an application for or the provision of Federal assistance according to the procedures below.
 
 (a) *Format and content.* The applicant or subgrantee will make the appeal in writing through the grantee to the Regional Administrator. The grantee shall review and evaluate all subgrantee appeals before submission to the Regional Administrator. The grantee may make grantee-related appeals to the Regional Administrator. The appeal shall contain documented justification supporting the appellant's position, specifying the monetary figure in dispute and the provisions in Federal law, regulation, or policy with which the appellant believes the initial action was inconsistent.

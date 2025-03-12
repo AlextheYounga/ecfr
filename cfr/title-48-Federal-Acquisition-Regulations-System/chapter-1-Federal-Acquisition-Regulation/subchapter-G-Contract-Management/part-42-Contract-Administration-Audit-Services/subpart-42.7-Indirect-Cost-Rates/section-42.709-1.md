@@ -1,19 +1,11 @@
-##### 42.709-1 General. #####
+##### 42.709-1 Scope. #####
 
-Link to an amendment published at 86 FR 44255, Aug. 11, 2021.
+(a) This section implements 10 U.S.C. 2324 (a) through (d) and 41 U.S.C. 4303. It covers the assessment of penalties against contractors which include unallowable indirect costs in -
 
-(a) The following penalties apply to contracts covered by this section:
+(1) Final indirect cost rate proposals; or
 
-(1) If the indirect cost is expressly unallowable under a cost principle in the FAR, or an executive agency supplement to the FAR, that defines the allowability of specific selected costs, the penalty is equal to -
+(2) The final statement of costs incurred or estimated to be incurred under a fixed-price incentive contract.
 
-(i) The amount of the disallowed costs allocated to contracts that are subject to this section for which an indirect cost proposal has been submitted; plus
+(b) This section applies to all contracts in excess of $800,000, except fixed-price contracts without cost incentives or any firm-fixed-price contracts for the purchase of commercial items.
 
-(ii) Interest on the paid portion, if any, of the disallowance.
-
-(2) If the indirect cost was determined to be unallowable for that contractor before proposal submission, the penalty is two times the amount in paragraph (a)(1)(i) of this section.
-
-(b) These penalties are in addition to other administrative, civil, and criminal penalties provided by law.
-
-(c) It is not necessary for unallowable costs to have been paid to the contractor in order to assess a penalty.
-
-[60 FR 42658, Aug. 16, 1995]
+[60 FR 42658, Aug. 16, 1995, as amended at 69 FR 76358, Dec. 20, 2004; 71 FR 57368, Sept. 28, 2006; 75 FR 53134, Aug. 30, 2010; 79 FR 24213, Apr. 29, 2014; 80 FR 38298, July 2, 2015. Redesignated at 81 FR 83104, Nov. 18, 2016; 85 FR 62489, Oct. 2, 2020. Redesignated at 86 FR 44255, Aug. 11, 2021]

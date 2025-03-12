@@ -1,5 +1,7 @@
 ##### § 80.19 Land use and oversight. #####
 
+Link to an amendment published at 86 FR 50672, Sept. 10, 2021.
+
 This section applies to acquisitions for open space projects to address flood hazards. If the Administrator determines to mitigate in other circumstances, he/she will adapt the provisions of this section as appropriate.
 
 (a) *Open space requirements.* The property shall be dedicated and maintained in perpetuity as open space for the conservation of natural floodplain functions.

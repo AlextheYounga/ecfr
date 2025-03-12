@@ -1,10 +1,8 @@
 ##### 52.219-1 Small Business Program Representations. #####
 
-Link to an amendment published at 86 FR 44244, Aug. 11, 2021.
-
 As prescribed in 19.309(a)(1), insert the following provision:
 
-Small Business Program Representations (NOV 2020)
+Small Business Program Representations (SEP 2021)
 
 (a) *Definitions.* As used in this provision -
 
@@ -48,11 +46,17 @@ Small Business Program Representations (NOV 2020)
 
 *Women-owned small business (WOSB) concern eligible under the WOSB Program* (in accordance with 13 CFR part 127), means a small business concern that is at least 51 percent directly and unconditionally owned by, and the management and daily business operations of which are controlled by, one or more women who are citizens of the United States.
 
-(b)(1) The North American Industry Classification System (NAICS) code for this acquisition is - \_\_\_\_\_\_[*insert NAICS code*].
+(b)(1) The North American Industry Classification System (NAICS) code for this acquisition is \_\_\_\_[*insert NAICS code*].
 
 (2) The small business size standard is \_\_\_\_[*insert size standard*].
 
-(3) The small business size standard for a concern which submits an offer in its own name, other than on a construction or service contract, but which proposes to furnish a product which it did not itself manufacture (*i.e.,* nonmanufacturer), is 500 employees.
+(3) The small business size standard for a concern that submits an offer, other than on a construction or service acquisition, but proposes to furnish an end item that it did not itself manufacture, process, or produce (*i.e.,* nonmanufacturer), is 500 employees if the acquisition -
+
+(i) Is set aside for small business and has a value above the simplified acquisition threshold;
+
+(ii) Uses the HUBZone price evaluation preference regardless of dollar value, unless the offeror waives the price evaluation preference; or
+
+(iii) Is an 8(a), HUBZone, service-disabled veteran-owned, economically disadvantaged women-owned, or women-owned small business set-aside or sole-source award regardless of dollar value.
 
 (c) *Representations.* (1) The offeror represents as part of its offer that it □ is, □ is not a small business concern.
 
@@ -94,7 +98,7 @@ Small Business Program Representations (NOV 2020)
 
 *Alternate I* (SEP 2015). As prescribed in 19.309(a)(2), add the following paragraph (c)(9) to the basic provision:
 
-(9) [*Complete if offeror represented itself as disadvantaged in paragraph (c)(2) of this provision.* The offeror shall check the category in which its ownership falls:
+(c)(9) [*Complete if offeror represented itself as disadvantaged in paragraph (c)(2) of this provision.* The offeror shall check the category in which its ownership falls:
 
 \_\_ Black American.
 
@@ -108,27 +112,33 @@ Small Business Program Representations (NOV 2020)
 
 \_\_ Individual/concern, other than one of the preceding.
 
-*Alternate II* (MAR 2020). As prescribed in 19.309(a)(3), substitute the following paragraphs (b) and (c)(1) for paragraphs (b) and (c)(1) of the basic provision:
+*Alternate II* (SEP 2021). As prescribed in 19.309(a)(3), substitute the following paragraphs (b) and (c)(1) for paragraphs (b) and (c)(1) of the basic provision:
 
 (b)(1) The North American Industry Classification System (NAICS) codes and corresponding size standards for this acquisition are as follows; the categories or portions these NAICS codes are assigned to are specified elsewhere in the solicitation:
 
-|    NAICS code    |  Size standard   |
-|------------------|------------------|
-|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|
-|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|
-|\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_|
+|             NAICS code             |           Size standard            |
+|------------------------------------|------------------------------------|
+|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|
+|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|
+|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|
 
 [Contracting Officer to insert NAICS codes and size standards].
 
-(2) The small business size standard for a concern which submits an offer in its own name, other than on a construction or service contract, but which proposes to furnish a product which it did not itself manufacture (*i.e.,* nonmanufacturer), is 500 employees.
+(2) The small business size standard for a concern that submits an offer, other than on a construction or service acquisition, but proposes to furnish an end item that it did not itself manufacture, process, or produce (*i.e.,* nonmanufacturer), is 500 employees if the acquisition -
+
+(i) Is set aside for small business and has a value above the simplified acquisition threshold;
+
+(ii) Uses the HUBZone price evaluation preference regardless of dollar value, unless the offeror waives the price evaluation preference; or
+
+(iii) Is an 8(a), HUBZone, service-disabled veteran-owned, economically disadvantaged women-owned, or women-owned small business set-aside or sole-source award regardless of dollar value.
 
 (c) *Representations.* (1) The Offeror shall represent its small business size status for each one of the NAICS codes assigned to this acquisition under which it is submitting an offer.
 
-|    NAICS code    |Small business  <br/>concern  <br/>(yes/no)|
-|------------------|-------------------------------------------|
-|\_\_\_\_\_\_\_\_\_|            \_\_\_\_\_\_\_\_\_             |
-|\_\_\_\_\_\_\_\_\_|            \_\_\_\_\_\_\_\_\_             |
-|\_\_\_\_\_\_\_\_\_|            \_\_\_\_\_\_\_\_\_             |
+|             NAICS code             |Small business  <br/>concern  <br/>(yes/no)|
+|------------------------------------|-------------------------------------------|
+|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_    |
+|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_    |
+|\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_|   \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_    |
 
 [Contracting Officer to insert NAICS codes.]
 

@@ -1,5 +1,7 @@
 ##### § 80.9 Eligible and ineligible costs. #####
 
+Link to an amendment published at 86 FR 50671, Sept. 10, 2021.
+
 (a) *Allowable costs.* Eligible project costs may include compensation for the value of structures, for their relocation or demolition, for associated land, and associated costs. For land that is already held by an eligible entity, compensation for the land is not an allowable cost, but compensation for development rights may be allowable.
 
 (b) *Pre-award costs.* FEMA may fund eligible pre-award project costs at its discretion and as funds are available. Grantees and subgrantees may be reimbursed for eligible pre-award costs for activities directly related to the development of the project proposal. These costs can only be incurred during the open application period of the respective grant program. Costs associated with implementation of the project but incurred prior to grant award are not eligible. Therefore, activities where implementation is initiated or completed prior to award are not eligible and will not be reimbursed.

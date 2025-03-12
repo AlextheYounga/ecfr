@@ -1,35 +1,49 @@
 ##### 52.219-33 Nonmanufacturer Rule. #####
 
-Link to an amendment published at 86 FR 44246, Aug. 11, 2021.
-
 As prescribed in 19.507(h), insert the following clause:
 
-Nonmanufacturer Rule (MAR 2020)
+Nonmanufacturer Rule (SEP 2021)
 
-(a) This clause does not apply to the unrestricted portion of a partial set-aside.
+(a) *Definitions.* As used in this clause—
 
-(b) *Applicability.* This clause applies to -
+*Manufacturer* means the concern that transforms raw materials, miscellaneous parts, or components into the end item. Concerns that only minimally alter the item being procured do not qualify as manufacturers of the end item. Concerns that add substances, parts, or components to an existing end item to modify its performance will not be considered the end item manufacturer, where those identical modifications can be performed by and are available from the manufacturer of the existing end item.
 
-(1) Contracts that have been set aside, in total or in part;
+*Nonmanufacturer* means a concern, including a supplier, that provides an end item it did not manufacture, process, or produce.
 
-(2) Orders under multiple-award contracts as described in 8.405-5 and 16.505(b)(2)(i)(F) that have been set aside for any of the small business concerns identified in 19.000(a)(3); and
+(b) *Applicability.*
 
-(3) Orders issued directly to any of the small business concerns identified in 19.000(a)(3) under multiple-award contracts as described in 19.504(c)(1)(ii).
+(1) This clause does not apply to contracts awarded pursuant to the unrestricted portion of a partial set-aside or to a contractor that is the manufacturer of the product or end item.
 
-(c)(1) The Contractor shall -
+(2) This clause applies to—
 
-(i)(A) Provide the end item of a small business manufacturer, or if set aside or awarded on a sole source basis to a HUBZone small business, provide the end item of a HUBZone small business manufacturer, that has been manufactured or produced in the United States or its outlying areas; or
+(i) Contracts that have been awarded pursuant to a set-aside, in total or in part, for any of the small business concerns identified in 19.000(a)(3);
 
-(B) If this procurement is an order as described in 8.405-5 or 16.505(b)(2)(i)(F) or processed under simplified acquisition procedures (see part 13), and the total amount does not exceed $25,000, provide the end item of any domestic manufacturer;
+(ii) Contracts that have been awarded on a sole-source basis in accordance with subparts 19.8, 19.13, 19.14, and 19.15;
 
-(ii) Not exceed 500 employees;
+(iii) Orders expected to exceed the simplified acquisition threshold and that are—
 
-(iii) Be primarily engaged in the retail or wholesale trade and normally sell the type of item being supplied; and
+(A) Set aside for small business under multiple-award contracts, as described in 8.405-5 and 16.505(b)(2)(i)(F); or
 
-(iv) Take ownership or possession of the item(s) with its personnel, equipment, or facilities in a manner consistent with industry practice.
+(B) Issued directly to a small business concern under multiple-award contracts as described in 19.504(c)(1)(ii);
 
-(2) In addition to the requirements set forth in paragraph (c)(1) of this clause, when the end item being acquired is a kit of supplies or other goods, 50 percent of the total value of the components of the kit shall be manufactured in the United States or its outlying areas by small business concerns. Where the Government has specified an item for the kit which is not produced by U.S. small business concerns, such items shall be excluded from the 50 percent calculation. See 13 CFR 121.406(c) for further information regarding nonmanufacturers.
+(iv) Orders, regardless of dollar value, that are—
 
-(3) For size determination purposes, there can be only one manufacturer of the end product being acquired. For the purposes of the nonmanufacturer rule, the manufacturer of the end product being acquired is the concern that transforms raw materials and/or miscellaneous parts or components into the end product. Firms which only minimally alter the item being procured do not qualify as manufacturers of the end item, such as firms that add substances, parts, or components to an existing end item to modify its performance, will not be considered the end item manufacturer, where those identical modifications can be performed by and are available from the manufacturer of the existing end item. See 13 CFR 121.406 for further information regarding manufacturers.
+(A) Set aside in accordance with subparts 19.8, 19.13, 19.14, and 19.15 under multiple-award contracts as described in 8.405-5 and 16.505(b)(2)(i)(F); or
 
-(End of clause)[85 FR 11773, Feb. 27, 2020]
+(B) Issued directly to concerns that qualify for the programs described in subparts 19.8, 19.13, 19.14, and 19.15 under multiple-award contracts as described in 19.504(c)(1)(ii); and
+
+(v) Contracts using the HUBZone price evaluation preference to award to a HUBZone concern unless the Contractor waived the evaluation preference.
+
+(c) *Requirements.*
+
+(1) The Contractor shall—
+
+(i) Provide an end item that a small business has manufactured, processed, or produced in the United States or its outlying areas; for kit assemblers who are nonmanufacturers, see paragraph (c)(2) of this clause instead;
+
+(ii) Be primarily engaged in the retail or wholesale trade and normally sell the type of item being supplied; and
+
+(iii) Take ownership or possession of the item(s) with its personnel, equipment, or facilities in a manner consistent with industry practice; for example, providing storage, transportation, or delivery.
+
+(2) When the end item being acquired is a kit of supplies, at least 50 percent of the total cost of the components of the kit shall be manufactured, processed, or produced in the United States or its outlying areas by small business concerns.
+
+(End of clause)[86 FR 44246, Aug. 11, 2021]

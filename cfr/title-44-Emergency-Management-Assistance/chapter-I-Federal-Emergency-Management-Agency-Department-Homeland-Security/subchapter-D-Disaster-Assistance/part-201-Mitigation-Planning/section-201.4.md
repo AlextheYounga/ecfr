@@ -1,5 +1,7 @@
 ##### § 201.4 Standard State Mitigation Plans. #####
 
+Link to an amendment published at 86 FR 50674, Sept. 10, 2021.
+
 (a) *Plan requirement.* States must have an approved Standard State Mitigation Plans meeting the requirements of this section as a condition of receiving non-emergency Stafford Act assistance and FEMA mitigation grants. Emergency assistance provided under 42 U.S.C. 5170a, 5170b, 5173, 5174, 5177, 5179, 5180, 5182, 5183, 5184, 5192 will not be affected. Mitigation planning grants provided through the Pre-disaster Mitigation (PDM) program, authorized under section 203 of the Stafford Act, 42 U.S.C. 5133, will also continue to be available. The mitigation plan is the demonstration of the State's commitment to reduce risks from natural hazards and serves as a guide for State decision makers as they commit resources to reducing the effects of natural hazards.
 
 (b) *Planning process.* An effective planning process is essential in developing and maintaining a good plan. The mitigation planning process should include coordination with other State agencies, appropriate Federal agencies, interested groups, and be integrated to the extent possible with other ongoing State planning efforts as well as other FEMA mitigation programs and initiatives.

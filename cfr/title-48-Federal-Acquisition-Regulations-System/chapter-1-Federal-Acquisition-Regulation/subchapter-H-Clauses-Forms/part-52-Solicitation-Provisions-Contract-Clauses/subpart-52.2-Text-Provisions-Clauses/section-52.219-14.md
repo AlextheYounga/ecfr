@@ -1,43 +1,63 @@
 ##### 52.219-14 Limitations on Subcontracting. #####
 
-Link to an amendment published at 86 FR 44245, Aug. 11, 2021.
-
 As prescribed in 19.507(e), insert the following clause:
 
-Limitations on Subcontracting (MAR 2020)
+Limitations on Subcontracting (SEP 2021)
 
 (a) This clause does not apply to the unrestricted portion of a partial set-aside.
 
-(b) *Applicability.* This clause applies only to -
+(b) *Definition. Similarly situated entity,* as used in this clause, means a first-tier subcontractor, including an independent contractor, that -
 
-(1) Contracts that have been set aside for small business concerns or 8(a) participants;
+(1) Has the same small business program status as that which qualified the prime contractor for the award (*e.g.,* for a small business set-aside contract, any small business concern, without regard to its socioeconomic status); and
 
-(2) Part or parts of a multiple-award contract that have been set aside for small business concerns or 8(a) participants;
+(2) Is considered small for the size standard under the North American Industry Classification System (NAICS) code the prime contractor assigned to the subcontract.
 
-(3) Orders set aside for small business concerns or 8(a) participants under multiple-award contracts as described in 8.405-5 and 16.505(b)(2)(i)(F); and
+(c) *Applicability.* This clause applies only to -
 
-(4) Orders issued directly to small business concerns or 8(a) participants under multiple-award contracts as described in 19.504(c)(1)(ii).
+(1) Contracts that have been set aside for any of the small business concerns identified in 19.000(a)(3);
 
-(c) *Limitations on subcontracting.* By submission of an offer and execution of a contract, the Contractor agrees that in performance of the contract in the case of a contract for -
+(2) Part or parts of a multiple-award contract that have been set aside for any of the small business concerns identified in 19.000(a)(3);
 
-(1) *Services (except construction).* At least 50 percent of the cost of contract performance incurred for personnel shall be expended for employees of the concern.
+(3) Contracts that have been awarded on a sole-source basis in accordance with subparts 19.8, 19.13, 19.14, and 19.15;
 
-(2) *Supplies (other than procurement from a nonmanufacturer of such supplies).* The concern shall perform work for at least 50 percent of the cost of manufacturing the supplies, not including the cost of materials.
+(4) Orders expected to exceed the simplified acquisition threshold and that are -
 
-(3) *General construction.* The concern will perform at least 15 percent of the cost of the contract, not including the cost of materials, with its own employees.
+(i) Set aside for small business concerns under multiple-award contracts, as described in 8.405-5 and 16.505(b)(2)(i)(F); or
 
-(4) *Construction by special trade contractors.* The concern will perform at least 25 percent of the cost of the contract, not including the cost of materials, with its own employees.
+(ii) Issued directly to small business concerns under multiple-award contracts as described in 19.504(c)(1)(ii);
 
-(d) The Contractor shall comply with the limitations on subcontracting as follows:
+(5) Orders, regardless of dollar value, that are -
 
-(1) For contracts, in accordance with paragraph (b)(1) and (2) of this clause -
+(i) Set aside in accordance with subparts 19.8, 19.13, 19.14, or 19.15 under multiple-award contracts, as described in 8.405-5 and 16.505(b)(2)(i)(F); or
+
+(ii) Issued directly to concerns that qualify for the programs described in subparts 19.8, 19.13, 19.14, or 19.15 under multiple-award contracts, as described in 19.504(c)(1)(ii); and
+
+(6) Contracts using the HUBZone price evaluation preference to award to a HUBZone small business concern unless the concern waived the evaluation preference.
+
+(d) *Independent contractors.* An independent contractor shall be considered a subcontractor.
+
+(e) *Limitations on subcontracting.* By submission of an offer and execution of a contract, the Contractor agrees that in performance of a contract assigned a North American Industry Classification System (NAICS) code for -
+
+(1) Services (except construction), it will not pay more than 50 percent of the amount paid by the Government for contract performance to subcontractors that are not similarly situated entities. Any work that a similarly situated entity further subcontracts will count towards the prime contractor's 50 percent subcontract amount that cannot be exceeded. When a contract includes both services and supplies, the 50 percent limitation shall apply only to the service portion of the contract;
+
+(2) Supplies (other than procurement from a nonmanufacturer of such supplies), it will not pay more than 50 percent of the amount paid by the Government for contract performance, excluding the cost of materials, to subcontractors that are not similarly situated entities. Any work that a similarly situated entity further subcontracts will count towards the prime contractor's 50 percent subcontract amount that cannot be exceeded. When a contract includes both supplies and services, the 50 percent limitation shall apply only to the supply portion of the contract;
+
+(3) General construction, it will not pay more than 85 percent of the amount paid by the Government for contract performance, excluding the cost of materials, to subcontractors that are not similarly situated entities. Any work that a similarly situated entity further subcontracts will count towards the prime contractor's 85 percent subcontract amount that cannot be exceeded; or
+
+(4) Construction by special trade contractors, it will not pay more than 75 percent of the amount paid by the Government for contract performance, excluding the cost of materials, to subcontractors that are not similarly situated entities. Any work that a similarly situated entity further subcontracts will count towards the prime contractor's 75 percent subcontract amount that cannot be exceeded.
+
+(f) The Contractor shall comply with the limitations on subcontracting as follows:
+
+(1) For contracts, in accordance with paragraphs (c)(1), (2), (3) and (6) of this clause -
 
 [*Contracting Officer check as appropriate.*]
 
-\_ By the end of the base term of the contract and then by the end of each subsequent option period; or
+\_\_\_\_By the end of the base term of the contract and then by the end of each subsequent option period; or
 
-\_ By the end of the performance period for each order issued under the contract.
+\_\_\_\_By the end of the performance period for each order issued under the contract.
 
-(2) For orders, in accordance with paragraphs (b)(3) and (4) of this clause, by the end of the performance period for the order.
+(2) For orders, in accordance with paragraphs (c)(4) and (5) of this clause, by the end of the performance period for the order.
 
-(End of clause)[52 FR 38190, Oct. 14, 1988, as amended at 55 FR 52798, Dec. 21, 1990; 61 FR 67411, Dec. 20, 1996; 64 FR 32749, June 17, 1999; 76 FR 68037, Nov. 2, 2011; 82 FR 4731, Jan. 13, 2017; 85 FR 11771, Feb. 27, 2020]
+(g) A joint venture agrees that, in the performance of the contract, the applicable percentage specified in paragraph (e) of this clause will be performed by the aggregate of the joint venture participants.
+
+(End of clause)[86 FR 44245, Aug. 11, 2021]

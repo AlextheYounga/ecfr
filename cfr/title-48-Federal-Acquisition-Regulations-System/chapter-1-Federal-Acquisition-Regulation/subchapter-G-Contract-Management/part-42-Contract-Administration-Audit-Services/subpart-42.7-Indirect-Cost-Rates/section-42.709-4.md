@@ -1,15 +1,19 @@
-##### 42.709-4 Computing interest. #####
+##### 42.709-4 Assessing the penalty. #####
 
-Link to an amendment published at 86 FR 44255, Aug. 11, 2021.
+Unless a waiver is granted pursuant to 42.709-6, the cognizant contracting officer shall—
 
-For 42.709-1(a)(1)(ii), compute interest on any paid portion of the disallowed cost as follows:
+(a) Assess the penalty in 42.709-2(a)(1), when the submitted cost is expressly unallowable under a cost principle in the FAR or an executive agency supplement that defines the allowability of specific selected costs; or
 
-(a) Consider the overpayment to have occurred, and interest to have begun accumulating, from the midpoint of the contractor's fiscal year. Use an alternate equitable method if the cost was not paid evenly over the fiscal year.
+(b) Assess the penalty in 42.709-2(a)(2), when the submitted cost was determined to be unallowable for that contractor prior to submission of the proposal. Prior determinations of unallowability may be evidenced by—
 
-(b) Use the interest rate specified by the Secretary of the Treasury pursuant to Pub. L. 92-41 (85 Stat. 97).
+(1) A DCAA Form 1, Notice of Contract Costs Suspended and/or Disapproved (see 48 CFR 242.705-2), or any similar notice which the contractor elected not to appeal and was not withdrawn by the cognizant Government agency;
 
-(c) Compute interest from the date of overpayment to the date of the demand letter for payment of the penalty.
+(2) A contracting officer final decision which was not appealed;
 
-(d) Determine the paid portion of the disallowed costs in consultation with the contract auditor.
+(3) A prior executive agency Board of Contract Appeals or court decision involving the contractor, which upheld the cost disallowance; or
 
-[60 FR 42659, Aug. 16, 1995]
+(4) A determination or agreement of unallowability under 31.201-6.
+
+(c) Issue a final decision (see 33.211) which includes a demand for payment of any penalty assessed under paragraph (a) or (b) of this section. The letter shall state that the determination is a final decision under the Disputes clause of the contract. (Demanding payment of the penalty is separate from demanding repayment of any paid portion of the disallowed cost.)
+
+[60 FR 42658, Aug. 16, 1995. Redesignated and amended at 86 FR 44255, Aug. 11, 2021]

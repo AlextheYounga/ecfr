@@ -1,16 +1,20 @@
 ##### 52.204-8 Annual Representations and Certifications. #####
 
-Link to an amendment published at 86 FR 44244, Aug. 11, 2021.
-
 As prescribed in 4.1202(a), insert the following provision:
 
-Annual Representations and Certifications (MAR 2020)
+Annual Representations and Certifications (SEP 2021)
 
 (a)(1) The North American Industry Classification System (NAICS) code for this acquisition is \_\_\_\_\_\_\_ [*insert NAICS code*].
 
 (2) The small business size standard is \_\_\_\_\_\_\_ [*insert size standard*].
 
-(3) The small business size standard for a concern which submits an offer in its own name, other than on a construction or service contract, but which proposes to furnish a product which it did not itself manufacture, is 500 employees.3
+(3) The small business size standard for a concern that submits an offer, other than on a construction or service acquisition, but proposes to furnish an end item that it did not itself manufacture, process, or produce is 500 employees if the acquisition -
+
+(i) Is set aside for small business and has a value above the simplified acquisition threshold;
+
+(ii) Uses the HUBZone price evaluation preference regardless of dollar value, unless the offeror waives the price evaluation preference; or
+
+(iii) Is an 8(a), HUBZone, service-disabled veteran-owned, economically disadvantaged women-owned, or women-owned small business set-aside or sole-source award regardless of dollar value.
 
 (b)(1) If the provision at 52.204-7, System for Award Management, is included in this solicitation, paragraph (d) of this provision applies.
 
@@ -126,7 +130,7 @@ Annual Representations and Certifications (MAR 2020)
 
 (End of provision)
 
-*Alternate I* (MAR 2020). As prescribed in 4.1202(a), substitute the following paragraph (a) for paragraph (a) of the basic provision:
+*Alternate I* (SEP 2021). As prescribed in 4.1202(a), substitute the following paragraph (a) for paragraph (a) of the basic provision:
 
 (a)(1) The North American Industry Classification System (NAICS) codes and corresponding size standards for this acquisition are as follows; the categories or portions these NAICS codes are assigned to are specified elsewhere in the solicitation:
 
@@ -138,6 +142,12 @@ Annual Representations and Certifications (MAR 2020)
 
 [*Contracting Officer to insert NAICS codes and size standards*].
 
-(2) The small business size standard for a concern which submits an offer in its own name, other than on a construction or service contract, but which proposes to furnish a product which it did not itself manufacture (*i.e.,* nonmanufacturer), is 500 employees.
+(2) The small business size standard for a concern that submits an offer, other than on a construction or service acquisition, but proposes to furnish an end item that it did not itself manufacture, process, or produce, (*i.e.,* nonmanufacturer), is 500 employees if the acquisition -
+
+(i) Is set aside for small business and has a value above the simplified acquisition threshold;
+
+(ii) Uses the HUBZone price evaluation preference regardless of dollar value, unless the offeror waives the price evaluation preference; or
+
+(iii) Is an 8(a), HUBZone, service-disabled veteran-owned, economically disadvantaged women-owned, or women-owned small business set-aside or sole-source award regardless of dollar value.
 
 Editorial Note:For Federal Register citations affecting section 52.204-8, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

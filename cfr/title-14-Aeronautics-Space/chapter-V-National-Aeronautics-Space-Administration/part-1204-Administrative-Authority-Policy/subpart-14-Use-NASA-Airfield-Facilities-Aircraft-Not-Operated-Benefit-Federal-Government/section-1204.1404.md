@@ -1,5 +1,7 @@
 ##### § 1204.1404 Requests for use of NASA airfield facilities. #####
 
+Link to an amendment published at 86 FR 50625, Sept. 10, 2021.
+
 (a) Request for use of a NASA airfield, whether on a one time or recurring basis, must be in writing and addressed to the appropriate NASA facility, namely:
 
 (1) *Shuttle Landing Facility.* Director of Center Support Operations, John F. Kennedy Space Center, Kennedy Space Center, Florida 32899.

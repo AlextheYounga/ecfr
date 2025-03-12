@@ -1,5 +1,7 @@
 ##### § 206.436 Application procedures. #####
 
+Link to an amendment published at 86 FR 50678, Sept. 10, 2021.
+
 (a) *General.* This section describes the procedures to be used by the grantee in submitting an application for HMGP funding. Under the HMGP, the State or Indian tribal government is the grantee and is responsible for processing subgrants to applicants in accordance with 2 CFR parts 200 and 3002. Subgrantees are accountable to the grantee.
 
 (b) *Governor's Authorized Representative.* The Governor's Authorized Representative serves as the grant administrator for all funds provided under the Hazard Mitigation Grant Program. The Governor's Authorized Representative's responsibilities as they pertain to procedures outlined in this section include providing technical advice and assistance to eligible subgrantees, and ensuring that all potential applicants are aware of assistance available and submission of those documents necessary for grant award.

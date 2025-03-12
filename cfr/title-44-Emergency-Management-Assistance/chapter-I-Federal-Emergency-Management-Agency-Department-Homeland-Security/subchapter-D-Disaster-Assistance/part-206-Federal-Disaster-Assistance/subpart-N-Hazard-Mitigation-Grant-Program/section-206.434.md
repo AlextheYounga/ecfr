@@ -1,5 +1,7 @@
 ##### § 206.434 Eligibility. #####
 
+Link to an amendment published at 86 FR 50677, Sept. 10, 2021.
+
 (a) *Applicants.* The following are eligible to apply for the Hazard Mitigation Program Grant:
 
 (1) State and local governments;

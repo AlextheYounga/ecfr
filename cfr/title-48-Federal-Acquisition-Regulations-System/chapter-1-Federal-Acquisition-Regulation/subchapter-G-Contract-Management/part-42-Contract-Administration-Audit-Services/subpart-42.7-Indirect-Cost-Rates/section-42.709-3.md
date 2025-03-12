@@ -1,21 +1,19 @@
-##### 42.709-3 Assessing the penalty. #####
+##### 42.709-3 Responsibilities. #####
 
-Link to an amendment published at 86 FR 44255, Aug. 11, 2021.
+(a) The cognizant contracting officer is responsible for—
 
-Unless a waiver is granted pursuant to 42.709-5, the cognizant contracting officer shall -
+(1) Determining whether the penalties in 42.709-2(a) should be assessed;
 
-(a) Assess the penalty in 42.709-1(a)(1), when the submitted cost is expressly unallowable under a cost principle in the FAR or an executive agency supplement that defines the allowability of specific selected costs; or
+(2) Determining whether such penalties should be waived pursuant to 42.709-6; and
 
-(b) Assess the penalty in 42.709-1(a)(2), when the submitted cost was determined to be unallowable for that contractor prior to submission of the proposal. Prior determinations of unallowability may be evidenced by -
+(3) Referring the matter to the appropriate criminal investigative organization for review and for appropriate coordination of remedies, if there is evidence that the contractor knowingly submitted unallowable costs.
 
-(1) A DCAA Form 1, Notice of Contract Costs Suspended and/or Disapproved (see 48 CFR 242.705-2), or any similar notice which the contractor elected not to appeal and was not withdrawn by the cognizant Government agency;
+(b) The contract auditor, in the review and/or the determination of final indirect cost proposals for contracts subject to this section, is responsible for—
 
-(2) A contracting officer final decision which was not appealed;
+(1) Recommending to the contracting officer which costs may be unallowable and subject to the penalties in 42.709-2(a);
 
-(3) A prior executive agency Board of Contract Appeals or court decision involving the contractor, which upheld the cost disallowance; or
+(2) Providing rationale and supporting documentation for any recommendation; and
 
-(4) A determination or agreement of unallowability under 31.201-6.
+(3) Referring the matter to the appropriate criminal investigative organization for review and for appropriate coordination of remedies, if there is evidence that the contractor knowingly submitted unallowable costs.
 
-(c) Issue a final decision (see 33.211) which includes a demand for payment of any penalty assessed under paragraph (a) or (b) of this section. The letter shall state that the determination is a final decision under the Disputes clause of the contract. (Demanding payment of the penalty is separate from demanding repayment of any paid portion of the disallowed cost.)
-
-[60 FR 42658, Aug. 16, 1995]
+[60 FR 42658, Aug. 16, 1995. Redesignated and amended at 86 FR 44255, Aug. 11, 2021]

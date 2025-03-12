@@ -1,18 +1,16 @@
 ##### 52.245-1 Government Property. #####
 
-Link to an amendment published at 86 FR 44255, Aug. 11, 2021.
-
 As prescribed in 45.107(a), insert the following clause:
 
-Government Property (JAN 2017)
+Government Property (SEP 2021)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Cannibalize* means to remove parts from Government property for use or for installation on other Government property.
 
 *Contractor-acquired property* means property acquired, fabricated, or otherwise provided by the Contractor for performing a contract, and to which the Government has title.
 
-*Contractor inventory* means -
+*Contractor inventory* means—
 
 (1) Any property acquired by and in the possession of a Contractor or subcontractor under a contract for which title is vested in the Government and which exceeds the amounts needed to complete full performance under the entire contract;
 
@@ -20,7 +18,7 @@ Government Property (JAN 2017)
 
 (3) Government-furnished property that exceeds the amounts needed to complete full performance under the entire contract.
 
-*Contractor's managerial personnel* means the Contractor's directors, officers, managers, superintendents, or equivalent representatives who have supervision or direction of -
+*Contractor's managerial personnel* means the Contractor's directors, officers, managers, superintendents, or equivalent representatives who have supervision or direction of—
 
 (1) All or substantially all of the Contractor's business;
 
@@ -38,7 +36,7 @@ Government Property (JAN 2017)
 
 *Government property* means all property owned or leased by the Government. Government property includes both Government-furnished and Contractor-acquired property. Government property includes material, equipment, special tooling, special test equipment, and real property. Government property does not include intellectual property and software.
 
-*Loss of Government property* means unintended, unforeseen or accidental loss, damage or destruction to Government property that reduces the Government's expected economic benefits of the property. Loss of Government property does not include purposeful destructive testing, obsolescence, normal wear and tear or manufacturing defects. Loss of Government property includes, but is not limited to -
+*Loss of Government property* means unintended, unforeseen or accidental loss, damage or destruction to Government property that reduces the Government's expected economic benefits of the property. Loss of Government property does not include purposeful destructive testing, obsolescence, normal wear and tear or manufacturing defects. Loss of Government property includes, but is not limited to—
 
 (1) Items that cannot be found after a reasonable search;
 
@@ -68,7 +66,7 @@ Government Property (JAN 2017)
 
 *Sensitive property* means property potentially dangerous to the public safety or security if stolen, lost, or misplaced, or that shall be subject to exceptional physical security, protection, control, and accountability. Examples include weapons, ammunition, explosives, controlled substances, radioactive materials, hazardous materials or wastes, or precious metals.
 
-*Unit acquisition cost* means -
+*Unit acquisition cost* means—
 
 (1) For Government-furnished property, the dollar value assigned by the Government and identified in the contract; and
 
@@ -84,7 +82,7 @@ Government Property (JAN 2017)
 
 (c) *Use of Government property.* (1) The Contractor shall use Government property, either furnished or acquired under this contract, only for performing this contract, unless otherwise provided for in this contract or approved by the Contracting Officer.
 
-(2) Modifications or alterations of Government property are prohibited, unless they are -
+(2) Modifications or alterations of Government property are prohibited, unless they are—
 
 (i) Reasonable and necessary due to the scope of work under this contract or its terms and conditions;
 
@@ -104,7 +102,7 @@ Government Property (JAN 2017)
 
 (iii) The Government may, at its option, furnish property in an “as-is” condition. The Contractor will be given the opportunity to inspect such property prior to the property being provided. In such cases, the Government makes no warranty with respect to the serviceability and/or suitability of the property for contract performance. Any repairs, replacement, and/or refurbishment shall be at the Contractor's expense.
 
-(3)(i) The Contracting Officer may by written notice, at any time -
+(3)(i) The Contracting Officer may by written notice, at any time—
 
 (A) Increase or decrease the amount of Government-furnished property under this contract;
 
@@ -120,7 +118,7 @@ Government Property (JAN 2017)
 
 (3) *Title under Cost-Reimbursement or Time-and-Material Contracts or Cost-Reimbursable line items under Fixed-Price contracts.* (i) Title to all property purchased by the Contractor for which the Contractor is entitled to be reimbursed as a direct item of cost under this contract shall pass to and vest in the Government upon the vendor's delivery of such property.
 
-(ii) Title to all other property, the cost of which is reimbursable to the Contractor, shall pass to and vest in the Government upon -
+(ii) Title to all other property, the cost of which is reimbursable to the Contractor, shall pass to and vest in the Government upon—
 
 (A) Issuance of the property for use in contract performance;
 
@@ -202,7 +200,7 @@ Government Property (JAN 2017)
 
 (*12*) A statement that the property did or did not contain sensitive, export controlled, hazardous, or toxic material, and that the appropriate agencies and authorities were notified.
 
-(C) Unless the contract provides otherwise, the Contractor shall be relieved of stewardship responsibility and liability for property when -
+(C) Unless the contract provides otherwise, the Contractor shall be relieved of stewardship responsibility and liability for property when—
 
 (*1*) Such property is consumed or expended, reasonably and properly, or otherwise accounted for, in the performance of the contract, including reasonable inventory adjustments of material as determined by the Property Administrator;
 
@@ -228,7 +226,7 @@ Government Property (JAN 2017)
 
 (3) Should it be determined by the Government that the Contractor's (or subcontractor's) property management practices are inadequate or not acceptable for the effective management and control of Government property under this contract, or present an undue risk to the Government, the Contractor shall prepare a corrective action plan when requested by the Property Administrator and take all necessary corrective actions as specified by the schedule within the corrective action plan.
 
-(h) *Contractor Liability for Government Property.* (1) Unless otherwise provided for in the contract, the Contractor shall not be liable for loss of Government property furnished or acquired under this contract, except when any one of the following applies -
+(h) *Contractor Liability for Government Property.* (1) Unless otherwise provided for in the contract, the Contractor shall not be liable for loss of Government property furnished or acquired under this contract, except when any one of the following applies—
 
 (i) The risk is covered by insurance or the Contractor is otherwise reimbursed (to the extent of such insurance or reimbursement). The allowability of insurance costs shall be determined in accordance with 31.205-19.
 
@@ -260,7 +258,7 @@ Government Property (JAN 2017)
 
 (ii) For any remaining Contractor-acquired property, the Contractor may purchase the property at the unit acquisition cost if desired or make reasonable efforts to return unused property to the appropriate supplier at fair market value (less, if applicable, a reasonable restocking fee that is consistent with the supplier's customary practices.)
 
-(2) *Inventory disposal schedules.* (i) Absent separate contract terms and conditions for property disposition, and provided the property was not reutilized, transferred, or otherwise disposed of, the Contractor, as directed by the Plant Clearance Officer or authorizing official, shall use Standard Form 1428, Inventory Disposal Schedule or electronic equivalent, to identify and report -
+(2) *Inventory disposal schedules.* (i) Absent separate contract terms and conditions for property disposition, and provided the property was not reutilized, transferred, or otherwise disposed of, the Contractor, as directed by the Plant Clearance Officer or authorizing official, shall use Standard Form 1428, Inventory Disposal Schedule or electronic equivalent, to identify and report—
 
 (A) Government-furnished property that is no longer required for performance of this contract;
 
@@ -271,20 +269,6 @@ Government Property (JAN 2017)
 (ii) The Contractor may annotate inventory disposal schedules to identify property the Contractor wishes to purchase from the Government, in the event that the property is offered for sale.
 
 (iii) Separate inventory disposal schedules are required for aircraft in any condition, flight safety critical aircraft parts, and other items as directed by the Plant Clearance Officer.
-
-(A) Special test equipment with commercial components;
-
-(B) Special test equipment without commercial components;
-
-(C) Printing equipment;
-
-(D) Information technology (*e.g.*, computers, computer components, peripheral equipment, and related equipment);
-
-(E) Precious metals in raw or bulk form;
-
-(F) Nonnuclear hazardous materials or hazardous wastes; or
-
-(G) Nuclear materials or nuclear wastes.
 
 (iv) The Contractor shall provide the information required by FAR 52.245-1(f)(1)(iii) along with the following:
 
@@ -302,7 +286,7 @@ Government Property (JAN 2017)
 
 (vi) Scrap should be reported by “lot” along with metal content, estimated weight and estimated value.
 
-(3) *Submission requirements.* (i) The Contractor shall submit inventory disposal schedules to the Plant Clearance Officer no later than -
+(3) *Submission requirements.* (i) The Contractor shall submit inventory disposal schedules to the Plant Clearance Officer no later than—
 
 (A) 30 days following the Contractor's determination that a property item is no longer required for performance of this contract;
 
@@ -312,7 +296,7 @@ Government Property (JAN 2017)
 
 (ii) Unless the Plant Clearance Officer determines otherwise, the Contractor need not identify or report production scrap on inventory disposal schedules, and may process and dispose of production scrap in accordance with its own internal scrap procedures. The processing and disposal of other types of Government-owned scrap will be conducted in accordance with the terms and conditions of the contract or Plant Clearance Officer direction, as appropriate.
 
-(4) *Corrections.* The Plant Clearance Officer may -
+(4) *Corrections.* The Plant Clearance Officer may—
 
 (i) Reject a schedule for cause (*e.g.*, contains errors, determined to be inaccurate); and
 
@@ -340,7 +324,7 @@ Government Property (JAN 2017)
 
 (3) Absent contract terms and conditions to the contrary, the Government may abandon parts removed and replaced from property as a result of normal maintenance actions, or removed from property as a result of the repair, maintenance, overhaul, or modification process.
 
-(4) The Government has no obligation to restore or rehabilitate the Contractor's premises under any circumstances; however, if Government - furnished property is withdrawn or is unsuitable for the intended use, or if other Government property is substituted, then the equitable adjustment under paragraph (i) of this clause may properly include restoration or rehabilitation costs.
+(4) The Government has no obligation to restore or rehabilitate the Contractor's premises under any circumstances; however, if Government—furnished property is withdrawn or is unsuitable for the intended use, or if other Government property is substituted, then the equitable adjustment under paragraph (i) of this clause may properly include restoration or rehabilitation costs.
 
 (l) *Communication.* All communications under this clause shall be in writing.
 
@@ -354,8 +338,8 @@ Government Property (JAN 2017)
 
 *Alternate II* (APR 2012). As prescribed in 45.107(a)(3), substitute the following for paragraph (e)(3) of the basic clause:
 
-(e)(3) Title to property (and other tangible personal property) purchased with funds available for research and having a unit acquisition cost of less than $5,000 shall vest in the Contractor upon acquisition or as soon thereafter as feasible; provided that the Contractor obtained the Contracting Officer's approval before each acquisition. Title to property purchased with funds available for research and having a unit acquisition cost of $5,000 or more shall vest as set forth in this contract. If title to property vests in the Contractor under this paragraph, the Contractor agrees that no costs shall be allowed for any depreciation, amortization, or use under any existing or future Government contract or subcontract thereunder. The Contractor shall furnish the Contracting Officer a list of all property to which title is vested in the Contractor under this paragraph within 10 days following the end of the calendar quarter during which it was received. Vesting title under this paragraph is subject to civil rights legislation, 42 U.S.C. 2000d. Before title is vested and by signing this contract, the Contractor accepts and agrees that -
+(e)(3) Title to property (and other tangible personal property) purchased with funds available for research and having a unit acquisition cost of less than $5,000 shall vest in the Contractor upon acquisition or as soon thereafter as feasible; provided that the Contractor obtained the Contracting Officer's approval before each acquisition. Title to property purchased with funds available for research and having a unit acquisition cost of $5,000 or more shall vest as set forth in this contract. If title to property vests in the Contractor under this paragraph, the Contractor agrees that no costs shall be allowed for any depreciation, amortization, or use under any existing or future Government contract or subcontract thereunder. The Contractor shall furnish the Contracting Officer a list of all property to which title is vested in the Contractor under this paragraph within 10 days following the end of the calendar quarter during which it was received. Vesting title under this paragraph is subject to civil rights legislation, 42 U.S.C. 2000d. Before title is vested and by signing this contract, the Contractor accepts and agrees that—
 
 “No person in the United States or its outlying areas shall, on the ground of race, color, or national origin, be excluded from participation in, be denied the benefits of, or be otherwise subjected to discrimination under this contemplated financial assistance (title to property).”
 
-[72 FR 27390, May 15, 2007, as amended at 72 FR 46363, Aug. 17, 2007; 75 FR 38681, July 2, 2010; 77 FR 12944, Mar. 2, 2012; 82 FR 4715, Jan. 13, 2017]
+[72 FR 27390, May 15, 2007, as amended at 72 FR 46363, Aug. 17, 2007; 75 FR 38681, July 2, 2010; 77 FR 12944, Mar. 2, 2012; 82 FR 4715, Jan. 13, 2017; 86 FR 44255, Aug. 11, 2021]

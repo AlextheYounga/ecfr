@@ -1,5 +1,7 @@
 ##### § 201.2 Definitions. #####
 
+Link to an amendment published at 86 FR 50673, Sept. 10, 2021.
+
 *Administrator* means the head of the Federal Emergency Management Agency, or his/her designated representative.
 
 *Flood Mitigation Assistance* (FMA) means the program authorized by section 1366 of the National Flood Insurance Act of 1968, as amended, 42 U.S.C. 4104c, and implemented at parts 78 and 79.

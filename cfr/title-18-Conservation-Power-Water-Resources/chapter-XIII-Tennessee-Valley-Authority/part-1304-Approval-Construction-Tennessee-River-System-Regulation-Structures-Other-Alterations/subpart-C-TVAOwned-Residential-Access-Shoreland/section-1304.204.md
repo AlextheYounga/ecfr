@@ -1,5 +1,7 @@
 ##### § 1304.204 Docks, piers, and boathouses. #####
 
+Link to an amendment published at 86 FR 50635, Sept. 10, 2021.
+
 Applicants are responsible for submitting plans for proposed docks, piers, and boathouses that conform to the size standards specified in this section. Where and if site constraints at the proposed construction location preclude a structure of the maximum size, TVA shall determine the size of facility that may be approved. Applicants are required to submit accurate drawings with dimensions of all proposed facilities.
 
 (a) Docks, piers, boathouses, and all other residential water-use facilities shall not exceed a total footprint area of greater than 1,000 square feet, unless the proposed water-use facility will be located in an area of preexisting development. For the purpose of this regulation, “preexisting development” means either: The water-use facility will be located in a subdivision recorded before November 1, 1999, and TVA permitted at least one water-use facility in the subdivision prior to November 1, 1999; or if there is no subdivision, where the water-use facility will be located within a quarter-mile radius of another water-use facility that TVA permitted prior to November 1, 1999. TVA may allow even larger facilities where an applicant requests and justifies a waiver or variance, set forth in §§ 1304.212 and 1304.408 respectively, but such waivers or variances shall be made in TVA's discretion and on a case-by-case basis.

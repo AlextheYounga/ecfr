@@ -1,5 +1,7 @@
 ##### § 206.432 Federal grant assistance. #####
 
+Link to an amendment published at 86 FR 50677, Sept. 10, 2021.
+
 (a) *General.* This section describes the extent of Federal funding available under the State's grant, as well as limitations and special procedures applicable to each.
 
 (b) *Amounts of Assistance.* The total Federal contribution of funds is based on the estimated aggregate grant amount to be made under 42 U.S.C. 5170b, 5172, 5173, 5174, 5177, and 5183 of the Stafford Act for the major disaster (less associated administrative costs), and shall be as follows:

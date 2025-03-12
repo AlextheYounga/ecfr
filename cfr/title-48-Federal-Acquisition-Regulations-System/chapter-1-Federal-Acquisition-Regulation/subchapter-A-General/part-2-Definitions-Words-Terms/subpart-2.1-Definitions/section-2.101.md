@@ -1,7 +1,5 @@
 ##### 2.101 Definitions. #####
 
-Link to an amendment published at 86 FR 44231, Aug. 11, 2021.
-
 (a) A word or a term, defined in this section, has the same meaning throughout this regulation (48 CFR chapter 1), unless -
 
 (1) The context in which the word or term is used clearly requires a different meaning; or
@@ -304,8 +302,6 @@ Link to an amendment published at 86 FR 44231, Aug. 11, 2021.
 
 *Effective date of termination* means the date on which the notice of termination requires the contractor to stop performance under the contract. If the contractor receives the termination notice after the date fixed for termination, then the effective date of termination means the date the contractor receives the notice.
 
-*Electronic and information technology (EIT)* has the same meaning as “information technology” except EIT also includes any equipment or interconnected system or subsystem of equipment that is used in the creation, conversion, or duplication of data or information. The term EIT, includes, but is not limited to, telecommunication products (such as telephones), information kiosks and transaction machines, worldwide websites, multimedia, and office equipment (such as copiers and fax machines).
-
 *Electronic commerce* means electronic techniques for accomplishing business transactions including electronic mail or messaging, World Wide Web technology, electronic bulletin boards, purchase cards, electronic funds transfer, and electronic data interchange.
 
 *Electronic data interchange (EDI)* means a technique for electronically transferring and storing formatted information between computers utilizing established and published formats and codes, as authorized by the applicable Federal Information Processing Standards.
@@ -453,6 +449,8 @@ Link to an amendment published at 86 FR 44231, Aug. 11, 2021.
 (5) 41 U.S.C. chapter 83, Buy American; or
 
 (6) The Environmental Protection Acts and Executive orders.
+
+*Information and communication technology (ICT)* means information technology and other equipment, systems, technologies, or processes, for which the principal function is the creation, manipulation, storage, display, receipt, or transmission of electronic data and information, as well as any associated content. Examples of ICT include but are not limited to the following: Computers and peripheral equipment; information kiosks and transaction machines; telecommunications equipment; customer premises equipment; multifunction office machines; software; applications; websites; videos; and electronic documents.
 
 *Information security* means protecting information and information systems from unauthorized access, use, disclosure, disruption, modification, or destruction in order to provide -
 

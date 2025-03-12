@@ -1,5 +1,7 @@
 ##### § 80.5 Roles and responsibilities. #####
 
+Link to an amendment published at 86 FR 50671, Sept. 10, 2021.
+
 The roles and responsibilities of FEMA, the State, the subapplicant/subgrantee, and participating property owners in the particular context of mitigation projects for the purpose of creating open space include the activities in this section. These are in addition to grants management roles and responsibilities identified in regulations and guidance of the program funding the project (available at *http://www.fema.gov*) and other responsibilities specified in this part.
 
 (a) *Federal roles and responsibilities.* Oversee property acquisition activities undertaken under FEMA mitigation grant programs, including:

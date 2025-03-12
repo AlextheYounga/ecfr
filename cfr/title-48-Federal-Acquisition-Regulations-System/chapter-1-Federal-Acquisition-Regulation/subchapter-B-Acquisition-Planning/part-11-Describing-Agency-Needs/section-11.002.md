@@ -1,7 +1,5 @@
 ##### 11.002 Policy. #####
 
-Link to an amendment published at 86 FR 44231, Aug. 11, 2021.
-
 (a) In fulfilling requirements of 10 U.S.C. 2305(a)(1), 10 U.S.C. 2377, 41 U.S.C. 3306(a), and 41 U.S.C. 3307, agencies shall -
 
 (1) Specify needs using market research in a manner designed to -
@@ -56,10 +54,20 @@ Link to an amendment published at 86 FR 44231, Aug. 11, 2021.
 
 (e) Some or all of the performance levels or performance specifications in a solicitation may be identified as targets rather than as fixed or minimum requirements.
 
-(f) In accordance with Section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d), requiring activities must prepare requirements documents for electronic and information technology that comply with the applicable accessibility standards issued by the Architectural and Transportation Barriers Compliance Board at 36 CFR part 1194 (see subpart 39.2).
+(f) In accordance with section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d), the contracting officer shall obtain from the requiring activity the requirement documents, which must identify -
+
+(1) The needs of current and future users with disabilities to determine how -
+
+(i) Users with disabilities will perform the functions supported by the information and communication technology (ICT);
+
+(ii) The ICT will be developed, installed, configured and maintained to support users with disabilities;
+
+(2) The applicable ICT accessibility standards (see subpart 39.2); and
+
+(3) Any ICT accessibility standards that cannot be met due to an exception or an exemption for any component or portion of the product (see 7.105(b)(5)(iv), 39.204, and 39.205).
 
 (g) Unless the agency Chief Information Officer waives the requirement, when acquiring information technology using Internet Protocol, the requirements documents must include reference to the appropriate technical capabilities defined in the USGv6 Profile (NIST Special Publication 500-267) and the corresponding declarations of conformance defined in the USGv6 Test Program. The applicability of IPv6 to agency networks, infrastructure, and applications specific to individual acquisitions will be in accordance with the agency's Enterprise Architecture (see OMB Memorandum M-05-22 dated August 2, 2005).
 
 (h) Agencies shall not include in a solicitation a requirement that prohibits an offeror from permitting its employees to telecommute unless the contracting officer executes a written determination in accordance with FAR 7.108(a).
 
-[60 FR 48238, Sept. 18, 1995, as amended at 61 FR 39192, July 26, 1996; 62 FR 263, Jan. 2, 1997; 62 FR 44810, Aug. 22, 1997; 62 FR 51230, Sept. 30, 1997; 65 FR 36017, June 6, 2000; 66 FR 20897, Apr. 25, 2001; 66 FR 65352, Dec. 18, 2001; 68 FR 43858, July 24, 2003; 69 FR 59702, Oct. 5, 2004; 72 FR 63043, Nov. 7, 2007; 74 FR 65607, Dec. 10, 2009; 76 FR 31398, May 31, 2011; 79 FR 24199, Apr. 29, 2014;79 FR 35861, June 24, 2014; 81 FR 30435, May 16, 2016]
+[60 FR 48238, Sept. 18, 1995, as amended at 61 FR 39192, July 26, 1996; 62 FR 263, Jan. 2, 1997; 62 FR 44810, Aug. 22, 1997; 62 FR 51230, Sept. 30, 1997; 65 FR 36017, June 6, 2000; 66 FR 20897, Apr. 25, 2001; 66 FR 65352, Dec. 18, 2001; 68 FR 43858, July 24, 2003; 69 FR 59702, Oct. 5, 2004; 72 FR 63043, Nov. 7, 2007; 74 FR 65607, Dec. 10, 2009; 76 FR 31398, May 31, 2011; 79 FR 24199, Apr. 29, 2014;79 FR 35861, June 24, 2014; 81 FR 30435, May 16, 2016; 86 FR 44231, Aug. 11, 2021]
