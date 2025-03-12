@@ -1,5 +1,7 @@
 ##### § 1.4 What terms do I need to know? #####
 
+Link to an amendment published at 85 FR 69188, Nov. 2, 2020.
+
 (a) The following definitions shall apply to this chapter, unless modified by the definitions for a specific part or regulation:
 
 *Abandonment* means the voluntary relinquishment of property with no intent to retain possession.

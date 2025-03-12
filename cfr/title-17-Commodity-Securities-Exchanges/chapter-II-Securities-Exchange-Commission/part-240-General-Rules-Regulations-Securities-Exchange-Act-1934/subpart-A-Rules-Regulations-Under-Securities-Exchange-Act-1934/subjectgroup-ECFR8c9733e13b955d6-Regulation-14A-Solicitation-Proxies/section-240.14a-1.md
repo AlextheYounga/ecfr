@@ -1,7 +1,5 @@
 ##### § 240.14a-1 Definitions. #####
 
-Link to an amendment published at 85 FR 55154, Sept. 3, 2020.
-
 Unless the context otherwise requires, all terms used in this regulation have the same meanings as in the Act or elsewhere in the general rules and regulations thereunder. In addition, the following definitions apply unless the context otherwise requires:
 
 (a) *Associate.* The term “associate,” used to indicate a relationship with any person, means:
@@ -42,7 +40,11 @@ Unless the context otherwise requires, all terms used in this regulation have th
 
 (ii) Any request to execute or not to execute, or to revoke, a proxy; or
 
-(iii) The furnishing of a form of proxy or other communication to security holders under circumstances reasonably calculated to result in the procurement, withholding or revocation of a proxy.
+(iii) The furnishing of a form of proxy or other communication to security holders under circumstances reasonably calculated to result in the procurement, withholding or revocation of a proxy, including:
+
+(A) Any proxy voting advice that makes a recommendation to a security holder as to its vote, consent, or authorization on a specific matter for which security holder approval is solicited, and that is furnished by a person that markets its expertise as a provider of such proxy voting advice, separately from other forms of investment advice, and sells such proxy voting advice for a fee.
+
+(B) [Reserved]
 
 (2) The terms do not apply, however, to:
 
@@ -50,7 +52,7 @@ Unless the context otherwise requires, all terms used in this regulation have th
 
 (ii) The performance by the registrant of acts required by § 240.14a-7;
 
-(iii) The performance by any person of ministerial acts on behalf of a person soliciting a proxy; or
+(iii) The performance by any person of ministerial acts on behalf of a person soliciting a proxy;
 
 (iv) A communication by a security holder who does not otherwise engage in a proxy solicitation (other than a solicitation exempt under § 240.14a-2) stating how the security holder intends to vote and the reasons therefor, provided that the communication:
 
@@ -58,6 +60,8 @@ Unless the context otherwise requires, all terms used in this regulation have th
 
 (B) Is directed to persons to whom the security holder owes a fiduciary duty in connection with the voting of securities of a registrant held by the security holder, or
 
-(C) Is made in response to unsolicited requests for additional information with respect to a prior communication by the security holder made pursuant to this paragraph (l)(2)(iv).
+(C) Is made in response to unsolicited requests for additional information with respect to a prior communication by the security holder made pursuant to this paragraph (l)(2)(iv); or
 
-[51 FR 44275, Dec. 9, 1986, as amended at 52 FR 23648, June 24, 1987; 53 FR 16405, May 9, 1988; 57 FR 48290, Oct. 22, 1992]
+(v) The furnishing of any proxy voting advice by a person who furnishes such advice only in response to an unprompted request.
+
+[51 FR 44275, Dec. 9, 1986, as amended at 52 FR 23648, June 24, 1987; 53 FR 16405, May 9, 1988; 57 FR 48290, Oct. 22, 1992; 85 FR 55154, Sept. 3, 2020]

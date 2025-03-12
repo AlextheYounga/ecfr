@@ -1,16 +1,12 @@
 ##### § 319.40-3 General permits; articles that may be imported without a specific permit; articles that may be imported without either a specific permit or an importer document. #####
 
-Link to an amendment published at 85 FR 61809, Oct. 1, 2020.
-
 (a) *Canada and Mexico.* (1) The following articles may be imported into the United States under general permit:
 
 (i) From Canada: Regulated articles, other than the following:
 
-(A) Regulated articles of the subfamilies Aurantioideae, Rutoideae, and Toddalioideae of the botanical family Rutaceae, and;
+(A) Regulated articles of the subfamilies Aurantioideae, Rutoideae, and Toddalioideae of the botanical family Rutaceae; and
 
-(B) Regulated articles of pine (*Pinus* spp.) that are not completely free of bark from Provinces in Canada that are considered to be infested or partially infested with pine shoot beetle (*Tomicus pinniperda*), as determined by the Canadian Food Inspection Agency, and that are moving to a United States facility operating under a compliance agreement for specified handling or processing under the provisions of § 319.40-8.
-
-(C) Regulated articles of *Fraxinus* spp. (ash), which are subject to the requirements in § 319.40-5(n).
+(B) Regulated articles of *Fraxinus* spp. (ash), which are subject to the requirements in § 319.40-5(n).
 
 (ii) From States in Mexico adjacent to the United States: Commercial and noncommercial shipments of mesquite wood for cooking; commercial and noncommercial shipments of unmanufactured wood for firewood; and small, noncommercial packages of unmanufactured wood for personal cooking or personal medicinal purposes.
 
@@ -38,4 +34,4 @@ Link to an amendment published at 85 FR 61809, Oct. 1, 2020.
 
 (e) *Regulated articles the permit process has determined to present no plant pest risk.* Regulated articles for which a specific permit has been issued in accordance with § 319.40-4(b)(2)(i) may be imported without other restriction under this subpart, except that they are subject to the inspection and other requirements in § 319.40-9.
 
-(Approved by the Office of Management and Budget under control numbers 0579-0049 and 0579-0257)[60 FR 27674, May 25, 1995, as amended at 63 FR 50110, Sept. 18, 1998; 63 FR 69542, Dec. 17, 1998; 69 FR 52418, Aug. 26, 2004; 69 FR 55732, Sept. 16, 2004; 69 FR 61587, Oct. 20, 2004; 71 FR 57386, Sept. 29, 2006; 72 FR 30462, 30467, June 1, 2007; 75 FR 4251, Jan. 26, 2010]
+(Approved by the Office of Management and Budget under control numbers 0579-0049 and 0579-0257)[60 FR 27674, May 25, 1995, as amended at 63 FR 50110, Sept. 18, 1998; 63 FR 69542, Dec. 17, 1998; 69 FR 52418, Aug. 26, 2004; 69 FR 55732, Sept. 16, 2004; 69 FR 61587, Oct. 20, 2004; 71 FR 57386, Sept. 29, 2006; 72 FR 30462, 30467, June 1, 2007; 75 FR 4251, Jan. 26, 2010; 85 FR 61809, Oct. 1, 2020]

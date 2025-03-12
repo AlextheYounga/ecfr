@@ -6,4 +6,6 @@
 
 (c) A prescription may not be issued for “detoxification treatment” or “maintenance treatment,” unless the prescription is for a Schedule III, IV, or V narcotic drug approved by the Food and Drug Administration specifically for use in maintenance or detoxification treatment and the practitioner is in compliance with requirements in § 1301.28 of this chapter.
 
-[36 FR 7799, Apr. 24, 1971. Redesignated at 38 FR 26609, Sept. 24, 1973, and amended at 39 FR 37986, Oct. 25, 1974; 70 FR 36343, June 23, 2005]
+(d) A prescription may be issued by a qualifying practitioner, as defined in section 303(g)(2)G)(iii) of the Act (21 U.S.C. 823(g)(2)(G)(iii), in accordance with § 1306.05 for a Schedule III, IV, or V controlled substance for the purpose of maintenance or detoxification treatment for the purposes of administration in accordance with section 309A of the Act (21 U.S.C. 829a) and § 1306.07(f). Such prescription issued by a qualifying practitioner shall not be used to supply any practitioner with a stock of controlled substances for the purpose of general dispensing to patients.
+
+[36 FR 7799, Apr. 24, 1971. Redesignated at 38 FR 26609, Sept. 24, 1973, and amended at 39 FR 37986, Oct. 25, 1974; 70 FR 36343, June 23, 2005; 85 FR 69167, Nov. 2, 2020]

@@ -1,5 +1,7 @@
 ##### § 27.31 General provisions regarding vehicles. #####
 
+Link to an amendment published at 85 FR 69235, Nov. 2, 2020.
+
 Travel in or use of any motorized or other vehicles, including those used on air, water, ice, snow, is prohibited on national wildlife refuges except on designated routes of travel, as indicated by the appropriate traffic control signs or signals and in designated areas posted or delineated on maps by the refuge manager and subject to the following requirements and limitations:
 
 (a) Unless specifically covered by the general and special regulations set forth in this chapter, the laws and regulations of the State within whose exterior boundaries a national wildlife refuge or portion thereof is located shall govern traffic and the operation and use of vehicles. Such State laws and regulations which are now or may hereafter be in effect are hereby adopted and made a part of the regulations in this part.

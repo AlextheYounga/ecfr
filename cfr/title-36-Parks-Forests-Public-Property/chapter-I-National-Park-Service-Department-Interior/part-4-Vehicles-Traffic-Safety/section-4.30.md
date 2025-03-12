@@ -1,5 +1,7 @@
 ##### § 4.30 Bicycles. #####
 
+Link to an amendment published at 85 FR 69188, Nov. 2, 2020.
+
 (a) *Park roads.* The use of a bicycle is permitted on park roads and in parking areas that are otherwise open for motor vehicle use by the general public.
 
 (b) *Administrative roads.* Administrative roads are roads that are closed to motor vehicle use by the public, but open to motor vehicle use for administrative purposes. The superintendent may authorize bicycle use on an administrative road. Before authorizing bicycle use on an administrative road the superintendent must:

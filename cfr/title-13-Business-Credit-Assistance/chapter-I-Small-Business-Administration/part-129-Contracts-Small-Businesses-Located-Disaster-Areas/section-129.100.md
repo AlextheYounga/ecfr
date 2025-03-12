@@ -1,5 +1,7 @@
 ##### § 129.100 What definitions are important in this part? #####
 
+Link to an amendment published at 85 FR 69125, Nov. 2, 2020.
+
 For the purposes of this part:
 
 *Concern located in a disaster area* is a firm that during the last twelve months -

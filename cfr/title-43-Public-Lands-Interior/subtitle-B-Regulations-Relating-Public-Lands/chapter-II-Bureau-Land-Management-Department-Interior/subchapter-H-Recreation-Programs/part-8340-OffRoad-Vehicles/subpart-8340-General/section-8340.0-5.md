@@ -1,5 +1,7 @@
 ##### § 8340.0-5 Definitions. #####
 
+Link to an amendment published at 85 FR 69223, Nov. 2, 2020.
+
 As used in this part:
 
 (a) *Off-road vehicle* means any motorized vehicle capable of, or designed for, travel on or immediately over land, water, or other natural terrain, excluding:

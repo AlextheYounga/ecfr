@@ -10,7 +10,8 @@
 
 (b)(1) The individual practitioner must submit notification to the Secretary of Health and Human Services stating the individual practitioner's intent to dispense or prescribe narcotic drugs under paragraph (a) of this section. The notice must contain all of the following certifications:
 
-(i) The individual practitioner is registered under § 1301.13 as an individual practitioner and is a “qualifying physician” as defined in section 303(g)(2)(G)(ii) of the Act (21 U.S.C. 823(g)(2)(G)(ii)), or during the period beginning on July 22, 2016 and ending on October 1, 2021, a “qualifying other practitioner” as defined in section 303(g)(2)(G)(iv) of Act (21 U.S.C. 823(g)(2)(G)(iv)). The Secretary of Health and Human Services may, by regulation, revise the requirements for being a qualifying other practitioner.
+(i) The individual practitioner is registered under § 1301.13 as an individual practitioner and is a “qualifying physician” as defined in section 303(g)(2)(G)(ii) of the Act (21 U.S.C. 823(g)(2)(G)(ii)); a “qualifying other practitioner” as defined in section 303(g)(2)(G)(iv) of the Act (21 U.S.C. 823(g)(2)(G)(iv)) who is a nurse practitioner or physician assistant; or during the period beginning on October 1, 2018 and ending on October 1, 2023, a “qualifying other practitioner” as defined in section 303(g)(2)(G)(iv) of the Act (21 U.S.C. 823(g)(2)(G)(iv)) who is clinical nurse specialist, certified registered nurse anesthetist, or certified nurse midwife.
+The Secretary of Health and Human Services may, by regulation, revise the requirements for being a qualifying other practitioner.
 
 (ii) With respect to patients to whom the practitioner will provide such drugs or combinations of drugs, the individual practitioner has the capacity to provide directly, by referral, or in such other manner as determined by the Secretary of Health and Human Services:
 
@@ -20,9 +21,15 @@
 
 (iii)(A) The total number of patients to whom the individual practitioner will provide narcotic drugs or combinations of narcotic drugs under this section at any one time will not exceed the applicable number. Except as provided in paragraphs (b)(1)(iii)(B) and (C) of this section, the applicable number is 30.
 
-(B) The applicable number is 100 if, not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of Health and Human Services of the need and intent of the practitioner to treat up to 100 patients.
+(B) The applicable number is—
 
-(C) The applicable number is 275 for a practitioner who has been approved by the Secretary of Health and Human Services under 42 CFR part 8 to treat up to 275 patients at any one time, and provided further that the practitioner has renewed such approval to the extent such renewal is required under this part of the HHS regulations.
+(*1*) 100 if not sooner than 1 year after the date on which the practitioner submitted the initial notification, the practitioner submits a second notification to the Secretary of Health and Human Services of the need and intent of the practitioner to treat up to 100 patients;
+
+(*2*) 100 if the practitioner holds additional credentialing, as defined in 42 CFR 8.2;
+
+(*3*) 100 if the practitioner provides medication-assisted treatment using covered medications (as such terms are defined in 42 CFR 8.615) in a qualified practice setting (as described in 42 CFR 8.615); and
+
+(*4*) 275 if the practitioner meets the requirements specified in 42 CFR 8.610 through 8.655.
 
 (2) If an individual practitioner wishes to prescribe or dispense narcotic drugs pursuant to paragraph (e) of this section, the individual practitioner must provide the Secretary of Health and Human Services the following:
 
@@ -66,4 +73,4 @@
 
 (f) If an individual practitioner dispenses or prescribes Schedule III, IV, or V narcotic drugs approved by the Food and Drug Administration specifically for maintenance or detoxification treatment in violation of any of the conditions specified in paragraphs (b), (c) or (e) of this section, the Administrator may revoke the individual practitioner's registration in accordance with § 1301.36.
 
-[70 FR 36342, June 23, 2005, as amended at 73 FR 29688, May 22, 2008; 83 FR 3074, Jan. 23, 2018]
+[70 FR 36342, June 23, 2005, as amended at 73 FR 29688, May 22, 2008; 83 FR 3074, Jan. 23, 2018; 85 FR 69166, Nov. 2, 2020]

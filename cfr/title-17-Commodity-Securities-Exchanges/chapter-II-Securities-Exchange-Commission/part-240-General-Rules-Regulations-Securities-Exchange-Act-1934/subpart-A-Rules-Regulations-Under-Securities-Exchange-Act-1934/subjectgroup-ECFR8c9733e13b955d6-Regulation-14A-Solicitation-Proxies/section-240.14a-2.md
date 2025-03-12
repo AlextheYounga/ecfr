@@ -1,7 +1,5 @@
 ##### § 240.14a-2 Solicitations to which § 240.14a-3 to § 240.14a-15 apply. #####
 
-Link to an amendment published at 85 FR 55154, Sept. 3, 2020.
-
 Sections 240.14a-3 to 240.14a-15, except as specified, apply to every solicitation of a proxy with respect to securities registered pursuant to section 12 of the Act (15 U.S.C. 78*l*), whether or not trading in such securities has been suspended. To the extent specified below, certain of these sections also apply to roll-up transactions that do not involve an entity with securities registered pursuant to section 12 of the Act.
 
 (a) Sections 240.14a-3 to 240.14a-15 do not apply to the following:
@@ -122,4 +120,42 @@ Instruction 3 to paragraph (b)(8).
 
 The exemption provided in paragraph (b)(8) of this section shall not apply to a person that subsequently engages in soliciting or other nominating activities outside the scope of § 240.14a-11 in connection with the subject election of directors or is or becomes a member of any other group, as determined under section 13(d)(3) of the Act (15 U.S.C. 78m(d)(3) and § 240.13d-5(b)), or otherwise, with persons engaged in soliciting or other nominating activities in connection with the subject election of directors.
 
-[44 FR 68769, Nov. 29, 1979, as amended at 51 FR 42059, Nov. 20, 1986; 52 FR 21936, June 10, 1987; 57 FR 48290, Oct. 22, 1992; 59 FR 63684, Dec. 8, 1994; 65 FR 65749, Nov. 2, 2000; 70 FR 44829, Aug. 3, 2005; 72 FR 4166, Jan. 29, 2007; 73 FR 4458, Jan. 25, 2008; 73 FR 17814, Apr. 1, 2008; 75 FR 56780, Sept. 16, 2010]
+(9) Paragraphs (b)(1) and (b)(3) of this section shall not be available to a person furnishing proxy voting advice covered by § 240.14a-1(l)(1)(iii)(A) (“proxy voting advice business”) unless both of the conditions in (b)(9)(i) and (ii) of this section are satisfied:
+
+(i) The proxy voting advice business includes in its proxy voting advice or in an electronic medium used to deliver the proxy voting advice prominent disclosure of:
+
+(A) Any information regarding an interest, transaction, or relationship of the proxy voting advice business (or its affiliates) that is material to assessing the objectivity of the proxy voting advice in light of the circumstances of the particular interest, transaction, or relationship; and
+
+(B) Any policies and procedures used to identify, as well as the steps taken to address, any such material conflicts of interest arising from such interest, transaction, or relationship; and
+
+(ii) The proxy voting advice business has adopted and publicly disclosed written policies and procedures reasonably designed to ensure that:
+
+(A) Registrants that are the subject of the proxy voting advice have such advice made available to them at or prior to the time when such advice is disseminated to the proxy voting advice business's clients; and
+
+(B) The proxy voting advice business provides its clients with a mechanism by which they can reasonably be expected to become aware of any written statements regarding its proxy voting advice by registrants who are the subject of such advice, in a timely manner before the security holder meeting (or, if no meeting, before the votes, consents, or authorizations may be used to effect the proposed action).
+
+Note 1 to paragraph (b)(9)(ii):
+
+For purposes of satisfying the requirement in paragraph (b)(9)(ii)(A) of this section, the proxy voting advice business's written policies and procedures need not require it to make available to the registrant additional versions of its proxy voting advice with respect to the same meeting, vote, consent or authorization, as applicable, if the advice is subsequently revised.
+
+(iii) A proxy voting advice business will be deemed to satisfy the requirement in paragraph (b)(9)(ii)(A) of this section if it has written policies and procedures that are reasonably designed to provide a registrant with a copy of its proxy voting advice, at no charge, no later than the time such advice is disseminated to the proxy voting advice business's clients. Such policies and procedures may include conditions requiring that:
+
+(A) The registrant has filed its definitive proxy statement at least 40 calendar days before the security holder meeting date (or if no meeting is held, at least 40 calendar days before the date the votes, consents, or authorizations may be used to effect the proposed action); and
+
+(B) The registrant has acknowledged that it will only use the copy of the proxy voting advice for its internal purposes and/or in connection with the solicitation and such copy will not be published or otherwise shared except with the registrant's employees or advisers.
+
+(iv) A proxy voting advice business will be deemed to satisfy the requirement in paragraph (b)(9)(ii)(B) of this section if it has written policies and procedures that are reasonably designed to inform clients who receive proxy voting advice when a registrant that is the subject of such advice notifies the proxy voting advice business that it intends to file or has filed additional soliciting materials with the Commission pursuant to § 240.14a-6 setting forth the registrant's statement regarding the advice, by:
+
+(A) The proxy voting advice business providing notice to its clients on its electronic platform that the registrant intends to file or has filed such additional soliciting materials and including an active hyperlink to those materials on EDGAR when available; or
+
+(B) The proxy voting advice business providing notice to its clients through email or other electronic means that the registrant intends to file or has filed such additional soliciting materials and including an active hyperlink to those materials on EDGAR when available.
+
+(v) Paragraph (b)(9)(ii) of this section does not apply to proxy voting advice to the extent such advice is based on custom voting policies that are proprietary to a proxy voting advice business's client.
+
+(vi) Paragraph (b)(9)(ii) of this section does not apply to any portion of the proxy voting advice that makes a recommendation to a security holder as to its vote, consent, or authorization in a solicitation subject to § 240.14a-3(a):
+
+(A) To approve any transaction specified in § 230.145(a); or
+
+(B) By any person or group of persons for the purpose of opposing a solicitation subject to this regulation by any other person or group of persons.
+
+[44 FR 68769, Nov. 29, 1979, as amended at 51 FR 42059, Nov. 20, 1986; 52 FR 21936, June 10, 1987; 57 FR 48290, Oct. 22, 1992; 59 FR 63684, Dec. 8, 1994; 65 FR 65749, Nov. 2, 2000; 70 FR 44829, Aug. 3, 2005; 72 FR 4166, Jan. 29, 2007; 73 FR 4458, Jan. 25, 2008; 73 FR 17814, Apr. 1, 2008; 75 FR 56780, Sept. 16, 2010; 85 FR 55154, Sept. 3, 2020]
