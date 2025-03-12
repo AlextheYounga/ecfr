@@ -1,5 +1,7 @@
 ##### § 73.55 Requirements for physical protection of licensed activities in nuclear power reactors against radiological sabotage. #####
 
+Link to an amendment published at 88 FR 15891, Mar. 14, 2023.
+
 (a) *Introduction.* (1) By March 31, 2010, each nuclear power reactor licensee, licensed under 10 CFR part 50, shall implement the requirements of this section through its Commission-approved Physical Security Plan, Training and Qualification Plan, Safeguards Contingency Plan, and Cyber Security Plan referred to collectively hereafter as “security plans.” Current applicants for an operating license under 10 CFR part 50, or combined license under 10 CFR part 52 who have submitted their applications to the Commission prior to the effective date of this rule must amend their applications to include security plans consistent with this section.
 
 (2) The security plans must identify, describe, and account for site-specific conditions that affect the licensee's capability to satisfy the requirements of this section.

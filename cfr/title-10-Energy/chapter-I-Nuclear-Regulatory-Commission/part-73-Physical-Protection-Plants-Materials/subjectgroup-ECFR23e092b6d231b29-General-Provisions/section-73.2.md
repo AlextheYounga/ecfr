@@ -1,16 +1,18 @@
 ##### § 73.2 Definitions. #####
 
+Link to an amendment published at 88 FR 15881, Mar. 14, 2023.
+
 As used in this part:
 
 (a) Terms defined in parts 50, 52, and 70 of this chapter have the same meaning when used in this part.
 
 *Appropriate Nuclear Regulatory Commission Regional Office listed in appendix A* means:
 
-(1) For domestic shipments - the Regional Office within whose region the licensee who is responsible for the physical protection arrangements of the shipment is located.
+(1) For domestic shipments—the Regional Office within whose region the licensee who is responsible for the physical protection arrangements of the shipment is located.
 
-(2) For export shipments - the Regional Office within whose region the licensee who is responsible for the physical protection arrangements of the shipment is located, and the Regional Office for the region in which the last point of exit of the shipment from the U.S. is located.
+(2) For export shipments—the Regional Office within whose region the licensee who is responsible for the physical protection arrangements of the shipment is located, and the Regional Office for the region in which the last point of exit of the shipment from the U.S. is located.
 
-(3) For import shipments - the Regional Office within whose region the licensee who is responsible for the physical protection arrangements of the shipment is located, and the Regional Office for the region in which the first point of entry of the shipment into the U.S. is located.
+(3) For import shipments—the Regional Office within whose region the licensee who is responsible for the physical protection arrangements of the shipment is located, and the Regional Office for the region in which the first point of entry of the shipment into the U.S. is located.
 
 *Armed escort* means an armed person, not necessarily uniformed, whose primary duty is to accompany shipments of special nuclear material for the protection of such shipments against theft or radiological sabotage.
 
@@ -44,7 +46,7 @@ As used in this part:
 
 *Individual authorized access to Safeguards Information* is an individual authorized to have access to and handle such information pursuant to the requirements of §§ 73.21 and 73.22 of this part.
 
-*Individual authorized access to Safeguards Information - Modified Handling* is an individual authorized to have access to and handle Safeguards Information designated as Safeguards Information - Modified Handling information pursuant to the requirements of §§ 73.21 and 73.23 of this part.
+*Individual authorized access to Safeguards Information—Modified Handling* is an individual authorized to have access to and handle Safeguards Information designated as Safeguards Information—Modified Handling information pursuant to the requirements of §§ 73.21 and 73.23 of this part.
 
 *Intrusion alarm* means a tamper indicating electrical, electromechanical, electrooptical, electronic or similar device which will detect intrusion by an individual into a building, protected area, vital area, or material access area, and alert guards or watchmen by means of actuated visible and audible signals.
 
@@ -56,7 +58,7 @@ As used in this part:
 
 *Movement control center* means an operations center which is remote from transport activity and which maintains periodic position information on the movement of strategic special nuclear material, receives reports of attempted attacks or thefts, provides a means for reporting these and other problems to appropriate agencies and can request and coordinate appropriate aid.
 
-*Need to know* means a determination by a person having responsibility for protecting Safeguards Information (including Safeguards Information designated as Safeguards Information - Modified Handling) that a proposed recipient's access to Safeguards Information is necessary in the performance of official, contractual, licensee, applicant, or certificate holder employment. In an adjudication, “need to know” means a determination by the originator of the information that the information is necessary to enable the proposed recipient to proffer and/or adjudicate a specific contention in that proceeding, and the proposed recipient of the specific Safeguards Information possesses demonstrable knowledge, skill, training, or education to effectively utilize the specific Safeguards Information in the proceeding. Where the information is in the possession of the originator and the NRC staff (dual possession), whether in its original form or incorporated into another document or other matter by the recipient, the NRC staff makes the determination. In the event of a dispute regarding the “need to know” determination, the presiding officer of the proceeding shall make the “need to know” determination.
+*Need to know* means a determination by a person having responsibility for protecting Safeguards Information (including Safeguards Information designated as Safeguards Information—Modified Handling) that a proposed recipient's access to Safeguards Information is necessary in the performance of official, contractual, licensee, applicant, or certificate holder employment. In an adjudication, “need to know” means a determination by the originator of the information that the information is necessary to enable the proposed recipient to proffer and/or adjudicate a specific contention in that proceeding, and the proposed recipient of the specific Safeguards Information possesses demonstrable knowledge, skill, training, or education to effectively utilize the specific Safeguards Information in the proceeding. Where the information is in the possession of the originator and the NRC staff (dual possession), whether in its original form or incorporated into another document or other matter by the recipient, the NRC staff makes the determination. In the event of a dispute regarding the “need to know” determination, the presiding officer of the proceeding shall make the “need to know” determination.
 
 *Person* means (1) any individual, corporation, partnership, firm, association, trust, estate, public or private institution, group, government agency other than the Commission or the Department of Energy (DOE), (except that the DOE shall be considered a person to the extent that its facilities are subject to the licensing and related regulatory authority of the Commission pursuant to section 202 of the Energy Reorganization Act of 1974 and sections 104, 105, and 202 of the Uranium Mill Tailings Radiation Control Act of 1978), any state or political subdivision of a state, or any political subdivision of any government or nation, or other entity; and (2) any legal successor, representative, agent, or agency of the foregoing.
 
@@ -74,7 +76,7 @@ As used in this part:
 
 *Safeguards Information* means information not classified as National Security Information or Restricted Data which specifically identifies a licensee's or applicant's detailed control and accounting procedures for the physical protection of special nuclear material in quantities determined by the Commission through order or regulation to be significant to the public health and safety or the common defense and security; detailed security measures (including security plans, procedures, and equipment) for the physical protection of source, byproduct, or special nuclear material in quantities determined by the Commission through order or regulation to be significant to the public health and safety or the common defense and security; security measures for the physical protection of and location of certain plant equipment vital to the safety of production or utilization facilities; and any other information within the scope of Section 147 of the Atomic Energy Act of 1954, as amended, the unauthorized disclosure of which, as determined by the Commission through order or regulation, could reasonably be expected to have a significant adverse effect on the health and safety of the public or the common defense and security by significantly increasing the likelihood of sabotage or theft or diversion of source, byproduct, or special nuclear material.
 
-*Safeguards Information - Modified Handling* is the designation or marking applied to Safeguards Information which the Commission has determined requires handling requirements modified from the specific Safeguards Information handling requirements that are applicable to Safeguards Information needing a higher level of protection.
+*Safeguards Information—Modified Handling* is the designation or marking applied to Safeguards Information which the Commission has determined requires handling requirements modified from the specific Safeguards Information handling requirements that are applicable to Safeguards Information needing a higher level of protection.
 
 *Security management* means persons responsible for security at the policy and general management level.
 
@@ -110,7 +112,7 @@ This class of material is sometimes referred to as a Category II quantity of mat
 
 *Tribal official* means the highest ranking individual that represents Tribal leadership, such as the Chief, President, or Tribal Council leadership.
 
-*Trustworthiness and reliability* are characteristics of an individual considered dependable in judgment, character, and performance, such that disclosure of Safeguards Information (including Safeguards Information designated as Safeguards Information - Modified Handling) to that individual does not constitute an unreasonable risk to the public health and safety or common defense and security. A determination of trustworthiness and reliability for this purpose is based upon a background check.
+*Trustworthiness and reliability* are characteristics of an individual considered dependable in judgment, character, and performance, such that disclosure of Safeguards Information (including Safeguards Information designated as Safeguards Information—Modified Handling) to that individual does not constitute an unreasonable risk to the public health and safety or common defense and security. A determination of trustworthiness and reliability for this purpose is based upon a background check.
 
 *Undergoing processing* means performing active operations on material such as chemical transformation, physical transformation, or transit between such operations, to be differentiated from storage or packaging for shipment.
 

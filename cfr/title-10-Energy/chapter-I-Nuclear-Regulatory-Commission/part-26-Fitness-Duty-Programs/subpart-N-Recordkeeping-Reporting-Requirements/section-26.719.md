@@ -1,12 +1,14 @@
 ##### § 26.719 Reporting requirements. #####
 
+Link to an amendment published at 88 FR 15880, Mar. 14, 2023.
+
 (a) *Required reports.* Each licensee and entity who is subject to this subpart shall inform the NRC of significant violations of the FFD policy, significant FFD program failures, and errors in drug and alcohol testing. These events must be reported under this section, rather than under the provisions of 10 CFR 73.71.
 
 (b) *Significant FFD policy violations or programmatic failures.* The following significant FFD policy violations and programmatic failures must be reported to the NRC Operations Center by telephone within 24 hours after the licensee or other entity discovers the violation:
 
 (1) The use, sale, distribution, possession, or presence of illegal drugs, or the consumption or presence of alcohol within a protected area;
 
-(2) Any acts by any person licensed under 10 CFR part 55 to operate a power reactor, as well as any acts by SSNM transporters, FFD program personnel, or any supervisory personnel who are authorized under this part, if such acts -
+(2) Any acts by any person licensed under 10 CFR part 55 to operate a power reactor, as well as any acts by SSNM transporters, FFD program personnel, or any supervisory personnel who are authorized under this part, if such acts—
 
 (i) Involve the use, sale, or possession of a controlled substance;
 

@@ -1,5 +1,7 @@
 ##### § 70.20a General license to possess special nuclear material for transport. #####
 
+Link to an amendment published at 88 FR 15881, Mar. 14, 2023.
+
 (a) A general license is issued to any person to possess formula quantities of strategic special nuclear material of the types and quantities subject to the requirements of §§ 73.20, 73.25, 73.26 and 73.27 of this chapter, and irradiated reactor fuel containing material of the types and quantities subject to the requirements of § 73.37 of this chapter, in the regular course of carriage for another or storage incident. Carriers generally licensed under § 70.20b are exempt from the requirements of this section. Carriers of irradiated reactor fuel for the United States Department of Energy are also exempt from the requirements of this section. The general license is subject to the applicable provisions of §§ 70.7 (a) through (e), 70.32 (a) and (b), and §§ 70.42, 70.52, 70.55, 70.91, 70.81, 70.82 and 10 CFR 74.11.
 
 (b) Notwithstanding any other provision of this chapter, the general license issued under this section does not authorize any person to conduct any activity that would be authorized by a license issued pursuant to parts 30 through 36, 39, 40, 50, 72, 110, or other sections of this part.

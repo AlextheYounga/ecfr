@@ -1,5 +1,7 @@
 ##### § 70.20b General license for carriers of transient shipments of formula quantities of strategic special nuclear material, special nuclear material of moderate strategic significance, special nuclear material of low strategic significance, and irradiated reactor fuel. #####
 
+Link to an amendment published at 88 FR 15881, Mar. 14, 2023.
+
 (a) A general license is hereby issued to any person to possess transient shipments of the following kinds and quantities of special nuclear material:
 
 (1) A formula quantity of special nuclear material of the types and quantities subject to the requirements of §§ 73.20, 73.25, 73.26, and 73.27 of this chapter.

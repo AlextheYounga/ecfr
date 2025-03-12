@@ -1,8 +1,10 @@
-##### § 73.23 Protection of Safeguards Information - Modified Handling: Specific requirements. #####
+##### § 73.23 Protection of Safeguards Information—Modified Handling: Specific requirements. #####
+
+Link to an amendment published at 88 FR 15890, Mar. 14, 2023.
 
 This section contains specific requirements for the protection of Safeguards Information in the hands of any person subject to the requirements of § 73.21(a)(1)(ii) and research and test reactors that possess special nuclear material of moderate strategic significance or special nuclear material of low strategic significance. The requirements of this section distinguish Safeguards Information requiring modified handling requirements (SGI-M) from the specific Safeguards Information handling requirements applicable to facilities and materials needing a higher level of protection, as set forth in § 73.22.
 
-(a) *Information to be protected.* The types of information and documents that must be protected as Safeguards Information - Modified Handling include non-public security-related requirements such as protective measures, interim compensatory measures, additional security measures, and the following, as applicable:
+(a) *Information to be protected.* The types of information and documents that must be protected as Safeguards Information—Modified Handling include non-public security-related requirements such as protective measures, interim compensatory measures, additional security measures, and the following, as applicable:
 
 (1) *Physical protection.* Information not classified as Restricted Data or National Security Information related to physical protection, including:
 

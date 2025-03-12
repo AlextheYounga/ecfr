@@ -1,5 +1,7 @@
 ##### § 73.67 Licensee fixed site and in-transit requirements for the physical protection of special nuclear material of moderate and low strategic significance. #####
 
+Link to an amendment published at 88 FR 15891, Mar. 14, 2023.
+
 (a) *General performance objectives.* (1) Each licensee who possesses, uses or transports special nuclear material of moderate or low strategic significance shall establish and maintain a physical protection system that will achieve the following objectives:
 
 (i) Minimize the possibilities for unauthorized removal of special nuclear material consistent with the potential consequences of such actions; and
@@ -90,7 +92,7 @@
 
 (vii) Notify the NRC Headquarters Operations Center by telephone at the numbers specified in appendix A to this part within one hour after the discovery of the loss of the shipment and within one hour after recovery of or accounting for such lost shipment in accordance with the provisions of § 73.71 of this part.
 
-(4) Each licensee who arranges the physical protection of strategic special nuclear material in quantities of moderate strategic significance while in transit or who takes delivery of this material free on board (f.o.b.) the point at which it is delivered to a carrier for transport shall comply with the requirements of paragraphs (e) (1), (2), and (3) of this section. The licensee shall retain each record required by paragraphs (e) (1), (2), (3), and (4) (i) and (ii) of this section for three years after close of period licensee possesses special nuclear material under each license that authorizes these licensee activities. Copies of superseded material must be retained for three years after each change. In addition, the licensee shall -
+(4) Each licensee who arranges the physical protection of strategic special nuclear material in quantities of moderate strategic significance while in transit or who takes delivery of this material free on board (f.o.b.) the point at which it is delivered to a carrier for transport shall comply with the requirements of paragraphs (e) (1), (2), and (3) of this section. The licensee shall retain each record required by paragraphs (e) (1), (2), (3), and (4) (i) and (ii) of this section for three years after close of period licensee possesses special nuclear material under each license that authorizes these licensee activities. Copies of superseded material must be retained for three years after each change. In addition, the licensee shall—
 
 (i) Make all shipments of the material either (A) in dedicated transports with no intermediate stops to load or unload other cargo and with no carrier or vehicle transfers or temporary storage in-transit, or (B) under arrangements whereby the custody of the shipment and all custody transfers are acknowledged by signature, and
 

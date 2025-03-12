@@ -1,5 +1,7 @@
 ##### § 26.417 Recordkeeping and reporting. #####
 
+Link to an amendment published at 88 FR 15880, Mar. 14, 2023.
+
 (a) Licensees and other entities who implement FFD programs under this subpart shall ensure that records pertaining to the administration of the program, which may be stored and archived electronically, are maintained so that they are available for NRC inspection purposes and for any legal proceedings resulting from the administration of the program.
 
 (b) Licensees and other entities shall make the following reports:

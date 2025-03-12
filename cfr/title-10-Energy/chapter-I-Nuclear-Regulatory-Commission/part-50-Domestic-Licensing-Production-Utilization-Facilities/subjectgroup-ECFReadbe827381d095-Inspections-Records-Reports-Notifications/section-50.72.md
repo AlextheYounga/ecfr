@@ -1,5 +1,7 @@
 ##### § 50.72 Immediate notification requirements for operating nuclear power reactors. #####
 
+Link to an amendment published at 88 FR 15880, Mar. 14, 2023.
+
 (a) *General requirements.*1 (1) Each nuclear power reactor licensee licensed under §§ 50.21(b) or 50.22 holding an operating license under this part or a combined license under part 52 of this chapter after the Commission makes the finding under § 52.103(g), shall notify the NRC Operations Center via the Emergency Notification System of:
 
 1 Other requirements for immediate notification of the NRC by licensed operating nuclear power reactors are contained elsewhere in this chapter, in particular §§ 20.1906, 20.2202, 50.36, 72.74, 72.75, and 73.71.
@@ -24,7 +26,7 @@
 
 (ii) Paragraph (b)(1), “One-hour reports,” paragraph (b)(2), “Four-hour reports,” or paragraph (b)(3), “Eight-hour reports,” as the paragraph of this section requiring notification of the non-emergency event.
 
-(b) *Non-emergency events* - (1) *One-hour reports.* If not reported as a declaration of an Emergency Class under paragraph (a) of this section, the licensee shall notify the NRC as soon as practical and in all cases within one hour of the occurrence of any deviation from the plant's Technical Specifications authorized pursuant to § 50.54(x) of this part.
+(b) *Non-emergency events*—(1) *One-hour reports.* If not reported as a declaration of an Emergency Class under paragraph (a) of this section, the licensee shall notify the NRC as soon as practical and in all cases within one hour of the occurrence of any deviation from the plant's Technical Specifications authorized pursuant to § 50.54(x) of this part.
 
 (2) *Four-hour reports.* If not reported under paragraphs (a) or (b)(1) of this section, the licensee shall notify the NRC as soon as practical and in all cases, within four hours of the occurrence of any of the following:
 

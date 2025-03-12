@@ -1,5 +1,7 @@
 ##### § 73.22 Protection of Safeguards Information: Specific requirements. #####
 
+Link to an amendment published at 88 FR 15890, Mar. 14, 2023.
+
 This section contains specific requirements for the protection of Safeguards Information in the hands of any person subject to the requirements of § 73.21(a)(1)(i) and related to power reactors; a formula quantity of strategic special nuclear material; transportation of or delivery to a carrier for transportation of a formula quantity of strategic special nuclear material or more than 100 grams of irradiated reactor fuel; uranium hexafluoride production or conversion facilities, fuel fabrication facilities, and uranium enrichment facilities; independent spent fuel storage installations; geologic repository operations areas and Safeguards Information in the hands of any person subject to the requirements of § 73.21(a)(1)(iii).
 
 (a) *Information to be protected.* The types of information and documents that must be protected as Safeguards Information include non-public security-related requirements such as:

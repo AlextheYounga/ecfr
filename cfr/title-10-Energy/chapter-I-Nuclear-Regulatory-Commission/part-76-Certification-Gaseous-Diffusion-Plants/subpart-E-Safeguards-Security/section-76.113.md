@@ -1,4 +1,6 @@
-##### § 76.113 Formula quantities of strategic special nuclear material - Category I. #####
+##### § 76.113 Formula quantities of strategic special nuclear material—Category I. #####
+
+Link to an amendment published at 88 FR 15899, Mar. 14, 2023.
 
 (a) The requirements for material control and accounting for formula quantities of strategic special nuclear material (Category I) are contained in §§ 74.11, 74.13, 74.15, 74.17, 74.19, 74.51, 74.53, 74.55, 74.57, 74.59, 74.81, and 74.82 of this chapter.
 

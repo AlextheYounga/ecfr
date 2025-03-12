@@ -1,5 +1,7 @@
 ##### § 72.74 Reports of accidental criticality or loss of special nuclear material. #####
 
+Link to an amendment published at 88 FR 15881, Mar. 14, 2023.
+
 (a) Each licensee shall notify the NRC Headquarters Operations Center by telephone at the numbers specified in appendix A to part 73 of this chapter within 1 hour of discovery of accidental criticality or any loss of special nuclear material.
 
 (b) This notification must be made to the NRC Operations Center via the Emergency Notification System if the licensee is party to that system. If the Emergency Notification System is inoperative or unavailable, the licensee shall make the required notification via commercial telephonic service or any other dedicated telephonic system or any other method that will ensure that a report is received by the NRC Operations Center within one hour. The exemption of § 73.22(f)(3) of this chapter applies to all telephonic reports required by this section.

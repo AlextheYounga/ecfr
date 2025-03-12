@@ -1,5 +1,7 @@
 ##### § 73.71 Reporting of safeguards events. #####
 
+Link to an amendment published at 88 FR 15891, Mar. 14, 2023.
+
 (a)(1) Each licensee subject to the provisions of § 73.25, § 73.26, § 73.27(c), § 73.37, § 73.67(e), or § 73.67(g) shall notify the NRC Headquarters Operations Center by telephone within 1 hour after discovery of the loss of any shipment of SNM or spent fuel, and within 1 hour after recovery of or accounting for such lost shipment. Contact numbers for the NRC Headquarters Operations Center are found in appendix A to this part.
 
 (2) This notification must be made to the NRC Operations Center via the Emergency Notification System, if the licensee is party to that system. If the Emergency Notification System is inoperative or unavailable, the licensee shall make the required notification via commercial telephonic service or other dedicated telephonic system or any other methods that will ensure that a report is received by the NRC Operations Center within one hour. The exemption of § 73.22(f)(3) applies to all telephonic reports required by this section.

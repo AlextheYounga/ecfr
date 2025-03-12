@@ -1,6 +1,8 @@
 ##### § 73.51 Requirements for the physical protection of stored spent nuclear fuel and high-level radioactive waste. #####
 
-(a) *Applicability.* Notwithstanding the provisions of §§ 73.20, 73.50, or 73.67, the physical protection requirements of this section apply to each licensee that stores spent nuclear fuel and high-level radioactive waste pursuant to paragraphs (a)(1)(i), (ii), and (2) of this section. This includes -
+Link to an amendment published at 88 FR 15890, Mar. 14, 2023.
+
+(a) *Applicability.* Notwithstanding the provisions of §§ 73.20, 73.50, or 73.67, the physical protection requirements of this section apply to each licensee that stores spent nuclear fuel and high-level radioactive waste pursuant to paragraphs (a)(1)(i), (ii), and (2) of this section. This includes—
 
 (1) Spent nuclear fuel and high-level radioactive waste stored under a specific license issued pursuant to part 72 of this chapter:
 
