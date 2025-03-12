@@ -32,7 +32,7 @@
 
 (g) Special rules on refundings.
 
-(1) In general - once financed, not reimbursed.
+(1) In general—once financed, not reimbursed.
 
 (2) Certain proceeds of prior issue used for reimbursement treated as unspent.
 
@@ -56,7 +56,7 @@
 
 (c) *Definitions.* The following definitions apply:
 
-*Issuer* means -
+*Issuer* means—
 
 (1) For any private activity bond (excluding a qualified 501(c)(3) bond, qualified student loan bond, qualified mortgage bond, or qualified veterans' mortgage bond), the entity that actually issues the reimbursement bond; and
 
@@ -66,7 +66,7 @@
 
 *Original expenditure* means an expenditure for a governmental purpose that is originally paid from a source other than a reimbursement bond.
 
-*Placed in service* means, with respect to a facility, the date on which, based on all the facts and circumstances -
+*Placed in service* means, with respect to a facility, the date on which, based on all the facts and circumstances—
 
 (1) The facility has reached a degree of completion which would permit its operation at substantially its design level; and
 
@@ -80,7 +80,7 @@
 
 (1) *Official intent.* Not later than 60 days after payment of the original expenditure, the issuer adopts an official intent for the original expenditure that satisfies paragraph (e) of this section.
 
-(2) *Reimbursement period* - (i) *In general.* The reimbursement allocation is made not later than 18 months after the later of -
+(2) *Reimbursement period*—(i) *In general.* The reimbursement allocation is made not later than 18 months after the later of—
 
 (A) The date the original expenditure is paid; or
 
@@ -96,25 +96,25 @@
 
 (1) *Form of official intent.* The official intent is made in any reasonable form, including issuer resolution, action by an appropriate representative of the issuer (e.g., a person authorized or designated to declare official intent on behalf of the issuer), or specific legislative authorization for the issuance of obligations for a particular project.
 
-(2) *Project description in official intent* - (i) *In general.* The official intent generally describes the project for which the original expenditure is paid and states the maximum principal amount of obligations expected to be issued for the project. A project includes any property, project, or program (e.g., *highway capital improvement program, hospital equipment acquisition,* or *school building renovation*).
+(2) *Project description in official intent*—(i) *In general.* The official intent generally describes the project for which the original expenditure is paid and states the maximum principal amount of obligations expected to be issued for the project. A project includes any property, project, or program (e.g., *highway capital improvement program, hospital equipment acquisition,* or *school building renovation*).
 
-(ii) *Fund accounting.* A project description is sufficient if it identifies, by name and functional purpose, the fund or account from which the original expenditure is paid (e.g., *parks and recreation fund - recreational facility capital improvement program*).
+(ii) *Fund accounting.* A project description is sufficient if it identifies, by name and functional purpose, the fund or account from which the original expenditure is paid (e.g., *parks and recreation fund—recreational facility capital improvement program*).
 
 (iii) *Reasonable deviations in project description.* Deviations between a project described in an official intent and the actual project financed with reimbursement bonds do not invalidate the official intent to the extent that the actual project is reasonably related in function to the described project. For example, *hospital equipment* is a reasonable deviation from *hospital building improvements.* In contrast, a *city office building rehabilitation* is not a reasonable deviation from *highway improvements.*
 
 (3) *Reasonableness of official intent.* On the date of the declaration, the issuer must have a reasonable expectation (as defined in § 1.148-1(b)) that it will reimburse the original expenditure with proceeds of an obligation. Official intents declared as a matter of course or in amounts substantially in excess of the amounts expected to be necessary for the project (e.g., *blanket declarations*) are not reasonable. Similarly, a pattern of failure to reimburse actual original expenditures covered by official intents (other than in extraordinary circumstances) is evidence of unreasonableness. An official intent declared pursuant to a specific legislative authorization is rebuttably presumed to satisfy this paragraph (e)(3).
 
-(f) *Exceptions to general operating rules* - (1) *De minimis exception.* Paragraphs (d)(1) and (d)(2) of this section do not apply to costs of issuance of any bond or to an amount not in excess of the lesser of $100,000 or 5 percent of the proceeds of the issue.
+(f) *Exceptions to general operating rules*—(1) *De minimis exception.* Paragraphs (d)(1) and (d)(2) of this section do not apply to costs of issuance of any bond or to an amount not in excess of the lesser of $100,000 or 5 percent of the proceeds of the issue.
 
 (2) *Preliminary expenditures exception.* Paragraphs (d)(1) and (d)(2) of this section do not apply to any preliminary expenditures, up to an amount not in excess of 20 percent of the aggregate issue price of the issue or issues that finance or are reasonably expected by the issuer to finance the project for which the preliminary expenditures were incurred. Preliminary expenditures include architectural, engineering, surveying, soil testing, reimbursement bond issuance, and similar costs that are incurred prior to commencement of acquisition, construction, or rehabilitation of a project, other than land acquisition, site preparation, and similar costs incident to commencement of construction.
 
-(g) *Special rules on refundings* - (1) *In general - once financed, not reimbursed.* Except as provided in paragraph (g)(2) of this section, paragraph (d) of this section does not apply to an allocation to pay principal or interest on an obligation or to reimburse an original expenditure paid by another obligation. Instead, such an allocation is analyzed under rules on refunding issues. See § 1.148-9.
+(g) *Special rules on refundings*—(1) *In general—once financed, not reimbursed.* Except as provided in paragraph (g)(2) of this section, paragraph (d) of this section does not apply to an allocation to pay principal or interest on an obligation or to reimburse an original expenditure paid by another obligation. Instead, such an allocation is analyzed under rules on refunding issues. See § 1.148-9.
 
 (2) *Certain proceeds of prior issue used for reimbursement treated as unspent.* In the case of a refunding issue (or series of refunding issues), proceeds of a prior issue purportedly used to reimburse original expenditures are treated as unspent proceeds of the prior issue unless the purported reimbursement was a valid expenditure under applicable law on reimbursement expenditures on the issue date of the prior issue.
 
-(h) *Anti-abuse rules* - (1) *General rule.* A reimbursement allocation is not an expenditure of proceeds of an issue under this section if the allocation employs an abusive arbitrage device under § 1.148-10 to avoid the arbitrage restrictions or to avoid the restrictions under sections 142 through 147.
+(h) *Anti-abuse rules*—(1) *General rule.* A reimbursement allocation is not an expenditure of proceeds of an issue under this section if the allocation employs an abusive arbitrage device under § 1.148-10 to avoid the arbitrage restrictions or to avoid the restrictions under sections 142 through 147.
 
-(2) *One-year step transaction rule* - (i) *Creation of replacement proceeds.* A purported reimbursement allocation is invalid and thus is not an expenditure of proceeds of an issue if, within 1 year after the allocation, funds corresponding to the proceeds of a reimbursement bond for which a reimbursement allocation was made are used in a manner that results in the creation of replacement proceeds (as defined in § 1.148-1) of that issue or another issue. The preceding sentence does not apply to amounts deposited in a bona fide debt service fund (as defined in § 1.148-1).
+(2) *One-year step transaction rule*—(i) *Creation of replacement proceeds.* A purported reimbursement allocation is invalid and thus is not an expenditure of proceeds of an issue if, within 1 year after the allocation, funds corresponding to the proceeds of a reimbursement bond for which a reimbursement allocation was made are used in a manner that results in the creation of replacement proceeds (as defined in § 1.148-1) of that issue or another issue. The preceding sentence does not apply to amounts deposited in a bona fide debt service fund (as defined in § 1.148-1).
 
 (ii) *Example.* The provisions of paragraph (h)(2)(i) of this section are illustrated by the following example.
 
@@ -122,9 +122,9 @@ Example.On January 1, 1994, County *A* issues an issue of 7 percent tax-exempt b
 
 (i) *Authority of the Commissioner to prescribe rules.* The Commissioner may by revenue ruling or revenue procedure (see § 601.601(d)(2)(ii)(*b*) of this chapter) prescribe rules for the expenditure of proceeds of reimbursement bonds in circumstances that do not otherwise satisfy this section.
 
-(j) *Effective date* - (1) *In general.* Except as otherwise provided, the provisions of this section apply to all allocations of proceeds of reimbursement bonds issued after June 30, 1993.
+(j) *Effective date*—(1) *In general.* Except as otherwise provided, the provisions of this section apply to all allocations of proceeds of reimbursement bonds issued after June 30, 1993.
 
-(2) *Transitional rules* - (i) *Official intent.* An official intent is treated as satisfying the official intent requirement of paragraph (d)(1) of this section if it -
+(2) *Transitional rules*—(i) *Official intent.* An official intent is treated as satisfying the official intent requirement of paragraph (d)(1) of this section if it—
 
 (A) Satisfied the applicable provisions of § 1.103-8(a)(5) as in effect prior to July 1, 1993, (as contained in 26 CFR part 1 revised as of April 1, 1993) and was made prior to that date, or
 

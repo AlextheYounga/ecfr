@@ -18,7 +18,7 @@
 
 (6) A *clean-up call* is the redemption of all trust interests in termination of the WHFIT when the administrative costs of the WHFIT outweigh the benefits of maintaining the WHFIT.
 
-(7) An *exempt recipient* is -
+(7) An *exempt recipient* is—
 
 (i) Any person described in § 1.6049-4(c)(1)(ii);
 
@@ -34,13 +34,13 @@
 
 (9) An *item* refers to an item of income, expense, or credit as well as any trust event (for example, the sale of an asset) or any characteristic or attribute of the trust that affects the income, deductions, and credits reported by a beneficial owner in any taxable year that the beneficial owner holds an interest in the trust. An item may refer to an individual item or a group of items depending on whether the item must be reported separately under paragraphs (c)(1)(i) and (e)(1) of this section.
 
-(10) A *middleman* is any TIH, other than a qualified intermediary as defined in § 1.1031(k)-1(g), who, at any time during the calendar year, holds an interest in a WHFIT on behalf of, or for the account of, another TIH, or who otherwise acts in a capacity as an intermediary for the account of another person. A middleman includes, but is not limited to -
+(10) A *middleman* is any TIH, other than a qualified intermediary as defined in § 1.1031(k)-1(g), who, at any time during the calendar year, holds an interest in a WHFIT on behalf of, or for the account of, another TIH, or who otherwise acts in a capacity as an intermediary for the account of another person. A middleman includes, but is not limited to—
 
 (i) A custodian of a person's account, such as a bank, financial institution, or brokerage firm acting as custodian of an account;
 
 (ii) A nominee;
 
-(iii) A joint owner of an account or instrument other than -
+(iii) A joint owner of an account or instrument other than—
 
 (A) A joint owner who is the spouse of the other owner; and
 
@@ -58,7 +58,7 @@
 
 (15) The *redemption proceeds* equal the total amount paid to a redeeming TIH as the result of a redemption of a trust interest.
 
-(16) A *requesting person* is -
+(16) A *requesting person* is—
 
 (i) A middleman;
 
@@ -80,7 +80,7 @@
 
 (21) *Trust sales proceeds* equal the amount paid to a WHFIT for the sale or disposition of an asset held by the WHFIT, including principal payments received by the WHFIT that completely retire a debt instrument (other than a final scheduled principal payment) and pro-rata partial principal prepayments described under § 1.1275-2(f)(2). Trust sales proceeds do not include amounts paid for any interest income that would be required to be reported under § 1.6045-1(d)(3). Trust sales proceeds also do not include amounts paid to a NMWHFIT as the result of pro-rata sales of trust assets to effect a redemption described in paragraph (c)(2)(iv)(G) of this section or the value of assets received as a result of a tax-free corporate reorganization as described in paragraph (c)(2)(iv)(H) of this section.
 
-(22) A *widely held fixed investment trust* (WHFIT) is an arrangement classified as a trust under § 301.7701-4(c) of this chapter, provided that -
+(22) A *widely held fixed investment trust* (WHFIT) is an arrangement classified as a trust under § 301.7701-4(c) of this chapter, provided that—
 
 (i) The trust is a United States person under section 7701(a)(30)(E);
 
@@ -88,7 +88,7 @@
 
 (iii) At least one interest in the trust is held by a middleman.
 
-(23) A *widely held mortgage trust* (WHMT) is a WHFIT, the assets of which consist only of one or more of the following -
+(23) A *widely held mortgage trust* (WHMT) is a WHFIT, the assets of which consist only of one or more of the following—
 
 (i) Mortgages;
 
@@ -102,25 +102,25 @@
 
 (vi) During a brief initial funding period, cash and short-term contracts for the purchase of the assets described in paragraphs (b)(23)(i), (ii), and (iii).
 
-(c) *Trustee's obligation to report information* - (1) *In general.* Upon the request of a requesting person (as defined in paragraph (b)(16) of this section), a trustee of a WHFIT must report the information described in paragraph (c)(2) of this section to the requesting person. The trustee must determine such information in accordance with the following rules -
+(c) *Trustee's obligation to report information*—(1) *In general.* Upon the request of a requesting person (as defined in paragraph (b)(16) of this section), a trustee of a WHFIT must report the information described in paragraph (c)(2) of this section to the requesting person. The trustee must determine such information in accordance with the following rules—
 
 (i) *Calculation.* WHFIT information may be calculated in any manner that enables a requesting person to determine with reasonable accuracy the WHFIT items described in paragraph (c)(2) of this section that are attributable (or, if permitted under paragraphs (c)(2)(iv)(B) or (f)(2)(iii) of this section, distributed) to a beneficial owner for the taxable year of that owner. The manner of calculation must generally conform with industry practice for calculating the WHFIT items described in paragraph (c)(2) of this section for the type of asset or assets held by the WHFIT, and must enable a requesting person to separately state any WHFIT item that, if taken into account separately by a beneficial owner, would result in an income tax liability different from that which would result if the owner did not take the item into account separately.
 
-(ii) *Calculation period* - WHFIT information may be calculated on the basis of a calendar month, calendar quarter, or half or full calendar year, provided that a trustee uses the same calculation period for the life of the WHFIT and the information provided by the trustee meets the requirements of paragraph (c)(1)(i) of this section. Regardless of the calculation period chosen by the trustee, the trustee must provide information requested by a requesting person under paragraph (c)(5) on a calendar year basis. The trustee may provide additional information to requesting persons throughout the calendar year at the trustee's discretion.
+(ii) *Calculation period*—WHFIT information may be calculated on the basis of a calendar month, calendar quarter, or half or full calendar year, provided that a trustee uses the same calculation period for the life of the WHFIT and the information provided by the trustee meets the requirements of paragraph (c)(1)(i) of this section. Regardless of the calculation period chosen by the trustee, the trustee must provide information requested by a requesting person under paragraph (c)(5) on a calendar year basis. The trustee may provide additional information to requesting persons throughout the calendar year at the trustee's discretion.
 
-(iii) *Accounting method* - (A) *General rule.* WHFIT information must be calculated and reported using the cash receipts and disbursements method of accounting unless another method is required by the Internal Revenue Code or regulations with respect to a specific trust item. Accordingly, a trustee must provide information necessary for TIHs to comply with the rules of subtitle A, chapter 1, subchapter P, part V, subpart A of the Internal Revenue Code, which require the inclusion of accrued amounts with respect to OID, and section 860B(b), which requires the inclusion of accrued amounts with respect to a REMIC regular interest.
+(iii) *Accounting method*—(A) *General rule.* WHFIT information must be calculated and reported using the cash receipts and disbursements method of accounting unless another method is required by the Internal Revenue Code or regulations with respect to a specific trust item. Accordingly, a trustee must provide information necessary for TIHs to comply with the rules of subtitle A, chapter 1, subchapter P, part V, subpart A of the Internal Revenue Code, which require the inclusion of accrued amounts with respect to OID, and section 860B(b), which requires the inclusion of accrued amounts with respect to a REMIC regular interest.
 
 (B) *Exception for WHFITs marketed predominantly to taxpayers on the accrual method.* If the trustee or the trust's sponsor knows or reasonably should know that a WHFIT is marketed primarily to accrual method TIHs and the WHFIT holds assets for which the timing of the recognition of income is materially affected by the use of the accrual method of accounting, the trustee must calculate and report trust information using the accrual method of accounting.
 
 (iv) *Gross income requirement.* The amount of income required to be reported by the trustee is the gross income (as defined in section 61) generated by the WHFIT's assets. Thus, in the case of a WHFIT that receives a payment of income from which an expense (or expenses) has been deducted, the trustee, in calculating the income to be reported under paragraph (c)(2)(ii) of this section, must report the income earned on the trusts assets unreduced by the deducted expense or expenses and separately report the deducted expense or expenses. See paragraph (c)(2)(iv) of this section regarding reporting with respect to sales and dispositions.
 
-(2) *Information to be reported by all WHFITs.* With respect to all WHFITs -
+(2) *Information to be reported by all WHFITs.* With respect to all WHFITs—
 
-(i) *Trust identification and calculation period chosen.* The trustee must report information identifying the WHFIT, including -
+(i) *Trust identification and calculation period chosen.* The trustee must report information identifying the WHFIT, including—
 
 (A) The name of the WHFIT;
 
-(B)The employer identification number of the WHFIT;
+(B) The employer identification number of the WHFIT;
 
 (C) The name and address of the trustee;
 
@@ -130,7 +130,7 @@
 
 (F) The calculation period used by the trustee.
 
-(ii) *Items of income, expense, and credit.* The trustee must report information detailing -
+(ii) *Items of income, expense, and credit.* The trustee must report information detailing—
 
 (A) All items of gross income (including OID, except that OID is not required to be included for a WHMT that has a start-up date (as defined in paragraph (b)(19) of this section) prior to August 13, 1998).
 
@@ -142,7 +142,7 @@
 
 (iv) *Asset sales and dispositions.* The trustee must report information regarding sales and dispositions of WHFIT assets as required in this paragraph (c)(2)(iv). For purposes of this paragraph (c)(2)(iv), a payment (other than a final scheduled payment) that completely retires a debt instrument (including a mortgage held by a WHMT) or a pro-rata prepayment on a debt instrument (see § 1.1275-2(f)(2)) held by a WHFIT must be reported as a full or partial sale or disposition of the debt instrument. Pro-rata sales of trust assets to effect redemptions, as defined in paragraph (c)(2)(iv)(G) of this section, or exchanges of trust assets as the result of a corporate reorganization under paragraph (c)(2)(iv)(H) of this section, are not reported as sales or dispositions under this paragraph (c)(2)(iv).
 
-(A) *General rule.* Except as provided in paragraph (c)(2)(iv)(B) (regarding the exception for certain NMWHFITs) or paragraph (c)(2)(iv)(C) (regarding the exception for certain WHMTs) of this section, the trustee must report with respect to each sale or disposition of a WHFIT asset -
+(A) *General rule.* Except as provided in paragraph (c)(2)(iv)(B) (regarding the exception for certain NMWHFITs) or paragraph (c)(2)(iv)(C) (regarding the exception for certain WHMTs) of this section, the trustee must report with respect to each sale or disposition of a WHFIT asset—
 
 (*1*) The date of each sale or disposition;
 
@@ -154,19 +154,19 @@
 
 (C) *Exception for certain WHMTs.* If a WHMT meets either the general or the special de minimis test of paragraph (c)(2)(iv)(D) of this section for the calendar year, the trustee is not required to report under paragraph (c)(2)(iv)(A) of this section. Instead, the trustee must report information to enable a requesting person to determine the amount of trust sales proceeds attributable to a beneficial owner as a result of the sale or disposition. The trustee also must provide requesting persons with a statement that the WHMT is permitted to report under this paragraph (c)(2)(iv)(C).
 
-(D) *De minimis tests* - (*1*) *General WHFIT de minimis test.* The general WHFIT de minimis test is satisfied if trust sales proceeds for the calendar year are not more than five percent of the net asset value of the trust (aggregate fair market value of the trust's assets less the trust's liabilities) as of the later of January 1 and the start-up date (as defined paragraph (b)(19) of this section); or, if the trustee chooses, the later of January 1 and the measuring date. The measuring date is the date of the last deposit of assets into the WHFIT (not including any deposit of assets into the WHFIT pursuant to a distribution reinvestment program), not to exceed 90 days after the date the registration statement of the WHFIT becomes effective under the Securities Act of 1933.
+(D) *De minimis tests*—(*1*) *General WHFIT de minimis test.* The general WHFIT de minimis test is satisfied if trust sales proceeds for the calendar year are not more than five percent of the net asset value of the trust (aggregate fair market value of the trust's assets less the trust's liabilities) as of the later of January 1 and the start-up date (as defined paragraph (b)(19) of this section); or, if the trustee chooses, the later of January 1 and the measuring date. The measuring date is the date of the last deposit of assets into the WHFIT (not including any deposit of assets into the WHFIT pursuant to a distribution reinvestment program), not to exceed 90 days after the date the registration statement of the WHFIT becomes effective under the Securities Act of 1933.
 
 (*2*) *Special WHMT de minimis test.* A WHMT that meets the asset requirement of paragraph (g)(1)(ii)(E) of this section satisfies the special WHMT de minimis test in this paragraph (c)(2)(iv)(D)(*2*) if trust sales proceeds for the calendar year are not more than five percent of the aggregate outstanding principal balance of the WHMT (as defined in paragraph (g)(1)(iii)(D) of this section) as of the later of January 1 of that year or the trust's start-up date. For purposes of applying the special WHMT de minimis test in this paragraph (c)(2)(iv)(D)(*2*), amounts that result from the complete or partial payment of the outstanding principal balance of the mortgages held by the trust are not included in the amount of trust sales proceeds. The IRS and the Treasury Department may provide by revenue ruling, or by other published guidance, that the special de minimis test of this paragraph (c)(2)(iv)(D)(*2*) may be applied to WHFITs holding debt instruments other than those described in paragraph (g)(1)(ii)(E) of this section.
 
 (*3*) *Effect of clean-up call.* If a WHFIT fails to meet either de minimis test described in this paragraph (c)(2)(iv)(D) solely as the result of a clean-up call, as defined in paragraph (b)(6) of this section, the WHFIT will be treated as having met the de minimis test.
 
-(*4*) *Exception for certain fully reported sales* - (*i*) *Rule.* If a trustee of a NMWHFIT reports the sales described in paragraph (c)(2)(iv)(D)(*4*)(*ii*) of this section as provided under paragraph (c)(2)(iv)(A) of this section (regardless of whether the general minimis test in paragraph (c)(2)(iv)(D)(*1*) of this section is satisfied for a particular calendar year) consistently throughout the life of the WHFIT, a trustee may exclude the trust sales proceeds received by the WHFIT as a result of those sales from the trust sales proceeds used to determine whether a WHFIT has satisfied the general de minimis test in paragraph (c)(2)(iv)(D)(*1*) of this section.
+(*4*) *Exception for certain fully reported sales*—(*i*) *Rule.* If a trustee of a NMWHFIT reports the sales described in paragraph (c)(2)(iv)(D)(*4*)(*ii*) of this section as provided under paragraph (c)(2)(iv)(A) of this section (regardless of whether the general minimis test in paragraph (c)(2)(iv)(D)(*1*) of this section is satisfied for a particular calendar year) consistently throughout the life of the WHFIT, a trustee may exclude the trust sales proceeds received by the WHFIT as a result of those sales from the trust sales proceeds used to determine whether a WHFIT has satisfied the general de minimis test in paragraph (c)(2)(iv)(D)(*1*) of this section.
 
 (*ii*) *Applicable sales and dispositions.* This paragraph (c)(2)(iv)(D)(*4*) applies to sales and dispositions resulting from corporate reorganizations and restructurings for which the trust receives cash, the sale of assets received by the trust in corporate reorganizations and restructurings (including conversions of closed-end investment companies to open-end investment companies), principal prepayments, bond calls, bond maturities, and the sale of securities by the trustee as required by the governing document or applicable law governing fiduciaries in order to maintain the sound investment character of the trust, and any other nonvolitional dispositions of trust assets.
 
 (*iii*) *Certain small sales and dispositions.* If the amount of trust sales proceeds from a sale or disposition described in paragraph (c)(2)(iv)(D)(*4*)(*ii*) of this section is less than .01 percent of the net fair market value of the WHFIT as determined for applying the de minimis test for the calendar year, the trustee is not required to report the sale or disposition under paragraph (c)(2)(iv)(A) of this section provided the trustee includes the trust sales proceeds, received for purposes of determining whether the trust has met the general de minimis test of paragraph (c)(2)(iv)(D)(*1*) of this section.
 
-(E) *Qualified NMWHFIT exception.* The qualified NMWHFIT exception is satisfied if -
+(E) *Qualified NMWHFIT exception.* The qualified NMWHFIT exception is satisfied if—
 
 (*1*) The NMWHFIT has a start-up date (as defined in paragraph (b)(19) of this section) before February 23, 2006;
 
@@ -174,7 +174,7 @@
 
 (*3*) The registration statement of the NMWHFIT becomes effective under the Securities Act of 1933 and trust interests are offered for sale to the public on or after February 23, 2006, and before July 31, 2006, and the NMWHFIT is fully funded before October 1, 2006. For purposes of determining whether a NMWHFIT is fully funded under this paragraph (c)(2)(iv)(E), deposits to the NMWHFIT after October 1, 2006, that are made pursuant to a distribution reinvestment program that is consistent with the requirements of § 301.7701-4(c) of this chapter are disregarded.
 
-(F) *NMWHFIT final calendar year exception.* The NMWHFIT final calendar year exception is satisfied if -
+(F) *NMWHFIT final calendar year exception.* The NMWHFIT final calendar year exception is satisfied if—
 
 (*1*) The NMWHFIT terminates on or before December 31 of the year for which the trustee is reporting;
 
@@ -182,9 +182,9 @@
 
 (*3*) The trustee makes reasonable efforts to engage in pro-rata sales of trust assets to effect redemptions.
 
-(G) *Pro-rata sales of trust assets to effect a redemption* - (1) *Rule.* Pro-rata sales of trust assets to effect redemptions are not required to be reported under this paragraph (c)(2)(iv).
+(G) *Pro-rata sales of trust assets to effect a redemption*—(1) *Rule.* Pro-rata sales of trust assets to effect redemptions are not required to be reported under this paragraph (c)(2)(iv).
 
-(2) *Definition.* Pro-rata sales of trust assets to effect redemptions occur when -
+(2) *Definition.* Pro-rata sales of trust assets to effect redemptions occur when—
 
 (*i*) One or more trust interests are tendered for redemption;
 
@@ -194,11 +194,11 @@
 
 (*iv*) The redemptions are reported as required under paragraph (c)(2)(v) of this section by the trustee.
 
-(*3*) *Additional rules* - (*i*) *Calendar month aggregation.* The trustee may compare the aggregate pro-rata share of the assets deemed to be owned by the trust interests tendered for redemption during the calendar month with the aggregate sales of assets to effect redemptions for the calendar month to determine the pro-rata sales of trust assets to effect redemptions for the calendar month. If the aggregate pro-rata share of an asset deemed to be owned by the trust interests tendered for redemption for the month is a fractional amount, the trustee may round that number up to the next whole number for the purpose of determining the pro-rata sales to effect redemptions for the calendar month;
+(*3*) *Additional rules*—(*i*) *Calendar month aggregation.* The trustee may compare the aggregate pro-rata share of the assets deemed to be owned by the trust interests tendered for redemption during the calendar month with the aggregate sales of assets to effect redemptions for the calendar month to determine the pro-rata sales of trust assets to effect redemptions for the calendar month. If the aggregate pro-rata share of an asset deemed to be owned by the trust interests tendered for redemption for the month is a fractional amount, the trustee may round that number up to the next whole number for the purpose of determining the pro-rata sales to effect redemptions for the calendar month;
 
 (*ii*) *Sales of assets to effect redemptions may be combined with sales of assets for other purposes.* Sales of assets to effect redemptions may be combined with the sales of assets to obtain cash for other purposes but the proceeds from the sales of assets to effect redemptions must be used solely to provide cash for redemptions and the sales of assets to obtain cash for other purposes must be reported as otherwise provided in this paragraph (c)(2)(iv). For example, if a trustee sells assets and the proceeds are used by the trustee to pay trust expenses, these amounts are to be included in the amounts reported under paragraph (c)(2)(iv)(A) or (B), as appropriate.
 
-(*4*) *Example* - (*i*) *January 1, 2008.* Trust has one million trust interests and all interests have equal value and equal rights. The number of shares of stock in corporations A through J and the pro-rata share of each stock that a trust interest is deemed to own as of January 1, 2008, is as follows:
+(*4*) *Example*—(*i*) *January 1, 2008.* Trust has one million trust interests and all interests have equal value and equal rights. The number of shares of stock in corporations A through J and the pro-rata share of each stock that a trust interest is deemed to own as of January 1, 2008, is as follows:
 
 |Stock|Total shares|Per trust interest|
 |-----|------------|------------------|
@@ -245,20 +245,19 @@
 
 (*iv*) *Transactions on January 28 and 29, 2008.* On January 28, 2008, the value of the H stock is $30.00 per share and Trustee, pursuant to Trust's governing document, sells the H stock to preserve the financial integrity of Trust and receives $414,630. Trustee intends to report this sale under paragraph (c)(2)(iv)(A) of this section and to distribute the proceeds of the sale pro-rata to trust interest holders on Trust's next scheduled distribution date. On January 29, 2008, while trustee still holds the proceeds from the January 28 sale, 10,000 trust interests are tendered for redemption. The pro-rata share of the stock deemed to be owned by the 10,000 redeemed trust interests and the stock sold by the trustee to effect the redemptions are set out in the following table:
 
-|Stock|Deemed pro-rata ownership|Shares sold|
-|-----|-------------------------|-----------|
-|  A  |         248.45          |    248    |
-|  B  |            0            |     0     |
-|  C  |         511.25          |    511    |
-|  D  |         138.66          |    139    |
-|  E  |         250.82          |    251    |
-|  F  |         391.54          |    391    |
-|  G  |         161.37          |    161    |
-|  H  |     <sup>1</sup> 0      |     0     |
-|  I  |         174.36          |    175    |
-|  J  |         311.33          |    312    |
-
-<sup>1</sup>Share of cash proceeds: $4,458.39.
+|                     Stock                     |Deemed pro-rata ownership|Shares sold|
+|-----------------------------------------------|-------------------------|-----------|
+|                       A                       |         248.45          |    248    |
+|                       B                       |            0            |     0     |
+|                       C                       |         511.25          |    511    |
+|                       D                       |         138.66          |    139    |
+|                       E                       |         250.82          |    251    |
+|                       F                       |         391.54          |    391    |
+|                       G                       |         161.37          |    161    |
+|                       H                       |     <sup>1</sup> 0      |     0     |
+|                       I                       |         174.36          |    175    |
+|                       J                       |         311.33          |    312    |
+|<sup>1</sup> Share of cash proceeds: $4,458.39.|                         |           |
 
 (*v*) *Monthly amounts.* To determine the pro-rata sales to effect redemptions for January, trustee compares the aggregate pro-rata share of stocks A through J (rounded to the next whole number) deemed to be owned by the trust interests tendered for redemption during the month of January with the sales of stocks A through J to effect redemptions:
 
@@ -279,7 +278,7 @@
 
 (H) *Corporate Reorganizations.* The exchange of trust assets for other assets of equivalent value pursuant to a tax free corporate reorganization is not required to be reported as a sale or disposition under this paragraph (c)(2)(iv).
 
-(v) *Redemptions and sales of WHFIT interests* - (A) *Redemptions* - (*1*) *In general.* Unless paragraph (c)(2)(v)(C) of this section applies, for each date on which the amount of a redemption proceeds for the redemption of a trust interest is determined, the trustee must provide information to enable a requesting person to determine -
+(v) *Redemptions and sales of WHFIT interests*—(A) *Redemptions*—(*1*) *In general.* Unless paragraph (c)(2)(v)(C) of this section applies, for each date on which the amount of a redemption proceeds for the redemption of a trust interest is determined, the trustee must provide information to enable a requesting person to determine—
 
 (*i*) The redemption proceeds (as defined in paragraph (b)(15) of this section) per trust interest on that date;
 
@@ -289,15 +288,15 @@
 
 (*2*) *In kind redemptions.* The value of the assets received with respect to an in-kind redemption (as defined in paragraph (b)(8) of this section) is not required to be reported under this paragraph (c)(2)(v)(A). Information regarding the income attributable to a redeeming beneficial owner must, however, be reported under paragraph (c)(2)(v)(A)(*1*)(*iii*) of this section.
 
-(B) *Sale of a trust interest.* Under paragraph (c)(2)(v)(C) of this section applies, if a secondary market for interests in the WHFIT is established, the trustee must provide, for each day of the calendar year, information to enable requesting persons to determine -
+(B) *Sale of a trust interest.* Under paragraph (c)(2)(v)(C) of this section applies, if a secondary market for interests in the WHFIT is established, the trustee must provide, for each day of the calendar year, information to enable requesting persons to determine—
 
 (*1*) The sale assets proceeds (as defined in paragraph (b)(17) of this section) per trust interest on that date; and
 
 (*2*) The gross income that is attributable to a selling beneficial owner and to a purchasing beneficial owner for the portion of the calendar year that each held the trust interest.
 
-(C) *Simplified Reporting for Certain NMWHFITs* - (*1*) *In general.* The trustee of an NMWHFIT described in paragraph (c)(2)(v)(C)(*2*) of this section is not required to report the information described in paragraph (c)(2)(v)(A) of this section (regarding redemptions) or (c)(2)(v)(B) of this section (regarding sales). However, the trustee must report to requesting persons, for each date on which the amount of redemption proceeds to be paid for the redemption of a trust interest is determined, information that will enable requesting persons to determine the redemption proceeds per trust interest on that date. The trustee also must provide requesting persons with a statement that this paragraph applies to the NMWHFIT.
+(C) *Simplified Reporting for Certain NMWHFITs*—(*1*) *In general.* The trustee of an NMWHFIT described in paragraph (c)(2)(v)(C)(*2*) of this section is not required to report the information described in paragraph (c)(2)(v)(A) of this section (regarding redemptions) or (c)(2)(v)(B) of this section (regarding sales). However, the trustee must report to requesting persons, for each date on which the amount of redemption proceeds to be paid for the redemption of a trust interest is determined, information that will enable requesting persons to determine the redemption proceeds per trust interest on that date. The trustee also must provide requesting persons with a statement that this paragraph applies to the NMWHFIT.
 
-(*2*) *NMWHFITs that qualify for the exception.* This paragraph (c)(2)(v)(C) applies to a NMWHFIT if -
+(*2*) *NMWHFITs that qualify for the exception.* This paragraph (c)(2)(v)(C) applies to a NMWHFIT if—
 
 (*i*) Substantially all the assets of the NMWHFIT produce income that is treated as interest income (but only if these assets trade on a recognized exchange or securities market without a price component attributable to accrued interest) or produce dividend income (as defined in section 6042(b) and the regulations under that section). (Trust sales proceeds and gross proceeds from sales described in paragraphs (c)(2)(iv)(G) and (H) of this section are ignored for the purpose of determining if substantially all of a NMWHFIT's assets produce dividend or the interest income described in this paragraph); and
 
@@ -309,7 +308,7 @@
 
 (viii) *Other information.* The trustee must provide any other information necessary for a beneficial owner of a trust interest to report, with reasonable accuracy, the items (as defined in paragraph (b)(9) of this section) attributable to the portion of the trust treated as owned by the beneficial owner under section 671.
 
-(3) *Identifying the representative who will provide trust information.* The trustee must identify a representative of the WHFIT who will provide the information specified in this paragraph (c). The trustee also may identify an Internet website at which the trustee will provide the information specified in this paragraph (c). This information must be -
+(3) *Identifying the representative who will provide trust information.* The trustee must identify a representative of the WHFIT who will provide the information specified in this paragraph (c). The trustee also may identify an Internet website at which the trustee will provide the information specified in this paragraph (c). This information must be—
 
 (i) Printed in a publication generally read by, and available to, requesting persons;
 
@@ -317,19 +316,19 @@
 
 (iii) Posted at the trustee's Internet website.
 
-(4) *Time and manner of providing information* - (i) *Time* - (A) *In general.* Except as provided in paragraph (c)(4)(i)(B) of this section, a trustee must provide the information specified in this paragraph (c) to requesting persons on or before the later of -
+(4) *Time and manner of providing information*—(i) *Time*—(A) *In general.* Except as provided in paragraph (c)(4)(i)(B) of this section, a trustee must provide the information specified in this paragraph (c) to requesting persons on or before the later of—
 
 (*1*) The 30th day after the close of the calendar year to which the request relates; or
 
 (*2*) The day that is 14 days after the receipt of the request.
 
-(B) *Trusts holding interests in other WHFITs or in REMICs.* If the WHFIT holds an interest in one or more other WHFITs or holds one or more REMIC regular interests, or holds both, a trustee must provide the information specified in this paragraph (c) to requesting persons on or before the later of -
+(B) *Trusts holding interests in other WHFITs or in REMICs.* If the WHFIT holds an interest in one or more other WHFITs or holds one or more REMIC regular interests, or holds both, a trustee must provide the information specified in this paragraph (c) to requesting persons on or before the later of—
 
 (*1*) The 44th day after the close of the calendar year to which the request relates; or
 
 (*2*) The day that is 28 days after the receipt of the request.
 
-(ii) *Manner.* The information specified in this paragraph (c) must be provided -
+(ii) *Manner.* The information specified in this paragraph (c) must be provided—
 
 (A) By written statement sent by first class mail to the address provided by the requesting person;
 
@@ -343,7 +342,7 @@
 
 (iii) *Inclusion of information with respect to all calculation periods.* If a trustee calculates WHFIT information using a calculation period other than a calendar year, the trustee must provide information for each calculation period that falls within the calendar year requested.
 
-(5) *Requesting information from a WHFIT* - (i) *In general.* Requesting persons may request the information specified in this paragraph (c) from a WHFIT.
+(5) *Requesting information from a WHFIT*—(i) *In general.* Requesting persons may request the information specified in this paragraph (c) from a WHFIT.
 
 (ii) *Manner of requesting information.* In requesting WHFIT information, a requesting person must specify the WHFIT and the calendar year for which information is requested.
 
@@ -351,19 +350,19 @@
 
 (6) *Trustee's requirement to retain records.* For the life of the WHFIT and for five years following the date of termination of the WHFIT, the trustee must maintain in its records a copy of the information required to be provided to requesting persons this paragraph (c) for each calendar year beginning with the 2007 calendar year. For a period of five years following the close of the calendar year to which the data pertains, the trustee also must maintain in its records such supplemental data as may be necessary to establish that the information provided to requesting persons is correct and meets the requirements of this paragraph (c).
 
-(d) *Form 1099 requirement for trustees and middlemen* - (1) *Obligation to file Form 1099 with the IRS* - (i) *In general.* Except as provided in paragraphs (d)(1)(ii) and (iii) of this section -
+(d) *Form 1099 requirement for trustees and middlemen*—(1) *Obligation to file Form 1099 with the IRS*—(i) *In general.* Except as provided in paragraphs (d)(1)(ii) and (iii) of this section—
 
 (A) The trustee must file with the IRS the appropriate Forms 1099, reporting the information specified in paragraph (d)(2) of this section with respect to any TIH who holds an interest in the WHFIT directly and not through a middleman; and
 
 (B) Every middleman must file with the IRS the appropriate Forms 1099, reporting the information specified in paragraph (d)(2) of this section with respect to any TIH on whose behalf or account the middleman holds an interest in the WHFIT or acts as an intermediary.
 
-(ii) *Forms 1099 not required for exempt recipients* - (A) *In general.* A Form 1099 is not required with respect to a TIH who is an exempt recipient (as defined in paragraph (b)(7) of this section), unless the trustee or middleman backup withholds under section 3406 on payments made to an exempt recipient (because, for example, the exempt recipient has failed to furnish a Form W-9 on request). If the trustee or middleman backup withholds, then the trustee or middleman is required to file a Form 1099 under this paragraph (d) unless the trustee or middleman refunds the amount withheld in accordance with § 31.6413(a)-3 of this chapter.
+(ii) *Forms 1099 not required for exempt recipients*—(A) *In general.* A Form 1099 is not required with respect to a TIH who is an exempt recipient (as defined in paragraph (b)(7) of this section), unless the trustee or middleman backup withholds under section 3406 on payments made to an exempt recipient (because, for example, the exempt recipient has failed to furnish a Form W-9 on request). If the trustee or middleman backup withholds, then the trustee or middleman is required to file a Form 1099 under this paragraph (d) unless the trustee or middleman refunds the amount withheld in accordance with § 31.6413(a)-3 of this chapter.
 
 (B) *Exempt recipients must include WHFIT information in computing taxable income.* A beneficial owner who is an exempt recipient must obtain WHFIT information and must include the items (as defined in paragraph (b)(9) of this section) of the WHFIT in computing its taxable income on its federal income tax return. Paragraphs (c)(3) and (h) of this section provide rules for exempt recipients to obtain information from a WHFIT.
 
 (iii) *Reporting and withholding with respect to foreign persons.* The items of the WHFIT attributable to a TIH who is not a United States person must be reported, and amounts must be withheld, as provided under subtitle A, chapter 3 of the Internal Revenue Code (sections 1441 through 1464) and the regulations thereunder and not reported under this paragraph (d).
 
-(2) *Information to be reported* - (i) *Determining amounts to be provided on Forms 1099.* The amounts reported to the IRS for a calendar year by a trustee or middleman on the appropriate Form 1099 must be consistent with the information provided by the trustee under paragraph (c) of this section and must reflect with reasonable accuracy the amount of each item required to be reported on a Form 1099 that is attributable (or if permitted under paragraphs (d)(2)(ii)(D) and (E) of this section, distributed) to the TIH. If the trustee, in providing WHFIT information, uses the safe harbors in paragraph (f)(1) or (g)(1) of this section, then the trustee or middleman must calculate the information to be provided to the IRS on the Forms 1099 in accordance with paragraph (f)(2) or (g)(2) of this section, as appropriate.
+(2) *Information to be reported*—(i) *Determining amounts to be provided on Forms 1099.* The amounts reported to the IRS for a calendar year by a trustee or middleman on the appropriate Form 1099 must be consistent with the information provided by the trustee under paragraph (c) of this section and must reflect with reasonable accuracy the amount of each item required to be reported on a Form 1099 that is attributable (or if permitted under paragraphs (d)(2)(ii)(D) and (E) of this section, distributed) to the TIH. If the trustee, in providing WHFIT information, uses the safe harbors in paragraph (f)(1) or (g)(1) of this section, then the trustee or middleman must calculate the information to be provided to the IRS on the Forms 1099 in accordance with paragraph (f)(2) or (g)(2) of this section, as appropriate.
 
 (ii) *Information to be provided on Forms 1099.* The trustee or middleman must include on the appropriate Forms 1099:
 
@@ -383,13 +382,13 @@
 
 (H) *Other information.* Any other information required by the Form 1099.
 
-(3) *Time and manner of filing Forms 1099* - (i) *Time and place.* The Forms 1099 required to be filed under this paragraph (d) must be filed on or before February 28 (March 31, if filed electronically) of the year following the year for which the Forms 1099 are being filed. The returns must be filed with the appropriate Internal Revenue Service Center, at the address listed in the instructions for the Forms 1099. For extensions of time for filing returns under this section, see § 1.6081-1, the instructions for the Forms 1099, and applicable revenue procedures (see § 601.601(d)(2) of this chapter). For magnetic media filing requirements, see § 301.6011-2 of this chapter.
+(3) *Time and manner of filing Forms 1099*—(i) *Time and place.* The Forms 1099 required to be filed under this paragraph (d) must be filed on or before February 28 (March 31, if filed electronically) of the year following the year for which the Forms 1099 are being filed. The returns must be filed with the appropriate Internal Revenue Service Center, at the address listed in the instructions for the Forms 1099. For extensions of time for filing returns under this section, see § 1.6081-1, the instructions for the Forms 1099, and applicable revenue procedures (see § 601.601(d)(2) of this chapter). For magnetic media filing requirements, see § 301.6011-2 of this chapter.
 
-(ii) *Reporting trust sales proceeds, redemption asset proceeds, redemption proceeds, sale asset proceeds, sales proceeds and non pro-rata partial principal payments* - (A) *Form to be used.* Trust sales proceeds, redemption asset proceeds, redemption proceeds, sale asset proceeds, sales proceeds, and non pro-rata partial principal payments are to be reported on the same type of Form 1099 as that required for reporting gross proceeds under section 6045.
+(ii) *Reporting trust sales proceeds, redemption asset proceeds, redemption proceeds, sale asset proceeds, sales proceeds and non pro-rata partial principal payments*—(A) *Form to be used.* Trust sales proceeds, redemption asset proceeds, redemption proceeds, sale asset proceeds, sales proceeds, and non pro-rata partial principal payments are to be reported on the same type of Form 1099 as that required for reporting gross proceeds under section 6045.
 
 (B) *Appropriate reporting for in-kind redemptions.* The value of the assets distributed with respect to an in-kind redemption is not required to be reported to the IRS. Unless paragraph (c)(2)(v)(C) of this section applies, the trustee or middleman must report the gross income attributable to the redeemed trust interest for the calendar year up to the date of the redemption under paragraph (d)(2)(ii)(C) of this section.
 
-(e) *Requirement to furnish a written tax information statement to the TIH* - (1) *In general.* Every trustee or middleman required to file appropriate Forms 1099 under paragraph (d) of this section with respect to a TIH must furnish to that TIH (the person whose identifying number is required to be shown on the form) a written tax information statement showing the information described in paragraph (e)(2) of this section. The amount of a trust item reported to a TIH under this paragraph (e) must be consistent with the information reported to the IRS with respect to the TIH under paragraph (d) of this section. Information provided in this written statement must be determined in accordance with the rules provided in paragraph (d)(2)(i) of this section (regardless of whether the information was required to be provided on a Form 1099). Further, the trustee or middleman must separately state on the written tax information statement any items that, if taken into account separately by that TIH, would result in an income tax liability that is different from the income tax liability that would result if the items were not taken into account separately.
+(e) *Requirement to furnish a written tax information statement to the TIH*—(1) *In general.* Every trustee or middleman required to file appropriate Forms 1099 under paragraph (d) of this section with respect to a TIH must furnish to that TIH (the person whose identifying number is required to be shown on the form) a written tax information statement showing the information described in paragraph (e)(2) of this section. The amount of a trust item reported to a TIH under this paragraph (e) must be consistent with the information reported to the IRS with respect to the TIH under paragraph (d) of this section. Information provided in this written statement must be determined in accordance with the rules provided in paragraph (d)(2)(i) of this section (regardless of whether the information was required to be provided on a Form 1099). Further, the trustee or middleman must separately state on the written tax information statement any items that, if taken into account separately by that TIH, would result in an income tax liability that is different from the income tax liability that would result if the items were not taken into account separately.
 
 (2) *Information required.* For the calendar year, the written tax information statement must meet the following requirements:
 
@@ -401,7 +400,7 @@
 
 (iv) *Non pro-rata partial principal payments.* The written tax information statement must include the information required to be reported to the IRS on Forms 1099 under paragraph (d)(2)(ii)(D) of this section (regarding the non pro-rata partial principal payments that are attributable (or distributed, in the case of a trustee or middleman reporting under paragraph (f)(2)(iii) of this section) to the TIH for the calendar year).
 
-(v) *Asset sales and dispositions* - (A) *General rule.* Unless paragraph (c)(2)(iv)(B) (regarding the exception for certain NMWHFITs) or (c)(2)(iv)(C) (regarding the exception for certain WHMTs) of this section applies, the written tax information statement must include, with respect to each sale or disposition of a WHFIT asset for the calendar year -
+(v) *Asset sales and dispositions*—(A) *General rule.* Unless paragraph (c)(2)(iv)(B) (regarding the exception for certain NMWHFITs) or (c)(2)(iv)(C) (regarding the exception for certain WHMTs) of this section applies, the written tax information statement must include, with respect to each sale or disposition of a WHFIT asset for the calendar year—
 
 (*1*) The date of sale or disposition;
 
@@ -423,29 +422,29 @@
 
 (4) *Requirement to retain records.* For a period of no less than five years from the due date for furnishing the written tax information statement, a trustee or middleman must maintain in its records a copy of any written tax information statement furnished to a TIH, and such supplemental data as may be required to establish the correctness of the statement.
 
-(f) *Safe harbor for providing information for certain NMWHFITs* - (1) *Safe harbor for trustee reporting of NMWHFIT information.* The trustee of a NMWHFIT that meets the requirements of paragraph (f)(1)(i) of this section is deemed to satisfy paragraph (c)(1)(i) of this section, if the trustee calculates and provides WHFIT information in the manner described in this paragraph (f) and provides a statement to a requesting person giving notice that information has been calculated in accordance with this paragraph (f)(1).
+(f) *Safe harbor for providing information for certain NMWHFITs*—(1) *Safe harbor for trustee reporting of NMWHFIT information.* The trustee of a NMWHFIT that meets the requirements of paragraph (f)(1)(i) of this section is deemed to satisfy paragraph (c)(1)(i) of this section, if the trustee calculates and provides WHFIT information in the manner described in this paragraph (f) and provides a statement to a requesting person giving notice that information has been calculated in accordance with this paragraph (f)(1).
 
-(i) *In general* - (A) *Eligibility to report under this safe harbor.* Only NMWHFITs that meet the requirements set forth in paragraphs (f)(1)(i)(A)(*1*) and (*2*) of this section may report under this safe harbor. For purposes of determining whether the requirements of paragraph (f)(1)(i)(A)(*1*) of this section are met, trust sales proceeds and gross proceeds from sales described in paragraphs (c)(2)(iv)(G) and (H) of this section are ignored.
+(i) *In general*—(A) *Eligibility to report under this safe harbor.* Only NMWHFITs that meet the requirements set forth in paragraphs (f)(1)(i)(A)(*1*) and (*2*) of this section may report under this safe harbor. For purposes of determining whether the requirements of paragraph (f)(1)(i)(A)(*1*) of this section are met, trust sales proceeds and gross proceeds from sales described in paragraphs (c)(2)(iv)(G) and (H) of this section are ignored.
 
 (*1*) Substantially all of the NMWHFIT's income is from dividends or interest; and
 
 (*2*) All trust interests have identical value and rights.
 
-(B) *Consistency requirements.* The trustee must -
+(B) *Consistency requirements.* The trustee must—
 
 (*1*) Calculate all trust items subject to the safe harbor consistent with the safe harbor; and, (*2*) Report under this paragraph (f)(1) for the life of the NMWHFIT; or, if the NMWHFIT has a start-up date before January 1, 2007, the NMWHFIT must begin reporting under this paragraph (f)(1) as of January 1, 2007 and must continue to report under this paragraph for the life of the NMWHFIT.
 
 (ii) *Reporting NMWHFIT income and expenses.* A trustee must first determine the total amount of NMWHFIT distributions (both actual and deemed) for the calendar year and then express each income or expense item as a fraction of the total amount of NMWHFIT distributions. These fractions (hereinafter referred to as factors) must be accurate to at least four decimal places.
 
-(A) *Step One: Determine the total amount of NMWHFIT distributions for the calendar year.* The trustee must determine the total amount of NMWHFIT distributions (actual and deemed) for the calendar year. If the calculation of the total amount of NMWHFIT distributions under this paragraph (f)(1)(ii)(A) results in a zero or a negative number, the trustee may not determine income and expense information under this paragraph (f)(1)(ii)(A) (but may report all other applicable items under this paragraph (f)(1)). The total amount of NMWHFIT distributions equals the amount of NMWHFIT funds paid out to all TIHs (including all trust sales proceeds, all principal receipts, and all redemption proceeds) for the calendar year -
+(A) *Step One: Determine the total amount of NMWHFIT distributions for the calendar year.* The trustee must determine the total amount of NMWHFIT distributions (actual and deemed) for the calendar year. If the calculation of the total amount of NMWHFIT distributions under this paragraph (f)(1)(ii)(A) results in a zero or a negative number, the trustee may not determine income and expense information under this paragraph (f)(1)(ii)(A) (but may report all other applicable items under this paragraph (f)(1)). The total amount of NMWHFIT distributions equals the amount of NMWHFIT funds paid out to all TIHs (including all trust sales proceeds, all principal receipts, and all redemption proceeds) for the calendar year—
 
-(*1*) Increased by -
+(*1*) Increased by—
 
 (*i*) All amounts that would have been distributed during the calendar year, but were instead reinvested pursuant to a reinvestment plan; and
 
 (*ii*) All cash held for distribution to TIHs as of December 31 of the year for which the trustee is reporting; and
 
-(*2*) Decreased by -
+(*2*) Decreased by—
 
 (*i*) All cash distributed during the current year that was included in a year-end cash allocation factor (see paragraph (f)(1)(ii)(C)(*1*) of this section) for a prior year;
 
@@ -471,7 +470,7 @@
 
 (iii) *Reporting non pro-rata partial principal payments under the safe harbor.* The trustee must provide a list of dates on which non pro-rata partial principal payments were distributed by the trust, and the amount distributed, per trust interest.
 
-(iv) *Reporting sales and dispositions of NMWHFIT assets under the safe harbor* - (A) *NMWHFITs that must report under the general rule* - (*1*) *In general.* If a NMWHFIT must report under the general rule of paragraph (c)(2)(iv)(A) of this section, the trustee must provide a list of dates (from earliest to latest) on which sales or dispositions of NMWHFIT assets occurred during the calendar year for which the trustee is reporting and, for each date identified, provide -
+(iv) *Reporting sales and dispositions of NMWHFIT assets under the safe harbor*—(A) *NMWHFITs that must report under the general rule*—(*1*) *In general.* If a NMWHFIT must report under the general rule of paragraph (c)(2)(iv)(A) of this section, the trustee must provide a list of dates (from earliest to latest) on which sales or dispositions of NMWHFIT assets occurred during the calendar year for which the trustee is reporting and, for each date identified, provide—
 
 (*i*) The trust sales proceeds received by the trust, per trust interest, with respect to the sales and dispositions, on that date;
 
@@ -479,7 +478,7 @@
 
 (*iii*) The ratio (expressed as a percentage) of the assets sold or disposed of on that date to all assets held by the NMWHFIT.
 
-(*2*) *Determination of the portion of all assets held by the NMWHFIT that the assets sold or disposed of represented* -
+(*2*) *Determination of the portion of all assets held by the NMWHFIT that the assets sold or disposed of represented*—
 
 (*i*) If a NMWHFIT terminates within twenty-four months of its start-up date, the ratio of the assets sold or disposed of on that date to all assets held by the NMWHFIT is based on the fair market value of the NMWHFIT's assets as of the start-up date; or
 
@@ -487,7 +486,7 @@
 
 (B) *NMWHFITs excepted from the general rule.* If paragraph (c)(2)(iv)(B) of this section applies to the NMWHFIT, the trustee must provide a list of dates on which trust sales proceeds were distributed, and the amount of trust sales proceeds, per trust interest, that were distributed on that date. The trustee also must also provide requesting persons with the statement required by paragraph (c)(2)(iv)(B) of this section.
 
-(v) *Reporting redemptions under the safe harbor* - (A) *In general.* The trustee must:
+(v) *Reporting redemptions under the safe harbor*—(A) *In general.* The trustee must:
 
 (*1*) Provide a list of dates on which the amount of redemption proceeds paid for the redemption of a trust interest was determined and the amount of the redemption asset proceeds determined per trust interest on that date, or if paragraph (c)(2)(v)(C) of this section applies to the NMWHFIT, the amount of redemption proceeds determined on that date; or
 
@@ -499,7 +498,7 @@
 
 (vii) *Reporting OID information under the safe harbor.* The trustee must provide, for each calculation period, the average aggregate daily accrual of OID per $1,000 of original principal amount.
 
-(viii) *Reporting market discount information under the safe harbor* - (A) *In general* - (*1*) *Trustee required to provide market discount information.* If the trustee is required to provide information regarding market discount under paragraph (c)(2)(vii) of this section, the trustee must provide -
+(viii) *Reporting market discount information under the safe harbor*—(A) *In general*—(*1*) *Trustee required to provide market discount information.* If the trustee is required to provide information regarding market discount under paragraph (c)(2)(vii) of this section, the trustee must provide—
 
 (*i*) The information required to be provided under paragraph (f)(1)(iv)(A)(*1*)(*iii*) of this section; and
 
@@ -513,19 +512,19 @@
 
 (x) *Reporting additional information.* If a requesting person cannot use the information provided by the trustee under paragraphs (f)(1)(ii) through (ix) of this section to determine with reasonable accuracy the trust items that are attributable to a TIH, the requesting person must request, and the trustee must provide, additional information to enable the requesting person to determine the trust items that are attributable to the TIH. See, for example, paragraph (f)(2)(ii)(A)(*4*) of this section which requires a middleman to request additional information from the trustee when the total amount of WHFIT distributions attributable to a TIH equals zero or less.
 
-(2) *Use of information provided by trustees under the safe harbor for NMWHFITs* - (i) *In general.* If a trustee reports NMWHFIT items in accordance with paragraph (f)(1) of this section, the information provided with respect to those items on the Forms 1099 required under paragraph (d) of this section to be filed with the IRS and on the statement required under paragraph (e) of this section to be furnished to the TIH must be determined as provided in this paragraph (f)(2).
+(2) *Use of information provided by trustees under the safe harbor for NMWHFITs*—(i) *In general.* If a trustee reports NMWHFIT items in accordance with paragraph (f)(1) of this section, the information provided with respect to those items on the Forms 1099 required under paragraph (d) of this section to be filed with the IRS and on the statement required under paragraph (e) of this section to be furnished to the TIH must be determined as provided in this paragraph (f)(2).
 
-(ii) *Determining NMWHFIT income and expense under the safe harbor.* The trustee or middleman must determine the amount of each item of income and expense attributable to a TIH as follows -
+(ii) *Determining NMWHFIT income and expense under the safe harbor.* The trustee or middleman must determine the amount of each item of income and expense attributable to a TIH as follows—
 
-(A) *Step One: Determine the total amount of NMWHFIT distributions attributable to the TIH.* To determine the total amount of NMWHFIT distributions attributable to a TIH for the calendar year, the total amount paid to, or credited to the account of, the TIH during the calendar year (including amounts paid as trust sales proceeds or partial non-pro rata principal payments, redemption proceeds, and sales proceeds) is -
+(A) *Step One: Determine the total amount of NMWHFIT distributions attributable to the TIH.* To determine the total amount of NMWHFIT distributions attributable to a TIH for the calendar year, the total amount paid to, or credited to the account of, the TIH during the calendar year (including amounts paid as trust sales proceeds or partial non-pro rata principal payments, redemption proceeds, and sales proceeds) is—
 
-(*1*) Increased by -
+(*1*) Increased by—
 
 (*i*) All amounts that would have been distributed during the calendar year to the TIH, but that were reinvested pursuant to a reinvestment plan (unless another person (for example, the custodian of the reinvestment plan) is responsible for reporting these amounts under paragraph (d) of this section); and
 
 (*ii*) An amount equal to the current year-end cash allocation factor (provided by the trustee in accordance with paragraph (f)(1)(ii)(C)(*1*) of this section) multiplied by the number of trust interests held by the TIH as of December 31 of the calendar year for which the trustee is reporting; and
 
-(*2*) Decreased by -
+(*2*) Decreased by—
 
 (*i*) An amount equal to the prior year cash allocation factor (provided by the trustee in accordance with paragraph (f)(1)(ii)(C)(*2*) of this section) multiplied by the number of trust interests held by the TIH on the date of the distribution;
 
@@ -543,7 +542,7 @@
 
 (*4*) *The total amount of distributions attributable to a TIH calculated under this paragraph (f)(2)(i)(A) equals zero or less.* If the total amount of distributions attributable to a TIH, calculated under this paragraph (f)(2)(i)(A), equals zero or less, the trustee or middleman may not report the income and expense attributable to the TIH under this paragraph (f)(2)(i). The trustee or middleman must request additional information from the trustee of the NMWHFIT to enable the trustee or middleman to determine with reasonable accuracy the items of income and expense that are attributable to the TIH. The trustee or middleman must report the other items subject to paragraph (f)(1) of this section in accordance with this paragraph (f)(2).
 
-(B) *Step Two: Apply the factors provided by the trustee to determine the items of income and expense that are attributable to the TIH.* The amount of each item of income (other than OID) and each item of expense attributable to a TIH is determined as follows -
+(B) *Step Two: Apply the factors provided by the trustee to determine the items of income and expense that are attributable to the TIH.* The amount of each item of income (other than OID) and each item of expense attributable to a TIH is determined as follows—
 
 (*1*) *Application of income factors.* For each income factor, the trustee or middleman must multiply the income factor by the total amount of NMWHFIT distributions attributable to the TIH for the calendar year (as determined in paragraph (f)(2)(i)(A) of this section).
 
@@ -551,11 +550,11 @@
 
 (iii) *Reporting non pro-rata partial principal payments under the safe harbor.* To determine the amount of non pro-rata partial principal payments that are distributed to a TIH for the calendar year, the trustee or middleman must aggregate the amount of non pro-rata partial principal payments distributed to a TIH for each day that non pro-rata principal payments were distributed. To determine the amount of non pro-rata principal payments that are distributed to a TIH on each distribution date, the trustee or middleman must multiply the amount of non-pro rata principal payments per trust interest distributed on that date by the number of trust interests held by the TIH.
 
-(iv) *Reporting sales and dispositions of NMWHFIT assets under the safe harbor - (A) Reporting under the safe harbor if the general rules apply to the NMWHFIT.* Unless paragraph (c)(2)(iv)(B) of this section applies, the trustee or middleman must comply with paragraphs (f)(2)(iv)(A)(*1*), (*2*), and (*3*) of this section.
+(iv) *Reporting sales and dispositions of NMWHFIT assets under the safe harbor—(A) Reporting under the safe harbor if the general rules apply to the NMWHFIT.* Unless paragraph (c)(2)(iv)(B) of this section applies, the trustee or middleman must comply with paragraphs (f)(2)(iv)(A)(*1*), (*2*), and (*3*) of this section.
 
 (*1*) *Form 1099.* The trustee or middleman must report the amount of trust sales proceeds attributable to the TIH for the calendar year on Form 1099. To determine the amount of trust sales proceeds attributable to a TIH for the calendar year, the trustee or middleman must aggregate the total amount of trust sales proceeds attributable to the TIH for each date on which the NMWHFIT sold or disposed of an asset or assets. To determine the total amount of trust sales proceeds attributable to a TIH for each date that the NMWHFIT sold or disposed of an asset or assets, the trustee or middleman multiplies the amount of trust sales proceeds received by the NMWHFIT per trust interest on that date by the number of trust interests held by the TIH on that date.
 
-(*2*) *The written tax information statement furnished to the TIH.* The written tax information statement required to be furnished to the TIH under paragraph (e) of this section must include a list of dates (in order, from earliest to latest) on which sales or dispositions of trust assets occurred during the calendar year and provide, for each date identified -
+(*2*) *The written tax information statement furnished to the TIH.* The written tax information statement required to be furnished to the TIH under paragraph (e) of this section must include a list of dates (in order, from earliest to latest) on which sales or dispositions of trust assets occurred during the calendar year and provide, for each date identified—
 
 (i) The trust sales proceeds received by the trust, per trust interest, with respect to the sales or dispositions of trust assets on that date; and
 
@@ -565,23 +564,23 @@
 
 (B) *Reporting under the safe harbor if paragraph (c)(2)(iv)(B) of this section applies to the NMWHFIT.* If paragraph (c)(2)(iv)(B) of this section applies, the trustee or middleman must calculate, in the manner provided in paragraph (f)(2)(iv)(A)(*3*) of this section, the amount of trust sales proceeds distributed to the TIH for the calendar year. The trustee or middleman must report this amount on the Form 1099 filed for the TIH and on the written tax information statement furnished to the TIH.
 
-(v) *Reporting redemptions under the safe harbor* - (A) Except as provided in paragraph (f)(2)(v)(B) or (C) of this section, if the trustee has provided a list of dates for which the amount of the redemption proceeds to be paid for the redemption of a trust interest was determined and the redemption asset proceeds paid for that date, the trustee or middleman must multiply the redemption asset proceeds determined per trust interest for that date by the number of trust interests redeemed by the TIH on that date.
+(v) *Reporting redemptions under the safe harbor*—(A) Except as provided in paragraph (f)(2)(v)(B) or (C) of this section, if the trustee has provided a list of dates for which the amount of the redemption proceeds to be paid for the redemption of a trust interest was determined and the redemption asset proceeds paid for that date, the trustee or middleman must multiply the redemption asset proceeds determined per trust interest for that date by the number of trust interests redeemed by the TIH on that date.
 
 (B) If paragraph (c)(2)(v)(C) of this section applies, and the trustee has provided a list of dates for which the amount of the redemption proceeds to be paid for the redemption of a trust interest was determined and the redemption proceeds determined per trust interest on each date, the trustee or middleman must multiply the redemption proceeds per trust interest for each date by the number of trust interests redeemed by the TIH on that date.
 
 (C) If the trustee has provided the requesting person with information regarding the redemption asset proceeds paid for each redemption of a trust interest held by the middleman for the calendar year, or if paragraph (c)(2)(v)(C) of this section applies and the trustee has provided the amount of redemption proceeds paid for each redemption of a trust interest held by the middleman during the calendar year, the requesting person may use this information to determine the amount of the redemption asset proceeds or redemption proceeds paid to the TIH for the calendar year.
 
-(vi) *Reporting sales of trust interests under the safe harbor* - (A) Except as provided in paragraph (f)(2)(vi)(B) of this section, the trustee or middleman must subtract the amount of cash held for distribution per trust interest on the date of the sale from the sales proceeds paid to the TIH to determine the sale asset proceeds that are to be reported to the TIH for each sale of a trust interest.
+(vi) *Reporting sales of trust interests under the safe harbor*—(A) Except as provided in paragraph (f)(2)(vi)(B) of this section, the trustee or middleman must subtract the amount of cash held for distribution per trust interest on the date of the sale from the sales proceeds paid to the TIH to determine the sale asset proceeds that are to be reported to the TIH for each sale of a trust interest.
 
 (B) If paragraph (c)(2)(v)(C) of this section applies, the trustee or middleman must report the sales proceeds paid to the TIH as a result of each sale of a trust interest.
 
-(vii) *Reporting OID information under the safe harbor* - The trustee or middleman must aggregate the amounts of OID that are allocable to each trust interest held by a TIH for each calculation period. The amount of OID that is allocable to a trust interest, with respect to each calculation period, is determined by multiplying -
+(vii) *Reporting OID information under the safe harbor*—The trustee or middleman must aggregate the amounts of OID that are allocable to each trust interest held by a TIH for each calculation period. The amount of OID that is allocable to a trust interest, with respect to each calculation period, is determined by multiplying—
 
 (A) The product of the OID factor and the original principal balance of the trust interest, divided by 1,000; by
 
 (B) The number of days during the OID calculation period in that calendar year that the TIH held the trust interest.
 
-(viii) *Reporting market discount information under the safe harbor* - (A) Except as provided in paragraph (f)(2)(viii)(B) of this section, the trustee or middleman must provide the TIH with the information provided under paragraph (f)(1)(viii) of this section.
+(viii) *Reporting market discount information under the safe harbor*—(A) Except as provided in paragraph (f)(2)(viii)(B) of this section, the trustee or middleman must provide the TIH with the information provided under paragraph (f)(1)(viii) of this section.
 
 (B) If paragraph (c)(2)(iv)(B) of this section applies, the trustee and middleman are not required under this paragraph (f)(2) to provide any information regarding market discount.
 
@@ -589,11 +588,11 @@
 
 (3) *Example of the use of the safe harbor for NMWHFITs.* The following example illustrates the use of the factors in this paragraph (f) to calculate and provide NMWHFIT information:
 
-Example.(i) *Facts* - (A) *In general* - (*1*) Trust is a NMWHFIT that holds common stock in ten different corporations and has 100 trust interests outstanding. The start-up date for Trust is December 15, 2006, and Trust's registration statement under the Securities Act of 1933 became effective after July 31, 2006. Trust terminates on March 15, 2008. The agreement governing Trust requires Trust to distribute cash held by Trust reduced by accrued but unpaid expenses on April 15, July 15, and October 15 of the 2007 calendar year. The agreement also provides that the trust interests will be redeemed by the Trust for an amount equal to the value of the trust interest, as of the close of business, on the day the trust interest is tendered for redemption. There is no reinvestment plan. A secondary market for interests in Trust will be created by Trust's sponsor and Trust's sponsor will provide Trustee with a list of dates on which sales occurred on this secondary market.
+Example.(i) *Facts*—(A) *In general*—(*1*) Trust is a NMWHFIT that holds common stock in ten different corporations and has 100 trust interests outstanding. The start-up date for Trust is December 15, 2006, and Trust's registration statement under the Securities Act of 1933 became effective after July 31, 2006. Trust terminates on March 15, 2008. The agreement governing Trust requires Trust to distribute cash held by Trust reduced by accrued but unpaid expenses on April 15, July 15, and October 15 of the 2007 calendar year. The agreement also provides that the trust interests will be redeemed by the Trust for an amount equal to the value of the trust interest, as of the close of business, on the day the trust interest is tendered for redemption. There is no reinvestment plan. A secondary market for interests in Trust will be created by Trust's sponsor and Trust's sponsor will provide Trustee with a list of dates on which sales occurred on this secondary market.
 
 (*2*) As of December 31, 2006, Trust holds $12x for distribution to TIHs on the next distribution date and has no accrued but unpaid expenses. Trustee includes the $12x in determining the year-end cash allocation factor for December 31, 2006.
 
-(B) *Events occurring during the 2007 calendar year* - (*1*) As of January 1, 2007, Broker1 holds ten trust interests in Trust in street name for each of *J* and *A* and Broker2 holds ten trust interests in Trust in street name for *S. J, A*, and *S*; are individual, cash method taxpayers.
+(B) *Events occurring during the 2007 calendar year*—(*1*) As of January 1, 2007, Broker1 holds ten trust interests in Trust in street name for each of *J* and *A* and Broker2 holds ten trust interests in Trust in street name for *S. J, A*, and *S*; are individual, cash method taxpayers.
 
 (*2*) As of January 1, 2007, the fair market value of the Trust's assets equals $10,000x.
 
@@ -615,12 +614,12 @@ Example.(i) *Facts* - (A) *In general* - (*1*) Trust is a NMWHFIT that holds com
 
 (*11*) As of December 31, 2007, Trust holds cash of $173x and has incurred $15x in expenses that Trust has not paid. *J* is the only TIH to redeem a trust interest during the calendar year. The sale of two trust interests in Trust by *J* to *S* are the only sales that occurred on the secondary market established by Trust's sponsor during 2007.
 
-(ii) *Trustee reporting* - (A) *Summary of information provided by Trustee.* Trustee meets the requirements of paragraph (f)(1) of this section if Trustee provides the following information to requesting persons:
+(ii) *Trustee reporting*—(A) *Summary of information provided by Trustee.* Trustee meets the requirements of paragraph (f)(1) of this section if Trustee provides the following information to requesting persons:
 
 (*1*) Income and expense information:
 
 |  Factor for ordinary dividend income  | 0.3481 |
-|:--------------------------------------|:-------|
+|---------------------------------------|--------|
 | Factor for qualified dividend income  | 0.7407 |
 |      Factor for interest income       | 0.0222 |
 |     Factor for affected expenses      | 0.0833 |
@@ -650,7 +649,7 @@ Example.(i) *Facts* - (A) *In general* - (*1*) Trust is a NMWHFIT that holds com
 
 (B) *Trustee determines this information as follows:*
 
-(1) *Step One: Trustee determines the total amount of NMWHFIT distributions for the calendar year.* The total amount of NMWHFIT distributions (actual and deemed) for the calendar year for purposes of determining the safe harbor factors is $540x. This amount consists of the amounts paid on each scheduled distribution date during the calendar year ($1135x, $135x, and $123x), plus the total amount paid to *J* as a result of *J*'s redemption of a trust interest ($116x) ($1,135x + $135x + $123x + $116x = $1,509x) -
+(1) *Step One: Trustee determines the total amount of NMWHFIT distributions for the calendar year.* The total amount of NMWHFIT distributions (actual and deemed) for the calendar year for purposes of determining the safe harbor factors is $540x. This amount consists of the amounts paid on each scheduled distribution date during the calendar year ($1135x, $135x, and $123x), plus the total amount paid to *J* as a result of *J*'s redemption of a trust interest ($116x) ($1,135x + $135x + $123x + $116x = $1,509x)—
 
 (*i*) Increased by all cash held for distribution to TIHs as of December 31, 2007 ($158x), which is the cash held as of December 31, 2007 ($173x) reduced by the accrued but unpaid expenses as of December 31, 2007 ($15x), and
 
@@ -672,7 +671,7 @@ Example.(i) *Facts* - (A) *In general* - (*1*) Trust is a NMWHFIT that holds com
 
 (*ii*) *Prior Year Cash Allocation Factor.* The adjustment factor for distributions of year-end cash from the prior year is 0.1200, which represents the amount of the distribution during the current calendar year that was included in a year-end cash allocation factor for a prior year ($12x), divided by the number of trust interests outstanding at the time of the distribution (100). The prior year cash distribution date is April 15, 2007.
 
-(*4*) *Reporting sales and dispositions of trust assets* - (*i*) *Application of the de minimis test.* The aggregate fair market value of the assets of Trust as of January 1, 2007, was $10,000x. During the 2007 calendar year, Trust received trust sales proceeds of $1115x. The trust sales proceeds received by Trust for the 2007 calendar year equal 11.15% of Trust's fair market value as of January 1, 2007. Accordingly, the *de minimis* test is not satisfied for the 2007 calendar year. The qualified NMWHFIT exception in paragraph (c)(2)(iv)(E) of this section and the NMWHFIT final calendar year exception in (c)(2)(iv)(F) of this section also do not apply to Trust for the 2007 calendar year.
+(*4*) *Reporting sales and dispositions of trust assets*—(*i*) *Application of the de minimis test.* The aggregate fair market value of the assets of Trust as of January 1, 2007, was $10,000x. During the 2007 calendar year, Trust received trust sales proceeds of $1115x. The trust sales proceeds received by Trust for the 2007 calendar year equal 11.15% of Trust's fair market value as of January 1, 2007. Accordingly, the *de minimis* test is not satisfied for the 2007 calendar year. The qualified NMWHFIT exception in paragraph (c)(2)(iv)(E) of this section and the NMWHFIT final calendar year exception in (c)(2)(iv)(F) of this section also do not apply to Trust for the 2007 calendar year.
 
 (*ii*) *Information to be provided.* To satisfy the requirements of paragraph (f)(1) of this section with respect to sales and dispositions of Trust's assets, Trustee provides a list of dates on which trust assets were sold during the calendar year, and provides, for each date: the trust sales proceeds (per trust interest) received on that date; the trust sales proceeds distributed to TIHs (per trust interest) with respect to sales or dispositions on that date; the date those trust sales proceeds were distributed, and the ratio of the assets sold or disposed of on that day to all the assets held by Trust. Because Trust will terminate within 15 months of its start-up date, Trustee must use the fair market value of the assets as of the start-up date to determine the portion of Trust sold or disposed of on any particular date.
 
@@ -680,10 +679,10 @@ Example.(i) *Facts* - (A) *In general* - (*1*) Trust is a NMWHFIT that holds com
 
 (*6*) *Reporting sales of trust interests.* Because trust is not required to make distributions at least as frequently as monthly, and Trust does not satisfy the qualified NMWHFIT exception in paragraph (c)(2)(iv)(E) of this section, the exception in paragraph (c)(2)(v)(C) of this section does not apply to Trust. Sponsor, in accordance with the trust agreement, provides Trustee with a list of dates on which sales on the secondary market occurred. To satisfy the requirements of paragraph (f)(1) of this section, Trustee provides requesting persons with a list of dates on which sales on the secondary market occurred and the amount of cash held for distribution, per trust interest, on each date. The first sale during the 2007 calendar year occurred on September 30, 2007, and the amount of cash held for distribution, per trust interest, on that date is $1.35x. The second sale occurred on December 10, 2007, and the amount of cash held for distribution, per trust interest, on that date is $1.00x.
 
-(*iii*) *Brokers' use of information provided by Trustee.* (A) Broker1 and Broker2 use the information furnished by Trustee under the safe harbor to determine that the following items are attributable to J, A, and S -
+(*iii*) *Brokers' use of information provided by Trustee.* (A) Broker1 and Broker2 use the information furnished by Trustee under the safe harbor to determine that the following items are attributable to J, A, and S—
 
 |            With respect to J             |       |
-|:-----------------------------------------|------:|
+|------------------------------------------|-------|
 |         Ordinary Dividend Income         |$17.89x|
 |        Qualified Dividend Income         |38.07x |
 |             Interest Income              | 1.14x |
@@ -714,11 +713,11 @@ With respect to *J, A*, and *S* (regarding the sales and dispositions executed b
 |  June 15  |                      $10.0000x                       |         20          |
 |December 12|                       1.1616x                        |          2          |
 
-(*B*) The brokers determine the information provided to *J*, *A*, and *S* as follows -
+(*B*) The brokers determine the information provided to *J*, *A*, and *S* as follows—
 
 (*1*) *Step One: Brokers determine the total amount of NMWHFIT distributions attributable to J, A, and S.* Broker1 determines that the total amount of NMWHFIT distributions attributable to *J* is $51.39x and the total amount of NMWHFIT distributions attributable to *A* is $54.06x. Broker2 determines that the total amount of NMWHFIT distributions attributable to *S* is $56.13x.
 
-(*i*) To calculate these amounts the brokers begin by determining the total amount paid to *J, A*, and *S* for the calendar year -
+(*i*) To calculate these amounts the brokers begin by determining the total amount paid to *J, A*, and *S* for the calendar year—
 
 (*A*) The total amount paid to J for the calendar year equals $485.42x and includes the April 15, 2007, distribution of $13.50x, the July 15, 2007, distribution of $113.50x, the sales proceeds for the September 30, 2007, sale of $115.35x, the October 15, 2007, distribution of $11.07x, and the redemption proceeds of $116x and sales proceeds of $116x for the redemption and sale on December 10, 2007.
 
@@ -728,7 +727,7 @@ With respect to *J, A*, and *S* (regarding the sales and dispositions executed b
 
 (*ii*) The brokers increase the total amount paid to *J, A*, and *S* by an amount equal to the current year-end cash allocation factor (1.5960) multiplied by the number of trust interests held by *J* (7), *A* (10), and *S* (12) as of December 31, 2007; that is for *J*, $11.17x; for *A*, $15.96x; and for *S*, $19.15x.
 
-(*iii*) The brokers reduce the amount paid to *J, A*, and *S* as follows -
+(*iii*) The brokers reduce the amount paid to *J, A*, and *S* as follows—
 
 (*A*) An amount equal to the prior year cash allocation factor (0.1200), multiplied by the number of trust interests held by *J* (10), *A* (10), and *S* (10) on the date of the prior year cash distribution; that is for *J, A*, and *S*, $1.20x, each;
 
@@ -750,23 +749,23 @@ With respect to *J, A*, and *S* (regarding the sales and dispositions executed b
 
 (*iv*) *Application of factor for affected expenses.* The amount of affected expenses attributable to *J* is $4.28x, to *A* is $4.50x, and to *S* is $4.68x. The brokers determine these amounts by multiplying the total amount of NMWHFIT distributions attributable to *J*, *A*, and *S* ($51.39x, $54.06x, and $56.13x, respectively) by the factor for affected expenses (0.0833).
 
-(*3*) *Brokers reporting of sales and dispositions of trust assets* - (*i*) *Determining the amount of trust sales proceeds to be reported on Form 1099 for J, A, and S.* The amount of trust sales proceeds to be reported on Form 1099 with respect to *J* is $108.13x, to *A* is $111.62x, and to *S* is $113.94x. To determine these amounts, the brokers aggregate the amount of trust sales proceeds attributable to *J*, *A*, and *S* for each date on which Trust sold or disposed of assets. The brokers determine the amount of trust sales proceeds to be reported with respect to the June 15, 2007, asset sale by multiplying the number of trust interests held by *J* (10), *A* (10) and *S* (10) on that date by the trust sales proceeds received per trust interest on that date ($10x). The brokers determine the amount of trust sales proceeds to be reported with respect to the December 12, 2007, asset sale by multiplying the number of trust interests held by *J* (7), *A* (10) and *S* (12) on that date by the trust sales proceeds received per trust interest on that date ($1.1616x).
+(*3*) *Brokers reporting of sales and dispositions of trust assets*—(*i*) *Determining the amount of trust sales proceeds to be reported on Form 1099 for J, A, and S.* The amount of trust sales proceeds to be reported on Form 1099 with respect to *J* is $108.13x, to *A* is $111.62x, and to *S* is $113.94x. To determine these amounts, the brokers aggregate the amount of trust sales proceeds attributable to *J*, *A*, and *S* for each date on which Trust sold or disposed of assets. The brokers determine the amount of trust sales proceeds to be reported with respect to the June 15, 2007, asset sale by multiplying the number of trust interests held by *J* (10), *A* (10) and *S* (10) on that date by the trust sales proceeds received per trust interest on that date ($10x). The brokers determine the amount of trust sales proceeds to be reported with respect to the December 12, 2007, asset sale by multiplying the number of trust interests held by *J* (7), *A* (10) and *S* (12) on that date by the trust sales proceeds received per trust interest on that date ($1.1616x).
 
 (*ii*) *Information provided on the tax information statements furnished to J, A, and S.* The tax information statements furnished to *J*, *A*, and *S* must include the dates of each sale or disposition (June 15, 2007, and December 12, 2007); the amount of trust sales proceeds per trust interest received on those dates ($10.00x and $1.1616x, respectively); and, the percentage of Trust sold or disposed of on that date (20% and 2%, respectively).
 
 (*4*) *Reporting redemptions.* Broker1 reports on Form 1099 and on the written tax information statement furnished to *J* that *J* received $115x in redemption asset proceeds for the calendar year.
 
-(*5*) *Reporting sales of trust interests on the secondary market.* Broker1 reports on *J*'s two sales of trust interests. With respect to the sale on September 30, 2007, the sale asset proceeds equals $114x ($115.35x sale proceeds - $1.35x cash held for distribution on that date) and with respect to the sale on December 10, 2007, the sale asset proceeds equal $115x ($116x sale proceeds - $1x cash held for distribution on that date). Broker1 reports these amounts on Form 1099 and on the tax information statement furnished to J.
+(*5*) *Reporting sales of trust interests on the secondary market.* Broker1 reports on *J*'s two sales of trust interests. With respect to the sale on September 30, 2007, the sale asset proceeds equals $114x ($115.35x sale proceeds—$1.35x cash held for distribution on that date) and with respect to the sale on December 10, 2007, the sale asset proceeds equal $115x ($116x sale proceeds—$1x cash held for distribution on that date). Broker1 reports these amounts on Form 1099 and on the tax information statement furnished to J.
 
-(g) *Safe Harbor for certain WHMTs* - (1) *Safe harbor for trustee of certain WHMTs for reporting information* - (i) *In general.* The trustee of a WHMT that meets the requirements of paragraph (g)(1)(ii) of this section is deemed to satisfy paragraph (c)(1)(i) of this section, if the trustee calculates and provides WHFIT information in the manner described in this paragraph (g) and provides a statement to the requesting person giving notice that information has been calculated in accordance with this paragraph (g)(1).
+(g) *Safe Harbor for certain WHMTs*—(1) *Safe harbor for trustee of certain WHMTs for reporting information*—(i) *In general.* The trustee of a WHMT that meets the requirements of paragraph (g)(1)(ii) of this section is deemed to satisfy paragraph (c)(1)(i) of this section, if the trustee calculates and provides WHFIT information in the manner described in this paragraph (g) and provides a statement to the requesting person giving notice that information has been calculated in accordance with this paragraph (g)(1).
 
-(*ii*) *Requirements.* A WHMT must meet the following requirements -
+(*ii*) *Requirements.* A WHMT must meet the following requirements—
 
 (A) The WHMT must make monthly distributions of the income and principal payments received by the WHMT to its TIHs;
 
 (B) All trust interests in the WHMT must represent the right to receive an equal pro-rata share of both the income and the principal payments received by the WHMT on the mortgages it holds (for example, a WHMT that holds or issues trust interests that qualify as stripped interests under section 1286 may not report under this safe harbor);
 
-(C) The WHMT must -
+(C) The WHMT must—
 
 (*1*) Report under this paragraph (g)(1)(ii) for the life of the WHMT; or
 
@@ -774,7 +773,7 @@ With respect to *J, A*, and *S* (regarding the sales and dispositions executed b
 
 (D) The WHMT must calculate all items subject to the safe harbor consistent with the safe harbor;
 
-(E) The assets of the WHMT must be limited to -
+(E) The assets of the WHMT must be limited to—
 
 (*1*) Mortgages with uniform characteristics;
 
@@ -786,25 +785,25 @@ With respect to *J, A*, and *S* (regarding the sales and dispositions executed b
 
 (iii) *Reporting WHMT income, expenses, non pro-rata partial principal payments, and sales and dispositions under the safe harbor.* A trustee must comply with each step provided in this paragraph (g)(1)(iii).
 
-(A) *Step One: Determine monthly pool factors.* The trustee must, for each month of the calendar year and for January of the following calendar year, calculate and provide the ratio (expressed as a decimal carried to at least eight places and called a *pool factor*) of -
+(A) *Step One: Determine monthly pool factors.* The trustee must, for each month of the calendar year and for January of the following calendar year, calculate and provide the ratio (expressed as a decimal carried to at least eight places and called a *pool factor*) of—
 
 (*1*) The amount of the aggregate outstanding principal balance of the WHMT as of the first business day of the month; to
 
 (*2*) The amount of the aggregate outstanding principal balance of the WHMT as of the start-up date.
 
-(B) *Step Two: Determine monthly expense factors.* For each month of the calendar year and for each item of expense paid by the WHMT during that month, the trustee must calculate and provide the ratio (expressed as a decimal carried to at least eight places and called an *expense factor*) of -
+(B) *Step Two: Determine monthly expense factors.* For each month of the calendar year and for each item of expense paid by the WHMT during that month, the trustee must calculate and provide the ratio (expressed as a decimal carried to at least eight places and called an *expense factor*) of—
 
 (*1*) The gross amount, for the month, of each item of expense; to
 
 (*2*) The amount that represents the aggregate outstanding principal balance of the WHMT as of the start-up date, divided by 1,000.
 
-(C) *Step Three: Determine monthly income factors.* For each month of the calendar year and for each item of gross income earned by the WHMT during that month, the trustee must calculate and provide the ratio (expressed as a decimal carried to at least eight places and called an *income factor*) of -
+(C) *Step Three: Determine monthly income factors.* For each month of the calendar year and for each item of gross income earned by the WHMT during that month, the trustee must calculate and provide the ratio (expressed as a decimal carried to at least eight places and called an *income factor*) of—
 
 (*1*) The gross amount, for the month, of each item of income, to
 
 (*2*) The amount that represents the aggregate outstanding principal balance of the WHMT as of the start-up date, divided by 1,000.
 
-(D) *Definition of aggregate outstanding principal balance.* For purposes of this paragraph (g)(1)(iii), the amount of the aggregate outstanding principal balance of a WHMT is the aggregate of -
+(D) *Definition of aggregate outstanding principal balance.* For purposes of this paragraph (g)(1)(iii), the amount of the aggregate outstanding principal balance of a WHMT is the aggregate of—
 
 (*1*) The outstanding principal balance of all mortgages held by the WHMT;
 
@@ -812,7 +811,7 @@ With respect to *J, A*, and *S* (regarding the sales and dispositions executed b
 
 (*3*) The amount of the reserve fund (exclusive of undistributed income).
 
-(iv) *Reporting OID information under the safe harbor - (A) Reporting OID prior to the issuance of final regulations under section 1272(a)(6)(C)(iii)* - (*1*) For calendar years prior to the effective date of final regulations under section 1272(a)(6)(C)(iii), the trustee must provide, for each month during the calendar year, the aggregate daily accrual of OID per $1,000 of aggregate outstanding principal balance as of the start-up date (daily portion). For purposes of this paragraph (g)(1)(iv), the daily portion of OID is determined by allocating to each day of the month its ratable portion of the excess (if any) of -
+(iv) *Reporting OID information under the safe harbor—(A) Reporting OID prior to the issuance of final regulations under section 1272(a)(6)(C)(iii)*—(*1*) For calendar years prior to the effective date of final regulations under section 1272(a)(6)(C)(iii), the trustee must provide, for each month during the calendar year, the aggregate daily accrual of OID per $1,000 of aggregate outstanding principal balance as of the start-up date (daily portion). For purposes of this paragraph (g)(1)(iv), the daily portion of OID is determined by allocating to each day of the month its ratable portion of the excess (if any) of—
 
 (*i*) The sum of the present value (determined under section 1272(a)(6)(B)) of all remaining payments under the mortgages held by the WHMT at the close of the month, and the payments during the month of amounts included in the stated redemption price of the mortgages, over
 
@@ -822,15 +821,15 @@ With respect to *J, A*, and *S* (regarding the sales and dispositions executed b
 
 (B) *Reporting OID after the issuance of final regulations under section 1272(a)(6)(C)(iii).* [Reserved]
 
-(v) *Reporting market discount information under the safe harbor - (A) Reporting market discount information prior to the issuance of final regulations under sections 1272(a)(6)(C)(iii) and 1276(b)(3).* For calendar years prior to the effective date of final regulations under sections 1272(a)(6)(C)(iii) and 1276(b)(3), the trustee must provide -
+(v) *Reporting market discount information under the safe harbor—(A) Reporting market discount information prior to the issuance of final regulations under sections 1272(a)(6)(C)(iii) and 1276(b)(3).* For calendar years prior to the effective date of final regulations under sections 1272(a)(6)(C)(iii) and 1276(b)(3), the trustee must provide—
 
-(*1*) In the case of a WHMT holding mortgages issued with OID, the ratio (expressed as a decimal carried to at least eight places) of -
+(*1*) In the case of a WHMT holding mortgages issued with OID, the ratio (expressed as a decimal carried to at least eight places) of—
 
 (*i*) The OID accrued during the month (calculated in accordance with paragraph (g)(1)(iv) of this section); to
 
 (*ii*) The total remaining OID as of the beginning of the month (as determined under paragraph (g)(1)(v)(A)(*3*) of this section); or
 
-(*2*) In the case of a WHMT holding mortgages issued without OID, the ratio (expressed as a decimal carried to at least eight places) of -
+(*2*) In the case of a WHMT holding mortgages issued without OID, the ratio (expressed as a decimal carried to at least eight places) of—
 
 (*i*) The amount of stated interest paid to the WHMT during the month; to
 
@@ -840,13 +839,13 @@ With respect to *J, A*, and *S* (regarding the sales and dispositions executed b
 
 (vi) *Reporting bond premium information under the safe harbor.* [Reserved]
 
-(2) *Use of information provided by a trustee under the safe harbor* - (i) *In general.* If a trustee reports WHMT items in accordance with paragraph (g)(1) of this section, the information provided with respect to those items on the Forms 1099 required to be filed with the IRS under paragraph (d) of this section and on the statement required to be furnished to the TIH under paragraph (e) of this section must be determined as provided in this paragraph (g)(2).
+(2) *Use of information provided by a trustee under the safe harbor*—(i) *In general.* If a trustee reports WHMT items in accordance with paragraph (g)(1) of this section, the information provided with respect to those items on the Forms 1099 required to be filed with the IRS under paragraph (d) of this section and on the statement required to be furnished to the TIH under paragraph (e) of this section must be determined as provided in this paragraph (g)(2).
 
 (ii) *Reporting WHMT income, expenses, non pro-rata partial principal payments, and sales and dispositions under the safe harbor.* The amount of each item of income, the amount of each item of expense, and the combined amount of non pro-rata partial principal payments and trust sales proceeds that are attributable to a TIH for each month of the calendar year must be computed as follows:
 
-(A) *Step One: Determine the aggregate of the non pro-rata partial principal payments and trust sales proceeds that are attributable to the TIH for the calendar year.* For each month of the calendar year that a trust interest was held on the record date -
+(A) *Step One: Determine the aggregate of the non pro-rata partial principal payments and trust sales proceeds that are attributable to the TIH for the calendar year.* For each month of the calendar year that a trust interest was held on the record date—
 
-(*1*) *Determine the monthly amounts per trust interest.* The trustee or middleman must determine the aggregate amount of non pro-rata partial principal payments and the trust sales proceeds that are attributable to each trust interest for each month by multiplying -
+(*1*) *Determine the monthly amounts per trust interest.* The trustee or middleman must determine the aggregate amount of non pro-rata partial principal payments and the trust sales proceeds that are attributable to each trust interest for each month by multiplying—
 
 (*i*) The original face amount of the trust interest; by
 
@@ -854,7 +853,7 @@ With respect to *J, A*, and *S* (regarding the sales and dispositions executed b
 
 (*2*) *Determine the amount for the calendar year.* The trustee or middleman must multiply the monthly amount per trust interest by the number of trust interests held by the TIH on the record date of each month. The trustee or middleman then must aggregate these monthly amounts, and report the aggregate amount on the Form 1099 filed with the IRS and on the tax information statement furnished to the TIH as trust sales proceeds. No other information is required to be reported to the IRS or the TIH to satisfy the requirements of paragraphs (d) and (e) of this section under this paragraph (g) with respect to sales and dispositions and non pro-rata partial principal payments.
 
-(B) *Step Two: Determine the amount of each item of expense that is attributable to a TIH* - (1) *Determine the monthly amounts per trust interest.* For each month of the calendar year that a trust interest was held on the record date, the trustee or middleman must determine the amount of each item of expense that is attributable to each trust interest by multiplying -
+(B) *Step Two: Determine the amount of each item of expense that is attributable to a TIH*—(1) *Determine the monthly amounts per trust interest.* For each month of the calendar year that a trust interest was held on the record date, the trustee or middleman must determine the amount of each item of expense that is attributable to each trust interest by multiplying—
 
 (*i*) The original face amount of the trust interest, divided by 1000; by
 
@@ -862,7 +861,7 @@ With respect to *J, A*, and *S* (regarding the sales and dispositions executed b
 
 (*2*) *Determine the amount for the calendar year.* The trustee or middleman must multiply the monthly amount of each item of expense per trust interest by the number of trust interests held by the TIH on the record date of each month. The trustee or middleman then must aggregate the monthly amounts for each item of expense to determine the total amount of each item of expense that is attributable to the TIH for the calendar year.
 
-(C) *Step Three: Determine the amount of each item of income that is attributable to the TIH for the calendar year* - (1) *Determine the monthly amounts per trust interest.* For each month of the calendar year that a trust interest was held on the record date, the trustee or middleman must determine the amount of each item of income that is attributable to each trust interest by multiplying -
+(C) *Step Three: Determine the amount of each item of income that is attributable to the TIH for the calendar year*—(1) *Determine the monthly amounts per trust interest.* For each month of the calendar year that a trust interest was held on the record date, the trustee or middleman must determine the amount of each item of income that is attributable to each trust interest by multiplying—
 
 (*i*) The original face amount of the trust interest, divided by 1,000; by
 
@@ -870,13 +869,13 @@ With respect to *J, A*, and *S* (regarding the sales and dispositions executed b
 
 (*2*) *Determine the amount for the calendar year.* The trustee or middleman must multiply the monthly amount of each item of income per trust interest by the number of trust interests held by the TIH on the record date of each month. The trustee or middleman then must aggregate the monthly amounts for each item of income to determine the total amount of each item of income that is attributable to the TIH for the calendar year.
 
-(D) *Definitions for this paragraph (g)(2).* For purposes of this paragraph (g)(2)(ii) -
+(D) *Definitions for this paragraph (g)(2).* For purposes of this paragraph (g)(2)(ii)—
 
 (*1*) The *record date* is the date used by the WHMT to determine the owner of the trust interest for the purpose of distributing the payment for the month.
 
 (*2*) The *original face amount of the trust interest* is the original principal amount of a trust interest on its issue date.
 
-(iii) *Reporting OID information under the safe harbor.* With respect to each month, trustee or middleman must determine the amount of OID that is attributable to each trust interest held by a TIH by multiplying -
+(iii) *Reporting OID information under the safe harbor.* With respect to each month, trustee or middleman must determine the amount of OID that is attributable to each trust interest held by a TIH by multiplying—
 
 (A) The product of the OID factor multiplied by the original face amount of the trust interest, divided by 1,000; by
 
@@ -888,7 +887,7 @@ With respect to *J, A*, and *S* (regarding the sales and dispositions executed b
 
 (3) *Example of safe harbor in paragraph (g)(1) of this section.* The following example illustrates the use of the factors in this paragraph (g) to calculate and provide WHMT information:
 
-Example.(i) *Facts* - (A) *In general. X* is a WHMT. *X*'s start-up date is January 1, 2007. As of that date, *X*'s assets consist of 100 15-year mortgages, each having an unpaid principal balance of $125,000 and a fixed, annual interest rate of 7.25 percent. None of the mortgages were issued with OID. *X*'s TIHs are entitled to monthly, pro-rata distributions of the principal payments received by *X. X*'s TIHs are also entitled to monthly, pro-rata distributions of the interest earned on the mortgages held by *X,* reduced by expenses. Trust interests are issued in increments of $5,000 with a $25,000 minimum. The prepayment assumption used in pricing the original issue of trust interests is six percent. Broker holds a trust interest in *X,* with an original face amount of $25,000, in street name, for *C* during the entire 2007 calendar year.
+Example.(i) *Facts*—(A) *In general. X* is a WHMT. *X*'s start-up date is January 1, 2007. As of that date, *X*'s assets consist of 100 15-year mortgages, each having an unpaid principal balance of $125,000 and a fixed, annual interest rate of 7.25 percent. None of the mortgages were issued with OID. *X*'s TIHs are entitled to monthly, pro-rata distributions of the principal payments received by *X. X*'s TIHs are also entitled to monthly, pro-rata distributions of the interest earned on the mortgages held by *X,* reduced by expenses. Trust interests are issued in increments of $5,000 with a $25,000 minimum. The prepayment assumption used in pricing the original issue of trust interests is six percent. Broker holds a trust interest in *X,* with an original face amount of $25,000, in street name, for *C* during the entire 2007 calendar year.
 
 (B) *Trust events during the 2007 calendar year.* During the 2007 calendar year, *X* collects all interest and principal payments when due and makes all monthly distributions when due. One mortgage is repurchased from *X* in July 2007 for $122,249, the mortgage's unpaid principal balance plus accrued, but unpaid, interest at the time. During November 2007, another mortgage is prepaid in full. *X* earns $80 interest income each month from the temporary investment of X's funds pending distribution to the TIHs. All of *X*'s expenses are affected expenses. The aggregate outstanding principal balance of *X*'s mortgages, *X*'s interest income, and *X*'s expenses, for each month of the 2007 calendar year, along with the aggregate outstanding principal balance of *X* as of January 2008, are as follows:
 
@@ -928,19 +927,19 @@ Example.(i) *Facts* - (A) *In general. X* is a WHMT. *X*'s start-up date is Janu
 
 (B) Trustee determines this information as follows:
 
-(*1*) *Step One: Trustee determines monthly pool factors.* Trustee calculates and provides *X*'s pool factor for each month of the 2007 calendar year. For example, for the month of January 2007 the pool factor is 1.0, which represents the ratio of -
+(*1*) *Step One: Trustee determines monthly pool factors.* Trustee calculates and provides *X*'s pool factor for each month of the 2007 calendar year. For example, for the month of January 2007 the pool factor is 1.0, which represents the ratio of —
 
 (*i*) The amount that represents the aggregate outstanding principal balance of *X* ($12,500,000) as of the first business day of January; divided by
 
 (*ii*) The amount that represents the aggregate outstanding principal balance of X ($12,500,000) as of the start-up day.
 
-(*2*) *Step Two: Trustee determines monthly expense factors.* Trustee calculates and provides the expense factors for each month of the 2007 calendar year. During 2007, *X* has only affected expenses, and therefore, will have only one expense factor for each month. For example, the expense factor for the month of January 2007 is 0.42304000, which represents the ratio of -
+(*2*) *Step Two: Trustee determines monthly expense factors.* Trustee calculates and provides the expense factors for each month of the 2007 calendar year. During 2007, *X* has only affected expenses, and therefore, will have only one expense factor for each month. For example, the expense factor for the month of January 2007 is 0.42304000, which represents the ratio of—
 
 (*i*) The gross amount of expenses paid during January by *X* ($5,288); divided by
 
 (*ii*) The amount that represents the aggregate outstanding principal balance of *X* as of the start-up date ($12,500,000) divided by 1,000 ($12,500).
 
-(*3*) *Step Three: Trustee determines monthly income factors.* Trustee calculates and provides the income factors for each month of the 2007 calendar year. During 2007, *X* has only interest income, and therefore, will have only one income factor for each month. For example, the income factor for the month of January 2007 is 6.04806667, which represents the ratio of -
+(*3*) *Step Three: Trustee determines monthly income factors.* Trustee calculates and provides the income factors for each month of the 2007 calendar year. During 2007, *X* has only interest income, and therefore, will have only one income factor for each month. For example, the income factor for the month of January 2007 is 6.04806667, which represents the ratio of—
 
 (*i*) The gross amount of interest income earned by *X* during January ($75,601); divided by
 
@@ -976,7 +975,7 @@ Example.(i) *Facts* - (A) *In general. X* is a WHMT. *X*'s start-up date is Janu
 
 (*4*) *Step Four: Broker provides market discount information to C.* Broker provides *C* with the market discount fractions calculated and provided by the trustee of *X* under paragraph (g)(3)(ii)(D) of this section.
 
-(h) *Additional safe harbors* - (1) *Temporary safe harbor for WHMTs* - (i) *Application.* Pending the issuance of additional guidance, the safe harbor in this paragraph applies to trustees and middlemen of WHMTs that are not eligible to report under the WHMT safe harbor in paragraph (g) of this section because they hold interests in another WHFIT, in a REMIC, or hold or issue stripped interests.
+(h) *Additional safe harbors*—(1) *Temporary safe harbor for WHMTs*—(i) *Application.* Pending the issuance of additional guidance, the safe harbor in this paragraph applies to trustees and middlemen of WHMTs that are not eligible to report under the WHMT safe harbor in paragraph (g) of this section because they hold interests in another WHFIT, in a REMIC, or hold or issue stripped interests.
 
 (ii) *Safe harbor.* A trustee is deemed to satisfy the requirements of paragraph (c) of this section, if the trustee calculates and provides trust information in a manner that enables a requesting person to provide trust information to a beneficial owner of a trust interest that enables the owner to reasonably accurately report the tax consequences of its ownership of a trust interest on its federal income tax return. Additionally, to be deemed to satisfy the requirements of paragraph (c) of this section, the trustee must calculate and provide trust information regarding market discount and OID by any reasonable manner consistent with section 1272(a)(6). A middleman or a trustee may satisfy its obligation to furnish information to the IRS under paragraph (d) of this section and to the trust interest holder under paragraph (e) of this section by providing information consistent with the information provided under this paragraph by the trustee.
 
@@ -984,11 +983,11 @@ Example.(i) *Facts* - (A) *In general. X* is a WHMT. *X*'s start-up date is Janu
 
 (i) [Reserved]
 
-(j) *Requirement that middlemen furnish information to beneficial owners that are exempt recipients and noncalendar-year beneficial owners* - (1) *In general.* A middleman that holds a trust interest on behalf of, or for the account of, either a beneficial owner that is an exempt recipient defined in paragraph (b)(7) of this section or a noncalendar-year beneficial owner, must provide to such beneficial owner, upon request, the information provided by the trustee to the middleman under paragraph (c) of this section.
+(j) *Requirement that middlemen furnish information to beneficial owners that are exempt recipients and noncalendar-year beneficial owners*—(1) *In general.* A middleman that holds a trust interest on behalf of, or for the account of, either a beneficial owner that is an exempt recipient defined in paragraph (b)(7) of this section or a noncalendar-year beneficial owner, must provide to such beneficial owner, upon request, the information provided by the trustee to the middleman under paragraph (c) of this section.
 
 (2) *Time for providing information.* The middleman must provide the requested information to any beneficial owner making a request under paragraph (h)(1) of this section on or before the later of the 44th day after the close of the calendar year for which the information was requested, or the day that is 28 days after the receipt of the request. A middleman must provide information with respect to a WHFIT holding an interest in another WHFIT, or a WHFIT holding an interest in a REMIC, on or before the later of the 58th day after the close of the calendar year for which the information was requested, or the 42nd day after the receipt of the request.
 
-(3) *Manner of providing information.* The requested information must be provided -
+(3) *Manner of providing information.* The requested information must be provided—
 
 (i) By written statement sent by first class mail to the address provided by the person requesting the information;
 
@@ -1004,7 +1003,7 @@ Example.(i) *Facts* - (A) *In general. X* is a WHMT. *X*'s start-up date is Janu
 
 (l) *Backup withholding requirements.* Every trustee and middleman required to file a Form 1099 under this section is a payor within the meaning of § 31.3406(a)-2, and must backup withhold as required under section 3406 and any regulations thereunder.
 
-(m) *Penalties for failure to comply* - (1) *In general.* Every trustee or middleman who fails to comply with the reporting obligations imposed by this section is subject to penalties under sections 6721, 6722, and any other applicable penalty provisions.
+(m) *Penalties for failure to comply*—(1) *In general.* Every trustee or middleman who fails to comply with the reporting obligations imposed by this section is subject to penalties under sections 6721, 6722, and any other applicable penalty provisions.
 
 (2) *Penalties not imposed on trustees and middlemen of certain WHMTs for failure to report OID.* Penalties will not be imposed as a result of a failure to provide OID information for a WHMT that has a start-up date on or after August 13, 1998 and on or before January 24, 2006, if the trustee of the WHMT does not have the historic information necessary to provide this information and the trustee demonstrates that it has attempted in good faith, but without success, to obtain this information. For purposes of calculating a market discount fraction under paragraph (g)(1)(v) of this section, for a WHMT described in this paragraph, it may be assumed that the WHMT is holding mortgages that were issued without OID. A trustee availing itself of this paragraph must include a statement to that effect when providing information to requesting persons under paragraph (c) of these regulations.
 
