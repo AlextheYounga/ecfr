@@ -1,7 +1,5 @@
 ##### § 830.2 Definitions. #####
 
-Link to an amendment published at 87 FR 42104, July 14, 2022.
-
 As used in this part the following words or phrases are defined as follows:
 
 *Aircraft accident* means an occurrence associated with the operation of an aircraft which takes place between the time any person boards the aircraft with the intention of flight and all such persons have disembarked, and in which any person suffers death or serious injury, or in which the aircraft receives substantial damage. For purposes of this part, the definition of “aircraft accident” includes “unmanned aircraft accident,” as defined herein.
@@ -24,6 +22,6 @@ As used in this part the following words or phrases are defined as follows:
 
 (1) Any person suffers death or serious injury; or
 
-(2) The aircraft has a maximum gross takeoff weight of 300 pounds or greater and sustains substantial damage.
+(2) The aircraft holds an airworthiness certificate and sustains substantial damage.
 
-[53 FR 36982, Sept. 23, 1988, as amended at 60 FR 40112, Aug. 7, 1995; 75 FR 51955, Aug. 24, 2010]
+[53 FR 36982, Sept. 23, 1988, as amended at 60 FR 40112, Aug. 7, 1995; 75 FR 51955, Aug. 24, 2010; 87 FR 42104, July 14, 2022]

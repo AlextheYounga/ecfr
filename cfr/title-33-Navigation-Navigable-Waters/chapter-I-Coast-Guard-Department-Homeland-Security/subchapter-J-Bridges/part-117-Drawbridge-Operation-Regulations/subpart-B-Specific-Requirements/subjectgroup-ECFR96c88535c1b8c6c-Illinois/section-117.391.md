@@ -26,4 +26,6 @@ The draws of the bridges operated by the City of Chicago over the Main Branch of
 
 (f) The Dearborn Street Bridge, mile 1.13, need only operate one leaf for the passage of vessels, while the other leaf is secured to masted navigation for maintenance.
 
-[CGD09-95-023, 60 FR 52311, Oct. 6, 1995, as amended by CGD09-01-148, 67 FR 31729, May 10, 2002; USCG-2019-0366, 84 FR 29804, June 25, 2019; USCG-2020-0034, 86 FR 43915, Aug. 11, 2021; USCG-2022-0035, 87 FR 7946, Feb. 11, 2022]Effective Date Notes:1. By USCG-2022-0035, 87 FR 7946, Feb. 11, 2022, in § 117.391, paragraph (f) was added, effective until Nov. 1, 2022.Effective Date Notes:2. By USCG-2019-0366, 84 FR 29804, June 25, 2019, in § 117.391, paragraph (d) was added, effective until Nov. 13, 2023.
+[CGD09-95-023, 60 FR 52311, Oct. 6, 1995, as amended by CGD09-01-148, 67 FR 31729, May 10, 2002; USCG-2019-0366, 84 FR 29804, June 25, 2019; USCG-2020-0034, 86 FR 43915, Aug. 11, 2021; USCG-2022-0035, 87 FR 7946, Feb. 11, 2022]Effective Date Notes:1. By USCG-2022-0035, 87 FR 7946, Feb. 11, 2022, in § 117.391, paragraph (f) was added, effective until Nov. 1, 2022.
+
+2. By USCG-2019-0366, 84 FR 29804, June 25, 2019, in § 117.391, paragraph (d) was added, effective until Nov. 13, 2023.

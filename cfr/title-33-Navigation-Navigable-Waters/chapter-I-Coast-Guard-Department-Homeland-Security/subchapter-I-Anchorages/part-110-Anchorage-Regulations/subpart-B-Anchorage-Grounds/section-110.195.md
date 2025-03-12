@@ -38,7 +38,7 @@ Point Michel and Diamond Revetments extend/run adjacent to this anchorage. Marin
 
 (12) *Cedar Grove Anchorage.* An area, 1.34 miles in length, along the right descending bank of the river extending from mile 69.56 to mile 70.9 Above Head of Passes. The width of the anchorage is 500 feet. The inner boundary of the anchorage is a line parallel to the nearest bank 200 feet from the water's edge into the river as measured from the LWRP. The outer boundary of the anchorage is a line parallel to the nearest bank 700 feet from the water's edge into the river as measured from the LWRP.
 
-Note 3 to paragraph (*a*)(12):
+Note 3 to paragraph (a)(12):
 
 Jesuit Bend Revetment extends/runs adjacent to the lower portion of this anchorage. Mariners are urged to use caution in this anchorage.
 
@@ -134,7 +134,7 @@ Note 11 to paragraph (a)(37):
 
 Myrtle Grove Revetment extends/runs adjacent to this anchorage. Mariners are urged to use caution in this anchorage.
 
-(b) *Temporary Anchorages.* (1) Temporary anchorages are non-permanent anchorages established by the Commander, Eighth Coast Guard District to provide additional anchorage space. Establishment of temporary anchorages is based on recommendations by the Captain of the Port.
+(b) *Temporary anchorages.* (1) Temporary anchorages are non-permanent anchorages established by the Commander, Eighth Coast Guard District to provide additional anchorage space. Establishment of temporary anchorages is based on recommendations by the Captain of the Port.
 
 (2) Each vessel using temporary anchorages shall anchor as prescribed by the Captain of the Port.
 

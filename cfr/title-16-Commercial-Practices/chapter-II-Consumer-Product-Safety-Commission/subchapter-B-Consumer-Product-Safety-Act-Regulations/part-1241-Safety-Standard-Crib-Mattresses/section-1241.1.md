@@ -1,0 +1,3 @@
+##### § 1241.1 Scope. #####
+
+This part establishes a consumer product safety standard for crib mattresses. The scope of this standard for crib mattresses includes all crib mattresses within the scope of ASTM F2933, *Standard Consumer Safety Specification for Crib Mattresses,* including: Full-size crib mattresses, non-full-size crib mattresses, and after-market mattresses for play yards and non-full-size cribs.

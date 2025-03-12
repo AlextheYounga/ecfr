@@ -60,7 +60,7 @@ Additional and alternative allocations are not included.
 
 *Angular position deviation.* (Cat 2) - The maximum difference between angular position and the actual, very accurately measured angular position after the workpiece mount of the table has been turned out of its initial position. (Reference: VDI/VDE 2617, Draft: “Rotary tables on coordinate measuring machines”).
 
-“APP” See “Adjusted Peak Performance.” This term may also appear without quotation marks.
+*“APP”* See “Adjusted Peak Performance.” This term may also appear without quotation marks.
 
 *Applicant.* The person who applies for an export or reexport license, and who has the authority of a principal party in interest to determine and control the export or reexport of items. See § 748.4 of the EAR and definition for “exporter” in this part of the EAR.
 
@@ -286,7 +286,9 @@ This does not include cases of routing decisions taken on predefined information
 
 *Electronic assembly.* (Cat 4) means a number of electronic components (i.e., ‘circuit elements’, ‘discrete components’, integrated circuits, etc.) connected together to perform (a) specific function(s), replaceable as an entity and normally capable of being disassembled.
 
-*Technical Notes:* 1. ‘Circuit element’: a single active or passive functional part of an electronic circuit, such as one diode, one transistor, one resistor, one capacitor, etc.
+*Technical Notes:*
+
+1. ‘Circuit element’: a single active or passive functional part of an electronic circuit, such as one diode, one transistor, one resistor, one capacitor, etc.
 
 2. ‘Discrete component’: a separately packaged ‘circuit element’ with its own external connections.
 
@@ -445,6 +447,8 @@ This definition does not include a stack of single detector elements or any two,
 *Fundamental research.* See § 734.8 of the EAR.
 
 *Fusible.* (Cat 1) - Capable of being cross-linked or polymerized further (cured) by the use of heat, radiation, catalysts, etc., or that can be melted without pyrolysis (charring).
+
+*Gate-All-Around Field-Effect Transistor (“GAAFET”).* (Cat 3) - A device having a single or multiple semiconductor conduction channel element(s) with a common gate structure that surrounds and controls current in all of the semiconductor conduction channel elements. (*Note:* This definition includes nanosheet or nanowire field-effect and surrounding gate transistors and other “GAAFET” semiconductor channel element structures.)
 
 *General prohibitions.* The 10 prohibitions found in part 736 of the EAR that prohibit certain exports, reexports, and other conduct, subject to the EAR, absent a license, license exception, or determination that no license is required (“NLR”).
 

@@ -1,5 +1,7 @@
 ##### § 1330.24 Selection criteria. #####
 
+Link to an amendment published at 87 FR 50003, Aug. 15, 2022.
+
 In addition to criteria established under § 1330.23(a)(1), the Director may select one or more of the following criteria in evaluating an application:
 
 (a) *Importance of the problem.* In determining the importance of the problem, the Director considers one or more of the following factors:

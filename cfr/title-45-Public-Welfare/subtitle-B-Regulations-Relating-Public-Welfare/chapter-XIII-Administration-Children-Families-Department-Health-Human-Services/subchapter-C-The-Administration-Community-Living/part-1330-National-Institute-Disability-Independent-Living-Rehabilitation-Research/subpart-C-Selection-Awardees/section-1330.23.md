@@ -1,5 +1,7 @@
 ##### § 1330.23 Evaluation process. #####
 
+Link to an amendment published at 87 FR 50003, Aug. 15, 2022.
+
 (a) The Director selects one or more of the selection criteria to evaluate an application:
 
 (1) The Director establishes selection criteria based on statutory provisions that apply to the Program which may include, but are not limited to:

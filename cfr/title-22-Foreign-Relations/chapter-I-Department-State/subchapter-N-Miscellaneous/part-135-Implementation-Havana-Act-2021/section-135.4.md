@@ -1,0 +1,5 @@
+##### § 135.4 Consultation with other agencies. #####
+
+(a) The Department of State will, to the extent possible, consult with the appropriate officials in other federal agencies to identify their current and former covered employees, and current and former dependents who reported an anomalous health incident while working under Chief of Mission authority. This consultation is solely to assist the other agencies in determining who might be initially eligible for payment under the HAVANA Act. The Department of State will not process payment for employees, former employees, or dependents of current or former employees of other agencies.
+
+(b) Under the HAVANA Act, the heads of other employing federal agencies are responsible for prescribing regulations to carry out the HAVANA Act, including regulations for approving any payment.

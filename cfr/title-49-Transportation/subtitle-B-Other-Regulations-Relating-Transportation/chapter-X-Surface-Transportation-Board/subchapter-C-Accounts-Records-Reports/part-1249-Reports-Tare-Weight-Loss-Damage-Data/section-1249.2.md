@@ -1,0 +1,3 @@
+##### § 1249.2 Annual Report of Loss and Damage Data. #####
+
+Class I carriers, either individually or through AAR, shall annually file loss and damage data, as detailed in the Annual Report of Loss and Damage Data, with the Surface Transportation Board's Office of Economics no later than May 31 of each year. Forms and instructions are available at *www.stb.gov* and may also be obtained by contacting the Office of Economics.

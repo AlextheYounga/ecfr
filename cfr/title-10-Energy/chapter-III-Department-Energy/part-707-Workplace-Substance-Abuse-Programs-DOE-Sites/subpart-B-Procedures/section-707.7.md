@@ -1,5 +1,7 @@
 ##### § 707.7 Random drug testing requirements and identification of testing designated positions. #####
 
+Link to an amendment published at 87 FR 49978, Aug. 15, 2022.
+
 (a)(1) Each workplace substance abuse program will provide for random testing for evidence of the use of illegal drugs of employees in testing designated positions identified in this section.
 
 (2) Programs developed under this part for positions identified in paragraph (b)(3) of this section shall provide for random tests at a rate equal to 30 percent of the total number of employees in testing designated positions for each 12 month period. Employees in the positions identified in paragraphs (b)(1), (b)(2), and (c) of this section will be subject to random testing at a rate equal to 100 percent of the total number of employees identified, and those identified in paragraphs (b)(1) and (b)(2) of this section may be subject to additional drug tests.
