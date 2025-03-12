@@ -1,5 +1,7 @@
 ##### § 710.7 Application of the adjudicative guidelines. #####
 
+Link to an amendment published at 82 FR 57107, Dec. 4, 2017.
+
 (a) The decision on an access authorization request is a comprehensive, common-sense judgment, made after consideration of all relevant information, favorable and unfavorable, as to whether the granting or continuation of access authorization will not endanger the common defense and security and is clearly consistent with the national interest. Any doubt as to an individual's access authorization eligibility shall be resolved in favor of the national security.
 
 (b) All such determinations shall be based upon application of the Adjudicative Guidelines, or any successor national standard issued under the authority of the President.

@@ -10,4 +10,4 @@
 
 (3) The average investment per line determined by paragraph (b)(2) of this section shall be multiplied by the number of Consumer Broadband-only Loops in the study area to derive the investment to be shifted from the Special Access category to the Consumer Broadband-only Loop category.
 
-[81 FR 24345, Apr. 25, 2016, as amended at 82 FR 14340, Mar. 20, 2017]Effective Date Note:At 81 FR 24345, Apr. 25, 2016, § 69.311 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[81 FR 24345, Apr. 25, 2016, as amended at 82 FR 14340, Mar. 20, 2017]

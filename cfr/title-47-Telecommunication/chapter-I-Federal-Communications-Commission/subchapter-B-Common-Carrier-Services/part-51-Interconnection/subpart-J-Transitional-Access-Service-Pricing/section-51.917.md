@@ -138,4 +138,4 @@
 
 (4) A Rate-of-Return Carrier must impute an amount equal to the Access Recovery Charge for each Consumer Broadband-Only Loop line that receives support pursuant to § 54.901 of this chapter, with the imputation applied before CAF-ICC recovery is determined. The per line per month imputation amount shall be equal to the Access Recovery Charge amount prescribed by paragraph (e) of this section, consistent with the residential or single-line business or multi-line business status of the retail customer.
 
-[76 FR 73856, Nov. 29, 2011, as amended at 77 FR 14302, Mar. 9, 2012; 78 FR 26268, May 6, 2013; 79 FR 28847, May 20, 2014; 80 FR 15909, Mar. 26, 2015; 81 FR 24337, Apr. 25, 2016]Effective Date Note:At 81 FR 24337, Apr. 25, 2016, § 51.917(f)(4) was added. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[76 FR 73856, Nov. 29, 2011, as amended at 77 FR 14302, Mar. 9, 2012; 78 FR 26268, May 6, 2013; 79 FR 28847, May 20, 2014; 80 FR 15909, Mar. 26, 2015; 81 FR 24337, Apr. 25, 2016]

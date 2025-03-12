@@ -8,4 +8,4 @@
 
 (d) The maximum monthly per line charge for each Consumer Broadband-Only Loop provided by a non-price cap local exchange carrier that elects model-based support pursuant to § 54.311 of this chapter or Alaska Plan support pursuant to § 54.306 of this chapter shall be $42.
 
-[48 FR 10358, Mar. 11, 1983, as amended at 81 FR 24345, Apr. 25, 2016; 81 FR 69716, Oct. 7, 2016]Effective Date Note:At 81 FR 24345, Apr. 25, 2016, § 69.132 was added. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[48 FR 10358, Mar. 11, 1983, as amended at 81 FR 24345, Apr. 25, 2016; 81 FR 69716, Oct. 7, 2016]

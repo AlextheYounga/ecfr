@@ -1,18 +1,18 @@
 ##### § 61.33 Payment of per diem. #####
 
-Link to an amendment published at 82 FR 51160, Nov. 3, 2017.
-
 (a) *General.* VA will pay per diem to the recipient for those homeless veterans:
 
 (1) Who VA referred to the recipient; or
 
 (2) For whom VA authorized the provision of supportive housing or supportive service.
 
-(b) *Rate of payments for individual veterans.* The rate of per diem for each veteran in supportive housing shall be the lesser of:
+(b) *Rate of payments for individual veterans.* Except as provided in paragraph (b)(3) of this section, the rate of per diem for each veteran in supportive housing shall be the lesser of:
 
 (1) The daily cost of care estimated by the per diem recipient minus other sources of payments to the per diem recipient for furnishing services to homeless veterans that the per diem recipient certifies to be correct (other sources include payments and grants from other departments and agencies of the United States, from departments of local and State governments, from private entities or organizations, and from program participants); or
 
 (2) The current VA state home program per diem rate for domiciliary care, as set by the Secretary under 38 U.S.C. 1741(a)(1).
+
+(3) For a veteran who is placed in housing that will become permanent housing for that veteran upon termination of supportive housing services, the rate of payment shall be the lesser of 150 percent of the current VA state home program per diem rate for domiciliary care, as set by the Secretary under 38 U.S.C. 1741(a)(1) or the daily cost of care estimated pursuant to paragraph (b)(1) of this section.
 
 (c) *Rate of payments for service centers.* The per diem amount for service centers shall be1/8 of the lesser of the amount in paragraph (b)(1) or (b)(2) of this section, per hour, not to exceed 8 hours in any day.
 
@@ -28,4 +28,4 @@ Link to an amendment published at 82 FR 51160, Nov. 3, 2017.
 
 (i) At the time of receipt, a per diem recipient must report to VA all other sources of income for the project for which per diem was awarded. The report provides a basis for adjustments to the per diem payment under paragraph (b)(1) of this section.
 
-(Authority: 38 U.S.C. 501, 2012)
+(Authority: 38 U.S.C. 501, 2012)[78 FR 12604, Feb. 25, 2013, as amended at 82 FR 51160, Nov. 3, 2017]

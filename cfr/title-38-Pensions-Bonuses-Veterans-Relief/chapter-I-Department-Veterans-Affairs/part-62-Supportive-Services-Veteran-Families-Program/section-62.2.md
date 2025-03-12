@@ -1,7 +1,5 @@
 ##### § 62.2 Definitions. #####
 
-Link to an amendment published at 82 FR 51160, Nov. 3, 2017.
-
 For purposes of this part and any Notice of Fund Availability issued under this part:
 
 *Applicant* means an eligible entity that submits an application for a supportive services grant announced in a Notice of Fund Availability.
@@ -20,7 +18,7 @@ For purposes of this part and any Notice of Fund Availability issued under this 
 
 *Disallowed costs* means costs charged by a grantee that VA determines to be unallowable based on applicable Federal cost principles, or based on this part or the supportive services grant agreement.
 
-*Eligible child care provider* means a provider of child care services for compensation, including a provider of care for a school-age child during non-school hours, that -
+*Eligible child care provider* means a provider of child care services for compensation, including a provider of care for a school-age child during non-school hours, that—
 
 (1) Is licensed, regulated, registered, or otherwise legally operating, under state and local law; and
 
@@ -94,10 +92,10 @@ For purposes of this part and any Notice of Fund Availability issued under this 
 
 *Very low-income veteran family* means a veteran family whose annual income, as determined in accordance with 24 CFR 5.609, does not exceed 50 percent of the median income for an area or community, as will be adjusted by VA based on family size and as may be adjusted and announced by VA in the Notice of Fund Availability based on residency within an area with unusually high or low construction costs, fair market rents (as determined under section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f)), or family incomes. Unless VA announces otherwise in the Notice of Fund Availability, the median income for an area or community will be determined using the income limits most recently published by the Department of Housing and Urban Development for programs under section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f).
 
-*Veteran* means a person who served in the active military, naval, or air service, and who was discharged or released therefrom under conditions other than dishonorable.
+*Veteran* means a person who served in the active military, naval, or air service, regardless of length of service, and who was discharged or released therefrom. Veteran excludes a person who received a dishonorable discharge from the Armed Forces or was discharged or dismissed from the Armed Forces by reason of the sentence of a general court-martial. The length of service restrictions under 38 U.S.C. 5303A do not apply.
 
 *Veteran family* means a veteran who is a single person or a family in which the head of household, or the spouse of the head of household, is a veteran.
 
 *Withholding* means that payment of a supportive services grant will not be paid until such time as VA determines that the grantee provides sufficiently adequate documentation and/or actions to correct a deficiency for the supportive services grant. Costs for supportive services provided by grantees under the supportive services grant from the date of the withholding letter would be reimbursed only if the grantee is able to submit the documentation or actions that the deficiency has been corrected to the satisfaction of VA.
 
-(Authority: 38 U.S.C. 501, 2044)[75 FR 68979, Nov. 10, 2010, as amended at 80 FR 9610, Feb. 24, 2015]
+(Authority: 38 U.S.C. 501, 2044)[75 FR 68979, Nov. 10, 2010, as amended at 80 FR 9610, Feb. 24, 2015; 82 FR 51160, Nov. 3, 2017]

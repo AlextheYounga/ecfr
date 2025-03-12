@@ -1,0 +1,3 @@
+##### § 583.100 What is BOEM's authority for information collection (IC)? #####
+
+The IC requirements contained in part 583 have been approved by OMB under 44 U.S.C. 3501 and assigned control number 1010-0191. The information is being collected to determine if the applicant for a negotiated noncompetitive agreement (agreement) for the use of sand, gravel, and/or shell resources on the Outer Continental Shelf (OCS) is qualified to enter into such an agreement and to determine if the requested action is warranted. Applicants and parties to an agreement are required to respond to requests related to IC activities.

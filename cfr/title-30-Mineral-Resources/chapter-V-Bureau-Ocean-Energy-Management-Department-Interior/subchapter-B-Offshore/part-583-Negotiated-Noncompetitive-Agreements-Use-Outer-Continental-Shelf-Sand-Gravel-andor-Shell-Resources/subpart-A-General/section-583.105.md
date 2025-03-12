@@ -1,0 +1,3 @@
+##### § 583.105 What is the purpose of this part and to whom does it apply? #####
+
+The regulations in this part provide procedures for entering into negotiated noncompetitive agreements for the use of OCS sand, gravel, and/or shell resources. The rules of this part apply exclusively to negotiated noncompetitive use of OCS sand, gravel, and/or shell resources and do not apply to competitive leasing of minerals, including oil, gas, sulphur, geopressured-geothermal and associated resources, and all other minerals that are authorized by an Act of Congress to be produced from “public lands” as defined in section 103 of the Federal Land Policy and Management Act of 1976, as amended (43 U.S.C. 1701 *et seq.*).
