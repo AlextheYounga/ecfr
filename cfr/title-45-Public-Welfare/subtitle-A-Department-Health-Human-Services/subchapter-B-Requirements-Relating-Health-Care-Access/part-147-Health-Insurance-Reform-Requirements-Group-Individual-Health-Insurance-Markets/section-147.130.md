@@ -1,6 +1,6 @@
 ##### § 147.130 Coverage of preventive health services. #####
 
-(a) *Services* - (1) (1) *In general.* Beginning at the time described in paragraph (b) of this section and subject to §§ 147.131, 147.132, and 147.133, a group health plan, or a health insurance issuer offering group or individual health insurance coverage, must provide coverage for and must not impose any cost-sharing requirements (such as a copayment, coinsurance, or a deductible) for -
+(a) *Services* - (1) *In general.* Beginning at the time described in paragraph (b) of this section and subject to §§ 147.131, 147.132, and 147.133, a group health plan, or a health insurance issuer offering group or individual health insurance coverage, must provide coverage for and must not impose any cost-sharing requirements (such as a copayment, coinsurance, or a deductible) for -
 
 (i) Evidence-based items or services that have in effect a rating of A or B in the current recommendations of the United States Preventive Services Task Force with respect to the individual involved (except as otherwise provided in paragraph (c) of this section);
 

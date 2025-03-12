@@ -1,5 +1,7 @@
 ##### § 665.813 Western Pacific longline fishing restrictions. #####
 
+Link to an amendment published at 83 FR 49496, Oct. 2, 2018.
+
 (a) [*Reserved*]
 
 (b) Limits on sea turtle interactions. (1) Maximum annual limits are established on the number of physical interactions that occur each calendar year between leatherback and North Pacific loggerhead sea turtles and vessels registered for use under Hawaii longline limited access permits while shallow-set fishing. The annual limit for leatherback sea turtles (*Dermochelys coriacea*) is 26, and the annual limit for North Pacific loggerhead sea turtles (*Caretta caretta*) is 34.

@@ -1,7 +1,5 @@
 ##### § 2590.701-2 Definitions. #####
 
-Link to an amendment published at 83 FR 38242, Aug. 3, 2018.
-
 Unless otherwise provided, the definitions in this section govern in applying the provisions of §§ 2590.701 through 2590.734.
 
 *Affiliation period* means a period of time that must expire before health insurance coverage provided by an HMO becomes effective, and during which the HMO is not required to provide benefits.
@@ -100,9 +98,21 @@ Unless otherwise provided, the definitions in this section govern in applying th
 
 *Short-term, limited-duration insurance* means health insurance coverage provided pursuant to a contract with an issuer that:
 
-(1) Has an expiration date specified in the contract (taking into account any extensions that may be elected by the policyholder with or without the issuer's consent) that is less than 3 months after the original effective date of the contract; and
+(1) Has an expiration date specified in the contract that is less than 12 months after the original effective date of the contract and, taking into account renewals or extensions, has a duration of no longer than 36 months in total;
 
-(2) Displays prominently in the contract and in any application materials provided in connection with enrollment in such coverage in at least 14 point type the following: “THIS IS NOT QUALIFYING HEALTH COVERAGE (“MINIMUM ESSENTIAL COVERAGE”) THAT SATISFIES THE HEALTH COVERAGE REQUIREMENT OF THE AFFORDABLE CARE ACT. IF YOU DON'T HAVE MINIMUM ESSENTIAL COVERAGE, YOU MAY OWE AN ADDITIONAL PAYMENT WITH YOUR TAXES.”
+(2) With respect to policies having a coverage start date before January 1, 2019, displays prominently in the contract and in any application materials provided in connection with enrollment in such coverage in at least 14 point type the language in the following Notice 1, excluding the heading “Notice 1,” with any additional information required by applicable state law:
+
+Notice 1:
+
+This coverage is not required to comply with certain federal market requirements for health insurance, principally those contained in the Affordable Care Act. Be sure to check your policy carefully to make sure you are aware of any exclusions or limitations regarding coverage of preexisting conditions or health benefits (such as hospitalization, emergency services, maternity care, preventive care, prescription drugs, and mental health and substance use disorder services). Your policy might also have lifetime and/or annual dollar limits on health benefits. If this coverage expires or you lose eligibility for this coverage, you might have to wait until an open enrollment period to get other health insurance coverage. Also, this coverage is not “minimum essential coverage.” If you don't have minimum essential coverage for any month in 2018, you may have to make a payment when you file your tax return unless you qualify for an exemption from the requirement that you have health coverage for that month.
+
+(3) With respect to policies having a coverage start date on or after January 1, 2019, displays prominently in the contract and in any application materials provided in connection with enrollment in such coverage in at least 14 point type the language in the following Notice 2, excluding the heading “Notice 2,” with any additional information required by applicable state law:
+
+Notice 2:
+
+This coverage is not required to comply with certain federal market requirements for health insurance, principally those contained in the Affordable Care Act. Be sure to check your policy carefully to make sure you are aware of any exclusions or limitations regarding coverage of preexisting conditions or health benefits (such as hospitalization, emergency services, maternity care, preventive care, prescription drugs, and mental health and substance use disorder services). Your policy might also have lifetime and/or annual dollar limits on health benefits. If this coverage expires or you lose eligibility for this coverage, you might have to wait until an open enrollment period to get other health insurance coverage.
+
+(4) If a court holds the 36-month maximum duration provision set forth in paragraph (1) of this definition or its applicability to any person or circumstances invalid, the remaining provisions and their applicability to other people or circumstances shall continue in effect.
 
 *Significant break in coverage* means a *significant break in coverage* within the meaning of § 2590.701-4(b)(2)(iii).
 
@@ -116,4 +126,4 @@ Unless otherwise provided, the definitions in this section govern in applying th
 
 *Waiting period* means *waiting period* within the meaning of § 2590.715-2708(b).
 
-[69 FR 78763, Dec. 30, 2004, as amended at 74 FR 51683, Oct. 7, 2009; 75 FR 37229, June 28, 2010; 79 FR 10308, Feb. 24, 2014; 80 FR 72256, Nov. 18, 2015; 81 FR 75325, Oct. 31, 2016]
+[69 FR 78763, Dec. 30, 2004, as amended at 74 FR 51683, Oct. 7, 2009; 75 FR 37229, June 28, 2010; 79 FR 10308, Feb. 24, 2014; 80 FR 72256, Nov. 18, 2015; 81 FR 75325, Oct. 31, 2016; 83 FR 38242, Aug. 3, 2018]

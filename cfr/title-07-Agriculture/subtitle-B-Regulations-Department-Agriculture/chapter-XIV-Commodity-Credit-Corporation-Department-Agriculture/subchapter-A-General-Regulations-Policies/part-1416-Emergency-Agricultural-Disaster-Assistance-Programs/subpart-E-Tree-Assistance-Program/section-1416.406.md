@@ -1,6 +1,6 @@
 ##### § 1416.406 Payment calculations. #####
 
-(a) Payment to an eligible orchardist or nursery tree grower for the cost of replanting or rehabilitating trees, bushes, or vines damaged or lost due to a natural disaster, in excess of 15 percent damage or mortality (adjusted for normal damage or mortality), will be calculated as follows:
+(a) Once the loss threshold in § 1416.403(a) is satisfied, payment to an eligible orchardist or nursery tree grower for the cost of replanting or rehabilitating trees, bushes, or vines damaged or lost due to a natural disaster, in excess of 15 percent damage or mortality (adjusted for normal damage or mortality), will be calculated as follows:
 
 (1) For the cost of planting seedlings or cuttings, to replace lost trees, bushes, or vines, the lesser of:
 
@@ -14,7 +14,7 @@
 
 (ii) The amount calculated using rates established by the Deputy Administrator for the practice.
 
-(b) An orchardist or nursery tree grower that did not plant the trees, bushes, or vines, but has a production history for commercial purposes on planted or existing trees and lost the trees, bushes, or vines as a result of a natural disaster, in excess of 15 percent damage or mortality (adjusted for normal damage or mortality), will be eligible for the salvage, pruning, and land preparation payment calculation as specified in paragraph (a)(2) of this section. To be eligible for the replanting payment calculation as specified in paragraph (a)(1) of this section, the orchardist or nursery grower who did not plant the stock must be a new owner who meets all of the requirements of § 1416.404(b) or be considered the owner of the trees under provisions appearing elsewhere in this subpart.
+(b) An orchardist or nursery tree grower that did not plant the trees, bushes, or vines, but has a production history for commercial purposes on planted or existing trees and lost the trees, bushes, or vines as a result of a natural disaster, in excess of 15 percent mortality (adjusted for normal mortality), will be eligible for the salvage, pruning, and land preparation payment calculation as specified in paragraph (a)(2) of this section. To be eligible for the replanting payment calculation as specified in paragraph (a)(1) of this section, the orchardist or nursery grower who did not plant the stock must be a new owner who meets all of the requirements of § 1416.404(b) or be considered the owner of the trees under provisions appearing elsewhere in this subpart.
 
 (c) Eligible costs for payment calculation include costs for:
 
@@ -36,14 +36,18 @@
 
 (2) Any other costs not listed in paragraphs (c)(1) through (6) of this section, unless specifically determined eligible by the Deputy Administrator.
 
+(3) Costs or expenses that the eligible orchardist or nursery tree grower did not actually bear or incur because someone or some other entity bore or incurred those costs or expenses, or the costs were reimbursed under another program. For example, if under any other program the expenses are paid for on behalf of the eligible orchardist or nursery tree grower, those expenses are not eligible for cost share under this subpart.
+
 (e) Producers must provide the county committee documentation of actual costs to complete the practices, such as receipts for labor costs, equipment rental, and purchases of seedlings or cuttings.
 
 (f) When lost stands are replanted, the types planted may be different from those originally planted. The alternative types will be eligible for payment if the new types have the same general end use, as determined and approved by the county committee. Payments for alternative types will be based on the lesser of rates established to plant the types actually lost or the cost to establish the alternative used. If the type of plantings, seedlings, or cuttings differs significantly from the types lost, the costs may not be approved for payment.
 
 (g) When lost stands are replanted, the types planted may be planted on the same farm in a different location than the lost stand. To be eligible for payment, site preparation costs for the new location must not exceed the cost to re-establish the original stand in the original location.
 
-(h) Eligible orchardists or nursery tree growers may elect not to replant the entire eligible stand. If so, the county committee will calculate payment based on the number of qualifying trees, bushes, or vines actually replanted.
+(h) Eligible orchardists or nursery tree growers may elect not to replant the entire stand. If so, the county committee will calculate payment based on the number of qualifying trees, bushes, or vines actually replanted.
 
 (i) If a practice, such as site preparation, is needed to both replant and rehabilitate trees, bushes, or vines, the producer must document the expenses attributable to replanting versus rehabilitation. The county committee will determine whether the documentation of expenses detailing the amounts attributable to replanting versus rehabilitation is acceptable. In the event that the county committee determines the documentation does not include acceptable detail of cost allocation, the county committee will pro-rate payment based on physical inspection of the loss, damage, replanting, and rehabilitation.
 
-(j) The cumulative total quantity of acres planted to trees, bushes, or vines for which a producer may receive payment under this part for losses that occurred on or after October 1, 2011, can not exceed 500 acres per program year.
+(j) The cumulative total quantity of acres planted to trees, bushes, or vines for which a producer may receive payment under this part for losses that occurred on or after October 1, 2011, can not exceed 1,000 acres per program year.
+
+[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49472, Oct. 2, 2018]

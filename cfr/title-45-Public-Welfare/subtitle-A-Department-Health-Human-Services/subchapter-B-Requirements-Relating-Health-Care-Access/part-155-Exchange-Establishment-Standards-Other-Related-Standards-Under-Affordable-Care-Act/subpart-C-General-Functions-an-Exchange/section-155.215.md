@@ -148,4 +148,4 @@
 
 (i) *Prohibition on compensation per enrollment.* Beginning November 15, 2014, Navigators and Non-Navigator assistance personnel carrying out consumer assistance functions under §§ 155.205(d) and (e) and 155.210, if operating in an Exchange operated by HHS during the exercise of its authority under § 155.105(f), are prohibited from providing compensation to individual Navigators or non-Navigator assistance personnel on a per-application, per-individual-assisted, or per-enrollment basis.
 
-[78 FR 42859, July 17, 2013, as amended at 79 FR 30344, May 27, 2014; 80 FR 10865, Feb. 27, 2015; 81 FR 12338, Mar. 8, 2016; 83 FR 17061, Apr. 17, 2018]
+[78 FR 42859, July 17, 2013, as amended at 79 FR 30344, May 27, 2014; 81 FR 12338, Mar. 8, 2016; 83 FR 17061, Apr. 17, 2018]

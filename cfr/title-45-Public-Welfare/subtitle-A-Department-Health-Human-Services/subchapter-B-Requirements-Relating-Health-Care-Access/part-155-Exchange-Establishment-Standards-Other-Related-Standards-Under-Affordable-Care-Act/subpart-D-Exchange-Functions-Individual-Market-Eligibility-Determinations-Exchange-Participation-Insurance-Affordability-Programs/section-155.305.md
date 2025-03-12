@@ -114,4 +114,4 @@
 
 (ii) Section 5000A(e)(5) of the Code (relating to individuals with hardships).
 
-[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 42315, July 15, 2013; 81 FR 94177, Dec. 22, 2016; 83 FR 17061, Apr. 17, 2018]
+[77 FR 18444, Mar. 27, 2012, as amended at 78 FR 15533, Mar. 11, 2013; 78 FR 42315, July 15, 2013; 83 FR 17061, Apr. 17, 2018]
