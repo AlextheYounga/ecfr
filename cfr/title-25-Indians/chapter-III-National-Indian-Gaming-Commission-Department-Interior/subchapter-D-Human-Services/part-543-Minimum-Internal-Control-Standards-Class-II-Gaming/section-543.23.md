@@ -1,5 +1,7 @@
 ##### § 543.23 What are the minimum internal control standards for audit and accounting? #####
 
+Link to an amendment published at 83 FR 65509, Dec. 21, 2018.
+
 (a) *Conflicts of standards.* When establishing SICS, the gaming operation should review, and consider incorporating, other external standards such as GAAP, GAAS, and standards promulgated by GASB and FASB. In the event of a conflict between the MICS and the incorporated external standards, the external standards prevail.
 
 (b) *Accounting.* Controls must be established and procedures implemented to safeguard assets and ensure each gaming operation:

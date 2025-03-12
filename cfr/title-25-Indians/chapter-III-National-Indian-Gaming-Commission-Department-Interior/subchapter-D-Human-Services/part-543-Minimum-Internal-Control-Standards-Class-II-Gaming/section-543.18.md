@@ -1,5 +1,7 @@
 ##### § 543.18 What are the minimum internal control standards for the cage, vault, kiosk, cash and cash equivalents? #####
 
+Link to an amendment published at 83 FR 65509, Dec. 21, 2018.
+
 (a) *Supervision.* Supervision must be provided as needed for cage, vault, kiosk, and other operations using cash or cash equivalents by an agent(s) with authority equal to or greater than those being supervised.
 
 (b) *Check cashing.* (1) If checks are cashed at the cage, the controls must provide for security and integrity. For each check cashing transaction, the agent(s) conducting the transaction must:

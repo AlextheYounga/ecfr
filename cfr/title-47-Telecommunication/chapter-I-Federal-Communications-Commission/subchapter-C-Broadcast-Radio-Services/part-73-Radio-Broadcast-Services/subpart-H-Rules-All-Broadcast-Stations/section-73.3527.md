@@ -1,5 +1,7 @@
 ##### § 73.3527 Local public inspection file of noncommercial educational stations. #####
 
+Link to an amendment published at 83 FR 65558, Dec. 21, 2018.
+
 (a) *Responsibility to maintain a file.* The following shall maintain for public inspection a file containing the material set forth in this section.
 
 (1) Applicants for a construction permit for a new station in the noncommercial educational broadcast services shall maintain a public inspection file containing the material, relating to that station, described in paragraph (e)(2) and (e)(11) of this section. A separate file shall be maintained for each station for which an application is pending. If the application is granted, paragraph (a)(2) of this section shall apply.

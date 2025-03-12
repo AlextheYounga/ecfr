@@ -1,7 +1,5 @@
 ##### § 73.37 Requirements for physical protection of irradiated reactor fuel in transit. #####
 
-Link to an amendment published at 83 FR 58723, Nov. 21, 2018.
-
 (a) *Performance objectives.* (1) Each licensee who transports, or delivers to a carrier for transport, in a single shipment, a quantity of irradiated reactor fuel1 in excess of 100 grams (0.22 lbs) in net weight of irradiated fuel, exclusive of cladding or other structural or packaging material, which has a total external radiation dose rate in excess of 1 Gy (100 rad) per hour at a distance of 1 meter (3.3 feet) from any accessible surface without intervening shielding, shall establish and maintain, or make arrangements for, and assure the proper implementation of, a physical protection system for shipments of such material that will achieve the following objectives:
 
 1 For purposes of 10 CFR 73.37, the terms “irradiated reactor fuel” and “spent nuclear fuel” are used interchangeably.
@@ -104,7 +102,7 @@ Link to an amendment published at 83 FR 58723, Nov. 21, 2018.
 
 (iv) *Revision notice.* A licensee shall notify by telephone a responsible individual in the office of the governor or in the office of the governor's designee and the office of the Tribal official or in the office of the Tribal official's designee of any schedule change that differs by more than 6 hours from the schedule information previously furnished under paragraph (b)(2)(iii) of this section, and shall inform that individual of the number of hours of advance or delay relative to the written schedule information previously furnished.
 
-(v) *Cancellation notice.* Each licensee who cancels a shipment for which advance notification has been sent shall send a cancellation notice to the governor or to the governor's designee of each State previously notified, each Tribal official or the Tribal official's designee previously notified, and to the NRC's Director, Division of Security Policy, Office of Nuclear Security and Incident Response, U.S. Nuclear Regulatory Commission, Washington, DC 20555. The licensee shall state in the notice that it is a cancellation and identify the advance notification that is being canceled.
+(v) *Cancellation notice.* Each licensee who cancels a shipment for which advance notification has been sent shall send a cancellation notice to the governor or to the governor's designee of each State previously notified, each Tribal official or the Tribal official's designee previously notified, and to the NRC's Director, Office of Nuclear Security and Incident Response, U.S. Nuclear Regulatory Commission, Washington, DC 20555. The licensee shall state in the notice that it is a cancellation and identify the advance notification that is being canceled.
 
 (vi) *Records.* The licensee shall retain a copy of the preplanning and coordination activities, advance notification, and any revision or cancellation notice as a record for 3 years under § 73.70 of this part.
 
@@ -202,4 +200,4 @@ Link to an amendment published at 83 FR 58723, Nov. 21, 2018.
 
 (g) State officials, State employees, Tribal officials, Tribal employees, and other individuals, whether or not licensees of the NRC, who receive information of the kind specified in paragraph (b)(2)(iii) of this section and any other Safeguards Information as defined in § 73.22(a) of this part shall protect that information against unauthorized disclosure as specified in §§ 73.21 and 73.22 of this part.
 
-[78 FR 29550, May 20, 2013, as amended at 79 FR 75741, Dec. 19, 2014; 80 FR 74981, Dec. 1, 2015; 83 FR 30288, June 28, 2018]
+[78 FR 29550, May 20, 2013, as amended at 79 FR 75741, Dec. 19, 2014; 80 FR 74981, Dec. 1, 2015; 83 FR 30288, June 28, 2018; 83 FR 58723, Nov. 21, 2018]

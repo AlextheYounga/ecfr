@@ -2,7 +2,7 @@
 
 (a) *Regulated areas.* The following areas, denoted by coordinates fixed using the North American Datum of 1983 (World Geodetic System 1984) are security zones:
 
-(1) *Security zones for facilities and structures* - (i) *Rattlesnake, Tampa, FL.* All water, from surface to bottom, in Old Tampa Bay east and south of the waters encompassed within position 27°53.32′ N, 082°32.05′ W; thence to 27°53.38′ N, 082°32.05′ W, including on land portions of Chemical Formulators Chlorine Facility, where the fenced area is bounded by a line connecting the following points: 27°53.21′ N, 082°32.11′ W; thence to 27°53.22′ N, 082°32.23′ W; thence to 27°53.25′ N, 082°32.23′ W; thence to 27°53.25′ N, 082°32.27′ W; thence to 27°53.29′ N, 82°32.25′ W; thence to 27°53.30′ N, 082°32.16′ W; thence to 27°53.21′ N, 082°32.11′ W.
+(1) *Security zones for facilities and structures*—(i) *Rattlesnake, Tampa, FL.* All water, from surface to bottom, in Old Tampa Bay east and south of the waters encompassed within position 27°53.32′ N, 082°32.05′ W; thence to 27°53.38′ N, 082°32.05′ W, including on land portions of Chemical Formulators Chlorine Facility, where the fenced area is bounded by a line connecting the following points: 27°53.21′ N, 082°32.11′ W; thence to 27°53.22′ N, 082°32.23′ W; thence to 27°53.25′ N, 082°32.23′ W; thence to 27°53.25′ N, 082°32.27′ W; thence to 27°53.29′ N, 82°32.25′ W; thence to 27°53.30′ N, 082°32.16′ W; thence to 27°53.21′ N, 082°32.11′ W.
 
 (ii) *Old Port Tampa, Tampa, FL.* All waters, from surface to bottom, in Old Tampa Bay encompassed within the following points: 27°51.62′ N, 082°33.14′ W; thence to 27°51.71′ N, 082°32.5′ W; thence to 27°51.76′ N, 082°32.5′ W; thence to 27°51.73′ N, 082°33.16′ W; thence to 27°51.62′ N, 082°33.14′ W, closing off the Old Port Tampa Channel.
 
@@ -26,7 +26,7 @@
 
 (xii) *Weedon Island Power Plant, FL.* All waters of Tampa Bay, from surface to bottom, extending 50 yards from the shore, seawall and piers around the Power Facility at Weedon Island encompassed by the following points: 27°51.52′ N, 082°35.82′ W; thence along the shore to; 27°51.54′ N, 082°35.78′ W; thence to 27°51.89′ N, 082°35.82′ W; thence to 27°51.89′ N, 082°36.14′ W, closing off the entrance to both canals.
 
-(2) *Vessel specific security zones* - (i) *Moving security zones for Cruise Ships and vessels carrying Especially Hazardous Cargos.* The following security zones and procedures are established for all waters, from surface to bottom, within a 500-yard radius, as outlined below:
+(2) *Vessel specific security zones*—(i) *Moving security zones for Cruise Ships and vessels carrying Especially Hazardous Cargos.* The following security zones and procedures are established for all waters, from surface to bottom, within a 500-yard radius, as outlined below:
 
 (A) For inbound vessels commencing at Egmont Channel Lighted Buoys “9” (LLNR 22270) and “10” (LLNR 22275) through to berth.
 

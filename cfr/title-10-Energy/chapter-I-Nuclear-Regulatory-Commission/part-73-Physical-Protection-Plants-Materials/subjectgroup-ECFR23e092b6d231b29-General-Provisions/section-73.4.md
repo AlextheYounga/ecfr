@@ -1,10 +1,8 @@
 ##### § 73.4 Communications. #####
 
-Link to an amendment published at 83 FR 58723, Nov. 21, 2018.
-
 Except where otherwise specified, all communications and reports concerning the regulations in this part and applications filed under them should be sent as follows:
 
-(a) By mail addressed to: ATTN: Document Control Desk, Director, Office of Nuclear Reactor Regulation, Director, Office of New Reactors, Director, Office of Nuclear Material Safety and Safeguards, or Director, Division of Security Policy, Office of Nuclear Security and Incident Response, as appropriate, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001;
+(a) By mail addressed to: ATTN: Document Control Desk, Director, Office of Nuclear Reactor Regulation, Director, Office of New Reactors, Director, Office of Nuclear Material Safety and Safeguards, or Director, Office of Nuclear Security and Incident Response, as appropriate, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001;
 
 (b) By hand delivery to the NRC's offices at 11555 Rockville Pike, Rockville, Maryland;
 
@@ -12,4 +10,4 @@ Except where otherwise specified, all communications and reports concerning the 
 
 (d) Classified communications shall be transmitted to the NRC Headquarters' classified mailing address as specified in appendix A to part 73 of this chapter or delivered by hand in accordance with this paragraph.
 
-[68 FR 58819, Oct. 10, 2003, as amended at 73 FR 5725, Jan. 31, 2008; 74 FR 62684, Dec. 1, 2009; 80 FR 74981, Dec. 1, 2015]
+[68 FR 58819, Oct. 10, 2003, as amended at 73 FR 5725, Jan. 31, 2008; 74 FR 62684, Dec. 1, 2009; 80 FR 74981, Dec. 1, 2015; 83 FR 58723, Nov. 21, 2018]

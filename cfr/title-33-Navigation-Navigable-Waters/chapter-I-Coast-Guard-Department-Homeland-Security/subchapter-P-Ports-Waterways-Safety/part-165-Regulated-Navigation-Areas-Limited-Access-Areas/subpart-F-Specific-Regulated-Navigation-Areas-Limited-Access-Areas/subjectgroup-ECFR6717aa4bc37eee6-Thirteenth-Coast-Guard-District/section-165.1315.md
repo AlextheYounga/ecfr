@@ -1,7 +1,5 @@
 ##### § 165.1315 Safety Zone; Annual Fireworks Displays within the Sector Columbia River Captain of the Port Zone. #####
 
-Link to an amendment published at 83 FR 62261, Dec. 3, 2018.
-
 (a) *Safety zones.* The following areas are designated safety zones: Waters of the Columbia River and its tributaries, waters of the Siuslaw River, Yaquina River, Umpqua River, Clatskanie River, Tillamook Bay and waters of the Washington and Oregon Coasts, within a 450 yard radius of the launch site at the approximate locations listed in the following table:
 
 |                  Event name  <br/>(typically)                  |Event  <br/>location|        Date of event         | Latitude  |  Longitude  |

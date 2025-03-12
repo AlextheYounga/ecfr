@@ -20,7 +20,7 @@
 
 (viii) 252.225-7042, Authorization to Perform.
 
-(ix) 252.225-7049, Prohibition on Acquisition of Commercial Satellite Services from Certain Foreign Entities - Representations.
+(ix) 252.225-7049, Prohibition on Acquisition of Certain Foreign Commercial Satellite Services - Representations.
 
 (x) 252.225-7050, Disclosure of Ownership or Control by the Government of a Country that is a State Sponsor of Terrorism.
 
@@ -30,4 +30,4 @@
 
 (xiii) 252.247-7022, Representation of Extent of Transportation by Sea.
 
-[76 FR 58141, Sept. 20, 2011, as amended at 77 FR 19129, Mar. 30, 2012; 77 FR 35879, June 15, 2012; 78 FR 37983, June 25, 2013; 78 FR 40043, July 3, 2013; 79 FR 45664, Aug. 5, 2014; 79 FR 51264, Aug. 28, 2014; 79 FR 73489, Dec. 11, 2014; 80 FR 5000, Jan. 29, 2015; 83 FR 24888, May 30, 2018]
+[76 FR 58141, Sept. 20, 2011, as amended at 77 FR 19129, Mar. 30, 2012; 77 FR 35879, June 15, 2012; 78 FR 37983, June 25, 2013; 78 FR 40043, July 3, 2013; 79 FR 45664, Aug. 5, 2014; 79 FR 51264, Aug. 28, 2014; 79 FR 73489, Dec. 11, 2014; 80 FR 5000, Jan. 29, 2015; 83 FR 24888, May 30, 2018; 83 FR 66071, Dec. 21, 2018]

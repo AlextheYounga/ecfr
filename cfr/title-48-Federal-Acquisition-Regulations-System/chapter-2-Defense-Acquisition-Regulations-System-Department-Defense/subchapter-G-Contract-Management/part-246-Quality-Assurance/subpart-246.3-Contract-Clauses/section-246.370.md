@@ -1,25 +1,13 @@
-##### 246.370 Material inspection and receiving report. #####
+##### 246.370 Notification of potential safety issues. #####
 
-(a) Use the clause at 252.246-7000, Material Inspection and Receiving Report, in solicitations and contracts when there will be separate and distinct deliverables, even if the deliverables are not separately priced.
+(a) Use the clause at 252.246-7003, Notification of Potential Safety Issues, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial items, for the acquisition of -
 
-(b) When contract administration is retained by the contracting office, the clause at 252.246-7000, Material Inspection and Receiving Report, is not required for -
+(1) Repairable or consumable parts identified as critical safety items;
 
-(1) Contracts awarded using simplified acquisition procedures;
+(2) Systems and subsystems, assemblies, and subassemblies integral to a system; or
 
-(2) Negotiated subsistence contracts;
+(3) Repair, maintenance, logistics support, or overhaul services for systems and subsystems, assemblies, subassemblies, and parts integral to a system.
 
-(3) Contracts for fresh milk and related fresh dairy products;
+(b) Follow the procedures at PGI 246.370 for the handling of notifications received under the clause at 252.246-7003.
 
-(4) Contracts for which the deliverable is a scientific or technical report;
-
-(5) Research and development contracts not requiring the delivery of separately priced end items;
-
-(6) Base, post, camp, or station contracts;
-
-(7) Contracts in overseas areas when the preparation and distribution of the DD Form 250, Material Inspection and Receiving Report, by the contractor would not be practicable. In these cases, arrange for the contractor to provide the information necessary for the contracting office to prepare the DD Form 250;
-
-(8) Contracts for services when hardware is not acquired as an item in the contract; and
-
-(9) Indefinite delivery type contracts placed by central contracting offices which authorize only base, post, camp, or station activities to issue orders.
-
-[56 FR 36460, July 31, 1991, as amended at 64 FR 2598, Jan. 15, 1999]
+[72 FR 2636, Jan. 22, 2007, as amended at 78 FR 37989, June 25, 2013. Redesignated and amended at 83 FR 66064, Dec. 21, 2018]

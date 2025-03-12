@@ -1,10 +1,8 @@
 ##### § 95.9 Communications. #####
 
-Link to an amendment published at 83 FR 58724, Nov. 21, 2018.
-
 Except where otherwise specified, all communications and reports concerning the regulations in this part should be submitted as follows:
 
-(a) By mail addressed to: ATTN: Document Control Desk, Director, Division of Security Operations, Office of Nuclear Security and Incident Response, U.S Nuclear Regulatory Commission, Washington, DC 20555-0001;
+(a) By mail addressed to: ATTN: Document Control Desk, Director, Office of Nuclear Security and Incident Response, U.S Nuclear Regulatory Commission, Washington, DC 20555-0001;
 
 (b) By hand delivery to the NRC's offices at 11555 Rockville Pike, Rockville, Maryland; or
 
@@ -12,4 +10,4 @@ Except where otherwise specified, all communications and reports concerning the 
 
 (d) Classified communications shall be transmitted in accordance with § 95.39 of this chapter to the NRC Headquarters' classified mailing address listed in appendix A to part 73 of this chapter or delivered by hand in accordance with § 95.39 of this chapter to the NRC Headquarters' street address listed in appendix A to part 73 of this chapter.
 
-[68 FR 58823, Oct. 10, 2003, as amended at 74 FR 62685, Dec. 1, 2009]
+[68 FR 58823, Oct. 10, 2003, as amended at 74 FR 62685, Dec. 1, 2009; 83 FR 58723, Nov. 21, 2018]

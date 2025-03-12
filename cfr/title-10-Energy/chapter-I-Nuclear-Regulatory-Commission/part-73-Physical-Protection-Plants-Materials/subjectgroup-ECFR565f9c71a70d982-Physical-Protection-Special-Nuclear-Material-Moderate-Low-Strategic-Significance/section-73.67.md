@@ -1,7 +1,5 @@
 ##### § 73.67 Licensee fixed site and in-transit requirements for the physical protection of special nuclear material of moderate and low strategic significance. #####
 
-Link to an amendment published at 83 FR 58723, Nov. 21, 2018.
-
 (a) *General performance objectives.* (1) Each licensee who possesses, uses or transports special nuclear material of moderate or low strategic significance shall establish and maintain a physical protection system that will achieve the following objectives:
 
 (i) Minimize the possibilities for unauthorized removal of special nuclear material consistent with the potential consequences of such actions; and
@@ -112,7 +110,7 @@ Link to an amendment published at 83 FR 58723, Nov. 21, 2018.
 
 (i) The shipper shall provide to the Commission, upon request, such additional information regarding a planned shipment as the Commission considers pertinent to the decision on whether to delay such shipment.
 
-(ii) The receiver of each shipment, or the shipper if the receiver is not a licensee, shall notify the Director, Division of Security Policy, Office of Nuclear Security and Incident Response, by telephone, no later than 24 hours after arrival of such shipment at its final destination, or after such shipment has left the United States as an export, to confirm the integrity of the shipment at the time of receipt or exit from the United States.
+(ii) The receiver of each shipment, or the shipper if the receiver is not a licensee, shall notify the Director, Division of Physical and Cyber Security Policy, Office of Nuclear Security and Incident Response, by telephone, no later than 24 hours after arrival of such shipment at its final destination, or after such shipment has left the United States as an export, to confirm the integrity of the shipment at the time of receipt or exit from the United States.
 
 (iii) The Commission shall notify the affected shippers no later than two days before the scheduled shipment date that a given shipment is to be delayed.
 
@@ -166,4 +164,4 @@ Link to an amendment published at 83 FR 58723, Nov. 21, 2018.
 
 (ii) Notify the person who delivered the material to a carrier for transport of the arrival of such material.
 
-[44 FR 43283, July 24, 1979. Redesignated at 44 FR 68198, Nov. 28, 1979, as amended at 45 FR 19215, Mar. 25, 1980; 47 FR 19114, May 4, 1982; 52 FR 21657, June 9, 1987; 53 FR 19260, May 27, 1988; 57 FR 33431, July 29, 1992, 59 FR 14087, Mar. 25, 1994; 67 FR 3586, Jan. 25, 2002; 67 FR 78143, Dec. 23, 2002; 68 FR 14530, Mar. 26, 2003; 68 FR 23575, May 5, 2003; 73 FR 32463, June 9, 2008; 74 FR 62684, Dec. 1, 2009]
+[44 FR 43283, July 24, 1979. Redesignated at 44 FR 68198, Nov. 28, 1979, as amended at 45 FR 19215, Mar. 25, 1980; 47 FR 19114, May 4, 1982; 52 FR 21657, June 9, 1987; 53 FR 19260, May 27, 1988; 57 FR 33431, July 29, 1992, 59 FR 14087, Mar. 25, 1994; 67 FR 3586, Jan. 25, 2002; 67 FR 78143, Dec. 23, 2002; 68 FR 14530, Mar. 26, 2003; 68 FR 23575, May 5, 2003; 73 FR 32463, June 9, 2008; 74 FR 62684, Dec. 1, 2009; 83 FR 58723, Nov. 21, 2018]

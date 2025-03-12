@@ -1,5 +1,7 @@
 ##### § 383.25 Commercial learner's permit (CLP). #####
 
+Link to an amendment published at 83 FR 65571, Dec. 21, 2018.
+
 (a) A CLP is considered a valid CDL for purposes of behind-the-wheel training on public roads or highways, if all of the following minimum conditions are met:
 
 (1) The CLP holder is at all times accompanied by the holder of a valid CDL who has the proper CDL group and endorsement(s) necessary to operate the CMV. The CDL holder must at all times be physically present in the front seat of the vehicle next to the CLP holder or, in the case of a passenger vehicle, directly behind or in the first row behind the driver and must have the CLP holder under observation and direct supervision.

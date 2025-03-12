@@ -1,5 +1,7 @@
 ##### § 543.17 What are the minimum internal control standards for drop and count? #####
 
+Link to an amendment published at 83 FR 65508, Dec. 21, 2018.
+
 (a) *Supervision.* Supervision must be provided for drop and count as needed by an agent(s) with authority equal to or greater than those being supervised.
 
 (b) *Count room access.* Controls must be established and procedures implemented to limit physical access to the count room to count team agents, designated staff, and other authorized persons. Such controls must include the following:

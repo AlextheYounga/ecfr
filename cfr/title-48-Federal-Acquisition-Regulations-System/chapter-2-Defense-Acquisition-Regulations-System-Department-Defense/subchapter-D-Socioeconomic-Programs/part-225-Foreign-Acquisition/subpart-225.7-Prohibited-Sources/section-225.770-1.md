@@ -1,11 +1,17 @@
 ##### 225.770-1 Definitions. #####
 
-As used in this section -
+As used in this section—
 
-(a) *Communist Chinese military company* and *United States Munitions List* are defined in the clause at 252.225-7007, Prohibition on Acquisition of United States Munitions List Items from Communist Chinese Military Companies.
+*Component* means an item that is useful only when used in conjunction with an end item (15 CFR 772.1 and 22 CFR 120.45(b)).
 
-(b) *Component* means an item that is useful only when used in conjunction with an end item (22 CFR 121.8).
+*Item* means—
 
-(c) *Part* means any single unassembled element of a major or minor component, accessory, or attachment, that is not normally subject to disassembly without the destruction or impairment of design use (22 CFR 121.8).
+(1) A USML defense article, as defined at 22 CFR 120.6;
 
-[71 FR 53046, Sept. 8, 2006]
+(2) A USML defense service, as defined at 22 CFR 120.9; or
+
+(3) A 600 series item, as defined at 15 CFR 772.1.
+
+*Part* means any single unassembled element of a major or minor component, accessory, or attachment, that is not normally subject to disassembly without the destruction or impairment of designed use (15 CFR 772.1 and 22 CFR 120.45(d)).
+
+[83 FR 66072, Dec. 21, 2018]

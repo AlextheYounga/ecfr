@@ -2,7 +2,7 @@
 
 As prescribed in 204.1202, use the following provision:
 
-Alternate A, Annual Representations and Certifications (JAN 2015)
+Alternate A, Annual Representations and Certifications (DEC 2018)
 
 Substitute the following paragraphs (d) and (e) for paragraph (d) of the provision at FAR 52.204-8:
 
@@ -16,7 +16,7 @@ Substitute the following paragraphs (d) and (e) for paragraph (d) of the provisi
 
 (iv) 252.225-7042, Authorization to Perform. Applies to all solicitations when performance will be wholly or in part in a foreign country.
 
-(v) 252.225-7049, Prohibition on Acquisition of Commercial Satellite Services from Certain Foreign Entities - Representations. Applies to solicitations for the acquisition of commercial satellite services.
+(v) 252.225-7049, Prohibition on Acquisition of Certain Foreign Commercial Satellite Services - Representations. Applies to solicitations for the acquisition of commercial satellite services.
 
 (vi) 252.225-7050, Disclosure of Ownership or Control by the Government of a Country that is a State Sponsor of Terrorism. Applies to all solicitations expected to result in contracts of $150,000 or more.
 
@@ -38,4 +38,4 @@ Substitute the following paragraphs (d) and (e) for paragraph (d) of the provisi
 
 Any changes provided by the offeror are applicable to this solicitation only, and do not result in an update to the representations and certifications posted on ORCA.
 
-(End of provision)[76 FR 58141, Sept. 20, 2011, as amended at 76 FR 71464, Nov. 18, 2011; 77 FR 19130, Mar. 30, 2012; 77 FR 30357, May 22, 2012; 77 FR 35881, June 15, 2012; 77 FR 43470, July 24, 2012; 78 FR 28758, May 16, 2013; 78 FR 30232, May 22, 2013; 79 FR 17446, Mar. 28, 2014; 79 FR 45664, Aug. 5, 2014; 79 FR 73490, Dec. 11, 2014; 80 FR 5001, Jan. 29, 2015]
+(End of provision)[76 FR 58141, Sept. 20, 2011, as amended at 76 FR 71464, Nov. 18, 2011; 77 FR 19130, Mar. 30, 2012; 77 FR 30357, May 22, 2012; 77 FR 35881, June 15, 2012; 77 FR 43470, July 24, 2012; 78 FR 28758, May 16, 2013; 78 FR 30232, May 22, 2013; 79 FR 17446, Mar. 28, 2014; 79 FR 45664, Aug. 5, 2014; 79 FR 73490, Dec. 11, 2014; 80 FR 5001, Jan. 29, 2015; 83 FR 66073, Dec. 21, 2018]

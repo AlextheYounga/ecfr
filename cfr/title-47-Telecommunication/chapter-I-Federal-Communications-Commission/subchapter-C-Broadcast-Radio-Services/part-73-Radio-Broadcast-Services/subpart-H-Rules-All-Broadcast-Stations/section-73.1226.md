@@ -1,5 +1,7 @@
 ##### § 73.1226 Availability to FCC of station logs and records. #####
 
+Link to an amendment published at 83 FR 65557, Dec. 21, 2018.
+
 The following shall be made available to any authorized representative of the FCC upon request:
 
 (a) Station records and logs shall be made available for inspection or duplication at the request of the FCC or its representative. Such logs or records may be removed from the licensee's possession by an FCC representative or, upon request, shall be mailed by the licensee to the FCC by either registered mail, return receipt requested, or certified mail, return receipt requested. The return receipt shall be retained by the licensee as part of the station records until such records or logs are returned to the licensee. A receipt shall be furnished when the logs or records are removed from the licensee's possession by an FCC representative and this receipt shall be retained by the licensee as part of the station records until such records or logs are returned to the licensee. When the FCC has no further need for such records or logs, they shall be returned to the licensee. The provisions of this rule shall apply solely to those station logs and records which are required to be maintained by the provisions of this chapter.

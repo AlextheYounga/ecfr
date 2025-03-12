@@ -1,12 +1,10 @@
 ##### § 70.5 Communications. #####
 
-Link to an amendment published at 83 FR 58723, Nov. 21, 2018.
-
 (a) Unless otherwise specified or covered under the regional licensing program as provided in paragraph (b) of this section, any communication or report concerning the regulations in this part and any application filed under these regulations may be submitted to the Commission as follows:
 
-(1) By mail addressed to: ATTN: Document Control Desk, Director, Office of Nuclear Material Safety and Safeguards or Director, Division of Security Policy, Office of Nuclear Security and Incident Response, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001.
+(1) By mail addressed to: ATTN: Document Control Desk, Director, Office of Nuclear Material Safety and Safeguards or Director, Office of Nuclear Security and Incident Response, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001.
 
-(2) By hand delivery to the Director, Office of Nuclear Material Safety and Safeguards or Director, Division of Security Policy, Office of Nuclear Security and Incident Response at the NRC's offices at 11555 Rockville Pike, Rockville, Maryland.
+(2) By hand delivery to the Director, Office of Nuclear Material Safety and Safeguards or Director, Office of Nuclear Security and Incident Response at the NRC's offices at 11555 Rockville Pike, Rockville, Maryland.
 
 (3) Where practicable, by electronic submission, for example, via Electronic Information Exchange, and CD-ROM. Electronic submissions must be made in a manner that enables the NRC to receive, read, authenticate, distribute, and archive the submission, and process and retrieve it a single page at a time. Detailed guidance on making electronic submissions can be obtained by visiting the NRC's Web site at *http://www.nrc.gov/site-help/e-submittals.html*; by e-mail to *MSHD.Resource@nrc.gov*; or by writing the Office of the Chief Information Officer, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001. The guidance discusses, among other topics, the formats the NRC can accept, the use of electronic signatures, and the treatment of nonpublic information.
 

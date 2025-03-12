@@ -1,7 +1,5 @@
 ##### § 37.81 Reporting of events. #####
 
-Link to an amendment published at 83 FR 58723, November 21, 2018.
-
 (a) The shipping licensee shall notify the appropriate LLEA and the NRC's Operations Center (301-816-5100) within 1 hour of its determination that a shipment of category 1 quantities of radioactive material is lost or missing. The appropriate LLEA would be the law enforcement agency in the area of the shipment's last confirmed location. During the investigation required by § 37.79(c), the shipping licensee will provide agreed upon updates to the NRC's Operations Center on the status of the investigation.
 
 (b) The shipping licensee shall notify the NRC's Operations Center (301-816-5100) within 4 hours of its determination that a shipment of category 2 quantities of radioactive material is lost or missing. If, after 24 hours of its determination that the shipment is lost or missing, the radioactive material has not been located and secured, the licensee shall immediately notify the NRC's Operations Center.
@@ -14,7 +12,7 @@ Link to an amendment published at 83 FR 58723, November 21, 2018.
 
 (f) The shipping licensee shall notify the NRC's Operations Center (301-816-5100) as soon as possible upon recovery of any lost or missing category 2 quantities of radioactive material.
 
-(g) The initial telephonic notification required by paragraphs (a) through (d) of this section must be followed within a period of 30 days by a written report submitted to the NRC by an appropriate method listed in § 37.7. A written report is not required for notifications on suspicious activities required by paragraphs (c) and (d) of this section. In addition, the licensee shall provide one copy of the written report addressed to the Director, Division of Security Policy, Office of Nuclear Security and Incident Response, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001. The report must set forth the following information:
+(g) The initial telephonic notification required by paragraphs (a) through (d) of this section must be followed within a period of 30 days by a written report submitted to the NRC by an appropriate method listed in § 37.7. A written report is not required for notifications on suspicious activities required by paragraphs (c) and (d) of this section. The report must set forth the following information:
 
 (1) A description of the licensed material involved, including kind, quantity, and chemical and physical form;
 
@@ -27,3 +25,5 @@ Link to an amendment published at 83 FR 58723, November 21, 2018.
 (5) Procedures or measures that have been, or will be, adopted to ensure against a recurrence of the loss or theft of licensed material.
 
 (h) Subsequent to filing the written report, the licensee shall also report any additional substantive information on the loss or theft within 30 days after the licensee learns of such information.
+
+[78 FR 17007, Mar. 19, 2013, as amended at 83 FR 58723, Nov. 21, 2018]

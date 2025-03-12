@@ -1,6 +1,6 @@
 ##### 252.246-7003 Notification of Potential Safety Issues. #####
 
-As prescribed in 246.371(a), use the following clause:
+As prescribed in 246.370(a), use the following clause:
 
 Notification of Potential Safety Issues (JUN 2013)
 
@@ -58,4 +58,4 @@ Notification of Potential Safety Issues (JUN 2013)
 
 (ii) The ACO and the PCO, if the subcontractor is aware of the ACO and the PCO for the contract.
 
-(End of clause)[72 FR 2636, Jan. 22, 2007, as amended at 78 FR 37991, June 25, 2013]
+(End of clause)[72 FR 2636, Jan. 22, 2007, as amended at 78 FR 37991, June 25, 2013; 83 FR 66065, Dec. 21, 2018]

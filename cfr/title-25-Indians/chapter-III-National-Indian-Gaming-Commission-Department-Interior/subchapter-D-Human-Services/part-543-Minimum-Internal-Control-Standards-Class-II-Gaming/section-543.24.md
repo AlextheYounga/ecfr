@@ -1,5 +1,7 @@
 ##### § 543.24 What are the minimum internal control standards for auditing revenue? #####
 
+Link to an amendment published at 83 FR 65509, Dec. 21, 2018.
+
 (a) *Supervision.* Supervision must be provided as needed for bingo operations by an agent(s) with authority equal to or greater than those being supervised.
 
 (b) *Independence.* Audits must be performed by agent(s) independent of the transactions being audited.

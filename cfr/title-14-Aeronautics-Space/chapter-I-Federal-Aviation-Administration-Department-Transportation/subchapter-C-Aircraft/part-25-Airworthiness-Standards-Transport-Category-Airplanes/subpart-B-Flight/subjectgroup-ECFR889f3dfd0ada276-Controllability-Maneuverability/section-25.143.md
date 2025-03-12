@@ -1,6 +1,6 @@
 ##### § 25.143 General. #####
 
-(a) The airplane must be safely controllable and maneuverable during -
+(a) The airplane must be safely controllable and maneuverable during—
 
 (1) Takeoff;
 
@@ -12,7 +12,7 @@
 
 (5) Landing.
 
-(b) It must be possible to make a smooth transition from one flight condition to any other flight condition without exceptional piloting skill, alertness, or strength, and without danger of exceeding the airplane limit-load factor under any probable operating conditions, including -
+(b) It must be possible to make a smooth transition from one flight condition to any other flight condition without exceptional piloting skill, alertness, or strength, and without danger of exceeding the airplane limit-load factor under any probable operating conditions, including—
 
 (1) The sudden failure of the critical engine;
 
@@ -22,18 +22,20 @@
 
 (c) The airplane must be shown to be safely controllable and maneuverable with the most critical of the ice accretion(s) appropriate to the phase of flight as defined in Appendices C and O of this part, as applicable, in accordance with § 25.21(g), and with the critical engine inoperative and its propeller (if applicable) in the minimum drag position:
 
+(1) At the minimum V2 for takeoff;
+
 (2) During an approach and go-around; and
 
 (3) During an approach and landing.
 
 (d) The following table prescribes, for conventional wheel type controls, the maximum control forces permitted during the testing required by paragraph (a) through (c) of this section:
 
-|            Force, in pounds, applied to the control wheel or rudder pedals            |Pitch|Roll|Yaw|
-|---------------------------------------------------------------------------------------|-----|----|---|
-|For short term application for pitch and roll control - two hands available for control| 75  | 50 |   |
-|For short term application for pitch and roll control - one hand available for control | 50  | 25 |   |
-|                      For short term application for yaw control                       |     |    |150|
-|                               For long term application                               | 10  | 5  |20 |
+|           Force, in pounds, applied to the control wheel or rudder pedals           |Pitch|Roll|Yaw|
+|-------------------------------------------------------------------------------------|-----|----|---|
+|For short term application for pitch and roll control—two hands available for control| 75  | 50 |   |
+|For short term application for pitch and roll control—one hand available for control | 50  | 25 |   |
+|                     For short term application for yaw control                      |     |    |150|
+|                              For long term application                              | 10  | 5  |20 |
 
 (e) Approved operating procedures or conventional operating practices must be followed when demonstrating compliance with the control force limitations for short term application that are prescribed in paragraph (d) of this section. The airplane must be in trim, or as near to being in trim as practical, in the preceding steady flight condition. For the takeoff condition, the airplane must be trimmed according to the approved operating procedures.
 
@@ -43,20 +45,17 @@
 
 (h) The maneuvering capabilities in a constant speed coordinated turn at forward center of gravity, as specified in the following table, must be free of stall warning or other characteristics that might interfere with normal maneuvering:
 
-|Configuration|       Speed       |Maneuvering bank angle in a coordinated turn|          Thrust/power setting          |
-|-------------|-------------------|--------------------------------------------|----------------------------------------|
-|   Takeoff   |        V2         |                    30°                     |  Asymmetric WAT-Limited.<sup>1</sup>   |
-|   Takeoff   |<sup>2</sup>V2 + XX|                    40°                     |All-engines-operating climb.<sup>3</sup>|
-|  En route   |       VFTO        |                    40°                     |  Asymmetric WAT-Limited.<sup>1</sup>   |
-|   Landing   |       VREF        |                    40°                     |  Symmetric for −3° flight path angle.  |
+|                                                                                                                                                                                   Configuration                                                                                                                                                                                    |                  Speed                  |Maneuvering bank angle in a coordinated turn|          Thrust/power setting           |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|--------------------------------------------|-----------------------------------------|
+|                                                                                                                                                                                      Takeoff                                                                                                                                                                                       |         V <sub><em>2</em></sub>         |                    30°                     |  Asymmetric WAT-Limited. <sup>1</sup>   |
+|                                                                                                                                                                                      Takeoff                                                                                                                                                                                       |<sup>2</sup> V <sub><em>2</em></sub> + XX|                    40°                     |All-engines-operating climb. <sup>3</sup>|
+|                                                                                                                                                                                      En route                                                                                                                                                                                      |        V <sub><em>FTO</em></sub>        |                    40°                     |  Asymmetric WAT-Limited. <sup>1</sup>   |
+|                                                                                                                                                                                      Landing                                                                                                                                                                                       |        V <sub><em>REF</em></sub>        |                    40°                     |  Symmetric for −3° flight path angle.   |
+|                                                                                          <sup>1</sup> A combination of weight, altitude, and temperature (WAT) such that the thrust or power setting produces the minimum climb gradient specified in § 25.121 for the flight condition.                                                                                           |                                         |                                            |                                         |
+|                                                                                                                                                      <sup>2</sup> Airspeed approved for all-engines-operating initial climb.                                                                                                                                                       |                                         |                                            |                                         |
+|<sup>3</sup> That thrust or power setting which, in the event of failure of the critical engine and without any crew action to adjust the thrust or power of the remaining engines, would result in the thrust or power specified for the takeoff condition at V<sub>2</sub>, or any lesser thrust or power setting that is used for all-engines-operating initial climb procedures.|                                         |                                            |                                         |
 
-<sup>1</sup> A combination of weight, altitude, and temperature (WAT) such that the thrust or power setting produces the minimum climb gradient specified in § 25.121 for the flight condition.
-
-<sup>2</sup> Airspeed approved for all-engines-operating initial climb.
-
-<sup>3</sup> That thrust or power setting which, in the event of failure of the critical engine and without any crew action to adjust the thrust or power of the remaining engines, would result in the thrust or power specified for the takeoff condition at V2, or any lesser thrust or power setting that is used for all-engines-operating initial climb procedures.
-
-(i) When demonstrating compliance with § 25.143 in icing conditions -
+(i) When demonstrating compliance with § 25.143 in icing conditions—
 
 (1) Controllability must be demonstrated with the most critical of the ice accretion(s) for the particular flight phase as defined in Appendices C and O of this part, as applicable, in accordance with § 25.21(g);
 

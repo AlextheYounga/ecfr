@@ -1,5 +1,7 @@
 ##### § 73.3613 Filing of contracts. #####
 
+Link to an amendment published at 83 FR 65558, Dec. 21, 2018.
+
 Each licensee or permittee of a commercial or noncommercial AM, FM, TV or International broadcast station shall file with the FCC copies of the following contracts, instruments, and documents together with amendments, supplements, and cancellations (with the substance of oral contracts reported in writing), within 30 days of execution thereof:
 
 (a) Network service: Network affiliation contracts between stations and networks will be reduced to writing and filed as follows:

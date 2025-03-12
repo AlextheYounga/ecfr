@@ -1,8 +1,6 @@
 ##### § 40.66 Requirements for advance notice of export shipments of natural uranium. #####
 
-Link to an amendment published at 83 FR 58723, November 21, 2018.
-
-(a) Each licensee authorized to export natural uranium, other than in the form of ore or ore residue, in amounts exceeding 500 kilograms, shall notify the Director, Division of Security Policy, Office of Nuclear Security and Incident Response, by an appropriate method listed in § 40.5.
+(a) Each licensee authorized to export natural uranium, other than in the form of ore or ore residue, in amounts exceeding 500 kilograms, shall notify the Director, Office of Nuclear Security and Incident Response, by an appropriate method listed in § 40.5.
 
 The notification must be in writing and must be received at least 10 days before transport of the shipment commences at the shipping facility.
 
@@ -16,8 +14,8 @@ The notification must be in writing and must be received at least 10 days before
 
 (4) The estimated date and time that shipment will commence and that each nation (other than the United States) along the route is scheduled to be entered; and
 
-(5) A certification that arrangements have been made to notify the Division of Security Policy, Office of Nuclear Security and Incident Response when the shipment is received at the receiving facility.
+(5) A certification that arrangements have been made to notify the Director, Office of Nuclear Security and Incident Response when the shipment is received at the receiving facility.
 
-(c) A licensee who needs to amend a notification may do so by telephoning the Division of Security Policy, Office of Nuclear Security and Incident Response, at the numbers for the NRC Headquarters Operations Center listed in Appendix A to part 73 of this chapter.
+(c) A licensee who needs to amend a notification may do so by telephoning the Director, Office of Nuclear Security and Incident Response, at the numbers for the NRC Headquarters Operations Center listed in Appendix A to part 73 of this chapter.
 
-[52 FR 9651, Mar. 26, 1987, as amended at 53 FR 4110, Feb. 12, 1988; 60 FR 24551, May 9, 1995; 68 FR 58808, Oct. 10, 2003; 69 FR 76600, Dec. 22, 2004; 74 FR 62681, Dec. 1, 2009]
+[52 FR 9651, Mar. 26, 1987, as amended at 53 FR 4110, Feb. 12, 1988; 60 FR 24551, May 9, 1995; 68 FR 58808, Oct. 10, 2003; 69 FR 76600, Dec. 22, 2004; 74 FR 62681, Dec. 1, 2009; 83 FR 58723, Nov. 21, 2018]

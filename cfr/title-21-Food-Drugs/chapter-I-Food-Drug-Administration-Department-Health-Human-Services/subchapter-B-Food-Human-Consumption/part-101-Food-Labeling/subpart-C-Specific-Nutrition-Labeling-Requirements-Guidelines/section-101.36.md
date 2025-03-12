@@ -12,7 +12,7 @@
 
 (A) The names and the quantitative amounts by weight of each (b)(2)-dietary ingredient shall be presented under the heading “Amount Per Serving.” When the quantitative amounts by weight are presented in a separate column, the heading may be centered over a column of quantitative amounts, described by paragraph (b)(2)(ii) of this section, if space permits. A heading consistent with the declaration of the serving size, such as “Each Tablet Contains,” or “Amount Per 2 Tablets” may be used in place of the heading “Amount Per Serving.” Other appropriate terms, such as capsule, packet, or teaspoonful, also may be used in place of the term “Serving.”
 
-(B) The names of dietary ingredients that are declared under paragraph (b)(2)(i) of this section shall be presented in a column aligned on the left side of the nutritional label in the order and manner of indentation specified in § 101.9(c), except that calcium and iron shall follow choline, and sodium and potassium shall follow chloride. This results in the following order for vitamins and minerals: Vitamin A, vitamin C, vitamin D, vitamin E, vitamin K, thiamin, riboflavin, niacin, vitamin B6, folate and folic acid, vitamin B12, biotin, pantothenic acid, choline, calcium, iron, phosphorous, iodine, magnesium, zinc, selenium, copper, manganese, chromium, molybdenum, chloride, sodium, potassium, and fluoride. The (b)(2)-dietary ingredients shall be listed according to the nomenclature specified in § 101.9 or in paragraph (b)(2)(i)(B)(*2*) of this section.
+(B) The names of dietary ingredients that are declared under paragraph (b)(2)(i) of this section shall be presented in a column aligned on the left side of the nutritional label in the order and manner of indentation specified in § 101.9(c), except that calcium and iron shall follow choline, and sodium and potassium shall follow chloride. This results in the following order for vitamins and minerals: Vitamin A, vitamin C, vitamin D, vitamin E, vitamin K, thiamin, riboflavin, niacin, vitamin B6, folate and folic acid, vitamin B12, biotin, pantothenic acid, choline, calcium, iron, phosphorus, iodine, magnesium, zinc, selenium, copper, manganese, chromium, molybdenum, chloride, sodium, potassium, and fluoride. The (b)(2)-dietary ingredients shall be listed according to the nomenclature specified in § 101.9 or in paragraph (b)(2)(i)(B)(*2*) of this section.
 
 (*1*) When “Calories” are declared, they shall be listed first in the column of names, beneath a light bar separating the heading “Amount Per Serving” from the list of names. When “Calories from saturated fat” are declared, they shall be indented under “Calories.”
 
@@ -24,7 +24,7 @@
 
 (A) The amounts shall be expressed in the increments specified in § 101.9(c)(1) through (7), which includes increments for sodium.
 
-(B) The amounts of vitamins and minerals, excluding sodium and potassium, shall be the amount of the vitamin or mineral included in one serving of the product, using the units of measurement and the levels of significance given in § 101.9(c)(8)(iv), except that zeros following decimal points may be dropped, and additional levels of significance may be used when the number of decimal places indicated is not sufficient to express lower amounts (*e.g.,* the RDI for zinc is given in whole milligrams (mg), but the quantitative amount may be declared in tenths of a mg). The amount of vitamin D may, but is not required to, be expressed in IUs, in addition to the mandatory declaration in mcg. Any declaration of the amount of vitamin D in IUs must appear in parentheses after the declaration of the amount of vitamin D in mcg.
+(B) The amounts of vitamins and minerals, excluding sodium, shall be the amount of the vitamin or mineral included in one serving of the product, using the units of measurement and the levels of significance given in § 101.9(c)(8)(iv), except that zeros following decimal points may be dropped, and additional levels of significance may be used when the number of decimal places indicated is not sufficient to express lower amounts (*e.g.,* the RDI for zinc is given in whole milligrams (mg), but the quantitative amount may be declared in tenths of a mg). The amount of vitamin D may, but is not required to, be expressed in IUs, in addition to the mandatory declaration in mcg. Any declaration of the amount of vitamin D in IUs must appear in parentheses after the declaration of the amount of vitamin D in mcg.
 
 (iii) The percent of the Daily Value of all dietary ingredients declared under paragraph (b)(2)(i) of this section shall be listed, except that the percent Daily Value for protein, when present, shall be calculated using the corrected amount of protein as specified in § 101.9(c)(7)(ii); no percent of the Daily Value shall be given for subcomponents for which DRVs or RDIs have not been established (*e.g.,* total sugars). Additionally, the percentage of the RDI for protein shall be omitted when a food is purported to be for infants through 12 months of age.
 
@@ -74,7 +74,7 @@
 
 (3) Representations that the source ingredient conforms to an official compendium may be included either in the nutrition label or in the ingredient list (e.g., “Calcium (as calcium carbonate USP)”).
 
-(e) Except as provided for small and intermediate sized packages under paragraph (i)(2) of this section, information other than the title, headings, and footnotes shall be in uniform type size no smaller than 8 point. A font size at least two points greater shall be used for “Calories” and the heading “Calories” and the actual number of calories per serving shall be highlighted in bold or extra bold type. Type size no smaller than 6 point may be used for column headings (*e.g.,* “Amount Per Serving” and “% Daily Value”) and for footnotes (*e.g.,* “Percent Daily Values are based on a 2,000 calorie diet).
+(e) Except as provided for small and intermediate sized packages under paragraph (h)(3)(i)(2) of this section, information other than the title, headings, and footnotes shall be in uniform type size no smaller than 8 point. Type size no smaller than 6 point may be used for column headings (*e.g.,* “Amount Per Serving” and “% Daily Value”) and for footnotes (*e.g.,* “Percent Daily Values are based on a 2,000 calorie diet”).
 
 (1) The title, “Supplement Facts,” shall be set in a type size larger than all other print size in the nutrition label and, unless impractical, shall be set full width of the nutrition label. The title and all headings shall be bolded to distinguish them from other information.
 
@@ -120,7 +120,7 @@
 
 (12) If space is not adequate to list the required information as shown in the sample labels in paragraph (e)(11) of this section, the list may be split and continued to the right as long as the headings are repeated. The list to the right must be set off by a line that distinguishes it and sets it apart from the dietary ingredients and percent of Daily Value information given to the left. The following sample label illustrates this display:
 
-![](/graphics/er27my16.017.gif)
+![](/graphics/er21de18.016.gif)
 
 (f)(1) Compliance with this section will be determined in accordance with § 101.9(g)(1) through (g)(8), (g)(10), and (g)(11), except that the sample for analysis shall consist of a composite of 12 subsamples (consumer packages) or 10 percent of the number of packages in the same inspection lot, whichever is smaller, randomly selected to be representative of the lot. The criteria on class I and class II nutrients given in § 101.9(g)(3) and (g)(4) also are applicable to other dietary ingredients described in paragraph (b)(3)(i) of this section. Reasonable excesses over labeled amounts are acceptable within current good manufacturing practice.
 
@@ -158,4 +158,18 @@
 
 (j) Dietary supplements shall be subject to the misbranding provisions of § 101.9(k).
 
-[62 FR 49849, Sept. 23, 1997, as amended at 63 FR 30620, June 5, 1998; 66 FR 56035, Nov. 6, 2001; 71 FR 51726, Aug. 31, 2006; 71 FR 74791, Dec. 13, 2006; 81 FR 33994, May 27, 2016]
+[62 FR 49849, Sept. 23, 1997, as amended at 63 FR 30620, June 5, 1998; 66 FR 56035, Nov. 6, 2001; 71 FR 51726, Aug. 31, 2006; 71 FR 74791, Dec. 13, 2006; 81 FR 33994, May 27, 2016; 83 FR 65502, Dec. 21, 2018]Editorial Note:At 83 FR 65502, Dec. 21, 2018, § 101.36 was amended by revising paragraphs (e)(11)(ii) and (iv); however, the amendment could not be incorporated for technical reasons. For the convenience of the user, the revised text is set forth as follows:
+
+##### § 101.36 Nutrition labeling of dietary supplements. #####
+
+(e) \* \* \*
+
+(11) \* \* \*
+
+(ii) Multiple vitamins for children and adults (excludes Servings Per Container which is stated in the net quantity of contents declaration):
+
+![](/graphics/er21de18.014.gif)
+
+(iv) Dietary supplement containing dietary ingredients with and without RDIs and DRVs:
+
+![](/graphics/er21de18.015.gif)

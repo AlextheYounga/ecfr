@@ -1,7 +1,5 @@
 ##### § 71.97 Advance notification of shipment of irradiated reactor fuel and nuclear waste. #####
 
-Link to an amendment published at 83 FR 58723, Nov. 21, 2018.
-
 (a)(1) As specified in paragraphs (b), (c), and (d) of this section, each licensee shall provide advance notification to the governor of a State, or the governor's designee, of the shipment of licensed material, within or across the boundary of the State, before the transport, or delivery to a carrier, for transport, of licensed material outside the confines of the licensee's plant or other place of use or storage.
 
 (2) As specified in paragraphs (b), (c), and (d) of this section, after June 11, 2013, each licensee shall provide advance notification to the Tribal official of participating Tribes referenced in paragraph (c)(3)(iii) of this section, or the official's designee, of the shipment of licensed material, within or across the boundary of the Tribe's reservation, before the transport, or delivery to a carrier, for transport, of licensed material outside the confines of the licensee's plant or other place of use or storage.
@@ -26,7 +24,7 @@ Link to an amendment published at 83 FR 58723, Nov. 21, 2018.
 
 (ii) The office of each appropriate Tribal official or Tribal official's designee; and
 
-(iii) The Director, Division of Security Policy, Office of Nuclear Security and Incident Response.
+(iii) The Director, Office of Nuclear Security and Incident Response.
 
 (2) A notification delivered by mail must be postmarked at least 7 days before the beginning of the 7-day period during which departure of the shipment is estimated to occur.
 
@@ -56,8 +54,8 @@ Link to an amendment published at 83 FR 58723, Nov. 21, 2018.
 
 (e) *Revision notice.* A licensee who finds that schedule information previously furnished to a governor or governor's designee or a Tribal official or Tribal official's designee, in accordance with this section, will not be met, shall telephone a responsible individual in the office of the governor of the State or of the governor's designee or the Tribal official or the Tribal official's designee and inform that individual of the extent of the delay beyond the schedule originally reported. The licensee shall maintain a record of the name of the individual contacted for 3 years.
 
-(f) *Cancellation notice.* (1) Each licensee who cancels an irradiated reactor fuel or nuclear waste shipment for which advance notification has been sent shall send a cancellation notice to the governor of each State or to the governor's designee previously notified, each Tribal official or to the Tribal official's designee previously notified, and to the Director, Division of Security Policy, Office of Nuclear Security and Incident Response.
+(f) *Cancellation notice.* (1) Each licensee who cancels an irradiated reactor fuel or nuclear waste shipment for which advance notification has been sent shall send a cancellation notice to the governor of each State or to the governor's designee previously notified, each Tribal official or to the Tribal official's designee previously notified, and to the Director, Office of Nuclear Security and Incident Response.
 
 (2) The licensee shall state in the notice that it is a cancellation and identify the advance notification that is being canceled. The licensee shall retain a copy of the notice as a record for 3 years.
 
-[60 FR 50264, Sept. 28, 1995, as amended at 67 FR 3586, Jan. 25, 2002; 68 FR 14529, Mar. 26, 2003; 68 FR 23575, May 5, 2003; 68 FR 58818, Oct. 10, 2003; 74 FR 62683, Dec. 1, 2009; 75 FR 73945, Nov. 30, 2010; 77 FR 34204, June 11, 2012; 78 FR 17021, Mar. 19, 2013; 79 FR 75741, Dec. 19, 2014; 80 FR 74981, Dec. 1, 2015; 83 FR 30288, June 28, 2018]
+[60 FR 50264, Sept. 28, 1995, as amended at 67 FR 3586, Jan. 25, 2002; 68 FR 14529, Mar. 26, 2003; 68 FR 23575, May 5, 2003; 68 FR 58818, Oct. 10, 2003; 74 FR 62683, Dec. 1, 2009; 75 FR 73945, Nov. 30, 2010; 77 FR 34204, June 11, 2012; 78 FR 17021, Mar. 19, 2013; 79 FR 75741, Dec. 19, 2014; 80 FR 74981, Dec. 1, 2015; 83 FR 30288, June 28, 2018; 83 FR 58723, Nov. 21, 2018]

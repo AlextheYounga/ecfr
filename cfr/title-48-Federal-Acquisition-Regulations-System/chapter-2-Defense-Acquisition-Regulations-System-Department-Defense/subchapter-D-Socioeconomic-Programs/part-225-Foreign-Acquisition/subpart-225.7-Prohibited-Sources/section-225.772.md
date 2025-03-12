@@ -1,1 +1,1 @@
-##### 225.772 Prohibition on acquisition of commercial satellite services from certain foreign entities. #####
+##### 225.772 Prohibition on acquisition of certain foreign commercial satellite services. #####

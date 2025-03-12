@@ -10,14 +10,14 @@ Although mandatory participation in VTS Port Arthur is limited to the area withi
 
 Table 161.70(b) - VTS Port Arthur Precautionary Areas
 
-|        Precautionary area name         | Radius |                                                  Center point  <br/>latitude                                                  |Center point  <br/>longitude|
-|----------------------------------------|--------|-------------------------------------------------------------------------------------------------------------------------------|----------------------------|
-|        Petco Bend<sup>(1)</sup>        |2000 yds|                                                         30°00.80′ N.                                                          |        93°57.60′ W.        |
-|       Black Bayou<sup>(1)</sup>        |2000 yds|                                                         30°00.00′ N.                                                          |        93°46.20′ W.        |
-|        Orange Cut<sup>(1)</sup>        |2000 yds|                                                         30°03.25′ N.                                                          |        93°43.20′ W.        |
-|Neches River Intersection<sup>(1)</sup> |2000 yds|                                                         29°58.10′ N.                                                          |        93°51.25′ W.        |
-|Texaco Island Intersection<sup>(1)</sup>|2000 yds|                                                         29°49.40′ N.                                                          |        94°57.55′ W.        |
-|         Sabine-Neches Waterway         |  N/A   |All waters of the Sabine-Neches Waterway between the Texaco Island Precautionary Area and the Humble Island Precautionary Area.|                            |
+|   Precautionary area name    | Radius |                                                  Center point  <br/>latitude                                                  |Center point  <br/>longitude|
+|------------------------------|--------|-------------------------------------------------------------------------------------------------------------------------------|----------------------------|
+|        Petco Bend (1)        |2000 yds|                                                         30°00.80′ N.                                                          |        93°57.60′ W.        |
+|       Black Bayou (1)        |2000 yds|                                                         30°00.00′ N.                                                          |        93°46.20′ W.        |
+|        Orange Cut (1)        |2000 yds|                                                         30°03.25′ N.                                                          |        93°43.20′ W.        |
+|Neches River Intersection (1) |2000 yds|                                                         29°58.10′ N.                                                          |        93°51.25′ W.        |
+|Texaco Island Intersection (1)|2000 yds|                                                         29°49.40′ N.                                                          |        94°57.55′ W.        |
+|    Sabine-Neches Waterway    |  N/A   |All waters of the Sabine-Neches Waterway between the Texaco Island Precautionary Area and the Humble Island Precautionary Area.|                            |
 
 <sup>1</sup> Precautionary Area encompasses a circular area of the radius denoted around the center point with the exception of the Sabine-Neches Waterway.
 

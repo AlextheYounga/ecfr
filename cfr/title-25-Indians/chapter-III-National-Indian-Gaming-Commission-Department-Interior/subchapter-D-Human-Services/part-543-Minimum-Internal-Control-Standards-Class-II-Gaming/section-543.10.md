@@ -1,5 +1,7 @@
 ##### § 543.10 What are the minimum internal control standards for card games? #####
 
+Link to an amendment published at 83 FR 65508, Dec. 21, 2018.
+
 (a) *Supervision.* Supervision must be provided as needed during the card room operations by an agent(s) with authority equal to or greater than those being supervised.
 
 (1) A supervisor may function as a dealer without any other supervision if disputes are resolved by supervisory personnel independent of the transaction or independent of the card games department; or
